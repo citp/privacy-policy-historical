@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thirdage.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606053851id_/http%3A//thirdage.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thirdage.com privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229235236id_/http%3A//thirdage.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><head>
     <title>Privacy Policy | thirdAGE | healthy living  for women + their families</title>
@@ -12,15 +12,22 @@
         <link rel="canonical" href="http://thirdage.com">
         <link rel="shortcut icon" href="http://thirdage-assets.thirdage.com/field/image/thirdage-favicon2.png">
 
+        <!-- typekit fonts -->
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=120236528068816"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://use.typekit.net/ngx5ybr.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
 		<link href="http://thirdage.com/wp-content/themes/3rdAge/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="http://thirdage.com/wp-content/themes/3rdAge/css/mark.css" rel="stylesheet" media="screen">
-		<link href="http://thirdage.com/wp-content/themes/3rdAge/style.css?v=1.0033" type="text/css" rel="stylesheet" media="screen, projection">
+		<link href="http://thirdage.com/wp-content/themes/3rdAge/style.css?v=1.0066" type="text/css" rel="stylesheet" media="screen, projection">
+<!--		<link href="--><!--?v=1.0062" type="text/css" rel="stylesheet" media="screen, projection" />-->
+        <link rel="stylesheet" href="http://thirdage.com/wp-content/themes/3rdAge/owlcarousel/dist/assets/owl.carousel.min.css">
+
 
         
         
         <!-- TERM:  -->
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=120236528068816"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
+<script type="text/javascript">
 
     // medium (organic, referral, direct)
     window.ap_ref_type = [];
@@ -53,25 +60,6 @@
     })();
 </script>
 
-<!-- Krux O&O code  XXXX -->
-<script>window.Krux || ((Krux = function () {
-        Krux.q.push(arguments)
-    }).q = []);
-    (function () {
-        function retrieve(n) {
-            var m, v, k = "kxadprime_" + n;
-            if (window.localStorage)return window.localStorage[k] || ""; else if (navigator.cookieEnabled) {
-                m = document.cookie.match(k + "=([^;]*)");
-                return m && unescape(m[1]) || ""
-            } else return ""
-        }
-
-        Krux.user = retrieve("user");
-        Krux.segments = retrieve("segs") ? retrieve("segs").split(",") : []
-    })();
-</script>
-
-
 <script type="text/javascript">
     window['defined_slots'] = false;
 
@@ -83,12 +71,14 @@
 
     //defines viewability object
     (function() {
-        var viewableImps= 0, pageViewable = false;
+        var viewableImps= 0, pageViewable = false, firstTime = true;
 
         window.apViewability = {
 
             timeoutVar: null,
-
+            gptAdSlots:[],
+            googletag: null,
+            timeRefreshed: null,
             ids: {},
 
             // an array of funcitons to be called once the page is completely viewable
@@ -114,15 +104,41 @@
                     viewableImps++;
                 }
 
-                if(Object.keys(this.ids).length == viewableImps){
-                    this.triggerViewableState();
+                if(Object.keys(this.ids).length == viewableImps) {
+                    var timeSinceRefresh = new Date() - window.apViewability.timeRefreshed;
+                    if (!firstTime && !window.ap_slideshow_video_ended) {
+
+                        if (timeSinceRefresh < 3000) {
+                            var timeoutTime = 3000 - timeSinceRefresh;
+
+                            setTimeout(function () {
+                                window.apViewability.triggerViewableState();
+                            }, timeoutTime)
+                        } else {
+                            window.apViewability.triggerViewableState();
+                        }
+
+                    }else if(window.ap_slideshow_video_ended){
+                        setTimeout(function () {
+                            window.apViewability.triggerViewableState();
+                        }, 1000)
+                    }else{
+                        firstTime = false;
+                        window.apViewability.triggerViewableState();
+                    }
+
                 }
 
                 clearTimeout(this.timeoutVar);
-                //in case an ad does not display
-                this.timeoutVar = setTimeout(function(){
-                    window.apViewability.triggerViewableState();
-                }, 2000);
+//                //in the event that most ads are viewable but not the last one
+//                if(Object.keys(this.ids).length == (viewableImps+1)) {
+//                    console.log('three are here');
+//                    timeoutTime = timeSinceRefresh - 8000;
+//                    console.log(timeoutTime);
+//                    this.timeoutVar = setTimeout(function () {
+//                        window.apViewability.triggerViewableState();
+//                    }, timeoutTime);
+//                }
 
             },
 
@@ -159,7 +175,27 @@
                 if(typeof func === "function"){
                     this.viewableListeners.push(func);
                 }
+            },
+
+            /**
+             * Refreshes all ads on the screen and resets the viewable state
+             */
+            refreshAds : function(){
+
+                window.apViewability.timeRefreshed = new Date();
+                viewableImps = 0;
+                googletag.cmd.push(function() {
+                    googletag.pubads().clear();
+                    var keys = Object.keys(apViewability.ids);
+                    for(i=0; i<keys.length; i++ ){
+                        apViewability.ids[keys[i]].isViewable = false;
+                        apViewability.pageViewable = false;
+                    }
+                    googletag.pubads().refresh();
+                });
+
             }
+
         };
 
     })();
@@ -272,30 +308,32 @@
             //define desktop slot size
             if (!window['thirdage_mobile']) {
 
-                googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[160, 600]], 'div-gpt-ad-16')
-                    .addService(googletag.pubads()).setTargeting('pos', 'top');
+                                    apViewability.gptAdSlots[0] = googletag.defineSlot('/6105/aph.thirdage.adprime', [[160, 600],[300,600],[300,250]], 'div-gpt-ad-16')
+                        .addService(googletag.pubads()).setTargeting('pos', 'mid');
 
-                googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[300, 250], [300, 600]], 'div-gpt-ad-3236')
-                    .addService(googletag.pubads()).setTargeting('pos', 'top');
+                    apViewability.gptAdSlots[1] = googletag.defineSlot('/6105/aph.thirdage.adprime', [[300, 250]], 'div-gpt-ad-3236')
+                        .addService(googletag.pubads()).setTargeting('pos', 'top');
 
-                googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[728, 90], [970, 250]], 'div-gpt-ad-7992')
+                
+
+                apViewability.gptAdSlots[2] = googletag.defineSlot('/6105/aph.thirdage.adprime', [[728, 90], [970, 250]], 'div-gpt-ad-7992')
                     .addService(googletag.pubads()).setTargeting('pos', 'top');
 
                 if (SERVING_INTERSTITIAL) {
                     //interstitial (out of page) slot - save reference to this slot for later
-                    window.ta_interstitial_slot = googletag.defineOutOfPageSlot('/6105/aph.thirdage.adprime/ros', 'div-gpt-ad-interstitial')
+                    window.ta_interstitial_slot = googletag.defineOutOfPageSlot('/6105/aph.thirdage.adprime', 'div-gpt-ad-interstitial')
                         .addService(googletag.pubads());
                 }
 
                 if(SECOND_BOX_SLOT) {
-                    googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[300, 250]], 'div-gpt-ad-32')
+                    apViewability.gptAdSlots[3] = googletag.defineSlot('/6105/aph.thirdage.adprime', [[300, 250]], 'div-gpt-ad-32')
                         .addService(googletag.pubads()).setTargeting('pos', 'bottom');
                 }
 
                 // define mobile slot sizes
             } else {
 
-                googletag.defineSlot('/6105/aph.thirdage.adprime/ros', [[300, 250], [300, 50], [300, 250]], 'div-gpt-ad-mob').addService(googletag.pubads()).setTargeting('pos', 'top');
+                googletag.defineSlot('/6105/aph.thirdage.adprime', [[300, 250], [300, 50], [300, 250]], 'div-gpt-ad-mob').addService(googletag.pubads()).setTargeting('pos', 'top');
 
             }
 
@@ -308,9 +346,7 @@
                 .setTargeting('uct', window["ct_urlwords"]||[])
                 .setTargeting('cmp', 'ros')
                 .setTargeting('url', location.href.replace(/[\=\(\)]/gim,"_"))
-                .setTargeting('con',"") //this needs to be defined in PHP
-                .setTargeting("kuid", Krux.user || '')
-                .setTargeting("ksg", Krux.segments || []);
+                .setTargeting('con',""); //this needs to be defined in PHP
 
             
             //googletag.pubads().enableSyncRendering(); //this is necessary for interstitials
@@ -325,6 +361,8 @@
 
             googletag.enableServices();
 
+            window.apViewability.googletag = googletag;
+
             window['defined_slots'] = true;
         })
     }
@@ -332,11 +370,11 @@
 </script>
 
 
-<!-- CT and Krux Scripts -->
-<script class="kxct" data-id="KTw54y0I" data-timing="async" data-version="1.9" type="text/javascript">
+<!-- CT Scripts -->
+<script type="text/javascript">
 
     /**
-     * The page url, to be passed into Krux.
+     * The page url, to be passed into data targeting
      * @type String
      */
     var ap_url = (function(){
@@ -346,7 +384,7 @@
     })();
 
     /**
-     * The site domain, to be passed into Krux.
+     * The site domain, to be passed into Data collection.
      * @type String
      */
     var ap_domain = (function(){
@@ -368,18 +406,16 @@
          */
         ap_onCTServiceResponse = function(ct){
             if(ap_didCTCallback) return;
-            //console.log(ct);
             if(ct) {
                 ap_doKeywordFormat(ct.keywords, 'ct_keywords');
                 ap_doKeywordFormat(ct.urlwords, 'ct_urlwords');
             }
-            ap_doKrux();
             ap_setThirdageSlots();
             ap_didCTCallback = true;
         };
 
     /**
-     * Formats keywords returned by the CT Service as an array for Krux.
+     * Formats keywords returned by the CT Service as an array for data targeting.
      * index is either ct_keywords or ct_urlwords
      * @function
      */
@@ -392,39 +428,9 @@
         }
     };
 
-    /**
-     * Indicates whether the Krux Control Tag has fired.
-     * @type Boolean
-     */
-    var ap_didKrux = false,
-        /**
-         * Fires the Krux Control Tag, if it hasn't already fired.
-         * @function
-         */
-        ap_doKrux = function(){
-            if(ap_didKrux) return;
-
-            //The actual Krux Control Tag code (minor formatting added for clarity)
-            window.Krux || ((Krux = function() {
-                Krux.q.push(arguments)
-            }).q = []);
-            (function() {
-                var k = document.createElement('script');
-                k.type = 'text/javascript';
-                k.async = true;
-                var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
-                k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
-                (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=KTw54y0I";
-                var s = document.getElementsByTagName('script')[0];
-                s.parentNode.insertBefore(k, s);
-                ap_didKrux = true;
-            }());
-        };
-
     var useSSL = 'https:' == document.location.protocol;
     var src = (useSSL ? 'https:' : 'http:') +
         '//context.adprimemedia.net/ct/?url=' + encodeURIComponent(ap_url) + '&callback=ap_onCTServiceResponse';
-
 
     //synchronous loading of CT
     document.write('<scr' + 'ipt src=\"' + src + '\"></scr' + 'ipt>');
@@ -437,11 +443,9 @@
     },1500);
 
 
-    //Fail-safe fires Krux control tag if it hasn't fired after 3 seconds.
-    setTimeout(ap_doKrux,3000);
-</script><script src="https://context.adprimemedia.net/ct/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170606053851id_%2Fhttp%3A%2F%2Fthirdage.com%2Fprivacy-policy%2F&amp;callback=ap_onCTServiceResponse"></script>
-<!-- END Krux Controltag -->
 
+</script><script src="https://context.adprimemedia.net/ct/?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20171229235236id_%2Fhttp%253A%2F%2Fthirdage.com%2Fprivacy-policy&amp;callback=ap_onCTServiceResponse"></script>
+<!-- END data Controltag -->
 
 
         <link rel="pingback" href="http://thirdage.com/xmlrpc.php">
@@ -456,14 +460,6 @@
 	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@ThirdAge">
 	<meta name="google-site-verification" content="kbaFUYY9_99UJ9YmCQOvafXsLefo46Jriwbzd1pBdis">
-
-<!-- Code Inserter module -->
-<script src="http://thirdage.com/wp-includes/js/wp-emoji-release.min.js?ver=2c57b0593a108fa5b69df1169ca78719" type="text/javascript"></script></head><body class="page page-id-3001694 page-template-default do-etfw">.vw-post-box-thumbnail img {
-    min-height: auto !important;
-    height: auto !important;
-}
-<!-- /Code Inserter module -->
-
 <!-- /SEO Ultimate -->
 
 <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
@@ -471,7 +467,7 @@
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/thirdage.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=2c57b0593a108fa5b69df1169ca78719"}};
 			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
+		</script><script src="http://thirdage.com/wp-includes/js/wp-emoji-release.min.js?ver=2c57b0593a108fa5b69df1169ca78719" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -550,7 +546,7 @@ var simple_favorites = {"ajaxurl":"http:\/\/thirdage.com\/wp-admin\/admin-ajax.p
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//thirdage.com/?wordfence_logHuman=1&hid=007854D6C30188BE5869EDCFCFEE00C5');
+})('//thirdage.com/?wordfence_logHuman=1&hid=2A39469ED9B22B79422FD445F8F16648');
 </script>        <script type="text/javascript" charset="utf-8">
             jQuery(window).load(function() {
 
@@ -638,7 +634,7 @@ jQuery('.next').on('click', function(){
 						  ? new XMLHttpRequest()
 						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
 						url = 'http://thirdage.com/wp-admin/admin-ajax.php',
-						params = 'action=update_views_ajax&token=fa2c0c36e2&wpp_id=3001694';
+						params = 'action=update_views_ajax&token=a7c26c2b20&wpp_id=3001694';
 						/* Set request method and target URL */
 						xhr.open( "POST", url, true );
 						/* Set request header */
@@ -673,7 +669,40 @@ jQuery('.next').on('click', function(){
  
 	ga('send', 'pageview');
 </script>
-<style type="text/css">.smp-overlay {width:100%; height:100%; position:fixed; top:0; left:0; text-align:center; z-index:9998; display:none;} .smp-overlay * {box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;} .smp-modal {display:inline-block; margin:1em; position:relative; text-align:left; vertical-align:middle; opacity:0; z-index:9999; cursor:auto;} .smp-close {height:24px; width:24px; position:absolute; cursor:pointer;} .smp-counter {position:absolute; font-size:10px;} .smp-modal iframe {border:none;} .simp-scaleUp, .simp-scaleDown {transition:all .5s ease; -moz-transition:all .5s ease; -webkit-transition:all .5s ease; -ms-transition:all .5s ease;} .simp-scaleUp {transform:scale(.1); -moz-transform:scale(.1); -webkit-transform:scale(.1); -ms-transform:scale(.1);} .simp-scaleDown {transform:scale(2);  -moz-transform:scale(2); -webkit-transform:scale(2); -ms-transform:scale(2);} .simp-noScale {transform:scale(1); -moz-transform:scale(1); -webkit-transform:scale(1); -ms-transform:scale(1);}#smp-overlay3049936 {background:rgba(0,0,0,.1);} #smp-overlay3049936 .smp-modal {max-width:; max-height:; background:;} #smp-overlay3049936 .smp-close { top:-8px; right:-8px; background:url(http://thirdage.com/wp-content/plugins/simp-modal-window/images/close4.png) 0 0 no-repeat;} </style>
+<style type="text/css">.smp-overlay {width:100%; height:100%; position:fixed; top:0; left:0; text-align:center; z-index:9998; display:none;} .smp-overlay * {box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;} .smp-modal {display:inline-block; margin:1em; position:relative; text-align:left; vertical-align:middle; opacity:0; z-index:9999; cursor:auto;} .smp-close {height:24px; width:24px; position:absolute; cursor:pointer;} .smp-counter {position:absolute; font-size:10px;} .smp-modal iframe {border:none;} .simp-scaleUp, .simp-scaleDown {transition:all .5s ease; -moz-transition:all .5s ease; -webkit-transition:all .5s ease; -ms-transition:all .5s ease;} .simp-scaleUp {transform:scale(.1); -moz-transform:scale(.1); -webkit-transform:scale(.1); -ms-transform:scale(.1);} .simp-scaleDown {transform:scale(2);  -moz-transform:scale(2); -webkit-transform:scale(2); -ms-transform:scale(2);} .simp-noScale {transform:scale(1); -moz-transform:scale(1); -webkit-transform:scale(1); -ms-transform:scale(1);}#smp-overlay3057156 {background:rgba(0,0,0,.5);} #smp-overlay3057156 .smp-modal {max-width:; max-height:; background:;} #smp-overlay3057156 .smp-close { top:-8px; left:-8px; background:url(http://thirdage.com/wp-content/plugins/simp-modal-window/images/close4.png) 0 0 no-repeat;}   .smp-overlay .mc4wp-form{
+    width:100%
+  }
+
+div.smp-modal[data-id='3057156']{
+    top:25%!important;
+}
+
+@media (max-width: 400px){
+div.smp-modal[data-id='3057156']{
+    top:5%!important;
+}}
+
+  #smp-overlay3057156 .smp-modal{
+    max-width:90%
+  }
+ 
+  #input{
+    width: 100%;
+    position: absolute;
+    left: 35%;
+    top: 305px;
+  }
+
+#smp-overlay3057156 .smp-close{
+  width:30px;
+ height:30px;
+ background-size: 30px;
+}
+
+#smp-overlay3057156 .smp-close {
+   top: 20px
+}
+</style>
 
 <!-- Easy FancyBox 1.5.8.2 using FancyBox 1.3.8 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
 <script type="text/javascript">
@@ -692,10 +721,14 @@ var easy_fancybox_auto = function(){
 }
 /* ]]> */
 </script>
-	
+	<script type="text/javascript">
+    var popupRecipe = 0;
+</script></head>
 
     
-  
+
+
+  <body class="page page-id-3001694 page-template-default do-etfw">
   <div id="fb-root"></div>
 	<script>(function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0];
@@ -704,7 +737,7 @@ var easy_fancybox_auto = function(){
     js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=120236528068816";
     fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-    <header class="">
+    <header class="top-fixed-bar">
     <div class="container">
         <nav class="navbar nav" role="navigation">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -732,8 +765,7 @@ var easy_fancybox_auto = function(){
 <li id="menu-item-3001700" class="fitness menu-item menu-item-type-post_type menu-item-object-page menu-item-3001700"><a href="http://thirdage.com/fitness/">Fitness</a></li>
 <li id="menu-item-3001946" class="family menu-item menu-item-type-post_type menu-item-object-page menu-item-3001946"><a href="http://thirdage.com/family/">Family</a></li>
 <li id="menu-item-3051910" class="video menu-item menu-item-type-post_type menu-item-object-page menu-item-3051910"><a href="http://thirdage.com/videos/">Video</a></li>
-</ul>
-    	<ul id="menu-sub">
+</ul>    	<ul id="menu-sub">
         
             <li class="health-az" style="display:none;">
                 <div class="row">
@@ -783,8 +815,11 @@ var easy_fancybox_auto = function(){
 <ul class="sub-menu">
 	<li id="menu-item-3002041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002041"><a href="http://thirdage.com/category/health/bone-health/back-pain/">Back Pain</a></li>
 	<li id="menu-item-3002042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002042"><a href="http://thirdage.com/category/health/senior-health/hip-health/">Hip Health</a></li>
+	<li id="menu-item-3056766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056766"><a href="http://thirdage.com/category/health/bone-health/hip-health-bone-health/hip-replacement/">Hip Replacement</a></li>
 	<li id="menu-item-3002043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002043"><a href="http://thirdage.com/category/health/bone-health/knee-pain/">Knee Pain</a></li>
+	<li id="menu-item-3056765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056765"><a href="http://thirdage.com/category/health/bone-health/osteoarthritis-bone-health/">Osteoarthritis</a></li>
 	<li id="menu-item-3002044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002044"><a href="http://thirdage.com/category/health/senior-health/osteoporosis-senior-health/">Osteoporosis</a></li>
+	<li id="menu-item-3056767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3056767"><a href="http://thirdage.com/category/health/bone-health/rheumatoid-arthritis/">Rheumatoid Arthritis</a></li>
 	<li id="menu-item-3002045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3002045"><a href="http://thirdage.com/category/health/senior-health/spinal-fracture/">Spinal Fracture</a></li>
 </ul>
 </li>
@@ -882,54 +917,56 @@ var easy_fancybox_auto = function(){
                         
                     </div>
 
-                    
-                    <div class="col-sm-6 postTease">
+                                        <div class="col-sm-6 postTease">
+                
+
 
                                                 <h3>Health Headlines<a href="http://thirdage.com/health/" class="see-all">See all</a></h3>
                         
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/two-types-of-empathy-elicit-different-health-effects/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/empathy-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="empathy" srcset="http://thirdage-assets.thirdage.com/field/image/empathy-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/empathy-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/empathy-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="http://thirdage.com/experts-disagree-on-value-of-a-genetic-test-for-breast-cancer-patients/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/DNA-illustration-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="DNA illustration" srcset="http://thirdage-assets.thirdage.com/field/image/DNA-illustration-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/DNA-illustration-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/DNA-illustration-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/health/mental-emotional-health/"><h6 class="topic bg-health bg-mental-emotional-health bg-">Mental &amp; Emotional Health</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/two-types-of-empathy-elicit-different-health-effects/">Two Types of Empathy Elicit Different Health Effects</a></h2>
-                                    <div class="authorInfo">June 6, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>When a close friend shares bad news, our instinct is to help. But putting yourself in a friend’s shoes, imagining how you would feel if you were the one suffering, … <strong><a href="http://thirdage.com/two-types-of-empathy-elicit-different-health-effects/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="http://thirdage.com/category/health/health-headlines/"><h6 class="topic bg-health bg-health-headlines bg-">Health Headlines</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/experts-disagree-on-value-of-a-genetic-test-for-breast-cancer-patients/">Experts Disagree on Value of A Genetic Test for Breast-Cancer Patients</a></h2>
+                                    <div class="authorInfo">December 29, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>The American Society of Clinical Oncology (ASCO) recently updated its guideline on biomarkers with regard to the MammaPrint genetic test, … <strong><a href="http://thirdage.com/experts-disagree-on-value-of-a-genetic-test-for-breast-cancer-patients/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
-                                                        <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
-                        <h3>Videos<a href="http://thirdage.com/videos/" class="see-all">See all</a></h3>
+                                                          <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
+                                                                                <h3>Videos<a href="http://thirdage.com/videos/" class="see-all">See all</a></h3>
 
                       							<div class="row">
                             <div class="col-sm-4 secImg">
 
                             <div class="vidContThumb2">
                     <a href="http://thirdage.com/video/what-is-depression/"></a>
-                    <div class="pImage"> <span class="playBtn"></span> <img src="http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="01.What Is Depression"></div>
+                    <div class="pImage"> <span class="playBtn"></span> <img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="01-what-is-depression" srcset="http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/01.What-Is-Depression-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></div>
 
                 </div>
                             </div>
                             <div class="col-sm-8 category-content">
                             <a href="http://thirdage.com/video_categories/depression/"><h6 class="topic bg-http://thirdage.com/video_categories/depression/ bg-health">Depression</h6></a>
                             <h2 class="sub-title category-title"><a href="http://thirdage.com/video/what-is-depression/">What Is Depression?</a></h2>
-                                <p>Depression is a common and serious mental health condition, which can negatively affect how you feel, how you think, and how you act. Learn more here.</p>
+                                <p>Depression is a common and serious mental health condition, which can negatively affect how you feel, how you think, and … <strong><a href="http://thirdage.com/video/what-is-depression/">Watch Video<span class="meta-nav">→</span></a></strong></p>
 
                             </div>
 
-							</div>
-						
+
+						                    </div>
                                 </div>
                                    
 
 
-                    </div>
 
-				
+
+				                    </div>
+                    
             </div>
             </li>
 
@@ -965,33 +1002,60 @@ var easy_fancybox_auto = function(){
                         
                     </div>
 
-                    
-                    <div class="col-sm-8 postTease">
+                                        <div class="col-sm-8 postTease">
+                
+
 
                         
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/your-sex-life-is-only-as-old-as-you-feel/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/older-couple-in-love-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="older-couple-in-love" srcset="http://thirdage-assets.thirdage.com/field/image/older-couple-in-love-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/older-couple-in-love-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/older-couple-in-love-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="http://thirdage.com/asset-location-a-strategy-to-cut-taxes-is-often-overlooked/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/cutting-taxes-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="cutting-taxes" srcset="http://thirdage-assets.thirdage.com/field/image/cutting-taxes-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/cutting-taxes-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/cutting-taxes-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/living-well/sex/"><h6 class="topic bg-living-well bg-sex bg-">Sex</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/your-sex-life-is-only-as-old-as-you-feel/">Your Sex Life Is Only as Old as You Feel</a></h2>
-                                    <div class="authorInfo">June 5, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>The closer you feel to your actual age, the less likely you are to be satisfied with your sex life, according to a 2017 study done at the University of … <strong><a href="http://thirdage.com/your-sex-life-is-only-as-old-as-you-feel/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="http://thirdage.com/category/living-well/money-matters/"><h6 class="topic bg-living-well bg-money-matters bg-">Money Matters</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/asset-location-a-strategy-to-cut-taxes-is-often-overlooked/">Asset Location, A Strategy to Cut Taxes, Is Often Overlooked</a></h2>
+                                    <div class="authorInfo"> by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
+                                <p>A new tax law may call for tweaking strategy but probably not big changes Asset allocation comes first, then comes … <strong><a href="http://thirdage.com/asset-location-a-strategy-to-cut-taxes-is-often-overlooked/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
-                        
+                                                          <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
+                                                        
 
 
-                    </div>
+
 
 				
+
+
+                        
+                        <div class="row">
+
+                            <div class="col-sm-4 col-md-4 secImg">
+                                <a href="http://thirdage.com/can-loss-of-sense-of-smell-be-repaired/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="older-man-smelling-grapes" srcset="http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/older-man-smelling-grapes-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                            </div>
+
+                            <div class="col-sm-8 col-md-8 post-col-left category-content">
+                                                                        <a href="http://thirdage.com/category/living-well/aging-well/"><h6 class="topic bg-living-well bg-aging-well bg-">Aging Well</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/can-loss-of-sense-of-smell-be-repaired/">Can Loss of Sense of Smell Be Repaired?</a></h2>
+                                    <div class="authorInfo">December 20, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
+                                <p>Researchers at Tufts University School of Medicine, led by Dr. James E. Schwob, are examining the behavior of adult stem … <strong><a href="http://thirdage.com/can-loss-of-sense-of-smell-be-repaired/">Read More<span class="meta-nav">→</span></a></strong></p>
+                            </div>
+
+                        </div>
+
+                                              
+
+
+
+
+				                    </div>
+                    
             </div>
-            </li>
+            </div></li>
 
         
             <li class="food" style="display:none;">
@@ -1010,33 +1074,60 @@ var easy_fancybox_auto = function(){
                         
                     </div>
 
-                    
-                    <div class="col-sm-8 postTease">
+                                        <div class="col-sm-8 postTease">
+                
+
 
                         
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/fiery-capsaicin-could-help-fight-obesity/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Prostate-Health_9-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Cayenne Pepper" srcset="http://thirdage-assets.thirdage.com/field/image/Prostate-Health_9-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Prostate-Health_9-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Prostate-Health_9-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="http://thirdage.com/your-mood-depends-on-the-food-you-eat-and-what-you-should-eat-changes-as-you-get-older/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/older-people-eating-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="older people eating" srcset="http://thirdage-assets.thirdage.com/field/image/older-people-eating-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/older-people-eating-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/older-people-eating-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/food/obesity/"><h6 class="topic bg-food bg-obesity bg-">Obesity</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/fiery-capsaicin-could-help-fight-obesity/">Fiery Capsaicin Could Help Fight Obesity</a></h2>
-                                    <div class="authorInfo">June 1, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>Scientists have discovered a dietary strategy that may address obesity by reducing endotoxemia, a major contributor to chronic, low-grade inflammation (CLGI). The researchers uncovered an interaction between dietary capsaicin (CAP), … <strong><a href="http://thirdage.com/fiery-capsaicin-could-help-fight-obesity/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="http://thirdage.com/category/food/diet-nutrition/"><h6 class="topic bg-food bg-diet-nutrition bg-">Diet &amp; Nutrition</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/your-mood-depends-on-the-food-you-eat-and-what-you-should-eat-changes-as-you-get-older/">Your Mood Depends on the Food You Eat, and What You Should Eat Changes as You Get Older</a></h2>
+                                    <div class="authorInfo">December 29, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
+                                <p>Diet and dietary practices differentially affect mental health in young adults versus older adults, according to research from Binghamton University, … <strong><a href="http://thirdage.com/your-mood-depends-on-the-food-you-eat-and-what-you-should-eat-changes-as-you-get-older/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
-                        
+                                                          <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
+                                                        
 
 
-                    </div>
+
 
 				
+
+
+                        
+                        <div class="row">
+
+                            <div class="col-sm-4 col-md-4 secImg">
+                                <a href="http://thirdage.com/tried-and-true-tips-for-dealing-with-holiday-weight-gain/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="mans-feet-on-scale" srcset="http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/mans-feet-on-scale-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                            </div>
+
+                            <div class="col-sm-8 col-md-8 post-col-left category-content">
+                                                                        <a href="http://thirdage.com/category/food/weight-loss/"><h6 class="topic bg-food bg-weight-loss bg-">Weight Loss</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/tried-and-true-tips-for-dealing-with-holiday-weight-gain/">Tried and True Tips for Dealing With Holiday Weight Gain</a></h2>
+                                    <div class="authorInfo">December 28, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
+                                <p>According to the U.S. Department of Health and Human Services, over 60% of adult women in the country are considered … <strong><a href="http://thirdage.com/tried-and-true-tips-for-dealing-with-holiday-weight-gain/">Read More<span class="meta-nav">→</span></a></strong></p>
+                            </div>
+
+                        </div>
+
+                                              
+
+
+
+
+				                    </div>
+                    
             </div>
-            </li>
+            </div></li>
 
         
             <li class="fitness" style="display:none;">
@@ -1054,33 +1145,59 @@ var easy_fancybox_auto = function(){
                         
                     </div>
 
-                    
-                    <div class="col-sm-8 postTease">
+                                        <div class="col-sm-8 postTease">
+                
+
 
                         
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/tips-for-a-fit-and-healthy-summer/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/stretching-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="stretching" srcset="http://thirdage-assets.thirdage.com/field/image/stretching-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/stretching-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/stretching-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="http://thirdage.com/motivating-others-to-be-physically-active/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="mature-women-in-gym" srcset="http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Mature-women-in-gym-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/fitness/exercise/"><h6 class="topic bg-fitness bg-exercise bg-">Exercise</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/tips-for-a-fit-and-healthy-summer/">Tips for a Fit and Healthy Summer</a></h2>
-                                    <div class="authorInfo">May 26, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>Here are my tips for staying fit and healthy this summer: Commit to a Fit and Healthy Summer!&nbsp; Think about increasing the types of activities that work for your lifestyle … <strong><a href="http://thirdage.com/tips-for-a-fit-and-healthy-summer/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/motivating-others-to-be-physically-active/">Motivating Others to Be Physically Active</a></h2>
+                                    <div class="authorInfo">December 20, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>From the experts at Go4Life, a division of the National Institute on Aging, some tips on how to get a … <strong><a href="http://thirdage.com/motivating-others-to-be-physically-active/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
-                        
+                                                          <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
+                                                        
 
 
-                    </div>
+
 
 				
+
+
+                        
+                        <div class="row">
+
+                            <div class="col-sm-4 col-md-4 secImg">
+                                <a href="http://thirdage.com/3-tips-to-avoid-the-er-due-to-common-mistakes-at-the-gym/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Back-ache-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="back-ache" srcset="http://thirdage-assets.thirdage.com/field/image/Back-ache-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Back-ache-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Back-ache-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                            </div>
+
+                            <div class="col-sm-8 col-md-8 post-col-left category-content">
+                                                                        <a href="http://thirdage.com/category/fitness/injury-prevention-treatment/"><h6 class="topic bg-fitness bg-injury-prevention-treatment bg-">Injury Prevention &amp; Treatment</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/3-tips-to-avoid-the-er-due-to-common-mistakes-at-the-gym/">3 Tips to Avoid the ER Due to Common Mistakes at The Gym</a></h2>
+                                    <div class="authorInfo">December 12, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>As 2017 comes to a close, it’s only natural that we’re starting to think about getting fitter, healthier, more mindful, … <strong><a href="http://thirdage.com/3-tips-to-avoid-the-er-due-to-common-mistakes-at-the-gym/">Read More<span class="meta-nav">→</span></a></strong></p>
+                            </div>
+
+                        </div>
+
+                                              
+
+
+
+
+				                    </div>
+                    
             </div>
-            </li>
+            </div></li>
 
         
             <li class="family" style="display:none;">
@@ -1109,33 +1226,60 @@ var easy_fancybox_auto = function(){
                         
                     </div>
 
-                    
-                    <div class="col-sm-8 postTease">
+                                        <div class="col-sm-8 postTease">
+                
+
 
                         
                         <div class="row">
 
                             <div class="col-sm-4 col-md-4 secImg">
-                                <a href="http://thirdage.com/alzheimers-association-survey-shows-that-many-caregivers-are-going-it-alone/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/family-caregiver-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="family-caregiver" srcset="http://thirdage-assets.thirdage.com/field/image/family-caregiver-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/family-caregiver-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/family-caregiver-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                                <a href="http://thirdage.com/be-prepared-6-tips-for-caregivers/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="caregiver-with-loved-one" srcset="http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Caregiver-with-loved-one-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
                             </div>
 
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
-                                                                        <a href="http://thirdage.com/category/health/senior-health/alzheimers-disease-and-other-dementias/"><h6 class="topic bg-senior-health bg-alzheimers-disease-and-other-dementias bg-health">Alzheimer's Disease and other Dementias</h6></a>
-                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/alzheimers-association-survey-shows-that-many-caregivers-are-going-it-alone/">Alzheimer’s Association Survey Shows That Many Caregivers Are Going It Alone</a></h2>
-                                    <div class="authorInfo">June 6, 2017 by <a href="http://thirdage.com/author/sondra-forsyth/" class="author-name">Sondra Forsyth</a> <img src="http://thirdage-assets.thirdage.com/field/image/Sondra_Forsyth.jpeg" width="25" height="25" alt="Sondra Forsyth" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 alignnone photo">                                </div>
-                                <p>Findings from an Alzheimer’s Association survey released in June 2017 in conjunction with Alzheimer’s &amp; Brain Awareness Month show that while people overwhelmingly agree it often takes a village to … <strong><a href="http://thirdage.com/alzheimers-association-survey-shows-that-many-caregivers-are-going-it-alone/">Read More<span class="meta-nav">→</span></a></strong></p>
+                                                                        <a href="http://thirdage.com/category/family/caregiving/"><h6 class="topic bg-family bg-caregiving bg-">Caregiving</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/be-prepared-6-tips-for-caregivers/">Be Prepared: 6 Tips for Caregivers</a></h2>
+                                    <div class="authorInfo">December 28, 2017 by <a href="http://thirdage.com/author/jane-farrell/" class="author-name">Jane Farrell</a> <img src="http://2.gravatar.com/avatar/242ba8207cc08bf737e4e70f06c9115c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Here, from the federal Food and Drug Administration (FDA), a caregiving list that can prove lifesaving: 1. Keep a list … <strong><a href="http://thirdage.com/be-prepared-6-tips-for-caregivers/">Read More<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
-                        
+                                                          <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
+                                                        
 
 
-                    </div>
+
 
 				
+
+
+                        
+                        <div class="row">
+
+                            <div class="col-sm-4 col-md-4 secImg">
+                                <a href="http://thirdage.com/the-pros-and-cons-of-marijuana-as-a-mother/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Marijuana Motherhood" srcset="http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/Marijuana-1-1-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                            </div>
+
+                            <div class="col-sm-8 col-md-8 post-col-left category-content">
+                                                                        <a href="http://thirdage.com/category/health/alternative-health/"><h6 class="topic bg-health bg-alternative-health bg-">Alternative Health</h6></a>
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/the-pros-and-cons-of-marijuana-as-a-mother/">The Pros and Cons of Marijuana as a Mother</a></h2>
+                                    <div class="authorInfo">December 18, 2017 by <a href="http://thirdage.com/author/k-gramesadprimemedia-com/" class="author-name">Katherine Grames</a> <img src="http://0.gravatar.com/avatar/c5b79c60906d37e006ce5d06d4f7429c?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Though marijuana is often considered a drug for the young and rebellious, the Centers for Disease Control (CDC) recently reported … <strong><a href="http://thirdage.com/the-pros-and-cons-of-marijuana-as-a-mother/">Read More<span class="meta-nav">→</span></a></strong></p>
+                            </div>
+
+                        </div>
+
+                                              
+
+
+
+
+				                    </div>
+                    
             </div>
-            </li>
+            </div></li>
 
         
             <li class="video" style="display:none;">
@@ -1161,8 +1305,9 @@ var easy_fancybox_auto = function(){
                         
                     </div>
 
-                    
-                    <div class="col-sm-8 postTease">
+                                        <div class="col-sm-8 postTease">
+                
+
 
                         
                         <div class="row">
@@ -1174,19 +1319,44 @@ var easy_fancybox_auto = function(){
                             <div class="col-sm-8 col-md-8 post-col-left category-content">
                                                                         <h2 class="sub-title category-title"><a href="http://thirdage.com/video/understanding-ptsd/">Understanding PTSD</a></h2>
                                     <div class="authorInfo">September 6, 2016 by <a href="http://thirdage.com/author/gavino-gonzalez/" class="author-name">thirdAGE</a> <img src="http://2.gravatar.com/avatar/5516ad6a2afe91aa2861c536738e94da?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
-                                <p>Traumatic events, like war, assault, or disaster, can lead to Posttraumatic Stress Disorder, or PTSD, is an anxiety disorder. It is important to understand how PTSD develops, and what can … <strong><a href="http://thirdage.com/video/understanding-ptsd/">Watch Video<span class="meta-nav">→</span></a></strong></p>
+                                <p>Traumatic events, like war, assault, or disaster, can lead to Posttraumatic Stress Disorder, or PTSD, is an anxiety disorder. It … <strong><a href="http://thirdage.com/video/understanding-ptsd/">Watch Video<span class="meta-nav">→</span></a></strong></p>
                             </div>
 
                         </div>
 
-                        
+                                                          <div class="vidTease" style="padding-top:20px;margin-top:10px;border-top:solid thiN #CCC;">
+                                                        
 
 
-                    </div>
+
 
 				
+
+
+                        
+                        <div class="row">
+
+                            <div class="col-sm-4 col-md-4 secImg">
+                                <a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Heart Sign" srcset="http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-226x226.jpg 226w" sizes="(max-width: 120px) 100vw, 120px"></a>
+                            </div>
+
+                            <div class="col-sm-8 col-md-8 post-col-left category-content">
+                                                                        <h2 class="sub-title category-title"><a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/">When Someone You Love Suffers: 10 Tips for Fibromyalgia Caregivers</a></h2>
+                                    <div class="authorInfo">August 31, 2016 by <a href="http://thirdage.com/author/gavino-gonzalez/" class="author-name">thirdAGE</a> <img src="http://2.gravatar.com/avatar/5516ad6a2afe91aa2861c536738e94da?s=25&amp;d=mm&amp;r=g" width="25" height="25" alt="" class="avatar avatar-25 wp-user-avatar wp-user-avatar-25 photo avatar-default">                                </div>
+                                <p>Caring for someone with fibromyalgia can be fulfilling–and sometimes exhausting. Learn more about how to keep your energy and spirits … <strong><a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/">Watch Video<span class="meta-nav">→</span></a></strong></p>
+                            </div>
+
+                        </div>
+
+                                              
+
+
+
+
+				                    </div>
+                    
             </div>
-            </li>
+            </div></li>
 
         
     	</ul>
@@ -1197,7 +1367,10 @@ var easy_fancybox_auto = function(){
 
 
 </header>
-<div class="dash-line"></div>
+<div class="dash-line-fixed"></div>
+
+
+
 
 
     <div id="main-container" class="container">
@@ -1218,11 +1391,23 @@ var easy_fancybox_auto = function(){
                                     window.apStickyAds.registerSlot("div-gpt-ad-7992", null);
 
                                     var leaderDisplay = function(){
+
+                                        if(window.ap_has_preroll){
+                                            setTimeout(function(){
+                                                window.ap_has_preroll = false;
+                                                leaderDisplay();
+                                            },7000);
+                                            return;
+                                        }
+
                                         window.apViewability.registerDisplayCall("div-gpt-ad-7992");
                                         googletag.cmd.push(function() {
                                             googletag.display("div-gpt-ad-7992");
                                         });
+
+
                                     };
+
 
                                     if (!document.hidden) {
                                         leaderDisplay();
@@ -1258,15 +1443,19 @@ Information Collected by Adprime Media</p>
 <p>The following statement describes the overall company practices of Adprime Media, including advertising on our network of websites, as well as across other internal sites, and products and services that are offered by Adprime Media. This policy does not apply to the practices of companies that Adprime Media does not own or control, or to people that Adprime Media does not employ.</p>
 <h3><b>Non-Personally Identifiable Consumer Data</b></h3>
 <p>Adprime Media delivers advertisements across multiple channels and media, including to web surfers who visit any of the thousands of websites that are a part of Adprime Media’s network. With respect to individuals who visit those sites, we, and/or one or more of our third party advertising technology vendors, may collect what is known as “Click Stream Data.” Click Stream Data is anonymous, and includes information such as a web surfer’s IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us or a third party advertising technology vendor. We, and/or a third party advertising technology vendor, may use different types of technologies to collect this type of information, including cookies and web beacons (1×1 pixels). In addition to the Click Stream Data collected across our web network, Adprime Media owns numerous websites and services, and often runs promotions and sweepstakes offers through various Internet channels (collectively referred to as “Adprime Media Properties”), and collects information at those sites. As a part of the registration process at the Adprime Media Properties, we may request and collect additional non-personally identifiable information about the visitor. Examples of the non-personally identifiable data that may be requested include age, gender, and interests. None of the foregoing information (collectively referred to as “non-personally identifiable data”), by itself, or together, can by its nature be tracked to a specific individual. Web surfers may elect not to provide Click Stream Data by following the Cookie Opt-Out procedures set forth below. In addition, web surfers who have provided registration data to Adprime Media may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by following the Data Opt-Out procedures set forth below. Personally identifiable information that is collected at the Adprime Media Properties is discussed immediately below.</p>
-<p>Personally Identifiable Consumer Data At some of the Adprime Media Properties, we ask people to register and provide personally identifiable data. Adprime Media is committed to making sure that clear notice and choice is provided to all consumers before the personally identifiable data is collected, and that they have opted-in to our use of their data. Examples of personally identifiable data that may be requested include name, address, and email address. Web surfers who have provided personally identifiable data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by following the Data Opt-Out procedures set forth below.</p>
+<p>Personally Identifiable Consumer Data At some of the Adprime Media Properties, we ask people to register and provide personally identifiable data. Adprime Media is committed to making sure that clear notice and choice is provided to all consumers before the personally identifiable data is collected, and that they have opted-in to our use of their data. Examples of personally identifiable data that may be requested include name, address, and email address. Web surfers who have provided personally identifiable data may elect to have their data deleted from our files, or kept from being used for purposes other than for the service requested, by following the Data Opt-Out procedures set forth below. If a Web surfer elects to provide Adprime Media with personally identifiable data, we may utilize such data for marketing purposes.</p>
 <h3><b>Other Information that is Collected</b></h3>
 <p>At some Adprime Media Properties, including this one, Adprime Media collects personal information on individuals and companies who want to enter into business relationships with Adprime Media (“business information”). An example of this would include web publishers who want to become a part of Adprime Media’s web network. We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. We may share business information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.</p>
 <h3><b>How Collected Information is Used</b></h3>
 <p>The non-personally identifiable data that Adprime Media and/or its third party advertising technology vendors collect are used for marketing and sales efforts to better target advertisements to people across the different websites they visit. Adprime Media may also use the non-personally identifiable data to better target content to individuals in an effort to create a personally relevant experience for each person. The data are also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. If a consumer elects to provide Adprime Media with personally identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to assist with targeting ads to that consumer’s preferences and behaviors, and for other Adprime Media sales and marketing efforts.</p>
 <h3><b>Sharing With Third Parties</b></h3>
 <p>All personally identifiable data provided by individuals is maintained in confidence by Adprime Media. There are instances, however, in which personally identifiable and non-personally identifiable information is shared with third parties, as described below. The non-personally identifiable data may be shared with third-party partners of Adprime Media on an anonymous basis.</p>
-<p>With respect to personally identifiable information, Adprime Media may, from time to time, provide information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs, or for other services related to providing an Adprime Media product or service. Any third-party vendor so used will be required to enter into a confidentiality agreement with Adprime Media. Adprime Media may also share personally identifiable information with third parties who enter into business relationships with us. These business partners may include financial service providers (including credit bureaus and insurance agents); non-financial companies (including retailers, online and offline advertisers, membership list vendors, direct marketers and publishers); companies that perform marketing services on our behalf, and others such as non-profit organizations. We may also disclose information to a third party who provides substantially similar services as the original service signed up for, if we decide to stop providing such services ourselves. In such situations, we will provide our subscribers with an opportunity to opt-out of such sharing. Please be aware that Adprime Media is very careful about which companies it does business with.</p>
+<p>With respect to personally identifiable information, Adprime Media may, from time to time, provide information to certain third-party administrative vendors for efficiency purposes in providing administrative services such as billing, delivery and pay-outs, or for other services related to providing an Adprime Media product or service. Any third-party vendor so used will be required to enter into a confidentiality agreement with Adprime Media. Adprime Media may also share personally identifiable information with third parties who enter into business relationships with us. These business partners may include financial service providers (including credit bureaus and insurance agents); non-financial companies (including retailers, online and offline advertisers, membership list vendors, direct marketers and publishers); companies that perform marketing services on our behalf,, unaffiliated third parties, and others such as non-profit organizations. We may also disclose information to a third party who provides substantially similar services as the original service signed up for, if we decide to stop providing such services ourselves. In such situations, we will provide our subscribers with an opportunity to opt-out of such sharing. Please be aware that Adprime Media is very careful about which companies it does business with.</p>
 <p>In addition to the above, there is also the possibility that Adprime Media, or part(s) of the company, may one day be purchased by, or merged with, another company. If that’s the case, the acquiring (or merging) company will have access to your information. Finally, Adprime Media may share information on individuals as it deems necessary to comply with a court order or to cooperate with government and law enforcement officials.</p>
+<h3><b>DMD Healthcare Communications Network<sup>SM</sup> Privacy Statement</b></h3>
+<p>This digital service participates in the DMD Healthcare Communication Network<sup>SM</sup> (the “Network”), and as such has implemented various technologies for universal registration/login among all Network member websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD, its clients and other Network members. If you would like to understand how this digital service’s participation in the Network affects your privacy, please click here:<br>
+<a href="http://usersupport.dmdconnects.com/PrivacyPolicy.htm">http://usersupport.dmdconnects.com/PrivacyPolicy.htm</a><br>
+Please note that the Network registration/login system may be different from the registration/login used by this digital service for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Network technologies, the conflict will be resolved in favor of the policy applicable to the Network technologies.</p>
 <h3><b>Security Precautions</b></h3>
 <p>Adprime Media makes significant efforts to maintain the security of its network and the data we collect. We use various technologies, including, in certain instances, encryption, to ensure the high security standards. Any data that is stored on Adprime Media’s servers is treated as confidential and is not generally available to the public. Adprime Media has an internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees who we reasonably believe need to know such information for the purpose of performing their jobs. Please keep in mind, however, that the Internet is not a 100% secure medium. Therefore, although we use reasonable efforts to protect information, the possibility of somebody defeating our security measures does exist.</p>
 <h3><b>Consumer Choice</b></h3>
@@ -1296,7 +1485,7 @@ New York, NY 10005</p>
 <p>The use of “cookie” files has become an industry standard for many, if not most, of the thousands of companies doing business on the Internet. Like these other companies, Adprime Media and its third party advertising technology vendor also use cookies in an effort to provide a more meaningful web-surfing experience to Internet users. Cookies are text files that are placed by a client server onto the browser of a visitor to a website. These files are harmless to your computer, and can store navigation information as you move throughout the website. The cookie information can only be read by the server that authored the cookie, and provides no personally identifiable information about the individual who is using the computer (only the computer used to access the Web through what is known as the IP address). Cookies perform many important and useful functions: they help website owners determine which sections of their sites are more appealing to their visitors; they help speed the web experience by eliminating the need to enter user names and passwords constantly; they make it possible to provide personalized pages for the visitor; they help advertisers avoid repeatedly serving the same ads to the same visitor; and they help advertisers learn which advertisements are of interest to visitors. Adprime Media and its third party advertising technology vendor use cookie files to collect anonymous web-surfing information, known as Click Stream Data, on web surfers who visit websites in our web network, and who respond to advertisements that we show. None of the Click Stream Data is personally identifiable. Collecting the Click Stream Data assists us in delivering targeted and more relevant advertising messages to web surfers. As you can tell from above, cookies serve many useful purposes for the Internet community. Nevertheless, Adprime Media firmly believes that every individual who uses the Internet should be able to make informed decisions with respect to individual privacy matters, including the use of cookies. One way to prevent the use of cookies is through adjusting the preferences on your Internet browser. Most browsers permit you to remove cookies that have been previously stored, as well as prevent the future use of cookies.</p>
 <p>The information that our third party advertising technology vendors log on our behalf is not personally identifiable to our vendors. To opt out of any of our advertising technology vendors’ cookie(s), please go to the Third Party Advertising Technology Vendor section of our Privacy Policy, and click on the link for the specific vendor.</p>
 <h4><b>Opting-Out</b></h4>
-<p>The following procedure works for cookies served by Adprime Media servers only. By clicking below you can request an “opt-out cookie,” which is an identification tag that will prevent your anonymous data from being matched to any particular machine. Please note that this opt-out process will erase the cookie ID but not the cookie. It’s necessary for us to store this “opt-out” cookie on your computer in order to recognize you as an opt-out user. This is the only way Adprime Media can know you’ve chosen to take this action, and ensure that your decision is recognized by our servers. Please note that if you ever clean out cookies from your internal drive you will need to visit the Adprime Media site again and repeat this quick procedure. Also, please be aware that should you change computers, have different browsers, have different computers, update your Internet browser or delete your cookie, you should repeat this opt-out process.</p>
+<p>Adprime Media, or data providers we have engaged, use cookies to enable you to receive customized ads, content or services, and to provide Adprime Media with certain information. No PII is placed into these cookies. The cookies may reflect demographic or other data linked to data you voluntarily have submitted to us, i.e., your e-mail address in hashed, non-human readable form. To opt-out of these cookies, please visit <a href="http://optout.aboutads.info">http://optout.aboutads.info</a></p>
 <h4><b>Are There Any Drawbacks to Opting-Out?</b></h4>
 <p>Adprime Media believes that providing targeted and relevant content to Internet users enhances the web-surfing experience. If you decide to opt-out, it will affect our ability to provide you with such advertising content, and will prevent us from controlling the frequency with which you may view particular advertisements.</p>
         
@@ -1318,6 +1507,14 @@ New York, NY 10005</p>
                                     window.apStickyAds.registerSlot("div-gpt-ad-3236", null);
 
                                     var sidebar1Display = function(){
+                                        if(window.ap_has_preroll){
+                                            setTimeout(function(){
+                                                window.ap_has_preroll = false;
+                                                sidebar1Display();
+                                            },7000);
+                                            return;
+                                        }
+
                                         window.apViewability.registerDisplayCall("div-gpt-ad-3236");
                                         googletag.cmd.push(function() {
                                             googletag.display("div-gpt-ad-3236");
@@ -1348,115 +1545,91 @@ New York, NY 10005</p>
 		    </div>
 
     
-
-			<div class="ad-container ad-container-sidebar ad-container-sidebar2">
-
-				
-			        <div class="ad">
-
-				        <div id="div-gpt-ad-16">
-				            <script type="text/javascript">
-
-                                (function($) {
-                                    var sidebar2Display = function(){
-                                        window.apViewability.registerDisplayCall("div-gpt-ad-16");
-
-                                        googletag.cmd.push(function() {
-                                            googletag.display("div-gpt-ad-16");
-                                        });
-                                    };
-                                    if (!document.hidden) {
-                                        sidebar2Display();
-                                    } else {
-                                        $(window).one('focus', function (e) {
-                                            sidebar2Display();
-                                        })
-                                    }
-                                })(jQuery);
+                                <div class="ad-container ad-container-sidebar ad-container-sidebar2">
 
 
-				            </script>
-				        </div>
+                    
+                        <div class="ad">
 
-					</div>
+                            <div id="div-gpt-ad-16">
+                                <script type="text/javascript">
 
-				
-		    </div>
+                                    (function ($) {
+                                        var sidebar2Display = function (registerViewable) {
 
-    
+                                            if (window.ap_has_preroll) {
+                                                setTimeout(function () {
+                                                    window.ap_has_preroll = false;
+                                                    sidebar2Display(false);
+                                                }, 7000);
+                                                return;
+                                            }
+
+                                            if (registerViewable) {
+                                                console.log('registered');
+                                                window.apViewability.registerDisplayCall("div-gpt-ad-16");
+                                            }
+
+                                            googletag.cmd.push(function () {
+                                                googletag.display("div-gpt-ad-16");
+                                            });
+                                        };
+                                        if (!document.hidden) {
+                                            sidebar2Display(true);
+                                        } else {
+                                            $(window).one('focus', function (e) {
+                                                sidebar2Display(true);
+                                            })
+                                        }
+                                    })(jQuery);
+
+
+                                </script>
+                            </div>
+
+                        </div>
+
+                    
+
+                </div>
+                            
+        
 </div>
-		</div><div id="text-12" class="widget widget_text"><h4>Monthly Newsletter</h4>			<div class="textwidget"><div class="newsletter-list">
-<ul>
-<li>Sign up to get fresh content and exclusive offers.</li>
-</ul>
-<script type="text/javascript">(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3019084 mc4wp-ajax" method="post" data-id="3019084" data-name="Newsletter Signup"><div class="mc4wp-form-fields"><p>
-  <!--<input type="text" name="FNAME" class="newsletter-name" placeholder="First Name" >-->
-  <input type="email" name="EMAIL" class="newletter-email" placeholder="Email Address" required="">
-</p>
-<p id="submit">
-    <input type="submit" value="Subscribe">
-</p>
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1496727532"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-<div class="cta-line"><a href="javascript:void(0);" class="cta-btn side-cta-btn">Sign Up Now</a></div>
-</div></div>
-		</div><div id="text-13" class="widget widget_text"><h4>Monthly Newsletter</h4>			<div class="textwidget"><div class="newsletter-list">
-<ul>
-<li>Sign up to get fresh content and exclusive offers.</li>
-</ul>
-<script type="text/javascript">(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-3019084 mc4wp-ajax" method="post" data-id="3019084" data-name="Newsletter Signup"><div class="mc4wp-form-fields"><p>
-  <!--<input type="text" name="FNAME" class="newsletter-name" placeholder="First Name" >-->
-  <input type="email" name="EMAIL" class="newletter-email" placeholder="Email Address" required="">
-</p>
-<p id="submit">
-    <input type="submit" value="Subscribe">
-</p>
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1496727532"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-<div class="cta-line"><a href="javascript:void(0);" class="cta-btn side-cta-btn">Sign Up Now</a></div>
-</div></div>
-		</div><div id="text-10" class="widget widget_text"><h4>Featured Video</h4>			<div class="textwidget"><div class="side-post slideshow">
+		</div><div id="text-17" class="widget widget_text"><h4>Featured Video</h4>			<div class="textwidget"><div class="side-post slideshow">
 
-<div class="vidContThumb2">
-<a href="http://thirdage.com/video/understanding-ptsd/"></a>
-<div class="pImage"> <span class="playBtn"></span> <img width="1920" height="1080" src="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD.jpg" class="attachment-full size-full wp-post-image" alt="Man Looking in Mirror" srcset="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD.jpg 1920w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-220x124.jpg 220w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-500x281.jpg 500w" sizes="(max-width: 1920px) 100vw, 1920px"></div>
-<p><a href="http://thirdage.com/video/understanding-ptsd/" class="ttl">Understanding PTSD</a></p>
+    <div class="vidContThumb2">
+        <a href="http://thirdage.com/video/understanding-ptsd/"></a>
+        <div class="pImage"> <span class="playBtn"></span> <img width="1920" height="1080" src="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD.jpg" class="attachment-full size-full wp-post-image" alt="Man Looking in Mirror" srcset="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD.jpg 1920w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-220x124.jpg 220w, http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-500x281.jpg 500w" sizes="(max-width: 1920px) 100vw, 1920px"></div>
+       <p><a href="http://thirdage.com/video/understanding-ptsd/" class="ttl">Understanding PTSD</a></p>
+     </div>
+
+</div>
+<br><br><br><br>
+
+ <div class="cta-line"><a href="/videos" class="cta-btn side-cta-btn-yellow">See All Videos</a></div></div>
+		</div><div id="text-16" class="widget widget_text"><h4>Featured Slideshow</h4>			<div class="textwidget"><div class="side-post slideshow">
+
+              
+<ul class="latest-list">
+ <li><span class="side-blog-slideshow"><a href="http://thirdage.com/slideshow/foods-that-will-keep-your-skin-thriving-through-winter/"><img width="1000" height="667" src="http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter.jpg 1000w, http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter-220x147.jpg 220w, http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter-728x486.jpg 728w, http://thirdage-assets.thirdage.com/field/image/1.-skin-in-winter-147x98.jpg 147w" sizes="(max-width: 1000px) 100vw, 1000px"></a></span> <p><a href="http://thirdage.com/slideshow/foods-that-will-keep-your-skin-thriving-through-winter/" class="ttl">Foods That Will Keep Your Skin Thriving Through Winter</a></p></li>
+</ul>
+
  </div>
 
+ <div class="cta-line"><a href="/slideshows" class="cta-btn side-cta-btn">See All Slideshows</a></div></div>
+		</div><div id="text-20" class="widget widget_text">			<div class="textwidget"><!--<div class=“newsletter-list”>
+<br>
+ <a href=amazon-giftcard-giveaway target=_blank>
+  <img src=https://gallery.mailchimp.com/6eb064ac96de04601f4b18fda/images/75b82bd5-0db2-440c-835d-111b87bdeb8b.jpg>
+ </a>
+</div>--></div>
+		</div><div id="text-22" class="widget widget_text"><h4>Healthy Recipes</h4>			<div class="textwidget"><div class="“newsletter-list”">
+<br>
+ <a href="http://thirdage.com/healthy-recipes/" target="_blank">
+ <img src="https://gallery.mailchimp.com/6eb064ac96de04601f4b18fda/images/6ef1e821-0222-4b14-8f31-3447096d3db6.jpg">
+ </a>
 </div></div>
-		</div><div id="text-5" class="widget widget_text"><h4>Monthly Newsletter</h4>			<div class="textwidget"><div class="newsletter-list">
-<ul>
-<li>Sign up to get fresh content and exclusive offers.</li>
-</ul>
-<script type="text/javascript">(function() {
+		</div><div id="text-21" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">(function() {
 	if (!window.mc4wp) {
 		window.mc4wp = {
 			listeners: [],
@@ -1471,156 +1644,36 @@ New York, NY 10005</p>
 		}
 	}
 })();
-</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-3" class="mc4wp-form mc4wp-form-3019084 mc4wp-ajax" method="post" data-id="3019084" data-name="Newsletter Signup"><div class="mc4wp-form-fields"><p>
+</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3019084 mc4wp-ajax" method="post" data-id="3019084" data-name="Newsletter Signup"><div class="mc4wp-form-fields"><!--<p>
   <!--<input type="text" name="FNAME" class="newsletter-name" placeholder="First Name" >-->
-  <input type="email" name="EMAIL" class="newletter-email" placeholder="Email Address" required="">
+  <!--<input type="email" name="EMAIL" class="newletter-email" placeholder="Email Address" required>
 </p>
 <p id="submit">
     <input type="submit" value="Subscribe">
-</p>
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1496727532"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-3"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-<div class="cta-line"><a href="javascript:void(0);" class="cta-btn side-cta-btn">Sign Up Now</a></div>
-</div></div>
-		</div><div id="text-11" class="widget widget_text"><h4>Monthly Newsletter</h4>			<div class="textwidget"><div class="newsletter-list">
-<p>Sign up for our newsletter and get...</p>
-<ul>
-<li><h5>Fresh Content</h5></li>
-<li><h5>Exclusive Offers</h5></li>
-</ul>
-<script type="text/javascript">(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-4" class="mc4wp-form mc4wp-form-3019084 mc4wp-ajax" method="post" data-id="3019084" data-name="Newsletter Signup"><div class="mc4wp-form-fields"><p>
-  <!--<input type="text" name="FNAME" class="newsletter-name" placeholder="First Name" >-->
-  <input type="email" name="EMAIL" class="newletter-email" placeholder="Email Address" required="">
-</p>
-<p id="submit">
-    <input type="submit" value="Subscribe">
-</p>
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1496727532"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-4"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-<div class="cta-line"><a href="javascript:void(0);" class="cta-btn side-cta-btn">Sign Up Now</a></div>
-</div></div>
-		</div><div id="text-6" class="widget widget_text"><h4>LATEST thirdAGE</h4>			<div class="textwidget"><span class="tabTtl">Currently viewing:</span>
-<div class="su-tabs su-tabs-style-default sideTab" data-active="1"><div class="su-tabs-nav"><span class="" data-url="" data-target="blank">Slideshows</span><span class="" data-url="" data-target="blank">Videos</span><span class="" data-url="" data-target="blank">Blogs</span></div><div class="su-tabs-panes"><div class="su-tabs-pane su-clearfix">
-    <ul class="latest-list side-slideshow slideshows">
-    
-        <li>
-            <span class="side-blog-slideshow"><a href="http://thirdage.com/slideshow/celebrities-in-the-lymelight/"><img width="667" height="1000" src="http://thirdage-assets.thirdage.com/field/image/1.-Christie-Brinkley-Shutterstock.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/1.-Christie-Brinkley-Shutterstock.jpg 667w, http://thirdage-assets.thirdage.com/field/image/1.-Christie-Brinkley-Shutterstock-220x330.jpg 220w" sizes="(max-width: 667px) 100vw, 667px"></a></span>
-            <p><a href="http://thirdage.com/slideshow/celebrities-in-the-lymelight/" class="ttl ttl-sm">Celebrities in the “Lymelight”</a></p>
-        </li>
-    
-    </ul>
-    <div class="cta-line"><a href="/slideshows" class="cta-btn side-cta-btn">See All Slideshows</a></div>
-    </div>
-<div class="su-tabs-pane su-clearfix">
-<div class="latest-list videos">
-    
+</p>-->
 
- <div class="vidContThumb2" style="overflow:auto;">
-                    <a href="http://thirdage.com/video/understanding-ptsd/"></a>
-                    <div class="pImage"> <span class="playBtn"></span> <img src="http://thirdage-assets.thirdage.com/field/image/01.Understanding-PTSD-120x120.jpg"></div>
-                  <div class="pLink"><a href="http://thirdage.com/video/understanding-ptsd/" class="ttl ttl-sm">Understanding PTSD</a></div>
-                </div>
-    
+<div id="newsletterSignup2" style="background-image: url('http://thirdage-assets.thirdage.com/field/image/Newsletter-Sign-Up-Homepage.jpg'); max-width:100%; height:240px">
+   <input type="email" name="EMAIL" class="newletterEmail" placeholder="  Email Address" required="" style="position:absolute; left:15%; bottom:10%; width:50%; height:29px; border: 1px solid #000000; color:#959595; font-size:11px; font-family:Avenir LT W01_55 Roman1475520;">
+   <input type="image" style="position:absolute;  bottom:10%;left:65%; height:29px; width:76px; padding:0" src="http://thirdage-assets.thirdage.com/field/image/Join-Button.jpg">
+</div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1514591556"><input type="hidden" name="_mc4wp_form_id" value="3019084"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></div>
+		</div><div id="text-18" class="widget widget_text"><h4>Featured Blogs</h4>			<div class="textwidget"><div class="side-post slideshow">
 
- <div class="vidContThumb2" style="overflow:auto;">
-                    <a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/"></a>
-                    <div class="pImage"> <span class="playBtn"></span> <img src="http://thirdage-assets.thirdage.com/field/image/11.When-Someone-You-Love-Suffers_10-Tips-for-Fibromyalgia-Caregivers-120x120.jpg"></div>
-                  <div class="pLink"><a href="http://thirdage.com/video/when-someone-you-love-suffers-10-tips-for-fibromyalgia-caregivers/" class="ttl ttl-sm">When Someone You Love Suffers: 10 Tips for Fibromyalgia Caregivers</a></div>
-                </div>
-    
+     <div class="vidContThumb2">
+         <a href="http://thirdage.com/blog/hormone-therapy-and-heart-health/"></a>
+         <div class="pImage"> <img width="1000" height="667" src="http://thirdage-assets.thirdage.com/field/image/heart-health.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/heart-health.jpg 1000w, http://thirdage-assets.thirdage.com/field/image/heart-health-220x147.jpg 220w, http://thirdage-assets.thirdage.com/field/image/heart-health-728x486.jpg 728w, http://thirdage-assets.thirdage.com/field/image/heart-health-147x98.jpg 147w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
+        <p><a href="http://thirdage.com/blog/hormone-therapy-and-heart-health/" class="ttl">Hormone Therapy and Heart Health</a></p>
+     </div>
 
- <div class="vidContThumb2" style="overflow:auto;">
-                    <a href="http://thirdage.com/video/what-is-fibromyalgia/"></a>
-                    <div class="pImage"> <span class="playBtn"></span> <img src="http://thirdage-assets.thirdage.com/field/image/10.What-Is-Fibromyalgia-120x120.jpg"></div>
-                  <div class="pLink"><a href="http://thirdage.com/video/what-is-fibromyalgia/" class="ttl ttl-sm">What Is Fibromyalgia?</a></div>
-                </div>
-    
-</div>
-    <div class="cta-line"><a href="/videos" class="cta-btn side-cta-btn">See All Videos</a></div>
-    </div>
-<div class="su-tabs-pane su-clearfix">
-    <ul class="latest-list side-blog">
-    
-            <li class="post-3055789">
-            <a href="http://thirdage.com/blog/this-vacation-leave-your-menopausal-baggage-home/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/chairs-by-the-sea-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/chairs-by-the-sea-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/chairs-by-the-sea-226x226.jpg 226w, http://thirdage-assets.thirdage.com/field/image/chairs-by-the-sea-150x150.jpg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
-            <p><a href="http://thirdage.com/blog/this-vacation-leave-your-menopausal-baggage-home/" class="ttl ttl-sm">This Vacation, Leave Your Menopausal Baggage Home!</a></p>
-            <div class="author">
-			<span>
-                Posted by
-                                                        <a href="http://thirdage.com/authors/ellen-dolgen/"><img src="http://thirdage-assets.thirdage.com/field/image/Ellen-Dolgen-120x120.jpg" class="author-image"></a>
-                                                    <a href="http://thirdage.com/authors/ellen-dolgen/" class="author-name">Ellen Dolgen</a>
-            </span>
-            </div>
-        </li>
-    
-            <li class="post-3055718">
-            <a href="http://thirdage.com/blog/move-through-the-world/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/Move-through-the-world-120x120.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://thirdage-assets.thirdage.com/field/image/Move-through-the-world-120x120.jpeg 120w, http://thirdage-assets.thirdage.com/field/image/Move-through-the-world-226x226.jpeg 226w, http://thirdage-assets.thirdage.com/field/image/Move-through-the-world-150x150.jpeg 150w" sizes="(max-width: 120px) 100vw, 120px"></a>
-            <p><a href="http://thirdage.com/blog/move-through-the-world/" class="ttl ttl-sm">Move Through the World</a></p>
-            <div class="author">
-			<span>
-                Posted by
-                                                        <a href="http://thirdage.com/authors/honey-good/"><img src="http://thirdage-assets.thirdage.com/field/image/Honey-Good-120x120.jpg" class="author-image"></a>
-                                                    <a href="http://thirdage.com/authors/honey-good/" class="author-name">Susan “Honey” Good</a>
-            </span>
-            </div>
-        </li>
-    
-            <li class="post-3055728">
-            <a href="http://thirdage.com/blog/where-do-i-fit-in/"><img width="120" height="120" src="http://thirdage-assets.thirdage.com/field/image/mature-couple-on-a-date-120x120.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="mature couple on a date" srcset="http://thirdage-assets.thirdage.com/field/image/mature-couple-on-a-date-120x120.jpg 120w, http://thirdage-assets.thirdage.com/field/image/mature-couple-on-a-date-226x226.jpg 226w" sizes="(max-width: 120px) 100vw, 120px"></a>
-            <p><a href="http://thirdage.com/blog/where-do-i-fit-in/" class="ttl ttl-sm">Where Do I Fit In?</a></p>
-            <div class="author">
-			<span>
-                Posted by
-                                                        <a href="http://thirdage.com/authors/donna-ryan/"><img src="http://thirdage-assets.thirdage.com/field/image/Donna-Ryan-headshot-120x120.jpg" class="author-image"></a>
-                                                    <a href="http://thirdage.com/authors/donna-ryan/" class="author-name">Donna Ryan</a>
-            </span>
-            </div>
-        </li>
-    
-    </ul>
-    <div class="cta-line"><a href="/blogs" class="cta-btn side-cta-btn">See All Blogs</a></div>
-    </div></div></div>
-</div>
+<p><br>
+</p></div>
+<br><br><br><br>
+
+ <div class="cta-line"><a href="/blogs" class="cta-btn side-cta-btn">See All Blogs</a></div></div>
 		</div><div id="text-7" class="widget widget_text"><h4>For Men</h4>			<div class="textwidget"><ul class="latest-list side-blog-men">
 
 </ul>
 <div class="cta-line"><a href="#" class="cta-btn side-cta-btn">See All Health A-Z for Men</a></div>
    </div>
-		</div><div id="text-8" class="widget widget_text"><h4>What’s new</h4>			<div class="textwidget"><ul class="social-list">
-                    <li>
-                        <a href="http://www.facebook.com/thirdagers/" target="_blank"><img src="/wp-content/uploads/2015/08/icon-facebook.png"></a>
-                        <div class="cff-wrapper"><div id="cff" data-char="" class="cff-default-styles"><div class="cff-item cff-link-item author-thirdage" id="cff_212827525077_10158616011380078" style="border-bottom: 0px solid #fff; -webkit-border-radius: px; -moz-border-radius: px; border-radius: px; "><div class="cff-author"><a href="https://facebook.com/212827525077" target="_blank" rel="nofollow" title="ThirdAge on Facebook"><div class="cff-author-text"><p class="cff-page-name cff-author-date">ThirdAge</p><p class="cff-date"> 2 months ago </p></div><div class="cff-author-img"><img src="https://graph.facebook.com/212827525077/picture?type=square" title="ThirdAge" alt="ThirdAge" width="40" height="40"></div></a></div><p class="cff-post-text"><span class="cff-text" data-color="">Check out our latest post: Finding A Doctor You Can Talk to <a href="http://thirdage.com/finding-a-doctor-you-can-talk-to/">thirdage.com/finding-a-doctor-you-can-talk-to/</a> </span><span class="cff-expand">... <a href="#" style="color: #"><span class="cff-more"></span><span class="cff-less"></span></a></span></p><div class="cff-shared-link"><div class="cff-text-link cff-no-image"><p class="cff-link-title"><a href="http://thirdage.com/finding-a-doctor-you-can-talk-to/" target="_blank" rel="nofollow" style="color:#;">Finding A Doctor You Can Talk to</a></p><p class="cff-link-caption" style="color:#;">thirdage.com</p><p class="cff-post-desc"><span>&nbsp; </span></p></div></div><div class="cff-post-links"><a class="cff-viewpost-facebook" href="https://www.facebook.com/212827525077_10158616011380078" title="View on Facebook" target="_blank" rel="nofollow">View on Facebook</a><div class="cff-share-container"><span class="cff-dot">·</span><a class="cff-share-link" href="javascript:void(0);" title="Share">Share</a><p class="cff-share-tooltip"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fthirdagers%2Fposts%2F10158616011380078" target="_blank" class="cff-facebook-icon"><i class="fa fa-facebook-square"></i></a><a href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fwww.facebook.com%2Fthirdagers%2Fposts%2F10158616011380078" target="_blank" class="cff-twitter-icon"><i class="fa fa-twitter"></i></a><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.facebook.com%2Fthirdagers%2Fposts%2F10158616011380078" target="_blank" class="cff-google-icon"><i class="fa fa-google-plus"></i></a><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.facebook.com%2Fthirdagers%2Fposts%2F10158616011380078&amp;title=Check%20out%20our%20latest%20post%3A%20Finding%20A%20Doctor%20You%20Can%20Talk%20to%20thirdage.com%2Ffinding-a-doctor-you-can-talk-to%2F%20...%20" target="_blank" class="cff-linkedin-icon"><i class="fa fa-linkedin"></i></a><a href="mailto:?subject=Facebook&amp;body=https%3A%2F%2Fwww.facebook.com%2Fthirdagers%2Fposts%2F10158616011380078%20-%20Check%20out%20our%20latest%20post%3A%20Finding%20A%20Doctor%20You%20Can%20Talk%20to%20thirdage.com%2Ffinding-a-doctor-you-can-talk-to%2F%20...%20" target="_blank" class="cff-email-icon"><i class="fa fa-envelope"></i></a><i class="fa fa-play fa-rotate-90"></i></p></div></div></div></div><div class="cff-clear"></div></div>
-                    </li>
-                    <li style="margin-top:13px;">
-                        <a href="http://www.twitter.com/thirdage/" target="_blank"><img src="/wp-content/uploads/2015/08/icon-twitter.png"></a>
-                        <span></span>
-                    </li>
-<!--
-                    <li>
-                        <a href="#" target="_blank"><img src="/wp-content/uploads/2015/10/icon-youtube.png"></a>
-                        <span></span>
-                    </li>
-                    <li>
-                        <a href="#" target="_blank"><img src="/wp-content/uploads/2015/10/icon-pinterest.png"></a>
-                        <span></span>
-                    </li>
-                    -->
-                </ul>
-
-</div>
 		</div><div id="text-9" class="widget widget_text">			<div class="textwidget"><div style="clear:both">
 </div></div>
 		</div>	
@@ -1689,6 +1742,7 @@ New York, NY 10005</p>
     </div><!-- /row -->
 </div>
 </footer>
+
 <!-- Custom Facebook Feed JS -->
 <script type="text/javascript">
 var cfflinkhashtags = "true";
@@ -1727,8 +1781,7 @@ if( testInput.type !== 'date') {
 	}
 }
 
-})();</script><link rel="stylesheet" id="su-box-shortcodes-css" href="http://thirdage.com/wp-content/plugins/shortcodes-ultimate/assets/css/box-shortcodes.css?ver=4.9.9" type="text/css" media="all">
-<script type="text/javascript" src="http://thirdage.com/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.4.5"></script>
+})();</script><script type="text/javascript" src="http://thirdage.com/wp-content/plugins/custom-facebook-feed/js/cff-scripts.js?ver=2.4.5"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-includes/js/wp-embed.min.js?ver=2c57b0593a108fa5b69df1169ca78719"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -1745,12 +1798,6 @@ var mc4wp_ajax_vars = {"loading_character":"\u2022","ajax_url":"http:\/\/thirdag
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js?ver=1.5.8.2"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.3.2"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.12"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live preview. Please insert it into editor and preview on the site."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://thirdage.com/wp-content/plugins/shortcodes-ultimate/assets/js/other-shortcodes.js?ver=4.9.9"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/themes/3rdAge/js/modernizr.custom.js?ver=2c57b0593a108fa5b69df1169ca78719"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/themes/3rdAge/js/bootstrap.min.js?ver=2c57b0593a108fa5b69df1169ca78719"></script>
 <script type="text/javascript" src="http://thirdage.com/wp-content/themes/3rdAge/js/classie.js?ver=1.0"></script>
@@ -1764,15 +1811,7 @@ var su_other_shortcodes = {"no_preview":"This shortcode doesn't work in live pre
 <script type='text/javascript' src='http://thirdage.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.0.13'></script>
 <![endif]-->
 <!-- SIMP MODAL --> 
-<div class="smp-overlay" id="smp-overlay3049936"><div class="smp-modal" data-id="3049936" data-method="click" data-track="#pop" data-opening="fadeIn" data-closing="fadeOut" data-openspeed="100" data-closespeed="100" data-bgclose="true" data-cookie="1496731132"><div id="ta_newsletter_2" style="width: 550px; height: 550px; border-radius: 550px/550px; border: 4px solid #1ebfea; background: #ffffff;">
-<div style="width: 542px; height: 271px;">
-
-<img style="width: 333px; height: 62px; position: absolute; left: 22%; top: 17%;" src="http://thirdage-assets.thirdage.com/field/image/logo.png" alt="logo">
-<h1 style="font-style: Avenir; font-size: 21pt; text-shadow: 1px 1px #000000; position: absolute; left: 20%; top: 30%;"><b><i>The latest for the greatest!</i></b></h1>
-<h1 style="font-style: Georiga; font-size: 13pt; position: absolute; left: 22%; top: 37%;">Get up-to-the-moment health + wellness info
-right to your inbox, plus exclusive offers!</h1>
-</div>
-<div style="background: #eae6e6 url('http://thirdage-assets.thirdage.com/field/image/bg_img.png'); background-size: cover; border-radius: 50%/0 0 100% 100%; width: 542px; height: 271px;"><script type="text/javascript">(function() {
+<div class="smp-overlay" id="smp-overlay3057156"><div class="smp-modal" data-id="3057156" data-method="loadxs" data-track="1000" data-opening="fadeIn" data-closing="fadeOut" data-openspeed="100" data-closespeed="100" data-bgclose="false" data-cookie=""><script type="text/javascript">(function() {
 	if (!window.mc4wp) {
 		window.mc4wp = {
 			listeners: [],
@@ -1787,14 +1826,19 @@ right to your inbox, plus exclusive offers!</h1>
 		}
 	}
 })();
-</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-5" class="mc4wp-form mc4wp-form-3049941 mc4wp-ajax" method="post" data-id="3049941" data-name="Newsletter Popup 2.0"><div class="mc4wp-form-fields"><input type="email" name="EMAIL" placeholder="Enter Your Email" required="" style=" position: absolute; left:24%; top:67%; width:250px;height:42px">
-<input type="image" src="http://thirdage-assets.thirdage.com/field/image/button.png" style="position: absolute; left:71%; top:67% ; width:42px ">
-<a style="position:absolute;left:27%; top:75%; font-size:10pt;color:black" onclick="var n =document.getElementById('smp-overlay3049936'); n.parentNode.removeChild(n);">Not now, but tomorrow's another day</a>
+</script><!-- MailChimp for WordPress v4.0.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-3056671 mc4wp-ajax" method="post" data-id="3056671" data-name="newsletter popup 3.0"><div class="mc4wp-form-fields"><div id="pop">
+  <div id="input">
+     <input type="email" name="EMAIL" id="subscriber" placeholder=" YOUR EMAIL" required="" style="position:absolute; left:-20% ; width:50%; height:29px; border: 1px solid #000000; color:#959595; font-size:11px; font-family:Avenir LT W01_55 Roman1475520;">
+     <input type="image" src="http://thirdage-assets.thirdage.com/field/image/F-Join-1.png" id="submitSubscriber" style="position: absolute; left:30%;" onclick="closeSubscribeForm();">
+  </div>
+</div>
+<script type="text/javascript" src="http://thirdage.com/wp-content/themes/3rdAge/js/popup.js?v=1.2" defer=""></script>
+
+<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1514591556"><input type="hidden" name="_mc4wp_form_id" value="3056671"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
 
 
-<div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></div><input type="hidden" name="_mc4wp_timestamp" value="1496727532"><input type="hidden" name="_mc4wp_form_id" value="3049941"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-5"></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
-<a id="pop"></a></div>
-</div><span class="smp-close"></span><span class="smp-counter" data-count="5" data-show="false"></span></div></div>
+
+<span class="smp-close"></span></div></div>
 
 <script type="text/javascript">
 (function($) { $(".smp-modal").each(function() { var modal = $(this), method = modal.data("method"), track = modal.data("track"), hash = window.location.hash; $(document).ready(function() { if (method == "click") { $(track).on("click", function(e) { modal.simpModal(); e.preventDefault(); }); } if (method == "loadxs" && track > 0) { var delayTime = setTimeout(function() { modal.simpModal(); clearTimeout(delayTime); }, track); } }); if (method == "load") { $(window).on("load", modal.simpModal()); } if (method == "hash" && hash == track) { $(window).on("load", modal.simpModal()); } if (method == "unload") { var visited = 0; $(window).on("beforeunload", function(ue) { if (visited == 0) { ue.preventDefault(); ue.stopPropagation(); ue.stopImmediatePropagation(); modal.simpModal(); visited++; return track; } }); } }); })(jQuery);
@@ -1803,10 +1847,26 @@ right to your inbox, plus exclusive offers!</h1>
 jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create/button"]').addClass('nolightbox'); });
 jQuery(document).on('ready post-load',easy_fancybox_handler);
 jQuery(document).on('ready',easy_fancybox_auto);</script>
+    <script>
+
+        (function ($) {
+            $(function () {
+                $('#ap_oo').click(function () {
+                    $.getJSON(atob('aHR0cHM6Ly9hcGlzZXJ2aWNlcy5rcnhkLm5ldC9jb25zdW1lci9vcHRvdXQ/Y2FsbGJhY2s9Pw=='), function () {
+                    });
+                });
+            });
+        })(jQuery);
+    </script>
+
+<script src="http://thirdage.com/wp-content/themes/3rdAge/owlcarousel/dist/owl.carousel.min.js"></script>
+
+
+
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
 Content Delivery Network via Amazon Web Services: S3: thirdage-assets.thirdage.com
 
- Served from: thirdage.com @ 2017-06-06 01:38:52 by W3 Total Cache --></body></html>
+ Served from: thirdage.com @ 2017-12-29 18:52:36 by W3 Total Cache --></body></html>
