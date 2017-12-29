@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssnet.org privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625075226id_/http%3A//ssnet.org/about-us/sabbath-school-net-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssnet.org privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229135941id_/http%3A//ssnet.org/about-us/sabbath-school-net-privacy-policy) for the most accurate reproduction.*
 
 # Sabbath School Net Privacy Policy | Sabbath School Net
 
@@ -34,4 +34,4 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 **If you feel that we are not abiding by this privacy policy, you should contact us immediately via our[Contact Us form](http://ssnet.org/about-us/fscontact-admi/).**
 
-Amen!(0)
+Amen!(1)
