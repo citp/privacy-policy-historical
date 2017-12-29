@@ -1,90 +1,17 @@
-> *The following text is extracted and transformed from the extremeseotools.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908015047id_/https%3A//offshoreseovps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeseotools.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - We Do Not Keep Or Give Out Information
+# Legal
 
-Please Also See  <https://offshoreseovps.com/Client/knowledgebase/5/What-things-can-you-do-on-our-network-.html>
+* * *
 
-**What information do we collect?**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-If you want to remain anonymous please use bitpay as payment processor and you may need to [contact us](https://offshoreseovps.com/contact-us/) to turn off fraud filter if it doesn’t let you pay.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously but if you decide to use Credit card payment, Paypal Payment, Or Payza you will need to use your correct information. Only Bitcoins will be you be able to remain 100% anonymous.
 
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways:
-
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
-
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-• To send periodic emails  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.You are already opted into our mailing list by ordering from us, you will receive emails that may include company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, simply log into your client area and opt out of all emails from us. Note that if you do have a service with us you will still get system emails.
-
-**How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This  includes trusted third parties who assist us in operating our website, conducting our business, or servicing you. We will not give your information out to ANYONE. If for some reason you are being hunted down by anyone you were never here, and that is what we will stick by and we protect your information. Do not worry about your information being given out because this is just not something we will ever do. We are here to offer you offshore hosting and VPS’s at the best possible rate.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our websites privacy policy (obtained from [Trustguard](http://www.freeprivacypolicy.com/)).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-This policy was last modified on April, 2015
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Offshore [SEO VPS](https://offshoreseovps.com/)
-
-support@offshoreseovps.com
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
