@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the gloadmarket.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209211800id_/https%3A//gloadmarket.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gloadmarket.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Global Advertising Market | Advertiser, Publiser
+# Legal
 
-GloAdMarket, as part of providing online services, we collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, Password. 
+* * *
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.   
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-
-GloAdMarket takes all reasonable steps to protect the privacy of our customers and ensures that the personal information we collect is not ordinarily disclosed to third parties without the customer's consent. GloAdMarket has numerous security measures in place to protect the loss, misuse and alteration of our customer's information. All customer information is password protected and only accessible by authorized members of the GloAdMarket staff.   
-
-
-However, there may be times when GloAdMarket may be required to disclose personal information of a customer without his/her express consent when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against the customer. 
-
-While GloAdMarket , our associates and affiliates make every effort to protect your personal information and your privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. Please keep in mind that whenever you give out personal information online, that information can be collected and used by people that neither we nor you will know.   
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-By using this website or our affiliated websites, you signify your assent to our terms and conditions. If you do not agree to be bound by our terms, we politely ask that you do not use this.
 
-Contacting Us 
-
-If there are any questions regarding this privacy policy. 
-
-  
-
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
