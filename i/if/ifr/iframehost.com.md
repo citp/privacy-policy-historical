@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the iframehost.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614222824id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframehost.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229152212id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
 
 # Woobox Privacy Policy
+
+_These Terms were last modified December 19th 2017_
 
 ### Our Commitment To Privacy
 
@@ -32,7 +34,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-### Our Commitment to the EU-US Privacy Shield and U.S.-Swiss Safe Harbor Frameworks
+### Our Commitment to the EU-US Privacy Shield
 
 Woobox LLC complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Woobox LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
@@ -41,8 +43,6 @@ In compliance with the EU-US Privacy Shield Principles, Woobox LLC commits to re
 Woobox LLC is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
 The Federal Trade Commission has jurisdiction over Woobox LLC's compliance with this Policy and the EU-US Privacy Shield Framework. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission. 
-
-For Swiss Residents, if you choose to provide us with your Personal Information, you consent to the transfer and storage of that information on our servers located in the United States. Woobox, LLC adheres to the US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Any questions or concerns regarding the use or disclosure of your information should be directed to Woobox, LLC by e-mailing us at support at woobox.com. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. Swiss Residents, if your complaints cannot be resolved, we have agreed to cooperate and comply with the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland. The contact information for the Swiss FDPIC can be found at: <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>. 
 
 ### Advertising/Retargeting
 
