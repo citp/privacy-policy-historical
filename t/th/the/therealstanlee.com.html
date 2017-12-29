@@ -1,500 +1,565 @@
-<!--The following is the downloaded HTML source of the therealstanlee.com privacy policy that was archived on 2015-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150412012733id_/http%3A//therealstanlee.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the therealstanlee.com privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229145646id_/http%3A//therealstanlee.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  	<title>TheRealStanLee.com</title>
-  	<meta charset="utf-8">
-  	<meta property="og:title" content="TheRealStanLee.com">
-  	<meta property="og:description" content="Calling all Brigadiers! See the latest news and updates from your Generalissimo!">
-  	<meta property="og:image" content="http://therealstanlee.com/images/fb_logo.png">
-  	<meta property="og:url" content="http://therealstanlee.com">
-  	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="http://therealstanlee.com/js/jquery-1.7.2.min.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/jquery.form.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/jcarousellite.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/turn/turn.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/jquery.scrollTo-1.4.3.1.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/jquery.jscrollpane.min.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/jquery.mousewheel.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/modernizr.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/common.js"></script>
-	
-	<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
-	<script type="text/javascript" src="http://therealstanlee.com/js/touchpunch.js"></script>
-
-	<link href="http://therealstanlee.com/css/styles-cache.css?time=1428802053" rel="stylesheet" type="text/css">
-	<link href="http://therealstanlee.com/css/normalize.css" rel="stylesheet" type="text/css">
-	<link href="http://therealstanlee.com/css/jquery.jscrollpane.css" rel="stylesheet" type="text/css">
-	<link href="http://therealstanlee.com/css/turn.css" rel="stylesheet" type="text/css">
-
-	<script type="text/javascript" src="http://therealstanlee.com/js/prefixfree.js"></script>
-
-	<script type="text/javascript" src="http://use.typekit.net/mvq1zpa.js"></script>
-	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	
-	<link rel="shortcut icon" type="image/x-icon" href="http://therealstanlee.com/favicon.png">
-
-	<script type="text/javascript">
-
-			var base = '';
-                try {
-                    base = 'http://therealstanlee.com/';
-                } catch (e) {
-                    base = '';
-                }
-                $(document).data( 'base_url', base );
-
-              var _gaq = _gaq || [];
-			  _gaq.push(['_setAccount', 'UA-37477646-1']);
-			  _gaq.push(['_trackPageview']);
-			
-			  (function() {
-			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			  })();
-
-	</script>
-
-			</head>
-<body>
-
-	 <!-- Brandscreen Remarketing List Addition Code . Advertiser: 1821/Pow. Name: www.therealstanlee.com --> 
-
-	<img src="http://tags.rtbidder.net/track?sid=5294c9c98bc06f0984df8753" width="0" height="0" border="0" alt="">
-
-	
-<div id="fb-root"></div>
- <script>
- 
-     window.fbAsyncInit = function() {
-          FB.init({
-            appId      : 273173052809748, // App ID
-            channelUrl : 'http://therealstanlee.com/channel.php',
-            status     : true, // check login status
-            cookie     : true, // enable cookies to allow the server to access the session
-            xfbml      : true  // parse XFBML
-          });
-        };
-
-    function fb_login(){
-        FB.login(function(response) {
-            
-            if (response.authResponse) {
-                if (response.status=='connected') {
-                    //log user into site
-                    var isChecked = $("input#email-chk:checked").val()?true:false;
-					if(isChecked == true){
-						var email_opt_in = 1;
-					} else {
-						var email_opt_in = 0;
-					}
-                    $.getJSON('http://therealstanlee.com/ajax/users/login.html?connect=1&optin=' + email_opt_in + '&next=' + window.location.pathname + window.location.search, function(data){
-                        if(data.success){
-                            $('#layer-logged-out, #layer-signup').hide();
-					        $('.corner-link').hide();
-							$('#turn_object').stop().animate({ width: 285, height: 335 });
-						    $('.fold-wrapper').fadeOut().load('http://therealstanlee.com/ajax/users/profile_corner', function(){
-								$('#layer-logged-in').fadeIn().css('z-index', 10000);
-								$('.fold-wrapper').fadeIn();
-							});
-                        }else{
-                            alert(data.message);
-                        }
-                    });
-                } else {
-                    alert("All permissions are required in allow this application to function correctly.");
-                }
-            } else {
-                // user is not logged in; hit cancel
-            }
-        }, {scope:'email'});
-        return false;
-        }
-
-        function fb_logout(){
-        FB.logout(function(response) {
-            $.getJSON('http://therealstanlee.com/ajax/users/login.htmlajax/users/logout', function(response){
-                window.location = response.redirect;
-            });
-        });
-    }
+<!DOCTYPE html><html class="no-js" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head><meta charset="UTF-8">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=1712123732423450&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script data-cfasync="false" data-pagespeed-no-defer="">var __ez=__ez||{};__ez.evt={};__ez.ck={};__ez.dot={};__ez.template={};__ez.template.isOrig=true;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(n,e){null!==e&&(n=n+"_"+e);for(var t=n+"=",r=decodeURIComponent(document.cookie),o=r.split(";"),i=0;i<o.length;i++){for(var u=o[i];" "===u.charAt(0);)u=u.substring(1);if(0===u.indexOf(t))return u.substring(t.length,u.length)}return""};__ez.queue=function(){function g(a,b,g,h,j,k,l,m){var n=new f.file(a,b,g,h,j,k,l);!0===m?d[a]=n:e[a]=n,c[a]=n,i(n)}function h(a,g,h,j,k,l,m,n,o){!0===l&&(a=a+"_"+b++);var p=new f.func(a,g,h,j,k,m,n);!0===o?d[a]=p:e[a]=p,c[a]=p,i(p)}function i(a){!0!==j(a)&&a.process()}function j(a){if(a.blockedBy instanceof Array)for(var b=0;b<a.blockedBy.length;b++){var d=a.blockedBy[b];if(!1===c.hasOwnProperty(d))return k(a.name+" blocked = "+d),!0;if(!0===a.proceedIfError&&!0===c[d].isError)return!1;if(!1===c[d].isComplete)return k(a.name+" blocked = "+d),!0}return!1}function k(a){var b=window.location.href,c=new RegExp("[?&]ezq=([^&#]*)","i"),d=c.exec(b);"1"===(d?d[1]:null)&&console.debug(a)}function l(){++a>20||(k("let's go"),m(d),m(e))}function m(a){for(var b in a)if(!1!==a.hasOwnProperty(b)){var c=a[b];!0===c.isComplete||j(c)||!0===c.isInitialized||!0===c.isError?!0===c.isError?k(c.name+": error"):!0===c.isComplete?k(c.name+": complete already"):!0===c.isInitialized&&k(c.name+": initialized already"):c.process()}}var a=0,b=0,c=[],d=[],e=[],f={func:function(a,b,d,e,f,g,h){var i=this;this.name=a,this.funcName=b,this.parameters=null===d?null:d instanceof Array?d:[d],this.isBlock=e,this.blockedBy=f,this.deleteWhenComplete=g,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=h,this.process=function(){k("... func = "+a),i.isInitialized=!0,i.isComplete=!0;var b=i.funcName.split(".");b.length>3||(3===b.length?window[b[0]][b[1]][b[2]].apply(null,this.parameters):2===b.length?window[b[0]][b[1]].apply(null,this.parameters):window[i.funcName].apply(null,this.parameters)),!0===i.deleteWhenComplete&&delete c[a],!0===i.isBlock&&(k("----- F'D: "+i.name),l())}},file:function(a,b,c,d,e,f,g){var h=this;this.name=a,this.path=b,this.async=e,this.defer=f,this.isBlock=c,this.blockedBy=d,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=g,this.process=function(){h.isInitialized=!0,k("... file = "+a);var c=document.createElement("script");c.src=b,!0===e?c.async=!0:!0===f&&(c.defer=!0),c.onerror=function(){k("----- ERR'D: "+h.name),h.isError=!0,!0===h.isBlock&&l()},c.onreadystatechange=c.onload=function(){var a=c.readyState;k("----- F'D: "+h.name),a&&!/loaded|complete/.test(a)||(h.isComplete=!0,!0===h.isBlock&&l())},document.getElementsByTagName("head")[0].appendChild(c)}}};return{addFile:g,addFunc:h,items:c}}();var __ezDotData=function(a,b){this.name=a,this.val=b};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(a){var c,d,e,f,g,h,i,b="",j=0;for(a=Base64._utf8_encode(a);j<a.length;)c=a.charCodeAt(j++),d=a.charCodeAt(j++),e=a.charCodeAt(j++),f=c>>2,g=(3&c)<<4|d>>4,h=(15&d)<<2|e>>6,i=63&e,isNaN(d)?h=i=64:isNaN(e)&&(i=64),b=b+this._keyStr.charAt(f)+this._keyStr.charAt(g)+this._keyStr.charAt(h)+this._keyStr.charAt(i);return b},decode:function(a){var c,d,e,f,g,h,i,b="",j=0;for(a=a.replace(/[^A-Za-z0-9+\/=]/g,"");j<a.length;)f=this._keyStr.indexOf(a.charAt(j++)),g=this._keyStr.indexOf(a.charAt(j++)),h=this._keyStr.indexOf(a.charAt(j++)),i=this._keyStr.indexOf(a.charAt(j++)),c=f<<2|g>>4,d=(15&g)<<4|h>>2,e=(3&h)<<6|i,b+=String.fromCharCode(c),64!=h&&(b+=String.fromCharCode(d)),64!=i&&(b+=String.fromCharCode(e));return b=Base64._utf8_decode(b)},_utf8_encode:function(a){a=a.replace(/rn/g,"n");for(var b="",c=0;c<a.length;c++){var d=a.charCodeAt(c);d<128?b+=String.fromCharCode(d):d>127&&d<2048?(b+=String.fromCharCode(d>>6|192),b+=String.fromCharCode(63&d|128)):(b+=String.fromCharCode(d>>12|224),b+=String.fromCharCode(d>>6&63|128),b+=String.fromCharCode(63&d|128))}return b},_utf8_decode:function(a){for(var b="",c=0,d=c1=c2=0;c<a.length;)d=a.charCodeAt(c),d<128?(b+=String.fromCharCode(d),c++):d>191&&d<224?(c2=a.charCodeAt(c+1),b+=String.fromCharCode((31&d)<<6|63&c2),c+=2):(c2=a.charCodeAt(c+1),c3=a.charCodeAt(c+2),b+=String.fromCharCode((15&d)<<12|(63&c2)<<6|63&c3),c+=3);return b}},__ez.dot.dataToStr=function(a){if(void 0===a)return[];try{for(var b in a)a[b].val=a[b].val+""}catch(a){}return a},__ez.dot.getCC=function(){var a="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(a=_ezaq.country),a},__ez.dot.getDID=function(){var a="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(a=_ezaq.domain_id.toString()),a},__ez.dot.getEpoch=function(a){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(a=_ezaq.t_epoch),a},__ez.dot.getURL=function(a){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp)&&(a="//g.ezoic.net"+a),a},__ez.dot.isValid=function(a){for(var b=0;b<a.length;b++)if(a[b]instanceof __ezDotData==!1)return console.error("Invalid data. ",a[b]),!1;return!0},__ez.dot.isDefined=function(){for(var a=0;a<arguments.length;a++)if(void 0===arguments[a]||null===arguments[a])return console.error("Argument not defined. ",arguments),!1;return!0};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-cfasync="false" data-pagespeed-no-defer="">__ez.pel=function(){function c(a,b){d(a,b,0,0,0,0,0),f()}function d(b,c,d,e,f,h,i){if(__ez.dot.isDefined(b,b.getSlotElementId)){var j=parseInt(b.getTargeting("ap")[0]),k=b.getSizes()[0],l=k.l.toString()+"x"+k.j.toString(),m=g(b),n=b.getSlotElementId();__ez.dot.isDefined(m,n)&&__ez.dot.isValid(c)&&a.push({type:"impression",impression_id:m,domain_id:__ez.dot.getDID(),unit:n,t_epoch:__ez.dot.getEpoch(0),revenue:d,est_revenue:e,ad_position:j,ad_size:l,bid_floor_filled:f,bid_floor_prev:h,stat_source_id:i,country_code:__ez.dot.getCC(),data:__ez.dot.dataToStr(c)})}}function e(b,c){var d=b.split("/");if(__ez.dot.isDefined(b)&&3===d.length&&__ez.dot.isValid(c)){var e=d[0],f=d[2];a.push({type:"impression",impression_id:f,domain_id:__ez.dot.getDID(),unit:e,t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}}function f(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(a))),a=[])}function g(a){var b=0;try{var c=a.getTargetingMap();if(-1===a.getSlotElementId().indexOf("div-gpt-ad"))return b;if(void 0!==c)for(var e in c)if(-1!==e.indexOf("iid")&&void 0!==c[e][0]){b=c[e][0];break}}catch(a){}return b}var a=[],b="/porpoiseant/army.gif";return{Add:d,AddAndFire:c,AddById:e,Fire:f}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&ezJsu===!0||"undefined"!=typeof _ez_sa&&_ez_sa===!0||"undefined"!=typeof window.isAmp&&isAmp===!0)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(a,b){this.name=a,this.val=b};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(a,b){this.AddImpPixel(a,b,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(a,b){this.AddPVPixel(a,b),this.FirePixels()},AddImpPixel:function(a,b,c,d,e,f,g){if(this.isDefined(a,a.getSlotElementId)){var h=parseInt(a.getTargeting("ap")[0]),i=a.getSizes()[0],j=i.l.toString()+"x"+i.j.toString(),k="0",l="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(k=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(l=_ezaq.country);var m=this.getSlotIID(a),n=a.getSlotElementId();this.isDefined(m,n)&&this.validateData(b)&&(b=this.convertDataToStr(b),this.pixels.push({type:"impression",impression_id:m,domain_id:k,unit:n,t_epoch:this.tEpoch,revenue:c,est_revenue:d,ad_position:h,ad_size:j,bid_floor_filled:e,bid_floor_prev:f,stat_source_id:g,country_code:l,data:b}))}},AddImpPixelById:function(a,b){var c="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(c=_ezaq.domain_id.toString());var d=a.split("/");if(this.isDefined(a)&&3===d.length&&this.validateData(b)){var e=d[0],f=d[2];b=this.convertDataToStr(b),this.pixels.push({type:"impression",impression_id:f,domain_id:c,unit:e,t_epoch:this.tEpoch,data:b})}},AddPVPixel:function(a,b){var c="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(c=_ezaq.domain_id.toString()),this.isDefined(a)&&this.validateData(b)&&(b=this.convertDataToStr(b),this.pixels.push({type:"pageview",pageview_id:a,domain_id:c,t_epoch:this.tEpoch,data:b}))},FirePixels:function(){"undefined"!=typeof document.visibilityState&&"prerender"===document.visibilityState||(this.isDefined(this.pixels)&&this.pixels.length>0&&((new Image).src=this.pixelUrl+"?orig="+(__ez.template.isOrig===!0?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(a,b){return new EzoicPixelData(a,b)},convertDataToStr:function(a){if("undefined"==typeof a)return[];try{for(var b in a)a[b].val=a[b].val+""}catch(a){}return a},getSlotIID:function(a){var b=0;try{var c=a.getTargetingMap(),d=a.getSlotElementId();if(d.indexOf("div-gpt-ad")===-1)return b;if("undefined"!=typeof c)for(var e in c)if(e.indexOf("iid")!==-1&&"undefined"!=typeof c[e][0]){b=c[e][0];break}}catch(a){}return b},isDefined:function(){for(var a=0;a<arguments.length;a++)if("undefined"==typeof arguments[a]||null===arguments[a])return console.error("Argument not defined. ",arguments),!1;return!0},validateData:function(a){for(var b=0;b<a.length;b++)if(a[b]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",a[b]),!1;return!0}};</script>
     
-    	
-    
-     function streamPublish(title, link, description, image) {
-                 // calling the API …
-        
-        function urldecode(url) {
-		  return decodeURIComponent(url.replace(/\+/g, ' '));
-		}
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="http://therealstanlee.com/xmlrpc.php">
+    <title>Privacy Policy – therealstanlee.com</title>
+
+<!-- Open Graph Meta Tags generated by MashShare 3.4.7 - https://mashshare.net -->
+<meta property="og:type" content="article"> 
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Social Pulse Media Privacy Policy    Your privacy is important to us.    It is Social Pulse Media's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy">
+<meta property="og:url" content="http://therealstanlee.com/privacy-policy/">
+<meta property="og:site_name" content="therealstanlee.com">
+<meta property="article:publisher" content="https://www.facebook.com/realstanlee/">
+<meta property="article:published_time" content="2017-07-12T18:34:59+00:00">
+<meta property="article:modified_time" content="2017-07-12T18:34:59+00:00">
+<meta property="og:updated_time" content="2017-07-12T18:34:59+00:00">
+<!-- Open Graph Meta Tags generated by MashShare 3.4.7 - https://www.mashshare.net -->
+<!-- Twitter Card generated by MashShare 3.4.7 - https://www.mashshare.net -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:description" content="Social Pulse Media Privacy Policy    Your privacy is important to us.    It is Social Pulse Media's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy">
+<!-- Twitter Card generated by MashShare 3.4.7 - https://www.mashshare.net -->
+
+
+<meta name="viewport" content="initial-scale=1.0, width=device-width">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="therealstanlee.com » Feed" href="http://therealstanlee.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="therealstanlee.com » Comments Feed" href="http://therealstanlee.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/therealstanlee.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://therealstanlee.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.1" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="sl-google-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%7COswald%3A300%2C400%2C500%2C700&amp;ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="sl-fa-css" href="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/styles/font-awesome.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="sl-bootstrap-css" href="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/styles/bootstrap.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="g1-hardcore-css" href="http://therealstanlee.com/wp-content/themes/bimber/css/hardcore/all.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="sl-main-css" href="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/styles/main.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="mashsb-styles-css" href="http://therealstanlee.com/wp-content/plugins/mashsharer/assets/css/mashsb.min.css?ver=3.4.7" type="text/css" media="all">
+<style id="mashsb-styles-inline-css" type="text/css">
+.mashsb-count {color:#cccccc;}@media only screen and (min-width:568px){.mashsb-buttons a {min-width: 177px;}}
+</style>
+<link rel="stylesheet" id="bimber-google-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C500%2C600%2C700%2C900%7CRajdhani%3A300%2C400%2C500%2C600%2C700&amp;subset=latin%2Clatin-ext&amp;ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="bimber-dynamic-style-css" href="http://therealstanlee.com/wp-content/uploads/dynamic-style.css?respondjs=no&amp;ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="bimber-style-css" href="http://therealstanlee.com/wp-content/themes/bimber-child-theme/style.css?ver=4.9.1" type="text/css" media="screen">
+<link rel="stylesheet" id="__EPYT__style-css" href="http://therealstanlee.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.9.1" type="text/css" media="all">
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
                 
-        var obj = {
-          method: 'feed',
-          link: urldecode(link),
-          picture: urldecode("http://therealstanlee.com/images/fb_logo.png"),
-          name: urldecode(title),
-          caption: 'TheRealStanLee.com',
-          description: urldecode(description)
-        };
+</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/therealstanlee.com\/wp-admin\/admin-ajax.php","security":"6f1f42d616","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/therealstanlee.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"11.8.5","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","stopMobileBuffer":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mashsb = {"shares":"0","round_shares":"1","animate_shares":"0","dynamic_buttons":"0","share_url":"http:\/\/therealstanlee.com\/privacy-policy\/","title":"Privacy+Policy","image":null,"desc":"Social Pulse Media Privacy Policy\r\n\r\nYour privacy is important to us.\r\n\r\nIt is Social Pulse Media's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy \u2026","hashtag":"","subscribe":"content","subscribe_url":"","activestatus":"1","singular":"1","twitter_popup":"1","refresh":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/plugins/mashsharer/assets/js/mashsb.min.js?ver=3.4.7"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/modernizr/modernizr-custom.min.js?ver=3.3.0"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.9.1"></script>
+<link rel="https://api.w.org/" href="http://therealstanlee.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://therealstanlee.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://therealstanlee.com/wp-includes/wlwmanifest.xml"> 
+<link rel="canonical" href="http://therealstanlee.com/privacy-policy/">
+<link rel="shortlink" href="http://therealstanlee.com/?p=494">
+<link rel="alternate" type="application/json+oembed" href="http://therealstanlee.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftherealstanlee.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://therealstanlee.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftherealstanlee.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta property="fb:app_id" content="1712123732423450">			<meta property="fb:pages" content="26500661542">
+			<link rel="icon" href="http://therealstanlee.com/wp-content/uploads/2017/07/cropped-stan-32x32.png" sizes="32x32">
+<link rel="icon" href="http://therealstanlee.com/wp-content/uploads/2017/07/cropped-stan-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="http://therealstanlee.com/wp-content/uploads/2017/07/cropped-stan-180x180.png">
+<meta name="msapplication-TileImage" content="http://therealstanlee.com/wp-content/uploads/2017/07/cropped-stan-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			#element_to_pop_up { 
+    background-color:#fff;
+    border-radius:15px;
+    color:#000;
+    display:none; 
+    padding:15px;
+    width:336px;
+    height:280px;
+}
+.b-close{
+    cursor:pointer;
+    position:absolute;
+    right:10px;
+    top:5px;
+}		</style>
+	
 
-        function callback(response) {
-          //document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
-             if (response && response.post_id) {
-                   _gaq.push(['_trackEvent', urldecode(link), 'Share', 'Facebook']);
-                 
-               } else {
-                   _gaq.push(['_trackEvent', urldecode(link), 'Share', 'Facebook']);
-              }
-        }
+     <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-        FB.ui(obj, callback);
-         _gaq.push(['_trackEvent', urldecode(link), 'Share', 'Facebook']);
-      }
+ga('create', 'UA-75015257-6', 'auto');
+ga('send', 'pageview');
+
 
 </script>
- <script>
-       
-        // Load the SDK Asynchronously
-        (function(d){
-           var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-           if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = "//connect.facebook.net/en_US/all.js";
-           ref.parentNode.insertBefore(js, ref);
-         }(document));
-  </script>
+<meta property="fb:pages" content="26500661542">	
+    <script type="text/javascript">
+        adroll_adv_id = "2F5WOQDHBVECXFJYKDMYGO";
+        adroll_pix_id = "R625TGV5DVBJNAXJJHOOKC";
+        /* OPTIONAL: provide email to improve user identification */
+        /* adroll_email = "mailto:username@example.com"; */
+        (function () {
+            var _onload = function(){
+                if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+                if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com <https://mailtrack.io/trace/link/9639ebb73a8fc85628c9c96fe8bf2e01050aa085?url=https%3A%2F%2Fs.adroll.com%2F&userId=1624283&signature=51b47c89234297df>" : "http://a.adroll.com <https://mailtrack.io/trace/link/292dc24ec150327e921ed41e50634e38c3307324?url=http%3A%2F%2Fa.adroll.com%2F&userId=1624283&signature=cef06a1d7b0ee880>");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            };
+            if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+            else {window.attachEvent('onload', _onload)}
+        }());
+    </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-110992031-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
- 
-	<div id="content">
+  gtag('config', 'UA-110992031-2');
+</script>
 
-		<div id="open-arrow"></div>
 
-		<div class="fold-wrapper">
-		</div>
-		
-		
+<script data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-97842756-5";</script>
+<script data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-97842756-5']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'therealstanlee.com']);
+_gaq.push(['f._setDomainName', 'therealstanlee.com']);
+_gaq.push(['e._setCustomVar',1,'template','old_site_noads',3]);
+_gaq.push(['e._setCustomVar',2,'t','120',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod22',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','old_site_noads',3]);
+_gaq.push(['f._setCustomVar',2,'domain','therealstanlee.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
 
-	<!-- Main Content Div -->
-	
-		<header class="main">
 
-			<a id="link-signup" onclick="return false; _gaq.push(['_trackEvent', 'Page Corner', 'Open', 'Sign Up']);" class="corner-link" href="javascript:void(0);"></a>
-			<a id="link-login" onclick="return false; _gaq.push(['_trackEvent', 'Page Corner', 'Open', 'Log In']);" class="corner-link" href="javascript:void(0);"></a>
-			<a id="reset-pw" href="javascript:void(0);"></a>
-			<!-- Search Box -->
-			<div class="search-box">
-								<form action="http://therealstanlee.com/search.html" method="post" accept-charset="utf-8" id="searchform">					<input id="search-submit" type="image" value="" src="http://therealstanlee.com/images/icon-search.gif">
-					<input id="search-field" name="search" class="clean_me" type="text" onfocus="clean_input(this);" onblur="unclean_input(this);" defaultvalue="Search" value="Search">
-				</form>
-			</div>
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "433101434";</script><base href="http://therealstanlee.com/privacy-policy/"><script type="text/javascript">
+var ezoTemplate = 'old_site_noads';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script><!-- START EZHEAD -->
+<script type="text/javascript">
+var soc_app_id = '0';
+var did = 47490;
+var ezdomain = 'therealstanlee.com';
+var ezoicSearchable = 1;
+</script>
+<!--{jquery}-->
+<!-- END EZHEAD -->
+<script type="text/javascript" data-cfasync="false">var _ezaq = {"ab_test_id":"mod22","ab_test_val":"","ad_cache_level":0,"adgroup_rank_id":-1,"browser":"Unknown","browser_version":0,"country":"US","days_since_last_visit":-1,"device_height":528,"device_width":1280,"domain_id":47490,"engaged_time_visit":0,"ezcache_level":2,"forensiq_score":-1,"form_factor_id":1,"ip":"54.165.90.203","is_bot":1,"is_return_visitor":false,"landing_page_url":"http://therealstanlee.com/privacy-policy/","last_page_load":"","last_pageview_id":"","lt_cache_level":0,"os":"Unknown","page_ad_positions":"","page_view_id":"09675939-84d4-43ce-414f-e480f22e7c83","pv_event_count":0,"referrer_id":0,"region":"us-east-1","serverid":"52.91.126.7:14172","t_epoch":1514559406,"template_id":120,"time_on_site_visit":0,"url":"http://therealstanlee.com/privacy-policy/","user_agent":"ia_archiver","user_id":433101434,"visit_id":1549349337};var _ezExtraQueries = "&ez_orig=1";</script><script data-cfasync="false" type="text/javascript" src="/detroitchicago/rochester.js?cb=171-0&amp;v=8" async=""></script><script data-pagespeed-no-defer="" data-cfasync="false">
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = "ezux_lpl_47490=" + new Date().getTime() + "|09675939-84d4-43ce-414f-e480f22e7c83; " + expires;
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script><script src="//therealstanlee.com/detroitchicago/edmonton.webp?a=a&amp;cb=0&amp;shcb=28" async=""></script><script src="//therealstanlee.com/porpoiseant/jellyfish.webp?a=a&amp;cb=0&amp;shcb=28" async=""></script><script async="true" type="text/javascript" src="https://s.adroll.com &lt;https://mailtrack.io/trace/link/9639ebb73a8fc85628c9c96fe8bf2e01050aa085?url=https%3A%2F%2Fs.adroll.com%2F&amp;userId=1624283&amp;signature=51b47c89234297df&gt;/j/roundtrip.js"></script></head>
 
-			<!-- Page Corner Fold -->
-			<div id="peelback">
-				<div id="layer-logged-out" class="corner-layer">
-					<span class="join-txt">
-						<img class="star" src="http://therealstanlee.com/images/icon-star.png" alt=""> JOIN <img class="star" src="http://therealstanlee.com/images/icon-star.png" alt=""><br>THE BRIGADE
-					</span>
-					<div class="corner-bar"><span id="txt-signup" class="corner-txt">SIGN UP</span></div>
-					<div class="corner-bar"><span id="txt-login" class="corner-txt">LOG IN</span></div>
-				</div>
-			</div>
-			<!-- End Page Corner fold -->
+<body class="page-template-default page page-id-494 g1-layout-stretched g1-hoverable" itemscope="" itemtype="http://schema.org/WebPage">
+<header class="navbar-static-top">
+    
 
-			<!-- Site Logo -->
-			<a href="http://therealstanlee.com/" onclick="_gaq.push(['_trackEvent', 'Link', 'Navigation', 'Home']);"><h1 id="logo">The Real Stan Lee</h1></a>
+    <div class="container custom-container">
+        <div class="row">
+            <div class="col-sm-12">
+                <nav class="navbar navbar-default">
+                    <div class="navbar-header">
+                        <div class="toggle_outer">
+                            <button aria-controls="navbar" data-target="#navbar" data-toggle="collapse" class="navbar-toggle collapsed lines-button x" type="button"><span class="lines">MENU</span>
+                            </button>
+                        </div>
+                        <a href="http://therealstanlee.com/" title="Stan Lee" class="navbar-brand"><img src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/images/stan-lee-logo.png" alt="Stan Lee" width="119"></a>
+                        <a href="http://therealstanlee.com/" title="Stan Lee"><img src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/images/stan-lee-logo.png" alt="Stan Lee" class="header-logo" width="90"></a>
+                        
+                    </div>
+                    <div class="navbar-collapse collapse" id="navbar">
+                        <ul id="menu-primarymenu" class="nav navbar-nav"><li id="menu-item-1000000" class="menu-item menu-item-type-g1-top menu-item-object-page menu-item-1000000"><a href="http://therealstanlee.com/the-geek-alphabet-a-z/geekm/">geekm</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://therealstanlee.com/category/pow-news/">POW news</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5"><a href="http://therealstanlee.com/category/comics/">Comics</a></li>
+<li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6"><a href="http://therealstanlee.com/category/tech/">Tech</a></li>
+<li id="menu-item-4" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4"><a href="http://therealstanlee.com/category/entertainment/">Entertainment</a></li>
+</ul>                    </div>
+                    <!--/.nav-collapse -->
+
+                    <div class="H-right-box">
+                        <form class="search-box" action="http://therealstanlee.com/" method="get">
+                            <input type="text" name="s" placeholder="Search..">
+                            <button>&nbsp;</button>
+                        </form>
+                                                    <div class="social-box">
+                                <ul id="g1-social-icons-1" class="g1-socials-items g1-socials-items-tpl-grid">
+            <li class="g1-socials-item g1-socials-item-facebook">
+       <a class="g1-socials-item-link" href="https://www.facebook.com/realstanlee/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-facebook"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">facebook</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-twitter">
+       <a class="g1-socials-item-link" href="https://twitter.com/TheRealStanLee" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-twitter"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">twitter</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-instagram">
+       <a class="g1-socials-item-link" href="https://www.instagram.com/therealstanlee/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-instagram"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">instagram</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-youtube">
+       <a class="g1-socials-item-link" href="https://www.youtube.com/user/therealstanlee" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-youtube"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">youtube</span>
+           </span>
+       </a>
+    </li>
+    </ul>
+
+                            </div>
+                                            </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<div class="main-parrent">
+    <div class="container custom-container">
+        <div class="row">
+            <!--banner-->
+            <div class="banner header-post">
+
+                                    
+                                                </div>
+            <!--banner-->
+
+
+            <!--middle-box-->
+            <div class="middle-box">
+
+	<div id="primary" class="g1-primary-max">
+		<div id="content" role="main">
+
 			
-			<!-- Main Navigation -->
-			<nav class="site-main-nav">
-				<ul>
-					<li id="blog"><a onclick="_gaq.push(['_trackEvent', 'Link', 'Navigation', 'Blog']);" href="http://therealstanlee.com/#blog">Blog</a></li>
-					<li id="news"><a onclick="_gaq.push(['_trackEvent', 'Link', 'Navigation', 'News &amp; Updates']);" href="http://therealstanlee.com/#news-updates">News &amp; Updates</a></li>
-					<li id="media"><a onclick="_gaq.push(['_trackEvent', 'Link', 'Navigation', 'Photos &amp; Videos']);" href="http://therealstanlee.com/#photos-videos">Photos &amp; Videos</a></li>
-					<li id="friends"><a onclick="_gaq.push(['_trackEvent', 'Link', 'Navigation', 'Friends of POW!']);" href="http://therealstanlee.com/friends">Friends of POW!</a></li>
-				</ul>
-			</nav>
-
-			<!-- Sub Navigation -->
-			<nav class="site-sub-nav">
-				<ul>
-					<li><a onclick="_gaq.push(['_trackEvent', 'Link', 'Sub-navigation', 'About']);" href="http://therealstanlee.com/about">ABOUT</a> |</li>
-					<li><a onclick="_gaq.push(['_trackEvent', 'Link', 'Sub-navigation', 'Contact Us']);" href="http://therealstanlee.com/contact">CONTACT US</a> |</li>
-					<li><a onclick="_gaq.push(['_trackEvent', 'Link', 'Sub-navigation', 'FAQs']);" href="http://therealstanlee.com/faqs">FAQs</a> |</li>
-					<li><a onclick="launch_store(); _gaq.push(['_trackEvent', 'Link', 'Sub-navigation', 'Store']);" href="javascript:void(0);">STORE</a> |</li>
-					<li id="pow-entertainment"><a onclick="_gaq.push(['_trackEvent', 'Link', 'Sub-navigation', 'POW! Entertainment']);" target="_blank" href="http://www.powentertainment.com/enter.html"><img class="li-image" src="http://therealstanlee.com/images/icon-pow.png" alt="POW!"> ENTERTAINMENT</a></li>
-				</ul>
-			</nav>
-
-		</header>
-
-		<!-- Page Content centered with gutters -->
-		<div id="page-content">
-
-		<section class="privacy">
-
-			<h1 id="privacy">PRIVACY POLICY</h1>
-
-			<p>This Privacy Policy governs your use of the web sites published and maintained by POW Entertainment, Inc. located at 9440 
-				Santa Monica, #620, Beverly Hills, CA 90210 ("POW!," "we," "us," "our," or other similar pronouns) including <a target="_blank" href="http://www.powentertainment.com">www.powentertainment.com</a> 
-				(each, a "Web Site"). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the 
-				terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site, this Privacy 
-				Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the 
-				Pow Site Terms and Conditions, which governs your use of this Web Site in general.</p>
-
-			<h2 id="summary">Summary</h2>
-
-			<p>It is POW!'s policy to respect and protect the privacy of visitors to this Web Site. Accordingly, POW! DOES NOT extract, without 
-				permission, Personal Information (as defined below) about its visitors or their computer at any time while on therealstanlee or 
-				POW! Web Site, except for Personal Information that is actively provided by such visitors through registration, logging in and 
-				out, online forms or other means. POW will, however, analyze information about our visitors as a group to make our Web Site better, 
-				but visitors are not individually identified when we do this.</p>
-
-			<p>When dealing with children who we have knowledge are under the age of 13, POW! follows stringent guidelines that prohibit the 
-				sharing of Personal Information with any third parties, except in limited circumstances such as our service providers who use 
-				such information on our behalf.</p>
-
-			<p>This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, other than through our Web 
-				Site, such as by phone, through postal mail and through other live and print mediums.</p>
-
-			<p>This Web Site is intended for users who are located in the United States of America. This Privacy Policy shall be interpreted 
-				under the laws of the United States, regardless of the location of individual users.</p>
-
-			<p>You have the right to opt out of certain uses and disclosures of your Personal Information. </p>
-
-			<p>Your California Privacy Rights The following applies to California residents who have an established business relationship 
-				with POW!. If we collect Personal Information from you, and you have not specifically opted out in accordance with the Right 
-				to Opt Out section in this Privacy Policy, we may make that Personal Information available our affiliated companies, or to 
-				other third parties who have products or services that we believe will be of interest to you, for their marketing and 
-				promotional purposes. If you later decide that you do not want us to share your Personal Information with these companies 
-				for their marketing and promotional purposes, visit our marketing preferences Web page at <a href="http://therealstanlee.com/">www.therealstanlee.com</a> or by sending 
-				an e-mail to <a href="mailto:info@therealstanlee.com">info@therealstanlee.com</a>. In this e-mail, please say whether  
-				you would like to opt-out of receiving promotional correspondence from therealstanlee in general, or just via e-mail, postal 
-				mail, short message service (SMS), instant messaging, and/or by phone. Your opt out request will be processed within 
-				thirty (30) days of the date on which we receive it.</p>
-
-		</section>		</div><!-- div#page-content -->
-
-								<br clear="all">
-
-		<footer class="clearfix">
-
-			<div class="center-footer clearfix">
-							<ul><strong>Blogs</strong>
-										<li><a href="javascript:void(0);" onclick="launch_blog_featured('featured_artist');_gaq.push(['_trackEvent', 'Link', 'Footer', 'Featured Artists']);">Featured Artists</a></li>
-															<li><a href="javascript:void(0);" onclick="launch_blog_featured('featured_guest');_gaq.push(['_trackEvent', 'Link', 'Footer', 'Featured Guest Bloggers']);">Featured Guest Bloggers</a></li>
-															<li><a href="javascript:void(0);" onclick="launch_blog_featured('contest');_gaq.push(['_trackEvent', 'Link', 'Footer', 'Contests']);">Contests</a></li>
-									</ul>
-							<ul><strong>Photos &amp; Videos</strong>
-					<li><a href="http://therealstanlee.com/#photos-videos" onclick="_gaq.push(['_trackEvent', 'Link', 'Footer', 'Photos']);">Photos</a></li>
-					<li><a href="http://therealstanlee.com/#photos-videos" onclick="_gaq.push(['_trackEvent', 'Link', 'Footer', 'Videos']);">Videos</a></li>
-				</ul>
-
-				<ul><strong>News &amp; Updates</strong>
-					<li><a href="http://therealstanlee.com/#news-updates" onclick="_gaq.push(['_trackEvent', 'Link', 'Footer', 'Stans Events']);">Stan's Events</a></li>
-				</ul>
-
-				<ul><strong>POW! Entertainment</strong>
-					<li><a href="http://therealstanlee.com/about" onclick="_gaq.push(['_trackEvent', 'Link', 'Footer', 'About Us']);">About Us</a></li>
-					<li><a href="http://therealstanlee.com/contact" onclick="_gaq.push(['_trackEvent', 'Link', 'Footer', 'Contact']);">Contact</a></li>
-					<li><a href="javascript:void(0);" onclick="launch_store();_gaq.push(['_trackEvent', 'Link', 'Footer', 'POW! Store']);">POW! Store</a></li>
-					<li><a href="http://therealstanlee.com/friends" onclick="_gaq.push(['_trackEvent', 'Link', 'Footer', 'Friends of POW!']);">Friends of POW!</a></li>
-				</ul>
-
-				<p class="privacy center"><a href="http://therealstanlee.com/privacy">Privacy Policy</a> | © 2013 POW! Entertainment. All rights reserved.</p>
-			</div>
-				
-		</footer>
-
-	</div><!-- div#content -->
-
-
-
-	<div class="lights-out"></div>
-
-
-	<!-- Upload Avatar Modal -->
-
-	<div id="upload-avatar" class="modal">
-
-		<img class="close-window" onclick="close_window();" src="http://therealstanlee.com/images/icon-close-window.png" alt="Close window">
-
-		<h1 id="hdr-upload-avatar">UPLOAD YOUR OWN AVATAR</h1>
-
-		<img src="http://therealstanlee.com/images/picture-avatar.png" alt="Avatar Image">
-
-		<p>Up-load a High-quality, square sized photo.</p>
-		<p>You can upload a JPG, GIF or PNG file ( file size limit 4mb)</p>
-
-		<input type="image" src="http://therealstanlee.com/images/btn-choose-file.png" alt="Choose a file">
-
-	</div>
-
-	<!-- End Upload Avatar Modal -->
-
-
-	<!-- News Article Lightbox Page -->
-
-	<div id="post_lightbox" class="news-article light-box">
-
-	</div>
-
-	<!-- End News Article Lightbox Page -->
-
-
-
-
-
-	<!-- Photos Lightbox Page -->
-
-	<div id="photo_lightbox" class="photos-page light-box">
-
-	</div>
-
-	<!-- End Photos Lightbox Page -->
-
-
-
-
-
-
-	<!-- Videos Lightbox Page --
-
-	<div id="" class="videos-page light-box">
-		<img class="close-window" onclick="close_window();" src="http://therealstanlee.com/images/icon-close-window.png" alt="Close window">
-
-		<h1>Lorem ipsum dolore</h1>
-
-		<img class="video-placeholder" src="http://therealstanlee.com/images/video-page-placeholder.jpg" alt="">
-
-		<div class="share-bar">
-			<a href="http://facebook.com/realstanlee"><img src="http://therealstanlee.com/images/icon-fb.png" alt="Facebook"></a>
-			<a href=""><img src="http://therealstanlee.com/images/icon-su.png" alt="Stumble Upon"></a>
-			<a href=""><img src="http://therealstanlee.com/images/icon-google.png" alt="Google+"></a>
-			<a href=""><img src="http://therealstanlee.com/images/icon-tw.png" alt="Twitter"></
-			<a href=""><img src="http://therealstanlee.com/images/icon-pinterest.png" alt="Pinterest"></a>
+<article id="post-494" class="post-494 page type-page status-publish" itemscope="" itemtype="http://schema.org/WebPage">
+	<header class="g1-row g1-row-layout-page entry-header entry-header-row">
+		<div class="g1-row-inner">
+			<div class="g1-column">
+				<h1 class="g1-alpha g1-alpha-2nd entry-title" itemprop="headline">Privacy Policy</h1>
+							</div>
 		</div>
+		<div class="g1-row-background">
+		</div>
+	</header><!-- .entry-header -->
 
-		<p class="arrow">&lt; <span class="news-pager-prev">Prev</span> | <span class="news-pager-next">Next</span> &gt;</p>
+	<div class="g1-row g1-row-layout-page g1-row-padding-m entry-body-row">
+		<div class="g1-row-inner">
 
-		<p class="instructions"><span class="pinkish close-window">Close</span> or Esc<br><span class="small-font">Tip: Navigate with arrow keys<span></p>
+			<div class="g1-column g1-column-2of3">
+				
+				<div class="entry-content" itemprop="text">
+					<h2>Social Pulse Media Privacy Policy</h2>
+<p>Your privacy is important to us.</p>
+<p>It is Social Pulse Media’s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.</p>
+<ul>
+<li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
+<li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
+<li>We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
+<li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
+<li>We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.</li>
+<li>We will make readily available to customers information about our policies and practices relating to the management of personal information.</li>
+<li>We will only retain personal information for as long as necessary for the fulfilment of those purposes.</li>
+</ul>
+<p>We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Social Pulse Media may change this privacy policy from time to time at Social Pulse Media’s sole discretion.</p>
+<nav class="g1-pagination pagelinks"><p class="g1-pagination-label g1-pagination-label-none">Pages:</p><ul><li class="g1-pagination-item-prev"><a href="http://therealstanlee.com/fair-use/" class="g1-arrow g1-arrow-xl g1-arrow-left g1-arrow-simple prev"><span>Previous</span></a></li> <li class="g1-pagination-item-next"><a class="g1-arrow g1-arrow-xl g1-arrow-right g1-arrow-solid next" href="http://therealstanlee.com/wolverine-changing-over-the-years/"><span>Next</span></a></li></ul></nav>				</div><!-- .entry-content -->
+			</div>
 
+			<div id="secondary" class="g1-column g1-column-1of3 ">
+    <aside id="search-2" class="widget widget_search g1-widget-class">
+
+<div role="search">
+	<form method="get" class="g1-searchform-tpl-default g1-form-s search-form" action="http://therealstanlee.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="Search …" value="" name="s" title="Search for:">
+		</label>
+		<input type="submit" class="search-submit" value="Search">
+	</form>
+</div>
+</aside>		<aside id="recent-posts-2" class="widget widget_recent_entries g1-widget-class">		<header><h2 class="g1-delta g1-delta-2nd widgettitle">Recent Posts</h2></header>		<ul>
+											<li>
+					<a href="http://therealstanlee.com/star-wars-director-george-lucas-explained-interest-in-other-directors-interpretations-in-1977/">‘Star Wars’ Director George Lucas Explained Interest In Other Directors’ Interpretations in 1977</a>
+									</li>
+											<li>
+					<a href="http://therealstanlee.com/funny-or-die-parody-casts-hugh-jackman-in-the-greatest-logan/">Funny Or Die Parody Casts Hugh Jackman In “The Greatest Logan”</a>
+									</li>
+											<li>
+					<a href="http://therealstanlee.com/galactic-christmas-light-show-its-beginning-to-look-a-lot-like-star-wars/">Galactic Christmas Light Show: It’s Beginning To Look A Lot Like ‘Star Wars’</a>
+									</li>
+											<li>
+					<a href="http://therealstanlee.com/marvel-reveals-identities-of-heroes-in-possession-of-infinity-stones/">Marvel Reveals Identities Of Heroes In Possession Of Infinity Stones</a>
+									</li>
+											<li>
+					<a href="http://therealstanlee.com/13-of-the-most-anticipated-movies-coming-out-in-2018/">13 Of The Most Anticipated Movies Coming Out In 2018</a>
+									</li>
+					</ul>
+		</aside><aside id="archives-2" class="widget widget_archive g1-widget-class"><header><h2 class="g1-delta g1-delta-2nd widgettitle">Archives</h2></header>		<ul>
+			<li><a href="http://therealstanlee.com/2017/12/">December 2017</a></li>
+	<li><a href="http://therealstanlee.com/2017/11/">November 2017</a></li>
+	<li><a href="http://therealstanlee.com/2017/10/">October 2017</a></li>
+	<li><a href="http://therealstanlee.com/2017/09/">September 2017</a></li>
+	<li><a href="http://therealstanlee.com/2017/06/">June 2017</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories g1-widget-class"><header><h2 class="g1-delta g1-delta-2nd widgettitle">Categories</h2></header>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://therealstanlee.com/category/blogs/">Blogs</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://therealstanlee.com/category/comics/">Comics</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://therealstanlee.com/category/entertainment/">Entertainment</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://therealstanlee.com/category/landing/">Landing</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://therealstanlee.com/category/pow-news/">POW news</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://therealstanlee.com/category/tech/">Tech</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://therealstanlee.com/category/uncategorized/">Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta g1-widget-class"><header><h2 class="g1-delta g1-delta-2nd widgettitle">Meta</h2></header>			<ul>
+						<li><a href="http://therealstanlee.com/wp-login.php">Log in</a></li>
+			<li><a href="http://therealstanlee.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://therealstanlee.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside></div><!-- #secondary -->
+
+
+
+		</div>
+		<div class="g1-row-background">
+		</div>
 	</div>
 
-	<!-- End Videos Lightbox Page -->
+</article><!-- #post-## -->
 
+		</div><!-- #content -->
+	</div><!-- #primary -->
 
+<div class="clearfix"></div>
+</div>
+<!--middle-box-->
 
+<footer>
+    <div class="container custom-container">
+        <div class="row">
+            <div class="footer-social-icon">
+                <div class="social-icon-main-box">
+                                            <div class="social-box">
+                            <ul id="g1-social-icons-2" class="g1-socials-items g1-socials-items-tpl-grid">
+            <li class="g1-socials-item g1-socials-item-facebook">
+       <a class="g1-socials-item-link" href="https://www.facebook.com/realstanlee/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-facebook"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">facebook</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-twitter">
+       <a class="g1-socials-item-link" href="https://twitter.com/TheRealStanLee" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-twitter"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">twitter</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-instagram">
+       <a class="g1-socials-item-link" href="https://www.instagram.com/therealstanlee/" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-instagram"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">instagram</span>
+           </span>
+       </a>
+    </li>
+            <li class="g1-socials-item g1-socials-item-youtube">
+       <a class="g1-socials-item-link" href="https://www.youtube.com/user/therealstanlee" target="_blank">
+           <i class="g1-socials-item-icon g1-socials-item-icon-26 g1-socials-item-icon-original g1-socials-item-icon-youtube"></i>
+           <span class="g1-socials-item-tooltip">
+               <span class="g1-socials-item-tooltip-inner">youtube</span>
+           </span>
+       </a>
+    </li>
+    </ul>
 
+                        </div>
+                                    </div>
+                <div class="pow-enter">
+                    <figure><img src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/images/pow-enter.png" alt="">
+                    </figure>
+                </div>
+            </div>
+            <div class="form-box">
+                <h2>join our mailing list:</h2>
+                <div class="form-field">
+                    <form action="http://email.maverick.cm/t/y/s/sjddyr/" method="post" id="subForm">
+                        <input type="text" value="" placeholder="Email" name="cm-sjddyr-sjddyr">
+                        <input type="submit" class="button" value="Submit">
+                    </form>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>© 2017 Pow Entertainment. All Rights Reserved.<span class="footer-menu"> | 
+                    <a href="http://therealstanlee.com/dmca/">DMCA</a> |
+<a href="http://therealstanlee.com/fair-use/">Fair use</a> |
+<a href="http://therealstanlee.com/privacy-policy/">Privacy Policy</a> |
+</span>
+                     <i><b>Website by</b> <a href="http://socialpulsemedia.com/" target="_blank"><img src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/images/socialpulsemedia.png" alt="maverick"></a></i></p>
+            </div>
+            <div class="clearfix"></div>
+            <div class="footer-link">
+                <div class="left-link">
+                    <ul id="menu-footer-menu-left" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://therealstanlee.com/category/blogs/">Blogs</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://therealstanlee.com/category/comics/">Comics</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://therealstanlee.com/category/tech/">Tech</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://therealstanlee.com/category/pow-news/">POW news</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://therealstanlee.com/category/entertainment/">Entertainment</a></li>
+</ul>
+                </div>
+                <div class="right-link">
+                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--footer-->
 
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
 
-	<!-- Store Lightbox Page -->
-
-	<div id="store" class="light-box">
-		<img class="close-window" onclick="close_window();" src="http://therealstanlee.com/images/icon-close-window.png" alt="Close window">
-
-		<h1 id="hdr-store">The Official Store</h1>
-		
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_1645f843f0f598d73d6b6a1b43196fc4_resized.JPG" alt="">
-
-			<h2>1) Stan Lee Candy Bar</h2>
-
-			<span class="price">$7.99</span>
-
-			<p><strong><a href="http://store.sweetlosangeles.com/search/results?q=stan%20lee">Stan Lee Candy bar</a>,&nbsp;</strong>salted dark chocolate with caramel, marshmallow &amp; cookies &amp; cream. Each bar is 1/4lb.?&nbsp;<strong><a href="http://sweetlosangeles.com/">Sweet! in Hollywood</a></strong></p>
-
-			<p><a target="_blank" class="button" href="http://store.sweetlosangeles.com/search/results?q=stan%20lee">BUY NOW</a></p>
-
-		</article>
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_34ef223c798ba9db5dfaf06c3d407df7_resized.jpg" alt="">
-
-			<h2>2) Stan Lee Signature Cologne</h2>
-
-			<span class="price">$24.99</span>
-
-			<p>"Nuff Said". &nbsp;Stan Lee's Signature Cologne is as sophisticated as Smilin' Stan Lee himself. &nbsp; The fragrance is as adventurous as Stan's superheroes, yet it can make you feel a bit villainous. &nbsp;Stan himself wanted it that way for his beloved fans.&nbsp;This enticing scent will make you a "True Believer".</p>
-
-			<p><a target="_blank" class="button" href="http://www.jadsinternational.com/stan-lee.html">BUY NOW</a></p>
-
-		</article>
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_f97185933bd8ab5d7940d83843e1e641_resized.jpg" alt="">
-
-			<h2>3) YO! - 7" DIY Vinyl Platform Figure</h2>
-
-			<span class="price">$22.00</span>
-
-			<p>YO<span style="line-height: 1.6em;">! is a lovable character waiting for you to give him life through your adventures. With just some markers, paint, clay, or any other art materials you can scrounge up, you create a character from this cute little platform figure. Cut, bake, paint, glue or decorate to your heart's content with your very own 7" DIY vinyl </span>YO<span style="line-height: 1.6em;">! figure.</span></p>
-
-<p>&nbsp;</p>
-
-			<p><a target="_blank" class="button" href="http://3coconutmonkey.com/Contest.html">BUY NOW</a></p>
-
-		</article>
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_1a6bfcb217b44a959bc526b867b18606_resized.jpg" alt="">
-
-			<h2>4) Pewter Signature Series Stan Lee Collectible Ring</h2>
-
-			<span class="price">$45.00</span>
-
-			<p>POW Entertainment - Pewter Signature Series Stan Lee Collectible Ring</p>
-
-<p>Shipping time is 3-4 weeks within USA, 4-6 weeks international.</p>
-
-			<p><a target="_blank" class="button" href="http://mandatorymerchusa.com/category/associate-creations/stan-lee/">BUY NOW</a></p>
-
-		</article>
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_2e3fb0e63534f9d4ac61dd2d7ce00147_resized.jpg" alt="">
-
-			<h2>5) Sterling Silver Signature Series Stan Lee Collectible Ring (Limited Edition)</h2>
-
-			<span class="price">$275.00</span>
-
-			<p>POW Entertainment - Sterling Silver .925 Signature Series Stan Lee Collectible Ring.</p>
-
-<p>Each ring in this limited run of 250 pieces comes in a custom black&nbsp;pouch, and includes a certificate of authenticity signed by Stan himself. Shipping time is 3-4 weeks within USA, 4-6 weeks international.</p>
-
-			<p><a target="_blank" class="button" href="http://mandatorymerchusa.com/category/associate-creations/stan-lee/">BUY NOW</a></p>
-
-		</article>
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_55bc83ac662a4ddd618c3567c9dc7bf4_resized.jpg" alt="">
-
-			<h2>6) POW! Excelsior Wool and Leather Jacket </h2>
-
-			<span class="price">$800.00</span>
-
-			<p>A dream for both collectors and fans alike — only 50 will be made! Unleash your inner Superhero in this limited edition, custom-crafted wool and leather jacket with hand-cut leather logos. Each comes numbered and with a letter of authenticity signed by Stan Lee.</p>
-
-			<p><a target="_blank" class="button" href="http://store.shopjh.com/POW-Excelsior-Wool-and-Leather-Jacket-POW-0004.htm?categoryId=-1">BUY NOW</a></p>
-
-		</article>
-				<article class="store-item">
-			<img class="item-img" src="http://therealstanlee.com/uploads/store/store_4c3923fee41b736c392834285d656d72_resized.jpg" alt="">
-
-			<h2>7) POW! Superhero Full Leather Jacket</h2>
-
-			<span class="price">$2200.00</span>
-
-			<p>A dream for both collectors and fans alike -- only 50 will be made! Unleash your inner Superhero in this limited edition, custom-crafted lambskin jacket with hand-cut leather logos. Each comes numbered and with a letter of authenticity signed by Stan Lee.</p>
-
-			<p><a target="_blank" class="button" href="http://store.shopjh.com/POW-Superhero-Full-Leather-Jacket-POW-0003-BLUBLK.htm?categoryId=-1">BUY NOW</a></p>
-
-		</article>
-		
-	</div>
-
-	<!-- End Store Lightbox Page -->
-	
-
-
-
-
-
-
-
-
+<link rel="stylesheet" id="font-awesome-css" href="http://therealstanlee.com/wp-content/plugins/g1-socials/css/font-awesome/css/font-awesome.min.css?ver=4.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="g1-socials-basic-screen-css" href="http://therealstanlee.com/wp-content/plugins/g1-socials/css/screen-basic.css?ver=1.1.1" type="text/css" media="screen">
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/scripts/bootstrap.min.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/scripts/jquery.parallax-scroll.min.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/scripts/jquery.easing.min.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/scripts/scrolling-nav.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/scripts/jquery.carouselTicker.min.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/assets/scripts/start.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-includes/js/comment-reply.min.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/stickyfill/stickyfill.min.js?ver=1.3.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/jquery.placeholder/placeholders.jquery.min.js?ver=4.0.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/jquery.timeago/jquery.timeago.js?ver=1.5.2"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/jquery.timeago/locales/jquery.timeago.en.js"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/matchMedia/matchMedia.js"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/matchMedia/matchMedia.addListener.js"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/picturefill/picturefill.min.js?ver=2.3.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/jquery.waypoints/jquery.waypoints.min.js?ver=4.0.0"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/libgif/libgif.js"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/enquire/enquire.min.js?ver=2.1.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var bimber_front_config = "{\"ajax_url\":\"http:\\\/\\\/therealstanlee.com\\\/wp-admin\\\/admin-ajax.php\",\"timeago\":\"on\",\"sharebar\":\"on\",\"i18n\":{\"newsletter\":{\"subscribe_mail_subject_tpl\":\"Check out this great article: %subject%\"},\"bp_profile_nav\":{\"more_link\":\"More\"}}}";
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/front.js?ver=3.3.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber/js/menu.js?ver=3.3.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/themes/bimber-child-theme/modifications.js"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.9.1"></script>
+<script type="text/javascript" src="http://therealstanlee.com/wp-includes/js/wp-embed.min.js?ver=4.9.1"></script>
+<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1712123732423450&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--Begin comScore Tag--><script>var _comscore=_comscore||[];_comscore.push({c1:"2",c2:"20015427"});(function(){var s=document.createElement("script"),el=document.getElementsByTagName("script")[0];s.async=true;s.src=(document.location.protocol=="https:"?"https://sb":"http://b")+".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s,el)})();</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript><!--End comScore Tag-->
+<!--Quantcast Tag--><script type="text/javascript">var _qevents=_qevents||[];(function(){var elem=document.createElement('script');elem.src=(document.location.protocol=="https:"?"https://secure":"http://edge")+".quantserve.com/quant.js";elem.async=true;elem.type="text/javascript";var scpt=document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,scpt)})();_qevents.push({qacct:"p-31iz6hfFutd16",labels:"Domain.therealstanlee_com,DomainId.47490"});</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.therealstanlee_com,DomainId.47490"border="0"height="1"width="1"alt="Quantcast"/></div></noscript><!--End Quantcast tag-->
+<script type="text/javascript" style="display:none;" async="">
+__ez.queue.addFile('edmonton.php', '//therealstanlee.com/detroitchicago/edmonton.webp?a=a&cb=0&shcb=28', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '//therealstanlee.com/porpoiseant/jellyfish.webp?a=a&cb=0&shcb=28', false, [], true, false, false, false);
+</script>
 
 </body></html>
