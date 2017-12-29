@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avenueimedia.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129194606id_/http%3A//www.avenueimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenueimedia.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229123616id_/http%3A//www.avenueimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Avenue I Media
 
 #### Avenue I Media Privacy Policy
 
-Effective Date: February 18, 2014
+Effective Date: April 25, 2017
 
 At Avenue I Media (“Ave I, “we,” “us,” or “our”), we understand the importance of maintaining your privacy, and we therefore strive to provide our service with your protection in mind. This Privacy Policy applies to your use of our service whether accessed via computer or mobile device (the “Service”) on our owned and operated websites, mobile applications, and other properties on which a link to this Privacy Policy is provided (collectively, “Ave I Web Pages”). This Policy does not apply to third-party properties, or Avenue I Media properties that contain other privacy policies.
 
@@ -153,6 +153,8 @@ Changes to this Privacy Policy
 We may revise this Privacy Policy from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Your continued use of our Service after such change has been made will signify your acceptance of such change.
 
 California Privacy Rights Under California Civil Code Section 1798.83
+
+This website does not respond to Do-Not-Track cookies or technology.
 
 California Civil Code Section 1798.83 permits end users who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send us an e-mail at clientservices@avenueimedia.com or write us at: Avenue I Media, 1611 S. Catalina Ave. Suite 210, Redondo Beach, CA 90277, Attn: Legal Department.
 
