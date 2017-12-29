@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527233000id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hk-magazine.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229051123id_/http%3A//www.scmp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | South China Morning Post
 
