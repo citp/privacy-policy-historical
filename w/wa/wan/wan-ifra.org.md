@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wan-ifra.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211616id_/http%3A//www.wan-ifra.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wan-ifra.org privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230001644id_/http%3A//www.wan-ifra.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WAN-IFRA
 
