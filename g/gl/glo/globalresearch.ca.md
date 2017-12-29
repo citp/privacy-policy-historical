@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalresearch.ca privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628145141id_/http%3A//www.globalresearch.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalresearch.ca privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229053106id_/https%3A//www.globalresearch.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Research - Centre for Research on Globalization
 
@@ -25,4 +25,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of GlobalResearch.ca then you may contact us at support@globalresearch.ca
+If you have any questions regarding the privacy policy of GlobalResearch.ca then you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
