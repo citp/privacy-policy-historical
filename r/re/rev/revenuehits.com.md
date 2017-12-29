@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the revenuehits.com privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505024331id_/http%3A//revenuehits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenuehits.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229103348id_/https%3A//www.revenuehits.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - RevenueHits
 
 Last Updated: September 26, 2011
 
-Welcome to [RevenueHits.com](http://www.revenuehits.com/) (the "Site"). This site is owned and operated by Intango Ltd. ("Intango" or "We").
+Welcome to [RevenueHits.com](http://www.revenuehits.com/) (the “Site”). This site is owned and operated by Intango Ltd. (“Intango” or “We”).
 
 We are committed to maintaining the privacy of its customers. The following discloses the information gathering and dissemination practices.
 
