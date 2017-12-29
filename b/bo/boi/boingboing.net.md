@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043316id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229223520id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
 # Boing Boing Privacy Policy / Boing Boing
 
@@ -68,7 +68,7 @@ We have adopted commercially reasonable technical, physical and administrative p
 
 **INTERNATIONAL VISITORS**
 
-Happy Mutants is a San Francisco, California-based company whose servers are housed in Canada. All personal information we collect from our international users is processed according to US law. We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [Export.gov](http://www.export.gov/safeharbor/). 
+Happy Mutants is a San Francisco, California-based company whose servers are housed in Canada. All personal information we collect from our international users is processed according to US law. We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit [Export.gov](http://www.export.gov/safeharbor/).
 
 **RATED PG-13**
 
@@ -112,13 +112,16 @@ Our content is syndicated and distributed through Feedburner, owned by Google. W
 
 5\. Affiliate Programs
 
-Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com, Etsy.com ([privacy policy](https://www.etsy.com/legal/privacy/)) (Etsy uses Tiddly, a URL shortener) or Thinkgeek.com ([privacy policy](http://www.thinkgeek.com/help/privacy.shtml)) after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+Not technically an analytics cookie,  
+but you should know that we present links in a format that  
+enables us to track when links are followed. Specifically,  
+when you make a purchase on Amazon.com, Etsy.com ([privacy policy](https://www.etsy.com/legal/privacy/)) (Etsy uses Tiddly, a URL shortener) or Thinkgeek.com ([privacy policy](http://www.thinkgeek.com/help/privacy.shtml)) after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased. Boing Boing is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 **Advertising**
 
 1\. Digital Trends
 
-We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). DT's [privacy policy](http://www.digitaltrends.com/legal/privacy-policy/) and [terms of service](http://www.digitaltrends.com/legal/terms-of-use/) are available to review. 
+We partner with [Digital Trends](http://www.digitaltrends.com/) to provide third-party advertising. Digital Trends, and the companies that it contracts with to serve ads may place or recognize unique cookies on your browser and use information about your visits to this and other sites to provide advertisements on this and other sites. We do not share any personal information with Urban Daddy (like your email address). DT's [privacy policy](http://www.digitaltrends.com/legal/privacy-policy/) and [terms of service](http://www.digitaltrends.com/legal/terms-of-use/) are available to review.
 
 2\. “Other”
 
