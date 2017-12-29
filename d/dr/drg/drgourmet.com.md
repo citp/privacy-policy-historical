@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606035314id_/http%3A//www.drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drgourmet.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229171553id_/http%3A//www.drgourmet.com/pr/privacy.shtml) for the most accurate reproduction.*
 
 # Dr. Gourmet : Privacy Policy
 
@@ -6,35 +6,24 @@
     
 
 
-### 
+### _Just Tell Me What to Eat!_
 
-**Timothy S. Harlan, M.D.** tells you **what** to eat and **when** in order to eat healthier, lose weight, and keep it off - permanently!
+Timothy S. Harlan, MD, FACP has counseled thousands of his patients on healthy, sustainable weight loss. Now he's compiled his best tips and recipes into a six-week plan for you to learn how to eat great food that just happens to be great for you - and if losing weight is your goal, you can do that, too.
 
-With The Dr. Gourmet Diet Plan, you'll **create a two-week custom meal plan** including breakfast, lunch and dinner, for yourself or your entire family - even kids under 14! NO making separate meals. Online planner includes:
+Get the prescription for better health as well as healthy weight loss, including:
 
-**1\. Automated shopping lists** \- Just print and shop for the next two weeks of meals.
-
-**2\. Frozen meal options for lunch or dinner** such as Lean Cuisine or Weight Watchers.
-
-**3\. Easy, delicious recipes, with leftovers** for lunches or later in the week.
-
-**4\. Options for allergies and special diets,** including:
-
-  * Vegetarian (lacto-ovo) 
-  * Low sodium
-  * Lactose intolerance 
-  * Coumadin (warfarin) use
-  * GERD / Acid Reflux 
-  * Gluten allergies (Celiac disease). 
-  * Diabetes: **All** meal plans are safe for type 2 diabetics because they are based on the Mediterranean Diet, which is [known to be the best diet for type 2 diabetics.](https://web.archive.org/diabetes/index.shtml)
+  * What to eat
+  * How to cook it
+  * When to eat it
+  * What to eat at a restaurant
+  * What to eat if you're in a hurry
+  * _and best of all...._
+  * **Why eating great food is the best health decision you'll ever make.**
 
 
 
-**5\. Combine special needs if needed:** low sodium and lactose intolerant? Coumadin and celiac disease? Just select the options and get your delicious meal plan!
+[**Hardcover: $19.99 +s/h**](https://store.drgourmet.com/product/just-tell-me-what-to-eat-hardbound/) | [**Paperback: $15.00 +s/h**](https://store.drgourmet.com/product/just-tell-me-what-to-eat-paperback/)  
 
-Other Web sites charge you as much as $29.95 per month for this service, but **Just Tell Me What to Eat: The Dr. Gourmet Diet Plan is completely free.** (We don't even ask for your credit card information.)
-
-### [Sign up for Just Tell Me What to Eat: The Dr. Gourmet Diet Plan now! »](https://web.archive.org/user/login.php)
 
   
 
