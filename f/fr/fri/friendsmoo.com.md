@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsmoo.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626124728id_/http%3A//www.friendsmoo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsmoo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230005438id_/http%3A//friendsmoo.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Friendsmoo
 
