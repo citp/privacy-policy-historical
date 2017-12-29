@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthandnaturalliving.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622222905id_/http%3A//healthandnaturalliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthandnaturalliving.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229094813id_/http%3A//healthandnaturalliving.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health & Natural Living
 
