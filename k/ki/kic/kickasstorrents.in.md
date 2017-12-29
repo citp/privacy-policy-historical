@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the kickasstorrents.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209090413id_/http%3A//kickasstorrents.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickasstorrents.in privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy - KickassTorrents
+# Legal
 
-**Your Privacy**  
-We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies.
+* * *
 
-**Third Party Websites**  
-We cooperate with third-party companies even when you visit our site. We need these companies to provide us with some site audience and visits details, and they may see and use information about your visits. It bears no relation to your personal data, such as your name, email address or telephone number.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Third Party Cookies**  
-We use cookies to store your choices and preferences.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Privacy Policy Changes**  
-We have all rights to change, alter or modify our privacy policy at any time without prior notice. We will immediately post changes on this page and let you get acquainted with them.
+
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
