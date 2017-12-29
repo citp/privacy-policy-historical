@@ -1,69 +1,17 @@
-> *The following text is extracted and transformed from the watchseries1.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606050215id_/http%3A//watchseries1.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchseries1.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WatchSeries1
+# Legal
 
-At WatchSeries1 we are committed to safeguarding and preserving the privacy of our visitors.
+* * *
 
-This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-We do update this Policy from time to time so please do review this Policy regularly.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Information We Collect**
 
-In running and maintaining our website we may collect and process the following data about you:
 
-i. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.
-
-ii. Information provided voluntarily by you. For example, when you register for information or make a purchase.
-
-iii. Information that you provide when you communicate with us by any means.
-
-**Use of Cookies**
-
-Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.
-
-We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computerâ€™s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever
-
-You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer.
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
-
-**Use of Your Information**
-
-We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:
-
-i. To provide information to you that you request from us relating to our products or services.
-
-ii. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.
-
-iii. To inform you of any changes to our website, services or goods and products.
-
-**Storing Your Personal Data**
-
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
-
-Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, Sending such information is entirely at your own risk.
-
-**Disclosing Your Information**
-
-We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:
-
-i. In the event that we sell any or all of our business to the buyer.
-
-ii. Where we are legally required by law to disclose your personal information.
-
-iii. To further fraud protection and reduce the risk of fraud.
-
-**Third Party Links**
-
-On occasion we include links to third parties on this website. Where we provide a link it **does not mean that we endorse or approve that siteâ€™s policy towards visitor privacy**. You should review their privacy policy before sending them any personal data.
-
-**Access to Information**
-
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of Â£10 to cover costs incurred by us in providing you with the information.
-
-**Contacting Us**
-
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at <http://www.watchseries1.eu/contact-us/>.
-
-Published: September 8, 2013 by WatchSeries1 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
