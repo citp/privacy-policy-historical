@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsroadmerch.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608051305id_/http%3A//kingsroadmerch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsroadmerch.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229054347id_/http%3A//kingsroadmerch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kings Road Merch
 
