@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616085630id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribol.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229110612id_/http%3A//scribol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Scribol.com
 
-arding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
+We are committed to safeguarding the privacy of visitors to the Scribol website (the “Site”); this policy sets out how we will treat your personal information.
 
 If you are younger than 18, please ensure that your parent or guardian has read this privacy policy and is happy for you to accept it. Your registration for the Site is conditional on your parent or guardian’s consent to this privacy policy.
 
