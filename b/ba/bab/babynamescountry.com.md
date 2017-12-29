@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamescountry.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629161305id_/http%3A//www.babynamescountry.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamescountry.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229062650id_/http%3A//www.babynamescountry.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BabyNamesCountry.com
 
