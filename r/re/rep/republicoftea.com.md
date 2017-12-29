@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121171201id_/http%3A//www.republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229160915id_/http%3A//www.republicoftea.com/privacy-policy/a/cs3) for the most accurate reproduction.*
 
 # Privacy Policy | The Republic of Tea
 
@@ -65,7 +65,7 @@ We may provide your personal information to companies that provide services to h
 
 **How does The Republic of Tea safeguard my personal information?**
 
-The Republic of Tea has implemented a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of employees who have special secured access rights. When you place orders or access your personal information, your session will be over a secure server. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in The Republic of Tea's database. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at citizenhelp@republicoftea.com.
+The Republic of Tea has implemented a variety of security measures to maintain the safety of your personal information. The Republic of Tea has implemented internal policies and controls to restrict access to your information to employees who have special secured access rights. When you place orders or access your personal information, your session will take place on a server utilizing security access controls. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in The Republic of Tea's database. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at citizenhelp@republicoftea.com.
 
 **Security**
 
@@ -73,8 +73,7 @@ Our website is secured by Norton Secure. Click the seal below to find out more i
 
 **Does The Republic of Tea provide a way to update or remove personal information?**
 
-Upon request The Republic of Tea will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. The Republic of Tea provides a "My Account" feature on our website which allows you to modify, delete and/or remove most of your personal information. This page can be accessed by clicking the my account link at the top and bottom of every page on the site or by emailing our Customer Support at citizenhelp@republicoftea.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 10 days.   
-Rest assured that all of your information within your account is secure and accessible only by you or limited The Republic of Tea personnel. 
+Upon request The Republic of Tea will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. The Republic of Tea provides a "My Account" feature on our website which allows you to modify, delete and/or remove most of your personal information. This page can be accessed by clicking the my account link at the top and bottom of every page on the site or by emailing our Customer Support at citizenhelp@republicoftea.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 10 days. 
 
 **How does The Republic of Tea use my e-mail address?**
 
@@ -129,7 +128,7 @@ We reserve the right to disclose your personal information as required by law an
 
 **Your Consent**
 
-You acknowledge that this privacy policy is part of the terms of use and you agree that using this site signifies your assent to The Republic of Tea's privacy policy. The Republic of Tea reserves the right to change the terms of use, including this privacy policy, at any time, without advanced notice.   
+You acknowledge that this privacy policy is part of the website's Terms of Use and you agree that using this site signifies your assent to The Republic of Tea's privacy policy. The Republic of Tea reserves the right to change the terms of use, including this privacy policy, at any time, without advanced notice.   
 We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. 
 
 The Republic of Tea  
