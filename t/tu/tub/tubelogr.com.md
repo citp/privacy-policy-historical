@@ -1,38 +1,17 @@
-> *The following text is extracted and transformed from the tubelogr.com privacy policy that was archived on 2012-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121229135125id_/http%3A//www.tubelogr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubelogr.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Tubelogr.com - Privacy Policy
+# Legal
 
-The use of this version of the "TubeLogr" website and/or TubeLogr software and any other related software, upgrades or updates and all related services and special offers provided by "TubeLogr" are subject to the hereunder provisions of this Privacy Policy.: General 
+* * *
 
-"TubeLogr" takes your privacy seriously. We gather certain types of information about our users and we want to help you understand the terms related to the collection and use of the information, which we collect. This Privacy Policy discloses the types of information we gather, how we use it, and what choices you have regarding the collection of such information. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-BY USING OR ACCESSING ANY TubeLogr WEBSITE OR DOWNLOADING AND USING THE SERVICE, YOU AGREE TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION (AS HEREUNDER DESCRIBED), ALL IN ACCORDANCE WITH THE TERMS AND CONDITIONS SET HEREUNDER. TubeLogr MAY AMEND THIS POLICY FROM TIME TO TIME. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-If you are under the age of 18 or under the legal age for viewing porn and that porn is legal in your country, you are not eligible to use the Service, and we ask you not to submit any personal information to us. 
 
-**Collection of Information**  
-Personal Information: Use of certain features of the Service may require submission of certain personal information, including your first and last name, email address, a nick name (or other user ID) and a password. Non personally identifiable Information: 
 
-TubeLogr may also collect or receive additional non personally identifiable usage information specifically related to the use of a particular feature or offering on the TubeLogr Service or website(s), and responses to the offerings and advertisements presented on TubeLogr's Service and/or website(s). 
-
-"TubeLogr" may also collect or receive (in some cases as part of the internet communication protocol) certain non personally identifiable technical information, when the TubeLogr website(s) and pages are visited or when the TubeLogr Service is used. How is the information being used? 
-
-The information is used to operate and improve the features, offerings and content presented to you by TubeLogr, to personalize the content and advertisements provided to you; to fulfill your requests for Services, programs, and services; to communicate with you and respond to your inquiries; to conduct research about your use of the Service and/or website(s), offerings and advertisements presented on TubeLogr Service, email communication, website(s) and pages; and to help offer you other Services, programs, or services that may be of interest. 
-
-Any personally identifiable information of yours will not be shared with third parties unless you have consented to the sharing of this information. TubeLogr may use this information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers may receive aggregate data about various groups of TubeLogr users, but do not receive information that personally identifies you. Notwithstanding the foregoing, your information may be accessed and disclosed if and as required by legal procedures. Cookies: 
-
-"TubeLogr" may use cookies or similar technologies to enhance and personalize your experience of the Service and/or of TubeLogr's website, including to operate and improve offerings through the Service and/or website; to help authenticate your identity when you visit and transact with the Service, and/or website; to remember your preferences and registration information; to present and help measure and research the effectiveness of the various offerings, advertisements, and e-mail communications (by determining which e-mails you open and act upon); and to customize the content and advertisements provided to you. 
-
-Additionally, "TubeLogr" or its advertisers may use other companies, known as third party ad servers to help present advertisements online in connection with the Service, and/or web sites. These third party ad servers may use cookies or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies, not TubeLogr's. 
-
-"TubeLogr" does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Services and/or web sites may be impaired if you decline to accept cookies. Special Note for Parents 
-
-"TubeLogr"'s Service and website are not intended for a adult audience, and children under the age of eighteen (18) are not permitted to register with TubeLogr's Service and websites. Modification and Deletion of Personally Identifiable Information (Opt-Out) 
-
-In order to delete the personally identifiable information you submitted, notify us, to the following email address: tubelogr ((at)) gmail.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
-
-**Modification**  
-If you wish to modify or update your personally identifiable information, use the web-site or application interface. I f you need help, please contact us at the following email address: tubelogr ((at)) gmail.com. Please note that deletion of your personally identifiable information from TubeLogr's database will not prevent TubeLogr from using gathered anonymous information. 
-
-**Third Parties' Practices**  
-This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that TubeLogr does not own or control, or does not employ or manage. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
