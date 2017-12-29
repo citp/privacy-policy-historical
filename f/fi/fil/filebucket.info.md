@@ -1,54 +1,17 @@
-> *The following text is extracted and transformed from the filebucket.info privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504020717id_/http%3A//www.filebucket.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebucket.info privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# FileBucket - File Mirror Hosting Solutions
+# Legal
 
-**Google Advertising Cookie**
+* * *
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to the users based on your visit to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Logging IP Addresses**
-
-For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. Our servers can detect the IP address of your browser according to Internet-technology. IP addresses are logged and used by FileBucket for measuring usage.
-
-**Which data does FileBucket store about the files I upload?**
-
-  * IP address of the computer from which the upload is started
-  * Time of the upload
-  * The e-mail address entered by the uploader
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**Collecting e-mail addresses**
-
-We automatically collect the e-mail addresses entered by the uploader, but under no circumstances will FileBucket lease, sell, or provide your personal information to any companies.
-
-**Certain Exceptional Disclosures**
-
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process.
-
-**Use of Cookies**
-
-FileBucket may use cookies to store the preferences of users. However, we do not use any methods for tracking users (the so-called spy or gif images and so on).
-
-**File Transfer Security**
-
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. All files stored for delivery are deleted when they have been uploaded to third-party websites.
-
-**Third Party Advertising**
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-**Your consent**
-
-By using our Web site, you consent to the collection and use of these informations by FileBucket. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-**Webmaster SEO - Top high paying keywords?**
-
-\- Includes: advertising, air travel, agencies, airplanes, advice, airline, airline tickets, appraisal, apple ipod, auctions, adult, automobile, aftermarket, anti virus, auction, alternative, australia, automatic, ad, ads, aol.com, bad credit, bankruptcy, billing, breast cancer, banking, budget, breast, bulk, credit card, car hire, credit report, credit, comfort, cheap airfare, car rental, computer monitor, cash, cheap, cruise, car, cars, computer software, contents, cheap flights, cancer, companies, cell phone, cheap holidays, computer, cheap flight, checking, claims, computer memory, cordless phone, computer hardware, cheap computer, casino, cheap airline, commercial, careers, contract, contacts, catalogs, cooking, cook, canada, chat, classic, collection, cam, cat, cats, credit union, domain, degree, dating, degrees, design software, discover, desktop computer, discounted, discount, downloads music, distributors, dvds, designer, database, dvd copy, downloadable, dog, dvd, deluxe, downloads, date, dns, deutschland, ebay, ebay.com, entertainment, gift, government, goggles, grants, get a, goods, gaming, go, gay, google, hire, internet, ipod mini, ipod, irs, international, lcd television, legal, lines, labs, lookup, lesbian, language, mastercard, match, microsoft office, motels, microsoft office 2003, motorola phone, money, marketing, medicare, music downloads, makers, magazines, motel, mardi gras, microsoft, meeting, microsoft word, mp3 players, marriott, mp3 audio, mp3, mp3 download, online, outlook express, ocean, pc computer, pda, purchase, pret, property, pay, parts, paid, planning, personal, premium, portable mp3 players, phone numbers, rentals, real estate, register, recruitment, ringtones, rx, receiver, radisson, ratings, rating, ringtone, reg, rca, reviews, russian, recipes, spam, ssl, stamps, sears, spain, standard, software, satellite, service, socks, solutions, spring break, stamp, spybot, sport outdoor, sale, search engine, sales, support, store, swingers, sets, search engines, swiss, secure, silver, spanien, surplus, sellers, santa, shop, smoke, scores, smoking, stuttgart, sapphire, slot, sport, sql server, sms, sheet music, songs, sp, travel insurance, trucks, travel, thomas cook, television, toshiba satellite, toys, toolbar, transfer, tool, toy, teens, tsunami, the best, trial, used cars, used, upgrade, us, usa, u2, university, voip, visa, vehicle, virus, vehicles, web hosting, work from home, whois, woodbridge, where to buy, website, westminster, wholesalers, women's, where can i buy, with, wives, white pages, woman, wallpaper, wife, Yoga, yamaha, description, earthquake, tsunami, tidal wave, volcano, Mesothelioma, Structured settlement, Vioxx Attorney, Note Buyers, Donate A Car, Investment Fraud, Content Management, Home Equity Loans, Cash Advance, Payday Loan, Asbestos Lawyer, Cord Blood, California Refinance, Refinance, Cerebral, Palsy, Search Engine Marketing, California Mortgage, Criminal Attorney, Help Desk, Conference Calling, Factoring, Oregon Mortgage, Answering Service, Debt Consolidation, Mailing Lists, Software Escrow, Tax Attorney, Student Loan Consolidation, Web Hosting, Medical, Malpractice Lawyer, Seo Optimization, Debt Management, Data Recovery, Document Scanning, Forex, Private Jet, Affiliate Program, Brochure Printing, Cash Advance, Credit Report, Domain Name, Forex, Hosting, Incorporate, Refinance Mortgage, Tape Data Recovery, Website Hosting, Wisconsin Mortgage, Auto Insurance, California Divorce Lawyer, Charter Aircraft, Christian Debt, Consolidation, Lemon Law, Mac Data Recovery, Patents, Background Check, Business Card, California Divorce Attorney, Data Recovery, Factoring, Fraud, Gastric Bypass, Invention, Personal Loan, Teak Furniture, Term Life, Affiliate Marketing, Alaska Fishing, Charter Flight, College, Direct TV, Dvd Duplication, Hard Drive Recovery, Laminate Flooring, Lower Cholesterol, Metal Building, Mortgage Life Insurance, Moving Company, Online Degree, Satellite TV, Shopping Cart Software, Stock Broker, Video Production, Web Site Design
-
-  
- 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
