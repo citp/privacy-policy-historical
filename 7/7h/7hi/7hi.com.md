@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7hi.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531125142id_/http%3A//www.7hi.com/index.php%3Fa%3Dpage%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7hi.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229020059id_/http%3A//www.7hi.com/index.php%3Fa%3Dpage%26id%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - 7Hi Online Games
 
