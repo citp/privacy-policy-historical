@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailystar.com.ng privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204406id_/http%3A//dailypost.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.com.ng privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229071407id_/http%3A//dailypost.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy - Daily Post Nigeria
 
