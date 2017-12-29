@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psdreview.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628151651id_/http%3A//psdreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdreview.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229060514id_/http%3A//psdreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSDreview
 
