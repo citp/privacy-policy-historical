@@ -1,29 +1,17 @@
-> *The following text is extracted and transformed from the taiwanvs.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627225049id_/http%3A//scgoideas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiwanvs.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Scgoideas.com Privacy Policy - Scgoideas.com - Taiwan Entertainment - Taiwanese Variety Show 台灣綜藝
+# Legal
 
-(last update: Apr 2009)
+* * *
 
-At Scgoideas.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Scgoideas.com and how it is used.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-The following information is gathered from our website visitors: IP address
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**How we use the information we gather**
 
-Like most standard Web site servers, Scgoideas.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.  
-We use the information to enhance your visitor experience.
 
-**Our use of cookies**
-
-Our website makes use of cookies which are small digital files that are stored in your web browser that enable us to track your return visits to our website.  
-Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalize your experience of our website.
-
-Additionally, 3rd party advertisers on our site may use cookies for tracking purposes.
-
-Google, as a third party vendor, uses cookies to serve ads.  
-Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
-
-Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-Copyright © 2009 - Scgoideas.com | [Privacy Policy](http://scgoideas.com/privacy-policy/)   
-**Disclaimer:** To access Scgoideas.com, you acknowledged that Scgoideas.com functioning as a mere index and database of content found publicly on the internet, we do not host any media content (avi, flv, mp4, mpeg, divx, mp3...) on our servers. Unless otherwise stated, all media content are uploaded by and hosted on third-party websites, so called video sharing websites and file sharing websites, such as YouTube, Dailymotion, MyspaceTV etc...In case of any issues regarding the videos, please directly contact the responsible parties. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
