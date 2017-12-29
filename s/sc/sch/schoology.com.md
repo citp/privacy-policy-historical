@@ -1,12 +1,21 @@
-> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630100828id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoology.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229234015id_/https%3A//www.schoology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Schoology
 
-Last Updated: 3/21/2017 | [Leer esta política en español](https://web.archive.org/privacy/es)
+Last Updated: 12/15/2017 | [Leer esta política en español](https://web.archive.org/privacy/es)
 
 Schoology.com is owned and operated by Schoology Inc. This privacy policy covers the services accessed using Schoology.com. Schoology is a cloud-based learning management system and configurable social network for educational purposes. The platform provides a full suite of learning management tools. Students, teachers and parents can access Schoology.com through a free account or through their school or school district’s Enterprise account.
 
 This Privacy Policy describes Schoology’s privacy practices in relation to information that we collect through the website www.schoology.com operated by us from which you are accessing this Privacy Policy (the **“Main Domain”** ) and through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Policy (the **“App”** ).
+
+This Privacy Policy does not apply to the [Schoology App Center](https://app.schoology.com/apps). For information on the privacy policies of the Schoology App Center, visit <https://developers.schoology.com/privacy>
+
+[](https://privo.com/privo-site-validation/?company=911)
+
+**PRIVO-Cert™ Safe Harbor Certification Program**
+
+**PRIVO-Cert™ Safe Harbor Certification Program**   
+Schoology.com is a Member of the PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Schoology.com adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Schoology.com has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 212-213-8333 or [privacy@schoology.com](mailto:privacy@schoology.com). If you have further concerns after you have contacted us, you can contact PRIVO directly at [privacy@privo.com](mailto:privacy@privo.com).
 
 ## Information We Collect
 
@@ -26,6 +35,8 @@ This Privacy Policy describes Schoology’s privacy practices in relation to inf
 Schoology requires schools, districts, or teachers (on behalf of the parents or legal guardians of students under the age of 13) to provide consent for the online collection of personal information of the student under the age of 13 through Schoology. In order to register to use Schoology, students must use an access code provided to them by their teacher.
 
 Schoology collects limited personal information from minor students only where that student’s school, district, or teacher has contracted with Schoology to collect personal information for the use and benefit of the learning environment. This information is not shared outside of the school or with any third parties except those needed for the provision of the service as outlined in this policy. Students of any age cannot share their profiles publicly outside of their classroom or school. 
+
+Instructors can give students grades, attendance marks and provide comments to students. Students can submit assignments, add comments and take online tests and quizzes, Instructors or students can record audio or video and attach these recordings to content or other items in our system. None of this information is shared with any third parties without the instructor or school's consent.
 
 Teachers accessing Schoology on behalf of a School or District or using a free account must ensure that they provide parents with access to this privacy policy.
 
@@ -47,7 +58,6 @@ We work with a number of third party service providers to help improve the quali
 
   * Schoology uses the following third party services on the App:
     * **Zendesk and Zopim Chat** \- Zendesk and Zopim Chat are platforms for our Support Team to provide private customer support communication to our users. Our support system is available for users of all ages to submit requests or questions to our team. These requests can be submitted using [http://help.schoology.com](http://help.schoology.com/) or via email at [help@schoology.com](mailto:help@schoology.com.) Zendesk does not share user information with any other third parties. 
-    * **Foresee** \- Foresee is used to measure customer satisfaction through opt-in, in product surveys directed at users above the age of 13. Foresee does not share user information with any other third parties. 
     * **Pendo** \- Pendo is an analytics service used to help analyze your use of our App and to improve it. We use the information we get from Pendo only to improve our App and our Services. Pendo does not share your information with any other third parties. 
   * Schoology uses the following third party services on the Main Domain.
     * **Google Analytics** \- Google Analytics is an analytics service used to help analyze your use of our Main Domain and allow us to improve communication. We use the information we get from Google Analytics only to improve our Main Domain. Google Analytics does not share your information with any other third parties. 
