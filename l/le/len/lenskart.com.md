@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lenskart.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625093335id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenskart.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229225316id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lenskart
 
@@ -64,14 +64,14 @@ Company will also use other third parties like courier companies to deliver prod
 
 
 
-Please do read the detailed terms and conditions of the Company’s Website situated at <http://www.lenskart.com/terms-conditions>_._ If You choose to visit this Website, Your visit and any dispute over privacy is subject to this Agreement, including limitations on damages, arbitration of disputes, and application of the law of the Republic of India. If You have any concern about privacy at this Website, please send us a thorough description to support@lenskart.com and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Website Use may also change, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless You have instructed us not to, but You should check our Website frequently to see recent changes.
+Please do read the detailed terms and conditions of the Company’s Website situated at <http://www.lenskart.com/terms-conditions>_._ If You choose to visit this Website, Your visit and any dispute over privacy is subject to this Agreement, including limitations on damages, arbitration of disputes, and application of the law of the Republic of India. If You have any concern about privacy at this Website, please send us a thorough description to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of Website Use may also change, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless You have instructed us not to, but You should check our Website frequently to see recent changes.
 
   4. _**GRIEVANCE OFFICER**_
 
 
 
 
-The Company would be glad to provide assistance to You in case You have any queries or have any issues pertaining to this Security and Privacy policy. Kindly contact Mr. Saurabh Asthana at [saurabha@valyoo.in](mailto:saurabha@valyoo.in).
+The Company would be glad to provide assistance to You in case You have any queries or have any issues pertaining to this Security and Privacy policy. Kindly contact Mr. Saurabh Asthana at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#245745515645464c45645245485d4b4b0a4d4a).
 
   5. _**LIST OF COOKIES WE COLLECT**_
 
@@ -236,4 +236,8 @@ WISHLIST_CNT
 
 | 
 
-The number of items in your Wishlist.
+The number of items in your Wishlist.  
+  
+Policy for NDNC
+
+By using the website and/or registering yourself at Lenskart.com you authorize us to contact you via email or phone call or sms and offer you our services, imparting product knowledge, offer promotional offers running on website & offers offered by the associated third parties, for which reasons, personally identifiable information may be collected. And Irrespective of the fact if also you have registered yourself under DND or DNC or NCPR service, you still authorize us to give you a call from the Lenskart for the above mentioned purposes till 45 days of your registration with us. This Privacy Policy covers Lenskart’s treatment of personally identifiable information that Lenskart collects when you are on the Lenskart site, and when you use Lenskart’s services. This policy also covers Lenskart’s treatment of any personally identifiable information that Lenskart’s business partners share with Lenskart. This policy does not apply to the practices of companies that Lenskart does not own or control or to people that Lenskart does not employ or manage. Lenskart collects personally identifiable information when you register for a Lenskart account, when you use certain Lenskart products or services, when you visit Lenskart pages, and when you enter promotions. Lenskart may also receive personally identifiable information from our business partners. When you register with Lenskart, we ask for your first name, last name, contact no, email, Date of birth and gender. Once you register with Lenskart and sign in to our services, you are not anonymous to us. Also during registration, you may be requested to register your mobile phone and email id, pager, or other device to receive text messages, notifications, and other services to your wireless device. By registration you authorize us to send sms/email alerts to you for your login details and any other service requirements or some advertising messages/emails from us.
