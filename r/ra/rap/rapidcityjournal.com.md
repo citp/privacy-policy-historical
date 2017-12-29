@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rapidcityjournal.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210070524id_/http%3A//rapidcityjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidcityjournal.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229232043id_/http%3A//rapidcityjournal.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | rapidcityjournal.com
 
-Welcome to the web sites and mobile applications of the Rapid City Journal. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
+Welcome to the web sites and mobile applications of the Rapid City Journal Media Group. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
 ### Information Automatically Gathered About All Visitors
 
@@ -32,7 +32,7 @@ No refunds for early cancellation of order.
 
 **Subscription:**
 
-*Digital Only=Digital subscription includes rapidcityjournal.com, iPad apps, smartphone apps, mobile websites and e-Edition. Smartphone apps are not supported on all devices. Does not include Kindle, Kobo, or Nook editions. Applicable sales tax included. Prices subject to change during term. After promotional offers conclude, your subscription will continue at the regular rate until the Rapid City Journal is otherwise notified. By supplying your e-mail address you are authorizing the Rapid City Journal to send you future promotional offers and discounts. To activate your digital subscription go to rapidcityjournal.com/activate and click on "Activate Digital Membership". Digital only offer is an EasyPay subscription. Your credit or debit card will be automatically charged every renewal period until you notify the Rapid City Journal otherwise.
+*Digital Only=Digital subscription includes rapidcityjournal.com, iPad apps, smartphone apps, mobile websites and e-Edition. Smartphone apps are not supported on all devices. Does not include Kindle, Kobo, or Nook editions. Applicable sales tax included. Prices subject to change during term. After promotional offers conclude, your subscription will continue at the regular rate until the Rapid City Journal Media Group is otherwise notified. By supplying your e-mail address you are authorizing the Rapid City Journal Media Group to send you future promotional offers and discounts. To activate your digital subscription go to rapidcityjournal.com/activate and click on "Activate Digital Membership". Digital only offer is an EasyPay subscription. Your credit or debit card will be automatically charged every renewal period until you notify the Rapid City Journal Media Group otherwise.
 
 **Classifieds**
 
