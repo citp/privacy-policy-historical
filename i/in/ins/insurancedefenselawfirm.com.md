@@ -1,57 +1,17 @@
-> *The following text is extracted and transformed from the insurancedefenselawfirm.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805212107id_/http%3A//www.insurancedefenselawfirm.com/consumers/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurancedefenselawfirm.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Insurance Defence Law Firm | Lawyers, Attorneys, Law Firms, Legal Information | Privacy
+# Legal
 
-The Insurance Defence Law Firm values the privacy of its clients and site viewers. Any of the following personal information that may be made available to the lawyer or firm when browsing or navigating the site shall be kept confidential:
+* * *
 
-First and last name
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Company, home, postal or other physical address 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Other contact information, for example, telephone number, fax number, email address, and other similar information
 
-Title or position in a company or an organization
 
-Occupation
-
-Industry
-
-Personal interests
-
-Any other information needed to provide a service you requested
-
-Domain Information Collection
-
-The Insurancedefence Law firm may collect domain information to enable us to analyze how our visitors use this site. This data enables us to become more familiar with which people visit our site, how often they visit, and what parts of the site they visit most often. The lawyer or firm uses this information to improve its Web-based offerings. This information is collected automatically and requires no action on your part.
-
-Use of Cookies and Tracking User Traffic
-
-Some pages on this site may use “cookies”—small files that the site places on your hard drive for identification purposes. A cookie file can contain information such as a user ID to track the pages visited, but the only personal information a cookie can contain is information you supply yourself. These files are used for site registration and customization the next time you visit us.
-
-Some parts of the site may also use cookies to track user traffic patterns. The lawyer or firm does this in order to determine the usefulness of our Web site information to our users and to see how effective our navigational structure is in helping users reach that information. Please note that cookies cannot read data off of your hard drive. Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site.
-
-Information Sharing and Disclosure
-
-Your personal information is never shared outside the lawyer or firm without your permission, except under conditions listed below:
-
-Consenting to share your information to a third party service provider working on our behalf to serve you.
-
-Requiring us to provide you with a product or service.
-
-The lawyer or firm will also disclose your personal information, if required to do so by law, or in urgent circumstances, to protect personal safety, the public or our sites.
-
-Internet Security
-
-The lawyer or firm strives to protect your personal information; however, we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters
-
-Protecting the Privacy of Children
-
-Children under 13 years old are not the target audience for our Web site. To protect their privacy, the lawyer or firm prohibits the solicitation of personal information from these children.
-
-Links to Third Party Sites
-
-This site may contain links to other sites. The lawyer or firm does not share your personal information with those Web sites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
-
-Changes to this Privacy Policy
-
-The Insurance defence Law Firm reserves the right to change, modify or update this policy at any time without notice. Any substantial changes in the way we use your personal information will be posted on this site. If you have questions or concerns about our Privacy Policy, please email us at the contact information on the site.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
