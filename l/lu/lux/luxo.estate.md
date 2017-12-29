@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luxo.estate privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104133203id_/http%3A//luxo.estate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxo.estate privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229044934id_/http%3A//luxo.estate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyLUXO
+# Privacy Policy
 
 Luxo.estate (the Site) is owned and operated by LUXO  (“Site”). We respect the privacy of each user of the Site (referred to as “you” or “a user”), by registering for or using this Site you accept this privacy statement. You cannot use this Site if you do not agree to this privacy statement.  We reserve the right to modify this statement at any time.
 
