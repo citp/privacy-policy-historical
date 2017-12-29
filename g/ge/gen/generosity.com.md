@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generosity.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614111905id_/https%3A//learn.indiegogo.com/privacy-policy-other) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generosity.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229054303id_/https%3A//learn.indiegogo.com/privacy-policy-other) for the most accurate reproduction.*
 
 # Privacy Policy - Indiegogo
 
@@ -12,9 +12,7 @@ This Privacy Policy explains what Personal Information will be collected by Indi
 
 This Privacy Policy should be read along with our Terms of Use posted at: <https://www.indiegogo.com/about/terms> (“ **Agreement** “), the Partner Terms posted at: <https://www.indiegogo.com/partners/terms>, and Indiegogo’s Cookie Policy posted at: [https://www.indiegogo.com/about/cookies](https://learn.indiegogo.com/cookie-policy/) and all other operating rules, policies and procedures and additional terms and conditions published on our Website (all of which are incorporated by reference) which governs your use of our Website and Service. Capitalized terms, if not defined in this Privacy Policy, are defined in the Agreement.
 
-### EU-US Privacy-Shield
-
-Indiegogo, Inc. complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Indiegogo, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Indiegogo, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+### EU-US Privacy Shield
 
 Indiegogo, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
 
