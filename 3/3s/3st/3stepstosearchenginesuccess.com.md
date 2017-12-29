@@ -1,69 +1,17 @@
-> *The following text is extracted and transformed from the 3stepstosearchenginesuccess.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809121954id_/http%3A//www.3stepstosearchenginesuccess.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3stepstosearchenginesuccess.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for 3StepsToSearchEngineSuccess.com
+# Legal
 
-**Website Privacy Policy**
+* * *
 
-By using this Website, you agree to the collection and use of your information by us in accordance with this Privacy Policy. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Changes to the Privacy Policy**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-We reserve the right to change the terms of this Privacy Policy at any time without notice. Any changes will be posted on this page and visitors are encouraged to check this page regularly. Your continued use of the Website following any changes to this Privacy Policy will constitute your acceptance of such changes. 
 
-**Information Collected Automatically**
 
-In some cases, we may automatically (i.e., not via registration) collect technical information when you connect to our Website that is not personally identifiable information. Examples of this type of information include the type of internet browser you are using, the type of computer operating system you are using and the domain name of the website from which you linked to our site. Also, when you view our Website, we may store some information on your computer. This information will be in the form of a “cookie” or similar file and can help us in many ways. For example, cookies allow us to tailor the Website to better match your interests and preferences. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
-
-**Privacy Information for Persons 13 Years and Older**
-
-We will not collect any personally identifiable information about you (e.g., your name, address, telephone number or email address) through our Website unless you have provided it to us voluntarily. We will ask you when we need information that personally identifies you. For example, if you choose to sign up for a newsletter, we will request your name and email address. 
-
-When you do provide us with personally identifiable information, we may use that information in the following ways, unless stated otherwise: 
-
-We may store and process that information to better understand your needs and how we can improve our products and services; 
-
-We employ other companies to perform certain functions on our behalf, such as processing orders and delivering packages, conducting surveys and sending you mailings regarding our products and these companies have access to your personal information and; 
-
-We may contact you regarding promotions and other offers regarding our products that may interest you. We do not now, and do not intend to, sell, rent or market personally identifiable information about you to third parties. We share information only with subsidiaries of this site and may use it to send you promotions and product information. 
-
-**Children Under 13**
-
-Our Privacy Policy applies to children as well as adults. There are some extra precautions that we take, however, with respect to collecting information from children under 13. 
-
-We encourage parents and guardians to explore our Website with their children. 
-
-We do not knowingly collect personally identifiable information from your children under 13 on-line without first obtaining permission from the child’s parent or guardian. 
-
-Our Website does not offer activities that allow your child disclose your child’s personal information publicly (for example through chat rooms or message boards). 
-
-We do not share your child’s personally identifiable information with third parties. Please also note that we do not offer activities that require the ongoing collection and use of personally identifiable information provided by children. 
-
-**Use of Website and Website Material**
-
-This Website is provided for your personal noncommercial use. You may not copy material from this Website for commercial use. You may copy material in limited quantities from this Website for your personal noncommercial use provided that our copyright notice is affixed to the copied material. We reserve the right to terminate, at any time, your permission to make personal copies of material from this Website. 
-
-You are prohibited from using this Website to post or transmit any unlawful, threatening, libelous, defamatory, obscene, scandalous, inflammatory, pornographic, profane material, any material that infringes on any copyright, trademark or other proprietary right or any material that could constitute or encourage unlawful conduct. We may, from time to time, monitor or review material transmitted or posted using this Website and reserve the right to delete any material we deem inappropriate. This Website is under no obligation to do so and assumes no responsibility or liability arising from any material transmitted or posted using this Website. 
-
-**Ownership of Intellectual Property**
-
-All material on this website is copyrighted, either by us or third party providers. Notwithstanding any other term or condition in this agreement, We retains ownership to the copyright in this Website and all material from this Website unless otherwise indicated. 
-
-**Severed Provisions and Entire Agreement**
-
-If any provision of this agreement is unenforceable, that provision shall be deemed severed from this agreement and shall not affect the validity and enforceability of the remaining provisions. 
-
-This is the entire agreement between the parties relating to the subject matter. 
-
-We may modify these Terms of Use at any time and without notice. You are bound by any modifications and should therefore periodically visit this page to review Terms of Use to which you are bound. 
-
-**Log Files**
-
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP address, your ISP (internet service provider, such as AOL or BT), the browser you used to visit our site (such as Internet Explorer, Chrome or Firefox), the time you visited our site and which pages you visited throughout our site. 
-
-**Cookies and Web Beacons**
-
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
-
-We also use third party advertisements on 3StepsToSearchEngineSuccess.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
-
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as McAfee Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
