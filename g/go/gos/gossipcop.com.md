@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628103100id_/http%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipcop.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229015250id_/https%3A//www.gossipcop.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Gossip Cop
 
 ### This privacy statement covers Gossip Cop Media:
 
@@ -58,12 +58,10 @@ The advertisements appearing on this website are delivered to users by Google, a
 
 This type of information is collected anonymously by approved third-party partners (such as online marketing firms, research companies, social media companies, ad targeting firms, and other partners). None of the information collected by these sources contains any personally identifying information. This type of information includes but is not limited to:
 
-  * Demographic information (gender, age, HHI, job title, interests, etc.)
-  * Advertising information (clicks, interactions, post-impression performance data)
-  * Social networking information (Facebook, Twitter, LinkedIn, etc.)
-  * Research information (data collected from partners)
-
-
+*Demographic information (gender, age, HHI, job title, interests, etc.)  
+*Advertising information (clicks, interactions, post-impression performance data)  
+*Social networking information (Facebook, Twitter, LinkedIn, etc.)  
+*Research information (data collected from partners)
 
 **Notification of Changes**
 
