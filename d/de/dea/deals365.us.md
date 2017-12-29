@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals365.us privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515042737id_/http%3A//www.deals365.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals365.us privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230005357id_/http%3A//www.deals365.us/privacy.php) for the most accurate reproduction.*
 
 # Terms and Conditions of deals365.us
 
