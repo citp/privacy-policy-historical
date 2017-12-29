@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthygreenkitchen.com privacy policy that was archived on 2017-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170511063219id_/http%3A//www.healthygreenkitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthygreenkitchen.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229165342id_/http%3A//www.healthygreenkitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Healthy Green Kitchen Privacy Policy - Healthy Green Kitchen
 
