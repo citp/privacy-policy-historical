@@ -1,32 +1,17 @@
-> *The following text is extracted and transformed from the apkfileplace.com privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109005913id_/http%3A//www.apkfileplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkfileplace.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free Download Android APK Apps and Game
+# Legal
 
-## Privacy Policy
+* * *
 
-**Our Commitment to Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. A more detailed explanation about how we safeguard your personal information is described below.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Cookies**  
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our website is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Third Party Cookies**  
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to http://www.google.com/privacy_ads.html
 
-**Traffic Reports**  
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
 
-**Legal proceedings**  
-We will make every effort to preserve user privacy but we may need to disclose information when required by law.
-
-**Business Transitions**  
-If our website is acquired by or merges with another firm, the assets of our website, including personal information, will likely be transferred to the new firm.  
-**  
-Links**  
-Our website frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our website we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by our website.
-
-**Data Security**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-**Notification of Changes**  
-When our website makes changes to this privacy policy we will post those changes here.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
