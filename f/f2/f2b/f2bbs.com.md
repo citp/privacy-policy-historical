@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f2bbs.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521021746id_/http%3A//f2bbs.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f2bbs.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229030648id_/http%3A//f2bbs.com/page/privacy) for the most accurate reproduction.*
 
 # F2 :: Privacy Policy
 
