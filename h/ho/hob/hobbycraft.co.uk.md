@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625060947id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbycraft.co.uk privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229061239id_/http%3A//www.hobbycraft.co.uk/pages/privacy%2520policy) for the most accurate reproduction.*
 
 # 
 
@@ -251,6 +251,8 @@ We advise that you visit [**www.aboutcookies.org**](http://www.aboutcookies.org/
 To manage cookies on your mobile phone, tablet or other mobile device we advise that you check the device manual.
 
 Hobbycraft reserve the right to amend and update this policy. Any changes to our security and privacy policy will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this page.
+
+To clear your Hobbycraft website cookies please use this link: **[Clear Cookies](http://www.hobbycraft.co.uk/removecookies.aspx)**
 
 
 
