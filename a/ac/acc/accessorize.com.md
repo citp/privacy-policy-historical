@@ -1,148 +1,199 @@
-> *The following text is extracted and transformed from the accessorize.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908145216id_/http%3A//uk.accessorize.com/view/content/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessorize.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy – Privacy & Terms – Google
 
-  * > Security Code 
-  * > Cookies 
-  * > Security 
-  * > Privacy And Data Protection 
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
+Our Privacy Policy explains: 
 
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
-## Security Code
 
-We require certain information when entering your payment details if you are using a debit or credit card. One of these is your Security Code. This is usually found on the back of your credit or debit card (above the signature strip) and is the last 3 digits of the code. For American Express, it is a 4 digit code found on the front of the card.
 
-Back to top ^
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
 
-## Cookies
+## Information we collect
 
-What are cookies?  
-Like the majority of websites, Monsoon.co.uk and Accessorize.com use cookies. Cookies are messages stored by your web browser as text files that pass information back to web servers every time the browser requests a page from the server.
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
 
-Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete Monsoon and Accessorize cookies having visited the site. Alternatively, you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.) or opt out of cookies using the links below (where possible).
+We collect information in the following ways: 
 
-If you are not familiar with cookies, how to control them or how to delete them, we recommend you visit <http://www.aboutcookies.org/> for further information.
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
 
-Why do we use them?  
-We use cookies for the following reasons:
+  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
 
-  * Identifying which country you have come to our site from so we can present you with the correct content
-  * Remembering who you are if and when you log in to our website by creating an account
-  * Remembering which products you have added to your shopping bag/basket. This is especially important if you are browsing between Monsoon and Accessorize
-  * Remembering which items you’ve recently viewed so we can display this in the ‘Recently Viewed Items’ on the product details pages
+    * **[Device information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-device)**
 
+We collect [device-specific information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/phone-number.html) with your Google Account. 
 
+    * **Log information**
 
-We also work with some trusted partners who use cookies for the following reasons:
+When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
 
-  * Web site traffic, sales, performance and website issues analysis
-  * Product recommendations
-  * Sales attribution for affiliate partners
-  * Sales attribution for our paid search partners
-  * Retargeting advertising (adverts for our products that appear on other websites once you have visited ours)
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
+When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/wifi-access-points-and-cell-towers.html). 
 
+    * **Unique application numbers**
 
-Please note, cookies placed on your system from visits to external links or partner websites (before, after or while visiting Monsoon.co.uk and Accessorize.com) are not the responsibility of Monsoon Accessorize ltd.  
-We value our customer’s privacy and the data they share with us. All our account and payment pages are secure. Please see below for more information.
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-The following describe the cookie types on this site and what we use them for:
+    * **Local storage**
 
-Session Cookies – we use these to remember who you are through account creation and log-in. We also use them to remember which products have been added to your shopping bag/basket. Disabling or deleting these may prevent you being able to checkout on our website
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-application-data-cache). 
 
-Site Redirection and IP Check – we use these to identify which country you are visiting the website from and to present you with the correct currency and language. We also remember which site country site you may have selected from the top navigation so this is the one you see when revisiting the website. The data being passed is anonymous
+    * **Cookies and similar technologies**
 
-Google Analytics – we use this to monitor site performance, sales and how the site is being used. The data being passed is anonymous. More information can be found at <http://www.google.com/analytics/learn/privacy.html>
+We [and our partners](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
 
-Coremetrics – we use this to monitor site performance, sales and how the site is being used (in addition to Google Analytics). The data being passed is anonymous. More information can be found at <http://www.coremetrics.co.uk/company/privacy.php>
 
-QuBit – we use this to manage the tracking code on our websites along with allowing us to monitor site performance, sales and site use. This data can then be used to customise the website specifically for groups of visitors and improve their browsing experience. For more information go to <http://www.qubitproducts.com/about/privacy-policy>
 
-Quantcast – this cookie is set if you arrive to our website via a paid search link in a search engine such as Google or Bing. It is used to track if we owe any money to Quantcast if your visit results in a successful order. More information can be found at <https://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/>
 
-Richrelevance – we use this to identify visitors and recommend products or promotions based on their browsing and purchasing behaviour along with the behaviour of other visitors (e.g. you might also like). The data being passed is anonymous. More information can be found at <http://www.richrelevance.com/privacy/>
+Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
 
-Net Media Planet – this cookie is set if you arrive to our website via a paid search link in a search engine such as Google or Bing. It is used to track if we owe any money to Net Media Planet if your visit results in a successful order. The data being passed is anonymous
+## How we use information we collect
 
-Affiliate Window- this cookie is only set if you get to the confirmation page after checkout. It is used to track whether we then owe any money as a commission to a site (affiliate) which has referred business to us. The data being passed is anonymous. More information can be found at <http://www.affiliatewindow.com/documents/Privacy%20Policy.pdf>
+We use the information we collect from all of our services to [provide](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-BuyAt - this cookie is only set if you get to the confirmation page after checkout. It is used to track whether we then owe any money as a commission to a site (affiliate) which has referred business to us. The data being passed is anonymous. More information can be found at <http://www.buy.at/aboutus/privacypolicy.php>
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-Zanox - this cookie is only set if you get to the confirmation page after checkout. It is used to track whether we then owe any money as a commission to a site (affiliate) which has referred business to us. The data being passed is anonymous. More information can be found at <http://www.zanox.com/en/about-zanox/policies/>
+If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
 
-Linkshare - this cookie is only set if you get to the confirmation page after checkout. It is used to track whether we then owe any money as a commission to a site (affiliate) that has referred business to us. The data being passed is anonymous. More information can be found at <http://www.linkshare.co.uk/cookies/>
+When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-Struq – We use this to track which products or categories you may have been looking at on the website so we can pass this to our partner for retargeting advertising (adverts displayed on other websites for our products). The data being passed is anonymous. More information can be found at <http://www.struq.com/consumer-opt-out/>
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
 
-How can I delete or disable them?  
-We strongly recommend you do not delete or disable cookies as this will affect your browsing experience with us, especially when trying to add products to your basket for checkout (which, without cookies enabled, may not be possible)
+Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
 
-If you do want to delete or disable them, you will need to go into you web browsers settings/preference and do this from there. Each browser has different settings to manage these and you may need to read through your browsers Help section. More information can be found at <http://www.aboutcookies.org/>
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
 
-Can I opt out of any of your cookies?  
-For some of our cookies, an opt out option is available. Use the below links and follow the instructions there:
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-Google Analytics Opt Out Browser Add On (<http://tools.google.com/dlpage/gaoptout?hl=None>) – you will need to install this to opt out of being tracked by Google Analytics
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-Coremetrics Opt Out Link (<http://www.coremetrics.co.uk/company/privacy.php#optout>) - this will opt you out of being tracked by our website analytics and product recommendations tool
+## Transparency and choice
 
-Struq Opt Out Link (<http://www.struq.com/consumer-opt-out/>) - this will opt you out of retargeting adverts that you may be shown on other websites after visiting ours
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-Quantcast (<https://www.quantcast.com/opt-out>)
+  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services. 
+  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
+  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
+  * [Take information](https://www.dataliberation.org/) associated with your Google Account out of many of our services. 
+  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
 
-Richrelevance (<http://www.richrelevance.com/privacy/opt-out/>)
 
-If you wish to opt out of any not listed above, you will need to delete them from your browser or use your browsers anonymous usage setting as detailed earlier. We will update this list as more opt out options are made available.
 
-Back to top ^
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
 
-## Security
+## Information you share
 
-The Monsoon Accessorize website uses a secure server. All your personal information and credit card information between your PC and the server are transmitted in an encrypted form.
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/removing-your-content.html). 
 
-Furthermore, your credit card details are not stored on a server accessible via the Internet. This is a further step for your protection only available by leading ecommerce sites.
+## Accessing and updating your personal information
 
-Our account pages and checkout pages use SSL certificates (Secure Socket Layer) provided by COMODO ([ www.comodo.com](http://www.comodo.com/) ). Details of these can be obtained by clicking on the padlock or secure site icon which will appear in the address bar of your browser when you are on a secure page (https instead of http).
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. 
 
-Can't access secure pages?  
-If you are having trouble getting into secure pages, it may be because your browser, your corporate firewall or proxy has not been set up to allow access to secure pages. In these cases contact IT support at your company.
+We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-_Many companies access the Internet using a specially programmed computer known as a 'Firewall'. Any data coming in or going out has to get past the firewall first. The firewall may contain programs that mediate access between the Internet and the user._
+## Information we share
 
-Verified by Visa and Mastercard® SecureCode™ 
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
 
-To give you even more confidence in shopping online with monsoon.co.uk and accessorize.com, we have introduced Verified by Visa and Mastercard® SecureCode™. These services enhance your existing card account against unauthorised use when you shop with us.
+  * **With your consent**
 
-To use this service, you must first register with the bank or other organisation that issued your card. You can usually do this when presented with the secure code page for the first time. To find out more about these services:
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-sensitive-info). 
 
-Click here to visit the Verified by Visa website
+  * **With domain administrators**
 
-Click here to visit the Mastercard® SecureCode™ website 
+If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for G Suite users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
 
-Once you've registered and created your own private password with your card issuer, you will be automatically prompted at checkout to provide this password each time you make a purchase. Please note: Your Verified by Visa or Mastercard SecureCode™ password is not your monsoon.co.uk or accessorize.com account password. Monsoon Accessorize does not have access to your Verified by Visa or Mastercard SecureCode™ password. You must contact your card issuer for further assistance.
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
 
-Back to top ^
+Please refer to your domain administrator’s privacy policy for more information. 
 
-## Privacy And Data Protection
+  * **For external processing**
 
-The information you provide on this website will be held by Monsoon Accessorize Ltd and not by any third parties.
+We provide personal information to our [affiliates](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
 
-Use of Your Information:  
-The information you provide on this site may be held and used by us for any of the following purposes: order processing, administration of customers' orders and/or accounts, dealing with enquiries or complaints, crime and fraud prevention, marketing our products and services generally or (subject to any objection or preference you may indicate when submitting your personal details to us via this Website) for sending information to you about our products from time to time. In addition, and where you have specifically granted consent for us to do so, we may use information about you provided by credit reference agencies to help us make credit decisions and to prevent fraud.
+  * **For legal reasons**
 
-It is your responsibility to maintain the confidentiality of your password and account details. Monsoon Accessorize Ltd shall not be liable to any person for any loss or damage, which may arise as a failure to do so.
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
 
-Disclosure of Your Information:  
-WWe may from time to time transfer your personal data (including financial information) to a group company or joint venture partner of Monsoon or to a third party agent, supplier, contractor or processor, who may be located outside of the European Economic Area (EEA) including in the United States. By submitting your personal data you consent to the transfer of your personal data to such entities. Personal data may be transferred outside the EEA to deliver or improve our services or to assist our security, credit risk or fraud protection activities. Whenever we transfer your personal data to countries outside the EEA, we take all steps reasonably necessary to ensure that your personal data is transferred in accordance with this Privacy Policy and as permitted by applicable laws from time to time.
+    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/legal-process.html). 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
 
-We may disclose your information to credit agencies and to other people in relation to enquiries concerning the prevention and detection of fraud or crime or the apprehension or prosecution of offenders, or as may be required by law or legal proceedings.
 
-It is your responsibility to maintain the confidentiality of your password and account details. Monsoon Accessorize Ltd shall not be liable to any person for any loss or damage, which may arise as a failure to do so.
 
-Communication & Marketing  
-If you have made a purchase from our website, we may occasionally update you on our latest products, news and special offers via e-mail, post & telephone. You will also be given the opportunity to receive such communications from us and selected third parties either through our checkout, account pages or by signing up for emails through our email sign up bar.
+[non-personally identifiable information](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/example/to-show-trends.html) about the general use of our services. 
 
-All customers have the option to opt-out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt-out by clicking on the "unsubscribe" link in any email communications which we might we send you.
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
 
-Back to top ^
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/frameworks/), including the EU-US and Swiss-US Privacy Shield Frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
+  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
+  * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+  * [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+  * [YouTube Kids](https://kids.youtube.com/privacynotice)
+  * [Google Accounts Managed with Family Link](https://families.google.com/familylink/privacy/child-policy/)
+
+
+
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/technologies/product-privacy/). 
+
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/), including: 
+
+  * Information about our [technologies and principles](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20171229045921id_/https%3A//www.google.com/intl/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+
+
