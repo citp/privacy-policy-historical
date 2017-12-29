@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the macrotrends.net privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625072413id_/http%3A//www.macrotrends.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrotrends.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229222617id_/http%3A//www.macrotrends.net/privacy) for the most accurate reproduction.*
 
 # MacroTrends | Privacy Policy
 
-This Privacy Policy governs the manner in which Macrotrends LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [MacroTrends.net](http://www.macrotrends.net/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Macrotrends LLC.
+This Privacy Policy governs the manner in which Macrotrends LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [MacroTrends.net](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Macrotrends LLC.
 
 **Personal identification information**
 
@@ -49,7 +49,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. You may opt out of interest-based advertising by visiting the Network Advertising Initiative (NAI) at: <http://optout.networkadvertising.org/#!/>
 
 **Google Adsense**
 
