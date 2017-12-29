@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rochespharmacy.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621200940id_/http%3A//www.rochespharmacy.ie/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rochespharmacy.ie privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229134240id_/http%3A//www.rochespharmacy.ie/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy - Roches Pharmacy
 
