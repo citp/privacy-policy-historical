@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606204348id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k5learning.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229120007id_/http%3A//www.k5learning.com/privacy) for the most accurate reproduction.*
 
 # Privacy | K5 Learning
 
@@ -90,4 +90,4 @@ If you disable cookies in your browser certain features of our website may not w
 
 Your use of this website site is conditioned on your having accepted these terms. This Privacy Policy is subject to change from time to time, and your continued use of the website is conditioned upon your acceptance of any modifications hereto.
 
-If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20170606204348id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
+If you have any questions about your privacy or security measures at K5, please reach us using the contact information on the [Contact Us page](https://web.archive.org/web/20171229120007id_/http%3A//www.k5learning.com/contact) or email [privacy@k5learning.com](mailto:privacy@k5learning.com).
