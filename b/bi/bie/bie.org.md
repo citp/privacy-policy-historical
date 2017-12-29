@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606032327id_/http%3A//www.bie.org/about/privacy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bie.org privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229061302id_/http%3A//www.bie.org/about/privacy_terms) for the most accurate reproduction.*
 
 # Privacy & Terms | Project Based Learning | BIE
 
@@ -76,7 +76,7 @@ As a matter of policy, we will not sell, share or rent information about you in 
 
 ###  Policy Towards Children
 
-We are concerned about the safety and privacy of children who use the Internet. Although we encourage children to learn more about our organization and the world of project based learning, we encourage that this be done with parental supervision. Consistent with the Children’s Online Privacy Protection Act of 1998 (“COPPA”), we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a child under 13 has otherwise provided us with personally identifiable information without verifiable parental consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without verifiable parental consent, he or she should contact the Buck Institute for Education (18 Commercial Blvd., Novato, CA 94949, 415.883.0122, info@bie.org).
+We are concerned about the safety and privacy of children who use the Internet. Although we encourage children to learn more about our organization and the world of project based learning, we encourage that this be done with parental supervision. Consistent with the Children’s Online Privacy Protection Act of 1998 (“COPPA”), we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a child under 13 has otherwise provided us with personally identifiable information without verifiable parental consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without verifiable parental consent, he or she should contact the Buck Institute for Education (3 Hamilton Landing, Suite 220, Novato, CA 94949, 415.883.0122, [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)).
 
 ###  Other Information Collectors
 
@@ -95,10 +95,10 @@ You agree that your use of this website, this Privacy policy and any disputes re
 Thank you for visiting our website. If you have any questions about this privacy statement or this Web site, contact us using the following information:
 
 Buck Institute for Education  
-18 Commercial Blvd  
+3 Hamilton Landing, Suite 220  
 Novato, CA 94949  
 (415) 883-0122  
-info@bie.org
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Back to top.
 
