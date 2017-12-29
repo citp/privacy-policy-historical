@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdncommunity.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629142052id_/https%3A//www.paypal.com/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdncommunity.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229203226id_/https%3A//www.paypal.com/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
