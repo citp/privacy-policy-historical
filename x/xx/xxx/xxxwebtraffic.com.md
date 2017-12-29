@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxwebtraffic.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525194632id_/http%3A//www.xxxwebtraffic.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxwebtraffic.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229072514id_/http%3A//xxxwebtraffic.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Adult Ad Network Xxxwebtraffic Privacy Policy
 
@@ -36,8 +36,8 @@ Our site's registration form requires users to provide contact information (such
 
 This site contains links to other sites. xxxwebtraffic is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links.
 
-webmaster@xxxwebtraffic.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### CONTACTING THE WEB SITE
 
-If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: webmaster@xxxwebtraffic.com 
+If you have any questions about this privacy statement, the practices of this site, or concerns about this Web site, please contact: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
