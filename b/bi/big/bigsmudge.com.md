@@ -1,42 +1,17 @@
-> *The following text is extracted and transformed from the bigsmudge.com privacy policy that was archived on 2012-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120118122758id_/http%3A//www.bigsmudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigsmudge.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Big Smudge - Humor, Babes and Headkicks
+# Legal
 
-Bigsmudge.com will always protect its user’s privacy. Our Privacy Policy is outlined below. Thank you.
+* * *
 
-**Internet User Information**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-On Big Smudge, when you click on an ad, your personal identity and information, such as: Name, Telephone Number, Address, and E-Mail address will not be collected or stored. Certain information that cannot identify any user, such as Internet Service Provider and Browser type, may be used. It is common practice, and this type of information falls under the non-personal identity information.
-
-There may be instances when you may wish to voluntarily provide your personal information to a specific type of ad, such as a purchase order form, or questionnaire. Bigsmudge.com will not collect or store any information, and a third party is usually responsible for the collection.
-
-Bigsmudge.com will not release any information from users who contact and communicate with any personnel from bigsmudge.com.
-
-Bigsmudge.com will never sell any of your information. We will not release any data that identifies you personally as a user.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
-Bigsmudge.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number)via the DART cookie, about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)  
 
-
-**BE SAFE AND PROTECT YOURSELF ONLINE**
-
-Despite our best efforts, the best thing you as a user can do is to protect yourself from instances where your identity can be revealed. The internet is full of advertisers, hackers, and software programs that want to secure your information. Common sense can help prevent many cases of personal information release. While on the internet, please consider your source before relinquishing any information.
-
-**Insecure forms of online communication:**
-
-\- E-Mail (Often an insecure form of communication. Third Parties can intercept unencrypted content sent via email. Chat rooms, bulletin systems and other forms of electronic communication can subject you to the dreaded spam. Only provide your e-mail if you feel that it is safe to do so. Use your discretion.
-
-Don’t fall for any scams where an unknown source is requesting your personal information. Do not disclose your Name, Password, Credit Card information, Address, or any other information related to your person.
-
-**If you have any other questions regarding our Privacy Policy, don’t hesitate to contact us**
-
-We here at Bigsmudge.com value your time spent on our site, and would not provide any information to anyone, for any reason. If you have any more questions regarding our Privacy Policy, or if there is anything you are unsure about, contact us at
-
-[bigsmudge.com@gmail.com](mailto:bigsmudge.com@gmail.com)
-
-Thank you, 
-
-Big Smudge 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
