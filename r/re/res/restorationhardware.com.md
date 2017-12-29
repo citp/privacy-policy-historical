@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410121803id_/https%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorationhardware.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229033735id_/https%3A//www.restorationhardware.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | RH
 
@@ -94,29 +94,13 @@ Your Personal Information may be disclosed:
 We and our third-party service providers may collect Other Information in a variety of ways, including:
 
   * _Through your browser_ : Certain information is collected through most devices, such as your Media Access Control ("MAC") address, device manufacturer and model, device identifier, screen resolution, and the type and version of your operating system and browser.
-  
-
   * Through server log files: An Internet Protocol ("IP") address is a number that is automatically assigned to a device by an Internet Service Provider ("ISP"), and is identified and logged automatically in our server log files whenever a user visits the RH Online Properties, along with the time of the visit and the page(s) that were visited. We and our service providers use IP addresses for purposes such as calculating usage levels, helping diagnose server problems and administering the RH Online Properties.
-  
-
   * _Using cookies_ : Cookies allow a web server to transfer data to a device for recordkeeping and other purposes. We and our service providers use cookies and other technologies to, among other things, enhance and personalize your online browsing and shopping experience and facilitate your ongoing access to and use of the RH Online Properties, as well as for online tracking purposes. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To learn more about cookies, please visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). If you choose to decline cookies, some or all of the features, functionality and promotions available through the RH Online Properties ? such as the shopping cart, ability to view certain pages, and even placing orders or reviewing your order history – may not be available to you.
-  
-
   * _Analytics_. We may use third-party services, such as Google Analytics or IBM Coremetrics, in connection with the RH Online Properties. Such services use cookies and similar technologies to analyze how visitors use the RH Online Properties, to compile statistical reports on activity related to the RH Online Properties, and to provide other services related to the RH Online Properties. Such services may also collect information about visitors’ use of other websites or other online resources. For more information about Google Analytics, including how to opt out, please go to: <https://tools.google.com/dlpage/gaoptout>. For more information about IBM Coremetrics, you may review its privacy policy located at: <http://www.ibm.com/privacy/us/en/>.
-  
-
   * _Flash Local Stored Objects_ : We and our service providers may use a third-party technology, called Flash, in connection with the RH Online Properties, including our online content. Flash provides a facility, referred to as Local Stored Objects ("LSO"), that allows a website operator or online content provider (or their service providers) to store certain information locally on an individual’s device; for example, Flash LSOs can be used to store information regarding an individual’s device. If you do not want Flash LSOs stored on your device, you can adjust the settings of your Flash player to block Flash LSO storage using the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to as "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the RH Online Properties. We expect our service providers and technology suppliers to honor any decision by you to restrict or limit Flash LSOs, but we cannot guarantee that they will do so.
-  
-
   * _Using pixel tags and other similar technologies_ : Pixel tags (also known as web beacons and clear GIFs) are small images that may be used by us and our service providers in connection with some pages of the RH Online Properties and HTML-formatted email messages to, among other things, render such pages to you on various hardware devices and operating system versions, track the actions of users and email recipients, measure the success of marketing campaigns and compile statistics about usage and response rates. Pixel tags may collect information such as the pages, features and links accessed by a user, and the IP address, browser type and operating system of such user’s device.
-  
-
   * _Physical location_ : We and our service providers may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content, including for marketing purposes, based on the choices that have been made with respect to such uses. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our third-party marketing partners, such as our Promotional Partners, to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns, based on the choices that have been made with respect to such disclosures. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we, our service providers, and/or our third-party marketing partners may not be able to provide you with the applicable personalized services and content.
-  
-
   * _From you_ : We and our service providers may collect demographic information such as your city, state or zip code of residence, as well as other information, such as your preferred means of communication, your gender and your date of birth, when you voluntarily provide this information to us or our service providers. You may also have the opportunity to provide us with information regarding major events such as weddings, child births and the purchase of a new home. We also maintain a record of your orders, purchases, exchanges, returns, wish lists and gift registries in connection with the RH Online Properties or our businesses. Unless combined with Personal Information, this information does not personally identify you or any other customer or potential customer of our businesses.
-  
-
   * _By aggregating information_ : We and our service providers may aggregate Personal Information collected from our customers and potential customers, for example by using Personal Information to calculate the percentage of such individuals who have a particular telephone area code. Aggregated Personal Information does not personally identify you or any other customer or potential customer.
 
   
@@ -155,8 +139,6 @@ Please exercise caution in submitting Personal Information via the RH Online Pro
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes, regardless of whether such information is collected by us through the RH Online Properties or otherwise. You may opt-out from:
 
   * _Receiving promotional emails or catalogs from us_ : If you no longer want to receive promotional emails (such as information about new products, special offers and sales events) or catalogs from us on a going-forward basis, you may opt-out of receiving such communications by: clicking the "opt-out" link in any promotional email; clicking the "opt-out" link available at: [https://www.restorationhardware.com/customer-service/email-unsubscribe.jsp](https://web.archive.org/customer-service/email-unsubscribe.jsp) for promotional emails, and at [https://www.restorationhardware.com/customer-service/catalog-cancellation.jsp](https://web.archive.org/customer-service/catalog-cancellation.jsp) for catalogs; or contacting us in accordance with the "Contacting Us" section below. In each case, please remember that, if you wish to opt-out of receiving all promotional emails from RH, you may need to opt-out separately for each RH brand. When so contacting us, please be sure to include your full name and the email and/or postal address that you used when registering or making a purchase.
-  
-
   * _Our sharing of your Personal Information with Affiliates, Promotional Partners and other third parties for their marketing purposes_ : If you no longer want us to share your Personal Information on a going-forward basis with our Affiliates, Promotional Partners and other third parties for their marketing purposes, you may opt-out of such sharing by contacting us in accordance with the "Contacting Us" section below. In so contacting us, please be sure to include your full name and the contact information that you no longer wish to be shared, and state specifically whether you wish to opt-out of such sharing with (a) Affiliates, (b) Promotional Partners and other third parties, or (c) both.
 
 
@@ -185,40 +167,30 @@ Attn: Customer Service
 Tracy, CA 95376  
 1.800.910.9836  
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  
-
   * **RH Modern**  
 Attn: Customer Service  
 2900 North MacArthur Drive - Suite 100  
 Tracy, CA 95376  
 1.800.762.1005  
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  
-
   * **RH Baby and Child**  
 Attn: Customer Service  
 2900 North MacArthur Drive - Suite 100  
 Tracy, CA 95376  
 1.800.762.1751  
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  
-
   * **RH Teen**  
 Attn: Customer Service  
 2900 North MacArthur Drive - Suite 100  
 Tracy, CA 95376  
 1.844.623.7500  
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  
-
   * **RH Trade Division**  
 Attn: Customer Service  
 2900 North MacArthur Drive - Suite 100  
 Tracy, CA 95376  
 1.877.733.6200  
 [webcs@restorationhardware.com](mailto:webcs@restorationhardware.com)
-  
-
   * **RH Contract Division**  
 Attn: Customer Service  
 2900 North MacArthur Drive - Suite 100  
