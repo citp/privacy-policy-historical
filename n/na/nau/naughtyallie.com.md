@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naughtyallie.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619072300id_/http%3A//www.naughtyallie.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naughtyallie.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229044858id_/http%3A//www.naughtyallie.com/privacypolicy) for the most accurate reproduction.*
 
 # NaughtyAllie
 
@@ -70,6 +70,6 @@ We take measures to protect the transmission of all sensitive user information.Â
 
 **X.** **Where to Direct Questions About Our Privacy Policy**.
 
-If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [webmaster@naughtyallie.com](https://web.archive.org/web/20170619072300id_/http%3A//www.naughtyallie.com/webmaster@naughtyallie.com)
+If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [webmaster@naughtyallie.com](https://web.archive.org/web/20171229044858id_/http%3A//www.naughtyallie.com/webmaster@naughtyallie.com)
 
 **\- End -**
