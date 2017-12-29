@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sega.co.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023743id_/http%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.co.uk privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229235244id_/http%3A//www.sega.co.uk/Privacy) for the most accurate reproduction.*
 
 # Privacy | SEGA
 
