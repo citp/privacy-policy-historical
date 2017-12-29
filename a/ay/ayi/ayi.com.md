@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayi.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626222629id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayi.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229172344id_/http%3A//www.snap-interactive.com/privacy-policy) for the most accurate reproduction.*
 
 # SNAP Interactive Inc. | Privacy Policy
 
