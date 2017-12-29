@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winmeen.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528093641id_/http%3A//www.winmeen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winmeen.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230002815id_/https%3A//www.winmeen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WINMEEN
 
