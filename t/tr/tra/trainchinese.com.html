@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606174148id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainchinese.com privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229224552id_/http%3A//www.trainchinese.com/v2/mprivacy.php%3FrAp%3D0%26tcLanguage%3Den) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -14,6 +14,7 @@
     <meta name="description" content="Privacy policy - Chinese dictionary and flashcards with audio and stroke by stroke writing for beginners and advanced learners. Learn online and offline on your PC, iPhone, iPad or Android phone.">
     <meta name="author" content="Molatra Ltd">
     <meta name="apple-itunes-app" content="app-id=333830076">
+    <meta name="yandex-verification" content="7d360e51c7030df8">
     
     <link href="http://www.trainchinese.com/v2/mprivacy.php?rAp=0" rel="canonical">
     
@@ -186,8 +187,7 @@
             <li class="text-center">
                 <a href="practiceVocab.php?rAp=0">
         <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/training.png" alt=""></div>
-                    Training</a></li>
-            <li class="text-center">
+                    Training</a></li><li class="text-center">
                 <a href="viewApps.php?rAp=0"> 
                 <div style="height:65px;" class="hidden-xs hidden-sm"><img height="65" src="images/applications.png" alt=""></div> 
                 Apps</a></li>
@@ -350,6 +350,8 @@ information relating to how an application functions, and the physical location 
 <li><a href="https://plus.google.com/103759614617335004530" target="_blank" data-toggle="tooltip" title="" data-original-title="Add us on Google+"><img src="images/ico/gplus-16.png" alt="">  </a></li>
 
 <li><a href="http://www.linkedin.com/company/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="Follow us on LinkedIn"><img src="images/ico/linkin19x19.png" alt=""></a></li>
+<li><a href="https://www.youtube.com/user/trainchinese" target="_blank" data-toggle="tooltip" title="" data-original-title="YouTube"><img src="images/ico/youtube_social_square_red.png" style="height:19px;" alt="">  </a></li>
+
 </ul> 
 
              
@@ -419,6 +421,11 @@ $(document).ready(function(){
     if(!$('#alertpopup').data('bs.modal') ||  !$('#alertpopup').data('bs.modal').isShown){
         $('#alertpopup').modal('show');
     }
+}
+
+function alertWithDelay(miliSecDelay){
+    if(miliSecDelay>1000)miliSecDelay=1000;
+    window.setTimeout( alertWait(), miliSecDelay );
 }
 
 function alertWait(){
