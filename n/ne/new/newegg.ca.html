@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newegg.ca privacy policy that was archived on 2017-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170322094816id_/https%3A//kb.newegg.ca/Article/Index/12/2%3Fid%3D1182) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newegg.ca privacy policy that was archived on 2017-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229113849id_/https%3A//kb.newegg.ca/Article/Index/12/2%3Fid%3D1182) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -18,7 +18,7 @@
     
 
     <script src="/Content/JS/modernizr.js"></script>
-    <script src="/content/js/jquery.js"></script>
+    <script src="/content/js/jquery.js"></script>   
 </head>
 
     
@@ -84,17 +84,16 @@
 	</div>
 	
 	
-
-    <div id="parent-off-canvas-wrap" style="text-align: center; position:relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; ">
-            <div class="off-canvas-wrap" style="background:#FFFFFF;width:997px !important;margin:0 auto;">
-                <div class="inner-wrap">
+	<div id="parent-off-canvas-wrap" style="text-align: center; position:relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; "> 
+        <div class="off-canvas-wrap" style="background:#FFFFFF;width:997px !important;margin:0 auto;">
+            <div class="inner-wrap">
 
 <input data-val="true" data-val-number="The field Int32 must be a number." data-val-required="The Int32 field is required." id="clientId" name="clientId" type="hidden" value="12">
 <input data-val="true" data-val-number="The field Int32 must be a number." data-val-required="The Int32 field is required." id="portalId" name="portalId" type="hidden" value="2">
 
 
 
-                    
+                
 
 
 
@@ -117,62 +116,62 @@
         $(document).ready(function () {
             var clientId = document.getElementById("clientId").value;
             var portalId = document.getElementById("portalId").value;
-           
 
 
-            $('#homeSearchButton').click(function (e) {
+
+        $('#homeSearchButton').click(function (e) {
+            var value = $('#homeSearchTextBox').val();
+            if (value.length > 0) {
+                //value = htmlEncode(value);
+                url = "/Search/GetSearch/" + clientId + "/" + portalId + "?searchFrom=HomePage&text=" + value;
+                window.location.href = url;
+            }
+        });
+
+        function htmlEncode(value) {
+            //create a in-memory div, set it's inner text(which jQuery automatically encodes)
+            //then grab the encoded contents back out.  The div never exists on the page.
+            return $('<div/>').text(value).html();
+        }
+
+        $('#homeSearchTextBox').autocomplete({
+            source: function (pattern, response) {
+                if (pattern.term.length < 3 || pattern.term.length > 20) {
+                    //don't do anything
+                    return;
+                }
+                var fullurl = "/Search/GetAutoCompletes/" + clientId + "/" + portalId
+                $.ajax({
+                    type: 'Get',
+                    url: fullurl,
+                    dataType: 'json',
+                    data: { "pattern": pattern.term, "clientId": clientId, "portalId": portalId },
+                    success: function (data) {
+                        response(data);
+                    }
+                });
+            }
+        });
+        $('#homeSearchTextBox').on("keypress", function (e) {
+            if (e.keyCode == 13) {
                 var value = $('#homeSearchTextBox').val();
                 if (value.length > 0) {
                     //value = htmlEncode(value);
                     url = "/Search/GetSearch/" + clientId + "/" + portalId + "?searchFrom=HomePage&text=" + value;
                     window.location.href = url;
                 }
-            });
-
-            function htmlEncode(value) {
-                //create a in-memory div, set it's inner text(which jQuery automatically encodes)
-                //then grab the encoded contents back out.  The div never exists on the page.
-                return $('<div/>').text(value).html();
+                return false; // prevent the button click from happening
             }
-
-            $('#homeSearchTextBox').autocomplete({
-                source: function (pattern, response) {
-                    if (pattern.term.length < 3 || pattern.term.length > 20) {
-                        //don't do anything
-                        return;
-                    }
-                    var fullurl = "/Search/GetAutoCompletes/" + clientId + "/" + portalId
-                    $.ajax({
-                        type: 'Get',
-                        url: fullurl,
-                        dataType: 'json',
-                        data: { "pattern": pattern.term, "clientId": clientId, "portalId": portalId },
-                        success: function (data) {
-                            response(data);
-                        }
-                    });
-                }
-            });
-            $('#homeSearchTextBox').on("keypress", function (e) {
-                if (e.keyCode == 13) {
-                    var value = $('#homeSearchTextBox').val();
-                    if (value.length > 0) {
-                        //value = htmlEncode(value);
-                        url = "/Search/GetSearch/" + clientId + "/" + portalId + "?searchFrom=HomePage&text=" + value;
-                        window.location.href = url;
-                    }
-                    return false; // prevent the button click from happening
-                }
-            });
-
-            $(window).resize(function () {
-                $("#searchBox").autocomplete("search");
-            });
-               
-            var parentWidth = document.getElementById('homeSearchBoxWrapper').offsetWidth;
-            $('#homeSearchTextBox').css("max-width", parentWidth - 80 + "px");
-
         });
+
+        $(window).resize(function () {
+            $("#searchBox").autocomplete("search");
+        });
+               
+        var parentWidth = document.getElementById('homeSearchBoxWrapper').offsetWidth;
+        $('#homeSearchTextBox').css("max-width", parentWidth - 80 + "px");
+
+    });
    
         $(window).resize(function () {
             var parentWidth = document.getElementById('homeSearchBoxWrapper').offsetWidth;
@@ -186,6 +185,7 @@
 
 </div>
 <hr>
+ 
 
 
 <link href="/Content/Styles/12/2/article.css" rel="stylesheet">
@@ -451,19 +451,21 @@ https://kb.newegg.ca/Article/Index/12/2/?id=1182</textarea>
 <input id="emailTitle" name="Resources[CONTROLS_FEEDBACK_FEEDBACKFORM_EMAILERRORLABEL]" type="hidden" value="Please provide a valid email address">
 <input id="suggestionTitle" name="Resources[CONTROLS_FEEDBACK_FEEDBACKFORM_FEEDBACKERRORLABEL]" type="hidden" value="Please provide a suggestion">
 <script src="/Content/JS/article.js" type="text/javascript"></script>
+ 
 <script>
     setTimeout(function () {
         jQuery('#homeSearchTextBox').css({ 'max-width': '876px' });
     }, 500);
 </script>
+ 
 
 
-                </div>
             </div>
-    </div>
+        </div>
+	</div>
 
-    <div id="offsetDiv" class="layoutOffset"></div>
-    <div id="footer" class="footerBackground">
+            <div id="offsetDiv" class="layoutOffset"></div>
+            <div id="footer" class="footerBackground">
 
 <div class="row">
     
@@ -555,50 +557,49 @@ user_name: Web.StateManager.Cookies.get(Web.StateManager.Cookies.Name.LOGIN,'LOG
 </script>
 
 
-    </div>
+            </div>
+            <script src="/Content/JS/foundation.min.js"></script>
+            <script src="/Content/JS/foundation.offcanvas.js"></script>
+            <script src="/Content/JS/Resize.js"></script>
+            <script src="/Content/JS/jquery-ui-1.10.4.min.js"></script>
+            <script>
+	     	(function ($) {
+	                var sessionTimeOutWarning = "";
+	                var sessionTimedOut = "";
+	                if (document.getElementById("SessionTimeOutWarning") != null) {
+	                    sessionTimeOutWarning = document.getElementById("SessionTimeOutWarning").value;
+	                }
+	                if (document.getElementById("SessionTimedOut") != null) {
+	                    sessionTimedOut = document.getElementById("SessionTimedOut").value;
+	                }
+	                $(document).foundation();
+	                Timeout = 25919940000; // Milli-Seconds 29.99 days
+	                Timedout = 25920000000; // Milli-Seconds 30 days
+	                var loggedIn = document.getElementById("loggedIn");
+	                if (null != loggedIn) {
+	                    setTimeout("AlertUser();", Timeout);
+	                    setTimeout("AlertUserTimedOut();", Timedout);
+	                    function AlertUser() {
+	                        var ans = confirm(sessionTimeOutWarning);
+	                        if (ans) {
+	                            window.location.reload();
+	                        }
+	                    }
+	                    function AlertUserTimedOut() {
+	                        window.alert(sessionTimedOut);
+	                    }
 
-    <script src="/Content/JS/foundation.min.js"></script>
-    <script src="/Content/JS/foundation.offcanvas.js"></script>
-    <script src="/Content/JS/Resize.js"></script>
-    <script src="/Content/JS/jquery-ui-1.10.4.min.js"></script>
-    <script>
-        (function ($) {
-            var sessionTimeOutWarning = "";
-            var sessionTimedOut = "";
-            if (document.getElementById("SessionTimeOutWarning") != null) {
-                sessionTimeOutWarning = document.getElementById("SessionTimeOutWarning").value;
-            }
-            if (document.getElementById("SessionTimedOut") != null) {
-                sessionTimedOut = document.getElementById("SessionTimedOut").value;
-            }
-            $(document).foundation();
-            Timeout = 25919940000; // Milli-Seconds 29.99 days
-            Timedout = 25920000000; // Milli-Seconds 30 days
-            var loggedIn = document.getElementById("loggedIn");
-            if (null != loggedIn) {
-                setTimeout("AlertUser();", Timeout);
-                setTimeout("AlertUserTimedOut();", Timedout);
-                function AlertUser() {
-                    var ans = confirm(sessionTimeOutWarning);
-                    if (ans) {
-                        window.location.reload();
-                    }
-                }
-                function AlertUserTimedOut() {
-                    window.alert(sessionTimedOut);
-                }
-
-            }
-        })(jQuery);
-    </script>
+	                }
+  		})(jQuery);
+            </script>
 
 
 
     
 
 
-<script>
-    (function ($) {
+<script>    
+     (function ($) {
         //    alert('Testing whether jquery functions are triggering using jQuery');
         $(document).ready(function () {
             try {
@@ -658,4 +659,5 @@ user_name: Web.StateManager.Cookies.get(Web.StateManager.Cookies.Name.LOGIN,'LOG
         }
     })(jQuery);
 
-</script></body></html>
+</script>
+</body></html>
