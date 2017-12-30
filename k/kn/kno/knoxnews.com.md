@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627160103id_/http%3A//static.knoxnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230125329id_/http%3A//static.knoxnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Knoxville News-Sentinel
 
