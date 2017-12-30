@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloodjournal.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022303id_/http%3A//www.hematology.org/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloodjournal.org privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065945id_/http%3A//www.hematology.org/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# ASH Privacy Policy
 
 The American Society of Hematology is committed to safeguarding the privacy of our Web site users. This Privacy Policy discloses the privacy practices for _hematology.org_  and its affiliated sites (the "Site"), which is provided to you by the American Society of Hematology ("we" or "us" or "ASH"). This Privacy Policy governs our collection of information from you through your use of the Site.
 
