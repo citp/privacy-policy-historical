@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everystockphoto.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044706id_/http%3A//www.everystockphoto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everystockphoto.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230125453id_/http%3A//www.everystockphoto.com/privacy.php) for the most accurate reproduction.*
 
 # privacy policy - everystockphoto - searching free photos
 
