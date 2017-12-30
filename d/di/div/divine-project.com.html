@@ -1,52 +1,56 @@
-<!--The following is the downloaded HTML source of the divine-project.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611215221id_/http%3A//www.divine-project.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the divine-project.com privacy policy that was archived on 2017-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171230151446id_/http%3A//www.divine-project.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQBUFJWGwEBVVdWAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" style="" class=" if_js if_flexbox if_flexboxlegacy if_canvas if_canvastext if_webgl if_no-touch if_geolocation if_postmessage if_websqldatabase if_indexeddb if_hashchange if_history if_draganddrop if_websockets if_rgba if_hsla if_multiplebgs if_backgroundsize if_borderimage if_borderradius if_boxshadow if_textshadow if_opacity if_cssanimations if_csscolumns if_cssgradients if_cssreflections if_csstransforms if_csstransforms3d if_csstransitions if_fontface if_generatedcontent if_video if_audio if_localstorage if_sessionstorage if_webworkers if_applicationcache if_svg if_inlinesvg if_smil if_svgclippaths"><head><script src="https://js-agent.newrelic.com/nr-768.min.js"></script><script async="" src="//http://www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQBUFJWGwEBVVdWAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:22,ee:"QJf3ax"}],8:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy Policy | Divine Elemente - PSD to WordPress Theme Software</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://www.divine-project.com/xmlrpc.php">
+<link rel="pingback" href="/xmlrpc.php">
  
-<link rel="canonical" href="http://www.divine-project.com/privacy-policy">
+<link rel="canonical" href="/privacy-policy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - Divine Elemente - PSD to WordPress Theme Software">
 <meta property="og:description" content="www.divine-project.com has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn ">
-<meta property="og:url" content="http://www.divine-project.com/privacy-policy">
+<meta property="og:url" content="/privacy-policy">
 <meta property="og:site_name" content="Divine Elemente - PSD to WordPress Theme Software">
 <meta property="article:section" content="Uncategorized">
  
-<link rel="alternate" type="application/rss+xml" title="Divine Elemente - PSD to WordPress Theme Software » Feed" href="http://www.divine-project.com/feed">
-<link rel="alternate" type="application/rss+xml" title="Divine Elemente - PSD to WordPress Theme Software » Comments Feed" href="http://www.divine-project.com/comments/feed">
-<link rel="alternate" type="application/rss+xml" title="Divine Elemente - PSD to WordPress Theme Software » Privacy Policy Comments Feed" href="http://www.divine-project.com/privacy-policy/feed">
-<link rel="stylesheet" id="glisse-css-1-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/glisse/glisse.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="glisse-css-2-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/glisse/app.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="audio-css-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/jplayer/skin/jplayer.css?ver=3.0" type="text/css" media="all">
-<link rel="stylesheet" id="sharrre_css-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/styles/sharrre.css?ver=3.9" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.divine-project.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="BlackSwan-style-css" href="http://www.divine-project.com/wp-content/themes/blackswan-child/style.css?ver=3.9" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-css-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/fonts/font-awesome/css/font-awesome.min.css?ver=4.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="custom-style-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/styles/custom_style.css?ver=3.9" type="text/css" media="all">
+<link rel="alternate" type="application/rss+xml" title="Divine Elemente - PSD to WordPress Theme Software » Feed" href="/feed">
+<link rel="alternate" type="application/rss+xml" title="Divine Elemente - PSD to WordPress Theme Software » Comments Feed" href="/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="Divine Elemente - PSD to WordPress Theme Software » Privacy Policy Comments Feed" href="/privacy-policy/feed">
+<link rel="stylesheet" id="glisse-css-1-css" href="/wp-content/themes/blackswan/inc/scripts/glisse/glisse.cssver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="glisse-css-2-css" href="/wp-content/themes/blackswan/inc/scripts/glisse/app.cssver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="audio-css-css" href="/wp-content/themes/blackswan/inc/scripts/jplayer/skin/jplayer.cssver=3.0" type="text/css" media="all">
+<link rel="stylesheet" id="sharrre_css-css" href="/wp-content/themes/blackswan/inc/styles/sharrre.cssver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="/wp-content/plugins/contact-form-7/includes/css/styles.cssver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="BlackSwan-style-css" href="/wp-content/themes/blackswan-child/style.cssver=3.9" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css-css" href="/wp-content/themes/blackswan/inc/fonts/font-awesome/css/font-awesome.min.cssver=4.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="custom-style-css" href="/wp-content/themes/blackswan/inc/styles/custom_style.cssver=3.9" type="text/css" media="all">
 <style type="text/css">body{background-color:#FFFFFF;font-family:"Lato";font-size:16px;font-weight:;line-height:18pxpx;color:#34495E;}.ift_system_color,a:hover,nav .nav ul>li,nav .nav>li,nav .nav ul>li>a,nav .nav>li>a,.ift_branding_line a,a{color:#2eb0cc;}.nav ul>li.hover,nav .nav ul>li.active,nav .nav>li.hover,nav .nav>li.active{border-top:4px solid #2eb0cc;}.ift_system_bgcolor,nav .nav .button a,.ift_info_line,.ift_title_line,nav .nav .button a,.widget .tagcloud a:hover,.post-tags a:hover,footer{background-color:#2eb0cc;color:#fff;}nav .nav .button a:hover{color:#fff;background-color:#37b6d1;border-color:#37b6d1;}footer a,footer a:hover,footer a:visited,footer a:active,.ift_info_line,.ift_info_line a,.ift_info_line a:hover,.ift_info_line a:visited,.ift_info_line a:active{color:#fff;}article footer .meta a{color:#2eb0cc;}a:hover,article footer .meta a:hover{color:#37b6d1;}.btn-system{color:#fff!important;background-color:#2eb0cc;}.btn-system:hover,.btn-system:focus,.btn-system:active,.btn-system.active,.open .dropdown-toggle.btn-system{color:#fff;background-color:#37b6d1;border-color:#37b6d1;}.btn-system:active,.btn-system.active,.open .dropdown-toggle.btn-system{background:#2ba5bf;}.btn-system.disabled,.btn-system[disabled],fieldset[disabled] .btn-system,.btn-system.disabled:hover,.btn-system[disabled]:hover,fieldset[disabled] .btn-system:hover,.btn-system.disabled:focus,.btn-system[disabled]:focus,fieldset[disabled] .btn-system:focus,.btn-system.disabled:active,.btn-system[disabled]:active,fieldset[disabled] .btn-system:active,.btn-system.disabled.active,.btn-system[disabled].active,fieldset[disabled] .btn-system.active{background-color:#2eb0cc;}.subtitle{border-color:#37b6d1;}.iconbox-1:hover .iconbox_icon{color:#37b6d1;}.iconbox-2:hover .iconbox_icon{color:#fff;background-color:#37b6d1;}.iconbox-3:hover .iconbox_icon{color:#37b6d1;}.ift_row_border{border-width:2px 0;border-style:solid;border-color:#37b6d1;}figure.team:hover img{border-color:#37b6d1;}.team_social:hover{color:#fff!important;background-color:#2eb0cc;}</style>
-<link rel="stylesheet" id="animations-css-css" href="http://www.divine-project.com/wp-content/themes/blackswan/inc/styles/animations.min.css?ver=3.0" type="text/css" media="all">
-<script type="text/javascript" src="http://www.divine-project.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="stylesheet" id="animations-css-css" href="/wp-content/themes/blackswan/inc/styles/animations.min.cssver=3.0" type="text/css" media="all">
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.jsver=1.11.0"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.jsver=1.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var DVN_Ajax = {"ajaxurl":"http:\/\/www.divine-project.com\/wp-admin\/admin-ajax.php"};
+var DVN_Ajax = {"ajaxurl":"http:\/\/\/web\/20160209183427\/http:\/\/www.divine-project.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan-child/includes/js/divine_ui.js?ver=3.9"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan-child/includes/js/bootstrap.min.js?ver=3.9"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/modernizr.min.js?ver=3.9"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.divine-project.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.divine-project.com/wp-includes/wlwmanifest.xml">
+<script type="text/javascript" src="/wp-content/themes/blackswan-child/includes/js/divine_ui.jsver=3.9"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan-child/includes/js/bootstrap.min.jsver=3.9"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/modernizr.min.jsver=3.9"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 3.9">
-<link rel="shortlink" href="http://www.divine-project.com/?p=3810">
-<style type="text/css">.broken_link,a.broken_link{text-decoration:line-through;}</style><link rel="stylesheet" id="options-google-fonts" href="//fonts.googleapis.com/css?family=Lato&amp;subset=latin&amp;v=1400523250" type="text/css" media="all">
+<link rel="shortlink" href="/?p=3810">
+<style type="text/css">.broken_link,a.broken_link{text-decoration:line-through;}</style><link rel="stylesheet" id="options-google-fonts" href="//http://fonts.googleapis.com/css?family=Lato&amp;subset=latin&amp;v=1400523250" type="text/css" media="all">
 <script type="text/javascript" async="" src="//divine-elemente.disqus.com/embed.js?pname=wordpress&amp;pver=2.74"></script></head>
-<body class="page page-id-3810 page-template-default group-blog">
+<body class="page page-id-3810 page-template-default group-blog"><script type="text/javascript">
+//<![CDATA[
+try{(function(a){var b="http://",c="www.divine-project.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
+//]]>
+</script>
 <div id="page" class="hfeed site">
 <header id="masthead" class="site-header" role="banner">
 <div class="">
@@ -55,8 +59,8 @@ var DVN_Ajax = {"ajaxurl":"http:\/\/www.divine-project.com\/wp-admin\/admin-ajax
 <div class="container">
 <div class="row">
 <div class="col-lg-4 col-md-4 col-sm-4 ift_login_info">
-<a href="http://www.divine-project.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.divine-project.com%2Fprivacy-policy" title="Login">Login</a> |
-<a href="http://www.divine-project.com/wp-login.php?action=register&amp;redirect_to=http://www.divine-project.com/privacy-policy">Register</a>
+<a href="/wp-login.phpredirect_to=http//www.divine-project.com/privacy-policy" title="Login">Login</a> |
+<a href="/wp-login.phpaction=register&amp;redirect_to=/privacy-policy">Register</a>
 </div>
 <div class="col-lg-4 col-md-4 col-sm-4 ift_socials">
 <a href="http://twitter.com/DivineTeam"><span class="fa fa-twitter"></span></a>
@@ -67,7 +71,7 @@ var DVN_Ajax = {"ajaxurl":"http:\/\/www.divine-project.com\/wp-admin\/admin-ajax
 </div>
 </div>
 </div>
-<form class="container search_header" action="http://www.divine-project.com/" method="get">
+<form class="container search_header" action="/" method="get">
 <label id="button" for="search_header_button"><span class="fa fa-search"></span></label>
 <input type="text" id="search_header" placeholder="Search" name="s" value="">
 <input type="submit" id="search_header_button" class="postfix hidden" value="">
@@ -80,12 +84,12 @@ var DVN_Ajax = {"ajaxurl":"http:\/\/www.divine-project.com\/wp-admin\/admin-ajax
 <div class="container">
 <div class="row">
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-8">
-<a href="http://www.divine-project.com/" rel="home">
-</a><div class="row"><a href="http://www.divine-project.com/" rel="home">
-</a><div class="col-lg-12 col-sm-12 col-xs-12"><a href="http://www.divine-project.com/" rel="home">
-</a><div itemscope="" itemtype="http://schema.org/Organization"><a href="http://www.divine-project.com/" rel="home">
-</a><a itemprop="url" href="http://www.divine-project.com/">
-<img itemprop="logo" class="ift_logo" src="http://www.divine-project.com/wp-content/uploads/2014/03/Logo1.jpg" alt="Divine Elemente - PSD to WordPress Theme Software">
+<a href="/" rel="home">
+</a><div class="row"><a href="/" rel="home">
+</a><div class="col-lg-12 col-sm-12 col-xs-12"><a href="/" rel="home">
+</a><div itemscope="" itemtype="http://schema.org/Organization"><a href="/" rel="home">
+</a><a itemprop="url" href="/">
+<img itemprop="logo" class="ift_logo" src="/wp-content/uploads/2014/03/Logo1.jpg" alt="Divine Elemente - PSD to WordPress Theme Software">
 </a>
 </div>
 </div>
@@ -93,7 +97,7 @@ var DVN_Ajax = {"ajaxurl":"http:\/\/www.divine-project.com\/wp-admin\/admin-ajax
 
 </div>
 <div class="visible-xs col-xs-4">
-<a class="toggleMenu" href="javascript:void(0);">
+<a class="toggleMenu" href="javascript:void(0);" style="display: none;">
 <div class="btn btn-system">
 <span class="fa fa-reorder fa-1"> Menu</span>
 </div>
@@ -101,10 +105,10 @@ var DVN_Ajax = {"ajaxurl":"http:\/\/www.divine-project.com\/wp-admin\/admin-ajax
 </div>
 <div class="col-lg-8 col-md-8 col-sm-8">
 <nav id="site-navigation" class="main-navigation" role="navigation">
-<ul id="menu-main-menu" class="nav"><li id="menu-item-18184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18184"><a href="http://www.divine-project.com/">HOME</a></li>
-<li id="menu-item-18183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18183"><a href="http://www.divine-project.com/overview/features">Overview</a></li>
-<li id="menu-item-18182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18182"><a href="http://www.divine-project.com/download">Download</a></li>
-<li id="menu-item-18190" class="button menu-item menu-item-type-post_type menu-item-object-page menu-item-18190"><a href="http://www.divine-project.com/shopping-cart">Buy Now</a></li>
+<ul id="menu-main-menu" class="nav" style="overflow: visible;"><li id="menu-item-18184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18184"><a href="/">HOME</a></li>
+<li id="menu-item-18183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18183"><a href="/overview/features">Overview</a></li>
+<li id="menu-item-18182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18182"><a href="/download">Download</a></li>
+<li id="menu-item-18190" class="button menu-item menu-item-type-post_type menu-item-object-page menu-item-18190"><a href="/shopping-cart">Buy Now</a></li>
 </ul> </nav> 
 </div>
 </div>
@@ -187,14 +191,14 @@ Please review this policy periodically. Your continued use of www.divine-project
 <br><br>
 <h2>Questions or Suggestions</h2>
 <br>
-If you have questions or suggestions about this privacy policy, or your own personal information, feel free to <a href="/company#addform" class="broken_link">contact us</a>. </div> 
+If you have questions or suggestions about this privacy policy, or your own personal information, feel free to <a href="/company">contact us</a>. </div> 
 </article> 
 <div id="disqus_thread">
 </div>
 <script type="text/javascript">
 /* <![CDATA[ */
-    var disqus_url = 'http://www.divine-project.com/privacy-policy';
-    var disqus_identifier = '3810 http://divine-project.com/?p=9753';
+    var disqus_url = '/privacy-policy';
+    var disqus_identifier = '3810 ?p=9753';
     var disqus_container_id = 'disqus_thread';
     var disqus_domain = 'disqus.com';
     var disqus_shortname = 'divine-elemente';
@@ -233,7 +237,7 @@ If you have questions or suggestions about this privacy policy, or your own pers
     var DsqLocal = {
         'trackbacks': [
         ],
-        'trackback_url': "http:\/\/www.divine-project.com\/privacy-policy\/trackback"    };
+        'trackback_url': "http:\/\/\/web\/20160209183427\/http:\/\/www.divine-project.com\/privacy-policy\/trackback"    };
 /* ]]> */
 </script>
 <script type="text/javascript">
@@ -252,108 +256,108 @@ If you have questions or suggestions about this privacy policy, or your own pers
 <div id="secondary" class="widget-area" role="complementary">
 <aside id="text-2" class="widget widget_text"><h1 class="widget-title">Featured Products and Deals</h1> <div class="textwidget"><div class="row product top30 bottom30">
 <div class="col-lg-4 product_image">
-<a href="http://www.divine-project.com/overview/features" onclick="ga('send', 'event', 'Sidebar', 'Products', 'Divine Elemente Link');"><img src="http://www.divine-project.com/images/divine_elemente.jpg"></a>
+<a href="/overview/features" onclick="ga('send', 'event', 'Sidebar', 'Products', 'Divine Elemente Link');"><img src="/images/divine_elemente.jpg"></a>
 </div>
 <div class="col-lg-8 product_info">
-<a href="http://www.divine-project.com/overview/features" onclick="ga('send', 'event', 'Sidebar', 'Products', 'Divine Elemente Link');">
+<a href="/overview/features" onclick="ga('send', 'event', 'Sidebar', 'Products', 'Divine Elemente Link');">
 <p><strong>Divine Elemente</strong> </p>
 <small>PSD to WordPress Software</small></a>
 </div>
 </div></div>
 </aside><aside id="text-3" class="widget widget_text"><h1 class="widget-title">Promote Your Top Content With 21K+ Subscribers</h1> <div class="textwidget"><div class="top10 bottom40">
-<a href="http://www.divine-project.com/blog-news/write-for-us" class="btn btn-light btn-block" onclick="ga('send', 'event', 'Sidebar', 'Articles', 'Submit News Link');">SUBMIT NEWS</a>
+<a href="/blog-news/write-for-us" class="btn btn-light btn-block" onclick="ga('send', 'event', 'Sidebar', 'Articles', 'Submit News Link');">SUBMIT NEWS</a>
 </div></div>
 </aside> <aside id="recent-posts-2" class="widget widget_recent_entries"> <h1 class="widget-title">Latest Posts</h1> <ul>
 <li>
-<a href="http://www.divine-project.com/how-i-became-a-wordpress-lover">How I became a WordPress lover?</a>
+<a href="/how-i-became-a-wordpress-lover">How I became a WordPress lover?</a>
 </li>
 <li>
-<a href="http://www.divine-project.com/wp-helps-build-app">How WP Helps You Build An App</a>
+<a href="/wp-helps-build-app">How WP Helps You Build An App</a>
 </li>
 <li>
-<a href="http://www.divine-project.com/5-tips-tuck-using-wordpress-shortcodes">5 Tips to Tuck In When Using WordPress Shortcodes</a>
+<a href="/5-tips-tuck-using-wordpress-shortcodes">5 Tips to Tuck In When Using WordPress Shortcodes</a>
 </li>
 <li>
-<a href="http://www.divine-project.com/install-configure-contact-form-7-wordpress-plug-detailed-guide">Install and Configure Contact Form 7 WordPress Plug-in: A Detailed Guide</a>
+<a href="/install-configure-contact-form-7-wordpress-plug-detailed-guide">Install and Configure Contact Form 7 WordPress Plug-in: A Detailed Guide</a>
 </li>
 <li>
-<a href="http://www.divine-project.com/top-5-must-have-wordpress-security-plugins">Top 5 Must-Have WordPress Security Plugins</a>
+<a href="/top-5-must-have-wordpress-security-plugins">Top 5 Must-Have WordPress Security Plugins</a>
 </li>
 </ul>
 </aside><aside id="categories-3" class="widget widget_categories"><h1 class="widget-title">Categories</h1> <ul>
-<li class="cat-item cat-item-3"><a href="http://www.divine-project.com/category/blog" title="View all posts filed under All Blog Posts">All Blog Posts</a>
+<li class="cat-item cat-item-3"><a href="/category/blog" title="View all posts filed under All Blog Posts">All Blog Posts</a>
 </li>
-<li class="cat-item cat-item-7"><a href="http://www.divine-project.com/category/docs" title="View all posts filed under Documentation">Documentation</a>
+<li class="cat-item cat-item-7"><a href="/category/docs" title="View all posts filed under Documentation">Documentation</a>
 </li>
-<li class="cat-item cat-item-317"><a href="http://www.divine-project.com/category/blog/featured-blog" title="Articles for the home page.">Featured Posts</a>
+<li class="cat-item cat-item-317"><a href="/category/blog/featured-blog" title="Articles for the home page.">Featured Posts</a>
 </li>
-<li class="cat-item cat-item-395"><a href="http://www.divine-project.com/category/freebies-2" title="View all posts filed under Freebies">Freebies</a>
+<li class="cat-item cat-item-395"><a href="/category/freebies-2" title="View all posts filed under Freebies">Freebies</a>
 </li>
-<li class="cat-item cat-item-388"><a href="http://www.divine-project.com/category/giveaway-and-deals" title="View all posts filed under Giveaway And Deals">Giveaway And Deals</a>
+<li class="cat-item cat-item-388"><a href="/category/giveaway-and-deals" title="View all posts filed under Giveaway And Deals">Giveaway And Deals</a>
 </li>
-<li class="cat-item cat-item-382"><a href="http://www.divine-project.com/category/jquery-tutorials" title="View all posts filed under jQuery tutorials">jQuery tutorials</a>
+<li class="cat-item cat-item-382"><a href="/category/jquery-tutorials" title="View all posts filed under jQuery tutorials">jQuery tutorials</a>
 </li>
-<li class="cat-item cat-item-196"><a href="http://www.divine-project.com/category/photoshop-tutorials" title="View all posts filed under photoshop tutorials">photoshop tutorials</a>
+<li class="cat-item cat-item-196"><a href="/category/photoshop-tutorials" title="View all posts filed under photoshop tutorials">photoshop tutorials</a>
 </li>
-<li class="cat-item cat-item-1"><a href="http://www.divine-project.com/category/uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
+<li class="cat-item cat-item-1"><a href="/category/uncategorized" title="View all posts filed under Uncategorized">Uncategorized</a>
 </li>
-<li class="cat-item cat-item-284"><a href="http://www.divine-project.com/category/wordpress-plugins" title="View all posts filed under WordPress Plugins">WordPress Plugins</a>
+<li class="cat-item cat-item-284"><a href="/category/wordpress-plugins" title="View all posts filed under WordPress Plugins">WordPress Plugins</a>
 </li>
-<li class="cat-item cat-item-360"><a href="http://www.divine-project.com/category/wordpress-templates-psd" title="Free and premium PSD and WordPress templates">WordPress Templates</a>
+<li class="cat-item cat-item-360"><a href="/category/wordpress-templates-psd" title="Free and premium PSD and WordPress templates">WordPress Templates</a>
 </li>
-<li class="cat-item cat-item-384"><a href="http://www.divine-project.com/category/wordpress-tutorials-2" title="View all posts filed under WordPress Tutorials">WordPress Tutorials</a>
+<li class="cat-item cat-item-384"><a href="/category/wordpress-tutorials-2" title="View all posts filed under WordPress Tutorials">WordPress Tutorials</a>
 </li>
 </ul>
-</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h1 class="widget-title">Tags</h1><div class="tagcloud"><a href="http://www.divine-project.com/tag/beginners" class="tag-link-42" title="23 topics" style="font-size: 17.75pt;">beginners</a>
-<a href="http://www.divine-project.com/tag/best-wordpress-themes" class="tag-link-318" title="5 topics" style="font-size: 10.25pt;">Best Wordpress Themes</a>
-<a href="http://www.divine-project.com/tag/beta" class="tag-link-44" title="3 topics" style="font-size: 8pt;">beta</a>
-<a href="http://www.divine-project.com/tag/build" class="tag-link-81" title="3 topics" style="font-size: 8pt;">build</a>
-<a href="http://www.divine-project.com/tag/changelog" class="tag-link-79" title="3 topics" style="font-size: 8pt;">changelog</a>
-<a href="http://www.divine-project.com/tag/christmas" class="tag-link-142" title="3 topics" style="font-size: 8pt;">christmas</a>
-<a href="http://www.divine-project.com/tag/css3" class="tag-link-129" title="3 topics" style="font-size: 8pt;">CSS3</a>
-<a href="http://www.divine-project.com/tag/css-tutorial" class="tag-link-128" title="3 topics" style="font-size: 8pt;">CSS tutorial</a>
-<a href="http://www.divine-project.com/tag/design" class="tag-link-31" title="4 topics" style="font-size: 9.25pt;">design</a>
-<a href="http://www.divine-project.com/tag/divine-elemente" class="tag-link-135" title="12 topics" style="font-size: 14.375pt;">divine elemente</a>
-<a href="http://www.divine-project.com/tag/divine-elemente-psd" class="tag-link-358" title="6 topics" style="font-size: 11.125pt;">divine elemente psd</a>
-<a href="http://www.divine-project.com/tag/download" class="tag-link-80" title="4 topics" style="font-size: 9.25pt;">download</a>
-<a href="http://www.divine-project.com/tag/elements" class="tag-link-20" title="8 topics" style="font-size: 12.375pt;">elements</a>
-<a href="http://www.divine-project.com/tag/featured" class="tag-link-114" title="49 topics" style="font-size: 21.75pt;">featured</a>
-<a href="http://www.divine-project.com/tag/fonts" class="tag-link-56" title="4 topics" style="font-size: 9.25pt;">fonts</a>
-<a href="http://www.divine-project.com/tag/free" class="tag-link-116" title="5 topics" style="font-size: 10.25pt;">free</a>
-<a href="http://www.divine-project.com/tag/free-psd" class="tag-link-165" title="6 topics" style="font-size: 11.125pt;">free psd</a>
-<a href="http://www.divine-project.com/tag/giveaway" class="tag-link-231" title="6 topics" style="font-size: 11.125pt;">giveaway</a>
-<a href="http://www.divine-project.com/tag/hints" class="tag-link-25" title="3 topics" style="font-size: 8pt;">hints</a>
-<a href="http://www.divine-project.com/tag/history" class="tag-link-82" title="4 topics" style="font-size: 9.25pt;">history</a>
-<a href="http://www.divine-project.com/tag/infographics" class="tag-link-100" title="3 topics" style="font-size: 8pt;">infographics</a>
-<a href="http://www.divine-project.com/tag/jquery" class="tag-link-57" title="4 topics" style="font-size: 9.25pt;">jquery</a>
-<a href="http://www.divine-project.com/tag/layout-editor" class="tag-link-14" title="3 topics" style="font-size: 8pt;">Layout Editor</a>
-<a href="http://www.divine-project.com/tag/photoshop" class="tag-link-32" title="11 topics" style="font-size: 14pt;">photoshop</a>
-<a href="http://www.divine-project.com/tag/photoshop-brushes" class="tag-link-170" title="3 topics" style="font-size: 8pt;">photoshop brushes</a>
-<a href="http://www.divine-project.com/tag/photoshop-effects" class="tag-link-149" title="5 topics" style="font-size: 10.25pt;">photoshop effects</a>
-<a href="http://www.divine-project.com/tag/photoshop-tutorial" class="tag-link-140" title="4 topics" style="font-size: 9.25pt;">photoshop tutorial</a>
-<a href="http://www.divine-project.com/tag/pro" class="tag-link-36" title="10 topics" style="font-size: 13.5pt;">pro</a>
-<a href="http://www.divine-project.com/tag/properties" class="tag-link-24" title="4 topics" style="font-size: 9.25pt;">properties</a>
-<a href="http://www.divine-project.com/tag/psd" class="tag-link-38" title="11 topics" style="font-size: 14pt;">PSD</a>
-<a href="http://www.divine-project.com/tag/psd-template" class="tag-link-237" title="9 topics" style="font-size: 13pt;">psd template</a>
-<a href="http://www.divine-project.com/tag/seo" class="tag-link-83" title="3 topics" style="font-size: 8pt;">SEO</a>
-<a href="http://www.divine-project.com/tag/text-effects" class="tag-link-59" title="3 topics" style="font-size: 8pt;">text effects</a>
-<a href="http://www.divine-project.com/tag/theme" class="tag-link-50" title="5 topics" style="font-size: 10.25pt;">theme</a>
-<a href="http://www.divine-project.com/tag/themes" class="tag-link-94" title="3 topics" style="font-size: 8pt;">themes</a>
-<a href="http://www.divine-project.com/tag/tlp" class="tag-link-327" title="5 topics" style="font-size: 10.25pt;">tlp</a>
-<a href="http://www.divine-project.com/tag/updates" class="tag-link-74" title="5 topics" style="font-size: 10.25pt;">Updates</a>
-<a href="http://www.divine-project.com/tag/web-design" class="tag-link-101" title="9 topics" style="font-size: 13pt;">web design</a>
-<a href="http://www.divine-project.com/tag/website" class="tag-link-64" title="6 topics" style="font-size: 11.125pt;">website</a>
-<a href="http://www.divine-project.com/tag/wordpress" class="tag-link-8" title="52 topics" style="font-size: 22pt;">wordpress</a>
-<a href="http://www.divine-project.com/tag/wordpress-plugins" class="tag-link-284" title="6 topics" style="font-size: 11.125pt;">WordPress Plugins</a>
-<a href="http://www.divine-project.com/tag/wordpress-template" class="tag-link-359" title="8 topics" style="font-size: 12.375pt;">wordpress template</a>
-<a href="http://www.divine-project.com/tag/wordpress-templates" class="tag-link-110" title="9 topics" style="font-size: 13pt;">wordpress templates</a>
-<a href="http://www.divine-project.com/tag/wordpress-theme" class="tag-link-139" title="18 topics" style="font-size: 16.5pt;">wordpress theme</a>
-<a href="http://www.divine-project.com/tag/wordpress-themes" class="tag-link-106" title="14 topics" style="font-size: 15.25pt;">wordpress themes</a></div>
+</aside><aside id="tag_cloud-3" class="widget widget_tag_cloud"><h1 class="widget-title">Tags</h1><div class="tagcloud"><a href="/tag/beginners" class="tag-link-42" title="23 topics" style="font-size: 17.75pt;">beginners</a>
+<a href="/tag/best-wordpress-themes" class="tag-link-318" title="5 topics" style="font-size: 10.25pt;">Best Wordpress Themes</a>
+<a href="/tag/beta" class="tag-link-44" title="3 topics" style="font-size: 8pt;">beta</a>
+<a href="/tag/build" class="tag-link-81" title="3 topics" style="font-size: 8pt;">build</a>
+<a href="/tag/changelog" class="tag-link-79" title="3 topics" style="font-size: 8pt;">changelog</a>
+<a href="/tag/christmas" class="tag-link-142" title="3 topics" style="font-size: 8pt;">christmas</a>
+<a href="/tag/css3" class="tag-link-129" title="3 topics" style="font-size: 8pt;">CSS3</a>
+<a href="/tag/css-tutorial" class="tag-link-128" title="3 topics" style="font-size: 8pt;">CSS tutorial</a>
+<a href="/tag/design" class="tag-link-31" title="4 topics" style="font-size: 9.25pt;">design</a>
+<a href="/tag/divine-elemente" class="tag-link-135" title="12 topics" style="font-size: 14.375pt;">divine elemente</a>
+<a href="/tag/divine-elemente-psd" class="tag-link-358" title="6 topics" style="font-size: 11.125pt;">divine elemente psd</a>
+<a href="/tag/download" class="tag-link-80" title="4 topics" style="font-size: 9.25pt;">download</a>
+<a href="/tag/elements" class="tag-link-20" title="8 topics" style="font-size: 12.375pt;">elements</a>
+<a href="/tag/featured" class="tag-link-114" title="49 topics" style="font-size: 21.75pt;">featured</a>
+<a href="/tag/fonts" class="tag-link-56" title="4 topics" style="font-size: 9.25pt;">fonts</a>
+<a href="/tag/free" class="tag-link-116" title="5 topics" style="font-size: 10.25pt;">free</a>
+<a href="/tag/free-psd" class="tag-link-165" title="6 topics" style="font-size: 11.125pt;">free psd</a>
+<a href="/tag/giveaway" class="tag-link-231" title="6 topics" style="font-size: 11.125pt;">giveaway</a>
+<a href="/tag/hints" class="tag-link-25" title="3 topics" style="font-size: 8pt;">hints</a>
+<a href="/tag/history" class="tag-link-82" title="4 topics" style="font-size: 9.25pt;">history</a>
+<a href="/tag/infographics" class="tag-link-100" title="3 topics" style="font-size: 8pt;">infographics</a>
+<a href="/tag/jquery" class="tag-link-57" title="4 topics" style="font-size: 9.25pt;">jquery</a>
+<a href="/tag/layout-editor" class="tag-link-14" title="3 topics" style="font-size: 8pt;">Layout Editor</a>
+<a href="/tag/photoshop" class="tag-link-32" title="11 topics" style="font-size: 14pt;">photoshop</a>
+<a href="/tag/photoshop-brushes" class="tag-link-170" title="3 topics" style="font-size: 8pt;">photoshop brushes</a>
+<a href="/tag/photoshop-effects" class="tag-link-149" title="5 topics" style="font-size: 10.25pt;">photoshop effects</a>
+<a href="/tag/photoshop-tutorial" class="tag-link-140" title="4 topics" style="font-size: 9.25pt;">photoshop tutorial</a>
+<a href="/tag/pro" class="tag-link-36" title="10 topics" style="font-size: 13.5pt;">pro</a>
+<a href="/tag/properties" class="tag-link-24" title="4 topics" style="font-size: 9.25pt;">properties</a>
+<a href="/tag/psd" class="tag-link-38" title="11 topics" style="font-size: 14pt;">PSD</a>
+<a href="/tag/psd-template" class="tag-link-237" title="9 topics" style="font-size: 13pt;">psd template</a>
+<a href="/tag/seo" class="tag-link-83" title="3 topics" style="font-size: 8pt;">SEO</a>
+<a href="/tag/text-effects" class="tag-link-59" title="3 topics" style="font-size: 8pt;">text effects</a>
+<a href="/tag/theme" class="tag-link-50" title="5 topics" style="font-size: 10.25pt;">theme</a>
+<a href="/tag/themes" class="tag-link-94" title="3 topics" style="font-size: 8pt;">themes</a>
+<a href="/tag/tlp" class="tag-link-327" title="5 topics" style="font-size: 10.25pt;">tlp</a>
+<a href="/tag/updates" class="tag-link-74" title="5 topics" style="font-size: 10.25pt;">Updates</a>
+<a href="/tag/web-design" class="tag-link-101" title="9 topics" style="font-size: 13pt;">web design</a>
+<a href="/tag/website" class="tag-link-64" title="6 topics" style="font-size: 11.125pt;">website</a>
+<a href="/tag/wordpress" class="tag-link-8" title="52 topics" style="font-size: 22pt;">wordpress</a>
+<a href="/tag/wordpress-plugins" class="tag-link-284" title="6 topics" style="font-size: 11.125pt;">WordPress Plugins</a>
+<a href="/tag/wordpress-template" class="tag-link-359" title="8 topics" style="font-size: 12.375pt;">wordpress template</a>
+<a href="/tag/wordpress-templates" class="tag-link-110" title="9 topics" style="font-size: 13pt;">wordpress templates</a>
+<a href="/tag/wordpress-theme" class="tag-link-139" title="18 topics" style="font-size: 16.5pt;">wordpress theme</a>
+<a href="/tag/wordpress-themes" class="tag-link-106" title="14 topics" style="font-size: 15.25pt;">wordpress themes</a></div>
 </aside><aside id="linkcat-356" class="widget widget_links"><h1 class="widget-title">Our Favorite Sites</h1>
 <ul class="xoxo blogroll">
-<li><a href="http://www.psd-dude.com">www.psd-dude.com</a></li>
-<li><a href="http://www.psdstyle.net" target="_blank">www.psdstyle.net</a></li>
-<li><a href="http://www.themedigital.com">www.themedigital.com</a></li>
+<li><a href="http://www.psd-dude.com/">www.psd-dude.com</a></li>
+<li><a href="http://www.psdstyle.net/" target="_blank">www.psdstyle.net</a></li>
+<li><a href="http://www.themedigital.com/">www.themedigital.com</a></li>
 </ul>
 </aside>
 </div> 
@@ -364,7 +368,7 @@ If you have questions or suggestions about this privacy policy, or your own pers
 </div>
 </div> 
 </div> 
-<div class="flying_maiden hidden-sm hidden-xs"> <div class="flying_maiden_wobble"> <div class="flying_maiden_button">3.9 <span class="flying_maiden_text_small">WordPress</span> </div> </div> <div class="flying_maiden_info"> <div class="flying_maiden_close"><i class="fa fa-times"></i></div> Create the new<br> WordPress 3.9 themes<br> with Divine Elemente<br> <span class="flying_maiden_text_big">Start Your Trial</span><br> <a href="/download" class="btn btn-danger" onclick="ga('send', 'event', 'Promo', 'Flying maiden - banner', 'Download Clicked');">DOWNLOAD NOW</a><br> <span class="flying_maiden_text_small"> New Update </span> </div> <div class="flying_maiden_gliding"> <div class="flying_maiden_wobble"> <div class="flying_maiden_banner1"></div> </div> </div></div>
+<div class="flying_maiden hidden-sm hidden-xs" style="display: block;"> <div class="flying_maiden_wobble"> <div class="flying_maiden_button">3.9 <span class="flying_maiden_text_small">WordPress</span> </div> </div> <div class="flying_maiden_info"> <div class="flying_maiden_close"><i class="fa fa-times"></i></div> Create the new<br> WordPress 3.9 themes<br> with Divine Elemente<br> <span class="flying_maiden_text_big">Start Your Trial</span><br> <a href="/download" class="btn btn-danger" onclick="ga('send', 'event', 'Promo', 'Flying maiden - banner', 'Download Clicked');">DOWNLOAD NOW</a><br> <span class="flying_maiden_text_small"> New Update </span> </div> <div class="flying_maiden_gliding"> <div class="flying_maiden_wobble"> <div class="flying_maiden_banner1"></div> </div> </div></div>
 <div class="">
 <div class="">
 <footer id="colophon" class="site-footer" role="contentinfo">
@@ -390,7 +394,7 @@ If you have questions or suggestions about this privacy policy, or your own pers
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','//http://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-9904001-1', 'divine-project.com');
   ga('send', 'pageview');
@@ -450,26 +454,25 @@ If you have questions or suggestions about this privacy policy, or your own pers
 
 			});
 		</script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.jsver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.divine-project.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
+var _wpcf7 = {"loaderUrl":"http:\/\/\/web\/20160209183427\/http:\/\/www.divine-project.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/bootstrap.min.js?ver=20131115"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/skip-link-focus-fix.js?ver=20130115"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/smoothscroll.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/jquery.scrollTo.min.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/jquery.cookie.js?ver=1.0"></script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/scripts.jsver=3.9.1"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/bootstrap.min.jsver=20131115"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/skip-link-focus-fix.jsver=20130115"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/smoothscroll.jsver=1.0"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/jquery.scrollTo.min.jsver=1.0"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/jquery.cookie.jsver=1.0"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var scAjax = {"ajaxurl":"http%3A%2F%2Fwww.divine-project.com%2Fwp-admin%2Fadmin-ajax.php","templatedir":"http%3A%2F%2Fwww.divine-project.com%2Fwp-content%2Fthemes%2Fblackswan"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/shortcodes.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/jquery.parallax.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.divine-project.com/wp-content/themes/blackswan/inc/scripts/menu.js?ver=1.0"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a50cf8acc2","applicationID":"2116462","transactionName":"NlJbNkRXXkcEAkwLCg8YeAFCX19aShFZBQA=","queueTime":0,"applicationTime":33956,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
- </body></html>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/shortcodes.jsver=1.0"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/jquery.parallax.jsver=1.0"></script>
+<script type="text/javascript" src="/wp-content/themes/blackswan/inc/scripts/menu.jsver=1.0"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a50cf8acc2","applicationID":"2116462","transactionName":"NlJbNkRXXkcEAkwLCg8YeAFCX19aShFZBQA=","queueTime":0,"applicationTime":21261,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script>
+</body></html>
