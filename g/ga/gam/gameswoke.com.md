@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameswoke.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041838id_/http%3A//www.gameswoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameswoke.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230204110id_/http%3A//gameswoke.com/privacy.html) for the most accurate reproduction.*
 
 # gameswoke.com - Privacy Policy
 
