@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630015246id_/https%3A//yougov.co.uk/about/terms-combined/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yougov.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230160641id_/https%3A//yougov.co.uk/about/terms-combined/%23privacy) for the most accurate reproduction.*
 
 # YouGov | Terms & Conditions Combined
 
