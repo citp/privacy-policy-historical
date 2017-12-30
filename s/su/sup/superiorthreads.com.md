@@ -1,39 +1,35 @@
-> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606163948id_/http%3A//www.superiorthreads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorthreads.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230011557id_/http%3A//www.superiorthreads.com/privacy-policy) for the most accurate reproduction.*
 
-# Superior Threads Privacy Policy
+# Superior's Privacy Policy
 
-**Privacy Policy** | **[Terms of Use](https://web.archive.org/terms-of-use/) | [Shipping Information](https://web.archive.org/shipping-information/) | [Guarantee and Return Policy](https://web.archive.org/guarantee-and-return-policy/)**
+**Privacy Policy** | [Terms of Service](https://web.archive.org/terms-of-service) | [Shipping Information](https://web.archive.org/shipping-info) | [Wholesale Accounts T&C](https://web.archive.org/wholesale-terms-and-conditions) | [Guarantee and Return Policy](https://web.archive.org/guarantee-and-return-policy)  
+_Most Recent Update: December 8, 2017  
+_
 
-_Most Recent Update: June 20, 2014_
+Thank you for visiting and accessing the SuperiorThreads.com Website (“website”) operated by Superior Threads. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
-Thank you for visiting and accessing the SuperiorThreads.com Website (“website”) operated by Superior Threads, Inc. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
-
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the website directly or through another site, you accept the practices described in this Policy.
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the website directly or through another site, you accept the practices described in this policy.
 
 This privacy policy applies to the website. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.
 
-We are not responsible for the content or privacy practices on any web site not operated by Superior Threads, Inc. to which the website links or that links to the website.
+We are not responsible for the content or privacy practices on any website not operated by Superior Threads to which the website links or that links to the website.
 
-### INFORMATION COLLECTION AND USE
+##### INFORMATION COLLECTION AND USE
 
-**1\. Information Collection.**
+**1\. Information Collection**
 
 We collect information from you in several different ways on this website. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
-  * do our best to make the website easier for you to use by not having to enter information more than once.
-
-  * help you find information, products, and services in a quick manner.
-
-  * help us create content that is most relevant to you.
-
-  * alert you to new information, products, and services that we offer.
-
+  * do our best to make the website easier for you to use by not having to enter information more than once. 
+  * help you find information, products, and services in a quick manner. 
+  * help us create content that is most relevant to you. 
+  * alert you to new information, products, and services that we offer. 
 
 
 
 (a) Registration and Ordering. Before using certain parts of any website or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may also ask you for your country of residence and/or your organization’s country of operation, so we can comply with applicable laws and regulations. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the website, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you.
 
-(b) Email Addresses. Several locations of the website permit you to enter your email address for purposes including but not limited to: to request us to notify you of new brands, new products, sign up for email newsletters and special offers; or to sign up for other email newsletters such as Fabric.
+(b) Email Addresses. Several locations of the website permit you to enter your email address for purposes including but not limited to: to request us to notify you of new brands, new products, sign up for email newsletters and special offers; or to sign up for additional email newsletters such as segmented campaigns and emails.
 
 (c) Cookies and Other Technology. Like many sites, the website employs cookies to speed your navigation of the website, recognize you and your access privileges, and track your website usage.
 
@@ -45,11 +41,11 @@ We collect information from you in several different ways on this website. One g
 
 (d) Log Files. As is true of most websites, the website server automatically recognizes the Internet URL from which you access the website. We may also log your Internet protocol (“IP”) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
 
-**2\. Information Use and Disclosure.**
+**2\. Information Use and Disclosure**
 
 (a) Internal Use. We use your personal information to process your order and provide you with Superior customer service. We may internally use your personal information to improve the websites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the website.
 
-(b) Communications with You: We will use your personal information to communicate with you about the website and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as; notify you of new brands, new products; to sign up for email newsletters and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+(b) Communications with You. We will use your personal information to communicate with you about the website and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as; notify you of new brands, new products; to sign up for email newsletters and special offers. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
 
 (c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under Superior Threads, Inc.’s control, except that:
 
@@ -61,26 +57,26 @@ We collect information from you in several different ways on this website. One g
 
 (iv) We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business.
 
-(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+(v) We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners.
 
 (vi) We may publicly disclose the name, city, and state of the contest and sweepstakes winners.
 
-### **DATA SECURITY**
+##### DATA SECURITY
 
 The website incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the website. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the website, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-### **OPT OUT/CORRECTIONS**
+##### OPT OUT/CORRECTIONS
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the ‘my account’ section of the website https://www.superiorthreads.com/accounts/, or by telephoning, or emailing your request to SuperiorThreads.com’s service team (800) 499-1777 or [info@superiorthreads.com](mailto:info@superiorthreads.com). If you contact us via email, please do not email your credit-card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the by telephoning or emailing your request to SuperiorThreads.com’s service team 800-499-1777 or [info@superiorthreads.com](mailto:info@superiorthreads.com). If you contact us via email, please do not email your credit card number or other sensitive information.
 
-### **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
+##### OFFLINE COLLECTION, USE AND DISCLOSURE OF INFORMATION
 
 As you might expect from us, the majority of information that we collect is obtained through the website, and this Privacy Policy applies only to that online collection of personal information. We also may collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn’t discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
-### **UPDATES TO THIS POLICY**
+##### UPDATES TO THIS POLICY
 
-If we change or update this Privacy Policy, we will post changes and updates on the website so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at (800) 499-1777 or [info@superiorthreads.com](mailto:info@superiorthreads.com)
+If we change or update this Privacy Policy, we will post changes and updates on the website so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 800-499-1777 or [info@superiorthreads.com](mailto:info@superiorthreads.com)
 
-## Effective January 1, 2014
+_Effective January 1, 2014_
