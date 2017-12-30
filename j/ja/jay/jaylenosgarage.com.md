@@ -1,21 +1,23 @@
-> *The following text is extracted and transformed from the jaylenosgarage.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630222656id_/http%3A//www.nbcuni.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaylenosgarage.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230220222id_/https%3A//www.nbcuniversal.com/privacy/nbc-privacy) for the most accurate reproduction.*
 
 # Home & Summary | NBCUniversal
 
 ## Home & Summary
 
-Last Updated: 6 June 2016
+Last Updated: 17 August 2017
 
 In this privacy policy:
 
   * We’ve summarized our privacy policy terms so you can find what you need quickly;
   * We’ve designed one privacy policy to apply across many NBCUniversal online services;
   * We’ve added more detail about the personal information we use and collect, including through mobile apps;
-  * We explain how we share information with the companies in the NBCUniversal group.
+  * We explain how we share information with the companies in the NBCUniversal group.We’ve added information for candidates who [apply to work at NBCUniversal companies](https://web.archive.org/privacy/nbc-full-privacy-policy#applying_to_work_at_nbcuniversal);
+  * We’ve clarified that we may collect [information about users'](https://web.archive.org/privacy/nbc-full-privacy-policy#types_of_informtaion_we_collect) interactions on online services operated by third parties;
+  * We’ve updated [our contact details](https://web.archive.org/privacy/nbc-full-privacy-policy#contact_us); and
+  * We’ve added some information in our [Mobile Apps](https://web.archive.org/privacy/nbc-mobile-apps) section with more information about types of information we collect and how to opt out of cross application data collection.
+  * We’ve updated the examples of [Cookies](https://web.archive.org/privacy/nbc-cookies) used on NBCUniversal online services.
 
 
-
-Highlights of most recent changes – December 2015
 
 ### Privacy at NBCUniversal
 
@@ -25,7 +27,7 @@ At NBCUniversal, we respect personal information and take seriously our privacy 
 
 **What information do we collect and how is it used?**
 
-NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/cookies/) and/or (4) information from third parties.
+NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/nbc-cookies/) and/or (4) information from third parties.
 
 **How do we share information?**
 
@@ -58,7 +60,7 @@ NBCUniversal provides online service users with access to and choices about thei
 
 We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt out of this “targeted advertising”. The effect of opting out is controlled by third parties; they may still collect your usage information for analytic, research or internal operations purposes.
 
-Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out).
+Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/nbc-cookies/#your_cookie_choices_and_how_to_opt_out).
 
 **Contact us**
 
