@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibnlive.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606041436id_/http%3A//www.news18.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibnlive.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230203133id_/http%3A//www.news18.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy Policy of News18.com
 
