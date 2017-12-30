@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cscoutjapan.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629222420id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscoutjapan.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022433id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Squarespace
 
@@ -6,11 +6,11 @@ _Last updated: September 26, 2016_
 
 Thanks for visiting Squarespace! This Privacy Policy describes what information we collect and how it's used and shared. Note that any capitalized terms not defined in this Privacy Policy have the meanings set forth in our [Terms of Service](https://www.squarespace.com/terms-of-service/). If you don’t agree with the terms of this Privacy Policy, you may not access or use the Services. If you have any comments or questions about this Privacy Policy, feel free to contact us at [privacy@squarespace.com](mailto:privacy@squarespace.com).
 
- **1.** **     ** **Core Principles** ****
+ **1.  ** **Core Principles** ****
 
 When it comes to your personal information we believe in transparency, not surprises. So before we get into the details, we want to share with you a few of our core privacy principles. First, we don’t sell your personal information to anyone. It’s just not the type of business we’re in. Second, we don’t ask for your personal information unless we need it to provide or improve the Services for you. Third, we don’t share your personal information unless you’ve specifically allowed it, or for the very limited purposes described below. Finally, we appreciate that when you use our Services, you trust us with your information, and we take that responsibility very seriously. This Privacy Policy holds us accountable for protecting your rights and your privacy.
 
- **2.     ** **Collection**
+ **2.  ** **Collection**
 
 When you use the Services, we collect the following information, and use it only as described below:
 
@@ -32,7 +32,7 @@ When you use the Services, we collect the following information, and use it only
 
  **2.9. Cookies And Other Technologies.** We use these technologies to do things such as remember your preferences, keep you safe and improve and promote the Services. You can read more about how we use these technologies in our [Cookie Policy](https://www.squarespace.com/cookie-policy), which is incorporated by reference into this Privacy Policy.
 
- **3.** **     ** **Sharing**
+ **3.  ** **Sharing**
 
 When you use the Services, we may share your information only as described below:
 
@@ -44,27 +44,27 @@ When you use the Services, we may share your information only as described below
 
  **3.4. Business Transfers.** If we're involved in a reorganization, merger, acquisition or sale of our assets, your information may be transferred as part of that deal. 
 
-**4.** **     ** **Protection**
+**4.  ** **Protection**
 
 While no service is completely secure, we have a security team dedicated to keeping your information safe. We employ security measures such as using firewalls to protect against intruders, building redundancies throughout our network (so that if one server goes down, another can cover for it) and testing for and protecting against network vulnerabilities. Payment information is transmitted using HTTPS encryption, and we maintain a PCI DSS certification. 
 
-**5.** **     ** **Retention**
+**5.  ** **Retention**
 
 We'll retain your personal information for as long as we need it to provide you with the Services. You can ask for your personal information to be deleted at any time by deleting your Account or contacting us at [privacy@squarespace.com](mailto:privacy@squarespace.com). Please note that there may be latency in deleting your personal information from our servers and backup storage, and we may retain your personal information in order to comply with the law, protect our rights, resolve disputes or enforce our agreements.
 
- **6.** **     ** **Location**
+ **6.  ** **Location**
 
 Information that you submit through the Services may be transferred to countries other than where you live (for example, to our servers in the US). We also may store information locally on the devices you use to access the Services. We also may transfer information to third parties outside the US for processing or to support the Services, and we require them to provide at least the same level of protection for your information as described in this Privacy Policy.
 
- **7.** **     ** **Access**
+ **7.  ** **Access**
 
 To modify or delete the personal information you have provided to us, simply log into the Services and update your profile. We may retain certain information as required by law or for necessary business purposes. On request, we'll provide you with a copy of your personal information that we maintain. This request may be subject to a fee not exceeding the prescribed fee permitted by law.
 
- **8.** **     ** **Communications**
+ **8.  ** **Communications**
 
 We may periodically email you service-related announcements. We'll also send you emails related to your transactions. We may also send you marketing or promotional communications, but you can opt out of receiving subsequent marketing or promotional communications by clicking the link marked unsubscribe (or a similar phrasing) that’s included in those communications. 
 
-**9.** **     ** **End User Information**
+**9.  ** **End User Information**
 
  **9.1. Collection And Use Of End User Information.** You may use the Services to create or publish Your Sites, and Your Sites may have End Users. We may collect, use or delete the same types of information described in Section 2, above, from your End Users, on your behalf and at your direction, and we treat such information in accordance with this Privacy Policy. We do this in order to enable you to use the Services, and to provide, improve and protect the Services. For example, during checkout you may ask your End Users to provide name, address, email address and payment information so that you can complete their orders.
 
@@ -74,7 +74,7 @@ We may periodically email you service-related announcements. We'll also send you
 
 **9.4. A Message To The End Users.** Hello, End User! We hope you [create your own site](https://www.squarespace.com/) on Squarespace some day! However, Squarespace has no direct relationship with you. If you’d like to make any requests regarding your personal information, please contact the owner of the site you’ve visited or used, as they control your data. They may then submit any such information requests to us, and we’ll respond to them. We retain your information in accordance with this Privacy Policy. 
 
-**10.** **     ** **Privacy Shield**
+**10.  ** **Privacy Shield**
 
  **10.1. Compliance.** Squarespace complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union to the United States (“EU Personal Data”). We’ve certified to the Department of Commerce that we adhere to the Privacy Shield Principles and, assuming our certification is approved, you’ll be able to find it [here](https://www.privacyshield.gov/list). You can learn more about Privacy Shield by visiting [https://www.privacyshield.gov/](https://www.privacyshield.gov/). 
 
@@ -82,6 +82,6 @@ We may periodically email you service-related announcements. We'll also send you
 
 **10.3. Inquiries And Disputes.** If you have questions you believe to be within the scope of our Privacy Shield certification, please contact us first at [privacy@squarespace.com](mailto:privacy@squarespace.com) and we'll respond within 45 days. For any complaints that we can’t resolve directly, JAMS is the independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance, and you can contact JAMS at [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield). In the event your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield, Squarespace is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. 
 
-**11.** **     ** **Modifications**
+**11.  ** **Modifications**
 
 We may modify this Privacy Policy from time to time, and will post the most current version on our site. If a modification meaningfully reduces your rights, we'll notify you in accordance with the procedures set forth in our [Terms of Service](https://www.squarespace.com/terms-of-service/). 
