@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hitc.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527123250id_/http%3A//www.hitc.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitc.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230191324id_/http%3A//www.hitc.com/en-gb/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Here Is The City is commited to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. The following reflects our commitment to you.
+HITC is commited to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
- **Information About All Here Is The City Visitors  
+ **Information About All HITC Visitors  
 ** In general we collect data about the areas of the sites and pages which are visited. We only aggregate this data and do not specifically target the trends of an individual. This information helps us to better serve you by determining which services and features are most useful to you. We may share this information with partners, but again this is only in aggregate form and individuals will not be able to be identified from the data.
 
 **Cookies  
@@ -12,7 +12,7 @@ Here Is The City is commited to protecting the privacy of our users. We want to 
 
 We have included below details of the cookies we set and links to third parties which have opt-out options. However, if you wish to opt-out we recommend you take the time to learn the cookie settings of your browser and use that to opt-out, providing a more secure and manageable solution.
 
-We use third party advertising networks to deliver our adverts. These networks may use **online behavioural advertising** cookies to enable them to tailor the adverts and to make them more relevant to you. Further information on how these companies manage your information can be found on their websites. The networks we use directly are: [TDP Martini](http://info.evidon.co.uk/more_info/9367), [BBN Networks](http://www.bbnnetworks.com/content/privacy-policy), [Bizo](http://www.bizo.com/businessProfessionals/opt_out), [Tribal Fusion (Exponential)](http://www.exponential.com/privacy.html) and [Google Adsense](http://www.google.com/ads/preferences/plugin/).
+We use third party advertising networks to deliver our adverts. These networks may use **online behavioural advertising** cookies to enable them to tailor the adverts and to make them more relevant to you. You can opt-out and manage your setting for these types of cookies by visiting the Network Advertising (NAI) opt-out page at [optout.networkadvertising.org](http://optout.networkadvertising.org/)
 
 Cookies we set when strictly necessary:  
 UUID - an unique identifier which is not personally identifiable and is used to provide aggregate data.  
@@ -27,12 +27,12 @@ Cookies set to provide performance:
 Google Analytics - we use Google Analytics to provide aggregated performance reports. [Opt-out of Google Analytics cookies.](http://tools.google.com/dlpage/gaoptout?hl=en)
 
 **The Use & Storage Of Personal Information  
-**When you supply any personal information to Here Is The City (e.g. newsletter registration) we have legal obligations towards you in the way we handle that data. In general, any information you provide to Here Is The City will only be used inside our organisation and by it's service providers. It will never be supplied to anyone outside our organisation without your consent, unless we are obliged or permitted to by law.
+**When you supply any personal information to HITC (e.g. newsletter registration) we have legal obligations towards you in the way we handle that data. In general, any information you provide to HITC will only be used inside our organisation and by it's service providers. It will never be supplied to anyone outside our organisation without your consent, unless we are obliged or permitted to by law.
 
 **Children  
-** If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to the Here Is The City sites. Users without this consent are not allowed to provide us with personal information.
+** If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to HITC. Users without this consent are not allowed to provide us with personal information.
 
 **Changes To This Policy  
-** If we decide to change our privacy policy we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions about or concerns about Here Is The City's privacy policy please feel free to e-mail us at [privacy@hereisthecity.com](mailto:privacy@hereisthecity.com).
+** If we decide to change our privacy policy we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions about or concerns about HITC's privacy policy please feel free to e-mail us at [privacy@hitc.com](mailto:privacy@hitc.com).
 
-Thank you for using the Here Is The City sites.
+Thank you for using HITC.
