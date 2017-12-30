@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mange-mirror.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625034635id_/http%3A//en.jukujo-club.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mange-mirror.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230225332id_/https%3A//en.jukujo-club.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy- Jukujo Club
 
