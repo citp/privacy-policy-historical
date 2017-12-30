@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qikink.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521122400id_/http%3A//qikink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qikink.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230203243id_/http%3A//qikink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - On Demand T-Shirt Printing and Drop Shipping T-Shirts India
 
