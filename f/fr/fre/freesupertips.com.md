@@ -1,100 +1,88 @@
-> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230155547id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Free Super Tips
 
-**Go Daddy Respects Your Privacy**
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in the UK Data Protection Act (1998), is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ **What information do we collect?**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Registration is mandatory in order to be able to use the basic features of the mobile app, but unregistered users may use the website. When you register an account on freesupertips you will be asked to enter your Name, Email address or other details to help you with your experience.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
 
-**Information Collection and Use**
+Facebook login is used to enhance the user’s experience – the only information we use is your email address to create your user account and your publicly visible profile. The app may not post to Facebook without your prior permission (such as to share results) nor do we have access to your contact list, messages, etc.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+ _ **How do we use your information?**_
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+• To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To allow us to better service you in responding to your customer service requests.  
+• To administer a contest, promotion, survey or other site feature.  
+• To send you an email newsletter. You may choose to opt out of this newsletter at any time by clicking unsubscribe.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We also use your location (after you have given us permission) to confirm that you are located within the UK and Ireland.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+ ** _How do we protect visitor information?_**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+We only provide articles and information, and we never ask for personal or private information such as bank details, credit or debit card numbers, etc.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+The information we do store on visitors will not be shared with unassociated third parties.
 
-**Security**
+ ** _Cookie Policy_**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We collect anonymous statistics regarding each user’s visits, such as which pages on the website were viewed and for how long. This information can’t be linked back to any specific individual and is collected via Google Analytics. If you wish to opt out of Google Analytics you can do so [here](https://tools.google.com/dlpage/gaoptout), or you can learn more about it [here](https://support.google.com/analytics/answer/6004245).
 
-**Updating Your Information**
+Facebook and Twitter may use cookies to track that you are logged in and allow for sharing of our articles. We do not have any access to this information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+We don’t share any cookie data with 3rd parties apart from where it is necessary for the smooth running of our website, and it will still remain anonymous
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+By registering to our app, you will be signed up to our newsletter. You will be free to unsubscribe at any time.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ ** _Third Party Disclosure_**
 
-      iii.      You may call us at: (480) 505-8800
+We do not sell, trade, or otherwise transfer Personally Identifiable Information in most situations. If the company is involved in a merger, acquisition or sale, you will be on our website of the change of ownership and of the uses of information. We may disclose your information as required by law, where in good faith it is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-       iv.      You may fax us at: (480) 505-8844
+ ** _Data Collection and Advertising_**
 
-**Sending Emails**
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. This helps us keep the app free and to deliver adverts to you which are relevant and enhance your user experience.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+ ** _Third party links_**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Compliance with Laws and Law Enforcement**
+ ** _Google_**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We have not enabled Google Adwords on our site but we may do so in the future.
 
-**Third Party Service Providers**
+ ** _Other_**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Users will be notified of any privacy policy changes:  
+• On our Privacy Policy Page
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Users are able to change their personal information:  
+• By logging in to their account
 
-**Supplementation of Information**
+ ** _How does our site handle do not track signals?_**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We honor them and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-**Contests/Surveys**
+ _ **Does our site allow third party behavioral tracking?**_
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We do allow third party behavioral tracking to help develop the site and improve features and functionality on offer.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+ ** _Fair Information Practices_**
 
-**Tell-A-Friend**
+In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We will notify the users via email
 
-**What Happens to my Personal Information if I Opt Out?**
+• Within 7 business days
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors
 
-**Transfer of Data Abroad**
+ ** _Contact Information_**
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+freesupertips.co.uk
 
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
