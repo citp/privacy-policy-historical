@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoop.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063055id_/https%3A//hoop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230120730id_/http%3A//hoop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Hoop
 
@@ -56,9 +56,9 @@ We will combine this information with information you give to Us and information
 
 ## Cookies
 
-We may collect information about your computer or mobile device, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our business users. This is statistical data about the browsing actions and patterns of Our users.We may obtain information about your usage of the Hoop Service by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device's internal memory. Cookies help us to: improve the Hoop Service; to deliver a better and more personalised service both through the Hoop Service and through third party websites and applications. They enable Us to:
+We may collect information about your computer or mobile device, including where available your IP address, operating system and browser type, for system administration, and to report aggregate information to our business users. This is statistical data about the browsing actions and patterns of Our users. We may obtain information about your usage of the Hoop Service by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device's internal memory. Cookies help us to: improve the Hoop Service; deliver a better and more personalised service both through the Hoop Service and through third party websites and applications. They enable Us to:
 
-  * support Our analytics, to estimate our audience size and usage patterns;
+  * support Our analytics, to estimate Our audience size and usage patterns;
   * prevent fraud, and your data from unauthorized parties, and comply with legal requirements. For example, We use cookies to determine if you are logged in;
   * store information about your preferences, and so allow us to customise the Hoop Service according to your individual interests;
   * manage notifications and some of the content you see, so that you don’t keep seeing the same notifications over and over again;
@@ -69,6 +69,8 @@ We may collect information about your computer or mobile device, including where
 
 
 You may refuse to accept cookies by activating the setting on your browser or your mobile device which allows you to refuse the setting of cookies. If you select this setting you may be unable to access certain parts of the Hoop Service. Unless you have adjusted your browser or mobile device setting so that it will refuse cookies, Our system will issue cookies when you log on to the Hoop Service.
+
+More information about the types of cookies we use can be found on our [cookies page](https://web.archive.org/cookies).
 
 More information about cookies is available at the following link: <http://www.youronlinechoices.eu/>.
 
