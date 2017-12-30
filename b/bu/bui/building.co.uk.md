@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the building.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620045100id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the building.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230162925id_/http%3A//privacypolicy.ubm.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ When you access and browse our websites (including when you register for an even
 
 With regard to each of your visits to our website(s), we may also collect the following information:
 
-  * technical inforamtion, including the Internet protocal(IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating systems and platforms; and
+  * technical information, including the Internet protocal(IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating systems and platforms; and
   * information about your visit, including the full Uniform Resource Locators (URL) clickstreams to, through and from our websites, products you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks and mouse-overs), methods used to browse away from that page and any phone number used to call us
 
 
