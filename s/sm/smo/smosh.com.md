@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smosh.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627212923id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smosh.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230233328id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SMOSH
 
@@ -32,7 +32,7 @@ We and our partners may retain the anonymous user data we or our partners collec
 
 ### With whom do we share your information and for what purpose?
 
-Except as may otherwise be expressly set forth in this policy or in our [privacy policy](https://web.archive.org/web/20170627212923id_/http%3A//www.smosh.com/www.defymedia.com/privacy-policy/), Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
+Except as may otherwise be expressly set forth in this policy or in our [privacy policy](https://web.archive.org/web/20171230233328id_/http%3A//www.smosh.com/www.defymedia.com/privacy-policy/), Defy does not sell, rent, or trade any personally identifying information with third parties unless users consent to such sharing practices. We may from time to time share user information in a non-personally identifiable manner with advertisers and other third parties in order to present to users more targeted advertising, products and services.
 
 ### What are “cookies” and “web beacons” and how do we use them?
 
@@ -48,7 +48,7 @@ New York, NY 10018
 Attn: Privacy  
 Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: [privacy@defymedia.com](mailto:privacy@defymedia.com)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0d4d5d6c9ddd5d4d9d19ed3dfdd)
 
 ### Company’s Privacy Policy
 
@@ -152,7 +152,7 @@ Attn: California Privacy
 
 Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: [privacy@smosh.com](mailto:privacy@smosh.com)
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4535372c3324263c0536282a362d6b262a28)
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Defy Site responds to “Do Not Track” browser settings. The Defy Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created. 
 
@@ -187,4 +187,4 @@ Attn: Privacy
 
 Telephone: (212)244-4307  
 Facsimile: (212)244-4311  
-E-mail: [privacy@defymedia.com ](mailto:privacy@defymedia.com)
+E-mail: [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#9fefedf6e9fefce6dffbfaf9e6f2fafbf6feb1fcf0f2)
