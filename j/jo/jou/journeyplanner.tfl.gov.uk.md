@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyplanner.tfl.gov.uk privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082231id_/https%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyplanner.tfl.gov.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230070632id_/https%3A//tfl.gov.uk/corporate/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies - Transport for London
 
