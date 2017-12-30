@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the txdmv.gov privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625083425id_/https%3A//www.txdmv.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txdmv.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230073958id_/https%3A//www.txdmv.gov/privacy-policy) for the most accurate reproduction.*
 
-# TxDMV.GOV - Privacy Policy
+# TXDMV.GOV - Privacy Policy
 
 This web site is an official Texas Department of Motor Vehicles (TxDMV) computer system operated for authorized use only and provided as a public service. This policy describes TxDMV's privacy and security practices regarding information collected from visitors to the site, including what information is collected and how that information is used.
 
