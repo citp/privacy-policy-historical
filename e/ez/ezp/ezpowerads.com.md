@@ -1,42 +1,87 @@
-> *The following text is extracted and transformed from the ezpowerads.com privacy policy that was archived on 2006-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061004150351id_/http%3A//ezpowerads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezpowerads.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065540id_/http%3A//ezpowerads.com/privacy.html) for the most accurate reproduction.*
 
-# EzPowerAds.com Viral Affiliate Marketing Network
+# EZPowerAds| Terms & Conditions
 
-Your privacy is important to www.EzPowerAds.com To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested. 
+IMPORTANT: BY USING THE SERVICES (AS DEFINED BELOW), YOU GIVE YOUR CONSENT THAT ALL PERSONALLY IDENTIFIABLE INFORMATION ("PII") THAT YOU SUBMIT OR THAT IS COLLECTED THROUGH THE SERVICES, MAY BE PROCESSED BY THE COMPANY (AS DEFINED BELOW) IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, PLEASE DO NOT USE THE SERVICES. CAPITALIZED TERMS NOTE DEFINED HEREIN HAVE THE MEANING GIVEN TO THEM IN THE EZPOWERADS TERMS OF SERVICE, WHICH IS AVAILABLE AT http://ezpowerads.com/terms.html
 
-**The Information We Collect**
+At EZPowerAds Ltd. (the "Company" or "we"), we recognize that privacy is important. This policy applies to all of the software (including the Implementation Code and EZPowerAds Software), related technology, information, content, services, tools, features and functionality offered by the Company and/or its subsidiaries and/or affiliated companies on our website available at: http://ezpowerads.com (collectively, the "Services") and covers how PII that the Company collects and receives, including in respect of any use of the Services, is treated. If you have any questions about this policy, please feel free to contact us at support@ezpowerads.com.
 
-This notice applies to all information collected or submitted on the www.EzPowerAds.com website. On some pages, you can order products, make requests, and register to receive materials or make use of our private forums. The types of personal information collected at these pages may be any or all of the following: 
+#### 1\. Scope
 
-Name  
-Address  
-Phone Number  
-Email Address  
-IP Address (required for use on our private forum)  
-Credit/Debit Card Information
+We act as a service provider to operators of other websites. To the extent that we collect PII about you on behalf of a customer, that PII is subject to that customer's privacy policy and we are not responsible for the privacy practices of such customer.
 
-The credit and payment services we utilize to process your order have their own privacy statements which may be different from those found here at www.EzPowerAds.com It is therefore recommended that you carefully read the privacy statements located on these other sites to help protect your privacy. 
+#### 2\. Information We Collect and How We Use It 
 
-**How We Use Your Information**
+Unless stated otherwise, the Company will not share, sell, auction off or give away your PII to any third-party or other organization without first obtaining your prior written consent. In order to provide our Services, we may collect the following types of information:
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+  * Information that Sites that Register to the Services Provide Directly to Us. For some features of the Services, including, but not limited to, registration and access to the Services, we may ask you for PII, including, but not limited to: name, email address, telephone number, and demographics. 
+  * Information We Collect From Users of Sites (Sites that have registered to the Services) ("Users"). When Users visit the Sites, some information is automatically collected. This includes the following information: IP address, cookie information, regional and language settings, operating system, device model, device ID and other unique identifiers from User's computer or device, the physical location of User's device (if User has permitted its mobile or other location-aware device to transmit location data), and software and hardware attributes. Our systems may automatically record and store technical information regarding the method and nature of User's use of the Services and web log data, including, without limitation, which pages or widgets of the Services the Users view and the dates and times on which they viewed such pages or widgets, impressions, the number of views they get and any actions they make in the Services (including, but not limited to, what products and/or items they looked at). We use the User's IP address to help with server problem diagnosis and to administer the Services. An IP address is a numeric code that identifies your computer or device on a network, or in this case, the Internet. The User's IP address is also used to gather broad demographic information. We may also perform IP lookups to determine which domain the User is coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics. 
+  * Personal Information. We process your PII only for specific and limited purposes, including the provision of the Services. We ask only for PII that is adequate, relevant and not excessive for those purposes. Some of these purposes may include to inform you of new services and features we will be providing, to send you requested information and additional materials in respect of the Services, for promotional purposes and market research, and internally to help us improve our Services and to help resolve any problems. 
+  * Traffic data collected through the Services. In addition to the information we collect as described above, we may use technology to collect information about the use of the Services. For example, our systems may automatically record and store browser information, search history, exit point, use time, platform type, operating system information, number of clicks and cookies. This technology does not identify you personally, it simply enables us to compile statistics about our visitors and their use of the Services. The Services contain hyperlinks to other pages, widgets and features on the Services. We may use technology to track how often these links are used and which pages, widgets and features of the Services our visitors choose to view. Again this technology does not identify you personally it simply enables us to compile statistics about the use of these hyperlinks. 
+  * Cookies. In order to store your credentials when you contact us, personalize your experience and collect and analyze the anonymous data described herein, we may use temporary cookies that remain on your device or computer for a limited period of time. We may also use persistent cookies that remain on your device or computer in order to record any content you may have gained access to by using Services. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to and stored on your device or computer. Cookies do not damage your device or computer. Most browsers or devices may allow you to block cookies but you may not be able to use some features on the Services if you block them. You may set most browsers to notify you if you receive a cookie (this enables you to decide if you want to accept it or not). 
+  * Clear GIFs, Pixel Tags and other technologies. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, which are embedded invisibly on web pages. We or our service providers may use clear GIFs (also known as web beacons, web bugs or pixel tags), in connection with our Services to track the activities of visitors to our site, help us manage content, and compile statistics about usage of our Services. We or our service providers may also use clear GIFs in HTML emails to our users, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded. 
+  * User communications. When you send email or other communication to the Company, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. We may send you push notifications to send you special updates in respect of the Services. You should be able to opt-out of these notifications at the device level. We may also send you newsletters and promotional communications if you joined our mailing list, you may opt-out of this service at any time by clicking the "unsubscribe" option in the email you receive from us. 
+  * Links. Links to other sites and applications may be provided by the Company as a convenience to our users. The Company is not responsible for the privacy practices or the content of other sites and applications, even if they are linked from and/or through the Services, and you visit them at your own risk. The information practices of other sites and applications is governed by the privacy policies of such sites and applications. We recommend you to carefully read the terms of use and privacy policies of such sites and applications. This privacy statement applies solely to PII collected by us. 
+  * Children. We care about the safety of children. Because the Services are not directed towards children under 18, they are not allowed to register with or use the Services, or provide PII. If you are under the age of 18 or the age of legal majority where you reside if that jurisdiction has an older age of majority, you must obtain parental consent (or consent from your legal guardian) prior to using our Services. We do not knowingly contact or engage with children under the age of 18 (or the age of legal majority where you reside if that jurisdiction has an older age of majority) without said parental consent (or consent from your legal guardian). If you have reason to believe that a child under the said age has provided us with their PII, please contact us at the address given above and we will endeavor to delete that PII from our databases. 
+  * Maintenance. The Company uses the PII that you provide or that we collect to operate, maintain, enhance, and provide the Services. 
+  * Analysis. The Company uses all of the PII that we collect to understand the usage trends and preferences of our users, to improve the way the Services work and look, and to create new features and functionality. 
+  * Choices for personal information: We will not collect or use PII for purposes other than those described in this policy and/or in any other legal instrument in effect between us. If we intend to use your PII for any purposes other than those described in this policy and/or in the EZPowerAds Terms of Service, then we will ask for your consent prior to such use. You can decline to submit PII, in which case the Company may not be able to provide you with Services. 
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties or collected in a database. 
 
-You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+#### 3\. Information sharing
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+The Company only shares PII with other companies or individuals in the following limited circumstances: 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+  * As required for the provision of the Services, including, without limitation, sharing information with payment service providers and other service providers (including for analysis and statistics). 
+  * We have your consent. 
+  * We require opt-in consent for the sharing of any sensitive PII. 
+  * We provide PII to our affiliates or other trusted businesses or persons for the purpose of processing PII on our behalf in Israel and/or abroad. We require that these parties agree to process such PII based on our instructions and in compliance with this notice and any other appropriate confidentiality and security measures. 
+  * We have a good faith belief that access, use, preservation or disclosure of such PII is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable agreements and/or their terms, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of the Company, its users or the public as required or permitted by law. 
+  * If we become involved in a merger, acquisition, or any form of sale of some or all of our assets. In the event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how PII is treated, transferred, or used. In any of the circumstances described in this paragraph, the information will be subject to the privacy policy of the purchaser or assignee. 
+  * If we obtain assurances from our agents that they will safeguard PII through measures consistent with this policy. Where we have knowledge that an agent is using or disclosing PII in a manner contrary to this policy, we take commercially reasonable steps to prevent or stop the unauthorized use or disclosure. 
 
-**Our Commitment to Your Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**Our Commitment to Children's Privacy**
+#### 4\. Information security
 
-Protecting the privacy of the very young is especially important to us at www.EzPowerAds.com And for that reason, we never collect or maintain information at our website from those we actually know are under the age of 13. No part of our website is structured to attract anyone under the age of 13. 
+We follow generally accepted industry standards to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of PII. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your PII, we cannot guarantee its absolute security.
 
-Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution.
+  * We strive to maintain the reliability, accuracy, completeness and currency of PII that we collect and to protect the privacy and security of our users. We keep your PII only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements. 
+  * We limit access to PII about you to employees, contractors and agents who we believe reasonably need to come into contact with that PII. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+  * We have physical, electronic, and procedural security measures and safeguards to reasonably protect PII. Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection. 
+  * Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences. 
+
+
+
+#### 5\. Data integrity, accessing and updating personal information
+
+The Company processes PII only for the purposes for which it was collected and in accordance with this Policy or any applicable service agreements. We review our data collection, storage and processing practices to ensure that we only collect, store and process the PII needed to provide or improve our Services. We take reasonable steps to ensure that the PII we process is accurate, complete, and current, but we depend on our users to update or correct their PII whenever necessary. Nothing in this policy is interpreted as an obligation to store information, and we may, at our own discretion, delete or avoid from recording and storing any and all information. 
+
+  * Upon receipt of your written request and enough information to permit us to identify your PII, we will disclose to you the PII we hold about you. Upon your request, we will also correct, amend or delete any PII that is inaccurate and notify any third party who received this PII from us of the necessary changes. 
+  * We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete PII are subject to any applicable legal and ethical reporting or document retention obligations imposed on the Company. 
+  * We ask individual users to identify themselves and the PII requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required. 
+
+
+
+#### 6\. Enforcement
+
+The Company regularly reviews its compliance with this policy. Please feel free to direct any questions or concerns regarding this policy or our treatment of PII by contacting us as provided above. When we receive formal written complaints it is the Company's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of PII that cannot be resolved between the Company and an individual.
+
+#### 7\. Changes to this Privacy Policy
+
+The Company may update this policy. We will notify you about significant changes in the way we treat PII by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Services. We encourage you to periodically review this policy for the latest information about our privacy practices.
+
+#### 8\. Consent To Processing
+
+By providing any PII to us pursuant to this policy, all users, including, without limitation, users in the United States, Israel and member states of the European Union, fully understand and unambiguously consent to this policy and to the collection and processing of such PII abroad. The server on which the Services are hosted and/or through which the Services are processed may be outside the country from which you access the same and may be outside your country of residence. Some of the uses and disclosures mentioned in this policy may involve the transfer of your PII to various countries around the world that may have different levels of privacy protection than your country. By submitting your PII through the Services, you consent, acknowledge, and agree that we may collect, use, transfer, and disclose your PII as described in this policy. If you do not consent to the terms of this policy, please do not use the Services.
+
+#### 9\. Questions
+
+If you have any questions about this policy, concerns about the way we process your PII, or if you wish to delete all information regarding your use of the Services, please contact us at support@ezpowerads.com 
+
+#### 10\. Your California Privacy Rights and Do Not Track Notices
+
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of PII to third parties for their direct marketing purposes. To make such a request, please send an email to support@ezpowerads.com. Please note that we are only required to respond to one request per customer each year. You are also advised that Company does not respond to "Do Not Track" signals.
+
+**Last Updated: November 25, 2015**
