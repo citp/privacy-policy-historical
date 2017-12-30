@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gshock.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154505id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshock.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230125954id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
 
-# Casio G-Shock Website Privacy Information | Casio - G-Shock
+# G-Shock Watches by Casio - Mens Watches - Digital Watches | Casio - G-Shock
 
 **Our Commitment To Privacy**
 
