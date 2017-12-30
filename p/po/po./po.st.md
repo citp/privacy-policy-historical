@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the po.st privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630125412id_/http%3A//radiumone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the po.st privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230123756id_/http%3A//radiumone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RadiumOne
 
