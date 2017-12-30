@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621075001id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065724id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wolfram|Alpha Privacy Policy
 
