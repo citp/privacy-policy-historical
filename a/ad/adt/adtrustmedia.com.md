@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtrustmedia.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120022014id_/https%3A//adtrustmedia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrustmedia.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230171124id_/https%3A//adtrustmedia.com/policy) for the most accurate reproduction.*
 
 # AdtrustMedia - Privacy Policy | We respect your Privacy
 
