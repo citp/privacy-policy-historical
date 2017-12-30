@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houzz.in privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629193535id_/https%3A//www.houzz.in/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.in privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022045id_/https%3A//www.houzz.in/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
