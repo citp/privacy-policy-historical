@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigbrothernetwork.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602095737id_/http%3A//bigbrothernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrothernetwork.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230233150id_/http%3A//bigbrothernetwork.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Big Brother 19
+# Privacy Policy – Big Brother Network
 
 ## Privacy Policy Statement
 
@@ -20,11 +20,13 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used only for general web site statistics and to notify visitors about updates to our website if they have registered for that purpose.
 
-With respect to cookies: We do not set any cookies.
-
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+
+### Advertising:
+
+BigBrotherNetwork.com uses third-party advertising companies to serve our ads and collect information when users visit the Site. These third-party advertising companies employ cookie and 1×1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. These companies may use information (not including your name, address, [email](http://feedburner.google.com/fb/a/mailverify?uri=BigBrotherNetwork&loc=en_US) address or telephone number) about your visits to our website and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice or to Out-Out of Internet-Based Advertising, and to know your choices about not having this information used by these companies, check out <http://optout.networkadvertising.org/#!/>. 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
