@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmwvrnet.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621051055id_/http%3A//tmwvrnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmwvrnet.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230140019id_/http%3A//tmwvrnet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,13 +27,13 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 **Your Access to and Control Over Information**   
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
 
-    See what data we have about you, if any. 
+    See what data we have about you, if any. 
 
-    Change/correct any data we have about you. 
+    Change/correct any data we have about you. 
 
-    Have us delete any data we have about you. 
+    Have us delete any data we have about you. 
 
-    Express any concern you have about our use of your data. 
+    Express any concern you have about our use of your data. 
 
 **Security**   
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
