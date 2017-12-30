@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaisiyaram.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629184628id_/http%3A//www.jaisiyaram.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaisiyaram.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230042804id_/http%3A//www.jaisiyaram.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,5 +13,3 @@ We collect the e-mail addresses of those who subscribe to our newsletter, reques
 While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. Our web site contains links, including e-commerce opportunities with affiliates, partners and associates, to other sites that are not maintained by us. If you visit these sites, please look for their privacy policy.
 
 We can be reached via email at [info@jaisiyaram.com](mailto:info@jaisiyaram.com).
-
-"We are committed to best email practices, and have been accredited by Return Path as meeting the requirements for listing in their Email Accreditation Program. For more information see [http://www.returnpath.net](http://www.returnpath.net/)"
