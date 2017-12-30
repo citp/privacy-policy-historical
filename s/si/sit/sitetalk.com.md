@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081209id_/https%3A//sitetalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitetalk.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065735id_/https%3A//sitetalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SiteTalk
 
