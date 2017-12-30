@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the contestchest.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606155858id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the contestchest.com privacy policy that was archived on 2017-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171230135115id_/http%3A//contestchest.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy</title>
@@ -28,14 +28,6 @@
     	<link href="/public/bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet">
     	
 		<link href="/public/jQuery-Impromptu/jquery-impromptu.min.css" type="text/css" rel="stylesheet">
-		<style type="text/css">
-			a.upgrade-required {
-			    color: rgb(193,193,193);
-			}
-    		div.upgrade-required {
-	    		opacity:0.5; filter:alpha(opacity=50); /* For IE8 and earlier */
-    		}
-	    </style>
 	    
         
         
@@ -46,9 +38,23 @@
 		<script src="/public/jQuery-Impromptu/jquery-impromptu.min.js" type="text/javascript" language="javascript"></script>
 		<script>
 			$( document ).ready(function() {
-				$('.upgrade-required').click(function() {
-					$.prompt("This functionality requires that you are <b>logged in</b> and have at least a <b>Bronze</b> level membership. <a href=\"/membership-options\" target=\"_blank\">See the membership options</a>");
+				$('.bronze-required').click(function() {
+					showUpgradeMessage('Bronze');
 				});
+				$('.silver-required').click(function() {
+					showUpgradeMessage('Silver');
+				});
+				$('.gold-required').click(function() {
+					showUpgradeMessage('Gold');
+				});
+				
+				function showUpgradeMessage(level) {
+					
+						var loggedInWarning = "are <b>logged in</b> and ";
+					
+					
+					$.prompt("This functionality requires that you " + loggedInWarning + "have at least a <b class=\"" + level.toLowerCase() + "\">" + level + "</b> level membership. <a href=\"/membership-options\" target=\"_blank\">See the membership options</a>");
+				}
 			});
 		</script> 
 
@@ -184,7 +190,7 @@ This policy is powered by Free Privacy Policy and Rhino Support <a style="color:
 		    	$(document).ready(function() {  
 		    		var clientDate = new Date();
 		    				    		
-		    		var serverDate = new Date(2017, 5, 6, 15, 58, 58, clientDate.getMilliseconds());
+		    		var serverDate = new Date(2017, 11, 30, 13, 51, 15, clientDate.getMilliseconds());
 		    		
 		    		var serverTotalMinutesInDay = serverDate.getTime()/1000/60;
 		    		var clientTotalMinutesInDay = clientDate.getTime()/1000/60;
