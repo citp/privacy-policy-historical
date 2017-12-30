@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the com2us.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616085028id_/https%3A//terms.withhive.com/terms/policy/view/M9/T3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com2us.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230060242id_/https%3A//terms.withhive.com/terms/policy/view/M9/T3) for the most accurate reproduction.*
 
 # COM2US
 
