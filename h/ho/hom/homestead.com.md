@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628084348id_/http%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestead.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230072933id_/http%3A//www.homestead.com/legal/legal_privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Homestead
 
