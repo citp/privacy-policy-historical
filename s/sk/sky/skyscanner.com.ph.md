@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606223045id_/https%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com.ph privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230074747id_/https%3A//www.skyscanner.com.ph/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
