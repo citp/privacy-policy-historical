@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesjobs.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628091112id_/http%3A//www.timesjobs.com/candidate/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesjobs.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230091110id_/http%3A//www.timesjobs.com/candidate/privacyPolicy.html) for the most accurate reproduction.*
 
 # Jobs Search | Recruitment | Employment | Job Vacancies | TimesJobs
 
@@ -57,7 +57,7 @@ Times Centre
 FC-6, Film City   
 Sector 16-A, Noida - 201301, India   
 Email: grievance@timesjobs.com   
-Phone No. No. 0120-6636121
+Phone No. 0120-677-6999
 
 
 
