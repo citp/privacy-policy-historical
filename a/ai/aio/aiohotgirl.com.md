@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aiohotgirl.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910150239id_/http%3A//www.aiohotgirl.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiohotgirl.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230133534id_/http%3A//www.aiohotgirl.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Download Hot Nude Photo Gallery
+# Privacy Policy | Free Download Nude Photo Gallery
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
