@@ -1,54 +1,94 @@
-> *The following text is extracted and transformed from the viddyoze.com privacy policy that was archived on 2017-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170523041842id_/http%3A//viddyoze.com/statics/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddyoze.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230061846id_/http%3A//viddyoze.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Viddyoze
 
-**The following describes the Privacy Policy for our website.**
+Viddyoze Limited ("We") are committed to protecting and respecting your privacy.
 
-**Your Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information.
+This policy (together with our terms of use http://viddyoze.com/terms/ and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting http://viddyoze.com you are accepting and consenting to the practices described in this policy.
 
-**State Law & Accompanying Rights**  
-Please understand that you may have additional rights originating from State laws based on where you live. These State-based rights may augment, strengthen, or otherwise somehow compliment any privacy rights you have inherently or under Federal law. Our policy is to comply fully with the privacy policies of every jurisdiction in which we operate. Accordingly, you are free to use our Contact information to reach us at any time to assert any State rights.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Viddyoze Limited of Fylde House, Skyways Commercial Campus, Amy Johnson Way, Blackpool, Lancashire, United Kingdom FY4 3R.
 
-**Our Commitment To Children's Privacy**  
-Protecting the privacy of the very young is especially important. For that reason, our website will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.
+Our nominated representative for the purpose of the Act is David Chamberlain. 
 
-Under our Terms of Service and Conditions of Use, children under 18 are not allowed to use our website and access our services. It is not our intention to offer products or services to minors.
+**Information we collect from you**
 
-**Collection of Personal Information**  
-When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+We will collect and process the following data about you:
 
-Other information may be collected as well, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience.
+  * Information you give us. This is information about you that you give us by filling in forms on our site http://viddyoze.com/private-offer/ (our site) or by corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, subscribe to our service, search for a product, place an order on our site, participate in discussion boards or other social media functions on our site, enter a competition, promotion or survey, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial and credit card information, personal description and photograph.
+  * Information we collect about you. With regard to each of your visits to our site we will automatically collect the following information:
+  * technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information,browser type and version,time zone setting,browser plug-in types and versions, operating system and platform,
+  * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time),] products you viewed or searched for' page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs methods used to browse away from the page.
+  * Information we receive from other sources. This is information we receive about you if you use any of the other websites we operate or the other services we provide. [In this case we will have informed you when we collected that data if we intend to share those data internally and combine it with data collected on this site. We will also have told you for what purpose we will share and combine your data]. We are working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies). We will notify you when we receive information about you from them and the purposes for which we intend to use that information.
 
-Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you.
 
-At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services youíve requested.
 
-A prime example of limited access to our website is where content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username and password must necessarily be tied to your other account data. Usernames and passwords, by their very nature, should be kept private.
+**Cookies**
 
-**Handling of Personal Information**  
-Note that any personal information you provide to others apart from us or our vendors is wholly optional. As an example, you might disclose something in a blog post comment. That ìprivateî information is now ìpublic,î and we have no control over that. In like fashion, you sharing information with any other third party not functioning as a service provider to us puts that information beyond our control and becomes subject to the policy that party has in place.
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy http://viddyoze.com/cookie-policy.html
 
-Our primary intention for collecting personal and private information from you is simply to conduct our business. We can use this internally to better serve you. Accordingly, we see no reason to share your personal information to other parties and outside interests unless you have authorized us to do so. Of course, there are instances where your information is stored with third party service providers, such as email service providers, as they provide services that are industry-leading in quality and security and are far more beneficial to our end user than attempting such services ìin-house.î However, you are never required to deal with any such third party directly, they are limited in how they use your information, and they cannot sell or transfer it to others in any way.
+**Uses made of the information**
 
-However, of course, your information does comprise part of an overall whole. This aggregate of information, by contrast, may be used to understand our overall user base. Further, we may share this information about our website visitors as a whole, not individually, with third parties for various purposes, in our sole discretion.
+We use information held about you in the following ways:
 
-While we are staunch privacy advocates, there are times when even we may be forced to abandon these ideals. Just as major search engines face ongoing compulsion to provide data against their will, so too may the same occur with our website. Illegal activity or other serious acts or allegations could create legal liability for our website. In those cases, we reserve the right to share your information, or else may simply be compelled to do so by law. On the other hand, there may be times when we would need to share your private information in order to protect our own interests. For instance, in cases of suspected or alleged copyright infringement or other intellectual property violations, it may be necessary to share personal information.
+  * Information you give to us. We will use this information:
+  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+  * to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form); 
+  * to notify you about changes to our service;
+  * to ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * Information we collect about you. We will use this information:
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
+  * to allow you to participate in interactive features of our service, when you choose to do so;
+  * as part of our efforts to keep our site safe and secure;
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+  * Information we receive from other sources. We will combine this information with information you give to us and information we collect about you. We will use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
-**Google Adsense and the DoubleClick DART Cookie**  
-Google, as a third party advertisement vendor, may use cookies to serve ads on this website. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website, including past visits, as well as other websites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, our website has no access or control over these cookies that may be used by third party advertisers. However, you can opt out of some, though likely not all, of these cookies in one easy location at http://ww.networkadvertising.org/managing/opt_out.asp
+**Disclosure of your information**
 
-**Links to Third Party Websites**  
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+You agree that we have the right to share your personal information with:
 
-**CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out, in order to protect you and our website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect.
+  * Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+  * Selected third parties including:
+  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+  * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  [We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1).
+  * [analytics and search engine providers that assist us in the improvement and optimisation of our site;]
 
-**COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We have paid to license the use of these legal notices and administrative pages for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
 
-**QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information.
 
-© 2016 Viddyoze - All Rights Reserved
+**We will disclose your personal information to third parties:**
+
+  * In the event that we sell or buy any business or assets, in which case we will disclose your personal data to the prospective seller or buyer of such business or assets.
+  * If Viddyoze Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use http://viddyoze.com/terms/ or terms and conditions of supply http://viddyoze.com/terms-of-supply.html and other agreements; or to protect the rights, property, or safety of Viddyoze Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**Where we store your personal data**
+
+The data that we collect from you will be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It will also be processed by staff operating outside the EEA who work for us or for one of our suppliers. This includes staff engaged in, among other things,  the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**Your rights**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at support@viddyoze.com
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
+
+**Access to information**
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+Changes to our privacy policy
+
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
+
+**Contact**
+
+Questions, comments to support@viddyoze.com
