@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emerson.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621234444id_/http%3A//www.emerson.com/en-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emerson.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230134239id_/http%3A//www.emerson.com/en-us/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -235,6 +235,4 @@ If you have any questions about this Privacy Notice, please write to us by mail 
 We may update this Privacy Notice from time to time. Please check the “Effective Date” at the top of this page to see when this Privacy Notice was last revised. Unless otherwise noted, any changes we make to this Privacy Notice will become effective immediately once posted on this page. Your continued use of the Services following any changes to this Privacy Notice indicates your consent to the practices described in the revised Privacy Notice. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.  
 
 
- **[Prior Version](https://www.emerson.com/documents/corporate/156040.pdf)**
-
-Please enable JavaScript to use this website. 
+ **[Prior Version](https://www.emerson.com/documents/corporate/privacy-policy-emerson-prior-version-en-us-156040.pdf)**
