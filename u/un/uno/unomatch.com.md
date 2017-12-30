@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630120337id_/http%3A//unomatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230044928id_/http%3A//unomatch.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Unomatch Shop
+# PRIVACY POLICY – Unomatch
 
 Unomatchshop values our customers and respects their privacy. We collect information about you through our website in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions.
 
@@ -74,5 +74,6 @@ We welcome your input on our privacy policy. If you have any questions or sugges
 
 Unomatchshop  
 ATTN: Privacy  
-13-35 B, Sperber Road, Fair Lawn,  
-New Jersey – 07410, U.S.A.
+0-41 HAMLIN COURT  
+FAIR LAWN NJ 07410.  
+USA.
