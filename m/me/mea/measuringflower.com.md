@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the measuringflower.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203623id_/http%3A//www.measuringflower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuringflower.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230143149id_/http%3A//www.measuringflower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Measuring Flower
 
@@ -20,6 +20,6 @@ Your privacy is important to us, and maintaining your trust and confidence is on
 
 
 
-For more legal mumbo jumbo, please read our [Disclosure Policy](http://www.measuringflower.com/disclosure-policy/) and [Giveaway Terms and Conditions](http://www.measuringflower.com/giveaway-terms/).
+For more legal mumbo jumbo, please read our [Disclosure Policy](https://www.measuringflower.com/disclosure-policy/) and [Giveaway Terms and Conditions](https://www.measuringflower.com/giveaway-terms/).
 
 Copyright © 2012 and Beyond
