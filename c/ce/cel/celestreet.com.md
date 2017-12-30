@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celestreet.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614071255id_/http%3A//celestreet.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celestreet.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230023238id_/http%3A//celestreet.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
