@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxequiz.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519003508id_/http%3A//www.deluxequiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxequiz.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230191811id_/http%3A//www.deluxequiz.com/privacy-policy) for the most accurate reproduction.*
 
 # DeluxeQuiz - Privacy Policy
 
