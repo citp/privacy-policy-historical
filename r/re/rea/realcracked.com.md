@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realcracked.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606144923id_/http%3A//realcracked.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcracked.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230132613id_/http%3A//realcracked.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ ](http://adtrack777.pl/go.php?a_aid=55d45f6bbd72f&fn=Privacy%20Policy)
+[ ](http://dltrack4.pl/go.php?a_aid=55d45f6bbd72f&fn=Privacy%20Policy)
 
 **Privacy Policy How do we protect visitor information?**
 
@@ -62,6 +62,6 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact us using the information below.  
 info@realcracked.com
 
-[ ](http://adtrack777.pl/go.php?a_aid=55d45f6bbd72f&fn=Privacy%20Policy)
+[ ](http://dltrack4.pl/go.php?a_aid=55d45f6bbd72f&fn=Privacy%20Policy)
 
 October 7, 2015 Comments Off on Privacy Policy
