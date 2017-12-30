@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nsauditor.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606152707id_/https%3A//www.nsasoft.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsauditor.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230182505id_/https%3A//www.nsasoft.us/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Nsasoft US
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
