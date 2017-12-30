@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plenti.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111045522id_/https%3A//www.plenti.com/onlineprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plenti.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230042345id_/https%3A//www.plenti.com/onlineprivacystatement) for the most accurate reproduction.*
 
 # Online Privacy Statement | Plenti
 
@@ -220,7 +220,7 @@ If you have questions about our online privacy statement, call us at 1-885-PLENT
 
  **Other Information** \- Plenti internal information (for example, transaction data), external data that financial and consumer companies use to process applications and complete transactions, and other online and offline information we collect from or about you. 
 
-**Personal Information** \- Information that can identify a person, such as name, address, telephone number, and email address. Personal information includes and may also be referred to as Enrollment Information. 
+**Personal Information** \- Information that can identify a person, such as name, address, telephone number, and email address. Personal information includes and may also be referred to as Registration Information. 
 
 **Plenti Partner** \- a company or brand that has an affiliation with Plenti and where Plenti members may earn points and, with certain partners, use points. For a full list of Plenti Partners please click here.
 
