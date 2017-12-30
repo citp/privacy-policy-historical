@@ -1,57 +1,49 @@
-> *The following text is extracted and transformed from the loansable.com privacy policy that was archived on 2016-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160510234724id_/http%3A//loansable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loansable.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230054634id_/http%3A//loansable.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Loan Sable
+# Privacy Policy – Loans Able
 
-Protecting your private information is our priority. This Statement of Privacy applies to the www.loansable.com and Loansable LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Loansable LLC include www.loansable.com and Loansable. The Loansable website is a news and information site. By using the Loansable website, you consent to the data practices described in this statement.
+#### Privacy Policy of Loans Able
 
-**Collection of your Personal Information**
+Your privacy is critically important to us. At Loans Able, we have a few fundamental principles:
 
-We do not collect personally identifiable information from our users. We may gather personal or non-personal information in the future.
+We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)  
+We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.  
+We don’t store personal information on our servers unless required for the ongoing operation of one of our services.  
+In our blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.  
+Below is our privacy policy, which incorporates these goals.
 
-Information about your computer hardware and software may be automatically collected by Loansable. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Loansable website.
+If you have questions about deleting or correcting your personal data please contact us.
 
-Loansable encourages you to review the privacy statements of websites you choose to link to from Loansable so that you can understand how those websites collect, use and share your information. Loansable is not responsible for the privacy statements or other content on websites outside of the Loansable website.
+Website Visitors
 
-**Use of Cookies**
+Like most website operators, Loans Able collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Loans Able’s purpose in collecting non-personally identifying information is to better understand how Loans Able’s visitors use its website. From time to time, Loans Able may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-The Loansable website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Loans Able also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Loans Able only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Loansable pages, or register with Loansable site or services, a cookie helps Loansable to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Loansable website, the information you previously provided can be retrieved, so you can easily use the Loansable features that you customized.
+Gathering of Personally-Identifying Information
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Loansable services or websites you visit.
+Certain visitors to Loans Able’s websites choose to interact with Loans Able in ways that require Loans Able to gather personally-identifying information. The amount and type of information that Loans Able gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at WordPress.com to provide a username and email address. Those who engage in transactions with Loans Able – by purchasing access to the Akismet comment spam prevention service, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Loans Able collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Loans Able. Loans Able does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-**Security of your Personal Information**
+Aggregated Statistics
 
-Loansable secures your personal information from unauthorized access, use or disclosure.
+Loans Able may collect statistics about the behavior of visitors to its websites. For instance, Loans Able may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Loans Able may display this information publicly or provide it to others. However, Loans Able does not disclose personally-identifying information other than as described below.
 
-**Children Under Thirteen**
+Protection of Certain Personally-Identifying Information
 
-Loansable does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+Loans Able discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Loans Able’s behalf or to provide services available at Loans Able’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Loans Able’s websites, you consent to the transfer of such information to them. Loans Able will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Loans Able discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Loans Able believes in good faith that disclosure is reasonably necessary to protect the property or rights of Loans Able, third parties or the public at large. If you are a registered user of an Loans Able website and have supplied your email address, Loans Able may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Loans Able and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Loans Able takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-**Opt-Out & Unsubscribe**
+Cookies
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Loansable by contacting us here:
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Loans Able uses cookies to help Loans Able identify and track visitors, their usage of Loans Able website, and their website access preferences. Loans Able visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Loans Able’s websites, with the drawback that certain features of Loans Able’s websites may not function properly without the aid of cookies.
 
-– Web page: www.loansable.com
+Business Transfers
 
-– Email: optout@loansable.com
+If Loans Able, or substantially all of its assets, were acquired, or in the unlikely event that Loans Able goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Loans Able may continue to use your personal information as set forth in this policy.
 
-**Changes to this Statement**
+Ads
 
-Loansable will occasionally update this Statement of Privacy to reflect company and customer feedback. Loansable encourages you to periodically review this Statement to be informed of how Loansable is protecting your information.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Loans Able and does not cover the use of cookies by any advertisers.
 
-**Contact Information**
+Comments
 
-Loansable welcomes your questions or comments regarding this Statement of Privacy. If you believe that Loansable has not adhered to this Statement, please contact Loansable at:
-
-Loansable LLC
-
-1395 Brickell Ave. Suite 261
-
-Miami, Florida 33131
-
-Email Address:
-
-info@loansable.com
-
-Effective as of Apr 26, 2016
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives or missed spam, in which case we store them long enough to use them to improve the service to avoid future false positives and missed spam.
