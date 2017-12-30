@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628213308id_/https%3A//www.factual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factual.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022321id_/http%3A//factual.com/privacy) for the most accurate reproduction.*
 
 # Factual | Privacy Policy
 
@@ -43,14 +43,18 @@ Factual’s Services help application developers, publishers, advertisers, marke
 
 
 
-Factual may also work with third parties, such as brands, advertising agencies, media platforms and publishers (such as app developers), and other advertising platforms to improve their own services. The above list is not exhaustive, but it is intended to provide illustrative examples of how Factual uses the Device Data it collects and receives. Factual may retain the Device Data: 
+Factual may also work with third parties, such as brands, advertising agencies, media platforms and publishers (such as app developers), and other advertising platforms to improve their own services. The above list is not exhaustive, but it is intended to provide illustrative examples of how Factual uses the Device Data it collects and receives. 
 
-  * for interest-based advertising, ad delivery, and reporting purposes for approximately 24 months; 
-  * for other business purposes (such as technical developments) for such period as Factual considers reasonably necessary. After this Factual will delete or de-identify the Device Data. 
+Factual provides Customers with standard segments based on health-related interests or information, to deliver interest-based advertisements and for other purposes; these segments are based on data that is not considered sensitive under the Network Advertising Initiative Codes of Conduct. For a complete list of such non-sensitive health segments, please click [here](https://web.archive.org/privacy/health-segments). 
+
+Factual may retain the Device Data: 
+
+  * as needed for interest-based advertising, ad delivery, and reporting purposes for up to approximately 24 months after Factual's last observation of the device identifier; 
+  * for other business purposes (such as technical developments) for such period as Factual considers reasonably necessary. 
 
 
 
-Factual may retain Device Data beyond these time periods as required by law. 
+After this Factual will delete or de-identify the Device Data. However, Factual may retain Device Data beyond these time periods as required by law. 
 
 * ## How Factual Discloses Information Through the Services
 
@@ -102,7 +106,7 @@ Factual may collect information about Customers, Consumers, and others using oth
 
 For Users who provide Factual with an email address, Factual may use such email addresses for administrative communications such as marketing, notifying Users of major Site and Services updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact Users regarding any content that they have posted to or downloaded from the Site or Services. If you do not want to receive promotional emails, please follow the unsubscribe instructions within the email. 
 
-To review or update your contact or billing information maintained by Factual, you can contact us via our [contact form](https://www.factual.com/contact#customer_support). 
+To review or update your contact or billing information maintained by Factual, you can contact us via our [contact form](https://www.factual.com/contact/support). 
 
 Factual’s server logs also automatically collect User information such as Users’ IP addresses, pages Users access, browser type and language, and the date and time of visits, which helps Factual track use of the Site and understand trends. 
 
@@ -138,7 +142,7 @@ Factual uses reasonable physical, managerial, and technical safeguards to preser
 
 * ## Children's Privacy
 
-Factual does not knowingly collect personal information from children under 13 years old or from websites or online services directed to children under 13 years old. Users should not create Factual accounts unless they are legally old enough to form a binding contract and in any case are 13 years of age or older. In the unlikely event that you are the parent or legal guardian of a child under 13 who has registered with the Site or Services, please [contact Factual](https://www.factual.com/contact#privacy) to have your child's personal information deleted. 
+Factual does not knowingly collect personal information from children under 13 years old or from websites or online services directed to children under 13 years old. Users should not create Factual accounts unless they are legally old enough to form a binding contract and in any case are 13 years of age or older. In the unlikely event that you are the parent or legal guardian of a child under 13 who has registered with the Site or Services, please [contact Factual](https://www.factual.com/contact/support) to have your child's personal information deleted. 
 
 * ## International Visitors
 
