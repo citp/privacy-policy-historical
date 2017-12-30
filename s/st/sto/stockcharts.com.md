@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081912id_/https%3A//stockcharts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockcharts.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065737id_/http%3A//stockcharts.com/docs/doku.php%3Fid%3Dpolicies%3Aprivacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement [Documentation]
 
@@ -65,11 +65,13 @@ We use a persistent cookie (among other things) to ensure that our public list v
 
 If you reject the use of cookies, you will not be able to access the paid areas of StockCharts.com however you will still be able to use the free areas of the web site. 
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. Other sites accessible through StockCharts.com have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. We are not responsible for the policies or practices of third parties. Additionally, other third-party companies which place advertising on our site may collect information about you when you view or click on their advertising through the use of their cookies or other tracking technologies, which may include delivering targeted advertisements and marketing messages based upon the third party websites that you visit, or other purposes. We cannot control this collection of information and are not responsible for the privacy policies and data collection, use and disclosure practices of these third party advertisers. You should contact these third party advertisers directly if you have any questions about their use of the information that they collect from you. Google/DoubleClick DFP is our third party ad server. If you would like to know more about their information gathering practices and ["opt-out"](http://optout.networkadvertising.org/#!/ "http://optout.networkadvertising.org/#!/") procedures, [click here](http://www.google.com/policies/technologies/ads/ "http://www.google.com/policies/technologies/ads/"). 
+
+Also, if you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp "http://www.networkadvertising.org/consumer/opt_out.asp"). 
 
 ### Third Party Advertisers
 
-The ads appearing on this web site are delivered to the users by Google AdSense, our web advertising partner. Information about the users' visit to this site, such as number of times they have viewed an ad (but not personal information like user name and password) is used to serve ads to users on this site. For more information about Google AdSense's privacy policy, [click here](https://support.google.com/adsense/answer/23921 "https://support.google.com/adsense/answer/23921"). 
+The ads appearing on this web site are delivered to the users by InvestingChannel, Inc., our web advertising partner. Data collected about the users' visit to this site, such as number of times they have viewed an ad (but not personal information like user name and password) is used to serve ads to users on this site, and may be collected and used for the purpose of Interest-Based Advertising. Data collected and transferred to third-parties may be used for the purpose of ad targeting and delivery optimization. For more information about InvestingChannel's privacy policy, [click here](http://investingchannel.com/policy "http://investingchannel.com/policy"). 
 
 This privacy statement covers the use of cookies by StockCharts.com only and does not cover the use of cookies by any other advertisers. 
 
@@ -155,7 +157,7 @@ Technical safeguards (including, but not limited to, dedicated firewall computer
 
 ## Updating Personal Information
 
-We provide a way for users to update their personally identifiable information on our web site. Newsletter subscribers can change their email address on this page. Paying members can update their information using the ”[Your Account](https://stockcharts.com/youraccount "https://stockcharts.com/youraccount")” link in the upper right corner of any page. Alternately, users can send email to [support@stockcharts.com](mailto:support@stockcharts.com "support@stockcharts.com"). 
+We provide a way for users to update their personally identifiable information on our web site. Newsletter subscribers can change their email address on this page. Paying members can update their information using the ”[Your Account](https://stockcharts.com/youracct "https://stockcharts.com/youracct")” link in the upper right corner of any page. Alternately, users can send email to [support@stockcharts.com](mailto:support@stockcharts.com "support@stockcharts.com"). 
 
 ## Notification of Changes
 
