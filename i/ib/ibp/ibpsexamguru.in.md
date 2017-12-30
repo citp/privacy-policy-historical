@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ibpsexamguru.in privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620054632id_/http%3A//www.ibpsexamguru.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexamguru.in privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230140239id_/http%3A//www.ibpsexamguru.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ IBPSExamGuru | ibps bankers Guru Adda Clerk PO
+# Privacy Policy | IBPSExamGuru | ibps bankers Guru Adda Clerk PO
 
-IBPSEXAMGURU.in (IBPSEXAMGURU) Online Properties of the  “Gajendran Megajolla “ 
+IBPSEXAMGURU.in (IBPSEXAMGURU) Online Properties of the  “JENISYS SYSTEMS PVT LTD “ 
 
 IBPSEXAMGURU  respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users IBPSEXAMGURU  offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about IBPSEXAMGURU . 
 
@@ -24,9 +24,12 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Any questions or clarifications with respect to this Policy can be sent to IBPSEXAMGURU  at:
 
-Gajendran Megajolla     
+  
+gaja@jenisys.in  or by send mail addressed to
 
-D.bo 18-1-736/A1, 7th Line 
+Jenisys Systems private Limited
+
+D.bo 18-1-734/A1, Brindhavan House
 
 Bhavani Nagar, Tirupati 517501
 
