@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 60minutereseller.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302201736id_/http%3A//60minutereseller.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 60minutereseller.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230142922id_/http%3A//60minutereseller.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
