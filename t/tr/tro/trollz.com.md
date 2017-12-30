@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trollz.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627175824id_/http%3A//www.dhxmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollz.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230170002id_/http%3A//www.dhxmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DHX Media
 
@@ -71,7 +71,7 @@ to the friend or family member in connection with such a message. _More_
 (a) **_Use of Information By Us_**
 
 We use your Personal Information, Demographic Information and Usage Information for a variety of purposes detailed   
-in this Section.  _More_
+in this Section. _More_
 
 (b) **_Use of Information For Recruitment Purposes_**
 
