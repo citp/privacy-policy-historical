@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secure.hostgator.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630174035id_/http%3A//www.hostgator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secure.hostgator.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230162049id_/http%3A//www.hostgator.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HostGator
 
