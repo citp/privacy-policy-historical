@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630054744id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibes2lyrics.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230185030id_/http%3A//vibes2lyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIBES2LYRICS.COM NIGERIA
-
-**AD:-** **Promote Your Music On This Website For A Token[Click Here](http://goo.gl/hPZBao) For More Info. Tell/WhatsApp:- 08021253418; BBM PIN:D8BC5131**  
-**Join Our BBM Channel For Hot Updates, PIN:**[ **C004AD282**](http://pin.bbm.com/C004AD282)
 
 ## Personal Information
 
@@ -39,25 +36,6 @@
   * You may, of course, decline to submit personal information through VIBES2LYRICS VIDEOS, in which case you can still view videos and explore VIBES2LYRICS VIDEOS, but VIBES2LYRICS VIDEOS may not be able to provide certain services to you. Some advanced VIBES2LYRICS VIDEOS features may use other services like YOUTUBE VIDEOS, Checkout or AdSense. The privacy notices of those services govern the use of your personal information associated with them.
 
 
-
-[](http://pofela.com/)
-
-[](https://goo.gl/nDOua9)
-
-  * About
-  * Latest Posts
-
-
-
-[](http://vibes2lyrics.com/ "krimdelakrym")
-
-### [krimdelakrym](http://vibes2lyrics.com/)
-
-Tipped To Be The Next Bill-Gates!!!. WebSite Developer, Software Programmer and Blogger. Graduate Of Construction Technology and Brain Behind VIBES2LYRICS.COM + many other regular website you use everyday.
-
-[](http://vibes2lyrics.com/ "krimdelakrym")
-
-#### Latest posts by krimdelakrym ([see all](http://vibes2lyrics.com/author/krimdelakrym/))
 
 ### Comments
 
