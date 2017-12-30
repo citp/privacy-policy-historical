@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the celebflix.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214238id_/http%3A//www.celebflix.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebflix.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230190649id_/http%3A//www.celebflix.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Celebflix.com, a site operated by Nautell Capital Limited, and related services (hereafter the “Site”). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
+This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of Celebflix.com, a site operated by Nautell Capital Limited, and related services (hereafter the �Site�). CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT USE THIS SITE OR THE SERVICES PROVIDED BY THIS SITE.
 
@@ -26,9 +26,9 @@ The Site is not responsible or liable for the use of any information that a Memb
 
 By your acts of signing up as a subscriber to the Site, accepting the Terms and Conditions of the Site and affirmatively consenting to accept emails from this Site, you are agreeing to all of the following: (1) that Site has your permission to collect your email address and all personal information you supply relating to that email address; (2) that Site has your permission to disclose and transfer your email address and all other personal information you supply to its parent companies, affiliated and related companies, affiliates, agents and service providers to promote and/or provide goods and services.
 
-**"OPT-OUT" – REVOCATION OF CONSENT PROCEDURE**
+**"OPT-OUT" � REVOCATION OF CONSENT PROCEDURE**
 
-The Site also offers all Members and Users a procedure for “Opting-Out” if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail from the email address you wish to opt out to "cs@webaffair.com" clearly stating the email address in the body of the email and that the Member or User has revoked or withdrawn consent to receive any future Offers from Site to such email address.
+The Site also offers all Members and Users a procedure for �Opting-Out� if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail from the email address you wish to opt out to "cs@webaffair.com" clearly stating the email address in the body of the email and that the Member or User has revoked or withdrawn consent to receive any future Offers from Site to such email address.
 
 **DISCLOSURE**
 
