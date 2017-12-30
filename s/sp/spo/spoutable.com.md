@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spoutable.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182603id_/http%3A//spoutable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoutable.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230103700id_/http%3A//spoutable.com/privacy) for the most accurate reproduction.*
 
 # Spoutable Privacy Policy
 
 Our privacy policy is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your personal information with care and respect. As such, we have created and implemented this privacy policy to inform visitors to the Spoutable website and users of the Spoutable features how we collect, protect and use the information we gather.
 
-This website is offered by Spoutable LLC (collectively “we”, “our” or “us”). If you have any questions about this privacy policy, please contact us at: [support@spoutable.com](mailto:upport@spoutable.co).
+This website is offered by Spoutable LLC (collectively “we”, “our” or “us”). If you have any questions about this privacy policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c0c5c5dac7c1f5c6c5dac0c1d4d7d9d09bd6da).
 
 #### 1\. Information Collected
 
@@ -63,7 +63,7 @@ Our service may contain links to other websites that we do not own or operate. T
 
 Updating Your Personal Information
 
-All registered users are able to review, update or correct their personally identifiable information provided during the account registration process by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at info@spoutable.com. You understand and agree we are not able to remove your personally identifiable information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
+All registered users are able to review, update or correct their personally identifiable information provided during the account registration process by changing their "user preferences" in their account. If you choose to opt out entirely, then your account may become deactivated and you will need to re-register should you decide to opt-in again. To delete your account entirely, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You understand and agree we are not able to remove your personally identifiable information from the records of any third party who has been provided with your information in compliance with the use and sharing policy outlined above.
 
 Enforcement
 
@@ -83,6 +83,6 @@ From time to time, we may change this privacy policy to accommodate new technolo
 
 Contact
 
-We regularly review our compliance with this privacy policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@spoutable.com](mailto:info@spoutable.com) or by mail to Spoutable LLC, 1929 Hancock Street, #200, San Diego CA 92037, Attn: Privacy Policy Dept.
+We regularly review our compliance with this privacy policy. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f39a9d959cb380839c868792919f96dd909c9e) or by mail to Spoutable LLC, 1929 Hancock Street, #200, San Diego CA 92037, Attn: Privacy Policy Dept.
 
 Updated April 1, 2017
