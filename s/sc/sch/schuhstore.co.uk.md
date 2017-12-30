@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629131211id_/http%3A//www.schuh.co.uk/help/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230055819id_/http%3A//www.schuh.co.uk/help/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy, Cookie and Security Policy | schuh
 
@@ -20,7 +20,7 @@ To bring us in line with new EU rules regarding cookie usage on websites, we’r
 
 3.4 If you supply your email address without placing an order, we may pass your email to a third party organisation in order to offer you the opportunity to purchase from us. Your email address will not be used for any other purpose and will not be held on file by ourselves or any third parties after the reason for collecting it has lapsed.
 
-3.5 Should you wish to stop receiving emails from schuh, you can unsubscribe using the 'unsubscribe' link at the bottom of the emails, by changing your update preferences in the 'My Details' section of 'My Account' at www.schuh.co.uk, or by emailing us at [whatsnew@schuh.co.uk](mailto:whatsnew@schuh.co.uk) with your unsubscribe request. 
+3.5 Should you wish to stop receiving emails from schuh, you can unsubscribe using the 'unsubscribe' link at the bottom of the emails, by changing your update preferences in the 'My Details' section of 'My Account' at www.schuh.co.uk, or by emailing us at [whatsnew@schuh.co.uk](mailto:whatsnew@schuh.co.uk) with your unsubscribe request.
 
 4.1 We will not sell or pass your details to third party organisations except to offer you the opportunity to purchase from us, to fulfil delivery of the goods to you and for the purpose of processing your offer to purchase the goods.
 
@@ -31,13 +31,13 @@ To bring us in line with new EU rules regarding cookie usage on websites, we’r
 6.2 Cookies are essential to using the schuh website, as they gather information on the type of platform you’re using to view our website e.g. Windows, IPhone, PS3. We use this information to optimise our website for your particular platform, so that you have the best experience no matter which platform you use. Below are some examples of how we use cookies to do this:
 
   * To gather information which allows us to identify your platform and record sales so we may improve customer experience and identify issues on the site.
-  * To ensure you are provided with correct and useful information during your visit to our site. 
-  * To allow you to add items to the basket and proceed through our checkout. 
+  * To ensure you are provided with correct and useful information during your visit to our site.
+  * To allow you to add items to the basket and proceed through our checkout.
   * To collect data which allows us to improve our services based on purchases and site usage.
 
 
 
-6.3 There are three different categories these cookies are split into: 
+6.3 There are three different categories these cookies are split into:
 
   * Essential to Site function cookies – these cookies allow you to browse the site, search for products and add items to the basket.
   * Helpful, non intrusive cookies – these help improve your experience on the site, for example by recognising your location therefore displaying appropriate delivery options in a banner, and reminding you of your recently viewed items.
@@ -86,25 +86,25 @@ Criteo | Displays Schuh products similar to those customers have recently viewed
   
 6.5 You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/) or you can [email us](mailto:help@schuh.co.uk?subject=I%27d%20like%20more%20info%20on%20cookies) your questions and we'll be happy to help!
 
-**7.1 Live help video & chat engagement system – what does it do?**
+ **7.1 Live help video & chat engagement system – what does it do?**
 
 Vee24 is a leading provider of video engagement technology that facilitates real-time sales and customer services for companies doing business on the Internet.
 
-**7.2 What information do we collect from you whilst using the Vee24 system?**
+ **7.2 What information do we collect from you whilst using the Vee24 system?**
 
-During the engagement, you enter into a live question and answer session with a schuh operator either by text chat or live video call where we share the webpage. We maintain dialogue transcripts of these chats. After the chat, we will ask you to fill out an exit survey in order to obtain valuable feedback about the levels of our service. Filling out the exit survey is completely voluntary. Moreover, all personal data is only collected if you voluntarily supply it, e.g. when completing a contact us form. If during the live engagement you choose to enter personal or business data (email addresses, names, addresses), the disclosure of such data is done so by you on a voluntary basis. Such information is not passed to any third parties or used for any other purpose(s) than that/those requested by you. We log browser information (e.g. Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site. By choosing to engage in a chat or video call and use the services, you consent to such logging and processing of IP address. 
+During the engagement, you enter into a live question and answer session with a schuh operator either by text chat or live video call where we share the webpage. We maintain dialogue transcripts of these chats. After the chat, we will ask you to fill out an exit survey in order to obtain valuable feedback about the levels of our service. Filling out the exit survey is completely voluntary. Moreover, all personal data is only collected if you voluntarily supply it, e.g. when completing a contact us form. If during the live engagement you choose to enter personal or business data (email addresses, names, addresses), the disclosure of such data is done so by you on a voluntary basis. Such information is not passed to any third parties or used for any other purpose(s) than that/those requested by you. We log browser information (e.g. Internet Protocol addresses and browser types) to help diagnose problems with our server, gather broad demographic information and administer our site. By choosing to engage in a chat or video call and use the services, you consent to such logging and processing of IP address.
 
-**7.3 How do we use information collected from you and do we disclose such information to outside parties?**
+ **7.3 How do we use information collected from you and do we disclose such information to outside parties?**
 
-We access the information we collect for certain purposes (for example, to aggregate the information, to monitor the use of the service during certain engagements and for other lawful purposes). All schuh customer information, including personally identifiable information, will not be shared with anyone. We do not sell trade or rent the personal information that our customers provide. 
+We access the information we collect for certain purposes (for example, to aggregate the information, to monitor the use of the service during certain engagements and for other lawful purposes). All schuh customer information, including personally identifiable information, will not be shared with anyone. We do not sell trade or rent the personal information that our customers provide.
 
-**7.4 Browsing with Live Assistance**
+ **7.4 Browsing with Live Assistance**
 
-We aim to offer you the best possible help and advice in the context of your visit to our page. As part of the live engagement you have the option to choose (by pressing the appropriate buttons) different communication channels. If you have chosen an engagement via voice or video communications, a recording of that communication does not take place at any time and therefore no video or voice data is either captured or stored. You have the option at any time to terminate the conversation by pressing the appropriate button. 
+We aim to offer you the best possible help and advice in the context of your visit to our page. As part of the live engagement you have the option to choose (by pressing the appropriate buttons) different communication channels. If you have chosen an engagement via voice or video communications, a recording of that communication does not take place at any time and therefore no video or voice data is either captured or stored. You have the option at any time to terminate the conversation by pressing the appropriate button.
 
-**7.5 Opt-Out Policy**
+ **7.5 Opt-Out Policy**
 
-The Vee24 system gives users options wherever necessary and practical. Such choices include opting not to engage in video call or chat sessions. 
+The Vee24 system gives users options wherever necessary and practical. Such choices include opting not to engage in video call or chat sessions.
 
 8.1 The security of your transaction is important to us and to prevent any details being seen by unauthorised persons it is protected throughout the payment process. To do this we use a secure server to encrypt the information before it is sent to the payments processor.
 
