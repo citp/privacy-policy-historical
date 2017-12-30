@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the justjared.com privacy policy that was archived on 2017-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170628082310id_/http%3A//www.justjared.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the justjared.com privacy policy that was archived on 2017-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171230070252id_/http%3A//www.justjared.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -50,7 +50,7 @@ var trackOutboundLink = function(url) {
 <!-- Comscore JJRY -->
 <script type="text/javascript">
     var _comscore = _comscore || [];
-    var _comscoreId = "24843601";
+    var _comscoreId = "5859724";
     _comscore.push({ c1: "2", c2: _comscoreId });
     (function() {
         var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
@@ -64,6 +64,7 @@ var trackOutboundLink = function(url) {
         COMSCORE.purge();
     }
 </script>
+<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=5859724&cv=2.0&cj=1" /></noscript>
 <!-- END Comscore JJRY -->
 
 <!-- Quantcast Tag, part 1 --> 
@@ -111,9 +112,14 @@ var trackOutboundLink = function(url) {
 <script type="text/javascript" src="http://www.justjared.com/wp-content/themes/default/js/jquery.mobile.custom.swipe.min.js"></script>
 <script type="text/javascript" src="http://www.justjared.com/wp-content/themes/default/js/jj-mobile.js"></script>
 <script type="text/javascript" src="http://www.justjared.com/wp-content/themes/default/target.js"></script>
-<!--
-	_generated in 0.378 seconds
-	56714 bytes batcached for 300 seconds
+    
+                <script>
+                    window.rockyou_isMobile = false;
+                </script>
+                <script type="text/javascript" src="//ryprebid-a.akamaihd.net/HeaderBidding/PROD/justjared/justjared/prebid_justjared.js"></script>
+            <!--
+	_generated in 0.256 seconds
+	55516 bytes batcached for 300 seconds
   key:656fa4626d8f8ace67d3399ac2f57db0
 -->
 <script async="" type="text/javascript" src="//justjared.disqus.com/count.js"></script></head>
@@ -135,13 +141,8 @@ if (typeof ord=='undefined') {ord=Math.floor(Math.random()*10000000000000000);}
 <div class="topads">
 	<!-- header 728x90 Leaderboard JJRY header 0 -->
 	
-          <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-          <script>
-            var googletag = googletag || {};
-            googletag.cmd = googletag.cmd || [];
-          </script>
-          <!-- /51698323/jj_misc_leaderboard -->
-          <div id="div-gpt-ad-1490401333553-9" style="width:728px;margin: auto auto">
+          <!-- /22562447/just_jared/desktop_leaderboard -->
+          <div id="div-gpt-ad-leaderboard-1" style="width:728px; margin: auto auto">
           </div>
         	
             <style>
@@ -168,38 +169,31 @@ if (typeof ord=='undefined') {ord=Math.floor(Math.random()*10000000000000000);}
                     var hideSticky = function() {
                         document.getElementById('47C5C59159').style.display = 'none';
                     };
+                    var showLeaderboard = function() {                        
+                        try{ 
+                            document.getElementById('div-gpt-ad-leaderboard-1').style.height = '90px';
+                        } catch(e) {}
+                        
+                        rockyou_pb_runLeaderboard();
+                    };
                     var hideFloat = function(){
                         var container = document.getElementById('3C43059148');
                         container.style.visibility = 'hidden';
                         container.style.opacity = 0;
-                    }
+                    };
                     var showFloat = function(event){
                         if( event.data.showAd === false ) { return; }
                         var container = document.getElementById('3C43059148');
                         container.style.visibility = 'visible';
                         container.style.opacity = 1;
-                    }
+                    };
 
                     var floater = new RYANCore({placeguid:'3C43059148', containerId:'3C43059148', lib:{autoHide:{} } });
                     var sticky = new RYANCore({placeguid: '47C5C59159', containerId:'47C5C59159', lib: {floater: {} } });
 
-                    function noad() {
-                      
-            try{ 
-                document.getElementById('div-gpt-ad-1490401333553-9').style.height = '90px';
-            } catch(e) {}
-            googletag.cmd.push(function() { 
-                googletag.defineSlot('/51698323/jj_misc_leaderboard', [728,90], 'div-gpt-ad-1490401333553-9').addService(googletag.pubads());
-                googletag.pubads().enableSingleRequest();
-                googletag.pubads().setTargeting('SiteSection', ['jj_misc_leaderboard']);
-                googletag.enableServices();
-                googletag.display('div-gpt-ad-1490401333553-9'); 
-            });
-        
-                      complete();
-                    }
-                    function complete() {
+                    function complete() {                        
                         hideSticky();
+                        showLeaderboard();
                     }
 
                     floater.registerEventListener(RYANCore.PAGE_LOAD, showFloat);
@@ -216,7 +210,7 @@ if (typeof ord=='undefined') {ord=Math.floor(Math.random()*10000000000000000);}
                         document.getElementById('47C5C59159').style.height = '316px';
                     });
                     sticky.registerEventListener(RYANCore.AD_COMPLETE, complete);
-                    sticky.registerEventListener(RYANCore.NO_AD, noad);
+                    sticky.registerEventListener(RYANCore.NO_AD, complete);
                 });
             </script>
             <script src="https://rya-static.rockyou.com/rya/js/RYANCore.cb.js"></script>
@@ -271,33 +265,29 @@ if (typeof ord=='undefined') {ord=Math.floor(Math.random()*10000000000000000);}
 	<div id="hot_stories_slider">
 		<div class="b2_title">Top Stories</div>
 			<div class="b2_scroll">
-				<div class="scrollContainer"><div id="-31434" class="single">
-				<a class="thumbnail" href="http://www.justjared.com/2017/06/27/who-went-home-on-the-bachelorette-2017-six-more-guys-eliminated-in-week-5/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/06/27/who-went-home-on-the-bachelorette-2017-six-more-guys-eliminated-in-week-5/')">
-					<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/headlines/2017/06/the-bachelorette-who-went-home.jpg" width="200" class="pic" alt="Six Guys Sent Home During Tuesday's Special 'The Bachelorette'!">
+				<div class="scrollContainer"><div id="-131415" class="single">
+				<a class="thumbnail" href="http://www.justjared.com/2017/12/29/36-most-shocking-celebrity-breakups-of-2017/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/12/29/36-most-shocking-celebrity-breakups-of-2017/')">
+					<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/headlines/2017/12/most-shocking-splits-of-20172.jpg" width="200" class="pic" alt="36 Most Shocking Celebrity Breakups of 2017">
 				</a>
-			<p class="desc"><a href="http://www.justjared.com/2017/06/27/who-went-home-on-the-bachelorette-2017-six-more-guys-eliminated-in-week-5/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/06/27/who-went-home-on-the-bachelorette-2017-six-more-guys-eliminated-in-week-5/')">Six Guys Sent Home During Tuesday's Special 'The Bachelorette'!</a></p>
-		</div><div id="-194891" class="single">
-				<a class="thumbnail" href="http://www.justjared.com/2017/06/27/kate-beckinsale-boyfriend-matt-rife-flaunt-adorable-pda-after-movie-date/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/06/27/kate-beckinsale-boyfriend-matt-rife-flaunt-adorable-pda-after-movie-date/')">
-					<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/headlines/2017/06/kate-beckinsale-boyfriend-matt-rife-flaunt-adorable-pda.jpg" width="200" class="pic" alt="Kate Beckinsale &amp;amp; Boyfriend Matt Rife Flaunt Adorable PDA After Movie Date">
+			<p class="desc"><a href="http://www.justjared.com/2017/12/29/36-most-shocking-celebrity-breakups-of-2017/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/12/29/36-most-shocking-celebrity-breakups-of-2017/')">36 Most Shocking Celebrity Breakups of 2017</a></p>
+		</div><div id="-263491" class="single">
+				<a class="thumbnail" href="http://www.justjared.com/2017/12/29/peta-calls-out-luke-bryan-for-gifting-wife-caroline-with-two-kangaroos-right-this-wrong/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/12/29/peta-calls-out-luke-bryan-for-gifting-wife-caroline-with-two-kangaroos-right-this-wrong/')">
+					<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/headlines/2017/12/luke-kan.jpg" width="200" class="pic" alt="PETA Calls Out Luke Bryan for Gifting Wife Caroline With Two Kangaroos">
 				</a>
-			<p class="desc"><a href="http://www.justjared.com/2017/06/27/kate-beckinsale-boyfriend-matt-rife-flaunt-adorable-pda-after-movie-date/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/06/27/kate-beckinsale-boyfriend-matt-rife-flaunt-adorable-pda-after-movie-date/')">Kate Beckinsale &amp; Boyfriend Matt Rife Flaunt Adorable PDA After Movie Date</a></p>
-		</div><div id="-215331" class="single">
-				<a class="thumbnail" href="http://www.justjared.com/2017/06/27/chris-pratt-goes-shirtless-in-hawaii-wears-athletic-tape-on-his-muscles/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/06/27/chris-pratt-goes-shirtless-in-hawaii-wears-athletic-tape-on-his-muscles/')">
-					<img src="http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2017/06/chris-pratt-goes-shirtless-in-hawaii-athletic-tape2.jpg" width="200" class="pic" alt="Chris Pratt Goes Shirtless in Hawaii, Wears Athletic Tape on His Muscles!">
+			<p class="desc"><a href="http://www.justjared.com/2017/12/29/peta-calls-out-luke-bryan-for-gifting-wife-caroline-with-two-kangaroos-right-this-wrong/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/12/29/peta-calls-out-luke-bryan-for-gifting-wife-caroline-with-two-kangaroos-right-this-wrong/')">PETA Calls Out Luke Bryan for Gifting Wife Caroline With Two Kangaroos</a></p>
+		</div><div id="-281897" class="single">
+				<a class="thumbnail" href="http://www.justjared.com/2017/12/28/celebs-slam-donald-trump-for-global-warming-tweet/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/12/28/celebs-slam-donald-trump-for-global-warming-tweet/')">
+					<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/headlines/2017/12/celebs-slam-donald-trump-for-his-global-warming-tweet.jpg" width="200" class="pic" alt="Celebs Slam Donald Trump for His Global Warming Tweet">
 				</a>
-			<p class="desc"><a href="http://www.justjared.com/2017/06/27/chris-pratt-goes-shirtless-in-hawaii-wears-athletic-tape-on-his-muscles/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/06/27/chris-pratt-goes-shirtless-in-hawaii-wears-athletic-tape-on-his-muscles/')">Chris Pratt Goes Shirtless in Hawaii, Wears Athletic Tape on His Muscles!</a></p>
-		</div><div id="-130901" class="single">
-				<a class="thumbnail" href="http://www.tmz.com/2017/06/27/bachelor-in-paradise-reboot-2-drink-maximum-per-hour/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.tmz.com/2017/06/27/bachelor-in-paradise-reboot-2-drink-maximum-per-hour/')">
-					<img src="http://cdn02.cdn.justjared.com/wp-content/uploads/headlines/2017/06/bachelor-in-paradise-producer.jpg" width="200" class="pic" alt="'Bachelor in Paradise' Is Now Enforcing a Drink Limit">
+			<p class="desc"><a href="http://www.justjared.com/2017/12/28/celebs-slam-donald-trump-for-global-warming-tweet/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.justjared.com/2017/12/28/celebs-slam-donald-trump-for-global-warming-tweet/')">Celebs Slam Donald Trump for His Global Warming Tweet</a></p>
+		</div><div id="-299710" class="single">
+				<a class="thumbnail" href="http://www.tmz.com/2017/12/29/sam-smith-boyfriend-brandon-flynn-hold-hands-together-couple/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.tmz.com/2017/12/29/sam-smith-boyfriend-brandon-flynn-hold-hands-together-couple/')">
+					<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/headlines/2017/10/sam-brandon-main.jpg" width="200" class="pic" alt="New PDA Photos of Sam Smith &amp;amp; Brandon Flynn Revealed!">
 				</a>
-			<p class="desc"><a href="http://www.tmz.com/2017/06/27/bachelor-in-paradise-reboot-2-drink-maximum-per-hour/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.tmz.com/2017/06/27/bachelor-in-paradise-reboot-2-drink-maximum-per-hour/')">'Bachelor in Paradise' Is Now Enforcing a Drink Limit</a></p>
+			<p class="desc"><a href="http://www.tmz.com/2017/12/29/sam-smith-boyfriend-brandon-flynn-hold-hands-together-couple/" target="_blank" onclick="ga('send', 'event', 'Outgoing Links', '/topposts/http://www.tmz.com/2017/12/29/sam-smith-boyfriend-brandon-flynn-hold-hands-together-couple/')">New PDA Photos of Sam Smith &amp; Brandon Flynn Revealed!</a></p>
 		</div></div>
 			</div>	
-				</div>	<div class="wp_bannerize ">
-<div><a href="http://rawpages.com/dylan-minnette-kerris-dorsey-interview/" target="_blank">
-<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/spotlight/dylan-banner.jpg" alt="" width="920" height="100">
-</a>
-</div></div>	<div id="content">
+				</div>		<div id="content">
 
     		<div class="post" id="post-840144">
 		<h1>Privacy Policy And Consumer Education</h1>
@@ -357,10 +347,8 @@ If you have any questions about this Privacy Policy, please contact us at suppor
 									
 					 				
 
-				<div id="nokidspolicy" style="margin-bottom: 10px;">
-				 <a href="http://rawpages.com/dylan-minnette-kerris-dorsey-interview/"><img src="http://cdn02.cdn.justjared.com/wp-content/uploads/spotlight/dylan-minnette-raw-promo.jpg" alt="RAW PAGES"></a>
-				</div>
-				<div class="clear"></div>
+<!-- Raw Promo here -->
+<!-- Raw promo end -->
 
 			
 			<div class="partnerposts jrpartner">			
@@ -368,11 +356,11 @@ If you have any questions about this Privacy Policy, please contact us at suppor
 					
 			<ol>
 											<li>
-						<div class="partnerimg"><a href="http://www.justjaredjr.com/2017/06/28/jennifer-lawrence-goes-for-a-morning-hike-with-her-pup-pippi/" title="Jennifer Lawrence Goes for a Morning Hike with Her Pup Pippi!" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank"><img src="http://cdn02.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/06/jennifer-lawrence-starts-her-morning-off-with-a-hike.jpg" style="border:0;" alt="Jennifer Lawrence Goes for a Morning Hike with Her Pup Pippi!"></a></div><div class="partnertitle"><a href="http://www.justjaredjr.com/2017/06/28/jennifer-lawrence-goes-for-a-morning-hike-with-her-pup-pippi/" title="Jennifer Lawrence Goes for a Morning Hike with Her Pup Pippi!" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank">Jennifer Lawrence Goes for a Morning Hike with Her Pup...</a></div><div class="partnertext">Jennifer Lawrence takes her cute pup Pippi Lawrence-Stocking for a hike on Tuesday afternoon (June...</div>						</li>
+						<div class="partnerimg"><a href="http://www.justjaredjr.com/2017/12/29/this-beauty-the-beast-movie-theory-might-solve-that-one-plot-hole-that-keeps-you-up-at-night/" title="This 'Beauty &amp; The Beast' Movie Theory Might Solve That One Plot Hole That Keeps You Up At Night" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank"><img src="http://cdn02.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/12/batb-movie-theory-spell.jpg" style="border:0;" alt="This 'Beauty &amp; The Beast' Movie Theory Might Solve That One Plot Hole That Keeps You Up At Night"></a></div><div class="partnertitle"><a href="http://www.justjaredjr.com/2017/12/29/this-beauty-the-beast-movie-theory-might-solve-that-one-plot-hole-that-keeps-you-up-at-night/" title="This 'Beauty &amp; The Beast' Movie Theory Might Solve That One Plot Hole That Keeps You Up At Night" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank">This 'Beauty &amp; The Beast' Movie Theory Might Solve That One...</a></div><div class="partnertext">One of our favorite movies of 2017 was Beauty and the Beast, hands down. We thought we knew...</div>						</li>
 												<li>
-						<div class="partnerimg"><a href="http://www.justjaredjr.com/2017/06/27/emison-have-twins-and-get-engaged-in-pretty-little-liars-series-finale/" title="These #Emison Spoilers Have 'PLL' Fans Freaking Out!" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank"><img src="http://cdn01.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/06/these-emison-spoilers-have-fans-freaking-out.jpg" style="border:0;" alt="These #Emison Spoilers Have 'PLL' Fans Freaking Out!"></a></div><div class="partnertitle"><a href="http://www.justjaredjr.com/2017/06/27/emison-have-twins-and-get-engaged-in-pretty-little-liars-series-finale/" title="These #Emison Spoilers Have 'PLL' Fans Freaking Out!" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank">These #Emison Spoilers Have 'PLL' Fans Freaking Out!</a></div><div class="partnertext">SPOILER ALERT! DO NOT CONTINUE IF YOU DON’T WANT TO KNOW WHAT HAPPENED! The series finale of...</div>						</li>
+						<div class="partnerimg"><a href="http://www.justjaredjr.com/2017/12/29/lauren-jauregui-shows-off-her-curves-in-sultry-mirror-pic/" title="Lauren Jauregui Shows Off Her Curves in Sultry Mirror Pic" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank"><img src="http://cdn03.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/12/lauren-jauregui-shows-off-her-figure-in-red-hot-bathroom-selfie.jpg" style="border:0;" alt="Lauren Jauregui Shows Off Her Curves in Sultry Mirror Pic"></a></div><div class="partnertitle"><a href="http://www.justjaredjr.com/2017/12/29/lauren-jauregui-shows-off-her-curves-in-sultry-mirror-pic/" title="Lauren Jauregui Shows Off Her Curves in Sultry Mirror Pic" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank">Lauren Jauregui Shows Off Her Curves in Sultry Mirror Pic</a></div><div class="partnertext">Lauren Jauregui flaunted her figure in a red-hot bathroom selfie! The Fifth Harmony member posted...</div>						</li>
 												<li>
-						<div class="partnerimg"><a href="http://www.justjaredjr.com/2017/06/27/who-is-emisons-baby-daddy-wren-pretty-little-liars-finale-spoilers/" title="Who is #Emison's Baby Daddy? 'Pretty Little Liars' Finale Spoilers!" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank"><img src="http://cdn04.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/06/who-is-emison-baby-daddy.jpg" style="border:0;" alt="Who is #Emison's Baby Daddy? 'Pretty Little Liars' Finale Spoilers!"></a></div><div class="partnertitle"><a href="http://www.justjaredjr.com/2017/06/27/who-is-emisons-baby-daddy-wren-pretty-little-liars-finale-spoilers/" title="Who is #Emison's Baby Daddy? 'Pretty Little Liars' Finale Spoilers!" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank">Who is #Emison's Baby Daddy? 'Pretty Little Liars' Finale...</a></div><div class="partnertext">SPOILER ALERT! DO NOT CONTINUE IF YOU DON’T WANT TO KNOW WHAT HAPPENED! We finally found out...</div>						</li>
+						<div class="partnerimg"><a href="http://www.justjaredjr.com/2017/12/29/nathan-kress-shares-sweet-pic-tribute-to-wife-london-and-new-baby-rosie/" title="Nathan Kress Shares Sweet Pic &amp; Tribute to Wife London and New Baby Rosie" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank"><img src="http://cdn01.cdn.justjaredjr.com/wp-content/uploads/headlines/2017/12/nathan-london-baby-girl-tribute.jpg" style="border:0;" alt="Nathan Kress Shares Sweet Pic &amp; Tribute to Wife London and New Baby Rosie"></a></div><div class="partnertitle"><a href="http://www.justjaredjr.com/2017/12/29/nathan-kress-shares-sweet-pic-tribute-to-wife-london-and-new-baby-rosie/" title="Nathan Kress Shares Sweet Pic &amp; Tribute to Wife London and New Baby Rosie" class="external" rel="external" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank">Nathan Kress Shares Sweet Pic &amp; Tribute to Wife London and...</a></div><div class="partnertext">Nathan Kress just became a new father this week and already can’t stop sharing pics of his...</div>						</li>
 										</ol>
 				<span class="more"><a href="http://www.justjaredjr.com/" title="Just Jared Jr" onclick="ga('send', 'event', 'Outgoing Links', 'sidebarpartner');" target="_blank" rel="external" class="external">Read more on Just Jared Jr! »</a></span>
 			</div>
@@ -388,17 +376,90 @@ If you have any questions about this Privacy Policy, please contact us at suppor
 							<div class="modulecontent">
 								  <ul class="topfive">
 								    <li>
+								      <a href="/tags/taylor-swift/">
+									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/taylor-swift-square.jpg" alt="Taylor Swift" width="100" height="100">
+									<br>
+									Taylor Swift
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/jamie-dornan/">
+									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/jamie-dornan-square.jpg" alt="Jamie Dornan" width="100" height="100">
+									<br>
+									Jamie Dornan
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/kim-kardashian/">
+									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/kim-kardashian-square.jpg" alt="Kim Kardashian" width="100" height="100">
+									<br>
+									Kim Kardashian
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/beyonce-knowles/">
+									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/beyonce-knowles-square.jpg" alt="Beyonce" width="100" height="100">
+									<br>
+									Beyonce
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/dakota-johnson/">
+									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/dakota-johnson-square.jpg" alt="Dakota Johnson" width="100" height="100">
+									<br>
+									Dakota Johnson
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/leonardo-dicaprio/">
+									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/leonardo-dicaprio-square.jpg" alt="Leonardo DiCaprio" width="100" height="100">
+									<br>
+									Leonardo DiCaprio</a>
+								    </li>
+									<li>
 								      <a href="/tags/angelina-jolie/">
 									<img src="http://cdn02.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/angelina-jolie-square.jpg" alt="Angelina Jolie" width="100" height="100">
 									<br>
 									Angelina Jolie
 								      </a>
 								    </li>
+									<li>
+								      <a href="/tags/sam-heughan/">
+									<img src="http://cdn02.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/sam-heughan-square.jpg" alt="Sam Heughan" width="100" height="100">
+									<br>
+									Sam Heughan
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/kylie-jenner/">
+									<img src="http://cdn02.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/kylie-jenner-square.jpg" alt="Kylie Jenner" width="100" height="100">
+									<br>
+									Kylie Jenner
+								      </a>
+								    </li>
+									<li>
+								      <a href="/tags/gerard-butler/">
+									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/gerard-butler-square.jpg" alt="Gerard Butler" width="100" height="100">
+									<br>Gerard Butler</a>
+								    </li>
+									<li>
+								      <a href="/tags/bikini/">
+									<img src="http://cdn01.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/bikini-celebs-square.jpg" alt="Celebrities in Bikinis" width="100" height="100">
+									<br>
+									Bikini Celebs</a>
+								    </li>									
 								    <li>
 								      <a href="/tags/brad-pitt/">
 									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/brad-pitt-square.jpg" alt="Brad Pitt" width="100" height="100">
 									<br>
 									Brad Pitt
+								      </a>
+								    </li>
+									 <li>
+								      <a href="/tags/rihanna/">
+									<img src="http://cdn01.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/rihanna-square.jpg" alt="Rihanna" width="100" height="100">
+									<br>
+									Rihanna
 								      </a>
 								    </li>
 								    <li>
@@ -407,97 +468,36 @@ If you have any questions about this Privacy Policy, please contact us at suppor
 									<br>
 									Jennifer Lawrence</a>
 								    </li>
-								    <li>
-								      <a href="/tags/miley-cyrus/">
-									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/miley-cyrus-square.jpg" alt="Miley Cyrus" width="100" height="100">
-									<br>
-									Miley Cyrus</a>
-								    </li>
-								    <li>
-								      <a href="/tags/leonardo-dicaprio/">
-									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/leonardo-dicaprio-square.jpg" alt="Leonardo DiCaprio" width="100" height="100">
-									<br>
-									Leonardo DiCaprio</a>
-								    </li>
-								    <li>
-								      <a href="/tags/bikini/">
-									<img src="http://cdn02.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/bikini-square.jpg" alt="Celebrities in Bikinis" width="100" height="100">
-									<br>
-									Bikini Celebs</a>
-								    </li>
-								    <li>
-								      <a href="/tags/jennifer-aniston/">
-									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/jennifer-aniston-square.jpg" alt="Jennifer Aniston" width="100" height="100">
-								      <br>Jennifer Aniston</a>
-								    </li>
-								    <li>
+									<li>
 								      <a href="/tags/kristen-stewart/">
 								      <img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/kristen-stewart-square.jpg" alt="Kristen Stewart" width="100" height="100">
 								      <br>
 								      Kristen Stewart</a>
-								    </li>
-								    <li>
-								      <a href="/tags/kim-kardashian/">
-								      <img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/kim-kardashian-square.jpg" alt="Kim Kardashian" width="100" height="100">
-								      <br>
-								      Kim Kardashian</a>
-								    </li>
-								    <li>
-								      <a href="/tags/zac-efron/">
-									<img src="http://cdn02.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/zac-efron-square.jpg" alt="Zac Efron" width="100" height="100">
-								      <br>Zac Efron</a>
-								    </li>
-								    <li>
-								      <a href="/tags/gerard-butler/">
-									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/gerard-butler-square.jpg" alt="Gerard Butler" width="100" height="100">
-									<br>Gerard Butler</a>
-								    </li>
-								    <li>
-								      <a href="/tags/robert-pattinson/">
-								      <img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/robert-pattinson-square.jpg" alt="Robert Pattinson" width="100" height="100">
-								      <br>
-								      Robert Pattinson</a>
-								    </li>
-								    <li>
-								      <a href="/tags/vanessa-hudgens/">
-									<img src="http://cdn03.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/vanessa-hudgens-square.jpg" alt="Vanessa Hudgens" width="100" height="100">
-								      <br>Vanessa Hudgens</a>
-								    </li>
-								    <li>
-								      <a href="/tags/katie-holmes/">
-									<img src="http://cdn04.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/katie-holmes-square.jpg" alt="Katie Holmes" width="100" height="100">
-								      <br>Katie Holmes</a>
-								    </li>
-								      <li>
-								      <a href="/tags/rihanna/">
-									<img src="http://cdn01.cdn.justjared.com/wp-content/uploads/sidebar/topcelebs/rihanna-square.jpg" alt="Rihanna" width="100" height="100">
-								      <br>Rihanna</a>
-								    </li>
+								    </li>  
 						        </ul>
 							<div class="clear"></div>
 								<div class="more-nav">
 									<form name="topcelebsnav">
 										<select name="menu" onchange="location=document.topcelebsnav.menu.options[document.topcelebsnav.menu.selectedIndex].value;" value="GO">
 											<option value="" selected="">More Top Celebs...</option>
-											<option value="/tags/tom-cruise">Tom Cruise</option>
+											<option value="/tags/kendall-jenner">Kendall Jenner</option>
+											<option value="/tags/justin-bieber">Justin Bieber</option>
+											<option value="/tags/shirtless">Shirtless Celebs</option>
+											<option value="/tags/miley-cyrus">Miley Cyrus</option>
+											<option value="/tags/selena-gomez">Selena Gomez</option>
+											<option value="/tags/blake-lively">Blake Lively</option>
+											<option value="/tags/orlando-bloom">Orlando Bloom</option>
+											<option value="/tags/ben-affleck">Ben Affleck</option>
 											<option value="/tags/jennifer-garner">Jennifer Garner</option>
-											<option value="/tags/shirtless">Shirtless Celebs</option>											
-											<option value="/tags/britney-spears">Britney Spears</option>
-											<option value="/tags/daniel-craig">Daniel Craig</option>
-											<option value="/tags/jake-gyllenhaal">Jake Gyllenhaal</option>
-											<option value="/tags/jude-law">Jude Law</option>
-											<option value="/tags/gwen-stefani">Gwen Stefani</option>
-											<option value="/tags/gwyneth-paltrow">Gwyneth Paltrow</option>
-											<option value="/tags/reese-witherspoon">Reese Witherspoon</option>																						<option value="/tags/sienna-miller">Sienna Miller</option>
-											<option value="/tags/wentworth-miller">Wentworth Miller</option>
+											<option value="/tags/kate-middleton">Kate Middleton</option>
+											<option value="/tags/meghan-markle">Meghan Markle</option>
+											<option value="/tags/robert-pattinson">Robert Pattinson</option>
 										</select>
 									</form>
 							</div>
 						    </div>
-	               </div>
-				  
+	               </div>  		
 	
-	  			
 	<div style="clear: both"></div>
 	</div>
 					
@@ -566,6 +566,8 @@ function getArchiveDate() {
 </div>
 </noscript>
 <div style="clear: both"></div>
+
+
 <div id="footer">
   <div class="partnerfooter">	
             
@@ -574,23 +576,23 @@ function getArchiveDate() {
 			<a href="http://www.tmz.com?utm_source=justjared" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com')" class="external" rel="nofollow" target="_blank">
 				<img src="http://cdn04.cdn.justjared.com/wp-content/themes/default/images/tmz_footer.gif" alt="TMZ" border="0" align="middle"></a></div>
 		  <ol><li>
-				<a href="http://www.tmz.com/2017/06/28/mtv-ridiculousness-star-steelo-brim-3-year-old-relative-drowns-in-pool/?utm_source=justjared" title="Posted 28 June 2017 | 8:00 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com/2017/06/28/mtv-ridiculousness-star-steelo-brim-3-year-old-relative-drowns-in-pool/')" rel="nofollow" target="_blank" class="external">
-		  MTV's 'Ridiculousness' Star Steelo Brim's 3-Year-Old Nephew...</a></li><li>
-				<a href="http://www.tmz.com/2017/06/28/american-idol-ryan-seacrest-lionel-richie-nikki-sixx-katy-perry-judges/?utm_source=justjared" title="Posted 28 June 2017 | 7:50 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com/2017/06/28/american-idol-ryan-seacrest-lionel-richie-nikki-sixx-katy-perry-judges/')" rel="nofollow" target="_blank" class="external">
-		  Ryan Seacrest Secret 'American Idol' Meeting, Lionel Richie...</a></li><li>
-				<a href="http://www.tmz.com/2017/06/28/jerry-west-says-signing-cp3-and-blake-griffin-not-my-responsibility/?utm_source=justjared" title="Posted 28 June 2017 | 7:45 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com/2017/06/28/jerry-west-says-signing-cp3-and-blake-griffin-not-my-responsibility/')" rel="nofollow" target="_blank" class="external">
-		  Clippers' Jerry West Says Signing CP3 &amp; Blake Griffin...</a></li></ol></div>
+				<a href="http://www.tmz.com/2017/12/29/stan-lee-forged-check-police-report/?utm_source=justjared" title="Posted 30 December 2017 | 1:02 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com/2017/12/29/stan-lee-forged-check-police-report/')" rel="nofollow" target="_blank" class="external">
+		  Stan Lee Files Police Report Over Alleged $300k Forged Check</a></li><li>
+				<a href="http://www.tmz.com/2017/12/29/donald-trump-fantasy-football-trophy-nfl/?utm_source=justjared" title="Posted 30 December 2017 | 12:15 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com/2017/12/29/donald-trump-fantasy-football-trophy-nfl/')" rel="nofollow" target="_blank" class="external">
+		  Donald Trump, New Fantasy Football Trophy NFL Fans</a></li><li>
+				<a href="http://www.tmz.com/2017/12/29/bruno-mars-mark-ronson-sued-uptown-funk/?utm_source=justjared" title="Posted 29 December 2017 | 9:19 pm" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.tmz.com/2017/12/29/bruno-mars-mark-ronson-sued-uptown-funk/')" rel="nofollow" target="_blank" class="external">
+		  Bruno Mars Sued Over Single 'Uptown Funk'</a></li></ol></div>
 	  <div class="recentposts toofab">
 		<div class="partnerrss_title">
 			<a href="http://www.toofab.com?utm_source=justjared" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://www.toofab.com')" class="external" rel="nofollow" target="_blank">
 				<img src="http://cdn01.cdn.justjared.com/wp-content/themes/default/images/toofab_footer2.gif" alt="Too Fab" border="0" align="middle"></a></div>
 		  <ol><li>
-				<a href="http://toofab.com/2017/06/27/michelle-rodriguez-threatens-to-exit-fast-and-furious-franchise-over-its-portrayal-of-women/?utm_source=justjared" title="Posted 27 June 2017 | 10:15 pm" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://toofab.com/2017/06/27/michelle-rodriguez-threatens-to-exit-fast-and-furious-franchise-over-its-portrayal-of-women/')" rel="nofollow" target="_blank" class="external">
-		  Michelle Rodriguez Threatens to Exit 'Fast &amp; Furious'...</a></li><li>
-				<a href="http://toofab.com/2017/06/27/see-why-adam-driver-surprised-a-military-family-in-this-heartwarming-video/?utm_source=justjared" title="Posted 27 June 2017 | 9:43 pm" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://toofab.com/2017/06/27/see-why-adam-driver-surprised-a-military-family-in-this-heartwarming-video/')" rel="nofollow" target="_blank" class="external">
-		  See Why Adam Driver Surprised A Military Family in This...</a></li><li>
-				<a href="http://toofab.com/2017/06/27/see-chad-michael-murray-bring-a-cinderella-story-to-life-for-a-children-hospitals-prom/?utm_source=justjared" title="Posted 27 June 2017 | 8:21 pm" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://toofab.com/2017/06/27/see-chad-michael-murray-bring-a-cinderella-story-to-life-for-a-children-hospitals-prom/')" rel="nofollow" target="_blank" class="external">
-		  Chad Michael Murray Brings 'Cinderella Story' to Life for...</a></li></ol></div>			<div class="clear"></div>
+				<a href="http://toofab.com/videos/0-2gbn9dwz/?utm_source=justjared" title="Posted 30 December 2017 | 6:18 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://toofab.com/videos/0-2gbn9dwz/')" rel="nofollow" target="_blank" class="external">
+		  Tammi Menendez Speaks About Relationship with Erik</a></li><li>
+				<a href="http://toofab.com/videos/0-oa8iid6i/?utm_source=justjared" title="Posted 30 December 2017 | 6:18 am" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://toofab.com/videos/0-oa8iid6i/')" rel="nofollow" target="_blank" class="external">
+		  Ellen DeGeneres Uses 'The Real Housewives' to Make Husbands...</a></li><li>
+				<a href="http://toofab.com/2017/12/29/erik-menendez-interview-wraps-up-life-in-prison-his-unconventional-marriage-and-hope-for-an-appeal/?utm_source=justjared" title="Posted 29 December 2017 | 6:05 pm" onclick="ga('send', 'event', 'Outgoing Links', '/footerpartner/http://toofab.com/2017/12/29/erik-menendez-interview-wraps-up-life-in-prison-his-unconventional-marriage-and-hope-for-an-appeal/')" rel="nofollow" target="_blank" class="external">
+		  Erik Menendez Interview Wraps Up: Life In Prison, His...</a></li></ol></div>			<div class="clear"></div>
   </div>
   <!-- end partner footer module RSS -->	
   <div class="footerlinks">
@@ -599,32 +601,32 @@ function getArchiveDate() {
 		      <h4><img src="http://cdn02.cdn.justjared.com/wp-content/themes/default/images/jj-circle-logo.gif" width="30" height="30" alt="Just Jared" border="0" align="middle"> <div class="pagenum"><a href="/">JJ: Latest Posts</a></div></h4>
 			 <ol>
 			  			 <li>
-			     <a href="http://www.justjared.com/2017/06/28/kourtney-kardashian-rocks-short-shorts-in-calabasas/" title="Posted 28 June 2017 | 6:34 am" class="external" target="_blank">
-			     Kourtney Kardashian Rocks Short-Shorts...</a>
+			     <a href="http://www.justjared.com/2017/12/30/vin-diesel-named-highest-grossing-actor-of-2017/" title="Posted 30 December 2017 | 5:16 am" class="external" target="_blank">
+			     Vin Diesel Named Highest-Grossing...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/28/rita-ora-parties-all-night-in-a-tiny-red-dress/" title="Posted 28 June 2017 | 6:12 am" class="external" target="_blank">
-			     Rita Ora Parties All Night in a Tiny...</a>
+			     <a href="http://www.justjared.com/2017/12/29/serena-williams-reflects-on-her-top-moments-of-2017/" title="Posted 30 December 2017 | 4:36 am" class="external" target="_blank">
+			     Serena Williams Reflects on Her Top...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/28/katy-perry-comments-on-ex-orlando-blooms-paddle-boarding-photos/" title="Posted 28 June 2017 | 5:33 am" class="external" target="_blank">
-			     Katy Perry Comments on Ex Orlando...</a>
+			     <a href="http://www.justjared.com/2017/12/29/justin-timberlake-drops-hints-about-his-new-music/" title="Posted 30 December 2017 | 3:50 am" class="external" target="_blank">
+			     Justin Timberlake Drops Hints About...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/28/jennifer-lawrence-goes-hiking-with-her-pup-pippi-in-la/" title="Posted 28 June 2017 | 5:05 am" class="external" target="_blank">
-			     Jennifer Lawrence Goes Hiking with Her...</a>
+			     <a href="http://www.justjared.com/2017/12/29/hugh-jackman-shows-off-his-yo-yo-skills-watch-now/" title="Posted 30 December 2017 | 3:02 am" class="external" target="_blank">
+			     Hugh Jackman Shows Off His Yo-Yo...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/28/hilary-duff-sutton-foster-younger-cast-wrap-press-day-with-season-4-premiere-party/" title="Posted 28 June 2017 | 4:13 am" class="external" target="_blank">
-			     Hilary Duff, Sutton Foster, &amp;...</a>
+			     <a href="http://www.justjared.com/2017/12/29/gal-gadot-spots-some-dolphins-during-holiday-vacation/" title="Posted 30 December 2017 | 2:18 am" class="external" target="_blank">
+			     Gal Gadot Spots Some Dolphins During...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/28/hugh-jackman-will-play-senator-gary-hart-in-the-frontrunner-movie/" title="Posted 28 June 2017 | 4:03 am" class="external" target="_blank">
-			     Hugh Jackman Will Play Senator Gary...</a>
+			     <a href="http://www.justjared.com/2017/12/29/lainie-kazans-lawyer-speaks-out-after-shoplifting-incident/" title="Posted 30 December 2017 | 1:35 am" class="external" target="_blank">
+			     Lainie Kazan's Lawyer Speaks Out After...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/gerard-butler-remembers-michael-nyqvist-in-a-video-post/" title="Posted 28 June 2017 | 3:39 am" class="external" target="_blank">
-			     Gerard Butler Remembers Michael...</a>
+			     <a href="http://www.justjared.com/2017/12/29/meghan-markle-was-in-the-running-to-be-a-bond-girl/" title="Posted 30 December 2017 | 12:58 am" class="external" target="_blank">
+			     Meghan Markle Was In The Running To Be...</a>
 			 </li>
 			 			</ol>	
 		      </div>
@@ -632,32 +634,32 @@ function getArchiveDate() {
 		     <h4><img src="http://cdn02.cdn.justjared.com/wp-content/themes/default/images/jj-circle-logo.gif" width="30" height="30" alt="Just Jared" border="0" align="middle"> <div class="pagenum"><a href="/page/2/">JJ: Page 2</a></div></h4>
 			     <ol>
 			  			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/jay-z-teases-444-project-with-kill-jay-z-commercial-watch/" title="Posted 28 June 2017 | 3:31 am" class="external" target="_blank">
-			     JAY-Z Teases '4:44' Project with 'Kill...</a>
+			     <a href="http://www.justjared.com/2017/12/29/rob-dyrdek-wife-bryiana-welcome-baby-girl-find-out-her-name/" title="Posted 30 December 2017 | 12:34 am" class="external" target="_blank">
+			     Rob Dyrdek &amp; Wife Bryiana Welcome...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/lea-michele-rocks-a-sexy-cutout-bathing-suit-in-hawaii/" title="Posted 28 June 2017 | 2:51 am" class="external" target="_blank">
-			     Lea Michele Rocks a Sexy, Cutout...</a>
+			     <a href="http://www.justjared.com/2017/12/29/kate-hudson-bundles-up-for-dinner-date-with-danny-fujikawa/" title="Posted 30 December 2017 | 12:31 am" class="external" target="_blank">
+			     Kate Hudson Bundles Up For Dinner Date...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/iron-man-wears-his-armor-in-new-avengers-infinity-war-set-photos/" title="Posted 28 June 2017 | 2:42 am" class="external" target="_blank">
-			     Iron Man Wears His Armor in New...</a>
+			     <a href="http://www.justjared.com/2017/12/29/lauren-jauregui-flaunts-her-figure-in-red-hot-bathroom-selfie/" title="Posted 30 December 2017 | 12:03 am" class="external" target="_blank">
+			     Lauren Jauregui Flaunts Her Figure in...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/opera-singer-carlos-de-antonis-gets-standing-ovation-for-americas-got-talent-audition-video/" title="Posted 28 June 2017 | 2:21 am" class="external" target="_blank">
-			     Opera Singer Carlos De Antonis Gets...</a>
+			     <a href="http://www.justjared.com/2017/12/29/bruno-mars-faces-uptown-funk-lawsuit-against-1970s-rap-trio/" title="Posted 29 December 2017 | 11:42 pm" class="external" target="_blank">
+			     Bruno Mars Faces 'Uptown Funk' Lawsuit...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/the-bachelorette-2017-top-6-contestants-revealed-spoilers/" title="Posted 28 June 2017 | 2:03 am" class="external" target="_blank">
-			     'The Bachelorette' 2017: Top 6...</a>
+			     <a href="http://www.justjared.com/2017/12/29/anna-faris-officiates-her-friend-sim-sarnas-wedding/" title="Posted 29 December 2017 | 11:13 pm" class="external" target="_blank">
+			     Anna Faris Officiates Her Friend Sim...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/who-went-home-on-the-bachelorette-2017-six-more-guys-eliminated-in-week-5/" title="Posted 28 June 2017 | 1:57 am" class="external" target="_blank">
-			     Who Went Home on 'The Bachelorette'...</a>
+			     <a href="http://www.justjared.com/2017/12/29/beyonce-stars-in-jay-zs-family-feud-music-video-watch-now/" title="Posted 29 December 2017 | 10:54 pm" class="external" target="_blank">
+			     Beyonce Stars in Jay Z's 'Family Feud'...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjared.com/2017/06/27/lindsay-lohan-invites-beyonce-paris-hilton-britney-spears-to-celebrate-her-birthday-in-greece/" title="Posted 28 June 2017 | 1:35 am" class="external" target="_blank">
-			     Lindsay Lohan Invites Beyonce, Paris...</a>
+			     <a href="http://www.justjared.com/2017/12/29/meghan-trainor-daryl-sabara-step-out-for-first-time-after-getting-engaged/" title="Posted 29 December 2017 | 10:26 pm" class="external" target="_blank">
+			     Meghan Trainor &amp; Daryl Sabara Step...</a>
 			 </li>
 			 			</ol>	
 		      </div>
@@ -670,32 +672,32 @@ function getArchiveDate() {
 				<h4><img src="http://cdn03.cdn.justjared.com/wp-content/themes/default/images/jr-circle-logo.gif" width="30" height="30" alt="Just Jared Jr." border="0" align="middle"> <div class="pagenum"><a href="http://www.justjaredjr.com" onclick="ga('send', 'event', 'Outgoing Links', '/footerlinkout/www.justjaredjr.com')" target="_blank">Just Jared Jr.</a></div></h4>
 				<ol>
 			  			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/28/jennifer-lawrence-goes-for-a-morning-hike-with-her-pup-pippi/" title="Jennifer Lawrence Goes for a Morning..." target="_blank" class="external">
-			     Jennifer Lawrence Goes for a Morning...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/this-beauty-the-beast-movie-theory-might-solve-that-one-plot-hole-that-keeps-you-up-at-night/" title="This 'Beauty &amp; The Beast' Movie..." target="_blank" class="external">
+			     This 'Beauty &amp; The Beast' Movie...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/27/emison-have-twins-and-get-engaged-in-pretty-little-liars-series-finale/" title="These #Emison Spoilers Have 'PLL' Fans..." target="_blank" class="external">
-			     These #Emison Spoilers Have 'PLL' Fans...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/lauren-jauregui-shows-off-her-curves-in-sultry-mirror-pic/" title="Lauren Jauregui Shows Off Her Curves..." target="_blank" class="external">
+			     Lauren Jauregui Shows Off Her Curves...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/27/who-is-emisons-baby-daddy-wren-pretty-little-liars-finale-spoilers/" title="Who is #Emison's Baby Daddy? 'Pretty..." target="_blank" class="external">
-			     Who is #Emison's Baby Daddy? 'Pretty...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/nathan-kress-shares-sweet-pic-tribute-to-wife-london-and-new-baby-rosie/" title="Nathan Kress Shares Sweet Pic &amp;..." target="_blank" class="external">
+			     Nathan Kress Shares Sweet Pic &amp;...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/27/who-is-a-d-on-pretty-little-liars-series-finale-recap/" title="Who is A.D' on 'Pretty Little Liars'?..." target="_blank" class="external">
-			     Who is A.D' on 'Pretty Little Liars'?...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/zendaya-shares-new-years-eve-makeup-tutorial-watch/" title="Zendaya Shares New Year's Eve Makeup..." target="_blank" class="external">
+			     Zendaya Shares New Year's Eve Makeup...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/27/brooklyn-beckhams-brothers-join-him-at-book-launch-event/" title="Brooklyn Beckham's Brothers Join Him..." target="_blank" class="external">
-			     Brooklyn Beckham's Brothers Join Him...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/megan-nicole-shares-all-the-happy-moments-that-defined-2017-for-her/" title="Megan Nicole Shares All The Happy..." target="_blank" class="external">
+			     Megan Nicole Shares All The Happy...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/27/vanessa-hudgens-austin-butler-head-back-to-la-following-hamptons-getaway/" title="Vanessa Hudgens &amp; Austin Butler..." target="_blank" class="external">
-			     Vanessa Hudgens &amp; Austin Butler...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/meghan-trainor-fiance-daryl-sabara-enjoy-post-christmas-shopping-trip/" title="Meghan Trainor &amp; Fiance Daryl..." target="_blank" class="external">
+			     Meghan Trainor &amp; Fiance Daryl...</a>
 			 </li>
 			 			 <li>
-			     <a href="http://www.justjaredjr.com/2017/06/27/yara-shahidi-is-casually-fielding-babysitting-offers-for-chance-the-rappers-kid/" title="Yara Shahidi is Casually Fielding..." target="_blank" class="external">
-			     Yara Shahidi is Casually Fielding...</a>
+			     <a href="http://www.justjaredjr.com/2017/12/29/nina-dobrev-michael-trevino-hit-the-slopes-in-aspen/" title="Nina Dobrev &amp; Michael Trevino Hit..." target="_blank" class="external">
+			     Nina Dobrev &amp; Michael Trevino Hit...</a>
 			 </li>
 			 			</ol>	
 			</div>
@@ -762,6 +764,11 @@ var wpBannerizeJavascriptLocalization = {
         <div id="assignment" style="display:none !important;"><span id="nointelliTXT"></span></div>
 <script>ggv2id='jstjared';</script><script src="https://g2.gumgum.com/javascripts/ggv2.js"></script>
 
+
+
+<!-- air.tv -->
+<script async="" src="https://embed.air.tv/v1/twoview_bootstrap.js?organization=xAka4OWhSc-oGkoSdFYyfA"></script>
+<!-- air.tv end-->
 
 <div class="ad_desktop" data-out-of-page="true"></div>
 
