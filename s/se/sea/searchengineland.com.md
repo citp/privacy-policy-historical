@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183206id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230232612id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
 
 # Search Engine Land Privacy Policy
 
@@ -83,7 +83,9 @@ We’ll post changes to this policy on this page. Questions about this policy sh
 
 [](http://marketinglandevents.com/smx/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
 
-October 24-26, 2017: [SMX East](http://marketinglandevents.com/smx/east/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
+March 13-15, 2018: [SMX West](http://marketinglandevents.com/smx/west/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
+
+June 11-13, 2018: [SMX Advanced](http://marketinglandevents.com/smx/advanced/?utm_source=sel&utm_medium=textlink&utm_campaign=smx+home&utm_content=standunit+text)
 
 ×
 
@@ -95,7 +97,7 @@ October 24-26, 2017: [SMX East](http://marketinglandevents.com/smx/east/?utm_sou
 
 Gain new strategies and insights at the intersection of marketing, technology, and management. Our next conference will be held:
 
-October 2-4, 2017: [MarTech Boston](http://martechconf.com/boston/?utm_source=sel&utm_medium=textlink&utm_campaign=mt+bos+2017&utm_content=standunit)
+April 23-25, 2018: [San Jose](https://martechconf.com/west/?utm_source=sel&utm_medium=textlink&utm_campaign=mt+west+2018&utm_content=standunit)
 
 ×
 
@@ -105,4 +107,4 @@ October 2-4, 2017: [MarTech Boston](http://martechconf.com/boston/?utm_source=se
 
 ### The Periodic Table of Seo Success
 
-[](http://searchengineland.com/seotable/download-periodic-table-of-seo)
+[](https://searchengineland.com/seotable/download-periodic-table-of-seo?utm_source=sel&utm_medium=display&utm_campaign=seotable17&utm_content=300x481-black-sidebar)
