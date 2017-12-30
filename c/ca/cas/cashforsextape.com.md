@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashforsextape.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628032800id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashforsextape.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230093919id_/http%3A//serious-partners.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
