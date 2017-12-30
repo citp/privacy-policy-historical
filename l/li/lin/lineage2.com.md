@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lineage2.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625175633id_/http%3A//us.ncsoft.com/en/legal/lineage-2/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lineage2.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230103710id_/http%3A//us.ncsoft.com/en/legal/lineage-2/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,7 @@ This Privacy Policy discloses the privacy practices for:
   * [www.aiononline.com](http://www.aiononline.com/)
   * [www.bladeandsoul.com](http://www.bladeandsoul.com/)
   * [www.lineage2.com](http://www.lineage2.com/)
+  * [www.aionlegionsofwar.com](http://www.aionlegionsofwar.com/)
 
 
 
@@ -102,7 +103,7 @@ We work with third party advertising and analytics providers, such as Google Ana
 
 Specifically, with respect to Google Analytics, we use the following advertising features: Remarketing with Google Analytics, Google Analytics Demographics and Interest Reporting, Google Display Network Impression Reporting, Google Cookie Matching Service, Google Double Click Ads Exchange, and AdWords features for remarketing, in-market audiences, affinity audiences, custom affinity audiences, similar audiences, and demographic and location targeting. We use these advertising features to improve our marketing campaign targeting.   Google’s collection and use of information is subject to Google’s Privacy Policy (<http://www.google.com/policies/privacy/>) and specific information regarding how Google uses of information from Google Analytics is available at How Google Uses Data When You Use Our Partners' Sites or Apps (<http://www.google.com/policies/privacy/partners/>) and Types of Cookies Used by Google (http://www.google.com/policies/technologies/types/).  If you would like to opt out of Google Analytics tracking, please visit one of the following links: Google Ads Settings (<http://www.google.com/settings/ads>), the Google Analytics Opt-out Browser Add-on (<https://tools.google.com/dlpage/gaoptout/>), or the NAI’s consumer opt-out (http://www.networkadvertising.org/choices/).
 
-By clicking on the applicable link below, you may access the privacy policies of other third parties we work with for advertising purposes: [insert links to any other third parties (e.g., advertising agencies and vendors that serve ads on the Sites) privacy policies.] These privacy policies will provide more information on those third parties’ use of cookies and tracking identifiers and whether they permit you to opt out of the use of cookies for interest-based advertising.  For additional information regarding opting out of some third-party vendors' use of cookies for interest-based advertising, visit http://www.aboutads.info.
+The privacy policies of third parties we work with for advertising purposes are available on their websites. These privacy policies will provide more information on those third parties’ use of cookies and tracking identifiers and whether they permit you to opt out of the use of cookies for interest-based advertising. For additional information regarding opting out of some third-party vendors' use of cookies for interest-based advertising, visit[ http://www.aboutads.info](http://www.aboutads.info/).
 
 **Sweepstakes, Contests and Promotions, and Related Third Party Services**
 
