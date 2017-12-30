@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thepostgame.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613071352id_/http%3A//www.thepostgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostgame.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231004713id_/http%3A//www.thepostgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThePostGame
 
-Submitted by steveferrone on Thu, 01/06/2011 - 11:12
+Submitted by steveferrone on Thu, 01/06/2011 - 10:12
 
 WEBSITE PRIVACY POLICY  
 Last Updated November 16, 2014  
