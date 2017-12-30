@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625101616id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arabelove.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230211219id_/https%3A//www.arabelove.com/arab-dating-Privacy-EN) for the most accurate reproduction.*
 
 # Arab Marriage friendship zawaj love arablove, arab singles, arab dating, arabic, arab personals, single muslim, dating arab girls, muslim dating, arab chat, chatting, muslim dating service, single muslim women, arab women, arabic christian -arab-dating-privacy:: arabelove.com
 
@@ -55,11 +55,11 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). 
 
 
 
-If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/).
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](https://www.networkadvertising.org/).
 
 ©arabelove.com, 2010.
 
