@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbabynames.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609175048id_/http%3A//thinkbabynames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbabynames.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230230618id_/http%3A//www.thinkbabynames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Think Baby Names
 
