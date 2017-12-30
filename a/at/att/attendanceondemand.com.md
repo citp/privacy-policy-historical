@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attendanceondemand.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625115133id_/http%3A//www.attendanceondemand.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendanceondemand.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230031454id_/http%3A//attendanceondemand.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Attendance on Demand time and attendance systems
 
