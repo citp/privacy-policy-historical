@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pop.games privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506025838id_/http%3A//www.pop.games/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pop.games privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230170628id_/http%3A//www.pop.games/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
