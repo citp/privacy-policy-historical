@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the blogbeatz.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917041452id_/http%3A//blogbeatz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbeatz.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230221457id_/https%3A//blogbeatz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Blogbeatz | Blogbeatz
+# Privacy Policy – blogbeatz.
 
-This Privacy Policy governs the manner in which Blogbeatz collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://blogbeatz.com](http://blogbeatz.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogbeatz.
+This Privacy Policy governs the manner in which Blogbeatz collects, uses, maintains and discloses information collected from users (each, a “User”) of the [//blogbeatz.com](https://blogbeatz.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Blogbeatz.
 
  **Personal identification information**
 
@@ -51,7 +51,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [//www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
  **Changes to this privacy policy**
 
@@ -64,8 +64,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Blogbeatz](http://blogbeatz.com/)  
-[http://blogbeatz.com](http://blogbeatz.com/)  
+[Blogbeatz](https://blogbeatz.com/)  
+[//blogbeatz.com](https://blogbeatz.com/)  
 Cochin, Kerala, India  
 blogbeatze@gmail.com
 
