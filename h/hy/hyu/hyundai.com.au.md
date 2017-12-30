@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182402id_/http%3A//www.hyundai.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.com.au privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230195249id_/http%3A//www.hyundai.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hyundai Australia
 
-##  Introduction. 
+## Introduction.
 
 At Hyundai Motor Company Australia Pty Limited ABN 58 008 995 588 ("Hyundai", "we", "us" or "our"), we recognise the importance of your privacy and appreciate that your personal information is very important to you. We are committed to complying with our obligations under the Privacy Act 1988 (Cth) (“Privacy Act”), and in particular the Australian Privacy Principles (“APP’s”). Where applicable, Hyundai will handle personal information relying on the related bodies corporate exemption and the employee records exemption in the Privacy Act and any other applicable exemptions in the Privacy Act or other legislation. In this Privacy Policy "personal information" has the meaning set out in the Privacy Act. Basically, personal information is information or an opinion about an individual who is reasonably identifiable. 
 
