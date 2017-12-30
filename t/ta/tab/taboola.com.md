@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630194731id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231004641id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | World's Largest Discovery Platform | Taboola
+# Privacy Policy | Taboola.com
 
-_Effective Date:_ June 16, 2017
+_Effective Date:_ December 8, 2017
 
 If you would like to go directly to Taboola’s opt-out status options, please click here.
 
 **Privacy Self-Regulation:**
 
-Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the  **Digital Advertising Alliance**  (DAA), the  **Digital Advertising Alliance Canada**  (DAAC), and the  **European Interactive Digital Advertising Alliance**  (EDAA). Taboola also adheres to the  **Interactive Advertising Bureau’s**  (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the  **IAB Europe**  OBA Framework. Taboola is also a proud member in good standing of the  **Network Advertising Initiative**  (NAI), an association dedicated to responsible data collection and its use for digital advertising, and we adhere to the NAI Code of Conduct for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers/), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/); and to manage all NAI member sites’ settings, [click here](http://optout.networkadvertising.org/#/).
+Taboola is dedicated to providing Internet users the highest level of transparency and control over the use of their data in online advertising. We adhere to the Self-Regulatory Principles set forth by the  **Digital Advertising Alliance**  (DAA), the  **Digital Advertising Alliance Canada**  (DAAC), and the  **European Interactive Digital Advertising Alliance**  (EDAA). Taboola also adheres to the  **Interactive Advertising Bureau’s**  (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the  **IAB Europe**  OBA Framework. Taboola is also a proud member in good standing of the  **Network Advertising Initiative**  (NAI), an association dedicated to responsible data collection and its use for digital advertising, and we adhere to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement/code) for Web and Mobile. To update your AdChoices Opt Out settings, select your region here: [US](http://www.aboutads.info/consumers/), [Canada](http://youradchoices.ca/choices), or [Europe](http://www.youronlinechoices.eu/); and to manage all NAI member sites’ settings, [click here](http://optout.networkadvertising.org/#/).
 
-[](https://www.networkadvertising.org/) [](http://youradchoices.com/)    [](https://www.aboutads.info/)      [](http://www.edaa.eu/)      [](http://youradchoices.ca/)   [](https://www.iab.com/)
+[](https://www.networkadvertising.org/) [](http://youradchoices.com/)    [](https://www.aboutads.info/)      [](http://www.edaa.eu/)      [](http://youradchoices.ca/)   [](https://www.iab.com/)   [](https://www.iabeurope.eu/) [](https://www.eprivacy.eu/en/customers/awarded-seals/company/taboola-europe-limited/)
 
 **Privacy Policy**
 
@@ -165,7 +165,7 @@ We may disclose User Information as follows:
 
 Through our Services, including our Services on Customer Websites, we may provide advertisements to you based on your recent browsing behavior across different Customer Websites, browsers, or devices. For example, if you visit and browse on Website A on a first online visit, on a subsequent online visit to Website B, you may see content personalized based on your browsing history on Website A. For example, if a user visits a clothing retail site, she might see clothing-related ads on another site. In order to target advertisements to you for products and services in which you might be interested, we may use cookies, JavaScript, web beacons (including clear GIFs), HTML5 local storage and other technologies. For more information about how we use these technologies, please refer to our [Cookie Policy](https://www.taboola.com/cookie-policy). We may also use third parties such as network advertisers, which are third parties that display advertisements based on your visits to websites you have visited to target advertisements to you for products and services in which you might be interested. Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may also use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one.
 
-If you have questions about our collection and use of data for interest-based advertising purposes, please contact us at: [support@taboola.com](mailto:support@taboola.com).
+If you have questions about our collection and use of data for interest-based advertising purposes, please contact us at: support@taboola.com.
 
 **2.5.** **User** **Choices and Opting Out**
 
@@ -173,21 +173,27 @@ Taboola supports initiatives of greater transparency and control for users, and 
 
 If you do not want to receive interest-based ads displayed by Taboola, you can disable the display of such ads by clicking on the opt-out button below.
 
-  * **Not Opted Out** : Taboola will serve you personalized recommendation based on your history.
-  * **Opted Out** : You have opted out of tracking, Taboola will no longer serve you with personalized content recommendations based on your internet use history.
+  * **Not Opted Out** : Taboola will serve you personalized recommendations based on your history.
+  * **Opted Out** : You have opted out of tracking, Taboola will no longer serve you with personalized content recommendations based on your Internet use history.
 
 
 
-Opting out will not prevent you from seeing our content or ads, but ads you see will likely be less relevant because they won’t be tailored to your interests. You may continue to see our Services on our Customers’ websites with content or ads chosen based on the particular website that you are viewing (i.e. contextually based ads). Note that if your browsers are configured to reject cookies, your opt-out may not be effective, since we identify your choice to opt-out based on a cookie we deliver to you. So you will need to confirm that your browser is configured properly in order for the opt-out to be effective. In addition, because our tracking mechanisms operate at the device and browser level, to fully opt-out across devices, you will need to do so on each device and browser individually.
-
-Taboola is a member of the Network Advertising Initiative (NAI) and adheres to the [NAI Code of Conduct](http://www.networkadvertising.org/code-enforcement/code). Taboola also adheres to the Self-Regulatory Principles for Online Behavioral Advertising, a program, run by the Digital Advertising Alliance (“DAA”), the Digital Advertising Alliance Canada (“DAAC”) and the European Interactive Digital Advertising Alliance (“EDAA”).
+Because our tracking mechanisms operate at the device and browser level, to fully opt-out across devices, you will need to do so on each device and browser individually.
 
   * **_You can also opt-out of receiving targeted ads served by us or other advertising companies._**
-    * You may use the [NAI opt out tool](http://www.networkadvertising.org/choices), which will allow you to opt out of seeing targeted ads from us and from other NAI-approved member companies.
+    * You may use the [NAI opt out tool](http://www.networkadvertising.org/choices), which will allow you to opt out of seeing targeted ads from us and from other NAI-approved member companies, and for mobile opt outs, the NAI provides instructions to engage system-level opt outs in Android, iOS, and Windows Phone environments. 
     * Users in the United States, Canada, and Europe may go to the DAA consumer choice page at <http://www.aboutads.info/choices>, or the DAAC consumer choice page at [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices), or the EDAA consumer choice page at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/), for information about opting out of interest-based advertising and their choices regarding having information used by companies listed on the DAA, DAAC, or EDAA, consumer choice pages. Opting out from one or more companies listed on the DAA, DAAC, or EDAA consumer choice page will opt you out from those companies’ delivery of targeted content or ads to you, but it does not mean you will no longer receive any advertising through our Services or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective. Additional information is available on the DAA’s website at [www.aboutads.info](http://www.aboutads.info/), on the DAAC’s website at [www.youradchoices.ca](http://www.youradchoices.ca/), and on the EDAA’s website at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
 
-  * **_You may also opt out of receiving targeted ads from other third-party ad networks._** You may use the DAA opt out tool (hyperlink this), which will allow you to opt out of seeing targeted ads from us and from other companies that adhere with the DAA principles.
+  * **_You may also opt out of receiving targeted ads from other third-party ad networks._** You may use the [DAA opt out tool](http://optout.aboutads.info/#!/), which will allow you to opt out of seeing targeted ads from us and from other companies that adhere with the DAA principles.
+
+
+
+Please note that opting out will not prevent you from seeing our Services on our Customers' websites, but it will affect the types of ads that you will see. These ads will no longer be tailored to your interests and instead will be chosen based on the particular website that you are viewing (i.e. contextually based ads). 
+
+  * If your browsers are configured to reject cookies, your opt-out may not be effective, since we identify your choice to opt-out based on a cookie we deliver to you. In this case, you will need to confirm that your browser is configured properly in order for the opt-out to be effective. If you are using a Safari browser on iOS11 or on macOS High Sierra, you must first adjust your Privacy and Security Settings to turn off both "Prevent Cross-Site Tracking" and "Block All Cookies", and then return to this privacy policy or your preferred opt out platform to reset your opt out preferences. 
+  * Taboola may use non-cookie technologies in limited cases. Like cookies, these technologies allow Taboola to recommend ads that are tailored to your interests and to remember whether you have chosen to opt-out from our Services. Please note that some web browsers may not permit you to block the use of non-cookie technologies, but you can do so by simply clicking on the Opt Out feature available in the “User Choices” section on this page.
+
 
 
 
