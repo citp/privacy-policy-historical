@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s1-adfly.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624025020id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s1-adfly.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230040847id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
 
 # AdFly - Terms & Conditions
 
