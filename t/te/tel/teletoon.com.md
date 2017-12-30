@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623113957id_/http%3A//www.teletoon.com/en/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletoon.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230152820id_/http%3A//www.teletoon.com/en/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | teletoon.com
 
