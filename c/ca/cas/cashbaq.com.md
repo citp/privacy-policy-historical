@@ -1,139 +1,158 @@
-> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082355id_/https%3A//www.ebates.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbaq.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230070225id_/https%3A//www.ebates.com/help/article/privacy-policy-115009657667) for the most accurate reproduction.*
 
-# Ebates Privacy Agreement
+# Privacy Policy | Ebates
 
-Effective Date: February 28, 2017 
+**Privacy Policy**
 
-Ebates Inc. ("Ebates") was founded by two former Deputy District Attorneys who took privacy and security very seriously. We know that these issues are essential to making Ebates a success for us and our members. Rest assured that privacy, security and integrity are first and foremost considerations at Ebates.
+This Privacy Policy describes how Ebates Inc. (“we,” “us,” “our,” “Company”), the owner and operator of Ebates.com, Ebates.ca, Ebates.kr, ShopStyle, ShopStyle Collective, Shopular, and BFads.net businesses collect, use, share, and protect information in connection with the Company websites, mobile websites, mobile applications, browser applications, and any related services that refer or link to this Privacy Policy (“Services”). Ebates is part of the [Rakuten Group](https://global.rakuten.com/corp/about/company/), which includes the affiliates and subsidiaries of our parent company Rakuten, Inc., based in Tokyo, Japan.
 
-This privacy policy applies to [https://www.ebates.com](https://www.ebates.com/) owned and operated by Ebates Inc. This privacy policy describes how we collect, use, share, and secure your personal information and other shopping information. It also describes the choices available to you regarding our use of this information and how you can access and update this information. If you have a question about this privacy policy, you can contact our Chief Privacy Officer by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com).
+**1\. Collection of Information**
+
+We collect, process, and use your information when you:
+
+  * Register for our Services or sign in to an existing account
+  * Visit our website(s)
+  * Access our Services through our application(s)
+  * Connect to our Services using third-party accounts, such as your email, social media, or payment account(s)
+  * Contact us for support
+  * Participate in our shopping or influencer programs
+  * Enter a sweepstakes, contest, promotion, survey, or poll
+
+
+
+Further, we and our service providers automatically collect certain information about you through:
+
+  * Interaction with our Services
+  * Cookies and other tracking technologies
+  * Location-identifying technologies
+  * Monitoring and analyzing trends, usage, and activities
+
+
+
+The types of information you provide may include Personal Information. “Personal Information” means information that can be used to identify you (whether alone or in combination). The Personal Information you may provide to us includes:
+
+  * First and last name
+  * Email address
+  * Mailing address
+  * Phone number
+  * Payment information (such as payment account name, payment account number, payment card expiration date, and billing address)
+  * The nature of the product or service requested or purchased
+  * How you connect to our Services, such as your IP address, unique device identifiers, device or session IDs, and information regarding the network and connected hardware (e.g., computer or mobile device)
+  * Browsing, shopping, and purchase history
+  * Your geolocation
+  * Click-stream data (the page-by-page paths you take as you browse through our Services)
+
+
+
+**2\. Use of information we collect**
+
+We may use information about you in the following ways.
+
+**Manage Your Account**
+
+If you provide us Personal Information, we may use it to: (i) process your registration with our Services, including verifying whether your email address is active and valid and enrolling you into our programs; (ii) monitor and manage your purchase transactions; (iii) track your shopping, deliver you rewards or payments, and identify opportunities for rewards and/or offers; (iv) send you technical notices, updates, security alerts, and administrative messages; (v) provide you customer service regarding your account and reply to your questions, comments and requests; and (vi) comply with legal and regulatory provisions in force and with the competent judicial authorities in each geographical jurisdiction that the Company operates in. We may also use your information to assess risk and prevent fraud.
+
+**Improve Our Services**
+
+We may process information through analyzing and monitoring usages and trends and performing statistical analyses to improve our Services and the websites, applications, marketing efforts, and the products and services of our affiliates to provide a better service to you in the future. We may also use this information to adapt Service content to be more likely to be of interest to you.
+
+**Provide You Marketing Information**
+
+To provide you more personalized offers and/or special offers, discounts and similar information, Company may send you newsletters, rewards, discounts, promotion codes, events and general information about the service if you consent. To match your profile and interest, we may create a profile of your preferences and provide advertisements, content or features. You can manage these communications in accordance with Section 4 (Your Choices) below.
+
+**Administer Contests, Sweepstakes, and Promotions**
+
+From time to time, Company may invite you to enter various contests, sweepstakes, surveys or promotions. If you choose to participate in a contest or promotion, your Personal Information may be used to administer the contest, such as to determine your eligibility for the contest or to award a prize.
+
+**3\. Sharing of Information**
+
+We may share the information we collect, including your Personal Information, with third parties under the following circumstances.
+
+**Service Providers and Business Partners**
+
+We do not sell your Personal Information and only share it with third parties to operate our Services. We may share your Personal Information with our service providers that perform marketing services and other business operations on our behalf, under our instructions and in compliance with appropriate technical and organizational security measures to protect your data. For example, we may partner with other companies to provide you support services, authentication services, prevent fraud on our Services, administer our promotions, referral programs, sweepstakes, and surveys, perform analytics, maintain the accuracy of our databases, facilitate your travel reservations, fulfill your product purchases, and administer your rewards or payments. Further, we may share your information with our financial institution partner, Synchrony Bank, for the purposes of providing rewards or benefits to you and marketing our co-branded credit cards to you. We will not sell your Personal Information, but we may rent, sell, and share anonymized information that cannot be used to identify you with merchant partners, third parties, or affiliates. Anonymized information means information that does not include your Personal Information and does not include payment information.
+
+**Rakuten Group Companies**
+
+We work closely with our affiliated businesses and companies within the Rakuten Group and share your Personal Information for our internal business administration. We may also share your account credentials (username, email address, encrypted password) and related personal identification (first and last name and address) with other companies in the Rakuten Group, so that you will be able to use your username and password on other Rakuten websites and services. As long as you do not connect to another Rakuten service, your identifiers (username, email address, encrypted password, first name, last name, and address) are shared only with our parent company, Rakuten, Inc., for the purposes of operating our authentication service. Information shared with Rakuten, Inc. is subject to the [Rakuten Privacy Policy](https://privacy.rakuten.co.jp/english/). The Rakuten Group will not sell your Personal Information, but may rent, sell, and share anonymized information that cannot be used to identify you with merchant partners, third parties, or affiliates. Anonymized information means information that does not include your Personal Information and does not include payment information.
+
+**Protection of Rights and Other Legal Purposes**
+
+We may share the information we collect, including Personal Information, to the extent permitted by applicable law, (i) in response to subpoenas or other legal process or if in our good faith opinion such disclosure is required or permitted by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to defend our terms and conditions or other policies applicable to our Services; and (iv) to protect the rights, property, life, health, security and safety of us or any third party.
+
+**Business Transfers**
+
+We may share the information we collect, including Personal Information, with any third party in connection with, or during negotiations of, any proposed or actual merger, purchase, sale (including a liquidation, realization, foreclosure, or repossession), or any other type of acquisition of all or any portion of Company assets, conveyance or transfer of all or a portion of our business to another company.
+
+**4\. Your Choices**
+
+You may in some cases have the option to decline providing us information. However, your choice to not provide information may impact your use of certain features or services. You may unsubscribe or opt out of receiving marketing communications from us by using the unsubscribe link on the footer of our marketing emails, by logging into your account settings, or by using the Contact Us option through the Services. We encourage you to maintain the accuracy of the information you submit to us, such as the information you provide us to register for your account. The Services may allow you to access, review, correct, update, and remove or make inaccessible Personal Information you have provided through your account settings. You may provide account updates and changes by logging into your account and changing settings or by using the Contact Us option through the Services. With respect to our mobile and other applications, you can prospectively stop all collection of information by the application by uninstalling the application. You may at any time opt out from further allowing us to have access to your location data by adjusting the permissions in your mobile device. We will make good-faith efforts to make requested changes in our then-active databases as soon as reasonably practicable.
+
+**5\. Rights Applicable to EU Users**
+
+**Data Transfers**
+
+If you are visiting from the European Union (“EU”) or other regions with laws governing data collection and use that may differ from EU or United States law, please note that you may be transferring your Personal Information to the Rakuten Group in the United States and in other countries around the world for the purposes described under this Privacy Policy. We take great care in protecting your Personal Information and have put in place adequate mechanisms to protect it when it is transferred internationally. As part of the Rakuten Group, Company relies on the Rakuten Binding Corporate Rules to legitimize international data transfers within the Rakuten Group. [The Rakuten Binding Corporate Rules](https://corp.rakuten.co.jp/privacy/en/bcr.html) have been approved with the Data Protection Authority of Luxembourg acting as the lead authority.
+
+**Legal basis for using your Personal Information**
+
+In the EU, the processing must rely on a legal basis. For these regions, there are different legal bases that we rely on to use your Personal Information, namely:
+
+  * Performance of a contract. The use of your Personal Information may be necessary to perform the terms and conditions or other policies under which we provide our Services.
+  * Consent: We will rely on your consent to use (i) technical information such as cookie data and geolocation data; and (ii) your Personal Information for marketing purposes. You may withdraw your consent at any time by contacting us using the information at the end of this Privacy Policy or by following an unsubscribe link in any marketing communication you receive from us.
+  * Legitimate interests: We may use your Personal Information for our legitimate interests to improve our Services, security purposes, and fraud prevention, and to share information with our affiliates for internal administration.
+
+
+
+**Choices under EU law**
+
+If you are subject to EU law, you may ask us to:
+
+  * See what Personal Information we hold about you
+  * Erase your Personal Information
+  * Port your Personal Information
+  * Restrict our use of your Personal Information
+
+
+
+If you are not subject to EU law, these rights do not apply to you.
+
+**6\. Data Security and Retention**
+
+We take reasonable measures to protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction. We use a secure, encrypted connection (using a TLS protocol) on all pages where you access or transmit Personal Information. Although Company uses reasonable efforts to help protect your information, transmission via the Internet is not completely secure and Company cannot guarantee the security of your information collected through our Services. Except as otherwise set forth under applicable law, we assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. We retain the information collected via our Services until such time as you choose to close your account. After that time, we may anonymize and aggregate the data and retain it for analytical purposes. We may also retain your information on backup media to comply with applicable law, to support financial audits, to resolve disputes, to maintain compliance efforts, and for other legitimate business reasons.
+
+**7\. Promotional Communications**
+
+By signing up for an account, you may receive periodic emails from Company. If you consented to receiving promotional email communications, you can opt out of receiving such communications from us at any time by (i) following the instructions provided in those communications; (ii) modifying your Email Preferences in the Account Settings of your account; or (iii) contacting us through the Services. Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional emails and other types of communications, as permitted by law, such as service emails relating to our ongoing business relationship. Service emails contain service-related announcements that affect your account, such as product order confirmations, reward or payment updates, and responses to your comments and feedback submitted to us. Company mobile applications, browser extensions, and websites may send you notifications, such as alerts, sounds, and icon badges. Push notifications or in-app messages may include both operational messages and promotional messages regarding products, services, and offers that may be of interest to you. When using mobile applications, push notifications and other mobile alerts can be configured in the settings of your mobile device. As with emails, even if you opt out of receiving promotional communications, we may continue to send you non-promotional push notifications, such as those about your use of the applications or our ongoing business relations.
+
+**8\. Cookie Policy**
+
+We use browser cookies to collect and store certain information when you use, access or interact with the Services. Cookies are small data file identifiers that are transferred to your computer or mobile web browser that allow us, and third parties with whom we partner, to recognize your browser or mobile device and transfer information about you and your use of our Services. We use cookies for many purposes, including, without limitation, authentication, tracking user preferences or web pages visited while using our Services. You may control the use of cookies at the browser level. If you choose to disable cookies, it may limit your use of certain features or functions on the Service.
+
+**9\. Analytics, Targeting, Tracking**
+
+We, and third parties with which we partner, may also use cookies, pixels, and other technologies to automatically collect information about your use of the Services, such as your click-stream data, browsing history, IP address, web browser, pages viewed, time spent on pages, links clicked, and conversion information. Data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected (also known as cross-linking). We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms. These third parties may also collect Personal Information about your online activities over time and across different websites when you use our Services to help predict your preferences and to display (and to enable other third parties to display) ads to be more likely to be of interest to you. Some third-party service providers that we engage (including third-party advertisers) may also place their own cookies on your browser. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
+
+**10\. Third-Party Data**
+
+The Services contain hyperlinks to websites of merchants and retailers and other websites or locations that we do not control and are operated and controlled by third parties (“Third-Party Websites”). Our Privacy Policy does not apply to these Third-Party Websites and we make no representations regarding the policies or business practices of any such Third-Party Websites.
+
+**11\. Social Features**
+
+Certain functionalities on the Services are specifically designed to permit interactions that you initiate between the Services and third-party websites or services, including third-party social networks (“Social Features”). Examples of Social Features include features that enable you to transmit your account content from a third-party website or service to our Services; to “like” or “share” our Services’ content on other websites or services; to sign in to the Services using your username and password from a third-party site or service; and to connect our Services with a third-party website or service. If you choose to use Social Features, the information you post or provide access to may be used by us and/or publicly displayed on our Services or by the provider of the Social Feature that you use. Similarly, if you post information on a third-party platform that references our Services (e.g., by using a hashtag associated with Company in a tweet or status update), your post may be published on our Services in accordance with the terms of the third-party website or service. When you use our Services with a third-party site or service, both Company and the third party may have access to certain information about you and your use of our Services and the third-party site or service. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your connections’ web pages, profile pages, or similar pages on a social-networking or other third-party website or interactive service. The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third parties remains subject to those third parties’ privacy policies, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
+
+**12\. Referral Programs**
+
+Company may offer features which allow you to inform an individual about our Services. If you choose to use our referral features, we will ask you for your referral’s email address to send them an electronic communication inviting them to join our Services. Company will store this information for the sole purpose of sending this email and tracking the success of our referral program. If you choose to participate in our referral programs, you represent and warrant that you have a personal relationship with your referral and that you are authorized to share their information with Company for the purpose of sending this communication to invite them to join the Services.
+
+**13\. Changes to This Privacy Policy**
+
+This Privacy Policy is current as of the effective date set forth above. Company reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by revising the date at the top of this Privacy Policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Services or sending you an email notification).
+
+**14\. Contact Us**
+
+If you have any questions regarding this Privacy Policy, please feel free to contact us by email at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) or by mail at 800 Concar Drive, Suite 175, San Mateo, CA 94402, ATTN: Ebates Legal.
+
+Updated: October 2017 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=6b25acce-c1f5-4194-b740-be5e1f150071)
-
-  
-
-
-  * Information We Collect and How We Use It
-  * Who Sees Your Personal Information
-  * How We Keep Your Information Secure
-  * Your Privacy With Ebates
-  * Our Policies on Email
-  * Cookies and Other Technologies
-  * Your Choices and Responsibilities
-  * Dispute Resolution 
-
-
-
-####  Information We Collect and How We Use It
-
-Our vision is to maximize your rewards and to provide you with as many member benefits as possible. The key way in which we provide value is to share with you the commissions we receive from our merchant partners in the form of Cash Back. We strive to confirm and pay your Cash Back quickly and reliably, and to improve your experience on our site and in our applications – these are the main reasons we collect information.
-
-**Ebates.com**
-
-When you become a member of Ebates.com, we collect your name, email address, and physical address ("Personal Information"). We use your Personal Information to track and send you Cash Back payments and generally to improve and personalize our services. We also collect non-personal information pertaining to our merchant partners you visit, the purchases you make, and the offers you view ("Transaction Information"). We use Transaction Information to process your Cash Back faster and more reliably, as well as to provide more relevant offers for you when you visit us or use our applications and services.
-
-**Buy Now Shopping Cart Service and In-Store Offers**
-
-When you use our Buy Now shopping cart service, we collect and store your credit card information to assist you in completing purchases quickly and efficiently (for example, so you will not have to type your credit card number to complete a purchase using a mobile device). Similarly, we collect your credit card information in connection with In-Store Offers, pursuant to which you can earn Cash Back on your offline purchases at our merchant partners. In connection with In-Store Offers, we transmit your credit card information to one of our service providers, who uses it to match offers you click with purchases you complete, enabling us to award you Cash Back. We store your credit card information in a secure manner.
-
-**Browser Button and Mobile Application**
-
-When you use the Ebates browser button or the Ebates mobile application, we will collect your browsing history and your Transaction Information. We share this Transaction Information as needed with our affiliate network partners and merchant partners in order to confirm your Cash Back faster and more reliably, and we use it to provide you more relevant and interesting offers. We may also share Transaction Information on an anonymous basis with our corporate affiliates (companies commonly owned by Rakuten, Inc.) in order to understand industry trends. This anonymous Transaction Information may be aggregated with other information and shared as general shopping analysis and trends.
-
-**Social Media**
-
-Our website includes social media features, such as the Facebook Like button and a "share this" button. These features may collect your IP address and the page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features may be hosted by us or a third party. Your interactions with social media features hosted by third parties (such as the Facebook Like button) are governed by the privacy policies of the companies providing them.
-
-**Third Party Log-In Services**
-
-We allow you to log in to Ebates.com and our mobile app using Facebook Connect and Google Connect. These services authenticate your identity and provide you the option to share certain personal information with us such as your name and email address in order to pre-populate our sign up form. These services allow you to share information about your activities on Ebates.com with others in your network. We may integrate with, and make available to you, other third-party log-in services in the future.
-
-**Email Account Connection**
-
-We allow you to connect your personal email account to your Ebates account in order to view your purchase confirmations on Ebates.com. We share this Transaction Information as needed with our affiliate network partners and merchant partners in order to confirm your Cash Back faster and more reliably, and we use it to provide you more relevant and interesting offers. You may choose to connect your email account to your Ebates account, or to disconnect it, by making a selection in the Account Settings section of the My Ebates portion of our site. A connection between your email account and your Ebates account is not required for you to be a member of Ebates and earn Cash Back.
-
-back to top
-
-####  Who Sees Your Personal Information
-
-We share your Personal Information with third parties only in the ways that are described in this privacy policy. We do not sell your Personal Information to third parties.
-
-Only a very limited number of our employees ever have access to your Personal Information, which they use only to track and send the Cash Back payments you earn.
-
-We may use contractors or vendors to help us provide some of the services on Ebates.com, some of whom may be our corporate affiliates (for instance, payment fulfillment or marketing services). If we need to disclose Personal Information for them to provide such services, it is with the requirement that such Personal Information will be kept confidential and will be used only for those services.
-
-We reserve the right to disclose information we collect (including Personal Information) as required by law, such as to comply with a subpoena, bankruptcy proceedings, or other lawful requests by public authorities, and when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on us or our corporate affiliates, or to protect us, our corporate affiliates, or our members from losses.
-
-back to top
-
-####  How We Keep Your Information Secure
-
-The security of your Personal Information is important to Ebates. We use a secure, encrypted connection (called an SSL connection) on all pages where you access or transmit Personal Information. In addition, we encrypt your credit card information that you have given us to store, and maintain industry standard security to safeguard this information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-back to top
-
-####  Your Privacy With Ebates
-
-Ebates will never ask for your email address, username, password or any other Personal Information in an unsolicited phone call, email or letter. Further, any contact with Ebates customer service in which Personal Information is exchanged with a customer service representative will be used only for the purpose of satisfying yourrequest. Any Personal Information you provide will not be recorded or used for any reason beyond that of the stated request.
-
-##### **Referrals**
-
-If you choose to use our referral programs to refer a friend to Ebates, we will ask you for your friend's name and email address. We will automatically send your friend email inviting them to visit Ebates. We store this information for the sole purpose of sending this email and tracking the success of our referral program. Your friend may contact us at  [ customercarereply@ebates.com ](mailto:customercarereply@ebates.com) or  [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). to request that we remove this information from our database.
-
-##### **Changes to This Privacy Policy**
-
-If we materially modify this privacy policy, we will post a change notice in a prominent place on our site or by notifying you by email (sent to the email address specified in your account. We reserve the right to modify this privacy policy at any time, so please review it regularly.
-
-##### **Links to Third Party Websites**
-
-Ebates contains links to many other websites. Each of these websites should have its own privacy policy that may differ materially from this privacy policy. If you wish to receive special offers directly from a merchant partner, neither this privacy policy nor our opt-out policy applies to those communications. Instead, please refer to the relevant merchant partner’s privacy and opt-out policy.
-
-back to top
-
-####  Our Policies on Email
-
-Ebates sends two types of emails to members: customer service emails required to maintain the Ebates program (such as cash back credits and payment notifications) and promotional emails containing offers. You may choose not to receive promotional emails at any time by clicking the "unsubscribe" link in any promotional email or by modifying your subscription preferences in the "My Ebates" section of Ebates.com.
-
-We prohibit spamming by our members via our refer-a-friend capability. If you would like to report an incident of spamming using this functionality, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com). We will investigate and take suitable action.
-
-back to top
-
-####  Cookies and Other Technologies
-
-We, Ebates Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [ here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
-
-We use cookies for authentication, website personalization, and order tracking. Users can control the use of cookies at the individual browser level. If you reject cookies, you will no longer be able to earn Cash Back.
-
-**Other Information We Collect**
-
-As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data to analyze trends. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
-
-**Behavioral Targeting**
-
-We use one or more vendors to manage our advertising on other sites. Our vendors may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-
-back to top
-
-#### Your Choices and Responsibilities
-
-It is your responsibility to update and maintain accurate contact information in your Ebates account. You can make changes by visiting your account page and entering corrections. Upon request, we will provide you with the information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe. The email and street address that you enter into your personal profile page is the information that will be used for all contact with you, including for sending your Cash Back. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
-
-We will retain your information for as long as your account is active or as long as you have a balance greater than zero in your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Please feel free to contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20Inquiry%20Regarding%20Ebates.com) if you have any questions about our privacy policy or our privacy and personal information practices.
-
-back to top
-
-####  Dispute Resolution
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
-
-_Kevin Johnson  
-Chief Executive Officer_
-
-Ebates Inc.  
-160 Spear St, Floor 19  
-San Francisco CA, 94105  
-(415-908-2200)
-
-back to top
