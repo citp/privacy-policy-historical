@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatdeals.com.sg privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611133139id_/http%3A//www.greatdeals.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdeals.com.sg privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230074438id_/http%3A//www.greatdeals.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great Deals Singapore
 
@@ -57,6 +57,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 HOWORKS  
 www.howorks.com  
 53 Chin Swee Road, #02-05 Singapore 160053  
-general@greatdeals.com.sg
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on August 1, 2013
