@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630150754id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230101600id_/https%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement : U.S. Bureau of Labor Statistics
 
