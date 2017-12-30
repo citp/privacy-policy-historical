@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630195341id_/http%3A//pegitboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pegitboard.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230222735id_/http%3A//www.pegitboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Pegitboard
 
