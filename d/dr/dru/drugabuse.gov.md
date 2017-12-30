@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427002520id_/https%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230141240id_/https%3A//www.drugabuse.gov/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | National Institute on Drug Abuse (NIDA)
 
