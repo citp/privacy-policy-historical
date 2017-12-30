@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscrapercity.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043455id_/http%3A//www.skyscrapercity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscrapercity.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231003948id_/http%3A//www.skyscrapercity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - SkyscraperCity
 
@@ -49,9 +49,8 @@ SkyscraperCity.com reserves the right to change this Privacy Policy as it deems 
 We invite you to contact us if you have questions about this policy. You may contact at the following address:
 
 SkyscraperCity bv  
-Westewagenstraat 60  
-Unit 4L  
-Rotterdam, 3011 AT  
+PO Box 3639  
+Rotterdam, 3003AP  
 The Netherlands
 
-Or, you may contact us by [email](mailto:ssc@skyscrapercity.com) or via Private Message in the forums. 
+Or, you may contact us by [email](https://web.archive.org/cdn-cgi/l/email-protection#433030200330283a30203122332631202a373a6d202c2e) or via Private Message in the forums. 
