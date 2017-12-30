@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630124114id_/http%3A//www.poetry4kids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetry4kids.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230063236id_/http%3A//poetry4kids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kenn Nesbitt's Poetry4kids.com
 
@@ -47,4 +47,4 @@ Kenn Nesbitt
 1314 S. Grand Blvd. #2-321  
 Spokane, WA 99202  
 509-987-5366  
-kenn@poetry4kids.com
+[[email protected]](http://www.poetry4kids.com/cdn-cgi/l/email-protection)
