@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skyscanner.net privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628082908id_/https%3A//www.skyscanner.net/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.net privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230083319id_/https%3A//www.skyscanner.net/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
 Skyscanner is committed to protecting and respecting your privacy and we make it our highest priority to safeguard the confidentiality of any and all personal information you provide to us. 
 
-This policy, together with our [Terms of Service](http://www.skyscanner.net/termsofservice.aspx) and [Cookie Policy](http://www.skyscanner.net/cookiepolicy.aspx), sets out the approach that we, [Skyscanner Limited](https://www.skyscanner.net/companydetails.aspx), take to the collection and handling of any such information and applies to all websites, mobile apps and other services operated by us such as newsletters and price alerts (the “Skyscanner Services”). 
+This policy, together with our [Terms of Service](https://www.skyscanner.net/termsofservice.aspx) and [Cookie Policy](https://www.skyscanner.net/cookiepolicy.aspx), sets out the approach that we, [Skyscanner Limited](https://www.skyscanner.net/companydetails.aspx), take to the collection and handling of any such information and applies to all websites, mobile apps and other services operated by us such as newsletters and price alerts (the “Skyscanner Services”). 
 
 By using the Skyscanner Services you are deemed to agree to our use of your information in accordance with this policy. We encourage you take a few minutes to read through and [contact us](https://help.skyscanner.net/) if you have any queries. 
 
@@ -92,7 +92,7 @@ The information we collect from you is stored on secure servers in various locat
 
 We use a combination of cookies and similar tracking technologies (for example, on mobile devices we use non-persistent device ID techniques like IDFA and Android Advertising) to collect, in line with this policy, Non-Personal Information from you relating to how you are using the Skyscanner Services. Please see our [Cookie Policy](https://www.skyscanner.net/cookiepolicy.aspx) for more detailed information on how the Skyscanner Services make use of these technologies. 
 
-As explained above, third party advertisers will also collect Non-Personal Information from you using cookies and similar technologies for the purposes of serving you relevant adverts both on the Skyscanner Services and on other third party platforms as you move around the web, including on different devices. You may be able to control how these technologies are applied to you via the settings in your browser or on your mobile’s operating system. For more information and to know your choices, see the [Network Advertising Initiative website](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options/). 
+As explained above, third party advertisers will also collect Non-Personal Information from you using cookies and similar technologies for the purposes of serving you relevant adverts both on the Skyscanner Services and on other third party platforms as you move around the web, including on different devices. You may be able to control how these technologies are applied to you via the settings in your browser or on your mobile’s operating system. For more information and to know your choices, see the [Network Advertising Initiative website](https://www.networkadvertising.org/understanding-online-advertising/what-are-my-options/). 
 
 **Do third party platforms comply with this policy?**
 
@@ -106,11 +106,11 @@ The Skyscanner Services are not intended for children under 13 years of age, and
 
 If you have created an account with Skyscanner you can manage some of your Personal Information and subscription preferences from within your profile settings.
 
-You also have the right to ask us not to process your Personal Information for marketing purposes at any time. You can exercise this right by [contacting us](http://www.skyscanner.net/contactus.aspx) at any time. You can also opt-out of receiving any non-essential emails, including marketing emails, by clicking the unsubscribe link contained at the bottom of such emails.
+You also have the right to ask us not to process your Personal Information for marketing purposes at any time. You can exercise this right by [contacting us](https://www.skyscanner.net/contactus.aspx) at any time. You can also opt-out of receiving any non-essential emails, including marketing emails, by clicking the unsubscribe link contained at the bottom of such emails.
 
 We are happy to provide you with details of the Personal Information we are holding about you at any point in time. Where you wish to make such a request, please submit it in writing, along with proof of your identity, to Skyscanner, Quartermile One, 15 Lauriston Place, Edinburgh EH3 9EN marked for the attention of ‘Chief Legal Officer’.
 
-There are a number of useful tools and resources you can use to control your privacy online, for example via [Your Online Choices](http://www.youronlinechoices.eu/) or the [Network Advertising Initiative](https://www.networkadvertising.org/). We particularly recommend you get to know the privacy features and settings of the browser you use. 
+There are a number of useful tools and resources you can use to control your privacy online, for example via [Your Online Choices](https://www.youronlinechoices.eu/) or the [Network Advertising Initiative](https://www.networkadvertising.org/). We particularly recommend you get to know the privacy features and settings of the browser you use. 
 
 **Contacting Us**
 
