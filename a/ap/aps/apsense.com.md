@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsense.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628081453id_/http%3A//www.apsense.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsense.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230070021id_/http%3A//www.apsense.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | APSense.com
 
