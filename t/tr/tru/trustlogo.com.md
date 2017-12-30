@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trustlogo.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630012958id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlogo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230171126id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
 # Policies and Practices of the Comodo Companies
 
-This privacy policy describes the policies and practices of the different Comodo companies, including Comodo CA Limited, Comodo Group, Inc., Comodo Security Solutions, Inc., and DNSbyComodo.com, LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
+This privacy policy describes the policies and practices of the different Comodo companies, including Comodo Group, Inc., Comodo Security Solutions, Inc., and DNS.COM, LLC (collectively and individually referred to herein as "Comodo"), in collecting, using, and safeguarding the private information that may be obtained through use of each company's products, services and websites. Questions about this privacy policy may be submitted by an email to [privacy@comodo.com](mailto:privacy@comodo.com). This privacy policy applies to each of the Comodo entities, but not to Comodo's partners or affiliates, which may have separate privacy policies.
 
 **Information Collection**
 
@@ -12,7 +12,7 @@ If you are located in California, IP addresses are considered personally identif
 
 In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply.  Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
 
-For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20170630012958id_/http%3A//www.comodo.com/repository/css-information-collection.php)
+For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20171230171126id_/http%3A//www.comodo.com/repository/css-information-collection.php)
 
 **Children’s Online Privacy Protection Act Statement**
 
@@ -44,8 +44,6 @@ Comodo uses log files comprising of non-personally identifiable information to a
 
 Comodo will share aggregated demographic and other information with our partners and affiliates. Information provided to Comodo will be protected by Comodo and not sold or rented to any unrelated third parties without the express consent of the information provider, except that Comodo may disclose data to its affiliates and business partners who have established similar privacy standards, when legally obligated to do so, or if disclosure is required to protect the rights over Comodo, Comodo's customers, or the users of Comodo's services. Comodo may also share aggregate demographic data that does not contain any personally identifiable information.
 
-Validation is an essential step in receiving a Certificate from Comodo CA. This validation may require verifying your information with a third party as described in the Comodo CPS. Comodo CA may disclose the information provided to the extent necessary to verify the certificate application.
-
 **External Links**
 
 The Comodo website contains links to external websites which are outside the scope of this privacy statement. Comodo is not responsible for the privacy practices of such other sites and does not control the accuracy of information displayed by such websites.
@@ -73,5 +71,3 @@ Customers may occasionally receive information on products, services, and specia
 **Amendments to this Privacy Policy**
 
 Comodo reserves the right to amend this privacy policy at any time. Any amendment will be made by posting the changes to the website. Customers must check the website periodically to be aware of any changes to the privacy statement. Your continued use of the website or Comodo product or service constitutes your acceptance of those changes.
-
-**Last Updated: July 1, 2016**
