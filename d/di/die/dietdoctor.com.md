@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dietdoctor.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204072044id_/https%3A//www.dietdoctor.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdoctor.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230235356id_/https%3A//www.dietdoctor.com/terms) for the most accurate reproduction.*
 
-# Terms and Conditions - Diet Doctor
+# Terms and conditions - Diet Doctor
 
 Welcome to Diet Doctor! 
 
@@ -18,13 +18,13 @@ For questions or concerns about any medical conditions you may have, please cont
 
 ## Copyright
 
-Feel free to use our articles and guides as long as you add a clearly visible link or reference to our site, and indicate if changes to our content were made. You may use such content in any reasonable manner, but not in any way that suggests Diet Doctor endorses you or your usage of our content.
+Feel free to use and translate our articles and guides as long as you add a clearly visible link or reference to our site (on every page), and indicate if changes to our content were made. You may use such content in any reasonable manner, but not in any way that suggests Diet Doctor endorses you or your usage of our content.
 
 You may not use our recipes or membership content unless you have obtained the right to do so from us. 
 
 You may not use our content for commercial purposes unless you have obtained the right to do so from us.
 
-## Privacy Policy
+## Privacy policy
 
 DietDoctor.com stores and uses personal information in order to provide you with good service. We will never sell your information, and will only share it with third parties as described [here](https://www.dietdoctor.com/terms#third-parties).
 
@@ -32,7 +32,7 @@ We are committed to protect your information and use leading technologies and en
 
 ### The information we store
 
-#### Comments, Ratings, Favorites, Questions and similar information
+#### Comments, ratings, favorites, questions and similar information
 
 When you submit information to DietDoctor.com to comment on posts and articles, rate a recipe or video, answer a question, or mark content as favorite or to watch later, the internet address you’re using will be stored in addition to the information you’re entering.
 
@@ -42,7 +42,9 @@ A member’s name, email address and internet address used when ordering a memb
 
 Your stored personal information and order information are displayed on your [account page](https://www.dietdoctor.com/my-account) once you have become a member.
 
-#### Access Logs
+We also store your answers to surveys you may reply to via email or on DietDoctor.com.
+
+#### Access logs
 
 DietDoctor.com stores standard access logs of all visits to the site. This includes access time, URL, internet address, and browser information.
 
@@ -72,7 +74,7 @@ DietDoctor.com uses Amazon SES to send most e-mails. Apart from name and e-mail 
 
 DietDoctor.com uses Braintree and PayPal to process payments. When you pay, the information required to process the payment is handled through SSL encryption by our payment-service provider Braintree (or PayPal if you use that payment option).
 
-#### Fastly and MaxCDN
+#### Fastly and StackPath
 
 DietDoctor.com uses content delivery services to speed up access to the site. As requests to DietDoctor.com pass through these services they will get standard access information for each request sent.
 
@@ -83,6 +85,10 @@ DietDoctor.com uses Google Analytics to help us understand how our website is us
 #### MailChimp
 
 DietDoctor.com uses MailChimp to send our newsletters and some other e-mails, like for the 2-week challenge. For those who are signed up to the newsletters MailChimp will store e-mail information, and information about how you interact with individual e-mails (like open- and click rates).
+
+#### Promoter.io
+
+DietDoctor.com uses Promoter.io to get feedback from users of our website. Promoter.io stores this information.
 
 #### Sharing buttons and widgets for FaceBook, Pinterest and Twitter
 
@@ -95,6 +101,12 @@ DietDoctor.com uses VaultPress to back up our data in order to prevent data loss
 #### Vimeo and YouTube
 
 DietDoctor.com uses video services (Vimeo, YouTube, etc.) that store their own third-party cookies.
+
+### Use of information from third parties 
+
+#### USDA National Nutrient Database for Standard Reference
+
+DietDoctor.com uses the USDA National Nutrient Database for Standard Reference, Release 28, to provide nutritional information about our recipes. The current version of this database is from September 2015, slightly revised in May 2016. 
 
 ### The right to request and modify personal information
 
@@ -138,5 +150,3 @@ Do you have other questions or thoughts? Please feel free to email [support@diet
 [My account](https://www.dietdoctor.com/my-account)
 
 [Membership pages](https://www.dietdoctor.com/member)
-
-Dietdoctor.com uses cookies to ensure that you have the best possible experience. By continuing without changing your settings, you are accepting the use of cookies.I Understand [Read More](http://www.dietdoctor.com/member/details#cookies)
