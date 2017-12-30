@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzdrives.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616022103id_/http%3A//buzzdrives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzdrives.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230161049id_/http%3A//buzzdrives.com/privacy-policy) for the most accurate reproduction.*
 
 # Buzzdrives.com | Privacy policy
 
