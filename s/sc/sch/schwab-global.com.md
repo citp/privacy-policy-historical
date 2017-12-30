@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193951id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230125113id_/http%3A//international.schwab.com/public/international/nn/legal_compliance/privacy_and_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
 #### A commitment to your privacy
 
-[View this notice in PDF format](http://international.schwab.com/public/file?cmsid=P-8708267&cv4)
+[View this notice in PDF format](http://international.schwab.com/public/file?cmsid=P-974035&cv8)
 
-Rev. July 2016
+Rev. July 2017
 
 ### FACTS
 
@@ -22,7 +22,9 @@ Rev. July 2016
   * Investment experience and assets 
 
   
-**How?** | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons The Charles Schwab Corporation chooses to share; and whether you can limit this sharing.  
+**How?** | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the   
+reasons financial companies can share their customers’ personal information; the reasons The Charles Schwab Corporation chooses to   
+share; and whether you can limit this sharing.  
 Reasons we can share your personal information | Does The Charles Schwab Corporation share? | Can you limit this sharing?  
 ---|---|---  
 **For our everyday business purposes** —such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus. | YES | NO  
@@ -67,7 +69,7 @@ Definitions
 **Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.   
 
 
-  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, optionsXpress, Inc., ThomasPartners, Inc.,  Windhaven Investment Management, Inc., and Charles Schwab Trust Company; and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
+  * _Our affiliates include companies with a Charles Schwab name; financial companies such as: Charles Schwab & Co., Inc., Charles Schwab Bank, ThomasPartners, Inc.,  Windhaven Investment Management, Inc., and Charles Schwab Trust Company; and nonfinancial companies such as Schwab Performance Technologies, and Compliance11, Inc._
 
   
 **Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.   
@@ -86,11 +88,14 @@ Other important information
 ---  
 **State and International Laws**  
 If you are a Vermont resident, we will automatically limit sharing of your information. Nevada law requires us to disclose that you may request to be placed on Schwab's internal "do not call" list at any time by calling **1-800-435-4000** , and that we are providing this notice to you pursuant to state law, and that you may obtain further information by contacting the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101; phone 1- **702-486-3132** ; email [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us).  
-Charles Schwab, U.K., Limited   
-Charles Schwab, U.K., Limited ("Schwab U.K.") introduces residents of the United Kingdom or Switzerland to Charles Schwab & Co., Inc. and processes personal information in accordance with the privacy policy of Schwab and various privacy laws of the United Kingdom. Clients introduced by Schwab U.K. may obtain further information at [www.schwab.co.uk](http://www.schwab.co.uk/).  
+  
+This notice does not apply to clients who reside in the European Economic Area (“EEA”). To learn more about Schwab’s privacy policy for EEA resident   
+clients, go to www.schwab.co.uk/privacy. [www.schwab.co.uk/privacy](http://www.schwab.co.uk/public/schwab-uk-en/nn/legal_compliance/privacy.html).  
 Charles Schwab, Hong Kong, Limited   
-Charles Schwab, Hong Kong, Limited ("Schwab H.K.") has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers (such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab's privacy policy and various privacy laws of Hong Kong. Clients of Schwab H.K.should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com.hk/).
+Charles Schwab, Hong Kong, Limited (“Schwab H.K.”) has contracted with Charles Schwab & Co., Inc. to perform certain services for their customers   
+(such as execution, clearance, settlement of trades, and custody of assets), and processes personal information in accordance with Schwab’s privacy   
+policy and various privacy laws of Hong Kong. Clients of Schwab H.K. should also review the privacy terms contained in their account agreement, available at [www.schwab.com.hk](http://www.schwab.com.hk/).
 
 To learn more about our online privacy practices (e.g. "tracking"), please go to [www.schwab.com/privacy](http://www.schwab.com/privacy).  
   
-©2016 The Charles Schwab Corporation. All rights reserved. CC0494006 REG60835FM-06 (07/16)
+©2017 The Charles Schwab Corporation. All rights reserved. CC1054007 (0717-ZAN5) REG60835FM-07 (07/17)
