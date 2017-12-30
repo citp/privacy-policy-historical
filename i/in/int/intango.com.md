@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626034917id_/http%3A//intango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intango.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230025922id_/http%3A//intango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Intango
 
