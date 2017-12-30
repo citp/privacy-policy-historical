@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the akaipro.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044729id_/http%3A//akaipro.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akaipro.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230020130id_/http%3A//www.akaipro.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Akai Professional - Iconic music production gear, including the legendary MPC
+# AKAI Professional
 
-_Last Updated: 14 July 2015_
+## Privacy Policy
+
+* * *
 
 InMusic has created this Privacy Policy Statement in order to inform you of our commitment to privacy and to describe our policies for the collection, use, and disclosure of personal information that may be collected by InMusic when you visit our websites. 
 
 PLEASE REVIEW THIS PRIVACY POLICY BEFORE USING THIS OR ANY OTHER INMUSIC WEBSITES (inMusicbrands.com, airmusictech.com, akaipro.com, akaiprompc.com, denondj.com, denonpro.com, marantzpro.com, mixmeister.com, numark.com, ionaudio.com, alesis.com, altoprofessional.com, m-audio.com, sonivoxmi.com). IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, DO NOT USE OUR SITES. WHERE APPLICABLE, BY SUBMITTING ANY PERSONAL INFORMATION TO OUR SITES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY STATEMENT.
 
-### General Information
+#### General Information
 
 * * *
 
@@ -36,7 +38,7 @@ We may also use this information to send you information about InMusic, our prod
 
 InMusic aggregates information provided by you to create anonymous statistical and demographic data. This anonymous data helps InMusic to understand and know its customer base better. That anonymous data may be provided to third parties but never in such a fashion as to identify you personally.
 
-### Third Parties
+#### Third Parties
 
 * * *
 
@@ -48,23 +50,23 @@ On occasion, InMusic may offer in conjunction with third parties certain product
 
 Certain portions of our sites are designed to offer you the opportunity to post information on our sites, including but not limited to information about yourself ("User Materials"). You should always remember that publicly displayed information is public. For example, you may be permitted to post your resume information, a video you have created, or to post messages in any chat rooms, message boards, mailing lists, and/or news groups our sites make available to its users. If you use a forum, bulletin board or chat room on an InMusic website you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. InMusic is not responsible for the personally identifiable information you choose to submit in these forums.
 
-### Law Enforcement
+#### Law Enforcement
 
 * * *
 
 As noted in the Terms of Use InMusic intends to cooperate with any order or request from law enforcement officials or a court of competent jurisdiction for information as to the identity of individuals submitting or posting information to InMusic or on this site. Such orders or requests supersede the terms of this Privacy Policy. Similarly, notifications of claimed copyright infringement, counter notifications or other information submitted to and necessary to process a notification under our Copyright Complaint Policy are also exempt from this Privacy Policy.
 
-### InMusic Links to Other Sites and Advertising
+#### InMusic Links to Other Sites and Advertising
 
 Our sites may display advertisements and/or links to third parties. InMusic is not responsible for the privacy practices or the content of those websites. Please refer to that company's privacy policy for further information.
 
-### Surveys
+#### Surveys
 
 * * *
 
 From time to time, InMusic may make online surveys available to users of our sites. Participation in those surveys is voluntary. Some online surveys may ask participants for personal information, such as an email address, in addition to requesting answers to survey questions. InMusic may use that personal information to contact the participant if necessary, or as otherwise described above. InMusic may make the results of any survey publicly available, although InMusic will not attribute any particular response to you without your permission.
 
-### Contests
+#### Contests
 
 * * *
 
@@ -72,13 +74,13 @@ On occasion, InMusic may make available to users of our sites, contests, sweepst
 
 InMusic may permit a third party to sponsor a survey, contest, sweepstakes, or other similar event ("third party event") with InMusic, such as through posting it on our sites. Such third party events are governed solely by any applicable rules, and may require you to provide information to that third party as a condition for participation. While InMusic will treat any information it receives in accordance with this Privacy Policy, InMusic is not responsible for the information gathered by that third party, and InMusic reminds you to review the rules and privacy policies separately applicable to those third party events.
 
-### Children
+#### Children
 
 * * *
 
 While not intended for nor target to children, some of InMusic’s websites may appeal to children under the age of 18; however, we do not wish nor intended to receive data from children. We encourage parents and guardians to spend time online with their children and to participate in the interactive activities offered on the sites their children visit. No information should be submitted to, or posted at, InMusic websites by visitors under 18 years of age without the consent of their parent or guardian.
 
-### Security
+#### Security
 
 * * *
 
@@ -90,19 +92,19 @@ Generally speaking, our sites have security measures in place to protect against
 
 inMusic websites may provide certain additional, optional services that may use additional security measures to protect the information, such as financial information, provided by you to obtain the service. Those additional security measures may vary, depending upon the particular service offered. You will be informed of any specific security measures at the time you register for a particular service. Please review that information where applicable for further detail.
 
-### Site Registration
+#### Site Registration
 
 * * *
 
 In some cases, you may be prompted to register with our sites to undertake a particular site activity or obtain a particular service. As part of that registration, you may be asked to choose your own password. InMusic reminds you to protect your password, and not provide it to others to use. Allowing others to access and use your account and password can compromise the security of your information. InMusic disclaims any responsibility or obligation for your decision to provide your password to others.
 
-### Changes To This Policy
+#### Changes To This Policy
 
 * * *
 
 If and when InMusic makes changes to this site, InMusic may have to update this Privacy Policy Statement to better reflect those changes. Because changes to our sites or updates to this Privacy Policy Statement may occur, you should review this Privacy Policy Statement from time to time. Remember, your decision to continue using our sites after this Privacy Policy Statement is updated will signify that you have agreed to any new terms.
 
-### Accept / Decline
+#### Accept / Decline
 
 * * *
 
@@ -114,7 +116,7 @@ Typically you accept to receive communications when you submit information to ou
 
 
 
-### Contacting The Website
+#### Contacting The Website
 
 * * *
 
@@ -128,7 +130,7 @@ Attention : Webmaster
 Cumberland, RI 02864   
 U.S.A 
 
-### Notice To European Users
+#### Notice To European Users
 
 * * *
 
