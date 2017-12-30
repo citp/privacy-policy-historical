@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626050043id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230201948id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
 
 # AdMedia Online Ad Network | Advertiser Solutions
 
@@ -100,4 +100,4 @@ We may update this privacy policy to reflect changes to our information practice
 
 In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [copyright@admedia.com](mailto:copyright@admedia.com).
 
-AdMedia 901 W. Alameda Ave., Suite 102, Burbank, CA 91506
+303 North Glenoaks Blvd., Suite 200, Burbank, CA 91502
