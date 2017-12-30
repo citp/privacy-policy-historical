@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524201750id_/http%3A//www.fastreact.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230213025id_/http%3A//www.fastreact.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
