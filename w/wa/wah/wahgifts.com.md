@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wahgifts.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209231434id_/http%3A//www.wahgifts.com/privacy-policy%3F%26utm_source%3DWahGifts%26utm_medium%3Dweb%26utm_campaign%3Dfooter_main_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wahgifts.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231002223id_/http%3A//www.wahgifts.com/privacy-policy) for the most accurate reproduction.*
 
 # WahGifts.com - Privacy Policy
 
