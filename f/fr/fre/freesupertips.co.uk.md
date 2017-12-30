@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesupertips.co.uk privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625114606id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230155547id_/http%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Super Tips
 
@@ -85,4 +85,4 @@ We agree to the individual redress principle, which requires that individuals ha
 
 freesupertips.co.uk
 
-info@freesupertips.co.uk
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
