@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal-portal.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630102018id_/https%3A//www.paypal.com/us/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-portal.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230235527id_/https%3A//www.paypal.com/us/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
