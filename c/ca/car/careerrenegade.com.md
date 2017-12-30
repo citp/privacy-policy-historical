@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the careerrenegade.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628193846id_/http%3A//careerrenegade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerrenegade.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230195758id_/http%3A//careerrenegade.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Career Renegade
+
+## Privacy Policy:
 
 Jack O'Connell (" **Jack** ") operates CareerRenegade.com and may operate other websites. It is Jack's policy to respect your privacy regarding any information we may collect while operating our websites.
 
