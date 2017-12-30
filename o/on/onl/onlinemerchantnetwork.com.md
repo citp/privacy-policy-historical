@@ -1,22 +1,14 @@
-> *The following text is extracted and transformed from the onlinemerchantnetwork.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231191551id_/https%3A//www.paypal.com/us/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemerchantnetwork.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230235527id_/https%3A//www.paypal.com/us/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
 >> [View all legal agreements](https://www.paypal.com/us/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-Effective Date: October 1, 2015
-
- 
+Effective Date: March 29, 2017
 
 **Your Privacy Rights**
 
 This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them.
-
-The PayPal website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If this policy or our customer support team cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe certification applies to only information that is collected through this website.
-
-[](https://privacy.truste.com/privacy-seal/PayPal/validation?rid=29e80c36-8b02-499f-b02a-5a2f638e0a36 "TRUSTe online privacy certification")
 
 **Jump to section:**
 
@@ -36,7 +28,7 @@ The TRUSTe certification applies to only information that is collected through t
 
 ### Scope and Consent
 
-You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively “PayPal Services”). This Privacy Policy is intended to govern the use of PayPal Services by our users (including, without limitation those who use the PayPal Services in the course of their trade or business) unless otherwise agreed through contract.  We may amend this Privacy Policy at any time by posting a revised version on our website. The revised version will be effective as of the published effective date. In addition, if the revised version includes a substantial change, we will provide you with 30 days’ prior notice by posting notice of the change on the "Policy Updates" page of our website. After this 30-day notice period, you will be considered as having expressly consented to all amendments to this Privacy Policy.
+You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies or functions offered on our website and all related sites, applications, and services (collectively “PayPal Services”). This Privacy Policy applies US law and is intended to govern the use of PayPal Services by our users (including, without limitation those who use the PayPal Services in the course of their trade or business) in the United States, unless otherwise agreed through contract. We may amend this Privacy Policy at any time by posting a revised version on our website. The revised version will be effective as of the published effective date. In addition, if the revised version includes a substantial change, we will provide you with 30 days’ prior notice by posting notice of the change on the "Policy Updates" page of our website. After this 30-day notice period, you will be considered as having expressly consented to all amendments to this Privacy Policy.
 
 **Back to top**
 
@@ -89,7 +81,7 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 
 
-We may contact you via electronic means or postal mail to notify you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, or as otherwise necessary to service your account. Additionally, we may contact you to offer coupons, discounts and promotions, and inform you about PayPal Services and the services of our corporate family. Finally, we may contact you as necessary to enforce our policies, applicable law, or any agreement we may have with you. When contacting you via phone, to reach you as efficiently as possible we may use, and you consent to receive, autodialed or prerecorded calls and text messages as described in our User Agreement. Where applicable and permitted by law, you may decline to receive certain communications.
+We may contact you via electronic means or postal mail to notify you regarding your account, to troubleshoot problems with your account, to resolve a dispute, to collect fees or monies owed, to poll your opinions through surveys or questionnaires, or as otherwise necessary to service your account. Additionally, we may contact you to offer coupons, discounts and promotions, and inform you about PayPal Services and the services of our corporate family. Finally, we may contact you as necessary to enforce our policies, applicable law, or any agreement we may have with you. To reach you as efficiently as possible, we may contact you via phone, and may use autodialed or prerecorded calls and text messages as described in our User Agreement. Where applicable and permitted by law, you may decline to receive certain communications.
 
 **Back to top**
 
@@ -118,7 +110,9 @@ For more detailed information on our use of these technologies, please see our p
 
 Throughout this Privacy Policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous so that it does not identify a specific user.
 
-We store and process your personal information on our computers in North America, Asia, Europe and elsewhere in the world where our facilities are located. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls.
+Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, the use of third-party service providers. We, and third-party service providers on our behalf, store and process your personal information in the United States and elsewhere in the world. If your information is transferred to other countries, including countries which may not have data protection laws that provide the same level of protection that exists in your country, we will protect the information as described in this Privacy Policy.
+
+We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to data centers, and information access authorization controls.
 
 **Back to top**
 
@@ -184,6 +178,6 @@ You can review and edit your personal information at any time by logging in to y
 
 ### How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this form**](http://www.paypal.com/ewf/f=ci_prv).
+If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this form**](https://www.paypal.com/us/selfhelp/contact/email/privacy).
 
 **Back to top**
