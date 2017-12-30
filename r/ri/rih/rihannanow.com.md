@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rihannanow.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610102313id_/http%3A//www.rihannanow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rihannanow.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230132641id_/http%3A//www.rihannanow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rihanna
 
@@ -72,13 +72,13 @@ This Policy describes how we treat personal information we collect both online a
 
 If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-To exercise your rights, you can email us at [privacy@rihannanow.com](mailto:privacy@rihannanow.com) or write to us at the address below. Mention in your letter that you are making a “California Shine the Light” inquiry. We will respond within 30 days.
+To exercise your rights, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1666647f6077756f56647f7e777878777879613875797b) or write to us at the address below. Mention in your letter that you are making a “California Shine the Light” inquiry. We will respond within 30 days.
 
 **These sites and apps are not intended for children.**
 
-Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [privacy@rihannanow.com](mailto:privacy@rihannanow.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0777756e7166647e47756e6f666969666968702964686a). You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.”
 
-Learn more about COPPA [here](http://www.business.ftc.gov/privacy-and-security/children%27s-privacy).
+Learn more about COPPA [here](https://www.business.ftc.gov/privacy-and-security/children%27s-privacy).
 
 **We use standard security measures.**
 
@@ -94,7 +94,7 @@ If you click on one of those links, you will be taken to websites we do not cont
 
 **Feel free to contact us if you have more questions.**
 
-If you have any questions about this Policy or other privacy concerns, you can email us at [privacy@rihannanow.com](mailto:privacy@rihannanow.com). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
+If you have any questions about this Policy or other privacy concerns, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bececcd7c8dfddc7feccd7d6dfd0d0dfd0d1c990ddd1d3). Please do not include your credit card number or other sensitive information in your email. You can also write us at:
 
 Roc Nation, LLC  
 1411 Broadway, 39th Floor  
