@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629193129id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022156id_/https%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
