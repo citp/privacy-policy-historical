@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swavlambancard.gov.in privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126032334id_/http%3A//www.swavlambancard.gov.in/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swavlambancard.gov.in privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230073147id_/http%3A//www.swavlambancard.gov.in/cms/privacy-policy) for the most accurate reproduction.*
 
-# Unique Disability ID
+# Privacy Policy : Unique Disability ID - Department of Empowerment of Persons with Disabilities
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
@@ -12,7 +12,7 @@ We will not identify users or their browsing activities, except when a law enfor
 
 ### Cookies
 
-A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies.
+A cookie is a piece of software code that an Internet web site sends to your browser when you access information at that site. This site does not use cookies.
 
 ### Email Management
 
