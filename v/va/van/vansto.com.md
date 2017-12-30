@@ -1,117 +1,152 @@
-> *The following text is extracted and transformed from the vansto.com privacy policy that was archived on 2015-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150419180731id_/http%3A//www.vansto.com/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vansto.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230184737id_/http%3A//www.vansto.com/sample-page) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - Telegraph
+# Privacy Policy – Vansto Finance
 
-"Telegraph Media Group” includes Telegraph Media Group Limited, Telegraph Events Limited (previously VOS Media Limited) and QP Magazine Limited. When we collect your information we may share it across our group companies. 
+PRIVACY POLICY FOR: Born Finance
 
-This Privacy and Cookie Policy explains how Telegraph Media Group uses personal information we collect and how you can limit our use of that personal data. 
+This privacy statement is created in order to demonstrate our continuing commitment to the privacy of personal information provided by those visiting and interacting with this  
+web site.This privacy policy sets out how “Born Finance” uses and protects any information that you give “Born Finance” when you use this website.
 
-**1\. What information do we gather?**
+“Born Finance” is committed to ensuring that your privacy is protected and holds your privacy to the highest regard. Should we ask you to provide certain information by which you  
+can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-1.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. a visitor’s behaviour patterns when they visit our website). 
+“Born Finance” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This  
+policy is effective from December 20, 2011.
 
-We collect information that does not identify you to evaluate our site, ensure that our site and services run properly and ensure we are paid for advertising services we offer. 
+We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you  
+provide to us and to assist you in making informed decisions when using our site.
 
-We might also collect your IP address through the placement of cookies (see sections 6 and 7 on cookies and their management, below). 
+What Information We Collect?
 
-**2\. How do we gather information?**
+When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and  
+Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-2.1 Information is gathered in two ways: 
+1\. Personal Information You Choose to Provide
 
-(1) indirectly (e.g. using website technology or technology when you use a Telegraph application for a mobile device); and 
+Registration Information
 
-(2) directly (e.g. when you buy a subscription, sign up to create a telegraph.co.uk profile, download a mobile device application or you otherwise provide your information when you interact with us). 
+When you register for any of our products, services or newsletters you will provide us information about yourself.
 
-**3\. How do you decide how you want to hear from us?**
+Credit Card Information
 
-3.1 We always explain why and how we might contact you at the point you give your information to us. We also provide the means for you to grant or withhold your permission for us to contact you We do this by using opt-out tick boxes. If the boxes aren’t there, it’s because we will not use your information for any other purpose than that for which you give it (e.g. to administer a subscription). 
+If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need  
+to provide the following information:
 
-3.2 When responding to promotions, offers etc. by postcard, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating "No Offers". 
+-Name
 
-3.3 If you have signed up to receive marketing from us by text, to stop this, please reply STOP to the last message you received. 
+-Mailing address
 
-**4\. How we use your information**
+-Email address
 
-4.1 We might use your information to: 
+-Credit card number
 
-(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail; 
+-Name on credit card
 
-(2) place your anonymised information into audience segments to identify your interests so that we might serve you with advertisements and offers that will interest you 
+-Credit card billing address
 
-(3) ensure any products or services you receive are correctly administered (including subscriptions); 
+-Business and home phone number
 
-(4) contact you by email, mail, telephone or sms text message to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) but only according to the permissions you give us; 
+Email Information
 
-(5) ensure materials on the website or in apps are presented in the most effective manner for you and your computer or mobile device; 
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same  
+protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-(6) collate and log numeric internet addresses to improve the website and to monitor website usage; 
+2\. Web Site Use Information
 
-(7) assess and understand customer feedback and identify usage hotspots; 
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and web server log files to  
+collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time  
+spent at our Web site, and the Web sites visited just before and just after our Web site.
 
-4.2 If you have subscribed to any of or services, we will use the information you provide to keep you updated on those services unless you have told us otherwise. 
+How Do We Use the Information That You Provide to Us?
 
-**5\. Accessing and updating your personal information**
+Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment,  
+, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site’s content, layout, services and  
+for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
 
-5.1 You can update your details and marketing preferences by accessing your account pages on the website, by emailing data.protection@telegraph.co.uk or by writing to us at Data Department, Victory House, Meeting House Lane, Chatham, Kent, ME4 4TT. 
+Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except  
+as required by law.
 
-5.2 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to data.protection@telegraph.co.uk. There will be an administrative charge of £10 for providing a copy of this information. 
+Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable.  
+You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-**6\. Cookies**
+What Are Cookies?
 
-6.1 A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on http://www.cookiecentral.com. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to  
+store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it,  
+but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are  
+usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your  
+browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your  
+hard drive or pass on computer viruses.
 
-6.2 We use the following types of cookie: 
+How Do We Use Information We Collect from Cookies?
 
-(1) Analytics cookies that anonymously remember your computer or mobile device when you visit our website. They keep track of browsing patterns and build up a profile of how our readers use the website. We might use that information to target advertisements to you on our and other websites. 
+As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more  
+than is necessary for security. Cookies, in conjunction with our Web server’s log files, allow us to calculate the aggregate number of people visiting our Web site and which  
+parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal  
+information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
-(2) Service cookies that help us to make our website work as efficiently as possible; remember your registration and login details; remember your settings preferences; and meter the number of pages you view for the purpose of administering subscriptions to The Telegraph. 
+IP Addresses
 
-(3) Third party advertising and analytics cookies, which are placed by or on behalf of independent advertisers who are advertising on our site. These cookies may be placed within the advertisement and elsewhere on our site. They are anonymous – they cannot identify individuals. They are used for statistical analysis by allowing the advertiser to count how many people have seen their advertisement or have seen it more than once. They might also allow the advertiser to tailor advertising to you when you visit other websites. 
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your  
+computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you  
+request) can be sent to you.
 
-6.3 We have no access to third party cookies and third party organisations have no access to ours. The third party organisations that place cookies have their own strict privacy policies. 
+Sharing and Selling Information
 
-**7\. Managing your cookies preferences**
+We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it  
+is necessary to process transactions or provide services that you have requested.
 
-7.1 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates. 
+How Can You Access and Correct Your Information?
 
-7.2 If you would prefer to just restrict third party cookies, visit www.myonlinechoices.com or click on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies. 
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
 
-7.3 ComScore, Inc (www.comscore.com) is one of the third parties we use to provide us with information about how users use our website. Click here to learn more information about how we use their third party service to collect and use information about this website. 
+What About Legally Compelled Disclosure of Information?
 
-7.4 If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here are links to the two main third party advertising platforms we use, each of which has instructions on how to do this: 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.  
+We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone  
+who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
-http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/ 
+What About Other Web Sites Linked to Our Web Site?
 
-http://www.audiencescience.com/privacy 
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are  
+provided solely as pointers to information on topics that may be useful to the users of our Web site.
 
-7.5 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: 
+Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web  
+site, including web sites, which have a link on our Website, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
 
-http://www.youronlinechoices.com 
+Your Consent
 
-**8\. Security**
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy  
+at any time with or without notice.
 
-8.1 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information. 
+Choice/Opt-In/Opt-Out
 
-8.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information. 
+This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as  
+technically feasible.
 
-**9\. Disclosing your information**
+Surveys &amp; Contests
 
-9.1 We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law. 
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has  
+a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information  
+(such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving  
+the use and satisfaction of this site.
 
-9.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available on our “Offers” page: http://www.telegraph.co.uk/sponsored/offers/. 
+Persons under 18
 
-9.3 We never sell personal information, or pass it to third parties for marketing purposes without your permission. 
+Children are not eligible to use our services unsupervised and we ask that children (under the age of 18) do not submit any personal information to us. If you are a minor, you  
+can use this service only in conjunction with permission and guidance from your parents or guardians.
 
-**10\. Where we store your personal information**
+Acquisition or Changes in Ownership
 
-10.1 The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”. 
+In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets  
+that are transferred.
 
-**11\. Changes to this Policy**
+Policy Revisions
 
-11.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy. 
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any  
+changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you  
+have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
-**12\. If you don't feel we're adhering to this Policy, what should you do?**
+QUESTIONS
 
-12.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly. 
-
-_This Policy was last updated on 18th August, 2014._
+You may direct enquiries to: admin@bornfinance.com
