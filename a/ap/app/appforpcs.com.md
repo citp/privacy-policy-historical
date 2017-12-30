@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appforpcs.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630171847id_/http%3A//www.appforpcs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appforpcs.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230134226id_/http%3A//www.appforpcs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of App for PCs
 
@@ -42,7 +42,7 @@ You can find more information about cookies at:
 
   * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
   * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+  * For a video about cookies visit a look at cookies
 
 
 
