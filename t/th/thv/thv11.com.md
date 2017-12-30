@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thv11.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629141107id_/http%3A//www.thv11.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thv11.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230031608id_/http%3A//www.thv11.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | THV11.com
 
