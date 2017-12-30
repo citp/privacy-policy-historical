@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgchili.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617235937id_/http%3A//imgchili.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgchili.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065623id_/http%3A//imgchili.net/privacy_policy) for the most accurate reproduction.*
 
 # imgChili » Privacy Policy
 
@@ -21,4 +21,4 @@ We do not tolerate child pornography on imgChili. When made aware of child porno
 
 ## Notice
 
-For faster removal, please email us at [contact@imgchili.com](mailto:contact@imgchili.com?subject=Terroristic%20Content%20/%20Child%20Abuse) and / or [wally@imgchili.com](mailto:wally@imgchili.com?subject=Terroristic%20Content%20/%20Child%20Abuse)
+For faster removal, please email us at [[email protected]](http://imgchili.net/cdn-cgi/l/email-protection#0d6e6263796c6e794d64606a6e65646164236e6260327e786f67686e793059687f7f627f647e79646e2d4e6263796863792d222d4e656461692d4c6f787e68) and / or [[email protected]](http://imgchili.net/cdn-cgi/l/email-protection#4235232e2e3b022b2f25212a2b2e2b6c212d2f7d313720282721367f162730302d302b31362b2162012d2c36272c36626d62012a2b2e26620320373127)
