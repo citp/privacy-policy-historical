@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smosh.com privacy policy that was archived on 2017-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170627212923id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smosh.com privacy policy that was archived on 2017-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171230233328id_/http%3A//www.smosh.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr"><!--<![endif]--><head>
 
@@ -31,7 +31,7 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 <meta property="twitter:url" content="http://www.smosh.com/privacy-policy">
 <meta property="fb:pages" content="72947896764">
 
-<!-- Twitter Summary Cards - Mobile App Deep-Linking Meta Tags -->
+<meta property="fb:pages" content="289103811197001">
 <meta name="twitter:app:name:iphone" content="Smosh">
 <meta name="twitter:app:id:iphone" content="id679190547">
 <meta name="twitter:app:name:ipad" content="Smosh">
@@ -41,7 +41,6 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 <meta name="twitter:app:url:iphone" content="smoshapp://smoshvideo?path=/privacy-policy">
 <meta name="twitter:app:url:ipad" content="smoshapp://smoshvideo?path=/privacy-policy">
 <meta name="twitter:app:url:googleplay" content="smoshapp://smoshvideo?path=/privacy-policy">
-<!-- End: Twitter Summary Cards - Mobile App Deep-Linking Meta Tags -->
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=yes">
 
 <link rel="apple-touch-icon" href="/sites/all/themes/smosh/apple-touch-icon.png">
@@ -54,16 +53,17 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 <script async="" src="http://cdn.mediavoice.com/nativeads/script/defymedia/smosh_desktop.js"></script>
 <script src="//cdn.optimizely.com/js/2523090427.js"></script>
 <script type="text/javascript">var pagecat='episode';</script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/modernizr-2.5.3.js?orx5bn"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/modernizr-2.5.3.js?p1liu3"></script>
 
 <!-- Header Bidding Lite -->
-<script type="text/javascript" src="//pubportal.brkmd.com/tms/hblt252ddc01cbff9b17c19754e504358120.js"></script>
+<script type="text/javascript" src="//pubportal.brkmd.com/tms/hblt86482b3f32c429280d136f89d31b648c.js"></script>
 <!-- END Header Bidding Lite -->
     
 <!-- BEGIN Google Publisher Tags -->
 <script type="text/javascript">
 //var GTM_TIMEOUT = 5000; //Wait 5 seconds
 
+    var request_path = 'privacy-policy';
 
     function getQueryVariable(variable) {
         var query = window.location.search.substring(1);
@@ -78,33 +78,25 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
 
-//    setTimeout(function() {
-//
-//        if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
-//            console.log('Eval GPT');
-
-            (function() {
-            var gads = document.createElement("script");
-            gads.async = true;
-            gads.type = "text/javascript";
-            var useSSL = "https:" == document.location.protocol;
-            gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-            var node = document.getElementsByTagName("script")[0];
-            node.parentNode.insertBefore(gads, node);
-            })();
-//        } else {
-//            // GPT already loaded
-//        }
-//
-//    }, GTM_TIMEOUT);
+    (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+    })();
 
 
     var smoshAdVars = {};
     smoshAdVars.postUrl          = window.location.href;
     smoshAdVars.isSmoshPitPost   = smoshAdVars.postUrl.indexOf('/smosh-pit/') > -1;
     smoshAdVars.smoshPitCategory = '';
-    smoshAdVars.adSection        = 'noskin';
-    smoshAdVars.lbAdSz           = (window.innerWidth <= 725) ? [[320,50]] : [[960,1],[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250]];
+    smoshAdVars.adSection        = 'page';
+    smoshAdVars.lbAdSz           = (window.innerWidth <= 725) ? [[320,50]] : [[728,90], [970,40], [970,66], [970,250], [960,1]];
+
+    var sections = ['home', 'videos', 'smoshgames', 'shutupcartoons', 'contributor', 'search', 'smosh-pit'];
 
     if(smoshAdVars.isSmoshPitPost && smoshAdVars.adSection == 'blog') {
 
@@ -120,16 +112,19 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
             smoshAdVars.adSection = 'videos';
         }
 
+    } else if (sections.indexOf(smoshAdVars.adSection) === -1) {
+        smoshAdVars.adSection = 'uncategorized';
     }
 
     smoshAdVars.adZone           = {
         leaderboard     : smoshAdVars.adSection+'-top',
         rectangle       : smoshAdVars.adSection+'-right-atf',
-        btf_rectangle   : smoshAdVars.adSection+'-right-btf',
         interstitial    : smoshAdVars.adSection+'-interstitial',
-        footer          : smoshAdVars.adSection+'-btf',
-        mobile_rectangle: smoshAdVars.adSection+'-mobile-btf'
+//        footer          : smoshAdVars.adSection+'-btf',
+        mobile_footer   : smoshAdVars.adSection+'-mobile-btf'
     };
+
+
 
     if(smoshAdVars.isSmoshPitPost) {
 
@@ -147,16 +142,28 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
             smoshAdVars.smoshPitCategory = 'videos';
         } else if(smoshAdVars.postUrl.indexOf('smosh.com/smosh-pit/developer-diary') > -1) {
             smoshAdVars.smoshPitCategory = 'developer-diary';
+        } else if(smoshAdVars.postUrl.indexOf('smosh.com/smosh-pit/contributor') > -1) {
+            smoshAdVars.smoshPitCategory = 'contributor';
         } else {
             smoshAdVars.smoshPitCategory = 'uncategorized';
         }
 
-        smoshAdVars.adZone.leaderboard += '/' + smoshAdVars.smoshPitCategory;
-        smoshAdVars.adZone.rectangle += '/' + smoshAdVars.smoshPitCategory;
-        smoshAdVars.adZone.btf_rectangle += '/' + smoshAdVars.smoshPitCategory;
-        smoshAdVars.adZone.interstitial += '/' + smoshAdVars.smoshPitCategory;
-        smoshAdVars.adZone.footer += '/' + smoshAdVars.smoshPitCategory;
-        smoshAdVars.adZone.mobile_rectangle += '/' + smoshAdVars.smoshPitCategory;
+        if (smoshAdVars.smoshPitCategory == 'contributor') {
+            smoshAdVars.adZone.leaderboard = 'contributor-top';
+            smoshAdVars.adZone.rectangle = 'contributor-right-atf';
+            smoshAdVars.adZone.interstitial = 'contributor-interstitial';
+            smoshAdVars.adZone.mobile_footer = 'contributor-mobile-btf';
+        } else if (smoshAdVars.smoshPitCategory == 'uncategorized') {
+            smoshAdVars.adZone.leaderboard = 'uncategorized-top';
+            smoshAdVars.adZone.rectangle = 'uncategorized-right-atf';
+            smoshAdVars.adZone.interstitial = 'uncategorized-interstitial';
+            smoshAdVars.adZone.mobile_footer = 'uncategorized-mobile-btf';
+        } else {
+            smoshAdVars.adZone.leaderboard += '/' + smoshAdVars.smoshPitCategory;
+            smoshAdVars.adZone.rectangle += '/' + smoshAdVars.smoshPitCategory;
+            smoshAdVars.adZone.interstitial += '/' + smoshAdVars.smoshPitCategory;
+            smoshAdVars.adZone.mobile_footer += '/' + smoshAdVars.smoshPitCategory;
+        }
 
     }
 
@@ -164,127 +171,128 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
         smoshAdVars.adZone.leaderboard = smoshAdVars.adZone.rectangle = smoshAdVars.adZone.interstitial = smoshAdVars.adZone.footer = getQueryVariable('swapAdZone');
     }
 
+    function isMobile(opts) {
+        var is_mobile = /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Kindle|NetFront|Silk-Accelerated|(hpw|web)OS|Fennec|Minimo|Opera M(obi|ini)|Blazer|Dolfin|Dolphin|Skyfire|Zune/i.test(navigator.userAgent);
+        return is_mobile;
+    }
+
+    var topLevel = isMobile() ? "/4678/smosh_mob.dmp/" : "/4678/smosh.dmp/";
+
+
     googletag.cmd.push(function() {
 
-        var adSlotInLeaderboard = googletag
-            .defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.leaderboard, smoshAdVars.lbAdSz, 'div-gpt-ad-leaderboard')
-            .setCollapseEmptyDiv(true, true)
-            .addService(googletag.pubads());
+        if (request_path != 'music' && request_path != 'gameofsmosh') {
+
+            var adSlotInLeaderboard = googletag
+                .defineSlot(topLevel + smoshAdVars.adZone.leaderboard, smoshAdVars.lbAdSz, 'div-gpt-ad-leaderboard')
+                .setCollapseEmptyDiv(true, true)
+                .addService(googletag.pubads());
 
 
-        /* LAMP-2715, LAMP-2718 & LAMP-2795 sticky leaderboard: begin */
-        adSlotInLeaderboard.onRenderEnded = function () {
-            // console.debug(
-            //     'slot.onRenderEnded called.',
-            //     '\n\t(keyword: "sticky")\n\n'
-            // );
-
-            var app = window.SMOSH;
-
-            if (!app) {
-                window.SMOSH = { state: {} };
-                app = window.SMOSH;
-            }
-
-
-            if (!app.detailsHaveBeenDefined) {
-
+            /* LAMP-2715, LAMP-2718 & LAMP-2795 sticky leaderboard: begin */
+            adSlotInLeaderboard.onRenderEnded = function () {
                 // console.debug(
-                //     'The "smosh.js" has not been parsed yet.',
+                //     'slot.onRenderEnded called.',
                 //     '\n\t(keyword: "sticky")\n\n'
                 // );
 
-                if (!app.state.adSlotInLeaderBoardHasBeenRendered) {
+                var app = window.SMOSH;
 
-                    /*
-                        For several times I have already encountered a situation
-                        where the creative of the ad slot gets loaded super fast,
-                        when the "onLeaderBoardAdSlotRenderEnded" has NOT been defined yet.
-                        So, we have to either mark a global tag, or using a Promise object.
-                        And for the simplicity, I choose to use a global tag.
-                    */
-
-                    // console.warn(
-                    //     'The "smosh.js" has not been parsed yet!',
-                    //     '\n\t"onLeaderBoardAdSlotRenderEnded" will be executed later according to a tag defined below.',
-                    //     '\n\n\t window.SMOSH.adSlotInLeaderBoardHasBeenRendered = ', true ,';\n',
-                    //     '\n\t(keyword: "sticky")\n\n'
-                    // );
-                    app.state.adSlotInLeaderBoardHasBeenRendered = true;
-
-                } else {
-                    // console.warn(
-                    //     'Maybe a timeout callback has called the event handler by cheating.',
-                    //     '\n\t(keyword: "sticky")\n\n'
-                    // );
+                if (!app) {
+                    window.SMOSH = {state: {}};
+                    app = window.SMOSH;
                 }
 
-            } else {
 
-                var eventHandler = app.actions.onLeaderBoardAdSlotRenderEnded;
+                if (!app.detailsHaveBeenDefined) {
 
-                if (typeof eventHandler === 'function') {
                     // console.debug(
-                    //     'Executing "onLeaderBoardAdSlotRenderEnded" event handler on event...',
+                    //     'The "smosh.js" has not been parsed yet.',
                     //     '\n\t(keyword: "sticky")\n\n'
                     // );
-                    eventHandler();
+
+                    if (!app.state.adSlotInLeaderBoardHasBeenRendered) {
+
+                        /*
+                            For several times I have already encountered a situation
+                            where the creative of the ad slot gets loaded super fast,
+                            when the "onLeaderBoardAdSlotRenderEnded" has NOT been defined yet.
+                            So, we have to either mark a global tag, or using a Promise object.
+                            And for the simplicity, I choose to use a global tag.
+                        */
+
+                        // console.warn(
+                        //     'The "smosh.js" has not been parsed yet!',
+                        //     '\n\t"onLeaderBoardAdSlotRenderEnded" will be executed later according to a tag defined below.',
+                        //     '\n\n\t window.SMOSH.adSlotInLeaderBoardHasBeenRendered = ', true ,';\n',
+                        //     '\n\t(keyword: "sticky")\n\n'
+                        // );
+                        app.state.adSlotInLeaderBoardHasBeenRendered = true;
+
+                    } else {
+                        // console.warn(
+                        //     'Maybe a timeout callback has called the event handler by cheating.',
+                        //     '\n\t(keyword: "sticky")\n\n'
+                        // );
+                    }
+
                 } else {
-                    console.error(
-                        'The "app.detailsHaveBeenDefined" is true,',
-                        '\n\t which means the "smosh.js" has been parsed,',
-                        '\n\t while the "onLeaderBoardAdSlotRenderEnded" event handler does not exist.',
-                        '\n\t(keyword: "sticky")\n\n'
-                    );
+
+                    var eventHandler = app.actions.onLeaderBoardAdSlotRenderEnded;
+
+                    if (typeof eventHandler === 'function') {
+                        // console.debug(
+                        //     'Executing "onLeaderBoardAdSlotRenderEnded" event handler on event...',
+                        //     '\n\t(keyword: "sticky")\n\n'
+                        // );
+                        eventHandler();
+                    } else {
+                        console.error(
+                            'The "app.detailsHaveBeenDefined" is true,',
+                            '\n\t which means the "smosh.js" has been parsed,',
+                            '\n\t while the "onLeaderBoardAdSlotRenderEnded" event handler does not exist.',
+                            '\n\t(keyword: "sticky")\n\n'
+                        );
+                    }
+
+
+                    // No matter which ad slot gets loaded,
+                    // the layout of the observing sticky block MIGHT be affected.
+                    // So here we shall handle each and every ad slot render ended event
+                    // just to update the observing sticky block layout infomation.
+
+                    var actionForRenewingStickySidebarInfo = app.actions.renewSidebarPopularEntriesOnAnyAdSlotRendered;
+                    if (typeof actionForRenewingStickySidebarInfo === 'function') {
+                        actionForRenewingStickySidebarInfo();
+                    } else {
+                        console.error(
+                            'The "app.detailsHaveBeenDefined" is true,',
+                            '\n\t which means the "smosh.js" has been parsed,',
+                            '\n\t while the "renewSidebarPopularEntriesOnAnyAdSlotRendered" action does not exist.',
+                            '\n\t(keyword: "sticky")\n\n'
+                        );
+                    }
                 }
+            };
+            /* LAMP-2715, LAMP-2718 & LAMP-2795 sticky leaderboard: end */
+        }
 
 
+        stitialAdSlot = googletag.defineOutOfPageSlot(topLevel+smoshAdVars.adZone.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
 
-				// No matter which ad slot gets loaded,
-				// the layout of the observing sticky block MIGHT be affected.
-				// So here we shall handle each and every ad slot render ended event
-				// just to update the observing sticky block layout infomation.
-
-                var actionForRenewingStickySidebarInfo = app.acttions.renewSidebarPopularEntriesOnAnyAdSlotRendered;
-                if (typeof actionForRenewingStickySidebarInfo === 'function') {
-                    actionForRenewingStickySidebarInfo();
-                } else {
-                    console.error(
-                        'The "app.detailsHaveBeenDefined" is true,',
-                        '\n\t which means the "smosh.js" has been parsed,',
-                        '\n\t while the "renewSidebarPopularEntriesOnAnyAdSlotRendered" action does not exist.',
-                        '\n\t(keyword: "sticky")\n\n'
-                    );
-                }
+        if(isMobile()) {
+            googletag.defineSlot(topLevel+smoshAdVars.adZone.mobile_footer, [320, 50], 'div-gpt-ad-footer').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            if (request_path != 'music' && request_path != 'gameofsmosh') {
+                googletag.defineSlot(topLevel + smoshAdVars.adZone.rectangle, [300, 250], 'div-gpt-ad-mobi-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
             }
-        };
-        /* LAMP-2715, LAMP-2718 & LAMP-2795 sticky leaderboard: end */
-
-
-        stitialAdSlot = googletag.defineOutOfPageSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.interstitial, 'div-gpt-ad-oop').addService(googletag.pubads());
-
-        if(window.innerWidth <= 725) {
-            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.footer, smoshAdVars.lbAdSz, 'div-gpt-ad-footer').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.mobile_rectangle, [300, 250], 'div-gpt-ad-mobile-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            // Video CDPs
-            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.mobile_rectangle, [300, 250], 'div-gpt-ad-btf-rectangle-mobile').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-
         } else {
-            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.rectangle, [300, 250],'div-gpt-ad-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-
-            // Video CDPs
-            googletag.defineSlot('/4678/smosh.dmp/'+smoshAdVars.adZone.btf_rectangle, [300, 250],'div-gpt-ad-btf-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-
+            if (request_path != 'music' && request_path != 'gameofsmosh' && !(smoshAdVars.postUrl.indexOf('search?key=') > -1)) {
+                googletag.defineSlot(topLevel + smoshAdVars.adZone.rectangle, [300, 250], 'div-gpt-ad-rectangle').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            }
         }
 
         googletag.pubads().setTargeting('page', '123');
 
-
-//        //Set targeting for header bidding
-//        if (typeof pbjs_setTargeting === 'function') {
-//            console.debug('Call pbjs_setTargeting');
-//            pbjs_setTargeting();
-//        }
 
         googletag.pubads()
             .addEventListener('slotRenderEnded', function (event) {
@@ -306,6 +314,7 @@ Defy Media, LLC (“Defy”) is committed to providing you with the very best ex
 
         googletag.enableServices();
     });
+
 
 </script>
 <!-- END Google Publisher Tags -->
@@ -338,7 +347,7 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 <!-- End Facebook Pixel Code -->
 
 <script async="" src="http://cdn-gl.imrworldwide.com/novms/js/2/nlsDcrLite510.min.js#nol_apid=T90674876-A6EB-4AAB-8AD0-2C82073213AF&amp;nol_sfcode=dcr-cert&amp;nol_apn=Defy Media&amp;nol_ci=us-103628&amp;nol_vc=c32&amp;nol_assetname=Smosh&amp;nol_segA=NA&amp;nol_segB=NA&amp;nol_segC=NA"></script></head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-123 node-type-page with-header with-header_right with-main_prefix with-views_ad_space_b with-footer with-content alias-privacy-policy">
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-123 node-type-page with-footer with-header with-header_right with-main_prefix with-views_ad_space_b with-content alias-privacy-policy">
 <div id="skip-link">
 <a href="#main-content" class="element-invisible element-focusable" role="link">Skip to main content</a>
 </div>
@@ -380,48 +389,6 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 <li class="leaf"><a href="/gameofsmosh/faq">Game of Smosh FAQ</a></li>
 <li class="last leaf"><a href="/user/login?current=node/123" class="login">Login</a></li>
 </ul>  </div>
-</div>
-<div id="block-block-79" class="block block-block block-block-79">
-
-    
-  <div class="content">
-    <style type="text/css">
-	.link-food-battle-the-game-inner {
-		position: relative;
-		width: 100%;
-	}
-	.region-header-right {
-		width: 22%;
-	}
-	
-	.link-food-battle-the-game {
-		position: absolute;
-		width: 48px;
-		right: -40px;
-		top: -56px;
-	}
-	
-	.link-food-battle-the-game img {
-		display: block;
-		width: 100%;
-		height: auto;
-	}
-	
-	@media (max-width: 725px) {
-		.link-food-battle-the-game-inner {
-			position: static;
-		}
-		.link-food-battle-the-game {
-			top: 4px;
-			width: 38px;
-			right: auto;
-			left: 55px;
-		}
-	}
-</style>
-<div class="link-food-battle-the-game-inner">
-	<a class="link-food-battle-the-game" href="http://www.smosh.com/food-battle-the-game/developer-diary"><img alt="Food Battle" src="http://cdn.smosh.com/sites/all/themes/smosh/images/channels/food_battle/icon-food-battle.png"></a>
-</div>  </div>
 </div>
   </div>
         <div class="region region-header-right">
@@ -531,7 +498,7 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 		Attn: Privacy<br>
 		Telephone: (212)244-4307<br>
 		Facsimile: (212)244-4311<br>
-		E-mail: <a href="mailto:privacy@defymedia.com">privacy@defymedia.com</a>
+		E-mail: <a href="/cdn-cgi/l/email-protection#b0c0c2d9c6d1d3c9f0d4d5d6c9ddd5d4d9d19ed3dfdd"><span class="__cf_email__" data-cfemail="1565677c6374766c557170736c7870717c743b767a78">[email&nbsp;protected]</span></a>
 	</p>
 <h3>Company’s Privacy Policy</h3>
 <p>Thank you for visiting a Defy Media, LLC website (including any mobile and/or application based version thereof, collectively, the “Defy  Site”). The purpose of this privacy policy (“policy”) is to inform users of the Defy Site as to what information we collect and how and why we use such information. </p>
@@ -592,7 +559,7 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 <p>
 		Telephone: (212)244-4307<br>
 		Facsimile: (212)244-4311<br>
-		E-mail: <a href="mailto:privacy@smosh.com">privacy@smosh.com</a>
+		E-mail: <a href="/cdn-cgi/l/email-protection#4535372c3324263c0536282a362d6b262a28"><span class="__cf_email__" data-cfemail="c9b9bba0bfa8aab089baa4a6baa1e7aaa6a4">[email&nbsp;protected]</span></a>
 	</p>
 <p>The California Business &amp; Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Defy Site responds to “Do Not Track” browser settings. The Defy Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created. </p>
 <h3>International Users. 	</h3>
@@ -616,7 +583,7 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 <p>
 		Telephone: (212)244-4307<br>
 		Facsimile: (212)244-4311<br>
-		E-mail: <a href="mailto:privacy@defymedia.com">privacy@defymedia.com </a>
+		E-mail: <a href="/cdn-cgi/l/email-protection#9fefedf6e9fefce6dffbfaf9e6f2fafbf6feb1fcf0f2"><span class="__cf_email__" data-cfemail="e393918a9582809aa38786859a8e86878a82cd808c8e">[email&nbsp;protected]</span> </a>
 	</p>
 </div>
 </div></div></div>  </div>
@@ -710,6 +677,22 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 </div>
   </div>
 </div>
+<div id="block-block-43" class="block block-block ad mobile block-block-43">
+
+    
+  <div class="content">
+    <!-- TODO: Move this out of CMS and into codebase -->
+<div id="div-gpt-ad-footer">
+	<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	 	if(window.innerWidth <= 725) {
+			googletag.cmd.push(function () {
+				googletag.display('div-gpt-ad-footer');
+			});
+		}
+	</script>
+</div>
+<!-- END TODO -->  </div>
+</div>
   </div>
     </div>
   </footer>
@@ -719,17 +702,17 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script type="text/javascript" src="http://www.smosh.com/sites/all/themes/aurora/js/jquery-1.7.2.min.js"><\/script>')</script><script type="text/javascript" src="http://www.smosh.com/sites/all/themes/aurora/js/jquery-1.7.2.min.js"></script>
 <script src="http://cdn.smosh.com/misc/jquery.once.js?v=1.2"></script>
-<script src="http://cdn.smosh.com/misc/drupal.js?orx5bn"></script>
+<script src="http://cdn.smosh.com/misc/drupal.js?p1liu3"></script>
 <script src="http://cdn.smosh.com/misc/ajax.js?v=7.34"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra_overlay/js/views_slideshow_xtra_overlay.js?orx5bn"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/admin_menu/admin_devel/admin_devel.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra_overlay/js/views_slideshow_xtra_overlay.js?p1liu3"></script>
 <script src="http://cdn.smosh.com/misc/progress.js?v=7.34"></script>
-<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.easing-1.3.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.heroCarousel-1.3.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_carousel/js/smosh_carousel.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/libraries/timeago/jquery.timeago.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?orx5bn"></script>
+<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.easing-1.3.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/libraries/jquery.heroCarousel/jquery.heroCarousel-1.3.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_carousel/js/smosh_carousel.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/libraries/timeago/jquery.timeago.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/views_slideshow_xtra/views_slideshow_xtra.js?p1liu3"></script>
 <script>var dataLayer = [{
 			'Section': '',
 			'Author': 'smoshdrupaladmin',
@@ -739,26 +722,26 @@ src="https://www.facebook.com/tr?id=726750534167591&ev=PageView&noscript=1"
 			'On_Air_Talent': '',
 			'pageview' : window.location.href.replace('http://' + document.domain, '')
 		  }];</script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/disqus/disqus.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_performance/smosh_performance.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/modules/contrib/timeago/timeago.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh-quiz.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/loader.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.formalize.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.ba-throttle-debounce.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.cookie.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/mobile.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/msdropdown/jquery.dd.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/image-dropdown.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/social-buttons.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.form.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.validate.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/additional-methods.min.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/game.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.smartbanner.js?orx5bn"></script>
-<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.fitvids.js?orx5bn"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"smosh","theme_token":"CyZ1uAwDNh32sgIwWKqDhbw0Mrd0Ej-qS-cGA-FIE5s","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/css\/views_slideshow_xtra_overlay.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery.heroCarousel\/jquery.heroCarousel.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"sites\/all\/themes\/smosh\/css\/smosh-quiz.css":1,"sites\/all\/themes\/smosh\/css\/new-style.css":1,"sites\/all\/themes\/smosh\/css\/style.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"smosh_helpers":{"host":"www.smosh.com","usr_host":"usr-cdn1.smosh.com","embed_smosh":"http:\/\/embed.smosh.com","brkmd":"http:\/\/s.brkmd.com"},"smosh_performance":{"disqus_path":"\/ajax\/smosh-disqus\/node\/49973"},"pathToTheme":"sites\/all\/themes\/smosh"});</script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/disqus/disqus.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/custom/smosh_performance/smosh_performance.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/modules/contrib/timeago/timeago.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh-quiz.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/loader.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.formalize.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.ba-throttle-debounce.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.cookie.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/smosh.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/mobile.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/msdropdown/jquery.dd.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/image-dropdown.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/social-buttons.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.form.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.validate.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/additional-methods.min.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/game.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.smartbanner.js?p1liu3"></script>
+<script src="http://cdn.smosh.com/sites/all/themes/smosh/js/jquery.fitvids.js?p1liu3"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"smosh","theme_token":"eimHaYHJe6JJM4eRlSpHpJ6Ywyb0pY2REUY91hNdNyA","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra_overlay\/css\/views_slideshow_xtra_overlay.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/jquery.heroCarousel\/jquery.heroCarousel.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/views_slideshow_xtra\/views_slideshow_xtra.css":1,"sites\/all\/themes\/smosh\/css\/smosh-quiz.css":1,"sites\/all\/themes\/smosh\/css\/new-style.css":1,"sites\/all\/themes\/smosh\/css\/style.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"smosh_helpers":{"host":"www.smosh.com","usr_host":"usr-cdn1.smosh.com","embed_smosh":"http:\/\/embed.smosh.com","brkmd":"http:\/\/s.brkmd.com"},"smosh_performance":{"disqus_path":"\/ajax\/smosh-disqus\/node\/49973"},"pathToTheme":"sites\/all\/themes\/smosh"});</script>
 
 <!-- Quantcast Tag -->
 <noscript>
@@ -907,36 +890,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager -->
 
 <!-- Start Smosh - 1x3 -->
-<script type="text/javascript" language="javascript">
-var __kx_ad_slots = __kx_ad_slots || [];
-
-(function () {
-     setTimeout(function () {
-        if (__is_ad_pages) {
-            var slot = 979;
-            var h = false;
-            __kx_ad_slots.push(slot);
-            if (typeof __kx_ad_start == 'function') {
-                __kx_ad_start();
-            } else {
-                var s = document.createElement('script');
-                s.type = 'text/javascript';
-                s.async = true;
-                s.src = 'http://cdn.kixer.com/ad/load.js';
-                s.onload = s.onreadystatechange = function(){
-                    if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
-                        h = true;
-                        s.onload = s.onreadystatechange = null;
-                        __kx_ad_start();
-                    }
-                };
-                var x = document.getElementsByTagName('script')[0];
-                x.parentNode.insertBefore(s, x);
-            }
-        }
-    }, 3000);
-})();
-</script>
+<!--<script type="text/javascript" language="javascript">-->
+<!--var __kx_ad_slots = __kx_ad_slots || [];-->
+<!---->
+<!--(function () {-->
+<!--     setTimeout(function () {-->
+<!--        if (__is_ad_pages) {-->
+<!--            var slot = 979;-->
+<!--            var h = false;-->
+<!--            __kx_ad_slots.push(slot);-->
+<!--            if (typeof __kx_ad_start == 'function') {-->
+<!--                __kx_ad_start();-->
+<!--            } else {-->
+<!--                var s = document.createElement('script');-->
+<!--                s.type = 'text/javascript';-->
+<!--                s.async = true;-->
+<!--                s.src = 'http://cdn.kixer.com/ad/load.js';-->
+<!--                s.onload = s.onreadystatechange = function(){-->
+<!--                    if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {-->
+<!--                        h = true;-->
+<!--                        s.onload = s.onreadystatechange = null;-->
+<!--                        __kx_ad_start();-->
+<!--                    }-->
+<!--                };-->
+<!--                var x = document.getElementsByTagName('script')[0];-->
+<!--                x.parentNode.insertBefore(s, x);-->
+<!--            }-->
+<!--        }-->
+<!--    }, 3000);-->
+<!--})();-->
+<!--</script>-->
 <!-- End Smosh - 1x3 -->
 
 <!-- Fix reCaptcha styling issue for LAMP-2666 -->
@@ -950,6 +933,7 @@ var __kx_ad_slots = __kx_ad_slots || [];
     font-size: 10pt;
 }
 </style>
+
 
 
 </body></html>
