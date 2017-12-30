@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630031449id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230225756id_/http%3A//www.guardian.co.tt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Trinidad Guardian Newspaper
 
