@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabulis.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628200016id_/https%3A//fab.com/privacy/%3Fref%3Dtopfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabulis.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230140329id_/https%3A//fab.com/privacy/%3Fref%3Dtopfooter) for the most accurate reproduction.*
 
 # Fab.com | daily design for everyone
 
