@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 888games.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630025928id_/https%3A//www.888casino.com/security-and-privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 888games.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230072550id_/https%3A//www.888casino.com/security-and-privacy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Security and Privacy | 888casino™
 
