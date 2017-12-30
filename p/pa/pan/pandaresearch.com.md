@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145231id_/http%3A//pandaresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandaresearch.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230203915id_/http%3A//pandaresearch.com/privacy) for the most accurate reproduction.*
 
 # Complete Free Paid Surveys Online With Panda Research
 
