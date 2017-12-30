@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activly.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608065048id_/http%3A//activly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activly.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230170543id_/http%3A//activly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Activly
 
