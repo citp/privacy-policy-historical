@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226021049id_/http%3A//www.constantcontact.com/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230215802id_/http%3A//www.constantcontact.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Constant Contact
 
-**Effective September 27, 2016**
+**Effective December 27th, 2017**
 
 At Constant Contact, Inc. ("we" or "us"), including our wholly-owned subsidiary, SinglePlatform, LLC, we respect and protect the privacy of our trialers, customers and others who use our websites, products and services. This privacy statement provides details about how your personal information is collected and used by us. Personal information is any information that identifies you or would enable someone to contact you, which may include your name, email address, phone number and other non-public information that is associated with such information. It does not include aggregate information, anonymous information or any other non-personally identifiable information. This privacy statement applies to the Constant Contact website; the Single Platform website; products and services that are located in the www.constantcontact.com and www.singleplatform.com domains; and any other sites owned or operated by us and our mobile applications (the "Sites"). This privacy statement does not cover how our trialers and customers may use the data that we collect on their behalf. For information on how they use data, please contact the applicable trialer or customer directly. Constant Contact, Inc. is located at 1601 Trapelo Road, Waltham, MA 02451. We are also a part of The Endurance International Group, Inc. ("Endurance") corporate family. To learn more about the Endurance corporate family, visit: [http://www.endurance.com](http://www.endurance.com/).
 
@@ -73,7 +73,7 @@ Learn More »
 
 #### Accountability
 
-Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Constant Contact is committed to subjecting all personal data received from European Union member countries in reliance on the Privacy Shield Framework to the Framework’s applicable principles.   
+Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Constant Contact is committed to subjecting all personal data received from European Union member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles.   
 Learn More »
 
 #### Notification of Changes
@@ -105,7 +105,7 @@ We may use any of this information to offer and improve our products and service
 
 For clarity, any storefront information you make available to us in connection with our SinglePlatform product is non-confidential for all purposes and may be made publicly available on one of our Sites (or the sites of any of our publishers).
 
-We obtain information that is provided by you on our public forums, including the Constant Contact Community and Constant Contact Marketplace. With your consent, we may also obtain and post testimonials or reviews for inclusion on our Sites or elsewhere. Your posts may remain even after you suspend or cancel your account. Reviews and contributions to any of our public communities are considered public and non-confidential by us and are not treated as proprietary information or personal information covered by this privacy statement. To request removal of your personal information on our public forums or on the public portions of our Sites, contact us at [support@constantcontact.com](mailto:support@constantcontact.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We obtain information that is provided by you on our public forums, including the Constant Contact Community and Constant Contact Marketplace. With your consent, we may also obtain and post testimonials or reviews for inclusion on our Sites or elsewhere. Your posts may remain even after you suspend or cancel your account. Reviews and contributions to any of our public communities are considered public and non-confidential by us and are not treated as proprietary information or personal information covered by this privacy statement. To request removal of your personal information on our public forums or on the public portions of our Sites, contact us at [privacy@constantcontact.com](mailto:privacy@constantcontact.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Back to Top
 
@@ -157,7 +157,7 @@ Back to Top
 
 You have a choice about how we use your personal information to communicate with you, and you may opt out at any time by unsubscribing or changing your preferences.
 
-[Our Anti-Spam Policy](http://www.constantcontact.com/legal/anti-spam) tolerates only permission-based email. You always have the opportunity to opt-out of our marketing communications with you or change preferences by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [support@constantcontact.com](mailto:support@constantcontact.com). In addition, anyone receiving emails from us on behalf of our trialers or customers always has the opportunity to opt-out of email messages from such customer or trialer by using the opt-out link included in the link in the footer of the message. If you believe that you have received an unsolicited commercial email from us on behalf of any of our trialers or customers, you may report it to us at [abuse@constantcontact.com](mailto:abuse@constantcontact.com).
+[Our Anti-Spam Policy](http://www.constantcontact.com/legal/anti-spam) tolerates only permission-based email. You always have the opportunity to opt-out of our marketing communications with you or change preferences by following a link in the footer of all non-transactional email messages sent by us or by emailing us at [privacy@constantcontact.com](mailto:privacy@constantcontact.com). In addition, anyone receiving emails from us on behalf of our trialers or customers always has the opportunity to opt-out of email messages from such customer or trialer by using the opt-out link included in the link in the footer of the message. If you believe that you have received an unsolicited commercial email from us on behalf of any of our trialers or customers, you may report it to us at [abuse@constantcontact.com](mailto:abuse@constantcontact.com).
 
 If you do not wish to have your personal information shared with third parties for co-marketing purposes, you may do so at any time by opting out of all marketing communications with us.
 
@@ -165,7 +165,7 @@ Some communications (for example, important account notifications and billing in
 
 To manage the information we receive about you from a social networking site or any other third party, you will need to follow the instructions from that party for updating your information and changing your privacy settings. The information we collect is covered by this privacy statement and the information the third party collects is subject to such third party's privacy practices. Privacy choices you have made on any third party site will not apply to our use of the information we have collected directly through our Sites.
 
-If an account or profile was created without your knowledge or authorization, please contact us at [support@constantcontact.com](mailto:support@constantcontact.com) to request removal of the account or profile.
+If an account or profile was created without your knowledge or authorization, please contact us at [privacy@constantcontact.com](mailto:privacy@constantcontact.com) to request removal of the account or profile.
 
 Back to Top
 
@@ -175,7 +175,7 @@ We take steps to ensure that the personal information we collect is accurate and
 
 Upon request Constant Contact will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [legal@constantcontact.com](mailto:legal@constantcontact.com).
 
-You can review and update your Constant Contact account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information, such as your username and password, can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information, such as your credit card number. If you would like to suspend or cancel your account, request that we no longer use your account data or obtain further information about or access to your personal information, you can do so by contacting customer support by email at [support@constantcontact.com](mailto:support@constantcontact.com) or by telephone at (866) 289-2101 if you are located in the U.S. or (781) 472-8140 if you are located outside of the U.S. We will respond to your request for access within 30 days.
+You can review and update your Constant Contact account information, including your organizational information and email address, by logging in and then clicking on the My Settings tab. Account information, such as your username and password, can be changed by logging in and then clicking on the My Account link at the top of page. The My Account page is also where you can manage product subscriptions and billing information, such as your credit card number. If you would like to suspend or cancel your account, request that we no longer use your account data or obtain further information about or access to your personal information, you can do so by contacting customer support via the Constant Contact [Help Center](https://www.constantcontact.com/help) or by telephone at (866) 289-2101 if you are located in the U.S. or (781) 472-8140 if you are located outside of the U.S. We will respond to your request for access within 30 days.
 
 You can review and update your SinglePlatform account information by contacting the SinglePlatform account management team directly at (866) 289-2087. If you would like to suspend or cancel your account, request that we no longer use your account data or obtain further information about or access to your personal information, you can do so by contacting the account management team at (866) 289-2087. We will respond to your request for access within 30 days.
 
@@ -185,7 +185,7 @@ Back to Top
 
 #### Refer a Friend
 
-If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Such referrals may not be permissible in all situations or in all jurisdictions. You acknowledge and agree that you are solely responsible for compliance with any applicable laws in this regard. Your friend may contact us at [support@constantcontact.com](mailto:support@constantcontact.com) to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our Sites or our products and services, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit our website. We retain this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Such referrals may not be permissible in all situations or in all jurisdictions. You acknowledge and agree that you are solely responsible for compliance with any applicable laws in this regard. Your friend may contact us at [privacy@constantcontact.com ](mailto:privacy@constantcontact.com) to request that we remove this information from our database.
 
 Back to Top
 
@@ -205,7 +205,7 @@ Back to Top
 
 #### International Use
 
-We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates (including other members of the Endurance corporate family), partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer. We will protect the privacy and security of personal information according to this privacy statement, regardless of where it is processed or stored, however you explicitly acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts or law enforcement or regulatory agencies of the United States to obtain disclosure of your personal information.
+We are headquartered in the United States of America. Personal information may be accessed by us or transferred to us in the United States or to our affiliates (including other members of the Endurance corporate family), partners, merchants, or service providers elsewhere in the world. By providing us with personal information, you consent to this transfer. We will protect the privacy and security of personal information according to this privacy statement, regardless of where it is processed or stored, however you acknowledge and consent to the fact that personal information stored or processed in the United States will be subject to the laws of the United States, including the ability of governments, courts or law enforcement or regulatory agencies of the United States to obtain disclosure of your personal information.
 
 For the purposes of European Directive 95/46/EC and applicable national implementing laws in your jurisdiction, with respect to your data, we are a data controller and with respect to your contacts' information, we are a data processor.
 
@@ -215,17 +215,15 @@ Back to Top
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=92fbb66e-13d8-4918-8668-f14412c1e0b3 "TRUSTe Privacy Certification")
 
-Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework (the “Framework”). Constant Contact is committed to subjecting all personal data received from European Union (“EU”) member countries in reliance on the Privacy Shield Framework to the Framework’s applicable principles. To learn more about the Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+Constant Contact (and its subsidiary, SinglePlatform, LLC) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (together, the “Frameworks”). Constant Contact is committed to subjecting all personal data received from European Union (“EU”) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework to the Framework’s applicable principles. To learn more about the Frameworks, and to view our certification, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-Constant Contact is responsible for the processing of personal data it receives under the Framework and subsequently transfers to a third party acting as an agent on its behalf. Constant Contact complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Constant Contact is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. Constant Contact complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Constant Contact is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Constant Contact may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Constant Contact is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Constant Contact may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
-
-We also comply with the U.S.-Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from the Swiss Confederation. Constant Contact has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Constant Contact's certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 We have designated our Privacy Manager to oversee our compliance with applicable privacy laws. Questions and inquiries concerning your privacy may be directed by email to [privacy@constantcontact.com](mailto:privacy@constantcontact.com) or write us:
 
