@@ -1,96 +1,199 @@
-> *The following text is extracted and transformed from the firebase.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624205515id_/https%3A//www.firebase.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firebase.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231114146id_/https%3A//www.google.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Firebase
+# Privacy Policy – Privacy & Terms – Google
 
-##### Effective Date: 2/10/2013
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-**Firebase** values your privacy. At www.firebase.com we offer a real-time backend-as-a-service for powering cloud apps. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website https://www.firebase.com (the "Site") and the services available through our Site (collectively, the "Services"). 
+Our Privacy Policy explains: 
 
-By visiting the Site, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service, available below, including its applicable limitations on damages and the resolution of disputes. The Firebase Terms of Service are incorporated by reference into this Policy. 
-
-### What Information Do We Collect About You and Why?
-
-We may collect information about you directly from you and from third parties, as well as automatically through your use of our Site or Services. 
-
-#### Information We Collect Directly From You
-
-Certain areas and features of our Site and Services may require registration. To register you must provide your email address and a password. We also may collect additional optional information from you, including your name, location, and phone number; however, you are not required to provide us with this information. In addition, if you make a purchase, we will also request that you provide your credit or debit card information and your billing address. 
-
-We may use this information in aggregated form or we may associate it with your username and other personal information that we collect about you. 
-
-#### Information that We Collect About You from Social Networking Sites
-
-You also may log into our Site and Application through GitHub. By logging in through GitHub you are granting us access to your email address. We store the information that we receive from GitHub with other information that we collect from you or receive about you. 
-
-#### Information We Collect Automatically
-
-We may automatically collect the following information about your use of our Site or Services through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and or use our Services; and the referring URL, or the webpage that led you to our Site, and the following: access time, browser type, domain name, IP address, page views and referring URL. Please see the section "What About Cookies and Other Tracking Mechanisms?" below for more information about our use of cookies and other tracking mechanisms. 
-
-### How We Use Your Information
-
-We use the information that we gather about you for the following purposes: 
-
-To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, and for other customer service purposes. To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our Services. For marketing and promotional purposes. For example, we may use your information, such as your email address, to send you news and newsletters, special offers, and promotions, or to otherwise contact you about products or information we think may interest you. We also may use the information that we learn about you to assist us in advertising our Services on third party websites. To better understand how users access and use our Site and Services, both on an aggregated and individualized basis, in order to improve our Site and Services and respond to user desires and preferences, and for other research and analytical purposes. 
-
-### How We Share Your Information
-
-We may share the information that we collect about you, including personally identifiable information, as follows: 
-
-  * **Affiliates** We may disclose the information we collect from you to our affiliates or subsidiaries; however, if we do so, their use and disclosure of your personally identifiable information will be subject to this Policy. Service Providers. We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf. 
-  * **Business Transfers** If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company. 
-  * **In Response to Legal Process** We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena. 
-  * **To Protect Us and Others** We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which Firebase is involved. 
-  * **Aggregate and De-Identified Information** We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes. 
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
 
 
-### Our Use of Cookies and Other Tracking Mechanisms
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://support.google.com/policies/troubleshooter/2990837?hl=en). 
 
-We use cookies and other tracking mechanisms to track information about your use of our Site or Services. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service. There are two types of cookies: session and persistent cookies. 
+## Information we collect
 
-  * **Session Cookies** Session cookies exist only during an online session. They disappear from your computer when you close your browser or turn off your computer. We use session cookies to allow our systems to uniquely identify you during a session or while you are logged into the Site. This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site. 
-  * **Persistent cookies** Persistent cookies remain on your computer after you have closed your browser or turned off your computer. We use persistent cookies to track aggregate and statistical information about user activity. 
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/ads-youll-find-most-useful.html), [the people who matter most to you online](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/the-people-who-matter-most.html), or which YouTube videos you might like. 
+
+We collect information in the following ways: 
+
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/credit-card.html) to store with your account. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](https://support.google.com/accounts/answer/112783?hl=en), which may include your name and photo. 
+
+  * **Information we get from your use of our services.** We [collect information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or [view and interact with our ads](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
+
+    * **[Device information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-device)**
+
+We collect [device-specific information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/phone-number.html) with your Google Account. 
+
+    * **Log information**
+
+When you use our services or view content provided by Google, we automatically collect and store certain information in [server logs](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-server-logs). This includes: 
+
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
+
+When you use Google services, we [may collect and process information about your actual location](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/may-collect-and-process-information.html). We use various technologies to determine location, including IP address, GPS, [and other sensors](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/sensors.html) that may, for example, provide Google with information on nearby devices, [Wi-Fi access points and cell towers](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/wifi-access-points-and-cell-towers.html). 
+
+    * **Unique application numbers**
+
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+
+    * **Local storage**
+
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-browser-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-application-data-cache). 
+
+    * **Cookies and similar technologies**
+
+We [and our partners](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/our-partners.html) use various technologies to collect and store information when you visit a Google service, and this may include using [cookies or similar technologies](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-cookie) to identify your browser or device. We also use these technologies to collect and store information when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/advertising-services.html) or Google features that may appear on other sites. Our Google Analytics product helps businesses and site owners analyze the traffic to their websites and apps. When used in conjunction with our advertising services, such as those using the DoubleClick cookie, Google Analytics information is [linked, by the Google Analytics customer or by Google, using Google technology, with information about visits to multiple sites](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html).
 
 
 
-#### Third Party Cookies
 
-We may also engage third parties to track and analyze Site data. We use the data collected by such third parties to help us administer and improve the quality of the Site and to analyze Site usage. Such third parties may combine the information that we provide about you with other information that they have collected. This Policy does not cover such third parties' use of the data. 
+Information we collect when you are signed in to Google, in addition to information we obtain about you from partners, may be associated with your Google Account. When information is associated with your Google Account, we treat it as personal information. For more information about how you can access, manage or delete information that is associated with your Google Account, visit the Transparency and choice section of this policy. 
 
-#### Disabling Cookies
+## How we use information we collect
 
-Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function. 
+We use the information we collect from all of our services to [provide](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/provide-services.html), [maintain](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/maintain-services.html), [protect](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/protect-services.html) and improve them, to [develop new ones](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-#### Third Party Analytics
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. We do not share your personal information with these third parties. 
+If you have a Google Account, we may display your Profile name, Profile photo, and actions you take on Google or on third-party applications connected to your Google Account (such as +1’s, reviews you write and comments you post) in our services, including displaying in ads and other commercial contexts. We will respect the choices you make to [limit sharing or visibility settings](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/limit-sharing-or-visibility-settings.html) in your Google Account. 
 
-### Third-Party Links
+When you contact Google, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites. 
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. One of the products we use to do this on our own services is Google Analytics. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate an identifier from cookies or similar technologies with [sensitive categories](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
 
-### Security of My Personal Information
+Our automated systems analyze your content (including emails) to provide you personally relevant product features, such as customized search results, tailored advertising, and spam and malware detection. 
 
-We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, SSL, firewalls, and internal restrictions on who may access data to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security. 
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/combine-personal-information.html) – for example . Depending on [your account settings](https://myaccount.google.com/?hl=en), [your activity on other sites and apps](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/your-activity-on-other-sites-and-apps.html) may be associated with your personal information in order to improve Google’s services and the ads delivered by Google. 
 
-You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. 
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-### Access To My Personal Information
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-You may modify personal information that you have submitted by logging into your account and updating your profile information. Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. 
+## Transparency and choice
 
-#### What Choices Do I Have Regarding Use of My Personal Information?
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us. 
+  * [Review and update your Google activity controls](https://myaccount.google.com/privacy?hl=en#accounthistory) to decide what types of data, such as videos you’ve watched on YouTube or past searches, you would like saved with your account when you use Google services. You can also visit these [controls](https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow) to manage whether certain activity is stored in a cookie or similar technology on your device when you use our services while signed-out of your account. 
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the Google ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also visit that page to opt out of certain Google advertising services. 
+  * [Adjust](https://support.google.com/plus/answer/1355890?hl=en) how the Profile associated with your Google Account appears to others. 
+  * [Control](https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with through your Google Account. 
+  * [Take information](https://www.dataliberation.org/) associated with your Google Account out of many of our services. 
+  * [Choose](https://plus.google.com/settings/endorsements?hl=en) whether your Profile name and Profile photo appear in shared endorsements that appear in ads.
 
-### Children Under 13
 
-Our Services are not designed for children under 13. If we discover that a child under 13 has provided us with personal information, we will delete such information from our systems. 
 
-### Contact Us
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at firebase-support@google.com. 
+## Information you share
 
-### Changes to this Policy
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/removing-your-content.html). 
 
-This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at www.firebase.com. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site. 
+## Accessing and updating your personal information
+
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. 
+
+We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
+
+## Information we share
+
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
+
+  * **With your consent**
+
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-sensitive-info). 
+
+  * **With domain administrators**
+
+If your Google Account is managed for you by a [domain administrator](https://support.google.com/a/answer/178897?hl=en) (for example, for G Suite users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our [affiliates](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/legal-process.html). 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+[non-personally identifiable information](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/example/to-show-trends.html) about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](https://support.google.com/websearch/answer/173733?hl=en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](https://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Google LLC and its affiliates, including YouTube, services Google provides on Android devices, and services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/frameworks/), including the EU-US and Swiss-US Privacy Shield Frameworks. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](https://www.google.com/chrome/intl/en/privacy.html)
+  * [Play Books](https://play.google.com/books/intl/en/privacy.html)
+  * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+  * [Project Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+  * [G Suite for Education](https://www.google.com/work/apps/terms/education_privacy.html)
+  * [YouTube Kids](https://kids.youtube.com/privacynotice)
+  * [Google Accounts Managed with Family Link](https://families.google.com/familylink/privacy/child-policy/)
+
+
+
+For more information about some of our most popular services, you can visit the [Google Product Privacy Guide](https://web.archive.org/web/20171231114146id_/https%3A//policies/technologies/product-privacy/). 
+
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20171231114146id_/https%3A//policies/), including: 
+
+  * Information about our [technologies and principles](https://web.archive.org/web/20171231114146id_/https%3A//policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20171231114146id_/https%3A//policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20171231114146id_/https%3A//policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20171231114146id_/https%3A//policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20171231114146id_/https%3A//policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * The [Privacy Checkup](https://myaccount.google.com/privacycheckup/1?hl=en) tool, which makes it easy to review your key privacy settings. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+
+
