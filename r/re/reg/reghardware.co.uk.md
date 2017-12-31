@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629204900id_/https%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reghardware.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231194257id_/https%3A//www.theregister.co.uk/about/company/privacy) for the most accurate reproduction.*
 
 # Your Privacy and The Register • The Register
 
-### The Register is owned and operated by Situation Publishing Limited
+### The Register is owned and operated by [Situation Publishing Limited](https://situationpublishing.com/).
 
 Situation Publishing Limited   
 Unit 1   
@@ -13,7 +13,7 @@ PR8 1LJ
 
 The Register strongly believes in the importance of keeping readers' personal information personal. It will never use your information for any use beyond that stated or the permissions you give us or as required by law. This policy should be read in conjunction with [our Terms of Use here](https://www.theregister.co.uk/2008/09/30/reg_ts_and_cs).
 
-The Register may collect, process and use your personal data (including your name, postal address, email address, telephone, mobile and fax numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. The Register may employ trusted third party specialists to process and use your data on our behalf in order to deliver the products and services to you in a more efficient manner.
+The Register may collect, process and use your personal data (including your name, postal address, email address, telephone, and mobile numbers). We will do so to contact you regarding the services you have requested and/or to offer services to you, and/or to provide the services you have requested. This includes re-registration/renewal notifications, payment processing, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows. The Register may employ trusted third party specialists to process and use your data on our behalf in order to deliver the products and services to you in a more efficient manner.
 
 ### IP Addresses and Server Logs
 
@@ -31,15 +31,17 @@ These ad servers may attempt to set cookies on your computer. All these sites st
 
 The respective privacy policies of these ad servers can be found here:
 
-[DoubleClick Privacy Policy](http://www.google.com/intl/en/privacy/privacy-policy.html)
+[Google / DoubleClick](https://www.google.com/intl/en/policies/privacy/)
 
-DoubleClick also has a cookie opt-out facility [here](http://www.google.com/privacy/ads/)
+DoubleClick has a cookie opt-out facility [here](http://www.google.com/privacy/ads/)
+
+[Sovrn / lijit.com Privacy Policy](https://www.sovrn.com/privacy-policy-eu/)
 
 [Atlas DMT Privacy Policy](http://www.atlasdmt.com/privacy.aspx)
 
 [MediaMind Privacy Policy](http://www.mediamind.com/Content.aspx?page=privacy_policy)
 
-If you encounter any problems with advertising please email [ads@theregister.co.uk](mailto:ads@theregister.co.uk)
+If you encounter any problems with advertising please email [ads@sitpub.com](mailto:ads@sitpub.com)
 
 ### Email and Online Forms
 
@@ -61,10 +63,6 @@ If permission is granted, this information may be used to send occasional emails
 
 The Register will never use your data for anything beyond the reason stated and the permissions you grant us.
 
-### Mobile Apps
-
-When using comments through The Register mobile apps, login details that are entered within the app are submitted to The Register’s servers and the IP address of all communication with the servers is logged. This IP information is used anonymously in aggregate for generating site statistics, and for ensuring our services are not abused. We do not process login information for any further purpose.
-
 ### Publishing
 
 We reserve the right to publish emails and letters sent to The Register. If the sender asks that that we don't reveal his or her identity, that information won't be published. We never publish a private email address unless specifically asked to do so by its owner.
@@ -75,7 +73,7 @@ Peer 1 hosts The Register's websites.
 
 ### Data Protection
 
-Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://account.theregister.co.uk/register/) or by contacting The data controller (Caroline Wilson).
+Anyone who provides The Register with personal information is given the opportunity to manage how that information is used. This includes opting out of any services and restricting the use of that information. You can do that by visiting [this address](http://account.theregister.co.uk/register/) or by contacting The data controller (Caroline Cash).
 
 ### Accessing your Data
 
@@ -101,4 +99,4 @@ Southport PR8 1LJ
 
 ### By Email
 
-[cwilson@sitpub.com](mailto:cwilson@sitpub.com)
+[ccash@sitpub.com](mailto:ccash@sitpub.com)
