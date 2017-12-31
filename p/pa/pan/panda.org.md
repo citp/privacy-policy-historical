@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626043344id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panda.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231072925id_/http%3A//wwf.panda.org/privacy) for the most accurate reproduction.*
 
 # WWF Online Privacy Policy | WWF
 
