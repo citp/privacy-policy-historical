@@ -1,242 +1,205 @@
-> *The following text is extracted and transformed from the magentocommerce.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624055229id_/https%3A//magento.com/legal/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magentocommerce.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231225809id_/https%3A//magento.com/legal/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Magento
 
 [View All Legal Agreements](https://web.archive.org/legal/terms)
 
-## Magento web site user privacy notice
+## Magento privacy Policy
 
 #### Effective date
 
-This notice was updated on October 28, 2015
+This notice was updated on December 07, 2017
 
-##### Your privacy rights
+##### Magento Privacy Policy
 
-X.commerce, Inc. dba Magento, Inc. (“Magento”) has been awarded TRUSTe's Privacy Seal signifying that this Privacy Notice and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of personal information. The TRUSTe program covers only information that is collected through the Magento website, [www.magento.com](http://magento.com/), [www.imagineecommerce.com](http://imagineecommerce.com/) and [www.magentocommerce.com](http://magentocommerce.com/), and other Magento sites. The TRUSTe programs do not apply to information that may be collected through mobile devices.
+X.commerce, Inc. dba Magento, Inc. (“ **we** ,” “ **us** ,” or the “ **Company** ”) wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through [https://magento.com](https://magento.com/) and any other websites operated by us from which you are accessing this Privacy Policy (the “ **Websites** ”), through our social media pages located at:
 
-If we cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process.](https://feedback-form.truste.com/watchdog/request)
+  * <https://facebook.com/magento>
+  * <https://twitter.com/magento>
+  * <https://www.linkedin.com/groups/146360/profile>
+  * <https://plus.google.com/+magento>
+  * <https://www.youtube.com/user/magentocommerce>
 
-##### Table of contents:
 
-  *  
 
-This privacy notice describes your privacy rights regarding our collection, use, disclosure, retention, and protection of your personal information. It applies to any Magento sites where this notice appears in the footer, regardless of how you access or use them, including mobile devices. You should read it to learn how Magento will process and protect your data.
+(collectively, our “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Websites and our Social Media Pages, the “ **Services** ”). By using the Services, you agree to this Privacy Policy.
 
-By using this site or any related sites (collectively, “Sites”) where this Privacy Notice is displayed or referenced, you expressly consent to the terms of this Privacy Notice.
+##### Information About Our Customers’ Users
 
-This Privacy Policy forms part of the Terms of Service, available at [magento.com/legal/terms](http://magento.com/legal/terms).
+We handle information relating to our customers’ own customers or end users as a service provider on behalf of our customers. Our use of such information is governed by our agreements with our customers. In addition, such information may be subject to our customers’ own privacy policies. This Privacy Policy does not apply to such information.
 
-This Privacy Notice does not apply to the data we process on behalf of our clients. If your personal information was provided to us by a client and you wish to update, correct or delete it, please contact that company directly.
+##### Personal Information
 
-  *  
+“ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable individual, including:
 
-Magento has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit and debit card number
 
-  *  
 
-We collect different types of information in order to provide you with the use of and access to our sites, and to help us personalize and improve your experience on the sites. This includes information we collect automatically (such as device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address, standard web log information, and anonymous information collected through our use of cookies and web beacons) and information you give us (such as information you enter on our sites or you provide to us in the context of using our sites).
 
-  *  
+We may need to collect and process these types of Personal Information in order to provide the requested Services to you, or because we are legally required to do so. If you do not provide the information that we request, we may not be able to provide you with the requested Services.
 
-We use the personal information we collect to: operate, improve and personalize our Sites and services, to contact you about our services, and to customize our advertising and marketing.
+##### Collection of Personal Information
 
-We retain your personal information as long as it is necessary and relevant for our operations.
+We and our service providers may collect Personal Information in a variety of ways, including:
 
-  *  
+  * **Through the Services:** We may collect Personal Information through the Services, e.g., when you sign up for a newsletter or register.
+  * **From Other Sources:** We may receive your Personal Information from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected) and from other third parties.
 
-You have a choice about how we use your personal information to communicate with you, send you marketing information, and provide you with customized and relevant advertising.
 
-  *  
 
-If you have provided us with your personal information and wish to update, correct, or delete it, you have the ability to contact us as indicated below. We will attempt to respond to any access requests within 30 days.
+##### Use of Personal Information
 
-If your personal information was provided to us by a client and you wish to update, correct or delete it, please contact that company directly.
+We and our service providers may use Personal Information for our legitimate business interests, including the following:
 
-  *  
+  * To respond to your inquiries, fulfill your requests, complete your transactions, and provide you with related customer service.
+  * To send administrative information to you, such as changes to our terms, conditions and policies, as well as marketing communications that we believe may be of interest.
+  * To personalize your experience on the Services by presenting products and offers tailored to you.
+  * To allow you to register for Magento Certification exams and to administer these exams.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns, and operating and expanding our business activities.
 
-There are times when we disclose your personal information to third parties. This disclosure may be required for us to operate or provide you access to our Sites or services, comply with our legal obligations, enforce our policies or facilitate our advertising.
 
-We do not disclose your personal information to unaffiliated third parties for their marketing and advertising purposes without your explicit consent.
 
-  *  
+##### Disclosure of Personal Information
 
-We store and process your personal information on our computers in the US and elsewhere in the world, where we use reasonable measures in an attempt to protect your information, such as using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure, or alteration.
+Your Personal Information may be disclosed:
 
-  *  
+  * To our affiliates for the purposes described in this Privacy Policy. X.commerce, Inc. dba Magento, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing and other services.
+  * To third parties, to permit them to send you marketing communications, consistent with your choices.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and content (including, without limitation, the Magento Forums and our Social Media Pages). Please note that any information you post or disclose through these services will become public and may be available to other users and the general public.
 
-This section describes some additional important information related to your use of our Sites. Please review it for more details.
 
-  *  
 
-Questions regarding this Privacy Notice should be directed to Magento by email to [privacy@magento.com](mailto:privacy@magento.com) or by regular mail to the attention of:
+##### Other Uses and Disclosures
 
-Legal/Privacy Department  
-Magento, Inc.  
-10441 Jefferson Blvd., Suite 200  
-Culver City, CA 90232
+We may also use and disclose your Personal Information as we believe to be necessary or appropriate: (a) to comply with applicable law, which may include laws outside your country of residence, to respond to requests from public and government authorities, which may include authorities outside your country of residence, to cooperate with law enforcement, or for other legal reasons; (b) to enforce our terms and conditions; and (c) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
 
+In addition, we may use, disclose or transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
+##### Other Information
 
+“ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
 
-##### Scope and Consent
+  * Browser and device information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you that does not reveal your specific identity
+  * Information that has been aggregated in a manner such that it no longer reveals your specific identity
 
-This privacy notice describes your privacy rights regarding our collection, use, disclosure, retention, and protection of your personal information. It applies to any Magento site where this notice appears in the footer, and to any Magento application, service, or tool where this notice is referenced, regardless of how you access or use them, including mobile devices. You should read it to learn how Magento will process and protect your data.
 
-By using this site or any related sites where this Privacy Notice is displayed or referenced, you expressly consent to the terms of this Privacy Notice.
 
-If all or part of Magento is sold, merged, or otherwise transferred to another entity, the information gathered by the transferred entity may be transferred as part of that transaction.
+If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Policy.
 
-This Privacy Notice does not apply to the data we process on behalf of our clients. If your personal information was provided to us by a client and you wish to update, correct or delete it, please contact that company directly.
+**Collection of Other Information**
 
-###### personal information
+We and our service providers may collect Other Information in a variety of ways, including:
 
-Throughout this Privacy Notice, we use the term “personal information” to describe information that identifies a specific person, such as full name, email address or mailing address. We do not consider personal information to include: business contact information, business information publicly available on the internet or other public sources, information that has been made anonymous or aggregated so that it can no longer be used, whether in combination with other information or otherwise, to identify a specific person, or information that merely identifies a computer or browser, or an ID number assigned to an anonymous person.
+  * **Through your browser or device:** Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services you are using. We use this information to ensure that the Services function properly.
+  * **Using cookies:** Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, and to personalize your experience. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies in online advertising to track responses to our ads, and to serve ads in our partner networks. We do not respond to do-not-track signals. We engage in cross-site tracking, such as retargeting campaigns.  
+If you do not want information collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+  * **Using pixel tags and other similar technologies:** Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+  * **Analytics:** We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends. This service may also collect information regarding the use of other websites, apps and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy//](http://www.google.com/policies/privacy//), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+  * **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies:** We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also go to the Global Storage Settings Panel and follow the instructions (which may explain, for example, how to delete existing Flash LSOs (referred to as “information”, how to prevent Flash LSOs from being placed on your computer without your being asked, and how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
+  * **IP Address:** Your IP address is automatically assigned to your computer by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
+  * **Physical Location:** We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you do, we may not be able to provide you with the applicable personalized services and content.
 
-###### CHANGES TO THIS NOTICE
 
-We may amend this Privacy Notice at any time by posting the amended terms on this Site. Any such amendment shall take effect when such amendment is sent by email or posted on the Site. If we make any material amendments we will notify you by email (sent to the email address you provided) or by means of a notice on this Site prior to the amendment taking effect.
 
-Back to top
+**Uses and Disclosures of Other Information**
 
-##### GLOBAL PRIVACY STANDARDS
+We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
 
-###### SAFE HARBOR CERTIFICATION
+##### Third-Party Services
 
-Magento Sites comply with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
 
-Magento has certified that its sites adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
+In addition, we are not responsible for the information collection, use, disclosure or security policies or practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other developer, social media platform provider, operating system provider, wireless service provider or device manufacturer, including with respect to any Personal Information you disclose to other organizations through or in connection with our Social Media Pages.
 
-If you feel that this company is not abiding by its posted Privacy Notice, you should first contact Magento by email at [privacy@magento.com](mailto:privacy@magento.com). As part of our [participation](https://safeharbor.export.gov/list.aspx) in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe at any of the addresses listed above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the TRUSTe or Direct Marketing Association Safe Harbor Dispute Resolution Programs. They will then serve as a liaison to Magento to resolve your concerns.
+##### Third Party Advertising
 
-The Direct Marketing Association  
-Attn: Ethics/Consumer Affairs Department  
-1111 19th Street NW  
-Suite 1100  
-Washington, DC 20036
-
-Back to top
-
-##### Collection
-
-###### why we collect information
-
-We and our affiliates may collect and use the information collected at our Sites for any internal purpose and provide that information to our business partners and vendors to be used by them related such purposes. For example, we may use this data to monitor our Sites and collect aggregate data for marketing purposes and for other future uses, or to determine the most appropriate information to send to those who request it.
-
-You may choose voluntarily to give us personally identifiable information, such as your name, address, phone number, email address, or other information about yourself. In addition, we may collect non-personal information automatically as you navigate our sites. This information may include (but may not be limited to): location data, IP address, device data such as mobile identifiers, carrier network information, the mobile website or mobile app used, and cookie or pixel tag data.
-
-Certain forms on our sites may also request contact and profile information, such as user name, email address, website, phone number, or company information. Completion of these forms is entirely voluntary but may be required in order to request certain services from Magento. Résumé submissions on our Sites are used to screen candidates and contact them for interviews.
-
-Magento may also use our sites to periodically survey our Clients for purposes of improving the quality of our service and customer satisfaction. Client participation is completely voluntary, and any information we collect from you as part of our surveys will be treated with the same respect as any other information gathered in accordance with this Notice.
-
-###### how we collect it
-
-Our Sites use web beacons and other technologies to collect information when you access our websites, and we may store that information in “cookies”.
-
-We only obtain personally identifying information if it is supplied voluntarily. If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies, or web beacons to help us make those communications more useful or interesting to you. We may periodically track the open-rates and click behavior of our emails and other messages and advertisements to help us identify which portions of our advertisements are most popular and effective with our customers.
-
-###### how we use cookies and other technologies
-
-When you access our sites, we and our affiliates, business partners and vendors may place small data files on your computer or other device. We use these data files, commonly known as “Cookies” to help us identify you as a site visitor or Client, customize our content and enhance your site experience. These third parties may also use a technology called “Tags” or “Web Beacons”. Similar in function to Cookies, Web Beacons allow us to understand the movements of visitors to our Sites. The tracking technologies on our Sites do not collect personal information. We use this information to analyze trends, to administer our Sites, to track users' movements around the Sites, and to gather demographic information about our user base as a whole. Magento has no access to or control over third party cookies or tracking technologies, but does not provide personal information through the use of web beacons and cookies to these parties.
-
-You should note that although most browsers are initially set up to accept cookies, you may be able to change your browser settings to cause your browser to refuse first party or third party cookies or to indicate when a third party cookie is being sent. However, disabling or limiting cookies may cause certain features of this site to not function properly. Check your browser’s “Help” files or other similar resources to learn more about handling cookies on your browser.
-
-###### do not track
-
-California law requires us to state how we respond to Do Not Track (DNT) signals. Because there is currently no industry or legal standard for recognizing or honoring DNT, we do not currently respond to DNT signals. We await the result of work by the privacy community and industry to determine when such a response is appropriate and what form it should take.
-
-Back to top
-
-##### use and retention
-
-###### use
-
-We use the information we gather to help us improve our services to offer the best user experience possible, to communicate with our Clients, or for other internal purposes and to generally operate the website. You agree that we may use your personal information as follows:
-
-  * To deliver information specific to your interests
-  * To create a profile detailing your service preferences so that we can best serve you
-  * To save you from having to re-enter your password each time you visit our site
-  * To better analyze our site traffic patterns so that we can bolster our Web offering
-  * To respond to your questions or to provide you with the information you have requested
-
-
-
-Any non-personally identifiable material, information, suggestions, ideas, concepts, know-how, techniques, questions, comments, or other communication you transmit or post to our Sites in any manner will be considered non-confidential and non-proprietary "User Communications." Magento and each of our affiliates and/or their designees may use any or all User Communications for any purpose whatsoever, including, without limitation, reproduction, transmission, disclosure, publication, broadcast, development, manufacturing and/or marketing in any manner whatsoever for any or all commercial or non-commercial purposes.
-
-###### retention
-
-We retain your personal information as long as it is necessary and relevant for our operations.
-
-In addition, we retain personal information from closed accounts to: comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, and take other actions permitted by law.
-
-Back to top
-
-##### CHOICE
-
-You have a choice about how we use your personal information to communicate with you, send you marketing information, and provide you with customized and relevant advertising.
-
-###### marketing
-
-We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies and use it to improve and personalize our services or content.
-
-###### opt Out
-
-You may opt-out of the marketing messages we send at any time by utilizing the unsubscribe information provided in such message or by contacting us at [privacy@magento.com](mailto:privacy@magento.com)
-
-If you choose to unsubscribe from emails, please click unsubscribe in the applicable email message. Rarely, we may need to contact you regarding non-promotional purposes. You cannot opt out of these operational emails.
-
-Back to top
-
-##### Access to Information
-
-If you have provided us with your personal information and wish to update, correct, or delete it, you may have the ability to do so by contacting us as indicated below. We will attempt to respond to any access requests within 30 days.
-
-If your personal information was provided to us by a client and you wish to update, correct or delete it, please contact that company directly.
-
-Back to top
-
-##### disclosure
-
-As stated above, we and our affiliates may collect and use the information collected at our Sites for any internal purpose and provide that information to our business partners and vendors to be used by them for such related purposes. We may also disclose personal information to respond to legal requirements, enforce our policies, respond to claims that user or Client content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with this Privacy Notice and applicable laws and regulations. As stated above, we never disclose your personal information to unaffiliated third parties for their marketing purposes without your explicit consent.
-
-We may also share your personal information with:
-
-  * Service providers under contract who help with parts of our business operations such as marketing and technology services. Our contracts dictate that these service providers only use information in connection with the services they perform for us and not for their own benefit.
-  * Law enforcement, government officials, or other third parties when we 
-    * Are compelled to do so by a subpoena, court order or similar legal procedure, and
-    * Believe the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our User Agreements.
-  * Companies that we plan to merge with or are acquired by.
-
-
-
-If you use a bulletin board, chat room, blog, or other public forum function on our Sites, you should be aware that any personal information you submit there may be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums.
-
-Back to top
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services, based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). They may also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit <http://optout.aboutads.info/#/> and <http://optout.networkadvertising.org/#/>.
 
 ##### Security
 
-We store and process your personal information on our computers in the US and elsewhere in the world where our facilities are located. We protect your information using reasonable technical and administrative security measures in an effort to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls. You acknowledge and agree that our security measures are not a guarantee of security and that we are not responsible for loss or misuse of your personal information.
+We seek to use reasonable organizational, technical and administrative measures designed to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us in accordance with the “Contacting Us” section below.
 
-Back to top
+##### Choices And Access
 
-##### important information
+**Your choices regarding our use and disclosure of your Personal Information**
 
-###### children’s privacy
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
-The Magento Sites are general audience websites and are not intended for children under the age of 13. We do not knowingly collect personal information via our Sites from users in this age group. If we discover we have inadvertently gathered any personal information from this age group, appropriate steps will be taken to delete it.
+  * **Receiving electronic or telephone communications from us:** If you no longer want to receive marketing-related emails or calls from us on a going-forward basis, you may opt-out by following the instructions contained in each such email or you can withdraw this consent at any time by visiting our [preference center](https://info2.magento.com/UnsubscribePage.html).
 
-###### third parties
+  * **Our sharing of your Personal Information with affiliates for their direct marketing purposes:** If you would prefer that we not share your Personal Information on a going-forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by visiting our [preference center](https://info2.magento.com/UnsubscribePage.html).
 
-This Privacy statement only applies to information received or collected by Magento Sites. Our Sites do not control the privacy practices of third parties. Consumers who click on a link or advertisement, visit a third-party site, or interact with third-party content are subject to the privacy policies of those third parties, where applicable.
+  * **Our sharing of your Personal Information with unaffiliated third parties for their direct marketing purpose:** If you would prefer that we not share your Personal Information on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by visiting our [preference center](https://info2.magento.com/UnsubscribePage.html).
 
-Back to top
 
-##### Questions or Complaints
 
-Questions regarding this Privacy Notice should be directed to Magento by email to [privacy@magento.com](mailto:privacy@magento.com) or by regular mail to the attention of:
 
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to request to review, correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us by emailing [info@magento.com](mailto:info@magento.com) or by navigating to our [preference center](https://info2.magento.com/UnsubscribePage.html). We will respond to your request consistent with applicable law.
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we will only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+##### Retention Period
+
+We will retain your Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained. The criteria used to determine our retention periods include: (i) the length of time we have an ongoing relationship with you and provide the Services to you; (ii) when we have legal obligation to which we are subject; or (iii) as advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations.
+
+##### Use Of Services By Minors
+
+The Services are not directed to individuals under the age of sixteen (16), and we do not knowingly collect Personal Information from individuals under sixteen (16).
+
+##### Jurisdiction And Cross-Border Transfer
+
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
+
+If you are located in the EEA: Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.htm)). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission to protect your Personal Information. You may obtain a copy of these measures by contacting [info@magento.com](mailto:info@magento.com).
+
+##### Sensitive Information
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Services or otherwise to us.
+
+##### Updates To This Privacy Policy
+
+We may change this Privacy Policy. The “Last Updated” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+
+##### Contacting Us
+
+X.commerce, Inc. dba Magento, Inc., located at 3640 Holdrege Avenue., Culver City, CA 90016 is the company responsible for collection, use and disclosure of your Personal Information under this Privacy Policy.
+
+If you have any questions about this Privacy Policy, please contact us at [privacy@magento.com](mailto:privacy@magento.com), or:  
 Legal/Privacy Department  
 Magento, Inc.  
-10441 Jefferson Blvd., Suite 200  
-Culver City, CA 90232
+3640 Holdrege Avenue  
+Los Angeles, CA 90016
 
-Back to top
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
+
+**ADDITIONAL INFORMATION FOR INDIVIDUALS IN THE EEA**
+
+If you are located in the EEA, you also may:
+
+  * Contact us at [EMEA_Compliance@magento.com](mailto:EMEA_Compliance@magento.com) or
+
+
+
+      Magento Commerce International Ltd  
+      Hamilton House, 28 Fitzwilliam Place, Dublin 2, Ireland
+
+      with any questions about this Privacy Policy.
+
+  * Contact our privacy officer responsible for your country or region, if applicable. For a list of privacy officers, please contact [legal@magento.com](mailto:legal@magento.com).  
+ 
+  * Lodge a complaint with a supervisory authority competent for your country or region. Please [click here](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm) for contact information for such authorities.
+
+
