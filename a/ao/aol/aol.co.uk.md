@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aol.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619175227id_/http%3A//privacy.aol.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231022613id_/http%3A//privacy.aol.co.uk) for the most accurate reproduction.*
 
 # AOL UK Privacy
 
-The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL ail, AOL.co.uk, HuffPost UK, Engadget, TechCrunch, Moviefone, and Makers.
+The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL Mail, AOL.co.uk, HuffPost UK, Engadget, TechCrunch, Moviefone, and Makers.
 
-This notice provides highlights of the [full privacy policy](http://privacy.aol.co.uk/privacy-policy/) and covers the collection and use of information when you use the Oath or HuffPost UK brand websites, services, and software (collectively the "Oath Services") and other content and offerings from Oath (UK) Limited, its subsidiaries and [Affiliates](http://privacy.aol.co.uk/definitions/) (together "AOL") ("AOL", "We" and "Us"), as well as any websites owned by or affiliated with Oath and operating under different names.
+This notice provides highlights of the [full privacy policy](http://privacy.aol.co.uk/privacy-policy/) and covers the collection and use of information when you use the Oath or HuffPost UK brand websites, services, and software (collectively the "Oath Services") and other content and offerings from Oath (UK) Limited, its subsidiaries and [Affiliates](http://privacy.aol.co.uk/definitions/) (together "Oath") ("Oath", "We" and "Us"), as well as any websites owned by or affiliated with Oath and operating under different names.
 
 ### Personal Information
 
@@ -60,3 +60,7 @@ London
 WC1E 6JA 
 
 or **via email to:[datainfouk@aol.com](mailto:datainfouk@aol.com)**
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=64efe8ce-d306-4025-808e-c8f973f24003)
+
+Oath (formerly AOL) is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/) and is committed to complying with the [Digital Advertising Alliance](http://www.aboutads.info/choices/)(DAA) and [European Interactive Digital Advertising Alliance](http://www.edaa.eu/)(EDAA) Self-Regulatory Principles for Online Behavioral Advertising. 
