@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the battlegroundsgame.com privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615201208id_/https%3A//www.playbattlegrounds.com/privacyPolicy.pu) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the battlegroundsgame.com privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231180855id_/http%3A//www.playbattlegrounds.com/privacyPolicy.pu) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -105,6 +105,12 @@
         + '<a href="http://store.steampowered.com/app/578080" target="_blank" class="steam">Steam</a>'
       );
     }
+    if (locale.indexOf("en") > -1) {
+      $('.copyright_area').children().first().append(
+        $('<img src="//d1wfiv6sf8d64f.cloudfront.net/static/pc/img/esrb-1.gif"/>')
+        .css('float', 'right')
+      );
+    }
   };
 </script>
 <link rel="stylesheet" type="text/css" href="//d1wfiv6sf8d64f.cloudfront.net/static/pc/css/battle.css">
@@ -144,8 +150,7 @@
         <h2 class="blind">Communication channel</h2>
         <div class="communication_area">
           <a href="http://forums.playbattlegrounds.com" target="_blank" class="forum">FORUM</a>
-          <a href="http://battlegrounds.gamepedia.com/PLAYERUNKOWNS_BATTLEGROUNDS_Wiki" target="_blank" class="wiki">WIKI</a>
-          <a href="http://support.enmasse.com/playerunknown-s-battlegrounds" target="_blank" class="support">SUPPORT</a>
+          <a href="https://pubgsupport.zendesk.com/" target="_blank" class="support">SUPPORT</a>
         </div>
         <div class="etc_area">
           <h2 class="blind">Socail link</h2>
@@ -281,7 +286,7 @@
       <div class="socail_area">
       </div>
       <div class="copyright_area">
-        <p class="copyright">COPYRIGHT ©2017 BLUEHOLE INC. ALL RIGHTS RESERVED.<br>PLAYERUNKNOWN'S BATTLEGROUNDS is a registered trademark,  trademark or service mark of Bluehole, Inc. and its affiliates</p>
+        <p class="copyright">COPYRIGHT ©2017 PUBG CORPORATION. ALL RIGHTS RESERVED.<br>PLAYERUNKNOWN'S BATTLEGROUNDS and PUBG are registered trademarks, trademarks or service marks of PUBG.</p>
         <a href="/privacyPolicy.pu">Privacy Policy</a>
         <a href="/rulesOfConduct.pu">Rules of conduct</a>
         <a href="/eula.pu">EULA</a>
