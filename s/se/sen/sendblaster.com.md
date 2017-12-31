@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendblaster.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610040945id_/http%3A//www.sendblaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendblaster.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231123438id_/http%3A//www.sendblaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SendBlaster
 
