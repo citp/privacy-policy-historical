@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officex.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630205129id_/http%3A//officex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officex.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231234845id_/http%3A//officex.org/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy OfficeX
 
@@ -60,6 +60,6 @@ We may change this privacy policy. If we change this policy we will post the cha
 
 If you feel that we have not followed our Privacy Policy, please let us know. Also, if you have any questions or concerns about our Privacy Policy, its implementation, or would like a written copy, please feel free to contact us at:
 
-Tightrope Interactive 588 Sutter st #551, San Francisco, CA 94108
+Tightrope Interactive 588 Sutter st #551, San Francisco, CA 94102
 
-Alternatively, if you would like, contact us via e-mail at webmaster@officex.org 
+Alternatively, if you would like, contact us via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
