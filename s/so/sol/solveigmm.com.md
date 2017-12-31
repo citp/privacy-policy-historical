@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the solveigmm.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612194359id_/http%3A//www.solveigmm.com/en/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveigmm.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231014728id_/http%3A//www.solveigmm.com/en/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The Privacy Policy will address the following points:
 
-[What information, if any, is collected as a result of your visit?](http://www.solveigmm.com/en/legal/privacypolicy/#collect)   
+[What information, if any, is collected as a result of your visit?](http://www.solveigmm.com/en/legal/privacypolicy/#collect)  
 [Whether information is shared?](http://www.solveigmm.com/en/legal/privacypolicy/#sharing)  
 [Whether Cookies are placed on your hard drive?](http://www.solveigmm.com/en/legal/privacypolicy/#cookies)  
 [Contact Information](http://www.solveigmm.com/en/legal/privacypolicy/#contact)
@@ -20,7 +20,15 @@ As is true of most websites, we gather information automatically and store it in
 **Cookies**  
 A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies.
 
-We use cookies to enhance your online experience and to learn about how you use our services in order to improve the quality of our services. Our servers automatically record information when you visit our website, including the URL, IP address, browser type and language, and the date and time of your request.
+We use cookies to enhance your online experience and to learn about how you use our services in order to improve the quality of our services. Specific cookies usage include:
+
+  * Storing your Preferences and Settings. Settings that enable the Site to operate correctly or that maintain your preferences over time may be stored on your device.
+  * Social Media. The Site include social media cookies, including those that enable users who are logged in to the social media service to share content via that service.
+  * Analytics. In order to provide analyze the performance of the Site, we use cookies to gather usage and performance data. Our servers automatically record information when you visit our website, including the URL, IP address, browser type and language, and the date and time of your request. This may include cookies from third-party analytics providers.
+
+
+
+Most web browsers automatically accept cookies but provide controls that allow you to block or delete them. Instructions for blocking or deleting cookies in browsers may be available in each browser's privacy or help documentation. If you use different devices or browsers you should apply such settings to all of them accordingly.
 
 **Sharing of Information**  
 As described above, no information other than the browser-level information, and the information recorded by the cookie (IP address, browser type and language, and the date and time of your request for information) is captured by visiting our website. The browser-level information and information recorded by the cookie is not shared with any third party.
@@ -32,10 +40,18 @@ We reserve the right to modify this Privacy Policy at any time. If we decide to 
 If you have any questions or suggestions regarding our Privacy Policy, please contact us at:
 
 Solveig Multimedia  
-Akademicheskij avenue 10/3  
+3 Razvitiya prospekt  
 Tomsk, 634055, Russian Federation  
 E-mail: [info@solveigmm.com](mailto:info@solveigmm.com)
 
 © Solveig Multimedia
 
-All trademarks are the property of their respective owners. All Rights Reserved. 
+All trademarks are the property of their respective owners. All Rights Reserved.
+
+Solveig Multimedia uses cookies and similar technologies for several purposes, including:
+
+Storing your Preferences and Settings. Settings that enable the Site to operate correctly or that maintain your preferences over time may be stored on your device.
+
+Social Media. The Site include social media cookies, including those that enable users who are logged in to the social media service to share content via that service.
+
+Analytics. In order to provide analyze the performance of the Site, we use cookies to gather usage and performance data. This may include cookies from third-party analytics providers.
