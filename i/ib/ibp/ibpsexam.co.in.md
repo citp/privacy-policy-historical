@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibpsexam.co.in privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606012133id_/http%3A//www.ibpsexam.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexam.co.in privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231094827id_/http%3A//www.ibpsexam.co.in/privacy) for the most accurate reproduction.*
 
-# Privacy | IBPS Recruitment 2016 – Apply Online for IBPS PO/Clerk and RRB
+# Privacy | IBPS Recruitment 2017-2018 | Apply Online for IBPS PO/Clerk and RRB
 
 **The privacy of our visitors is important to us.**
 
