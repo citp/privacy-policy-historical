@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valvesoftware.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630212848id_/http%3A//valvesoftware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valvesoftware.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231073205id_/http%3A//www.valvesoftware.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Agreement
 
@@ -51,10 +51,6 @@ Valve gives users the option to receive promotional email communications from Va
 
 Personally identifiable information provided to Valve will be collected, processed and stored by Valve Corporation in the United States. Valve has taken reasonable steps to protect the information users share with us, including, but not limited to, setup of processes, equipment and software to avoid unauthorized access or disclosure of this information.
 
-**Payment Data**
-
-Payment processing related to Content and Services and/or physical goods purchased on Steam is performed by either Valve Corporation directly or by Valve’s fully owned subsidiary Valve GmbH on behalf of Valve Corporation depending on the type of payment method used. If your card was issued outside the United States, your payment may be processed via a European acquirer by Valve GmbH on behalf of Valve Corporation. For any other type of purchases, payment will be collected by Valve Corporation directly. In any case, delivery of Content and Services as well as physical goods is performed by Valve Corporation.
-
 **Corrections, Updates and Removal of Personally Identifiable Information**
 
 If you are concerned about the accuracy of personally identifiable information maintained by Valve or wish to review, access, amend or correct it, or would like your personally identifiable information removed from Valve's records or otherwise deactivated, please contact us [here](http://store.steampowered.com/ssa_feedback). We may decline requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, or are extremely impractical.
@@ -77,4 +73,4 @@ The Privacy Shield Principles describe Valve's accountability for personal data 
 
 The Federal Trade Commission has jurisdiction over Valve’s compliance with the Privacy Shield.
 
-_Revision Date: January 1st, 2017_
+_Revision Date: August 31st, 2017_
