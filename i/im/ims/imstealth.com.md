@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imstealth.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011155102id_/http%3A//www.imstealth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imstealth.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101005756id_/http%3A//www.imstealth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
