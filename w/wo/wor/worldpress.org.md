@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the worldpress.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpress.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/privacy.cfm) for the most accurate reproduction.*
 
 # Worldpress.org - Privacy Policy
 
-[About](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/about.cfm) [Mission](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/about.cfm#mission) [Jobs](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/jobs.cfm) [Advertising](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/advertise.cfm) [Donations](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/donate.cfm) [Contact Us](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/contact.cfm) [Privacy Policy](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/privacy.cfm) [Website Traffic Stats](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/traffic.cfm) 
+[About](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/about.cfm) [Mission](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/about.cfm#mission) [Jobs](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/jobs.cfm) [Advertising](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/advertise.cfm) [Donations](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/donate.cfm) [Contact Us](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/contact.cfm) [Privacy Policy](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/privacy.cfm) [Website Traffic Stats](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/traffic.cfm) 
 
 
 Worldpress.org takes the privacy of all its users and customers very seriously, and takes great care with user and customer information.
@@ -15,7 +15,7 @@ We take every precaution to protect your personal information. When we ask you t
 
 ## Unsolicited E-Mail (SPAM)
 
-Worldpress.org regards SPAM as an annoyance and as a waste of bandwidth. **Under no circumstances will we share or sell your e-mail address with anyone.** If you supply an e-mail address to us, we may contact you by e-mail about your account. Worldpress.org's [e-mail newsletters](https://web.archive.org/web/20170630223415id_/http%3A//www.worldpress.org/subscribe.cfm) are only sent to readers who request them.
+Worldpress.org regards SPAM as an annoyance and as a waste of bandwidth. **Under no circumstances will we share or sell your e-mail address with anyone.** If you supply an e-mail address to us, we may contact you by e-mail about your account. Worldpress.org's [e-mail newsletters](https://web.archive.org/web/20171231183142id_/http%3A//www.worldpress.org/subscribe.cfm) are only sent to readers who request them.
 
 ## How Do We Use Your Information?
 
