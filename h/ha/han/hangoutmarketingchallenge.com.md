@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hangoutmarketingchallenge.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417092953id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hangoutmarketingchallenge.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231203833id_/http%3A//www.hangoutmarketingchallenge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hangout Marketing Challenge
 
@@ -10,7 +10,7 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 **_Introduction_**
 
-Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the "Disclosure" section below.
+Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the “Disclosure” section below.
 
 **_Disclosure_**
 
@@ -48,7 +48,7 @@ We may take the information we receive from individuals responding to our custom
 
 **_Automatic Collection of Information_**
 
-Cookies: Our Company may use "“Cookies" to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
+Cookies: Our Company may use ““Cookies” to collect information. Cookies are small pieces of information stored by your browser on your computer’s hard drive, at a web site’s request. Our Company Cookies do not contain any personal information, but are used primarily as follows:
 
   * to keep track of temporary information. For example, Cookies allow us to keep track of the pictures you upload and download;
   * to register you in special programs. Cookies allow us to remember you when you login to the places on our site that require Membership;
@@ -60,7 +60,7 @@ Cookies: Our Company may use "“Cookies" to collect information. Cookies are sm
 
 
 
-**Web Beacons:** We may also place small "tracker gifs" or "beacons" on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
+**Web Beacons:** We may also place small “tracker gifs” or “beacons” on many of the pages on our website, in online advertising with third parties, and in our email. We use these beacons, in connection with Cookies, to collect non-personal data on the usage of our site including but not limited to the date and time of the visit, the pages visited, the referring web page, the type of browser (e.g., Internet Explorer, NetScape), the type of operating system (e.g., Windows, Linux, or Mac), and the domain name of the visitor’s Internet service provider (e.g., AOL). This information is collected about thousands of site visits and analyzed as a whole. This information is useful in, for example, tracking the performance of our online advertising such as online banner ads and to determine where to place future advertising on other web sites.
 
 **Disabling Cookies and Beacons :** If you are uncomfortable with the collection of such information through the use of Cookies and Beacons, we recommend disabling these features through your browser preferences, though please understand this will limit the performance and functionality of our Company’s Web site. Your browser documentation should provide specific procedures for disabling cookie and beacon support.
 
@@ -86,11 +86,14 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information below.
 
-PushButtonInfluence.com, LLC   
-1908 Thomes Suite 6402  
-Cheyenne, WY 82001  
-Phone Number : (415)493-5567   
-Email: Rich Haines [rhaines@laughlinusa.com](mailto:rhaines@laughlinusa.com)
+Notification of Claimed Infringement:  
+Heritage House Media  
+530 Alameda del Prado  
+Suite 399  
+Novato, CA 94949
+
+Agent’s Name/Email Address:  
+Email amy@marketingonline.com
 
 **_Updating Personal Information_**
 
