@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapdeal.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203035id_/https%3A//www.snapdeal.com/page/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapdeal.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231234109id_/https%3A//www.snapdeal.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Condition Page -Snapdeal.com - Features Daily Best Deals in Your City
+# 
 
 THIS PRIVACY POLICY IS AN ELECTRONIC RECORD IN THE FORM OF AN ELECTRONIC CONTRACT FORMED UNDER THE INFORMATION TECHNOLOGY ACT, 2000 AND THE RULES MADE THEREUNDER AND THE AMENDED PROVISIONS PERTAINING TO ELECTRONIC DOCUMENTS / RECORDS IN VARIOUS STATUTES AS AMENDED BY THE INFORMATION TECHNOLOGY ACT, 2000. THIS PRIVACY POLICY DOES NOT REQUIRE ANY PHYSICAL, ELECTRONIC OR DIGITAL SIGNATURE.
 
