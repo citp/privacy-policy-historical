@@ -1,107 +1,56 @@
-> *The following text is extracted and transformed from the usexvideos.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611084708id_/http%3A//www.usexvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usexvideos.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231072328id_/http%3A//www.usexvideos.com/privacy/index.html) for the most accurate reproduction.*
 
-# INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com - Privacy policy
+# Sex Videos - Privacy Policy
 
-rnINDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited recognizes that its customers, visitors, users, and others who use INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.rn
+  
 
-rn
 
-rnPlease note that any video, image, or other content posted at the direction of users onto the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site becomes published content and is not considered personally identifiable information subject to this privacy notice.rn
+This Privacy Policy governs the manner in which Indian Porn Deal collects, uses, maintains and discloses information collected from users (each, a "User") of the usexvideos.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Indian Porn Deal
 
-rn
+### Personal Identification Information
 
-The Information INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited Collects
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities 
 
-rn
+### Non-Personal Identification Information
 
-rn **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video when choosing to participate in various activities on the sites such as uploading videos or posting messages.rn
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information 
 
-rn **Cookies Information:** When you visit the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site may not function properly if the ability to accept cookies is disabled.rn
+### Personal Identification Information
 
-rn
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities 
 
-rn **Log File Information:** When you use the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browserrn
+### Web Browser Cookies
 
-rn
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. How we use collected information Indian Porn Deal may collect and use Users personal information for the following purposes: 
 
-rn
+  * To personalize user experience.
+  * We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * To improve our Site.
+  * We may use feedback you provide to improve our products and services. 
+  * To run a promotion, contest, survey or other Site feature.
+  * To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * To send periodic emails.
 
-The Way INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video Retains Information
 
-rn
 
-rn
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site 
 
-rnTo preserve the integrity of website databases, INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video, you are consenting to store that information indefinitely.rn
+### How We Protect Your Information
 
-rn
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site 
 
-rn
+### Sharing Your Personal Information
 
-The Way INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited Uses Information 
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission 
 
-rn
+### Third Party Websites
 
-rn
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies 
 
-rnIf you submit personally identifiable information to us through the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video website, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.rn
+### Your Acceptance Of Terms
 
-rn
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes 
 
-rnAny personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site, and other users can contact you through messages and comments. Any videos that you submit to the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site may be redistributed through the Internet and other media channels, and may be viewed by the general public.rn
+### Contact Us
 
-rn
-
-rnWe do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.rn
-
-rn
-
-rn
-
-When INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video Discloses Information 
-
-rn
-
-rn
-
-rnWe provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.rn
-
-rn
-
-rnWe do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.rn
-
-rn
-
-rnWe may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.rn
-
-rn
-
-rnINDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of our company, our users or others.rn
-
-rn
-
-rn
-
-Our Commitment to Legal-Age Usage 
-
-rn
-
-rnProtecting children from adult content is especially important. For that reason, INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site at any time or in any manner. If INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.rn
-
-rn
-
-In the Event of Merger, Sale, or Bankruptcy
-
-rn
-
-rnIn the event that INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Limited is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.rn
-
-rn
-
-Changes and updates to this Privacy Notice
-
-rn
-
-rnThis privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the INDIAN PORN VIDEOS-Watch Indian Sex Videos Of Hot Indian Amateurs And Aunties For Free | Usexvideos.com Video site constitutes your agreement to this privacy notice and any future revisions.rn
-
-rn 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
