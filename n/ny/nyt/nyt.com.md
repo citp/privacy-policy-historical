@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nyt.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234937id_/http%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyt.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231192525id_/https%3A//www.nytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Times
 
-_Last Updated on May 18, 2017_
+_Last Updated on October 27th, 2017_
 
-This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com (including international.nytimes.com, the online edition of The International New York Times), [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) website, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store - Rare and Newsworthy Items"), [Times Journeys](http://www.nytimes.com/times-journeys/) and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
+This Privacy Policy discloses the privacy practices for The New York Times newspaper and NYTimes.com, including NYTimes.com via the Tor Onion Service, [The New York Times Home Delivery](http://homedelivery.nytimes.com/HDS/HDSHome.do?mode=HDSHome) website, [The New York Times Neediest Cases Fund](http://nytneediestcases.com/), [The New York Times Store](http://www.nytstore.com/ "Welcome to The New York Times Store - Rare and Newsworthy Items"), [Times Journeys](http://www.nytimes.com/times-journeys/) and [The New York Times Learning Network](http://learning.blogs.nytimes.com/ "The Learning Network - The Learning Network Blog - NYTimes.com"), our email newsletters and other applications owned and operated by The New York Times Company (collectively referred to as the “NYT Services”), and to any services that display this notice. For the purposes of this Privacy Policy, unless otherwise noted, all references to "The New York Times" include NYTimes.com and The New York Times newspaper.
 
 The New York Times Replica Edition, maintained by PressReader, is governed by its own [Privacy Policy](https://care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy "The New York Times - Replica Edition").
 
@@ -32,8 +32,6 @@ This Privacy Policy covers:
 
   
 **TRUSTe** : If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
-
-The TRUSTe program covers only information that is collected through the NYTimes.com website. The TRUSTe program does not cover the mobile application or information that may be collected through software downloaded from this site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal.
 
 * * *
 
