@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavens-above.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630041148id_/http%3A//www2.heavens-above.com/privacy.aspx%3Flat%3D0%26lng%3D0%26loc%3DUnspecified%26alt%3D0%26tz%3DUCT%26cul%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavens-above.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231083802id_/http%3A//heavens-above.com/privacy.aspx%3Flat%3D0%26lng%3D0%26loc%3DUnspecified%26alt%3D0%26tz%3DUCT%26cul%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,9 +46,9 @@ Although most changes are likely to be minor, Heavens-Above may change its Priva
 
 This Privacy Policy is based on the one at http://automattic.com/privacy/ – thanks very much to WordPress.com for allowing the world to re-use their content via a Creative Commons Attribution Sharealike license.
 
-  |  [](https://web.archive.org/web/20170630041148id_/http%3A//www2.heavens-above.com/Donate2.aspx "Make a donation to help with the running costs of Heavens-Above") | 
+  |  [](https://web.archive.org/web/20171231083802id_/http%3A//heavens-above.com/Donate2.aspx "Make a donation to help with the running costs of Heavens-Above") | 
 
-Developed and maintained by [Chris Peat](mailto:Chris.Peat@heavens-above.com), Heavens-Above GmbH. Please read the [FAQ](https://web.archive.org/web/20170630041148id_/http%3A//www2.heavens-above.com/faq.aspx) before sending e-mail. [Imprint](https://web.archive.org/web/20170630041148id_/http%3A//www2.heavens-above.com/Imprint.aspx). 
+Developed and maintained by [Chris Peat](mailto:Chris.Peat@heavens-above.com), Heavens-Above GmbH. Please read the [FAQ](https://web.archive.org/web/20171231083802id_/http%3A//heavens-above.com/faq.aspx) before sending e-mail. [Imprint](https://web.archive.org/web/20171231083802id_/http%3A//heavens-above.com/Imprint.aspx). 
 
 |  [ ](http://www.dlr.de/rb/en/)  
 ---|---|---
