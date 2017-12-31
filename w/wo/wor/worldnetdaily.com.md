@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215016id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnetdaily.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231222818id_/http%3A//www.wnd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,20 +9,6 @@ _WND, owned and operated by WorldNetDaily.com, Inc., respect your right to priva
 _WND is a rapidly growing online news source. As such, this policy will change from time to time along with our site._
 
 * * *
-
-**TRUSTe**  
-WND has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. The TRUSTe program covers only information that is collected through the Web sites, [http://www.wnd.com](http://www.wnd.com/), [http://www.worldnetdaily.com](http://www.worldnetdaily.com/), [http://g2bulletin.wnd.com](http://g2bulletin.wnd.com/), and [http://wndbooks.wnd.com](http://wndbooks.wnd.com/) and through our mobile site, [http://mobile.wnd.com](http://mobile.wnd.com/). By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
-
-  * The organization collecting the information.
-  * How the information is used.
-  * With whom the information may be shared.
-  * What choices are available to you regarding collection, use and distribution of the information.
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under WND control.
-  * How you can correct any inaccuracies in the information.
-
-
-
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
 **Information Collection and Use**  
 When you use or register on our sites we will collect personal information including but not limited to your name, email address, and credit card information. We use the information collected to administer your account, send you emails, fulfill your orders and respond to your questions or concerns.
@@ -70,11 +56,11 @@ Users can choose to unsubscribe from WND News Alerts at any time by following th
 **Changing User Information**  
 To update an e-mail address on the WND News Alerts list, follow the unsubscribe procedures found on the bottom of any WND e-mail.
 
-We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at privacy@wnd.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Security**  
 The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL).  
-We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@wnd.com.
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Promotions**  
 From time to time, WND may sponsor contests or other events that require the collection, processing and storage of individual contact and demographic information (e.g., email address, state of residence) to be used for the event. WND may also co-sponsor these events along with other companies, in which case the user’s individual contact and demographic information is likely to be shared with these other participating sponsors. A registrant’s personal contact and demographic information will not be disclosed to third-party or non-participating organizations without the user’s prior consent, and WND will request that co-sponsors of such events uphold the privacy of the registrant’s information.
@@ -93,7 +79,7 @@ Our blog is managed by a third party application that may require you to registe
 We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact by visiting <http://www.wnd.com/contact-wnd/?subject=testimonial>.
 
 **Unsubscribe and data removal policies**  
-To unsubscribe from any of our email lists, please follow the procedures at the bottom of any WND email. To request the deletion of your personally identifiable information please email us at privacy@wnd.com.
+To unsubscribe from any of our email lists, please follow the procedures at the bottom of any WND email. To request the deletion of your personally identifiable information please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Other sites**  
 WND contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other websites. We encourage you to read the privacy policies of these linked sites, because their privacy practices may differ from ours. This privacy statement applies only to information collected by this Web site.
@@ -102,8 +88,7 @@ WND contains many links to other sites on the Web. We cannot control and are not
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. WND may also generate leads from Facebook, the terms of service governing this procedure can be found here: https://www.facebook.com/ads/leadgen/tos 
 
 **Who can I ask if I have any additional questions?**  
-If you have questions or concerns regarding this statement, you should first  
-contact privacy@wnd.com. If you are not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or concerns regarding this statement, you should contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
@@ -114,7 +99,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 I.T. Dept   
 541-474-1776  
-privacy@wnd.com  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 WorldNetDaily.com, Inc.  
 2020 Pennsylvania Ave NW, #351   
 Washington, DC 20006
