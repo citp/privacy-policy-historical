@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630214328id_/https%3A//www.trulia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulia.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231051859id_/https%3A//www.trulia.com/privacy) for the most accurate reproduction.*
 
 # Real Estate, Homes for Sale, Apartments for Rent, Local data - Trulia - Privacy Policy
 
@@ -114,7 +114,7 @@ We will retain your Personal Information for as long as you have an active accou
 
 Contacting Zillow Group 
 
-You can access, update, and delete Personal Information you provide to Zillow Group in your account profile by logging into your account or emailing us at [privacy@zillow.com](mailto:privacy@zillow.com) for accounts on Zillow, Inc. or at [customerservice@trulia.com](mailto:customerservice@trulia.com) for accounts on Trulia, Inc. While we are ready to assist you in managing the Personal Information you provide to us, we cannot always delete records due to financial reporting, compliance, or other reasons. 
+You can access, update, and delete Personal Information you provide to Zillow Group in your account profile by logging into your account or emailing us at [privacy@zillow.com](mailto:privacy@zillow.com) for accounts on Zillow, Inc. or at [customerservice@trulia.com](mailto:customerservice@trulia.com) for accounts on Trulia, LLC. While we are ready to assist you in managing the Personal Information you provide to us, we cannot always delete records due to financial reporting, compliance, or other reasons. 
 
 If you have any questions about this privacy statement, or the privacy practices of Zillow Group, please email us at privacy@zillow.com. 
 
