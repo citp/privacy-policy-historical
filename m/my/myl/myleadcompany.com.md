@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myleadcompany.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603103625id_/http%3A//www.myleadcompany.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myleadcompany.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231122048id_/http%3A//www.myleadcompany.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MyLeadCompany.com - network marketing & mlm leads
 
-[](https://web.archive.org/web/20170603103625id_/http%3A//www.myleadcompany.com/contact.html) | marketing associate
+[](https://web.archive.org/web/20171231122048id_/http%3A//www.myleadcompany.com/contact.html) | marketing associate
 
 [](http://www.myleadcompany.com/espanol/)[](http://www.myleadcompany.com/)
 
