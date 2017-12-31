@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430073807id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231155939id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gHacks Technology News
 
@@ -23,18 +23,18 @@ We use third-party advertising companies to serve ads when you visit our website
 
 The following third parties are supported:
 
-  * DoubleClick DFA ([www.doubleclick.com](http://www.google.com/url?q=http%3A%2F%2Fwww.doubleclick.com/))
-  * Mediaplex/ValueClick ([www.mediaplex.com](http://www.google.com/url?q=http%3A%2F%2Fwww.mediaplex.com/))
-  * DoubleClick Rich Media ([www.doubleclick.com](http://www.google.com/url?q=http%3A%2F%2Fwww.doubleclick.com/))
-  * Eyeblaster ([www.eyeblaster.com](http://www.google.com/url?q=http%3A%2F%2Fwww.eyeblaster.com/))
-  * EyeWonder ([www.eyewonder.com](http://www.google.com/url?q=http%3A%2F%2Fwww.eyewonder.com/))
-  * Interpolls ([www.interpolls.com](http://www.google.com/url?q=http%3A%2F%2Fwww.interpolls.com/))
-  * Pointroll ([www.pointroll.com](http://www.google.com/url?q=http%3A%2F%2Fwww.pointroll.com/))
-  * Unicast ([www.unicast.com](http://www.google.com/url?q=http%3A%2F%2Fwww.unicast.com/))
-  * Dynamic Logic/Safecount ([www.safecount.net](http://www.google.co.uk/url?q=http%3A%2F%2Fwww.safecount.net/))
-  * Factor TG ([www.factortg.com](http://www.google.com/url?q=http%3A%2F%2Fwww.factortg.com/))
-  * IAG ([www.iagr.com](http://www.google.co.uk/url?q=http%3A%2F%2Fwww.iagr.net/))
-  * InsightExpress ([www.insightexpress.com](http://www.google.com/url?q=http%3A%2F%2Fwww.insightexpress.com/))
+  * DoubleClick DFA ([www.doubleclick.com](https://www.google.com/url?q=http%3A%2F%2Fwww.doubleclick.com/))
+  * Mediaplex/ValueClick ([www.mediaplex.com](https://www.google.com/url?q=http%3A%2F%2Fwww.mediaplex.com/))
+  * DoubleClick Rich Media ([www.doubleclick.com](https://www.google.com/url?q=http%3A%2F%2Fwww.doubleclick.com/))
+  * Eyeblaster ([www.eyeblaster.com](https://www.google.com/url?q=http%3A%2F%2Fwww.eyeblaster.com/))
+  * EyeWonder ([www.eyewonder.com](https://www.google.com/url?q=http%3A%2F%2Fwww.eyewonder.com/))
+  * Interpolls ([www.interpolls.com](https://www.google.com/url?q=http%3A%2F%2Fwww.interpolls.com/))
+  * Pointroll ([www.pointroll.com](https://www.google.com/url?q=http%3A%2F%2Fwww.pointroll.com/))
+  * Unicast ([www.unicast.com](https://www.google.com/url?q=http%3A%2F%2Fwww.unicast.com/))
+  * Dynamic Logic/Safecount ([www.safecount.net](https://www.google.co.uk/url?q=http%3A%2F%2Fwww.safecount.net/))
+  * Factor TG ([www.factortg.com](https://www.google.com/url?q=http%3A%2F%2Fwww.factortg.com/))
+  * IAG ([www.iagr.com](https://www.google.co.uk/url?q=http%3A%2F%2Fwww.iagr.net/))
+  * InsightExpress ([www.insightexpress.com](https://www.google.com/url?q=http%3A%2F%2Fwww.insightexpress.com/))
 
 
 
