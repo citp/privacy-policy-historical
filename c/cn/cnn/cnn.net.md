@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cnn.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223705id_/http%3A//www.cnn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnn.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231185819id_/http%3A//www.cnn.com/privacy) for the most accurate reproduction.*
 
-# CNN Privacy Statement - CNN.com
+# CNN Privacy Statement - CNN
 
 (CNN) **What's New in the Updated Privacy Policy? We have updated the privacy policy applicable to our online and mobile websites, applications, and digital services and clarified data collection, usage and sharing practices among Turner, its affiliates and unaffiliated third parties. Please take the time to read the full privacy policy. You consent to the data collection, use, disclosure and storage practices described in this privacy policy when you use any of our Services (as described below), including when you access any content or videos.**
 
