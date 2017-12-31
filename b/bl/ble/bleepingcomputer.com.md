@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232550id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleepingcomputer.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231084756id_/https%3A//www.bleepingcomputer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -49,7 +49,7 @@ BleepingComputer uses aggregate information for the purpose of operating and imp
 
 BleepingComputer uses Crowd Science to deliver surveys where we may ask generic questions of to our users. These surveys allow us to collect non-personally identifiable information about our visitors in order to create interesting and quality content and advertising campaigns. Under no circumstances will any personally identifiable information be asked of you during these surveys. These surveys will be displayed to randomly-selected registered or unregistered members and appear as a small prompt at the bottom of a page on the Site. If you do not wish to take part in the survey, you can either decline or ignore the message and it will disappear shortly. If you choose to participate in a survey, you will be issued a cookie from Crowd Science so that you are not prompted to participate in another survey for 3 months. This cookie will not be used for any other reason.
 
-We use third party advertising companies, such as Google, NetShelter, Kontera, and Vibrant Media as providers of third-party ads. These third party ads will be reasonably identifiable as coming from a third party. Third-party advertisers may use cookies (as defined in the preceding paragraph) or web beacons to collect non-personally identifiable information such as IP address and pages viewed. If a conversion occurred during your visit to this third party website or third-party advertiser, this information may be used to show third party advertisements that are likely to be more interesting to you. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
+We use third party advertising companies as providers of ads. These third party ads will be reasonably identifiable as coming from a third party. Third-party advertisers may use cookies (as defined in the preceding paragraph) or web beacons to collect non-personally identifiable information such as IP address and pages viewed. If a conversion occurred during your visit to this third party website or third-party advertiser, this information may be used to show third party advertisements that are likely to be more interesting to you. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 We do not have access to or control over web beacons or cookies that third-party companies may use, and the information practices of third-party companies we use are not covered by this Privacy Policy but are covered by each company's privacy policies. To review how they use cookies and web beacons and to manage your cookies, please see the following privacy policy links that belong to our third-party providers and advertisers:
 
@@ -57,11 +57,7 @@ We do not have access to or control over web beacons or cookies that third-party
 > 
 > Crowd Science's privacy policy is located at: <http://www.crowdscience.com/privacy-policy-opt-out>.
 > 
-> Netshelter's privacy policy is located at: <http://www.netshelter.net/privacy-policy>.
-> 
-> Kontera's privacy policy is located at: <http://www.kontera.com/em-privacy-policy>.
-> 
-> Vibrant Media's privacy policy is located at: <http://www.vibrantmedia.com/privacy.asp>.
+> Ziff Davis' privacy policy is located at: <http://www.ziffdavis.com/privacy-policy>.
 
 Google specific cookie information:
 
