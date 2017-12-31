@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630044214id_/http%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquisitr.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231030439id_/https%3A//www.inquisitr.com/privacy-policy) for the most accurate reproduction.*
 
 # The Inquisitr
 
