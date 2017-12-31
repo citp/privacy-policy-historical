@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.com.au privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625021426id_/http%3A//www.adidas.com.au/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.com.au privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231225826id_/http%3A//www.adidas.com.au/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | adidas AU
 
@@ -111,7 +111,7 @@ Regardless of where you live, you consent to have your personal data transferred
 
 ## 5\. Your rights
 
-If you provide us with personal information via our websites or other channels, this is done on an entirely voluntary. If you choose not to provide requested information, various customer benefits may not be available. In certain cases, only those people that have submitted the necessary personal information to us are able to order products, use certain services and in other ways avail themselves of the activities and offers available on our website and (mobile) application. As transparency and fair play are particularly important issues for us, we provide various options, depending on the exact circumstances, in order to help you retain control over your personal information. These options may include the possibility of displaying and editing your personal information online. It may also be possible to unsubscribe from services or delete user accounts or to receive information about the personal information held.
+If you provide us with personal information via our websites or other channels, this is done on an entirely voluntary basis. If you choose not to provide requested information, various customer benefits may not be available. In certain cases, only those people that have submitted the necessary personal information to us are able to order products, use certain services and in other ways avail themselves of the activities and offers available on our website and (mobile) application. As transparency and fair play are particularly important issues for us, we provide various options, depending on the exact circumstances, in order to help you retain control over your personal information. These options may include the possibility of displaying and editing your personal information online. It may also be possible to unsubscribe from services or delete user accounts or to receive information about the personal information held.
 
 ### 5.1 Right to opt-out
 
