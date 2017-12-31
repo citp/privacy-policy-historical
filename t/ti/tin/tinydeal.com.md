@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131733id_/https%3A//help.tinydeal.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231055621id_/https%3A//help.tinydeal.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - TinyDeal
 
