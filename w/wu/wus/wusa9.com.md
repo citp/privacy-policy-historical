@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630010139id_/http%3A//www.wusa9.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wusa9.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231152717id_/http%3A//www.wusa9.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | WUSA9.com
 
