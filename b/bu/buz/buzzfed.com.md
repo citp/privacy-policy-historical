@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzfed.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630191012id_/https%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzfed.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231191007id_/https%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.*
 
 # BuzzFeed - Privacy Policy
 
@@ -148,7 +148,7 @@ If you have any questions or concerns regarding privacy using the Services, plea
 
 ## Cookies on BuzzFeed
 
-BuzzFeed, Inc. (“we”, “our” or “us”) uses cookies, web beacons and similar technologies (collectively, “cookies”) on [www.buzzfeed.com](https://web.archive.org/web/20170630191012id_/https%3A//www.buzzfeed.com/about/www.buzzfeed.com) (the “Site”) to function effectively. This Cookie Notice provides you with information about the cookies used on the Site, their purpose, and the choices you can make with regard to the use of cookies. You can find more by accessing the Site’s [Cookie Consent Tool](http://info.evidon.com/pub_info/3705?v=1).
+BuzzFeed, Inc. (“we”, “our” or “us”) uses cookies, web beacons and similar technologies (collectively, “cookies”) on [www.buzzfeed.com](https://web.archive.org/web/20171231191007id_/https%3A//www.buzzfeed.com/about/www.buzzfeed.com) (the “Site”) to function effectively. This Cookie Notice provides you with information about the cookies used on the Site, their purpose, and the choices you can make with regard to the use of cookies. You can find more by accessing the Site’s [Cookie Consent Tool](http://info.evidon.com/pub_info/3705?v=1).
 
 ### What are Cookies?
 
