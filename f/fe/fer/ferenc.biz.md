@@ -1,150 +1,171 @@
-> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231180538id_/https%3A//www.amazon.com/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferenc.biz privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231172358id_/https%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
-# Amazon
+# Zazzle Privacy Policy
 
-**Last updated: September 30, 2016.** To see what has changed, [click here](https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=16015091). 
+Thanks for using <https://www.zazzle.com/> ("Site"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy ("Privacy Policy") to make sure you know what information we collect and how we use it. By using the Site, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy. 
 
-Amazon.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.**
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. We also encourage you to check back, from time to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy. 
 
-  * What Personal Information About Customers Does Amazon.com Gather?
-  * What About Cookies?
-  * Does Amazon.com Share the Information It Receives?
-  * How Secure Is Information About Me?
-  * What About Third-Party Advertisers and Links to Other Websites?
-  * Which Information Can I Access?
-  * What Choices Do I Have?
-  * Are Children Allowed to Use Amazon.com?
-  * EU-US Privacy Shield
-  * Conditions of Use, Notices, and Revisions
-  * Examples of Information Collected
+**EU — U.S. Privacy Shield**
 
+Zazzle participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Information about the Privacy Shield Framework can be found at the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>
 
+Zazzle complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
-##  What Personal Information About Customers Does Amazon.com Gather? 
+Zazzle is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission regarding personal data received or transferred pursuant to the Privacy Shield Framework. 
 
-The information we learn from customers helps us personalize and continually improve your Amazon experience. Here are the types of information we gather. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider, JAMS. More information can be found [here](https://www.jamsadr.com/eu-us-privacy-shield). 
 
-  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Amazon.com or advertisements and other content served by or on behalf of Amazon.com on other Web sites. Click here to see examples of the information we receive. 
-  * **Mobile:** When you download or use apps created by Amazon or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. For more information about how to do this,click here. 
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. 
-  * **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive. 
+If JAMS does not resolve the matter, you may be able to invoke binding arbitration when other dispute resolution procedures have been exhausted. For more information: [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint). 
 
+**But first, a note about uploading and posting information on the Site:**
 
+At the time you register for a Zazzle account, you will choose and provide us with an email address and password. When you upload a design, post a comment or message on the Site, provide information in connection with features such as fan clubs, wish lists, forums, member profiles, reviews and recommendation your user name may be visible to other users.
 
-##  What About Cookies? 
+Additionally, if your comment or message contains personally identifiable information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload that is visible to third parties may be read, collected, and used by others who access them. Our blog is managed by a third party application, [WordPress](https://wordpress.com/), and does not require you to register to post a comment to a post. Commenting is moderated by Zazzle blog administrators and is subject to approval before appearing on the site. You will need to contact Zazzle if you want the personal information that was posted to the comments section removed. To learn how WordPress uses your information, please review their [privacy policy](https://automattic.com/privacy/).
 
-  * Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://web.archive.org/gp/help/customer/display.html?nodeId=468480) purchasing, Recommended for You, personalized advertisements on other Web sites (e.g., Amazon Associates with content served by Amazon.com and Web sites using Checkout by Amazon payment service), and storage of items in your Shopping Cart between visits. 
-  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+**What information do we collect?** **Information provided by you:**
 
+You may provide us with certain personally identifiable information when you: 
 
+  * register for a Zazzle account;
+  * order products or gift certificates;
+  * request customer support or send us any other communication;
+  * sign up for newsletters, email alerts, and special offers;
+  * enter sweepstakes or contests;
+  * sign up for, or redeem, special offers; 
+  * respond to surveys; and
+  * use our Email-to-a-Friend or Refer-A-Friend features.
 
-##  Does Amazon.com Share the Information It Receives? 
 
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-  * **Affiliated Businesses We Do Not Control:** We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.com or sell offerings to you at Amazon.com. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. Click here for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
-  * **Promotional Offers:** Sometimes we send offers to selected groups of Amazon.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences. 
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
-  * **Protection of Amazon.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions?node=508088) and other agreements; or protect the rights, property, or safety of Amazon.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information. 
+Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Site or our promotions. 
 
+If you are under 13, you may not use the Site. 
 
+**Information collected by Cookies:**
 
-##  How Secure Is Information About Me? 
+Zazzle uses cookies on the Site to improve the quality of our Site and services to you. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. Zazzle's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always delete the cookies and reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Site features and functionality may not be available to you and you may not be able to take advantage of all the features on the Site. 
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
-  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=201293120) for more information on how to sign off. 
+We may work with other companies who place cookies or web beacons on our Site. We do not have access or control over these cookies. These companies help operate our websites and provide you with additional products and services. They are subject to confidentiality agreements with Zazzle and other legal restrictions. Zazzle does not permit any of these companies to collect personally identifiable information using cookies or web beacons on our websites. Certain functionalities related to the provision of additional products and services require marketers to share website usage information about visitors to the Site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. To this end, Zazzle's third-party advertising company makes a note of some of the pages you visit on the Site through the use of pixel tags. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](https://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
+**Information collected by Web Beacons and Log Files:**
 
+Zazzle collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, Site usage, and whether you opened emails you received from us. 
 
-##  What About Third-Party Advertisers and Links to Other Websites? 
+**Information collected through Product Reviews:**
 
-Our site includes third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.com, including personalized or interest-based ads, please read our Interest-Based Ads policy. 
+You may choose to submit a product review. If you post a review, we may ask for certain information to validate your review such as email address, photo, and your city/state/country of residence. If you submit a review, we may publish your geographic location or other anonymous information but your email address will be kept private. Additionally, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personally identifiable information. If you wish to update or delete your testimonial, you can contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
 
-##  Which Information Can I Access? 
+**How do we secure your information?**
 
-Amazon.com gives you access to a broad range of information about your account and your interactions with Amazon.com for the limited purpose of viewing and, in certain cases, updating that information. [Click here](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) to see some examples, the list of which will change as our Web site evolves. 
+When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software ("SSL") we use encrypts all information you input before it is sent to us. In addition, your Zazzle account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer. 
 
-##  What Choices Do I Have? 
+We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this Privacy Policy and you consent to the transfer of all information you provide to us in the United States. 
 
-  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.com features as [Your Profile](https://www.amazon.com/gp/pdp/ref=hp_468496_profile), Wish Lists, Customer Reviews, and [Amazon Prime](https://www.amazon.com/gp/browse.html/ref=hp_468496_prime?node=13819211). 
-  * You can add or update certain information on pages such as those referenced in the [Which Information Can I Access?](https://web.archive.org/gp/help/customer/display.html?nodeId=468496) section. When you update information, we usually keep a copy of the prior version for our records. 
-  * If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions2?node=508088) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com, and it is your responsibility to review them for changes.) 
-  * If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your Advertising Preferences. 
-  * The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com products and services that require you to Sign in. 
+You may also choose not to provide us with certain information, but that may result in you being unable to use certain features of our Site because such information may be required in order for you to: register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our Site. 
 
+We work very hard to protect your privacy, but we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. While we use industry-standard precautions to safeguard your personally identifiable information, we cannot guarantee complete security. If you have any questions about security on our Site, you can contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
 
+**How do we use your information?**
 
-##  Are Children Allowed to Use Amazon.com? 
+We use the personally identifiable information you provide to: 
 
-Amazon.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com only with the involvement of a parent or guardian. 
+  * provide the features and functionality of the Site;
+  * fulfill your requests for our products and services;
+  * pay earnings;
+  * communicate with you about the status of your orders and other inquiries about our products and services;
+  * send you information about our products and services; 
+  * for our internal business purposes, such as data analysis, audits and so forth; 
+  * help us create content that is most relevant to you; and
+  * provide notices about the results of sweepstakes, contest, and other promotions.
 
-## EU-US Privacy Shield
 
-Amazon.com, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
 
-##  Conditions of Use, Notices, and Revisions 
+We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your Zazzle account settings. 
 
-If you choose to visit Amazon.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions3?node=508088), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Amazon.com, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions4?node=508088) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+When you purchase products from the Site, we may use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time whether or not you created an account with us. You may unsubscribe or change the frequency of email notifications on the Account Settings page in "MyAccount." If you email a product to a friend or refer a friend to the Site or our promotions, we will use your friend's email to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. Zazzle does not store this information. Your friend may contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) to request that we remove this information from our database. 
 
-Related Practices and Information 
+We use non-personally identifiable information to monitor the use and performance of the Site so that we can learn more about how people use the Site which helps us improve our products and services and significantly enhance your experience on our Site. 
 
-  * [Conditions of Use](https://www.amazon.com/gp/browse.html/ref=hp_468496_conditions5?node=508088)
-  * [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661)
-  * [Community Rules](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_crules?nodeId=537776)
-  * Help department 
-  * [Most Recent Purchases](https://www.amazon.com/your-orders)
-  * Your Profile and Community Guidelines
+**Does Zazzle disclose the information it collects to outside parties?**
 
+We will share your personally identifiable information with third parties only in the ways that are described in this Privacy Policy. We do not sell your personally identifiable information to third parties. Generally, Zazzle does not share personally identifiable information about you with other people or nonaffiliated companies without your consent except that: 
 
+  1. Zazzle provides information to its agents and trusted service providers and contractors for limited purposes, such as fulfilling customer orders and processing credit card transactions; offering certain products and services; communicating with customers; providing customer service; managing information on our behalf; and enhancing the Site features and functionality. In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our Privacy Policy. 
+  2. If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties. 
+  3. Zazzle provides its Designers with the first name and city/state/country of residence of Zazzle customers who have purchased such Designer's products. Zazzle may also release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to: 
 
-##  Examples of Information Collected 
 
-**Information You Give Us**
+  * comply with law;
+  * comply with subpoenas, warrants, court orders, government investigations, or other legal process;
+  * enforce or apply the terms of any of our user or license agreements; 
+  * investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity
+  * investigate fraud or similar claims; 
+  * protect the rights, property or safety of Zazzle, our users, or others. 
+  * protect our operations; or
+  * permit us to pursue available remedies or limit the damages that we may sustain.
 
-You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through Amazon.com or one of our third-party sellers; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us) or [Your Profile](https://www.amazon.com/gp/pdp/profile/) ; communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; use our services such as Amazon Instant Video; compile Wish Lists or other gift registries; participate in [Discussion Boards](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_discussion?nodeId=14279661) or other community features; provide and rate Reviews; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; people (with addresses and phone numbers) listed in 1-click settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in [Your Profile](https://www.amazon.com/profile) ; and financial information, including Social Security and driver's license numbers. 
 
-**Automatic Information**
 
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. 
+Additionally, Zazzle releases certain information, including personally identifiable information, to report the sale of custom postage to the United States Postal Service ("USPS"). As part of our relationship with the USPS, we collect and may disclose information about purchasers of our Zazzle Custom Postage products to the USPS at the request of USPS. To learn more about the USPS's privacy policy, please visit the [Privacy Policy](https://about.usps.com/who-we-are/privacy-policy/welcome.htm). 
 
-**Mobile**
+In the event that Zazzle is acquired by or merges with another company, Zazzle reserves the right to transfer, in connection with such acquisition or merger, all information we have collected from our users. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information. 
 
-Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, [click here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_468496_turnofflbs?nodeId=200903520). If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
+Zazzle may disclose non-personally-identifiable information to third parties in aggregate form or to potential business partners and investors. 
 
-**Information from Other Sources**
+Zazzle will obtain assurances from its agents that they will only process the data for the limited and specified purposes consistent with the consent provided by the individual and will safeguard personal information consistently with this Policy. The assurance may include: a contract binding the agent to provide at least the same level of protection as is required by the relevant Privacy Shield Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), or Privacy Shield certification by the agent. 
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. 
+**Advertising**
 
-**Co-branded and Joint Offerings**
+Zazzle may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information about you used by our third party service providers, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com). 
 
-Examples of businesses with which we offer joint or co-branded products and other offerings include Starbucks, OfficeMax, Verizon Wireless, Sprint, T-Mobile, AT&T, J&R Electronics, Eddie Bauer and Northern Tool + Equipment. 
+Name of Third Party Partner | What info is shared with or collected by this partner | Partner's purpose | Link to Partner's privacy policy  
+---|---|---|---  
+Google Adservices | Anonymous order information, IP, and URL clickstream | Ad network | [google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
+Doubleclick | Anonymous order information, IP, and URL clickstream | Ad network | [.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
+Google-analytics | Anonymous IP, URL clickstream related to viewing specific designer's products and stores. | Analytics | [.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  
+Facebook | Anonymous order information, IP, and URL clickstream | Social/sharing tools | [.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)  
+Bing | Anonymous order information, IP. | Ad network | [Privacy and data protection policies](https://advertise.bingads.microsoft.com/en-us/resources/policies/privacy-and-data-protection-policies)  
+  
+If you have any inquiries regarding our partner's privacy practices or how they use your personal information, please contact us directly at [privacy@zazzle.com](mailto:privacy@zazzle.com)
 
-**Information You Can Access**
+In addition, Zazzle is a dynamic marketplace with a great number of branded products and content. We will offer our users the opportunity to opt-in to receive from our partners emails, notifications of promotions and the like offered by such partners. You have the right to decline to opt-in to take advantage of this service. 
 
-Examples of information you can access easily at Amazon.com include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalized advertising preferences, address book, and 1-Click settings); payment settings (including credit card information and promotional certificate and gift card balances); e-mail notification settings (including Product Availability Alerts, Delivers, and newsletters); Recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries); Seller accounts; and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders, personal profile, and Wish List). 
+**Social Media Features and Widgets**
 
-## EU-US Privacy Shield
+Our Site includes social media features, such as the Facebook Like button, and widgets, such as the "ShareThis" button or interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
-Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+**Facebook Connect or other OpenID provider**
 
-If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, click [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+You can log in to our Site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Site to your profile page to share with others within your network. 
 
-As explained here we sometimes provide personal information to third parties to perform services on our behalf. If we transfer personal information received under the Privacy Shield to a third party, the third party's access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
+**Does this Privacy Policy apply when I access third party websites?**
 
-You can review our Privacy Shield registration [here](https://www.commerce.gov/tags/eu-us-privacy-shield). The Amazon Group Companies are subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We may be required to disclose personal information that we handle under the Privacy Shield in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+You may be able to access third party websites directly from the Site. However, this Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use personally identifiable information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your personally identifiable information to its provider. 
 
-## Amazon Group Companies
+**What about children's privacy?**
 
-As of September 30, 2016, the following entities are included in Amazon.com, Inc.'s Privacy Shield Certification:
+Children under the age of 13 may not use the Site. 
 
-Amazon.com, Inc.
+**How can I change, delete, or update my information?**
 
-Amazon Media Group LLC
+Most of your account information can be changed in the "MyAccount" section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. We will respond to your request to access within thirty (30) days of receipt. 
 
-Amazon Web Services, Inc.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-Audible, Inc.
+Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
+
+The current version of the Zazzle Privacy Policy was adopted effective as of November 2, 2017. 
+
+  * Policies
+  * [User Agreement](https://www.zazzle.com/mk/policy/user_agreement)
+  * [Privacy Policy](https://www.zazzle.com/mk/policy/privacy_policy)
+  * [Designer License Agreement](https://www.zazzle.com/mk/policy/designer_license_agreement)
+  * [Volume Bonus Agreement](https://www.zazzle.com/mk/policy/volume_bonus_agreement)
+  * [Associates Agreement](https://www.zazzle.com/mk/policy/associates_agreement)
+  * [Shipping & Returns](https://www.zazzle.com/mk/policy/shippingreturns)
+  * [Zazzle Black™ Terms & Conditions](https://www.zazzle.com/mk/policy/zazzle_black)
+  * [Purchase Order Terms](https://www.zazzle.com/mk/policy/terms)
+
+
