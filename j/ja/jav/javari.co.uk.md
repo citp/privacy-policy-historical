@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183131id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javari.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231193506id_/https%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.*
 
 # Amazon.co.uk Help: Privacy Notice
 
-Last Updated: 30 September, 2016.
+Last Updated: 6 July, 2017.
 
-To view changes to the Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202025290). 
+To view changes to the Privacy Notice please [click here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=202166110). 
 
 Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. **By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.**
 
@@ -26,9 +26,9 @@ Amazon.co.uk knows that you care how information about you is used and shared an
 
 Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 5 Rue Plaetis L-2338, Luxembourg and Amazon Instant Video Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers). Amazon UK Services Ltd of 60 Holborn Viaduct, London, England, EC1A 2FD UK acts as data processor on behalf of the data controllers. 
 
-## EU-US Privacy Shield
+## EU-US and Swiss-US Privacy Shield
 
-Amazon.com, Inc. participates in the EU-US Privacy Shield framework. Click here to learn more.
+Amazon.com, Inc. participates in the EU-US and Swiss-US Privacy Shield frameworks. Click here to learn more.
 
 ## What Personal Information About Customers Does Amazon.co.uk Gather?
 
@@ -136,9 +136,9 @@ We may from time to time offer joint or co-branded products and services.
 
 Examples of information you can access easily at Amazon.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalised advertising preferences, address book and 1-Click settings); payment settings (including credit-card information and gift voucher, gift card and cheque balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries) Seller accounts and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders and personal profile). 
 
-## EU-US Privacy Shield
+## EU-US and Swiss-US Privacy Shield
 
-Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US Privacy Shield Framework regarding the collection, use, and retention of personal information from European Union member countries. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
+Amazon.com, Inc. and certain of its controlled US affiliates (together, the Amazon Group Companies, or "We") participate in the EU-US and Swiss-US Privacy Shield Frameworks regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. We have certified with the Department of Commerce that we adhere to the Privacy Shield Principles. To learn more about the Privacy Shield Principles, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
 
 If you have any inquiries or complaints about our handling of your personal data under Privacy Shield, or about our privacy practices generally, please contact us at: privacyshield@amazon.com. We will respond to your inquiry promptly. If we are unable to satisfactorily resolve any complaint relating to the Privacy Shield, or if we fail to acknowledge your complaint in a timely fashion, you can submit your complaint to TRUSTe, which provides an independent third-party dispute resolution service based in the United States. TRUSTe has committed to respond to complaints and to provide appropriate recourse at no cost to you. To learn more about TRUSTe's dispute resolution services or to refer a complaint to TRUSTe, visit [here](https://www.truste.com/consumer-resources/). If neither Amazon nor TRUSTe resolves your complaint, you may pursue binding arbitration through the Privacy Shield Panel. To learn more about the Privacy Shield Panel, see [here](https://www.commerce.gov/tags/eu-us-privacy-shield). 
 
