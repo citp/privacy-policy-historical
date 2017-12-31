@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the majesticseo.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630203806id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the majesticseo.com privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231042619id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -21,7 +21,7 @@
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/reset-min.css">
 	<link rel="stylesheet" type="text/css" href="/static/css/yahoo/base-min.css">
 	
-	<link rel="stylesheet" type="text/css" href="/static/production/css/077187.majestic.seo.min.cache.css">
+	<link rel="stylesheet" type="text/css" href="/static/production/css/3ff4b7.majestic.seo.min.cache.css">
 	
 	<!--[if lt IE 9]>	
 		<link rel="stylesheet" type="text/css" href="/static/css/ie/ie.css">
@@ -90,14 +90,15 @@
 		
 	
 
-    </head><body class="en us-g"><div class="force-hide" id="html-dataload" data-monitoring-event-triggered="" data-user="" data-dont-show-notifications="" data-solo-class="" data-user-status="G" data-ux-group="a" data-current-path="/support/privacy-policy"></div>
+    </head><body class="en us-g"><div class="force-hide" id="html-dataload" data-monitoring-event-triggered="" data-user="" data-dont-show-notifications="" data-solo-class="" data-user-status="G" data-ux-group="b" data-current-path="/support/privacy-policy"></div>
 
     <div class="force-hide" id="html-translations" data-translation1="Add to bucket"></div>
 
     <div class="force-hide" id="service-config" data-default-link-action="" data-is-link-action-tab=""></div>
 
     
-	<script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/scripts/jquery/jquery-1.12.4.min.js"></script>
+	<script type="text/javascript" defer="" async="" src="https://analytics.majestic.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/static/scripts/polyfill/polyfill.min.js"></script>
+	<script type="text/javascript" src="/static/scripts/jquery/jquery-1.12.4.min.js"></script>
 	<script type="text/javascript" src="/static/scripts/jquery/jquery-ui.min-20140205.js"></script>
 	<script type="text/javascript" src="/static/scripts/bootstrap/bootstrap.min.js"></script>
 	
@@ -116,7 +117,7 @@
         <script src="/static/scripts/d3/d3-function.js?20160525"></script>
 	<!--[endif]-->
 
-	<script type="text/javascript" src="/static/production/js/143210.majestic.seo.min.cache.js"></script>
+	<script type="text/javascript" src="/static/production/js/133817.majestic.seo.min.cache.js"></script>
 	
 	<!--[if IE]>
 		<script type="text/javascript" src="/static/scripts/excanvas/excanvas.min.js"></script>
@@ -184,7 +185,7 @@ function openDownloadAllBacklinksDialog(query, index)
 		{
 			hideAllPopovers();
 
-			$('<div id="dialog-container" title="Download All Backlinks"></div>')
+			$('<div id="dialog-container" class="download-all-backlinks-popup-dialog" title="Download All Backlinks"></div>')
 				.html(response)
 				.dialog({
 					modal: true,
@@ -252,6 +253,10 @@ function updateAllowanceCharts(verified)
 		$('.download-all-backlinks.active #allowance_after').show();
 		$('.download-all-backlinks.active .allowance_before_label').hide();
 
+		var totalInitialAnalysisUnits = $("#js-total-initial-analysis-units").val();
+		var analysisUnitsRemaining = $("#js-analysis-units-remaining").val();
+		var analysisUnitsCost = $("#js-analysis-res-units").val();
+
 		var percentLeft = 0;
 
 		if(totalInitialAnalysisUnits != 0)
@@ -291,8 +296,9 @@ function updateAllowanceCharts(verified)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-66791310-1', 'auto');
-  ga('set', 'dimension1', 'a');
+  ga('set', 'dimension1', 'b');
   ga('set', 'dimension2', 'G');
+  
   ga('send', 'pageview');
 
 </script>
@@ -570,19 +576,19 @@ div.contentPanelWhite {
 					<li><a href="/reports/site-explorer?q=example.com&amp;IndexDataSource=F">Site Explorer Preview</a></li>
 					<li><a href="/stats/majestic-million">Majestic Million</a></li>
 					<li><a href="/majestic-widgets/plugins">Majestic Plugins</a></li>
-					<li><a href="/account#my-campaigns-tab">Campaigns</a></li>
+					<li><a href="/account#my-campaigns-tab">Campaigns<sup>NEW!</sup></a></li>
 					<li><a href="/webmaster-tools">Verified Domains</a></li>
 
 					<li class="header">Lite<span class="upgrade-link"><a href="/plans-pricing?recommended=MAJESTIC_LITE_2016">Upgrade »</a></span></li>
 					<li class="locked "><a href="/reports/site-explorer?q=example.com&amp;IndexDataSource=F">Site Explorer</a></li>
-					<li class="locked "><a href="/reports/bulk-backlink-checker">Bulk Backlinks</a></li>
+					<li class="locked "><a href="/reports/bulk-backlink-checker">Bulk Backlink Checker</a></li>
 					<li class="locked"><a href="/reports/url-submitter">URL Submitter</a></li>
 					<li class="locked "><a href="/account/applications/openapps">OpenApps</a></li>
 
 					
 					<li class="header">Pro<span class="upgrade-link"><a href="/plans-pricing">Upgrade »</a></span></li>
 					
-					<li class="locked"><a href="/reports/flow-metrics-history">Flow Metrics History<sup>NEW!</sup></a></li>
+					<li class="locked"><a href="/reports/flow-metrics-history">Flow Metrics History</a></li>
 				
 					<li class="locked"><a href="/business/">Business Profile</a></li>
 					
@@ -592,7 +598,7 @@ div.contentPanelWhite {
 							<li class="locked"><a href="/reports/comparator?q1=example.com&amp;IndexDataSource=F">Summary</a></li>
 							<li class="locked"><a href="/reports/compare-domain-backlink-history?q1=example.com&amp;IndexDataSource=F">Backlink History</a></li>
 							
-					<li class="locked"><a href="/reports/flow-metrics-history">Flow Metrics History<sup>NEW!</sup></a></li>
+					<li class="locked"><a href="/reports/flow-metrics-history">Flow Metrics History</a></li>
 				
 							<li class="locked"><a href="/reports/compare-topics?q1=example.com&amp;IndexDataSource=F">Topics</a></li>
 							<li class="locked"><a href="/reports/cliquehunter">Clique Hunter</a></li>
@@ -612,6 +618,7 @@ div.contentPanelWhite {
 						</ul>
 					</li>
 				
+					<li class="locked"><a href="/account?rt=1#my-campaigns-tab">Rank Tracker<sup>NEW!</sup></a></li>
 				
 					
 					<li class="header">API<span class="upgrade-link"><a href="/plans-pricing?recommended=MAJESTIC_API_2016">Upgrade »</a></span></li>
@@ -1019,21 +1026,21 @@ div.contentPanelWhite {
         <h3>Fresh Index</h3>
 		<div class="vert-pad-10">
 			<span>Unique URLs crawled</span>
-			<span class="floatr">375,919,846,862</span>
+			<span class="floatr">362,040,970,908</span>
 		</div>
 		<div>
 			<span>Unique URLs found</span>
-			<span class="floatr">917,808,207,446</span>
+			<span class="floatr">864,578,998,803</span>
 		</div>
 		<div class="vert-pad-10">
 			<span>Date range</span>
-			<span class="floatr">27 Mar 2017 to 30 Jun 2017</span>
+			<span class="floatr">27 Sep 2017 to 31 Dec 2017</span>
 		</div>
 		<div>
 			<span><a href="/support/faq#IndexBuilt">Last updated</a></span>
 			<span class="floatr">
 				
-						2 minutes ago
+						57 minutes ago
 					
 			</span>
 		</div>
@@ -1042,19 +1049,19 @@ div.contentPanelWhite {
         <h3>Historic Index</h3>
 		<div class="vert-pad-10">
 			<span>Unique URLs crawled</span>
-			<span class="floatr">1,247,848,737,382</span>
+			<span class="floatr">1,413,052,059,901</span>
 		</div>
 		<div>
 			<span>Unique URLs found</span>
-			<span class="floatr"> 6,220,005,180,023</span>
+			<span class="floatr"> 6,659,283,985,220</span>
 		</div>
 		<div class="vert-pad-10">
 			<span>Date range</span>
-			<span class="floatr">28 Sep 2011 to 28 Apr 2017</span>
+			<span class="floatr">18 Feb 2012 to 19 Sep 2017</span>
 		</div>
 		<div>
 			<span><a href="/support/faq#IndexBuilt">Last updated</a></span>
-			<span class="floatr"> 03 Jun 2017</span>
+			<span class="floatr"> 02 Nov 2017</span>
 		</div>
     </div>
 </div>
@@ -1114,12 +1121,15 @@ div.contentPanelWhite {
 		</div>
 
 		<div class="awards footer-column">
-			<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award.png" title="Winners of The Queen's Award For Enterprise: Innovation 2016, and The Queen's Award For Enterprise: International Trade, 2017"></a>
+			<a href="https://blog.majestic.com/company/queensawardwinner/" target="_blank"><img src="/static/images/header-footer/the-queens-award-2016.png" title="Winners of The Queen's Award For Enterprise: Innovation 2016"></a>
+			<a href="https://blog.majestic.com/company/queens-award-winners-2017/" target="_blank"><img src="/static/images/header-footer/the-queens-award-2017.png" title="Winner of The Queen's Award For Enterprise: International Trade, 2017"></a>			
+
+			<div class="up">
+				<a href="javascript:scrollToTop()">top ^</a>
+			</div>
 		</div>
 
-		<div class="up">
-			<a href="javascript:scrollToTop()">top ^</a>
-		</div>
+
 	</div>
 </div>
 
@@ -1130,12 +1140,13 @@ div.contentPanelWhite {
   var _paq = _paq || [];
   
 
-	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=a/usr=G"]);	
+	_paq.push(['setDocumentTitle',document.domain + "/" + document.title + "/version=b/usr=G"]);	
   
 
 	_paq.push(['setCustomVariable',  1,"Subdomain", "en", "page"]); 
 	_paq.push(['setCustomVariable',  2,"Usr", "G", "page"]);
 	_paq.push(['setCustomVariable',  3,"Domain", "Majestic", "page"]);	
+	
 	
 	_paq.push(['trackPageView']); 
 	_paq.push(['enableLinkTracking']); 
