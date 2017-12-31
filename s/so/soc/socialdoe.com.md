@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialdoe.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013193252id_/https%3A//socialdoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialdoe.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231232544id_/https%3A//socialdoe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Online Portfolio for Creative Professionals | Socialdoe.com
 
@@ -174,6 +174,6 @@ After reviewing the above Privacy Policy, by using or accessing the Site, and es
 
 How to contact us
 
-If you have any queries regarding your personal data or comments on this Privacy Policy, please email us using the following [Contact Form](https://web.archive.org/contact).
+If you have any queries regarding your personal data or comments on this Privacy Policy, please email us using the following [Contact Form](http://socialdoe.com/contact).
 
 * * *
