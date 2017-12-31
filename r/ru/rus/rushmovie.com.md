@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rushmovie.com privacy policy that was archived on 2015-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151231192935id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushmovie.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231052720id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
 
 # Home & Summary | NBCUniversal
 
 ## Home & Summary
 
-Last updated: 21 December 2015
+Last Updated: 6 June 2016
 
 In this privacy policy:
 
