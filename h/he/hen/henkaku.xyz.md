@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the henkaku.xyz privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621131907id_/http%3A//henkaku.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henkaku.xyz privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231052534id_/http%3A//henkaku.xyz/privacy) for the most accurate reproduction.*
 
-# HENkaku
+# HENkaku | Privacy Policy
 
 HENkaku runs code on your PS Vita device through an exploit in the browser. This technique is usually used by malicious applications to steal personal information therefore we want to be very clear in this: we do not run any code on your device without your explicit consent in pressing the “Install” button and then pressing it again.
 
