@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtcdl.ac.in privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530221004id_/http%3A//www.imtcdl.ac.in/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtcdl.ac.in privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231103819id_/http%3A//www.imtcdl.ac.in/compliance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy IMT CDL
 
