@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630231256id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localytics.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231170743id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.*
 
 # Localytics Privacy Policy | Localytics
 
