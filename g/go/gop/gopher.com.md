@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopher.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427225746id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopher.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231232137id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,14 +54,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our site for 30 days.
 
-### Safe Harbor
-
-As a subsidiary of Blucora, Inc., we abide by the US-European Union Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union member countries and Switzerland. Our privacy practices with respect to personal data collected from individuals residing in European Union member countries and Switzerland are self-certified to the relevant Safe Harbor Program. For more information about the Safe Harbor Programs, please go to <http://www.export.gov/safeharbor/>.
-
-If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to [privacy@blucora.com](mailto:privacy@blucora.com).
-
-For unresolved privacy complaints, we have elected to use the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Program. If you feel we have not addressed your complaint, you can find information about how to file a complaint at <http://go.adr.org/safeharbor> and at [http://www.icdr.org](http://www.icdr.org/).
-
 ### Special Notification with respect to Children's Privacy (Users under the age of 13).
 
 We do not request or knowingly collect personally identifiable information online or offline contact information from users under 13; or knowingly use or share personal information from users under 13 with third parties.
@@ -69,12 +61,10 @@ We do not request or knowingly collect personally identifiable information onlin
 It is possible that we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information.
 
 Questions regarding privacy, including children's privacy should be directed to:   
-InfoSpace, LLC   
-10900 NE 8th Street, Suite 800   
-Bellevue, Washington 98004 USA   
-\+ (1) 425.201.6100 phone   
-\+ (1) 425.201.6150 fax 
+InfoSpace Holdings LLC   
+1501 Main Street, Suite 201   
+Venice, CA 90291 
 
 E-mail: [Contact us](https://web.archive.org/contact/index.html)
 
-Policy effective November 4, 2015
+Policy effective August 10, 2016
