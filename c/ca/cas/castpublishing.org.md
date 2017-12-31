@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castpublishing.org privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424161929id_/http%3A//castpublishing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castpublishing.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231224908id_/http%3A//castpublishing.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CAST Professional Publishing
 
