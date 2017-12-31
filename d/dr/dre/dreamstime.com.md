@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126073650id_/https%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231235824id_/https%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dreamstime
 
@@ -6,10 +6,12 @@ We are committed to protecting our users' privacy. Keeping the information you s
 
 Because of its importance and to make it easier for you to find and review it, we have made this Privacy Policy into a separate document on the site. However, bear in mind it is a part of our agreement with you and the terms and conditions contained in our Terms of Use describe how and when we may make changes to these statements and terms, and how they become binding upon you. We reserve the right to modify this policy. Any changes to the policy will be posted on this page. Users are encouraged to check the page regularly as they will be bound by the changes once posted on the site.
 
-**Disclosure (General):**  
+**Disclosure (General):**
+
 Although your privacy is very important to us, in this legal and technical environment, we cannot fully ensure that your personally identifiable information will not be disclosed to third parties. Please see "Disclosure to Third Parties", below, for more information.
 
-**Overview:**  
+**Overview:**
+
 This Privacy Policy is intended to explain our privacy practices and inform you as to:
 
   * the kinds of information we collect from users of the site and how that information is collected;
@@ -22,7 +24,8 @@ This Privacy Policy is intended to explain our privacy practices and inform you 
 
 You can visit the site and learn about our company and its Products, as well as certain goods and services available from our advertisers and suppliers.
 
-**Personally Identifiable Information:**  
+**Personally Identifiable Information:**
+
 When we use the term "personally identifiable information" we mean information such as your full name, street address, town or city, state, zip code, telephone number, date of birth, e-mail address, IP address and any other information that would allow someone to identify you or contact you. Personally identifiable information also includes information about your transactions or relationship with us, if you have been a customer or you have provided this type of information. For example, if you make a purchase on our site, in addition to your name and contact information, we will also collect and maintain your billing address, Image selections, your order number and information about your computer's internet address and web site which may have referred or directed you to the site (e.g. the referring URL). We collect this and other information to fill your order, to communicate with you about your order and to send you promotional materials.
 
 We collect personally identifiable information about you when you visit the site and input information, whether you are registering to use the site, enrolling or signing up for features and functions, participating in promotions, ordering or purchasing or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including personally identifiable information, to tailor your experience on the site, to display content we think may be of interest to you, or to let us customize what you see when you visit the site according to your preferences.
@@ -33,11 +36,13 @@ Bear in mind that when you submit information to us, it does not guarantee that 
 
 The personally identifiable information you provide to us, as well as any information, personal or otherwise, that you create and which may be saved on or in association with the site, is used to provide you with better service. It allows us to save you time and money and better understand your needs. It also helps us help you learn more about your preferences and those goods and services that may be of interest to you. For example, we track your information to assist us in confirming and filling orders, producing reports, maintaining quality control, administering and managing the site and our business, and, whenever it may become necessary or appropriate, to contact you concerning your orders, your transactions or any other activities associated with the site. We may use your personally identifiable information to advise you of goods or services which may be available from Dreamstime, its suppliers and/or advertisers. If you are a registered user, you also acknowledge, understand and hereby agree that you are giving us your consent to track your activities and your use of the site and its functions and features, in connection with your registration and use of the site.
 
-**Organizational Accounts:**  
+**Organizational Accounts:**
+
 We feature the names and logos of our organizational customers in various places throughout the site. Please let us know, using our [contact page](https://www.dreamstime.com/contact), if your organization objects to being listed as a Dreamstime featured customer, and we will upon receipt of your request remove all references to the organization from the site, except as may appear on your user profile page. If, however, we receive no objection after listing your organization's name and/or logo as a featured customer, we will presume that we have your permission to display this information. In all cases, we will endeavor to follow your instructions concerning use of your company's name and logo.  
 
 
-**Cookies:**  
+**Cookies:**
+
 We use 'cookie' technology to collect data regarding your visits to the site. This data is stored in aggregate form and is not used to identify any particular user or individual, by other means than to provide you with access to our site, products or services. We use cookies and similar tracking technologies in a variety of ways, including: 
 
   * keeping count of your return visits to the site;
@@ -53,13 +58,16 @@ A cookie is a small file containing a string of characters that uniquely identif
 
 **Remarketing Program**
 
-Dreamstime participates in various "Remarketing" programs that are designed to tailor advertisements you see by recording certain keywords and tags that are associated with the pages you browse on our website, and then using that information to automatically select ads that may be more relevant to you. More specifically, Dreamstime uses DoubleClick remarketing pixels and the [Teracent cookie](http://www.teracent.com/about-us/privacy-policy/) to participate in the [Dynamic Ad Serving](http://support.google.com/adwordspolicy/bin/answer.py?answer=1753755) feature provided by Google. If you would prefer to opt out of these services on our site, you may do so by visiting our [Remarketing Opt Out Page](https://www.dreamstime.com/remarketing.php).  
+Dreamstime participates in various "Remarketing" programs that are designed to tailor advertisements you see by recording certain keywords and tags that are associated with the pages you browse on our website, and then using that information to automatically select ads that may be more relevant to you. More specifically, Dreamstime uses DoubleClick remarketing pixels and the [Teracent cookie](http://www.teracent.com/about-us/privacy-policy/) to participate in the [Dynamic Ad Serving](http://support.google.com/adwordspolicy/bin/answer.py?answer=1753755) feature provided by Google. If you would prefer to opt out of these services on our site, you may do so by visiting our [Remarketing Opt Out Page](https://www.dreamstime.com/remarketing.php).
+
 Please note that this procedure will not block ads that are displayed on the websites you visit, and it will not prevent websites other than Dreamstime from collecting remarketing data about your browsing activities. To disable placement of the Teracent cookie for all websites, you may visit the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out). Similarly, to disable DoubleClick's remarketing cookie for all websites, you may visit the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout). We also utilize Google Analytics as part of our Remarketing program and to provide use with statistical information about portions of the Dreamstime website that are visited the most. You may disable Google Analytics by visiting [Google's Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=Aci0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KsrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en).
 
-**Third Parties on our site:**  
+**Third Parties on our site:**
+
 Our site may contain advertisements, references and links to other web sites and organizations. You should be aware that different rules may apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other web sites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours, and even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information and we encourage you to investigate and ask questions directly of them in this regard.
 
-**Disclosure to Third Parties:**  
+**Disclosure to Third Parties:**
+
 Except as described in this Privacy Policy, Dreamstime uses good faith efforts not to provide third parties with access to your personally identifiable information. We will, however, make your personally identifiable information available to others:
 
   * As part of your public member profile, where your name and location are displayed unless your profile has been set to confidential (please [contact support](https://www.dreamstime.com/contact) for assistance);
@@ -94,5 +102,6 @@ Our privacy guidelines are designed to ensure that we:
 
 
 
-**Sole Statement:**  
+**Sole Statement:**
+
 This Privacy Policy is the sole statement of Dreamstime's privacy policy with respect to the site, and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
