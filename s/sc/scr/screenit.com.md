@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615023444id_/http%3A//screenit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231210242id_/http%3A//screenit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
