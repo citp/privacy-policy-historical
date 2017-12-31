@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the localytics.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630231256id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the localytics.com privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231170743id_/https%3A//www.localytics.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" wf-loading"><head>
   <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" href="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/icons/icons.data.svg.css.gzip" media="all"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5SGH96"></script><script src="https://use.typekit.net/uil1ojl.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" href="https://www.localytics.com/wp-content/themes/localytics/icons/icons.data.svg.css" media="all"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5SGH96"></script><script src="https://use.typekit.net/uil1ojl.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<link rel="icon" type="image/ico" href="https://d3m29kylwgvha7.cloudfront.net/favicon.ico.gzip">
+<link rel="icon" type="image/ico" href="/favicon.ico">
 <link rel="pingback" href="https://www.localytics.com/xmlrpc.php">
 
 <title>Localytics Privacy Policy | Localytics</title>
@@ -35,63 +35,31 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Localytics » Privacy Policy Comments Feed" href="https://www.localytics.com/privacy-policy/feed/">
 <link rel="stylesheet" id="image_map_pro-styles-css" href="https://www.localytics.com/wp-content/plugins/image-map-pro-cornerstone/css/image-map-pro.css?ver=0.1.0" type="text/css" media="all">
-<link rel="stylesheet" id="loc-global-css-css" href="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/css/global.min.css.gzip?ver=1497994369" type="text/css" media="all">
-<link rel="stylesheet" id="loc-screen-css-css" href="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/css/screen.min.css.gzip?ver=1497994369" type="text/css" media="all">
-<link rel="stylesheet" id="loc-global-update-css-css" href="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/styles/styles.min.css.gzip?ver=1498249230" type="text/css" media="all">
-<link rel="stylesheet" id="loc-global-overrides-css-css" href="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/css/global-overrides.min.css.gzip?ver=1497994369" type="text/css" media="all">
-<link rel="stylesheet" id="localytics-css" href="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/style.css.gzip?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="loc-global-css-css" href="https://www.localytics.com/wp-content/themes/localytics/css/global.min.css?ver=1497994369" type="text/css" media="all">
+<link rel="stylesheet" id="loc-screen-css-css" href="https://www.localytics.com/wp-content/themes/localytics/css/screen.min.css?ver=1497994369" type="text/css" media="all">
+<link rel="stylesheet" id="loc-global-update-css-css" href="https://www.localytics.com/wp-content/themes/localytics/styles/styles.min.css?ver=1512158254" type="text/css" media="all">
+<link rel="stylesheet" id="loc-global-overrides-css-css" href="https://www.localytics.com/wp-content/themes/localytics/css/global-overrides.min.css?ver=1497994369" type="text/css" media="all">
+<link rel="stylesheet" id="localytics-css" href="https://www.localytics.com/wp-content/themes/localytics/style.css?ver=4.9.1" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='loc-ie8-styles-css'  href='https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/css/ie-8.min.css.gzip?ver=1497994369' type='text/css' media='all' />
+<link rel='stylesheet' id='loc-ie8-styles-css'  href='https://www.localytics.com/wp-content/themes/localytics/css/ie-8.min.css?ver=1497994369' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" src="https://d3m29kylwgvha7.cloudfront.net/wp-includes/js/jquery/jquery.js.gzip?ver=1.12.4"></script>
-<script type="text/javascript" src="https://d3m29kylwgvha7.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js.gzip?ver=1.4.1"></script>
-<script type="text/javascript" src="https://d3m29kylwgvha7.cloudfront.net/wp-content/plugins/image-map-pro-cornerstone/js/image-map-pro.js.gzip?ver=0.1.0"></script>
+<script type="text/javascript" src="https://www.localytics.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.localytics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.localytics.com/wp-content/plugins/image-map-pro-cornerstone/js/image-map-pro.js?ver=0.1.0"></script>
 <!--[if lt IE 9]>
-<script type='text/javascript' async src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js?ver=4.8'></script>
+<script type='text/javascript' async src='https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js?ver=4.9.1'></script>
 <![endif]-->
 <!--[if lt IE 9]>
-<script type='text/javascript' async src='https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.j?ver=4.8'></script>
+<script type='text/javascript' async src='https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.j?ver=4.9.1'></script>
 <![endif]-->
 <link rel="https://api.w.org/" href="https://www.localytics.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.localytics.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://d3m29kylwgvha7.cloudfront.net/wp-includes/wlwmanifest.xml.gzip"> 
-<meta name="generator" content="WordPress 4.8">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.localytics.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.1">
 <link rel="shortlink" href="https://www.localytics.com/?p=3505">
 <link rel="alternate" type="application/json+oembed" href="https://www.localytics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.localytics.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.localytics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.localytics.com%2Fprivacy-policy%2F&amp;format=xml">
-<script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//www.localytics.com/?wordfence_logHuman=1&hid=0DA3671BC206B06AFCFCB8CD0F92842F');
-</script><style id="cornerstone-generated-css" type="text/css">#cs-content .x-accordion,#cs-content .x-alert,#cs-content .x-audio,#cs-content .x-author-box,#cs-content .x-base-margin,#cs-content .x-block-grid,#cs-content .x-card-outer,#cs-content .x-code,#cs-content .x-columnize,#cs-content .x-entry-share,#cs-content div.x-feature-box,#cs-content .x-feature-list,#cs-content .x-flexslider-shortcode-container,#cs-content .x-gap,#cs-content .x-img,#cs-content .x-map,#cs-content .x-promo,#cs-content .x-prompt,#cs-content .x-recent-posts,#cs-content .x-section,#cs-content .x-skill-bar,#cs-content .x-tab-content,#cs-content .x-video{margin-bottom:1.5em;}#cs-content .x-blockquote:not(.x-pullquote),#cs-content .x-callout,#cs-content .x-hr,#cs-content .x-pricing-table{margin-top:1.5em;margin-bottom:1.5em;}@media (max-width:767px){#cs-content .x-pullquote.left,#cs-content .x-pullquote.right{margin-top:1.5em;margin-bottom:1.5em;}}@media (max-width:480px){#cs-content .x-toc.left,#cs-content .x-toc.right{margin-bottom:1.5em;}}#cs-content .x-container.width{width:88%;}#cs-content .x-container.max{max-width:1200px;}#cs-content .x-accordion-heading .x-accordion-toggle.collapsed,#cs-content .x-nav-tabs > li > a,#cs-content .x-recent-posts .h-recent-posts,#cs-content .x-recent-posts .x-recent-posts-date{color:#272727;}#cs-content .x-accordion-heading .x-accordion-toggle.collapsed:hover,#cs-content .x-accordion-heading .x-accordion-toggle,#cs-content .x-nav-tabs > li > a:hover,#cs-content .x-nav-tabs > .active > a,#cs-content .x-nav-tabs > .active > a:hover,#cs-content .x-recent-posts a:hover .h-recent-posts{color:#ff2a13;}#cs-content a.x-img-thumbnail:hover{border-color:#ff2a13;}#cs-content .x-dropcap,#cs-content .x-highlight,#cs-content .x-pricing-column.featured h2,#cs-content .x-recent-posts .x-recent-posts-img:after{background-color:#ff2a13;}#cs-content .x-btn{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}#cs-content a.x-btn:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-real,#cs-content .x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}#cs-content .x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-flat,#cs-content .x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}#cs-content .x-btn.x-btn-transparent,#cs-content .x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}</style>
+<style id="cornerstone-generated-css" type="text/css">#cs-content .x-accordion,#cs-content .x-alert,#cs-content .x-audio,#cs-content .x-author-box,#cs-content .x-base-margin,#cs-content .x-block-grid,#cs-content .x-card-outer,#cs-content .x-code,#cs-content .x-columnize,#cs-content .x-entry-share,#cs-content div.x-feature-box,#cs-content .x-feature-list,#cs-content .x-flexslider-shortcode-container,#cs-content .x-gap,#cs-content .x-img,#cs-content .x-map,#cs-content .x-promo,#cs-content .x-prompt,#cs-content .x-recent-posts,#cs-content .x-section,#cs-content .x-skill-bar,#cs-content .x-tab-content,#cs-content .x-video{margin-bottom:1.5em;}#cs-content .x-blockquote:not(.x-pullquote),#cs-content .x-callout,#cs-content .x-hr,#cs-content .x-pricing-table{margin-top:1.5em;margin-bottom:1.5em;}@media (max-width:767px){#cs-content .x-pullquote.left,#cs-content .x-pullquote.right{margin-top:1.5em;margin-bottom:1.5em;}}@media (max-width:480px){#cs-content .x-toc.left,#cs-content .x-toc.right{margin-bottom:1.5em;}}#cs-content .x-container.width{width:88%;}#cs-content .x-container.max{max-width:1200px;}#cs-content .x-accordion-heading .x-accordion-toggle.collapsed,#cs-content .x-nav-tabs > li > a,#cs-content .x-recent-posts .h-recent-posts,#cs-content .x-recent-posts .x-recent-posts-date{color:#272727;}#cs-content .x-accordion-heading .x-accordion-toggle.collapsed:hover,#cs-content .x-accordion-heading .x-accordion-toggle,#cs-content .x-nav-tabs > li > a:hover,#cs-content .x-nav-tabs > .active > a,#cs-content .x-nav-tabs > .active > a:hover,#cs-content .x-recent-posts a:hover .h-recent-posts{color:#ff2a13;}#cs-content a.x-img-thumbnail:hover{border-color:#ff2a13;}#cs-content .x-dropcap,#cs-content .x-highlight,#cs-content .x-pricing-column.featured h2,#cs-content .x-recent-posts .x-recent-posts-img:after{background-color:#ff2a13;}#cs-content .x-btn{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}#cs-content a.x-btn:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-real,#cs-content .x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}#cs-content .x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}#cs-content .x-btn.x-btn-flat,#cs-content .x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}#cs-content .x-btn.x-btn-transparent,#cs-content .x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}</style>
 
   </head>
 
@@ -147,13 +115,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </h3>
   <ul class="sub-nav__list sub-nav__list--pri-nav collapse" id="sub-nav__list--resources">
         <li><a class="sub-nav__link" href="/resources">Overview</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/case-study">Case Studies</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/ebook">eBooks</a></li>
-        <li><a class="sub-nav__link" href="http://info.localytics.com/blog" target="_blank">Blog</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/infographic">Infographics</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/webinar">Webinars</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/slideshare">Slideshares</a></li>
-        <li><a class="sub-nav__link" href="/app-stickiness-index">App Indexes</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/case-studies">Case Studies</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/data-benchmarks">Data/Benchmarks</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/ebooks">eBooks</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/videos">Videos</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/visual">Visual</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/webinars">Webinars</a></li>
       </ul>
 </div>
 
@@ -190,11 +157,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a class="collapsed" href="#sub-nav__list--help-documentation" data-toggle="collapse" data-parent=".pri-nav-dropdown__container" role="button" aria-expanded="false" aria-controls="sub-nav__list--help-documentation">Help &amp; Documentation <i class="glyphicon glyphicon-chevron-up"></i></a>
     </h3>
   <ul class="sub-nav__list sub-nav__list--pri-nav collapse" id="sub-nav__list--help-documentation">
-        <li><a class="sub-nav__link" href="http://docs.localytics.com">Overview</a></li>
-        <li><a class="sub-nav__link" href="http://docs.localytics.com/dev">Developer Docs</a></li>
-        <li><a class="sub-nav__link" href="http://docs.localytics.com/dashboard">User Guide</a></li>
-        <li><a class="sub-nav__link" href="http://help.localytics.com">Answers</a></li>
-        <li><a class="sub-nav__link" href="http://docs.localytics.com/projects/">Projects</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com" target="_blank">Overview</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com/dev" target="_blank">Developer Docs</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com/dashboard" target="_blank">User Guide</a></li>
+        <li><a class="sub-nav__link" href="http://help.localytics.com" target="_blank">Answers</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com/projects/" target="_blank">Projects</a></li>
       </ul>
 </div>
 
@@ -310,13 +277,12 @@ Boston, MA 02110 USA</p>
     </h3>
   <ul class="sub-nav__list sub-nav__list--footer " id="sub-nav__list--resources">
         <li><a class="sub-nav__link" href="/resources">Overview</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/case-study">Case Studies</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/ebook">eBooks</a></li>
-        <li><a class="sub-nav__link" href="http://info.localytics.com/blog" target="_blank">Blog</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/infographic">Infographics</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/webinar">Webinars</a></li>
-        <li><a class="sub-nav__link" href="/resources/types/slideshare">Slideshares</a></li>
-        <li><a class="sub-nav__link" href="/app-stickiness-index">App Indexes</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/case-studies">Case Studies</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/data-benchmarks">Data/Benchmarks</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/ebooks">eBooks</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/videos">Videos</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/visual">Visual</a></li>
+        <li><a class="sub-nav__link" href="/resources/types/webinars">Webinars</a></li>
       </ul>
 </div>
 			<div class="sub-nav sub-nav--footer ">
@@ -346,11 +312,11 @@ Boston, MA 02110 USA</p>
       Help &amp; Documentation
     </h3>
   <ul class="sub-nav__list sub-nav__list--footer " id="sub-nav__list--help-documentation">
-        <li><a class="sub-nav__link" href="http://docs.localytics.com">Overview</a></li>
-        <li><a class="sub-nav__link" href="http://docs.localytics.com/dev">Developer Docs</a></li>
-        <li><a class="sub-nav__link" href="http://docs.localytics.com/dashboard">User Guide</a></li>
-        <li><a class="sub-nav__link" href="http://help.localytics.com">Answers</a></li>
-        <li><a class="sub-nav__link" href="http://docs.localytics.com/projects/">Projects</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com" target="_blank">Overview</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com/dev" target="_blank">Developer Docs</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com/dashboard" target="_blank">User Guide</a></li>
+        <li><a class="sub-nav__link" href="http://help.localytics.com" target="_blank">Answers</a></li>
+        <li><a class="sub-nav__link" href="http://docs.localytics.com/projects/" target="_blank">Projects</a></li>
       </ul>
 </div>
 		</div>
@@ -408,16 +374,16 @@ Boston, MA 02110 USA</p>
     </p>
   </div>
 </div>
-<script src="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/scripts/plugins/jquery.min.js.gzip"></script>
-<script src="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/scripts/plugins/picturefill.min.js.gzip" async=""></script>
-<script src="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/scripts/plugins/modernizr.min.js.gzip" async=""></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://www.localytics.com/wp-content/themes/localytics/scripts/plugins/picturefill.min.js" async=""></script>
+<script src="https://www.localytics.com/wp-content/themes/localytics/scripts/plugins/modernizr.min.js" async=""></script>
 
-<script type="text/javascript" async="" src="https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/scripts/dist/app.min.js.gzip?ver=1497994372"></script>
-<script type="text/javascript" src="https://d3m29kylwgvha7.cloudfront.net/wp-includes/js/wp-embed.min.js.gzip?ver=4.8"></script>
+<script type="text/javascript" async="" src="https://www.localytics.com/wp-content/themes/localytics/scripts/dist/app.min.js?ver=1512158252"></script>
+<script type="text/javascript" src="https://www.localytics.com/wp-includes/js/wp-embed.min.js?ver=4.9.1"></script>
 
 
 <!-- Optimizely -->
-<script src="//cdn.optimizely.com/js/341096791.js" async=""></script>
+  <script src="//cdn.optimizely.com/js/341096791.js" async=""></script>
 <!-- End Optimizely -->
 
 <!-- Grunticon Loader -->
@@ -426,20 +392,21 @@ Boston, MA 02110 USA</p>
   window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!(!t.document.createElementNS||!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||window.opera&&-1===navigator.userAgent.indexOf("Chrome")||-1!==navigator.userAgent.indexOf("Series40")),o=function(o){var a=t.document.createElement("link"),r=t.document.getElementsByTagName("script")[0];a.rel="stylesheet",a.href=e[o&&n?0:o?1:2],a.media="only x",r.parentNode.insertBefore(a,r),setTimeout(function(){a.media="all"})},a=new t.Image;a.onerror=function(){o(!1)},a.onload=function(){o(1===a.width&&1===a.height)},a.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
 
   grunticon([
-    "https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/icons/icons.data.svg.css.gzip",
-    "https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/icons/icons.data.png.css.gzip",
-    "https://d3m29kylwgvha7.cloudfront.net/wp-content/themes/localytics/icons/icons.fallback.css.gzip"
+    "https://www.localytics.com/wp-content/themes/localytics/icons/icons.data.svg.css",
+    "https://www.localytics.com/wp-content/themes/localytics/icons/icons.data.png.css",
+    "https://www.localytics.com/wp-content/themes/localytics/icons/icons.fallback.css"
   ]);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1489fc0e18","applicationID":"29484492","transactionName":"bgRabBACVkpZUBFRXFdObUoLTFFXXFYdFkNREQ==","queueTime":0,"applicationTime":75,"atts":"QkNZGlgYRUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1489fc0e18","applicationID":"29484492","transactionName":"bgRabBACVkpZUBFRXFdObUoLTFFXXFYdFkNREQ==","queueTime":0,"applicationTime":286,"atts":"QkNZGlgYRUQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
-<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 1325/1409 objects using memcached
-Page Caching using memcached
-Content Delivery Network via Amazon Web Services: CloudFront: d3m29kylwgvha7.cloudfront.net
+Object Caching 1340/52 objects using memcached
+Page Caching using memcached 
 Minified using memcached
-Database Caching 22/29 queries in 0.046 seconds using memcached
+Database Caching 1/20 queries in 0.025 seconds using memcached
 
- Served from: www.localytics.com @ 2017-06-30 17:31:25 by W3 Total Cache --></body></html>
+Served from: www.localytics.com @ 2017-12-31 09:44:54 by W3 Total Cache
+--></body></html>
