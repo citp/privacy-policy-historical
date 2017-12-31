@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joinbain.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628040302id_/http%3A//bain.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joinbain.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231054529id_/http%3A//www.bain.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bain & Company
 
