@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630000955id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231234154id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Love Quotes and Quotations
 
@@ -67,7 +67,3 @@ We use third-party companies to serve ads and collect non-personally identifiabl
 [Privacy Policy - Love Quotes](http://www.love-quotes-and-quotations.com/)
 
 [](http://workfromhome.sitesell.com/kokopelli.html)
-
-**Share this page:  **| | | |   
----|---|---|---|---  
-| | | 
