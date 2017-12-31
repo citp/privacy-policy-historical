@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the futurescopes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606063321id_/http%3A//futurescopes.com/node/165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurescopes.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231064905id_/http%3A//futurescopes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Futurescopes.com
+# Privacy Policy | Futurescopes
 
 Futurescopes.com is part of Quest Mercury Intermedia Private Limited, owned and run by Vikkramm Chandirramani. This privacy policy describes how we collect, use, and share personally identifiable information (information that can be used to identify you, such as your full name, email address, mailing address, or telephone number) ("PII") we obtain from and about individuals irrespective of their geographical location, both online and off-line.
 
