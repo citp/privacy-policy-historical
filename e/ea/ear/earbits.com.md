@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earbits.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606085019id_/http%3A//www.earbits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earbits.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231232103id_/http%3A//earbits.com/privacy) for the most accurate reproduction.*
 
 # Earbits -
 
@@ -52,7 +52,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 ### Comments Regarding this Privacy Notice
 
-You42 Radio welcomes your comments regarding this Privacy Notice. If you have questions regarding this Privacy Notice, please contact us by e-mail at privacy@you42.com.
+You42 Radio welcomes your comments regarding this Privacy Notice. If you have questions regarding this Privacy Notice, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 ### Modifications of this Privacy Notice
 
