@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteerecipe.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630115019id_/http%3A//tasteerecipe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteerecipe.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231235152id_/http%3A//tasteerecipe.com/privacy-policy) for the most accurate reproduction.*
 
 # Tastee Recipe PRIVACY POLICY - Tastee Recipe
 
