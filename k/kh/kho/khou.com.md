@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630092139id_/http%3A//www.khou.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231113709id_/http%3A//www.khou.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | khou.com
-
-## Privacy Policy
+# Privacy Policy | khou.com
 
 Last Updated: June 29, 2015
 
