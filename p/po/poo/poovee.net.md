@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poovee.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164421id_/https%3A//poovee.net/read/privacy-policy/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poovee.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231223225id_/https%3A//poovee.net/read/privacy-policy/6) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -152,7 +152,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 ### 8\. Our policy towards children’s information
 
   
-This Service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@poovee.net. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+This Service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://poovee.net/cdn-cgi/l/email-protection) If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
   
 
