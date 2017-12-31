@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2017-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170512044855id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fliphtml5.com privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231053218id_/http%3A//fliphtml5.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 <link rel="icon" href="http://fliphtml5.com/favicon.ico" type="image/x-icon">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20170921015408/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="js/jquery-1.10.2.min.js"></script>
 
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Language" content="en"><link type="text/css" rel="stylesheet" href="/css/build/build.min.css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Content-Language" content="en"><meta name="viewport" content="width=device-width, initial-scale=1"><link type="text/css" rel="stylesheet" href="/css/build/build.min.css">
 <link type="text/css" rel="stylesheet" href="/css/policy.css"></head>
 
 
@@ -23,7 +23,7 @@
         debug: "false",
         lang: "en",
         uId: "",
-        uType: "",
+        uType: "0",
         cmail: "",
         isLoggedIn: false,
         database: {},
@@ -39,12 +39,12 @@
         settingsBookLogo: "",
         settingsWebsite: "",
         protocol: document.domain.match(/fliphtml5/) ? "https://" : "http://",
-        templateId : 4,
+        templateId : 0,
         themeId: 0,
         header: "http://stat.fliphtml5.com",
         hashKey: "fliphtml5",
         session_output: "",
-        config_output_limit: "",
+        config_output_limit: "0",
         session_points: parseInt("0"),
         config_outputCount: "30",
         customDomain: "",
@@ -52,6 +52,7 @@
         sessionDefaultCTitle: "",
         session_currency: "",
         session_paypal: "",
+        session_registrationDate: "",
         primaryAccountId:"",
         accountlogoUrl: "http://online.fliphtml5.com//"
 
@@ -78,6 +79,20 @@
     ga('create', 'UA-43815984-1', 'fliphtml5.com');
     ga('send', 'pageview');
 </script>
+
+<!-- <script type="text/javascript">
+    window._pt_lt = new Date().getTime();
+    window._pt_sp_2 = [];
+    _pt_sp_2.push('setAccount,51ea57ca');
+    var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    (function() {
+        var atag = document.createElement('script'); atag.type = 'text/javascript'; atag.async = true;
+        atag.src = _protocol + 'js.ptengine.cn/51ea57ca.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(atag, s);
+    })();
+</script> -->
+
 
 
 <div class="cc-top-banner ">
@@ -199,244 +214,284 @@
 
 
 
-    <div class="cc-container cc-float-fix ">
-
-        <!-- <div class="cc-top-bar-container cc-float-fix"> -->
-
-        <div class="cc-top-logo-container cc-float-fix">
-                        <a class="cc-home-link cc-transparent-link" href="/">
-                <div class="cc-flip-html5-logo-container">
-                    <img class="cc-flip-html5-logo" src="/images/logo.png" alt="free FlipHTML5 flip book maker"> <!--//static.fliphtml5.com/web/images/home/logo.png-->
-                </div>
-            </a>
-            <div class="cc-search-container hidden-xs">
-                <input type="text" class="cc-field cc-top-search-input" value="">
-                <!-- <i class="cc-top-search-icon icon icon-search" title="Search Publications"></i> -->
-                <span class="icon-search" title="Search Publications"></span>
+    <!-- 新topBar -->
+    <!-- 左边 -->
+    <div class="cc-top-left cc-left">
+        
+        <a class="cc-home-link cc-transparent-link" href="/">
+            <div class="cc-flip-html5-logo-container">
+                <img class="cc-flip-html5-logo" src="/images/logo.png" alt="free FlipHTML5 flip book maker"> <!--//static.fliphtml5.com/web/images/home/logo.png-->
             </div>
-        </div>
-        <!-- new top -->
-        <div class="cc-top-change-menu">
-                <div class="cc-navbar-toggle hidden-lg collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </div>
+        </a>
+
+    </div>
+
+
+    <!-- 中间 -->
+    <!-- new top -->
+    <div class="cc-top-center cc-top-change-menu">
         <ul class="cc-top-menu cc-float-fix">
-            <li class="hidden-xs">
+        <li class="cc-top-quick-item hidden-xs">
 
-                <a href="/login.php?register">
-                    <div class="cc-quick-upload-btn cc-fast-upload-button">
-                        Quick Upload                    </div>
-                </a>
-            </li>
+            <a href="/login.php?register">
+                <div class="cc-quick-upload-btn cc-fast-upload-button">
+                    Quick Upload                </div>
+            </a>
+        </li>
 
-            <li class="cc-top-item hidden-md hidden-sm hidden-xs">
-                <a class="cc-parent-link" href="/explore">Explore </a>
-            </li>
+        <li class="cc-top-item hidden-xs">
+            <a class="cc-parent-link" href="/explore">Explore </a>
+        </li>
 
-           <!--  <li class="cc-top-bar-explore cc-top-item cc-has-sub-menu hidden-sm hidden-xs">
-                <a class="cc-parent-link" href="javascript:void(0);">
-                    Explore <i class="cc-top-arrow-down fa fa-caret-down"></i>
-                </a>
+       <!--  <li class="cc-top-bar-explore cc-top-item cc-has-sub-menu hidden-sm hidden-xs">
+            <a class="cc-parent-link" href="javascript:void(0);">
+                Explore <i class="cc-top-arrow-down fa fa-caret-down"></i>
+            </a>
 
-                <ul class="cc-sub-menu">
+            <ul class="cc-sub-menu">
+            <li>
+                    <a href="/explore">
+                        <div class="cc-sub-menu-item">
+                            <i class="fa fa-rocket"></i>&nbsp;&nbsp;Explore Hot                        </div>
+                    </a>
+                </li>
                 <li>
+                    <a href="/explore?#latest">
+                        <div class="cc-sub-menu-item">
+                            <i class="fa fa-cloud"></i>&nbsp;&nbsp;Latest Flips                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/community">
+                        <div class="cc-sub-menu-item">
+                            <i class="fa fa-users"></i>&nbsp;&nbsp;Community                        </div>
+                    </a>
+                </li>
+            </ul>
+        </li> -->
+
+        <li class="cc-before-log-in-features cc-before-log-in-menu cc-top-item visible-lg visible-md">
+            <a class="cc-parent-link" href="/features">Features </a>
+        </li>
+
+        <!-- <li class="cc-before-log-in-menu cc-top-item hidden-md hidden-sm hidden-xs">
+            <a href="/html5-flipbook-showcase.php">Case Studies</a>
+        </li> -->
+
+        <li class="cc-before-log-in-caseStudies cc-top-bar-explore cc-top-item cc-has-sub-menu visible-lg">
+            <a class="cc-parent-link" href="javascript:void(0);">
+                Case Studies                <!-- <i class="cc-top-arrow-down fa fa-caret-down"></i> -->
+                <span class="cc-top-arrow"></span>
+
+            </a>
+
+            <ul class="cc-sub-menu top-featured-menu">
+                <li>
+                    <a href="/case-studies/featured-examples">
+                        <div class="cc-sub-menu-item">
+                            <!-- <i class="fa fa-star"></i> -->
+                            <span class="example-icon"></span>
+                            &nbsp;&nbsp;Featured Examples                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/case-studies/creation-tutorial">
+                        <div class="cc-sub-menu-item">
+                            <!-- <i class="fa fa-magic"></i> -->
+                            <span class="creation-icon"></span>
+                            &nbsp;&nbsp;Creation Tutorial                        </div>
+                    </a>
+                </li>
+                <!-- <li>
+                    <a href="/case-studies/customer-examples">
+                        <div class="cc-sub-menu-item">
+                            <i class="fa fa-user"></i>&nbsp;&nbsp;Customer Examples
+                        </div>
+                    </a>
+                </li>
+                <li>
+                    <a href="/case-studies/embed-examples">
+                        <div class="cc-sub-menu-item">
+                            <i class="fa fa-code"></i>&nbsp;&nbsp;Embed Examples
+                        </div>
+                    </a>
+                </li> -->
+                <li>
+                    <a href="/video-tutorial/">
+                        <div class="cc-sub-menu-item">
+                            <!-- <i class="fa fa-video-camera"></i> -->
+                            <span class="video-icon"></span>
+
+                            &nbsp;&nbsp;Video Tutorial                        </div>
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="cc-before-support-menu cc-before-log-in-menu cc-top-item visible-lg">
+            <a href="/help">Support</a>
+        </li>
+
+
+        <li class="cc-before-pricing-menu cc-before-log-in-menu visible-lg visible-md">
+            <a href="/fliphtml5-pricing.php">Pricing</a>
+        </li>
+
+        <!-- <li class="cc-top-bar-qrcode cc-before-log-in-menu hidden-sm hidden-xs"></li> -->
+    </ul>
+    <div id="navbar" class="navbar-collapse-list collapse" aria-expanded="false" style="height: 4px;">
+        <ul>
+            <li id="cc-top-logout-hide-upload" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
+                <a class="cc-quick-upload-btn cc-container first-item" href="/login.php?register">Quick Upload</a>
+            </li>
+            <!-- <li class="dropdown hidden-lg hidden-md">
+                <div class="cc-hide-top-bar-item dropdown-toggle" data-toggle="dropdown">
+                    <a href="javascript:void(0)" class="cc-container first-item">Explore<b class="fa fa-caret-down"></b></a>
+                </div>
+                <ul class="dropdown-menu">
+                    <li>
                         <a href="/explore">
-                            <div class="cc-sub-menu-item">
-                                <i class="fa fa-rocket"></i>&nbsp;&nbsp;Explore Hot                            </div>
+                            <div class="cc-container second-item">Explore Hot</div>
                         </a>
                     </li>
                     <li>
-                        <a href="/explore?#latest">
-                            <div class="cc-sub-menu-item">
-                                <i class="fa fa-cloud"></i>&nbsp;&nbsp;Latest Flips                            </div>
+                        <a href="/explore#latest">
+                            <div class="cc-container second-item">Latest Flips</div>
                         </a>
                     </li>
                     <li>
                         <a href="/community">
-                            <div class="cc-sub-menu-item">
-                                <i class="fa fa-users"></i>&nbsp;&nbsp;Community                            </div>
+                            <div class="cc-container second-item">Community</div>
                         </a>
                     </li>
                 </ul>
             </li> -->
-
-            <li class="cc-before-log-in-menu cc-top-item hidden-md hidden-sm hidden-xs">
-                <a class="cc-parent-link" href="/features">Features </a>
-            </li>
-
-            <!-- <li class="cc-before-log-in-menu cc-top-item hidden-md hidden-sm hidden-xs">
-                <a href="/html5-flipbook-showcase.php">Case Studies</a>
-            </li> -->
-
-            <li class="cc-top-bar-explore cc-top-item cc-has-sub-menu hidden-md hidden-sm hidden-xs">
-                <a class="cc-parent-link" href="javascript:void(0);">
-                    Case Studies                    <!-- <i class="cc-top-arrow-down fa fa-caret-down"></i> -->
-                    <span class="cc-top-arrow"></span>
-
+            <li class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
+                <a href="/explore">
+                    <div class="cc-container first-item">Explore</div>
                 </a>
-
-                <ul class="cc-sub-menu top-featured-menu">
+            </li>
+            <li class="cc-hide-top-bar-features cc-hide-top-bar-item hidden-lg hidden-md">
+                <a href="/features">
+                    <div class="cc-container first-item">Features</div>
+                </a>
+            </li>
+           <!--  <li class="cc-hide-top-bar-item hidden-lg">
+                <a href="/html5-flipbook-showcase.php">
+                    <div class="cc-container first-item">Case Studies</div>
+                </a>
+            </li> -->
+            <li class="cc-hide-top-bar-caseStudies dropdown hidden-lg">
+                <div class="cc-hide-top-bar-item dropdown-toggle case-studies-btn" data-toggle="dropdown">
+                    <a href="javascript:void(0);" class="cc-container first-item">Case Studies                        <b class="fa fa-caret-down"></b>
+                                            </a>
+                </div>
+                <ul class="dropdown-menu ">
                     <li>
                         <a href="/case-studies/featured-examples">
-                            <div class="cc-sub-menu-item">
-                                <!-- <i class="fa fa-star"></i> -->
-                                <span class="example-icon"></span>
-                                &nbsp;&nbsp;Featured Examples                            </div>
+                            <div class="cc-container second-item">Featured Examples</div>
                         </a>
                     </li>
                     <li>
                         <a href="/case-studies/creation-tutorial">
-                            <div class="cc-sub-menu-item">
-                                <!-- <i class="fa fa-magic"></i> -->
-                                <span class="creation-icon"></span>
-                                &nbsp;&nbsp;Creation Tutorial                            </div>
+                            <div class="cc-container second-item">Creation Tutorial</div>
                         </a>
                     </li>
                     <!-- <li>
                         <a href="/case-studies/customer-examples">
-                            <div class="cc-sub-menu-item">
-                                <i class="fa fa-user"></i>&nbsp;&nbsp;Customer Examples
-                            </div>
+                            <div class="cc-container second-item">Customer Examples</div>
                         </a>
                     </li>
                     <li>
                         <a href="/case-studies/embed-examples">
-                            <div class="cc-sub-menu-item">
-                                <i class="fa fa-code"></i>&nbsp;&nbsp;Embed Examples
-                            </div>
+                            <div class="cc-container second-item">Embed Examples</div>
                         </a>
-                    </li> -->
+                    </li>  -->
                     <li>
                         <a href="/video-tutorial/">
-                            <div class="cc-sub-menu-item">
-                                <!-- <i class="fa fa-video-camera"></i> -->
-                                <span class="video-icon"></span>
-
-                                &nbsp;&nbsp;Video Tutorial                            </div>
+                            <div class="cc-container second-item">Video Tutorial</div>
                         </a>
                     </li>
                 </ul>
             </li>
-
-            <li class="cc-before-log-in-menu cc-top-item hidden-md hidden-sm hidden-xs">
-                <a href="/help">Support</a>
+            <li class="cc-hide-top-bar-support cc-hide-top-bar-item hidden-lg">
+                <a href="/help">
+                    <div class="cc-container first-item">Support</div>
+                </a>
             </li>
-
-
-            <li class="cc-go-premium-item cc-before-log-in-menu hidden-sm hidden-xs">
-                <a href="/fliphtml5-pricing.php">Pricing</a>
+            <li class="cc-hide-top-bar-pricing cc-hide-top-bar-item hidden-lg hidden-md">
+                <a href="/fliphtml5-pricing.php">
+                    <div class="cc-container first-item">Pricing</div>
+                </a>
             </li>
-            <li class="cc-before-log-in-menu cc-top-item hidden-xs">
-                <a class="cc-log-in-link" href="javascript:void(0);">Sign in</a>
+            <li id="cc-top-hide-sign-in" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm hidden-xs">
+                <div class="cc-container first-item">Sign in</div>
             </li>
-            <li class="cc-top-sign-up hidden-xs"><a class="cc-sign-up-link" href="javascript:void(0);">Sign Up</a></li>
-            <!-- <li class="cc-top-bar-qrcode cc-before-log-in-menu hidden-sm hidden-xs"></li> -->
-        </ul>
-        <div id="navbar" class="navbar-collapse-list hidden-lg collapse" aria-expanded="false" style="height: 4px;">
-            <ul>
-                <li id="cc-top-logout-hide-upload" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
-                    <a class="cc-quick-upload-btn cc-container first-item" href="/login.php?register">Quick Upload</a>
-                </li>
-                <!-- <li class="dropdown hidden-lg hidden-md">
-                    <div class="cc-hide-top-bar-item dropdown-toggle" data-toggle="dropdown">
-                        <a href="javascript:void(0)" class="cc-container first-item">Explore<b class="fa fa-caret-down"></b></a>
+            <li id="cc-top-hide-sign-up" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
+                <div class="cc-container first-item">Sign Up</div>
+            </li>
+            <li class="cc-hide-top-bar-search hidden-lg">
+                <div class="cc-container">
+                    <div id="cc-top-logout-hide-search" class="form-group">
+                        <input type="text" placeholder="Search..." class="form-control cc-input-text" value="">
+                        <i class="icon icon-search" title="Search Publications (Case Sensitivity)"></i>
                     </div>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="/explore">
-                                <div class="cc-container second-item">Explore Hot</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/explore#latest">
-                                <div class="cc-container second-item">Latest Flips</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/community">
-                                <div class="cc-container second-item">Community</div>
-                            </a>
-                        </li>
-                    </ul>
-                </li> -->
-                <li class="cc-hide-top-bar-item hidden-lg">
-                    <a href="/explore">
-                        <div class="cc-container first-item">Explore</div>
-                    </a>
-                </li>
-                <li class="cc-hide-top-bar-item hidden-lg">
-                    <a href="/features">
-                        <div class="cc-container first-item">Features</div>
-                    </a>
-                </li>
-               <!--  <li class="cc-hide-top-bar-item hidden-lg">
-                    <a href="/html5-flipbook-showcase.php">
-                        <div class="cc-container first-item">Case Studies</div>
-                    </a>
-                </li> -->
-                <li class="dropdown hidden-lg">
-                    <div class="cc-hide-top-bar-item dropdown-toggle case-studies-btn" data-toggle="dropdown">
-                        <a href="javascript:void(0);" class="cc-container first-item">Case Studies                            <b class="fa fa-caret-down"></b>
-                                                    </a>
-                    </div>
-                    <ul class="dropdown-menu ">
-                        <li>
-                            <a href="/case-studies/featured-examples">
-                                <div class="cc-container second-item">Featured Examples</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/case-studies/creation-tutorial">
-                                <div class="cc-container second-item">Creation Tutorial</div>
-                            </a>
-                        </li>
-                        <!-- <li>
-                            <a href="/case-studies/customer-examples">
-                                <div class="cc-container second-item">Customer Examples</div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/case-studies/embed-examples">
-                                <div class="cc-container second-item">Embed Examples</div>
-                            </a>
-                        </li>  -->
-                        <li>
-                            <a href="/video-tutorial/">
-                                <div class="cc-container second-item">Video Tutorial</div>
-                            </a>
-                        </li>
-                    </ul>
-                </li>
-                <li class="cc-hide-top-bar-item hidden-lg">
-                    <a href="/help">
-                        <div class="cc-container first-item">Support</div>
-                    </a>
-                </li>
-                <li class="cc-hide-top-bar-item hidden-lg hidden-md">
-                    <a href="/fliphtml5-pricing.php">
-                        <div class="cc-container first-item">Pricing</div>
-                    </a>
-                </li>
-                <li id="cc-top-hide-sign-in" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
-                    <div class="cc-container first-item">Sign in</div>
-                </li>
-                <li id="cc-top-hide-sign-up" class="cc-hide-top-bar-item hidden-lg hidden-md hidden-sm">
-                    <div class="cc-container first-item">Sign Up</div>
-                </li>
-                <li class="hidden-lg hidden-md hidden-sm">
-                    <div class="cc-container">
-                        <div id="cc-top-logout-hide-search" class="form-group">
-                            <input type="text" placeholder="Search..." class="form-control cc-input-text" value="">
-                            <i class="icon icon-search" title="Search Publications (Case Sensitivity)"></i>
-                        </div>
-                    </div>
-                </li>
-            </ul>
-        </div>
                 </div>
+            </li>
+        </ul>
     </div>
+        </div>
+
+
+    <!-- 右边 -->
+    <div class="cc-top-right cc-right">
+    <div class="cc-search-container hidden-xs">
+            <input type="text" class="cc-field cc-top-search-input" value="">
+            <!-- <i class="cc-top-search-icon icon icon-search" title="Search Publications"></i> -->
+            <span id="icon-search" class="icon-search" title="Search Publications"></span>
+        </div>
+
+        <!--         <div class="cc-before-search-container cc-search-container hidden-sm hidden-xs">
+            <input type="text" class="cc-field cc-top-search-input" value="" />
+            <i class="cc-top-search-icon icon icon-search" title="Search Publications"></i>
+            <span id="icon-search" class="icon-search" title="Search Publications"></span>
+        </div>
+
+         -->
+
+
+        <ul class="cc-top-right_log-in-wrap pull-right">
+            
+                <li class="cc-before-log-in-menu cc-top-item">
+                    <a class="cc-log-in-link" href="javascript:void(0);">Sign in</a>
+                </li>
+                <li class="cc-top-sign-up hidden-xs"><a class="cc-sign-up-link" href="javascript:void(0);">Sign Up</a></li>
+
+                <div class="cc-navbar-toggle hidden-lg collapsed cc-right" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </div>
+                    </ul>
+
+
+
+    </div>
+
+
+
+
+
+<!--     <div class="cc-float-fix ">
+
+    <div class="cc-top-bar-container cc-float-fix">
+
+
+
+    <div class="cc-top-logo-container cc-float-fix">
+            </div>
+</div> -->
+
 </div>
 
 
@@ -446,7 +501,8 @@
 
     // no login
     var $searchInput = document.getElementsByClassName("cc-top-search-input")[0];
-    var $searchIcon  = document.getElementsByClassName("icon-search")[0];
+    // var $searchIcon  = document.getElementsByClassName("icon-search")[0];
+    var $searchIcon  = document.getElementById("icon-search");
     var $login       = document.getElementsByClassName("cc-log-in-link")[0];
     var $signUp      = document.getElementsByClassName("cc-sign-up-link")[0];
     var $navbarBtn   = document.getElementsByClassName("cc-navbar-toggle hidden-lg")[0];
