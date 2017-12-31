@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Maid Marian MMORPG - Massive Multiplayer Web Games
 
-[**Home**](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/free-mmorpg.htm)
+[**Home**](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/free-mmorpg.htm)
 
 About Us  
-[News](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/news.htm)  
-[Press Releases ](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/pressreleases.htm)
+[News](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/news.htm)  
+[Press Releases ](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/pressreleases.htm)
 
-[Sherwood](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/SherwoodLanding.htm)  
-[Club Marian](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/ClubMarianLanding.htm)  
-[Moon Base](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/MOONBASE.htm)  
-[Tank Ball ](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/Tank.htm)  
-[Ratinator](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/Ratinator3.htm)  
-[Colin's Carrera](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/carrara.htm)
+[Sherwood](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/SherwoodLanding.htm)  
+[Club Marian](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/ClubMarianLanding.htm)  
+[Moon Base](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/MOONBASE.htm)  
+[Tank Ball ](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/Tank.htm)  
+[Ratinator](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/Ratinator3.htm)  
+[Colin's Carrera](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/carrara.htm)
 
 [Screen Shots  
-](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/visuals.htm) [Developer Diary  
-](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/LinkingPolicy.htm) [Terms of Service  
-](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/TermsOfService.htm) [Privacy Policy  
-](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm)
+](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/visuals.htm) [Developer Diary  
+](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/LinkingPolicy.htm) [Terms of Service  
+](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/TermsOfService.htm) [Privacy Policy  
+](https://web.archive.org/web/20171231033106id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm)
 
 |  | 
 
-> **Effective Date: 11th of January, ****2010** **Introduction** This is the privacy policy of Maid Marian Entertainment Inc. and applies to all of the websites on which it appears. We are committed to protecting your privacy. We may change this policy at any time. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these changes from their effective date as shown above. If you have any questions about this privacy policy, please contact the Privacy Officer, Gene Endrody, by emailing [**geneendrody@gmail.com**](mailto:GeneEndrody@gmail.com) and do not use our websites until you are satisfied and can accept this policy in its entirety. **Information Collection and Use** Maid Marian Entertainment collects personal information when you register with MaidMarian.com, when you use Maid Marian Entertainment products or services, and when you visit MaidMarian.com pages or the pages of certain Maid Marian Entertainment partners.
+> **Effective Date: 11th of January, ****2010** **Introduction** This is the privacy policy of Maid Marian Entertainment Inc. and applies to all of the websites on which it appears. We are committed to protecting your privacy. We may change this policy at any time. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these changes from their effective date as shown above. If you have any questions about this privacy policy, please contact the Privacy Officer, Gene Endrody, by emailing [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#0d4a6863684863697f6269744d6a606c6461236e6260) and do not use our websites until you are satisfied and can accept this policy in its entirety. **Information Collection and Use** Maid Marian Entertainment collects personal information when you register with MaidMarian.com, when you use Maid Marian Entertainment products or services, and when you visit MaidMarian.com pages or the pages of certain Maid Marian Entertainment partners.
 > 
 > When you register we ask for information such as a user selected character name, email address and password. Once you register with Maid Marian Entertainment and sign in to our services, you are not anonymous to us. 
 > 
@@ -68,7 +68,7 @@ About Us
 > 
 > **Notice to European Users  ** The information you enter on this Site or otherwise provide to Maid Marian Entertainment may be transferred outside of the European Union to the United States of America and Canada which does not offer an equivalent level of protection to that required in the European Union. In particular, you are advised that the United States of America and Canada uses a sectoral model of privacy protection that relies on a mix of legislation, governmental regulation, and self-regulation. Article 26 of the European Union’s Data Protection Directive (Directive 95/46/EC, 1995 O.J. (L 281) 31) allows for transfer of personal data from the European Union to a third country if the individual has unambiguously given his consent to the transfer of personal information, regardless of the third country's level of protection. By agreeing to the terms of service and this privacy policy, you consent to the transfer of all such information to the United States of America and Canada which may not offer an equivalent level of protection to that required in the European Union and to the processing of that information by Maid Marian Entertainment Inc. on its servers located in the United States of America and Canada as described in this Privacy Policy.  **Contact Information**  
 >  Privacy Officer: Gene Endrody  
->  Email: [**geneendrody@gmail.com** ](mailto:geneendrody@gmail.com)
+>  Email: [**[email  protected]** ](https://web.archive.org/cdn-cgi/l/email-protection#f394969d96969d97819c978ab3949e929a9fdd909c9e)
 > 
 > Address:
 > 
