@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the johnbokma.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502162201id_/http%3A//johnbokma.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnbokma.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231162820id_/http%3A//johnbokma.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for John Bokma dot com
+
+Hire a senior Perl / Python programmer today; download my [up-to-date resume](http://castleamber.com/documents/perl-programmer-john-bokma-resume.pdf) (PDF) 
 
 The privacy of visitors to johnbokma.com is important to me. 
 
