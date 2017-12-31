@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourneytime.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515101633id_/http%3A//www.tourneytime.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourneytime.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231111143id_/http%3A//tourneytime.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # TourneyTime Privacy
 
