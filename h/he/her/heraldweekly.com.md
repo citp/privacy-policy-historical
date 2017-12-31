@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the heraldweekly.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628004251id_/http%3A//www.heraldweekly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldweekly.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231215935id_/http%3A//www.heraldweekly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Herald Weekly
 
-**_CORTEX MEDIA GROUP LTD_** ** _PRIVACY POLICY_**
+**_PRIVACY POLICY_**
 
 _(Last modified:_ _  8_ _May, 2017)_
 
-This privacy policy (“ **Privacy Policy** “) governs the data collection practices by us, Cortex Media Group LTD (“ **Company** ” or “ **we** ”), while you (“ **you** ” or “ **user** ”) access and use our website currently located at  www.heraldweekly.com (“ **Website** ”).
+This privacy policy (“ **Privacy Policy** “) governs the data collection practices by us, (“ **Company** ” or “ **we** ”), while you (“ **you** ” or “ **user** ”) access and use our website currently located at  www.heraldweekly.com (“ **Website** ”).
 
 This Privacy Policy provides important and transparent disclosures on **how** or **why** we collect, **share** and **use** our users’ data. Our users’ privacy is important to us therefore we encourage you to read the Privacy Policy carefully prior to accessing or using our Website and use it to make informed decisions. By using or accessing the Website, you hereby agree to the terms of this Privacy Policy. Any use or continued use of the Website constitutes your agreement and consent to this Privacy Policy. This Privacy Policy is part of our [Terms of Use](http://www.heraldweekly.com/terms-of-use/). Definitions herein shall have the same meaning as defined therein. ** _ _**
 
@@ -60,11 +60,13 @@ Third parties (i.e., Google Analytics) may also use cookies, scripts or web beac
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
+As we use third party retargeting services, you may opt-out directly from third party retargeting cookies or other ad-technology trackers through self-regulator services like the Network Advertising Initiative’s (“ **NAI** ”) website – [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s (“ **DAA** ”) website – [DAA opt-out page](http://www.aboutads.info/).
+
 **DELETING DATA**
 
 Unless you instruct us otherwise, we retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements if applicable.
 
-In the event, you do not agree to the aforesaid collection, use and share of data, please cease any usage or access to the Website. If you have provided us with Personal Information by contacting us, such as name and email address, and you wish to remove such information please contact us immediately at: websites@cortexmg.com.
+In the event, you do not agree to the aforesaid collection, use and share of data, please cease any usage or access to the Website. If you have provided us with Personal Information by contacting us, such as name and email address, and you wish to remove such information please contact us using the MDCA complaint form.
 
 **SECURITY**
 
@@ -72,10 +74,10 @@ We make best efforts to use security methods and encryptions when handling sensi
 
 **MINORS**
 
-If you are under 18, please be sure to read this policy with your parents or legal guardians and ask questions about things you do not understand. In the event that we become aware that a user under the age of 13 has shared any information, we will discard such information. If you have any reason to believe that a child under the age of 13 has shared any information with us, please contact us at: websites@cortexmg.com.
+If you are under 18, please be sure to read this policy with your parents or legal guardians and ask questions about things you do not understand. In the event that we become aware that a user under the age of 13 has shared any information, we will discard such information. If you have any reason to believe that a child under the age of 13 has shared any information with us, please contact us using the MDCA complaint form.
 
 **AMENDMENTS**
 
 We reserve the right to periodically amend or revise the Privacy Policy; material changes will be effective immediately upon the display of the revised Privacy Policy. The last revision date will be reflected in the “Last modified” heading. Your continued use and access of the Website or any part thereof, following the notification of such amendments on our website, constitutes your acknowledgement and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
 
-__**CONTACT US:** If you have any questions about these terms, please contact us at: websites@cortexmg.com.
+__**CONTACT US:** If you have any questions about these terms, please contact us using the MDCA complaint form.
