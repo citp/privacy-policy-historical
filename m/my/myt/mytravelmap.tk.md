@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytravelmap.tk privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531180133id_/http%3A//www.mytravelmap.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytravelmap.tk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231184934id_/http%3A//www.mytravelmap.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -88,6 +88,6 @@ We don't honor them because the site won't function well without cookies.
 
 It's also important to note that we allow third-party behavioral tracking by the Google Analytics or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-If there are any questions regarding this privacy policy you may contact us by email at mytravelmap.info@gmail.com
+If there are any questions regarding this privacy policy you may contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Last Edited on 18th March, 2016
