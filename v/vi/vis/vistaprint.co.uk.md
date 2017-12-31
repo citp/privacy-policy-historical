@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistaprint.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181822id_/http%3A//www.vistaprint.co.uk/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistaprint.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231143348id_/https%3A//www.vistaprint.co.uk/customer-care/cookies-and-privacy.aspx) for the most accurate reproduction.*
 
 # Vistaprint Cookies & Privacy
 
