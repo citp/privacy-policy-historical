@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ad4game.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181934id_/http%3A//ad4game.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ad4game.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231040111id_/https%3A//ad4game.com/privacy) for the most accurate reproduction.*
 
 # Ad4Game: Privacy Policy
 
-This Privacy Policy (together with our terms of use, which are available at <http://www.ad4game.com/terms/>) governs the manner in which Ad4Game Ireland Limited (“ **Ad4Game** ”) collects, uses, maintains and discloses personal data collected from users of the [http://www.ad4game.com](http://www.ad4game.com/) website (the “ **Site** ”) as well as all websites working directly or indirectly with the Ad4Game Network. This privacy policy applies to the Site and all products and services offered by Ad4Game. Please read this policy carefully to understand the views and practices of Ad4Game regarding your personal data and how Ad4Game will treat it. 
+This Privacy Policy (together with our terms of use, which are available at [//www.ad4game.com/terms/](https://www.ad4game.com/terms/)) governs the manner in which Ad4Game Ireland Limited (“ **Ad4Game** ”) collects, uses, maintains and discloses personal data collected from users of the [//www.ad4game.com](https://www.ad4game.com/) website (the “ **Site** ”) as well as all websites working directly or indirectly with the Ad4Game Network. This privacy policy applies to the Site and all products and services offered by Ad4Game. Please read this policy carefully to understand the views and practices of Ad4Game regarding your personal data and how Ad4Game will treat it. 
 
 ### Personal Data
 
@@ -46,7 +46,7 @@ We may disclose your personal data to third parties:
   * Where we engage trusted third parties to provide services in connection with the Site or our business, including sending out newsletters or surveys on our behalf. 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If Ad4Game or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms of use (<http://www.ad4game.com/terms/>) and other agreements, or to protect the rights, property, or safety of Ad4Game, our customers or others. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms of use ([//www.ad4game.com/terms/](https://www.ad4game.com/terms/)) and other agreements, or to protect the rights, property, or safety of Ad4Game, our customers or others. 
 
 
 
@@ -70,13 +70,13 @@ Your continued use of the Site after any change in this Privacy Policy will cons
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of and consent to the practices described in this policy and terms of use (<http://www.ad4game.com/terms/>). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+By using this Site, you signify your acceptance of and consent to the practices described in this policy and terms of use ([//www.ad4game.com/terms/](https://www.ad4game.com/terms/)). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 ### Contacting us
 
 If you have any questions, comments or requests in relation to this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us at: 
 
-[Ad4Game Ireland Limited](http://www.ad4game.com/)  
+[Ad4Game Ireland Limited](https://www.ad4game.com/)  
 6-9 Trinity Street, Dublin 2, Ireland  
 [support@ad4game.com](mailto:support@ad4game.com)  
 
