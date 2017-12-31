@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kens5.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628142943id_/http%3A//www.kens5.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kens5.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231114827id_/http%3A//www.kens5.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | San Antonio, Texas | kens5.com
 
