@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblogger-tricks.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608065627id_/http%3A//www.myblogger-tricks.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogger-tricks.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231072717id_/http%3A//www.myblogger-tricks.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
