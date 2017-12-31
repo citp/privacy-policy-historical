@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2017-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170526134946id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231071212id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Users of the Chiff.com Internet Directory
 
@@ -9,7 +9,7 @@ and How We Use and Protect Your Information
 
 Protecting your privacy and safeguarding your personal information is one of our highest priorities. 
 
-The following Privacy Statement explains how Chiff.com collects and protects your information. If you have any questions that are not covered by this statement, please contact us at [support@chiff.com](mailto:support@chiff.com?subject=Privacy). 
+The following Privacy Statement explains how Chiff.com collects and protects your information. If you have any questions that are not covered by this statement, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d1e181d1d021f192d0e05040b0b430e0200521e180f07080e19503d1f041b0c0e14). 
 
 By using Chiff.com Web, you give your consent to the collection and use of certain personal information. Please look over the following FAQ to learn more. 
 
