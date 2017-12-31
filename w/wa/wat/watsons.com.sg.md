@@ -1,34 +1,34 @@
-> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203040542id_/http%3A//www.watsons.com.sg/policyPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watsons.com.sg privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231014401id_/http%3A//www.watsons.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watsons Singapore
 
 **PRIVACY STATEMENT**
 
-**Our Pledge**
+ **Our Pledge**
 
 We are committed to safeguarding your privacy and ensuring your personal data is protected. We therefore make sure that our policies and practices in relation to personal data comply with the requirements of the Personal Data Protection Act 2012 (the “Act”) under the laws of Singapore.
 
-**Privacy Policy**
+ **Privacy Policy**
 
 This privacy policy applies to www.watsons.com.sg (“the Site”) and to personal data collected about you by Watsons (“we”, “us” or “our”). Watsons is a member of the A. S. Watson group of companies (“ASW Group”). By using the Site, you are agreeing to the terms of this privacy policy. If you do not agree with any term of this policy, please do not use the Site.
 
 Please note that this Privacy Policy may be amended from time to time by posting the updated version here on the Site. You are advised to check it on a regular basis.
 
-**Collection of Personally Identifiable Information**
+ **Collection of Personally Identifiable Information**
 
 When you visit the site, we will record your visit only and will not collect any personally identifiable information (i.e. information that is about you and identifies you) from you unless otherwise stated. We use cookies and similar technologies to collect data about your use of the Site. For your information, Cookies are small computer files that can be stored on your computer for the purposes of obtaining configuration information and analysing your browsing habits. They can save you from registering again when re-visiting a web site and are commonly used to track your preferences in relation to the subject matter of the web site. You may refuse to accept Cookies (by modifying the relevant Internet options or browsing preferences of your computer system), but if you do so you may not be able to utilize or activate certain available functions on our Site.
 
-**Types of Personally Identifiable Information Collected**
+ **Types of Personally Identifiable Information Collected**
 
 At times, you may be asked to provide your personally identifiable information (“Personal Data”)  including, but not limited to: Name, gender, age, telephone number, fax number, home address, email address, credit card information, bank account number, education level, occupation, household income, interests, and favourite activities etc. in order to enjoy the services we offer. Specific purposes for which your Personal Data may be used are set out in our Personal Information Collection Statement under section 6 below, including the use of Personal Data for direct marketing.
 
-**Security and Protection Your Personal Data**
+ **Security and Protection Your Personal Data**
 
 All personal data you provide to us is secured on our website with restricted access by authorized personnel only. We maintain appropriate administrative, technical and physical safeguards to protect the personal data you provide to us against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing
 
 The Site may contain hyperlinks to other websites provided by third parties. We do not control these third party websites or any of the content contained on those websites. Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you visit.
 
-**Personal Information Collection Statement (“PICS”)**
+ **Personal Information Collection Statement (“PICS”)**
 
 As a Watsons customer, it may be necessary for you to provide us with your Personal Data when you apply to us and / or continue to subscribe with us for a service and / or product ("Services"). If your Personal Data is incomplete or incorrect, we may not be able to provide or continue to provide the Services to you.
 
@@ -94,7 +94,7 @@ Please note that we cannot so use your Personal Data unless we have received you
 
 We may disclose and transfer (whether in Singapore, or Hong Kong or other countries in which we/our subsidiaries and affiliates operate)) to our agents  or contractors under a duty of confidentiality to us who provide administrative, data processing, research and marketing, distribution, telecommunications, professional or other similar services to us and to any of our actual or proposed assignees or transferees of our rights with respect to you in connection with a merger, sale or transfer (whether of assets or shares), to use, hold, process or retain such Personal Data for the purposes mentioned in paragraphs [6.4 and 6.5] above on our behalf.
 
-**Access to and Correction of Information**
+ **Access to and Correction of Information**
 
 You have the right to:
 
@@ -116,7 +116,7 @@ Any requests in relation to the above shall be in writing (sent by post or email
 
 Name: Lai Mei Ling
 
-Email: [dpo@watsons.com.sg](mailto:dpo@watsons.com.sg)
+Email: [dpo@watsons.com.sg](mailto:dpo@watsons.com.sg)
 
 Address: 80 Anson Road, #10-00 Fuji Xerox Building, Singapore 079907
 
