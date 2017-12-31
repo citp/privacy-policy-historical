@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majestic.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630203806id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231042619id_/https%3A//majestic.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Majestic
 
