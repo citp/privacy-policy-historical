@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwa.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629183748id_/https%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwa.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231024218id_/https%3A//www.delta.com/content/www/en_US/privacy-and-security.html) for the most accurate reproduction.*
 
 # Cookies, Privacy & Security : Delta Air Lines
 
