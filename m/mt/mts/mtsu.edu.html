@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mtsu.edu privacy policy that was archived on 2017-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170531174835id_/http%3A//www.mtsu.edu/policies/general-policies/I-03-05.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mtsu.edu privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231225852id_/http%3A//www.mtsu.edu/policies/general/121.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,7 +7,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=Edge">
       <meta name="robots" content="all">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>I:03:05 Privacy of Information | Middle Tennessee State University</title>
+      <title>121 | Middle Tennessee State University</title>
       		
       <!-- com.omniupdate.properties -->
       		
@@ -20,7 +20,7 @@
       <!--STYLESHEETS ====================================================-->
       <link type="text/css" rel="stylesheet" href="/_resources/css/bootstrap.css">
       <link type="text/css" rel="stylesheet" href="/_resources/css/full-base.css">
-      <link type="text/css" rel="stylesheet" href="/_resources/css/full-styles.css?ver=170118">
+      <link type="text/css" rel="stylesheet" href="/_resources/css/full-styles.css?ver=170321">
       <link type="text/css" rel="stylesheet" href="/_resources/fonts/stylesheet.css">
       <link type="text/css" rel="stylesheet" href="/_resources/css/onestop_styles.css">
       <link type="text/css" rel="stylesheet" href="/_resources/css/flexslider-full.css?ver=170118">
@@ -28,7 +28,10 @@
       <link type="text/css" rel="stylesheet" href="/_resources/fonts/glyphicons-halflings-regular.svg">
       <link type="text/css" rel="stylesheet" href="/_resources/fonts/glyphicons-halflings-regular.ttf">
       <link type="text/css" rel="stylesheet" href="/_resources/fonts/glyphicons-halflings-regular.woff">
-      <!--SCRIPTS ====================================================--><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T3P5VX"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.0.min.js" integrity="sha256-nxdiQ4FdTm28eUNNQIJz5JodTMCF5/l32g5LwfUwZUo=" crossorigin="anonymous"></script><script type="text/javascript" src="/_resources/scripts/jquery.flexslider.js"></script><script type="text/javascript" src="/_resources/scripts/js_faculty_asset.js"></script><script type="text/javascript" src="/_resources/js/megamenu_plugins.js" charset="utf-8"></script><script type="text/javascript" src="/_resources/js/megamenu.js" charset="utf-8"></script><script type="text/javascript" src="/_resources/scripts/lefthandnavigation.js" charset="utf-8"></script><script type="text/javascript" src="/_resources/scripts/menu_jquery.js"></script><script type="text/javascript" src="/_resources/js/bootstrap.min.js"></script><script type="text/javascript" charset="utf-8">
+      <link type="text/css" rel="stylesheet" href="/_resources/css/font-awesome.css">
+      <link rel="stylesheet" type="text/css" href="/_resources/css/jquery.dataTables.css">
+      <link rel="stylesheet" type="text/css" href="/_resources/css/responsive.dataTables.min.css">
+      <!--SCRIPTS ====================================================--><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T3P5VX"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.0.min.js" integrity="sha256-nxdiQ4FdTm28eUNNQIJz5JodTMCF5/l32g5LwfUwZUo=" crossorigin="anonymous"></script><script type="text/javascript" src="/_resources/scripts/jquery.flexslider.js"></script><script type="text/javascript" src="/_resources/scripts/js_faculty_asset.js"></script><script type="text/javascript" src="/_resources/js/megamenu_plugins.js" charset="utf-8"></script><script type="text/javascript" src="/_resources/js/megamenu.js" charset="utf-8"></script><script type="text/javascript" src="/_resources/scripts/lefthandnavigation.js" charset="utf-8"></script><script type="text/javascript" src="/_resources/scripts/menu_jquery.js"></script><script type="text/javascript" src="/_resources/js/bootstrap.min.js"></script><script type="text/javascript" charset="utf8" src="/_resources/scripts/jquery.dataTables.js"></script><script type="text/javascript" charset="utf8" src="/_resources/scripts/dataTables.responsive.min.js"></script><script type="text/javascript" charset="utf-8">
 						$( document ).ready(function() {
 						$('.flexslider').flexslider();
 						});
@@ -40,9 +43,26 @@
 					});
 				</script><script type="text/javascript">
 					jQuery(function($){
-					$('#department_nav a').filter(function(){
-					return $(this).attr('href').toLowerCase() === window.location.pathname.toLowerCase();
-					}).addClass('active');
+					
+						$('#department_nav a').each(function(){
+							if ($(this).attr('href').toLowerCase() === window.location.pathname.toLowerCase()){
+								$(this).addClass('active');
+								var obj = $(this).parent('li');
+								if ($(obj).hasClass('haschild')){
+									$(obj).find('.spanarrowdown').addClass('spanarrowup').removeClass('spanarrowdown');
+									$(obj).find('.hide-nav').removeClass('hide-nav');
+									
+								} else {
+									$(obj).parent('ul').removeClass('hide-nav').parent('.haschild').find('.spanarrowdown').addClass('spanarrowup').removeClass('spanarrowdown');
+								}
+							}
+						});
+					
+					/*
+						$('#department_nav a').filter(function(){
+							return $(this).attr('href').toLowerCase() === window.location.pathname.toLowerCase();
+						}).addClass('active').parent('li').parent('ul').removeClass('hide-nav').parent('.haschild').find('.spanarrowdown').addClass('spanarrowup').removeClass('spanarrowdown');
+					*/
 					});
 				</script><script type="text/javascript">
 					// DOM ready
@@ -64,7 +84,31 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-T3P5VX');</script><div class="Alert">
-         <!-- com.omniupdate.div label="alert" path="/components/alert.inc" -->         <!-- /com.omniupdate.div -->
+         <!-- com.omniupdate.div label="alert" path="/components/alert.inc" -->
+<script type="text/javascript">
+$(document).ready(function() {
+    var feed = "https://www.getrave.com/rss/mtsu/channel1";
+    $.ajax(feed, {
+        accepts:{
+            xml:"application/rss+xml"
+        },
+        dataType:"xml",
+        success:function(data) {
+            var xmlCount = 0;
+            $(data).find('item').each(function(){
+                if (!xmlCount) {
+                    xmlCount++;
+					var alertText = $(this).find('description').text();
+                    if (alertText.indexOf('MTSU ALERT') > -1) {
+                        $('.Alert').append(alertText);
+                    }
+                }
+            });
+        }
+    });
+});
+</script>
+         <!-- /com.omniupdate.div -->
       </div>
       <div class="container-fluid">
          <!--BEGIN HEADER TEMPLATE CALL ====================================================-->
@@ -236,27 +280,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
 											<li><a href="/maps/">Campus Maps</a></li>
 											<li><a href="/alert4u/index.php">Campus Safety</a></li>
 											<li><a href="/contact.php">Contact Us</a></li>
-											<li><a href="https://elearn.mtsu.edu/" target="_blank">D2L</a></li>
+											<li><a href="https://elearn.mtsu.edu/d2l/lp/auth/saml/login" target="_blank">D2L</a></li>
+											<li><a href="/faqs.php">FAQs</a></li>											
 										</ul>
 									</div><!-- end col-4 -->
 									<div class="col-sm-4">
 										<ul class="list_unstyled">
-											<li><a href="/faqs.php">FAQs</a></li>
 											<li><a href="/development/foundation.php">Give 2 MTSU</a></li>
-											<li><a href="http://www.mtsu.edu/information/">Important Disclosure Information</a></li>
+											<li><a href="/information/">Important Disclosure Information</a></li>
 											<li><a href="https://mtsujobs.mtsu.edu">Jobs at MTSU</a></li>
 											<li><a href="http://library.mtsu.edu/" target="_blank">Library</a></li>
 											<li><a href="http://www.mtalumni.com/s/1092/start.aspx" target="_blank">MTSU Alumni</a></li>
 											<li><a href="/one-stop/">MT One Stop</a></li>
+											<li><a href="http://mtsunews.com/" target="_blank">MTSUNews.com</a></li>
+											<li><a href="/policies/general/121.php">Privacy Policy</a></li>
+											
 										</ul>
 									</div><!-- end col-4 -->
 									<div class="col-sm-4">
 										<ul class="list_unstyled">
-											<li><a href="http://mtsunews.com/" target="_blank">MTSUNews.com</a></li>
-											<li><a href="/policies/general-policies/I-03-05.php">Privacy Policy</a></li>
 											<li><a href="/centers/index.php">Research Centers</a></li>
 											<li><a href="/resources/index.php">Resources</a></li>
-											<li><a href="http://mtsu.edu/scorecard/" target="_blank">Scorecard</a></li>
+											<li><a href="https://mtsu.campus.eab.com" target="_blank">Schedule an Advising Appointment</a></li>
+											<li><a href="/scorecard/" target="_blank">Scorecard</a></li>
+											<li><a href="https://mtsu.campus.eab.com" target="_blank">SSC Campus</a></li>
+											
 											<li><a href="http://www.tntransferpathway.org/" target="_blank">Tennessee Transfer</a></li>
 											<li><a href="/police/index.php">University Police</a></li>
 										</ul>
@@ -310,21 +358,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
 <li><a href="/policies/index.php">Home</a></li>
 <li>Policies
 <ul>
-<li><a href="/policies/general-policies/">General (University-Wide)</a></li>
-<li><a href="/policies/academic-affairs/">Academic Affairs</a></li>
-<li><a href="/policies/student-affairs/">Student Affairs</a></li>
-<li><a href="/policies/business-and-finance/">Business and Finance</a></li>
-<li><a href="/policies/development/">Development</a></li>
+<li><a title="0-99" href="/policies/governance-and-compliance/index.php">(000-099) Governance and Compliance</a></li>
+<li><a title="100-199" href="/policies/general/index.php">(100-199) General</a></li>
+<li><a title="200-299" href="/policies/academic-affairs-institution-and-faculty/index.php">(200-299) Academic Affairs - Institution and Faculty</a></li>
+<li><a title="300-399" href="/policies/academic-affairs-students/index.php">(300-399) Academic Affairs - Students</a></li>
+<li><a title="400-499" href="/policies/research/index.php">(400-499) Research</a></li>
+<li><a title="500-599" href="/policies/student-affairs/index.php">(500-599) Student Affairs</a></li>
+<li><a title="600-699" href="/policies/business-and-finance/index.php">(600-699) Business and Finance</a></li>
+<li><a title="700-799" href="/policies/campus-health-safety-security/index.php">(700-799) Campus Health, Safety, and Security</a></li>
+<li><a title="800-899" href="/policies/personnel/index.php">(800-899) Personnel</a></li>
+<li><a title="900-999" href="/policies/information-technology/index.php">(900-999) Information Technology</a></li>
+<li><a title="A-Z Listing of Policies" href="/policies/alphabetical-listing.php">All Policies (Alphabetical Order)</a></li>
 </ul>
 </li>
-<li><a href="/policies/recent.php">Recently Approved / Updated</a></li>
+<li><a href="/policies/recent.php">Recently Approved/Updated</a></li>
 <li><a href="/policies/pending/index.php">Pending Policies</a></li>
-<li><a title="I:01:01" href="/policies/general-policies/I-01-01.php">Preparing Policies and Procedures</a></li>
-<li><a title="I:01:02" href="/policies/general-policies/I-01-02.php">University Standing Committees</a></li>
-<li><a href="https://policies.tbr.edu/" target="_blank">TBR Policies and Guidelines</a></li>
-<li><a href="/ouc/" target="_blank">Office of THE University Counsel</a></li>
-</ul>
-                           <!-- /com.omniupdate.div -->
+<li><a href="/policies/governance-and-compliance/030.php">Preparing Policies</a></li>
+<li><a href="/policies/governance-and-compliance/032.php">University Standing Committees</a></li>
+<li><a href="/ouc/">Office of the University Counsel<br><br></a></li>
+<li><a title="BOT Policies" href="http://mtsu.edu/boardoftrustees/policies.php" target="_blank">Board of Trustees Policies</a></li>
+</ul>                           <!-- /com.omniupdate.div -->
                         </div>
                      </nav>
                   </div>
@@ -337,8 +390,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                   <h1>
                      		
                      <!-- ouc:div label="program_title" group="Everyone" button="707" button-text="Heading" break="break" -->
-                     <!-- ouc:editor csspath="/_resources/ou/editor/header.css" cssmenu="/_resources/ou/editor/content.txt" toolbar="SaveOnly" width="955"/ -->
-                     <p class="p1">I:03:05 Privacy of Information</p>
+                     <!-- ouc:editor toolbar="SaveOnly" csspath="/_resources/ou/editor/header.css" cssmenu="/_resources/ou/editor/content.txt" width="955"/ -->121 &nbsp;Privacy of Information
                      <!-- /ouc:div -->
                      	
                   </h1>
@@ -349,17 +401,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                   		
                   <!-- ouc:div label="main_content" group="Everyone" button="707" button-text="Main Content" break="break" -->
                   <!-- ouc:editor csspath="/_resources/ou/editor/header.css" cssmenu="/_resources/ou/editor/content.txt" width="955"/ -->
-                  <p><strong>&nbsp;I.&nbsp;PURPOSE</strong></p>
+                  <p><strong>Approved by President </strong><strong><br> Effective Date: June 5, 2017<br>Responsible Division: &nbsp;President<strong><br> <strong>Responsible Office: &nbsp;Office of the University Counsel</strong><br> <strong>Responsible Officer:&nbsp; University Counsel</strong></strong><br></strong></p>
                   
-                  <p>The purpose of this policy is to establish principles to guide the evolution of Middle
-                     Tennessee State University (MTSU) community standards of information privacy. This
-                     is a first step to clarify the level and protection of information privacy that may
-                     be expected by students/potential students, University employees, and outside persons
+                  <p><strong>I.</strong>&nbsp;<strong>Purpose</strong></p>
+                  
+                  <p>This policy establishes principles to guide the evolution of Middle Tennessee State
+                     University (MTSU or University) community standards of information privacy. This is
+                     a first step to clarify the level and protection of information privacy that may be
+                     expected by students/potential students, University employees, and outside persons
                      who have relationships with MTSU. This policy is intended to be flexible and independent
                      of current definitions or concepts of technology and to rely on common sense and a
                      culture supportive of mutual respect. While consideration has been given to the unique
-                     qualities of electronic information, this document reflects the reasoning that the
-                     core value of privacy is not confined to any information medium.
+                     qualities of electronic information, this policy reflects the reasoning that the core
+                     value of privacy is not confined to any information medium.
                   </p>
                   
                   <p>While recognizing that other MTSU policies address some privacy issues, primarily
@@ -367,17 +421,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      that:
                   </p>
                   
-                  <p style="padding-left: 30px;">A. A sharper focus is given to the University’s values and beliefs related to information
+                  <p style="padding-left: 30px;">A. &nbsp;A sharper focus is given to the University’s values and beliefs related to information
                      privacy.
                   </p>
                   
-                  <p style="padding-left: 30px;">B. The expectations for maintaining information privacy are provided for University
+                  <p style="padding-left: 30px;">B. &nbsp;The expectations for maintaining information privacy are provided for University
                      employees and students.
                   </p>
                   
-                  <p style="padding-left: 30px;">C. Information privacy guidelines are provided for University employees and students.</p>
+                  <p style="padding-left: 30px;">C. &nbsp;Information privacy guidelines are provided for University employees and students.</p>
                   
-                  <p><strong>&nbsp;II.&nbsp;UNIVERSITY VALUES AND BELIEFS</strong></p>
+                  <p><strong>II. University Values and Beliefs</strong></p>
                   
                   <p>Where discretionary considerations are possible, a balanced approach to resolving
                      conflicts between privacy and other values must incorporate the perspectives of the
@@ -385,7 +439,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      the protection of individual privacy.
                   </p>
                   
-                  <p style="padding-left: 30px;">A. Institutional Perspective: MTSU must not be unduly constrained with respect to
+                  <p style="padding-left: 30px;">A. &nbsp;Institutional Perspective. MTSU must not be unduly constrained with respect to
                      administrative efficiency in the enforcement of policies related to information privacy.
                      Considering the mission, internal control of information, and external mandates governing
                      information collection and use, each organizational unit to which privacy issues are
@@ -395,7 +449,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      increasing the level of learning and trust regarding information privacy issues.
                   </p>
                   
-                  <p style="padding-left: 30px;">B. Ethical Stewardship as a Collective Responsibility: We are ethically obligated
+                  <p style="padding-left: 30px;">B. &nbsp;Ethical Stewardship as a Collective Responsibility. We are ethically obligated
                      to respect the privacy of others and to adhere to a reasonable standard of conduct
                      that supports this collective respect. For example, when employees gain unintentional
                      access to information that a reasonable person would consider private, personal, or
@@ -404,7 +458,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      the information to the intended recipient or owner.
                   </p>
                   
-                  <p style="padding-left: 30px;">C. The Individual’s Right to Know: While most employment-related records are public,
+                  <p style="padding-left: 30px;">C. &nbsp;The Individual’s Right to Know. While most employment related records are public,
                      even confidential records can be accessed under certain conditions. Therefore, information
                      in any form should be presumed capable of acquisition by others for purposes not related
                      to the original creation of that information. In most instances, employees of MTSU
@@ -412,53 +466,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      by parties external to MTSU, or are under review by MTSU officials or administrators
                      who do not manage the information as part of their official duties. In such instances
                      where it is administratively practical, the employees should be notified by email,
-                     phone call or other means. Additionally, the Office of Human Resource Services will
-                     maintain records of all requests for employee public information when such requests
-                     are made by vendors or others for a business or commercial purpose. While most student-related
-                     records are private, even confidential records can be accessed under certain conditions.
-                     In most instances, students will be notified of the compliance with judicial order
-                     or subpoena by parties external to MTSU.
+                     phone call, or other means. Additionally, the Office of Human Resource Services (HRS)
+                     will maintain records of all requests for employee public information. Records of
+                     requests for access are not made when the request is from University personnel as
+                     part of their job responsibilities. While most student related records are private,
+                     even confidential records can be accessed under certain conditions, such as through
+                     a judicial order or subpoena. In most instances, students will be notified of the
+                     compliance with a judicial order or subpoena by parties external to MTSU.
                   </p>
                   
-                  <p><strong>III. STUDENT AND EMPLOYEE RECORDS</strong></p>
+                  <p><strong>III. Student and Employee Records</strong></p>
                   
-                  <p style="padding-left: 30px;">A. Student Records: With regard to students’ educational records, MTSU adheres to
-                     the federal Family Educational Rights and Privacy Act of 1974 (“FERPA”). <a href="/policies/student-affairs/III-00-01.php">MTSU Policy III:00:01 Access to Educational Records</a> and FERPA provide students with the right to inspect and review education records,
+                  <p style="padding-left: 30px;">A. &nbsp;Student Records. With regard to students’ education records, MTSU adheres to the
+                     federal Family Educational Rights and Privacy Act of 1974 (FERPA). <a title="500" href="/policies/student-affairs/500.php" target="_blank">Policy 500 Access to Education Records</a> and FERPA provide students with the right to inspect and review education records,
                      the right to seek to amend these records, and to limit disclosure of information from
                      the records.
                   </p>
                   
-                  <p style="padding-left: 60px;">1. The release of student information in any medium (including the internet), therefore,
-                     should be done only in accordance with FERPA and <a href="/policies/student-affairs/III-00-01.php">MTSU Policy III:00:01</a>.
+                  <p style="padding-left: 30px;">Therefore, the release of student information in any medium, including the internet,
+                     should be done only in accordance with FERPA and <a title="500" href="/policies/student-affairs/500.php" target="_blank">Policy 500 Access to Education Records</a>.
                   </p>
                   
-                  <p style="padding-left: 90px;">a. Students have the right to restrict release of directory information as outlined
-                     in MTSU Policy III:00:01.
+                  <p style="padding-left: 60px;">1. &nbsp;Students have the right to restrict release of directory information as outlined
+                     in <a title="500" href="/policies/student-affairs/500.php" target="_blank">Policy 500 Access to Education Records</a>.
                   </p>
                   
-                  <p style="padding-left: 90px;">b. Records are retained in accordance with <a title="G-070" href="https://policies.tbr.edu/guidelines/records-retention-and-disposal-records" target="_blank">Tennessee Board of Regents Guideline G-070</a> and the American Association of Collegiate Registrars and Admissions Officers (AACRAO)
+                  <p style="padding-left: 60px;">2. &nbsp;Records are retained in accordance with <a title="129" href="/policies/general/129.php" target="_blank">Policy 129 Records Retention and Disposal of Records</a> and the American Association of Collegiate Registrars and Admissions Officers (AACRAO)
                      guidelines.
                   </p>
                   
-                  <p style="padding-left: 30px;">B. Employee Records: The Office of Human Resource Services maintains the official
-                     personnel files for the employees, except faculty. Official faculty personnel files
-                     are maintained in the Provost Office. <a href="/policies/business-and-finance/IV-07-17.php">See MTSU Policy IV:07:17 Personnel Records</a>. With the exception of records that include medical information or other confidential
-                     information, all Human Resource Services information is public and accessibility is
-                     granted in compliance with <a href="/policies/general-policies/I-03-01.php">MTSU Policy I:03:01 Public Records – Inspecting/Copying Public Records</a>.
+                  <p style="padding-left: 30px;">B. &nbsp;Employee and Faculty Records. HRS&nbsp;maintains the official personnel files for MTSU
+                     employees. Official faculty personnel files are maintained in the Office of the Provost.
+                     See <a title="811" href="/policies/personnel/811.php" target="_blank">Policy 811 Personnel Records</a>. With the exception of records specifically deemed confidential by statute, all employee
+                     and faculty personnel information is public and accessibility is granted in compliance
+                     with <a title="120" href="/policies/general/120.php" target="_blank">Policy 120 Public Records – Inspecting and Copying</a>.
                   </p>
                   
-                  <p><strong>IV. WEB AND SOCIAL MEDIA SITES</strong></p>
+                  <p><strong>IV. Web and Social Media Sites</strong></p>
                   
                   <p>MTSU respects the privacy of its students, employees, and other constituents and is
                      committed to ensuring that any personal or confidential information that is collected
-                     is kept accurate and secure from unauthorized access. The University's campus homepage,
-                     and any other campus website linking to this page, does not collect personal information
-                     about visitors. MTSU may, however, use third party analytics services that may use
-                     browser cookies to anonymously collect and track site usage information. This information
-                     is then analyzed as an aggregate and no personally identifiable information is collected.
+                     is kept accurate and secure from unauthorized access. MTSU may use third party analytics
+                     services that may use browser cookies to anonymously collect and track site usage
+                     information. This information is then analyzed as an aggregate and no personally identifiable
+                     information is collected.
                   </p>
                   
-                  <p style="padding-left: 30px;">A. Scope: This section applies to the MTSU campus homepage and MTSU officially sponsored
+                  <p style="padding-left: 30px;">A. &nbsp;Scope. This section applies to the University homepage and officially sponsored
                      social media sites or groups, including <a href="http://www.mtsu.edu">http://www.mtsu.edu</a> and any other official MTSU site. Since the MTSU web community consists of many websites,
                      other websites may adopt more restrictive privacy and security statements as their
                      specific needs require. The MTSU homepage, as well as other sites across campus, contain
@@ -466,64 +520,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      and security practices or the content of external websites.
                   </p>
                   
-                  <p style="padding-left: 30px;">B. Information Gathered by MTSU</p>
+                  <p style="padding-left: 30px;">B. &nbsp;Information Gathered by MTSU.</p>
                   
-                  <p style="padding-left: 60px;">1. Personal information provided via email or through other online means will be used
-                     only for purposes necessary to serve the needs of the person providing that information,
+                  <p style="padding-left: 60px;">1. &nbsp;Personal information provided via email or through other online means will be
+                     used only for purposes necessary to serve the needs of the person providing that information,
                      such as responding to an inquiry or other request for information. This may involve
                      redirecting your inquiry or comment to another person or department better suited
                      to meeting the inquirer’s needs.
                   </p>
                   
-                  <p style="padding-left: 60px;">2. MTSU’s website does use server logs to collect information concerning user’s internet
+                  <p style="padding-left: 60px;">2. &nbsp;MTSU’s website does use server logs to collect information concerning users’ internet
                      connection and general information about their visit to MTSU’s website. This information
                      may be used to analyze trends, to create summary statistics for the purpose of determining
                      technical design specifications, and to identify system performance or problem areas.
-                     This means we sometimes acquire, record, and analyze portions of the data that is
-                     entered into, stored on, and/or transmitted through this site by the user. This information
-                     is only released to the extent allowed or required by applicable law.
+                     This means the University sometimes acquires, records, and analyzes portions of the
+                     data that is entered into, stored on, and/or transmitted through this site by the
+                     user. This information is only released to the extent allowed or required by applicable
+                     law.
                   </p>
                   
-                  <p style="padding-left: 60px;">3. Such logging includes, but is not limited to:</p>
+                  <p style="padding-left: 60px;">3. &nbsp;Such logging includes, but is not limited to:</p>
                   
-                  <p style="padding-left: 90px;">a.&nbsp;Hostname - The hostname and/or IP address of the user/client requesting access.</p>
+                  <p style="padding-left: 90px;">a. &nbsp;Hostname. The hostname and/or IP address of the user/client requesting access.</p>
                   
-                  <p style="padding-left: 90px;">b. HTTP header, "user-agent" - The user-agent information includes the type of browser,
-                     its version, and the operating system it is running on.
-                  </p>
+                  <p style="padding-left: 90px;">b. &nbsp;System date. The date and time of the user/client request.</p>
                   
-                  <p style="padding-left: 90px;">c. HTTP header, "referrer" - The referrer specifies the page from which the client
-                     accessed the current page.
-                  </p>
+                  <p style="padding-left: 90px;">c. &nbsp;Full request. &nbsp;The exact request the user/client made.</p>
                   
-                  <p style="padding-left: 90px;">d. System date - The date and time of the user/client request.</p>
+                  <p style="padding-left: 90px;">d. &nbsp;Status. The status code the server returned to the user/client.</p>
                   
-                  <p style="padding-left: 90px;">e. Full request - The exact request the user/client made.</p>
+                  <p style="padding-left: 90px;">e. &nbsp;Content length. The content length, in bytes, of the document sent to the user/client.</p>
                   
-                  <p style="padding-left: 90px;">f. Status - The status code the server returned to the user/client.</p>
+                  <p style="padding-left: 90px;">f. &nbsp;Method. The request method used.</p>
                   
-                  <p style="padding-left: 90px;">g. Content length - The content length, in bytes, of the document sent to the user/client.</p>
+                  <p style="padding-left: 90px;">g. &nbsp;Universal Resource Identifier (URI). The location of a resource on the server.</p>
                   
-                  <p style="padding-left: 90px;">h. Method - The request method used.</p>
+                  <p style="padding-left: 90px;">h. &nbsp;Query string of the URI. Anything after the question mark in a URI.</p>
                   
-                  <p style="padding-left: 90px;">i. Universal Resource Identifier (URI) - The location of a resource on the server.</p>
+                  <p style="padding-left: 90px;">i. &nbsp;Protocol. The transport protocol and version used.</p>
                   
-                  <p style="padding-left: 90px;">j. Query string of the URI - Anything after the question mark in a URI.</p>
-                  
-                  <p style="padding-left: 90px;">k. Protocol - The transport protocol and version used.</p>
-                  
-                  <p style="padding-left: 90px;">l. E-mail address – In some cases, the e-mail address of the intended recipient of
+                  <p style="padding-left: 90px;">j. &nbsp;E-mail address. In some cases, the e-mail address of the intended recipient of
                      an e-mail may be logged when a link is accessed inside of an e-mail.
                   </p>
                   
-                  <p style="padding-left: 30px;">C. Cookies: A cookie file contains unique information that a website can use to track
-                     such things as passwords, pages the users has visited, the date the user last looked
+                  <p style="padding-left: 30px;">C. &nbsp;Cookies. A cookie file contains unique information that a website can use to track
+                     such things as passwords, pages the users have visited, the date the user last looked
                      at a specific page, and to identify the user’s session at a particular website. MTSU
-                     does not use cookies to track or collect any information that could personally identify
-                     individual visitors.
+                     does not use cookies to collect any information that could personally identify individual
+                     visitors.
                   </p>
                   
-                  <p style="padding-left: 30px;">D. E-Commerce: Some MTSU web sites may enable you to pay for products or services
+                  <p style="padding-left: 30px;">D. &nbsp;E-Commerce. Some MTSU web sites may enable you to pay for products or services
                      online with a credit card or other electronic payment mechanism. Unless otherwise
                      noted, these transactions are encrypted. It is MTSU’s practice that confidential financial
                      information will be used only for the purposes described in that transaction unless
@@ -532,89 +579,81 @@ j=d.createElement(s),dl=l!='dataLayer'?'&='+l:'';j.async=true;j.src=
                      for a reasonable time to effect the transaction.
                   </p>
                   
-                  <p style="padding-left: 30px;">E. Access to Information: Except for education records governed by FERPA, all information
-                     collected from any MTSU website or social media group, including summary server log
-                     information, emails sent to the website or group, and information collected from web-based
-                     forms, may be subject to state and federal laws. This means that while MTSU does not
-                     actively share information, in some cases it may be compelled by law to release information
-                     gathered from its web servers or social media groups.
+                  <p style="padding-left: 30px;">E. &nbsp;Access to Information. Information collected from any MTSU website or social media
+                     group, including summary server log information, emails sent to the website or group,
+                     and information collected from web-based forms, may be subject to state and federal
+                     laws. This means that while MTSU does not actively share information, in some cases
+                     it may be compelled by law to release information gathered from its web servers or
+                     social media groups.
                   </p>
                   
-                  <p style="padding-left: 30px;">F. Information Usage: In the course of using the websites or social media groups,
-                     you may choose to provide information to the University via web forms, e-mail or other
-                     electronic means. Personally identifiable information submitted will be used only
-                     for MTSU related purposes. MTSU will not sell this data to outside parties. Requests
+                  <p style="padding-left: 30px;">F. &nbsp;Information Usage. In the course of using the websites or social media groups,
+                     you may choose to provide information to the University via web forms, e-mail, or
+                     other electronic means. Personally identifiable information submitted will be used
+                     only for MTSU related purposes. MTSU will not sell this data to outside parties. Requests
                      for information and information submitted via forms on websites or social media groups
                      will be directed to the appropriate staff to respond to those requests and may be
                      recorded to help us improve our site to better respond to similar requests. MTSU may
                      use this information in any investigation of a potential violation of MTSU policies
-                     and procedures or as required by federal, state or local law.
+                     and procedures or as required by federal, state, or local law.
                   </p>
                   
-                  <p style="padding-left: 30px;">G. Security: Extensive security measures have been employed to protect against unauthorized
+                  <p style="padding-left: 30px;">G. &nbsp;Security. Extensive security measures have been employed to protect against unauthorized
                      access, disclosure, modification, or destruction of information under our control,
-                     as well as the loss, misuse, or alteration of university websites, social media sites
+                     as well as the loss, misuse, or alteration of University websites, social media sites,
                      and/or associated electronic information resources.
                   </p>
                   
-                  <p style="padding-left: 30px;">H. Contractors/Outsourced Development: Any entity contracted to develop or provide
-                     web or social media services is bound by and must follow MTSU’s Privacy of Information
-                     Policy and MTSU Policy I:03:06 Information Security Policy, as well as all applicable
-                     University policies in order to protect personally identifiable information (PII).
+                  <p style="padding-left: 30px;">H. &nbsp;Contractors/Outsourced Development. Any entity contracted to develop or provide
+                     web or social media services is bound by and must follow this policy and <a title="920" href="/policies/information-technology/920.php" target="_blank">Policy 920 Information Security</a>, as well as all applicable University policies, in order to protect personally identifiable
+                     information (PII).
                   </p>
                   
-                  <p style="padding-left: 30px;">I. Google Analytics: Some MTSU websites use Google Analytics, a web analytics service
-                     provided by Google, Inc. Google Analytics uses cookies to collect information such
-                     as URLs, internet domain and host names, browser software, and the date and time that
-                     the site is visited. This information is used to monitor the effectiveness of the
-                     website and to consider potential improvements to the website. The information is
-                     non-personal and is transmitted to and stored by Google on its servers. MTSU does
-                     not share any specific information about a particular user. Please visit the following
-                     pages for more information on <a href="http://www.google.com/intl/en/policies/terms/">Google Analytics Terms of Use</a>, <a href="http://www.google.com/policies/privacy/">Google's Privacy Practices</a>, and <a href="https://support.google.com/analytics/answer/181881?hl=en">Google Analytics opt-out browser add-on</a>.
+                  <p style="padding-left: 30px;">I. &nbsp;Web Analytics. Some MTSU websites use a third-party web analytics service to collect
+                     information such as URLs, internet domain and host names, browser software, and the
+                     date and time that the site is visited. This information is used to monitor the effectiveness
+                     of the website and to consider potential improvements to the website. The information
+                     is non-personal and is transmitted to and stored by the third party on its servers.
+                     MTSU does not share any specific information about a particular user. More information
+                     on web analytics is available by contacting the <a href="/itd/" target="_blank">Information Technology Division</a>.
                   </p>
                   
-                  <p><strong>V.&nbsp;ADDITIONAL PRIVACY-RELATED POLICIES</strong></p>
+                  <p><strong>V.</strong> <strong>Additional Privacy-Related Policies</strong></p>
                   
                   <p>Several current MTSU policies are directly or indirectly related to information privacy
                      issues, illustrating the nature and complexity of the topic. These include the following:
                   </p>
                   
-                  <p style="padding-left: 30px;">A.&nbsp;<a href="/policies/general-policies/I-01-24.php">I:01:24 Protection of Human Subjects in Research</a></p>
+                  <p style="padding-left: 30px;">A. <a title="150" href="/policies/general/150.php" target="_blank">Policy 150 Social Networking and Media</a></p>
                   
-                  <p style="padding-left: 30px;">B.&nbsp;<a href="/policies/general-policies/I-03-03.php">I:03:03 Information Technology Resources</a></p>
+                  <p style="padding-left: 30px;">B. <a title="211" href="/policies/academic-affairs-institution-and-faculty/211.php" target="_blank">Policy 211 Misconduct in Scholarly Activities and Research</a></p>
                   
-                  <p style="padding-left: 30px;">C.&nbsp;<a title="I:03:06" href="/policies/general-policies/I-03-06.php">I:03:06 Information Security</a></p>
+                  <p style="padding-left: 30px;">C. <a title="402" href="/policies/research/402.php" target="_blank">Policy 402 Protection of Human Subjects in Research</a></p>
                   
-                  <p style="padding-left: 30px;">D.&nbsp;<a href="/policies/general-policies/I-03-10.php">I:03:10 Social Networking and Media</a></p>
+                  <p style="padding-left: 30px;">D. <a title="910" href="/policies/information-technology/910.php" target="_blank">Policy 910 Information Technology Resources</a></p>
                   
-                  <p style="padding-left: 30px;">E.&nbsp;<a href="/policies/academic-affairs/II-01-10.php">II:01:10 Misconduct in Scholarly Activities and Research</a></p>
+                  <p style="padding-left: 30px;">E. <a title="920" href="/policies/information-technology/920.php" target="_blank">Policy 920&nbsp;Information Security</a></p>
                   
-                  <p style="padding-left: 30px;">F.&nbsp;<a href="/policies/student-affairs/III-04-00.php">III:04:00 Guidance and Counseling Center</a></p>
-                  
-                  <p style="padding-left: 30px;">G.&nbsp;<a href="/policies/business-and-finance/IV-07-02.php">IV:07:02 Conditions of Employment</a></p>
-                  
-                  <p><strong>VI. &nbsp;DISCIPLINARY ACTIONS</strong></p>
+                  <p><strong>VI</strong>.&nbsp;<strong>Disciplinary Actions</strong></p>
                   
                   <p>Employees who access files or browse data of others, or access any information technology
                      resources for personal gratification or unauthorized dissemination of information
                      obtained from these resources, may have violated the privacy of others. If so, such
                      behaviors are subject to disciplinary actions that are in proportion to the nature
-                     of the offense. MTSU Policy <a href="/policies/business-and-finance/IV-07-10.php">IV:07:10 Disciplinary Procedures – Classified Personnel</a> and <a href="/policies/academic-affairs/II-01-05A.php">II:01:05A Policies and Procedures for Tenure</a> prescribe disciplinary actions and processes. In cases where employees dispute a
-                     charge, they may respond based on MTSU Policies&nbsp; <a href="/policies/business-and-finance/IV-07-11.php">IV:07:11 Employee Grievance/Complaint Procedures</a> or <a href="/policies/academic-affairs/II-01-05C.php">II:01:05C Tenure and Promotion Appeals Process</a>. Refer to the Student Handbook for disciplinary actions regarding students.
+                     of the offense. <a title="851" href="/policies/personnel/851.php" target="_blank">Policy 851 Disciplinary Policy for Administrative and Classified Personnel</a>&nbsp;and <a title="204" href="/policies/academic-affairs-institution-and-faculty/204.php" target="_blank">Policy 204 Tenure</a> prescribe disciplinary actions and processes. In cases where employees dispute a
+                     charge, they may respond based on <a title="852" href="/policies/personnel/852.php" target="_blank">Policies 852 Administrative, Professional and Faculty Grievance or Complaint</a> or <a title="206" href="/policies/academic-affairs-institution-and-faculty/206.php" target="_blank">206 Tenure and Promotion Appeals Process</a>. Refer to<a href="/policies/student-affairs/540.php" target="_blank"> Policy 540 Student Disciplinary Rules</a> for disciplinary actions regarding students.
                   </p>
                   
-                  <p><strong><em>Revision: February 8, 2000; March 16, 2004; March 25, 2015. </em></strong></p>
+                  <p>Forms: none.</p>
                   
-                  <p><strong><em>Cross-references:&nbsp; Family Educational Rights and Privacy Act of 1974; MTSU Policies
-                           III:00:01 Access to Education Records; IV:07:17 Personnel Records; I:03:01 Public
-                           Records-Inspecting/Copying Public Records; I:01:24 Protection of Human Subjects in
-                           Research; I:03:03 Information Technology Resources Policy; I:03:06 Information Security
-                           Policy; I:03:10 Social Networking and Media; II:01:10 Misconduct in Scholarly Activities
-                           and Research; III:04:00 Guidance and Counseling Center; IV:07:02 Conditions of Employment;
-                           IV:07:10 Disciplinary Procedures-Classified Personnel; II:01:05A Policies and Procedures
-                           for Tenure; IV:07:11 Employee Grievance/Complaint Procedure; and II:01:05C Tenure
-                           and Promotion Appeals Process; Tennessee Board of Regents Guideline G-070; American
-                           Association of Collegiate Registrars and Admissions Officers Guidelines.</em></strong></p>
+                  <p>Revisions: none.</p>
+                  
+                  <p>References: Family Educational Rights and Privacy Act of 1974; &nbsp;American Association
+                     of Collegiate Registrars and Admissions Officers Guidelines; Policies 120 Public Records
+                     – Inspecting and Copying; 129 Records Retention and Disposal of Records; 150 Social
+                     Networking and Media<span>; </span>204 Tenure; 206 Tenure and Promotion Appeals Process; 211 Misconduct in Scholarly
+                     Activities and Research; 402 Protection of Human Subjects in Research<span>; </span>500 Access to Education Records<span>; 540 Student Disciplinary Rules;&nbsp;</span>811 Personnel Records; <span>851</span> Disciplinary Policy for Administrative and Classified Personnel<span>; </span>852 Administrative, Professional and Faculty Grievance or Complaint<span>; </span>910 Information Technology Resources; 920 Information Security.
+                  </p>
                   <!-- /ouc:div -->
                   	
                </div>
@@ -650,11 +689,11 @@ var _gaq = _gaq || [];
                <div class="col-sm-6 col-md-pull-4">
                   <!-- com.omniupdate.div label="disclaimer" path="/_resources/includes/disclaimer.inc"--><div class="disclaimer">
 <p>2017, Middle Tennessee State University, 1301 East Main Street, Murfreesboro, TN 37132-0001 USA +1-615-898-2300</p>
-<p>Middle Tennessee State University, in its educational programs and activities involving students and employees, does not discriminate on the basis of race, color, religion, creed, ethnic or national origin, sex, sexual orientation, gender identity/expression, disability, age (as applicable), status as a covered veteran or genetic information.&nbsp;For more information see Middle Tennessee State University. | &nbsp;<a href="/policies/general-policies/I-01-10.php">Nondiscrimination Policy</a></p>
+<p>Middle Tennessee State University, in its educational programs and activities involving students and employees, does not discriminate on the basis of race, color, religion, creed, ethnic or national origin, sex, sexual orientation, gender identity/expression, disability, age (as applicable), status as a covered veteran or genetic information.&nbsp;For more information see Middle Tennessee State University. | &nbsp;<a href="/policies/governance-and-compliance/025.php">Nondiscrimination Policy</a></p>
 </div>
                   <!-- /com.omniupdate.div -->
                   <div id="hidden">
-                     <!-- com.omniupdate.ob --><a id="de" href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=mtsu&amp;site=www&amp;action=de&amp;path=/policies/general-policies/I-03-05.pcf">Last Updated: Feb 2, 2017</a><!-- /com.omniupdate.ob -->
+                     <!-- com.omniupdate.ob --><a id="de" href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=mtsu&amp;site=www&amp;action=de&amp;path=/policies/general/121.pcf">Last Updated: Sep 13, 2017</a><!-- /com.omniupdate.ob -->
                   </div>
                </div>
                <div class="col-sm-1"></div>
