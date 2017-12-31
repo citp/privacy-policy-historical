@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilatesandyogafitness.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211224id_/http%3A//pilatesandyogafitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilatesandyogafitness.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231142628id_/http%3A//pilatesandyogafitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Pilates & Yoga Fitness
 
@@ -65,6 +65,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@pilatesandyogafitness.com](mailto:info@pilatesandyogafitness.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d74737b725d6d74717c69786e7c737964727a7c7b746973786e6e337e7270)
 
 This document was last updated on July 25, 2015
