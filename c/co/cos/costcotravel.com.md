@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628211503id_/http%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costcotravel.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231035611id_/http%3A//www.costco.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Your Privacy Rights | Costco
 
@@ -118,7 +118,7 @@ You may update, review or correct your online account information at any time by
 ## J. Apps/Mobile Specifics
 
   1. **SMS (Text) Messages  
-** We will send you SMS (text) communications only if you consent to receive them. We may send you information customized based on your area code, but we do not automatically collect any information that discloses your physical location. You may review our terms of SMS service [here](https://www.costco.com/wcsstore/CostcoUSBCCatalogAssetStore/Attachment/smsTextCostcoTermsService101810.pdf).
+** We will send you SMS (text) communications only if you consent to receive them. We may send you information customized based on your area code, but we do not automatically collect any information that discloses your physical location.
   2. **The Costco App**   
 Before we collect or send location-specific information, we will ask for your consent. Your operating system may not allow you to install the app without giving us consent. You may withdraw your consent by disabling location features on your mobile device and the app will still work, although location features will not function. 
 
