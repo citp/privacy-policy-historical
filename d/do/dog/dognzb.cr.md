@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dognzb.cr privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630082925id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dognzb.cr privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231014849id_/https%3A//wikimediafoundation.org/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
@@ -42,7 +42,7 @@ Disclaimer: This summary is not a part of the Privacy Policy and is not a legal 
   * Any content you add or any change that you make to a Wikimedia Site will be publicly and permanently available. 
   * If you add content or make a change to a Wikimedia Site without logging in, that content or change will be publicly and permanently attributed to the IP address used at the time rather than a username. 
   * Our community of volunteer editors and contributors is a self-policing body. Certain administrators of the Wikimedia Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the Wikimedia Sites and enforce policies. 
-  * This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/ "wikitech:")).
+  * This Privacy Policy does not apply to all sites and services run by the Wikimedia Foundation, such as sites or services that have their own privacy policy (like the [Wikimedia Shop](https://shop.wikimedia.org/)) or sites or services run by third parties (like third-party developer projects on [Wikimedia Cloud Services](https://wikitech.wikimedia.org/wiki/ "wikitech:")).
   * As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
   * For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the Wikimedia Sites.
 
@@ -151,7 +151,7 @@ For the sake of clarity, this Privacy Policy covers, regardless of language:
 
   
   
-This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the [Wikimedia Shop](https://store.wikimedia.org/)) or sites or services run by third parties (such as third-party developer projects on [Wikimedia Labs](https://wikitech.wikimedia.org/wiki/ "wikitech:")). To understand more about what this Privacy Policy does not cover, please see below. 
+This Privacy Policy, however, does not cover some situations where we may gather or process information. For example, some uses may be covered by separate privacy policies (like those of the [Wikimedia Shop](https://store.wikimedia.org/)) or sites or services run by third parties (such as third-party developer projects on [Wikimedia Cloud Services](https://wikitech.wikimedia.org/wiki/ "wikitech:")). To understand more about what this Privacy Policy does not cover, please see below. 
 
 More on what this Privacy Policy doesn’t cover  
   
@@ -172,7 +172,7 @@ Community members
      The Wikimedia Sites are collaborative labors of love that are constantly maintained and updated by a global community of volunteers. As a result, some volunteers have access to certain nonpublic information, and use of that information may not be governed by this Privacy Policy. Examples include: 
 
   * **Administrative volunteers** , such as [CheckUsers](https://meta.wikimedia.org/wiki/Special:MyLanguage/CheckUser "m:Special:MyLanguage/CheckUser") or [Stewards](https://meta.wikimedia.org/wiki/Special:MyLanguage/Stewards "m:Special:MyLanguage/Stewards"). These are volunteers who enforce Wikimedia Site policies and ensure the safety of the Wikimedia Sites. When these administrators access nonpublic information, they are required to comply with our [Access to Nonpublic Information Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/Access_to_nonpublic_information_policy "m:Special:MyLanguage/Access to nonpublic information policy"), as well as other, tool-specific policies.
-  * **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as [Labs wmflabs.org](https://www.mediawiki.org/wiki/Wikimedia_Labs). When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
+  * **Tool providers**. We support platforms for third-party developers to experiment and develop new tools and sites, such as [Cloud Services wmflabs.org](https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_Introduction). When you use one of the tools developed by these volunteers, you may transfer information to them. When these volunteers access nonpublic information, they are required to comply with the terms governing the particular platform the tool is available on.
   * **Other users**. We provide several tools that allow users to communicate with each other. The communications may be covered by this Policy while they pass through our systems, but the users who receive these communications, and what they do with the communications once they receive them, are not covered by this Policy. Examples include: 
     * posting to Foundation-hosted email lists;
     * requesting support from volunteers through our [online ticketing system](https://meta.wikimedia.org/wiki/Special:MyLanguage/OTRS "m:Special:MyLanguage/OTRS") (email sent to info[at]wikimedia.org goes to this system);
