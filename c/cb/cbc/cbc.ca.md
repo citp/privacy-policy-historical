@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216180939id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231193300id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
 
 # CBC.ca - Privacy
 
 The CBC Privacy Coordinator is accountable for the CBC’s policies and practices, with respect to the management of personal information, and is the individual to whom complaints and inquires can be forwarded.
 
-[Marie-Claude Ferland](mailto:atip@cbc.ca)   
+[Stéphanie Duquette](mailto:atip@cbc.ca)   
 Privacy Coordinator   
 Canadian Broadcasting Corporation   
 181 Queen Street,   
