@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redditgifts.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612153117id_/http%3A//www.redditgifts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redditgifts.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231012210id_/http%3A//www.redditgifts.com/privacy) for the most accurate reproduction.*
 
 # redditgifts Privacy Policy
 
