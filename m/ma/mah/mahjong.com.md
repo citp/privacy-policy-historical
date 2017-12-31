@@ -1,147 +1,158 @@
-> *The following text is extracted and transformed from the mahjong.com privacy policy that was archived on 2015-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151006112855id_/http%3A//www.realnetworks.com/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahjong.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231063830id_/http%3A//www.blastworksinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Realnetworks
+# Privacy Policy | Blastworks Inc
 
-**REALNETWORKS, INC., AND AFFILIATED ENTITIES**
+Last Modified: 25th July, 2017
 
-_This document was last updated 26 May 2015._
+**Introduction**
 
-This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and worldwide subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse and Zylom (collectively "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, services and websites.
+Blastworks Inc. ( **“Company”** or **“We”** ) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-Details regarding specific topics may be found via the topic [index](https://web.archive.org/privacy-policy/specific-topics).
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [http://www.blastworksinc.com](http://www.blastworksinc.com/) (our “Website”) and/or access any of our games, including Slingo Arcade, Slingo Blast, Slingo Adventure, Slingo Shuffle, Slingo Showcase, Hidden Artifacts (our “Games”), and/or our mobile or desktop apps, including Bluefin (our “Apps”), and our practices for collecting, using, maintaining, protecting and disclosing that information. Together, where applicable, we refer to our Website, Games and Apps collectively as our **“Platform”**.
 
-## WHY DO WE COLLECT PERSONAL INFORMATION? 
+This policy applies to information we collect:
 
-RealNetworks collects personal information to improve the manner by which we operate and offer our products and services, communicate with you, and provide effective customer support. We will not share your personally identifiable information with third parties without your consent, unless necessary for the purposes set forth in this Privacy Policy.
+  * Through our Platform.
+  * In e-mail, text and other electronic messages between you and our Website, or otherwise in connection with our Platform.
+  * Through mobile and desktop applications, including any Games, you download from our Website, or Games and/or Apps, which you access either through or Website or separately, including from third parties, and which provide dedicated non-browser-based interaction.
 
-## WHAT PERSONAL INFORMATION DO WE COLLECT?
 
-  * Personal information specifically identifies an individual and may include: name; email address; credit card information; mailing address; and phone number.
-  * RealNetworks does not intentionally collect personally identifiable information from children under the age of 13.
 
+It does not apply to information collected by:
 
+  * us offline or through any other means, including on any other website operated by Company or any third party; or
+  * any third party, including through any application or content (including advertising) that may link to or be accessible from our Platform.
 
-## HOW DO WE USE YOUR PERSONAL INFORMATION? 
 
-RealNetworks uses your personal information to:
 
-  * Deliver to you and bill you for RealNetworks products and services, and communicate with you concerning your account and customer service issues;
-  * Verify access rights to premium content or other access-restricted services and software;
-  * Ask you to participate in surveys;
-  * Offer you product upgrades, content, services and games;
-  * Auto-update downloaded products; and
-  * Provide you with news, updates, targeted advertising, promotions, and special offers.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website or play our Games and use our Apps, i.e. not use our Platform. By accessing or using any part of our Platform, you agree to this privacy policy. This policy may change from time to time as described in **Changes to our Privacy Policy**. Your continued use of this Website or accessing our Games or Apps, after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
+**Persons Under the Age of 18**
 
+Our Platform or parts of it, including our Website, Games or Apps, may not be intended for anyone under a certain age. These restrictions, if any, will be stated in the applicable terms of use. If there are age restrictions, we do not knowingly collect personal information from anyone under the applicable age. If you are under the applicable age, do not use or provide any information on our Website, on or through any of its features or through our Games or Apps in violation of the applicable terms of use. If we learn we have collected or received personal information from a person under the applicable age, we will delete that information. If you believe we might have any information from or about anyone under the applicable age due to your use of our Platform, please contact us at [support@blastworksinc.com](mailto:support@blastworksinc.com?Subject=Privacy%20Policy%20Age%20Restriction%20Related%20Notice).
 
-## WHAT NON-PERSONAL INFORMATION DO WE COLLECT? 
+**Information We Collect About You and How We Collect It**
 
-We collect non-personal information that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are examples of non-personal information that we may collect:
+We may collect several types of information from and about users of our Platform, including information:
 
-  * Information about your computer, hardware, software, platform, device, Internet Protocol (IP) address;
-  * Geo-location information associated with a photograph or video, solely to enable the location grouping feature in RealTimes;
-  * Language preference;
-  * Gender;
-  * Anonymous information regarding customer activities on our websites, which is aggregated and considered non-personal information for purposes of this Privacy Policy.
+  * by which you may be personally identified, such as name, date of birth, e-mail address, and any other identifier by which you may be contacted online or offline **(“personal information”)** ;
+  * that is about you but individually does not identify you, such as the date and time of your visit, page views, the URL of the page before and after you visit our Platform; and/or
+  * about your internet connection, the browser and/or equipment you use to access our Platform and usage details.
 
 
 
-## HOW DO WE USE YOUR NON-PERSONAL INFORMATION? 
+We collect this information:
 
-  * Improve our software and services by providing content recommendations, language and location customization, targeted advertising and/or personalized help and instructions.
-  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability;
-  * Track content use for the purpose of paying royalties and license fees to third party providers;
-  * Better understand how our products are used.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through our Website, play our Games or use our Apps. Information collected automatically may include usage details, IP addresses and information collected through cookies, and other tracking technologies.
+  * From third parties, for example, our business partners.
 
 
 
-We also may share or disclose your personal information or the content of files you upload using RealNetworks' products or services to comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
+**Information You Provide to Us**
 
-## THIRD PARTY ADVERTISING – GENERAL 
+The information we collect on or through our Platform may include:
 
-We allow third-party advertising companies to serve ads when you visit our websites or interact with our products or services. These companies use non-personal information about your visits in order to provide advertisements of interest to you.
+  * Information that you provide by filling in forms on our Website or in connection with playing our Games or using our Apps. This includes information provided at the time of registering to use any part of our Platform, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Platform.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
 
-For more information regarding our advertising and use of cookies on the RealNetworks websites, [click here](https://web.archive.org/privacy-policy/specific-topics).
 
-## HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE? 
+You also may provide information to be published or displayed (hereinafter, **“posted”** ) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, **“User Contributions”** ). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
 
-RealNetworks is committed to protecting your personal information. We use the following controls to protect your personal information:
+**Information We Collect Through Automatic Data Collection Technologies**
 
-  * Use of secure connections using SSL to safeguard information when transmitted from your Web browser to RealNetworks;
-  * Use of security controls to restrict access to databases housing personally identifying information;
-  * Use of encryption for sensitive personal information, such as credit card numbers and user names;
-  * Limited employee access to databases containing personal information and confidentiality requirements imposed upon employees who do; and
-  * Subcontractors bound by contractual, technical and organizational measures.
+As you navigate through and interact with our Platform, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, activities and patterns, including:
 
+  * Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website, as well as detail of your Game play and/or App usage.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
 
-## PRIVACY ON SOCIAL NETWORKING SITES 
 
-When you use a RealNetworks product or game through a Social Networking Site such as Facebook ("SNS"), you allow RealNetworks to access certain personal and non-personal information that you provided to such SNS such as your user ID, first and last name, profile picture, and usage data for that product or game. By accessing a RealNetworks product or game through an SNS, you are authorizing RealNetworks to collect, store and use all information that you agreed the SNS could provide to RealNetworks through the SNS. RealNetworks' collection, storage and use of your information are governed by this Privacy Policy. RealNetworks may access videos, photographs, and other media you share on an SNS with the public and use such material in accordance with the terms and policies of that SNS.  If you do not want RealNetworks to have such access, adjust your SNS privacy settings so that the media is not shared with the public.
+The information we collect automatically is statistical data and does not include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Platform and to deliver a better and more personalized service, including by enabling us to:
 
-## WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES? 
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Platform according to your individual interests and/or improve our Platform based on how it is generally used.
+  * Speed up your searches
+  * Recognize you when you return to our Platform.
 
-RealNetworks does not use your personal information for purposes incompatible with those listed above. In some cases, access to certain products and services may require the provision of personal information to a third party. In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party's use of such information is governed by that party's privacy policy. Please visit the privacy policy of the third party to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. Additionally, RealNetworks may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties.
 
-RealNetworks may disclose relevant information about our customers to our contractors in order for them to provide specific services for RealNetworks. RealNetworks contractors are bound to keep all personal information they process confidential.
 
-RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on RealNetworks; (d) protect and defend the rights or property of RealNetworks; or (e) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large.
+The technologies we use for this automatic data collection may include:
 
-This Privacy Policy does not govern other sites that are linked to one of RealNetworks' websites, products, or services.
+  * **Cookies (or browser cookies)**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Platform. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+  * **Flash Cookies**. Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see **Choices about How We Use and Disclose Your Information**.
+  * **Web Beacons**. Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
-## E-MAIL FROM REALNETWORKS 
 
-Separate RealNetworks products, services and lines of business may send separate newsletters and marketing emails to you. You may opt out of receiving RealNetworks marketing messages. If you create an online account with RealNetworks, you can change your account setting to select whether you wish to receive marketing messages. However, we may continue to send you e-mail about products or services you have previously purchased or to inform you about critical technical service issues relating to a RealNetworks product or service.
 
-## HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION 
+**Third-party Use of Cookies and Other Tracking Technologies**
 
-To access your account information and preferences, select "Manage My Account" from the menus in the RealPlayer (usually under the "Help" menu) or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
+Some content or applications, including any advertisements, on our Platform are served by third-parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
-If you created an account with RealNetworks, you may review and update your account on the web at [www.real.com](http://www.real.com/) or by selecting "My Account" in your RealNetworks product, and logging in using your name and password. If you have forgotten your username or password, you can use our online help resources or contact us by clicking [here](https://customer.real.com/hc/en-us/requests/new).
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-## USE OF COOKIES 
+**How We Use Your Information**
 
-We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
+We use information that we collect about you or that you provide to us, including any personal information:
 
-For more information on our use of cookies, please see our [cookie policy](https://web.archive.org/privacy-policy/cookies).
+  * To present our Platform and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To notify you about changes to our Platform or any products or services we offer or provide though it.
+  * To allow you to participate in games and/or interactive features on our Website, play our Games or use our Apps.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
 
-## CHANGES TO OUR PRIVACY POLICY 
 
-We frequently revise this Privacy Policy to keep it up to date with RealNetworks products, services and Web pages.
 
-## TRANSFER OF DATA TO OTHER COUNTRIES 
+**Disclosure of Your Information**
 
-RealNetworks processes information about our users on servers located in a number of countries. We may also subcontract processing or share your information to third parties located in countries other than your home country. Information collected by RealNetworks in the United States may, for example, be transferred to and processed in a country outside of the United States. Information collected within the European Economic Area and Switzerland may, for example, be transferred to, and processed in a country outside of the European Economic Area and Switzerland. You expressly consent to the foregoing.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-## SAFE HARBOR 
+We may disclose personal information that we collect or you provide as described in this privacy policy:
 
-RealNetworks complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately in the event that your data is processed for the purposes of your agreement with us by a RealNetworks company in the United States. Should you want more information on the Safe Harbor principles, please go to: [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
+  * To our subsidiaries and affiliates.
+  * To contractors, service providers and other third parties we use to support our business.
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by the Company about our Platform users is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
 
-If we require a RealNetworks company to process your data for the purposes of payment for goods and services this RealNetworks company will be RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please refer to the section “Contact Us About Privacy,” below.
 
-If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the data protection authorities in the relevant jurisdiction. A list of data protection authorities is available at: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm ](http://ec.europa.eu/justice/data-protection/bodies/authorities//index_en.htm)
 
-RealNetworks has agreed to participate in the dispute resolution procedures of the panel established by the European Union data protection authorities to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland.
+We may also disclose your personal information:
 
-## NO ERROR FREE PERFORMANCE 
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * To enforce or apply the applicable terms of use.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others.
 
-RealNetworks does not guarantee error-free performance under this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States.
 
-CONTACT US ABOUT PRIVACY 
 
-If you have questions about the privacy aspects of our products or services, the information concerning you that RealNetworks has retained, or would like to make a complaint, please contact:
+**Choices About How We Use and Disclose Your Information**
 
-Privacy Policy Group  
-RealNetworks, Inc.  
-P.O. Box 91123  
-Seattle, WA 98111-9233
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-Or [click here](https://customer.real.com/hc/en-us/requests/new).
+  * **Tracking Technologies**. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.
 
-## SPECIFIC TOPICS
 
-For more information concerning specific functionality that may be relevant to privacy issues, visit our [Specific Topic Index](https://web.archive.org/privacy-policy/specific-topics).
 
-© 2015 RealNetworks, Inc.
+**Your California Privacy Rights**
+
+California Civil Code Section § 1798.83 permits users of our Platform that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@blastworksinc.com](mailto:support@blastworksinc.com?Subject=Request%20Information%20Regarding%20Disclosure%20of%20Personal%20Information%20Based%20On%20California%20Civil%20Code%20Section%20%C2%A7%201798.83).
+
+**Data Security**
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Platform you are responsible for keeping this password confidential. We ask you not to share your password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Platform. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Platform.
+
+**Changes to Our Privacy Policy**
+
+It is our policy to post any changes we make to our privacy policy on this. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the e-mail address specified in your account and/or through a notice on our Website home page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes as you continue to use our Platform.
+
+**Contact Information**
+
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
+
+[privacy@blastworksinc.com](mailto:privacy@blastworksinc.com?Subject=Privacy%20Policy%20Information%20And%20General%20Inquiries)
