@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the chaturbate.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630193401id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaturbate.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231154116id_/https%3A//chaturbate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Chaturbate
 
 Effective Date: March 4, 2014
 
-Last Modified: April 6, 2017
+Last Modified: July 31, 2017
 
 This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by  (“Chaturbate,” “we,” “our”). By using our Services and/or registering with Chaturbate, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as Chaturbate adheres to the standards set forth more clearly below.
 
 We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the Chaturbate website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
+If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960
 
 **Information Collected**
 
