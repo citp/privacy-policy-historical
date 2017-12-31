@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615090557id_/http%3A//www.lincoln.ac.nz/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231131112id_/http%3A//www.lincoln.ac.nz/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Lincoln University
 
-**
+_
 
 The collection, use, storage, disclosure and correction of personal information by the University is governed by The Privacy Act 1993.
 
@@ -10,7 +10,7 @@ Personal information means information about an identifiable individual. The Uni
 
 Lincoln University takes the privacy of those who use our service ("Users") very seriously. Please take a moment to read this Privacy Policy so you understand how we collect, store, use and share information. If you see anything that concerns you please email us at [web@lincoln.ac.nz](mailto:web@lincoln.ac.nz) as we may be able to clarify the need for it or work with you to alter it.
 
-**
+_
 
 ## Collection of information
 
