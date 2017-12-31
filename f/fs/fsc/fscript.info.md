@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fscript.info privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100238id_/http%3A//fscript.info/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fscript.info privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231025751id_/http%3A//fscript.info/page-d-exemple-2) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Food Script
+# PRIVACY POLICY | Fscript
 
-This privacy policy sets out how FOODSCRIPT.INFO uses and protects any information that you give FOODSCRIPT.INFO when you use this website. FOODSCRIPT.INFO is committed to ensuring that your privacy is protected.
+This privacy policy sets out how FSCRIPT.INFO uses and protects any information that you give FSCRIPT.INFO when you use this website. FSCRIPT.INFO is committed to ensuring that your privacy is protected.
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.FOODSCRIPT.INFO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14th December 2014.
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. FSCRIPT.INFO may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 14th December 2014.
 
 What we collect
 
@@ -40,6 +40,6 @@ Our website may contain links to other websites of interest. However, once you h
 
 Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information by emailing a request to info@foodscript.info
+You may choose to restrict the collection or use of your personal information by emailing a request to info@fscript.info
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
