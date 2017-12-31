@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623214233id_/http%3A//www.indochino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231134422id_/https%3A//www.indochino.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,4 +97,4 @@ If you have any comments or questions about this Policy or your personal informa
 
 ## HEADQUARTERS __
 
-300-970 Homer Street, Vancouver, BC - V6B 2W7
+#300 – 720 Robson Street, Vancouver, BC V6Z 1A1, Canada.
