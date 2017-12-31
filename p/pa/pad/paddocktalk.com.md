@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502162918id_/http%3A//paddocktalk.com/news/html/story-285125.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paddocktalk.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231170537id_/http%3A//paddocktalk.com/news/html/story-285125.html) for the most accurate reproduction.*
 
 # Privacy Policy :: PaddockTalk :: F1, Formula 1, NASCAR, IndyCar, MotoGP, Le Mans, And More!
 
