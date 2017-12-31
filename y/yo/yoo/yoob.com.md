@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoob.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625105755id_/http%3A//yoob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoob.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231181523id_/http%3A//www.yoob.com/privacy-policy) for the most accurate reproduction.*
 
 # Yoob | Privacy Policy
 
