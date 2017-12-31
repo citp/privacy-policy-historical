@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idealo.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630205316id_/https%3A//www.idealo.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idealo.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231042958id_/https%3A//www.idealo.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # idealo internet GmbH privacy policy
 
@@ -96,13 +96,13 @@ To find out more information or to opt out of this advertising system, please vi
 
 This website uses the remarketing function provided by Twitter (Twitter Inc., 1355 Market Street Suite 900, San Francisco, CA 94103, USA). This enables idealo to connect with users on Twitter via tailored advertising. For this purpose, Twitter uses so-called “Tags”. A Tag is used to record visits to the website and collect data relating to the use of the website. When a user visits a website that contains a Tag, Twitter sets a cookie in the user's browser. The unique ID of the cookie is recorded and placed in the target group for remarketing on Twitter.
 
-Twitter users can opt out of this function by visiting <https://support.twitter.com/articles/20171528>. Additionally, Twitter supports the “Do Not Track (DNT)” option <https://support.twitter.com/articles/20171372> so that no connection is made between a Twitter account and browser-related information.
+Twitter users can opt out of this function by visiting <https://support.twitter.com/articles/20171528>.
 
 ### Twitter Conversion Tracking
 
 idealo uses Twitter's advertising programme “TwitterAds” and, by extension, Conversion Tracking. When Twitter users click on an idealo advert located on Twitter, a cookie is set for conversion tracking. These cookies lose their validity after 30 days, contain no personal data and cannot be used for personal identification. Advertising customers receive a report from Twitter specifying how many users have seen or clicked on an advert, but this report contains no information relating to who has seen and/or clicked on an advert. These reports contain solely condensed, publicly available or non-personal data. No possibility exists to track cookies via the websites of TwitterAds customers.
 
-Twitter users can opt out of this function by visiting <https://support.twitter.com/articles/20171528>. Additionally, Twitter supports the “Do Not Track (DNT)” option <https://support.twitter.com/articles/20171372>, so that no connection is made between a Twitter account and browser-related information.
+Twitter users can opt out of this function by visiting <https://support.twitter.com/articles/20171528>.
 
 ### Hotjar
 
@@ -136,6 +136,10 @@ idealo uses the pixel “Website Custom Audiences” from Facebook in order to a
 
 Once the Facebook Conversion Pixel has been activated by your browser, Facebook is able to recognise whether a Facebook advertisement was successful, i.e. resulted in a purchase. The data passed onto idealo by Facebook as a result of this pixel is entirely statistical and contains no personal reference to any specific person. This enables idealo to evaluate the success of its Facebook advertisements for statistical and market research purposes. If you are logged into Facebook, idealo will refer you to Facebook's data policy: <https://www.facebook.com/about/privacy>. Please click here if you, as a Facebook user, do not consent to this use of the Conversion Pixel: <https://www.facebook.com/settings?tab=ads>
 
-Updated March 2017
+### Ingenious Technologies
+
+When clicking on certain shop offers on idealo, a cookie will be activated for Ingenious Technologies AG, Französische Straße 48, 10117 Berlin. These cookies are used for the subsequent allocation of sales through the respective shop offers on idealo for billing purposes.
+
+Updated August 2017
 
 Print
