@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the breastcancerconnect.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627122657id_/http%3A//www.breastcancerconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastcancerconnect.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231173345id_/http%3A//www.breastcancerconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Breast Cancer Connect
 
-**Last Updated: 11/14/15**
+**Last Updated: 12/19/2017**
 
-This privacy policy applies to [www.alliancehealth.com](http://www.alliancehealth.com/) owned and operated by Alliance Health Networks ("Alliance Health"). This privacy policy describes how Alliance Health collects and uses the personal information you provide on our website: [www.alliancehealth.com](http://www.alliancehealth.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy policy applies to [www.upwell.com](http://www.upwell.com/) owned and operated by UpWell Health ("UpWell Health"). This privacy policy describes how UpWell Health collects and uses the personal information you provide on our website: [www.upwell.com](http://www.upwell.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
-## Introduction / About Alliance Health Networks ("Alliance Health")
+## Introduction / About UpWell Health ("UpWell Health")
 
 We own and operate an online social health network platform with multiple, condition-specific sites and mobile applications which we call "sites" and/or "communities."
 
@@ -25,19 +25,19 @@ We respect your privacy. We make it a priority to build your trust and confidenc
 
 ## About Your Participation
 
-In an effort to further our mission to empower consumers and help enable a more consumer-centric healthcare industry, you may provide us specific information, including Personally Identifiable Information (defined below). This information is provided on your own volition as you do not have to join an Alliance Health community or register for offers in order to browse and read the content in the public portions of our sites. We always treat acquiring this information as a privilege and will maintain your Personally Identifiable Information as highly confidential and will not share it with anyone without your consent.
+In an effort to further our mission to empower consumers and help enable a more consumer-centric healthcare industry, you may provide us specific information, including Personally Identifiable Information (defined below). This information is provided on your own volition as you do not have to join an UpWell Health community or register for offers in order to browse and read the content in the public portions of our sites. We always treat acquiring this information as a privilege and will maintain your Personally Identifiable Information as highly confidential and will not share it with anyone without your consent.
 
-When you register to join an Alliance Health community and/or register for offers available through our advertising partners you consent to sharing information about yourself, Personally Identifiable Information, so that we can make our services and the services of our partners available to you.
+When you register to join an UpWell Health community and/or register for offers available through our advertising partners you consent to sharing information about yourself, Personally Identifiable Information, so that we can make our services and the services of our partners available to you.
 
-When you join an Alliance Health community, you may set up your personal profile, set and update privacy settings, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels. The profile you create on site will be publicly accessible unless otherwise indicated. You may change your privacy settings by visiting your community profile page.
+When you join an UpWell Health community, you may set up your personal profile, set and update privacy settings, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels. The profile you create on site will be publicly accessible unless otherwise indicated. You may change your privacy settings by visiting your community profile page.
 
 By clicking the "Accept" button during registration or by using our sites, you explicitly accept or "opt-in", without limitation or qualification, to the collection, use and transfer of Personally Identifiable Information provided by you in the manner described in this Privacy Policy; as well as in our Terms of Use.
 
-  * In the event you want to delete your profile, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com).
+  * In the event you want to delete your profile, contact us at [community@upwell.com](mailto:community@upwell.com).
 
-  * If you have not joined an Alliance Health community, but have registered for offers, and want to manage your privacy for opted-in emails and telephone contact, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com); or to opt-out of emails click on this link. <http://pages.email-alliancehealth.com/page.aspx?QS=330c754b5e92df74b9d547cb12ff96512dc535715cba82ff>
+  * If you have not joined an UpWell Health community, but have registered for offers, and want to manage your privacy for opted-in emails and telephone contact, contact us at [community@upwell.com](mailto:community@upwell.com); or to opt-out of emails click on this link. <http://go.upwell.com/UnsubscribePage.html>
 
-  * If you have reason to believe someone has created an unauthorized profile of you ("a fake account"), you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com) to have us investigate and delete the unauthorized profile.
+  * If you have reason to believe someone has created an unauthorized profile of you ("a fake account"), you can contact us at [community@upwell.com](mailto:community@upwell.com) to have us investigate and delete the unauthorized profile.
 
   * See additional information under "Your Rights as a User; Access/Choice" below.
 
@@ -50,7 +50,7 @@ You may make a copy of this Privacy Policy and our Terms of Use for your persona
 
 If you disagree with the way we collect and process Personally Identifiable Information on this site or offer pages, we recommend that you do not use them.
 
-## Information Alliance Health Collects
+## Information UpWell Health Collects
 
 ## Personally Identifiable Information
 
@@ -110,13 +110,13 @@ We partner with a third party ad network to either display advertising on our we
 
 ## Cookie and Other Tracking Technologies Information
 
-Technologies such as: cookies, beacons, tags and scripts are used by Alliance Health and our marketing partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by UpWell Health and our marketing partners, affiliates, analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 Like many companies, we use cookies for a variety of purposes to enhance your online experience, for example by remembering your log-in status, your preferred content types, etc. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ## IMPORTANT NOTICE
 
-Violation of Alliance Health Networks' Privacy Policy and/or Terms of Use for this site may result in a user being temporarily or permanently banned from the site and Alliance Health's entire network. To prevent a banned user from being able to re-access the site by merely deleting browser cookies and creating a new login, Alliance Health may use other types of cookies to store information that would identify a banned user. Use of such cookies would constitute Alliance Health's sole use of said technology for the exclusive purpose of identifying banned users and denying site access, and said technology is not used in any other instance for tracking, profiling, or storing of user data.
+Violation of UpWell Health' Privacy Policy and/or Terms of Use for this site may result in a user being temporarily or permanently banned from the site and UpWell Health's entire network. To prevent a banned user from being able to re-access the site by merely deleting browser cookies and creating a new login, UpWell Health may use other types of cookies to store information that would identify a banned user. Use of such cookies would constitute UpWell Health's sole use of said technology for the exclusive purpose of identifying banned users and denying site access, and said technology is not used in any other instance for tracking, profiling, or storing of user data.
 
 ## Local Storage Objects
 
@@ -124,7 +124,7 @@ Third parties with whom we partner to provide certain features on our site or to
 
 To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
-## How Alliance Health Uses Your Information
+## How UpWell Health Uses Your Information
 
 In our mission to empower consumers and help enable a more consumer-centric healthcare industry, we utilize the information collected to give you more choice and tailor information to your interests. Some of the services we provide based on the information you have given us are described below:
 
@@ -144,7 +144,7 @@ In our mission to empower consumers and help enable a more consumer-centric heal
 
   * To conduct surveys, questionnaires, promotions and contests, and to provide the results of such activities such as success stories and contest winners
 
-  * To inform you of other offers, services, or websites available from Alliance Health or third parties including our advertising partners
+  * To inform you of other offers, services, or websites available from UpWell Health or third parties including our advertising partners
 
   * To tailor advertising to you both on our site and other sites on the web based on cookie information collected on our site
 
@@ -157,7 +157,7 @@ Furthermore, we provide you with a variety of options for you to take control of
 
 When you make such request, you provide consent for us to disclose (share, sell, rent or trade) your Personally Identifiable Information, such as your name, address, phone or address, to said third party who may then use your Personally Identifiable Information to contact you; and provide you the information, materials, products or services you requested.
 
-In such specific cases, you may also specifically grant Alliance Health and said third party permission to contact you by telephone, mail and/or email, including phone calls that may use computer assisted technology and/or pre-recorded messages.
+In such specific cases, you may also specifically grant UpWell Health and said third party permission to contact you by telephone, mail and/or email, including phone calls that may use computer assisted technology and/or pre-recorded messages.
 
 Occasionally we may utilize this information ourselves in an aggregate basis to understand your preferences or disclose this same information in aggregate with our sponsors and advertising partners to provide better service to you.
 
@@ -178,11 +178,11 @@ In certain circumstances we may share Personally Identifiable Information for th
 
   * Disclose Personally Identifiable Information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating the site's Privacy Policy and/or Terms of Use.
 
-  * This same disclosure policy also applies to those cases where we believe an individual may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of Alliance Health, other site users, of anyone else that could be harmed by such activities.
+  * This same disclosure policy also applies to those cases where we believe an individual may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of UpWell Health, other site users, of anyone else that could be harmed by such activities.
 
   * Disclose or access Personally Identifiable Information when we believe in good faith that the law requires it, and for administrative and other purposes deemed necessary to maintain, service, and improve our products and services and/or comply with a judicial proceeding, court order, or legal process served on our website.
 
-  * If Alliance Health Networks ("Alliance Health") is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * If UpWell Health ("UpWell Health") is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 
 
@@ -191,17 +191,17 @@ In certain circumstances we may share Personally Identifiable Information for th
 
 In accordance with our mission to empower consumers and help enable a more consumer-centric healthcare industry we rely on you to contribute to the user-generated platform. As you interact within the community site, you may post User Content. You do this at your own risk. Although we allow you to set privacy options that limit access by other site visitors to your profile, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may (1.) choose to share your pages, and (2.) directly provide Personally Identifiable Information and personal information to. Therefore, we cannot and do not guarantee that User Content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 
-Personally Identifiable Information, personal information, and other information you post in public areas of the site becomes User Content and can, in some instances, be edited but not everything posted can be. We ask that you provide references for any medical information posted which isn't your own personal experience (something you have personally undergone). User Content you post will be accessed, used, and stored by others around the world, including countries that might not have legislation that guarantees adequate protection with respect to your country of residence. By providing User Content for inclusion in our database, you acknowledge that you consent to your User Content being used as described herein. While Alliance Health takes measures to safeguard your Personally Identifiable Information from unauthorized access or inappropriate use by third parties, Alliance Health does not control these third parties and we are not responsible for their use of User Content you post or otherwise make available in public areas of the Alliance Health sites. Accordingly, you should ensure that you do not post Personally Identifiable Information or sensitive personal information in a public area of any Alliance Health site or alternatively use tools that we provide like anonymous Connect posting or offer privacy solutions featured in the user profile.
+Personally Identifiable Information, personal information, and other information you post in public areas of the site becomes User Content and can, in some instances, be edited but not everything posted can be. We ask that you provide references for any medical information posted which isn't your own personal experience (something you have personally undergone). User Content you post will be accessed, used, and stored by others around the world, including countries that might not have legislation that guarantees adequate protection with respect to your country of residence. By providing User Content for inclusion in our database, you acknowledge that you consent to your User Content being used as described herein. While UpWell Health takes measures to safeguard your Personally Identifiable Information from unauthorized access or inappropriate use by third parties, UpWell Health does not control these third parties and we are not responsible for their use of User Content you post or otherwise make available in public areas of the UpWell Health sites. Accordingly, you should ensure that you do not post Personally Identifiable Information or sensitive personal information in a public area of any UpWell Health site or alternatively use tools that we provide like anonymous Connect posting or offer privacy solutions featured in the user profile.
 
 If you choose to use our invitation service to tell a friend about our site, we will ask you for information relevant to the invitation process, such as your friend's email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. We do not store this email communication or your any information you provide about your friend.
 
 ## Blog/Forum
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [community@upwell.com](mailto:community@upwell.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at [community@upwell.com](mailto:community@upwell.com).
 
 Our website includes Social Media Features, such as the Facebook Like button, Pinterest widget, etc. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
@@ -211,17 +211,17 @@ You control which (if any) of the details of your membership profile can be view
 
 ## Accessing/Updating Personally Identifiable Information
 
-If at any time your Personally Identifiable Information changes, you may correct, update, or amend it by logging in and editing your profile's information in the "About Me" tab. If you no longer desire our service, submit your request to [community@alliancehealth.com](mailto:community@alliancehealth.com); which will ensure the complete removal of the Personally Identifiable Information within our community websites as well as removal from our email databases. If at any time you wish to withdraw your consent to having your Personally Identifiable Information used or disclosed to third parties please contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com) and we will remove you immediately.
+If at any time your Personally Identifiable Information changes, you may correct, update, or amend it by logging in and editing your profile's information in the "About Me" tab. If you no longer desire our service, submit your request to [community@upwell.com](mailto:community@upwell.com); which will ensure the complete removal of the Personally Identifiable Information within our community websites as well as removal from our email databases. If at any time you wish to withdraw your consent to having your Personally Identifiable Information used or disclosed to third parties please contact us at [community@upwell.com](mailto:community@upwell.com) and we will remove you immediately.
 
 ## Data Retention
 
-We will retain your Personally Identifiable Information as long as your account is active, or as needed to provide you services, or until you opt-out. However, we may retain certain data you provided as we deem necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or to comply with our legal obligations, resolve disputes, enforce agreements. Alliance Health disclaims any liability in relation to the deletion or retention of information. Alliance Health does not control when search engines update their cache, which may contain certain information that has since been removed from Alliance Health's publicly viewable database.
+We will retain your Personally Identifiable Information as long as your account is active, or as needed to provide you services, or until you opt-out. However, we may retain certain data you provided as we deem necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or to comply with our legal obligations, resolve disputes, enforce agreements. UpWell Health disclaims any liability in relation to the deletion or retention of information. UpWell Health does not control when search engines update their cache, which may contain certain information that has since been removed from UpWell Health's publicly viewable database.
 
 ## Choice / Opt-Out
 
-You may choose to stop receiving Alliance Health newsletters or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). You may also opt-out of the community by following the instruction in the Updating Personally Identifiable Information section above.
+You may choose to stop receiving UpWell Health newsletters or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [community@upwell.com](mailto:community@upwell.com). You may also opt-out of the community by following the instruction in the Updating Personally Identifiable Information section above.
 
-## Alliance Health Response Timeframe
+## UpWell Health Response Timeframe
 
 We will respond to your request to access within 30 business days.
 
@@ -229,13 +229,13 @@ We will respond to your request to access within 30 business days.
 
 In our effort to empower consumers and help enable a more consumer-centric healthcare industry, we are committed to providing a free and independent service. As a result, our site may contain information, links to other sites and advertisements of healthcare services and partners that may help you make educated healthcare choices. We are not responsible for the privacy practices or content of such websites but encourage you to evaluate their specific commitment to you.
 
-Certain products and services marketed through the site are made available by the trusted partner companies of Alliance Health with which we have a strategic alliance. To obtain these products and services you may be required to visit another company's website or a site they share with the site. When ordering, registering for, or purchasing products or services from these partners, you will be entering into an agreement with that partner, and not with Alliance Health. In these cases, this privacy policy does not apply; instead, the privacy policy of the partner providing the goods or services will apply.
+Certain products and services marketed through the site are made available by the trusted partner companies of UpWell Health with which we have a strategic alliance. To obtain these products and services you may be required to visit another company's website or a site they share with the site. When ordering, registering for, or purchasing products or services from these partners, you will be entering into an agreement with that partner, and not with UpWell Health. In these cases, this privacy policy does not apply; instead, the privacy policy of the partner providing the goods or services will apply.
 
-We urge you to read and understand our partners' policies before entering into agreements with them. We are committed to partnering with companies that share our privacy concerns. Alliance Health, however, cannot control the way these partners collect or use information.
+We urge you to read and understand our partners' policies before entering into agreements with them. We are committed to partnering with companies that share our privacy concerns. UpWell Health, however, cannot control the way these partners collect or use information.
 
 If you have questions about our partners' privacy policies or the privacy policies of these other sites, we encourage you to contact them directly.
 
-All Alliance Health offers are subject to participation by the advertising partner, product availability, and any applicable state or federal laws that govern such offers. Any offers shown are reasonable facsimiles, and participating advertising partners reserve the right to withdraw offers, substitute another product, or modify offers at their sole discretion.
+All UpWell Health offers are subject to participation by the advertising partner, product availability, and any applicable state or federal laws that govern such offers. Any offers shown are reasonable facsimiles, and participating advertising partners reserve the right to withdraw offers, substitute another product, or modify offers at their sole discretion.
 
 ## Security
 
@@ -252,9 +252,9 @@ We use secure technology, privacy protection controls, and restrictions on emplo
 
 Each and every one of our employees servicing our sites are obligated to abide by the Privacy Policy. Only authorized employees servicing our sites are permitted to have access to your Personally Identifiable Information, and such access is limited by need.
 
-Since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to Alliance Health. There is no guarantee that the information may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Since the internet is not a 100% secure environment, we cannot ensure or warrant the security of any information you transmit to UpWell Health. There is no guarantee that the information may not be accessed, copied, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-Any improper collection or misuse by unauthorized third parties of Personally Identifiable Information, or other information provided on the site is a violation of the terms of use and should be reported to [community@alliancehealth.com](mailto:community@alliancehealth.com).
+Any improper collection or misuse by unauthorized third parties of Personally Identifiable Information, or other information provided on the site is a violation of the terms of use and should be reported to [community@upwell.com](mailto:community@upwell.com).
 
 ## Changes to This Privacy Policy
 
@@ -266,7 +266,7 @@ Although this Privacy Policy is not a contract and does not create any legal rig
 
 The most current version of this Privacy Policy, which supersedes all previous versions, can be reviewed by clicking on the Privacy Policy at the bottom of each page of this site.
 
-Your use of the site and any services provided by Alliance Health after any changes to this Privacy Policy are implemented constitutes your acknowledgement and acceptance of any such changes. This Privacy Policy came into effect on the date shown as the Last Updated date at the beginning of this document.
+Your use of the site and any services provided by UpWell Health after any changes to this Privacy Policy are implemented constitutes your acknowledgement and acceptance of any such changes. This Privacy Policy came into effect on the date shown as the Last Updated date at the beginning of this document.
 
 ## Children
 
@@ -301,13 +301,13 @@ See section above entitled "Changes to This Privacy Policy" for a description of
 
 ## California Shine the Light Law (SB27) Compliance Statement
 
-Under California S.B. 27 ("Shine the Light" Law), California residents have the right under certain circumstances to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [compliance@alliancehealth.com](mailto:compliance@alliancehealth.com) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. We will respond to you within 30 days of receiving such a request.
+Under California S.B. 27 ("Shine the Light" Law), California residents have the right under certain circumstances to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [compliance@upwell.com](mailto:compliance@upwell.com) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. We will respond to you within 30 days of receiving such a request.
 
 We welcome your input and feedback about our sites and the services that we provide to you. If you have any questions regarding this Privacy Policy or related Terms of Use, you may contact us via:
 
-  * Email: [privacy@alliancehealth.com](mailto:privacy@alliancehealth.com).
+  * Email: [privacy@upwell.com](mailto:privacy@upwell.com).
 
-  * • Mail: Attention: Privacy and Compliance, Alliance Health Networks, LLC., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
+  * • Mail: Attention: Privacy and Compliance, UpWell Health, LLC., 10855 South Riverfront Pkwy #250, South Jordan, UT 84095
 
   * Phone: 801-355-6002
 
