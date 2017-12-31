@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624044801id_/https%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeriagames.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231231123id_/https%3A//www.aeriagames.com/policy/privacy) for the most accurate reproduction.*
 
 # Play the Best MMO, Browser, and Mobile Games for Free
 
