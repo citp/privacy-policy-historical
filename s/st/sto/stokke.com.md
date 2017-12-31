@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stokke.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905213108id_/https%3A//www.stokke.com/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stokke.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231040147id_/https%3A//www.stokke.com/USA/en-us/stokke/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,6 +78,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 [https://www.stokke.com](https://www.stokke.com/)
 
 Parkgata 6  
-Ålesund, Ålesund 6001  
+Ålesund, Ålesund 6003  
 Norway  
 firmapost@stokke.com
