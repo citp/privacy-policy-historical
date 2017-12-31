@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609234716id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161953id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Markit.com | Privacy & Cookie Policy
 
@@ -50,7 +50,7 @@ Markit will collect such information through the use of various technologies, in
 
 The “help” menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
 
-Click for the [list of cookies](https://web.archive.org/web/20170609234716id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
+Click for the [list of cookies](https://web.archive.org/web/20171231161953id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
 
 By using Markit’s website, you agree to our installation of these tracking technologies on your computer or device.
 
