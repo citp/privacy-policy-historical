@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailonline.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619235824id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailonline.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161214id_/http%3A//www.dailymail.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | Daily Mail Online
 
@@ -97,7 +97,7 @@ We use advertising to fund our websites and apps. Some advertising is “context
 
 Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own website.
 
-Other times we will arrange for our customers to be shown advertisements on our own or other websites or apps. These advertisements are tailored to you with information we have obtained from your browsing on our websites and apps and from information about your likely interests that we obtain from our partners and specialist data companies, where they have your permission to share this information with us in line with their privacy policies.
+Other times we will arrange for our customers to be shown advertisements on our own or other websites or apps. These advertisements are tailored to you with information we have obtained from your browsing on our websites and apps and from information about your likely interests that we obtain from our partners and specialist data companies relating to you and to the devices you use where those partners know you are signed in and, where they have your permission to share this information with us in line with their privacy policies . 
 
 Where we arrange for our customers to be shown advertisements, we use technological and contractual mechanisms to protect your cookie data and to ensure that your browsing data used for advertising is not used by advertisers or other website owners for other purposes, such as linking online behavioural advertising data with your contact details, unless you have provided the advertiser or other website with your express permission to do this.
 
@@ -147,7 +147,7 @@ Our websites, apps and other products and services are not aimed at children. We
 
 If you are under the age of 13, we request that you do not provide us with your information and do not use our websites and apps.
 
-If you are a parent or guardian of a child under 13, please [contact us](http:/#contactus) [link to new anchor to “contacting us” section below] if you are aware that your child has used our websites or apps or otherwise provided their information to us without your consent. In addition to “your choices” outlined in this Policy, we will delete or otherwise cease processing your child’s personal information within a reasonable time.
+If you are a parent or guardian of a child under 13, please [contact us](http:/#contactus "This link is invalid, and will be stripped on publish") [link to new anchor to “contacting us” section below] if you are aware that your child has used our websites or apps or otherwise provided their information to us without your consent. In addition to “your choices” outlined in this Policy, we will delete or otherwise cease processing your child’s personal information within a reasonable time.
 
 If you are aged 13, 14 or 15, we request that you seek your parent or guardian’s permission before providing us with your information or using our websites or apps.
 
@@ -222,7 +222,7 @@ Cookies are also used to enable social media components on our websites, such as
 
 We like to keep track of what pages, links and sections of our apps are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.
 
-We use cookies, which are often called 'analytics cookies', to gather this information. These cookies don't store you contact details (such as your name or postal address). We may, however, combine information collected by analytics cookies with other information that you provide to us. For instance, if you have registered for an account with us, we may combine your contact details other information you provide us with the browsing history from your device collected by analytics cookies (including data collected from before you registered and when you are signed-out). We use this information to provide you with personalised content recommendations and marketing communications. We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems.
+We use cookies, which are often called 'analytics cookies', to gather this information. These cookies don't store you contact details (such as your name or postal address). We may, however, combine information collected by analytics cookies with other information that you provide to us. For instance, if you have registered for an account with us, we may combine your contact details other information you provide us with the browsing history from your device collected by analytics cookies (including data collected from before you registered and when you are signed-out). We use this information to provide you with personalised content recommendations and marketing communications and to recognise you as the same visitor across different devices you may use. We may also use this combined information to improve our products and services. For instance, we may analyse this information in aggregate to improve our advertising systems. 
 
 (iv) Cookies used to show advertising that is relevant to you
 
