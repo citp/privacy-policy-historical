@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crowdfunding.com privacy policy that was archived on 2017-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170630210754id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdfunding.com privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231192542id_/https%3A//www.gofundme.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-type">
@@ -7,8 +7,6 @@
     <title>GoFundMe Privacy Policy</title>
 
     <link rel="canonical" href="https://www.gofundme.com/privacy">
-    
-    
     
     <link href="//funds.gofundme.com/favicon/4.ico" rel="shortcut icon" type="image/x-icon">
     <meta content="This page contains the privacy policy for the online fundraising service GoFundMe." name="description">
@@ -24,16 +22,15 @@
     GFM_DOMAIN = "gofundme.com";
     FACEBOOK_APP_ID = "407682420960";
     GOOGLE_CLIENT_ID = "915486944487-ivo3ng6it92lj44ka8ca7nro7o5kk3om.apps.googleusercontent.com";
+    FACEBOOK_PAGE_ID = "1134437769956220"
 </script>
-            <link href="https://funds.gofundme.com/css/marketing/app.min.css?v=18.39&amp;url=1" media="all" rel="stylesheet" type="text/css">
+            <link href="https://funds.gofundme.com/css/marketing/app.min.css?v=20.47&amp;url=1" media="all" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet" type="text/css">
-    <!-- Load jQuery from Google CDN, fall back with local version -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
 <script>
     window.jQuery || document.write('<script src="//funds.' + GFM_DOMAIN + '/node_modules/jquery/dist/jquery.min.js">\x3C/script>')
 </script><script src="//funds.gofundme.com/node_modules/jquery/dist/jquery.min.js"></script>
 
-<!-- If production, don't show JQMigrate logging -->
     <script src="https://code.jquery.com/jquery-migrate-1.4.0.min.js" integrity="sha256-nxdiQ4FdTm28eUNNQIJz5JodTMCF5/l32g5LwfUwZUo=" crossorigin="anonymous"></script>
     <!-- Start Analytics -->
 
@@ -42,13 +39,13 @@
     GFM.components = GFM.components || {};
     GFM.components.visitorCookieStrings = {
         privacyLine: 'By continuing to use the website, you will be agreeing to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies.</a>',
-        responsivePrivacyLine: 'By continuing to use the website,</div><div class="disp-ib">&nbsp;you agree to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies</a>'
-    }
+        responsivePrivacyLine: 'By continuing to use the website,</div><div class="disp-ib">&nbsp;you agree to our <a href="//www.gofundme.com/privacy#cookies">Use of Cookies</a>' + '.',
+        newPrivacyPolicy: "We've updated our Privacy Policy. Learn about <a href=\"https:\/\/support.gofundme.com\/hc\/en-us\/articles\/221234088\" target=\"_blank\">what's changed<\/a>."    };
 </script>
 
-<script src="//funds.gofundme.com/js/build/headerIncludes.min.js?v=18.39"></script>
+<script src="//funds.gofundme.com/js/build/headerIncludes.min.js?v=20.47"></script>
 
-<script src="//funds.gofundme.com/js/5.0/app/signup/coAnalytics.js?v=18.39" type="text/javascript"></script>
+<script src="//funds.gofundme.com/js/5.0/app/signup/coAnalytics.js?v=20.47" type="text/javascript"></script>
 <script type="text/javascript">
 try {
 
@@ -61,15 +58,15 @@ try {
 var allowDebug = false;
 GFM.analytics.data.clickstream=false;GFM.analytics.setData("u", "");
 GFM.analytics.setData("p", "");
-GFM.analytics.setData("fud", "65ca9527463841f881d77ceeba2d0114");
+GFM.analytics.setData("fud", "efdec2145f6249e0a89166d3e624a803");
 GFM.analytics.setData("flw", "");
-GFM.analytics.setData("a", "308d58fdb2f546c2b76deebdebb44e97");
+GFM.analytics.setData("a", "f252429ad6da4485821ff052798b28f9");
 GFM.analytics.setData("pcd", "");
-GFM.analytics.setData("vri", "97e33e5a89dd4ad8ae930354245d4518");
+GFM.analytics.setData("vri", "6c129010fa254aa289b426d3d65bd59f");
 GFM.analytics.setData("lang", "");
 GFM.analytics.setData('vi', 'pg_index_new_privacy');
 GFM.analytics.setData('ra', $.now());
-GFM.analytics.setData("gfm", {"os":"Other","browser":"Other","platform":"desktop","country":"US","lat":37.774898529053,"long":-122.41940307617,"paid_code":"rf_wnd_com\/"});
+GFM.analytics.setData("gfm", {"os":"Other","browser":"Other","platform":"desktop","country":"US","lat":37.774898529053,"long":-122.41940307617});
 
 package = GFM.analytics.getPackage();
 mixpanel.default.register(package);
@@ -109,6 +106,9 @@ mixpanel.impression.register(package);
             ]
         }
     </script>
+
+    
+    
 </head>
 <body class="theme-gfm sticky-header  lang-en_US pg-content" ontouchstart="">
 <script>
@@ -141,7 +141,8 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 
 
 <!-- Add a class of .global-nav-simple to remove all buttons and links -->
-<div class="fixed-container ">
+<div id="gfm-nav-bar" class="fixed-container   ">
+
     <div class="reveal-overlay reveal-overlay--global-nav js-nav-reveal-overlay"></div>
     <nav class="top-bar" id="nav-menu">
 
@@ -151,33 +152,36 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 
                 <a href="/" class="logo-single" data-gfm-analytics-element="btn_nav_gfm_logo">GoFundMe</a>
 
+                
                 <!-- MENU ICON -->
-                <button id="nav-menu-hamburger-icon" type="button" class="tcon tcon-menu--xcross top-bar-nav-icon top-bar-nav-icon--hamburger" aria-label="Toggle Menu" data-gfm-analytics-element="btn_nav_hamburger_icon">
+                <button id="nav-menu-hamburger-icon" type="button" class="tcon tcon-menu--xcross top-bar-nav-icon top-bar-nav-icon--hamburger" aria-label="Toggle Menu" data-gfm-analytics-element="btn_nav_hamburger_icon" data-showing-profile-badge="0">
                     <span class="tcon-menu__lines" aria-hidden="true"></span>
                 </button>
 
                 <!-- HAMBURGER DROPDOWN MENU -->
                 <div id="nav-menu-hamburger-dropdown" class="row top-bar-menu  nav-menu-hamburger-dropdown" style="display:none;">
-                    
                                             <div class="column small-12 layer-primary hide-for-large">
                             <p class="menu-header">Raise money for any cause</p>
-                            <a class="button secondary expanded mb20" href="/sign-up" data-gfm-analytics-element="link_nav_start_campaign">Start a Campaign</a>
+                            <a class="button secondary expanded mb20" href="/sign-up" data-gfm-analytics-element="link_nav_start_campaign">Start a GoFundMe</a>
                         </div>
                                         <div class="column small-12 mt20">
                         <ul class="no-bullet">
-                                                                <li class="hide-for-large">
-                                        <a href="/sign-up" data-gfm-analytics-element="link_nav_sign_up" data-open-modal="">Sign Up</a>
+                                                                <li class="">
+                                        <a href="/" class="" data-gfm-analytics-element="link_nav_home"><strong>Home</strong></a>
+                                    </li>
+                                                                    <li class="hide-for-large">
+                                        <a href="/sign-up" class="" data-gfm-analytics-element="link_nav_sign_up"><strong>Sign up</strong></a>
                                     </li>
                                                                     <li class="">
-                                        <a href="/tour" data-gfm-analytics-element="link_nav_tour" data-open-modal="">How It Works</a>
+                                        <a href="/tour" class="" data-gfm-analytics-element="link_nav_tour"><strong>How it works</strong></a>
                                     </li>
                                                                     <li class="">
-                                        <a href="https://support.gofundme.com" data-gfm-analytics-element="link_nav_help" data-open-modal="">Help</a>
+                                        <a href="https://support.gofundme.com" class="" data-gfm-analytics-element="link_nav_help"><strong>Help</strong></a>
                                     </li>
                                                                     <li class="">
-                                        <a href="/sign-in" data-gfm-analytics-element="link_nav_sign_in" data-open-modal="">Sign In</a>
+                                        <a href="/sign-in" class="" data-gfm-analytics-element="link_nav_sign_in"><strong>Sign in</strong></a>
                                     </li>
-                                                        </ul>
+                                                                                                                </ul>
                     </div>
                 </div> <!-- END HAMBURGER DROPDOWN MENU (CHEESE) -->
 
@@ -193,9 +197,9 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                                     </ul>
 
                 <!-- DESKTOP SHARE BUTTONS -->
-                                    <ul class="menu-divided menu-divided--after menu horizontal float-right show-for-large js-hide-desktop-nav-search">
+                                    <ul class="nav-bar-links-right menu-divided menu-divided--after menu horizontal float-right show-for-large js-hide-desktop-nav-search">
                                                         <li>
-                                    <a href="/sign-up" data-gfm-analytics-element="link_nav_start_fundraiser" data-open-modal="">Start a Fundraiser</a>
+                                    <a href="/sign-up" data-gfm-analytics-element="link_nav_start_fundraiser">Start a GoFundMe</a>
                                 </li>
                                                 </ul>
                 
@@ -205,7 +209,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                 </button>
 
                 <!-- SEARCH DROPDOWN MENU -->
-                <div id="nav-menu-search-dropdown" class="top-bar-menu top-bar-menu--full row" style="display:none;">
+                <div id="nav-menu-search-dropdown" class="top-bar-explore row" style="display:none;">
                     <div class="hide-for-large column small-12">
                         <div class="search-with-icon js-search-nav-contain-small mt20">
                             <input type="search" class="js-search-nav-bar-small search-full" placeholder="Search GoFundMe">
@@ -217,16 +221,905 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                             <i class="light-gray fa fa-info-circle" aria-hidden="true"></i>&nbsp; Try searching for locations, campaign titles and names                        </div>
                     </div>
 
-                    <div class="column small-12 js-nav-recommended-campaigns">
-    <h4 class="mt10 underline js-rec-funds-title">Recommended</h4>
-    <i class="mt50 mb50 big-loady-guy fa fa-circle-o-notch fa-spin js-nav-loady-guy" style="display:none"></i>
-    <div class="position-relative">
-        <div class="carousel-arrow carousel-arrow--left show-for-large js-carousel-left" style="display:none;"><i class="fa fa-chevron-left" aria-hidden="true"></i></div>
-        <div class="carousel-arrow carousel-arrow--right show-for-large js-carousel-right"><i class="fa fa-chevron-right" aria-hidden="true"></i></div>
-        <div class="nav-recommendations-contain js-carousel-contain">
-                    </div>
+                    <div class="column categories-container">
+    <ul class="primary-categories">
+        <li class="mobile-header hide-large">
+            Explore Category        </li>
+                    <li class="primary-category active">
+                <a class="category-selector" href="/medical-fundraising">Medical                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/medical-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--medical-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/medical-fundraising">
+                <h1>
+                    Medical                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/medical-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
     </div>
-    <a class="hide-for-large button secondary expanded mb20 js-more-rec-funds" style="display:none;" data-gfm-analytics-element="btn_nav_more_rec_funds_small">+ See More</a>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/ivf-costs">IVF Costs &amp; Financing Guide</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/medical-fundraising">Medical Campaigns</a>
+        </li>
+                    <li>
+                <a href="/breast-cancer-fundraising">Breast Cancer</a>
+            </li>
+                    <li>
+                <a href="/cancer-fundraising">Cancer</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/health-insurance">Health Insurance</a>
+            </li>
+                    <li>
+                <a href="/ivf-fundraising">IVF</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/leukemia">Leukemia</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/lymphoma">Lymphoma</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/volunteer-fundraising">Volunteer                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/volunteer-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--volunteer-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/volunteer-fundraising">
+                <h1>
+                    Volunteer                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/volunteer-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/volunteer-fundraising">Volunteer Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/habitat-for-humanity">Habitat For Humanity</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/emergency-accident-fundraising">Emergencies                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/emergency-accident-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--emergency-accident-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/emergency-accident-fundraising">
+                <h1>
+                    Emergencies                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/emergency-accident-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/natural-disasters">Paying for Hurricanes, Storms, Floods, Fires</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/emergency-accident-fundraising">Emergencies Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/earthquakes">Earthquakes</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/fires">Fires</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/floods">Floods</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/hurricanes">Storms</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/terrorism">Terrorism</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/tornadoes">Tornadoes</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/tragedy">Tragedy</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/school-fundraising">Education                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/school-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--school-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/school-fundraising">
+                <h1>
+                    Education                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/school-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/school-fundraising">Education Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/charities-causes">Charities Causes</a>
+            </li>
+                    <li>
+                <a href="/classroom-fundraising">Classroom</a>
+            </li>
+                    <li>
+                <a href="/college-tuition-fundraising">College Tuition</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/computers">Computers</a>
+            </li>
+                    <li>
+                <a href="/school-club-fundraising">Extracurriculars</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/school-supplies">School Supplies</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/study-abroad">Study Abroad</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/textbooks">Textbooks</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/funeral-memorial-fundraising">Memorials                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/funeral-memorial-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--funeral-memorial-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/funeral-memorial-fundraising">
+                <h1>
+                    Memorials                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/funeral-memorial-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/funeral-and-memorial-costs">Funeral &amp; Memorial Costs Guide </a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/funeral-memorial-fundraising">Memorials Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/end-of-life-costs">End-of-Life Costs</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/funeral">Funerals</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/memorial-fund">Memorial Fund</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/scholarship-fund">Scholarship Fund</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/sports-fundraising">Sports                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/sports-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--sports-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/sports-fundraising">
+                <h1>
+                    Sports                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/sports-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/cheerleading-raise-money">Raising Money for Cheerleading &amp; Dance</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/sports-fundraising">Sports Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/ayso">AYSO</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/baseball">Baseball</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/basketball">Basketball</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/field-hockey">Field Hockey</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/football">Football</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/gymnastics">Gymnastics</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/hockey">Hockey</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/lacrosse">Lacrosse</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/little-league">Little League</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/soccer">Soccer</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/swimming">Swimming</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/tennis">Tennis</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/track-and-field">Track &amp; Field</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/ymca">YMCA</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/pet-animal-fundraising">Animals                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/pet-animal-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--pet-animal-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/pet-animal-fundraising">
+                <h1>
+                    Animals                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/pet-animal-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/vet-bills">Saving Money on Vet Bills</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/pet-animal-fundraising">Animals Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/animal-shelter">Animal Shelter</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/birds">Birds</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/cats">Cats</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/dogs">Dogs</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/rescue-animals">Rescue Animals</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/wishes-fundraising">Wishes                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/wishes-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--wishes-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/wishes-fundraising">
+                <h1>
+                    Wishes                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/wishes-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/wishes-fundraising">Wishes Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/bucket-list">Bucket List</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/disneyland">Disneyland</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/make-a-wish">Make A Wish</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/competition-pageant-fundraising">Competitions                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/competition-pageant-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--competition-pageant-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/competition-pageant-fundraising">
+                <h1>
+                    Competitions                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/competition-pageant-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/beauty-pageants">Guide to Beauty Pageants on a Budget</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/competition-pageant-fundraising">Competitions Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/miss-america">Miss America</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/miss-universe">Miss Universe</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/nationals">Nationals</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/other-miscellaneous">Other                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/other-miscellaneous">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--other-miscellaneous"></div>
+            </div>
+            </a><div class="category-title"><a href="/other-miscellaneous">
+                <h1>
+                    Other                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/other-miscellaneous">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/seniors-financial-tips">Financial Tips for Seniors</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/other-miscellaneous">Other Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/seniors">Seniors</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/wedding-honeymoon-fundraising">Newlyweds                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/wedding-honeymoon-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--wedding-honeymoon-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/wedding-honeymoon-fundraising">
+                <h1>
+                    Newlyweds                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/wedding-honeymoon-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/wedding-savings">Saving Money on Weddings</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/wedding-honeymoon-fundraising">Newlyweds Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/honeymoon">Honeymoon</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/registry">Registry</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/wedding">Wedding</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/charity-fundraising">Charity                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/charity-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp subcategory-sp subcategory-sp--palm"></div>
+            </div>
+            </a><div class="category-title"><a href="/charity-fundraising">
+                <h1>
+                    Charity                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/charity-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/charity-fundraising">Helping a Charity Fundraise</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/charity-fundraising">Charity Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/aids-walk">AIDS Walk</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/disaster">Disaster</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/marathons">Marathons</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/philanthropy">Philanthropy</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/red-cross">Red Cross</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/refugees">Refugees</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/relief">Relief</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/susan-g-komen">Susan G. Komen</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/church-religion-faith-fundraising">Faith                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/church-religion-faith-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--church-religion-faith-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/church-religion-faith-fundraising">
+                <h1>
+                    Faith                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/church-religion-faith-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/church-religion-faith-fundraising">Faith Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/church">Church</a>
+            </li>
+                    <li>
+                <a href="/mission-trip-fundraising">Missions</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/mosque">Mosque</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/synagogue">Synagogue</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/temple">Temple</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/travel-fundraising">Travel                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/travel-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--travel-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/travel-fundraising">
+                <h1>
+                    Travel                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/travel-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/travel-costs">How to Deal with Travel Costs</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/travel-fundraising">Travel Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/adventure-trips">Adventure Trips</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/backpacking">Backpacking</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/creative-fundraising">Creative                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/creative-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--creative-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/creative-fundraising">
+                <h1>
+                    Creative                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/creative-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/musicians-saving-money">Saving Money for Musicians</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/creative-fundraising">Creative Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/art">Art</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/books">Books</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/ceramics">Ceramics</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/film">Film</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/music">Music</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/painting">Painting</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/photography">Photography</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/woodworking">Woodworking</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/community-fundraising">Community                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/community-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--community-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/community-fundraising">
+                <h1>
+                    Community                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/community-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/community-fundraising">Community Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/firefighters">Firefighters</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/homelessness">Homelessness</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/parks">Parks</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/police">Police</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/recreation-centers">Recreation Centers</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/scout-troops">Scout Troops</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/uniformed-personnel">Uniformed Personnel</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/events-fundraising">Events                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/events-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--events-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/events-fundraising">
+                <h1>
+                    Events                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/events-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/events-fundraising">Events Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/baby-shower">Baby Shower</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/birthdays">Birthday</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/bridal-shower">Bridal Shower</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/retirement">Retirement</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/business-fundraising">Business                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/business-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--business-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/business-fundraising">
+                <h1>
+                    Business                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/business-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+            <div class="nav-article-container">
+            <div>Learning Resources</div>
+            <ul class="relevant-articles">
+                                    <li>
+                        <a href="https://www.gofundme.com/guides/local-businesses">Guide to Saving Local Businesses, Restaurants &amp; Stores</a>
+                    </li>
+                            </ul>
+        </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/business-fundraising">Business Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/entrepreneurship">Entrepreneurship</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/restaurants">Restaurants</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/small-business">Small Business</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/store">Stores</a>
+            </li>
+            </ul>
+</div>            </li>
+                    <li class="primary-category ">
+                <a class="category-selector" href="/family-fundraising">Family                    <i class="fa fa-chevron-right hide-small"></i>
+                    <i class="fa fa-chevron-down hide-large"></i>
+                </a>
+
+                <div class="category-summary">
+    <div class="category-header">
+        <a>
+        </a><a href="/family-fundraising">
+            <div class="category-circle hide-small">
+                                <div class="category-sp category-sp--family-fundraising"></div>
+            </div>
+            </a><div class="category-title"><a href="/family-fundraising">
+                <h1>
+                    Family                    <i class="fa fa-chevron-up hide-large"></i>
+                </h1>
+                </a><a class="hide-small" href="/family-fundraising">View All</a>
+            </div>
+        
+        <div class="clearfix"></div>
+    </div>
+        <ul class="subcategories">
+        <li class="hide-large">
+            <a href="/family-fundraising">Family Campaigns</a>
+        </li>
+                    <li>
+                <a href="/raise-funds/adoption">Adoption</a>
+            </li>
+                    <li>
+                <a href="/raise-funds/foster-families">Foster Families</a>
+            </li>
+            </ul>
+</div>            </li>
+            </ul>
 </div>
                 </div>
 
@@ -242,116 +1135,241 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         <div class="bg-header-content"></div>
 </div>
 
+<style type="text/css">
+ol[type] > li {
+    font-weight: bold;
+}
+
+ol[type] > li > * {
+    font-weight:initial;
+}
+
+ol[type] > li > p:first-child {
+    margin-bottom: 0;
+}
+</style>
+
 <div class="content-single-column">
     <div class="row column small-12 large-11 mt40">
-        <p><strong>Date of Last Revision: June 17, 2016.</strong></p>
-        <p>Welcome to the web site or mobile application (as the case may be) (collectively, the <strong>"Platform"</strong>) of <a href="https://www.gofundme.com" target="_blank">GoFundMe, Inc.</a> (including its subsidiaries, affiliates, agents, and service providers, collectively, <strong>"GoFundMe"</strong>, "we", "us" and/or "our"). This Platform is operated by GoFundMe and has been created to provide information about our company and our online platform designed to permit users to post a fundraising campaign to accept monetary donations and our related services (together with the Platform, the <strong>"Services"</strong>) to our Services users and visitors ("you", "your"). This Privacy Policy sets forth GoFundMe's policy with respect to information, including personal data (<strong>"Personal Data"</strong>) and other information that is collected from users of or visitors to the Platform.</p>
+        <p><strong>Date of Last Revision: December 15, 2017.</strong></p>
+        <p>Welcome to the web site or mobile application (as the case may be) (collectively, the "Platform") of <a href="https://www.gofundme.com" target="_blank">GoFundMe, Inc.</a> (including its subsidiaries, affiliates, agents, and service providers, collectively, "GoFundMe," "we," "us," and/or "our"). This Platform is operated by GoFundMe and has been created to provide information about our company, our online platform designed to permit users to post a fundraising campaign to accept monetary donations, and our related services (together with the Platform, the "Services") to our Services users and visitors ("you," and/or "your"). Except as provided below, this Privacy Policy describes and governs how we collect, use, share and protect data collected from users of or visitors to the Platform.</p>
+
+        <p>Before you use or submit any information through or in connection with the Services, please carefully review this Privacy Policy. By using any part of the Services, you consent to the collection, use, and disclosure of your information as further outlined in this Privacy Policy.</p>
     </div>
 
+    <!-- 1 -->
     <div class="link-bar">Information We Collect</div>
     <div class="row column small-12 large-11">
-        <p>When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:</p>
-        <p><strong>Personal Data That You Provide Through the Services:</strong> We collect Personal Data from you (including, but not limited to, your name, email address and location) when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever GoFundMe collects Personal Data we make an effort to provide a link to this Privacy Policy.</p>
-        <p>We collect this Personal Data for the purposes of providing the Services to you, as well as providing customer service, conducting research and improving the Services. For more details on why we collect your Personal Data and how we use it, please see the section below entitled “Our use of Personal Data and other information.” While you are under no obligation to provide any Personal Data, should you choose to withhold such information, we may not be able to provide you with some or all of the Services.</p>
-        <p><strong>By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of GoFundMe and the authorized third parties referred to herein located in the United States.</strong></p>
-    </div>
+        <p>As further described below, when you use or otherwise access the Services, we may collect information in multiple ways, including when you provide information directly to us, and when we passively collect information from your browser or device.</p>
 
-    <a name="cookies"></a>
-    <div class="link-bar">Other Information</div>
-    <div class="row column small-12 large-11">
-        <p><strong>Non-Personal Data:</strong> When you interact with GoFundMe through the Services, we automatically receive and store certain non-identifiable personal information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples of this non-identifiable personal information include the type of internet browser or mobile device you use, any website from which you have come to the Services, your operating system, location data (which is anonymous and where you log in through the Platform you will be asked if you consent to the Services accessing your location, which can be updated at any time in your device settings) (“Non-Personal Data”). GoFundMe may store such Non-Personal Data itself or such information may be included in databases owned and maintained by GoFundMe affiliates, agents or service providers. The Services may use such Non-Personal Data to assist us in providing effective Services and to collect broad demographic information for aggregate use.</p>
-        <p><strong>Aggregated Data:</strong> In an ongoing effort to better understand and serve the users of the Services, GoFundMe often conducts research on its customer demographics, interests and behavior based on the Personal Data, Non-Personal Data, and other information provided to us. This research may be compiled and analyzed on a de-identified, aggregate basis, and GoFundMe may share this aggregate data with its affiliates, agents, and business partners. This aggregate information does not identify you personally. GoFundMe may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</p>
-        <p><strong>Location Information:</strong> When you use the Services to organize a fundraising campaign, the Services may request that you provide your city or town and state or province of residence. Please keep in mind that other users of the Services may be able to view your city or town and state or province of residence in connection with the campaign, if it is made available within GoFundMe's Public Search Directory. We may also use your location information in an aggregate way, as described above in the "Aggregated Data" section.</p>
-        <p><strong>Social Networking Integrations:</strong> One of the special features of the Services is that it allows you to enable or log into the Services via various social networking services like Facebook or Twitter ("Social Networking Service(s)"). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into or grant us permission via the relevant Social Networking Service. When you add a Social Networking Services account to the Services or log into the Services using your Social Networking Services account, we will collect relevant information necessary to enable the Services to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store, and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store, and disclose your information is governed by the policies of such third parties, and GoFundMe shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Services.</p>
-        <p>You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Platform); you acknowledge that if you choose to use this feature, your friends, followers, and subscribers on any Social Networking Services you have enabled will be able to view such activity.</p>
-        <p>Please visit the privacy policy of the relevant Social Networking Service to find out more information about your rights and choices.</p>
-        <p><strong>Mobile Services:</strong> The Services include certain services that are available via a mobile device, including (i) the ability to upload content to the Services via a mobile device, (ii) the ability to browse the Platform and Services from a mobile device, and (iii) the ability to access certain features through an application downloaded and installed on a mobile device (collectively, the "Mobile Services"). To the extent you access the Services through a mobile device, your wireless service carrier's standard charges, data rates, and other fees may apply. In addition, downloading, installing, or using certain Mobile Services may be prohibited or restricted by your carrier, and not all Mobile Services may work with all carriers or devices. By using the Mobile Services, you agree that we may communicate with you regarding GoFundMe by SMS, MMS, text message, or other electronic means to your mobile device and that certain information about your usage of the Mobile Services may be communicated to us. In the event you change or deactivate your mobile telephone number, you agree to promptly update your GoFundMe account information to ensure that your messages are not sent to the person that acquires your old number.</p>
-        <p><strong>Third-Party Personal Data:</strong> The Services may also collect Personal Data relating to third parties stored in your email and mobile device address books, including, without limitation, names, email addresses, and phone numbers (collectively, “Third-Party Personal Data”). The Services may request your permission to access such Third-Party Personal Data.</p>
-    </div>
-
-    <div class="link-bar">Our Use of Personal Data and Other Information</div>
-    <div class="row column small-12 large-11">
-        <p>GoFundMe uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data about yourself, or have provided (or otherwise permitted the Services to access) any Third-Party Personal Data in order to obtain access to or make use of particular features of the Services, we will use your Personal Data and any such Third-Party Personal Data to provide you with access to such services and to monitor your use of such services.</p>
-        <p>GoFundMe may also use your Personal Data and other Non-Personal Data collected through the Services to help us in providing the Services, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data, providing support services, or other tasks from time to time.</p>
-        <p>GoFundMe may, with your consent, use your Personal Data to contact you in the future to tell you about services we believe will be of interest to you where permitted by applicable law. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.</p>
-        <p>We may also use your Personal Data and Third-Party Personal Data to send communications relating to the Services, in accordance with applicable laws. For example, we may send periodic emails to registered users of the Services relating to their recent interactions with the Services, such as donating to a campaign or "hearting" a campaign. Also, if you use any feature of the Services permitting you to communicate with third parties (such as to refer a third party to the Services or to communicate with them regarding a campaign or a donation), either by submitting Third-Party Personal Data to the Services or otherwise permitting the Services to automatically access Third-Party Personal Data in your possession, you acknowledge and agree that you have the authority of the relevant third party for us to access and use the relevant Third-Party Personal Data and that you have notified these third parties and informed them how their information is collected and used by GoFundMe to provide the Services. We reserve the right to identify you as the person who has made the referral in any messages that are sent to them. We may use Third-Party Personal Data to (1) contact such third party using the Third-Party Personal Data provided, and/or (2) provide you with an editable template message designed to facilitate communication between you and such third party through the Services. In addition to sending the foregoing communications, we may also send reminders or related messages to you and to third parties on your behalf from time to time where permitted by applicable law. In each case, any such communications sent to third parties using Third-Party Personal Data will provide a means to "opt-out" of receiving further communication of the same nature.</p>
-        <p>If GoFundMe intends on using any Personal Data in any manner or for any purpose that is not consistent with this Privacy Policy, we will obtain your prior informed consent as required by applicable law.</p>
-    </div>
-
-    <div class="link-bar">Our Disclosure of Personal Data and Other Information</div>
-    <div class="row column small-12 large-11">
-        <p>GoFundMe is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:</p>
-        <p><strong>Business Transfers:</strong> As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.</p>
-        <p><strong>Agents, Consultants and Related Third Parties:</strong> GoFundMe, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information and maintaining databases. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function and require them to only use the information for the purposes for which it was collected.</p>
-        <p><strong>Legal Requirements:</strong> GoFundMe may disclose your Personal Data if required to do so by law or in the good-faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of GoFundMe, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.</p>
-    </div>
-
-    <div class="link-bar">Cookies</div>
-    <div class="row column small-12 large-11">
-        <p>When you interact with the Services, we try to make that experience simple and meaningful. When you visit our Platform, our web server sends a cookie to your computer or mobile device (as the case may be). Cookies are small pieces of information which are issued to your computer or mobile device (as the case may be) when you visit a website or access or use a mobile application, and which store and sometimes track information about your use of the Platform (as the case may be). A number of cookies we use last only for the duration of your web or application session and expire when you close your browser or exit the application. Other cookies are used to remember you when you return to the Platform and will last for longer.</p>
-        <p>Some of the cookies used by the Platform are set by us, and some are set by third parties who are delivering services on our behalf.</p>
-        <p>Most web and mobile device browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>, which includes additional useful information on cookies and how to block cookies using different types of browsers or mobile devices. Please note, however, that by blocking or deleting cookies used on the Platform, you may not be able to take full advantage of the Services.</p>
-        <p>The Platform uses cookies, and similar technologies to cookies, to collect information about your access and use of the Platform. You can also update your privacy settings on your device by setting the “Limit Ad Tracking” and Diagnostics and Usage setting property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through apps that are available in the Play Store.&nbsp;You can also stop information collection by uninstalling the App on your device and you can&nbsp;use the standard uninstall process available as part of your device for this purpose.</p>
-        <p>Some information on the types of cookies we use and how we use them is set out below:</p>
-        <ul>
+        <ol type="A">
             <li>
-                <p><strong>Essential: </strong>Allow you to navigate and use all the features provided by our Platform.</p>
+                <p><strong>Information That You Provide Directly to Us:</strong></p>
+                <p>We collect information from you (including, but not limited to, your name, email address, and location) when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, provide us with feedback, register for access to the Services, or use certain Services.</p>
+                <p>You may also provide us with information relating to third parties—including information stored in your email and mobile device address books—such as, without limitation, names, email addresses, and phone numbers of your contacts (collectively, “Third-Party Data”). The Services may request your permission to access such Third-Party Data.</p>
+                <p>We collect this information for the purposes described below in the section entitled, <a href="#use-of-information-collected">Our Use of Information Collected</a>. While you are under no obligation to directly provide us with such information, should you choose to withhold such information, we may not be able to provide you with some or all of the Services.</p>
+                <p>If you provide “personal data” (as defined under the Privacy Shield principles – See <a href="#privacy-shield">Privacy Shield</a> section for more information on how we treat information from users who reside in the European Union, European Economic Area, and Switzerland) to the Services, you acknowledge and agree that such personal data may be transferred from your current location to the offices and servers of GoFundMe and the authorized third parties referred to herein located in the United States.</p>
+                <p>Our Services may include online chats and message boards. Please remember that any information that is disclosed in these areas becomes public information for both us and other users to use and share. Please be considerate and respectful of others while using the community to share your opinions. We reserve the right, but do not have the obligation, to review and monitor such posting or any other content on our Services, and to remove postings or content that may be viewed as inappropriate or offensive to others.</p>
+            </li>
+
+        <!-- B -->
+        <li>
+            <p><strong>Information That is Passively or Automatically Collected</strong></p>
+
+            <ol type="I">
+                <li>
+                    <!-- I -->
+                    <p><strong>Device &amp; Usage Information:</strong></p>
+                    <p>When you interact with GoFundMe through the Services, we automatically receive and store certain information from devices that you use to access the Services. This information is collected passively using various technologies, and includes the type of internet browser or mobile device you use, any website from which you have come to the Services, your operating system, and may include location data through an IP address that identifies the city and state where you logged into the Platform or your precise geo-location if you have permitted your mobile device to provide that information to us. GoFundMe may store such information itself or such information may be included in databases owned and maintained by GoFundMe affiliates, agents or service providers.</p>
+                    <!-- /I -->
+                </li>
+                <li>
+                    <!-- II -->
+                    <p><strong>Aggregated Data:</strong></p>
+                    <p>In an ongoing effort to better understand and serve the users of the Services, GoFundMe often conducts research on its customer demographics, interests and behavior based on information we collect. We may de-identify and/or aggregate the information collected through the Services for research purposes or any other purposes, and we may share this data with our affiliates, agents, business partners, or other third parties.</p>
+                    <!-- /II -->
+                </li>
+                <li>
+                    <!-- III -->
+                    <p><strong>Location Information:</strong></p>
+                    <p>When you use the Services to organize a fundraising campaign, the Services may request that you provide your city or town and state or province of residence. Please keep in mind that other users of the Services may be able to view your city or town and state or province of residence in connection with the campaign, if it is made available within GoFundMe's Public Search Directory. We may also use your location information in an aggregate way, as described above in the "Aggregated Data" section.</p>
+                    <!-- /III -->
+                </li>
+                <li>
+                    <!-- IV -->
+                    <p><strong>Cookies and Other Electronic Technologies:</strong></p>
+                    <p>When you interact with the Services, we try to make that experience simple and meaningful. When you visit our Platform, our web server sends a cookie to your computer or mobile device. Cookies are small pieces of information that are issued to your computer or mobile device when you visit a website or access or use a mobile application, and that store and sometimes track information about your use of the Platform.  A number of cookies we use last only for the duration of your web or application session and expire when you close your browser or exit the application. Other cookies are used to remember you when you return to the Platform and will last longer.</p>
+                    <p>Some of the cookies used by the Platform are set by us, and some are set by third parties who are delivering services on our behalf.</p>
+                    <p>We may use cookies, and similar technologies to cookies, to collect information about your access and use of the Platform. For example, we may use cookies or other technologies that: (1) allow you to navigate and use all the features provided by our Platform; (2) customize elements of the layout and/or content within the Platform and remember that you have visited us before; (3) identify the number of unique visitors we receive; (4) allow us to provide you with a customized experience; and (5) inform us how you use the Platform (including how long you spend on the Platform) and where you have come to the Platform from, so that we can improve the Platform and learn which functions of the Platform are most popular with users. As we adopt additional technologies, we may also gather additional information through other methods.</p>
+                    <p>Most web and mobile device browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>, which includes additional useful information on cookies and how to block cookies using different types of browsers or mobile devices.</p>
+                    <p>You may also consult the "Help" section of your browser for more information (e.g., <a href="http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies" target="_blank">Internet Explorer</a>; <a href="https://support.google.com/chrome/answer/95647" target="_blank">Google Chrome</a>; <a href="http://kb.mozillazine.org/Cookies#Firefox" target="_blank">Mozilla Firefox</a>; or <a href="http://support.apple.com/kb/PH5042" target="_blank">Apple Safari</a>). You can also manage the use of Flash technologies, including cookies and local storage objects with the Flash management tools available at <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html" target="_blank">Adobe's website</a>. Please note that by blocking any or all cookies, you may not have access to certain features or offerings of the Services.</p>
+                    <p>If you are accessing our Services through a mobile device, you can also update your privacy settings on your device by setting the “Limit Ad Tracking” and Diagnostics and Usage setting property located in the settings screen of your Apple iPhone or iPad, or by resetting your Android ID through apps that are available in the Play Store. You can also limit information collection by uninstalling the App on your device and you can use the standard uninstall process available as part of your device for this purpose.</p>
+                    <!-- /IV -->
+                </li>
+            </ol>
+            <!-- /B -->
+
+            </li>
+
+            <li>
+                <!-- C -->
+                <p><strong>Information From Social Networking Services</strong></p>
+                <p>One of the special features of the Services is that it may allow you to enable or log into the Services via various social networking services like Facebook or Twitter ("Social Networking Service(s)"). By directly integrating these services, we aim to make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to provide your credentials for the applicable Social Networking Service in order to log-in to our Services. When you add a Social Networking Services account to the Services or log into the Services using your Social Networking Services account, we will collect relevant information necessary to enable the Services to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information (including, for example, your name and photograph, as well as other information that you permit the Social Network Service to share with us) that you have provided to the Social Networking Service, and we will use, store, and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store, and disclose your information is governed by the policies of such third parties, and GoFundMe shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Services.</p>
+                <p>You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Platform); you acknowledge that if you choose to use this feature, your friends, followers, and subscribers on any Social Networking Services you have enabled will be able to view such activity.</p>
+                <p>Please visit the privacy policy of the relevant Social Networking Service to find out more information about your rights and choices.</p>
+            </li>
+        </ol>
+    </div>
+
+    <!-- 2 -->
+    <a name="use-of-information-collected"></a>
+    <div class="link-bar">Our Use of Information Collected</div>
+    <div class="row column small-12 large-11">
+        <p>GoFundMe uses the information collected from the Services in a manner that is consistent with this Privacy Policy. If you provide information for a certain reason, we may use the information in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the information you provide to answer your question or resolve your problem. Also, if you provide information about yourself, or have provided (or otherwise permitted the Services to access) any Third-Party Data, we will use your information and any such Third-Party Data to provide you with access to such services and to monitor your use of such services.        </p><p>GoFundMe may also use the information we collect through the Services to help us in providing the Services and support services, processing transactions, fulfilling requests for information, receiving and sending communications, updating marketing lists, analyzing data and research aimed at improving the accuracy, effectiveness, usability or popularity of the Services, to personalize the content and advertising that you see on Services and to understand how users interact with and user our advertisement and Services, to associate your activities, customize content or tailor advertising across different device and browsers that you use to access the Services (for instance, computers, tablets, mobile devices, applications and websites), to comply with state, local, federal or international laws, to enforce our <a href="/terms" target="_blank">Terms of Service</a> and this Privacy Policy, as otherwise described in this Privacy Policy, or in assisting with other tasks from time to time. Please note that we may combine information that we collect from you and about you (including automatically-collected information) with information we obtain about you from our affiliates and/or non-affiliated third parties, and use such combined information in accordance with this Privacy Policy.        </p><p>We may also use the information collected from the “Information We Collect” section, such as device identifiers and MAC addresses, to associate users’ activities, customize content, or tailor advertising to those users across different devices and browsers (for instance, tablets, mobile devices and applications, and websites).        </p><p>GoFundMe may use the information collected through the Services to contact you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. If you opt out of receiving marketing communications or other information we think may interest you, as discussed below, we may still send you emails about your account or any Services you have requested or received from us.        </p><p>We may also use data collected through the Services to send communications relating to the Services, in accordance with applicable laws. For example, we may send periodic emails to registered users of the Services relating to their recent interactions with the Services, such as donating to a campaign or "hearting" a campaign. Also, if you use any feature of the Services permitting you to communicate with third parties (such as to refer a third party to the Services or to communicate with them regarding a campaign or a donation), either by submitting Third-Party Data to the Services or otherwise permitting the Services to automatically access Third-Party Data in your possession, you acknowledge and agree that you have the authority of the relevant third party for us to access and use the relevant Third-Party Data and that you have notified these third parties and informed them how their information is collected and used by GoFundMe to provide the Services. We reserve the right to identify you as the person who has made the referral in any messages that are sent to them. We may use Third-Party Data to (1) contact such third party using the Third-Party Data provided, and/or (2) provide you with an editable template message designed to facilitate communication between you and such third party through the Services. In addition to sending the foregoing communications, we may also send reminders or related messages to you and to third parties on your behalf from time to time where permitted by applicable law. In each case, any such communications sent to third parties using Third-Party Data will provide a means to "opt-out" of receiving further communication of the same nature.        </p><p><strong>Mobile Services:</strong> If you access the Services through a mobile device, you agree that we may communicate with you regarding GoFundMe by SMS, MMS, text message, or other electronic means to your mobile device. In the event you change or deactivate your mobile telephone number, you agree to promptly update your GoFundMe account information to ensure that your messages are not misdirected. Please note that your wireless service carrier’s standard charges, data rates, and other fees may apply where you access the Services through a mobile device. In addition, downloading, installing, or using certain Services on a mobile device may be prohibited or restricted by your carrier, and not all Services may work with all carriers or devices. By using the Services on a mobile device, you agree that we may communicate with you regarding GoFundMe by SMS, MMS, text message, or other electronic means to your mobile device. In the event you change or deactivate your mobile telephone number, you agree to promptly update your GoFundMe account information to ensure that your messages are not misdirected.    </p></div>
+    <!-- /2 -->
+
+    <!-- 3 -->
+    <div class="link-bar">Our Disclosure of Information Collected Through the Services</div>
+    <div class="row column small-12 large-11">
+        <p>There are certain circumstances in which we may share information collected through the Services with certain third parties without further notice to you, as set forth below:</p>
+
+        <ol type="A">
+            <li>
+                <!-- A -->
+                <p><strong>Business Transfers:</strong></p>
+                <p>As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution, similar event, or steps taken in anticipation of such events (e.g., due diligence in a transaction), user information may be part of the transferred assets.</p>
+                <!-- /A -->
             </li>
             <li>
-                <p><strong>Functional Cookies: </strong>These cookies customize elements of the promotional layout and/or content of the pages of the Platform and remember that you have visited us before; this means we can identify the number of unique visitors we receive. This allows us to make sure we have enough capacity for the number of users that we get.</p>
-                <p>So when you use our Platform, we remember you and your preferences and information you have submitted to us to provide you with a customized experience.</p>
+                <!-- B -->
+                <p><strong>Agents, Consultants, Vendors and Related Third Parties:</strong></p>
+                <p>GoFundMe, like many businesses, sometimes hires other companies to perform certain business-related functions on its behalf, and we may provide access to or share your information with these companies so they can perform services for us. Examples of such functions include marketing, mailing information, data storage, security, fraud preventions, payment processing, legal services, and maintaining databases.</p>
+                <!-- /B -->
             </li>
             <li>
-                <p><strong>Performance and Analytics: </strong>Performance cookies let us collect information about how you use the Platform. They collect anonymous statistical information about how you use the Platform (including how long you spend on the Platform) and where you have come to the Platform from, so that we can improve the Platform and learn which functions of the Platform are most popular with users. This information does not include Personal Data, although we might be able to associate such information with user accounts once we receive it from the third party.</p>
+                <!-- C -->
+                <p><strong>Legal Requirements:</strong></p>
+                <p>GoFundMe may access, disclose, transfer and preserve your information when we have a good faith belief that doing so is necessary    to: (i) comply with the law including with subpoenas, search warrants, court orders, and other legal process; and respond to inquiries or requests from government, regulatory, law enforcement, public authorities, or content protection organizations; (ii) protect and defend the legal rights, privacy, safety or property of GoFundMe, its affiliates, subsidiaries, employees, agents, contractors, or its users; (iii) permit us to pursue available remedies, commence, participate in, or defend litigation, or limit the damages we may sustain; or (iv) enforce this Privacy Policy or any applicable Terms of Service.</p>
+                <!-- /C -->
             </li>
             <li>
-                <p><strong>Advertising and Targeting: </strong>These cookies collect information about the pages you visit online. They gather information about the pages that you visit or the functions of the Platform you use, and also other information about other websites that you visit, so as to place you in a “market segment”. This information is only collected by reference to the IP address or unique device identifier that you are using (the applicable cookie identifier) and also can include information about the county or province and city or town you are in, together with the name of your internet service provider. This information is then used to place interest-based advertisements on the Platform, which it is believed will be relevant to your market segment. This may result in you seeing advertisements for our Platform when you visit other websites.</p>
-                <p>We use third parties, for example, Google Analytics, to analyze statistical information from users of the Platform and provide you with interest-based advertisements. You can understand Google Analytics further at <a href="https://www.google.com/intl/en/analytics/learn/privacy.html" target="_blank">https://www.google.com/intl/en/analytics/learn/privacy.html</a> and learn about how to manage Google Analytics settings at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.</p>
+                <!-- D -->
+                <p><strong>Your consent</strong></p>
+                <p>We may share your information in the event that you consent to the sharing of your information.</p>
+                <!-- /D -->
             </li>
-        </ul>
+            <li>
+                <!-- E -->
+                <p><strong>Aggregate and/or De-Identified Information</strong></p>
+                <p>We may aggregate and/or de-identify your information so that the information no longer relates to you individually. Our use and disclosures of such aggregated or de-identified information is not subject to this Privacy Policy, and may be disclosed to others without limitation and for any purpose.</p>
+                <!-- /E -->
+            </li>
+            <li>
+                <!-- F -->
+                <p><strong>Analytics</strong></p>
+                <p>We may use third-party web analytics services on our Services, such as those of Google Analytics. These service providers use the sort of technology previously described in the “Cookies and other electronic technologies” section to help us analyze how users use the Services, including by noting the third-party website from which you arrive, and provide certain features to you. The information (including your IP address) collected by the technology will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services. This information may be used to place interest-based advertisements on the Platform. This may result in you seeing advertisements for our Platform when you visit other websites. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking <a href="http://tools.google.com/dlpage/gaoptout" target="_blank">here</a>.</p>
+                <!-- /F -->
+            </li>
+        </ol>
     </div>
+    <!-- /3 -->
 
-    <div class="link-bar">Your Choices</div>
+    <!-- 4 -->
+        <!-- SKIPPED -->
+    <!-- /4 -->
+
+    <!-- 5 -->
+    <div class="link-bar">Tailored Advertising</div>
     <div class="row column small-12 large-11">
-        <p>As mentioned throughout this Privacy Policy, you can visit the Platform without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.</p>
+        <p>We may use third-party advertising technologies that allow for the delivery of relevant content and advertising on our Platform, as well as on other websites you visit. The ads may be based on various factors such as the content of the page you are visiting, information you enter such as your age and gender, your searches, demographic data, user-generated content, and other information we collect from you. These ads may be based on your current activity or your activity over time and across other websites and online services and may be tailored to your interests.</p>
+        <p>Also, third parties whose products or services are accessible or advertised on our Platform may place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the website as discussed above. We also allow other third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to serve tailored ads to you on our website, other sites, and in other applications, and to access their own cookies or other tracking technologies on your computer, mobile phone, or other device you use to access the website. We may provide our customer information (such as a hashed version of your email addresses) to service providers, who may “match” this information in de-identified form to cookies (or mobile ad identifiers) and other proprietary IDs, in order to target or “retarget” you with ads when you visit other websites and mobile applications.  (You may opt out of these many of these service providers as described in the next paragraph.)</p>
+        <p>We neither have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access our website by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer you a way to opt out of ad targeting as described below.</p>
+        <p>If you receive tailored advertising on your computer through a web browser, you can learn more about such tailored browser advertising and how you can generally control cookies from being put on your computer to deliver tailored advertising, by visiting the European Interactive Digital Advertising Alliance Consumer Ad Choices <a href="http://www.youronlinechoices.com/uk/your-ad-choices" target="_blank">link</a> for EU based advertising or for US based advertising either: (i) the Network Advertising Initiative’s Consumer Opt-Out <a href="http://www.networkadvertising.org/choices" target="_blank">link</a> or (ii) the Digital Advertising Alliance’s Consumer Opt-Out <a href="http://www.aboutads.info/choices/" target="_blank">link</a> to opt-out of receiving tailored advertising from companies that participate in those programs. To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the <a href="https://adssettings.google.com/authenticated" target="_blank">Google Ads Settings page</a>.</p>
+        <p>Please note that to the extent advertising technology is integrated into our website or other websites that you visit, you may still receive advertisements even if you opt-out. In that case, the advertising will not be tailored to your interests. Also, we do not control any of the above opt-out links or whether any particular company chooses to participate in these opt-out programs.  We are not responsible for any choices you make using these mechanisms or the continued availability or accuracy of these mechanisms.</p>
     </div>
+    <!-- /5 -->
 
-    <div class="link-bar">Exclusion</div>
+    <!-- 6 -->
+    <div class="link-bar">Unsolicited Information</div>
     <div class="row column small-12 large-11">
-        <p>This Privacy Policy does not apply to any Personal Data collected by GoFundMe other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to GoFundMe through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums or comment sections, any customer support communications, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). You agree that any Unsolicited Information becomes the intellectual property of GoFundMe to the furthest extent permitted by applicable law, and agree to assign any and all residual rights or interests that you may have in such Unsolicited Information to GoFundMe. All Unsolicited Information shall be deemed to be non-confidential and GoFundMe shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution to the extent permitted by applicable law.</p>
+        <p>Please be advised that some information you provide may be publicly accessible, such as information posted in forums or comment sections. We may also collect information through customer support communications, your communication to us of ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, with publicly-accessible information, "Unsolicited Information"). By sending us Unsolicited Information, you further (a) agree that we are under no obligation of confidentiality, express or implied, with respect to the Unsolicited Information, (b) acknowledge that we may have something similar to the Unsolicited Information already under consideration or in development, (c) grant us an irrevocable, non-exclusive, royalty-free, perpetual, worldwide license to use, modify, prepare derivative works, publish, distribute and sublicense the Unsolicited Information, and (iv) irrevocably waive, and cause to be waived, against GoFundMe and its users any claims and assertions of any moral rights contained in such Unsolicited Information. This Unsolicited Information section shall survive any termination of your account or the Services. This Privacy Policy otherwise does not apply to any information collected by GoFundMe other than information collected through the Services.</p>
     </div>
+    <!-- /6 -->
 
+    <!-- 7 -->
     <div class="link-bar">Children</div>
     <div class="row column small-12 large-11">
-        <p>GoFundMe does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not use the Services and/or submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to GoFundMe through the Services, please contact us <a href="mailto:support@gofundme.com">support@gofundme.com</a>, and we will endeavor to delete that information from our databases.</p>
+        <p>Our Services are not designed for use by individuals under the age of 13. If you are under the age of 13, please do not use the Services and/or submit any information through the Services. If you have reason to believe that a child under the age of 13 has provided personal information to GoFundMe through the Services, please contact us <a href="mailto:support@gofundme.com">support@gofundme.com</a>, and we will delete that information from our databases to the extent required by law.</p>
     </div>
+    <!-- /7 -->
 
+    <!-- 8 -->
     <div class="link-bar">Links to Other Web Sites</div>
     <div class="row column small-12 large-11">
-            <p>This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by GoFundMe (the "Third-Party Sites"). The policies and procedures we described here do not apply to the Third-Party Sites. The links from the Services do not imply that GoFundMe endorses or has reviewed the Third-Party Sites. We suggest contacting those sites directly for information on their respective privacy policies.</p>
+        <p>This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by GoFundMe (the "Third-Party Sites"). The policies and procedures we described here do not apply to the Third-Party Sites. The links from the Services do not imply that GoFundMe endorses or has reviewed the Third-Party Sites. We suggest contacting those sites directly for information on their respective privacy policies.</p>
     </div>
+    <!-- /8 -->
 
+    <!-- 9 -->
     <div class="link-bar">Security</div>
     <div class="row column small-12 large-11">
-        <p>GoFundMe takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to GoFundMe via the Internet.</p>
+        <p>GoFundMe takes steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any information to GoFundMe via the Internet.</p>
     </div>
+    <!-- /9 -->
 
+    <!-- 10 -->
+    <div class="link-bar">Do-Not-Track Signals</div>
+    <div class="row column small-12 large-11">
+        <p>Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. We do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. To learn more about Do Not Track, you can do so <a href="http://allaboutdnt.com/" target="_blank">here</a>.</p>
+    </div>
+    <!-- /10 -->
+
+    <!-- 11 -->
+    <div class="link-bar">Access to Information</div>
+    <div class="row column small-12 large-11">
+        <p>You may access and correct certain information about you by visiting the “Account Settings” portion of our Platform. You may also request in writing copies of personal information about you held by us. If that information is inaccurate, please let us know and we will endeavor to make the necessary amendments, erase, or block the relevant information as you request.</p>
+    </div>
+    <!-- /11 -->
+
+    <!-- 12 -->
+    <a name="privacy-shield"></a>
+    <div class="link-bar">Privacy Shield</div>
+    <div class="row column small-12 large-11">
+        <p>GoFundMe has certified with the <a href="https://www.privacyshield.gov/welcome" target="_blank">EU-U.S. and Swiss-U.S. Privacy Shield</a> as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of “personal data” (as defined under the Privacy Shield principles) from applicable European countries. GoFundMe has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement for such personal data. To learn more about the Privacy Shield Framework, visit the Department of Commerce’s Privacy Shield list by clicking <a href="https://www.privacyshield.gov/list" target="_blank">here</a>.</p>
+        <p>As required under the principles, when GoFundMe receives information under the Privacy Shield and then transfers it to a third-party service provider acting as an agent on GoFundMe’s behalf, GoFundMe has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) GoFundMe is responsible for the event giving rise to the damage.</p>
+        <p>If you have any questions or complaints about GoFundMe’s privacy practices, including questions related to the Privacy Shield, you may contact us at the email address or mailing address set forth under “Contacting GoFundMe.” We will work with you to resolve your issue.</p>
+        <p>If you are a resident of the European Union and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance, at no cost to you, from our designated Privacy Shield independent recourse mechanism, which you can learn more about by visiting <a href="http://go.adr.org/privacyshield.html" target="_blank">http://go.adr.org/privacyshield.html</a>.</p>
+        <p>Residents of the European Union may elect to arbitrate unresolved complaints but prior to initiating such arbitration, you must: (1) contact GoFundMe and afford us the opportunity to resolve the issue; (2) seek assistance from GoFundMe’s designated independent recourse mechanism above; and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue. Each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the individual. GoFundMe is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).</p>
+        <p>In addition to the rights granted under the section above entitled, “Access to Information,” some international users (including those whose information we collect under the Privacy Shield) have certain legal rights to access certain information we hold about them and to obtain its deletion. To exercise those rights, these users may contact us at <a href="mailto:support@gofundme.com">support@gofundme.com</a> with their request.</p>
+    </div>
+    <!-- /12 -->
+
+    <!-- 13 -->
     <div class="link-bar">Other Terms and Conditions</div>
     <div class="row column small-12 large-11">
-        <p>Your access to and use of the Services is subject to the Terms of Service at <a href="https://www.gofundme.com/terms" target="_blank">https://www.gofundme.com/terms</a> and such other terms, which may be made available to you in connection with your use of the Services.</p>
+        <p>Your access to and use of the Services is subject to the Terms of Service at <a href="https://www.gofundme.com/terms">https://www.gofundme.com/terms</a> and such other terms, which may be made available to you in connection with your use of the Services.</p>
     </div>
+    <!-- /13 -->
 
+    <!-- 14 -->
     <div class="link-bar">Changes to GoFundMe's Privacy Policy</div>
     <div class="row column small-12 large-11">
-        <p>The Services and our business may change from time to time. As a result, at times it may be necessary for GoFundMe to make changes to this Privacy Policy. GoFundMe reserves the right to update or modify this Privacy Policy at any time and from time to time. Any material changes will be preceded by a notice posted on the relevant Service(s). If you disagree with our revisions to the Privacy Policy, you may de-activate your account or discontinue the use of our Services. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
+        <p>The Services and our business may change from time to time. As a result, at times it may be necessary for GoFundMe to make changes to this Privacy Policy. GoFundMe reserves the right to update or modify this Privacy Policy at any time and from time to time. If you disagree with our revisions to the Privacy Policy, you may de-activate your account or discontinue the use of our Services. Please review this policy periodically, and especially before you provide us with any information through the Services. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.</p>
     </div>
+    <!-- /14 -->
 
-    <div class="link-bar">Access to Information; Contacting GoFundMe</div>
+    <!-- 15 -->
+    <div class="link-bar">Contacting GoFundMe</div>
     <div class="row column small-12 large-11">
-        <p>To keep your Personal Data accurate, current, and complete, please contact us as specified below. You may request in writing copies of your Personal Data held by us. If your Personal Data that we hold is inaccurate, please let us know and we will make the necessary amendments, erase, or block the relevant Personal Data as you request and notify you within thirty (30) days of such request that the relevant action has been taken.</p>
         <p>Please also feel free to contact us if you have any questions about GoFundMe's Privacy Policy or the information practices of the Services.</p>
-        <p>You may contact us as follows: <a href="mailto:support@gofundme.com" target="_blank">support@gofundme.com</a>.</p>
+        <p>You may contact us as follows:</p>
+        <p>Legal Department<br>
+            855 Jefferson Avenue<br>
+            P.O. Box 1329<br>
+            Redwood City, CA 94063        </p>
+        <p><a href="mailto:support@gofundme.com">support@gofundme.com</a></p>
     </div>
+    <!-- /15 -->
 
     <!-- THIS SECTION IS AT THE BOTTOM OF ALL PAGES, THOUGH SOMETIMES CONTENT CHANGES -->
 <div class="row mt30 large-collapse">
@@ -381,8 +1399,8 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                 <div class="media-object-section">
                     <a href="https://play.google.com/store/apps/details?id=com.GoFundMe.GoFundMe&amp;referrer=utm_source%3Dgofundme%26utm_medium%3Dpublic_web_mobileapp" border="0" class="media-object-section img-play-store">Get it on Google Play</a>
                 </div>
-                
-                
+
+
             </div>
         </div>
 
@@ -400,7 +1418,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
                 <div class="small-12 large-6 column">
                     <ul class="list-with-checks fa-ul">
                         <li><i class="fa-li fa fa-check"></i>No deadlines or goal requirements</li>
-                        <li class="is-5min"><i class="fa-li fa fa-check"></i>5-Minute Email Support</li>
+                        <li class="is-5min"><i class="fa-li fa fa-check"></i>Expert advice, 24/7</li>
                         <li><i class="fa-li fa fa-check"></i>Keep every donation you receive</li>
                     </ul>
                 </div>
@@ -408,7 +1426,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
             <div class="show-for-large mb20"></div>
             <div class="row">
                 <div class="column small-12 large-6 large-centered">
-                    <a href="/sign-up" data-gfm-analytics-element="btn_footer_why_gofundme_signup" class="button expanded primary large">Start a Fundraiser</a>
+                    <a href="/sign-up" data-gfm-analytics-element="btn_footer_why_gofundme_signup" class="button expanded primary large">Start a GoFundMe</a>
                 </div>
             </div>
         </div>
@@ -422,12 +1440,12 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 <!-- Footer -->
 
 <footer class="js-under-overlay">
-    <div class="footer-contain layer-white">
+    <div class="footer-contain layer-white ">
         <div class="row small-collapse large-uncollapse">
             <div class="column small-12">
 
-                    <div class="gfm-guarantee-footer value-props row column">
-                        <div class="prop small-12 large-4 column">
+                                            <div class="gfm-guarantee-footer value-props row column">
+                            <div class="prop small-12 large-4 column">
     <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--trophy"></div>
     <div class="prop-content">
         <h4>#1 Fundraising Platform</h4>
@@ -452,16 +1470,17 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 <div class="prop small-12 large-4 column">
     <div class="prop-icon ico-guarantee-sp ico-guarantee-sp--clock"></div>
     <div class="prop-content">
-        <h4>5-Minute Support</h4>
+        <h4>Expert advice, 24/7</h4>
         <div>
-            Contact us with your questions and we'll reply in 5 minutes—24/7.        </div>
+            Contact us with your questions and we'll answer, day or night.        </div>
         <div>
-            <a href="//www.gofundme.com/contact?t=home_page_question" class="read-more">Get Help</a>
+            <a href="//www.gofundme.com/mvc.php?route=contact/suggest" class="read-more">Get Help</a>
         </div>
     </div>
 </div>
-                    </div>
-                    <div class="dotted-line ml mr"></div>
+                        </div>
+                        <div class="dotted-line ml mr"></div>
+                    
                     <!-- Mobile Footer links -->
                     <div class="row small-12 column">
         				<ul class="footer-menu vertical menu hide-for-large mb0" data-accordion-menu="">
@@ -469,7 +1488,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         			                <a href="#">Get Started</a>
         			                <ul class="menu vertical nested">
         			                                                                        			                        <li class=""><a href="/tour">How It Works</a></li>
-        			                                                                        			                        <li class=""><a href="/pricing">Pricing and Fees</a></li>
+        			                                                                        			                        <li class=""><a href="/why-gofundme">Why GoFundMe</a></li>
         			                                                                        			                        <li class=""><a href="/questions">Common Questions</a></li>
         			                                                                        			                        <li class=""><a href="/success">Success Stories</a></li>
         			                                                                        			                        <li class=""><a href="/sign-up?mobdon_ft_mm">Sign Up Now</a></li>
@@ -487,9 +1506,9 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         			                <a href="#">Learn More</a>
         			                <ul class="menu vertical nested">
         			                                                                        			                        <li class=""><a href="/about-us">About Us</a></li>
-        			                                                                        			                        <li class="hide-non-en_US"><a href="/blog">The GoFundMe Blog</a></li>
+        			                                                                        			                        <li class="hide-non-en_US"><a href="https://blog.gofundme.com">Blog</a></li>
         			                                                                        			                        <li class=""><a href="/press">Press</a></li>
-        			                                                                        			                        <li class="hide-non-en_US"><a href="/fundraiser-success-tips">Fundraising Ideas</a></li>
+        			                                                                        			                        <li class=""><a href="https://support.gofundme.com/hc/en-us/categories/115001761567-Campaign-Success-Tips">Campaign Tips</a></li>
         			                                                                        			                        <li class=""><a href="/jobs">We're Hiring!</a></li>
         			                            			                </ul>
         			            </li>
@@ -527,7 +1546,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         	                        <div class="list-heading">Get Started</div>
         	                        <ul class="list-links">
         	                                                                                	                                <li class=""><a href="/tour">How It Works</a></li>
-        	                                                                                	                                <li class=""><a href="/pricing">Pricing and Fees</a></li>
+        	                                                                                	                                <li class=""><a href="/why-gofundme">Why GoFundMe</a></li>
         	                                                                                	                                <li class=""><a href="/questions">Common Questions</a></li>
         	                                                                                	                                <li class=""><a href="/success">Success Stories</a></li>
         	                                                                                	                                <li class=""><a href="/sign-up?mobdon_ft_mm">Sign Up Now</a></li>
@@ -545,9 +1564,9 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
         	                        <div class="list-heading">Learn More</div>
         	                        <ul class="list-links">
         	                                                                                	                                <li class=""><a href="/about-us">About Us</a></li>
-        	                                                                                	                                <li class="hide-non-en_US"><a href="/blog">The GoFundMe Blog</a></li>
+        	                                                                                	                                <li class="hide-non-en_US"><a href="https://blog.gofundme.com">Blog</a></li>
         	                                                                                	                                <li class=""><a href="/press">Press</a></li>
-        	                                                                                	                                <li class="hide-non-en_US"><a href="/fundraiser-success-tips">Fundraising Ideas</a></li>
+        	                                                                                	                                <li class=""><a href="https://support.gofundme.com/hc/en-us/categories/115001761567-Campaign-Success-Tips">Campaign Tips</a></li>
         	                                                                                	                                <li class=""><a href="/jobs">We're Hiring!</a></li>
         	                                    	                        </ul>
         	                    </div>
@@ -581,6 +1600,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 	            <div>© 2010-2017 GoFundMe</div>
 	            <ul class="menu social-links">
 	                <li><a href="https://www.facebook.com/gofundme"><i class="fa fa-facebook-official fb-blue" aria-hidden="true"></i></a></li>
+					<li><a href="https://www.youtube.com/user/gofundme"><i class="fa fa fa-youtube-play text-red" aria-hidden="true"></i></a></li>
 	                <li><a href="https://twitter.com/gofundme"><i class="fa fa-twitter tw-blue" aria-hidden="true"></i></a></li>
 	                <li><a href="https://www.instagram.com/gofundme/"><i class="fa fa-instagram text-black" aria-hidden="true"></i></a></li>
 	            </ul>
@@ -588,7 +1608,7 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 
         	<!-- DESKTOP -->
         	<div class="row show-for-large">
-	        	<div class="large-6 column">
+	        	<div class="large-7 column">
 		            <ul class="menu pl">
 		                <li>© 2010-2017 GoFundMe</li>
 		                <li><a href="/terms">Terms</a></li>
@@ -596,10 +1616,11 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 		                <li><a href="/legal">Legal</a></li>
 		            </ul>
 	        	</div>
-	        	<div class="large-6 column">
+	        	<div class="large-5 column">
 		            <ul class="social-links align-right menu">
 		                <li><a href="https://www.instagram.com/gofundme/"><i class="fa fa-instagram text-black" aria-hidden="true"></i></a></li>
 						<li><a href="https://twitter.com/gofundme"><i class="fa fa-twitter tw-blue" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.youtube.com/user/gofundme"><i class="fa fa fa-youtube-play text-red" aria-hidden="true"></i></a></li>
 		                <li><a href="https://www.facebook.com/gofundme"><i class="fa fa-facebook-official fb-blue" aria-hidden="true"></i></a></li>
 		            </ul>
 	        	</div>
@@ -611,171 +1632,9 @@ f.parentNode.insertBefore(j,f);}})({'gtm.start':1*new Date()},window,document,
 </footer>
 
 <input id="_token" name="_token" type="hidden" value="1d8559b30676003109f201370930f778">
-<!-- shared modals of home page and campaign page -->
-<div class="modal--signup reveal" id="signup-card-modal" data-reveal="" data-animation-in="modal-slide-in" data-animation-out="modal-slide-out" data-close-on-click="false" data-close-on-esc="false">
-    <div class="row column small-9 ">
-            <h1 class="card-title">  </h1>
-            <!-- alert flash messages -->
-            <div class="callout alert row text-left js-flash-error hide">
-                <div class="small-1 column">
-                    <i class="fa fa-exclamation" aria-hidden="true"></i>
-                </div>
-                <div class="small-10 column js-custom-description">
-
-                </div>
-                <button class="close-button" aria-label="Close alert" type="button">
-                    <i class="fa fa-times" aria-hidden="true"></i>
-                </button>
-            </div>
-                        <div class="js-fb-connect-container">
-                                <div class="row">
-                    <div class="column large-9 large-centered small-12 text-center">
-                        <a class="button fb-blue medium expanded js-use-fb" data-gfm-analytics-element="btn_sign_up_facebook" href="#">
-                            <i aria-hidden="true" class="fa fa-facebook-official"></i>
-                            &nbsp; Continue                        </a>
-                        <div class="button fb-blue medium expanded bt-loadingbt-loading hide">
-                            <i class="fa fa-circle-o-notch fa-spin"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-                        <div class="js-account-detected-container" style="display: none;">
-                <!-- Account Detected -->
-                <div class="text-center mb10">Account Detected</div>
-                <div class="text-center mb20">
-                    We're signing you in to your GoFundMe account now.                </div>
-                <div class="row mb20">
-                    <div class="column large-9 large-centered small-12 ">
-                        <div class="button medium primary expanded">
-                            <i class="fa fa-circle-o-notch fa-spin"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- confirm email container !-->
-            <div class="row js-confirm-email-container" style="display: none;">
-                <div class="column large-9 large-centered small-12 ">
-                    <div class="text-center mb10">Confirm Your Email</div>
-                    <div class="mb10">This is my primary email address</div>
-                    <div class="input-with-error">
-                        <input type="text" class="mb10" value="" id="facebookEmailConfirm">
-                        <div class="input-error is-error js-input-error hide">
-                            <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
-                            <span class="error-msg">
-                                Oops, something went wrong.                            </span>
-                        </div>
-                    </div>
-                    <div class="mb10"> Email address for <span id="facebookNameConfirm">Firstname Lastname</span>.                        <a href="#" class="link inline js-fb-logout"> Not <span id="facebookFirstName">Firstname</span>?</a></div>
-                    <!-- todo(dhuang): make sure this works for AU, CA and GB when productionize -->
-                    
-                    <a class="button button--override-theme medium expanded is_notloading js-fb-confirm-email" data-gfm-analytics-element="btn_fb_confirm_email_submit" href="#">
-                        &nbsp; My Email Looks Good                    </a>
-                    <div class="button button--override-theme medium expanded is_loading" style="display: none;">
-                        <i class="fa fa-circle-o-notch fa-spin"></i>
-                    </div>
-                </div>
-            </div> <!-- js-confirm-email-container: end -->
-
-            <div class="row">
-                <form action="/iapi/index.php?route=edit2/postsignup" method="post" id="modal-sign-up-form" data-error="signupsubmiterror" class="js-email-signup-container column large-9 large-centered small-12" style="display:none">
-                    <!-- js-email-signup-container: start -->
-                    <!-- fingerprint hidden field -->
-                    <input type="hidden" class="gfm_idcode" name="gfm_idcode" value="">
-                    <input type="hidden" class="fingerprints" name="fingerprints" value="">
-
-                    <input type="hidden" value="2" name="version">
-                    <input type="hidden" value="" name="flow">
-                    <input type="hidden" value="0" name="Funds[projecttype]">
-                    <input type="hidden" value="1" name="Stats[type]">
-                    <input type="hidden" value="0" name="Stats[statid]">
-                    <input type="hidden" value="" name="FBLogin[uid]">
-                    <input type="hidden" value="" name="FBLogin[token]">
-                    <input type="hidden" value="" name="FBLogin[email]" id="fbEmailOverride">
-                    <input type="hidden" value="1" name="confirm-signup">
-                                        
-                    
-                    <input type="hidden" value="" name="charity_uuid">
-                    
-                    
-                    <input type="hidden" value="" name="Team[id]">
-                                            <input type="hidden" id="currencyfield" value="" name="Organizations[currencycode]">
-                                        <!-- hidden fields: end -->
-
-                    <div class="word-line-break js-line-break mb20"> <span>or</span> </div>
-                    <div class="input-with-error">
-                        <input type="text" id="id_firstname" name="Users1[name]" data-gfm-analytics-element="input_first_name" placeholder="First Name">
-                        <div class="input-error is-error js-input-error hide">
-                            <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
-                            <span class="error-msg">
-                                Oops, something went wrong.                            </span>
-                        </div>
-                    </div>
-
-                    <div class="input-with-error">
-                        <input type="text" id="id_lastname" name="Users1[lastname]" placeholder="Last Name">
-                        <div class="input-error is-error js-input-error hide">
-                            <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
-                                <span class="error-msg">
-                                    Oops, something went wrong.                                </span>
-                        </div>
-                    </div>
-
-                    <div class="input-with-error">
-                        <input type="email" id="id_email" name="Users[email]" data-gfm-analytics-element="input_email" placeholder="Email">
-                        <div class="input-error is-error js-input-error hide">
-                            <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
-                                <span class="error-msg">
-                                    Oops, something went wrong.                                </span>
-                        </div>
-                    </div>
-
-                    <div class="input-with-error">
-                        <input type="email" id="id_confirmemail" name="confirm-email" data-gfm-analytics-element="input_email_confirm" placeholder="Confirm Email">
-                        <div class="input-error is-error js-input-error hide">
-                            <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
-                                <span class="error-msg">
-                                    Oops, something went wrong.                                </span>
-                        </div>
-                    </div>
-
-                    <div class="input-with-error">
-                        <input type="password" class="mb10" id="id_password" name="Users[password]" data-gfm-analytics-element="input_password" placeholder="Password" autocomplete="off">
-                        <div class="input-error is-error js-input-error hide">
-                            <i aria-hidden="true" class="fa fa-exclamation-circle"></i>
-                                <span class="error-msg">
-                                    Oops, something went wrong.                                </span>
-                        </div>
-                    </div>
-
-                    <a id="signup_next_button" href="#" class="js-signup-email-submit button button--override-theme medium expanded is_notloading" data-gfm-analytics-element="btn_sign_up_submit">Sign Up</a>
-                    <a class="button button--override-theme expanded is_loading" style="display: none;" href="#">
-                        <i class="fa fa-circle-o-notch fa-spin"></i>
-                    </a>
-                    <div class="button" style="display: none;"></div>
-
-                </form>
-            </div>
-        <!-- BOTTOM LINK -->
-        <div class="bottom-link mt0 mb20 row column js-use-email-container">
-            <a class="js-email-signup " data-gfm-analytics-element="btn_sign_up_email" href="#">Use Email Address</a>
-        </div>
-
-                    <div class="row">  <!-- GFM will never post w/o permission -->
-                <div class="column large-9 large-centered small-12 terms-description">
-                    <small>
-                        GoFundMe’s fee is 5% per donation, and our payment processor’s fee is 2.9% + $0.30 per donation. GoFundMe will <strong>never</strong> post without your permission. By continuing, you agree with the GoFundMe <a href="//www.gofundme.com/terms" target="_blank" class="tm">terms</a> and <a href="//www.gofundme.com/privacy" target="_blank" class="tm"> privacy policy</a>.                    </small>
-                </div>
-            </div>
-                <div class="bbb-logo mt20"></div>
-        <div class="bottom-link row column goto-login-container">
-            <a class="js-goto-signin" data-gfm-analytics-element="btn_goto_signin" href="//www.gofundme.com/sign-in">Already have an account? Sign in.</a>
-        </div>
-    </div> <!-- .row.column -->
-</div>
 
 
-
-<script src="//funds.gofundme.com/js/build/homepage.min.js?v=18.39"></script>
+<script src="//funds.gofundme.com/js/build/homepage.min.js?v=20.47"></script>
 <script type="text/javascript">
     if (typeof(_gat) == 'object')
     {
