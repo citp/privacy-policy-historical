@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msexchangeteam.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628153812id_/https%3A//msdn.microsoft.com/dn529288) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msexchangeteam.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231115336id_/https%3A//msdn.microsoft.com/dn529288) for the most accurate reproduction.*
 
 # Microsoft Developer Services Privacy Statement
 
