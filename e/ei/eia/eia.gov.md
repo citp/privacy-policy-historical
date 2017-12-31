@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918162454id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231222006id_/https%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
 
 # About EIA - Policies - U.S. Energy Information Administration (EIA)
 
@@ -16,7 +16,7 @@ Since disabling this web measurement technology requires you to modify your indi
 
 #### If you send us personal information and/or subscribe to EIA's e-mail notification system (e-lists)
 
-If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](https://web.archive.org/web/20160918162454id_/http%3A//www.eia.gov/about/www.eia.gov/about/feedback)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
+If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](http://www.eia.gov/about/feedback/)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
 
 #### If you participate in EIA's social media activities
 
