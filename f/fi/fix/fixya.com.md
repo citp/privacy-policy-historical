@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixya.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625110633id_/http%3A//www.fixya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixya.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231082926id_/http%3A//www.fixya.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Fixya
 
