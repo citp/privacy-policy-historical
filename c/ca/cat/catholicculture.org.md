@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholicculture.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623114303id_/http%3A//www.catholicculture.org/about/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicculture.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231153203id_/http%3A//www.catholicculture.org/about/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy | Catholic Culture
 
@@ -6,6 +6,6 @@ We have a deep committment to securing your information and keeping it private. 
 
 Your email address serves as your login user name for this site. The email address that you submit will NOT be shared with third parties without your consent. If you do not wish to receive email from this site, you can adjust your options from the _My Account_ section upon completing your registration.
 
-This information is meant to be understood within the context of our [Terms and Conditions](https://web.archive.org/web/20170623114303id_/http%3A//www.catholicculture.org/about/legal/terms.cfm). Your use of this site, and the transmission of any private information during its use, is entirely at your own risk.
+This information is meant to be understood within the context of our [Terms and Conditions](https://web.archive.org/web/20171231153203id_/http%3A//www.catholicculture.org/about/legal/terms.cfm). Your use of this site, and the transmission of any private information during its use, is entirely at your own risk.
 
 The information contained in this web site is subject to change without notice.
