@@ -1,38 +1,26 @@
-> *The following text is extracted and transformed from the playbattlegrounds.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013650id_/http%3A//www.playbattlegrounds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbattlegrounds.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231180855id_/http%3A//www.playbattlegrounds.com/privacyPolicy.pu) for the most accurate reproduction.*
 
-# Privacy Policy – PLAYERUNKNOWN'S BATTLEGROUNDS
+# PLAYERUNKNOWN'S BATTLEGROUNDS
 
-Please read our privacy policy carefully.
+**7.  Cookie And Related Technologies.** Bluehole uses cookies and other technologies to collect demographic information, personalize your experience on the Site and monitor advertisements and other activities. Cookies are small files downloaded to your computer (if your browser is enabled to accept cookies) to track movements within web sites. We may link cookie information to Personal Information. We use cookies and other technology to customize your experience within the Site. Personal Information collected through the use of these technologies will be handled according to this Privacy Policy.  
+Most Internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or "Help" screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the Site may not function properly.  
+We do not control cookies in third party ads, and you are encouraged to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. The ads appearing on the Site may be delivered to you by third-party advertising companies. These companies may use information about your visits to this and other web sites in order to provide advertisements on the Site and other sites about goods and services that may be of interest to you.
 
-Bluehole, Inc. (“Bluehole”) respects your privacy and is committed to protecting your personal information that you may provide us during your participation in our Tester Group.
+We also maintain log files which contain Internet Protocol ("IP") addresses. An IP address is a numeric address that is assigned to your computer by your Internet Service Provider. We use log files to monitor traffic on the Site, to report information to our advertisers and to troubleshoot technical problems. In the event of user abuse of the Site, we may block certain IP addresses. IP addresses may be used to personally identify you in order to enforce our Terms of Service and any applicable end user license agreement.  
+Google® Analytics;
 
-YOUR ACCEPTANCE OF THIS PRIVACY POLICY IS A NECESSARY CONDITION FOR YOUR PARTICIPATION IN OUR TESTER GROUP (“A GROUP OF TESTERS PARTICIPATING IN OUR GAME TEST”) AND USE OF THE SITE (THE “SITE”). BY USING THE SITE AND YOUR PARTICIPATION IN OUR TESTER GROUP, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY’S TERMS AND CONDITIONS.  
-PERSONAL INFORMATION
+More specifically, Bluehole may use the following advertising functions of Google® Analytics and collect personal information as provided by Google®, and you may withdraw your consent by deactivating such functions in Google®'s advertising settings: Remarketing by using Google® Analytics; Google® Display Network Exposure Report; Google® Analytics Demographics and interests Report; and Integrated service allowing the collection of data through Google® Analytics by using advertising cookies and anonymous IDs. 
 
-To participate in our Tester Group and in order for you to register for an account, Bluehole may require you to provide us with certain information including your full name, address, nickname, date of birth, e-mail address, and additional information required by Bluehole. Bluehole does not collect any Personal Information from you unless you provide it to Bluehole voluntarily. If you refuse to divulge your Personal Information when requested, you may not be able to participate in our Tester Group.
+**9.  How Personal Information Is Used.** The Personal Information collected from you will be used to operate the Site and to provide the products or services or carry out the transactions you have requested or authorized.  
+In support of these uses, Bluehole may use Personal Information to provide you with more effective service, to improve the Site and any related Bluehole products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information. In order to offer you a more consistent experience in your interactions with Bluehole, information collected by the Site may be combined with information collected by Bluehole from other sources.
 
-NON-PERSONAL INFORMATION  
-In addition to the above information, Bluehole may collect certain non-Personal Information about your use of our Site and participation in our Tester Group. We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your browsing behavior through the Site, and the web site or advertisement that was linked to or from the Site when you visited. To do this, we may use cookies and other technology (see below). Your visits to the Site, and information provided through these technologies, will be anonymous unless you provide us with Personal Information or have provided such information in the past. This information is used to help improve the Site, analyze trends, and administer the Site.
+We may merge Site-visitation data with demographic information, and we may use this information to provide more relevant content. We may combine Site-visitation data with your Personal Information in order to provide you with personalized content.
 
-COOKIE DATA  
-Bluehole may use cookies (small text files stored on a participant’s computer) and other passive data collection techniques to gather data regarding individuals’ interaction with our Site, our services, and participation in the Tester Group. We use the data gathered through cookies to provide event initiators with statistical data regarding event participation.
+Bluehole may hire other companies to provide products or services on our behalf, and we may provide such companies with Personal Information to help them perform their duties.  
+Bluehole may disclose Personal Information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Bluehole; (b) protect and defend the rights or property of Bluehole or its affiliates; or (c) act in urgent circumstances to protect the personal safety of Bluehole employees or agents, users of Bluehole products or services, or members of the public.
 
-STATISTICAL AND USAGE DATA  
-When you use the Site, we may retrieve information about your hardware system and how our services are used, including your IP address. We use this information to enable you to use the services offered through the Site over the Internet. We also use this information to better understand the behavior and preferences of our Testers, so that we can improve our products and services.
+Personal information collected on the Site may be stored and processed in the Republic of Korea or any other state or country in which Bluehole or its affiliates or agents maintain facilities, and by using the Site you consent to any such transfer of information to another state or country.
 
-ANONYMOUS SINGULAR SUMMARY AND AGGREGATE STATISTICAL INFORMATION  
-Personal demographic and profile data regarding our Testers is only shared with our employees, affiliates or our partner on an aggregate basis. Anonymous singular and aggregate statistical summary information is data that describes the interest profile and demographics data of a Tester without specifically identifying the individual. This data does not contain personally identifying information such as a name or e-mail address, nor does the combination of data make it possible to identify you.
+You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Site, of any Personal Information contained in our database for such site, if Bluehole or one of its companies assigns all of its rights and obligations regarding the use of your Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of Bluehole's assets to a subsequent owner or operator, or similar event.
 
-PERSONALLY IDENTIFIABLE INFORMATION  
-We do not share, sell, rent or trade personally identifiable information with third parties for any purpose.  
-However we reserve the right to disclose your personally identifiable information as required by law when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served.
-
-CHILDREN UNDER THE AGE OF 13  
-Because the Site and the Tester Group is not directed to children under the age of 13, we prohibit registration to persons under age 13. If you are under the age of 13, you may not create an account on the Site. We will not knowingly collect, maintain, or disclose any Personal Information from children under the age of 13.
-
-CHANGES TO OUR PRIVACY POLICY  
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will also revise the “last updated” date at the top of this Privacy Policy, and may attempt to notify you by email, pop-up screen, or by means of a notice somewhere else on the Site. Your continued use of the Site will signify your acceptance of the changes to our Privacy Policy.
-
-CONTACT  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[battlegrounds@bluehole.net](mailto:battlegrounds@bluehole.net)
+Please do not use your real name or the real name of another person when selecting a username. Please note that your username will be available to the Internet's general public while you participate in some services, like message boards or forums, so you should exercise discretion when using these services. We are not responsible for protecting such information that you may disclose to third parties through our services. 
