@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630230803id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawn.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231023952id_/https%3A//www.dawn.com/privacy) for the most accurate reproduction.*
 
 # Privacy - DAWN.COM - DAWN.COM
 
@@ -113,7 +113,7 @@ This information we collect about behavior on your computer enables us to group 
 
 We do not share behavioral data with other websites.
 
-Please visit http://www.dawn.com/privacypolicyoptout to opt you.
+Please visit https://www.dawn.com/privacypolicyoptout to opt you.
 
 ### Other Advertising
 
