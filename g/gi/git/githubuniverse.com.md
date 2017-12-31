@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the githubuniverse.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628015041id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the githubuniverse.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231162938id_/https%3A//github.com/site/privacy) for the most accurate reproduction.*
 
 # GitHub Privacy Statement - User Documentation
 
-Effective date: **January 26, 2017**
+Effective date: **October 11, 2017**
 
 Thanks for entrusting GitHub with your source code, your projects, and your personal information. Holding onto your private information is a serious responsibility, and we want you to know how we're handling it.
 
@@ -136,7 +136,7 @@ In the unlikely event that a dispute arises between you and GitHub regarding our
 
 ####  Independent Arbitration
 
-Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). 
+Under certain limited circumstances, European Union individuals may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution have been unsuccessful. To learn more about this method of resolution and its availability to you, please read more about [Privacy Shield](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 We are subject to the jurisdiction of the Federal Trade Commission.
 
@@ -164,7 +164,7 @@ If you would like to cancel your account or delete your User Personal Informatio
 
 We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. You have a lot of control over how your email address is used and shared on and through GitHub. You may manage your communication preferences in your [user profile](https://github.com/settings/emails).
 
-If you would like your email to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You can also [update your local Git configuration to use your private email address](https://web.archive.org/articles/keeping-your-email-address-private/). This will not change how we contact you, but it will affect how others see you.
+If you would like your email to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You can also [update your local Git configuration to use your private email address](https://web.archive.org/articles/setting-your-commit-email-address-on-github/). This will not change how we contact you, but it will affect how others see you.
 
 Depending on your email settings, GitHub may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent. There's an unsubscribe link located at the bottom of each of the emails we send you.
 
@@ -176,7 +176,7 @@ Although most changes are likely to be minor, GitHub may change our Privacy Stat
 
 ###  License
 
-This Privacy Statement is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). You may use it freely under the terms of the Creative Commons license.
+This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). For details, see our [site-policy repository](https://github.com/github/site-policy#license).
 
 ###  Contacting GitHub
 
