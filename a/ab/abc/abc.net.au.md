@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630184224id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc.net.au privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231183017id_/http%3A//about.abc.net.au/abc-privacy-policy) for the most accurate reproduction.*
 
 # ABC Privacy Policy | About the ABC
 
@@ -146,9 +146,6 @@ You also have the right to request the correction of any of your personal inform
 **By email:**  
 [privacy.abc@abc.net.au](mailto:privacy.abc@abc.net.au)
 
-**By telephone:**  
-(02) 8333 5316
-
 **By mail:**  
 ABC Privacy Contact Officer  
 Australian Broadcasting Corporation  
@@ -277,9 +274,6 @@ You can contact the ABC about any privacy issues as follows:
 
 **By email:**  
 [privacy.abc@abc.net.au](mailto:privacy.abc@abc.net.au)
-
-**By telephone:**  
-(02) 8333 5316
 
 **By mail:**  
 ABC Privacy Contact Officer  
