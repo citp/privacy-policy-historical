@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visahunter.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613165152id_/http%3A//www.visahunter.com/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visahunter.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231081818id_/http%3A//www.visahunter.com/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy Policy | Visa Hunter
 
