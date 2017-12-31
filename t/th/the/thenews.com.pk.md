@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenews.com.pk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630225546id_/https%3A//www.thenews.com.pk/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenews.com.pk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231184659id_/https%3A//www.thenews.com.pk/privay-policy) for the most accurate reproduction.*
 
 # Privay-policy - The News International: Latest News Breaking, Pakistan News
 
@@ -15,7 +15,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes and if you receive any emails and you think that you received it because you submitted it to us, inform us at webmaster@jang.com.pk.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes and if you receive any emails and you think that you received it because you submitted it to us, inform us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site .
 
