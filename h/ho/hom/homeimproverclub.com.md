@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeimproverclub.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183521id_/http%3A//www.homedepot.com/c/Privacy_Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeimproverclub.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231144817id_/http%3A//www.homedepot.com/c/Privacy_Security) for the most accurate reproduction.*
 
 # Customer Support: Privacy Security
 
