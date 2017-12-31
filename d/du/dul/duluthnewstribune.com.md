@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duluthnewstribune.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121118id_/http%3A//www.duluthnewstribune.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthnewstribune.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231070954id_/http%3A//www.duluthnewstribune.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Duluth News Tribune
 
@@ -47,7 +47,7 @@ Forum Communications Company may also offer other services as a part of our site
 We reserve the right to disclose personal information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of Forum Communications Company.
 
 **Data Collected in Connection with Ad Serving and Targeting**  
-We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
 
@@ -67,7 +67,7 @@ Third party sites linked to and from the site are not necessarily under the cont
 Forum Communications Company cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
 
 **Opting-Out**  
-We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. If you no longer wish to receive special offers and promotions from IN-FORUM via e-mail, you may "opt-out" by editing your account information. To edit your account, please [click here](https://web.archive.org/web/20170606121118id_/http%3A//user/).
+We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. If you no longer wish to receive special offers and promotions from IN-FORUM via e-mail, you may "opt-out" by editing your account information. To edit your account, please [click here](https://web.archive.org/web/20171231070954id_/http%3A//user/).
 
 Certain portions of the site and certain services provided on the site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
 
@@ -78,7 +78,7 @@ You may access and maintain all of the personal information that we collect from
 
 You may also, at any time, choose to change or delete your profile from our database using this procedure. You should know that as a result of deregistration, certain areas of our site may no longer be accessible to you.
 
-1\. Go to the [login page](https://web.archive.org/web/20170606121118id_/http%3A//user/) in your browser.  
+1\. Go to the [login page](https://web.archive.org/web/20171231070954id_/http%3A//user/) in your browser.  
 2\. Sign in by entering your username and password. Your account information will then be displayed.  
 3\. Click 'Edit' to modify your information and submit the form.
 
