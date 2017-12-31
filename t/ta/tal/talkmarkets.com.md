@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talkmarkets.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401104713id_/http%3A//www.talkmarkets.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkmarkets.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231091610id_/http%3A//www.talkmarkets.com/Privacy-policy) for the most accurate reproduction.*
 
-# TalkMarkets - Privacy Policy
+# TalkMarkets - privacypolicy
 
 Last revised: September 17, 2013
 
@@ -8,7 +8,7 @@ TalkMarkets shares your concern about the protection of your personal informatio
 
 Questions or comments regarding this policy should be directed to privacy [@] [talkmarkets.com](http://talkmarkets.com/).
 
-### Information Gathered and Tracked by TalkMarkets
+### INFORMATION GATHERED AND TRACKED BY TALKMARKETS
 
 We gather two types of data about our users: personal information and tracking information.
 
@@ -16,13 +16,13 @@ We gather two types of data about our users: personal information and tracking i
 
 Personal information is provided by users when registering on TalkMarkets.com as a user of TalkMarkets.com, when registering as a subscriber to one of our email alerts, when registering as a contributor, and voluntarily at certain other points, such as entering contests, completing surveys or otherwise. You may enter your information on our site, but if you prefer, you may talk offline to a customer service representative and provide the required information by email at support [@] [talkmarkets.com](http://talkmarkets.com/).
 
-### Registering for Membership on TalkMarkets
+### REGISTERING FOR MEMBERSHIP ON TALKMARKETS
 
 Currently, we do not require users to register on TalkMarkets in order to have access to the commentary, analysis and news available on TalkMarkets.com. However, if you would like to use certain features, such as customizing your browising experience, following authors or members, or commenting on articles, we require you to register to become a member.
 
 In order to register, you will have to supply us with your email address and choose a unique User Name and Password. You will be required to verify your email address by clicking on the activation link in the Welcome Letter that will be sent to you upon your submission of a completed registrationform.
 
-### Other Personal Information Collection:
+### OTHER PERSONAL INFORMATION COLLECTION:
 
   * Portfolio - We may provide a free portfolio tool which registered members of TalkMarkets can use to stay current on stocks in their portfolio. Participant's have the option to keep their portfolio information private or to share this content with other users of similar interests.
   * Content - We may offer articles, blogs, videos, podcasts or other information featuring commentary by our contributors. These allow subscribers to respond to a writer's commentary or to another subscriber's post. We urge and encourage participants posting comments on the blogs to include their full name in any comment and to disclose any positions held in securities they discuss in any comment. Please note that information submitted will be available for any user to read, and is no longer private.
@@ -52,7 +52,7 @@ TalkMarkets uses the personal information and tracking information obtained from
 
 
 
-### Information Sharing
+### INFORMATION SHARING
 
 TalkMarkets does not sell or disclose personal information about you described above to other people or nonaffiliated companies, except to provide you with products or services, when we have your permission, or under the following circumstances:
 
