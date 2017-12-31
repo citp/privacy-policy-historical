@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidgator.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630234946id_/http%3A//rapidgator.net/article/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidgator.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231210155id_/https%3A//rapidgator.net/article/privacyPolicy) for the most accurate reproduction.*
 
 # Rapidgator.net: Fast, safe and secure file hosting
 
