@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231213921id_/https%3A//www.redhat.com/en/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Last Updated: September 28, 2016
+Last Updated: September 27, 2017 
 
 ## Privacy statement table of contents
 
@@ -15,7 +15,7 @@ Last Updated: September 28, 2016
   * Security
   * Social Media, Public Forums and Links to Other Websites
   * Children’s Online Privacy
-  * Data Transfers and Safe Harbor Framework
+  * Data Transfers and Privacy Shield Frameworks
   * Changes to This Privacy Statement
   * How to Contact Us
 
@@ -111,9 +111,9 @@ Back to top
 
 In accordance with the laws of certain countries, you may have certain rights and choices regarding the personal information we collect and maintain about you, and how we communicate with you.
 
-Red Hat gives you the ability to access, modify, or update some of your personal information online at any time. You may [log in](https://www.redhat.com/wapps/sso/login.html) and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also [contact us via our Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback) and describe the changes you want made to the information you have previously provided. However, note that changing or deleting information necessary for Red Hat to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
+Red Hat gives you the ability to access, modify, or update some of your personal information online at any time. You may [log in](https://www.redhat.com/wapps/sso/login.html) and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also [contact us via our Feedback Form](https://web.archive.org/web/20171231213921id_/https%3A//www.redhat.com/en/about/feedback) and describe the changes you want made to the information you have previously provided. However, note that changing or deleting information necessary for Red Hat to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
 
-You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal information, or when we send you a marketing email. You have the ability to opt out of receiving marketing emails from Red Hat at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our [Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback).
+You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from Red Hat or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal information, or when we send you a marketing email. You have the ability to opt out of receiving marketing emails from Red Hat at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our [Feedback Form](https://web.archive.org/web/20171231213921id_/https%3A//www.redhat.com/en/about/feedback).
 
 You can also exercise your rights and choices by contacting us as described below under “How to Contact Us.”
 
@@ -135,17 +135,15 @@ Back to top
 
 ## Children’s Online Privacy
 
-Red Hat’s products and services are not directed to children and Red Hat does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us via our [Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback) or as described below under “How to Contact Us.”
+Red Hat’s products and services are not directed to children and Red Hat does not knowingly collect online personal information from children under the age of 13. If you are a parent or guardian of a minor under the age of 13 and believe that he or she has disclosed personal information to us, please contact us via our [Feedback Form](https://web.archive.org/web/20171231213921id_/https%3A//www.redhat.com/en/about/feedback) or as described below under “How to Contact Us.”
 
 Back to top
 
-## Data Transfers and Safe Harbor Framework
+## Data Transfers and Privacy Shield Frameworks
 
 Red Hat is a global organization, with legal entities, business processes, and technical systems that operate across borders. Red Hat may transfer your personal information to other Red Hat entities in the United States and elsewhere. The United States and other countries may not have the same data protection laws as the country from which you initially provided the information. By accessing Red Hat websites, registering for an account or service, or otherwise providing Red Hat with your personal information, you consent to this transfer of your personal information. When transferring your personal information internationally, Red Hat will protect your personal information as provided in this Privacy Statement.
 
-If you are located in the European Economic Area (“EEA”), Red Hat and its controlled United States subsidiaries have certified to the EU-U.S. Privacy Shield Framework for the transfer of Personal Information from the EEA to the United States, as described in our [Privacy Shield Privacy Notice.](https://web.archive.org/en/about/privacy-shield-notice) To learn more about the EU-U.S. Privacy Shield Framework and to view our certification, please visit [www.privacyshield.gov.](https://www.privacyshield.gov/)
-
-Red Hat and its controlled United States subsidiaries also maintain an affirmative commitment to the U.S.-Swiss Safe Harbor Framework for the transfer of Personal Information from Switzerland to the United States, which is not affected by our participation in the Privacy Shield. To learn more about the U.S.-Swiss Safe Harbor program, and to view our certification, please visit [safeharbor.export.gov/swisslist.aspx.](http://safeharbor.export.gov/swisslist.aspx)
+If you are located in the European Economic Area (“EEA”) or Switzerland, Red Hat and its controlled United States subsidiaries have certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks for the transfer of Personal Information from the EEA and Switzerland to the United States, as described in our [Privacy Shield Privacy Notice.](https://web.archive.org/en/about/privacy-shield-notice) To learn more about the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and to view our certification, please visit [www.privacyshield.gov.](https://www.privacyshield.gov/)
 
 Back to top
 
@@ -153,7 +151,7 @@ Back to top
 
 Red Hat reserves the right to make corrections, changes or amendments to this Privacy Statement at any time. The revised Privacy Statement will be posted on this website. A notice will be posted on our homepage for 30 days whenever this Privacy Statement is changed in a material way, and the date of last update will be indicated at the top of the Privacy Statement. If you do not refuse the changes in writing within that notice period, this shall mean that you have consented to the Privacy Statement as changed, including with respect to personal information provided to us prior to the changes in the Privacy Statement. We encourage you to periodically review this Privacy Statement for any changes or updates.
 
-If you have any questions about Red Hat’s privacy practices or use of your personal information, please feel free to contact us at [privacy@redhat.com,](mailto:privacy@redhat.com) via our [Feedback Form](https://web.archive.org/web/20170606172153id_/https%3A//www.redhat.com/en/about/feedback) or by mail at:
+If you have any questions about Red Hat’s privacy practices or use of your personal information, please feel free to contact us at [privacy@redhat.com,](mailto:privacy@redhat.com) via our [Feedback Form](https://web.archive.org/web/20171231213921id_/https%3A//www.redhat.com/en/about/feedback) or by mail at:
 
 Red Hat, Inc.  
 Corporate Legal Group  
