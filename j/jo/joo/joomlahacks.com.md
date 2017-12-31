@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlahacks.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502035121id_/http%3A//www.joomlahacks.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlahacks.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231224429id_/http%3A//www.joomlahacks.com/help/privacy) for the most accurate reproduction.*
 
 # JoomlaHacks.com / help / privacy policy
 
