@@ -1,15 +1,69 @@
-> *The following text is extracted and transformed from the mlblogs.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225121033id_/http%3A//mlb.mlb.com/mlb/official_info/about_mlb_com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlblogs.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231232425id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
-# MLB.com Privacy Policy | MLB.com
+# Medium Privacy Policy – Medium Policy – Medium
 
-Technical Information. When you use the MLBAM Properties, we use software tools, including but not limited to cookies (small amounts of data which include a unique string of characters sent to your browser or application from a website's computers and stored on your computer's or device's hard drive), web beacons (technology used to track activity, also known as pixel tags) and similar technologies, to collect a variety of technical, non-personally identifiable information, for example the type of Internet browser or operating system used to access an MLBAM Property, the date and duration of a Website visit or the Internet Protocol address used to access the Website. We use such technical information for internal purposes, for example to study and improve the response times of our Website. We may associate such technical information with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. Please be advised that associating technical information with personal information may be required for us, and our Service Providers, to recognize you and your communications with us, for example to retain your newsletter preferences or enable your use of a "shopping cart." 
+**Effective Date: March 7, 2016**
 
-Location Data. When you use an MLBAM Property via a wireless device we may solicit your permission to collect your location data. Some features within our Applications (e.g., live MLB game video or location-based offers) may only function upon confirmation of your location, and therefore such features will not be available if you choose not to provide your location data to us. The specificity of the location data collected may depend on a number of factors, including the device you are using (e.g., laptop, smartphone, tablet) and how you are connected to the Internet (e.g., via cable broadband connection, WiFi). If you enable location services for our Applications, we may collect location data (e.g., zip code) periodically as you use or leave open our Applications. We use such location information for internal purposes and to improve your MLBAM Property experience, for example to understand where our users are most successfully accessing the MLBAM Properties. We may associate such location information with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. Depending on the platform you use to access our Applications (e.g., Apple's iOS, Google's Android) you may be able to control whether location data is collected from within "Settings" or other controls on your wireless device or the Applications. 
+Privacy is important. We respect yours. Our goal is to do more than we have to by law — we want to earn your trust that we are careful with your data.
 
-Our Access to Your Contacts. When you use our Games, we may solicit your permission to access your contacts list (e.g., address book) so you can be matched with individuals from your contacts lists who participate in our Games and you can invite your friends to play. We will not store the information in your contacts list except to manage your Game invitations. 
+#### General information
 
-Third Party Cookies and Web Beacons; Network Advertisers. We allow select third parties, such as those who deliver advertisements, content, social networking or provide other services associated with the MLBAM Properties, to set cookies, web beacons or similar technologies in certain locations within the MLBAM Properties, including but not limited to certain of our emails. Third party companies that manage and deliver advertisements to websites and applications such as ours are commonly referred to as "network advertisers." A permitted network advertiser may use cookies, web beacons or similar technologies to collect information about your interaction with the MLBAM Properties in order to tailor certain advertisements and content delivered within the MLBAM Properties and on other websites within such network advertiser's ad network. You may learn more about network advertising industry practices and opt out of targeted behavioral advertising from many major third party network advertisers via the information and tools available [here](http://www.aboutads.info/choices/) and [here](http://www.networkadvertising.org/choices/). 
+This policy sets out our privacy practices and explains how we handle the information we collect when you visit and use our sites, services, mobile applications, products, and content (“Services”).
 
-Social Networking. When using the MLBAM Properties or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each a "Social Network"), you may have the option to connect your MLBAM Property information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your MLBAM Property activity with that Social Network and its users, and to access certain of your Social Network information, as disclosed to you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your MLBAM Property activity, your MLBAM Property comments or the videos you watch on MLBAM Properties. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers and certain information about your activities on the Social Network. If you permit a connection between a Social Network and an MLBAM Property, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to an MLBAM Property. 
+#### What we may collect
 
-Device ID. When you use certain MLBAM Properties, we or our Service Provider may collect your unique device ID. We may use such information for internal purposes and to provide you a better MLBAM Property experience, for example to troubleshoot Application problems you may experience or provide you rewards or offers in connection with your Game activity. We may associate Device ID with personal information you provide to us as described in Section 1 above, in which case we will treat such associated information as personal information. You may learn more about our Service Provider for Mobile Games and opt out of any anonymous Device ID collection via the information and tools available [here](http://www.flurry.com/legal-privacy/end-user-opt-out).
+We collect information about what Medium pages you access, information about your mobile device (such as device or browser type), information you send us (such as an email address used to register or communicate with us), and referral information.
+
+When you use Medium Services, we may collect and store your Internet Protocol address. We may use this information to fight spam and other abuse; to personalize Medium Services; or to generate aggregate, non-identifying information about how people use Medium Services.
+
+When you create your Medium account, and authenticate via a third-party service like Twitter or Facebook, we may collect, store, and periodically update the contact lists associated with that third-party account, so you can connect with existing contacts from that service who are on Medium.
+
+#### Email from Medium
+
+Sometimes we’ll send administrative emails about account or service changes, or new policies. You can’t opt out of them. You can always opt out of non-administrative emails such as daily digests.
+
+We won’t email you to ask for your password or other account information. If you receive such an email, send it to us so we can investigate.
+
+#### Disclosure of your information
+
+As a rule, we don’t share your personal information outside the company.
+
+We won’t sell your personal information.
+
+We may share your personal information with third parties in limited circumstances, including: (1) with your consent; (2) to a vendor or partner who meets our data protection standards; or (3) when we have a good faith belief it is required by law, such as pursuant to a subpoena or other legal process.
+
+If we’re going to share your information in response to legal process, we’ll give you advance notice so you can challenge it (for example by seeking court intervention), unless we’re prohibited from doing so by law or court order. We will object to requests for information about users of our site that we believe to be improper.
+
+If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer. You can opt out of the new policy by deleting your account during the notice period.
+
+#### Cookies
+
+We use cookies and similar technologies such as pixels and local storage to recognize you when you return to our Services. We use them in various ways, for example to log you in, remember your preferences (such as default language), evaluate email effectiveness, show relevant ads, and personalize information.
+
+We respect [Do Not Track](https://medium.com/policy/how-we-handle-do-not-track-requests-on-medium-f2b4b4fb7c5e) (“DNT”) settings in browsers. If you’re logged out of our Services and have DNT enabled, we will not set cookies. By logging in you are opting to allow Medium to ignore the DNT setting and to use cookies in order to provide you a personalized experience.
+
+Some third-party services that we use, such as [embedly](http://embed.ly/) or [Google Analytics](http://www.google.com/policies/privacy/partners/), may place their own cookies in your browser. This Privacy Policy covers use of cookies by Medium only and not the use of cookies by third parties.
+
+#### Data Storage
+
+Medium uses third-party vendors and hosting partners, such as Amazon, for hardware, software, networking, storage, and related technology we need to run Medium. We [maintain two types of logs](https://medium.com/policy/mediums-data-logs-4d2f799a7d52): server logs and event logs.
+
+####  **Modifying your personal information or deleting your  account**
+
+If you have a Medium account, you can access and modify your personal information, or delete your account [here](https://medium.com/me/settings).
+
+To protect information from accidental or malicious destruction, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+
+If you delete your account, your account and content may be unrecoverable.
+
+#### Data security
+
+We use encryption (HTTPS/TLS) to protect data transmitted to and from our site. However, no data transmission over the Internet is 100% secure, so we can’t guarantee security. You use the Service at your own risk, and you’re responsible for taking reasonable measures to secure your account (like using a strong password).
+
+#### Changes to this Policy
+
+Medium may periodically update this Policy. We’ll notify you about significant changes to it. The most current version of the policy will always be [here](https://medium.com/policy/f03bf92035c9) and we will archive former versions of the policy [here](http://github.com/Medium/policy).
+
+#### Questions
+
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:legal@medium.com).
