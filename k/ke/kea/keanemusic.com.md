@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keanemusic.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622201912id_/http%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keanemusic.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231123651id_/https%3A//www.umusic.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Universal Music Group Privacy Policy
 
