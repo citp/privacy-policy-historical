@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the mathtag.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624162708id_/https%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathtag.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231195233id_/https%3A//www.mediamath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MediaMath
 
 ## **Privacy Policy**
 
-_Effective as of March 28, 2017_
+_Effective as of December 18, 2017_
 
 ### **Introduction**
 
-MediaMath is a global provider of digital advertising media and data management technology. MediaMath’s TerminalOne™ Marketing Operating System (the “ **Platform** ”) activates data, automates execution, and optimizes advertising interactions across addressable media — delivering greater performance, transparency, and control to marketers and a better experience to consumers.
+MediaMath is a global provider of digital advertising media and data management technology. MediaMath’s proprietary TerminalOne™ platform (the " **Platform** ") activates data, automates execution, and optimizes advertising interactions across addressable media — delivering greater performance, transparency, and control to marketers and a better experience to consumers.
 
-This privacy policy (“ **Policy** “) sets out how MediaMath processes information collected via our Platform and on our website at www.mediamath.com (the “ **Website** ”). It also sets out our practices regarding our use of such information, the steps we take to protect it, as well as the choices and rights that consumers (“ **users** “, “ **you** “, “ **your** “) have regarding how we collect and process information about them.
+This privacy policy (“ **Policy** “) sets out how MediaMath processes information collected via our Platform and on our website at www.mediamath.com (the " **Website** "). It also sets out our practices regarding our use of such information, the steps we take to protect it, as well as the choices and rights that consumers (“ **users** “, “ **you** “, “ **your** “) have regarding how we collect and process information about them.
 
 In this Policy, we use the terms “ **MediaMath** “, “ **our** “, “ **us** ” and “ **we** ” to refer to MediaMath, Inc. and our affiliates.
 
 MediaMath is committed to protecting the privacy of consumers when we process information about them via our Platform and the users of our Website. We adhere to applicable industry guidelines, and will continue to review and update our Policy and procedures to ensure the safety and protection of personal information.
 
-MediaMath is an active member of the industry associations that govern the policies around online consumer privacy in the context of interest-based advertising, including: the Digital Advertising Alliance (DAA) in the US, EU, and Canada; the Direct Marketing Association in the US and the UK; the Interactive Advertising Bureau (IAB) in Australia, Brazil, Canada, Europe, Germany, Italy, Mexico, Singapore, the US and the UK; and the Network Advertising Initiative (NAI) ([www.networkadvertising.org](http://www.networkadvertising.org/)). MediaMath complies with the DAA Self-Regulatory Principles for Online Behavioral Advertising and their Application to the Mobile Environment, and the 2015 NAI Code of Conduct. We believe that these programs’ principles help protect individual consumer privacy.
+MediaMath is an active member of the industry associations that govern the policies around online consumer privacy in the context of interest-based advertising, including: the Digital Advertising Alliance (DAA) in the US, EU, and Canada; the Data & Marketing Association in the US and the UK; the Interactive Advertising Bureau (IAB) in Australia, Brazil, Canada, Europe, Germany, Mexico, Singapore, the US and the UK; and the Network Advertising Initiative (NAI) ([www.networkadvertising.org](http://www.networkadvertising.org/)). MediaMath complies with the DAA Self-Regulatory Principles for Online Behavioral Advertising and their Application to the Mobile Environment, and the 2015 NAI Codes of Conduct. We believe that these programs’ principles help protect individual consumer privacy.
 
 [](http://www.networkadvertising.org/) | [](http://www.iab.net/) |    [](http://thedma.org/) |    [](http://www.edaa.eu/participating-companies/) |    [](http://www.youradchoices.com/) |    [](https://www.tagtoday.net/)  
 ---|---|---|---|---|---  
@@ -29,11 +29,11 @@ In the course of delivering an ad to you via the Platform, MediaMath does not in
 
 The information MediaMath collects includes common information found in every communication sent over the Internet, from which we infer such things as: browser type (e.g., Chrome or Internet Explorer); operating system (e.g., Mac OS or Windows); browser language (e.g., English or Spanish); Internet Protocol (IP) address; Internet Service Provider (e.g., Comcast or Verizon); and mobile advertising identifier, for mobile devices such as smartphones and tablets.
 
-MediaMath may also collect data regarding your interactions with our clients and partners, including your use of our clients’ sites and mobile apps, the sites and apps our clients advertise on, and other pages on the Internet. We may also capture additional data in order to calculate a statistical ID, as described below.
+MediaMath's clients may also use the platform to collect data regarding your interactions with them, including your use of our clients’ sites and mobile apps, the sites and apps our clients advertise on, and other pages on the Internet. We may also capture additional data in order to calculate a statistical ID, as described below.
 
 We may also receive Precise Location Data (as defined by the NAI) generated from your use of your mobile device, such as the latitude/longitude coordinates provided by a mobile app publisher or other media supply source in conjunction with the opportunity to purchase advertising inventory. MediaMath may transfer such Precise Location Data to clients and partners, including for use in targeting ads based on the current location of the device. When we process Precise Location Data, the mobile app publisher or other media supply source is responsible for enabling you to provide or withdraw consent with respect to the collection and use of your Precise Location Data.
 
-We and our clients and partners use the information we collect to create data segments, and these data segments are generally based upon your interactions with our clients or other third party media suppliers, such as the websites that you visit and the mobile applications that you use.
+We and our clients and partners use the information we collect to create data segments, and these data segments are generally based upon your interactions with our clients or other third party media suppliers, such as the websites that you visit and the mobile applications that you use. The categories of data segments vary, and our clients may use health-related segments such as an inferred interest in health and wellness or cough medicine and allergy medications. [Click here](http://www.mediamath.com/files/pdf/Health_Related_Segments_from_3rd_Party_Data_Providers.pdf) for a list of the standard health-related segments provided by third-party data providers that may be used in MediaMath’s Platform. Where MediaMath creates segments as a result of your interactions occurring within the EU, MediaMath UK is the controller of your personal data processed within these segments. 
 
 We also receive pseudonymous information from third parties, when they choose to provide it to us. This information may include identifiers (like mobile advertising IDs) and interest-based advertising data tied to those identifiers, including segments provided by third-party data providers for our clients to use in targeting ads through the Platform. MediaMath does not use this data to personally identify you.
 
@@ -43,7 +43,7 @@ In some cases, MediaMath is able to infer within a reasonable probability that a
 
 We use the information that we collect directly and the information that we obtain from third parties to create segments, run analytics, target ads, and measure the effectiveness of ads on behalf of MediaMath’s clients. We also use it to improve our Platform and the products and services that we provide to our clients, and to create new products and services. For these purposes we may share information with our clients, partners and service providers.
 
-MediaMath does not knowingly collect data or create data segments that are based upon what we consider to be sensitive information (for example, we don’t create any data segments to determine credit worthiness, for insurance underwriting or similar purposes, nor do we create segments of EU consumers based on personal data considered to be sensitive in the EU, e.g. information about physical or mental health or condition, sexual orientation, race or ethnic origin, political opinions, religious or similar beliefs). Clients may use health-related segments (which are not comprised of sensitive health data) such as an inferred interest in health and wellness or cough medicine and allergy medications. [**Click here**](https://www.mediamath.com/files/pdf/Health_Related_Segments_from_3rd_Party_Data_Providers.pdf) for a list of the standard health-related segments provided by third-party data providers that may be used in MediaMath’s Platform.
+While MediaMath does not knowingly create data segments that are based upon what we consider to be sensitive information (for example, we don’t create any data segments to determine credit worthiness, for insurance underwriting or similar purposes, nor do we create segments of EU consumers based on personal data considered to be sensitive in the EU, e.g. information about physical or mental health or condition, sex life, race or ethnic origin, political opinions, religious or similar beliefs), our clients may use the Platform to process some sensitive information, which may come from our clients’ sites or our partners. We take steps designed to ensure that this is done in compliance with applicable laws and self-regulatory guidelines, including through our contracts and policies with our clients and partners. 
 
 **Cookies, Web Beacons, and Other Ad Targeting Technologies**
 
@@ -56,7 +56,7 @@ The types of technologies used via the Platform include:
   * **Cookies** – Cookies are small text files that contain a string of characters. MediaMath uses cookies to uniquely identify an Internet browser. Certain browsers or browser settings sometimes block cookies, and cookies may not work effectively on some mobile devices. For more information about cookies, please visit <http://www.allaboutcookies.org/>.
   * **Mobile Advertising Identifiers** – Mobile advertising IDs (e.g., Apple’s IDFA or Google’s AAID) are unique IDs that are associated with individual mobile devices and that do not reveal your real world identity. They usually are user-resettable.
   * **Pixel Tags** – Pixel tags (also commonly known as web beacons) are transparent images, iFrames, or JavaScript that our clients and partners use to understand how consumers interact with them online, including on websites and in mobile apps.
-  * **Statistical IDs** – Statistical IDs are created via an algorithm using pseudonymous information about your computer or device, including your operating system, user-agent string, IP address, Internet browser, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device, including in environments where MediaMath cookies are not supported.
+  * **Statistical IDs** – Statistical IDs are created via an algorithm using pseudonymous information about your computer or device, including your operating system, user-agent string, IP address, Internet browser, installed fonts, and similar information. This information makes your computer or device distinct enough for our systems to determine within a reasonable probability that they are encountering the same computer or device, including in environments where MediaMath cookies are not supported. If you want to see whether MediaMath is using a statistical ID on the browser you are currently using, please visit <http://optout.networkadvertising.org/> .
 
 
 
@@ -88,7 +88,7 @@ If you use multiple browsers, computers or mobile devices and wish to limit the 
 **Opt out this browser (if using a browser)**  
 Your current opt-out status with MediaMath in this web browser is: 
 
-When you opt out, we record the opt-out on our servers and in browser environments we will attempt to place an HTTP opt-out cookie onto your computer or device. When you opt out, MediaMath will collect and store information from your browser or device only as needed to honor your opt-out and for limited research and development purposes to improve our browser- and device-recognition technology, which also helps to improve our ability to honor your opt-out. When you opt out, MediaMath also stops targeting interest-based advertising to that browser. In many instances, even if you delete your cookies, we are able to maintain a record of your opt-out on our servers. _**Nonetheless, please note that if you clear your cookies, or if you use a different browser or device, you may need to renew your opt-out choice.**_
+When you opt out, we record the opt-out on our servers and in browser environments we will attempt to place an HTTP opt-out cookie onto your computer or device. When you opt out, MediaMath will collect and store information from your browser or device only as needed to honor your opt-out and for limited research and development purposes to improve our browser- and device-recognition technology, which also helps to improve our ability to honor your opt-out. When you opt out, MediaMath also stops targeting interest-based advertising to that browser. **_Please note that if you clear your cookies, or if you use a different browser or device, you will need to renew your opt-out choice._**
 
 **Opt out in the mobile application environment**
 
@@ -100,8 +100,8 @@ _**Please note that you will still see ads if you opt out.** _The ads delivered 
 
 You may learn more about interest-based advertising and opt out of interest-based advertising from MediaMath and other online advertising companies that are also members of applicable self-regulatory organizations by visiting their opt-out links:
 
-  * Network Advertising Initiative (NAI) – <http://www.networkadvertising.org/choices/>
-  * Digital Advertising Alliance (DAA) – <http://www.aboutads.info/choices/>
+  * Network Advertising Initiative (NAI) – <http://optout.networkadvertising.org/>
+  * Digital Advertising Alliance (DAA) – <http://optout.aboutads.info/>
   * Digital Advertising Alliance Canada (DAAC) – <http://youradchoices.ca/choices>
   * Digital Advertising Alliance EU (EDAA) – <http://www.youronlinechoices.com/>
   * DAA AppChoices page – [http://www.aboutads.info/appchoices](http://www.aboutads.info/appchoices/)
@@ -176,16 +176,19 @@ We may share information (including personal information):
 
 The information that we collect from you and about you may be transferred to and stored in a country other than your country of residence, such as the USA, which may not offer the same level of protection of personal information as your country of residence. However, we will take contractual and/or other measures to ensure your personal data is protected.
 
-In addition to the above, we adhere to the principles of the EU-US Privacy Shield and the US-Swiss Safe Harbor Principles.
+In addition to the above, we adhere to the principles of the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield.
 
-**EU-US Privacy Shield**
+**EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**
 
-When we process any personal information originating from the European Union (EU) in the USA, MediaMath, Inc. has certified its compliance with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from EU member countries. MediaMath, Inc. has certified that for all personal information it receives from the EU, it will adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity & Purpose Limitation, Access, and Recourse, Enforcement and Liability.  
-To find out more about the Privacy Shield, access the Privacy Shield List, and find details of our certification, please visit: <https://www.privacyshield.gov/list>.
+Media Math, Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss–U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU and Switzerland to the United States, respectively.
+
+MediaMath, Inc. has certified to the Department of Commerce that for all personal information it receives from the EU and Switzerland, it will adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfers, Security, Data Integrity & Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To find out more about the Privacy Shield, access the Privacy Shield List, and find details of our certification, please visit: <https://www.privacyshield.gov/list>.
 
 Under the Privacy Shield, MediaMath, Inc. may remain liable if its third-party service providers process your personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
-Residents of the EU who believe that their personal information has not been processed in compliance with the Privacy Shield Principles may raise their complaint in the following ways:
+Residents of the EU or Switzerland who believe that their personal information has not been processed in compliance with the Privacy Shield Principles may raise their complaint in the following ways:
 
   1. You can contact MediaMath, Inc. directly using the details in the “Contact Us” section below. We will respond to your complaint within 45 days of receipt.
   2. We have further committed to refer unresolved privacy complaints under the Privacy Shield via the Better Business Bureau, an alternative dispute resolution provider located in the United States. If you do not receive a timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint directly with the BBB.
@@ -196,17 +199,9 @@ Residents of the EU who believe that their personal information has not been pro
 
 The Federal Trade Commission has investigation and enforcement authority over our compliance with the Privacy Shield.
 
-**US-Swiss Safe Harbor**
-
-In respect of personal information originating from Switzerland, MediaMath, Inc. has certified its compliance with the US-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. This means that for all personal information originating from Switzerland, MediaMath will adhere to the Swiss Safe Harbor Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement when processing the Personal Data in the USA. To learn more about the Swiss Safe Harbor program and to view our certification page, please visit: <https://safeharbor.export.gov/swisslist.aspx>.
-
-In compliance with the US-Swiss Safe Harbor Principles, MediaMath commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact us using the details in the “Contact Us” section below.
-
-MediaMath has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.auto.bbb.org/EU-Safe-Harbor-Complaint-Form/> for more information and to file a complaint.
-
 **Your Rights**
 
-If you are from the European Union or Switzerland and would like to gain access to, or request amendment, correction or deletion of information that MediaMath, Inc. holds about you, please contact us using the details in the “Contact Us” section below. We will consider and respond to your request in accordance with, as applicable, the Privacy Shield or US-Swiss Safe Harbor Principles, and any applicable laws.
+If you are from the European Union or Switzerland and would like to gain access to, or request amendment, correction or deletion of information that MediaMath, Inc. holds about you, please contact us using the details in the “Contact Us” section below. We will consider and respond to your request in accordance with, as applicable, the EU-U.S. or Swiss-U.S. Privacy Shield, and any applicable laws.
 
 MediaMath acknowledges the individual’s right to access their personal data and will provide you access to the personal information we hold about you to the extent it is reasonably available and allow you to correct, amend, or delete inaccurate information, as required and permitted by applicable law. If you’d like us to correct, amend, or delete any other personal information that you have provided to us, please send your request to us at [privacy@mediamath.com](mailto:privacy@mediamath.com) and we will respond to your request within 30 days.
 
@@ -229,7 +224,7 @@ If you have any questions about this Policy, please contact us as follows.
 
 
 
-By email at [privacy@mediamath.com](mailto:privacy@mediamath.com) or by post to MediaMath, Attn: Melinda Clemans, Remo House, 310-312 Regent Street, London, UK W1B 3AU.
+By email at [privacy@mediamath.com](mailto:privacy@mediamath.com) or by post to MediaMath UK Ltd, Attn: Melinda Clemans, 230 Blackfriars Road, London, SE1 8NW.
 
   * If you are based in the USA, Asia or elsewhere outside Europe:
 
