@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152200id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drphil.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231221904id_/https%3A//www.cbsinteractive.com/legal/cbsi/privacy-policy) for the most accurate reproduction.*
 
 # CBS Interactive Privacy Policy :: CBS Interactive
 
