@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicvine.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630152155id_/https%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicvine.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231221835id_/https%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
 # CBS Interactive Privacy Policy :: CBS Interactive
 
