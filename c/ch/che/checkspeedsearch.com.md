@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkspeedsearch.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626145117id_/http%3A//checkspeedsearch.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkspeedsearch.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231143548id_/http%3A//www.checkspeedsearch.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Check Speed and Search
 
