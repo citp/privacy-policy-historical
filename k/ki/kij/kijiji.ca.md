@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kijiji.ca privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630215322id_/http%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kijiji.ca privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231184120id_/https%3A//help.kijiji.ca/helpdesk/policies/kijiji-privacy-policy) for the most accurate reproduction.*
 
 # Kijiji Privacy Policy | Kijiji Helpdesk
 
@@ -8,11 +8,7 @@
 
  
 
-**Updated: January 1, 2017**
-
-Kijiji’s website is a licensee of the TRUSTe Web Privacy Program.  In order to view our relationship with TRUSTe, please visit the validation page by clicking on the TRUSTe seal below. 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d "TRUSTe Privacy Certification")
+ **Updated: September 27, 2017**
 
 Table of contents 
 
@@ -116,7 +112,7 @@ When you no longer wish to receive marketing communications from us, you can, wh
 
  **5.  Advertising**
 
-If you do not wish to participate in our advertising personalization programs, you can opt-out by following the directions provided within the applicable advertisement, or directly at our [AdChoice program](https://www.kijiji.ca/m-processAdChoice.html).  The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of information for certain purposes such as usage, research, analytics and internal online services operation purposes). In addition to that, we do not allow third parties to track or collect your personal information on our sites for their own advertising purposes without your explicit consent.  
+If you do not wish to participate in our advertising personalization using your identified personal information or re-targeting/tracking programs, you can opt-out by following the directions provided within the applicable advertisement, or directly at our [AdChoice program](https://www.kijiji.ca/m-processAdChoice.html).  The effect of an opt-out will be to stop personalized advertising, but it will still allow the collection of information for certain purposes such as usage, research, analytics and internal online services operation purposes). You may still see non-personalized advertisements, including ads based on general geographic region. In addition to that, we do not allow third parties to track or collect your personal information on our sites for their own advertising purposes without your explicit consent.  
 
 When you use our Services, we and our service providers may place cookies (data files on your phone or mobile device’s drive) or web beacons (electronic images that are placed in a web page’s code) or similar technologies. We use cookies to help us identify you as a user, to provide you a better experience on our Website, to measure promotional effectiveness and to ensure trust and safety on our Website. For more detailed information about our use of these technologies, we refer you to our Policy on [Cookies, Web beacons and Similar Technologies.](https://web.archive.org/helpdesk/policies/kijiji-cookie-policy)
 
@@ -142,4 +138,4 @@ It is not allowed to use our member-to-member communication resources to send sp
 
 **Contact:** If you have any questions about Kijiji and our Website please contact us by [clicking here](https://web.archive.org/helpdesk/email-us/). For more information about eBay Inc. and how eBay handles personal information and privacy, you can contact the [eBay Privacy Center](http://www.ebayprivacycenter.com/).
 
-If Customer Support cannot answer your privacy-related questions, please use the TRUSTe Watchdog Dispute Resolution Process at <https://feedback-form.truste.com/watchdog/request>. 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
