@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlvsglobe.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610065408id_/http%3A//girlvsglobe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlvsglobe.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231015940id_/http%3A//girlvsglobe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Girl vs Globe
 
