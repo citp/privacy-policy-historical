@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630204647id_/https%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelclub.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231043428id_/https%3A//www.hotels.com/customer_care/privacy.html) for the most accurate reproduction.*
 
 # Hotels.com - Deals & Discounts for Hotel Reservations from Luxury Hotels to Budget Accommodations
 
