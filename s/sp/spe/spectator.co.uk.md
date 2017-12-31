@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235302id_/https%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231084310id_/https%3A//www.spectator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Spectator
 
