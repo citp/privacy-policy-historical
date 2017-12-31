@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622185648id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231065547id_/http%3A//www.independent.co.uk/service/privacy-policy-a6184181.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Independent
 
@@ -143,10 +143,3 @@ The Website may, from time to time, contain links to and from the Websites of ad
 **Further information**
 
 If you want further information, or wish to communicate with us about this privacy policy and your wishes about your personal information, please visit the [customer service portal](https://independentnews.zendesk.com/).
-
-  * More about: 
-  * [user policies](https://web.archive.org/topic/user-policies)
-
-
-
-[Reuse content](https://web.archive.org/syndication/reuse-permision-form?url=http://www.independent.co.uk/service/privacy-policy-a6184181.html)
