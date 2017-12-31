@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120114105id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231101127id_/https%3A//azalead.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Azalead - Account Based Marketing Software
+# Privacy Policy - Azalead
+
+## I. How Azalead Collects Your Information on the Azalead Websites
 
 ### Collection of Information
 
@@ -28,9 +30,9 @@ Your password is the key to your account. We recommend the use of unique numbers
 
 ### Phishing
 
-In order to protect yourself from third parties unlawfully seeking your personal information through email that appears to be from Azalead, you should never provide any personal information directly in response to an email you believe you have received from us. Rather, you should always close any such email, open your browser, log directly into the Azalead Site and change, update, or modify any such personal information via the Site. In the event that you believe that you have received a request for personal information in an email message that is made to appear that it was sent by us, please inform us immediately at support@Azalead.com.
+In order to protect yourself from third parties unlawfully seeking your personal information through email that appears to be from Azalead, you should never provide any personal information directly in response to an email you believe you have received from us. Rather, you should always close any such email, open your browser, log directly into the Azalead Site and change, update, or modify any such personal information via the Site. In the event that you believe that you have received a request for personal information in an email message that is made to appear that it was sent by us, please inform us immediately at support@azalead.com
 
-###### Azalead PLATFORM
+## II. How Azalead Collects Information on the Azalead Platform
 
 Use of the Azalead Platform on our clients’ websites is subject to those clients’ privacy policies, which govern our clients’ use of your information, including Personally Identifiable Information. Please consult with our clients’ privacy policies if you have questions about our clients’ use of the Azalead Platform or your information within their Site.
 
@@ -42,7 +44,7 @@ The Azalead Platform is primarily IP address-driven (in other words, we typicall
 
 We try hard to make our advertising more relevant to you, but if you would rather opt out of seeing personalized ads from Azalead and Azalead clients, please click [here](http://www.aboutads.info/choices/). If you opt out, you will still see ads from us and our clients, but they will not be tailored based on information that may have otherwise been associated with a Azalead cookie stored on your computer.
 
-Azalead also displays the Digital Advertising Alliance’s (“DAA”) Advertising Option Icon on advertising you see from us that has been targeted to your interests. This icon generally appears as in one of the corners of the ad and may be accompanied by text such as “AdChoices.” You can click on the icon to learn more about the ad and to opt out of seeing future personalized ads from us and our clients utilizing Azalead cookies. This is the same opt-out as the one provided above. To learn more about the DAA and the Advertising Option Icon, and to opt out of personalized advertising delivered by other participating companies, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
+Azalead also displays the Digital Advertising Alliance’s (“DAA”) Advertising Option Icon on advertising you see from us that has been targeted to your interests. This icon generally appears as in one of the corners of the ad and may be accompanied by text such as “AdChoices.” You can click on the icon to learn more about the ad and to opt out of seeing future personalized ads from us and our clients utilizing Azalead cookies. This is the same opt-out as the one provided above. To learn more about the DAA and the Advertising Option Icon, and to opt out of personalized advertising delivered by other participating companies, please visit <http://www.aboutads.info/how-interest-based-ads-work>.
 
 Please note that our opt-out requires that we be able to set an opt-out cookie in your browser.
 
@@ -50,7 +52,7 @@ Please note that our opt-out requires that we be able to set an opt-out cookie i
 
 Some browsers have incorporated “Do Not Track” (DNT) features. Because there is not yet a common understanding of how to interpret the DNT signal, we do not currently respond to browser DNT signals on our Sites or on third party sites that use the Azalead Platform.
 
-###### APPLICABLE TO BOTH
+## III. Terms Applicable to Both Azalead Websites and the Azalead Platform
 
 ### Use of Information
 
