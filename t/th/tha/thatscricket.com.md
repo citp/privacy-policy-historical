@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the thatscricket.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630205839id_/http%3A//www.oneindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatscricket.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231052819id_/http%3A//www.oneindia.com/privacy.html) for the most accurate reproduction.*
 
 # Oneindia | Privacy Policy
 
-PRIVACY POLICY
+One.in Digitech Media Pvt. Ltd., (hereinafter referred as " **One.in** " which expression shall, unless repugnant to the context or meaning thereof, be deemed to include its affiliates, parent company, legal representatives and permitted assigns) provides the you, i.e. the user (hereinafter referred to as the " **User** ") with access to content, resources, tools for communication, public forums, commerce platforms, and other services through its websites and all mobile applications ( hereinafter referred to as the " **Service** "). 
 
-Greynium Information Technologies Pvt. Ltd., (hereinafter referred as " **Greynium** " which expression shall, unless repugnant to the context or meaning thereof, be deemed to include its affiliates, parent company, legal representatives and permitted assigns) provides the you, i.e. the user (hereinafter referred to as the " **User** ") with access to content, resources, tools for communication, public forums, commerce platforms, and other services through its websites and all mobile applications ( hereinafter referred to as the " **Service** "). 
-
-We at Greynium appreciate and respect your privacy and so we have drafted this Privacy Policy (hereinafter referred to as " **this Policy** ") which details how we handle your information. Privacy protection is our number one priority. Greynium uses the patent-pending "dual blind" privacy protection technology which allows Greynium to customize advertisement for User's browser without ever knowing User's name, address, social security number, telephone number or any other personally identifiable information. It's completely anonymous. Kindly note that usage of our Services on/through our websites and all mobile applications is subject to your absolute and unconditional acceptance of the terms and conditions of this Privacy Policy. 
+We at One.in appreciate and respect your privacy and so we have drafted this Privacy Policy (hereinafter referred to as " **this Policy** ") which details how we handle your information. Privacy protection is our number one priority. One.in uses the patent-pending "dual blind" privacy protection technology which allows One.in to customize advertisement for User's browser without ever knowing User's name, address, social security number, telephone number or any other personally identifiable information. It's completely anonymous. Kindly note that usage of our Services on/through our websites and all mobile applications is subject to your absolute and unconditional acceptance of the terms and conditions of this Privacy Policy. 
 
 PLEASE READ THE TERMS OF USE CAREFULLY BEFORE USING OR REGISTERING ON THE ANY OF OUR WEBSITES OR MOBILE APPLICATIONS OR ACCESSING ANY MATERIAL, INFORMATION OR SERVICES THROUGH THE WEBSITES OR MOBILE APPLICATIONS. YOUR VIST OR USE OF THE WEBSITES / MOBILE APPLICATIONS OR THE SERVICES PROVIDED BY THEM SHALL SIGNIFY YOUR ABSOLUTE AND UNCONDITIONAL ACCEPTANCE OF THE TERMS OF USE AND PRIVACY POLICY, AND YOUR AGREEMENT TO BE LEGALLY BOUND BY THE SAME. 
 
@@ -14,7 +12,7 @@ PLEASE READ THE TERMS OF USE CAREFULLY BEFORE USING OR REGISTERING ON THE ANY OF
 
 For accessing or using our Service, you may be required to provide certain information such as name, address, occupation, nationality, credit/debit card details, email, contact number, etc. 
 
-All information, disclosed by you shall be deemed to be disclosed willingly and without any coercion. No liability pertaining to the authenticity/misrepresentation/fraud/negligence, etc. of the information disclosed to us shall lie on Greynium nor will we in any way be responsible to verify any information obtained from you. 
+All information, disclosed by you shall be deemed to be disclosed willingly and without any coercion. No liability pertaining to the authenticity/misrepresentation/fraud/negligence, etc. of the information disclosed to us shall lie on One.in nor will we in any way be responsible to verify any information obtained from you. 
 
 You agree and acknowledge that all information gathered from you may be used by us for the following purposes:
 
@@ -47,15 +45,15 @@ On our websites and all mobile applications, there are third party advertisers a
 
   4. **Disclosure to Third Parties**
 
-If you indicate your consent on your subscription form, Greynium shall be at liberty to disclose your information or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.
+If you indicate your consent on your subscription form, One.in shall be at liberty to disclose your information or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.
 
   5. **Confidentiality**
 
-We at Greynium endeavor to treat your information as confidential and not cause any harm, theft, loss, unauthorized access, misuse within our storage system, alteration and destruction. In line with the priority for confidentiality, we request you to use SSL-enabled browsers such as Chrome, Safari, Firefox or Internet Explorer as such browsers protect the confidentiality of information while it is transmitted over internet. In the event any of our Services are public forums such as chat rooms, you shall be responsible for the information you may disclose on such forums to other users.
+We at One.in endeavor to treat your information as confidential and not cause any harm, theft, loss, unauthorized access, misuse within our storage system, alteration and destruction. In line with the priority for confidentiality, we request you to use SSL-enabled browsers such as Chrome, Safari, Firefox or Internet Explorer as such browsers protect the confidentiality of information while it is transmitted over internet. In the event any of our Services are public forums such as chat rooms, you shall be responsible for the information you may disclose on such forums to other users.
 
   6. **Legal Disclosure**
 
-You agree that if so required by law or as per directions of the governmental agency, authority, court, etc, Greynium may be required to disclose all your information and in such an event Greynium is in no manner responsible for informing you or seeking your prior approval.
+You agree that if so required by law or as per directions of the governmental agency, authority, court, etc, One.in may be required to disclose all your information and in such an event One.in is in no manner responsible for informing you or seeking your prior approval.
 
   7. **Grievances**
 
@@ -63,7 +61,10 @@ In the event you have any grievances relating to the Policy, please inform us wi
 
   8. **Amendments**
 
-Greynium retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you. You can determine when this Policy was last modified by referring to the “Last Updated” legend above. It shall be your responsibility to check this Policy periodically for changes.
+One.in retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you. You can determine when this Policy was last modified by referring to the “Last Updated” legend above. It shall be your responsibility to check this Policy periodically for changes.
 
 
 
+
+#### For Breaking News from Oneindia  
+Get instant news updates throughout the day.
