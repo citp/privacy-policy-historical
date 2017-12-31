@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610061058id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231121318id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and cookies policy - Explain that Stuff
 
-_Last updated: May 12, 2016._
+_Last updated: July 5, 2017._
 
 We take privacy issues seriously—and yes everyone says that, but we really do. Here (in plain English) are full details explaining the careful steps we have taken to respect and protect your privacy as you use our website.
 
@@ -35,19 +35,22 @@ Photo: The three cookies used by our website. Of these, only cookieconsent_dismi
 
 Although our own server does not set persistent cookies (other than for cookie consent), please be aware that **some persistent third-party cookies are set when you visit our website**. Our site runs advertisements on most pages; it is a completely free website and if it didn't run advertising, it would simply not exist. The advertising partners we work with use what are known as persistent, third-party cookies to help them serve up relevant, targeted advertisements that they believe may match your interests, and they may share them with their own partner companies. Our partners assure us that these cookies are anonymous and do not use personally identifying information to serve advertisements to you unless you have specifically given permission for that. (Although you might raise an eyebrow at this use of cookies, we believe it is better that advertisers show you things you might find interesting or useful than completely random advertisements.) We have no control over these third-party cookies. We do not see or have access to any information they may store or collect. They pass directly between your computer and the servers run by our advertisers.
 
-At the moment, we run advertisements only through Google.
+At the moment, most of our advertisements run through Google.
 
-Third party vendors, including Google, use cookies to serve ads to you based on your prior visits to our website. Google's main advertising cookie is called DoubleClick. Google's use of the DoubleClick cookie enables it and its partners to serve personalized ads to you based on your visit to our site and/or other sites you have previously visited on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google's Ads Settings](http://www.google.com/ads/preferences/) page. Alternatively, you can opt out by visiting [aboutads.info](http://www.aboutads.info/). If you want to permanently opt-out of the DoubleClick cookie, you can install the [DoubleClick opt out extension](http://www.google.com/settings/ads/plugin) on your browser, which works on Firefox, Chrome, and Internet Explorer. The cookies of other third-party vendors or ad networks may also be used to serve ads on our site and you can usually opt out of these cookies too by visiting [aboutads.info](http://www.aboutads.info/). You can learn more about [how and why Google collects and uses information](https://www.google.com/policies/privacy/partners/), and how it safeguards your privacy, by visiting [Google's Privacy Policy](http://www.google.com/policies/privacy/) website.
+Third party vendors, including Google, use cookies to serve ads to you based on your prior visits to our website. Google's main advertising cookie is called DoubleClick. Google's use of the DoubleClick cookie enables it and its partners to serve personalized ads to you based on your visit to our site and/or other sites you have previously visited on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Google's Ads Settings](http://www.google.com/ads/preferences/) page. Alternatively, you can opt out by visiting [aboutads.info](http://www.aboutads.info/) or [www.youronlinechoices.com](http://www.youronlinechoices.com/). If you want to permanently opt-out of the DoubleClick cookie, you can install the [DoubleClick opt out extension](http://www.google.com/settings/ads/plugin) on your browser, which works on Firefox, Chrome, and Internet Explorer. You can learn more about [how and why Google collects and uses information](https://www.google.com/policies/privacy/partners/), and how it safeguards your privacy, by visiting [Google's Privacy Policy](http://www.google.com/policies/privacy/) website.
+
+The cookies of other third-party vendors or ad networks may also be used to serve ads on our site and you can usually opt out of these cookies too by visiting [www.youronlinechoices.com](http://www.youronlinechoices.com/) or [aboutads.info](http://www.aboutads.info/).
 
 ### Cookies for social media
 
-Like pages on most other modern websites, most of the pages on our site now include links to social networking and bookmarking sites (including the Facebook Like button, Google +1 button, and Twitter Tweet button) to help people remember our articles and share them with their friends. Please be aware that, depending on how you are signed into these services, they might be using cookies to track websites or pages you visit. No such information is collected by our own site and none of the information that may be collected by social networking sites is available to us: it passes directly between your computer and the social networking site(s) you belong to. If you have concerns about privacy and social networking bookmarks, please visit the privacy pages of the sites or services you use:
+Like pages on most other modern websites, most of the pages on our site now include links to social networking and bookmarking sites (specifically, the Facebook Like button and Google +1 button) to help people remember our articles and share them with their friends. Please be aware that, depending on how you are signed into these services, they might be using cookies to track websites or pages you visit. No such information is collected by our own site and none of the information that may be collected by social networking sites is available to us: it passes directly between your computer and the social networking site(s) you belong to. If you have concerns about privacy and social networking bookmarks, please visit the privacy pages of the sites or services you use:
 
   * [Facebook's Privacy Policy](http://www.facebook.com/about/privacy/)
   * [Google Buttons Policy](https://developers.google.com/+/web/buttons-policy)
-  * [Twitter Privacy Policy](https://twitter.com/privacy)
 
 
+
+As of 2017, we no longer use the "official" Twitter tweet button; the "Tweet" buttons on our pages are just ordinary web links to Twitter. Although they look like the official button, they don't use cookies and don't allow Twitter to track your browsing.
 
 ## UK Privacy and Electronic Communications (EC Directive) Regulations 2003
 
@@ -59,7 +62,7 @@ As explained above, this site collects and stores no personal information from a
 
 ## We will not keep, sell, or otherwise misuse your email address
 
-We value feedback from our readers **very highly** : we're trying to improve this site all the time and your thoughts and suggestions are invaluable to us. If you send us [feedback](https://web.archive.org/web/20170610061058id_/http%3A//www.explainthatstuff.com/feedback.php) or comments, we keep them and act on them, if that's appropriate. We give you the option of sending feedback anonymously, though (to prevent abuse), your IP address is sent to us at the same time, along with basic details of which browser, operating system, and so on that you're using (that helps us if you've commented about formatting problems, mobile-device usability, or things like that). If you do choose to send us your email address, we may use it to send you a reply. We don't use it for any other purpose, we don't record it anywhere, and we don't retain it. If we send you a reply, we delete that promptly too, so there is no record of your email address anywhere on our web server or email server.
+We value feedback from our readers **very highly** : we're trying to improve this site all the time and your thoughts and suggestions are invaluable to us. If you send us [feedback](https://web.archive.org/web/20171231121318id_/http%3A//www.explainthatstuff.com/feedback.php) or comments, we keep them and act on them, if that's appropriate. We give you the option of sending feedback anonymously, though (to prevent abuse), your IP address is sent to us at the same time, along with basic details of which browser, operating system, and so on that you're using (that helps us if you've commented about formatting problems, mobile-device usability, or things like that). If you do choose to send us your email address, we may use it to send you a reply. We don't use it for any other purpose, we don't record it anywhere, and we don't retain it. If we send you a reply, we delete that promptly too, so there is no record of your email address anywhere on our web server or email server.
 
 ## Opting out
 
@@ -89,4 +92,4 @@ Our pop-up cookie-consent warning script was supplied by [Silktide](https://silk
 
 ## Let us know
 
-We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20170610061058id_/http%3A//www.explainthatstuff.com/cform.php) form.
+We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20171231121318id_/http%3A//www.explainthatstuff.com/cform.php) form.
