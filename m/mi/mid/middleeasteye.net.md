@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleeasteye.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629231148id_/http%3A//www.middleeasteye.net/privacy-policy-1507814569) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeasteye.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231073429id_/http%3A//www.middleeasteye.net/privacy-policy-1507814569) for the most accurate reproduction.*
 
 # Privacy policy | Middle East Eye
 
