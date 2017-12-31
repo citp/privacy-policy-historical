@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630183116id_/https%3A//flippa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231041303id_/https%3A//flippa.com/privacy-policy) for the most accurate reproduction.*
 
 # Flippa: Privacy Policy | Flippa
 
@@ -30,7 +30,7 @@ We will take reasonable steps to hold all hard copy and electronic records of yo
 
 ## Data Access and Correction
 
-You may request access to your personal information at any time by sending a written request to our privacy officer by mail at Flippa Pty Ltd c/o 48 Cambridge St, Collingwood, VIC, 3066 Australia, by facsimile on 03 9090 8201 or by email to privacy@flippa.com. You do not need to provide a reason for your request. We may charge a small fee for providing access if it requires a significant amount of time to locate or collect your information or to present it in an appropriate form. 
+You may request access to your personal information at any time by sending a written request to our privacy officer by mail at Flippa Pty Ltd c/o 48 Cambridge St, Collingwood, VIC, 3066 Australia, by facsimile on 03 9090 8201 or by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You do not need to provide a reason for your request. We may charge a small fee for providing access if it requires a significant amount of time to locate or collect your information or to present it in an appropriate form. 
 
 In rare circumstances, and only where it is permitted under the Act, we may not be able to provide you with access to your information. For example, where the requested access will have an unreasonable impact upon the privacy of others or where we are required by law to withhold the information, we may refuse access. If we are unable to provide you with access, we will provide you with reasons for our refusal. 
 
