@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180031id_/http%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231091436id_/http%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » HorribleSubs
 
@@ -58,6 +58,6 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 HorribleSubs  
 horriblesubs.info  
-admin@horriblesubs.info
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on March 11, 2014
