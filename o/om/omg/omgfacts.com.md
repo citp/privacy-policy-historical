@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgfacts.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630232117id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgfacts.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231232425id_/https%3A//medium.com/policy/f03bf92035c9) for the most accurate reproduction.*
 
 # Medium Privacy Policy – Medium Policy – Medium
 
@@ -66,4 +66,4 @@ Medium may periodically update this Policy. We’ll notify you about significant
 
 #### Questions
 
-We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:%20legal@medium.com).
+We welcome questions, concerns, and feedback about this policy at [legal@medium.com](mailto:legal@medium.com).
