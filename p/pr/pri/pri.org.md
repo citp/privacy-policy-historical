@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630013339id_/https%3A//www.pri.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231140303id_/https%3A//www.pri.org/privacy) for the most accurate reproduction.*
 
 # PRI.org privacy policy | Public Radio International
 
