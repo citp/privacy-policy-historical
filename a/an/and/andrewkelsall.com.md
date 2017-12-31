@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andrewkelsall.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426125316id_/http%3A//www.andrewkelsall.com/andrew-kelsall-design-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewkelsall.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231153607id_/http%3A//www.andrewkelsall.com/andrew-kelsall-design-privacy-policy) for the most accurate reproduction.*
 
 # Andrew Kelsall Design Privacy Policy
 
