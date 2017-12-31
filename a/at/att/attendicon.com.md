@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attendicon.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626154837id_/http%3A//www.infusionsoft.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendicon.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231213444id_/http%3A//www.infusionsoft.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,6 +33,8 @@ We may use your email and other addresses and contact information for customer s
 ##### How We Use Personal Information
 
 **General.** Infusionsoft may use personally identifiable information to respond to your inquiries, and/or address other requests or questions; enable your use of the Services; contact you regarding your purchase; consider and respond to your job application; and collect payments from you; and to send you goods or services purchased through our Sites; information and updates related to your purchase; invoices; email notifications that you have specifically requested; email marketing communications relating to our business, which we think may be of interest to you; and email messages containing company news, product or service information. We may also use information collected through our Sites for research regarding the effectiveness of the Sites and related marketing, advertising and sales efforts. We may disclose your personally identifiable information (i) to the extent required by law or if we have a good-faith belief that such disclosure is necessary in order to comply with official investigations or legal proceedings initiated by governmental and/or law enforcement officials, or private parties, including but not limited to: in response to subpoenas, search warrants, or court orders; (ii) if we sell or transfer all or a portion of our company's business interests, assets, or both, or in connection with a corporate merger, consolidation, restructuring, or other company change, or (iii) as otherwise disclosed in the terms and conditions of our agreements with customers, including our separately posted and applicable Terms of Use for the relevant Services.
+
+**Requests for Information.**  If you provided your email address or phone number on the Sites to receive information from Infusionsoft, you agree that Infusionsoft, and our fulfillment partners may contact you using the contact information you provide us regarding our products and Services, such as offers, support and product updates. Infusionsoft and our fulfillment partners may make such contact by email, phone and/or text, including the phone number you provide us, and we may use automated dialers technology in order to more efficiently connect you with one of our representatives. Your mobile phone carrier’s standard message and data rates may apply to text messages. You are not required to provide your phone number as a condition of purchasing products or Services, and you can opt out at any time as described in the “Opting Out” section found below within this Policy.
 
 **Email.** We may communicate with a customer through email using the customer's personal contact information on file in our systems to inform the customer of new products, important industry news or information about Services and upgrades provided by Infusionsoft.
 
@@ -72,12 +74,38 @@ We may use your email and other addresses and contact information for customer s
 
 ##### How To Contact Us
 
-**General.** If you have any questions or concerns about this Policy or the way your information is being used by Infusionsoft, or should you wish to contact us for any other reason described in this Policy, you can contact us (i) by email directed to [legal@infusionsoft.com](mailto:legal@infusionsoft.com) or (ii) by mail addressed to Infusion Software, Inc., 1260 S. Spectrum Blvd., Chandler, AZ 85286, attention Legal /Privacy Compliance. If you are not satisfied with our response, or if contacting us does not resolve your complaint, you can contact VeraSafe™ here: <https://www.verasafe.com/dispute-submission>
+**General.** If you have any questions or concerns about this Policy or the way your information is being used by Infusionsoft, or should you wish to contact us for any other reason described in this Policy, you can contact us (i) by email directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e48881838588a48d8a8291978d8b8a978b8290ca878b89) or (ii) by mail addressed to Infusion Software, Inc., 1260 S. Spectrum Blvd., Chandler, AZ 85286, attention Legal /Privacy Compliance. If you are not satisfied with our response, or if contacting us does not resolve your complaint, you can contact VeraSafe™ here: <https://www.verasafe.com/dispute-submission>
 
 **Effective Date of Policy.** This Policy was last updated as of the last date set forth below. If you would like to see an earlier version of this Policy, please contact us using one of the methods set forth above and specify the applicable date or time period for the prior Policy version requested.
 
 © 2015 Infusion Software, Inc. Any rights not expressly granted herein are reserved by Infusionsoft.
 
-Revised: January 19, 2015
+Revised: October 6, 2017
 
 Infusionsoft is a registered trademark of Infusion Software, Inc. IOS is a registered trademark of Cisco Systems, Inc. Android is a trademark of Google Inc. Facebook is a registered trademark of Facebook, Inc. Twitter is a registered trademark of Twitter, Inc. VeraSafe is a trademark of Advanced Partnerships LLC.
+
+interactive-demo-graphic 
+
+#### Online Demo
+
+Explore key features of the platform in a self-guided online experience.
+
+live-demo-svg  Created with Sketch. 
+
+#### Live Webinar Demo
+
+Reserve your spot in this interactive, 30-minute product demo with expert Q&A.
+
+request-demo-svg 
+
+#### 1:1 PERSONALIZED DEMO
+
+Get a customized tour of our software from a small business expert.
+
+### Meet the #1 automation platform for small business
+
+How does Infusionsoft help modern small business get better results? View a 2-minute introduction to learn how 120,000 professionals just like you get organized, grow sales, and save time.
+
+## Have questions? We're always here to help.
+
+## Register for a live webinar
