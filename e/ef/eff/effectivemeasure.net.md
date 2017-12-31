@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227100409id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161133id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Principles - Effective Measure
+# Effective Measure - Privacy Policy
+
+[From South Africa? View our Privacy Policy for South Africa.](http://www.effectivemeasure.com/za-privacy-policy/)
 
 ## Your trust and confidence is important to us.
 
@@ -12,7 +14,7 @@ Effective Measure acts as an Agent for each of our Clients, in that we provide o
 
 We also collect certain technical information, such as the browser version and operating system. We aggregate all of the usage data from our Clients’ websites into a Benchmarking solution that demonstrates their metrics to advertisers and other interested parties. We do, however, reserve a limited right to disclose any data we collect if required by law or valid order of a court or other governmental authority.
 
-We only collect anonymous usage data from safe websites which are registered on our system. These websites participate in Effective Measure by placing a small piece of tracking code on each of their webpages. To see more information on this, please [visit the following link](https://effectivemeasure.atlassian.net/wiki/display/EH/General+FAQs) **.**
+We only collect anonymous usage data from safe websites which are registered on our system. These websites participate in Effective Measure by placing a small piece of tracking code on each of their webpages. To see more information on this, please [visit the following link](http://help.effectivemeasure.com/faq-and-troubleshooting) **.**
 
 #### Our Clients’ Use of Effective Measure
 
