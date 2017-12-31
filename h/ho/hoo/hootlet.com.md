@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hootlet.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630135522id_/https%3A//hootsuite.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootlet.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231112302id_/https%3A//hootsuite.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-**Effective date:**  November 1, 2016
+**Last Modified:**  November 15, 2017
 
   * [Introduction](https://hootsuite.com/legal/privacy#introduction)
   * [Hootsuite Data and Customer Content](https://hootsuite.com/legal/privacy#hootsuite-data)
@@ -28,7 +28,7 @@
 
 ## Introduction
 
-Hootsuite Media Inc. and its affiliates (“ _Hootsuite_ ”) are committed to protecting the privacy of all individuals who:
+Hootsuite Inc. and its affiliates (“ _Hootsuite_ ”) are committed to protecting the privacy of all individuals who:
 
   * visit any websites or mobile sites offered by Hootsuite, including without limitation [hootsuite.com](http://www.hootsuite.com/), and including all subdomains, present and future (the “ _Website_ ”);
   * use the mobile applications that Hootsuite makes available from time to time (the " _Applications_ ");
@@ -39,11 +39,11 @@ Hootsuite Media Inc. and its affiliates (“ _Hootsuite_ ”) are committed to p
 
 To make this policy easier to read, we call the Website, the Applications, the Platforms, and the Shop together the " _Services_ ". When we talk about “Personal Information”, we mean information relating to you or other identifiable individuals.
 
-It is Hootsuite’s policy to respect your privacy and the privacy of all users of the Services. This Privacy Policy has been established to help you understand our commitment to protecting your privacy and personal data, and the steps we take to ensure it. By visiting and/or using any of the Services, you agree to be bound by the terms of the present Privacy Policy (the “ _Privacy Policy_ ”). Where the present Privacy Policy refers to “Hootsuite”, it may refer to the Services or to Hootsuite Media Inc., depending on the context.
+It is Hootsuite’s policy to respect your privacy and the privacy of all users of the Services. This Privacy Policy has been established to help you understand our commitment to protecting your privacy and personal data, and the steps we take to ensure it. By visiting and/or using any of the Services, you agree to be bound by the terms of the present Privacy Policy (the “ _Privacy Policy_ ”). Where the present Privacy Policy refers to “Hootsuite”, it may refer to the Services or to Hootsuite Inc., depending on the context.
 
 Hootsuite reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at [hootsuite.com/legal/privacy](https://hootsuite.com/legal/privacy). Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes.
 
-Hootsuite’s Privacy Policy forms part of its wider terms of service. If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterprise-terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fenterprise-terms&sa=D&sntz=1&usg=AFQjCNG5x6D-1DdDGoimSZ8TkP6XR5CJ0A), and/or are subject to a negotiated agreement governing your access to and use of Hootsuite Enterprise Services. If you use or access any other websites, mobile sites, mobile applications, products or services offered by Hootsuite Media Inc., these terms of service are available at [https://hootsuite.com/legal/terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fterms&sa=D&sntz=1&usg=AFQjCNFp5A8iEjiqr5B1Z5ZDbLDsCfeCZA). Additional terms may apply to other Services purchased. To make this policy easier to read, any applicable Hootsuite terms of service are referred to as the “ _Terms_ ”. Both the Terms and the Privacy Policy apply to your use of the Services. 
+Hootsuite’s Privacy Policy forms part of its wider terms of service. If you are a Hootsuite Enterprise user, these terms of service are available at [https://hootsuite.com/legal/enterprise-terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fenterprise-terms&sa=D&sntz=1&usg=AFQjCNG5x6D-1DdDGoimSZ8TkP6XR5CJ0A), and/or are subject to a negotiated agreement governing your access to and use of Hootsuite Enterprise Services. If you use or access any other websites, mobile sites, mobile applications, products or services offered by Hootsuite Inc., these terms of service are available at [https://hootsuite.com/legal/terms](https://www.google.com/url?q=https%3A%2F%2Fhootsuite.com%2Flegal%2Fterms&sa=D&sntz=1&usg=AFQjCNFp5A8iEjiqr5B1Z5ZDbLDsCfeCZA). Additional terms may apply to other Services purchased. To make this policy easier to read, any applicable Hootsuite terms of service are referred to as the “ _Terms_ ”. Both the Terms and the Privacy Policy apply to your use of the Services. 
 
 ## Hootsuite Data and Customer Content
 
@@ -191,7 +191,7 @@ If you are a Logged-in User, it is advisable that you log out of your account at
 
 ## Information storage and international transfers
 
-Hootsuite Media Inc., the entity which provides the Services, is a Canadian company with its head-office located in Vancouver, British Columbia. For the purposes of EU data protection law, Canada is considered a country which provides adequate protections for Personal Information, as confirmed by the European Commission in  _Commission Decision 2002/2/EC_.
+Hootsuite Inc., the entity which provides the Services, is a Canadian company with its head-office located in Vancouver, British Columbia. For the purposes of EU data protection law, Canada is considered a country which provides adequate protections for Personal Information, as confirmed by the European Commission in  _Commission Decision 2002/2/EC_.
 
 The Services are mainly provided from our offices in Canada. However, by the very nature of the Services, the data that is viewed, collected, stored or posted on or through the Services also needs to flow from wherever you are located in the world, to where our Supported Platforms are storing the same data (i.e. in most cases, in the United States). In addition, Hootsuite uses third-party service providers (such as managed hosting providers, card processors, CRM systems, sub-processors of Customer Content and technology partners) to provide the necessary hardware, software, networking, storage and other services that we use to operate the Services. These third party providers may process, or store, the same Customer Content on servers outside of the EEA, including in Canada or the US.
 
@@ -226,10 +226,10 @@ If you have any questions about this Privacy Policy, please contact:
 or:
 
 Hootsuite Legal Services  
-c/o Hootsuite Media Inc.  
+c/o Hootsuite Inc.  
 5 East 8th Avenue  
 Vancouver, BC V5T 1R6  
 Canada   
 
 
-© Hootsuite Media Inc. 2016
+© Hootsuite Inc. 2017
