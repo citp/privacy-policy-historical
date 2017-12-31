@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622113830id_/http%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231103756id_/http%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PennyMac
 
@@ -97,6 +97,8 @@ By using our site, you consent to this Online Privacy Policy.
 This Online Privacy Policy is subject to change from time to time. If we make any changes, we will post the revised policy on this page with a new “Effective Date.” Any changes to this Online Privacy Policy will become effective when posted unless indicated otherwise. Your use of the site following these changes means that you accept the revised Online Privacy Policy.
 
 ### Contact Us
+
+If you are an existing PennyMac customer, you can Register and/or Log In to your account and click on Account Settings to view and update your preferences, from any device, 24/7. 
 
 If there are any questions regarding this Online Privacy Policy, you may contact us using the information below.
 
