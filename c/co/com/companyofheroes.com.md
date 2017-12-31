@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyofheroes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191730id_/http%3A//www.sega.co.uk/Privacy-canada) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyofheroes.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231222538id_/http%3A//www.sega.co.uk/Privacy-canada) for the most accurate reproduction.*
 
 # SEGA Privacy Policy - Canada | SEGA
 
