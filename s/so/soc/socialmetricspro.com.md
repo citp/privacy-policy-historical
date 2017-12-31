@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmetricspro.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621121646id_/http%3A//socialmetricspro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmetricspro.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231105642id_/http%3A//socialmetricspro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Social Metrics Pro
 
