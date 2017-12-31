@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628231834id_/http%3A//alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231195304id_/http%3A//www.alz.org/about_this_site.asp%23Security_and_privacy_policy) for the most accurate reproduction.*
 
 # About This Site Content | Alzheimer's Association
 
@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The Alzheimer's Association website provides information on the symptoms and signs, seven stages, diagnosis, treatment and care of Alzheimer's disease and dementia. Get support from our 24/7 Helpline, message boards and your local Alzheimer's Association Chapter. We also provide updates on Alzheimer's Association programs, partners and events. 
+The Alzheimer's Association website provides information on the symptoms and signs, seven stages, diagnosis, treatment and care of Alzheimer's disease and dementia.  Get support from our 24/7 Helpline, message boards and your local Alzheimer's Association Chapter. We also provide updates on Alzheimer's Association programs, partners and events. 
 
 Our audience includes caregivers; people living with dementia and their families; care professionals and researchers; Alzheimer advocates; and the general public. 
 
@@ -21,23 +21,23 @@ We do not accept or host paid advertising on www.alz.org. The Alzheimer's Associ
 
 The Alzheimer's Association retains copyright on the content of this site, unless otherwise noted. 
 
-### Reprint or reuse of information from this site without change
+**Reprint or reuse of information from this site without change**
 
 To request permission to use information from this website, send an email describing intended use, duration and contact information to [copyright@alz.org](mailto:copyright@alz.org)
 
-### Translations and adaptations
+**Translations and adaptations**
 
 Translations or adaptations of Alzheimer's Association content must be reviewed and approved by the Alzheimer's Association. Please send an email describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org)
 
-### Using content from Association press releases
+**Using content from Association press releases**
 
 Reprint of Alzheimer's Association content or references to Alzheimer's Association contact information in an organization's press release must be approved by the public relations director of the Association. Please send queries to [media@alz.org](mailto:media@alz.org)
 
-### Logos 
+**Logos**
 
 Using any of the Alzheimer's Association's registered trademarks (logos) without the Association's prior consent is strictly prohibited. Please send written requests describing intended use, duration and contact information to [brandhelp@alz.org](mailto:brandhelp@alz.org).
 
-### Photographs and graphics
+**Photographs and graphics**
 
 The photographs and graphics on our website are not available for reproduction by third parties. Similar stock images are available for a fee from stock image sources.
 
@@ -75,7 +75,7 @@ In addition, we may collect Personal Information that you voluntarily provide to
 
 We use your Personal Information to manage our donation lists and provide and improve our services and outreach. In particular, we use:
 
-  * **Contact Information** to respond to your questions, comments, requests and inquiries and otherwise correspond with you, including sending you Alzheimer's Association email bulletins or news and other information we think you will find valuable. Please see the Your Choice section below to learn the choices you have related to these communications. We may also track the number of letters sent to members of Congress on behalf of the Alzheimer's Association.
+  * **Contact Information** to respond to your questions, comments, requests and inquiries and otherwise correspond with you, including sending you Alzheimer's Association email bulletins or news and other information we think you will find valuable. Please see the Your Choice section below to learn the choices you have related to these communications. We may also track the number of letters sent to members of Congress on behalf of the Alzheimer's Association. 
   * **Payment Information** to process your donations and manage our donation lists.  If you choose to provide the name of your employer, we use this information to provide information on how your employer might match your donation to us. 
   * **Registration Information** to plan and organize the event for which you have registered and help us cater the event to you. 
   * **Message Board Information** to understand more about the visitors to our website and their preferences. 
@@ -109,7 +109,7 @@ We maintain reasonable administrative, technical and physical safeguards to prot
 
 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Despite our safeguards, we cannot guarantee the security of information transmitted to us via the internet. Once we have received your information, we will use all reasonable safeguards to protect it, but if you have reason to believe that your use of the website is no longer secure, please contact us as detailed below.
+Unfortunately, the transmission of information via the internet is not completely secure.  Despite our safeguards, we cannot guarantee the security of information transmitted to us via the internet.  Once we have received your information, we will use all reasonable safeguards to protect it, but if you have reason to believe that your use of the website is no longer secure, please contact us as detailed below.
 
 **Your Choice**
 
@@ -129,7 +129,7 @@ A cookie is a small text file that is sent to your web browser and stored on you
 
 To manage the cookies that are placed on your computer, you may configure your web browser to refuse, accept or delete cookies from our website at any time.  The help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  Turning off your browser's cookies will also limit the information collected by web beacons.  Please note that if cookies are disabled or removed, not all features of our website will operate as intended. 
 
-To learn more about Google Analytics and the choices you have, please visit [here](https://support.google.com/analytics/answer/181881?hl=en). To learn more about targeted advertising and the choices you have, please visit the [Digital Advertising Alliance](http://www.aboutads.info/) or the [Network Advertising Initiative](http://www.networkadvertising.org/choices/#completed).  If you opt out of such cookies and web beacons, you still may continue to receive advertisements, they just will not be tailored to your interest.  Lastly, at this time our website, like most, is not currently configured to honor respond to browsers' "Do Not Track" signals because no "Do Not Track" standard has been adopted.
+To learn more about Google Analytics and the choices you have, please visit [here](https://support.google.com/analytics/answer/181881?hl=en). To learn more about targeted advertising and the choices you have, please visit the [Digital Advertising Alliance](http://www.aboutads.info/) or the [Network Advertising Initiative](http://www.networkadvertising.org/choices/#completed).  If you opt out of such cookies and web beacons, you still may continue to receive advertisements, they just will not be tailored to your interest.  Lastly, at this time the our website, like most, is not currently configured to honor respond to browsers' "Do Not Track" signals because no "Do Not Track" standard has been adopted.
 
 **External Links**
 
@@ -141,12 +141,15 @@ In accordance with applicable law, you may access, correct, update, delete, bloc
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [info@alz.org](mailto:info@alz.org) or Alzheimer's Association 225 N. Michigan Ave., Fl. 17 Chicago, IL 60601.
+If you have any questions about this Privacy Policy, please contact us at [info@alz.org](mailto:info@alz.org) or Alzheimer's Association 225 N. Michigan Ave., Fl. 17 Chicago, IL 60601. 
 
 **Changes**
 
-We may update this Privacy Policy from time to time. Any changes will be preceded by a notice posted on our website. If you disagree with our Privacy Policy changes, please discontinue the use of our website.
+We may update this Privacy Policy from time to time.  Any changes will be preceded by a notice posted on our website.  If you disagree with our Privacy Policy changes, please discontinue the use of our website.
 
-This Privacy Policy is effective July 25, 2016.
+This Privacy Policy is effective July 25, 2016.  
 
-Last Updated: 01/31/2020 12:57:38 
+
+
+
+Last Updated: 01/31/2020 12:57:40 
