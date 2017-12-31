@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630173118id_/http%3A//www.gettyimages.co.uk/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettyimages.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161724id_/http%3A//www.gettyimages.co.uk/company/privacy-policy) for the most accurate reproduction.*
 
 # Getty Images
 
