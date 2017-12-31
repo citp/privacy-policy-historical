@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620160054id_/http%3A//www.thenational.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231033727id_/http%3A//www.thenational.ae/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The National
+# Privacy Policy - The National
 
-Privacy
-
-## Website Privacy Statement
-
-This privacy statement has been created in order to demonstrate The Abu Dhabi Media commitment to privacy. Due to the sensitive nature of the information we collect from our users, including address and phone numbers, we believe it is important to satisfy strict privacy requirements. The following discloses our information gathering and dissemination practices for this website:
+This privacy statement has been created in order to demonstrate The International Media Investments FZ LLC commitment to privacy. Due to the sensitive nature of the information we collect from our users, including address and phone numbers, we believe it is important to satisfy strict privacy requirements. The following discloses our information gathering and dissemination practices for the digital platforms:
 
 * * *
 
-## Collected Information
+**Collected Information**
 
 The following section describes the information we collect from you and indicates the primary purposes why we collect each type of the information from you. If we use your information or disclose or distribute your information to third parties for a purpose that is not related to the following purposes, we will notify you by email of your right to opt-out of that use, disclosure or distribution beforehand. Your right to opt-out shall be governed by the Choice/Opt-Out Section below.
 
-As described below in more detail, we use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is or may be used to help identify you, to track activity within our site and to gather broad demographic information. Our Web server will collect IP information.
+As described below in more detail, we use your IP address to help diagnose problems with our server, and to administer our d. Your IP address is or may be used to help identify you, to track activity within our site and to gather broad demographic information. Our Web server will collect IP information.
 
 Our site uses cookies to keep track of your session ID. We may use cookies to deliver content specific to your interests.
 
@@ -26,11 +22,10 @@ The demographic information may be shared with advertisers on an aggregate basis
 
 * * *
 
-## Choice/Opt-Out
+**Choice/Opt-Out**
 
-Our website provides users the opportunity to opt-out of receiving communications from The Abu Dhabi Media website at the point where we request information about the user. This website gives users the following options for removing their information from our database to not receive further communications or to no longer receive our service.
+Our digital platforms provide users the opportunity to opt-out of receiving communications from The International Media Investments FZ LLC website, mobile site and/or app at the point where we request information about the user. The digital platforms give users the following options for removing their information from our database to not receive further communications or to no longer receive our service.
 
-You can send mail to the following postal address:  
-PO Box 63, Abu Dhabi, United Arab Emirates
+You can send mail to the following postal address: The National, TwoFour54 Building 6, Khalifa Park, Sheikh Zayed Street, Abu Dhabi.
 
-For full contact details including emails and phone numbers go to our [Contact](https://web.archive.org/contact-us) page
+For full contact details including emails and phone numbers go to our [Contact](https://www.thenational.ae/contact-us) page
