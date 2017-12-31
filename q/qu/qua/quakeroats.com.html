@@ -1,16 +1,19 @@
-<!--The following is the downloaded HTML source of the quakeroats.com privacy policy that was archived on 2017-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624004924id_/http%3A//www.quakeroats.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quakeroats.com privacy policy that was archived on 2017-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171231101219id_/http%3A//www.quakeroats.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=" js " style="display: block;"><head id="Head1"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, maximum-scale=1" /> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, maximum-scale=2.0"><meta name="description" content="Quaker Oats Privacy Policy. "><meta name="author" content="Pepsi"><meta http-equiv="cache-control" content="public"><meta http-equiv="cache-control" content="max-age=43200"><title>
 	Privacy Policy | QuakerOats.com
-</title><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/bootstrap.min.v2.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/bootstrap-select.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/default.min.css" rel="stylesheet" type="text/css"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/header.min.css" rel="stylesheet" type="text/css">
+</title>
+    <!--<link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/bootstrap.min.v2.css" rel="stylesheet" />-->
+	<link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/bootstrap.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/bootstrap-select.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/default.min.css" rel="stylesheet" type="text/css">
+   
     
     <!--<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7213472/761764/css/fonts.css" />  -->
     <!--<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7213472/779168/css/fonts.css" />-->
     <!--<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7213472/736168/css/fonts.css" />-->
-     <link rel="stylesheet" type="text/css" href="https://www.quakeroats.com/Sitefinity/WebsiteTemplates/Quaker/fonts/383089/9CB0B2C8708A0F90C.css"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/webfonts.min.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/common.min.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/offer.min.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/jquery-ui.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/jquery.sidr.light.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/home-new.min.css" rel="stylesheet">
+     <link rel="stylesheet" type="text/css" href="https://www.quakeroats.com/Sitefinity/WebsiteTemplates/Quaker/fonts/383089/9CB0B2C8708A0F90C.css"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/webfonts.min.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/offer.min.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/jquery-ui.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/jquery.sidr.light.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSS/header-new.css" rel="stylesheet" type="text/css"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSS/common-new.css" rel="stylesheet"><link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/home-new.min.css" rel="stylesheet">
 
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -81,17 +84,12 @@
             if (ValidateTxt()) {
                 var searchvalue = "";
                 if (navigator.userAgent.match(/Mobi/)) {
-                    searchvalue = document.getElementById("mtxtFindRecipe").value;
+                    searchvalue = $("#msearchInput").val();
                 }
                 else {
-                    searchvalue = document.getElementById("txtFindRecipe").value;
+                    searchvalue = $("#searchInput").val();
                 }
-
-                //ga('send', 'event', 'Global Header', 'Site Search Autocomplete');
                 ga('send', 'event', 'Global Header', 'Site Search', searchvalue);
-		//dataLayer.push({ 'Category': 'Global Header', 'Action': 'Site Search', 'Label': searchvalue });
-                //var docURL = document.URL + '?q=' + searchvalue;
-                //_gaq.push(['_trackEvent', docURL, ]);
                 var tabValue;
                 $.ajax({
                     type: 'POST',
@@ -121,10 +119,10 @@
 
             var txt = "";
             if (navigator.userAgent.match(/Mobi/)) {
-                txt = document.getElementById("mtxtFindRecipe").value;
+                txt = $("#msearchInput").val();
             }
             else {
-                txt = document.getElementById("txtFindRecipe").value;
+                txt = $("#searchInput").val();
             }
 
 
@@ -147,7 +145,7 @@
 
 
         $(function () {
-            $("#txtFindRecipe").keypress(function (e) {
+            $("#searchInput").keypress(function (e) {
                 if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
                     SearchRecipe();
                     return false;
@@ -160,7 +158,7 @@
         });
 
         $(function () {
-            $("#mtxtFindRecipe").keypress(function (e) {
+            $("#msearchInput").keypress(function (e) {
                 if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
                     SearchRecipe();
                     return false;
@@ -175,35 +173,10 @@
 
         function GetAllProducts() {
 
-            document.getElementById("txtFindRecipe").value = "";
+            $("#searchInput").val() = "";
             SearchRecipe();
         }
-
-        //(function ($) {
-        //    $(function () {
-        //        $('body').on('click', '[data-ga-tracking]', function () {
-        //            var defaults = {
-        //                'hitType': 'event'
-        //            };
-
-        //            var gaObj = $(this).data('ga-tracking');
-        //            gaObj = $.extend(defaults, gaObj);
-
-        //            window.ga('send', gaObj);
-        //        });
-        //    });
-        //}(jQuery));
-        //(function (i, s, o, g, r, a, m) {
-        //    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-        //        (i[r].q = i[r].q || []).push(arguments)
-        //    }, i[r].l = 1 * new Date(); a = s.createElement(o),
-        //    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        //})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-       // window.ga = ga;
-        //ga('create', 'UA-28148907-2', 'auto');
-        //ga('require', 'displayfeatures');
-        //ga('send', 'pageview');
-   // </script>
+</script>
     
      <!-- New Foresee popup implementation Starts -->
       <script type="text/javascript">
@@ -255,7 +228,6 @@
         ga('send', 'pageview');
 
     </script>
-  
 
     
     <script type="text/javascript">
@@ -271,7 +243,7 @@
         })();
 
         $(function () {
-            $('input[id$="txtFindRecipe"]')
+            $('input[id$="searchInput"]')
             .focus(function () {
                 this.select();
             })
@@ -288,32 +260,32 @@
                 source: function (request, response) {
                     var txttoremove = ['and', 'and and', 'and and and', 'and and and and'];
                     if ((txttoremove.indexOf(request.term.trim()) < 0) && (request.term.trim() != '')) {
-                        //                    $.ajax({
-                        //                        url: "http://clients1.google.com/complete/search?q=" + request.term.trim() +
+                                            $.ajax({
+                                                url: "http://clients1.google.com/complete/search?q=" + request.term.trim() +
 
-                        //"&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse",
-                        //                        dataType: "jsonp",
-                        //                        success: function (data) {
-                        //                            if (!data[1] || data[1].length == 0) {
-                        //                                response([{ label: 'No results found.', val: -1 }]);
-                        //                            }
-                        //                            else {
-                        //                                response($.map(data[1].sort(), function (item) {
-                        //                                    return {
-                        //                                        label: item[0],
-                        //                                        value: item[0]
-                        //                                    };
-                        //                                }))
-                        //                            }
-                        //                        }
-                        //                    });
+                        "&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse",
+                                                dataType: "jsonp",
+                                                success: function (data) {
+                                                    if (!data[1] || data[1].length == 0) {
+                                                        response([{ label: 'No results found.', val: -1 }]);
+                                                    }
+                                                    else {
+                                                        response($.map(data[1].sort(), function (item) {
+                                                            return {
+                                                                label: item[0],
+                                                                value: item[0]
+                                                            };
+                                                        }))
+                                                    }
+                                                }
+                                            });
                     }
                 },
                 autoFill: true,
                 minChars: 0,
                 minLength: 3,
                 select: function (event, ui) {
-                    $(this).closest('input[id$="txtFindRecipe"]').val(ui.item.value);
+                    $(this).closest('input[id$="searchInput"]').val(ui.item.value);
                     $(this).keyup(function (event) {
                         if (event.keyCode == 13) {
                             SearchRecipe();
@@ -325,7 +297,7 @@
 
 
         $(function () {
-            $('input[id$="mtxtFindRecipe"]')
+            $('input[id$="msearchInput"]')
             .focus(function () {
 
                 this.select();
@@ -343,32 +315,32 @@
                 source: function (request, response) {
                     var txttoremove = ['and', 'and and', 'and and and', 'and and and and'];
                     if ((txttoremove.indexOf(request.term.trim()) < 0) && (request.term.trim() != '')) {
-                        //                    $.ajax({
-                        //                        url: "http://clients1.google.com/complete/search?q=" + request.term.trim() +
+                                            $.ajax({
+                                                url: "http://clients1.google.com/complete/search?q=" + request.term.trim() +
 
-                        //"&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse",
-                        //                        dataType: "jsonp",
-                        //                        success: function (data) {
-                        //                            if (!data[1] || data[1].length == 0) {
-                        //                                response([{ label: 'No results found.', val: -1 }]);
-                        //                            }
-                        //                            else {
-                        //                                response($.map(data[1].sort(), function (item) {
-                        //                                    return {
-                        //                                        label: item[0],
-                        //                                        value: item[0]
-                        //                                    };
-                        //                                }))
-                        //                            }
-                        //                        }
-                        //                    });
+                        "&hl=en&client=partner&source=gcsc&partnerid=005789579034799393676:_h_apncau64&ds=cse",
+                                                dataType: "jsonp",
+                                                success: function (data) {
+                                                    if (!data[1] || data[1].length == 0) {
+                                                        response([{ label: 'No results found.', val: -1 }]);
+                                                    }
+                                                    else {
+                                                        response($.map(data[1].sort(), function (item) {
+                                                            return {
+                                                                label: item[0],
+                                                                value: item[0]
+                                                            };
+                                                        }))
+                                                    }
+                                                }
+                                            });
                     }
                 },
                 autoFill: true,
                 minChars: 0,
                 minLength: 3,
                 select: function (event, ui) {
-                    $(this).closest('input[id$="mtxtFindRecipe"]').val(ui.item.value);
+                    $(this).closest('input[id$="msearchInput"]').val(ui.item.value);
                     $(this).keyup(function (event) {
                         if (event.keyCode == 13) {
                             SearchRecipe();
@@ -378,12 +350,10 @@
             });
         });
 
-
-
         //validate the special character and number;
 
         $(document).ready(function () {
-            $('#txtFindRecipe').bind('keypress', function (event) {
+            $('#searchInput').bind('keypress', function (event) {
                 var regex = new RegExp("^[ a-zA-Z\b]+$");
                 var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
                 if (!regex.test(key)) {
@@ -392,10 +362,9 @@
                 }
             });
         });
-
 
         $(document).ready(function () {
-            $('#mtxtFindRecipe').bind('keypress', function (event) {
+            $('#msearchInput').bind('keypress', function (event) {
                 var regex = new RegExp("^[ a-zA-Z\b]+$");
                 var key = String.fromCharCode(!event.charCode ? event.which : event.charCode);
                 if (!regex.test(key)) {
@@ -403,8 +372,40 @@
                     return false;
                 }
             });
-        });
+            $('#searchheaderBox').on('click', function () {
+                $this = $(this);
+                $this.hide();
+                $('#hideMenuItem').addClass('hide');
+                $('#searchContainerBox').removeClass('hide');
+            })
+            $('#removeBtn').on('click', function () {
+                $('#searchContainerBox').addClass('hide');
+                $('#hideMenuItem').removeClass('hide');
+                $('#searchheaderBox').show();
+                $('#searchInput').val('');
+            })
 
+            $('#globalSrch').on('click', function (e) {
+                $('.mobile-searchBarContainer').removeClass('hidden');
+                $('.closeButton').removeClass('hide');
+                $(this).hide();
+            })
+            $('.closeButton').on('click', function (e) {
+                $('.mobile-searchBarContainer').addClass('hidden');
+                $(this).addClass('hide');
+                $('#globalSrch').show();
+                $('#msearchInput').val('');
+            })
+
+            $('.dropdown-toggle').on('click', function (e) {
+                $('.dropdown-toggle').find("span.glyphicon").removeClass('glyphicon-triangle-bottom');
+                $('.dropdown-toggle').find("span.glyphicon").removeClass('glyphicon-play');
+                $('.dropdown-toggle').find("span.glyphicon").addClass('glyphicon-play');
+                $(e.target)
+               .find("span.glyphicon")
+               .toggleClass('glyphicon-play glyphicon-triangle-bottom');
+            });
+        });
 
     </script>
 
@@ -434,7 +435,7 @@
 
 
 
-<meta name="Generator" content="Sitefinity 7.0.5100.0 PU"><style type="text/css" media="all">
+<meta name="Generator" content="Sitefinity 10.1.6502.0 PU"><style type="text/css" media="all">
     .bg-img {
         background: transparent url('/Sitefinity/WebsiteTemplates/Quaker/images/quaker-sub-page-body-bkg.gif') repeat-y top center;
         float: left;
@@ -491,6 +492,9 @@
 .fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
 .fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}</style></head>
 <body>
+     <!-- Bing Pixel Code starts-->
+    <img src="//bat.bing.com/action/0?ti=5773113&amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;">
+    <!-- Bing Pixel Code ends-->
 
      <!-- Facebook Pixel Code -->
     <script>
@@ -516,7 +520,7 @@
         var axel = Math.random() + "";
         var a = axel * 10000000000000;
         document.write('<iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-    </script><iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=9458521257964.865?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+    </script><iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=4926290648260.186?" width="1" height="1" frameborder="0" style="display:none"></iframe>
     <noscript>
         <iframe src="https://823287.fls.doubleclick.net/activityi;src=823287;type=2014Q-;cat=HomeP-;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
     </noscript>
@@ -525,10 +529,10 @@
     <div id="wrapperMain">
         <form method="post" action="./privacy-policy" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="ctl24_TSSM" id="ctl24_TSSM" value="">
+<input type="hidden" name="ctl26_TSSM" id="ctl26_TSSM" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTUwNTU0MDE3OQ9kFgICAQ9kFgJmD2QWBGYPZBYCAgYPFgIeB2NvbnRlbnQFHFF1YWtlciBPYXRzIFByaXZhY3kgUG9saWN5LiBkAgEPZBYIAgMPFgIeBXN0eWxlBQ5kaXNwbGF5OiBibG9ja2QCBQ8WAh8BBQ1kaXNwbGF5OiBub25lZAIHDxYCHglpbm5lcmh0bWwFDlByaXZhY3kgUG9saWN5ZAIJDxYCHwJlZGSUyOrJMMKpnQZv1g76hSnM44bVWg==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="KLqXZ6mppTUYUHcnYrtzgxQnqRfLX/s2VF0pfiXaIKxLR2juJeD+WCuBpzky9ouM+QDOIoVBN+tlmv4jaxFzVMEvkC3LQ6FakLqAoGbvT81dbelAuN+UaGGtxFeyZ5VqOMjfsQyAXJEBd2MknYPh/ohv/gL23LE2WbBUf8EzMtlkygVmxPfldpD1zPnznkFMancnJwFdB7ef85A3Wsag7lTayEVFKUMDgySrfWuziVkd36b3LgtLamjrO34V7ptDmhfBZN0SfCg8o3xbgEQefJAm+zh5Eapr99PK3mAbOwEn5ZaEIlGmEqm3Sq8FHOImPJZNGA==">
 </div>
 
 <script type="text/javascript">
@@ -548,14 +552,21 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=m-gFyu-k-shnZPMYeh0Hr8yQ0NDXgaPYZ2by340h_xq8L_UlmiOpbAJtQ-uc9Cd3T4ux6wD9ElCwFXxaR1cnbJlSTy41&amp;t=635802961220000000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJ2kXw5yiuSYkKh36502V8LqN-7osmti0I7OykBw1q9oUQ32qA2&amp;t=635802961220000000" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=zm9QP4oCHYik8EWdn-m_0zISB9fVOUf_UiodFBbOG0MDmr7DDUsJOUl_EohT9LyhN6dpAihy4n8XEzj_ILVxLTuVPqXHY8T1RSkKx0KFxifufiNQaQHV4SLcWt_r0Yg7p-_xNow6c7eERQr8ksNJsP6uhY01&amp;t=5f9d5645" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=_u4Dmt4W42lt0HRlebfXAJluhmZ3JviPFU40ZuZjdlJX77Kk_HHsu4n4vjjjie7ukVfCuW6Mb4rYWRZWd3EzZA8h6BWwaP_56rbHpxNxDTyk4AaT82jPBocpeOreaaEcbt4BUmhYuBWoc_lSeybct5t4Q2Z_yePEKh7whSQMRL201Vlh0&amp;t=5f9d5645" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=nnHyWnZ5bTPuYszCeiYmKy5tv4s1xPTOb-RLYWQxRTmKoVmZUBoffhBoMV8fKhxPkvZY9NNRzl5iv65pdCi8xezCBxUKrbTbkTwRTjvOXsp2Pk0YS9kd0cVaoFso1QNm4fHEnh9rME2Vsb5NFczdNbQpdWA1&amp;t=5f9d5645" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=geiJw278ELCE4oVrRV2zH4u51zfOAYDoRsCR-gdK-40fmdANFc2hQuRfqcnH3ndIq3DALDKsy9FFK0kSO12dPitpwBs8yQfBHy4S4LFscOuSdTC4n2qItXOtGloyxTQHlKu1wg7j81y7Fsa-L9jQcsQzh8C1LMZf8gWOYL_qJYLTEuDw0&amp;t=5f9d5645" type="text/javascript"></script>
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FD4F156D">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1D610678">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="T0oxn4FWXKxgT2eeptV/Wt2JCvca7DbLbEsqsxhXC/izlKxGPLH5C9oafkM+SwgGyvBWDIxDv3+EFNac9Y6r5qYO/8U9OsdBSzpkxI+/QXuHYuU9zqC6KqM/+EPr1bPr7zLBOg==">
 </div>
             <script type="text/javascript">
 //<![CDATA[
@@ -563,253 +574,176 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', 'form1
 //]]>
 </script>
 
-            <!--Hamburger Menu For mobile-->
-            <div class="popup-menu" style="display: none"></div>
-            <div id="navbar-out" class="left-easing"></div>
-            <!-- Added nocontent -->
-            <div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right nocontent sidr right" id="sidr">
-                <div class="searchBox">
-                    <a href="#" class="submitBtn" onclick="ga('send','event','Global Header','Site Search');">
-                        <img src="/Sitefinity/WebsiteTemplates/Quaker/Images/search-icon.png" onclick="SearchRecipe();" alt="" class="mobile-search"></a>
-                    <input type="text" name="" autocomplete="off" value="" id="mtxtFindRecipe" placeholder="Search" onkeypress="ga('send','event','Global Header Autocomplete','Site Search');" class="ui-autocomplete-input">
-
-                </div>
-                <ul class="menu-list">
-                    <li class="menu-item">
-                        <a>Products</a>
-                        <ul>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Hot Cereals' });" href="/products/hot-cereals.aspx">Hot Cereals</a>
-                            </li>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Cold Cereals' });" href="/products/cold-cereals.aspx">Cold Cereals</a>
-                            </li>
-                             <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Overnight Oats' });" href="/product/cold-cereals/overnight-oats.aspx">Overnight Oats</a>
-                            </li>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Snack Bars' });" href="/products/snack-bars.aspx">Snack Bars</a>
-                            </li>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Rice Snacks' });" href="/products/rice-snacks.aspx">Rice Snacks</a>
-                            </li>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Real Medleys' });" href="/products/real-medleys.aspx">Real Medleys</a>
-                            </li>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Other Products' });" href="/products/other-products.aspx">Other Products</a>
-                            </li>
-                            <li class="menu-item">
-                                <a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'All Products' });" href="/products.aspx">All Products</a>
-                            </li>
-
-                        </ul>
-                    </li>
-                    <li class="menu-item">
-                        <a>Recipes</a>
-                        <ul>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes">All Recipes</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Breakfast-Brunch">Breakfast &amp; Brunch</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=lunch-dinner">Lunch &amp; Dinner</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=meal-type-snack">Snacks</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=dessert">Dessert</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Oatmeal">Oatmeal</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Holiday">Holiday</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=make-ahead">Make-Ahead</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=-ingredients-or-less">5 Ingredients or Less</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx">Baking 101</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/overnightoats">Overnight Oats</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/cooking-and-recipes/how-to-prepare-oats.aspx">How to Prepare Oats</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li class="menu-item">
-                        <a>About Quaker</a>
-                        <ul>
-                            <li class="menu-item">
-                                <a href="/about-quaker-oats/content/quaker-history.aspx">Quaker History</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/oats-do-more/why-oats/our-oat-story.aspx">Our Oat Story</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/about-quaker-oats/content/quaker-faq.aspx">Quaker FAQS</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/oats-do-more.aspx">Healthy Living</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx">Oats Center of Excellence</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="https://cu.pepsico.com/quaker">Contact Quaker</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/about-quaker-oats/content/quaker-faq-gluten-free.aspx">Quaker Gluten Free FAQ</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/about-quaker-oats/content/quaker-faq/quaker-overnight-oats-cups-faq.aspx">New! Quaker Overnight Oats Cups FAQ</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="/about-quaker-oats/content/quaker-faq/overnight-oats.aspx">Overnight Oats Recipe FAQ</a>
-                            </li>
-                            <li class="menu-item">
-	                        <a href="/about-quaker-oats/content/good-is-made.aspx">Good is Made</a>
-                            </li>
-                        </ul>
-                    </li>
-                </ul>
-                <ul class="menu-second-item">
-                    <li class="menu-item-bar">
-                        <a href="/about-quaker-oats/content/offersandpromotions.aspx">Offers &amp; Promotions </a>
-                    </li>
-                    <li class="menu-item-bar">
-                        
-                        <a href="/loginregister.aspx?signin=True" id="amSignUser" style="display: block" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign In' });">Sign In/Sign Up </a>
-                        <a href="/home.aspx?Logout=true" id="amLogout" style="display: none" onclick="dataLayer.push({ 'Category': 'Logout', 'Action': 'Logout' });">Logout</a>
-                    </li>
-                    <li class="menu-item-bar">
-                        <a href="/products/product-locator.aspx" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Where to Buy' });">Where To Buy</a>
-                    </li>
-                    <li class="menu-item-bar">
-                        <a href="https://cu.pepsico.com/quaker" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Contact Us' });">Contact Us</a>
-
-
-
-
-                    </li>
-                    <!-- <li class="menu-item-bar">
-                <a href="#">Terms of Service </a>
-            </li>
-            <li class="menu-item-bar">
-                <a href="#">Privacy </a>
-            </li> -->
-                    <li class="menu-item-bar">
-                        <a href="/about-quaker-oats/content/quaker-faq.aspx">FAQ </a>
-                    </li>
-                    <li class="menu-item-bar">
-                        <a href="/espanol/">Espanol</a>
-                    </li>
-                    <!--  <li class="menu-item-bar">
-                <a href="#">View Desktop Site</a>
-            </li> -->
-                </ul>
-            </div>
-            <!--End of Hamburger Menu For mobile-->
-            <!-- HAMBURGER MENU LINK -->
-            <a id="hamburgerLink" href="#sidr" onclick="dataLayer.push({ 'Category': 'Mobile Menu', 'Action': 'Open to View Menu'});">&nbsp;</a>
             <header>
-                <span class="left"></span>
-                <span class="right"></span>
-                <div class="container mobile-ham-menu">
-                    <div class="mobile-menu-wrapper">
-                        <!-- LOGO -->
-                        <div class="logo">
-                            <img src="/Sitefinity/WebsiteTemplates/Quaker/Images/logo.png" alt="Quaker" onclick="return RedirectHome();" style="cursor: pointer;">
-                        </div>
+               <!-- mobile Header starts -->
+                <nav class="navbar navbar-default navbar-fixed-top quakerHeaderNav" role="navigation">
+		<div class="container quakerHeaderNav nocontent">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navHeader">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar top-bar"></span>
+					<span class="icon-bar middle-bar"></span>
+					<span class="icon-bar bottom-bar"></span>
+				</button>
+				<div class="quakerLogo">
+                    <img src="/Sitefinity/WebsiteTemplates/Quaker/images/logo.png" onclick="return RedirectHome();">
+                </div>
+                <div class="Pagetitle hidden-lg">
+                    <span id="spnPageTitle">Privacy Policy</span>
+                    <div class="searchNavigation"><i class="glyphicon glyphicon-search" id="globalSrch"></i></div>
+                    <div class="closeButton hide"><img src="/Sitefinity/WebsiteTemplates/Quaker/images/header_search_close.png" alt=""></div>
+                </div>
+			</div>
+            
+            <!-- search container -->
+            <div class="mobile-searchContainer hidden-lg">
+                <div class="mobile-searchBarContainer hidden">
+                    <input type="text" placeholder="Find recipes, products &amp; more" value="" id="msearchInput" class="mobile-searchInput ui-autocomplete-input" autocomplete="off">
+                    <span class="mobile-searchBtn glyphicon glyphicon-search" onclick="SearchRecipe();"></span>
+                </div>
+            </div>
 
-                        <!-- PAGE TITLE -->
-                        <div class="pageTitle">
-                            <span id="spnPageTitle">Privacy Policy</span>
-                        </div>
-                        <!--
-                    <div class="title-align">
-                        <span class="dot-dot"></span>
-                        <span class="header-title">Home</span>
-                        <span class="dot-dot"></span>
-                    </div>
-                    -->
-
-
-
-                    </div>
-
-                    <!-- Added nocontent -->
-                    <div class="desktop-menu-wrapper nocontent">
-                        <!-- LOGO -->
-                        <div class="logo">
-                            <img src="/Sitefinity/WebsiteTemplates/Quaker/Images/logo.png" alt="" onclick="return RedirectHome();" style="cursor: pointer;">
-                        </div>
-
-                        <!-- SUBMENU AND SEARCH -->
-                        <div id="subMenuWrapper">
-
-                            <ul class="signInMenu">
-                                <li class="beforelogin"><a href="/loginregister.aspx?signin=True" class="border" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign In' });">Sign In</a></li>
-                                <li class="beforelogin"><a href="/signup.aspx" class="arrow" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign Up' });">Sign Up</a></li>
-                                <li class="afterlogin"><a href="/myprofile.aspx" class="border noCaps">Welcome, <span id="spnSignUser"></span></a></li>
-                                <li class="afterlogin"><a href="/home.aspx?Logout=true" class="">Logout</a></li>
-                                <li><a href="/products/product-locator.aspx" class="arrow" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Where to Buy' });">Where to 
-
-buy</a></li>
-                                <li><a href="/espanol" class="arrow" target="_blank" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Espanol', 'Label': 'Site Exit - Spanish Site' });">español</a></li>
-                                <li class="li-fist" style="margin-top: -5px; margin-left: 5px;">
-
-                                    <a target="_Facebook" href="http://www.facebook.com/quaker" class="social-icon facebookHeader" title="Connect with Quaker on Facebook" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Facebook', 'Label': 'Site Exit - QO Facebook Page' });"></a>
-                                    <a target="_Twitter" href="http://twitter.com/Quaker" class="social-icon twitterHeader" title="Connect with Quaker on Twitter" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Twitter', 'Label': 'Site Exit - QO Twitter Page' });"></a>
-                                    <a target="_Google" href="https://www.pinterest.com/quaker/" class="social-icon googleHeader" title="Connect with Quaker on pinterest" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Pinterest', 'Label': 'Site Exit - QO Pinterest Page' });"></a>
-                                    <a target="_Youtube" href="http://www.youtube.com/Quaker" class="social-icon youTubeHeader" style="margin-right: 0px;" title="Connect 
-
-with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'YouTube', 'Label': 'Site Exit - QO YouTube Page' });"></a>
-
-                                </li>
-                            </ul>
-
-
-                            <div class="signInSearch">
-                                <div>
-                                    <div>
-                                        <input type="text" id="txtFindRecipe" name="txtFindRecipe" autocomplete="off" value="" placeholder="SEARCH" class="search-area ui-autocomplete-input">
-                                        
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="search">
-                            <span class="textboxWrapper">
-                                <a href="#" class="searchSubmit" onclick="SearchRecipe();" >&nbsp;</a>
-                                <input type="text"  id="txtFindRecipe" name=""  placeholder="Search Keyword"/>
-                            </span>
-                            <select id="ddlSearch">
-                                <option>Entire Site</option>
-                                <option>Recipe</option>
-                                <option>Product</option>
-                            </select>
-                        </div>-->
-
-                        </div>
-
-                        <!-- MAIN MENU -->
-
-
-                        <ul class="nav navbar-nav mainNav">
-                            <li class="quakerProducts">
-                                <a href="/products.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products', 'Label': 'Top Nav Item - Products' });">Quaker <span>Products</span></a>
-                                <ul class="first-level">
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="navHeader">
+				<ul class="nav navbar-nav">
+					<li class="dropdown">
+						<a href="/cooking-and-recipes" class="dropdown-toggle" data-toggle="dropdown">RECIPES <span class="glyphicon glyphicon-play"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="/cooking-and-recipes">All Recipes</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Breakfast-Brunch">Breakfast &amp; Brunch</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=lunch-dinner">Lunch &amp; Dinner</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=meal-type-snack">Snacks</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=dessert">Dessert</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Oatmeal">Oatmeal</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Holiday">Holiday</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=make-ahead">Make-Ahead</a></li>
+                            <li><a href="/cooking-and-recipes/recipe-search-results.aspx?filter=-ingredients-or-less">5 Ingredients or Less</a></li>
+                            <li><a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx">Baking 101</a></li>
+                            <li><a href="/cooking-and-recipes/overnightoats">Make Overnight Oats</a></li>
+                            <li><a href="/cooking-and-recipes/how-to-prepare-oats.aspx">How to Prepare Oats</a></li>
+                            <li><a href="/cooking-and-recipes/content/kids-in-the-kitchen.aspx">Kids in the Kitchen</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="/products.aspx" class="dropdown-toggle" data-toggle="dropdown">PRODUCTS <span class="glyphicon glyphicon-play"></span></a>
+						<ul class="dropdown-menu">
+							<li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Hot Cereals' });" href="/products/hot-cereals.aspx">Hot Cereals</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Cold Cereals' });" href="/products/cold-cereals.aspx">Cold Cereals</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Overnight Oats' });" href="/product/cold-cereals/overnight-oats.aspx">Quaker Overnight Oats</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Snack Bars' });" href="/products/snack-bars.aspx">Snack Bars</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Rice Snacks' });" href="/products/rice-snacks.aspx">Rice Snacks</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Real Medleys' });" href="/products/real-medleys.aspx">Quaker Real Medleys</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'Other Products' });" href="/products/other-products.aspx">Other Products</a></li>
+                            <li><a onclick="dataLayer.push({ 'Category': 'All Products Page', 'Action': 'Product Category Tab', 'Label': 'All Products' });" href="/products.aspx">All Products</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="/inside-quaker" class="dropdown-toggle" data-toggle="dropdown">INSIDE QUAKER <span class="glyphicon glyphicon-play"></span></a>
+						<ul class="dropdown-menu">
+                            <li><a href="/inside-quaker">Inside Quaker</a></li>
+                            <li><a href="/extraordinary-oats.aspx">Extraordinary Oats</a></li>
+							<li><a href="/about-quaker-oats/content/quaker-history.aspx">Quaker History</a></li>
+                            <li><a href="/oats-do-more/why-oats/our-oat-story.aspx">About Our Oats</a></li>
+                            <li><a href="/oats-do-more.aspx">Healthy Living</a></li>
+                            <li><a href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx">Oats Center of Excellence</a></li>
+                            <li><a href="/about-quaker-oats/content/quaker-faq.aspx">FAQS</a></li>
+                            <li><a href="https://cu.pepsico.com/quaker">Contact Quaker</a></li>
+						</ul>
+					</li>
+                    <li><a href="/extraordinary-oats.aspx">EXTRAORDINARY OATS</a></li>
+                    <li><a href="/about-quaker-oats/content/offersandpromotions.aspx">PROMOTIONS</a></li>
+                    <li><a href="/products/product-locator.aspx" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Where to Buy' });">WHERE TO BUY</a></li>
+                    <li><a href="/espanol" target="_blank">ESPAÑOL</a></li>
+				</ul>
+				
+				<ul class="nav navbar-nav navbar-right quakerSubnav">
+					<li><a href="/signin.aspx" id="amSignInUser" class="border" style="display: block" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign In' });">Log In</a></li>
+                    <li><a href="/signup.aspx" id="amSignUpUser" style="display: block" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign Up' });">Sign Up</a></li>
+                    <li><a id="amLogout" style="display: none" onclick="dataLayer.push({ 'Category': 'Logout', 'Action': 'Logout' });" href="javascript:__doPostBack('ctl00$ctl00$amLogout','')">Logout</a></li>					
+				</ul>
+                
+<ul class="nav navbar-nav navbar-right quakerSubnav">
+					<li><a href="http://www.facebook.com/quaker" target="_blank" title="Connect with Quaker on Facebook" class="fbook"><svg version="1.1" id="Svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.882px" height="60px" viewBox="-9.297 -20 27.882 60" enable-background="new -9.297 -20 27.882 60" xml:space="preserve">
+                                        <path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M9.087-0.572V-6.8c0-2.336,1.55-2.883,2.64-2.883s6.7,0,6.7,0
+	v-10.28L9.204-20C-1.044-20-3.372-12.332-3.372-7.424v6.853h-5.925v10.592h5.925c0,13.6,0,29.979,0,29.979H9.09
+	c0,0,0-16.547,0-29.979h8.408l1.087-10.592H9.087z"></path>
+                                    </svg></a></li>
+                    <li><a href="http://twitter.com/Quaker" target="_blank" title="Connect with Quaker on Twitter" class="tweet"><svg version="1.1" id="Svg6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68.575px" height="60px" viewBox="-22.861 -20 68.575 60" enable-background="new -22.861 -20 68.575 60" xml:space="preserve">
+                                        <path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M45.714-12.901c-2.537,1.223-5.235,2.016-8.092,2.385
+	c2.912-1.875,5.147-4.828,6.205-8.367c-2.725,1.729-5.739,2.96-8.95,3.684C32.32-18.157,28.649-20,24.615-20
+	c-7.772,0-14.068,6.771-14.068,15.146c0,1.176,0.123,2.341,0.354,3.435C-0.771-2.021-11.154-8.075-18.094-17.22
+	c-1.204,2.229-1.893,4.828-1.893,7.611c0,5.244,2.481,9.907,6.261,12.583c-2.314-0.094-4.482-0.735-6.375-1.881
+	c0,0.062,0,0.141,0,0.207c0,7.323,4.849,13.437,11.282,14.849c-1.178,0.346-2.423,0.501-3.718,0.501
+	c-0.902,0-1.761-0.064-2.631-0.27c1.784,6.041,6.984,10.424,13.137,10.515c-4.813,4.081-10.881,6.48-17.47,6.48
+	c-1.137,0-2.262-0.067-3.36-0.208C-16.633,37.486-9.253,40-1.293,40c25.875,0,40.034-23.086,40.034-43.099
+	c0-0.639-0.018-1.289-0.047-1.938C41.44-7.199,43.827-9.872,45.714-12.901z"></path>
+                                    </svg></a></li>
+                    
+                    <li><a href="https://www.instagram.com/Quaker/" target="_blank" title="Connect with Quaker on Instagram" class="insta"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Svg8" x="0px" y="0px" width="59px" height="59px" viewBox="-9.5 -9.5 59 59" enable-background="new -9.5 -9.5 59 59" xml:space="preserve">
+<g>
+	<path fill="#FFFFFF" opacity="0.5" d="M20-4.184c7.876,0,8.81,0.031,11.921,0.173C34.798-3.88,36.36-3.4,37.397-2.997   c1.377,0.534,2.359,1.174,3.394,2.205c1.03,1.036,1.671,2.017,2.207,3.395c0.403,1.04,0.887,2.6,1.017,5.477   c0.142,3.11,0.17,4.044,0.17,11.921c0,7.878-0.03,8.812-0.17,11.923c-0.13,2.873-0.613,4.437-1.017,5.477   c-0.536,1.375-1.176,2.357-2.207,3.392c-1.034,1.033-2.017,1.671-3.394,2.202c-1.038,0.402-2.602,0.89-5.477,1.021   C28.81,44.156,27.879,44.182,20,44.182s-8.809-0.027-11.921-0.167c-2.876-0.132-4.439-0.616-5.477-1.021   c-1.378-0.531-2.36-1.169-3.395-2.202c-1.029-1.034-1.671-2.017-2.206-3.392c-0.403-1.042-0.886-2.606-1.017-5.477   c-0.14-3.11-0.169-4.045-0.169-11.923c0-7.876,0.029-8.809,0.169-11.921c0.13-2.876,0.613-4.437,1.017-5.477   c0.535-1.378,1.176-2.36,2.206-3.391c1.034-1.033,2.017-1.675,3.395-2.208C3.641-3.4,5.204-3.88,8.079-4.011   C11.191-4.153,12.124-4.184,20-4.184 M20-9.5c-8.012,0-9.017,0.035-12.163,0.18c-3.14,0.141-5.283,0.64-7.16,1.368   C-1.264-7.199-2.91-6.187-4.548-4.548C-6.19-2.91-7.197-1.262-7.953,0.677C-8.681,2.554-9.18,4.698-9.324,7.838   C-9.465,10.985-9.5,11.988-9.5,20c0,8.015,0.035,9.02,0.177,12.164c0.144,3.141,0.643,5.284,1.371,7.161   c0.754,1.938,1.763,3.585,3.405,5.223c1.637,1.642,3.283,2.65,5.224,3.403c1.876,0.73,4.02,1.23,7.16,1.373   C10.983,49.466,11.988,49.5,20,49.5c8.012,0,9.018-0.034,12.163-0.177c3.142-0.142,5.285-0.642,7.159-1.373   c1.941-0.752,3.588-1.762,5.226-3.402c1.642-1.64,2.65-3.286,3.405-5.226c0.729-1.877,1.228-4.021,1.371-7.159   C49.466,29.02,49.5,28.015,49.5,20c0-8.012-0.034-9.015-0.177-12.162c-0.145-3.142-0.645-5.285-1.372-7.161   c-0.753-1.939-1.763-3.587-3.403-5.226c-1.638-1.639-3.284-2.649-5.226-3.403c-1.876-0.729-4.02-1.227-7.159-1.37   C29.018-9.465,28.012-9.5,20-9.5L20-9.5z"></path>
+	<path fill="#FFFFFF" opacity="0.5" d="M20,4.853C11.634,4.853,4.85,11.634,4.85,20S11.634,35.147,20,35.147S35.15,28.366,35.15,20   S28.366,4.853,20,4.853z M20,29.832c-5.433,0-9.833-4.401-9.833-9.832c0-5.43,4.4-9.833,9.833-9.833   c5.434,0,9.832,4.403,9.832,9.833C29.832,25.431,25.434,29.832,20,29.832z"></path>
+	<circle fill="#FFFFFF" opacity="0.5" cx="35.747" cy="4.253" r="3.54"></circle>
+</g>
+</svg></a></li>
+                    
+                    <li><a href="https://www.pinterest.com/quaker/" target="_blank" title="Connect with Quaker on pinterest" class="pint"><svg version="1.1" id="Svg9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px" viewBox="-20 -20 60 60" enable-background="new -20 -20 60 60" xml:space="preserve">
+                                        <path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M10-20C-6.566-20-20-6.566-20,10
+	c0,12.284,7.386,22.84,17.96,27.478c-0.086-2.092-0.015-4.611,0.52-6.888c0.576-2.438,3.857-16.348,3.857-16.348
+	s-0.957-1.916-0.957-4.746c0-4.446,2.577-7.767,5.788-7.767c2.726,0,4.046,2.048,4.046,4.506c0,2.742-1.75,6.847-2.649,10.644
+	c-0.753,3.182,1.597,5.777,4.733,5.777c5.687,0,9.516-7.298,9.516-15.948c0-6.573-4.43-11.492-12.485-11.492
+	C1.231-4.783-4.439,2.002-4.439,9.58c0,2.612,0.768,4.455,1.978,5.881c0.554,0.662,0.633,0.923,0.432,1.679
+	c-0.145,0.548-0.475,1.881-0.612,2.405c-0.198,0.762-0.813,1.031-1.5,0.756c-4.191-1.717-6.145-6.305-6.145-11.462
+	c0-8.522,7.185-18.743,21.438-18.743c11.455,0,18.993,8.291,18.993,17.186c0,11.771-6.542,20.563-16.189,20.563
+	c-3.234,0-6.283-1.749-7.324-3.738c0,0-1.743,6.911-2.112,8.247c-0.633,2.314-1.881,4.623-3.018,6.425C4.195,39.566,7.048,40,10,40
+	c16.57,0,30-13.436,30-30C40-6.566,26.57-20,10-20z"></path>
+                                    </svg></a></li>
+					
+                    </ul>
+			</div>
+		</div>
+	</nav>
+                <!-- Mobile Header Ends -->
+	
+	            <!-- Desktop Header starts -->
+	            <div class="desktopHeader nocontent">
+		<nav class="navbar navbar-default quakerHeader" role="navigation">
+          <div class="container">
+		    <!-- Brand and toggle get grouped for better mobile display -->
+		      <div class="logo">
+                    <img src="/Sitefinity/WebsiteTemplates/Quaker/images/logo.png" alt="" onclick="return RedirectHome();">
+             </div>
+              <ul class="mainMenu nav navbar-nav mainNav">
+               <li class="dropdown"><a href="/cooking-and-recipes" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes', 'Label': 'Top Nav Item' });" class="dropdown-toggle animate " data-toggle="dropdown" aria-expanded="false">Recipes <span class="caret"></span></a>
+                   <ul class="first-level">
                                     <li>
-                                        <a href="/products/hot-cereals.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Hot Cereals' });">Quaker Hot Cereals</a>
+                                        <a href="/cooking-and-recipes" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Recipe Finder' });">Recipe Finder</a>
+                                    </li>
+                                    <li>
+                                        <a href="/cooking-and-recipes/content/kids-in-the-kitchen.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Kids in the Kitchen' });">Kids in the Kitchen</a>
+                                    </li>
+                                    <li>
+                                         <a href="/cooking-and-recipes/overnightoats" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Overnight Oats' });">Make Overnight Oats</a>
+                                    </li>
+                                    <li>
+                                        <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Baking 101' });">Baking 101</a>
+                                    </li>
+                                    <li>
+                                        <a href="/cooking-and-recipes/how-to-prepare-oats.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'How to Prepare Oats' });">How to Prepare Oats</a>                                        
+                                    </li>
+                                    <li>
+                                        <a href="/cooking-and-recipes/content/oatmazing-oatmeal.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Oatmazing Oatmeal' });">Chef Samantha Stephens</a>
+                                    </li>
+                                    <li>
+                                        <a href="/about-quaker-oats/chef-andrew.aspx" class="noborder arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Chef Andrew' });">Chef Andrew</a>
+                                    </li>
+                                </ul>
+               </li>
+                   <li class="dropdown"><a href="/products.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products', 'Label': 'Top Nav Item - Products' });" class="dropdown-toggle animate " data-toggle="dropdown" aria-expanded="false">Products <span class="caret"></span></a>
+                       <ul class="first-level">
+                                    <li>
+                                        <a href="/products/hot-cereals.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Hot Cereals' });">Hot Cereals</a>
                                         <ul class="second-level">
                                             <li>
                                                 <a href="/product/hot-cereals/Old-Fashioned-Oats-Quick-oats.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Old Fashioned &amp; Quick Oats' });">Old Fashioned &amp; Quick Oats</a>
@@ -865,6 +799,14 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                     <li><a href="/products/hot-cereals/real-medleys/cranberry-vanilla-almond.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'RM Steel Cut Oatmeal - Cranberry Vanilla Almond' });">Real Medleys® Steel Cut Oatmeal Cranberry Vanilla Almond
                                                     </a></li>
+                                                </ul>
+                                            </li>
+                                            <li>
+                                                <a href="/product/hot-cereals/millers-batch" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Millers-Batch' });">Miller's Batch</a>
+                                                <ul class="third-level">
+                                                    <li><a href="/products/hot-cereals/canadian-prairie-oats" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Canadian Prairie Oats' });">Canadian Prairie Oats</a></li>
+                                                    <li><a href="/products/hot-cereals/rocky-mountain-harvest" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Rocky Mountain Harvest' });">Rocky Mountain Harvest</a></li>
+                                                    <li><a href="/products/hot-cereals/california-valley" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'California Valley' });">California Valley</a></li>
                                                 </ul>
                                             </li>
                                             <li>
@@ -934,21 +876,13 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                 <ul class="third-level">
                                                     <li><a href="/products/hot-cereals/oat-bran-hot-cereal.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Hot Oat Bran' });">Hot Oat Bran
                                                     </a></li>
-                                                    <!--<li><a href="/products/hot-cereals/multigrain-hot-cereal.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Multigrain Hot Cereal' });">Multigrain Hot Cereal
-                                                    </a></li>
-                                                    <li><a href="/products/hot-cereals/warm-and-crunchy/apple-cinnamon.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Warm & Crunchy Apple Cinnamon' });">Warm & Crunchy Apple Cinnamon
-                                                    </a></li>
-                                                    <li><a href="/products/hot-cereals/warm-and-crunchy/cranberry-almond.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Warm & Crunchy Cranberry Almond' });">Warm & Crunchy Cranberry Almond
-                                                    </a></li>
-                                                    <li><a href="/products/hot-cereals/warm-and-crunchy/honey-almond.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Hot Cereal', 'Label': 'Warm & Crunchy Honey Almond' });">Warm & Crunchy Honey Almond
-                                                    </a></li>-->
                                                 </ul>
                                             </li>
                                         </ul>
 
                                     </li>
                                     <li>
-                                        <a href="/products/cold-cereals.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Cold Cereals' });">Quaker Cold Cereals</a>
+                                        <a href="/products/cold-cereals.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Cold Cereals' });">Cold Cereals</a>
                                         <ul class="second-level">
                                             <li>
                                                 <a href="/product/cold-cereals/life-cereal.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Life Cereal' });">Life® Cereal</a>
@@ -957,8 +891,6 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                     <li><a href="/products/cold-cereals/life-cereal/cinnamon.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Life Cereal Cinnamon' });">Life Cereal Cinnamon
                                                     </a></li>
-                                                    <!--<li><a href="/products/cold-cereals/life-cereal/maple-and-brown-sugar.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Life Cereal Maple and Brown Sugar' });">Life Cereal Maple and Brown Sugar
-                                                    </a></li>-->
                                                     <li><a href="/products/cold-cereals/life-cereal/pumpkin-spice.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Life Cereal Pumpkin Spice' });">Life Cereal Pumpkin Spice
                                                     </a></li>
                                                     <li><a href="/products/cold-cereals/life-cereal/vanilla.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Life Cereal Vanilla' });">Life Cereal Vanilla
@@ -999,7 +931,7 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                            <li>
+                                           <li>
                                                 <a href="/product/cold-cereals/simply-granola.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Simply Granola' });">Simply Granola</a>
                                                 <ul class="third-level">
                                                     <li><a href="/products/cold-cereals/granola/oats-and-honey.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Simply Granola Oats, Honey &amp; Almonds' });">Simply Granola Oats, Honey &amp; Almonds
@@ -1021,7 +953,7 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                             <li>
+                                            <li>
                                                 <a href="/product/cold-cereals/multigrain-flakes.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Multigrain Flakes' });">Multigrain Flakes</a>
                                                 <ul class="third-level">
                                                     <li><a href="/products/cold-cereals/multigrain-flakes/Honey-Vanilla.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Honey Vanilla' });">Honey Vanilla
@@ -1030,13 +962,12 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                           
+                                            
                                             <li>
                                                 <a href="/product/cold-cereals/other-products.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Other' });">Other Products</a>
                                                 <ul class="third-level">
                                                     <li><a href="/products/cold-cereals/corn-crunch.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Corn Crunch' });">Corn Crunch
                                                     </a></li>
-                                                    
                                                     <li><a href="/products/cold-cereals/king-vitaman.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'King Vitaman' });">King Vitaman 
                                                     </a></li>
                                                     <li><a href="/products/cold-cereals/quisp.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Cold Cereal', 'Label': 'Quisp' });">Quisp
@@ -1059,7 +990,7 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                 </ul>
                                     </li>
                                     <li>
-                                        <a href="/products/snack-bars.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Snack Bars' });">Quaker Snack Bars</a>
+                                        <a href="/products/snack-bars.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Snack Bars' });">Snack Bars</a>
                                         <ul class="second-level">
                                             <li>
                                                 <a href="/product/snack-bars/chewy-granola-bars.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Snack Bars', 'Label': 'Chewy Granola Bars' });">Chewy® Granola Bars</a>
@@ -1082,6 +1013,7 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
+
                                             <li>
                                                 <a href="/product/snack-bars/breakfast-flats.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Snack Bars', 'Label': 'Breakfast Flats' });">Breakfast Flats</a>
                                                 <ul class="third-level">
@@ -1093,7 +1025,7 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                            <li>
+                                             <li>
                                                 <a href="/product/snack-bars/breakfast-squares.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Snack Bars', 'Label': 'Breakfast Squares' });">Breakfast Squares</a>
                                                 <ul class="third-level">
                                                     <li><a href="/products/oat-snacks/breakfast-squares/baked-apple-cinnamon.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Snack Bars', 'Label': 'Breakfast Squares Baked Apple Cinnamon' });">Breakfast Squares Baked Apple Cinnamon
@@ -1104,56 +1036,10 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                            <!--<li>
-                                                <a href="/product/snack-bars/baked-bars.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Snack Bars', 'Label': 'Baked Bars' });">Baked Bars</a>
-                                                <ul class="third-level">
-                                                    <li><a href="/products/oat-snacks/real-medleys/apple-nut-harvest.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Apple Nut Harvest');">Real Medleys® Multigrain Bar Apple Nut Harvest
-                                                    </a></li>
-                                                    <li><a href="/products/oat-snacks/real-medleys/cherry-pistachio.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Cherry Pistachio');">Real Medleys® Multigrain Bar Cherry Pistachio
-                                                    </a></li>
-                                                    <li><a href="/products/oat-snacks/real-medleys/dark-chocolate-almond-coconut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'RM Multigrain Bar Dark Chocolate Almond Coconut');">Real Medleys® Multigrain Bar Dark Chocolate Almond Coconut
-                                                    </a></li>
-                                                    
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="/product/snack-bars/protein-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Protein Bars');">Protein Bars</a>
-                                                <ul class="third-level">
-                                                    <li><a href="/products/oat-snacks/protein-baked-bars/oatmeal-raisin-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Protein Baked Bar Oatmeal Raisin Nut');">Protein Baked Bar Oatmeal Raisin Nut
-                                                    </a></li>
-                                                    <li><a href="/products/oat-snacks/protein-baked-bars/peanut-butter-chocolate.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Protein Baked Bar Peanut Butter Chocolate Chip');">Protein Baked Bar Peanut Butter Chocolate Chip
-                                                    </a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="/product/snack-bars/quinoa-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Quinoa Bars');">Quinoa Bars</a>
-                                                <ul class="third-level">
-                                                    <li><a href="/products/oat-snacks/quinoa-granola-bars/chocolate-nut-medley.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Quinoa Bars Chocolate  Nut Medley');">Quinoa Bars Chocolate  Nut Medley
-                                                    </a></li>
-                                                    <li><a href="/products/oat-snacks/quinoa-granola-bars/yogurt-fruit-nut.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Quinoa Bar Yogurt, Fruit & Nut');">Quinoa Bar Yogurt, Fruit & Nut
-                                                    </a></li>
-                                                </ul>
-                                            </li>-->
-                                            <!--<li>
-                                                <a href="/product/snack-bars/baked-bars.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Baked Bars');">Baked Bars</a>
-                                                <ul class="third-level">
-                                                    <li><a href="/products/oat-snacks/oatmeal-to-go-bars/brown-sugar-and-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Brown Sugar and Cinnamon');">Oatmeal To Go Brown Sugar and Cinnamon
-                                                    </a></li>
-                                                    <li><a href="/products/oat-snacks/oatmeal-to-go-bars/apples-with-cinnamon.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Oatmeal To Go Apples with Cinnamon');">Oatmeal To Go Apples with Cinnamon
-                                                    </a></li>
-                                                    
-                                                    
-                                                    
-                                                    <li><a href="/products/oat-snacks/Soft-Baked-Bars/Banana-Nut-Bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Soft Baked Banana Nut Bread');">Soft  Baked Banana Nut Bread
-                                                    </a></li>
-                                                    <li><a href="/products/oat-snacks/Soft-Baked-Bars/Cinnamon-Pecan-Bread.aspx" onclick="ga('send', 'event', 'Global Navigation', 'Quaker Products - Snack Bars', 'Soft Baked Cinnamon Pecan Bread');">Soft  Baked Cinnamon Pecan Bread
-                                                    </a></li>
-                                                </ul>
-                                            </li>-->
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="/products/rice-snacks.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Rice Snacks' });">Quaker Rice Snacks</a>
+                                        <a href="/products/rice-snacks.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'Rice Snacks' });">Rice Snacks</a>
                                         <ul class="second-level">
                                             <li>
                                                 <a href="/product/rice-snacks/popped-crisps.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Rice Snacks', 'Label': 'Popped Crisps' });">Popped® Crisps</a>
@@ -1210,7 +1096,6 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                            
                                         </ul>
                                     </li>
                                     <li>
@@ -1264,7 +1149,7 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                                     </a></li>
                                                 </ul>
                                             </li>
-                                            
+                                           
                                         </ul>
                                     </li>
                                     <li>
@@ -1300,7 +1185,6 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                             <li>
                                                 <a href="/product/other-products/cookies-biscuits.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Other', 'Label': 'Cookies &amp; Biscuits' });">Cookies &amp; Biscuits</a>
                                                 <ul class="third-level">
-                                                    
                                                     <li><a href="/products/cookies/breakfast-cookies/oatmeal-chocolate-chip.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Other', 'Label': 'Breakfast Cookies Oatmeal Chocolate Chip' });">Breakfast Cookies Oatmeal Chocolate Chip
                                                     </a></li>
                                                     <li><a href="/products/cookies/breakfast-cookies/oatmeal-raisin.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Other', 'Label': 'Breakfast Cookies Oatmeal Raisin' });">Breakfast Cookies Oatmeal Raisin
@@ -1313,190 +1197,104 @@ with Quaker on YouTube" onclick="dataLayer.push({ 'Category': 'Global Header', '
                                         <a href="/products.aspx" class="all-prod noborder noarrow" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Products - Category', 'Label': 'All Products' });">All Products</a>
                                     </li>
                                 </ul>
-                            </li>
-
-                            <li class="cookingRecipes">
-                                <a href="/cooking-and-recipes" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes', 'Label': 'Top Nav Item' });">Cooking 
-
-&amp; <span>Recipes</span></a>
-                                <ul class="first-level">
-                                    <li>
-                                        <a href="/cooking-and-recipes" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Recipe Finder' });">Recipe Finder</a>
+                   </li>
+                   <li class="dropdown"><a href="/inside-quaker" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker', 'Label': 'Top Nav Item - Inside Quaker' });" class="dropdown-toggle animate " data-toggle="dropdown" aria-expanded="false">Inside Quaker <span class="caret"></span></a>
+                        <ul class="first-level">
+                            <li><a href="/inside-quaker" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Category', 'Label': 'Inside Quaker' });">Inside Quaker</a></li>
+                            <li><a href="/extraordinary-oats.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Category', 'Label': 'Extraordinary Oats' });">Extraordinary Oats</a></li> 
+                            <li><a href="/about-quaker-oats/quaker-history.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Category', 'Label': 'Our History' });">Quaker History</a></li>
+                            <li><a href="/oats-do-more/why-oats/our-oat-story.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Category', 'Label': 'Our Oat Story' });">About Our Oats</a></li>
+                             <li><a href="/oats-do-more.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Category', 'Label': 'Healthy Living' });">Healthy Living</a>
                                         <ul class="second-level">
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Breakfast-Brunch" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Breakfast &amp; Brunch' });">Breakfast &amp; Brunch</a>
+                                                <a href="/oats-do-more/heart-health" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Heart Health' });">Heart Health</a>
+                                            </li>
+                                            <li>
+                                                <a href="/oats-do-more/for-your-family/teaching-healthy-eating-habits.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Teaching Healthy Eating Habits' });">Teaching Healthy Eating Habits</a>
+                                            </li>
+                                            <li>
+                                                <a href="/oats-do-more/for-your-family/family-nutrition.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Family Nutrition' });">Family Nutrition</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=lunch-dinner" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Lunch &amp; Dinner' });">Lunch &amp; Dinner</a>
+                                                <a href="/oats-do-more/for-your-family/family-fitness.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Family Fitness' });">Family Fitness</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=meal-type-snack" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Snacks' });">Snacks</a>
+                                                <a href="/oats-do-more/for-your-health/healthy-eating.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Healthy Eating' });">Healthy Eating</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=dessert" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Dessert' });">Dessert</a>
+                                                <a href="/oats-do-more/for-your-health/fiber-and-whole-grains.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Fiber &amp; Whole Grains' });">Fiber &amp; Whole grains</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Oatmeal" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Oatmeal' });">Oatmeal</a>
+                                                <a href="/oats-do-more/for-your-health/fitness-and-exercise.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Fitness &amp; Exercise' });">Fitness &amp; Exercise</a>
+
+                                            </li>
+
+                                            <li>
+                                                <a href="/oats-do-more/for-your-world/oats-and-the-environment.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Oats &amp; the Environment' });">Oats &amp; the Environment</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=Holiday" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Holiday' });">Holiday</a>
+                                                <a href="/oats-do-more/why-oats/company-of-firsts" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'A Company First' });">A Company First</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=make-ahead" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': 'Make-Ahead' });">Make-Ahead</a>
+                                                <a href="/oats-do-more/why-oats/surprising-uses-for-oats" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'Surprising Uses For Oats' });">Surprising Uses For Oats</a>
 
                                             </li>
                                             <li>
-                                                <a href="/cooking-and-recipes/recipe-search-results.aspx?filter=-ingredients-or-less" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Recipe Finder', 'Label': '5 Ingredients or Less' });">5 Ingredients or Less</a>
+                                                <a href="/oats-do-more/why-oats/the-difference-between-our-oats" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Healthy Living', 'Label': 'The Difference Between our Oats' });">The Difference Between our Oats</a>
 
                                             </li>
                                         </ul>
-                                    </li>
-                                    <li>
-                                        <a href="/cooking-and-recipes/content/kids-in-the-kitchen.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Kids in the Kitchen' });">Kids in the Kitchen</a>
-                                    </li>
-                                    <li>
-                                        <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Baking 101' });">Baking 101</a>
-                                        <ul class="second-level">
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Baking Overview' });">Baking Overview</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/cookies.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Cookies' });">Cookies</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/bar-cookies.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Bar Cookies' });">Bar Cookies</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/muffins.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Muffins' });">Muffins</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/biscuits.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Biscuits' });">Biscuits</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/quick-breads.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Quick Breads' });">Quick Breads</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/cooking-and-recipes/content/baking-101/yeast-breads.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Baking 101', 'Label': 'Yeast Breads' });">Yeast Breads</a>
-
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="/cooking-and-recipes/overnightoats" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Overnight Oats' });">Overnight Oats</a>
-                                    </li>
-                                    <li>
-                                        <a href="/cooking-and-recipes/content/oatmazing-oatmeal.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'Oatmazing Oatmeal' });">Oatmazing Oatmeal</a>
-                                    </li>
-                                    <li>
-                                        <a href="/cooking-and-recipes/how-to-prepare-oats.aspx" class="noborder arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Quaker Cooking &amp; Recipes - Category', 'Label': 'How to Prepare Oats' });">How to Prepare Oats</a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="aboutQuaker">
-                                <a href="/about-quaker-oats.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker', 'Label': 'Top Nav Item');">About 
-
-                                    <span>Quaker</span></a>
-                                <ul class="first-level">
-                                    <li class=" ">
-                                        <a href="/about-quaker-oats/quaker-history.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Quaker History' });">Quaker History</a>
-                                    </li>
-                                    <li class=" ">
-                                       <a href="/about-quaker-oats/content/quaker-faq.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Quaker FAQs' });">Quaker FAQs</a>
-                                        <ul class="second-level">
-                                            <li>
-                                                <a href="/about-quaker-oats/content/quaker-faq.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Quaker FAQs' });">Quaker FAQs</a>
-                                            </li>
-                                            <li>
-                                                <a href="/about-quaker-oats/content/quaker-faq-gluten-free.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Quaker Gluten Free FAQ' });">Quaker Gluten Free FAQ</a>
-                                            </li>
-                                             <li>
-                                                <a href="/about-quaker-oats/content/quaker-faq/quaker-overnight-oats-cups-faq.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Quaker Overnight Oats Cups FAQ' });">New! Quaker Overnight Oats Cups FAQ</a>
-                                            </li>
-                                            <li>
-                                                <a href="/about-quaker-oats/content/quaker-faq/overnight-oats.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Overnight Oats Recipe FAQ' });">Overnight Oats Recipe FAQ</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-                                    <li>
-                                        <a href="/oats-do-more.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Healthy Living' });">Healthy Living</a>
-                                        <ul class="second-level">
-                                            <li>
-                                                <a href="/oats-do-more/why-oats/our-oat-story.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Our Oat Story' });">Our Oat Story</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/heart-health" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Heart Health' });">Heart Health</a>
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/for-your-family/teaching-healthy-eating-habits.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Teaching Healthy Eating Habits' });">Teaching Healthy Eating Habits</a>
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/for-your-family/family-nutrition.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Family Nutrition' });">Family Nutrition</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/for-your-family/family-fitness.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Family Fitness' });">Family Fitness</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/for-your-health/healthy-eating.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Healthy Eating' });">Healthy Eating</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/for-your-health/fiber-and-whole-grains.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Fiber &amp; Whole Grains' });">Fiber &amp; Whole grains</a>
-
-                                            </li>
-                                            <li>
-                                                <a href="/oats-do-more/for-your-health/fitness-and-exercise.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Fitness &amp; Exercise' });">Fitness &amp; Exercise</a>
-
-                                            </li>
-                                            <!-- <li>
-                                            <a href="/oats-do-more/for-your-health/health-tools.aspx" onclick="ga('send', 'event', 'Global Navigation', 'About Quaker - 
-
-Healthy Living', 'Health Tools');">Health Tools</a>
-
-                                        </li> -->
-
-                                            <li>
-                                                <a href="/oats-do-more/for-your-world/oats-and-the-environment.aspx" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Healthy Living', 'Label': 'Oats &amp; the Environment' });">Oats &amp; the Environment</a>
-
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="">
-                                        <a href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Oats Center of Excellence' });">Oats Center of Excellence</a>
-                                    </li>
-                                    <li class="">
-                                        <a href="/about-quaker-oats/chef-andrew.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Chef Andrew' });">Chef Andrew</a>
-                                    </li>
-                                    
-                                    <li class="">
-                                        <a href="/about-quaker-oats/content/good-is-made.aspx" class="noborder arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Good is Made' });">Good is Made</a>
-                                    </li>
-                                </ul>
-                            </li>
-
-                            <li class="offersPromo">
-                                <a href="/about-quaker-oats/content/offersandpromotions.aspx" class="" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Offers &amp; Promotions', 'Label': 'Top Nav Item' });">Offers &amp; <span>Promotions</span></a>
-                            </li>
+                            </li> 
+                             <li class=""><a href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'About Quaker - Category', 'Label': 'Oats Center of Excellence' });">Oats Center of Excellence</a></li>                         
+                            <li><a href="/about-quaker-oats/content/quaker-faq.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Inside Quaker - Category', 'Label': 'Quaker FAQs' });">FAQs</a></li>                                                                                   
+                            <li class=""><a href="https://cu.pepsico.com/quaker" target="_blank" class="noborder arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Contact Quaker', 'Label': 'Site Exit - Pepsico' });">Contact Us</a></li>
                         </ul>
+                   </li>
+                   <li><a href="/extraordinary-oats.aspx" class="arrowdisable" onclick="dataLayer.push({ 'Category': 'Global Navigation', 'Action': 'Top Nav Item - Extraordinary Oats', 'Label': 'Extraordinary Oats' });">Extraordinary Oats</a></li>
+              </ul>
+             
+              <ul class="subMenu nav navbar-nav pull-right" id="hideMenuItem">
+                  <li class="beforelogin"><a href="/signup.aspx/" class="border" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign Up' });">Sign Up</a></li>
+                  <li class="beforelogin"><a href="/signin.aspx/" onclick="dataLayer.push({ 'Category': 'Global Header', 'Action': 'Sign In' });">Sign In</a></li>
+                  <li class="afterlogin"><a href="/myprofile.aspx" class="border noCaps">Welcome, <span id="spnSignUser"></span></a></li>
+                  <li class="afterlogin"><a class="" href="javascript:__doPostBack('ctl00$ctl00$ctl25','')">Logout</a></li>
+                  <li><a href="/products/product-locator.aspx"><span style="right:10px;">•</span>Where to Buy</a></li>
+                  <li><a href="/about-quaker-oats/content/offersandpromotions.aspx"><span style="right:10px;">•</span>Promotions</a></li>
+                  <li><a href="/espanol" target="_blank"><span style="right:10px;">•</span>Español</a></li>
+              </ul>
 
-                    </div>
-                </div>
+              <ul class="subMenu nav navbar-nav pull-right hide" id="searchContainerBox">
+              	<div class="" role="search">
+					<div class="input-group">
+						<button type="button" class="btn btn-default navBtn" id="searchbtnBox" onclick="SearchRecipe();">
+								<span class="glyphicon glyphicon-search">
+									<span class="sr-only">Search</span>
+								</span>
+							</button>
+						<input type="text" class="form-control pull-right navbtnBox ui-autocomplete-input" id="searchInput" placeholder="Find recipes, products &amp; more" autocomplete="off">
+						<span class="input-group-btn">
+							<button type="reset" class="btn btn-default navBtn" id="removeBtn">
+								<span class="glyphicon glyphicon-remove">
+									<span class="sr-only">Close</span>
+								</span>
+							</button>
+							
+						</span>
+					</div>
+				</div>
+              </ul>
+
+		  </div>
+       <div class="hidden-xs searchBox" id="searchheaderBox"><a href="#" class="animate searchIcon"><span class=" glyphicon glyphicon-search "></span></a></div>
+		</nav>
+		</div>	
+	            <!-- Desktop Header Ends -->
             </header>
             <div id="content">
                   
@@ -1538,70 +1336,69 @@ Chicago, IL 60604-9003<br>
             </div>
 
             <div class="footer-section hidden-xs nocontent">
-                <div class="container">
-                    <div class="row">
-                        <div class="footer-content" id="footercontent">
-                            <div class="col-md-3 pad0 col-sm-3 mt2mb5">
-                                <ul class="list-unstyled">
-                                    <li class="list-heading">POPULAR LINKS</li>
-                                    <li><a href="/cooking-and-recipes" target="_blank">Recipes</a></li>
-                                    <li><a href="/cooking-and-recipes/overnightoats" target="_blank">Overnight Oats</a></li>
-                                    <!--<li><a href="/about-quaker-oats/content/off-you-go.aspx" target="_blank">#OffYouGo</a></li>-->
-                                    <li><a href="/products/real-medleys" target="_blank">Real Medleys</a></li>
-                                    <li><a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" target="_blank">Baking 101</a></li>
-                                </ul>
-                            </div>
-                            <div class="col-md-3 pad0 col-sm-3 mt2mb5 ml4">
-                                <ul class="list-unstyled">
-                                    <li class="list-heading">MORE INFO</li>
-                                    <li><a href="https://cu.pepsico.com/quaker" target="_blank">Contact Quaker</a></li>
-                                    <li><a href="/privacy-policy" target="_blank">Privacy Policy</a></li>
-                                    <li><a href="/ad_tracking" target="_blank">Ads and Tracking</a></li>
-                                    <li><a href="/terms-of-use" target="_blank">Terms And Conditions</a></li>
-                                    <li><a href="http://www.pepsico.com/" target="_blank">PEPSICO</a></li>
-                                    <li><a href="http://www.pepsicojobs.com/" target="_blank">Careers</a></li>
-                                </ul>
-                            </div>
-                            <div class="quaker-logo">
-                                <img class="img-responsive" src="/Sitefinity/WebsiteTemplates/Quaker/Images/Quaker_Footer_Logo.png">
-                            </div>
-                            <div class="col-md-5 col-lg-4 col-lg-offset-2 col-md-offset-1 mar-lft4 col-sm-6 footer-social-icon mt2mb5 pad0">
-                                <ul class="social-network social-circle">
-                                    <span class="follow-us">Follow Us</span>
-                                    <li><a href="https://www.facebook.com/Quaker/" class="icoFacebook" title="Facebook" target="_blank">
-                                        
-                                        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9.293px" height="20px" viewBox="0 0 9.293 20" enable-background="new 0 0 9.293 20" xml:space="preserve">
-                                            <path opacity="0.5" fill="#FFFFFF" d="M6.128,6.476V4.4c0-0.779,0.517-0.961,0.88-0.961c0.363,0,2.233,0,2.233,0V0.012L6.167,0
+<div class="container">
+    <div class="row">
+    <div class="footer-content" id="footercontent">
+            <div class="col-md-3 pad0 col-sm-3 mt2mb5">
+                <ul class="list-unstyled">
+                    <li class="list-heading">POPULAR LINKS</li>
+                    <li><a href="/cooking-and-recipes">Recipes</a></li>
+                    <li><a href="/products.aspx">Products</a></li>
+                    <li><a href="/cooking-and-recipes/overnightoats">Overnight Oats</a></li>
+                    <li><a href="/about-quaker-oats/content/quaker-faq.aspx">FAQs</a></li>
+                </ul>
+            </div>
+            <div class="col-md-3 pad0 col-sm-3 mt2mb5 ml4">
+                <ul class="list-unstyled">
+                    <li class="list-heading">MORE INFO</li>
+                    <li><a onclick="dataLayer.push({ 'Category': 'Global Footer', 'Action': 'Contact Quaker', 'Label': 'Site Exit - Pepsico' });" href="https://cu.pepsico.com/quaker" target="_blank">Contact Quaker</a></li>
+                    <li><a onclick="dataLayer.push({ 'Category': 'Global Footer', 'Action': 'Oats Center of Excellence', 'Label': 'Oats Center of Excellence' });" href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx">Oats Center of Excellence</a></li>
+                    <li><a href="/privacy-policy" target="_blank">Privacy Policy</a></li>
+                    <li><a href="/ad_tracking" target="_blank">Ads and Tracking</a></li>
+                    <li><a href="/terms-of-use" target="_blank">Terms And Conditions</a></li>
+                    <li><a onclick="dataLayer.push({ 'Category': 'Global Footer', 'Action': 'PEPSICO', 'Label': 'Site Exit - Pepsico' });" href="http://www.pepsico.com/" target="_blank">PEPSICO</a></li>                    
+                </ul>
+            </div>
+            <div class="quaker-logo">
+            	<img class="img-responsive" src="/Sitefinity/WebsiteTemplates/Quaker/Images/Quaker_Footer_Logo.png">
+            </div>
+            <div class="col-md-5 col-lg-4 col-lg-offset-2 col-md-offset-1 mar-lft4 col-sm-6 footer-social-icon mt2mb5 pad0">
+            <ul class="social-network social-circle">
+            	<span class="follow-us">Follow Us</span>
+              <li><a href="https://www.facebook.com/Quaker/" class="icoFacebook" title="Facebook" target="_blank">
+                  
+                  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9.293px" height="20px" viewBox="0 0 9.293 20" enable-background="new 0 0 9.293 20" xml:space="preserve">
+                      <path opacity="0.5" fill="#FFFFFF" d="M6.128,6.476V4.4c0-0.779,0.517-0.961,0.88-0.961c0.363,0,2.233,0,2.233,0V0.012L6.167,0
 	C2.751,0,1.975,2.556,1.975,4.192v2.284H0v3.531h1.975c0,4.533,0,9.993,0,9.993h4.154c0,0,0-5.515,0-9.993h2.803l0.362-3.531H6.128z
 	"></path>
-                                        </svg>
-                                    </a></li>
-                                    <li><a href="https://twitter.com/Quaker" class="icoTwitter" title="Twitter" target="_blank">
-                                        
-                                        <svg version="1.1" id="Svg1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22.858px" height="20px" viewBox="0 0 22.858 20" enable-background="new 0 0 22.858 20" xml:space="preserve">
-                                            <path opacity="0.5" fill="#FFFFFF" d="M22.858,2.366c-0.846,0.408-1.745,0.672-2.698,0.795c0.971-0.625,1.716-1.609,2.069-2.789
+                  </svg>
+                  </a></li>
+              <li><a href="https://twitter.com/Quaker" class="icoTwitter" title="Twitter" target="_blank">
+                  
+                  <svg version="1.1" id="Svg1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="22.858px" height="20px" viewBox="0 0 22.858 20" enable-background="new 0 0 22.858 20" xml:space="preserve">
+<path opacity="0.5" fill="#FFFFFF" d="M22.858,2.366c-0.846,0.408-1.745,0.672-2.698,0.795c0.971-0.625,1.716-1.609,2.069-2.789
 	c-0.908,0.576-1.913,0.987-2.984,1.228C18.393,0.614,17.169,0,15.824,0c-2.59,0-4.689,2.257-4.689,5.049
 	c0,0.392,0.041,0.78,0.118,1.145c-3.89-0.201-7.351-2.219-9.665-5.267C1.187,1.67,0.957,2.536,0.957,3.464
 	c0,1.748,0.827,3.302,2.087,4.194C2.273,7.627,1.55,7.413,0.919,7.031c0,0.021,0,0.047,0,0.069c0,2.441,1.616,4.479,3.761,4.95
 	c-0.393,0.115-0.808,0.167-1.239,0.167c-0.301,0-0.587-0.021-0.877-0.09c0.594,2.013,2.328,3.475,4.379,3.505
 	c-1.605,1.36-3.627,2.16-5.824,2.16c-0.379,0-0.754-0.022-1.12-0.07C2.075,19.162,4.535,20,7.189,20
 	c8.625,0,13.344-7.695,13.344-14.366c0-0.213-0.005-0.43-0.015-0.646C21.433,4.267,22.229,3.376,22.858,2.366z"></path>
-                                        </svg>
-                                    </a></li>
-                                    <li><a href="https://www.instagram.com/Quaker/" class="icoInstagram" title="Instagram" target="_blank">
-                                        
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Logo" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
+</svg>
+                  </a></li>
+              <li><a href="https://www.instagram.com/Quaker/" class="icoInstagram" title="Instagram" target="_blank">
+                  
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Svg3" x="0px" y="0px" width="22px" height="22px" viewBox="0 0 22 22" enable-background="new 0 0 22 22" xml:space="preserve">
 <g>
 	<path fill="#FFFFFF" opacity="0.5" d="M11,2.802c2.67,0,2.986,0.01,4.041,0.059c0.975,0.044,1.504,0.207,1.855,0.343   c0.468,0.182,0.801,0.399,1.15,0.748c0.35,0.352,0.566,0.686,0.749,1.152c0.136,0.353,0.3,0.882,0.344,1.856   c0.049,1.054,0.058,1.37,0.058,4.041c0,2.67-0.01,2.987-0.058,4.041c-0.044,0.975-0.208,1.504-0.344,1.857   c-0.183,0.466-0.399,0.799-0.749,1.149s-0.683,0.567-1.15,0.748c-0.352,0.136-0.881,0.301-1.855,0.345   c-1.055,0.049-1.371,0.057-4.041,0.057c-2.671,0-2.986-0.009-4.041-0.057c-0.975-0.045-1.505-0.209-1.856-0.345   c-0.467-0.181-0.8-0.397-1.15-0.748s-0.566-0.683-0.749-1.149c-0.136-0.354-0.301-0.883-0.344-1.857   C2.812,13.987,2.802,13.67,2.802,11c0-2.67,0.01-2.986,0.058-4.041c0.043-0.975,0.208-1.504,0.344-1.856   c0.184-0.466,0.399-0.8,0.75-1.149c0.35-0.351,0.683-0.567,1.15-0.749c0.352-0.136,0.882-0.299,1.856-0.344   C8.014,2.812,8.33,2.802,11,2.802 M11,1C8.284,1,7.944,1.012,6.877,1.061C5.812,1.109,5.087,1.278,4.45,1.525   C3.792,1.78,3.234,2.123,2.678,2.678C2.122,3.234,1.78,3.792,1.524,4.45C1.278,5.087,1.108,5.812,1.06,6.877   C1.012,7.944,1,8.285,1,11c0,2.717,0.012,3.057,0.06,4.124c0.049,1.063,0.218,1.79,0.464,2.428   c0.255,0.657,0.597,1.214,1.154,1.771c0.555,0.555,1.113,0.898,1.772,1.153c0.637,0.247,1.362,0.417,2.427,0.466   C7.944,20.988,8.284,21,11,21c2.717,0,3.057-0.012,4.123-0.061c1.063-0.047,1.79-0.217,2.428-0.465   c0.658-0.254,1.214-0.598,1.771-1.154c0.555-0.556,0.898-1.113,1.153-1.77c0.245-0.638,0.417-1.364,0.464-2.428   C20.988,14.057,21,13.717,21,11c0-2.715-0.012-3.056-0.061-4.123c-0.048-1.064-0.219-1.791-0.464-2.427   c-0.255-0.658-0.599-1.216-1.153-1.772c-0.557-0.556-1.113-0.898-1.771-1.154c-0.638-0.247-1.364-0.416-2.428-0.464   C14.057,1.012,13.717,1,11,1L11,1z"></path>
 	<path fill="#FFFFFF" opacity="0.5" d="M11,5.866c-2.837,0-5.135,2.297-5.135,5.134S8.163,16.135,11,16.135s5.135-2.298,5.135-5.135   S13.837,5.866,11,5.866z M11,14.333c-1.841,0-3.334-1.491-3.334-3.333c0-1.84,1.493-3.334,3.334-3.334   c1.842,0,3.333,1.494,3.333,3.334C14.333,12.842,12.842,14.333,11,14.333z"></path>
 	<circle fill="#FFFFFF" opacity="0.5" cx="16.339" cy="5.662" r="1.2"></circle>
 </g>
 </svg>
-                                    </a></li>
-                                    <li><a href="https://www.pinterest.com/quaker/" class="icoPinterest" title="Pinterest" target="_blank">
-                                        
-                                        <svg version="1.1" id="Svg3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
-                                            <path opacity="0.5" fill="#FFFFFF" d="M10,0C4.478,0,0,4.478,0,10c0,4.095,2.462,7.613,5.987,9.159
+                  </a></li>
+              <li><a href="https://www.pinterest.com/quaker/" class="icoPinterest" title="Pinterest" target="_blank">
+                  
+                  <svg version="1.1" id="Svg4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="20px" height="20px" viewBox="0 0 20 20" enable-background="new 0 0 20 20" xml:space="preserve">
+<path opacity="0.5" fill="#FFFFFF" d="M10,0C4.478,0,0,4.478,0,10c0,4.095,2.462,7.613,5.987,9.159
 	c-0.029-0.697-0.005-1.537,0.173-2.296c0.192-0.812,1.286-5.449,1.286-5.449s-0.319-0.639-0.319-1.582
 	c0-1.482,0.859-2.589,1.929-2.589c0.909,0,1.349,0.683,1.349,1.502c0,0.914-0.583,2.282-0.883,3.548
 	c-0.251,1.061,0.532,1.926,1.578,1.926c1.895,0,3.171-2.433,3.171-5.316c0-2.191-1.476-3.831-4.161-3.831
@@ -1610,41 +1407,41 @@ Chicago, IL 60604-9003<br>
 	c0-2.841,2.395-6.248,7.146-6.248c3.818,0,6.331,2.764,6.331,5.729c0,3.924-2.181,6.854-5.396,6.854
 	c-1.079,0-2.095-0.583-2.442-1.246c0,0-0.581,2.304-0.704,2.749c-0.211,0.771-0.627,1.541-1.006,2.142C8.065,19.855,9.016,20,10,20
 	c5.523,0,10-4.478,10-10S15.523,0,10,0z"></path>
-                                        </svg>
-                                    </a></li>
-                                </ul>
-                                <div class="copy-rights">
-                                    © Quaker Oats Company, 2016
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+</svg>
+                  </a></li>
+            </ul>	
+            <div class="copy-rights">
+            	© Quaker Oats Company, 2017
             </div>
-            <div class="mobileFooter hidden-md hidden-sm hidden-lg visible-xs nocontent">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xs-12">
-                            <p class="mobfollow">Follow Us</p>
-                        </div>
-                    </div>
-                    <div>
-                        <div class="col-xs-12 pad20">
-                            <div class="col-xs-3">
-                                <a href="https://www.facebook.com/Quaker/" class="icoFacebook" title="Facebook" target="_blank">
-                                    
-                                    <svg version="1.1" id="Svg4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.882px" height="60px" viewBox="-9.297 -20 27.882 60" enable-background="new -9.297 -20 27.882 60" xml:space="preserve">
-                                        <path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M9.087-0.572V-6.8c0-2.336,1.55-2.883,2.64-2.883s6.7,0,6.7,0
+            </div>
+            </div>
+    </div>
+</div>
+</div>
+<div class="mobileFooter hidden-md hidden-sm hidden-lg visible-xs nocontent">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<p class="mobfollow">Follow Us</p>
+			</div>
+		</div>
+		<div>
+			<div class="col-xs-12 pad20">
+			<div class="col-xs-3">
+				<a href="https://www.facebook.com/Quaker/" class="icoFacebook" title="Facebook" target="_blank">
+                    
+                    <svg version="1.1" id="Svg5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="27.882px" height="60px" viewBox="-9.297 -20 27.882 60" enable-background="new -9.297 -20 27.882 60" xml:space="preserve">
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M9.087-0.572V-6.8c0-2.336,1.55-2.883,2.64-2.883s6.7,0,6.7,0
 	v-10.28L9.204-20C-1.044-20-3.372-12.332-3.372-7.424v6.853h-5.925v10.592h5.925c0,13.6,0,29.979,0,29.979H9.09
 	c0,0,0-16.547,0-29.979h8.408l1.087-10.592H9.087z"></path>
-                                    </svg>
-                                </a>
-                            </div>
-                            <div class="col-xs-3">
-                                <a href="https://twitter.com/Quaker" class="icoTwitter" title="Twitter" target="_blank" style="margin-left: -8px;">
-                                    
-                                    <svg version="1.1" id="Svg5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68.575px" height="60px" viewBox="-22.861 -20 68.575 60" enable-background="new -22.861 -20 68.575 60" xml:space="preserve">
-                                        <path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M45.714-12.901c-2.537,1.223-5.235,2.016-8.092,2.385
+</svg>
+				</a>
+			</div>
+			<div class="col-xs-3">
+				<a href="https://twitter.com/Quaker" class="icoTwitter" title="Twitter" target="_blank" style="margin-left:-8px;">
+                    
+                    <svg version="1.1" id="Svg7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="68.575px" height="60px" viewBox="-22.861 -20 68.575 60" enable-background="new -22.861 -20 68.575 60" xml:space="preserve">
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M45.714-12.901c-2.537,1.223-5.235,2.016-8.092,2.385
 	c2.912-1.875,5.147-4.828,6.205-8.367c-2.725,1.729-5.739,2.96-8.95,3.684C32.32-18.157,28.649-20,24.615-20
 	c-7.772,0-14.068,6.771-14.068,15.146c0,1.176,0.123,2.341,0.354,3.435C-0.771-2.021-11.154-8.075-18.094-17.22
 	c-1.204,2.229-1.893,4.828-1.893,7.611c0,5.244,2.481,9.907,6.261,12.583c-2.314-0.094-4.482-0.735-6.375-1.881
@@ -1652,26 +1449,26 @@ Chicago, IL 60604-9003<br>
 	c-0.902,0-1.761-0.064-2.631-0.27c1.784,6.041,6.984,10.424,13.137,10.515c-4.813,4.081-10.881,6.48-17.47,6.48
 	c-1.137,0-2.262-0.067-3.36-0.208C-16.633,37.486-9.253,40-1.293,40c25.875,0,40.034-23.086,40.034-43.099
 	c0-0.639-0.018-1.289-0.047-1.938C41.44-7.199,43.827-9.872,45.714-12.901z"></path>
-                                    </svg>
-                                </a>
-                            </div>
-                            <div class="col-xs-3">
-                                <a href="https://www.instagram.com/Quaker/" class="icoInstagram" title="Instagram" target="_blank">
-                                    
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Logo" x="0px" y="0px" width="59px" height="59px" viewBox="-9.5 -9.5 59 59" enable-background="new -9.5 -9.5 59 59" xml:space="preserve">
+</svg>
+				</a>
+			</div>
+			<div class="col-xs-3">
+				<a href="https://www.instagram.com/Quaker/" class="icoInstagram" title="Instagram" target="_blank">
+                    
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Svg10" x="0px" y="0px" width="59px" height="59px" viewBox="-9.5 -9.5 59 59" enable-background="new -9.5 -9.5 59 59" xml:space="preserve">
 <g>
 	<path fill="#FFFFFF" opacity="0.5" d="M20-4.184c7.876,0,8.81,0.031,11.921,0.173C34.798-3.88,36.36-3.4,37.397-2.997   c1.377,0.534,2.359,1.174,3.394,2.205c1.03,1.036,1.671,2.017,2.207,3.395c0.403,1.04,0.887,2.6,1.017,5.477   c0.142,3.11,0.17,4.044,0.17,11.921c0,7.878-0.03,8.812-0.17,11.923c-0.13,2.873-0.613,4.437-1.017,5.477   c-0.536,1.375-1.176,2.357-2.207,3.392c-1.034,1.033-2.017,1.671-3.394,2.202c-1.038,0.402-2.602,0.89-5.477,1.021   C28.81,44.156,27.879,44.182,20,44.182s-8.809-0.027-11.921-0.167c-2.876-0.132-4.439-0.616-5.477-1.021   c-1.378-0.531-2.36-1.169-3.395-2.202c-1.029-1.034-1.671-2.017-2.206-3.392c-0.403-1.042-0.886-2.606-1.017-5.477   c-0.14-3.11-0.169-4.045-0.169-11.923c0-7.876,0.029-8.809,0.169-11.921c0.13-2.876,0.613-4.437,1.017-5.477   c0.535-1.378,1.176-2.36,2.206-3.391c1.034-1.033,2.017-1.675,3.395-2.208C3.641-3.4,5.204-3.88,8.079-4.011   C11.191-4.153,12.124-4.184,20-4.184 M20-9.5c-8.012,0-9.017,0.035-12.163,0.18c-3.14,0.141-5.283,0.64-7.16,1.368   C-1.264-7.199-2.91-6.187-4.548-4.548C-6.19-2.91-7.197-1.262-7.953,0.677C-8.681,2.554-9.18,4.698-9.324,7.838   C-9.465,10.985-9.5,11.988-9.5,20c0,8.015,0.035,9.02,0.177,12.164c0.144,3.141,0.643,5.284,1.371,7.161   c0.754,1.938,1.763,3.585,3.405,5.223c1.637,1.642,3.283,2.65,5.224,3.403c1.876,0.73,4.02,1.23,7.16,1.373   C10.983,49.466,11.988,49.5,20,49.5c8.012,0,9.018-0.034,12.163-0.177c3.142-0.142,5.285-0.642,7.159-1.373   c1.941-0.752,3.588-1.762,5.226-3.402c1.642-1.64,2.65-3.286,3.405-5.226c0.729-1.877,1.228-4.021,1.371-7.159   C49.466,29.02,49.5,28.015,49.5,20c0-8.012-0.034-9.015-0.177-12.162c-0.145-3.142-0.645-5.285-1.372-7.161   c-0.753-1.939-1.763-3.587-3.403-5.226c-1.638-1.639-3.284-2.649-5.226-3.403c-1.876-0.729-4.02-1.227-7.159-1.37   C29.018-9.465,28.012-9.5,20-9.5L20-9.5z"></path>
 	<path fill="#FFFFFF" opacity="0.5" d="M20,4.853C11.634,4.853,4.85,11.634,4.85,20S11.634,35.147,20,35.147S35.15,28.366,35.15,20   S28.366,4.853,20,4.853z M20,29.832c-5.433,0-9.833-4.401-9.833-9.832c0-5.43,4.4-9.833,9.833-9.833   c5.434,0,9.832,4.403,9.832,9.833C29.832,25.431,25.434,29.832,20,29.832z"></path>
 	<circle fill="#FFFFFF" opacity="0.5" cx="35.747" cy="4.253" r="3.54"></circle>
 </g>
 </svg>
-                                </a>
-                            </div>
-                            <div class="col-xs-3">
-                                <a href="https://www.pinterest.com/quaker/" class="icoPinterest" title="Pinterest" target="_blank">
-                                    
-                                    <svg version="1.1" id="Svg7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px" viewBox="-20 -20 60 60" enable-background="new -20 -20 60 60" xml:space="preserve">
-                                        <path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M10-20C-6.566-20-20-6.566-20,10
+				</a>
+			</div>
+			<div class="col-xs-3">
+				<a href="https://www.pinterest.com/quaker/" class="icoPinterest" title="Pinterest" target="_blank">
+                    
+                    <svg version="1.1" id="Svg11" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60px" height="60px" viewBox="-20 -20 60 60" enable-background="new -20 -20 60 60" xml:space="preserve">
+<path opacity="0.5" fill="#FFFFFF" enable-background="new    " d="M10-20C-6.566-20-20-6.566-20,10
 	c0,12.284,7.386,22.84,17.96,27.478c-0.086-2.092-0.015-4.611,0.52-6.888c0.576-2.438,3.857-16.348,3.857-16.348
 	s-0.957-1.916-0.957-4.746c0-4.446,2.577-7.767,5.788-7.767c2.726,0,4.046,2.048,4.046,4.506c0,2.742-1.75,6.847-2.649,10.644
 	c-0.753,3.182,1.597,5.777,4.733,5.777c5.687,0,9.516-7.298,9.516-15.948c0-6.573-4.43-11.492-12.485-11.492
@@ -1680,67 +1477,45 @@ Chicago, IL 60604-9003<br>
 	c0-8.522,7.185-18.743,21.438-18.743c11.455,0,18.993,8.291,18.993,17.186c0,11.771-6.542,20.563-16.189,20.563
 	c-3.234,0-6.283-1.749-7.324-3.738c0,0-1.743,6.911-2.112,8.247c-0.633,2.314-1.881,4.623-3.018,6.425C4.195,39.566,7.048,40,10,40
 	c16.57,0,30-13.436,30-30C40-6.566,26.57-20,10-20z"></path>
-                                    </svg>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="mob-subSection">
-                            <div class="col-xs-5 ml5">
-                                <h2 class="footer-heading">POPULAR LINKS</h2>
-                                <a href="/cooking-and-recipes" target="_blank">
-                                    <h5>Recipes</h5>
-                                </a>
-                                <a href="/cooking-and-recipes/overnightoats" target="_blank">
-                                    <h5>Overnight Oats</h5>
-                                </a>
-                                <!--<a href="/about-quaker-oats/content/off-you-go.aspx" target="_blank">
-                                    <h5>#OffYouGo</h5>-->
-                                
-                                <a href="/products/real-medleys" target="_blank">
-                                    <h5>Real Medleys</h5>
-                                </a>
-                                <a href="/cooking-and-recipes/content/baking-101/welcome-to-baking-101.aspx" target="_blank">
-                                    <h5>Baking 101</h5>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="mob-subSection">
-                            <div class="col-xs-7 more-info">
-                                <h2 class="footer-heading" style="text-align: right;">MORE INFO</h2>
-                                <a href="https://cu.pepsico.com/quaker" target="_blank">
-                                    <h5>Contact Quaker</h5>
-                                </a>
-                                <a href="/privacy-policy" target="_blank">
-                                    <h5>Privacy Policy</h5>
-                                </a>
-                                <a href="/ad_tracking" target="_blank">
-                                    <h5>Ads and Tracking</h5>
-                                </a>
-                                <a href="/terms-of-use" target="_blank">
-                                    <h5>Terms And Conditions</h5>
-                                </a>
-                                <a href="http://www.pepsico.com/" target="_blank">
-                                    <h5>PEPSICO</h5>
-                                </a>
-                                <a href="http://www.pepsicojobs.com/" target="_blank">
-                                    <h5>Careers</h5>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="mob-copyrights col-xs-12">
-                            © Quaker Oats Company, 2016
-                        </div>
-                    </div>
-                </div>
-            </div>
+</svg>
+				</a>
+			</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="mob-subSection">
+			<div class="col-xs-5 ml5">
+				<h2 class="footer-heading">POPULAR LINKS</h2>
+				<a href="/cooking-and-recipes"><h5>Recipes</h5></a>
+                <a href="/products.aspx"><h5>Products</h5></a>
+				<a href="/cooking-and-recipes/overnightoats"><h5>Overnight Oats</h5></a>
+				<a href="/about-quaker-oats/content/quaker-faq.aspx"><h5>FAQs</h5></a>
+			</div>
+			</div>
+			<div class="mob-subSection">
+			<div class="col-xs-7 more-info">
+				<h2 class="footer-heading" style="text-align:right;">MORE INFO</h2>
+				<a onclick="dataLayer.push({ 'Category': 'Global Footer', 'Action': 'Contact Quaker', 'Label': 'Site Exit - Pepsico' });" href="https://cu.pepsico.com/quaker" target="_blank"><h5>Contact Quaker</h5></a>
+                <a onclick="dataLayer.push({ 'Category': 'Global Footer', 'Action': 'Oats Center of Excellence', 'Label': 'Oats Center of Excellence' });" href="/about-quaker-oats/content/quakeroats-center-of-excellence.aspx"><h5>Oats Center of Excellence</h5></a>
+				<a href="/privacy-policy" target="_blank"><h5>Privacy Policy</h5></a>
+				<a href="/ad_tracking" target="_blank"><h5>Ads and Tracking</h5></a>
+				<a href="/terms-of-use" target="_blank"><h5>Terms And Conditions</h5></a>
+				<a onclick="dataLayer.push({ 'Category': 'Global Footer', 'Action': 'PEPSICO', 'Label': 'Site Exit - Pepsico' });" href="http://www.pepsico.com/" target="_blank"><h5>PEPSICO</h5></a>
+			</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="mob-copyrights col-xs-12">
+				© Quaker Oats Company, 2017
+			</div>
+		</div>
+	</div>
+</div>
 
 
             <link href="/Sitefinity/WebsiteTemplates/Quaker/CSSMIN/home.css" rel="stylesheet">
-            <script src="/Sitefinity/WebsiteTemplates/Quaker/JsMIN/bootstrap.min.js"></script>
+            <!--<script src="/Sitefinity/WebsiteTemplates/Quaker/JsMIN/bootstrap.min.js"></script>-->
+			<script src="/Sitefinity/WebsiteTemplates/Quaker/JsMIN/bootstrap.js"></script>
             <script src="/Sitefinity/WebsiteTemplates/Quaker/JsMIN/bootstrap-select.js"></script>
             <script src="/Sitefinity/WebsiteTemplates/Quaker/JsMIN/jquery.bxslider.min.js"></script>
             <script src="/Sitefinity/WebsiteTemplates/Quaker/JsMIN/jquery.placeholder.js"></script>
@@ -1773,25 +1548,35 @@ Chicago, IL 60604-9003<br>
         </form>
 
         <div id="fb-root" class=" fb_reset">
-        <script async="" src="https://web.archive.org/web/20170409032203/https://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f2e78c022e72c6c" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=146075078749238&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df2a393c5576eaa%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff3773a06b59acc4%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f3773a06b59acc4&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
+        <script async="" src="https://web.archive.org/web/20170409032203/https://connect.facebook.net/en_US/all.js"></script><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="ffe6eae1e0888c" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" src="https://www.facebook.com/connect/ping?client_id=146075078749238&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FnRK_i0jz87x.js%3Fversion%3D42%23cb%3Df3e8dc801f22e8c%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff370b43793f296c%26relation%3Dparent&amp;response_type=token%2Csigned_request%2Ccode&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/nRK_i0jz87x.js?version=42#channel=f370b43793f296c&amp;origin=https%3A%2F%2Fweb.archive.org" style="border: none;"></iframe></div></div></div>
     </div>
     <script src="/Sitefinity/WebsiteTemplates/Quaker/Js/facebook/fb_init.js" type="text/javascript"></script>
     <script type="text/javascript" src="/Sitefinity/WebsiteTemplates/Quaker/Js/shell/shell.js"></script>
-
-    
-    
-    
     <script type="text/javascript">
         var loginUser = '';
 
         if (loginUser != null && loginUser != "") {
-            $('header #subMenuWrapper ul.signInMenu').addClass('logged');
+            $('header ul.subMenu').addClass('logged');
         }
         else {
-            $('header #subMenuWrapper ul.signInMenu').removeClass('logged');
+            $('header ul.subMenu').removeClass('logged');
         }
     </script>
 
+<!-- Google Code for Remarketing Tag --> 
+<!-------------------------------------------------- 
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup 
+---------------------------------------------------> 
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 832585332;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script> 
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> 
+</script>
+    
     <script type="text/javascript">
         //RLSA Implementation
         /* <![CDATA[ */
@@ -1807,8 +1592,19 @@ Chicago, IL 60604-9003<br>
         <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1018275200/?value=0&amp;guid=ON&amp;script=0"/>
         </div>
         </noscript>
+<script type="text/javascript">
+    var buynowid = window.location.search;
+    buynowid = buynowid.replace('?id=', '');
+    if ((buynowid) || (buynowid.length > 0)) {
+        if (buynowid == '320') {
+            var axel = Math.random() + "";
+            var a = axel * 10000000000000;
+            document.write('<img src="https://pubads.g.doubleclick.net/activity;xsp=4334414;ord=' + a + '?" width=1 height=1 border=0/>');
+            document.write('<img src="https://pubads.g.doubleclick.net/activity;xsp=4334414;ord=1?" width=1 height=1 border=0/>')
+        }
+    }
+    </script>
 
 
 
-
-<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
+<div id="sidr" class="sidr right"></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-2" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span></body></html>
