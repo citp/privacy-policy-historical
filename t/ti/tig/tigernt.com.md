@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigernt.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619102100id_/http%3A//tigernt.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernt.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231124819id_/http%3A//www.tigernt.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
