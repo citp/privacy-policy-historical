@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chango.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222021102id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chango.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231012806id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
 
-# Rubicon Project Privacy Dashboard and Opt-Out - Rubicon Project
+# Rubicon Project Privacy Dashboard And Opt-out - Rubicon Project
 
 Last Updated: September 29, 2016
 
@@ -14,14 +14,12 @@ Like any summary, however, the Privacy Dashboard is not an exhaustive descriptio
 
 To read the full privacy policy governing:
 
-  * how we collect and use data on this corporate website, [click here](http://www.rubiconproject.com/privacy-policy).
-  * how we collect and use data through our advertising technology, [click here](http://www.rubiconproject.com/rubicon-project-yield-optimization-privacy-policy).
-
-
+how we collect and use data on this corporate website, [click here](http://rubiconproject.com///privacy-policy/).  
+how we collect and use data through our advertising technology, [click here](http://rubiconproject.com///rubicon-project-yield-optimization-privacy-policy/).
 
 **Rubicon Project Opt-Out**
 
-To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out/).
+To opt-out of the use of our technology to deliver you targeted advertisements based on your interests, [click here](http://rubiconproject.com//privacy/consumer-online-profile-and-opt-out/).
 
 **Data We Collect**
 
@@ -47,7 +45,7 @@ Rubicon Project works with customers and consumers throughout the world, includi
 
 **Contact**
 
-For more information, if you have questions, or if you would like to make a complaint, please contact Rubicon Project by email at [privacy@rubiconproject.com](mailto:privacy@rubiconproject.com), or by post using the details provided below:
+For more information, if you have questions, or if you would like to make a complaint, please contact Rubicon Project by email at privacy@rubiconproject.com, or by post using the details provided below:
 
 **Residents outside of the European Economic Area**
 
@@ -61,9 +59,9 @@ Playa Vista, CA 90094
 The Rubicon Project Ltd.  
 Attn: Data Protection Officer  
 Walmar House  
-5th Floor  
+5th Floor  
 296 Regent St.  
 London, W1B 3HR  
 United Kingdom
 
-**Important note:**  The data controller of EEA residents’ personal information is The Rubicon Project Ltd at the above address. The Rubicon Project Ltd is registered with the UK Information Commissioner’s Office (registration no. ZA118130).
+**Important note:** The data controller of EEA residents’ personal information is The Rubicon Project Ltd at the above address. The Rubicon Project Ltd is registered with the UK Information Commissioner’s Office (registration no. ZA118130).
