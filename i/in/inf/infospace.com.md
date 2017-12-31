@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616123144id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231232137id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,10 +62,8 @@ It is possible that we may receive information given to us or pertaining to chil
 
 Questions regarding privacy, including children's privacy should be directed to:   
 InfoSpace Holdings LLC   
-10900 NE 8th Street, Suite 800   
-Bellevue, Washington 98004 USA   
-\+ (1) 425.201.6100 phone   
-\+ (1) 425.201.6150 fax 
+1501 Main Street, Suite 201   
+Venice, CA 90291 
 
 E-mail: [Contact us](https://web.archive.org/contact/index.html)
 
