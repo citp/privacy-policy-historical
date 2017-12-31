@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallashonda.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628135537id_/https%3A//www.dallashonda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallashonda.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231201238id_/http%3A//www.dallashonda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Al Lamb's Dallas Honda | New and Used Motorcycle Dealer Dallas TX
 
