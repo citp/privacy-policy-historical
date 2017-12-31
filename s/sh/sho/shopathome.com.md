@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214442id_/https%3A//www.shopathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231024939id_/https%3A//www.shopathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShopAtHome.com
 
@@ -12,7 +12,7 @@ Payment Information.For example, we may collect your credit card number if you m
 
 Information You Submit or Post.We collect the information you post in a public space on our site. We also collect information when you contact us. We may also collect information you share about a friend if you use our Tell-a-Friend feature. 
 
-Purchases You Make with Others. If you participate in our programs, we get information when you make a purchase from an [Affiliate Store](https://web.archive.org/web/20170629214442id_/https%3A//www.shopathome.com/@string.Format\(). We may also collect purchase information about you from other third parties. 
+Purchases You Make with Others. If you participate in our programs, we get information when you make a purchase from an [Affiliate Store](https://web.archive.org/web/20171231024939id_/https%3A//www.shopathome.com/@string.Format\(). We may also collect purchase information about you from other third parties. 
 
 Demographic Information.We may collect information like your gender and age. We may also collect your zip code. We might collect this when you contact us, make an Outclick or a Savings Button Engagement. 
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision, we may also engage a data provider who may 
 
 We use information to respond to your requests or questions. We use information to respond to your requests or questions. For example, we might use your information to respond to your customer feedback. Or, we might use your information to process Cash Back Rewards if you participate in that program. We may use your information to notify you if you complete a Qualified Transaction. 
 
-We use information to improve our products and services. We may use your information to make our Products and Savings Button better. We might use your information to customize your experience with us or understand your preferences. We may combine information we get from you with information about you we get from third parties. This includes using your information as described [here](https://web.archive.org/web/20170629214442id_/https%3A//www.shopathome.com/@SahUrls.AdTrackingPolicy\(\)). 
+We use information to improve our products and services. We may use your information to make our Products and Savings Button better. We might use your information to customize your experience with us or understand your preferences. We may combine information we get from you with information about you we get from third parties. This includes using your information as described [here](https://web.archive.org/web/20171231024939id_/https%3A//www.shopathome.com/@SahUrls.AdTrackingPolicy\(\)). 
 
 We use information for security purposes. We may use information to protect our company, our customers, and our Products. 
 
@@ -68,7 +68,7 @@ You can control tools on your mobile devices. For example, you can turn off the 
 
 ##### Your California privacy rights. 
 
-If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [privacy@shopathome.com](mailto:privacy@shopathome.com) or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light" inquiry. 
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#addddfc4dbccced4eddec5c2ddccd9c5c2c0c883cec2c0) or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light" inquiry. 
 
 ##### These Sites and children. 
 
@@ -100,7 +100,7 @@ If you have any questions or concerns about this Privacy Policy, you may contact
   * Attn: Privacy 
   * 5575 DTC Parkway, Suite 300
   * Greenwood Village, CO 80111
-  * Email: privacy@shopathome.com
+  * Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * Or via our Customer Service link at [ Help ](https://web.archive.org/help)
 
 
