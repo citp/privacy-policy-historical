@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fare-finder.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613142619id_/http%3A//www.fare-finder.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fare-finder.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231105911id_/http%3A//www.fare-finder.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fare-Finder.com
 
@@ -62,13 +62,9 @@ Fare-Finder.com will occasionally update this Statement of Privacy to reflect co
 
 Fare-Finder.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Fare-Finder.com has not adhered to this Statement, please contact Fare-Finder.com at:
 
-Fare-Finder.com
+201 N Brand Blvd, Glendale, CA 91203
 
-16852 NANETTE ST
-
-Los Angeles, California 91344
-
-info@fare-finder.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 213-536-9516
 
