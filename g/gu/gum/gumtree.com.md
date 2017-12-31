@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630200102id_/https%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231055111id_/https%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Gumtree.com
 
-**Posted: 26 July 2016.**  
+**Posted: 12 September 2017.**  
 [Previous version](https://web.archive.org/privacy_policy_2016)
 
-Gumtree's website is a licensee of the TRUSTe Web Privacy Program. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If [Customer Support](http://help.gumtree.com/articles/General_Information/Get-in-touch-with-Gumtree) cannot answer your privacy-related questions, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification applies only to information that is collected through this website, [www.gumtree.com](https://www.gumtree.com/)
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d "TRUSTe Privacy Certification")
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>
 
 Gumtree.com Limited ("Gumtree", "we" or "us" or "our"), 5 New Street Square, London, United Kingdom, EC4A 3TW, registered in England and Wales with number 3934849 is the data controller and operator of Gumtree.com. ("the Site"). 
 
