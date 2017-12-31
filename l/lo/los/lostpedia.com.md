@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the lostpedia.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630084408id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostpedia.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231111050id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fandom powered by Wikia
+# Privacy Policy | FANDOM | FANDOM powered by Wikia
 
-Date of Last Revision: May, 2017 
+Date of Last Revision: July, 2017 
 
-This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia and Fandom, powered by Wikia (collectively, the “Service” or “Site”), operated by Wikia, Inc. (the "Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
+This policy outlines the information Wikia, Inc. collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia and FANDOM (collectively, the “Service” or “Site”), operated by Wikia, Inc. (the "Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia, Inc. has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
 
 ##  The Information We Collect, And What We Do With It 
 
 ###  In General 
 
-In order to sign up for a Wikia account, your chosen username, a valid email address, password, and date of birth are required. “Optional information” that we request you provide may include your first name, last name, and your gender. We may also request that you provide additional “optional information” such as your interests and hobbies for purposes of enhancing your profile among the Wikia community. Any “optional information” you choose to provide may be made public. We use this information to improve your experience with the Service, including the proper targeting of advertisements. 
+In order to sign up for a FANDOM account, your chosen username, a valid email address, password, and date of birth are required. “Optional information” that we request you provide may include your first name, last name, and your gender. We may also request that you provide additional “optional information” such as your interests and hobbies for purposes of enhancing your profile among the FANDOM community. Any “optional information” you choose to provide may be made public. We use this information to improve your experience with the Service, including the proper targeting of advertisements. 
 
-If you request the creation of a Wikia community, all details submitted in regard to this may be made public. 
+If you request the creation of a FANDOM community, all details submitted in regard to this may be made public. 
 
 #### Cookies
 
-Wikia also may send one or more cookies - a small file that lives in your web browser that helps the Service operate with full functionality (such as keeping you logged into the service). Most web browsers allow you to disable cookies, and you are welcome to continue to use the Service if you choose to do so. However, some of the Service’s features may not function properly if cookies are disabled. Wikia uses some of those cookies and the data tracked by some of those cookies in conjunction with various advertisers and advertising networks. Wikia has no control over the cookies and other information collected by advertising and advertising networks which service ads on Wikia, and this policy does not apply to the information collected in regard to either of those services. 
+Wikia, Inc. also may send one or more cookies - a small file that lives in your web browser that helps the Service operate with full functionality (such as keeping you logged into the service). Most web browsers allow you to disable cookies, and you are welcome to continue to use the Service if you choose to do so. However, some of the Service’s features may not function properly if cookies are disabled. Wikia, Inc. uses some of those cookies and the data tracked by some of those cookies in conjunction with various advertisers and advertising networks. Wikia, Inc. has no control over the cookies and other information collected by advertising and advertising networks which service ads on FANDOM, and this policy does not apply to the information collected in regard to either of those services. 
 
-Wikia’s user data is stored in the United States, and its servers log some information whenever you access the Service; information such as your IP address, the time of your visit, your browser type and your browser's language setting. 
+Wikia, Inc.’s user data is stored in the United States, and its servers log some information whenever you access the Service; information such as your IP address, the time of your visit, your browser type and your browser's language setting. 
 
 If you send a communication to the Company, we may hold onto that communication so that we can respond appropriately, and so that we can incorporate your feedback to improve the Service. 
 
 You are not required to register for an account or to provide any personal information to us in order to use the Service. 
 
-Wikia collects all the information you provide when you modify the content of a page or the Service (such as making edits, uploading images, etc.) An indicator that you provided that information is left on the History tab associated with the edited page or appropriate special/image page; on the Recent Changes link, in the Community box on the left side of the Wikia pages, and in your user contributions. 
+Wikia, Inc. collects all the information you provide when you modify the content of a page or the Service (such as making edits, uploading images, etc.) An indicator that you provided that information is left on the History tab associated with the edited page or appropriate special/image page; on the Recent Changes link, in the Community box on the left side of the Wikia pages, and in your user contributions. 
 
 ### Online behavioral advertising for our web and mobile apps
 
@@ -43,11 +43,11 @@ To opt out of tracking and receiving targeted ads in our mobile apps based on yo
 
 
 
-Note that opting-out may not stop information from being collected on the web and will not stop your receiving adveritising. However, if you opt-out, the applical advertisor will not use any information collected from the particular Wikia web site or mobile app for the purpose of displaying personalized ads. 
+Note that opting-out may not stop information from being collected on the web and will not stop your receiving advertising. However, if you opt-out, the applicable advertiser will not use any information collected from the particular Wikia, Inc. web site or mobile app for the purpose of displaying personalized ads. 
 
 ###  Sharing Your Information 
 
-Wikia only shares your information with others in the following circumstances: 
+Wikia, Inc. only shares your information with others in the following circumstances: 
 
   1. As described above 
   2. With our subsidiaries and affiliated companies, contractors, and vendors. We require these parties to process your information in compliance with this policy. 
