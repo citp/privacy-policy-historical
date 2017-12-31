@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytrafficonline.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514004821id_/http%3A//www.buytrafficonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytrafficonline.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231071712id_/http%3A//buytrafficonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - BuyTrafficOnLine.Com
 
