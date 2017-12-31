@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schedugr.am privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616082456id_/http%3A//schedugr.am/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schedugr.am privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231183412id_/http%3A//schedugr.am/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Schedugram
 
@@ -46,13 +46,13 @@ We take reasonable steps to protect your personal information. However we are no
 
 ## 7\. Access to your personal information
 
-You can access and update your personal information by contacting us on [privacy@schedugr.am](mailto:privacy@schedugr.am) . We may charge a reasonable administration fee for this  
+You can access and update your personal information by contacting us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90e0e2f9e6f1f3e9d0e3f3f8f5f4e5f7e2bef1fd) . We may charge a reasonable administration fee for this  
 access.
 
 ## 8\. Complaints about privacy
 
 If you have any complaints about our privacy practices, please feel free to send in details of your complaints to Schedugram, C/ Dialogue Consulting, 7  
-David Lane, Windsor, Victoria 3122, Australia or privacy@schedugr.am. We take complaints very seriously and will respond shortly after receiving written notice of your complaint.
+David Lane, Windsor, Victoria 3122, Australia or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We take complaints very seriously and will respond shortly after receiving written notice of your complaint.
 
 ## 9\. Changes
 
