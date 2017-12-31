@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ncsu.edu privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629125718id_/https%3A//www.ncsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsu.edu privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231133135id_/https%3A//www.ncsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | NC State University
-
-## Privacy Statement
 
 NC State University is a non-profit, state government institution of higher education. The functions of the university may at times involve the collection and dissemination of scientific, technical, economic, scholarly, and, in some cases, personal information.
 
