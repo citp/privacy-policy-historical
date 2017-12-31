@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630224352id_/https%3A//weather.com/en-US/twc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231193540id_/https%3A//weather.com/en-US/twc/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -110,7 +110,7 @@ Ad Partners may place cookies, web beacons and/or other data collection technolo
 
 This Privacy Policy does not cover the practices of our Ad Partners. While we work with Ad Partners to improve user experience, we do not control Ad Partners’ technologies. For more information about our Ad Partners’ technologies and how they use the information collected by the technologies on the Services and your options not to accept cookies placed by some of Ad Partners on the Services, please visit the DAA’s [opt-out page](https://www.aboutads.info/choices/) or the DAAC’s [opt-out page](http://youradchoices.ca/choices).
 
-In addition, you can find the links to the opt-out pages of our Ad Partners that may use data collection technologies on the Services [here](https://web.archive.org/web/20170630224352id_/https%3A//weather.com/en-US/twc/ad-partners).
+In addition, you can find the links to the opt-out pages of our Ad Partners that may use data collection technologies on the Services [here](https://web.archive.org/web/20171231193540id_/https%3A//weather.com/en-US/twc/ad-partners).
 
 You may also opt-out of additional third-party advertising networks by going to the Network Advertising Initiative’s website at [ www.networkadvertising.org ](http://www.networkadvertising.org/) and following the directions. 
 
@@ -122,7 +122,7 @@ You can also opt-out of future information collection from the Services by ceasi
 
     3. Use of Cookies by Third Parties for Analytics
 
-We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available [here](https://web.archive.org/web/20170630224352id_/https%3A//weather.com/en-US/twc/analytics-partners)
+We contract with certain third parties that use data collection technologies to track, analyze and report data about the use of the Services and to analyze and optimize the performance of the Services. Information about these third parties is available [here](https://web.archive.org/web/20171231193540id_/https%3A//weather.com/en-US/twc/analytics-partners)
 
   4. #### How We Share or Disclose Your Information.
 
