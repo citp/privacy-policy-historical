@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230005850id_/http%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231171951id_/http%3A//www.incisivemedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incisive Media
 
 **1\. INTRODUCTION**  
-Incisive Media Limited and all companies within its Group[1] (“Incisive Media” or “We”) are committed to protecting and respecting your privacy.
+Incisive Business Media Limited and all companies within its Group[1] (“Incisive Media” or “We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.incisivemedia.com/terms-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/terms-and-conditions "View our terms & conditions of use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is Incisive Media Limited of Haymarket House, 28-29 Haymarket, London SW1Y 4RX.
+For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is Incisive Business Media Limited of Haymarket House, 28-29 Haymarket, London SW1Y 4RX.
 
-Our nominated representative for the purpose of the Act is Sean Hayes.
+Our nominated representative for the purpose of the Act is Steven Henny.
 
 **2\. INFORMATION WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:
@@ -50,7 +50,6 @@ This type of cookie collects information about how you use our website e.g. whic
 Examples of performance cookies include:  
 Incisive  
 Kreatio_session  
-Jobsinrisk.com  
 WebSite_LatestJobSearchPage  
 WebSite_LatestJobSearchCount  
 WebSite_LatestJobSearchItems  
@@ -90,8 +89,6 @@ Please note that any advertisers featured on our site may also use cookies, over
 You block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be to access all or parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon you visit our sites.  
 Your first visit to any of our sites will generate a pop-up header alerting you to this privacy policy and will re-appear only in the event that you change your cookie settings from time to time.
 
-[](http://www.incisivemedia.com/wp-content/uploads/2015/02/Ad-Choices-logo-TriangleIconSmall.png)
-
 Please also note that by clicking on the distinctive Ad Choices logo that appears in our sites you can obtain further information as to how cookies can be used or restricted in tailoring advertising relevant to you.
 
 **5\. WHERE WE STORE YOUR PERSONAL DATA**  
@@ -118,30 +115,36 @@ If you are a new customer, and where we permit selected third parties to use you
 
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box on the registration form or, alternatively, do not provide your consent to pass on those details when prompted.
 
-**7\. DISCLOSURE OF YOUR INFORMATION**  
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.  
-We may disclose your personal information to third parties:
+**7\. HOW WE PROTECT YOUR DATA**  
+We have put in place security procedures and technical and organisational measures to safeguard your personal information. Access to all internal data servers is limited to the specialist data protection personnel and is controlled via active directory authentication using defined policies to control password expiry and renewal.
 
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Incisive Media or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our  
-View our [terms and conditions of use](http://www.incisivemedia.com/terms-and-conditions/ "Incisive Media Terms and conditions of use") and other agreements; or to protect the rights, property, or safety of Incisive Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+**8\. DISCLOSURE OF YOUR INFORMATION**  
+We may disclose your personal information to any member of our Group. We may also disclose your personal information to third parties under the following circumstances:
+
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+  * if Incisive Media or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our rights, to view our terms and conditions of use and other agreements; or to protect the rights, property, or safety of Incisive Media, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
-**8\. YOUR RIGHTS**  
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@incisivemedia.com").
+**9\. YOUR RIGHTS**  
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by ticking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbd2d5ddd4fbd2d5d8d2c8d2cdded6dedfd2da95d8d4d6 "Email info@incisivemedia.com").
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**9\. ACCESS TO INFORMATION**  
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+**10\. YOUR CONSENT**  
+By submitting your personal information you consent to the use of that information as set out in this policy. You may withdraw your consent at any time by writing to us either by email to Emma Scheck at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#20454d4d410e53434845434b60494e4349534956454d454449410e434f4d) or by post to her at New London House, 172 Drury Lane, London. WC2B 5QR.
 
-**10\. CHANGES TO OUR PRIVACY POLICY**  
+**11\. ACCESS TO INFORMATION**  
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to Emma Scheck using the contact details set out in paragraph 10 above. 
+
+We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to us changes, for example if you change your email address or name, please let us know the correct details by writing to Emma Scheck as above. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
+
+**12\. CHANGES TO OUR PRIVACY POLICY**  
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-**11\. CONTACT**  
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@incisivemedia.com](mailto:info@incisivemedia.com "Email info@incisivemedia.com").
+**13\. HOW TO CONTACT US**  
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6dfd8d0d9f6dfd8d5dfc5dfc0d3dbd3d2dfd798d5d9db "Email info@incisivemedia.com").
 
 ## REFERENCES AND NOTES
 
