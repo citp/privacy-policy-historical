@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligrape.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606005414id_/http%3A//www.tothenew.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligrape.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231093548id_/http%3A//www.tothenew.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy- TO THE NEW
 
@@ -68,7 +68,7 @@ CHANGES TO OUR PRIVACY POLICY
 
 If we change our privacy policies and procedures materially, we will post those changes on the Service to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@tothenew.com](mailto:info@tothenew.com), or send postal mail to **988 Toa Payoh North, #05-06, Singapore**.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info@tothenew.com](mailto:info@tothenew.com), or send postal mail to **1004 Toa Payoh North, #05-11, Singapore-318995**.
 
   * 
 
