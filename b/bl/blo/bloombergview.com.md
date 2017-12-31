@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloombergview.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630211702id_/https%3A//www.bloomberg.com/notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloombergview.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231225238id_/https%3A//www.bloomberg.com/notices/privacy) for the most accurate reproduction.*
 
 # Privacy
 
