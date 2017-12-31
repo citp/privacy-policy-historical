@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the practicalmachinist.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044948id_/http%3A//www.practicalmachinist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicalmachinist.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231142544id_/http%3A//www.practicalmachinist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | LARGEST MANUFACTURING TECHNOLOGY COMMUNITY ON THE WEB
+# Privacy Policy - Practical Machinist : Practical Machinist
 
 Practical Machinist has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
@@ -70,3 +70,6 @@ If you have questions or suggestions about this privacy statement, or your own p
 ● Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.  
 ● Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.  
 ● Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager.
+
+  
+
