@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622125507id_/http%3A//www.imgcentral.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgcentral.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231234542id_/http%3A//imgcentral.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # imgcentral » More Information »Privacy Policy
 
