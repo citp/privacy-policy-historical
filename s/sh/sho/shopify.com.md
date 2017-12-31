@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopify.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629214543id_/https%3A//www.shopify.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231024414id_/https%3A//www.shopify.com/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Policy
 
@@ -6,15 +6,9 @@
 
 Welcome to Shopify!
 
-This Privacy Policy was written to help you better understand how we collect, use and store your information. Since technology and privacy laws are always changing, we may occasionally update this policy. If you are a Merchant and a significant change is made to this Privacy Policy, we will be sure to post anotice in your account admin. If you are not a Merchant, please review this Privacy Policy page at <https://www.shopify.com/legal/privacy> from time to time for updates. If you continue to use Shopify after these changes are posted, you agree to the revised policy.
+As part of our mission of helping make commerce better for everyone, Shopify Inc. and its affiliates, including Shopify Data Processing (USA) Inc., Shopify Payments (USA) Inc., Shopify (USA) Inc., and Shopify International Limited (collectively, “Shopify”) collect and process a lot of information. This Privacy Policy is intended to help you better understand how we collect, use and store your personal information—whether you are a merchant or end user that uses Shopify’s products, applications or services (together, the “Services”), a customer that shops at a store using our technology, a participant in Shopify’s “Partners” program, or whether you’re simply visiting this website. By using any of Shopify’s Services, or by dealing with a merchant using Shopify’s Services, you are agreeing to the terms of this Privacy Policy and, as applicable, the [Shopify Terms of Service](https://www.shopify.com/legal/terms).
 
-By using any of the products or services offered by Shopify (together, the “Services”), or dealing with a merchant using Shopify’s Services, you are agreeing to the terms of this Privacy Policy and, as applicable, the [Shopify Terms of Service](https://www.shopify.com/legal/terms). This Privacy Policy is a legally binding agreement between you (and your client, employer or another entity if you are acting on their behalf) as the user of the Services (referred to in this Privacy Policy as “you” or “your”) and Shopify Inc. and its affiliates, including Shopify Data Processing (USA) Inc., Shopify Payments (USA) Inc., and Shopify (USA) Inc. (referred to in this Privacy Policy as “we”, “our”, “us” or “Shopify”). If we add any new features or tools to our Services, they will also be subject to this policy.
-
-When we use the term “Personal Information” in this policy, it means any information related to an identifiable individual, but does not include the name, title, business address, or telephone number of an employee of an organization.
-
-We will keep your Personal Information accurate, complete and up-to-date with the information that you provide to us. If you request access to your Personal Information, we will inform you of the existence, use and disclosure of your Personal Information as allowed by law, and provide you access to that information. We will always ask for your consent before using your Personal Information for a purpose other than those described in this Privacy Policy.
-
-This Privacy Policy may be available in languages other than English. To the extent of any inconsistencies or conflicts between this English Privacy Policy and our Privacy Policy available in another language, the most current English version of the Privacy Policy at <https://www.shopify.com/legal/privacy> will prevail.
+We may update this Privacy Policy from time to time in order to reflect, for example, changes to our privacy practices or for other operational, legal, or regulatory reasons. If we make material changes to this Privacy Policy, we will give you notice of such changes by posting the revised policy on this Website, and where appropriate, by other means. By continuing to use this Website or the Support Service after these changes are posted, you agree to the revised policy.
 
 ## 2\. Information from merchants
 
@@ -104,10 +98,11 @@ What is a cookie? A cookie is a small amount of data, which may include a unique
 ### Why does Shopify use cookies and similar tracking technology?
 
   * We use cookies to recognize your device and provide you with a personalized experience.
-  * We also use cookies to serve customized ads from Google and other third-party vendors.
-  * Our third-party advertisers use cookies to track your prior visits to our websites and elsewhere on the Internet in order to serve you customized ads.
-  * **Opting out:** You may be able to opt out of customized ads by visiting the [Ads Preferences Manager](http://www.google.com/ads/preferences/), and the [Google Analytics Opt-out Browser Add-on](http://www.google.ca/ads/preferences/plugin/). If you use our website without opting out, this means that you understand and agree to data collection for the purpose of providing you with remarketing ads.
+  * We also use cookies to serve targeted ads from Google, Facebook, Bing, and other third-party vendors.
+  * Our third-party advertisers use cookies to track your prior visits to our websites and elsewhere on the Internet in order to serve you targeted ads. For more information about targeted or behavioral advertising, please visit <https://www.networkadvertising.org/understanding-online-advertising>.
+  * **Opting out:** You can opt out of targeted ads served via specific third party vendors by visiting the Digital Advertising Alliance’s [Opt-Out page](http://optout.aboutads.info/#!/).
   * We may also use web beacons, tracking technology and other automated tracking methods on our websites, in communications with you, and in our products and services, to measure performance and engagement.
+  * Please note that because there is no consistent industry understanding of how to respond to “Do Not Track” signals, we do not alter our data collection and usage practices when we detect such a signal from your browser.
 
 
 
@@ -121,6 +116,7 @@ Through first-party and third-party cookies, third parties may collect informati
 
   * Shopify works with third parties to help provide you with our Services and we may share Personal Information with them to support these efforts. In certain limited circumstances, we may also be required to share information with third parties to conform to legal requirements or to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also receive Personal Information from our partners and third parties. 
     * Personal Information may be shared with third parties to prevent, investigate, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service or any other agreement related to the Services, or as otherwise required by law.
+    * Personal Information may be shared with third party vendors to help us conduct marketing and/or advertising campaigns.
     * Personal Information may also be shared with a company that acquires our business, whether through merger, acquisition, bankruptcy, dissolution, reorganization, or other similar transaction or proceeding. If this happens, we will post a notice on our home page.
   * Shopify is responsible for all onward transfers of Personal Information to third parties in accordance with the EU-U.S. Privacy Shield Principles, the U.S.-Swiss Safe Harbor Framework, and Canada’s Personal Information Protection and Electronic Documents Act (PIPEDA).
   * Shopify will always ask for your consent before sharing your Personal Information with third parties for purposes other than those described in this Section 7.
@@ -140,8 +136,8 @@ A “comparable level of protection” means a level of protection generally equ
 
 ## 9\. What we don’t do with your Personal Information
 
-  * We do not and will never share, disclose, sell, rent, or otherwise provide Personal Information to other companies for the marketing of their own products or services.
-  * We do not use the Personal Information we collect from you or your customers to contact or market to your customers or directly compete with you. However, Shopify may contact or market to your customers if we obtain their information from another source, such as from the customers themselves.
+  * We do not and will never share, disclose, sell, rent, or otherwise provide Personal Information to other companies (other than to specific Shopify merchants you may be interacting with) for the marketing of their own products or services.
+  * If you are a merchant using Shopify’s Services, we do not use the Personal Information we collect from you or your customers to independently contact or market to your customers. However, Shopify may contact or market to your customers if we obtain their information from another source, such as from the customers themselves.
 
 
 
@@ -153,29 +149,49 @@ A “comparable level of protection” means a level of protection generally equ
 
 
 
-## 11\. How do we protect your information across borders?
+## 11\. Residents of the European Economic Area (“EEA”)
 
-  * Shopify may transmit Personal Information outside of your jurisdiction of residence. Shopify remains responsible for Personal Information that is transferred to a third party abroad for processing or to support our efforts in providing our Services to you. Any Personal Information transferred to a third party for data processing is subject, by law, to a comparable level of protection as that provided by Shopify. A “comparable level of protection” means a level of protection generally equivalent to that provided by Shopify.
-  * We comply with the EU-U.S. Privacy Shield Framework, regarding the collection, use, and retention of Personal Information from the European Union (“EU”) and the European Economic Area (“EEA”), and we comply with the U.S.-Swiss Safe Harbor Framework regarding the collection, use and retention of Personal Information from Switzerland. We have certified that we adhere to the Privacy Shield Principles of notice; choice; accountability for onward transfer; security; data integrity and purpose limitation; access; and recourse, enforcement and liability. 
-    * Generally, Shopify receives Personal Information from the EU, EEA or Switzerland as an agent acting on the instructions of its user and in its capacity as a “data processor”, with the user being the “data controller”. In such cases, where Shopify receives Personal Information from the EU, EEA or Switzerland for processing on behalf of its user, Shopify’s user remains responsible for the Personal Information and its processing in accordance with EU, EEA or Swiss law and Shopify will follow its user’s instructions and will co-operate with its user to comply with the EU-U.S. Privacy Shield Principles, the U.S.-Swiss Safe Harbor Principles, and this Privacy Policy.
-    * If you are located in the EU, the EEA or Switzerland and believe Personal Information has been used in a way that is not consistent with this policy or the EU-U.S. Privacy Shield Principles or U.S.-Swiss Safe Harbor Principles, or if you have further questions or concerns related to this Privacy Policy, please get in touch using the contact information posted at the bottom of this Privacy Policy. If your complaint or dispute remains unresolved, you may also contact the International Centre for Dispute Resolution®, the international division of the American Arbitration Association® (ICDR/AAA). This organization provides independent dispute resolution, free of charge. ICDR/AAA can be contacted at <http://info.adr.org/safeharbor/>.
-    * If after exercising the dispute resolution mechanisms described above, you feel your concerns regarding a potential violation of Shopify’s obligations under the EU-U.S. Privacy Shield Principles have not been resolved, you may seek resolution via binding arbitration. For additional information about the binding arbitration process, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
-    * With respect to our certification to the EU-U.S. Privacy Shield Framework, Shopify is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
-    * For more information about the EU-U.S. Privacy Shield or to access Shopify’s certification statement, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). For more information about the U.S.-Swiss Safe Harbor Framework, please visit <http://www.export.gov/safeharbor/>.
+Shopify works with merchants and users around the world, including in the EEA. If you are located in the EEA, your personal information is processed by Shopify’s Irish affiliate, Shopify International Ltd. Please note that as part of our service, we may transfer your personal information to other regions, including to Canada and the United States. In order to ensure that your information is protected when transferred out of the EEA, Shopify relies on the EU-U.S. Privacy Shield (described in more detail below), as well as inter-company agreements between our various affiliates that may process your information on behalf of Shopify International Ltd.
 
+Additionally, if you are located in the EEA, you have certain rights under European law with respect to your personal data, including the right to request access to, correct, amend, delete, or limit the use of your personal data. In order to exercise these rights, please reach out to us using the contact information below.
 
+## 12\. How do we protect your information across borders?
 
-## 12\. Control and access to your Personal Information
+While Shopify Inc. is a Canadian company, we provide services to customers and our technology processes data from users around the world. Accordingly, Shopify may transmit your personal information outside of the country, state, or province in which you are located.
+
+Shopify (specifically Shopify’s affiliates Shopify Data Processing (USA) Inc., Shopify Payments (USA) Inc., and Shopify (USA) Inc.) complies with the EU-U.S. Privacy Shield Framework, regarding the collection, use, and retention of Personal Information from data subjects in the European Economic Area (“EEA”), and with the Swiss-U.S. Privacy Shield Framework regarding the collection, use and retention of Personal Information from data subjects in Switzerland. In this regard, we have certified that we adhere to the Privacy Shield Principles of notice, choice, accountability for onward transfers, security, data integrity and purpose limitation, access, recourse, enforcement and liability.
+
+If you are located in the EEA or in Switzerland, and believe that your Personal Information has been used in a manner that is not consistent with the relevant privacy policies listed above, please contact us using the information below. If your complaint or dispute remains unresolved, you may also contact the International Centre for Dispute Resolution®, the international division of the American Arbitration Association® (ICDR/AAA). This organization provides independent dispute resolution services, at no charge to you. ICDR/AAA can be contacted at <http://go.adr.org/privacyshield.html>.
+
+If, after attempting to resolve a dispute through ICDR/AAA, you feel that your concerns about the use of your Personal Information have not been resolved, you may seek resolution of the issue through binding arbitration. For more information about the binding arbitration process, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/).
+
+By participating in the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, Shopify’s participating U.S. entities are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. For more information about the EU-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). You can view Shopify’s certification statement at [https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active).
+
+## 13\. Control and access to your Personal Information
 
 You retain all rights to your Personal Information and can access it anytime. In addition, Shopify takes reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Information. You can update many types of Personal Information, such as payment or contact information, directly within your account settings. If you are unable to change your Personal Information within your account settings, please contact us to make the required changes. It’s important to remember that if you delete or limit the use of your Personal Information, the Services may not function properly.
 
-If you have any questions about your Personal Information or this policy, please contact:
+If you have any questions about your Personal Information or this policy, or if you would like to make a complaint about how Shopify processes your personal data, please contact Shopify by email at [privacy@shopify.com](mailto:privacy@shopify.com), or by using the contact details below:
 
-Chief Privacy Officer  
-[privacy@shopify.com](mailto:privacy@shopify.com)  
-(613) 241-2828  
+Residents outside of the European Economic Area:
+
+Shopify Inc.  
+Attn: Chief Privacy Officer  
+150 Elgin St., 8th Fl  
+Ottawa, ON K2P 1L4  
+Canada
+
+Residents of the European Economic Area:
+
+Shopify International Limited  
+Attn: Data Protection Officer  
+c/o Intertrust Ireland  
+2nd Floor 1-2 Victoria Buildings  
+Haddington Road  
+Dublin 4, D04 XN32  
+Ireland  
 
 
-Last updated: May 31, 2017  
+Last updated: October 25, 2017  
 © 2017 Shopify Inc.  
 
