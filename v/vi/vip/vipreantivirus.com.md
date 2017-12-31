@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vipreantivirus.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323062812id_/http%3A//www.threattracksecurity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vipreantivirus.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231170527id_/http%3A//www.threattracksecurity.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - ThreatTrack Security
-
-Last modified: February 2013
+# Privacy Policy - ThreatTrack
 
 **Introduction**  
 ThreatTrack Security, Inc. ("we / us") respects your privacy and are committed to protecting it through our compliance with this policy.
@@ -20,7 +18,7 @@ Our Website is not intended for children under 13 years of age. No one under age
 We collect several types of information from and about users of our Website, including: information you provide to us, that we collect as you navigate through the Website, – traffic and location data, IP addresses, usage details through the use of certain technologies, including cookies and web beacons, as well as information we receive from third parties, for example, our business partners - whether this is required for our own billing purposes or otherwise and the resources that you access.
 
 **Information you provide to us**  
-We may collect and use the following information that you provide to us:
+We may collect and use the following information that you provide to us: 
 
   * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our services, posting material or requesting further services or information. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
   * Records and copies of your correspondence (including e-mail addresses), if you contact us.
@@ -147,4 +145,4 @@ Clearwater, FL 33759
 USA
 
 Email: [Legal@ThreatTrack.com](mailto:legal@threattrack.com)  
-Telephone: +813.367.9906
+Telephone: +813.367.9906 
