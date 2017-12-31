@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051149id_/http%3A//www.frooition.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231085053id_/http%3A//www.frooition.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Frooition Privacy Policies Frooition Worldwide Designs
 
@@ -13,7 +13,7 @@ Your IP address is not linked to anything personally identifiable. We also log t
 In some cases, you may voluntarily provide personal information to us. This information is used to assist us in responding to whatever query or other interest you may have expressed. In addition, we may combine this information with other users' information and review it in any aggregated form to understand the types of individuals who use the site, raise particular types of questions or express particular types of interest.
 
 **1.2 Cookies**  
-Sometimes it is useful for web sites to remember you when you come back to the site. The way we do this is by storing a small file on your computer, known as a â€œcookieâ€ which can only be seen by our web sites and will not expose you to any security risk. A cookie is perfectly safe and doesn't affect the performance of your computer in any way but it does mean that if you are using the same computer we can recognise you when you come back to our sites.  
+Sometimes it is useful for web sites to remember you when you come back to the site. The way we do this is by storing a small file on your computer, known as a 'cookie' which can only be seen by our web sites and will not expose you to any security risk. A cookie is perfectly safe and doesn't affect the performance of your computer in any way but it does mean that if you are using the same computer we can recognise you when you come back to our sites.  
 We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.  
 You can configure your computer to reject our cookies. Further information can be obtained by viewing your computer's 'help' files.
 
