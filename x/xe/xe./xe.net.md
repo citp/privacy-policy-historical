@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xe.net privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626163748id_/http%3A//www.xe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xe.net privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231213725id_/http%3A//www.xe.com/privacy.php) for the most accurate reproduction.*
 
 # XE - Privacy Policy
 
@@ -6,7 +6,7 @@ Effective as of May 30, 2017 (the "Effective Date").
 
 ## Introduction
 
-We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the modified Policy at <http://www.xe.com/privacy.php> and changing the Effective Date at the top. We encourage you to check this page periodically for any changes. This Policy is incorporated into, and subject to, XE's Terms of Use at <http://www.xe.com/legal/>. By using or navigating XE's web site located at <http://www.xe.com/> or any product or service offered by XE (collectively, the "Services"), you acknowledge that you have read, understand, and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or access the Services. 
+We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the modified Policy at <http://xe.com/privacy.php> and changing the Effective Date at the top. We encourage you to check this page periodically for any changes. This Policy is incorporated into, and subject to, XE's Terms of Use at <http://xe.com/legal/>. By using or navigating XE's web site located at <http://xe.com/> or any product or service offered by XE (collectively, the "Services"), you acknowledge that you have read, understand, and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or access the Services. 
 
 ## What information is collected?
 
@@ -24,7 +24,7 @@ Personal information collected on our Services is typically stored and processed
 
 ## Is information collected shared with third parties?
 
-XE may share your information with our agents, processors, or contractors in order to fulfil your purchase order. We may also transfer information to affiliate companies in the Euronet Worldwide Inc. group (of which we are part) including HiFX Europe Limited and companies operating under the “HiFX” brand ( **“HiFX”** ) and Euronet Payment Services Limited and companies operating under the “Ria” brand ( **“Ria”** ) (see: [www.euronetworldwide.com](https://web.archive.org/web/20170626163748id_/http%3A//www.xe.com/www.euronetworldwide.com)) ( **“Our Group”** ). If you have consented and you have not withdrawn your consent, affiliate companies in Our Group may contact you directly with marketing communications in relation to the Services or their respective services (see Direct marketing by XE and Our Group below).
+XE may share your information with our agents, processors, or contractors in order to fulfil your purchase order. We may also transfer information to affiliate companies in the Euronet Worldwide Inc. group (of which we are part) including HiFX Europe Limited and companies operating under the “HiFX” brand ( **“HiFX”** ) and Euronet Payment Services Limited and companies operating under the “Ria” brand ( **“Ria”** ) (see: [www.euronetworldwide.com](https://web.archive.org/web/20171231213725id_/http%3A//www.xe.com/www.euronetworldwide.com)) ( **“Our Group”** ). If you have consented and you have not withdrawn your consent, affiliate companies in Our Group may contact you directly with marketing communications in relation to the Services or their respective services (see Direct marketing by XE and Our Group below).
 
 You should note that XE is opposed to third party spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data to third parties for such purposes.
 
@@ -74,7 +74,7 @@ For more information on web beacons, see: <http://www.allaboutcookies.org/faqs/b
 
 ## How long is information retained?
 
-Different information is used for different purposes, and is subject to different standards and regulations. In general, information is retained for such period of time as is felt necessary to provide you with services you request, to comply with applicable regulations or legislation, and to ensure that you have a reasonable opportunity to access the information. If you no longer consent to us retaining your personal information, you can request that it be removed by contacting us as outlined at: <http://www.xe.com/contact.php>
+Different information is used for different purposes, and is subject to different standards and regulations. In general, information is retained for such period of time as is felt necessary to provide you with services you request, to comply with applicable regulations or legislation, and to ensure that you have a reasonable opportunity to access the information. If you no longer consent to us retaining your personal information, you can request that it be removed by contacting us as outlined at: <http://xe.com/contact.php>
 
 ## Is correspondence that you send to us saved?
 
@@ -104,14 +104,14 @@ With your consent, we and/or affiliate companies within Our Group may sometimes 
 
 All marketing e-mails you receive from us or companies in Our Group will include specific instructions on how to unsubscribe and you may unsubscribe at any time.
 
-Additionally, you can contact us as directed at the following link to unsubscribe from marketing from us and Our Group: <http://www.xe.com/contact.php>
+Additionally, you can contact us as directed at the following link to unsubscribe from marketing from us and Our Group: <http://xe.com/contact.php>
 
 ## Can personal information be updated or corrected?
 
 Yes. You may correct or update your personal information or to otherwise request removal of your information from our database by writing to our Privacy Officer:
 
   * by e-mail to [privacy@xe.com](mailto:privacy@xe.com) ; or,
-  * as directed at: <http://www.xe.com/contact.php>
+  * as directed at: <http://xe.com/contact.php>
 
 
 
