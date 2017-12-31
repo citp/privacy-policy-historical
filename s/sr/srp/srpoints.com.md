@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srpoints.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613211339id_/http%3A//superrewards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srpoints.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231214128id_/http%3A//www.superrewards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SuperRewards
 
@@ -112,4 +112,4 @@ To keep your Personal Information accurate, current and complete, please contact
 
 If you want to verify the accuracy of the Personal Information we hold about you and to have a general account of our uses of that information, you may request the same in writing (see further Contact Details below) and we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user.  In such circumstances we will provide reasons for the denial to you upon request.  We will endeavour to deal with all requests for access and modifications in a timely manner.
 
-**Contact Details.**  If you have any questions or complaints about this Privacy Policy, please contact us at [privacy@superrewards.com](mailto:privacy@superrewards.com); or by regular mail at SuperRewards, Inc., Attn: Privacy Officer, to SuperRewards’s main offices located at 180 Sansome, 4th Floor c/o Playerize, San Francisco, CA, 94104.
+**Contact Details.**  If you have any questions or complaints about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1d1d3c8d7c0c2d8e1d2d4d1c4d3d3c4d6c0d3c5d28fc2cecc); or by regular mail at SuperRewards, Inc., Attn: Privacy Officer, to SuperRewards’s main offices located at 180 Sansome, 4th Floor c/o Playerize, San Francisco, CA, 94104.
