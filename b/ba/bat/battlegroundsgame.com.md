@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battlegroundsgame.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615201208id_/https%3A//www.playbattlegrounds.com/privacyPolicy.pu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlegroundsgame.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231180855id_/http%3A//www.playbattlegrounds.com/privacyPolicy.pu) for the most accurate reproduction.*
 
 # PLAYERUNKNOWN'S BATTLEGROUNDS
 
