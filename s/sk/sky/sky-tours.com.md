@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606091443id_/http%3A//www.sky-tours.com/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231080816id_/http%3A//www.sky-tours.com/en/privacy.htm) for the most accurate reproduction.*
 
-# Privacy | Sky-tours - sky-tours.com United States
+# Privacy | Sky-tours | Sky-tours.com United States
 
 #### We are committed to protecting your privacy while you visit our Site.
 
