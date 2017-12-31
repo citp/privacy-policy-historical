@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcnonline.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630181913id_/http%3A//www.chron.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcnonline.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231235341id_/http%3A//www.chron.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Houston Chronicle
 
@@ -54,4 +54,6 @@
   9. **Non-U.S. Users.** If you are located outside of the United States, please note that the information you provide to us will be transferred to and processed in the United States, where laws regarding processing of Personally Identifiable Information may be less stringent than the laws in your country. By using this Covered Site, you consent to this transfer and processing. You also consent to the adjudication of any disputes arising in connection with this Covered Site in the federal and state courts of, and in accordance with the laws of, the state of New York.
   10. **Changes to This privacy policy.** This privacy policy is subject to occasional revision, and if we make any material changes in the way we use your Personally Identifiable Information, we will prominently post notice of the changes on our Covered Sites. Any changes to this privacy policy will be effective upon thirty (30) calendar days following our posting of notice of the changes on our Covered Sites. These changes will be effective immediately for new users of our Covered Sites. Continued use of our Covered Sites, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-Last Update: November 20th, 2014 
+
+
+Last Update: November 20th, 2014
