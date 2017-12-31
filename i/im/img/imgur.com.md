@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630190401id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgur.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231101834id_/https%3A//imgur.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Imgur
 
 Your Privacy Rights – Effective January 17, 2017
 
-**Our Privacy Policy has changed - January 17, 2017**
-
 ## Information we collect; how we use it
 
 Automatically collected technical information: Our servers log information about each computer connecting with our site such as IP address, dates and times of each login, device characteristics, operating system, browser type, type of connection, page and image viewing statistics, and incoming and outgoing links. We associate this information with comments you post or votes you enter. We also log the metadata associated with any images or videos you upload. None of this automatically collected technical information is associated with any identified person at the time it is collected, but it could be associated with you under two circumstances: First, if you choose to give us personal data about you as described below, the technical information we collect that would otherwise be anonymous could instead be logged as coming from you; and second, if we are required to disclose our server logs as a result of a subpoena or other legal process, some third party such as your internet provider could match our anonymous technical information with you, using information beyond what is found on our servers.
 
-We may use cookies, web beacons, or other anonymous tracking information to improve our server's interaction with your computer, and we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. Although our servers currently don't respond to "do-not-track" requests, you can block these cookies in other ways, for example by going to <http://www.privacychoice.org/choose>.
+We may use cookies, web beacons, or other anonymous tracking information to improve our server's interaction with your computer, and we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. Although our servers currently don't respond to "do-not-track" requests, you can block these cookies in other ways.
 
 Imgur participates in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising. For more information please visit [http://www.aboutads.info](http://www.aboutads.info/).
 
@@ -20,7 +18,7 @@ We collect whatever personal data about you that you choose to give us, such as 
 
 ## Personal Data Protection
 
-**Because Imgur neither requires nor requests personally-identifiable information about you, if you choose to remain anonymous Imgur will not disclose to any third party any personally identifiable information about you.** The only exceptions are: (1) If you use a credit card to make an on-site or in-app purchase, in which case your private data is forwarded to credit card processors only for that purpose (including guarding against credit card fraud) and not stored on our servers. (2) if we receive a subpoena or other legal process requiring us to disclose whatever information we may have about you, we may have no choice but to do so.
+Because Imgur neither requires nor requests personally-identifiable information about you, if you choose to remain anonymous Imgur will not disclose to any third party any personally identifiable information about you. The only exceptions are: (1) If you use a credit card to make an on-site or in-app purchase, in which case your private data is forwarded to credit card processors only for that purpose (including guarding against credit card fraud) and not stored on our servers. (2) If we receive a subpoena or other legal process requiring us to disclose whatever information we may have about you, we may have no choice but to do so.
 
 You may correct, amend, or delete inaccurate private data (if any) you have given us, although any credit card transactions that have already taken place will be unaffected. For legal reasons we may retain backup and/or archival copies of information prior to your corrections, amendments, or deletions. We take every reasonable precaution to protect your private data from loss, misuse, unauthorized access, disclosure, alteration, or destruction. You are responsible for taking every reasonable precaution on your end to protect any unauthorized person from accessing your Imgur account.
 
@@ -40,6 +38,6 @@ That stated, we do offer two privacy settings if you upload images via your user
 
 Imgur allows users to send messages to one another both indirectly (via comments to posts) and directly (via chat). Imgur's messaging functionality is not intended to be a secure messaging platform; it's just for fun. As is the case with images, so too for messaging: To ensure that Imgur's messaging platform is not used as a platform for illegality, no messages are ever completely hidden from public view. We may monitor user messaging.
 
-If you have any questions about our use of your Private Data, please contact us at [Imgur Help](http://help.imgur.com/).
+If you have any questions about our use of your Private Data, please contact us at [Imgur Help](https://help.imgur.com/).
 
 We may revise our privacy policy from time to time by posting the changes here.
