@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piccing.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201160004id_/http%3A//blog.piccing.com/piccingprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piccing.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101204452id_/http%3A//blog.piccing.com/piccingprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Piccing Blog
 
