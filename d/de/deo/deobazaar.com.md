@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deobazaar.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031144957id_/http%3A//www.deobazaar.com/Our-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deobazaar.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101134039id_/https%3A//www.deobazaar.com/Our-Privacy-Policy.html) for the most accurate reproduction.*
 
 # DeoBazaar.com | Privacy Policy
 
