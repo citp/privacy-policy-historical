@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartodb.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729095538id_/https%3A//carto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartodb.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101141057id_/https%3A//carto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — CARTO
 
@@ -98,7 +98,7 @@ Attention: Legal
 201 Moore Street  
 Brooklyn, NY 11206  
 United States of America  
-[privacyshield@carto.com](https://web.archive.org/web/20170729095538id_/https://carto.com/privacy/%E2%80%9Dmailto:privacyshield@carto.com%E2%80%9D)
+[privacyshield@carto.com](https://web.archive.org/web/20180101141057id_/https://carto.com/privacy/%E2%80%9Dmailto:privacyshield@carto.com%E2%80%9D)
 
   * The type of third parties to which CARTO discloses PI are corporate affiliates and business partners, for the limited and specified purpose of providing services related to the Service (such as website hosting or payment processing). These business partners do not have the right to use this PI for any purpose other than those related to the Service, and onward transfers only occur on the basis of a contract. We may disclose PI about our users to entities now or in the future affiliated with CARTO for the purpose of enhancing the visitor experience of the Service; operating and maintaining the Service; investigating and understanding how the Service is used; monitoring and protecting the security and integrity of the Service; and analyzing our business. We may also disclose PI about our users as part of any merger, acquisition, change of control, debt financing, insolvency, bankruptcy or sale of our assets for the purpose of completing our contractual obligations. Except as provided above, we will not sell or transfer your PI to third parties.
   * Anyone in the EU whose personal information has been transferred to the United States has a right to access their personal information.
