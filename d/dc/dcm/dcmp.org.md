@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the dcmp.org privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204174052id_/https%3A//dcmp.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcmp.org privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101153749id_/https%3A//dcmp.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Disclaimer / Privacy Policy
+
+## Disclaimer
+
+The contents of the Described and Captioned Media Program website were developed under a grant from the U.S. Department of Education (H327N110002). However, these contents do not necessarily represent the policy of the U.S. Department of Education and you should not assume endorsement by the Federal government. Project Officer, Jo Ann McCann. 
+
+## Privacy Policy
 
 The National Association of the Deaf, through a grant with the U.S. Department of Education, operates the Described and Captioned Media Program ("DCMP"). The practices of DCMP, with respect to data collected and used by DCMP in connection with this Web site (the "Site"), are governed by this online privacy policy ("Privacy Policy") as amended from time to time, and not the privacy policy in effect at the time the data was collected. Please regularly review our Privacy Policy. If you have objections to the Privacy Policy, you should immediately discontinue use of the Site and follow the procedure described in the section entitled "Updating your personal information and privacy preferences".
 
