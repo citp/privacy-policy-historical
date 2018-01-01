@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130123243id_/http%3A//1happybirthday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1happybirthday.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101113108id_/http%3A//www.1happybirthday.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
