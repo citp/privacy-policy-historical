@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201040325id_/http%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoosierhomemade.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101161433id_/https%3A//hoosierhomemade.com/disclosures) for the most accurate reproduction.*
 
 # Disclosures - Hoosier Homemade
 
