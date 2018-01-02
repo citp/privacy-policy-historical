@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnamesales.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226003032id_/https%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnamesales.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102010034id_/https%3A//domainnamesales.com/privacy-policy) for the most accurate reproduction.*
 
 # DomainNameSales.com
 
