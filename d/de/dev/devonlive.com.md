@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devonlive.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114044832id_/http%3A//www.devonlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devonlive.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103000422id_/https%3A//www.devonlive.com/privacy-policy) for the most accurate reproduction.*
 
 # Devon Live privacy policy
 
