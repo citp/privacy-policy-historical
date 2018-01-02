@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestartv.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204054317id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestartv.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102084816id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Star Online
 
