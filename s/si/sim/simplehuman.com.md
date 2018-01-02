@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplehuman.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623210553id_/https%3A//www.simplehuman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplehuman.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102010022id_/https%3A//www.simplehuman.com/privacy-policy) for the most accurate reproduction.*
 
 # simplehuman | privacy policy
 
@@ -33,7 +33,7 @@ We do not sell or rent information about our customers, and all information prov
 
 ### Protecting Your Information
 
-Shopping on the Site is easy, secure and worry-free. We have taken several measures to guarantee that your order and your credit card information are safe and secure. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology that works with Microsoft Internet Explorer (version 3.0 and above), Netscape Navigator (versions 2.0 and above), and AOL (AOL 3.0 and above), and the Site's security has been tested and and verified by McAfee Secure Sign.
+Shopping on the Site is easy, secure and worry-free. We have taken several measures to guarantee that your order and your credit card information are safe and secure. Our servers use Secure Sockets Layer (SSL), an advanced encryption technology that works with Microsoft Internet Explorer (version 3.0 and above), Netscape Navigator (versions 2.0 and above), and AOL (AOL 3.0 and above), and the Site's security has been tested and verified by McAfee Secure Sign.
 
 SSL is considered the industry standard and is among the leading software available to encrypt online transactions. Your personal information, including your name, credit card number and address, is encrypted so that it cannot be read as it is transmitted over the Internet. Regardless of these efforts, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, any information you transmit to us is sent at your own risk.
 
@@ -43,7 +43,7 @@ We do not intentionally collect personally identifiable information from childre
 
 ### Opt Out / Corrections
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to simplehuman's Customer Support department at [customer.support@simplehuman.com](mailto:customer.support@simplehuman.com). Please clearly label the subject line "Opt Out / Corrections," and do not email your credit card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to simplehuman's Customer Support department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11726462657e7c74633f626461617e63655162787c617d7479647c707f3f727e7c). Please clearly label the subject line "Opt Out / Corrections," and do not email your credit card number or other sensitive information.
 
 ### Policy Changes
 
@@ -51,7 +51,7 @@ We may change our Privacy Policy from time-to-time. We encourage you to refer to
 
 ### Questions and Feedback
 
-We welcome your questions, comments and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at [customer.support@simplehuman.com](mailto:customer.support@simplehuman.com).
+We welcome your questions, comments and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7615030502191b1304580503060619040236051f1b061a131e031b17185815191b).
 
 ### Terms and Conditions
 
