@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maddycoupons.in privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102053415id_/https%3A//www.maddycoupons.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maddycoupons.in privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102054853id_/https%3A//www.maddycoupons.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MaddyCoupons.in
 
