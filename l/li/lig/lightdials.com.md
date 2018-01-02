@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightdials.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022175921id_/http%3A//lightdials.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightdials.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102130247id_/http%3A//lightdials.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
