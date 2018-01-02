@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102164905id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csschopper.com privacy policy that was archived on 2018-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180102164829id_/http%3A//www.csschopper.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # CSSChopper's Privacy Policy
 
@@ -49,17 +49,17 @@ Email: [sales@csschopper.com](mailto:sales@csschopper.com)
 
 **SUBSCRIBE for discounts & news **
 
-Rated 4.9 out of 5.0 for CSSChopper service by 9929 clients on over 15000\+ projects.
+Rated 4.9 out of 5.0 for CSSChopper service by 9961 clients on over 15000\+ projects.
 
 ### From the blog
 
-[On High Demand CSSChopper Comes Up With The US Shift](http://www.csschopper.com/blog/on-high-demand-csschopper-comes-up-with-the-us-shift/ "On High Demand CSSChopper Comes Up With The US Shift")
+[PSD to HTML / HTML5 Conversion with Popular Frameworks and CSS Types](http://www.csschopper.com/blog/psd-to-html-html5-conversion-popular-frameworks-css-types/ "PSD to HTML / HTML5 Conversion with Popular Frameworks and CSS Types")
 
-With high demand and Sensing the scenario, CSSChopper comes up with the US shift availability to give a sigh of comfort to its global customers. Now, our developers will... [ read more](http://www.csschopper.com/blog/on-high-demand-csschopper-comes-up-with-the-us-shift/)
+Due to rapid web development & advancement in current market scenario, businesses are demanding the most appealing websites. Thus, they opt for the best PSD to from a... [ read more](http://www.csschopper.com/blog/psd-to-html-html5-conversion-popular-frameworks-css-types/)
 
-[Mobile Vs Desktop Website: A Quick Read to Make a Fruitful Decision](http://www.csschopper.com/blog/mobile-vs-desktop-website-a-quick-read-to-make-a-fruitful-decision/ "Mobile Vs Desktop Website: A Quick Read to Make a Fruitful Decision")
+[Last Day Offer: More Than 50% Off On all HTML Projects](http://www.csschopper.com/blog/last-day-offer-50-off-html-projects/ "Last Day Offer: More Than 50% Off On all HTML Projects")
 
-There is a huge difference between the experience one can get when browsing a website on mobile instead of desktop. It is obvious that mobile is surpassing the desktop we... [ read more](http://www.csschopper.com/blog/mobile-vs-desktop-website-a-quick-read-to-make-a-fruitful-decision/)
+CSSChopper, a leading player of India in web development industry, offers flat 50% discount on all HTML projects. We care our clients a lot, so we bring this special for... [ read more](http://www.csschopper.com/blog/last-day-offer-50-off-html-projects/)
 
 ### CLIENT ASKED QUESTIONS
 
@@ -70,3 +70,143 @@ There is a huge difference between the experience one can get when browsing a we
 #### Is it possible to meet your representative in the USA?
 
 INDUSTRY NEWS: The WordPress.com’s parent company, Automattic has recently bought popular wooCommerce plugin for converting WordPress to e-store easily. http://goo.gl/TNBKPd
+
+## More reasons to start with us
+
+### Birthday Special for Existing Clients
+
+Order on your birthday and get 10% off with a coupon code as a gift from us. 
+
+_3_
+
+### Credit Points - even a single penny matters 
+
+We offer you credit points for each and every penny that you spend on our website for the project. You can encash these points on your next order. 
+
+_4_
+
+### Special Discount to Clients
+
+We love our returning customer as it instills confidence in us. To acknowledge our clients’ trust on us for, we offer them a flat 15% discount on the total cost of the 2nd project. 
+
+_1_
+
+### Refer & Earn
+
+We reward our clients who refer us to others by offering them a bonus discount of 10% on the total project cost. Sit back in a cafe or at home and earn bonus discounts. Know more 
+
+_2_
+
+### Birthday Special for Existing Clients
+
+Order on your birthday and get 10% off with a coupon code as a gift from us. 
+
+_3_
+
+### Credit Points - even a single penny matters 
+
+We offer you credit points for each and every penny that you spend on our website for the project. You can encash these points on your next order. 
+
+_4_
+
+### Special Discount to Clients
+
+We love our returning customer as it instills confidence in us. To acknowledge our clients’ trust on us for, we offer them a flat 15% discount on the total cost of the 2nd project. 
+
+_1_
+
+### Refer & Earn
+
+We reward our clients who refer us to others by offering them a bonus discount of 10% on the total project cost. Sit back in a cafe or at home and earn bonus discounts. Know more 
+
+_2_
+
+### Birthday Special for Existing Clients
+
+Order on your birthday and get 10% off with a coupon code as a gift from us. 
+
+_3_
+
+### Credit Points - even a single penny matters 
+
+We offer you credit points for each and every penny that you spend on our website for the project. You can encash these points on your next order. 
+
+_4_
+
+  *   * 
+
+
+### Client Area (MyChopps)
+
+Now manage invoices, project payments, project & scope ordering/revision, raise helpdesk tickets & do much more with MyChopps. 
+
+_3_
+
+### Project Management System (PMS)
+
+Customized PMS to let the clients easily track the status of the project and contact the project team as and when required. 
+
+_4_
+
+### Cost for initiating a project
+
+Start with an upfront payment of 10% of the project cost. 
+
+_1_
+
+### Free Technical Support
+
+We offer 30 days of free support and assistance after the project delivery for all custom and CMS projects. 
+
+_2_
+
+### Client Area (MyChopps)
+
+Now manage invoices, project payments, project & scope ordering/revision, raise helpdesk tickets & do much more with MyChopps. 
+
+_3_
+
+### Project Management System (PMS)
+
+Customized PMS to let the clients easily track the status of the project and contact the project team as and when required. 
+
+_4_
+
+### Cost for initiating a project
+
+Start with an upfront payment of 10% of the project cost. 
+
+_1_
+
+### Free Technical Support
+
+We offer 30 days of free support and assistance after the project delivery for all custom and CMS projects. 
+
+_2_
+
+### Client Area (MyChopps)
+
+Now manage invoices, project payments, project & scope ordering/revision, raise helpdesk tickets & do much more with MyChopps. 
+
+_3_
+
+### Project Management System (PMS)
+
+Customized PMS to let the clients easily track the status of the project and contact the project team as and when required. 
+
+_4_
+
+  *   * 
+
+
+### SATISFACTION GUARANTEE
+
+CSSChopper strongly ensure for a high level of satisfaction among our potential clients.
+
+### NON DISCLOSURE AGREEMENT
+
+CSSChopper proclaims 100% NDA Guarantee to protect client’s "Confidential Data" 
+
+### MONEY BACK GUARANTEE
+
+CSSChopper refunds received amount under conditions mentioned in *Money Back Guarantee Policy. 
