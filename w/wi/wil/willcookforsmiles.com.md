@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willcookforsmiles.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103182510id_/http%3A//www.willcookforsmiles.com/2011/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willcookforsmiles.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103103204id_/https%3A//www.willcookforsmiles.com/2011/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Will Cook For Smiles
 
