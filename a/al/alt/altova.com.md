@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606215714id_/http%3A//www.altova.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altova.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103021200id_/https%3A//www.altova.com/privacy) for the most accurate reproduction.*
 
-# Altova Privacy Policy
+# Altova User Forum Terms of Service
 
 Welcome to Altova. 
 
@@ -32,6 +32,6 @@ Our Site may contain links to other sites, including ones that display our trade
 
 The Site(s) are not directed to children under the age of 13 and Altova assumes products purchased through credit card means are purchased by adults. Altova respects the privacy of parents and children and is committed to complying with the Children's Online Privacy Protection Act (COPPA). Altova believes that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other Personal Information without parental permission. 
 
-Altova welcomes your comments regarding our information handling practice and this Privacy Policy and you may contact us at the address indicated below. In addition, certain jurisdictions may permit you to contact Altova, at the address below, to request information on the processing of your Personal Information, corrections or to oppose processing of Personal Information if you have a legitimate reason to do so. Altova can be contacted by e-mail at [privacy@altova.com ](mailto:david.gast@altova.com?subject=Privacy%20policy%20inquiry) or via postal mail at Altova GmbH, DVR 0692450, Rudolfsplatz 13a/9, A-1010 Wien, Austria / EU, Attention: Altova Privacy. 
+Altova welcomes your comments regarding our information handling practice and this Privacy Policy and you may contact us at the address indicated below. In addition, certain jurisdictions may permit you to contact Altova, at the address below, to request information on the processing of your Personal Information, corrections or to oppose processing of Personal Information if you have a legitimate reason to do so. Altova can be contacted by e-mail at [privacy](mailto:privacyaltova.com) or via postal mail at Altova GmbH, DVR 0692450, Rudolfsplatz 13a/9, A-1010 Wien, Austria / EU, Attention: Altova Privacy. 
 
 Last updated: 2011-3-22
