@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interactiveone.com privacy policy that was archived on 2017-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170725195637id_/https%3A//ionedigital.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interactiveone.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103184556id_/https%3A//ionedigital.com/privacy) for the most accurate reproduction.*
 
 # Privacy - iOne Digital
 
@@ -155,7 +155,7 @@ We maintain procedural, technical, and physical safeguards to help protect again
 
 **8\. Third Party Links**
 
-The iONE Digital Services may contain links to third party websites/services for your convenience and/or information (for example, sites linking via banner ads). If you access other sites using the links provided, you may leave the iONE Digital Services. When you access these other sites, even ones that may contain the logo of iONE Digital or an iONE Digital brand or A company, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their privacy policies and terms of use, which may differ from ours. We do not endorse or control the policies or practices of third party websites that we do not control or operate.
+The iONE Digital Services may contain links to third party websites/services for your convenience and/or information (for example, sites linking via banner ads). If you access other sites using the links provided, you may leave the iONE Digital Services. When you access these other sites, even ones that may contain the logo of iONE Digital or an iONE Digital brand or company, please understand that the operators of these websites may collect information from you which will be used by them in accordance with their privacy policies and terms of use, which may differ from ours. We do not endorse or control the policies or practices of third party websites that we do not control or operate.
 
 You should always carefully read the privacy policy of any site you access in order to understand their specific privacy and information usage practices.
 
