@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldwares.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103222749id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldwares.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103095226id_/http%3A//www.quickstartsite.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WebFire
 
