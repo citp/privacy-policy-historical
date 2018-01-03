@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronos.to privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031082019id_/http%3A//chronos.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronos.to privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103052124id_/http%3A//chronos.to/privacy.html) for the most accurate reproduction.*
 
 # CHRONOS.TO
 
