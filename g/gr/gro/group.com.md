@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230933id_/https%3A//grouppublishingps.zendesk.com/hc/en-us/articles/211878208-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104050059id_/https%3A//grouppublishingps.zendesk.com/hc/en-us/articles/211878208-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy – Group Support
 
@@ -87,6 +87,6 @@ The Privacy Policy posted on this site was updated on or about January 19, 2007.
 
 Was this article helpful?
 
-0 out of 1 found this helpful
+1 out of 2 found this helpful
 
 ## Comments
