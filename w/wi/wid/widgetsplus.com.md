@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the widgetsplus.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104001822id_/http%3A//widgetsplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetsplus.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104171024id_/http%3A//widgetsplus.com/privacy) for the most accurate reproduction.*
 
 # Google+ Widget :: Google Plus customizable Widget to get in touch with your visitors
 
