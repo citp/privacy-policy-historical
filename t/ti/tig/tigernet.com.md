@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003123956id_/https%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104181148id_/https%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
 
 # Disclaimer | TigerNet
 
