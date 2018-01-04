@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koolmobile.net privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803160707id_/http%3A//koolmobile.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolmobile.net privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104021448id_/http%3A//koolmobile.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Koolmobile
 
