@@ -1,905 +1,856 @@
-<!--The following is the downloaded HTML source of the livingincebuforums.com privacy policy that was archived on 2016-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160315082326id_/http%3A//www.livingincebuforums.com/ipb/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livingincebuforums.com privacy policy that was archived on 2018-01-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180104125335id_/https%3A//www.livingincebuforums.com/ipb/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-		<meta charset="UTF-8">
-		<title>Privacy Policy - Living In Cebu Forums</title>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<link rel="shortcut icon" href="http://www.livingincebuforums.com/ipb/favicon.ico">
-		<link rel="image_src" href="http://www.livingincebuforums.com/ipb/public/style_images/22_livingincebu_logo3.png">
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-		//<![CDATA[
-			jsDebug			= 0; /* Must come before JS includes */
-			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
-			inACP			= false;
-			var isRTL		= false;
-			var rtlIe		= '';
-			var rtlFull		= '';
-		//]]>
-		</script>
+<!DOCTYPE html><html lang="en-US" dir="ltr"><head><title>Privacy Policy - Living In Cebu Forums</title>
 		
-	
-				
-	
-
-				
-	
-
-				
-	
-
-				
-	
-
-				
-	
-
-				
-	
-
-				
-	
-
-				
-	
-
-				
-	
-	
-		<link rel="stylesheet" type="text/css" media="screen,print" href="http://www.livingincebuforums.com/ipb/public/min/index.php?ipbv=f2df275ed5014053c92a3ef053650b9d&amp;f=public/style_css/css_32/riskclosure.css,public/style_css/css_32/ipb_editor.css,public/style_css/css_32/ipb_styles.css,public/style_css/css_32/ipb_login_register.css,public/style_css/css_32/ipb_common.css,public/style_css/css_32/ipb_ckeditor.css,public/style_css/css_32/links.css,public/style_css/css_32/membermap.css,public/style_css/css_32/calendar_select.css">
-	
-
-<!--[if lte IE 7]>
-	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://www.livingincebuforums.com/ipb/public/style_css/css_32/ipb_ie.css" />
-<![endif]-->
-<!--[if lte IE 8]>
-	<style type='text/css'>
-		.ipb_table { table-layout: fixed; }
-		.ipsLayout_content { width: 99.5%; }
-	</style>
-<![endif]-->
-
-	<!-- Forces resized images to an admin-defined size -->
-	<style type="text/css">
-		img.bbc_img {
-			max-width: 700px !important;
-			max-height: 700px !important;
-		}
-	</style>
-
-		<meta property="og:title" content="Privacy Policy">
-		<meta property="og:site_name" content="Living In Cebu Forums">
-		<meta property="og:type" content="article">
-		
-	
-		
-		
-			<meta name="identifier-url" content="http://www.livingincebuforums.com/ipb/privacypolicy/">
-		
-		
-			<meta property="og:url" content="http://www.livingincebuforums.com/ipb/privacypolicy/">
-		
-		
-		
-	
-
-<meta property="og:image" content="http://www.livingincebuforums.com/ipb/public/style_images/22_livingincebu_logo3.png">
-		
-		
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8/scriptaculous.js?load=effects,dragdrop,builder"></script>
-	<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/public/min/index.php?ipbv=f2df275ed5014053c92a3ef053650b9d&amp;charset=UTF-8&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="UTF-8"></script><script type="text/javascript">
-
-ipb.lang['en30_thanked_by'] 	= "";
-ipb.lang['en30_thank']		= "";
-ipb.lang['en30_thank_author']	= "";
-ipb.lang['en30_user']		= "";
-ipb.lang['en30_users']		= "";
-ipb.lang['en30_thanked']	= "";
-
-function ajaxThanksExpand( pid )
-{
-	var thankersBox 		= $( 'thankers_' + pid );
-	var showThankers 	= $( 'show_thankers_' + pid );
-	
-	showThankers.style.display = "none";
-	thankersBox.style.display = "block";
-}
-
-function ajaxRemoveThanks( pid )
-{
-		// Kill the thanks button of this specific post
-		
-		new Effect.DropOut( 'ajaxRemoveThanks_' + pid );
-		var url = ipb.vars['base_url'] + 'app=forums&module=ajax&section=stats&do=ajaxRemoveThanks';
-		
-		new Ajax.Request( url,
-							{
-								method: 'post',
-								evalJSON: 'force',
-								parameters: {
-									md5check: 		ipb.vars['secure_hash'],
-									pid:			pid,
-									tid:			ipb.topic.topic_id,
-									fid:			ipb.topic.forum_id
-								},
-								onSuccess: function(t)
-								{
-									if( t.responseJSON['error'] )
-									{
-										alert( t.responseJSON['error'] );
-									}
-									else
-									{
-										var thankers	= $( 'thankers_' + pid );
-										var thankedBy	= $( 'thankedBy_' + pid );
-										var thankersBox = $( 'thankersBox_' + pid );
-
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-											
-											thankers.innerHTML = t.responseJSON['thankers'];
-										}
-										else
-										{
-											ajaxThanksExpand( pid );
-											thankers.innerHTML = t.responseJSON['thankers'];
-										}
-										
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-										}
-										
-										// Update thanked by text (increment number show plural)
-										
-										if ( thankedBy.title != '0' )
-										{
-											var thankers = parseInt( thankedBy.title ) - 1;
-											
-											if ( thankers > 1 )
-											{
-												thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + thankers + ' ' + ipb.lang['en30_users'];
-												new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
-											}
-											if ( thankers == 1 )
-											{
-												thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + thankers + ' ' + ipb.lang['en30_user'];
-												new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
-											}
-											else
-											{
-												thankersBox.style.display = "none";
-											}
-										}
-									}
-								}
-							}
-						);
-}
-
-function ajaxThanks( pid )
-{
-		// Kill the thanks button of this specific post
-		
-		new Effect.DropOut( 'ajaxThanks_' + pid );
-		var url = ipb.vars['base_url'] + 'app=forums&module=ajax&section=stats&do=ajaxThanks';
-		
-		new Ajax.Request(	url,
-							{
-								method: 'post',
-								evalJSON: 'force',
-								parameters: {
-									md5check: 		ipb.vars['secure_hash'],
-									pid:			pid,
-									tid:			ipb.topic.topic_id,
-									fid:			ipb.topic.forum_id
-								},
-								onSuccess: function(t)
-								{
-									if( t.responseJSON['error'] )
-									{
-										alert( t.responseJSON['error'] );
-									}
-									else
-									{
-										var thankers	= $( 'thankers_' + pid );
-										var thankedBy	= $( 'thankedBy_' + pid );
-										var thankersBox = $( 'thankersBox_' + pid );
-										
-										var newLink	= "<a href='" + ipb.vars['base_url'] + "showuser=" + t.responseJSON['member_id'] + "' title='" + t.responseJSON['members_display_name'] + "'>" + t.responseJSON['members_display_name'] + "</a>" + "&nbsp;<a href='" + ipb.vars['base_url'] + "showuser=" + t.responseJSON['member_id'] + "' class='__user __id" + t.responseJSON['member_id'] + "' title='View Profile'><img src='http://www.livingincebuforums.com/ipb/public/style_images/comfy/user_popup.png' alt='' /></a>";
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-											
-											thankers.innerHTML = newLink;
-										}
-										else
-										{
-											ajaxThanksExpand( pid );
-											thankers.innerHTML = newLink + ", " + thankers.innerHTML;
-										}
-										
-										if ( thankersBox.getAttribute( 'title' ) == 'hidden' )
-										{
-											thankersBox.style.display = "block";
-										}
-										
-										// Update thanked by text (increment number show plural)
-										
-										if ( thankedBy.title != '0' )
-										{
-											thankedBy.innerHTML = ipb.lang['en30_thanked_by'] + ' ' + ( parseInt( thankedBy.title ) + 1 ) + ' ' + ipb.lang['en30_users'];
-										}
-										
-										// Update post content for hide hack
-										
-										if ( t.responseJSON['post'] != "" )
-										{
-											// Editless attempt to reach the post content
-
-											var postDivider = $( 'post_id_' + pid ).children[1].children[2].children[1];
-											postDivider.innerHTML = t.responseJSON['post'];
-											
-											new Effect.Pulsate( postDivider, { duration: 1.5,  pulses: 3 } );
-										}
-
-										new Effect.Pulsate( thankersBox, { pulses: 3, duration: 1.5 } );
-									}
-								}
-							}
-						);
-}
-
-</script><script type="text/javascript" src="http://www.livingincebuforums.com/ipb/public/js/squote.js"></script>
-
-
-	
-		
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="IP.Gallery Images RSS Feed" href="http://www.livingincebuforums.com/ipb/rss/gallery/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Articles" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c1-articles/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Pages" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c4-pages/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Miscellaneous" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c5-miscellaneous/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Forum Integration" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c2-forum-integration/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Frontpage" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c3-frontpage/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Databases" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c6-databases/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Templates" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c7-templates/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Articles: Media" href="http://www.livingincebuforums.com/ipb/rss/ccs/1c8-media/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Media Demo: New Features" href="http://www.livingincebuforums.com/ipb/rss/ccs/2c9-new-features/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Media Demo: Other" href="http://www.livingincebuforums.com/ipb/rss/ccs/2c10-other/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Birthday Calendar" href="http://www.livingincebuforums.com/ipb/rss/calendar/1-birthday-calendar/">
-			
-			
-			
-		
-
-			
-			
-				<link rel="alternate" type="application/rss+xml" title="Social Events Calendar" href="http://www.livingincebuforums.com/ipb/rss/calendar/2-social-events-calendar/">
-			
-			
-			
-		
-	
-
-	
-
-
-
-<!-- Forces topic photo to show without thumb -->
-	<style type="text/css">
-		.ipsUserPhoto_variable { max-width: 125px !important; }
-		
-			.post_body { margin-left: 185px !important; }
-		
-	</style>		
-		<script type="text/javascript">
-	//<![CDATA[
-		/* ---- URLs ---- */
-		ipb.vars['base_url'] 			= 'http://www.livingincebuforums.com/ipb/index.php?s=2d743eccdc9c5eae81ed863f540c332d&';
-		ipb.vars['board_url']			= 'http://www.livingincebuforums.com/ipb';
-		ipb.vars['img_url'] 			= "http://www.livingincebuforums.com/ipb/public/style_images/comfy";
-		ipb.vars['loading_img'] 		= 'http://www.livingincebuforums.com/ipb/public/style_images/comfy/loading.gif';
-		ipb.vars['active_app']			= 'core';
-		ipb.vars['upload_url']			= 'http://www.livingincebuforums.com/ipb/uploads';
-		/* ---- Member ---- */
-		ipb.vars['member_id']			= parseInt( 0 );
-		ipb.vars['is_supmod']			= parseInt( 0 );
-		ipb.vars['is_admin']			= parseInt( 0 );
-		ipb.vars['secure_hash'] 		= '880ea6a14ea49e853634fbdc5015a024';
-		ipb.vars['session_id']			= '2d743eccdc9c5eae81ed863f540c332d';
-		ipb.vars['twitter_id']			= 0;
-		ipb.vars['fb_uid']				= 0;
-		ipb.vars['auto_dst']			= parseInt( 0 );
-		ipb.vars['dst_in_use']			= parseInt(  );
-		ipb.vars['is_touch']			= false;
-		ipb.vars['member_group']		= {"g_mem_info":"0"}
-		/* ---- cookies ----- */
-		ipb.vars['cookie_id'] 			= 'LinC_forums';
-		ipb.vars['cookie_domain'] 		= '.livingincebuforums.com';
-		ipb.vars['cookie_path']			= '/ipb';
-		/* ---- Rate imgs ---- */
-		ipb.vars['rate_img_on']			= 'http://www.livingincebuforums.com/ipb/public/style_images/comfy/star.png';
-		ipb.vars['rate_img_off']		= 'http://www.livingincebuforums.com/ipb/public/style_images/comfy/star_off.png';
-		ipb.vars['rate_img_rated']		= 'http://www.livingincebuforums.com/ipb/public/style_images/comfy/star_rated.png';
-		/* ---- Uploads ---- */
-		ipb.vars['swfupload_swf']		= 'http://www.livingincebuforums.com/ipb/public/js/3rd_party/swfupload/swfupload.swf';
-		ipb.vars['swfupload_enabled']	= true;
-		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
-		ipb.vars['swfupload_debug']		= false;
-		/* ---- other ---- */
-		ipb.vars['highlight_color']     = "#ade57a";
-		ipb.vars['charset']				= "UTF-8";
-		ipb.vars['time_offset']			= "8";
-		ipb.vars['hour_format']			= "12";
-		ipb.vars['seo_enabled']			= 1;
-		
-		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"?","varPage":"page-","varSep":"&","varJoin":"="};
-		
-		/* Templates/Language */
-		ipb.templates['inlineMsg']		= "";
-		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://www.livingincebuforums.com/ipb/public/style_images/comfy/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
-		ipb.templates['close_popup']	= "<img src='http://www.livingincebuforums.com/ipb/public/style_images/comfy/close_popup.png' alt='x' />";
-		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
-		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
-		
-		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
-		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
-		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
-		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
-		
-		
-		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
-		
-		Loader.boot();
-	//]]>
-	</script>
-	<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-8143685-4', 'auto');
-  ga('send', 'pageview');
-
-</script></head>
-	<body id="ipboard_body">
-		<p id="content_jump" class="hide"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
-		<div id="ipbwrapper">
-			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
-			<div id="header_bar" class="clearfix">
-				<div class="main_width">
-					
-					<div id="user_navigation" class="not_logged_in">
-							
-							<ul class="ipsList_inline right">
-								<li>
-									<span class="services">
-										
-										
-										
-									</span>
-									&nbsp;&nbsp;&nbsp;&nbsp;
-									<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in">Sign In</a>&nbsp;&nbsp;&nbsp;
-								</li>
-								<li>
-									<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="register_link">Create Account</a>
-								</li>
-							</ul>
-						</div>
-				</div>
-			</div>
-			<!-- ::: BRANDING STRIP: Logo and search box ::: -->
-			<div id="branding">
-				<div class="main_width">
-					<div id="logo">
-						
-							<a href="http://www.livingincebuforums.com/ipb" title="Go to community index" rel="home" accesskey="1"><img src="//www.livingincebuforums.com/ipb/public/style_images/32_Untitled-6.png" alt="Logo"></a>
-						
-					</div>
-					
-						<div id="search" class="right">
-	<form action="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=search&amp;do=search&amp;fromMainBar=1" method="post" id="search-box">
-		<fieldset>
-			<label for="main_search" class="hide">Search</label>
-			<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=search&amp;search_in=core" title="Advanced Search" accesskey="4" rel="search" id="adv_search" class="right">Advanced</a>
-			<span id="search_wrap" class="right">
-				<input type="text" id="main_search" name="search_term" class="inactive" size="17" tabindex="100">
-				<span class="choice ipbmenu clickable" id="search_options" style="display: none"></span>
-				<ul id="search_options_menucontent" class="ipbmenu_content ipsPad" style="display: none">
-					<li class="title"><strong>Search section:</strong></li>
-					
-					
-					
-					<li class="app"><label for="s_forums" title="Forums"><input type="radio" name="search_app" class="input_radio" id="s_forums" value="forums">Forums</label></li>
-					<li class="app"><label for="s_members" title="Members"><input type="radio" name="search_app" class="input_radio" id="s_members" value="members">Members</label></li>
-					<li class="app"><label for="s_core" title="Help Files"><input type="radio" name="search_app" class="input_radio" id="s_core" value="core" checked="checked">Help Files</label></li>
-					
-						
-					
-
-						
-					
-
-						
-					
-
-						<li class="app">
-								<label for="s_gallery" title="Gallery">
-									<input type="radio" name="search_app" class="input_radio" id="s_gallery" value="gallery">Gallery
-								</label>
-							</li>
-					
-
-						<li class="app">
-								<label for="s_ccs" title="Pages">
-									<input type="radio" name="search_app" class="input_radio" id="s_ccs" value="ccs">Pages
-								</label>
-							</li>
-					
-
-						<li class="app">
-								<label for="s_calendar" title="Calendar">
-									<input type="radio" name="search_app" class="input_radio" id="s_calendar" value="calendar">Calendar
-								</label>
-							</li>
-					
-
-						
-					
-
-						<li class="app">
-								<label for="s_links" title="Links">
-									<input type="radio" name="search_app" class="input_radio" id="s_links" value="links">Links
-								</label>
-							</li>
-					
-
-						
-					
-
-						
-					
-
-						
-					
-
-						
-					
-
-						
-					
-
-						
-					
-
-						
-					
-				</ul>
-				<input type="submit" class="submit_input clickable" value="Search">
-			</span>
-			
-		</fieldset>
-	</form>
-</div>
-					
-				</div>
-			</div>
-			<!-- ::: APPLICATION TABS ::: -->
-			<div id="primary_nav" class="clearfix">
-				<div class="main_width">
-					<ul class="ipsList_inline" id="community_app_menu">
-						
-							<li class="right">
-								<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=core" rel="quickNavigation" accesskey="9" id="quickNavLaunch" title="Open Quick Navigation"><span>&nbsp;</span></a>
-							</li>
-						
-						<li id="nav_explore" class="right">
-							<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums" accesskey="2" title="View New Content">View New Content</a>
-						</li>
-						
-						
-								
-		
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_forums" class="left "><a href="http://www.livingincebuforums.com/ipb/index" title="Go to Forums">Forums</a></li>
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_members" class="left "><a href="http://www.livingincebuforums.com/ipb/members/" title="Go to Members">Members</a></li>
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_gallery" class="left "><a href="http://www.livingincebuforums.com/ipb/gallery/" title="Go to Gallery">Gallery</a></li>
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_calendar" class="left "><a href="http://www.livingincebuforums.com/ipb/calendar/" title="Go to Calendar">Calendar</a></li>
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_links" class="left "><a href="http://www.livingincebuforums.com/ipb/links/" title="Go to Links">Links</a></li>
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_subscriptions" class="left "><a href="http://www.livingincebuforums.com/ipb/subscriptions/" title="Go to Subscriptions">Subscriptions</a></li>
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_quotes" class="left "><a href="http://www.livingincebuforums.com/ipb/quotes/" title="Go to Quotes">Quotes</a></li>
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			
-		
-
-			
-				
-										
-				
-			
-			<li id="nav_app_contactus" class="left "><a href="http://www.livingincebuforums.com/ipb/contactus/" title="Go to Contact Us">Contact Us</a></li>
-		
-	
-	
-		
-						
-		
-	
-						
-						<li id="nav_other_apps" style="display: none">
-							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://www.livingincebuforums.com/ipb/public/style_images/comfy/useropts_arrow2.png"></a>
-						</li>
-					</ul>
-				</div>
-			</div>	
-			
-							<div class="index_stats"><a href="http://ipbskins.ru/">Comfy Theme</a><span class="sp">© </span><a href="http://www.fisana.ru/">by Fisana</a></div><div id="corner"> 
-<div class="top-left"><div class="top-right"><div class="ttop">&nbsp;</div></div></div>
-<div class="corner-left"><div class="corner-right">
-<div id="ipbwrapper2">
-			<!-- ::: MAIN CONTENT AREA ::: -->
-			<div id="content" class="clearfix">
-				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
-				
-				<noscript>
-					<div class='message error'>
-						<strong>Javascript Disabled Detected</strong>
-						<p>You currently have javascript disabled. Several functions may not work. Please re-enable javascript to access full functionality.</p>
-					</div>
-					<br />
-				</noscript>
-					<!-- ::: CONTENT ::: -->
-				
-					<div class="ipsAd"><center>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Cebu Forums Header -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2433308739346946" data-ad-slot="8738907625"></ins>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-36122168-2"></script>
 <script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</center>
-<br></div>
-				
-				<p style="text-align:center;"><a href="http://www.livingincebuforums.com/ipb/index.php?app=advadverts&amp;module=core&amp;section=main&amp;do=redir&amp;aid=54&amp;appReferrer=core" target="_blank"><img src="http://www.livingincebuforums.com/ipb/uploads/banners/da6bc-1395207891.jpg" style="border:0;"></a></p>
-<h2 class="ipsType_pagetitle">Privacy Policy</h2>
-<div class="row2 ipsPad" style="line-height: 1.6">
-	Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.<br>
-<br>
-Log files are maintained and analysed of all requests for files on this website's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognised by our web servers.<br>
-<br>
-<strong class="bbc">Our Commitment to Children's Privacy</strong><br>
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.<br>
-<br>
-<strong class="bbc">Cookies</strong><br>
-This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
-</div>
-				
-					<div class="ipsAd"><center>
-<br><p>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Cebu Forums Footer -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-2433308739346946" data-ad-slot="7281917882"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</p>
-</center></div>
-				
-				<ol class="breadcrumb bottom ipsList_inline left clearfix clear">
-					
-						<li>&nbsp;</li>
-					
-					
-					<li class="right ipsType_smaller">
-						<a rel="nofollow" href="http://www.livingincebuforums.com/ipb/privacypolicy/">Privacy Policy</a>
-					</li>
-					
-					<li class="right ipsType_smaller">
-							<a href="http://www.livingincebuforums.com/ipb/index.php?app=forums&amp;module=extras&amp;section=boardrules" title="Forum Rules"> Forum Rules</a> · 
-						</li>	
-				</ol>
-			</div>
-			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
-			<div id="footer_utilities" class="clearfix clear">
-				<a rel="nofollow" href="#top" id="backtotop" title="Go to top"><img src="http://www.livingincebuforums.com/ipb/public/style_images/comfy/top.png" alt=""></a>
-				<ul class="ipsList_inline left">
-					<li>
-						<img src="http://www.livingincebuforums.com/ipb/public/style_images/comfy/feed.png" alt="RSS Feed" id="rss_feed" class="clickable">
-					</li>
-					
-							
-								<li>
-									<a rel="nofollow" id="new_skin" href="#" title="Change Theme">Change Theme</a>			
-									<ul id="new_skin_menucontent" class="ipbmenu_content with_checks" style="display: none">
-										
-											<li>
-												<a href="#" data-clicklaunch="changeSkin" data-skinid="1">IP.Board Master Skin - Do Not Edit Or Delete</a>
-											</li>
-										
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-											<li class="selected">
-												<a href="#" data-clicklaunch="changeSkin" data-skinid="32">comfy (Import)</a>
-											</li>
-										
+  gtag('config', 'UA-36122168-2');
+</script>
+		
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="http://www.livingincebuforums.com/ipb/uploads/css_built_5/5e61784858ad3c11f00b5706d12afe52_ie8.css.ec8c588be968f595b79107808729cc6d.css">
+		    <script src="//www.livingincebuforums.com/ipb/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+<meta charset="utf-8">
 
-											<li>
-												<a href="#" data-clicklaunch="changeSkin" data-skinid="3">IP.Board Mobile</a>
-											</li>
-										
-									</ul>
-								</li>
-							
-					<li>
-								<a href="http://www.livingincebuforums.com/ipb/index.php?app=contactus">Contact Us</a>
-							</li>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	
+		
+			
+				<meta property="og:site_name" content="Living In Cebu Forums">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_US">
+			
+		
+	
+
+<meta name="theme-color" content="#000000">
+
+
+
+		
+
+
+	
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+	
+
+
+
+	<link rel="stylesheet" href="http://www.livingincebuforums.com/ipb/uploads/css_built_5/341e4a57816af3ba440d891ca87450ff_framework.css.5da4000c8ecf2e2c4d3046f94b4c1c62.css?v=d6884b03a8" media="all">
+
+	<link rel="stylesheet" href="http://www.livingincebuforums.com/ipb/uploads/css_built_5/05e81b71abe4f22d6eb8d1a929494829_responsive.css.09edf87c45b6c3a2fa6e2927097f67d6.css?v=d6884b03a8" media="all">
+
+	<link rel="stylesheet" href="http://www.livingincebuforums.com/ipb/uploads/css_built_5/90eb5adf50a8c640f633d47fd7eb1778_core.css.52e7c138e36ffe8de27b4c8377c8e97f.css?v=d6884b03a8" media="all">
+
+	<link rel="stylesheet" href="http://www.livingincebuforums.com/ipb/uploads/css_built_5/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.a53df7262e94c526ee253c97a74f2dd0.css?v=d6884b03a8" media="all">
+
+
+
+
+<link rel="stylesheet" href="http://www.livingincebuforums.com/ipb/uploads/css_built_5/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.4291edb10bd1409ea4b8f96adeb96606.css?v=d6884b03a8" media="all">
+
+
+
+		
+		
+
+	</head><body class="ipsApp ipsApp_front ipsJS_none ipsClearfix ipsLayout_minimal" data-controller="core.front.core.app" data-message="" data-pageapp="core" data-pagelocation="front" data-pagemodule="system" data-pagecontroller="privacy"><a href="#elContent" class="ipsHide" title="Go to main content on this page" accesskey="m">Jump to content</a>
+		
+		<div id="ipsLayout_header" class="ipsClearfix">
+			
+
+			
+
+
+			
+			<header><div class="ipsLayout_container">
 					
-					<li>
-						<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6">Help</a>
-					</li>				
-				</ul>
-				<!-- Copyright Information -->
-        				  <p id="copyright">
-        				  	<a href="http://www.invisionpower.com/apps/board/" title="Community Forum Software by Invision Power Services">Community Forum Software by IP.Board</a><br>Licensed to: Living In Cebu Forums / Woody Paul Petrea</p>
-		<!-- / Copyright -->
-			</div>
-<div class="foot"><span class="left"><img src="http://www.livingincebuforums.com/ipb/public/style_images/comfy/pic.png" alt=""></span><span class="right">Copyright © 2016 Living In Cebu Forums / Woody Paul Petrea</span></div>
-</div></div></div> 
-<div class="bottom-left"><div class="bottom-right"><div class="bott">&nbsp;</div></div></div> 
-</div><br>
-			
-			
-			
-				<script type="text/javascript">
-					ipb.global.lightBoxIsOff();
-				</script>
-			
-			<div id="inline_login_form" style="display:none">
-		<form action="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=global&amp;section=login&amp;do=process" method="post" id="login">
-				<input type="hidden" name="auth_key" value="880ea6a14ea49e853634fbdc5015a024">
-				<input type="hidden" name="referer" value="http://www.livingincebuforums.com/ipb/privacypolicy/">
-				<h3>Sign In</h3>
-				
-				<br>
-				<div class="ipsForm ipsForm_horizontal">
-					<fieldset>
-						<ul>
-							<li class="ipsField">
-								<div class="ipsField_content">
-									Need an account? <a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=global&amp;section=register" title="Register now!">Register now!</a>
-								</div>
-							</li>
-							<li class="ipsField ipsField_primary">
-								<label for="ips_username" class="ipsField_title">Username or email:</label>
-								<div class="ipsField_content">
-									<input id="ips_username" type="text" class="input_text" name="ips_username" size="30" tabindex="0">
-								</div>
-							</li>
-							<li class="ipsField ipsField_primary">
-								<label for="ips_password" class="ipsField_title">Password</label>
-								<div class="ipsField_content">
-									<input id="ips_password" type="password" class="input_text" name="ips_password" size="30" tabindex="0"><br>
-									<a href="http://www.livingincebuforums.com/ipb/index.php?app=core&amp;module=global&amp;section=lostpass" title="Retrieve password">I've forgotten my password</a>
-								</div>
-							</li>
-							<li class="ipsField ipsField_checkbox">
-								<input type="checkbox" id="inline_remember" checked="checked" name="rememberMe" value="1" class="input_check" tabindex="0">
-								<div class="ipsField_content">
-									<label for="inline_remember">
-										<strong>Remember me</strong><br>
-										<span class="desc lighter">This is not recommended for shared computers</span>
-									</label>
-								</div>
-							</li>
-							
-								<li class="ipsField ipsField_checkbox">
-									<input type="checkbox" id="inline_invisible" name="anonymous" value="1" class="input_check" tabindex="0">
-									<div class="ipsField_content">
-										<label for="inline_invisible">
-											<strong>Sign in anonymously</strong><br>
-											<span class="desc lighter">Don't add me to the active users list</span>
-										</label>
-									</div>
-								</li>
-							
-							
-							<li class="ipsPad_top ipsForm_center desc ipsType_smaller">
-								<a rel="nofollow" href="http://www.livingincebuforums.com/ipb/privacypolicy/">Privacy Policy</a>
-							</li>
-							
-						</ul>
-					</fieldset>
+
+
+<a href="http://www.livingincebuforums.com/ipb/" id="elLogo" accesskey="1"><img src="http://www.livingincebuforums.com/ipb/uploads/monthly_2017_07/logo1h.png.4a5a4b8bd6481b94534e6c34a33be17f.png" alt="Living In Cebu Forums"></a>
+
 					
-					<div class="ipsForm_submit ipsForm_center">
-						<input type="submit" class="ipsButton" value="Sign In" tabindex="0">
-					</div>
 				</div>
-			</form>
-	</div>
+			</header>
+			
+
+	<nav>
+		<div class="ipsLayout_container">
+			<div class="ipsNavBar_primary ipsNavBar_noSubBars ipsClearfix">
+				<a id="elBackHome" href="http://www.livingincebuforums.com/ipb/" title="Go to the community homepage"><i class="fa fa-angle-left"></i> Community Home</a>
+			</div>
 		</div>
+	</nav>
+
+		</div>
+		<main id="ipsLayout_body" class="ipsLayout_container"><div id="ipsLayout_contentArea">
+				<div id="ipsLayout_contentWrapper">
+					
+<nav class="ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover">
+	
+
+	<ul class="ipsList_inline ipsPos_right">
 		
-		<script type="text/javascript">
-			if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
-		</script>
+		<li>
+			<a data-action="defaultStream" class="ipsType_light " href="http://www.livingincebuforums.com/ipb/discover/unread/"><i class="icon-newspaper"></i> <span>Unread Content</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href="http://www.livingincebuforums.com/ipb/">
+				<span><i class="fa fa-home"></i> Home <i class="fa fa-angle-right"></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					Privacy Policy
+				
+			</li>
+		
+	</ul>
+</nav>
+					
+					<div id="ipsLayout_mainArea">
+						<a id="elContent"></a>
+						<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LINC Banner1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6615112645810063" data-ad-slot="2462774050" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+						
+						
+						
+
+	<div class="cWidgetContainer " data-role="widgetReceiver" data-orientation="horizontal" data-widgetarea="header">
+		<ul class="ipsList_reset">
+			
+				
+					
+					<li class="ipsWidget ipsWidget_horizontal ipsBox" data-blockid="app_core_announcements_announcements" data-blockconfig="true" data-blocktitle="Announcements" data-blockerrormessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller="core.front.widgets.block">
+<h3 class="ipsType_reset ipsWidget_title">Announcements</h3>
+<div class="ipsWidget_inner">
+	
+		<ul class="ipsList_reset ipsPad">
+			
+				<li class="ipsPhotoPanel ipsPhotoPanel_tiny cAnnouncement ipsClearfix">
+					
 
 
-<!--		
+	<a href="http://www.livingincebuforums.com/ipb/profile/1-paul/" data-ipshover="" data-ipshover-target="http://www.livingincebuforums.com/ipb/profile/1-paul/?do=hovercard" class="ipsUserPhoto ipsUserPhoto_tiny" title="Go to Paul's profile">
+		<img src="http://www.livingincebuforums.com/ipb/uploads/monthly_2017_07/honey_bee.thumb.gif.dc1e7558fea4f81da6e066ac2187841e.gif" alt="Paul">
+	</a>
 
-<p style="text-align:center;"><a href='http://www.livingincebuforums.com/ipb/index.php?app=advadverts&module=core&section=main&do=redir&aid=22&appReferrer=core' ><img src='http://www.livingincebuforums.com/ipb/uploads/banners/364c6-1323777025.jpg' style='border:0;' /></a></p>	
+					<div>
+						
+							<h4 class="ipsType_large ipsType_reset">
+								<a href="http://www.livingincebuforums.com/ipb/announcement/25-new-members-click-here/">New Members: Click Here</a> &nbsp;&nbsp;<span class="ipsType_light ipsType_medium ipsType_unbold">03/09/2017</span>
+							</h4>							
+												
+						<div class="ipsType_medium ipsType_textBlock ipsType_richText ipsContained" data-ipstruncate="" data-ipstruncate-type="remove" data-ipstruncate-size="2 lines" data-ipstruncate-watch="false">
+								Hello. If you are a new member, and feel a bit apprehensive about posting in the "open" forums, or, just wish to get your "sea legs" prior to posting in the open forums, feel free to post anything you wish to talk about, in the Newbies Forum. No one will bother you, or give you any sort of grief. Everyone there is&nbsp;happy to help you get answers to your questions.
+ 
+						</div>
+					</div>
+				</li>
+			
+		</ul>
+	
+</div></li>
+				
+			
+		</ul>
+	</div>
+
+						
 
 
-</body>
-</html>--></body></html>
+<div class="ipsPageHeader ipsClearfix ipsSpacer_bottom">
+	<h1 class="ipsType_pageTitle">Privacy Policy</h1>
+	
+</div>
+<div class="ipsType_normal ipsType_richText ipsPad">
+	<div style="color:#616161;">
+	<p style="text-align:justify;">
+		Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our forum's footer and at every point where personally identifiable information may be requested.
+	</p>
+
+	<p style="text-align:justify;">
+		This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with Living In Cebu Forums.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>What personal information do we collect from the people that visit our forum?</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		When ordering subscriptions or registering on our forum, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>When do we collect information?</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		We collect information from you when you register on our forum, subscribe to a newsletter, fill out a form, open a Support ticket or enter information on our forum to provide us with feedback on our services.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>How do we use your information?</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		We may use the information we collect from you when you register, sign up for our newsletter, respond to a marketing communication, surf the forum, or use certain other forum features in the following ways:
+	</p>
+
+	<ul><li style="text-align:justify;">
+			To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+		</li>
+		<li style="text-align:justify;">
+			To improve our forum in order to better serve you.
+		</li>
+		<li style="text-align:justify;">
+			To allow us to better service you in responding to your customer service requests.
+		</li>
+		<li style="text-align:justify;">
+			To send periodic emails regarding your services.
+		</li>
+		<li style="text-align:justify;">
+			To follow up with them after correspondence (live chat, email or phone inquiries).
+		</li>
+	</ul><p style="text-align:justify;">
+		<strong>How do we protect your information?</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		Under data protection law, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorized access. Your information is stored in a database on our secure web server. We use regular Malware Scanning of our forum/web server to ensure PCI standards. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply during login is encrypted via Secure Socket Layer (SSL) technology.
+	</p>
+
+	<p style="text-align:justify;">
+		We only provide articles and information. We implement a variety of security measures when a user submits, or accesses their information to maintain the safety of your personal information. We never ask for your credit card information.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Protection through forum software:</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		We use a paid licensed forum software from IPS Inc Ltd, US (Invision Power Services) which is the most secure and globally renowned forum software over the internet. We do NOT use any Nulled/Warez/Cracked softwares/applications/plugins that may breach the forum's security or leech your identity/information.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Do we use 'cookies'?</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. They are used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about forum's traffic and site interaction so that we can offer better site experiences and tools in the future.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>We use cookies to:</strong>
+	</p>
+
+	<ul><li style="text-align:justify;">
+			Understand and save user's preferences for future visits.
+		</li>
+		<li style="text-align:justify;">
+			Keep track of advertisements.
+		</li>
+		<li style="text-align:justify;">
+			Compile aggregate data about forum traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services such as Google that track this information on our behalf.
+		</li>
+		<li style="text-align:justify;">
+			You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since the browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. If you turn cookies off, some of the forum features might be disabled that make your site experience more efficient and may not function properly. However, you will still be able to log in, access user preferences - or in case otherwise, enquire about by contacting customer service.
+		</li>
+	</ul><p style="text-align:justify;">
+		<strong>Third-party disclosure:</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		We do NOT at any cost - sell, trade, rent or otherwise transfer your Personally Identifiable Information to outside parties.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Government requests for member's data:</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		Living In Cebu Forums, under&nbsp;data protection law, is required to share customer data when it receives valid legal process from a government agency with jurisdiction. We review each request very carefully to ensure that the government is entitled to the data they seek with the level of the process they have obtained. Where appropriate, we also negotiate with the requesting agency to narrow the scope of the data sought.
+	</p>
+
+	<p style="text-align:justify;">
+		We stand with our users when a government agency asks us for data. We don’t voluntarily cooperate with authorities unless either legally compelled to do so, or in the case of imminent harm emergencies. We have processes in place to closely scrutinize law enforcement requests, and we disregard when something is not right. We will notify forum members of government requests for their information (unless we are prohibited by the law from doing so), and we give our forum members time to legally challenge or quash the request whenever possible.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Third-party links:</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		Occasionally, at our discretion, we may include or offer third-party products or services on our forum. These third-party sites such as Google, Facebook, Twitter, Viglink etc have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>California Online Privacy Protection Act (US):</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		CalOPPA is the first state law in the US to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared.
+	</p>
+
+	<p style="text-align:justify;">
+		According to CalOPPA, we agree to the following:
+	</p>
+
+	<ul><li style="text-align:justify;">
+			Users can visit our site anonymously.
+		</li>
+		<li style="text-align:justify;">
+			Once this privacy policy is created, we will add a link to it on our homepage or as a minimum, on the first significant page after entering our website.
+		</li>
+		<li style="text-align:justify;">
+			Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
+		</li>
+	</ul><p style="text-align:justify;">
+		<strong>Changes to Personal Information:</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		You may change your personal information:
+	</p>
+
+	<ul><li style="text-align:justify;">
+			By emailing us
+		</li>
+		<li style="text-align:justify;">
+			By logging in to your account
+		</li>
+		<li style="text-align:justify;">
+			By chatting with us or by sending us a support ticket
+		</li>
+	</ul><p style="text-align:justify;">
+		<strong>How does our site handle Do Not Track signals?</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>COPPA (Children Online Privacy Protection Act)</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. In this regard, we do NOT market to children under the age of 13 years old. Moreover, we never collect or maintain information at our forum from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Fair Information Practices</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		The Fair Information Practices Principles form the backbone of privacy law and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. In order to be in line with Fair Information Practices, we will take the following responsive action, should a data breach occur:
+	</p>
+
+	<ul><li style="text-align:justify;">
+			We will notify you via email within 1 business day.
+		</li>
+		<li style="text-align:justify;">
+			We will notify the users via in-site notification within 1 business day.
+		</li>
+	</ul><p style="text-align:justify;">
+		We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>CAN SPAM</strong><strong> Act</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. We collect your email address in order to:
+	</p>
+
+	<ul><li style="text-align:justify;">
+			Send information, respond to inquiries, and/or other requests or questions
+		</li>
+		<li style="text-align:justify;">
+			Send you additional information related to your product and/or service.
+		</li>
+		<li style="text-align:justify;">
+			Send you notifications you have opted for or about the content you are following or mentioned/participated therein.
+		</li>
+	</ul><p style="text-align:justify;">
+		To be in accordance with CANSPAM, we agree to the following:
+	</p>
+
+	<ul><li style="text-align:justify;">
+			Not use false or misleading subjects or email addresses.
+		</li>
+		<li style="text-align:justify;">
+			Identify the message as an advertisement in some reasonable way.
+		</li>
+		<li style="text-align:justify;">
+			Include the physical address of our business or forum.
+		</li>
+		<li style="text-align:justify;">
+			Honor opt-out/unsubscribe requests quickly.
+		</li>
+		<li style="text-align:justify;">
+			Allow users to unsubscribe by using the link at the bottom of each email.
+		</li>
+	</ul><p style="text-align:justify;">
+		If at any time you would like to unsubscribe from receiving future emails, you can contact us via forum's Contact Us form located at the bottom of every page or follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondences.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Log Files</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		Log files are maintained and analyzed of all requests for files on this forums's web servers. Log files do not capture personal information but do capture the user's IP address, which is automatically recognized by our web server.
+	</p>
+
+	<p style="text-align:justify;">
+		<strong>Changes to Privacy Policy</strong>
+	</p>
+
+	<p style="text-align:justify;">
+		You will be notified of any Privacy Policy changes on our Privacy Policy page and/or by notifications.
+	</p>
+</div>
+	
+</div>
+
+						
+
+					</div>
+					
+
+
+					
+<nav class="ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover">
+	
+		
+
+
+	
+
+	<ul class="ipsList_inline ipsPos_right">
+		
+		<li>
+			<a data-action="defaultStream" class="ipsType_light " href="http://www.livingincebuforums.com/ipb/discover/unread/"><i class="icon-newspaper"></i> <span>Unread Content</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href="http://www.livingincebuforums.com/ipb/">
+				<span><i class="fa fa-home"></i> Home <i class="fa fa-angle-right"></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					Privacy Policy
+				
+			</li>
+		
+	</ul>
+</nav>
+				</div>
+			</div>
+			
+		</main><!-- SCROLL TO TOP -->
+<div class="scroll-top-wrapper">
+   <span class="scroll-top-inner"><i class="fa fa-2x fa-arrow-circle-up"></i></span>
+</div>
+<footer id="ipsLayout_footer" class="ipsClearfix"><div class="ipsLayout_container">
+				<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LINC Banner1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6615112645810063" data-ad-slot="2462774050" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+				
+
+<ul class="ipsList_inline ipsType_center" id="elFooterLinks">
+
+	
+	
+	
+	
+		<li>
+			<a href="#elNavTheme_menu" id="elNavTheme" data-ipsmenu="" data-ipsmenu-above="">Theme <i class="fa fa-caret-down"></i></a>
+			<ul id="elNavTheme_menu" class="ipsMenu ipsMenu_selectable ipsHide">
+			
+				
+					<li class="ipsMenu_item">
+						<form action="http://www.livingincebuforums.com/ipb/theme/?csrfKey=e797d0b4c2a4161ae26b8cc8a5c462d8" method="post">
+						<button type="submit" name="id" value="1" class="ipsButton ipsButton_link">IPS Default </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class="ipsMenu_item ipsMenu_itemChecked">
+						<form action="http://www.livingincebuforums.com/ipb/theme/?csrfKey=e797d0b4c2a4161ae26b8cc8a5c462d8" method="post">
+						<button type="submit" name="id" value="5" class="ipsButton ipsButton_link">OldSchoolV4 (Default)</button>
+						</form>
+					</li>
+				
+			
+			</ul>
+		</li>
+	
+	
+		<li><a href="http://www.livingincebuforums.com/ipb/privacy/">Privacy Policy</a></li>
+	
+	
+		<li><a href="http://www.livingincebuforums.com/ipb/contact/" data-ipsdialog="" data-ipsdialog-flashmessage="Thanks, your message has been sent to the administrators." data-ipsdialog-remotesubmit="" data-ipsdialog-title="Contact Us">Contact Us</a></li>
+	
+ <li> Copyright-Theme By <a href="http://tppthemes.info/">TPP Themes</a> </li>
+</ul>	
+
+
+
+<p id="elCopyright">
+	<span id="elCopyright_userLine">© Living in Cebu Forums </span>
+	<a rel="nofollow" title="Invision Community" href="https://www.invisioncommunity.com/">Powered by Invision Community</a>
+</p>
+			</div>
+		</footer>
+		
+		
+
+	<script type="text/javascript">
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//www.livingincebuforums.com/ipb/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/ipb/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: false,
+			
+			upload_imgURL: "http://www.livingincebuforums.com/ipb/uploads/set_resources_5/0cb563f8144768654a2205065d13abd6_upload.png",
+			message_imgURL: "http://www.livingincebuforums.com/ipb/uploads/set_resources_5/0cb563f8144768654a2205065d13abd6_message.png",
+			notification_imgURL: "http://www.livingincebuforums.com/ipb/uploads/set_resources_5/0cb563f8144768654a2205065d13abd6_notification.png",
+			baseURL: "//www.livingincebuforums.com/ipb/",
+			jsURL: "//www.livingincebuforums.com/ipb/applications/core/interface/js/js.php",
+			csrfKey: "e797d0b4c2a4161ae26b8cc8a5c462d8",
+			antiCache: "d6884b03a8",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			analyticsProvider: "ga",
+			viewProfiles: true,
+			
+		};
+	</script>
+
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_global/root_library.js.fd964a71c59ea38674a3501cb631abe3.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_global/root_js_lang_1.js.1821ed4bb41dce833a1ea1198878537f.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_global/root_framework.js.8e7c159d564e3827064fac0b6000ce68.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_core/global_global_core.js.e6ae496794e461e7fafbf0b5da04edca.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_core/plugins_plugins.js.090469dfba19f20e714308ee19ed7fef.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_global/root_front.js.357b4003df20e7813221638fd6322448.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_core/front_app.js.dfbb2effbb64cac692c42d7e3bb1a0f3.js?v=d6884b03a8" data-ips=""></script>
+
+
+<script type="text/javascript" src="http://www.livingincebuforums.com/ipb/uploads/javascript_global/root_map.js.f2f00d22b36563cbc89fcee603c27d95.js?v=d6884b03a8" data-ips=""></script>
+
+
+
+	<script type="text/javascript">
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('1') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"black"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+		
+	</script>
+
+
+
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": "WebSite",
+    "name": "Living In Cebu Forums",
+    "url": "http://www.livingincebuforums.com/ipb/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "http://www.livingincebuforums.com/ipb/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "name": "Living In Cebu Forums",
+    "url": "http://www.livingincebuforums.com/ipb/",
+    "logo": "http://www.livingincebuforums.com/ipb/uploads/monthly_2017_07/logo1h.png.4a5a4b8bd6481b94534e6c34a33be17f.png",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": null,
+        "addressRegion": null,
+        "postalCode": null,
+        "addressCountry": null
+    }
+}	
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": []
+}	
+</script>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "url": "http://www.livingincebuforums.com/ipb/contact/"
+}	
+</script>
+
+
+		
+		
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+	
+
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+
+
+<script>
+  
+var link = "http://www.livingincebuforums.com/ipb/privacy/";
+var msg_bg_color = "#a69473";
+var msg_text_color = "#ffffff";
+var button_bg_color = "#73664f";
+var button_text_color = "#ffffff";
+var style;
+var position;
+var message;
+var learnMore = "Learn More";
+var dismiss = "Got it!";
+  
+ 
+if (0 == 0) {
+	style = "block";
+}
+if (0 == 1) {
+	style = "classic";
+}
+if (0 == 2) {
+	style = "edgeless";
+}
+  
+if (2 == 0) {
+	position = "bottom";
+}
+if (2 == 1) {
+	position = "top";
+}
+if (2 == 2) {
+	position = "top";
+}
+if (2 == 3) {
+	position = "bottom-left";
+}
+if (2 == 4) {
+	position = "bottom-right";
+}
+
+if (0 == 0) {
+    message = "This website uses cookies to ensure you get the best experience on our website."
+    } else {
+    message =  "This website uses cookies to ensure you get the best experience on our website."
+}
+
+  
+if (2 != 2) {
+if (link != "")
+{
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": ''+msg_bg_color+'',
+      "text": ''+msg_text_color+''
+    },
+    "button": {
+      "background": ''+button_bg_color+'',
+      "text": ''+button_text_color+''
+    }
+  },
+   "theme": ''+style+'',
+  "position": ''+position+'',
+  "content": {
+    "message": ''+message+'',
+    "dismiss": ''+dismiss+'',
+    "link": ''+learnMore+'',
+    "href": ''+link+''
+  }
+
+})});
+}
+else {
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": ''+msg_bg_color+'',
+      "text": ''+msg_text_color+''
+    },
+    "button": {
+      "background": ''+button_bg_color+'',
+      "text": ''+button_text_color+''
+    }
+  },
+  "showLink": false,
+   "theme": ''+style+'',
+  "position": ''+position+'',
+    "content": {
+    "message": ''+message+'',
+    "dismiss": ''+dismiss+'',
+    "link": ''+learnMore+''
+  }
+
+})});
+}
+
+}
+  else {
+if (link != "")
+{
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": ''+msg_bg_color+'',
+      "text": ''+msg_text_color+''
+    },
+    "button": {
+      "background": ''+button_bg_color+'',
+      "text": ''+button_text_color+''
+    }
+  },
+   "theme": ''+style+'',
+  "position": ''+position+'',
+    "static": true,
+  "content": {
+    "message": ''+message+'',
+    "dismiss": ''+dismiss+'',
+    "link": ''+learnMore+'',
+    "href": ''+link+''
+  }
+
+})});
+}
+else {
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": ''+msg_bg_color+'',
+      "text": ''+msg_text_color+''
+    },
+    "button": {
+      "background": ''+button_bg_color+'',
+      "text": ''+button_text_color+''
+    }
+  },
+  "showLink": false,
+   "theme": ''+style+'',
+  "position": ''+position+'',
+  "static": true,
+    "content": {
+    "message": ''+message+'',
+    "dismiss": ''+dismiss+'',
+    "link": ''+learnMore+''
+  }
+
+})});
+}
+    
+}
+
+
+</script>
+
+
+
+
+</body></html>
