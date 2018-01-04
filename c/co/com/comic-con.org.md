@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comic-con.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119165332id_/https%3A//www.comic-con.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comic-con.org privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104045742id_/https%3A//www.comic-con.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Comic-Con International: San Diego
 
