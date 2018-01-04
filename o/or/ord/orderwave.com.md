@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderwave.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129211824id_/http%3A//orderwave.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderwave.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104020738id_/http%3A//orderwave.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Orderwave
 
