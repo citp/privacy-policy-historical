@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinyshiny.tv privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103223944id_/http%3A//www.shinyshiny.tv/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinyshiny.tv privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104193618id_/https%3A//www.shinyshiny.tv/cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - ShinyShiny
 
@@ -68,13 +68,13 @@ Please quote your name and address. We should be grateful if you would also pro
 We will require proof of your identity before providing you with details of any personal information we may hold about you. We may  
 charge a fee of £10 to cover the administration costs involved in providing you with a copy of your information.
 
-You can opt out of receiving information from us at any time and we will promptly deal with your request. You can unsubscribe by either clicking the ‘Unsubscribe’ link at the bottom of the email you receive, emailling [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1970777f76596a71707760747c7d7078377a7674) with ‘UNSUBSCRIBE’ in the subject line or writing to us at 20-22 Stukeley St, London, WC2B 5LR.
+You can opt out of receiving information from us at any time and we will promptly deal with your request. You can unsubscribe by either clicking the ‘Unsubscribe’ link at the bottom of the email you receive, emailling [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcb5b2bab39cafb4b5b2a5b1b9b8b5bdf2bfb3b1) with ‘UNSUBSCRIBE’ in the subject line or writing to us at 20-22 Stukeley St, London, WC2B 5LR.
 
  **Cookies**
 
 Pieces of information transferred to your computer’s hard disk from a blog are known as cookies. They allow our Blog to store information about your browsing patterns, making the Blog more useful to you. They may be placed by us or a third party to collect information in the course of ads being served on our sites. Many major sites use cookies: in fact, they are commonly used throughout the Internet to offer personalised services. Most browsers are automatically set to accept cookies. Each time you use our Blog, the cookie is accessed. This way, we can track the features you use and the pages and content that you view on the Blog to help personalise your experience. The information we collect will not be associated with any personally identifying information. Where you are allocated log-in details, we may also use cookies (but only if you so choose) to let you automatically log-in to the Blog so that you do not have to re-enter your email and/or password each time you visit. You may disable cookie support on your browser but be aware that by doing so, you may lose certain features that require a cookie to work properly. We may use the information collected by the cookie to provide us with various statistics without identifying any individual.
 
-Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b0d9ded6dff0c3d8d9dec9ddd5d4d9d19ed3dfdd) if you require information about disabling any cookies on the Blog.
+Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec85828a83ac9f84858295818988858dc28f8381) if you require information about disabling any cookies on the Blog.
 
  **Your consent and changes to this Privacy Policy**
 
@@ -94,4 +94,4 @@ We recommend that you check the policy of each site you visit and contact the o
 
  **Further information**
 
-For further information from us on data protection and privacy or any requests concerning your personal information please write to Shiny Media, 20-22 Stukeley St, London WC2B 5LR. or email us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#234a4d454c63504b4a4d5a4e46474a420d404c4e)
+For further information from us on data protection and privacy or any requests concerning your personal information please write to Shiny Media, 20-22 Stukeley St, London WC2B 5LR. or email us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86efe8e0e9c6f5eeefe8ffebe3e2efe7a8e5e9eb)
