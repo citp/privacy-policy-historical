@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cachorrona.org privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930153014id_/http%3A//ww43.cachorrona.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cachorrona.org privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104095947id_/http%3A//ww43.cachorrona.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
