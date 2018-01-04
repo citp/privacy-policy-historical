@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gogru.in privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogru.in privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Gogru.in App & Website
 
 |  |  [](http://www.gogru.in/) |  |   
 ---|---|---|---  
-[Home](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/) | [News](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/news/) | [Dating](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/dating/) | [Ecards](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/ecards/) | [Games](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/games/) | [Send Free SMS](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/dating/sendfreesms.php)  
+[Home](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/) | [News](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/news/) | [Dating](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/dating/) | [Ecards](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/ecards/) | [Games](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/games/) | [Send Free SMS](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/dating/sendfreesms.php)  
 ---|---|---|---|---|---  
-[Videos](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/videos.php) | [Hollywood Celebs Pictures](http://www.hcelebs.net/ "Hollywood Celebs Pictures") | [SMS Collection](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/invite.php) | [Search Friends](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/dating/onlineprofiles.php)  
+[Videos](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/videos.php) | [Hollywood Celebs Pictures](http://www.hcelebs.net/ "Hollywood Celebs Pictures") | [SMS Collection](http://www.favoritesms.com/) | [Invite Friends](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/invite.php) | [Search Friends](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/dating/searchbyname.php) | [Online Profiles](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/dating/onlineprofiles.php)  
 ---|---|---|---|---|---  
 ****   
 
@@ -160,5 +160,5 @@ You can also send us email at: [info@gogru.in](mailto:info@gogru.in)
 ---|---  
   
   
-[Cars Pictures](http://www.mastcars.com/ "Cars Pictures") | [Movies](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/movies) | [Quick Email](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20171103211917id_/http%3A//www.gogru.in/home/wallpapers/) | [Lost Monuments](http://www.lostmonuments.com/ "Lost Monuments")  
+[Cars Pictures](http://www.carphotos.in/ "Cars Pictures") | [Movies](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/movies) | [Quick Email](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/dating/quickemail.php) | [Love Cafe](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/dating/lovecafe.php) | [Wallpapers](https://web.archive.org/web/20180104230920id_/http%3A//www.gogru.in/home/wallpapers/) | [Lost Monuments](http://www.lostmonuments.com/ "Lost Monuments")  
 ---|---|---|---|---|---
