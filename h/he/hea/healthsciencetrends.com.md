@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthsciencetrends.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103192027id_/http%3A//healthsciencetrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthsciencetrends.com privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104042732id_/http%3A//healthsciencetrends.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Health Science Trends
 
