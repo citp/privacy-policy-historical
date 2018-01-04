@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3locker.net privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103231159id_/http%3A//ww43.mp3locker.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3locker.net privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104043123id_/http%3A//ww43.mp3locker.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
