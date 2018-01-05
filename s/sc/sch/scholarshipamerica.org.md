@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190938id_/https%3A//scholarshipamerica.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2018-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180105025049id_/https%3A//scholarshipamerica.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scholarship America
 
