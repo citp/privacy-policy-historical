@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105161117id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2018-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180105033901id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
 
 # Survey4checks.com
 
