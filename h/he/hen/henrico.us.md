@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208130837id_/http%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.us privacy policy that was archived on 2018-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180105083812id_/https%3A//henrico.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - County of Henrico, Virginia
 
@@ -27,7 +27,7 @@ Our site offers several online services, where users can submit forms to various
 
 The County of Henrico does not sell or market such information in any way, to anyone. The County of Henrico will disclose such information to third parties only when required to do so by law enforcement.
 
-Please be aware that information submitted through this website may be considered a public record subject to release by the County in response to a request made under the [Virginia Freedom of Information Act](http://www.vita.virginia.gov/about/default.aspx?id=311).
+Please be aware that information submitted through this website may be considered a public record subject to release by the County in response to a request made under the [Virginia Freedom of Information Act](http://www.vita.virginia.gov/about/).
 
 GIS and other location-aware apps may use, only with your express permission, your geographical information to improve the functionality of the application. You may have seen this kind of location warning if you have a smartphone and have used on it any app that asks, “(This app) would like to use your current location,” and you accept or decline. If you decline, your location is not available in that application.
 
