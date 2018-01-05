@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vxchnge.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105152658id_/http%3A//www.vxchnge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vxchnge.com privacy policy that was archived on 2018-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180105042608id_/https%3A//www.vxchnge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - vxchnge
 
