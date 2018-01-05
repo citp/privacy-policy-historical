@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123163045id_/http%3A//thechronicleherald.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicleherald.ca privacy policy that was archived on 2018-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180106004029id_/http%3A//thechronicleherald.ca/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Chronicle Herald
 
