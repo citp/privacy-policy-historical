@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629160651id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2018-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180106004219id_/https%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ASX
 
