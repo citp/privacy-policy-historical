@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolvillehub.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204144103id_/https%3A//www.coolvillehub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolvillehub.com privacy policy that was archived on 2018-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180106032459id_/https%3A//www2.coolvillehub.com/privacy) for the most accurate reproduction.*
 
 # coolvillehub.com - Privacy Policy
 
