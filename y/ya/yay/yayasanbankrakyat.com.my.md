@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yayasanbankrakyat.com.my privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107233010id_/http%3A//www.yayasanbankrakyat.com.my/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yayasanbankrakyat.com.my privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107131601id_/http%3A//yayasanbankrakyat.com.my/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Yayasan Bank Rakyat - Privacy Policy
 
