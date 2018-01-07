@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108031725id_/http%3A//www.earthcam.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107183029id_/https%3A//www.earthcam.com/company/privacy.php) for the most accurate reproduction.*
 
 # EarthCam - Webcam Network
 
@@ -33,7 +33,7 @@ This site gives users the following options for removing their information from 
 
 1\. At the bottom of all EarthCam newsletters and advisory notices regarding new services, products and/or software upgrades, a user can elect to unsubscribe. 
 
-2\. Send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ddb3b8aaaeb1b8a9a9b8af9db8bcafa9b5bebcb0f3beb2b0e2aea8bfb7b8bea9e0a8b3aea8bfaebeafb4bfb8), re: Unsubscribe. 
+2\. Send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a444f5d59464f5e5e4f586a4f4b585e42494b470449454715595f48404f495e175f44595f4859495843484f), re: Unsubscribe. 
 
   
 EarthCam provides users with the ability to report a violation they find on EarthCam by filling out and submitting the EarthCam [Contact Us](https://web.archive.org/company/contact.php) form. 
