@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919204812id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107204443id_/https%3A//www.clintonfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clinton Foundation
 
@@ -44,7 +44,7 @@ The Foundation also collects information that may identify you (“Personal Info
 
 ##### Use of Information We Collect
 
-We use the Personal Information for the purposes for which it was collected (for example, responding to your requests, sending newsletters, administering surveys or processing donations) and the limited purposes set forth below. The Foundation will not sell the Personal Information of donors for a third party’s fundraising or marketing purposes unless the donor explicitly grants permission to do so.  The Foundation will not exchange the Personal Information of donors for a third party’s fundraising or marketing purposes if a donor opts out of allowing the Foundation to do so.  To opt out of exchanges of Personal Information for third party fundraising or marketing purposes, please send us an email at [development@clintonfoundation.org](mailto:development@clintonfoundation.org).  Further, we do not share, sell, transfer, exchange or disclose your Personal Information with third parties except in the following limited circumstances:
+We use the Personal Information for the purposes for which it was collected (for example, responding to your requests, sending newsletters, administering surveys or processing donations) and the limited purposes set forth below. The Foundation will not sell the Personal Information of donors for a third party’s fundraising or marketing purposes unless the donor explicitly grants permission to do so.  The Foundation will not exchange the Personal Information of donors for a third party’s fundraising or marketing purposes if a donor opts out of allowing the Foundation to do so.  To opt out of exchanges of Personal Information for third party fundraising or marketing purposes, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dabebfacbfb6b5aab7bfb4ae9ab9b6b3b4aeb5b4bcb5afb4bebbaeb3b5b4f4b5a8bd).  Further, we do not share, sell, transfer, exchange or disclose your Personal Information with third parties except in the following limited circumstances:
 
   * To carry out the Foundation’s mission. Specifically, we may share your e-mail or mailing address with our subsidiaries and affiliated entities, and certain third parties with whom we work, for use for a specific, limited purpose related to the Foundation’s mission and goals, which may include responding to your requests, processing donations or merchandise orders, sending newsletters, surveys, notices or content, and administering, enhancing and troubleshooting the Site and the Foundation’s other online offerings
   * With your permission to disclose the information
@@ -56,7 +56,7 @@ We use the Personal Information for the purposes for which it was collected (for
 
 ##### Control of Your Personal Information
 
-If you prefer to not share your Personal Information as described above, please email us at any time at [development@clintonfoundation.org](mailto:development@clintonfoundation.org).
+If you prefer to not share your Personal Information as described above, please email us at any time at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10747566757c7f607d757e6450737c797e647f7e767f657e747164797f7e3e7f6277).
 
 ##### Donor Disclosure
 
@@ -64,7 +64,7 @@ Please note that the Foundation is obligated to disclose all donors, which it do
 
 ##### Corrections/Updates
 
-This Site gives users the opportunity to change Personal Information previously provided to us through this Site. To do so, please send us an email at [development@clintonfoundation.org](mailto:development@clintonfoundation.org). If you have registered to receive emails from the Foundation and later change your mind, you may contact us to have your name removed from our distribution lists by sending us an email through our [Contact Page](https://www.clintonfoundation.org/about/contact-us), or by clicking the “unsubscribe” link at the bottom of every email sent from the Foundation.
+This Site gives users the opportunity to change Personal Information previously provided to us through this Site. To do so, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1b5b4a7b4bdbea1bcb4bfa591b2bdb8bfa5bebfb7bea4bfb5b0a5b8bebfffbea3b6). If you have registered to receive emails from the Foundation and later change your mind, you may contact us to have your name removed from our distribution lists by sending us an email through our [Contact Page](https://www.clintonfoundation.org/about/contact-us), or by clicking the “unsubscribe” link at the bottom of every email sent from the Foundation.
 
 ##### Transfer of Business Assets
 
@@ -102,6 +102,6 @@ We may disclose personal information when required by law or in the good-faith b
 
 ##### Contacting Us
 
-If you have any questions about this Privacy Policy, please email us at [legal@clintonfoundation.org](mailto:legal@clintonfoundation.org) or send us a message through our Contact Page. You may also contact us via mail at: The Bill, Hillary & Chelsea Clinton Foundation,1200 President Clinton Avenue, Little Rock, Arkansas 72201
+If you have any questions about this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#711d1416101d31121d181f051e1f171e041f151005181e1f5f1e0316) or send us a message through our Contact Page. You may also contact us via mail at: The Bill, Hillary & Chelsea Clinton Foundation,1200 President Clinton Avenue, Little Rock, Arkansas 72201
 
 THE USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE, INCLUDING THIS PRIVACY POLICY.
