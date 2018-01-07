@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileleadmonster.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920040326id_/http%3A//www.mobileleadmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileleadmonster.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107210648id_/http%3A//www.mobileleadmonster.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile Lead Monster
 
@@ -110,6 +110,6 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 #### Questions
 
-Any questions about this Privacy Policy should be addressed to support@mobileleadmonster.com.
+Any questions about this Privacy Policy should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 _Last Updated: July 22, 2014_
