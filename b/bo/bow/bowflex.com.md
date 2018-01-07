@@ -1,115 +1,145 @@
-> *The following text is extracted and transformed from the bowflex.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107221142id_/http%3A//www.bowflex.com/global-assets/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowflex.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107175605id_/https%3A//www.bowflex.com/global-assets/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Bowflex
 
-The Nautilus, Inc. family of Web Sites (NautilusInc.com, Nautilus.com, Bowflex.com, BowflexInternational.com, Bowflex.eu, SchwinnFitness.com, UniversalHomeFitness.com, and BowflexFriends.com) ("Sites") takes the protection and proper use of your personal information seriously. We respect your privacy, and take care to safeguard information in our possession.
+Nautilus, Inc., and our subsidiaries and affiliates (collectively, ‘we’ or ‘us’), takes the protection and proper use of your information seriously.
 
-The privacy practices of this statement apply to our services available under the domains and subdomains of Nautilus, Inc.. By visiting this or any or our Sites you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Sites. As this policy may be modified from time-to-time, you should check this Privacy Policy frequently for any such changes. Your continued access or use of our Sites shall constitute acceptance of any modifications of the Privacy Policy. Our use of information gathered or obtained at any time is subject to the Privacy Policy in effect at the time of such use.
+This Privacy Policy describes how we collect and use personal information about you when you visit our U.S. websites (including NautilusInc.com, Nautilus.com, Bowflex.com, BowflexCatalog.com, SchwinnFitness.com, UniversalHomeFitness.com, and ModMov.com), and mobile applications (collectively, “Sites”), call us on the phone, engage with us on social media, or otherwise utilize our products (including interactive equipment) and services.
 
-This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this Privacy Policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make informed decisions. By accepting the Terms of Use, visiting any of our Sites, shopping on any of our Sites, completing our surveys, participating in our sweepstakes or other incentives, responding to our e-mails, or otherwise interacting with Nautilus, Inc., you are consenting to Nautilus, Inc. practices, including the use and disclosure of any personally identifiable information you have shared with us, as described in this Privacy Policy. Finally, please note that this policy applies only to Nautilus, Inc. family of Web Sites and not to other companies' or organizations' Web sites to which we link.
+**WHAT PERSONAL INFORMATION DOES NAUTILUS, INC. GATHER?**
 
-If you have any questions about this Privacy Policy or the Site, please contact us by:
+Here are the general types of information we gather:
 
-  * Sending an e-mail to privacy@nautilus.com
-  * Sending a written request to the following address:
+INFORMATION YOU GIVE US
 
-Nautilus, Inc. Attn: Customer Service  
-17750 SE 6th Way   
-Vancouver, WA 98683
+We receive and store any information you provide to us when you complete surveys, request additional information from us, participate in a sweepstakes or other incentives, post information on our Sites, make purchases online, set up accounts, sign up to receive our newsletters or other e-mail communications, communicate by e-mail, communicate with us through a social media platform (for example Facebook, Twitter, Pinterest, Instagram), communicate with us by telephone or physical mail with our customer service, use our services or products, or otherwise interact with us. Such information may include your name, address, e-mail address, shopping interests and preferences, transaction history, information relating to the use of the Sites and services (such as exercise statistics) and other personal data ("personal information"). You can choose not to provide certain information, but then you might not be able to participate in our surveys or incentives, purchase products, or take advantage of certain Site features or services.
 
-#### A SPECIAL NOTE ABOUT CHILDREN
+If you engage with us through a social media platform those communications are governed by this Privacy Policy as well as the policy of the relevant social media platform.
 
-Our Sites are not designed or intended for use by children under 13 and comply with the provisions of the Children's On-Line Privacy Protection Act. If you are under 18, you should use our Sites only with involvement of a parent or guardian. Children under 13 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any such information from a child under 13, we will take appropriate steps to delete it.
+You may choose to provide us names or other contact information for a friend to take advantage of a referral or other program, to send them product information or gifts, or to utilize a social feature of our Sites, products or services. Subject to restrictions imposed under applicable laws and unless otherwise specified when you provide us the information, the information we collect about you and your friend may be stored and used in the ways described in this Privacy Policy.
 
-#### WHAT PERSONAL INFORMATION DOES NAUTILUS, INC. GATHER?
+We value your reviews, comments, feedback, testimonials, etc., which help us improve our services and products. By making such submissions to us, you assign your rights in the submissions to us as described in the "Submissions" section of our [Terms of Use page](http://www.bowflex.com/global-assets/legal/terms-of-use.html).
 
-The information we obtain from shoppers helps us personalize and continually improve your shopping experience at our Sites. Here are the general types of information we gather:
+INFORMATION GATHERED AUTOMATICALLY
 
-#### INFORMATION YOU GIVE US
-
-We receive and store any information you provide to us when you complete surveys, request additional information from us, participate in a sweepstakes or other incentives, post information on our Sites, make purchases online, set up accounts, sign up to receive our newsletters or other e-mail communications, communicate by e-mail, telephone or physical mail with our customer service, or otherwise interact with us. Such information may include your name, address, e-mail address, shopping interests and preferences, transaction history, and other personal data ("Personal Information"). We collect Personal Information that is reasonably necessary to comply with your requests and with our legitimate business interests. You can choose not to provide certain information, but then you might not be able to participate in our surveys or incentives, purchase products, or take advantage of certain useful Site features.
-
-#### INFORMATION GATHERED AUTOMATICALLY
-
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and "clear gifs" to obtain certain types of information when your Web browser accesses one of our Sites, or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other e-mail you may have requested.
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use technologies such as "cookies" and "clear gifs" to obtain certain types of information when your Web browser accesses one of our Sites, or when you are provided the opportunity to complete surveys, participate in a sweepstakes or other incentives, or open or respond to any newsletter or other e-mail.
 
 Briefly, "cookies" are small files that we transfer to your computer's hard drive or your Web browser memory to enable our systems to recognize your browser and to provide convenience and other features to you, such as recognizing you as an existing customer or previous Site visitor. "Clear gifs" are tiny graphics with a unique identifier, similar in function to cookies, and may be used to track the online movements of Web users or to let us know if you have opened an e-mail that we sent you.
 
-Examples of the information we collect and analyze in this manner include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your behavior on our Web site and related services, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our site or not). The cookies and clear gifs that we use do not contain and are not tied to personally identifiable information about you.
+Examples of the information we collect and analyze in this manner include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; your behavior on our Web site and related services, including the products you view or searched for, as well as the URL you come from and go to next (whether this URL is on our site or not).
 
-You are always free to decline our cookies if your browser permits, although in that case you may not be able to participate in our surveys or incentives, purchase products, or take advantage of certain useful Site features.
+You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on, and significant portions of, our Site. Also, because information we obtain may be combined, we may still be able to identify your web browser, computer or mobile device when you access our Services even if you disable cookies. Some browsers incorporate a “Do Not Track” (DNT) feature that, when turned on, signals to websites and online services that you do not wish to be tracked. Because there is not yet an accepted standard for how to respond to browser DNT signals, we do not currently respond to them. For more information about the use of cookies and how to block them, visit www.allaboutcookies.org, www.youronlinechoices.eu (Europe) or www.aboutads.info/choices (United States).
 
-#### HOW WE USE PERSONAL INFORMATION
+We may use, or permit our business partners to use, other technologies similar to cookies for the same purposes as we may use cookies.
 
-Information about Site shoppers and other users is an important part of our business and we take steps to maintain the privacy and security of such information against unauthorized access. We generally use such information for such purposes as customizing future shopping and savings opportunities for you, improving our services, and communicating with you if you have authorized such communication.
+We may collect information about your location and your mobile device, including a unique identifier for your device, when you download or use our mobile application.
 
-From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products or services we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association’s privacy standards. We do not share email addresses for this purpose. If you do not want to receive mailings from other reputable companies and prefer that we do not share any information with these companies, please send an email to privacy@nautilus.com.
+We may collect information regarding your use of products or services, including when you sign up for services to monitor or improve your workouts.
 
-#### AGGREGATED RESEARCH DATA
+**HOW WE USE AND SHARE PERSONAL INFORMATION**
 
-We produce research reports and other information and data about online shopping. Such information and data is based upon aggregated, anonymous information about hundreds of thousands of online shoppers and does not include personally identifiable information about individuals.
+GENERAL USE
 
-#### AGENTS
+We use your personal information to conduct our business and to provide you with and improve our Sites, products, services and experiences. For example, we may use your personal information for such purposes as customizing future shopping and savings opportunities for you, confirming and tracking your orders, understanding our customer demographics and preferences, improving your workout experience, and communicating with you.
 
-From time to time, we employ other companies and individuals to perform various functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+We also may combine any or all of the information that we collect or obtain.
 
-#### ONLINE FINANCING
+THIRD PARTY MARKETERS
 
-If you apply for credit on the Sites, your Personal Information may be shared with a credit agency(ies) and other parties as necessary for our business purposes in connection with such credit application. All credit decisions are subject to the policies set forth in the credit application.
+From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products or services we believe will be of interest to you. We do not share email addresses for this purpose. If you do not want to receive mailings from
 
-#### OTHER CORPORATE ENTITIES
+other reputable companies and prefer that we do not share any information with these companies, please send an email to privacy@nautilus.com.
 
-We share much of our data, including personal information about you, with our subsidiaries and joint ventures that are committed to serving you throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. Our subsidiaries and joint ventures follow privacy practices no less protective of all users than our practices described in this document, to the extent allowed by applicable law.
+Our business partners may also use cookies on our Sites for the same general purposes identified in this Privacy Policy, including to improve their own marketing, products or services. Third parties may use cookies and other technologies to collect information about your online activities over time and across different websites. Companies that we share information with may use the information we provide to them, often in combination with their existing information, to provide you with more relevant advertising. You may opt out of receiving personalized advertisements from advertising companies that are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting http://www.networkadvertising.org/choices and http://www.aboutads.info/choices. We do not guarantee that all of the third parties we work with will honor the elections you make using those options, but we strive to work with third parties that do.
 
-#### BUSINESS TRANSACTIONS
+AGGREGATED AND ANONYMIZED DATA
 
-As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise as described above). Also, in the unlikely event that Nautilus, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+We may, and we may authorize third parties to, produce research reports and other information and data using your personal information by excluding information, or requiring the third party to exclude information, that makes the information identifiable. We may use and disclose, and authorize third parties to use and disclose, non-personally identifiable information at our discretion.
 
-#### PROTECTION OF NAUTILUS, INC. AND OTHERS
+SERVICE PROVIDERS
 
-We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms of Use and other agreements; assist in fraud protection or investigation; or protect the rights, property, or security of Nautilus, Inc., our users, or others. Nautilus, Inc. cooperates with law enforcement inquiries, as well as other third parties to enforce laws. Therefore, in response to a verified and legitimate request by law enforcement or other government officials relating to a criminal investigation or alleged illegal activity, we can (and you authorize us to) disclose your name, city, state, telephone number, e-mail address and other information without a subpoena. Without limiting the above, in an effort to respect your privacy and comply with our obligation as a good corporate citizen , we will not otherwise disclose your personal information to law enforcement or other government officials without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to: prevent imminent physical harm or financial loss; or report suspected illegal activity.
+From time to time, we employ other companies and individuals to perform various functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service.
 
-Due to the existing regulatory and legal environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose personal information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+ONLINE FINANCING
 
-#### HOW SECURE IS INFORMATION ABOUT ME?
+If you apply for credit on our Sites, your personal information may be shared with a credit agency(ies) and other parties as necessary for our business purposes in connection with such credit application. All credit decisions are subject to the policies set forth in the credit application.
 
-We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We also use a secure server hosting location, firewall protection and controlled access to protect your data. All transmissions between our secured server and our corporate computer systems are done through private networks rather than through the Internet. We also have reasonable security measures in place to protect against loss, misuse and alteration of your information under our control. While no system is completely foolproof, we take the security of your personal information seriously, and our security measures are designed to protect that information in a responsible manner. However, you should be aware that any communication via the Internet, and security measures in connection with such communication, is not failsafe or foolproof, and there is always a possibility that data may be lost or intercepted by unauthorized parties during such transmission or after receipt. You agree that Nautilus, Inc. shall have no liability whatsoever in connection with such lost or intercepted data.
+SPECIAL EVENTS
 
-#### E-MAIL POLICIES
+If you choose to participate in a special event (for example, a promotion, contest, or sweepstakes), we may share your information with those organizations participating in the applicable event.
 
-From time to time, Nautilus, Inc. will send newsletters and other e-mail to members and others. You can always choose not to receive e-mail from Nautilus, Inc.. Each of our e-mail messages contains a link or instructions at the bottom of the e-mail for the purpose of adjusting your e-mail subscription preferences. If you do not want to receive e-mail from us, please follow the instructions in any e-mail you receive or in the "Opt-Out" section below to contact us and be removed from our e-mailing list.
+THE NAUTILUS FAMILY OF BRANDS AND COMPANIES
 
-#### ANTI-SPAM POLICY
+We share much of our data, including personal information about you, with our affiliated entities and joint ventures when it is reasonably necessary for the purposes otherwise permitted in this Privacy Policy.
 
-Nautilus, Inc. is opposed to unsolicited commercial e-mail ("spam"). If you receive any unsolicited e-mails from spammers, please be assured that Nautilus, Inc. did not provide your e-mail address to such parties.
+BUSINESS TRANSACTIONS
 
-This does not mean that we can prevent spam from happening on the Internet. Unfortunately, spammers obtain e-mail addresses in a number of devious ways, including when you respond and ask to be taken off a spam e-mail list, and in some cases by just generating e-mails to millions of random e-mail addresses in the hopes of getting a few "live" ones.
+Your information may be disclosed as part of any merger, sale of company assets or acquisition, as well as in the event of an insolvency, bankruptcy or receivership. In these types of transactions personal information may be shared, sold, or transferred, and it may be used subsequently by a third party.
 
-If you believe that you have received unsolicited e-mail from us, please contact privacy@nautilus.com
+PROTECTION OF NAUTILUS AND OTHERS
 
-#### REVISIONS
+We may release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms of Use and other agreements; assist in fraud protection or investigation; or protect the rights, property, or security of us, you, our users, or others.
 
-Your contacts with Nautilus, Inc. and use of Nautilus, Inc. services are subject to this Privacy Notice. Since our business changes constantly, this Privacy Policy will also change from time to time. You should also check for recent changes on our Web site or other services whenever you visit.
+**SECURITY**
 
-#### WHAT CHOICES DO I HAVE?
+We have reasonable security measures in place to protect against loss, misuse and alteration of your personal information under our control. While we strive to safeguard your personal information, we cannot guarantee or warrant the security of any information you disclose or transmit to us.
+
+OTHER PURPOSES
+
+We may use and share personal information for other purposes with your consent.
+
+**WHAT CHOICES DO I HAVE?**
 
 As discussed above, you can always choose not to provide information, although that might prevent us from personalizing our services for you or may prevent you from participating in a survey or sweepstakes or taking advantage of certain useful Site features. We will retain in our files information you have requested to delete in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our Terms of Use. Furthermore, such prior information is never completely removed from our databases due to technical and legal constraints, including stored "back up" systems.
 
-#### OPT-OUT
+If you do not want to receive informational or promotional information from us via phone, e-mail or mail, or want to review, delete, change or modify any of your personal information, you may do so by:
 
-If you do not want to receive informational or promotional information from us via phone, e-mail or mail, or want to review, delete, change or modify any of your Personal Information, you may do so by:
+-Sending an e-mail to privacy@nautilus.com
 
-  * Sending an e-mail to privacy@nautilus.com
-  * Sending a written request to the following address:
+-Sending a written request to the following address:
 
-Nautilus, Inc. Attn: Customer Service  
-17750 SE 6th Way  
+Nautilus, Inc. Attn: Customer Service - Privacy
+
+17750 SE 6th Way
+
 Vancouver, WA 98683
 
-If you do not want Nautilus, Inc. to share information we collect or receive about you, please contact us via e-mail at privacy@nautilus.com. Please include your name and mailing address in the message.
+You can also opt out of marketing or advertising emails by utilizing the “unsubscribe” link or mechanism noted in marketing or advertising you receive from us. In certain circumstances, as required by applicable law, we may require your prior opt-in consent at the time of data collection.
 
-Please make sure to clearly indicate your contact and data privacy preferences by product line. Also, please include the e-mail address you used when you registered with the Site and/or provided the information to help us verify your request.
+**A SPECIAL NOTE ABOUT CHILDREN**
 
-You may notify us about your preferences at any time. Your request will remain in effect until you notify us otherwise. We will honor your request and not share the information we collect about you, except as permitted by law. If you are an existing customer, please understand that you may continue to receive marketing offers directly from other companies that were already in production prior to the processing of your request.
+Our Sites are not designed or intended for use by children under 13. If you are under 18, you should use our Sites only with involvement of a parent or guardian. Children under 13 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any
 
-This Privacy Notice was last modified on October 19, 2009.
+such information from a child under 13, we will take appropriate steps to delete it. Please visit the FTC's website at https://www.ftc.gov for tips on protecting children's privacy online.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**
+
+If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Nautilus, Inc. Attn: Customer Service – California Privacy, 17750 SE 6th Way, Vancouver, WA 98683. Please allow up to 30 days for us to process your request. You may submit such a request once per year.
+
+**USERS OUTSIDE OF THE UNITED STATES**
+
+If you are a user of our Sites outside of the United States, by using our Sites and/or providing us with information, you acknowledge and agree that your personal information may be processed for the purposes identified in the Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country, and where governments, courts or law enforcement or regulatory agencies in those other countries may be able to obtain disclosure of that personal information through the laws of those countries. By providing your information, you consent to your personal information being used in this way.
+
+**UPDATES TO THIS PRIVACY POLICY**
+
+As this Privacy Policy may be modified from time-to-time, you should check this Privacy Policy frequently for any such changes. When we make material changes to this Privacy Policy, we will notify you by posting the updated Privacy Policy on our website, and we will update the effective date at the end of this Privacy Policy. Our use of information gathered or obtained at any time is subject to the Privacy Policy in effect at the time of such use, as permitted by law.
+
+**LINKS TO THIRD PARTIES**
+
+Our Sites may provide links to other Internet sites, content or videos (embedded or direct links) maintained by third parties. We are not responsible for the sites, content, or videos accessed via the links, and we have not reviewed the privacy practices of those third parties. We encourage you to review the privacy practices of those third parties.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you have any questions about this Privacy Policy or the Site, please contact us by:
+
+-Sending an e-mail to privacy@nautilus.com
+
+-Sending a written request to the following address:
+
+Nautilus, Inc. Attn: Customer Service - Privacy
+
+17750 SE 6th Way
+
+Vancouver, WA 98683
+
+This Privacy Policy was last modified on 12/14/17.
