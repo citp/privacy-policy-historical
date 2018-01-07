@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 33lian.co.tv privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108050547id_/http%3A//www.co.tv/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 33lian.co.tv privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107181025id_/http%3A//www.co.tv/security.php) for the most accurate reproduction.*
 
 # Co.TV domain names. Free Set Up: URL forwarding, DNS set up, Zone records or Free Sitebuilder.
 
