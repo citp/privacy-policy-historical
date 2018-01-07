@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsmadeeasy.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208171745id_/http%3A//dnsmadeeasy.com/pdf/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsmadeeasy.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107102057id_/https%3A//dnsmadeeasy.com/pdf/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
