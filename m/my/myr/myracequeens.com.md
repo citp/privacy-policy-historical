@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myracequeens.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625104853id_/http%3A//www.myracequeens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myracequeens.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107092249id_/https%3A//myracequeens.com/privacy) for the most accurate reproduction.*
 
 # MyRaceQueens.com - Privacy Statement
 
@@ -34,7 +34,11 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to yur computer`s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes (Cookies are small files that a site or its service provider transfers to yur computer`s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help Compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. Cookies are used for a variety of purposes. For instance, when you return to the Site after logging in, cookies provide information to the Site so that the Site will remember you. We may also use temporary or "session" cookies to help you watch videos. These cookies will expire when you place an order. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Google Chrome or Safari) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your experience on the Site smoother, like the features mentioned above, and some of our services will not function properly. Some of our business partners may also use cookies on the Site; however, we have no access to, or control over, these cookies and do not accept any responsibility for such use.
+
+The Site use a variety of technical methods for tracking purposes, including web beacons. Web beacons are small pieces of data that are embedded in code on the pages of web sites. We may use these technical methods to analyze the traffic patterns on the Site, such as the frequency with which our users visit various parts of the Site. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf.
+
+The Site includes third party advertising and links to other web sites. These companies are called "network advertisers". We do not provide any personally identifiable information to these network advertisers. Network advertisers who place advertisements on the Site, or third parties with whom we have a relationship, may also use cookies and web beacons to collect non-personally identifiable information. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on the Site and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. Once you have clicked on an advertisement and have left the Site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their site. You should contact these advertisers directly if you have any questions about their use of the information that they collect.
 
 **Do we disclose any information to outside parties?**
 
@@ -50,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <http://www.myracequeens.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <https://myracequeens.com/terms>
 
 **Your Consent**
 
@@ -66,4 +70,4 @@ All questions to  regarding these terms and conditions must be directed to:
 
 registered address at 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/).
+Should you have other questions or concerns about these privacy policies, please [contact us](https://www.supportidols.com/).
