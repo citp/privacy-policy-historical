@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponcloset.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206005906id_/http%3A//www.couponcloset.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponcloset.net privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107191850id_/http%3A//www.couponcloset.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Coupon Closet
 
