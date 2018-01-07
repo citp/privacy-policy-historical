@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accesso.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109082958id_/https%3A//accesso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesso.com privacy policy that was archived on 2018-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180107220219id_/https%3A//accesso.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | accesso Technology Group
 
@@ -8,9 +8,9 @@ _accesso_   **PRIVACY  POLICY**
 
 PLEASE REVIEW THIS PRIVACY POLICY FOR THE SITE CAREFULLY. YOUR USE OF THE SITE SIGNIFIES YOUR AGREEMENT TO THIS PRIVACY POLICY.
 
-Effective May 17, 2017 
+Effective November 28, 2017 
 
-**accesso** , LLC (“ **accesso** ”, “park”, “we”, “us”, “our”, “company” or “organization”) is committed to respecting your privacy. We recognize your need for control of personal information that you share with us. Personal information is any information that is associated with your name. This Privacy Policy applies to [www.accesso.com](http://www.accesso.com/) and our service owned and operated by  **accesso**. This Privacy Policy describes how  **accesso**  collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. It is your responsibility to review this Privacy Policy carefully, especially before providing us any personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which you have provided the information.
+**accesso** , LLC (“ **accesso** ”, “park”, “we”, “us”, “our”, “company” or “organization”) a subsidiary of Accesso Technology Group PLC, is committed to respecting your privacy. We recognize your need for control of personal information that you share with us. Personal information is any information that is associated with your name. This Privacy Policy applies to [www.accesso.com](http://www.accesso.com/) and our service owned and operated by  **accesso**. This Privacy Policy describes how  **accesso**  collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. It is your responsibility to review this Privacy Policy carefully, especially before providing us any personal information. The use of information collected through our service shall be limited to the purpose of providing the service for which you have provided the information.
 
 **EU – U.S. Privacy Shield** **and Swiss - U.S. Privacy Shield**
 
@@ -66,7 +66,7 @@ We and our partners, affiliates, and customers use technologies such as cookies 
 
 Our site uses “Cookies” to simplify site navigation, deliver relevant information and provide a customized user experience. Cookies are lines of text that are sometimes transmitted between your Web browser and a server when you click on a link. Cookies provide a way for a server to recall a previous request from a particular Web browser. Cookies cannot obtain any information that you do not knowingly volunteer. Many Web browsers may be configured to notify you when you are about to receive a Cookie, and give you the option of refusing the Cookie. If you refuse Cookies from our site, certain sections of the site may not function properly.
 
-Our partners, affiliates, and customers may also use Cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. The use of Cookies by our partners, affiliates, and customers is not covered by this Privacy Policy. We do not have access to or control over partners’, affiliates’, and/or customers’ Cookies.
+Our partners, affiliates, and customers may also use Cookies to make it easier for you to navigate our site, in order for you to use the shopping cart, etc. The use of Cookies by our partners, affiliates, and customers is not covered by this Privacy Policy.
 
 **Log Files**
 
