@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devmaster.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108155042id_/http%3A//devmaster.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devmaster.net privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108162137id_/http%3A//devmaster.net/privacy) for the most accurate reproduction.*
 
 # Devmaster Privacy Policy | DevMaster
 
