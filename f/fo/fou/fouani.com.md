@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fouani.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108043853id_/http%3A//www.fouani.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fouani.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108074042id_/http%3A//www.fouani.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fouani Group
 
