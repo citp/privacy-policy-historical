@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundtrackersql.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106085032id_/http%3A//www.fundtrackersql.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundtrackersql.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108050123id_/http%3A//www.fundtrackersql.com/Privacy.aspx) for the most accurate reproduction.*
 
 # FundTracker Sql Web System
 
@@ -35,6 +35,6 @@ NOTICE: [Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for
   * Pics may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Pics account or by placing a prominent notice on our site. 
 
 
-  * If you have questions or suggestions, please visit our [contact](https://web.archive.org/web/20171106085032id_/http%3A//www.fundtrackersql.com/Contact.aspx) page. 
+  * If you have questions or suggestions, please visit our [contact](https://web.archive.org/web/20180108050123id_/http%3A//www.fundtrackersql.com/Contact.aspx) page. 
 
 
