@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacsafe.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912191156id_/https%3A//www.pacsafe.com/default/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacsafe.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108012840id_/https%3A//www.pacsafe.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Pacsafe
 
@@ -80,4 +80,4 @@ Pacsafe may change the Privacy Policy from time to time. We will inform you by p
 
 ### 14\. Contact Us
 
-If you have any questions about this Privacy Policy, please [Contact Us](https://www.pacsafe.com/default/contact-us).
+If you have any questions about this Privacy Policy, please [Contact Us](https://www.pacsafe.com/contact-us).
