@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyplacement.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106121931id_/http%3A//energyplacement.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyplacement.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108011256id_/http%3A//energyplacement.com/privacy.php) for the most accurate reproduction.*
 
 # Energy Jobs, Energy Recruitment Staffing Agency, Engineer Recruiters
 
