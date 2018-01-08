@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adra.ca privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108095453id_/http%3A//www.adra.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adra.ca privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108221028id_/http%3A//www.adra.ca/privacy) for the most accurate reproduction.*
 
 # Privacy & Security – ADRA Canada
 
