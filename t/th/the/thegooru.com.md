@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the thegooru.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022174946id_/https%3A//www.bettercloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegooru.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108090849id_/https%3A//www.bettercloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BetterCloud
 
 **BetterCloud TM**
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=10802bc3-ed76-4b94-a0df-247f69f75099 "TRUSTe Privacy Certification")  
-**Effective Date: March  27th, 2017**  
+**Effective Date: November 16th, 2017**  
 This Privacy Policy of BetterCloud, Inc., a Delaware Corporation, doing business under the trade name BetterCloudTM (“We”, “Us”, “Our”), describes Our privacy practices in relation to the use of Our web site, www.bettercloud.com (the “Site”), our platform and the related applications and services offered by Us (the “Services”) to you (“You” or “Your”).
-
-We comply with the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland.  We certify that We adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Our certification, please visit <http://www.export.gov/safeharbor/>.
 
 BetterCloud, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list) **_https://www.privacyshield.gov/list_**.
 
