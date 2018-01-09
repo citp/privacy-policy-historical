@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joberr.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019005948id_/http%3A//www.joberr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joberr.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109124833id_/http%3A//www.joberr.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joberr
 
@@ -6,7 +6,7 @@ Please read this policy carefully. If you do not agree with our policies, you ch
 
 ###  COPPA – Under age 13
 
-Our Website is not intended for children under 13 years of age. Anyone under the age of 13 are not permitted to provide any personal information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, you are not permitted to use or provide any information on this Website, its features, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we discover that we have collected or received personal information from a child that is under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at info@joberr.com
+Our Website is not intended for children under 13 years of age. Anyone under the age of 13 are not permitted to provide any personal information to or on the Site. We do not knowingly collect personal information from children under 13. If you are under 13, you are not permitted to use or provide any information on this Website, its features, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we discover that we have collected or received personal information from a child that is under the age of 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We recognize that your privacy is important.  This document outlines the types of personal information we receive and may collect when you use joberr.com, as well as some of the steps we take to safeguard information.  We hope this will help you make an informed decision about using joberr.com and whether to share personal information with us. This privacy statement applies to the joberr.com website (the “Website” or “Site”) and the products and services that are located in the joberr.com domain.
 
@@ -76,4 +76,4 @@ Your use of this site indicates acceptance of this privacy policy.
 
 ###  Got any Questions?
 
-If you have any questions (or comments) concerning this Privacy Policy, please email us at info@joberr.com, and we will make an effort to reply within a reasonable timeframe.
+If you have any questions (or comments) concerning this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), and we will make an effort to reply within a reasonable timeframe.
