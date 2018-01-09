@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepressrelease.com.au privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109074107id_/http%3A//freepressrelease.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressrelease.com.au privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109082838id_/http%3A//www.freepressrelease.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
