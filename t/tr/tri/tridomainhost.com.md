@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tridomainhost.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108034213id_/http%3A//www.tridomainhost.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tridomainhost.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109115658id_/http%3A//www.tridomainhost.com/support/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
