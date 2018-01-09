@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropeansummit.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109230206id_/http%3A//www.theeuropeansummit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropeansummit.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110003158id_/https%3A//www.theeuropeansummit.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The European Summit
 
