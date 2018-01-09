@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbe.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109192608id_/http%3A//www.sbe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbe.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109082102id_/https%3A//www.sbe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | sbe.com
 
@@ -214,7 +214,3 @@ If you have any questions, comments or concerns about this Privacy Policy, or if
  O. CHANGES TO THIS PRIVACY POLICY
 
 We may change or update this Privacy Policy in the future.  You can identify the date that this Privacy Policy was last updated by looking at the date at the top of this Privacy Policy. Any revisions to this Privacy Policy will take effect upon posting to the Website.  We will notify you of any material changes to this Privacy Policy either by sending an email to the email address that you provided to us and/or by placing a notice on the homepage of the Website.  We encourage you to regularly review the current version of this Privacy Policy on the Website. Use of the Website following posted changes constitutes your acceptance of the revised Privacy Policy then in effect.
-
-Thank you for subscribing!
-
-Sorry. Our system couldn't process your request. Please try again later.
