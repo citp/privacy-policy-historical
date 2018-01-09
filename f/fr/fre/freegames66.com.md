@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freegames66.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109070254id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames66.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110005834id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which [FREEGAMES66.com](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a "User") of the [FREEGAMES66.com](https://web.archive.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FREEGAMES66.com. 
+This Privacy Policy governs the manner in which [FREEGAMES66.COM](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a "User") of the FREEGAMES66.COM website ("Site"). This privacy policy applies to the Site and all products and services offered by FREEGAMES66.COM. 
 
 ### Personal identification information
 
@@ -30,7 +30,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ### EMAIL SETTINGS
 
-As part of our default settings, we send emails to introduce new games, the most played games on FREEGAMES66 to our users (The ones who register with us on FREEGAMES66.com and Flaap.io) and if you would like to avoid receiving such emails in the future, you may opt-out of receiving it by using the unsubscribe feature on any of our email correspondence. We will try to communicate with you only according to your instructions, although it may take some time to process your request. 
+As part of our default settings, we send emails to introduce new games, the most played games on FREEGAMES66 to our users (The ones who register with us on FREEGAMES66.COM and Flaap.io) and if you would like to avoid receiving such emails in the future, you may opt-out of receiving it by using the unsubscribe feature on any of our email correspondence. We will try to communicate with you only according to your instructions, although it may take some time to process your request. 
 
 ### Advertising
 
@@ -42,7 +42,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 ### Changes to this privacy policy
 
-FREEGAMES66.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+FREEGAMES66.COM has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
 
 ### Your acceptance of these terms
 
