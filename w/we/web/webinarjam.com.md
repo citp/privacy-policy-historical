@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webinarjam.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108105849id_/https%3A//www.genesisdigital.co/_legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webinarjam.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109170002id_/https%3A//www.genesisdigital.co/_legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Genesis Digital | Privacy Policy
 
-This Privacy Shield Policy (“Privacy Policy) applies to the websites related to EverWebinar, WebinarJam, and KARTRA provided by Genesis Digital, LLC and its affiliated companies (“Genesis Digital” or “We”), including but not limited to the sites at everwebinar.com, webinarjam.com, and kartra.com, as well as to any software, services, and/or products offered on such website (hereafter the “Sites”).
+This Privacy Shield Policy (“Privacy Policy) applies to the websites related to EverWebinar, WebinarJam, and Kartra provided by Genesis Digital, LLC and its affiliated companies (“Genesis Digital” or “We”), including but not limited to the sites at everwebinar.com, webinarjam.com, and kartra.com, as well as to any software, services, and/or products offered on such website (hereafter the “Sites”).
 
 * * *
 
@@ -97,7 +97,7 @@ Genesis Digital,
 LLC 7660 Fay Ave #H184,  
 La Jolla, CA 92037 
 
-via email: legal@genesisdigital.co 
+via email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 #### **Disclosure to Third Parties**
 
@@ -125,7 +125,7 @@ You are solely responsible for any personal information you choose to submit on 
 
 Genesis Digital software customers should periodically log in to review your name, contact information and other readily available personal information, and to ensure they are accurate, complete, and up to date. You can make changes to your information. Changes to your personal details and particulars should be made through the software. KARTRA users should verify that their financial information in their account is accurate, complete, and up to date, particular checking the accuracy of any changes you make. 
 
-You can request access to any personal information we have for you. We will make a good faith effort to provide you with access to reasonably accessible information. You can request that we correct the data if it is inaccurate or delete your personal data. Genesis Digital will comply with such requests if they are reasonable and we will delete your data if Genesis Digital is not required to retain it by law, and does not require it for legitimate business purposes. We may reserve the right to refuse deletion requests that we believe require undue time, or technical effort, or where not provided by local law. We also reserve the right to deny or delay requests where the personal information is scheduled to be deleted as part of any upcoming purge of data that is not being retained. Requests for access, correction, or deletion can be submitted to legal@genesisdigital.co.
+You can request access to any personal information we have for you. We will make a good faith effort to provide you with access to reasonably accessible information. You can request that we correct the data if it is inaccurate or delete your personal data. Genesis Digital will comply with such requests if they are reasonable and we will delete your data if Genesis Digital is not required to retain it by law, and does not require it for legitimate business purposes. We may reserve the right to refuse deletion requests that we believe require undue time, or technical effort, or where not provided by local law. We also reserve the right to deny or delay requests where the personal information is scheduled to be deleted as part of any upcoming purge of data that is not being retained. Requests for access, correction, or deletion can be submitted to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 #### **Links to Third-Party Sites**
 
@@ -139,7 +139,7 @@ As part of our compliance with the Privacy Shield program, Genesis Digital has s
 
 In certain circumstances, you may have recourse if Genesis Digital fails to comply with the requirement or provisions set forth in this policy. Such recourse is available to you at no charge. As a first step we will always sincerely endeavor to thoroughly investigate and expeditiously resolve any concerns or complaints you may have. You can contact our privacy compliance staff at the following addresses (email and regular mail):
 
-legal@genesisdigital.co or 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or 
 
 Privacy Policy   
 c/o Genesis Digital, LLC   
@@ -154,7 +154,7 @@ Note: If you are reading this notice, this information here is still applicable 
 
 #### **Changes to this Privacy Policy and Privacy Questions**
 
-If you have any questions or concerns about this Privacy Policy please email us at legal@genesisdigital.co
+If you have any questions or concerns about this Privacy Policy please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This Privacy Policy is subject to change from time to time at Genesis Digital’s sole discretion. Please check this page periodically for changes. Any such changes to the Privacy Policy will be available on this page. If the policy has been changed in a material way, a notice will be posted on our website along with a link to the updated Privacy Policy. Your continued use of our site following the posting of changes to these terms will mean you accept the changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
@@ -185,7 +185,7 @@ Depending on your activity on our website or online service, the following "pers
   3. An e-mail address;
   4. A telephone number; 
   5. Any other identifier that permits the physical or online contacting of a specific individual; and 
-  6. Information concerning a user that the Sites collect online, from the user, and which is maintained in personally identifiable form, in combination with an identifier described within this Privacy Policy.Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to legal@genesisdigital.co and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
+  6. Information concerning a user that the Sites collect online, from the user, and which is maintained in personally identifiable form, in combination with an identifier described within this Privacy Policy.Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and please include the phrase "California Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and e-mail address. We will respond to you within thirty (30) days of receiving such a request.
 
 
 
@@ -205,7 +205,7 @@ This Privacy Policy does not create any contractual or other legal rights in or 
 
 Questions about this Privacy Policy may be directed to us in writing at:
 
-legal@genesisdigital.co or 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or 
 
 Privacy Policy  
 c/oGenesis Digital,   
