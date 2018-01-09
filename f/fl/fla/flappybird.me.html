@@ -1,392 +1,212 @@
-<!--The following is the downloaded HTML source of the flappybird.me privacy policy that was archived on 2016-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161112221036id_/http%3A//flappybird.me/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flappybird.me privacy policy that was archived on 2018-01-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180110005834id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <title>Privacy | flappybird.me</title>
-        <link rel="shortcut icon" type="image/x-icon" href="http://flappybird.me/favicon.png">
-        <meta property="sg:type" content="portal">
-        <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui">
-        <meta name="description" content="Want to play amazing games? Jump to Lokigames.net and enjoy awesome free online games with many styles: racing, action, card, shooting, etc and multiplayer game...">
-        <meta name="keywords" content="free, online, games, arcade, action, puzzle, loki, lokigames, loki games, lokigames.net">
-        <meta http-equiv="X-UA-Compatible" content="requiresActiveX=true,IE=Edge,chrome=1">
-        <meta http-equiv="Content-Language" content="en-US">
-        <meta property="og:type" content="website">
-        <meta property="og:site_name" content="flappybird.me">
-        <meta property="og:title" content="Privacy | flappybird.me">
-        <meta property="og:description" content="Want to play amazing games? Jump to Lokigames.net and enjoy awesome free online games with many styles: racing, action, card, shooting, etc and multiplayer game...">
-        <meta property="og:url" content="http://flappybird.me">
-        <meta property="og:image" content="http://flappybird.me/themes/frontend/images/wide_logo.png">
-                        <meta property="portal:page:type" content="homepage">
-        <meta name="application-name" content="flappybird.me">
-        <meta name="msapplication-tooltip" content="flappybird.me">
-        <meta name="msapplication-starturl" content="http://flappybird.me">
-        <meta name="msapplication-TileColor" content="#004060">
-        <meta name="msapplication-TileImage" content="http://flappybird.me/favicon.png">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <meta name="apple-mobile-web-app-title" content="flappybird.me">
-        <meta name="mobile-web-app-capable" content="yes">
-        <link rel="stylesheet" type="text/css" href="http://flappybird.me/themes/frontend/plugins/bootstrap-toastr/toastr.css?v=1.10.14">
-        <link rel="stylesheet" type="text/css" href="http://flappybird.me/themes/frontend/css/bootstrap.min.css?v=3.3.7">
-        <link rel="stylesheet" type="text/css" href="http://flappybird.me/themes/frontend/style.css?v=1.10.14">
-        <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://flappybird.me/themes/frontend/js/jquery.min.js?v=3.1.0" type="text/javascript"></script>
-        <script src="http://flappybird.me/themes/frontend/js/bootstrap.min.js?v=3.3.7" type="text/javascript"></script>
-        <script src="http://flappybird.me/themes/globals/js/ajaxq.min.js" type="text/javascript"></script>
-        <script src="http://flappybird.me/themes/frontend/js/scripts.js?v=1.10.14" type="text/javascript"></script>
-        <script src="/themes/globals/js/socket.io.js"></script>
-        <script type="text/javascript">
-            var user_id = 0;
-            var token = 'ddbf075b1ee213682196b0b4b2e15ce2';
-            $(document).ready(function () {
-                var socket = io.connect("http://50.116.7.144:3000");
-                toastr.options = {
-                    "closeButton": true
-                };
-                socket.on('server_client:set_alert', function (data) {
-                    if (user_id != 0 && user_id != data.from_user) {
-                        var info_user_list = data.user_list;
-                        var info_message = data.message;
-                        info_user_list = info_user_list.split(',');
-                        var p = info_user_list.indexOf(user_id.toString());
-                        if (p > -1) {
-                            var link = "<a href='http://lokigames.net/users/scorehistory'>" + info_message + "</a>";
-                            toastr.info(link);
-                            reloadNotify();
-                        }
-                    }
-                });
-            });
-        </script>
-    </head>
-    <body>
-        <header>
-    <nav class="navbar">
-        <div class="container-fluid">
-            <div class="navbar-header pull-left">
-                <div class="dropdown pull-left clearfix" style="position: relative">
-                    <button type="button" class="navbar-toggle dropdown-toggle" id="dropdownMenu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <div id="dropdown" class="dropdown-menu" aria-labelledby="dropdownMenu">
-                                                <div class="social" style="background: none;">
-                            <div class="social_fb">
-                                <div class="fb-like" data-href="http://flappybird.me/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
-                                <div class="fb-share-button" data-href="http://flappybird.me/" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fflappybird.me%2F&amp;src=sdkpreparse">Share</a></div>
-                            </div>
-                            <div class="social_tw">
-                                <a href="https://twitter.com/share" class="twitter-share-button" data-text="Play Flappy Bird Online High Score - FREE!" data-url="http://flappybird.me" data-hashtags="flappybird" data-show-count="false">Tweet</a><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-                            </div>
-                            <div style="clear:both"></div>
-                        </div>
-                    </div>
-                </div>
-                <h1 class="navbar-brand">
-                    <a href="http://flappybird.me" title="flappybird.me"></a>
-                </h1>
-            </div>
-        </div><!-- /container-fluid -->
-    </nav>
-</header>
-        <main class="home">
-            <div class="container-fluid">
-                <div class="row page">
-    <div class="container text-justify" style="background-color: rgba(255, 255, 255 ,.2);">
-        <h2>Privacy Policy</h2>
-        <p>This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered by us on or through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites."). <a href="flappybird.me" class="text-capitalize">flappybird.me</a> may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy.</p>
-        <section>
-            <h3>About The Website</h3>
-            <p>Our Website offers a diverse, current, and exciting mix of online games created by <a href="flappybird.me" class="text-capitalize">flappybird.me</a>, as well as games created by independent developers and <a href="flappybird.me" class="text-capitalize">flappybird.me</a> partners. Players can access our Websites to play games without registering; however, they may choose to register to create a public or semi-public profile and to save games, high scores, and comments on this profile. Also, visitors to the Website will be able to rate games and browse for the newly added, top-rated, and most-popular games.</p>
-        </section>
-        <section>
-            <h3>The Information We Collect</h3>
-            <p>The information that our Website collect includes (among others) the following:</p>
-            <dl>
-                <dt>
-                    <p>IP address, Cookies, and Web Beacons</p>
-                </dt>
-                <dd>
-                    <p>When you visit our Website, our servers automatically save your computer's IP address. IP addresses will be collected, along with information about the actual web pages that you visit on the Website. If you arrive at the Website via a link from another website, the URL of the linking website and the URL of any website that you link to next will also be collected.</p>
-                </dd>
-                <dd>
-                    <p>In addition, we store certain information from your browser, using "cookies." A cookie is a piece of data stored on the user's computer and is tied to information about the user. <a href="flappybird.me" class="text-capitalize">flappybird.me</a> may use cookies, web beacons (web bugs), or similar technologies to enhance and personalize your experience on the Website, including the following:</p>
-                    <ol type="a">
-                        <li>to operate and improve offerings on the Website;</li>
-                        <li>to help authenticate you when you are on the Website;</li>
-                        <li>to remember your preferences and registration information, as applicable;</li>
-                        <li>to present and help measure and research the effectiveness of <a href="flappybird.me" class="text-capitalize">flappybird.me</a>'s offerings, advertisements, and email communications; and</li>
-                        <li>to customize the content and advertisements provided to you through the Website.</li>
-                    </ol>
-                </dd>
-                <dd>
-                    <p><a href="flappybird.me" class="text-capitalize">flappybird.me</a> may also use ad network providers to help present advertisements on the Website. These ad network providers use cookies, web beacons, or similar technologies to help the presenting, better targeting, and measuring of the effectiveness of their advertisements, using data gathered over time and across their networks of web pages to determine or predict the characteristics and preferences of their audiences. <a href="flappybird.me" class="text-capitalize">flappybird.me</a> offers some services in connection with other websites. Personal information that you provide to those sites may be sent to <a href="flappybird.me" class="text-capitalize">flappybird.me</a> in order to deliver these services. <a href="flappybird.me" class="text-capitalize">flappybird.me</a> processes such information in accordance with this Privacy Policy.</p>
-                </dd>
-                <dd>
-                    <p><a href="flappybird.me" class="text-capitalize">flappybird.me</a> may also use third-party payment service providers ("PSP"), offering payment transaction services to <a href="flappybird.me" class="text-capitalize">flappybird.me</a> in order to sell a product or service through the Website. Whenever you buy something from the Website (e.g., a virtual game item or a subscription for a game download), the information that you provide to the PSP is subject to their privacy policies, not ours. You explicitly consent that <a href="flappybird.me" class="text-capitalize">flappybird.me</a> may provide personal information collected from you to a PSP for the purpose of the offering of the payment-transaction service whenever you buy something from the Website and that such PSP may use such data for (statistical) analysis of payment transactions. <a href="flappybird.me" class="text-capitalize">flappybird.me</a> shall be allowed to notify a PSP regarding a user that engages in (or who a party believes has engaged in) any activity that is illegal, that violates any person's rights, or that led to such user's suspension or termination of use of the Website.</p>
-                </dd>
-                <dd>
-                    <p><a href="flappybird.me" class="text-capitalize">flappybird.me</a> may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy.</p>
-                </dd>
-                <dd>
-                    <p>Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser.</p>
-                </dd>
-                <dd>
-                    <p>You may choose to register with us for a better game experience and/or to create a public or semi-public profile for participating in our social gaming network. This includes, for example: overviews of high scores, achievements listings, and individual game recommendations on the Website. When you register with us, you provide us with certain personal information, such as a username, date and month of birth, and your email address. The information you disclose in that respect may also become publicly accessible. We provide you with privacy settings that restrict other users from accessing your information; namely, our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We allow you to choose the information you provide to friends and networks through our Websites. When your privacy settings permit it, other users may be able to see and supplement your profile (e.g., by posting comments).</p>
-                </dd>
-                <dd>
-                    <p>If you decide to disclose information in a public venue or in games, we will consider that information as part of the public domain. This information will be accessible to any person who uses the Website.</p>
-                </dd>
-                <dt>
-                    <p>Your email</p>
-                </dt>
-                <dd>
-                    <p>We only collect email addresses that were provided to us directly by you. Your email address will only be used for the following purposes:</p>
-                    <ol type="a">
-                        <li>the promotion of (new) games;</li>
-                        <li>service emails (on updates, new design, new features, etc.);</li>
-                        <li>administrative purposes, such as notification of violation of our Terms of Use;</li>
-                        <li>delivering messages you have allowed us to pass on (e.g., from other people in your social network).</li>
-                    </ol>
-                </dd>
-                <dd>
-                    <p>Without your approval, we will not:</p>
-                    <ol type="a">
-                        <li>make your email address visible on the Website;</li>
-                        <li>use your email address for purposes other than those described in article 2.9 hereof;</li>
-                        <li>transfer your email address or other personal information to third parties, except in those limited cases as described in this Privacy Policy.</li>
-                    </ol>
-                </dd>
-                <dt>
-                    <p>Combination of Personal Data</p>
-                </dt>
-                <dd>
-                    <p>For optimizing our services and the Website, and for the purposes mentioned in this article 2, we are entitled to combine your personal data (including your email address, as applicable) with other information about you collected by or provided to us.</p>
-                </dd>
-            </dl>
-        </section>
-        <section>
-            <h3>To Whom Does <a href="flappybird.me" class="text-capitalize">flappybird.me</a> Provide This Information?</h3>
-            <p><a href="flappybird.me" class="text-capitalize">flappybird.me</a> may provide information to any party whose services it engages for the purposes of its normal operations (for example, those partners who assist us by providing technical or operational facilities for the Website and so forth). We may also supply information to other parties if we are required to do so by law or by a ruling handed down by a court of law. <a href="flappybird.me" class="text-capitalize">flappybird.me</a> does not provide personal details to other parties for commercial, advertising, or marketing purposes, except if you explicitly give us permission to do so, or if doing so is part of a specific program or operation for which you have registered. In such case, you may withdraw your permission at any time.</p>
-        </section>
-        <section>
-            <h3>Why Do We Collect Information?</h3>
-            <p>We use personal details and other information to maintain the general and personified content and functionality of the Website. In addition, we use personal details to make it possible to accommodate your requests, and so that we are able to provide you with service when using our Website and for the purposes set out elsewhere in this Privacy Policy.</p>
-        </section>
-        <section>
-            <h3>Access to the Information We Have Collected about You</h3>
-            <ol type="1">
-                <li>
-                    <p>Your personal data will be stored by <a href="flappybird.me" class="text-capitalize">flappybird.me</a>.</p>
-                </li>
-                <li>
-                    <p>Users with a personal profile on the Website may review, update, or delete personal data collected by us by clicking on the appropriate link in the personal profile.</p>
-                </li>
-                <li>
-                    <p>In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to <a href="flappybird.me" class="text-capitalize">flappybird.me</a> at admin@flappybird.me with detailing your request and the data you have provided to.</p>
-                </li>
-                <li>
-                    <p>Parents of users under the age of 16: If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to <a href="flappybird.me" class="text-capitalize">flappybird.me</a> at admin@flappybird.me with detailing your request and the data you have provided to.</p>
-                </li>
-            </ol>
-        </section>
-        <section>
-            <h3>Security</h3>
-            <ol type="1">
-                <li>
-                    <p>You post personal data and any other content on the Website at your own risk and in accordance with article 7 ("Your Responsibilities") of the Terms of Use. Although we allow you to set privacy options that limit access to such personal data and other content, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you choose to share your profile and information. Therefore, we cannot and do not guarantee that any content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Websites. You understand and acknowledge that, even after removal, copies of personal data or content may remain viewable in d archived pages, or if other users have copied or stored your personal data or content.</p>
-                </li>
-                <li>
-                    <p>We have implemented appropriate measures to safeguard and help prevent unauthorized access, to maintain data security, and to correctly use the information we collect online. Your personal data visible on the Website (such as any public comments posted by you and/or any data in your profile) are accessible to third parties, and you acknowledge and agree that such third parties are able to copy such information to their own websites or other locations.</p>
-                </li>
-                <li>
-                    <p>Your personal data will only be stored for a period necessary for your uses of the Website for the purposes as described in this Privacy Policy.</p>
-                </li>
-            </ol>
-        </section>
-        <section>
-            <h3>Miscellaneous</h3>
-            <ol type="1">
-                <li>
-                    <p>We reserve the right to amend our Privacy Policy. Amendments will be effective as of the moment of publication on the Website. You should check the Website regularly for amendments.</p>
-                </li>
-                <li>
-                    <p>The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing of personal data in this way.</p>
-                </li>
-                <li>
-                    <p>Our Website may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by us.</p>
-                </li>
-                <li>
-                    <p>In the event of a transfer of the Website to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In such an event, users who have provided email addresses to us will be notified when information about those users is transferred and becomes subject to a different privacy policy.</p>
-                </li>
-                <li>
-                    <p>We also have Terms of Use that are applicable to your use of the Website. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy prevails.</p>
-                </li>
-                <li>
-                    <p>This Privacy Policy shall be governed by the laws of the New York, United States and submitted to the exclusive jurisdiction of the courts in the United States.</p>
-                </li>
-        </ol></section>
-        <p>If you have any additional questions or requests, you may send an email to admin@flappybird..</p>
-    </div>
+<title>Privacy Policy</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimal-ui">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true,IE=Edge,chrome=1">
+<meta http-equiv="Content-Language" content="en-US">
+<link rel="canonical" href="https://www.freegames66.com/privacy">
+<link rel="shortcut icon" type="image/x-icon" href="http://www.freegames66.com/favicon.ico">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="preconnect" href="https://games66.imgix.net/">
+<link rel="preconnect" href="//flash.freegames66.com/">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
+<link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
+<link href="/assets/css/style_v1.css" rel="stylesheet" type="text/css"> </head>
+<body>
+<div id="page-header" class="page-header">
+<div id="menu" class="menu">
+<div class="container flex menubox">
+<div class="flex-center logo">
+<a href="http://www.freegames66.com" class="logo-bg" title="FREEGAMES66.COM">Freegames66</a>
 </div>
-<style type="text/css">
-    div.page {counter-reset: section; }
-    section {counter-reset: item; }
-    dl {counter-reset: field; }
-    h3::before, dt:before, dd:before {float: left; margin-right: 5px; }
-    h3::before { counter-increment: section; content: counter(section, decimal) ". "; }
-    dt:before { counter-increment: field; content: counter(field, lower-alpha) ". "; }
-    dd {margin-left: 40px; position: relative; }
-    dd:before {counter-increment: item; content: counter(section, decimal) "." counter(item, decimal) ". "; display: block; left: -45px; position: absolute; text-align: right; top: 0; width: 40px; }
-</style>            </div>
-        </main>
-        <!-- Footer -->
-<div class="clearfix"></div>
-<footer id="footer">
-    <p class="text-center">
-        <a href="/page/dmca" title="dmca">DMCA</a>
-        <a href="/page/disclaimer" title="dmca">Disclaimer</a>
-        <a href="/page/privacy" title="dmca">Privacy</a>
-        <a href="/page/contact" title="dmca">Contact</a>
-    </p>
-</footer>        <div id="rankModal" class="modal fade" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="panel sidebar-block scoreboard">
-                <div class="panel-heading">
-                    <h2 class="panel-title text-center">Top Players</h2>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-                </div>
-                <div class="panel-body">
+<div class="PL">
+<div class="popular_btn" id="popular_btn_cat">Popular Tags
+<div class="popular popular_cat">
+<a href="http://www.freegames66.com/io-games" title=".io Games"><div class="flex popularbg popular13"></div><span>.io Games</span></a> <a href="http://www.freegames66.com/papas-games" title="Papa's Games"><div class="flex popularbg popular17"></div><span>Papa's Games</span></a> <a href="http://www.freegames66.com/clicker-games" title="Clicker Games"><div class="flex popularbg popular15"></div><span>Clicker Games</span></a> <a href="http://www.freegames66.com/zombie-games" title="Zombie Games"><div class="flex popularbg popular10"></div><span>Zombie Games</span></a> <a href="http://www.freegames66.com/racing-games" title="Racing Games"><div class="flex popularbg popular18"></div><span>Racing Games</span></a> <a href="http://www.freegames66.com/shooting-games" title="Shooting Games"><div class="flex popularbg popular19"></div><span>Shooting Games</span></a> <a href="http://www.freegames66.com/funny-games" title="Funny Games"><div class="flex popularbg popular6"></div><span>Funny Games</span></a> <a href="http://www.freegames66.com/car-games" title="Car Games"><div class="flex popularbg popular20"></div><span>Car Games</span></a> <a href="http://www.freegames66.com/basketball-games" title="Basketball Games"><div class="flex popularbg popular21"></div><span>Basketball Games</span></a> <a href="http://www.freegames66.com/2-player-games" title="2 Player Games"><div class="flex popularbg popular22"></div><span>2 Player Games</span></a> <a href="http://www.freegames66.com/stickman-games" title="Stickman Games"><div class="flex popularbg popular23"></div><span>Stickman Games</span></a> </div>
+</div>
+<div class="popular_btn" id="popular_btn_games">Popular Games
+<div class="popular popular_games">
+<a href="http://www.freegames66.com/slope" title="Slope"><div class="flex popularbg popular1"></div><span>Slope</span></a> <a href="http://www.freegames66.com/run-3" title="Run 3"><div class="flex popularbg popular2"></div><span>Run 3</span></a> <a href="http://www.freegames66.com/fireboy-and-watergirl" title="Fireboy and Watergirl"><div class="flex popularbg popular3"></div><span>Fireboy and Watergirl</span></a> <a href="http://www.freegames66.com/mutilate-a-doll-2" title="Mutilate a Doll 2"><div class="flex popularbg popular4"></div><span>Mutilate a Doll 2</span></a> <a href="http://www.freegames66.com/superfighters" title="Superfighters"><div class="flex popularbg popular5"></div><span>Superfighters</span></a> <a href="http://www.freegames66.com/the-impossible-quiz" title="The Impossible Quiz"><div class="flex popularbg popular6"></div><span>The Impossible Quiz</span></a> <a href="http://www.freegames66.com/happy-wheels" title="Happy Wheels"><div class="flex popularbg popular7"></div><span>Happy Wheels</span></a> <a href="http://www.freegames66.com/tank-trouble" title="Tank Trouble"><div class="flex popularbg popular8"></div><span>Tank Trouble</span></a> <a href="http://www.freegames66.com/super-smash-flash-2" title="Super Smash FLash 2"><div class="flex popularbg popular9"></div><span>Super Smash FLash 2</span></a> <a href="http://www.freegames66.com/plants-vs-zombies" title="Plants vs Zombies"><div class="flex popularbg popular10"></div><span>Plants vs Zombies</span></a> <a href="http://www.freegames66.com/five-nights-at-freddys" title="Five Nights at Freddy's"><div class="flex popularbg popular11"></div><span>Five Nights at Freddy's</span></a> <a href="http://www.freegames66.com/akinator" title="Akinator"><div class="flex popularbg popular12"></div><span>Akinator</span></a> <a href="http://www.freegames66.com/slither-io" title="Slither.io"><div class="flex popularbg popular13"></div><span>Slither.io</span></a> <a href="http://www.freegames66.com/agar-io" title="Agar.io"><div class="flex popularbg popular14"></div><span>Agar.io</span></a> <a href="http://www.freegames66.com/clicker-heroes" title="Clicker Heroes"><div class="flex popularbg popular15"></div><span>Clicker Heroes</span></a> <a href="http://www.freegames66.com/bad-ice-cream" title="Bad Ice Cream"><div class="flex popularbg popular16"></div><span>Bad Ice Cream</span></a> </div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="FS">
+<form id="form-search" class="form-search" action="/search" method="get">
+<input class="input" type="search" id="q" name="q" autocomplete="off" tabindex="1" onkeyup="Search.suggest(this);" value="" placeholder="Search for Games..." title="Search for Games...">
+<button class="btn btn-search flex" type="submit"><span class="icon search_btn"></span></button>
+</form>
+<div id="result-suggest"></div>
+</div>
+</div>
+</div>
+</div>
+<script src="/assets/js/search.js?v=1515545728"></script>
+<div id="page-body" class="page-body index">
+<div class="container">
+<div class="intro">
+<div class="introbox">
+<h1>Privacy Policy</h1>
+<p>
+This Privacy Policy governs the manner in which <a href="/">FREEGAMES66.COM</a> collects, uses,
+maintains and
+discloses information collected from users (each, a "User") of the FREEGAMES66.COM
+website ("Site").
+This privacy policy applies to the Site and all products and services offered by FREEGAMES66.COM.
+</p>
+<h3>Personal identification information</h3>
+<p>
+We may collect personal identification information from Users in a variety of ways in connection
+with activities, services, features or resources we make available on our Site.. Users may visit our
+Site anonymously. We will collect personal identification information from Users only if they
+voluntarily submit such information to us. Users can always refuse to supply personally
+identification information, except that it may prevent them from engaging in certain Site related
+activities.
+</p>
+<h3>Non-personal identification information</h3>
+<p>
+We may collect non-personal identification information about Users whenever they interact with our
+Site. Non-personal identification information may include the browser name, the type of computer and
+technical information about Users means of connection to our Site, such as the operating system and
+the Internet service providers utilized and other similar information.
+</p>
+<h3>Web browser cookies</h3>
+<p>
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their
+hard drive for record-keeping purposes and sometimes to track information about them. User may
+choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If
+they do so, note that some parts of the Site may not function properly.
+</p>
+<h3>How we use collected information</h3>
+<p>
+We may use feedback you provide to improve our products and services.
+</p>
+<p>
+How we protect your information
+</p>
+<p>
+We adopt appropriate data collection, storage and processing practices and security measures to
+protect against unauthorized access, alteration, disclosure or destruction of your personal
+information, username, password, transaction information and data stored on our Site.
+</p>
+<h3>Sharing your personal information</h3>
+<p>
+We do not sell, trade, or rent Users personal identification information to others. We may share
+generic aggregated demographic information not linked to any personal identification information
+regarding visitors and users with our business partners, trusted affiliates and advertisers for the
+purposes outlined above.
+</p>
+<h3>EMAIL SETTINGS</h3>
+<p>
+As part of our default settings, we send emails to introduce new games, the most played games on
+FREEGAMES66 to our users (The ones who register with us on FREEGAMES66.COM and Flaap.io) and if you
+would like to avoid receiving such emails in the future, you may opt-out of receiving it by using
+the unsubscribe feature on any of our email correspondence. We will try to communicate with you only
+according to your instructions, although it may take some time to process your request.
+</p>
+<h3>Advertising</h3>
+<p>
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies.
+These cookies allow the ad server to recognize your computer each time they send you an online
+advertisement to compile non personal identification information about you or others who use your
+computer. This information allows ad networks to, among other things, deliver targeted
+advertisements that they believe will be of most interest to you. This privacy policy does not cover
+the use of cookies by any advertisers.
+</p>
+<h3>Google Adsense</h3>
+<p>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to
+Users based on their visit to our Site and other sites on the Internet. DART uses "non personally
+identifiable information" and does NOT track personal information about you, such as your name,
+email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the
+Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+</p>
+<h3>Changes to this privacy policy</h3>
+<p>
+FREEGAMES66.COM has the discretion to update this privacy policy at any time. When we do, we will
+revise the updated date at the bottom of this page. We encourage Users to frequently check this page
+for any changes to stay informed about how we are helping to protect the personal information we
+collect. You acknowledge and agree that it is your responsibility to review this privacy policy
+periodically and become aware of modifications.
+</p>
+<h3>Your acceptance of these terms</h3>
+<p>
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy,
+please do not use our Site. Your continued use of the Site following the posting of changes to this
+policy will be deemed your acceptance of those changes.
+</p>
+<p>
+This document was last updated on July 17, 2017
+</p>
+</div>
+</div>
+</div>
+</div>
 
-                    <div id="hightscore-loading" class="scoreboard gamescore">
-                                                    <table class="table table-condensed">
-                                <thead>
-                                    <tr>
-                                        <th class="text-left" colspan="2">Player</th>
-                                        <th class="text-center">Exp</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/images/avatar-default.png">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=7">
-                                                    Mohamez Tom                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                24                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/static/images/2016/10/07/163525/image_1475832925.jpg">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=4">
-                                                    Thu Nguyễn Mạnh                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                10                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/static/images/2016/10/07/171201/image_1475835121.jpg">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=5">
-                                                    Đức Thuận                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                10                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/images/avatar-default.png">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=6">
-                                                    Ding.Kul                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                9                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/images/avatar-default.png">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=10">
-                                                    Peter Mark                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                7                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/static/images/2016/10/27/215715/image_1477580235.jpg">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=38">
-                                                    Rezza Surya Putra Pratama                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                7                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/images/avatar-default.png">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=46">
-                                                    dewwmayy                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                7                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/images/avatar-default.png">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=19">
-                                                    GGirl                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                6                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/images/avatar-default.png">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=16">
-                                                    T9611412                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                5                                            </td>
-                                        </tr>
-                                                                            <tr>
-                                            <td>
-                                                <img class="img-thumbnail" src="/static/images/2016/10/07/173155/image_1475836315.jpg">
-                                            </td>
-                                            <td class="text-left">
-                                                <a style="color:white;" href="/users/profile/?id=8">
-                                                    Nguyễn Duy Minh                                                </a>
-                                            </td>
-                                            <td class="text-center">
-                                                4                                            </td>
-                                        </tr>
-                                                                    </tbody>
-                            </table>
-                                            </div>
-                </div>
-            </div>
-        </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->                <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-85346122-1','auto');ga('send', 'pageview');</script>        <div class="hidden">
-            <img src="http://whos.amung.us/widget/90sjcaxm9jlc.png" width="0" height="0" border="0">
-        </div>
-    
+<div class="brand">
+<div class="container">
+<div class="logo float-left">
+<a href="http://www.freegames66.com" class="logo-bg" title="FREEGAMES66.COM">Freegames66</a>
+</div>
+<div class="company-social float-right">
+<a href="https://www.facebook.com/freegames66/" class="social-btn fbshare" title="Follow FREEGAMES66 on FaceBook" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" class="at-icon at-icon-facebook">
+<g><path d="M22 5.16c-.406-.054-1.806-.16-3.43-.16-3.4 0-5.733 1.825-5.733 5.17v2.882H9v3.913h3.837V27h4.604V16.965h3.823l.587-3.913h-4.41v-2.5c0-1.123.347-1.903 2.198-1.903H22V5.16z" fill-rule="evenodd"></path></g>
+</svg>
+</a>&nbsp;
+<a href="https://twitter.com/intent/follow?source=followbutton&amp;variant=1.0&amp;screen_name=freegames66" class="social-btn twshare" title="Follow FREEGAMES66 on Twitter" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" class="at-icon at-icon-twitter">
+<g><path d="M27.996 10.116c-.81.36-1.68.602-2.592.71a4.526 4.526 0 0 0 1.984-2.496 9.037 9.037 0 0 1-2.866 1.095 4.513 4.513 0 0 0-7.69 4.116 12.81 12.81 0 0 1-9.3-4.715 4.49 4.49 0 0 0-.612 2.27 4.51 4.51 0 0 0 2.008 3.755 4.495 4.495 0 0 1-2.044-.564v.057a4.515 4.515 0 0 0 3.62 4.425 4.52 4.52 0 0 1-2.04.077 4.517 4.517 0 0 0 4.217 3.134 9.055 9.055 0 0 1-5.604 1.93A9.18 9.18 0 0 1 6 23.85a12.773 12.773 0 0 0 6.918 2.027c8.3 0 12.84-6.876 12.84-12.84 0-.195-.005-.39-.014-.583a9.172 9.172 0 0 0 2.252-2.336" fill-rule="evenodd"></path></g>
+</svg>
+</a>&nbsp;
+<a href="https://plus.google.com/+FREEGAMES66" class="social-btn gplus" title="Follow FREEGAMES66 on Google+" target="_blank" rel="nofollow">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" class="at-icon at-icon-google_plusone_share">
+<g><path d="M12 15v2.4h3.97c-.16 1.03-1.2 3.02-3.97 3.02-2.39 0-4.34-1.98-4.34-4.42s1.95-4.42 4.34-4.42c1.36 0 2.27.58 2.79 1.08l1.9-1.83C15.47 9.69 13.89 9 12 9c-3.87 0-7 3.13-7 7s3.13 7 7 7c4.04 0 6.72-2.84 6.72-6.84 0-.46-.05-.81-.11-1.16H12zm15 0h-2v-2h-2v2h-2v2h2v2h2v-2h2v-2z" fill-rule="evenodd"></path></g>
+</svg>
+</a>&nbsp;
+</div>
+<div class="clear"></div>
+
+</div>
+</div>
+<nav class="footer-menu">
+<div class="container">
+<div class="float-left footer-links">
+<a href="/about" title="About Us" rel="nofollow">About Us</a>
+<a href="/privacy" title="Privacy Policy" rel="nofollow">Privacy Policy</a>
+<a href="/contact" title="Contact Us" rel="nofollow">Contact</a>
+<a href="/sitemap" title="Sitemaps">Sitemaps</a>
+<a href="https://m.freegames66.com/" title="Mobile Version">Mobile Version</a>
+</div>
+<div class="float-right">
+</div>
+<div class="clear"></div>
+</div>
+</nav>
+<div class="about-us">
+<div class="container">
+<div class="about-us-content">
+Freegames66.com is a project about free online games portal, developed and operated by X8media JSC. Our company was established in 2015 and we own young, dynamic and energetic staffs. We are people who have the same hobby and passion for gaming. And this has connected us together to provide something better for the community and for those with a hobby like us.
+</div>
+</div>
+</div>
+<div class="company">
+<div class="container">
+<div class="company-content">
+© 2018 Freegames66 is an part of X8media JSC, Suced Building, 108 Nguyen Hoang street, Ha Noi, Viet Nam (VAT: 0106755924)
+</div>
+</div>
+</div>
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-103024467-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-103024467-1');
+</script> 
 </body></html>
