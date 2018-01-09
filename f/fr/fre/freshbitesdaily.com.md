@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freshbitesdaily.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220194833id_/http%3A//www.freshbitesdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbitesdaily.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109234823id_/https%3A//www.freshbitesdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Fresh Bites Daily
 
-_**Join the conversation with our positive and enthusiast community on Facebook[here](https://www.facebook.com/FreshBitesDaily).**_
+This post was last updated on July 11th, 2014 at 11:20 am
 
 Thank you for visiting our web site. Please read this privacy policy before using the site. By using the site, you are accepting the practices described in this privacy policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
