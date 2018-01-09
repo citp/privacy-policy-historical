@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230155252id_/http%3A//tempowireless.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightyearwireless.com privacy policy that was archived on 2018-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180109025049id_/http%3A//www.tempowireless.com/privacy.html) for the most accurate reproduction.*
 
 # Tempo Wireless Privacy Policy
 
