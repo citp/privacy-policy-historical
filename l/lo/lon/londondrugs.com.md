@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618090232id_/http%3A//www.londondrugs.com/privacy-policy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londondrugs.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110144217id_/https%3A//www.londondrugs.com/privacy-policy/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,7 +65,7 @@ Should we wish to use this contact information to send you promotional informati
 We may also send you a thank you letter following a purchase from certain of our departments. This will typically be the only communication you will receive following a purchase and it is truly our way of saying thank you for your business.
 
 **London Drugs Online Store**  
-The information provided by you to make a purchase on London Drugs Online Store is collected by London Drugs to process your online transaction. In order to protect you from a fraudulent transaction, London Drugs may provide your personal information, including but not limited to your address and credit card information, with a reputable third party organization to perform an address verification. This address verification is intended to ensure that the "Bill to" address that you have provided matches your credit card address.
+The information provided by you to make a purchase on London Drugs Online Store is collected by London Drugs to process your online transaction. In order to protect all parties from fraudulent transactions, London Drugs may provide your personal information, including but not limited to your address and credit card information, to reputable third party organizations to perform data verification. For example, an address verification is intended to ensure that the address provided appears valid and that the "Bill to" address matches your credit card address.
 
 **Newsletters & Personalized Use of our Website**  
 You may from time to time be given an option to receive communications from London Drugs in the form of electronic newsletters, emails or customized promotions, which relate to things such as featured products, special offers and London Drugs news, events and services.  In order to enroll, we need to collect some information from you (including email  address).  We may use your email to send customer appreciation messages or to follow up or provide special offers based on your use of our website. You may change your preferences or withdraw your consent to receive such communications from London Drugs at any time.  
@@ -111,16 +111,16 @@ We use your personal health information to assist you with managing your medical
 
 
 **Photo Finishing**  
- 
+When you use or purchase a product or service from our Photo Finishing department, whether in-store, by kiosk, online through our website or by way of software download, you may need to provide us with contact and payment information (such as credit card information) so that we can process your request. The contact information (name, address, phone number (and email address and password should you select one of our online services) you provide to us allows us to ensure that you get the services you expect, maintain your account, perform security and verification functions and provide you with notices about goods or services that you have purchased or may wish to purchase in the future.
 
-When you use or purchase a product or service from our Photo Finishing department, whether in-store, by kiosk,  online through our website or by way of software download, you may need to provide us with contact and payment information (such as credit card information) so that we can process your request. The contact information (name, address, phone number (and email address and password  should you select one of our online services) you provide to us allows us to ensure that you get the services you expect, maintain your account, perform security and verification functions and provide you with notices about goods or services that you have purchased or may wish to purchase in the future.
+You will of course need to provide us with your digital and photographic images and content so we can fulfill the requested photo service. In providing any personal information to us about yourself or third parties, you are representing that you have authority to provide, use and disclose that information to us for photo services.
 
-You will of course need to provide us with your digital and photographic images and content so we can fulfill the requested photo service.    In providing any personal information to us about yourself or third parties, you are representing that you have authority to provide, use and disclose that information to us for photo services.
+We may use a third party service provider to assist us in providing certain photo services to you, subject to appropriate confidentiality and security measures. See heading ‘Disclosure to third party service providers’ in this Privacy policy for further details.
 
-We may use a third party service provider to assist us in providing certain photo services to you, subject to appropriate confidentiality and security measures.   See heading **‘** Disclosure to third party service providers’ in this Privacy policy for further details. 
+**Insurance Services Department of London Drugs Limited**  
+The Insurance Services Department offers various forms of insurance and services, including auto insurance, travel insurance, pet insurance and home insurance. The Insurance Services Department collects information from you (both in person and on-line, should you request a quote on-line) in sufficient detail to provide you an insurance quote, process your insurance transaction, administer or renew your policy or otherwise provide the requested service. The Insurance Services Department acts as an agent for the actual insurance carriers and as such shares the information they obtain with the carriers in order to obtain quotes for you and to bind coverage if appropriate.
 
-**Insurance Services Division of London Drugs Limited**  
-The Insurance Services Division offers medical and dental insurance, auto insurance, travel insurance, pet insurance and homeowner insurance. The Insurance Services Division collects information from you (both in person and on-line, should you request a quote on-line) in sufficient detail to provide you an insurance quote. The Insurance Services Division is an agent for the actual insurance carriers themselves and as such shares the information they obtain with the carriers in order to obtain quotes for you and to bind coverage if appropriate.
+Because the Insurance Services Department is a licensed insurance agency, and its employees and representatives include licensed insurance adjusters, agents and salespersons, in addition to existing privacy laws, it also complies with any additional privacy obligations set out by the Insurance Councils of BC and Alberta and ICBC, in the case of ICBC Autoplan coverage.
 
 **Call centre**  
 London Drugs operates a call centre to respond to customer's questions, concerns, complaints and suggestions for service improvement. These suggestions and complaints are important to us as it enables us to provide better service to you our customers. As part of this process we collect callers name, phone number and other information that they choose to give us, however we will only ever collect personal information that you choose to voluntarily provide to us when connected with our call centre. Customers are always free to ask questions, voice concerns, make complaints and provide suggestions without giving us any personal information. We value all such suggestions.
@@ -178,8 +178,8 @@ We may also gather information about the purchasing behavior of members in an ag
 **Our Websites**  
 London Drugs operates a number of websites to service the needs of our customers, including without limit: [www.ldtravelclinics.com](http://www.ldtravelclinics.com/); [www.londondrugs.com](http://www.londondrugs.com/); [www.ldinsurance.ca](http://www.ldinsurance.ca/); [www.londondrugs.com/photolab](http://www.londondrugs.com/photolab); and [www.ldextras.com](http://www.ldextras.com/).  Specific privacy policies, terms of use and information related to these websites may be found on each of those sites. 
 
-**Disclosure to third party service providers**  
-London Drugs uses third party service providers to assist in delivering, managing and improving various aspects of our business operations, including the operation of our website and the services we provide to our valued customers. 
+**Disclosure to and from third party service providers**  
+London Drugs uses third party service providers to assist in delivering, managing and improving various aspects of our business operations, including the operation of our website and the services we provide to our valued customers.
 
 In some cases, London Drugs needs to share customer personal information with its service providers.  Some examples of the type of situations where this may occur are set out elsewhere in this policy and include (but are not limited to):   to provide you with products and services you have requested; to operate and maintain our websites and online and ecommerce activities; to facilitate product warranty, repair, return, recall and customer service issues; for order fulfillment purposes; to send requested marketing communications; to enable financial and credit card transactions; to administer our LD _Extras_ Program; to verify and validate information that you have provided and for fraud prevention; and to transmit, process or host certain photofinishing services.
 
@@ -269,4 +269,4 @@ We are committed to setting the highest customer service standard within the ret
 
 We will continuously assess ourselves to ensure that customer privacy is respected. We will conduct our business in a manner that meets the expectations of our customers in the many communities in which we do business.
 
-_Updated May 8, 2017_
+_Updated November 21, 2017_
