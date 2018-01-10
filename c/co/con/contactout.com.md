@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactout.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217225437id_/http%3A//contactout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactout.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110175248id_/https%3A//contactout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ContactOut
 
