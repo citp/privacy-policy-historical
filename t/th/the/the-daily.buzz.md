@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-daily.buzz privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206231239id_/http%3A//the-daily.buzz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-daily.buzz privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110173327id_/http%3A//the-daily.buzz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
