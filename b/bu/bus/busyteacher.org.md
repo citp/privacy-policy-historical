@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209193613id_/http%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110023135id_/https%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for BusyTeacher.org » BusyTeacher: Free Printable Worksheets For Busy English Teachers
 
