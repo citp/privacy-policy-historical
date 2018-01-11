@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebargains.co.uk privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112010201id_/http%3A//www.homebargains.co.uk/privacyinfo.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebargains.co.uk privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111201717id_/http%3A//www.homebargains.co.uk/privacyinfo.aspx) for the most accurate reproduction.*
 
 # Home Bargains. Privacy Policy
 
@@ -14,7 +14,7 @@ Home Bargains is committed to protecting your privacy. The following Privacy Pol
 
 ** ** We collect information provided by you when you use our Website, including, and without limitation: 
 
-·          Information at the time of registering and setting up your account, subscribing to our newsletter, making a complaint or reporting a problem with the website and any other services that we may offer from time to time. 
+·          Information at the time of registering and setting up your account, subscribing to our newsletter, making a complaint or reporting a problem with the website and any other services that we may offer from time to time.
 
 ·          Information provided if you contact us in writing or over the phone, we may keep a record of all communications. 
 
@@ -78,4 +78,4 @@ Any changes to our privacy policy will be posted on this page and, will take eff
 
 If you would like to obtain a copy of the information we have about you please contact customer services and make an access request. All access requests will be subject to an administration fee of £10 to provide you with details of the information we hold about you. 
 
-You also have a right to be removed from any mailing list we hold at any time. To do this please edit your profile in the “My Account” section or use the _unsubscribe_ link on the email mailing.
+You also have a right to be removed from any mailing list we hold at any time. To do this please edit your profile in the “My Account” section or use the _unsubscribe_ link on the email mailing. 
