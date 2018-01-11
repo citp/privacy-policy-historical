@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopandshop.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206223329id_/https%3A//stopandshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopandshop.com privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111132417id_/https%3A//stopandshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Home - Privacy Policy - Stop and Shop
 
