@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the saveto.eu privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110032042id_/http%3A//saveto.eu/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveto.eu privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111144904id_/http%3A//saveto.eu/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Tourist Attraction
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#afcecbc2c6c1efdcced9cadbc081cada).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/cdn-cgi/l/email-protection#4f2e2b2226210f3c2e392a3b20612a3a).
 
 At www.saveto.eu we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.saveto.eu and how we use it. 
 
