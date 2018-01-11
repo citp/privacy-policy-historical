@@ -1,99 +1,141 @@
-> *The following text is extracted and transformed from the markit.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161953id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markit.com privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111043450id_/https%3A//ihsmarkit.com/privacy-policy-cookie-policy.html) for the most accurate reproduction.*
 
-# Markit.com | Privacy & Cookie Policy
+# IHS Markit - Privacy Policy
 
-Markit is committed to protecting your privacy. This privacy policy applies to the personal information we collect on this website and the personal information we handle about the individual representatives (which term may include, without limitation, employees, officers or contractors) of our subscribers.
+### IHS Markit Privacy Policy
 
-In addition, this privacy policy describes the type of information we gather and track, how the information is used, and with whom the information is shared.
+IHS Markit Ltd. and its subsidiaries and affiliates (collectively " **IHS Markit** ," " **us** ," " **we** ," or " **our** ") are committed to protecting your privacy and providing you with a positive experience while using our websites, products, or services (" **Platform** ").
 
-In general, you can visit Markit on the internet without disclosing who you are or giving any personal information about yourself. There are times, however, when Markit may need information from you to better serve you.
+IHS Markit reserves the right, at any time, to modify this Privacy Policy. If we make revisions that change the way we collect, use, or share personal information, we will post those changes in this Privacy Policy. If we make material changes to our Privacy Policy, we may also notify you by other means prior to the changes taking effect, such as by posting a notice on our Platform or sending you a notification. You should review this Privacy Policy periodically so that you keep up to date on our most current policies and practices. We will note the effective date of the latest version of our Privacy Policy at the end of this Privacy Policy.
 
-For Markit’s advertising-related policies and consumer opt-out procedures, please see the [Markit On Demand Digital Advertising Privacy Policy](https://ad.wsod.com/privacy.php).
+For IHS Markit’s advertising-related policies and consumer opt-out procedures, please see the [Advertising Privacy Policy](http://ad.wsod.com/privacy.php).
 
-* * *
+#### 1\. Scope
 
-Markit collects personal information that you voluntarily provide on this website, which may include your name, address, e-mail address, and other contact information. For example, Markit collects personal information when you register to receive more information about certain Markit services or products and or when you submit the information in order to receive support for Markit services or products to which you subscribe. Markit uses this information to communicate with you and to provide you with your requested information or support.
+This Policy applies to IHS Markit's Platform and provides you with guidance on your rights and obligations in relation to your personal information.
 
-If you are a representative of one of our subscribers, we may have received personal information about you from the subscriber (such as your name, work title and contact information). You also may provide us with your personal information directly in connection with your use of our offerings. This may include additional contact information, your date of birth, a copy of your passport (required by “know your customer” regulations), and payment information.
+IHS Markit's Privacy Policy (the " **Privacy Policy** ") establishes and communicates the key principles that IHS Markit follows in protecting the personal information that we collect. Please note that some privacy rights and obligations may differ in certain locations based on local law, in which case IHS Markit will comply with the local legal requirements. To the extent a notice provided at the time of collection from a website or specific product conflicts with this Privacy Policy, such specific notice or supplemental privacy statement will control.
 
-Markit primarily uses the personal information it collects to provide you with: (a) the services and data to which you are entitled; and (b) other information which you have requested. We also may use this personal information when analyzing and improving our services.
+#### 2\. Collection of Personal Information
 
-If you do not wish to provide such personal information to us, you are not obligated to, but as a result you may not be able to use our website or services. Some of the personal information we request from you is optional. This means that you can elect not to provide it to us and you still will be able to use our website or services. In most cases, we identify required personal information to you by displaying an asterisk (*) next to the field where we request the required personal information.
+" **Personal information** " is any information that can be used to identify an individual, and may include things such as your name, physical address, email address, phone number, login information, marketing preferences, company affiliation, geographic location, or payment card information. IHS Markit may collect personal information that is necessary for legitimate business purposes, which will be disclosed to you at the time of collection. IHS Markit will use this information for the purposes for which it was collected. IHS Markit may also collect personal information from trusted third-party sources and engage third parties to collect personal information to assist us.
 
-Markit may also provide you with information about our products and services. You may instruct Markit at any time not to use your personal information for this purpose by sending an email to [privacy@ihsmarkit.com](mailto:privacy@ihsmarkit.com).
+One of the most common methods of collecting personal information is during the online form submission or registration process, including where a website user is requesting a free trial or a courtesy newsletter, registering for an event, or responding to similar offers such as sample reports, white papers, or further product information.
 
-A “tell-a-friend” or other similar sharing tool provided on our website and/or in our e-mails allows you to send information about our products and offerings to another person. When you use these tools, we may ask you for the name and information of the other person. That information will be covered by this privacy policy. We will use it only to send the communication to your friend and for no other purpose.
+In some instances, IHS Markit and the third parties we engage may automatically collect and aggregate data using cookies, weblogs, web beacons, and other similar applications. This information is used to better understand and improve the usability, performance, and effectiveness of our Platform and to help us tailor content or offers for you. Please read the "Cookies" section below for more information.
 
-* * *
+#### 3\. Purpose and Use of Personal Information
 
-Markit uses reasonable administrative, technical, and physical measures: (a) to safeguard personal information against loss, theft, unauthorized use, disclosure, or modification; and (b) to ensure the integrity of the personal information. To help Markit protect your privacy, you should maintain the secrecy of the logon ID and password you may have set up in connection with your participation in the website or service.
+IHS Markit may use your personal information for operational, legal, administrative, and other legitimate purposes permitted by applicable law. Some of the ways we may use personal information include:
 
-From time to time Markit may supplement information you give Markit with information from other sources, such as information validating your address or other available information. This is to help Markit maintain the accuracy of the information it collects and to help Markit provide a better service.
+  * Providing you with requested products or services.
+  * Providing you with information regarding similar products or events.
+  * Analyzing and monitoring extent of use.
+  * Providing customized product and service information.
+  * Allowing users to participate voluntarily in mailings or other events.
+  * Providing product service updates, information, and alerts.
+  * Sending communications, including for marketing or other customer satisfaction purposes.
+  * Order processing, and to provide transaction documents. 
+  * To contact users for information verification purposes. 
 
-* * *
 
-Markit may store your personal information in its databases. The information may be retained and used by Markit for a reasonable period, reflecting Markit’s need to answer queries or resolve problems, provide new and improved services and any data retention requirements of the law.
 
-Markit may retain information after the individual has ceased interacting with us. We retain this information when we have a business purpose to do so, such as user authentication or verification checks.
+#### 4\. Right to Access and Correct Personal Information
 
-Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your right to request that we delete your personal information is set forth in the “Accuracy of your Personal Information; Your Access and Correction Rights” section below.
+We strive to make sure that our information is reliable, accurate, and up-to-date. While personal information is maintained by IHS Markit, you may access your personal information to the extent required by law to review, update, and correct inaccuracies. Upon request made to the contact listed below, we will provide you with reasonable access to the personal information we collect about you. Because personal information—for example, your email address—is required to use the Platform, we retain personal information as long as your account is active. You will have the opportunity to correct, transfer, update, modify, or delete this information by logging into your account and updating your information online. You may also limit the use and disclosure of your information by either unsubscribing from marketing communications or contacting us at the address listed below under the section titled "Contact Information" or by emailing [privacy@ihsmarkit.com](mailto:privacy@ihsmarkit.com). Please note that some information may remain in our records even after you request deletion of your information, to the extent permitted by the Privacy Shield Principles. Additionally, there may be limits to the amount of information we can practically provide. For example, we may limit access to personal information where the burden or expense of providing access would be disproportionate to the risks to an individual's privacy or where doing so would violate others' rights.
 
-* * *
+#### 5\. Sharing Personal Information
 
-Markit may disclose your personal information to unaffiliated third parties if we believe in good faith that such disclosure is necessary: (a) to comply with the law or in response to a court order, government request, or other legal process; (b) to protect the interests, rights, safety, or property of Markit or others; (c) to enforce any contract with you or our Subscriber who you represent, or any terms of service on this website; (d) to provide you with the services or products requested by you (including allowing a purchaser of a Markit division, or Markit as a whole, to continue to serve you), and to perform other activities related to such services and products, including billing and collection; (e) to provide you with information from Markit; or (f) to operate Markit's systems properly.
+IHS Markit may disclose personal information to its parent, subsidiary, affiliates, and other related companies. IHS Markit may disclose personal information to service providers for the purposes of operating our business, delivering, improving, and customizing our products or services, sending marketing and communications related to our business, payment processing, and for other legitimate purposes permitted by applicable law or otherwise with your consent. Personal information handled by these service providers is subject to their terms of use and privacy policies. Please review the service provider's terms of use and privacy policies to better understand how they manage your personal information. IHS Markit is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IHS Markit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-* * *
+There may also be instances when IHS Markit may disclose your personal information without providing you with a choice in order to honor a request that you have made through the products or services; comply with the law or in response to a court order, government request, or other legal process; protect the interests, rights, safety, or property of IHS Markit or others; protect against fraud or for risk management purposes; or respond to adverse third parties (i.e., adverse parties and their counsel and other agents) in the context of litigation. In addition, if IHS Markit sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, you agree that IHS Markit may transfer your personal information to a third party as part of that transaction.
 
-Markit sometimes collects non-identifiable information from visits to the website to help provide better customer service. Markit may use this data to analyse trends and statistics and to help provide better customer service.
+In all cases IHS Markit requires all unaffiliated third parties to treat personal information as confidential. IHS Markit will not provide personal information to third parties for their own marketing purposes without your consent.
 
-Markit will collect such information through the use of various technologies, including "cookies". A cookie is an alphanumeric identifier that we transfer to your computer’s hard drive through your web browser to enable our systems to recognise your browser. The cookie may then be stored on your computer as an anonymous tag that identifies your computer but not you. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You also can set your browser to turn off cookies. If you do so, some pages may not work properly and you do this at your own risk.
+If you participate in a discussion forum, chat room, or provide comments related to IHS Markit on a social media or other public platform, you should be aware that the information you provide there (i.e., your public profile) will be made broadly available to others, and could be used to contact you, send you unsolicited messages, or for purposes neither IHS Markit nor you have control over. Also, please recognize that social media forums and chat rooms not controlled by IHS Markit may have additional rules and conditions. IHS Markit is not responsible for the personal information or any other information you choose to submit on these forums that are not IHS Markit controlled. 
 
-The “help” menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
+The Platform may offer you the ability to share personal information through a social networking site (e.g., Facebook, Twitter), using such site's integrated tools (e.g., Facebook "Like" button, or Twitter "Tweet" button). The use of such integrated tools enables you to share personal information about yourself with other individuals or the public, depending on the settings that you have established with such social networking site. For more information about the purpose and scope of data collection and use in connection with such social networking site or a site's integrated tools, please visit the privacy policies of the entities that provide these social networking sites.
 
-Click for the [list of cookies](https://web.archive.org/web/20171231161953id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
+#### 6\. Security of Personal Information
 
-By using Markit’s website, you agree to our installation of these tracking technologies on your computer or device.
+IHS Markit has physical, administrative, and technical safeguards in place to help protect the personal information IHS Markit collects. While there is no such thing as perfect security on the Internet, we will take reasonable and appropriate steps to ensure the safety of your personal information.
 
-* * *
+#### 7\. Retention of Personal Information
 
-We may use third-party advertising companies to serve ads when you visit our website.
+IHS Markit will retain your personal information as needed to fulfill the purposes for which it was collected. We will retain and use your personal information as necessary to comply with our business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements.
 
-These companies may use information about your visits to this and other websites, and the region of the country or world where your IP address indicates you are located, in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this website and on other websites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you.
+#### 8\. Cookies
 
-We encourage you to read these businesses’ privacy policies to learn about how they treat your information. For more information about third-party advertisers and how to prevent them from using your information, visit the NAI’s consumer website at:
+When visiting an IHS Markit Platform, our servers may query your computer to see if there are cookies previously set by IHS Markit. A cookie is a text file that is created when your browser visits a particular website, such as an IHS Markit website. Afterwards, every time you visit the IHS Markit website, your browser retrieves and sends this file to the IHS Markit website's server. Cookies enhance the website user experience by:
 
-<http://www.networkadvertising.org/choices/>
+  * Helping IHS Markit authenticate you as a user when you log in to a secure area of the website; 
+  * Storing information about your website user activities so you may easily pick up where you left off on the IHS Markit server's pages;
+  * Storing your user preferences, which allows you to customize how information is presented through site layouts or themes; and
+  * Personalizing the manner in which IHS Markit responds to you via marketing communications.
 
-* * *
 
-We encourage you to review, update and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate (or label it as such) by contacting us using the “Contact Us” information detailed in the “Contact Us” section below. By contacting us, you also may object to our further use of your personal information if you have compelling legitimate grounds (this may involve discontinuing your access to our services).
 
-We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. We may charge you an administrative fee to process your request if doing so will require significant resources on our part, but we will inform you of the processing fee before we begin the work.
+The cookies IHS Markit collects may include the following information: a unique identifier, user preferences, and profile information used to personalize the content shown to the individual users. It is your choice whether you allow IHS Markit to store such information on your computer or device. You may be able to set your web browser to alert you when a cookie is being used, and may use your browser to accept or reject the cookie; additionally, you may also disable the cookie feature on your browser entirely. However, disabling cookies may prevent you from using some features on IHS Markit websites.  You can find more detailed information about cookies and how they work at AboutCookies.org.
 
-Your right to review, update, correct and delete your personal information may be limited: (i) if your requests are abusive or unreasonably excessive, (ii) where the burden or expense of providing you with these rights would be disproportionate to the risks to your privacy, (iii) where the rights or safety of another person or persons would be encroached upon, or (iv) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity.
+We may collect and share the physical location of your device with your consent for purposes consistent with this Privacy Policy, such as to provide you with personalized location-based products or services. In some instances, you may be permitted to allow or deny such use of your device's location, but if you choose to deny such use, we may not be able to provide you with the applicable personalized products or services.
 
-Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+Some web browsers and devices permit you to broadcast a preference that you not be "tracked" online. At this time, IHS Markit does not modify your experience based upon whether such a signal is broadcast.
 
-* * *
+IHS Markit participates in interest based advertising. This means that a third party may use cookies or similar technologies to collect information about your use of our products and services so that they can provide advertising about our products and services tailored to your interests. This advertising may appear either on our website, or on other sites.
 
-Some of the uses and disclosures mentioned in this privacy policy may involve the transfer of your personal information to various countries around the world. By submitting your personal information via this website, you consent to such transfers.
+#### 9\. Cross Border Transfer of Personal Information
 
-* * *
+As IHS Markit is a global organization, we may transfer your personal information to IHS Markit in the United States, to any IHS Markit subsidiary or affiliate, or to third parties as described above that are located in various countries around the world. By using our websites or products, or providing any personal information to us, where applicable law permits, you consent to the transfer, processing, and storage or such information outside of your country of residence where data protection standards may be different.
 
-Markit may provide links to third-party websites. Since Markit does not control third-party sites and is not responsible for any personal information you may provide while on such sites, Markit advises you to read the privacy policies on those websites before providing any of your personal information on such sites.
+IHS Markit safeguards and enables the global transfer of personal information in a number of ways:
 
-* * *
+  * **EU-US Privacy Shield**
 
-Markit may provide you with access to Markit services through links and/or dedicated frames (collectively, “Other Markit Services”). For example, you may have access to a Toolbar provided by our Hub service that allows you, amongst other things, to navigate data and content on both Markit and third party websites.
+IHS Markit, under the name Markit North America Inc. and its subsidiaries using the brand names Markit, IHS, CoreOne, and Compliance Technologies International (CTI), participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. IHS Markit is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [here](https://www.privacyshield.gov/participant?id=a2zt00000004FOCAA2).
 
-Your use of Other Markit Services shall be governed by any applicable terms of use and privacy policies. We recommend you review those before providing any personal information.
+IHS Markit is responsible for the processing of personal data it receives under the Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IHS Markit complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. In certain situations, IHS Markit may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-* * *
+With respect to personal information received or transferred pursuant to the Privacy Shield Framework, IHS Markit is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
-Markit reserves the right to change this privacy policy at any time by posting revisions on this web page. When we do, we will let you know by posting the changed privacy policy on this page with a new “Last Updated” date. Such changes will be effective upon posting. In some cases (for example, if we significantly expand our use or sharing of your personal information), we also may tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you.
 
-* * *
 
-Any questions, concerns, or complaints concerning our collection and use of personal information should be directed to us at the address given below. We will conduct a reasonable investigation of and will attempt to resolve any complaints in accordance with the principles contained in this privacy policy.
 
-* * *
+If you have any complaints regarding our compliance with this Privacy Policy, you should first contact us at the address listed below under the section titled "Contact Information" or by emailing [privacy@ihsmarkit.com](mailto:privacy@ihsmarkit.com). We will investigate and attempt to resolve complaints and disputes regarding collection, use, and disclosure of personal information in accordance with this Privacy Policy.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact JAMS, our U.S.-based third party dispute resolution provider (free of charge) by clicking [here](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim). Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. If you are an employee, past employee, or prospective employee, please see Section 10 for information concerning who to contact if you have an unresolved privacy or data use concern.
+
+#### 10\. Prospective Employee and Employee Information
+
+If you submit an application for employment to or are currently an employee of IHS Markit, IHS Markit is authorized to collect the information in any form it obtains through your application for employment or continued employment with IHS Markit, and your submission of employee related documents, including but not limited to the personal information that you submit in connection with your employment or intended employment (collectively " **Employee Information** "). Examples of Employee Information collected in connection with your employment or application for employment includes but is not limited to your name, date of birth, government issued identification (passport, social security number, driver's license number), banking information, marital status, health information, benefit information, title, employment history, education, job qualifications, and other relevant employee personal data. We also collect some of this information about your dependents when you provide it to us when you enroll in health and other benefits or provide contact information. By providing personal information about family members or other individuals, you represent that you have their consent to provide this information to us for the purposes set forth in this Privacy Policy. Employee Information does not include any information that is available to the general public and excludes information generally available on a business card.
+
+IHS Markit will collect, use, store and retain, and secure your social security number in accordance with this Privacy Policy. IHS Markit will not intentionally communicate or make available, in any manner, your social security number to the general public. IHS Markit will not print your social security number on any card required for you to access colleague member services provided by IHS Markit. IHS Markit will not require you to transmit your social security number over the Internet, unless the connection is secure or the social security number is encrypted. IHS Markit will not print your social security number on any materials that are mailed to you, unless state or federal law requires or permits the social security number to be on the document to be mailed.
+
+In accordance with applicable law, IHS Markit may use Employee Information to evaluate applications for employment, manage work-related aspects of the employee-employer relationship (i.e., training, payroll, benefits, travel, reimbursement expenses, performance appraisals, succession planning, team member health and safety), investigate and respond to any claims related to your employment, and comply with applicable laws and regulations. Your Employee Information will not be used for direct marketing purposes by us or any third party service provider, unless you specifically consent to such use.
+
+IHS Markit shares your Employee Information with third parties who provide outsourced human resource functions to us. Those third parties are required to protect your Employee Information. IHS Markit may disclose your Employee Information if required or permitted to do so by law (such as when part of a governmental agency action or litigation), governmental or quasi-governmental requests, or a regulatory organization, or to relevant third parties such as site technicians, brokers, auditors, lawyers, or professional advisors. In the event that IHS Markit considers it necessary or where required by law to disclose Employee Information in certain situations where the health, safety, or wellbeing of a team member is at imminent risk, we may share your Employee Information with our outside lawyers, law enforcement or others who are legally authorized. As IHS Markit continues to develop our business, we may buy or sell assets. In the unlikely event that IHS Markit or substantially all of our assets are acquired, Employee Information may be one of the transferred assets.
+
+Employee Information may be stored in hard copy or electronic format within your branch office or in the cloud in the United States or other countries where IHS Markit, its affiliates, agents, or contractors conduct business. Your Employee Information may be transferred into our human resources systems and used to manage your employment, may become part of your personnel file, and may be used for other work-related purposes. Your Employee Information will be kept for as long as is legally required, and in some instances longer depending upon the needs of the organization and industry practices.
+
+If you have any complaints regarding our compliance with this Privacy Policy, you should first contact us at the address listed below under the section titled "Contact Information" or by emailing [privacy@ihsmarkit.com](mailto:privacy@ihsmarkit.com). If you are a citizen of the European Union and you have an unresolved concern regarding your Employee Information that we have not addressed satisfactorily, please contact your local data protection authority.
+
+#### 11\. Other Contractual Relationships
+
+If you enter into a separate contractual relationship with IHS Markit which requires, or contemplates, collecting, using, or sharing information about you in a manner that is different than that which is described in this Privacy Policy, the terms of that agreement will apply.
+
+#### 12\. Other Websites
+
+This Privacy Policy does not apply to sites or applications offered by other companies or individuals, including third party products and services, that may be displayed as content in a search on our website. IHS Markit encourages you to read the privacy policy of any third party site or applications before transmitting personal information.
+
+#### 13\. Contact Information
+
+If you have any questions or concerns related to this Privacy Policy, please contact the IHS Markit Chief Privacy Officer:
+
+IHS Markit  
+321 Inverness Drive South  
+Englewood, CO 80112  
+Attn: Chief Privacy Officer  
+[privacy@ihsmarkit.com](mailto:privacy@ihsmarkit.com)
+
+If IHS Markit needs, or is required, to contact you concerning any event that involves information about you we may do so by email, telephone, or mail.
+
+Updated December 19, 2017.
