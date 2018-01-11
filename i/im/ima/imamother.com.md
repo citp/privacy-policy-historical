@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imamother.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111054847id_/http%3A//www.imamother.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imamother.com privacy policy that was archived on 2018-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180111174751id_/http%3A//www.imamother.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Imamother.com
 
