@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanbuzz.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127001055id_/http%3A//fanbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbuzz.com privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112010935id_/https%3A//fanbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fanbuzz – Sports News – NFL | NCAA | NBA | WWE
 
