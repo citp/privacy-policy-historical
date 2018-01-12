@@ -1,122 +1,107 @@
-> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114094817id_/http%3A//www.tylerpaper.com/cp/fbc-71/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112024034id_/https%3A//tylerpaper.com/site/privacy.html) for the most accurate reproduction.*
 
-# Tyler Morning Telegraph - Privacy Policy
+# Privacy Policy | Site | tylerpaper.com
 
-This Policy governs the use and collection of your information by T.B. Butler Publishing Company, Inc. and its affiliated companies (collectively the, “Newspaper”, “we”, “us”, or “our”) when you use certain of the Newspaper’s digital products, including any of our websites, mobile versions thereof, and downloadable mobile applications that display an authorized link to this Policy (collectively, the “Services”). This Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Policy does not apply to information you provide when you subscribe by postal mail, telephone, at a live event, by survey, or by invitation to a sweepstakes.
+Privacy Policy
+
+This Policy governs the use and collection of your information by T.B. Butler Publishing Company, Inc. and its affiliated companies (collectively the, "Newspaper", "we", "us", or "our") when you use certain of the Newspaper's digital products, including any of our websites, mobile versions thereof, and downloadable mobile applications that display an authorized link to this Policy (collectively, the "Services"). This Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Policy does not apply to information you provide when you subscribe by postal mail, telephone, at a live event, by survey, or by invitation to a sweepstakes.
 
 Please read this Policy carefully so that you understand our online privacy practices. By using any of our Services, you agree that your use and any dispute over our privacy practices are governed by this Policy as well as our Terms of Service.
 
-**What Types of Information Do We Collect?**
+What Types of Information Do We Collect?
 
-  
-The information we gather falls into two categories: (1) information (e.g., your name, e-mail address, mailing address, etc.) that you voluntarily supply when you register, initiate transactions, or communicate with us; and (2) information collected automatically when you navigate our Services. In some cases, a vendor or service provider of ours collects information on our behalf. Third-party providers featured on or linked to by our Services may also gather information through processes that we do not control. As such, collection of such information is subject to the third-party’s privacy policies.
+The information we gather falls into two categories: (1) information (e.g., your name, e-mail address, mailing address, etc.) that you voluntarily supply when you register, initiate transactions, or communicate with us; and (2) information collected automatically when you navigate our Services. In some cases, a vendor or service provider of ours collects information on our behalf. Third-party providers featured on or linked to by our Services may also gather information through processes that we do not control. As such, collection of such information is subject to the third-party's privacy policies.
 
-**Registration and Other Personal Information**
+Registration and Other Personal Information
 
-  
-When we use the term “Personal Information” in this Policy, we are referring only to information that uniquely identifies a specific individual such as the individual’s name, phone number, mailing address, or e-mail address. It may also be information about an individual’s online activity. 
+When we use the term "Personal Information" in this Policy, we are referring only to information that uniquely identifies a specific individual such as the individual's name, phone number, mailing address, or e-mail address. It may also be information about an individual's online activity.
 
-We may ask you for Personal Information when you register for or use various aspects of our Services, including when you order products or services, complete a survey, enter a contest, or report a problem with our Services. We may also collect contact information about other individuals when you use the ‘sharing’ tools available within our Services to share content or offers with your friends and associates. As such, please note that if you use any “send-to-friend” features of our Services, your e-mail address may be included in the communication sent to your friend.
+We may ask you for Personal Information when you register for or use various aspects of our Services, including when you order products or services, complete a survey, enter a contest, or report a problem with our Services. We may also collect contact information about other individuals when you use the ‘sharing' tools available within our Services to share content or offers with your friends and associates. As such, please note that if you use any "send-to-friend" features of our Services, your e-mail address may be included in the communication sent to your friend.
 
-**Aggregated Information**
+Aggregated Information
 
-  
-Much of the information we collect is compiled into aggregated statistics, such as traffic generated by visits onto various pages or the surfing habits and preferences of our audience. Such aggregated information does not include any information that would specifically identify you and does not constitute “Personal Information” under the Policy. Such information is often used to diagnose and resolve server problems, analyze trends, and improve our products, services, and offerings. As such, we may disclose Aggregated Information or other similar data and metrics to third parties as we see fit.
+Much of the information we collect is compiled into aggregated statistics, such as traffic generated by visits onto various pages or the surfing habits and preferences of our audience. Such aggregated information does not include any information that would specifically identify you and does not constitute "Personal Information" under the Policy. Such information is often used to diagnose and resolve server problems, analyze trends, and improve our products, services, and offerings. As such, we may disclose Aggregated Information or other similar data and metrics to third parties as we see fit.
 
-  
-**Information We Collect Automatically When You Use Our Services   **
+Information We Collect Automatically When You Use Our Services 
 
-  
 We may collect certain information automatically when you use our Services, including:
 
-  * Your browser type, browser identifiers, language, plug-ins, Internet domain, and operating system;
-  * Your Internet Protocol (“IP”) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
-  * The site you visited before visiting our Services and the site you visit after leaving our Services;
-  * Content and advertisements you view and links you click on while navigating within our Services;
-  * Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
-  * Information collected through cookies, web beacons, and other similar technologies;
-  * Information about your interactions with our video content, such as the type of content viewed using our Services;
-  * Information about your interactions with our e-mail messages, such as the links you click on and whether you open or forward a message; and
-  * Standard server log information.
+\- Your browser type, browser identifiers, language, plug-ins, Internet domain, and operating system;
 
+\- Your Internet Protocol ("IP") address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
 
+\- The site you visited before visiting our Services and the site you visit after leaving our Services;
 
-**What Are Cookies, Scripts and Web Beacons and Why Do We Use Them?**
+\- Content and advertisements you view and links you click on while navigating within our Services;
 
-  
+\- Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
+
+\- Information collected through cookies, web beacons, and other similar technologies;
+
+\- Information about your interactions with our video content, such as the type of content viewed using our Services;
+
+\- Information about your interactions with our e-mail messages, such as the links you click on and whether you open or forward a message; and
+
+\- Standard server log information.
+
+What Are Cookies, Scripts and Web Beacons and Why Do We Use Them?
+
 Cookies are alphanumeric identifiers stored within your browser. Cookies are accessed and recorded by the websites and companies you visit so that companies may recognize your browser as you navigate online.
 
-  
 We use cookies for the following general purposes, among other purposes:
 
-  * To help us recognize your browser as a previous visitor so that we may save and remember any preferences that may have been set when you last visited us. For example, if you register for our Services, we may store your username and password to save you time and convenience when you visit.
-  * To help control the display of advertisements you see and customize the content you encounter while using our Services.
-  * To help us measure and analyze visitor traffic and usage patterns as well as to improve the quality and effectiveness of our content, features, advertisements, and other communications.
+\- To help us recognize your browser as a previous visitor so that we may save and remember any preferences that may have been set when you last visited us. For example, if you register for our Services, we may store your username and password to save you time and convenience when you visit.
 
+\- To help control the display of advertisements you see and customize the content you encounter while using our Services.
 
+\- To help us measure and analyze visitor traffic and usage patterns as well as to improve the quality and effectiveness of our content, features, advertisements, and other communications.
 
 Some of our third-party affiliates may also place cookies within your browser. We do not control these cookies. You may set your browser to accept or reject most cookies, but blocking cookies may prevent access to some of the features of our Services.
 
-**Web Beacons and Other Tracking Technologies**
+Web Beacons and Other Tracking Technologies
 
-  
 In delivering our Services, we may use scripts, web beacons, and/or similar technologies to collect information about your use of our Services. We use web beacons to improve your experience when you use our Services through providing you with content, advertising, and offers customized to your interest, as well as to understand whether our users read email messages and access links contained within those messages.
 
-**How Do We Use Your Personal Information?**
+How Do We Use Your Personal Information?
 
-  
 We believe we can enhance your experience using our Services by analyzing the information you share with us. We analyze the Personal Information you share to improve our advertising and marketing efforts, to statistically analyze Services usage, to improve our content and product offerings, and to personalize the content, layout, and features of our Services. We also use your Personal Information to respond to your comments and questions. We may also use your Personal Information to contact you regarding products and/or services that we think may be of interest to you unless you have elected not to receive these promotions.
 
-  
-We may also match Personal Information we collect through our Services with other information about you supplied by third parties so that we can provide you with customized product and content offerings, as well as to otherwise improve our advertising and marketing efforts.
+We may also match Personal Information we collect through our Services with other information about you supplied by third parties so that we can provide you with customized product and content offerings, as well as to otherwise improve our advertising and marketing efforts. After registering with one of our Services, you may receive communications from us related to products and services that we believe will interest you. Although we hope you will find these communications informative and useful, you can opt-out from receiving these types of communications from us at any time.
 
-After registering with one of our Services, you may receive communications from us related to products and services that we believe will interest you. Although we hope you will find these communications informative and useful, you can opt-out from receiving these types of communications from us at any time. 
+With Whom Do We Share Your Personal Information?
 
-**With Whom Do We Share Your Personal Information?**
+Our Affiliated Companies
 
-**Our Affiliated Companies**
-
-  
 We may share any information that we collect with any company that is directly or indirectly owned, controlled, or operated by the Newspaper. This is so that the Newspaper and its affiliated companies can communicate with you about products and services that we believe may be of interest to you. The use and further disclosure of the information collected through our Services by our affiliated companies will be governed by this Policy.
 
-  
-**Vendors, Service Providers and Provider Partners**
+Vendors, Service Providers and Provider Partners
 
-** **  
-We currently have and will continue to have arrangements with third-party vendors and service providers (e.g., credit card processors, shipping companies, fulfillment services, etc.) that assist us with the operation and development of our Services. We reserve the right to share with these companies any information we collect, provided that they commit to use the Personal Information only in relation for the services they provide for us or our users. 
+We currently have and will continue to have arrangements with third-party vendors and service providers (e.g., credit card processors, shipping companies, fulfillment services, etc.) that assist us with the operation and development of our Services. We reserve the right to share with these companies any information we collect, provided that they commit to use the Personal Information only in relation for the services they provide for us or our users. To make our Services more valuable to our visitors, we may offer some features of our Services in conjunction with other unaffiliated companies ("Provider Partners") that specialize in operating such features. For example, we may offer a car buying service, personalized finance and weather information services, social networking tools, sweepstakes offers, or other promotions through cooperative arrangements with Provider Partners. We share Personal Information with our Provider Partners as is useful or necessary for them to provide you with the features that they offer through our cooperative arrangement with them. Some of these Provider Partners may also collect their own Personal Information in connection with providing their services. Their use of such information will be subject to their own privacy policies. Other
 
-To make our Services more valuable to our visitors, we may offer some features of our Services in conjunction with other unaffiliated companies (“Provider Partners”) that specialize in operating such features. For example, we may offer a car buying service, personalized finance and weather information services, social networking tools, sweepstakes offers, or other promotions through cooperative arrangements with Provider Partners. We share Personal Information with our Provider Partners as is useful or necessary for them to provide you with the features that they offer through our cooperative arrangement with them. Some of these Provider Partners may also collect their own Personal Information in connection with providing their services. Their use of such information will be subject to their own privacy policies. 
+Disclosures
 
-**Other Disclosures**
-
-  
 Notwithstanding anything to the contrary stated in this Policy or within our Services, we reserve the right to release Personal Information about our users when we deem such release to be appropriate to comply with applicable law, respond to compulsory process or law enforcement requests, enforce our Terms of Service, or protect the rights, property or safety of our users, the public, the Newspaper and its affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or within our Services, we reserve the right to disclose or transfer any information we collect to third parties, in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation, or any other type of acquisition, disposal, transfer, conveyance, or financing of all or any portion of the Newspaper or our affiliates.
 
-**What Other Parties Might Be Collecting Information When You Use Our Services?**
+What Other Parties Might Be Collecting Information When You Use Our Services?
 
-**Third-Party Advertising, Data and Analytics Companies**
+Third-Party Advertising, Data and Analytics Companies
 
-We work with third-party advertising companies and data providers to focus and serve some of the advertisements you see on our Services and websites, to send e-mails on our behalf, and to provide related analytics, forecasting, and optimization services. Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative (“NAI”) and/or the Digital Advertising Alliance (“DAA”). To learn more about the information collection practices of NAI and DAA members and your opt-out choices, please visit the NAI’s website here or the DAA’s website (and opt-out mechanism) at http://www.aboutads.info. Some of the ads you see in our Services may contain cookies and web beacons that are managed by other third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Services, we encourage you to contact the applicable advertiser.
+We work with third-party advertising companies and data providers to focus and serve some of the advertisements you see on our Services and websites, to send e-mails on our behalf, and to provide related analytics, forecasting, and optimization services. Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"). To learn more about the information collection practices of NAI and DAA members and your opt-out choices, please visit the NAI's website here or the DAA's website (and opt-out mechanism) at http://www.aboutads.info. Some of the ads you see in our Services may contain cookies and web beacons that are managed by other third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Services, we encourage you to contact the applicable advertiser.
 
-  
 When you visit our mobile websites or use our mobile applications, third-party mobile advertising networks in which we participate may collect certain information, including your unique device ID and information about your wireless carrier, carrier user ID, the make, model, and operating system of your device, cookies stored on your mobile browser, location information, and information about how you navigate within our Services. These networks may collect and track such information over time and combine it with other information collected when you access other mobile websites and applications that participate in the network to display advertising that is customized to your interests.
 
-**Blogs, Discussion Forums and Community or Social Networking Areas**
+Blogs, Discussion Forums and Community or Social Networking Areas
 
-   
 This Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services, or promotions offered on or through the Services, or through other websites throughout the Internet, different policies will apply and the Newspaper will not be responsible for the use or dissemination of such information. Our Services may offer social network tools, message boards, chat rooms, or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like). If you disclose Personal Information in one of these forums, the information can be viewed, collected, and used by others. The Newspaper is not responsible for the dissemination of information you disclose in these forums. We encourage you to consult the forum rules and the Terms of Service regarding the policies and procedures that apply to that portion of our Services.
 
-  
-**Co-branded Sites and Services**
+Co-branded Sites and Services
 
-  
-Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use the Newspaper name or the name of one of our affiliated companies or Services. Since the Newspaper does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties. The Newspaper will not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties’ privacy policies before you disclose your Personal Information to others.
+Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use the Newspaper name or the name of one of our affiliated companies or Services. Since the Newspaper does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties. The Newspaper will not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
 
-**How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?**
+How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?
 
-You may choose to “opt-out” of sharing Personal Information in several ways. When choosing to use certain features of the Services, you may choose whether to share optional Personal Information in connection with the feature. If you receive e-mail, phone, or mail communications from one of our websites that you prefer not to receive from, you may opt-out from receiving these communications by modifying the notifications options in your registration profile. 
+You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features of the Services, you may choose whether to share optional Personal Information in connection with the feature. If you receive e-mail, phone, or mail communications from one of our websites that you prefer not to receive from, you may opt-out from receiving these communications by modifying the notifications options in your registration profile.
 
-  
 In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from the Newspaper by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to circulation@tylerpaper.com or by postal mail to:
 
 Circulation Department
@@ -127,80 +112,83 @@ Tyler Morning Telegraph
 
 Tyler, Texas 75702
 
-You may “opt-out” altogether from providing Personal Information to us by not registering on the Services, or registering for any Newspaper sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. 
+You may "opt-out" altogether from providing Personal Information to us by not registering on the Services, or registering for any Newspaper sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile.
 
-**How Can You Update Your Personal Information or Registration Information?**
+How Can You Update Your Personal Information or Registration Information?
 
-   
-For certain services and options, we require you to register a profile with us online and provide information including, but not limited to, your name, street address, city, state, zip code, email address (collectively, “Registration Information”). You can manage your Registration Information by accessing your online profile. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes.  
-You may also change or delete your profile and its related Registration Information from our database using this procedure at any time. You should know that if you choose to delete your profile, certain aspects of our Services may no longer be accessible to you.
+For certain services and options, we require you to register a profile with us online and provide information including, but not limited to, your name, street address, city, state, zip code, email address (collectively, "Registration Information"). You can manage your Registration Information by accessing your online profile. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes. You may also change or delete your profile and its related Registration Information from our database using this procedure at any time. You should know that if you choose to delete your profile, certain aspects of our Services may no longer be accessible to you.
 
-**What Safeguards Do We Put in Place to Protect Your Personal Information?**
+What Safeguards Do We Put in Place to Protect Your Personal Information?
 
-   
 The Newspaper does its best to maintain reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database nor can we guarantee that the Personal Information you supply will not be intercepted while being transmitted to us over the Internet.
 
-  
-For purposes described in this Policy, Personal Information may be transferred to, processed, stored, and accessed by us, our affiliates, and our service providers in the United States and in jurisdictions where any of us may operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. By using the Services, you consent to this transfer, processing, storage, and access of your Personal Information in and/or outside of the jurisdiction in which you reside. 
+For purposes described in this Policy, Personal Information may be transferred to, processed, stored, and accessed by us, our affiliates, and our service providers in the United States and in jurisdictions where any of us may operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. By using the Services, you consent to this transfer, processing, storage, and access of your Personal Information in and/or outside of the jurisdiction in which you reside.
 
-**What Should You Know About Third-Party Sites and Advertising?**
+What Should You Know About Third-Party Sites and Advertising?
 
-   
-Our Services include links to many third-party websites and provide access to products and services offered by third parties whose privacy policies **_we do not control_**. Any use of a third-party website is **_AT YOUR OWN RISK_**. When you access another website, purchase products or services from it, or conduct transactions through third-party links, use of any Personal Information you provide will be governed by the privacy policy, if any, of the third-party website. The Newspaper assumes no responsibility or liability whatsoever for the content or privacy practices, if any, of the operators of any such linked websites. The mere linking to a third-party website does not imply endorsement or sponsorship by the Newspaper of the website, products, or services offered on the third-party website.
+Our Services include links to many third-party websites and provide access to products and services offered by third parties whose privacy policies we do not control. Any use of a third-party website is AT YOUR OWN RISK. When you access another website, purchase products or services from it, or conduct transactions through third-party links, use of any Personal Information you provide will be governed by the privacy policy, if any, of the third-party website. The Newspaper assumes no responsibility or liability whatsoever for the content or privacy practices, if any, of the operators of any such linked websites. The mere linking to a third-party website does not imply endorsement or sponsorship by the Newspaper of the website, products, or services offered on the third-party website.
 
-**The Children’s Online Privacy Protection Act**
+The Children's Online Privacy Protection Act
 
-** **  
-We do not knowingly collect nor do we encourage the collection of any Personal Information from anyone below the age of 13. **_Do not use the Services_** if you are under the age of 13.
+We do not knowingly collect nor do we encourage the collection of any Personal Information from anyone below the age of 13. Do not use the Services if you are under the age of 13.
 
-**How Do You Contact Us?**
+How Do You Contact Us?
 
-   
-If you have any questions or comments about our Policy, please contact [webmaster@tylerpaper.com](mailto:webmaster@tylerpaper.com) .
+If you have any questions or comments about our Policy, please contact webmaster@tylerpaper.com.
 
-**What Should You Know About “Phishing?”**
+What Should You Know About "Phishing?"
 
-   
-What we do NOT do: a warning about “phishing.”
+What we do NOT do: a warning about "phishing."
 
-  
-We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone call.  Identity theft and the practice currently known as “phishing” are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at http://www.ftc.gov/.
+We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone call.  Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at http://www.ftc.gov/.
 
-  
-**Your California Privacy Rights.**
+Your California Privacy Rights
 
-  
-If you are a California resident and would like to request the list that your Personal Informational may have been marketed to, please submit your request by email to [circulation@tylerpaper.com](mailto:circulation@tylerpaper.com) .
+If you are a California resident and would like to request the list that your Personal Informational may have been marketed to, please submit your request by email to circulation@tylerpaper.com.
 
-**When is this Privacy Policy Effective?  How Do We Post Changes to the Privacy Policy?**
+When is this Privacy Policy Effective? How Do We Post Changes to the Privacy Policy?
 
 This Policy is effective as of February 3, 2016. The Newspaper reserves the right to modify the terms of this Policy at any time by posting a change notice to this page and/or on the Services. Your continued viewing, browsing, use or access of the Services following our posting of a change notice will constitute your binding acceptance of those changes.
 
-**Unforeseen Circumstances**
+Unforeseen Circumstances
 
-  
-We care about your privacy and strive to protect your Personal Information. However, The Newspaper recognizes that there are often circumstances beyond our control. In these situations, please be aware that unauthorized access to your Personal Information may occur. If access occurs, we will do our best to rectify the situation, but we are not liable for the damages or effects of such breach. 
+We care about your privacy and strive to protect your Personal Information. However, The Newspaper recognizes that there are often circumstances beyond our control. In these situations, please be aware that unauthorized access to your Personal Information may occur. If access occurs, we will do our best to rectify the situation, but we are not liable for the damages or effects of such breach.
 
-**Security**
+Security
 
-  
 To aid in the protection of your Personal Information, please use caution when accessing our Services on any public computer. Recognize that public computers are not considered secure and that using your personal login or account on a public computer or network may comprise its security and your Personal Information. We are not liable for any damages that may result from such a security breach.
 
-**Termination.** We may, in our sole discretion, terminate or suspend your access to all or part of the Services for any reason, including breach of the Terms of Service or the Policy. If we terminate your access or account, you agree that the following provisions will survive (as defined by the Terms of Service): the provisions regarding limitations on your use of Content, the license(s) you have granted us, and all other provisions for which survival is equitable or appropriate, including indemnity and limitations of liability. Please refer to the Terms of Service for more information. 
+Termination
 
-**Entire Agreement.** This Policy along with our Terms of Service constitutes the entire agreement between you and us, and supersedes all prior and contemporaneous agreements or other communications (written or oral) between you and us. In entering into these agreements, all parties represent and warrant that they did not rely upon any prior representations, discussions, agreements, or negotiations not otherwise contained in the Terms of Service and Privacy Policy and that the Terms of Service and Privacy Policy constitutes the entire agreement between the parties. We may amend our policies and terms at any time. If you do not accept the Policy, Terms of Service, or any amendments thereto at any time, you agree to discontinue your use of our Services.
+We may, in our sole discretion, terminate or suspend your access to all or part of the Services for any reason, including breach of the Terms of Service or the Policy. If we terminate your access or account, you agree that the following provisions will survive (as defined by the Terms of Service): the provisions regarding limitations on your use of Content, the license(s) you have granted us, and all other provisions for which survival is equitable or appropriate, including indemnity and limitations of liability. Please refer to the Terms of Service for more information.
 
-**Governing Law; Statute of Limitations.** This agreement will be construed, interpreted, and governed in accordance with the laws of the State of Texas without application of choice-of-law provisions that would require the application of the laws of another jurisdiction. By accepting this agreement, all parties irrevocably submit themselves to the exclusive personal jurisdiction and venue of the state and federal courts of Smith County, Texas, with regard to any dispute between them, arising under, or relating to this agreement. The parties also hereby waive any venue or personal jurisdiction challenge they may have to a lawsuit relating to or arising under this agreement that has been filed in a state or federal court in Smith County, Texas. You agree to file any claim you have arising out of or related to the Services within one 1 year after the claim accrues; otherwise, such claim will be permanently barred.
+Entire Agreement
 
-**Severability; No Waiver.** If any provision of the Policy is found to be unenforceable, that provision will be enforced to the maximum extent permissible, and the remainder of the Policy will continue in full force and effect. Any failure of ours to enforce or exercise any provision of the Policy or related right will not constitute a waiver of that right or provision.
+This Policy along with our Terms of Service constitutes the entire agreement between you and us, and supersedes all prior and contemporaneous agreements or other communications (written or oral) between you and us. In entering into these agreements, all parties represent and warrant that they did not rely upon any prior representations, discussions, agreements, or negotiations not otherwise contained in the Terms of Service and Privacy Policy and that the Terms of Service and Privacy Policy constitutes the entire agreement between the parties. We may amend our policies and terms at any time. If you do not accept the Policy, Terms of Service, or any amendments thereto at any time, you agree to discontinue your use of our Services.
 
-**International Law.** We control, operate, and administer the Services from the United States. We make no representation that any material on our Services is appropriate or available for use outside of the United States. Illegal access to the Services from territories where their content is illegal is prohibited. You may not use the Services or export them in violation of U.S. export laws, rules, and regulations. If you access the Services from a location outside the United States, you are responsible for compliance with all applicable laws. 
+Governing Law; Statute of Limitations
 
-**Electronic Communications.** Communications from us to you will be sent via electronic mail. You agree that this satisfies any legal requirement of “in writing” from us to you.
+This agreement will be construed, interpreted, and governed in accordance with the laws of the State of Texas without application of choice-of-law provisions that would require the application of the laws of another jurisdiction. By accepting this agreement, all parties irrevocably submit themselves to the exclusive personal jurisdiction and venue of the state and federal courts of Smith County, Texas, with regard to any dispute between them, arising under, or relating to this agreement. The parties also hereby waive any venue or personal jurisdiction challenge they may have to a lawsuit relating to or arising under this agreement that has been filed in a state or federal court in Smith County, Texas. You agree to file any claim you have arising out of or related to the Services within one 1 year after the claim accrues; otherwise, such claim will be permanently barred.
 
-**Reporting Abuse.** We provide a monitored and active email address for you to report abuse. If you believe any content on the Services is against our Terms of Service, please contact us by sending an email to [webmaster@tylerpaper.com](mailto:webmaster@tylerpaper.com) .
+Severability; No Waiver
 
-**Notices.** Any notices or communications from you to us must be in writing, in English, and sent to the address below:
+If any provision of the Policy is found to be unenforceable, that provision will be enforced to the maximum extent permissible, and the remainder of the Policy will continue in full force and effect. Any failure of ours to enforce or exercise any provision of the Policy or related right will not constitute a waiver of that right or provision.
+
+International Law
+
+We control, operate, and administer the Services from the United States. We make no representation that any material on our Services is appropriate or available for use outside of the United States. Illegal access to the Services from territories where their content is illegal is prohibited. You may not use the Services or export them in violation of U.S. export laws, rules, and regulations. If you access the Services from a location outside the United States, you are responsible for compliance with all applicable laws.
+
+Electronic Communications
+
+Communications from us to you will be sent via electronic mail. You agree that this satisfies any legal requirement of "in writing" from us to you.
+
+Reporting Abuse
+
+We provide a monitored and active email address for you to report abuse. If you believe any content on the Services is against our Terms of Service, please contact us by sending an email to webmaster@tylerpaper.com.
+
+Notices
+
+Any notices or communications from you to us must be in writing, in English, and sent to the address below:
 
 Editor
 
