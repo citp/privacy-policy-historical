@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carrollu.edu privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917040702id_/http%3A//www.carrollu.edu/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrollu.edu privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112201051id_/https%3A//www.carrollu.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Carroll University
+# Website Privacy Policy | Carroll University
 
 This privacy statement discloses the privacy practices for Carroll University in association with offering information and services through the website www.carrollu.edu ("Site" or "Website").
 
@@ -8,7 +8,7 @@ This privacy statement discloses the privacy practices for Carroll University in
 
 Carroll University, Inc. is the sole owner of information collected by this site. This website (Site) collects general information from you that does not identify you personally. Information collected on this Site is used solely for the purposes of offering the associated activities, information and services to you as a visitor of the Site and to improve the Site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement.
 
-We do not collect Personally Identifiable Information from you, other than what you supply to us on a voluntary basis. However, in order to participate in some activities, you might be asked to voluntarily provide some Personally Identifiable Information. This could be in connection with the following: 
+We do not collect Personally Identifiable Information from you, other than what you supply to us on a voluntary basis. However, in order to participate in some activities, you might be asked to voluntarily provide some Personally Identifiable Information. This could be in connection with the following:
 
   * Contest registration.
   * Subscription registration for sites or services that require subscription (such as email newsletters).
@@ -46,7 +46,7 @@ Our use of Google Analytics has been configured to not share data with other Goo
 
 ## Server Logs
 
-Our Web servers will create log files that contain all or some of the following information: 
+Our Web servers will create log files that contain all or some of the following information:
 
   * The date, time and length of your visit.
   * The path taken through our website and the browser being used.
