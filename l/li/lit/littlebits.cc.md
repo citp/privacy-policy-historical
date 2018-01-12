@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112235050id_/http%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlebits.cc privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112092503id_/https%3A//littlebits.cc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -15,11 +15,11 @@ _Attn_ : Customer Service
 601 W. 26th Street, Suite M274  
 New York, New York, 10001  
 (917) 464-4577  
-[info[AT]littleBits.cc ](https://web.archive.org/cdn-cgi/l/email-protection#0a63646c654a66637e7e666f68637e7924696935797f68606f697e372f383845646663646f2f383a5a78637c6b69732f3838)
+[info[AT]littleBits.cc ](https://web.archive.org/cdn-cgi/l/email-protection#6801060e072804011c1c040d0a011c1b460b0b571b1d0a020d0b1c554d5a5a27060401060d4d5a58381a011e090b114d5a5a)
 
 **2\. User Consent.  **By visiting the Site or using our Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use, and disclosure of your information in accordance with this Privacy Policy.
 
-**3\. A Note About Children.** We do not intentionally gather Personal Data (as defined below) from visitors who are under the age of 13. If a child under 13 submits Personal Data to littleBits and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [info[AT]littleBits.cc](https://web.archive.org/cdn-cgi/l/email-protection#d0b9beb6bf90bcb9a4a4bcb5b2b9a4a3feb3b3efa3a5b2bab5b3a4edf5e2e29fbebcb9beb5f5e2e080a2b9a6b1b3a9f5e2e2).
+**3\. A Note About Children.** We do not intentionally gather Personal Data (as defined below) from visitors who are under the age of 13. If a child under 13 submits Personal Data to littleBits and we learn that the Personal Data is the information of a child under 13, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [info[AT]littleBits.cc](https://web.archive.org/cdn-cgi/l/email-protection#c3aaada5ac83afaab7b7afa6a1aab7b0eda0a0fcb0b6a1a9a6a0b7fee6f1f18cadafaaada6e6f1f393b1aab5a2a0bae6f1f1).
 
 **4\. A Note to Users Outside of the United States.** ** _If you are located outside the U.S., by visiting the Site or using our Services and providing us with your Personal Data, you acknowledge and agree that your Personal Data may be processed (1) for the purposes identified in the Privacy Policy and (2) in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country. By providing your Personal Data, you consent to such transfer._**
 
