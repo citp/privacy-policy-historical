@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222012601id_/http%3A//www.pep.ph/privacy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pep.ph privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112040201id_/https%3A//www.pep.ph/privacy%3Fref%3Dfooter_sitemap) for the most accurate reproduction.*
 
 # Privacy Policy | PEP.ph - Philippine Entertainment Portal
 
