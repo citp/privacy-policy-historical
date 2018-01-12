@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerotator.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220070253id_/http%3A//freerotator.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerotator.com privacy policy that was archived on 2018-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180112035034id_/http%3A//freerotator.com/_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,10 +20,10 @@ FreeRotator.com will never give or sell any of the above information to a third 
 **Opting-Out**  
 Any FreeRotator users may opt-out of receiving regular e-mails by one of the following methods:  
 Responding to the email using the unsubscribe option provided;  
-Contact support at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#601705020d01131405122026120505320f1401140f124e030f0d)
+Contact support at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c2d0d7d8d4c6c1d0c7f5f3c7d0d0e7dac1d4c1dac79bd6dad8)
 
 This site gives users the following options for changing and modifying information previously provided.  
 by logging into the members area and modifying the Update Profile page:  
-Contact support at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#91e6f4f3fcf0e2e5f4e3d1d7e3f4f4c3fee5f0e5fee3bff2fefc)
+Contact support at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8cfdddad5d9cbccddcaf8fecaddddead7ccd9ccd7ca96dbd7d5)
 
 © 2003 FreeRotator.com. All Rights Reserved.
