@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the awaionline.com privacy policy that was archived on 2017-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171113073935id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the awaionline.com privacy policy that was archived on 2018-01-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180113081328id_/http%3A//www.awaionline.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" xmlns:og="http://ogp.me/ns#"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -18,70 +18,238 @@
 	<style type="text/css">
 	<!--
 	/* Banner */
-	.promo-slideshow-slide-wrapper-minimize {
-		background: #CF142B;
-		background: linear-gradient(#CF142B,#8E0E1D);
-	}
+/*
+============================
+Fixed Eyebrow Banner Defaults
+============================
+*/
 	
-	.promo-slideshow-slide-wrapper-minimize .promo-slideshow-slide-copy .promo-slideshow-slide-cta-wrapper {
-		height: auto;
-		width: 290px;
-	}
-	
-	.promo-slideshow-slide-copy .promo-slideshow-slide-cta {
-		background: #0179C5;
-		background: linear-gradient(#059DFE, HSL(203.3, 99%, 38.8%), #0179C5,#01609C);
-		position: relative;
-		text-shadow: 0px -1px #2b516e;
-		text-align: left;
-		padding-left: 25px;
-		padding-right: 35px;
-	}
-	
-	.promo-slideshow-slide-copy .promo-slideshow-slide-cta:hover, .promo-slideshow-slide-copy .promo-slideshow-slide-cta:focus {
-		background: linear-gradient(#079ffe, #2aadfe, #2aadfe,#3fb5fe);
-	}
-	
-	.promo-slideshow-slide-copy .promo-slideshow-slide-cta:active {
-		background: linear-gradient(#015e99, #0174bc, #0174bc,#014f80);
-	}
+@keyframes simpleBannerSlideInFromBottom {
+	0% { transform: translateY(100%); }
+	100% { transform: translateY(0); }
+}
 
-	.promo-slideshow-slide-copy .promo-slideshow-slide-cta:before {
-		content: '';
-		background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.1));
-		position: absolute;
-		top: 4px;
-		width: 90%;
-		height: 50%;
-		left: 0;
-		border-radius: 100px;
-		right: 0;
-		margin: auto;
-	}
-	
-	.promo-slideshow-slide-copy .promo-slideshow-slide-cta:after {
-		content: '\f144';
-		font: normal normal normal 18px/1 FontAwesome;
-		position: absolute;
-		right: 15px;
-	}
+.fixed-banner-minimized {
+	display:none;
+}
 
-	.promo-slideshow-slide-icon span {
-		color: #000;
-		background-color: #fff;
-		padding: 0.3em 0.4em 0.35em;
-		border-radius: 50%;
-		font-size: 1.5em;
-		border: 2px solid #000;
-	}
-	-->
+.fixed-eyebrow-banner-wrapper {
+  	animation: 1s ease-in 0s 1 simpleBannerSlideInFromBottom;
+	background: #000;
+	background: linear-gradient(#333,#000);
+	left: 0;
+	margin: 0 auto;
+	padding: 7px;
+	position: fixed;
+	right: 0;
+}
+	
+.fixed-eyebrow-banner-bottom {
+	bottom: 0;
+}
+
+.fixed-eyebrow-banner-top-copy {
+	background-color: #fff;
+	border-top-left-radius: 0.33em;
+	border-top-right-radius: 0.33em;
+	bottom: 47px;
+	font-size: 20px;
+	font-weight: bold;
+	left: 0;
+	line-height: 1;
+	padding: 0.25em 0.5em 0.33em 0.5em;
+	position: absolute;
+}
+	
+.fixed-eyebrow-banner-close {
+	background-color: #999;
+	border: 4px solid #fff;
+	border-radius: 50%;
+	color: #fff;
+	cursor: pointer;
+	font-size: 30px;
+	height: 1em;
+	line-height: 1;
+	text-align:center;
+	font-weight: bold;
+	position: absolute;
+	right: -50px;
+	top: -25px;
+	width: 1em;
+}
+	
+.fixed-eyebrow-banner-close:hover,
+.fixed-eyebrow-banner-close:focus {
+	background-color: #f00;
+}
+	
+.fixed-eyebrow-banner-close:active {
+	background-color: #900;
+}
+	
+.fixed-eyebrow-banner-copy {
+	display: table;
+	margin: 0 auto;
+	position: relative;
+}
+
+.fixed-eyebrow-banner-copy .headline {
+	color: #fff;
+	display: table-cell;
+	font-size: 18px;
+	text-align: center;
+	text-shadow: 0 0 5px rgba(0,0,0,0.9);
+	vertical-align: middle;
+}
+
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta-wrapper {
+	display: table-cell;
+	padding: 0 0 0 10px;
+	vertical-align: middle;
+}
+	
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta:before {
+	background: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.1));	
+	border-radius: 100px;
+	content: '';
+	height: 50%;
+	left: 0;
+	margin: auto;
+	position: absolute;
+	right: 0;
+	top: 4px;
+	width: 90%;
+}
+
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta {
+	background: #f86a01;
+	background: linear-gradient(#fe862e, #f86a01, #f86a01, #cf5901);
+	border-radius: 100px;
+	color: #fff;
+	display: block;
+	font-family: 'Open Sans Condensed', Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 1.2;
+	padding: 10px 35px 12px 25px;
+	position: relative;
+	text-align: left;
+	text-shadow: 0px -1px rgba(0, 0, 0, 0.33);
+}
+	
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta > .fixed-eyebrow-banner-cta-text {
+	position: relative;
+	z-index: 10;
+}
+
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta > .fa {
+	bottom: 0;
+	font-size: 18px;
+	height: 50%;
+	margin: auto;
+	position: absolute;
+	right: 15px;
+	top: 0;
+	z-index: 10;
+}
+
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta:after {
+	border-radius: 100px;
+	content: '';
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta:hover:after,
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta:focus:after {
+	background-color: rgba(255,255,255,0.15);
+}
+
+.fixed-eyebrow-banner-copy .fixed-eyebrow-banner-cta:active:after {
+	background-color: rgba(0,0,0,0.15);
+}
+
+/*
+============================
+Fixed Eyebrow Banner Overrides
+============================
+*/
+
+.fixed-eyebrow-banner-avb {
+	background: #ccffd2 url(/_img/toolbox/p/avb/traingles.png);
+	background-size: 140px;
+	z-index: 11;
+}
+
+.fixed-eyebrow-banner-avb .fixed-eyebrow-banner-close {
+	right: -20px;
+	top: -50px;
+	z-index: 12;
+}
+
+.fixed-eyebrow-banner-avb .headline {
+	color: #000;
+	line-height: 1.5;
+	max-width: 445px;
+	text-shadow: none;
+}
+
+.fixed-eyebrow-banner-avb .fixed-eyebrow-banner-top-copy {
+	background-color: #13497b;
+	border-top-left-radius: 0.33em;
+	bottom: 61px;
+	color: #fff;
+	left: 0;
+	margin: 0 auto;
+	right: 0;
+	text-align: center;
+	z-index: 11;
+}
+
+.fixed-eyebrow-avb-badges {
+	bottom: 0;
+	position: fixed;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+
+	width:  545px;
+}
+
+.fixed-eyebrow-avb-badges img {
+	top: 0;
+	position: absolute;
+	transition: transform 0.75s;
+}
+
+.fixed-eyebrow-avb-badges img:nth-child(1) { left: 0; z-index: 9; }
+.fixed-eyebrow-avb-badges img:nth-child(2) { left: 60px; z-index: 8; }
+.fixed-eyebrow-avb-badges img:nth-child(3) { left: 120px; z-index: 7; }
+.fixed-eyebrow-avb-badges img:nth-child(4) { left: 180px; z-index: 6; }
+.fixed-eyebrow-avb-badges img:nth-child(5) { left: 240px; z-index: 5; }
+.fixed-eyebrow-avb-badges img:nth-child(6) { left: 300px; z-index: 4; }
+.fixed-eyebrow-avb-badges img:nth-child(7) { left: 360px; z-index: 3; }
+.fixed-eyebrow-avb-badges img:nth-child(8) { left: 420px; z-index: 2; }
+
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img { transition: transform 0.75s; }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(1) { transform: translate(-110px, -250px) rotate(-8deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(2) { transform: translate(-80px, -240px) rotate(-6deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(3) { transform: translate(-50px, -230px) rotate(-4deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(4) { transform: translate(-17px, -220px) rotate(-2deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(5) { transform: translate(17px, -220px) rotate(2deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(6) { transform: translate(50px, -230px) rotate(4deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(7) { transform: translate(80px, -240px) rotate(6deg); }
+.fixed-eyebrow-banner-avb:hover + .fixed-eyebrow-avb-badges img:nth-child(8) { transform: translate(110px, -250px) rotate(8deg); }	-->
 	</style>
 
 	<script type="text/javascript" async="" src="//storage.googleapis.com/code.snapengage.com/js/1ea73d7d-90d1-47a6-936d-b271a91693fc.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="//www.awaionline.com/_js/jquery.js" type="text/javascript"></script>
-	<script src="//www.awaionline.com/_js/jquery-ui.1001.js" type="text/javascript"></script>
+	<script src="//www.awaionline.com/_js/jquery-ui.1129.js" type="text/javascript"></script>
 	<script src="//www.awaionline.com/_js/superfish.js" type="text/javascript"></script>
 	<script src="//www.awaionline.com/_js/thickbox.js" type="text/javascript"></script>
-	<script src="//www.awaionline.com/_js/global.0719.js" type="text/javascript"></script>
+	<script src="//www.awaionline.com/_js/global.1129.js" type="text/javascript"></script>
 	<script src="//www.awaionline.com/_js/site.0601.js" type="text/javascript"></script>
 	
 	<!-- Begin Facebook Pixel Code -->
@@ -133,7 +301,7 @@
 	<div class="logo"><a href="/" title="American Writers &amp; Artists Inc." tabindex="6"><img src="/_img/framework/templates/default/2012/logo.png" title="American Writers &amp; Artists Inc. – since 1997" width="157" height="117" alt="AWAI"></a></div>
 	
 	<div class="banner-links">
-	<div class="left-links"><a href="/news/" tabindex="7">News</a> | <a href="/calendar/" tabindex="8">Calendar</a> | <a href="/help/" tabindex="9">Help</a> | <a href="/contact/" tabindex="10">Contact Us</a> | <a href="/members/" tabindex="11">Login</a></div>
+	<div class="left-links"><a href="/news/" tabindex="7">News</a> | <a href="/calendar/" tabindex="8">Calendar</a> | <a href="/help/" tabindex="9">Help</a> | <a href="/contact/?l=mh" tabindex="10">Contact Us</a> | <a href="/members/" tabindex="11">Login</a></div>
 	<div class="right-links">
 	<a href="/signup/the-writers-life/" tabindex="12">Get <em>The Writer’s Life</em> for FREE! <strong>Click here.</strong></a>
 	</div>
@@ -198,8 +366,7 @@
 	</ul>
 	
 	<div class="right-links">
-	<a href="http://www.facebook.com/AmericanWritersArtistsInc" tabindex="61"><img src="/_img/framework/templates/default/2012/facebook.png" width="25" height="25" alt="Join Our Facebook Fan Page"></a><a href="http://twitter.com/AWAI_Online" tabindex="62"><img src="/_img/framework/templates/default/2012/twitter.png" width="25" height="25" alt="Follow Us On Twitter"></a><a href="http://www.pinterest.com/awaionline/" tabindex="63"><img src="/_img/framework/templates/default/2012/pinterest.png" width="25" height="25" alt="Follow Us On Pinterest"></a><a href="http://www.linkedin.com/groups?gid=726097" tabindex="64"><img src="/_img/framework/templates/default/2012/linkedin.png" width="25" height="25" alt="Connect With Us On LinkedIn"></a><a href="https://plus.google.com/117421823626507187911" tabindex="65"><img src="/_img/framework/templates/default/2012/google.png" width="25" height="25" alt="Follow Us On Google+"></a>
-	</div>
+	<a href="http://www.facebook.com/AmericanWritersArtistsInc" tabindex="61"><img src="/_img/framework/templates/default/2012/facebook.png" width="25" height="25" alt="Join Our Facebook Fan Page"></a><a href="http://twitter.com/AWAI_Online" tabindex="62"><img src="/_img/framework/templates/default/2012/twitter.png" width="25" height="25" alt="Follow Us On Twitter"></a><a href="http://www.pinterest.com/awaionline/" tabindex="63"><img src="/_img/framework/templates/default/2012/pinterest.png" width="25" height="25" alt="Follow Us On Pinterest"></a><a href="http://www.linkedin.com/groups?gid=726097" tabindex="64"><img src="/_img/framework/templates/default/2012/linkedin.png" width="25" height="25" alt="Connect With Us On LinkedIn"></a>	</div>
 	
 	</div>
 	<!-- End Navigation -->
@@ -213,8 +380,8 @@
 	<!-- Begin Breadcrumbs -->
 	<div class="breadcrumbs">
 	<div class="bc-bar-left"></div>
-	<a href="/" tabindex="66"><img src="/_img/framework/templates/default/bc-home.gif" height="20" width="14" alt="home"></a><a href="/about/" tabindex="67">About AWAI Copywriting Training Programs</a><span>Privacy Statement</span>
-	<div class="bc-bar-right">&nbsp;<a href="/about/privacy/?mode=print" class="popup print-link" rel="nofollow" tabindex="68">print</a></div>
+	<a href="/" tabindex="65"><img src="/_img/framework/templates/default/bc-home.gif" height="20" width="14" alt="home"></a><a href="/about/" tabindex="66">About AWAI Copywriting Training Programs</a><span>Privacy Statement</span>
+	<div class="bc-bar-right">&nbsp;<a href="/about/privacy/?mode=print" class="popup print-link" rel="nofollow" tabindex="67">print</a></div>
 	</div>
 	<!-- End Breadcrumbs -->
 	
@@ -236,13 +403,13 @@
 	<p>If you subscribe to The Golden Thread, or purchase any products from American Writers &amp; Artists Inc., your name and email address will be placed in a database. As with all other personal information, only authorized employees of American Writers &amp; Artists Inc. ever have access to this data. We do not give American Writers &amp; Artists Inc. email addresses to outside companies.</p>
 	<p>American Writers &amp; Artists Inc. does not sell or rent your email address to anyone. We may use your name and address to send you information on other American Writers &amp; Artists Inc. products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.</p>
 	<p>Any email you send to American Writers &amp; Artists Inc. is completely confidential. We will not add your name to our email list without your permission. For security reasons, if your inquiry is about one of your subscriptions, we may ask you to submit some additional information only to verify your identity. Remember, in this case we are only asking you to confirm information you have already given us.</p>
-	<p>If at any time you wish to be removed from our mailing list, please <a href="/contact/" tabindex="69">contact our Member Services department</a>.</p>
+	<p>If at any time you wish to be removed from our mailing list, please <a href="/contact/" tabindex="68">contact our Member Services department</a>.</p>
 	<h2>Cookies</h2>
 	<p>American Writers &amp; Artists Inc. (AWAI) uses cookies, tracking pixels and related technologies. Our site uses cookies dropped by us or third parties (such as Facebook) for a variety of purposes including to operate and personalize the website. Also, cookies may be used to track how you use the site and to target ads to you on other websites.</p>
-	<p>If you would like to opt-out of the collection and use of information for ad targeting, please visit: <a href="http://www.aboutads.info/choices" tabindex="70">www.aboutads.info/choices</a>.</p>
+	<p>If you would like to opt-out of the collection and use of information for ad targeting, please visit: <a href="http://www.aboutads.info/choices" tabindex="69">www.aboutads.info/choices</a>.</p>
 	<h2>Discussion Board</h2>
 	<p>You are welcome to participate in the American Writers &amp; Artists Inc. Discussion Board. Please note that submitting your email address or a URL is completely voluntary but you do so at your own risk. While American Writers &amp; Artists Inc. does not harvest email addresses from the Discussion Board, there is nothing to prevent an unscrupulous company from doing so.</p>
-	<p>You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please <a href="/contact/" tabindex="71">contact us</a> and we will take all necessary actions, including legal, to correct the matter.</p>
+	<p>You must submit a name to submit a message to the Discussion Board, but it does not have to be your name; aliases are completely acceptable as long as they are unique and not meant to impersonate another person. If you feel someone is impersonating you on our Discussion Board, please <a href="/contact/" tabindex="70">contact us</a> and we will take all necessary actions, including legal, to correct the matter.</p>
 	<p>We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.</p>
 	<p>If you have any questions or comments you can reach us via our contact page or with the information below.</p>
 	<h2>Disclaimer</h2>
@@ -252,7 +419,7 @@
 	Phone: (561) 278-5557</p>
 	<div class="content-details">
 	<div class="sharing-panel">
-	<a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="facebook-link" tabindex="72">Facebook</a> &nbsp; <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;text=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="twitter-link" tabindex="73">Twitter</a> &nbsp; <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;media=http%3A%2F%2Fwww.awaionline.com%2F_img%2Fframework%2Ftemplates%2Fdefault%2F2012%2Flogo.png&amp;description=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="pinterest-link" tabindex="74">Pinterest</a> &nbsp; <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;title=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement&amp;summary=American+Writers+%26amp%3B+Artists+Inc.+takes+individual+privacy+very+seriously.+We+are+also+aware+of+the+threats+to+your+security+and+privacy+on+the+Internet.&amp;source=American+Writers+%26amp%3B+Artists+Inc." class="linkedin-link" tabindex="75">LinkedIn</a> &nbsp; <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="google-link" tabindex="76">Google+</a> &nbsp; <a href="/send-to-friend/?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;TB_iframe=true" class="mail-link thickbox" rel="nofollow" tabindex="77">Email a Friend</a>
+	<a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="facebook-link" tabindex="71">Facebook</a> &nbsp; <a href="http://twitter.com/share?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;text=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="twitter-link" tabindex="72">Twitter</a> &nbsp; <a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;media=http%3A%2F%2Fwww.awaionline.com%2F_img%2Fframework%2Ftemplates%2Fdefault%2F2012%2Flogo.png&amp;description=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement" class="pinterest-link" tabindex="73">Pinterest</a> &nbsp; <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;title=American+Writers+%26amp%3B+Artists+Inc.+Privacy+Statement&amp;summary=American+Writers+%26amp%3B+Artists+Inc.+takes+individual+privacy+very+seriously.+We+are+also+aware+of+the+threats+to+your+security+and+privacy+on+the+Internet.&amp;source=American+Writers+%26amp%3B+Artists+Inc." class="linkedin-link" tabindex="74">LinkedIn</a> &nbsp; <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F" class="google-link" tabindex="75">Google+</a> &nbsp; <a href="/send-to-friend/?url=http%3A%2F%2Fwww.awaionline.com%2Fabout%2Fprivacy%2F&amp;TB_iframe=true" class="mail-link thickbox" rel="nofollow" tabindex="76">Email a Friend</a>
 	</div>
 		</div>
 	</div>
@@ -262,7 +429,7 @@
 	<div class="sidebar">
 	<!-- Begin Ticker -->
 	<div class="ticker">
-	<div class="ticker-label"><a href="/news/" tabindex="78">News:</a></div>
+	<div class="ticker-label"><a href="/news/" tabindex="77">News:</a></div>
 	<ul id="news-ticker">
 	<li>American Writers &amp; Artists Inc.</li>
 	</ul>
@@ -276,154 +443,11 @@
 	<p class="marbottom10"><strong class="indigo">Call Member Services</strong><br>
 	<strong class="big wine"><span class="big">866-879-2924</span> (Toll Free)</strong><br>
 	<span class="gray">Mon – Fri 8:30 AM to 5:00 PM ET</span><br>
-	<a href="/contact/" class="bold not-visited" tabindex="79">More Ways to Contact Us »</a></p>
+	<a href="/contact/?l=sb" class="bold not-visited" tabindex="78">More Ways to Contact Us »</a></p>
 	</div>
 	<div class="bubble-bottom"></div>
 	</div>
 
-	<div class="marbottom10"><a href="http://www.wealthywebwriter.com/" tabindex="80"><img src="/_img/graphics/banners/www_join_sidebar.jpg" width="280" height="62" alt="The New Wealthy Web Writer - Your Roadmap to Making Money Online"></a></div>
-	
-	<div><a href="/wall-of-fame/" title="Wall of Fame" tabindex="81"><img src="/_img/graphics/banners/wall_of_fame_sidebar.png" width="280" height="122" alt="Wall of Fame"></a></div>
-
-	<div class="bubble clickable">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-
-	<div><img src="/_img/photos/portraits/steve_coombes-75.jpg" width="75" height="93" class="rbox" alt="Steve Coombes">“What routine? That for me is one of the joys of freelance copywriting – not being tied to a desk at certain hours of the day.”</div><p class="cited rpad0 rclear martop0"><a href="/wall-of-fame/steve-coombes/" tabindex="82">Steve Coombes,<br>AWAI Member Since 2006</a></p>	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Can You Write a Simple Letter?</div>
-	<p><img class="rbox" src="/_img/toolbox/products/cop/cop-75.jpg" alt="" width="75"> If yes, you could be in big demand, earning big money, writing just a few hours a day from anywhere in the world you choose to be.</p>
-	<p class="clear bold center"><a href="/copywriting/p/" tabindex="83">Learn More!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Your Own Money-Making Website</div>
-	<p><img class="rbox" src="/_img/toolbox/products/mmw/mmw-75.jpg" alt="" width="75"> Get Nick Usborne’s step-by-step system for creating money-making information websites.</p>
-	<p class="clear bold center"><a href="/websites/p/" tabindex="84">Start Earning a Passive Income Now!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">The Ideal Spare-Time Business</div>
-	<p><img class="rbox" src="/_img/toolbox/products/res/res-75.jpg" alt="" width="75"> In just 6 hours and 35 minutes, you can be in business earning $60 – $150 an hour writing simple resumes.</p>
-	<p>That’s how long it takes to “create” what is without question the world’s easiest spare-time home-based business.</p>
-	<p class="clear bold center"><a href="/resume/p/" tabindex="85">Learn more about resume writing!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Become a Publicist</div>
-	<p><img class="rbox" src="/_img/toolbox/products/prf/prf-75.jpg" alt="" width="75"> Learn the secrets behind succeeding in this in-demand career.</p>
-	<p>Get the templates you can use to build your business, suggestions for getting clients right away and how to make money your very first week!</p>
-	<p class="clear bold center"><a href="/public-relations/p/" tabindex="86">Start Your PR Business Today!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Write for the B2B Market</div>
-	<p><img class="rbox" src="/_img/toolbox/products/b2e/b2e-75.jpg" alt="" width="75"> The work is plentiful&nbsp;… the pay scales are generous and the competition is scarce!</p>
-	<p>Learn every aspect of B2B copywriting and the secrets you can use to land projects in this $6.5 trillion industry.</p>
-	<p class="clear bold center"><a href="/b2b/p/" tabindex="87">Learn How to Get Started!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Build and Grow Your Writing Business</div>
-	<p><img class="rbox" src="/_img/toolbox/products/bib/bib-75.jpg" alt="" width="75"> Get the answers to the hundreds of questions and concerns commonly asked in specific, step-by-step details.</p>
-	<p class="clear bold center"><a href="/copywriting/business/p/" tabindex="88">Start saving time and money now!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Make the Leap</div>
-	<p><img class="rbox" src="/_img/toolbox/products/mtl/mtl-75.jpg" alt="" width="75"> Use this eight-step plan to make the leap from aspiring copywriter to professional copywriter this year.</p>
-	<p class="clear bold center"><a href="/making-the-leap/p/" tabindex="89">Make the Leap!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Get Your First Client</div>
-	<p><img class="rbox" src="/_img/toolbox/products/gfc/gfc-75.jpg" alt="" width="75"> Let your fellow AWAI members show you firsthand the easiest, most powerful way to land your first client&nbsp;… BEFORE you finish the program.</p>
-	<p class="clear bold center"><a href="/first-client/p/" tabindex="90">Get Your First Client Now!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Learn to Write Web Copy that Converts</div>
-	<p><img class="rbox" src="/_img/toolbox/products/web/web-75.jpg" alt="" width="75"> Writing for the web is a huge opportunity for copywriters. Let web expert Nick Usborne show you how to write blockbuster web copy in record time&nbsp;… even if you're a complete internet “rookie”!</p>
-	<p class="clear bold center"><a href="/writing-for-the-web/p/" tabindex="91">Get started right now!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">What is Desktop marketing?</div>
-	<p><img class="rbox" src="/_img/toolbox/products/dtm/dtm-75.jpg" alt="" width="75"> It’s an opportunity to make $50,000, $75,000, $100,000 a year or more&nbsp;… working just a few hours a day.</p>
-	<p class="clear bold center"><a href="/desktop-marketing/p/" tabindex="92">Learn How to Start Your Own Desktop Marketing Business Today!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Become a Graphic Designer</div>
-	<p><img class="rbox" src="/_img/toolbox/products/gds/gds-75.jpg" alt="" width="75"> A once complicated profession is now something you can do on a standard computer – even if you have little or no “artistic” ability.</p>
-	<p>Plus if you already write copy, you can add graphic design to your services, and charge 50% more for every promotion you write!</p>
-	<p class="clear bold center"><a href="/graphic-design/p/" tabindex="93">Learn How to Get Started!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Marketing With Video Online for Profit</div>
-	<p><img class="rbox" src="/_img/toolbox/products/vid/vid-75.jpg" alt="" width="75"> The Internet creates new income possibilities every day. The biggest among them: online video marketing.</p>
-	<p>Learn how you can use video marketing to build your existing business or to make video marketing your <em>new</em> business.</p>
-	<p class="clear bold center"><a href="/video-marketing/p/" tabindex="94">Get Started Now!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">Take Your Copywriting to a Master’s Level</div>
-	<p><img class="rbox" src="/_img/toolbox/products/mst/mst-75.jpg" alt="" width="75"> Get the very techniques top-performing copywriters use to rattle off one groundbreaking control after another.</p>
-	<p class="clear bold center"><a href="/masters/p/" tabindex="95">Become a Master Copywriter!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
-	<div class="bubble clickable jsfill">
-	<div class="bubble-top"></div>
-	<div class="bubble-main">
-	<div class="h2">The Architecture of Persuasion</div>
-	<p><img class="rbox" src="/_img/toolbox/products/mmf/mmf-75.jpg" alt="" width="75"> In his new book, Michael Masterson teaches you his very own formula for powerful persuasion and how to apply it to direct mail sales letters as well as online promotions.</p>
-	<p class="clear bold center"><a href="/_a/?dirname=mmf-2&amp;referredby=WMMF__200" tabindex="96">Get Your Copy Here!</a></p>
-	</div>
-	<div class="bubble-bottom"></div>
-	</div>
 	</div>
 	<!-- End Sidebar -->
 
@@ -442,10 +466,9 @@
 	
 	<div class="footer-links">
 	<div class="left-links">
-	<a href="http://www.facebook.com/AmericanWritersArtistsInc" tabindex="97"><img src="/_img/framework/templates/default/footer-facebook.png" width="33" height="33" alt="Join Our Facebook Fan Page"></a><a href="http://twitter.com/AWAI_Online" tabindex="98"><img src="/_img/framework/templates/default/footer-twitter.png" width="33" height="33" alt="Follow Us On Twitter"></a><a href="http://www.pinterest.com/awaionline/" tabindex="99"><img src="/_img/framework/templates/default/footer-pinterest.png" width="33" height="33" alt="Follow Us On Pinterest"></a><a href="http://www.linkedin.com/groups?gid=726097" tabindex="100"><img src="/_img/framework/templates/default/footer-linkedin.png" width="33" height="33" alt="Connect With Us On LinkedIn"></a><a href="https://plus.google.com/117421823626507187911" tabindex="101"><img src="/_img/framework/templates/default/footer-google.png" width="33" height="33" alt="Follow Us On Google+"></a>
-	</div>
+	<a href="http://www.facebook.com/AmericanWritersArtistsInc" tabindex="79"><img src="/_img/framework/templates/default/footer-facebook.png" width="33" height="33" alt="Join Our Facebook Fan Page"></a><a href="http://twitter.com/AWAI_Online" tabindex="80"><img src="/_img/framework/templates/default/footer-twitter.png" width="33" height="33" alt="Follow Us On Twitter"></a><a href="http://www.pinterest.com/awaionline/" tabindex="81"><img src="/_img/framework/templates/default/footer-pinterest.png" width="33" height="33" alt="Follow Us On Pinterest"></a><a href="http://www.linkedin.com/groups?gid=726097" tabindex="82"><img src="/_img/framework/templates/default/footer-linkedin.png" width="33" height="33" alt="Connect With Us On LinkedIn"></a>	</div>
 	<div class="right-links">
-	<a href="/make-money-writing/" class="headline" tabindex="102">Begin writing for money and enjoying the writer's life with AWAI! &nbsp; <span style="font-size:0.9em; padding:0.1em 0.3em; background:#6C8645;">Learn more</span></a>
+	<a href="/make-money-writing/" class="headline" tabindex="83">Begin writing for money and enjoying the writer's life with AWAI! &nbsp; <span style="font-size:0.9em; padding:0.1em 0.3em; background:#6C8645;">Learn more</span></a>
 	</div>
 	</div>
 	<br class="clear">
@@ -455,81 +478,81 @@
 	<div class="navigation-column">
 	<strong class="headline">Writing Paths</strong><br>
 	<ul>
-	<li><a href="/copywriting/" tabindex="103">Copywriting</a></li>
-	<li><a href="/web/" tabindex="104">Web Writing</a></li>
-	<li><a href="/b2b/" tabindex="105">B2B Writing</a></li>
-	<li><a href="/published-author/" tabindex="106">Publishing</a></li>
-	<li><a href="/lifestyle-careers/" tabindex="107">Travel Writing</a></li>
-	<li><a href="/careers/" tabindex="108">Other Writing Careers</a></li>
+	<li><a href="/copywriting/" tabindex="84">Copywriting</a></li>
+	<li><a href="/web/" tabindex="85">Web Writing</a></li>
+	<li><a href="/b2b/" tabindex="86">B2B Writing</a></li>
+	<li><a href="/published-author/" tabindex="87">Publishing</a></li>
+	<li><a href="/lifestyle-careers/" tabindex="88">Travel Writing</a></li>
+	<li><a href="/careers/" tabindex="89">Other Writing Careers</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
 	<strong class="headline">Freelance Success</strong><br>
 	<ul>
-	<li><a href="/getting-clients/" tabindex="109">Getting Clients</a></li>
-	<li><a href="/copywriting/niches/" tabindex="110">Choosing a Niche</a></li>
-	<li><a href="/build-a-freelance-business/" tabindex="111">Building Your Business</a></li>
-	<li><a href="/write-for-awai/" tabindex="112">Write for AWAI</a></li>
+	<li><a href="/getting-clients/" tabindex="90">Getting Clients</a></li>
+	<li><a href="/copywriting/niches/" tabindex="91">Choosing a Niche</a></li>
+	<li><a href="/build-a-freelance-business/" tabindex="92">Building Your Business</a></li>
+	<li><a href="/write-for-awai/" tabindex="93">Write for AWAI</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
 	<strong class="headline">Products &amp; Training</strong><br>
 	<ul>
-	<li><a href="/catalog/?l=sn1" tabindex="113">Product Catalog</a></li>
-	<li><a href="/copywriting/" tabindex="114">Copywriting Training</a></li>
-	<li><a href="/catalog/?l=sn2" tabindex="115">Self-Guided Programs</a></li>
-	<li><a href="/live-events/" tabindex="116">Live Training Events</a></li>
-	<li><a href="/news/" tabindex="117">Special Offers</a></li>
+	<li><a href="/catalog/?l=sn1" tabindex="94">Product Catalog</a></li>
+	<li><a href="/copywriting/" tabindex="95">Copywriting Training</a></li>
+	<li><a href="/catalog/?l=sn2" tabindex="96">Self-Guided Programs</a></li>
+	<li><a href="/live-events/" tabindex="97">Live Training Events</a></li>
+	<li><a href="/news/" tabindex="98">Special Offers</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
 	<strong class="headline">Free Resources</strong><br>
 	<ul>
-	<li><a href="/content/" tabindex="118">Article Search</a></li>
-	<li><a href="/copywriter-rates/" tabindex="119">Pricing Guide</a></li>
-	<li><a href="/inside-awai/" tabindex="120">How-To Webinars</a></li>
-	<li><a href="/writing-prompts/" tabindex="121">Writing Prompts</a></li>
+	<li><a href="/content/" tabindex="99">Article Search</a></li>
+	<li><a href="/copywriter-rates/" tabindex="100">Pricing Guide</a></li>
+	<li><a href="/inside-awai/" tabindex="101">How-To Webinars</a></li>
+	<li><a href="/writing-prompts/" tabindex="102">Writing Prompts</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
 	<strong class="headline">About Us</strong><br>
 	<ul>
-	<li><a href="/about/" tabindex="122">About AWAI</a></li>
-	<li><a href="/about/promise/" tabindex="123">Our Promise</a></li>
-	<li><a href="/about/experts/" tabindex="124">Meet the Experts</a></li>
-	<li><a href="/about/staff/" tabindex="125">Meet the Team</a></li>
-	<li><a href="/faq/" tabindex="126">FAQs</a></li>
-	<li><a href="/calendar/" tabindex="127">Calendar</a></li>
-	<li><a href="/affiliates/" tabindex="128">Affiliate Program</a></li>
-	<li><a href="/media/" tabindex="129">Media Kit</a></li>
+	<li><a href="/about/" tabindex="103">About AWAI</a></li>
+	<li><a href="/about/promise/" tabindex="104">Our Promise</a></li>
+	<li><a href="/about/experts/" tabindex="105">Meet the Experts</a></li>
+	<li><a href="/about/staff/" tabindex="106">Meet the Team</a></li>
+	<li><a href="/faq/" tabindex="107">FAQs</a></li>
+	<li><a href="/calendar/" tabindex="108">Calendar</a></li>
+	<li><a href="/affiliates/" tabindex="109">Affiliate Program</a></li>
+	<li><a href="/media/" tabindex="110">Media Kit</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column">
 	<strong class="headline">Testimonials</strong><br>
 	<ul>
-	<li><a href="/about/testimonials/" tabindex="130">Testimonials</a></li>
-	<li><a href="/case-studies/" tabindex="131">Case Studies</a></li>
-	<li><a href="/wall-of-fame/" tabindex="132">Wall of Fame</a></li>
-	<li><a href="/about/stories/" tabindex="133">Success Stories</a></li>
-	<li><a href="/freelancer-directory/" tabindex="134">Directory of Writers</a></li>
-	<li><a href="/clients/" tabindex="135">Hired By&nbsp;…</a></li>
+	<li><a href="/about/testimonials/" tabindex="111">Testimonials</a></li>
+	<li><a href="/case-studies/" tabindex="112">Case Studies</a></li>
+	<li><a href="/wall-of-fame/" tabindex="113">Wall of Fame</a></li>
+	<li><a href="/about/stories/" tabindex="114">Success Stories</a></li>
+	<li><a href="/freelancer-directory/" tabindex="115">Directory of Writers</a></li>
+	<li><a href="/clients/" tabindex="116">Hired By&nbsp;…</a></li>
 	</ul>
 	</div>
 
 	<div class="navigation-column last-column">
 	<strong class="headline">Member Area</strong><br>
 	<ul>
-	<li><a href="/members/" tabindex="136">Member Area</a></li>
-	<li><a href="/aboutmyawai/" tabindex="137">About myAWAI</a></li>
-	<li><a href="/myaccount/" tabindex="138">Account Info</a></li>
-	<li><a href="/groupsite/" tabindex="139">Groupsite Forums</a></li>
-	<li><a href="/job-opportunities/" tabindex="140">Job Opportunities</a></li>
-	<li><a href="/members/catalog/" tabindex="141">Member Catalog</a></li>
+	<li><a href="/members/" tabindex="117">Member Area</a></li>
+	<li><a href="/aboutmyawai/" tabindex="118">About myAWAI</a></li>
+	<li><a href="/myaccount/" tabindex="119">Account Info</a></li>
+	<li><a href="/groupsite/" tabindex="120">Groupsite Forums</a></li>
+	<li><a href="/job-opportunities/" tabindex="121">Job Opportunities</a></li>
+	<li><a href="/members/catalog/" tabindex="122">Member Catalog</a></li>
 	</ul>
 	</div>
 
@@ -544,14 +567,14 @@
 	(561) 278-5557 or (866) 879-2924
 	</div>
 	<div class="right-column">
-	<a href="https://www.bbb.org/south-east-florida/business-reviews/copywriting/american-writers-and-artists-in-delray-beach-fl-26000012#sealclick" title="Better Business Bureau Accredited Business" tabindex="142"><img src="/_img/toolbox/logos/bbb.png" alt="BBB Accredited Business" title="Better Business Bureau Accredited Business" height="32"></a> &nbsp; <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.awaionline.com" title="McAfee Secure Verified" tabindex="143"><img src="//images.scanalert.com/meter/www.awaionline.com/12.gif" alt="McAfee Secure tested daily" title="McAfee Secure Verified" height="32"></a>
+	<a href="https://www.bbb.org/south-east-florida/business-reviews/copywriting/american-writers-and-artists-in-delray-beach-fl-26000012#sealclick" title="Better Business Bureau Accredited Business" tabindex="123"><img src="/_img/toolbox/logos/bbb.png" alt="BBB Accredited Business" title="Better Business Bureau Accredited Business" height="32"></a> &nbsp; <a href="https://www.mcafeesecure.com/RatingVerify?ref=www.awaionline.com" title="McAfee Secure Verified" tabindex="124"><img src="//images.scanalert.com/meter/www.awaionline.com/12.gif" alt="McAfee Secure tested daily" title="McAfee Secure Verified" height="32"></a>
 	</div>
 	<div class="clear" style="border-bottom:1px dotted #777;"></div>
 	<div class="left-column">
-	Copyright © 2017 <a href="/" tabindex="144">American Writers &amp; Artists Inc.</a>
+	Copyright © 2018 <a href="/" tabindex="125">American Writers &amp; Artists Inc.</a>
 	</div>
 	<div class="right-column">
-	<a href="/about/privacy/" tabindex="145">Privacy Policy</a> | <a href="/help/" tabindex="146">Help</a> | <a href="/sitemap/" tabindex="147">Site Map</a> | <a href="/rss/main/rss.xml" class="popup" tabindex="148">RSS Feed</a> | <a href="/contact/" tabindex="149">Contact Us</a>
+	<a href="/about/privacy/" tabindex="126">Privacy Policy</a> | <a href="/help/" tabindex="127">Help</a> | <a href="/sitemap/" tabindex="128">Site Map</a> | <a href="/rss/main/rss.xml" class="popup" tabindex="129">RSS Feed</a> | <a href="/contact/" tabindex="130">Contact Us</a>
 	</div>
 	<br class="clear">
 	</div>
@@ -615,21 +638,43 @@
 	</script>
 	<!-- End SnapEngage Code -->
 
-
-	<div class="promo-slideshow-slide-wrapper promo-slideshow-slide-wrapper-minimize">
-			<div class="promo-slideshow-slide promo-slideshow-slide-b2e">
-				<div class="promo-slideshow-slide-copy clickable">
-					<div class="headline bold"><span class="inner-headline">Which ‘Type’ of Copywriter Are You?</span></div>
-					<div class="promo-slideshow-slide-cta-wrapper"><a href="/IS/B2E-DC/AW_20/BAN" class="promo-slideshow-slide-cta" tabindex="150"><span>Take This Quick Little Quiz to Find Out</span></a></div>
-					<div class="promo-slideshow-slide-icon"><span class="fa fa-file-text"></span></div>
+	<div class="fixed-eyebrow-banner-wrapper fixed-eyebrow-banner-bottom fixed-eyebrow-banner-avb  ">
+		<div class="fixed-eyebrow-banner-copy">
+			<div class="clickable">
+				<div class="fixed-eyebrow-banner-top-copy"><span class="canary">FILLING UP QUICKLY!</span> AWAI Badges Prove You’ve Got the Skills</div>
+				<div class="headline bold">Learn to write 8 of the most in-demand copywriting projects and AWAI will verify you’ve mastered the skills.</div>
+				<div class="fixed-eyebrow-banner-cta-wrapper">
+					<a href="/IS/AVB-DC/AW_20/BAN" class="fixed-eyebrow-banner-cta" tabindex="131">
+						<span class="fixed-eyebrow-banner-cta-text">Limited enrollment — click here for details!</span>
+					</a>
 				</div>
+				<div class="fixed-eyebrow-banner-close">×</div>
 			</div>
+		</div>
 	</div>
-
-
-
-
-
+	<div class="fixed-eyebrow-avb-badges">
+		<img src="/_img/toolbox/logos/avb/avb-ads-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-con-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-eml-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-ldg-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-fnl-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-vid-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-seo-150.png" width="125" alt="">
+		<img src="/_img/toolbox/logos/avb/avb-sme-150.png" width="125" alt="">
+	</div>	
+	
+	<script type="text/javascript">
+	<!--
+	$(function(){
+		$('.fixed-eyebrow-banner-close').on('click', function(e){
+			e.stopPropagation();
+			$('.fixed-eyebrow-banner-wrapper').hide();
+			$('.fixed-eyebrow-avb-badges').hide();
+			$.ajax('/toolbox/hide-banner.php?date=' + new Date().getTime());
+		});
+	});
+	-->
+	</script>
 	
 	
 </body></html>
