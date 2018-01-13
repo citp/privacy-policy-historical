@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneupapp.io privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011211922id_/http%3A//www.oneupapp.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupapp.io privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114005413id_/https%3A//www.oneupapp.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - OneUp
+# OneUp - Privacy Policy
 
 1\. The terms OneUp or "we" or "us" or "our" or any grammatical variations of the preceding words refer to OneUp Inc. The terms "you" or "your" refer to the client/customer or to users of any of the interfaces (including but not limited to websites and emails) provided by OneUp. 
 
