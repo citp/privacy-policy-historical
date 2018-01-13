@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113164722id_/http%3A//updato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2018-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180113092128id_/https%3A//updato.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Samsung Android Update
 
@@ -32,6 +32,10 @@ If Updato, or substantially all of its assets, were acquired, or in the unlikely
 
 **Ads**  
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Updato and does not cover the use of cookies by any advertisers.
+
+**X. THIRD PARTY ADVERTISERS – YOUR AD CHOICES**
+
+We use third-party advertising companies to serve ads when you visit the Websites and/or use the Mobile Apps. These companies may use information about your visits to any of the Websites and other websites and the Mobile App(s) and other mobile applications in order to provide advertisements about goods and services of interest to you. You have the ability to opt out of the use of your information for purposes of online third-party advertising. If you would like more information about your choices, visit aboutads.info. You may have the ability to manage tracking and ad preferences on your mobile device from your devices settings. We do not respond to Web browser “do not track” signals or other similar mechanisms.
 
 **Privacy Policy Changes**  
 Although most changes are likely to be minor, Updato may change its Privacy Policy from time to time, and in Updato’s sole discretion. Updato encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Updato.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.  
