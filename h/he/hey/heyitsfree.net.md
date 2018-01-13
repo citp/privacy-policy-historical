@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heyitsfree.net privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709065639id_/https%3A//www.heyitsfree.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyitsfree.net privacy policy that was archived on 2018-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180113222534id_/https%3A//www.heyitsfree.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Hey, It's Free!
 
