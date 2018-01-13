@@ -1,65 +1,20 @@
-<!--The following is the downloaded HTML source of the oneupapp.io privacy policy that was archived on 2017-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171011211922id_/http%3A//www.oneupapp.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oneupapp.io privacy policy that was archived on 2018-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180114005413id_/https%3A//www.oneupapp.io/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-		<link rel="shortcut icon" href="http://www.oneupapp.io/img/favicon.ico">
-		<title>    Privacy Policy - OneUp
-</title>
-		    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		    <link rel="stylesheet" type="text/css" href="css/semantic.css">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-		    <script async="" src="https://oneup.mautic.net/mtc.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="js/jquery.min.js"></script>
-    <script src="js/semantic.js"></script>
-		<script>
-		    $(document).ready(function(e){
-		      $(".contact_us").click(function(e){
-		        $('.ui.modal').modal('show');
-		      });
+<html><head>
+  <title>OneUp - Privacy Policy</title>
+  <link rel="stylesheet" type="text/css" href="css/semantic.css">
 
-		      $(".submitbtn").click(function(e){
-		        var name = $("#name").val();
-		        var email = $("#email").val();
-		        var message = $("#message").val();
+</head>
+<body>
 
-		        if(($.trim(name) == '') || ($.trim(email) == '') || ($.trim(message) == '') )
-		          return;
-		        $.ajax({
-		          url: "/submitmessage",
-		          data: 'name='+name+'&email='+email+"&message="+message,
-		          type: 'GET',
-		          success: function(result){
-		            alert("We have received your message and will contact you in next 24 hours. Thanks.");
-		            $('.ui.modal').modal('hide');
-		          }
-		        });
-		      });
-		    });
-		</script>
-		<!-- Facebook Pixel Code -->
-		<script>
-		!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-		n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-		n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-		t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-		document,'script','https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '787698454730459'); // Insert your pixel ID here.
-		fbq('track', 'PageView');
-		</script>
-		<noscript><img height="1" width="1" style="display:none"
-		src="https://www.facebook.com/tr?id=787698454730459&ev=PageView&noscript=1"
-		/></noscript>
-		<!-- DO NOT MODIFY -->
-		<!-- End Facebook Pixel Code -->
-	</head>
-	<body>
-		<div class="container">
-			    <div class="ui grid">
-      <div class="three wide column" style="height:80px; background-color:#563c7d;border-bottom: 2px solid #c8c8c8">
+  <div class="ui grid">
+      <div class="three wide column" style="height:80px; background-color:#188EF5;border-bottom: 2px solid #c8c8c8">
           <a href="/">
             <img class="ui circular image" src="img/oneup.jpeg" style="width:55px; height:55px;margin-top:5px;margin-left:15%">
           </a>
       </div>
-      <div class="thirteen wide column" style="height:80px; background-color:#563c7d;border-bottom: 2px solid #c8c8c8">
+      <div class="thirteen wide column" style="height:80px; background-color:#188EF5;border-bottom: 2px solid #c8c8c8">
           <a href="/"><p style="float:right;margin-right:2%; color:#fff;line-height:60px;">Go Back</p></a>
       </div>
   </div>
@@ -88,75 +43,5 @@
       </div>
   </div>
 
-			  <div id="footer" class="ui grid" style="background-color: #F0F0F0; height: 100px;">
-			   		<div class="six wide column left floated" style="margin: 2em 0 0 2em">
- 	<h5 class="ui header">
- 		<div class="content">
- 			 <a href="/privacy">Privacy Policy</a>
- 			<!--<a href="/price">Pricing</a>-->
- 			<a href="/terms">Terms</a>
- 			<a href="https://oneup.freshdesk.com/support/solutions/" target="blank">Help Docs</a>
- 			<a href="/price">Pricing</a>
- 			<a href="/faqs">FAQs</a>
- 			<a class="contact_us">Contact Us</a>                 
- 		</div>
- 	</h5>
- </div>
- <div class="three wide column right floated" style="background-color: #4B3776">
- 	<a style="float:left" href="https://www.facebook.com/OneUp-909836052477384" target="blank"><i class="facebook icon large" style="color: #ffffff"></i></a>&nbsp;
- 	<a style="float:left" href="https://twitter.com/talk2oneup" target="blank"><i class="twitter icon large" style="color: #ffffff"></i></a>&nbsp;
- 	<br><br>
- 	<p style="color: #ffffff;float:left">Made with <i class="heart icon"></i> in India &amp; Chicago</p>
- </div>
- 
-			  </div>	
-		</div>
-		<div class="ui modal">
-  <i class="close icon"></i>
-  <div class="header">
-    Contact Us
-  </div>
-  <div class="image content">
-    <div class="description">
-      <h3> Your Name :</h3>
-      <input type="text" id="name" style="width:300px;height:30px; border:1px solid #5b6675">
-      <h3> Email :</h3>
-      <input type="text" id="email" style="width:300px;height:30px; border:1px solid #5b6675">
-      <h3> Message :</h3>
-      <textarea id="message" style="width:300px;height:150px"></textarea>
-      <div class="ui divider"></div>
-      <p style="color:#5b6675; font-size:18px">You can also contact us by sending mail at:  <b>support@oneupapp.io</b>
-    </p></div>
-  </div>
-  <div class="actions">
-    <div class="ui button submitbtn">OK</div>
-  </div>
-  
-</div>		<script>
-		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-		  ga('create', 'UA-79245861-1', 'auto');
-		  ga('set', {
-			  'page': window.location.pathname,
-			  'title': document.title,
-			  'referrer': document.referrer,
-			  'hostname': window.location.hostname,
-			  'location': window.location.href
-		  });
-		  ga('send', 'pageview');
-
-		</script>
-		<script>
-		    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
-		        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
-		        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
-		    })(window,document,'script','https://oneup.mautic.net/mtc.js','mt');
-
-		    mt('send', 'pageview');
-		</script>
-		
-	
 </body></html>
