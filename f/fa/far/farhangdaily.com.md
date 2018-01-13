@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farhangdaily.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112043959id_/http%3A//farhangdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farhangdaily.com privacy policy that was archived on 2018-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180113230848id_/http%3A//farhangdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » The Daily
 
