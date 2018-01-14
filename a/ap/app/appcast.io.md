@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appcast.io privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203195549id_/http%3A//www.appcast.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcast.io privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114142748id_/https%3A//appcast.io/privacy-policy) for the most accurate reproduction.*
 
 # Appcast | Privacy Policy - Appcast
 
