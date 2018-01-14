@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phishcheck.me privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113140516id_/http%3A//phishcheck.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phishcheck.me privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114153354id_/https%3A//www.phishcheck.me/privacy-policy) for the most accurate reproduction.*
 
-# Phishcheck 1.2 beta - Privacy Policy
+# Phishcheck 2.0 beta - Privacy Policy
 
 Our privacy policy applies to information we collect when you use or access our website, application, or just interact with us. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective 30 days after we post the revised privacy policy (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy. 
 
@@ -66,4 +66,4 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at: privacy@zombisoft.com. 
+If you have any questions about this privacy policy, please contact us at: admin@phishcheck.me. 
