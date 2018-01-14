@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624125106id_/https%3A//www.sears.ca/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sears.ca privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114061048id_/https%3A//www.sears.ca/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
