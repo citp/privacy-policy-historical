@@ -1,13 +1,18 @@
-<!--The following is the downloaded HTML source of the saatchiart.com privacy policy that was archived on 2017-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170120142943id_/https%3A//www.saatchiart.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saatchiart.com privacy policy that was archived on 2018-01-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180114222642id_/https%3A//www.saatchiart.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6ZNR6"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBV1VQGwAIVllaAQMP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-spa-1059.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6ZNR6"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUBV1VQGwAIVllaAQMP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1059.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
     <title>Privacy Policy | Saatchi Art</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Art">
     <meta name="keywords" content="Buy Original Artwork, Canvas Prints, Sell Art, Photography, Paintings, Art Prints, Saatchi Art, Abstract Art, Contemporary Art, Modern Art, Artist Community, Online Art Gallery">
     <meta name="p:domain_verify" content="a4a757960617d67430cc04a93e1d4224">
+    <script>
+        window.V2_AUTH_ENABLED = true;
+        window.REGISTER_URL = "/authentication/register";
+        window.LOGIN_URL = "/authentication";
+    </script>
     <meta name="siteid" scheme="DMINSTR2" content="SAATCH">
             <meta name="subpagetype" scheme="DMINSTR2" content="">
             <meta name="pagetype" scheme="DMINSTR2" content="pages">
@@ -18,29 +23,54 @@
             <meta name="subsubcat" scheme="DMINSTR2" content="">
             <meta name="wa_lr" scheme="DMINSTR2" content="">
             <meta name="ltvtag" scheme="DMINSTR2" content="">    <meta name="fb:app_id" content="112537152116651">
-        <meta property="bt:type" content="about">
-<meta property="og:site_name" content="Saatchi Art">
-<meta property="og:type" content="article">
-<meta property="og:image" content="http://www.saatchiart.com/media/images/saatchi_art_small_logo_square.png">
-<meta property="og:title" content="Privacy Policy | Saatchi Art">
-<meta property="og:url" content="http://www.saatchiart.com/privacy">
-<meta property="og:description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Art">
-
+    
     <script type="application/ld+json">
         { "@context" : "http://schema.org", "@type" : "WebSite", "name" : "saatchiart.com", "alternateName": "Saatchi Art", "url" : "https://www.saatchiart.com" }
     </script>
     <script type="application/ld+json">
-        { "@context" : "http://schema.org", "@type" : "Organization", "url" : "https://www.saatchiart.com", "logo": "https://s3.amazonaws.com/saatchi-general/common/saatchi-art-logo-1x.png", "brand" : "Saatchi Art", "sameAs" : [ "https://www.youtube.com/Saatchiart" , "https://www.facebook.com/saatchionline", "https://twitter.com/SaatchiArt", "https://www.instagram.com/saatchiart", "https://plus.google.com/+saatchiart", "https://www.pinterest.com/saatchiart" ] }
+        { "@context" : "http://schema.org", "@type" : "Organization", "url" : "https://www.saatchiart.com", "logo": "https://s3.amazonaws.com/saatchi-general/common/saatchi-art-logo-1x.png", "brand" : "Saatchi Art", "sameAs" : [ "https://www.youtube.com/c/Saatchiart" , "https://www.facebook.com/saatchionline", "https://twitter.com/SaatchiArt", "https://www.instagram.com/saatchiart", "https://plus.google.com/+saatchiart", "https://www.pinterest.com/saatchiart" ] }
     </script>
     <script type="application/ld+json">
-        { "@context" : "http://schema.org", "@type" : "WebPage", "url" : "https://www.saatchiart.com", "mainEntityOfPage": "https://saatchiart.com", "sameAs" : [ "https://www.youtube.com/Saatchiart" , "https://www.facebook.com/saatchionline", "https://twitter.com/SaatchiArt", "https://www.instagram.com/saatchiart", "https://plus.google.com/+saatchiart", "https://www.pinterest.com/saatchiart" ], "keywords" : ["original art", "art", "artworks", "art for sale", "gallery"], "inLanguage" : "en-us", "headline" : "The World's Leading Online Art Gallery | Saatchi Art", "description" : "Discover and buy original artwork from emerging artists around the world", "isFamilyFriendly" : "True" }
+    {
+        "@context" : "http://schema.org",
+        "@type" : "WebPage",
+        "url" : "http://www.saatchiart.com/privacy",
+        "mainEntityOfPage": "https://saatchiart.com",
+        "sameAs" : [
+            "https://www.youtube.com/c/Saatchiart" ,
+            "https://www.facebook.com/saatchionline",
+            "https://twitter.com/SaatchiArt",
+            "https://www.instagram.com/saatchiart",
+            "https://plus.google.com/+saatchiart",
+            "https://www.pinterest.com/saatchiart"
+        ],
+        "keywords" : [
+            "original art",
+            "art",
+            "artworks",
+            "art for sale",
+            "gallery"
+        ],
+        "inLanguage" : "en-us",
+        "headline" : "The World's Leading Online Art Gallery | Saatchi Art",
+        "description" : "Discover and buy original artwork from emerging artists around the world.",
+        "isFamilyFriendly" : "True"
+    }
     </script>
 
-    
+    <link rel="shortcut icon" href="/favicon.ico">
+
+            <meta property="bt:type" content="about">
+<meta property="og:site_name" content="Saatchi Art">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://www.saatchiart.com/media/images/saatchi_art_small_logo_square.png">
+<meta property="og:title" content="Privacy Policy | Saatchi Art">
+<meta property="og:url" content="https://www.saatchiart.com/privacy">
+<meta property="og:description" content="Privacy and Security Policy Related to the Use, Protection, and Disclosure of Personal Information at Saatchi Art">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,600,400italic,600italic">
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/themes/smoothness/jquery-ui.css" media="screen" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://dfcdths9j2gip.cloudfront.net/styles/main-1484855406040.css">
+    <link rel="stylesheet" href="https://dfcdths9j2gip.cloudfront.net/styles/main-1515802798444.css">
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
@@ -48,34 +78,11 @@
         <script src="//cdn.optimizely.com/js/2220741194.js"></script>
     
         
-        <script type="text/javascript" src="https://dfcdths9j2gip.cloudfront.net/js/dist/core-1484855407652.min.js"></script>
-    		<script type="text/javascript">
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-    (function () {
-        var useSSL = 'https:' == document.location.protocol;
-        var src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
-    })();
-</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+        <script type="text/javascript" src="https://dfcdths9j2gip.cloudfront.net/js/dist/core-1515802800064.min.js"></script>
+    	</head>
+<body class="saatchi privacy bgcolor signed-out"><div class="limited-filters-mobile__dimmer"></div>
 
-<script type="text/javascript">
-googletag.defineSlot('/35610055/www_content_980x50', [[980, 50],[1060, 50],[1004, 50],[740, 50],[300,50]], 'div-gpt-ad-1352935184042-0').addService(googletag.pubads());
-googletag.defineSlot('/35610055/www-page-takeover', [775, 525], 'div-gpt-ad-1367950793300-0').addService(googletag.pubads());
-// Default Slot File
-googletag.pubads().setTargeting('logged_in', 'false');
-googletag.pubads().setTargeting('user_type', 'anonymous');
-googletag.pubads().setTargeting('page_views', '1');
-googletag.pubads().setTargeting('ub_page', Saatchi.Cookie.read('ub_page'));
-googletag.pubads().setTargeting('env', 'production');
-googletag.pubads().enableSyncRendering();
-googletag.pubads().enableSingleRequest();
-googletag.enableServices();
-</script>
-</head>
 
-<body class="saatchi privacy bgcolor signed-out">
     <script>
         if (navigator.userAgent.match(/AppleWebKit/) && ! navigator.userAgent.match(/Chrome/)) {
             document.body.className += ' safari';
@@ -113,344 +120,848 @@ googletag.enableServices();
     <script>var tc_vars = {"user_logged":"no","env_template":"","env_work":"production","env_language":"","env_country":"","env_dnt":"","page_cat1":"pages","page_cat2":"privacy","page_cat3":"","page_cat4":"","page_cat5":"","page_name":"pages","page_error":""};</script>    </div>
     
     
-    <header id="header" role="banner">
-		
-<div class="row">
-    <div class="l-banner-branding"><a data-gtm-event="nav header" href="/" class="ir" title="Saatchi Art" target="_parent">Saatchi Art</a></div>
-    <div id="so-hd-search" class="banner-search">
-        <form action="/all" method="get" id="header_search_form" class="so-search pull-right" target="_parent">
-            <input class="keywords" type="text" name="query" placeholder="Search..." value="" autocomplete="off">
-            <div class="so-search-select">
-                <select class="so-select pull-left">
-                    <option value="/all">Art</option>
-                    <option value="/search/user">Artist</option>
-                    <option value="/search/collection">Collection</option>
-                </select>
-                <i class="fa fa-angle-down"></i>
-                <button type="submit" class="btn btn-small btn-submit-search pull-left"><i class="fa fa-search"></i></button>
+            <div class="desktop-navigation desktop-navigation--saatchiart">
+    <div class="desktop-navigation__context-bar">
+        <div class="desktop-navigation__context-bar__inner">
+            <div class="desktop-navigation__context-bar__left">
+                <div class="desktop-navigation__context-links">
+                                            <a title="Saatchi Art" data-gtm-event="nav header" class="desktop-navigation__context-link desktop-navigation__context-link--active" href="https://www.saatchiart.com">
+                                                        <img alt="Saatchi Art" class="desktop-navigation__context-logo desktop-navigation__context-logo--saatchiart" src="//d3t95n9c6zzriw.cloudfront.net/navigation/saatchi-logo-grayscale.svg">
+                        </a>
+                                            <a title="Limited Edition Art Prints" data-gtm-event="nav header" class="desktop-navigation__context-link " href="https://limited.saatchiart.com">
+                                                        <div class="desktop-navigation__context-link__new-indicator">NEW</div>
+                                                        <img alt="Limited Edition Art Prints" class="desktop-navigation__context-logo desktop-navigation__context-logo--limited" src="//d3t95n9c6zzriw.cloudfront.net/navigation/limited-logo-grayscale.svg">
+                        </a>
+                                            <a title="The Other Art Fair" data-gtm-event="nav header" class="desktop-navigation__context-link " href="https://www.saatchiart.com/theotherartfair">
+                                                        <img alt="The Other Art Fair" class="desktop-navigation__context-logo desktop-navigation__context-logo--toaf" src="//d3t95n9c6zzriw.cloudfront.net/navigation/toaf-logo-grayscale.svg">
+                        </a>
+                                    </div>
             </div>
-            <div class="clearfix"></div>
-        </form>
+            <div class="desktop-navigation__context-bar__right">
+                                    <div class="desktop-navigation__authentication-links"><!--
+                                                    --><div class="desktop-navigation__authentication-links__item"><!--
+                                --><a rel="nofollow" data-gtm-event="nav header" href="/authentication?redirect_url=%2Fprivacy" title="Sign In">Sign In</a><!--
+                            --></div><!--
+                                                    --><div class="desktop-navigation__authentication-links__item"><!--
+                                --><a rel="nofollow" data-gtm-event="nav header" href="/authentication/register?redirect_url=%2Fprivacy" title="Register">Register</a><!--
+                            --></div><!--
+                                        --></div><!--
+                                --><a rel="nofollow" data-gtm-event="nav header" href="/account/favorites" class="navigation__favorite-link">
+                    <svg viewBox="0 0 23 20" xmlns="http://www.w3.org/2000/svg"><path d="M22 6.54C22 3.48 19.38 1 16.16 1c-1.9 0-3.6.86-4.66 2.2A5.95 5.95 0 0 0 6.84 1C3.62 1 1 3.48 1 6.54c0 1.31.48 2.51 1.28 3.46l9.23 10 9.2-10A5.34 5.34 0 0 0 22 6.54z" stroke="#221F20" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+                </a><!--
+                --><a rel="nofollow" data-gtm-event="nav header" href="/checkout" class="navigation__cart-link">
+                    <div class="navigation__cart-link__count"></div>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 21"><g fill="none" fill-rule="evenodd" transform="translate(0 1)"><path stroke="#333" stroke-linecap="round" d="M0 .478h4.667l3.734 13.077H23.35l2.804-8.635"></path><circle cx="21.25" cy="17.669" r="1.635" fill="#333"></circle><circle cx="10.232" cy="17.924" r="1.635" fill="#333"></circle></g></svg>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="desktop-navigation__header-bar">
+        <div class="desktop-navigation__container">
+            <div class="desktop-navigation__header-bar__inner">
+                <a title="Saatchi Art" data-gtm-event="nav header" href="https://www.saatchiart.com" class="navigation__logo"><img alt="Saatchi Art" src="//d3t95n9c6zzriw.cloudfront.net/navigation/sa-logo.svg"></a>
+
+                <div class="desktop-navigation__site-links">
+                    <div class="desktop-navigation__site-links__indicator"></div>
+                                            <div data-index="0" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="/paintings" class="desktop-navigation__site-link__title__link ">
+                                    Paintings                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="1" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="/photography" class="desktop-navigation__site-link__title__link ">
+                                    Photography                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="2" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="/drawings" class="desktop-navigation__site-link__title__link ">
+                                    Drawings                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="3" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="/sculpture" class="desktop-navigation__site-link__title__link ">
+                                    Sculpture                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="4" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a title="Limited edition art prints" data-gtm-event="nav header" href="https://limited.saatchiart.com/prints" class="desktop-navigation__site-link__title__link ">
+                                    Limited Editions                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="5" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="/collections/browse/type/4" class="desktop-navigation__site-link__title__link ">
+                                    Features                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="6" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="//canvas.saatchiart.com/" class="desktop-navigation__site-link__title__link ">
+                                    Blog                                </a>
+                            </div>
+                        </div>
+                                            <div data-index="7" class="desktop-navigation__site-link">
+                            <div class="desktop-navigation__site-link__title">
+                                <a data-gtm-event="nav header" href="/artadvisory" class="desktop-navigation__site-link__title__link ">
+                                    Art Advisory                                </a>
+                            </div>
+                        </div>
+                    
+                                        <div class="desktop-navigation__dropdown">
+                        
+                            
+                            <div data-index="0" class="desktop-navigation__dropdown__inner">
+
+                                                                    <div class="desktop-navigation__dropdown__image-container">
+                                        <a data-gtm-event="nav header" href="/art-collection/Painting/Painting/685448/191300/view" class="desktop-navigation__dropdown__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-painting.jpg)">
+                                            <div class="desktop-navigation__dropdown__image__title">
+                                                Featured Paintings                                            </div>
+                                        </a>
+                                    </div>
+                                
+                                <div class="desktop-navigation__dropdown__sections">
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Style                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/fine-art">
+                                                        Fine Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/abstract">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/modern">
+                                                        Modern                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/street-art">
+                                                        Street Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/pop-art">
+                                                        Pop Art                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Subject                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/portrait">
+                                                        Portrait                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/landscape">
+                                                        Landscape                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/still-life">
+                                                        Still Life                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/nature">
+                                                        Nature                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/beach">
+                                                        Beach                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Medium                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/oil">
+                                                        Oil                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/watercolor">
+                                                        Watercolor                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/acrylic">
+                                                        Acrylic                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/airbrush">
+                                                        Airbrush                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/paintings/digital">
+                                                        Digital                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                    </div>
+
+                            </div>
+                        
+                            
+                            <div data-index="1" class="desktop-navigation__dropdown__inner">
+
+                                                                    <div class="desktop-navigation__dropdown__image-container">
+                                        <a data-gtm-event="nav header" href="/art-collection/Photography/Photography/722504/191045/view" class="desktop-navigation__dropdown__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-photography.jpg)">
+                                            <div class="desktop-navigation__dropdown__image__title">
+                                                Featured Photography                                            </div>
+                                        </a>
+                                    </div>
+                                
+                                <div class="desktop-navigation__dropdown__sections">
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Style                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/fine-art">
+                                                        Fine Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/portraiture">
+                                                        Portraiture                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/abstract">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/documentary">
+                                                        Documentary                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/conceptual">
+                                                        Conceptual                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Subject                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/landscape">
+                                                        Landscape                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/portrait">
+                                                        Portrait                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/nature">
+                                                        Nature                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/still-life">
+                                                        Still Life                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/nude">
+                                                        Nude                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Medium                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/digital">
+                                                        Digital                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/black---white">
+                                                        Black and White                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/color">
+                                                        Color                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/c-type">
+                                                        C-type                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/photography/gelatin">
+                                                        Digital                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                    </div>
+
+                            </div>
+                        
+                            
+                            <div data-index="2" class="desktop-navigation__dropdown__inner">
+
+                                                                    <div class="desktop-navigation__dropdown__image-container">
+                                        <a data-gtm-event="nav header" href="/art-collection/Drawing/Featured-Drawings/871991/191271/view" class="desktop-navigation__dropdown__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-drawing-v4.jpg)">
+                                            <div class="desktop-navigation__dropdown__image__title">
+                                                Featured Drawings                                            </div>
+                                        </a>
+                                    </div>
+                                
+                                <div class="desktop-navigation__dropdown__sections">
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Style                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/graffiti">
+                                                        Graffiti                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/abstract">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/fine-art">
+                                                        Fine Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/pop-art">
+                                                        Pop Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/surrealism">
+                                                        Surrealism Art                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Subject                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/nature">
+                                                        Nature                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/portrait">
+                                                        Portrait                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/animal">
+                                                        Animal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/love">
+                                                        Love                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/cartoon">
+                                                        Cartoon                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Medium                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/pencil">
+                                                        Pencil                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/charcoal">
+                                                        Charcoal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/digital">
+                                                        Digital                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/ink">
+                                                        Ink                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/drawings/pastel">
+                                                        Pastel                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                    </div>
+
+                            </div>
+                        
+                            
+                            <div data-index="3" class="desktop-navigation__dropdown__inner">
+
+                                                                    <div class="desktop-navigation__dropdown__image-container">
+                                        <a data-gtm-event="nav header" href="/art-collection/Sculpture/Sculpture/685448/191293/view" class="desktop-navigation__dropdown__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-sculpture.jpg)">
+                                            <div class="desktop-navigation__dropdown__image__title">
+                                                Featured Sculptures                                            </div>
+                                        </a>
+                                    </div>
+                                
+                                <div class="desktop-navigation__dropdown__sections">
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Style                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/pop-art">
+                                                        Pop Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/abstract">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/wall">
+                                                        Wall                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/figurative">
+                                                        Figurative                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/modern">
+                                                        Modern                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Subject                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/body">
+                                                        Body                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/still-life">
+                                                        Still Life                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/animal">
+                                                        Animal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/architecture">
+                                                        Architecture                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/geometric">
+                                                        Geometric                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                                                                        <div class="desktop-navigation__dropdown__section-title">
+                                                Medium                                            </div>
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/metal">
+                                                        Metal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/bronze">
+                                                        Bronze                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/clay">
+                                                        Clay                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/glass">
+                                                        Glass                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/sculpture/wood">
+                                                        Wood                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                    </div>
+
+                            </div>
+                        
+                            
+                            
+                            <div data-index="5" class="desktop-navigation__dropdown__inner">
+
+                                                                    <div class="desktop-navigation__dropdown__image-container">
+                                        <a data-gtm-event="nav header" href="/collections/browse/type/4" class="desktop-navigation__dropdown__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-featured-collection-2.jpg)">
+                                            <div class="desktop-navigation__dropdown__image__title">
+                                                Featured Collections                                            </div>
+                                        </a>
+                                    </div>
+                                
+                                <div class="desktop-navigation__dropdown__sections">
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/collections/browse/type/4">
+                                                        Collections                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/shows">
+                                                        Shows                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/catalog">
+                                                        Catalog                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                            <div class="desktop-navigation__dropdown__section">
+                                            
+                                                                                        <div class="desktop-navigation__dropdown__section-links">
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/invest-in-art">
+                                                        Invest In Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="//canvas.saatchiart.com/category/art/one-to-watch">
+                                                        One To Watch Artists                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="//canvas.saatchiart.com/category/art/inside-the-studio">
+                                                        Inside The Studio                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" class="desktop-navigation__dropdown__section-link" href="/gift-guide">
+                                                        Gift Guide                                                    </a>
+                                                                                            </div>
+                                                                                    </div>
+                                                                    </div>
+
+                            </div>
+                        
+                            
+                                                </div>
+                </div>
+                <form action="/all" class="desktop-navigation__search">
+                    <div class="desktop-navigation__search__caret">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8"><g fill="none" fill-rule="evenodd" stroke="#333" stroke-linecap="square"><path d="M1 0l7.071 7.071M8.5 7.5l7-7"></path></g></svg>
+                    </div><!--
+                    --><input name="query" type="text" class="desktop-navigation__search__input" placeholder="Art" autocomplete="off" value="">
+                    <button class="desktop-navigation__search__button" type="submit"><img class="desktop-navigation__search__mag" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/mag-glass.svg"></button>
+
+                    <div tabindex="0" class="desktop-navigation__search__dropdown dropdown-menu">
+                        <div class="link-standard desktop-navigation__search__dropdown__item--active" data-path="/all">Art</div>
+                        <div class="link-standard" data-path="/search/user">Artist</div>
+                        <div class="link-standard" data-path="/search/collection">Collection</div>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
 </div>
+<div class="mobile-navigation">
+    <div class="mobile-navigation__menu">
+        <div class="mobile-navigation__backdrop"></div>
 
-<div class="nav-primary contain-to-grid">
-    <nav class="top-bar" data-topbar="">
-        <ul class="title-area">
-            <li class="name">
-                <!-- Leave this empty -->
-            </li>
-            <li class="toggle-topbar"><a href="#"><i class="fa fa-bars"></i></a></li>
-        </ul>
-        <section class="top-bar-section">
+        <div class="mobile-navigation__menu__inner">
+            <div class="hamburger mobile-navigation__hamburger">
+                <div class="hamburger__line"></div>
+                <div class="hamburger__line"></div>
+                <div class="hamburger__line"></div>
+            </div>
 
-            <!-- Left Nav Section -->
-            <ul class="left">
-                <!-- <li class="submenu gift-guide"><a data-gtm-event="nav header" id="navPaintings" href="/gift-guide" title="Gift Guide" target="_parent"><span class="fa fa-gift"></span> Gift Guide</a> -->
-                <li class="submenu paintings"><a data-gtm-event="nav header" id="navPaintings" href="/paintings" title="Paintings" target="_parent">Paintings</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Style</li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/fine-art" title="Fine Art">Fine Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/abstract" title="Abstract">Abstract</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/modern" title="Modern">Modern</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/street-art" title="Street Art">Street Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/pop-art" title="Pop Art">Pop Art</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Subject</li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/portrait" title="Portrait">Portrait</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/landscape" title="Landscape">Landscape</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/still-life" title="Still Life">Still Life</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/nature" title="Nature">Nature</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/beach" title="Beach">Beach</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Medium</li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/oil" title="Oil">Oil</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/watercolor" title="Watercolor">Watercolor</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/acrylic" title="Acrylic">Acrylic</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/airbrush" title="Airbrush">Airbrush</a></li>
-                                        <li><a data-gtm-event="nav header" href="/paintings/digital" title="Digital">Digital</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="submenu photography"><a data-gtm-event="nav header" id="navPhotography" href="/photography" title="Photography" target="_parent">Photography</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Style</li>
-                                        <li><a data-gtm-event="nav header" href="/photography/fine-art" title="Fine Art">Fine Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/portraiture" title="Portraiture">Portraiture</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/abstract" title="Abstract">Abstract</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/documentary" title="Documentary">Documentary</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/conceptual" title="Conceptual">Conceptual</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Subject</li>
-                                        <li><a data-gtm-event="nav header" href="/photography/landscape" title="Landscape">Landscape</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/portrait" title="Portrait">Portrait</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/nature" title="Nature">Nature</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/still-life" title="Still Life">Still Life</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/nude" title="Nude">Nude</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Medium</li>
-                                        <li><a data-gtm-event="nav header" href="/photography/digital" title="Digital">Digital</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/black---white" title="Black and White">Black and White</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/color" title="Color">Color</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/c-type" title="C-type">C-type</a></li>
-                                        <li><a data-gtm-event="nav header" href="/photography/gelatin" title="Gelatin">Gelatin</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="submenu drawings"><a data-gtm-event="nav header" id="navDrawings" href="/drawings" title="Drawings" target="_parent">Drawings</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Style</li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/graffiti" title="Graffiti">Graffiti</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/abstract" title="Abstract">Abstract</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/fine-art" title="Fine Art">Fine Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/pop-art" title="Pop Art">Pop Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/surrealism" title="Surrealism">Surrealism</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Subject</li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/nature" title="Nature">Nature</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/portrait" title="Portrait">Portrait</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/animal" title="Animal">Animal</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/love" title="Love">Love</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/cartoon" title="Cartoon">Cartoon</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Medium</li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/pencil" title="Pencil">Pencil</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/charcoal" title="Charcoal">Charcoal</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/digital" title="Digital">Digital</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/ink" title="Ink">Ink</a></li>
-                                        <li><a data-gtm-event="nav header" href="/drawings/pastel" title="Pastel">Pastel</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="submenu sculpture"><a data-gtm-event="nav header" id="navSculpture" href="/sculpture" title="Sculpture" target="_parent">Sculpture</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Style</li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/pop-art" title="Pop Art">Pop Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/abstract" title="Abstract">Abstract</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/wall" title="Wall">Wall</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/figurative" title="Figurative">Figurative</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/modern" title="Modern">Modern</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Subject</li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/body" title="Body">Body</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/still-life" title="Still Life">Still Life</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/animal" title="Animal">Animal</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/architecture" title="Architecture">Architecture</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/geometric" title="Geometric">Geometric</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Medium</li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/metal" title="Metal">Metal</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/bronze" title="Bronze">Bronze</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/clay" title="Clay">Clay</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/glass" title="Glass">Glass</a></li>
-                                        <li><a data-gtm-event="nav header" href="/sculpture/wood" title="Wood">Wood</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="submenu collage"><a data-gtm-event="nav header" id="navCollage" href="/collage" title="Collage" target="_parent">Collage</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Style</li>
-                                        <li><a data-gtm-event="nav header" href="/collage/dada" title="Dada">Dada</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/pop-art" title="Pop Art">Pop Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/abstract" title="Abstract">Abstract</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/surrealism" title="Surrealism">Surrealism</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/street-art" title="Street Art">Street Art</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Subject</li>
-                                        <li><a data-gtm-event="nav header" href="/collage/fashion" title="Fashion">Fashion</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/celebrity" title="Celebrity">Celebrity</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/nature" title="Nature">Nature</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/geometric" title="Geometric">Geometric</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/landscape" title="Landscape">Landscape</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Medium</li>
-                                        <li><a data-gtm-event="nav header" href="/collage/paper" title="Paper">Paper</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/photo" title="Photo">Photo</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/digital" title="Digital">Digital</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/paint" title="Paint">Paint</a></li>
-                                        <li><a data-gtm-event="nav header" href="/collage/fabric" title="Fabric">Fabric</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="submenu prints"><a data-gtm-event="nav header" id="navPrints" href="/prints" title="Prints" target="_parent">Prints</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Style</li>
-                                        <li><a data-gtm-event="nav header" href="/prints/fine-art" title="Fine Art">Fine Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/abstract" title="Abstract">Abstract</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/art-deco" title="Art Deco">Art Deco</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/pop-art" title="Pop Art">Pop Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/folk-art" title="Folk Art">Folk Art</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Subject</li>
-                                        <li><a data-gtm-event="nav header" href="/prints/floral" title="Floral">Floral</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/animal" title="Animal">Animal</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/fashion" title="Fashion">Fashion</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/beach" title="Beach">Beach</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/geometric" title="Geometric">Geometric</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <ul class="column-list">
-                                        <li class="header">Medium</li>
-                                        <li><a data-gtm-event="nav header" href="/prints/photo" title="Photo">Photo</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/digital" title="Digital">Digital</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/watercolor" title="Watercolor">Watercolor</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/canvas" title="Canvas">Canvas</a></li>
-                                        <li><a data-gtm-event="nav header" href="/prints/posters" title="Posters">Posters</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="submenu features"><a data-gtm-event="nav header" id="navFeatures" href="/collections/browse/type/4" title="Features" target="_parent">Features</a>
-                                        <div class="submenu-content">
-                        <div class="row-layout submenu-container">
-                            <ul class="columns">
-                                <li class="mid">
-                                    <ul class="column-list">
-                                        <li><a data-gtm-event="nav header" href="/collections/browse/type/4" title="Collections">Collections</a></li>
-                                        <li><a data-gtm-event="nav header" href="/shows" title="Shows">Shows</a></li>
-                                        <li><a data-gtm-event="nav header" href="/contests" title="Contests">Contests</a></li>
-                                        <li><a data-gtm-event="nav header" href="/catalog" title="Catalog">Catalog</a></li>
-                                    </ul>
-                                </li>
-                                <li class="wide">
-                                    <ul class="column-list">
-                                        <li><a data-gtm-event="nav header" href="/invest-in-art" title="Invest in Art">Invest in Art</a></li>
-                                        <li><a data-gtm-event="nav header" href="//canvas.saatchiart.com/category/art/one-to-watch" title="One to Watch Artists">One to Watch Artists</a></li>
-                                        <li><a data-gtm-event="nav header" href="//canvas.saatchiart.com/category/art/inside-the-studio" title="Inside The Studio">Inside The Studio</a></li>
-                                        <li><a data-gtm-event="nav header" href="/gift-guide" title="Gift Guide">Gift Guide</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </li>
-                <li class="blog"><a data-gtm-event="nav header" href="//canvas.saatchiart.com" title="Blog" target="_parent">Blog</a></li>
-                <li class="advisory"><a data-gtm-event="nav header" href="/artadvisory" title="Art Advisory" target="_parent">Art Advisory</a></li>
-                <li class="header__the-other-art-fair-link"><a data-gtm-event="nav header" href="/theotherartfair" title="The Other Art Fair" target="_parent">The Other Art Fair</a></li>
+            <div class="mobile-navigation__content">
+                <div class="mobile-navigation__menu__logo">
+                    <a title="Saatchi Art" data-gtm-event="nav header" href="https://www.saatchiart.com" class="navigation__logo navigation__logo--saatchiart">
+                        <img alt="Saatchi Art" src="//d3t95n9c6zzriw.cloudfront.net/navigation/sa-logo.svg">
+                    </a>
+                </div>
 
-            </ul>
+                <div class="mobile-navigation__site-links">
+                                            <div>
+                            <a data-gtm-event="nav header" href="/authentication?redirect_url=%2Fprivacy" data-index="0" class="mobile-navigation__site-link ">
+                                Sign In                                                            </a>
 
-            <!-- Right Nav Section -->
-            <ul class="right">
-                <li>
-                    <a data-gtm-event="nav header" href="/cart" title="Cart" target="_parent" class="nav-cart">
-                        <i class="fa fa-shopping-cart"></i>
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" href="/authentication/register?redirect_url=%2Fprivacy" data-index="1" class="mobile-navigation__site-link ">
+                                Register                                                            </a>
+
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" data-index="2" class="mobile-navigation__site-link ">
+                                Paintings                                                                    <img class="mobile-navigation__site-link__arrow-indicator" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-right.svg">
+                                                            </a>
+
+                                                            <div data-index="2" class="mobile-navigation__menu__panel">
+
+                                                                        <div class="mobile-navigation__menu__panel__header">
+                                      <img src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-left.svg" class="mobile-navigation__menu__panel__back">
+                                      <a data-gtm-event="nav header" class="mobile-navigation__menu__panel__header__title" href="/paintings">
+                                        Paintings                                      </a>
+                                    </div>
+
+                                                                                                                <div class="mobile-navigation__menu__panel__image-container">
+                                            <a data-gtm-event="nav header" href="/art-collection/Painting/Painting/685448/191300/view" class="mobile-navigation__menu__panel__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-painting.jpg)">
+                                                <div class="mobile-navigation__menu__panel__image__title">
+                                                    Featured Paintings                                                </div>
                                             </a>
-                </li>
-                                                        <li><a data-gtm-event="nav header" href="/sign-in" onclick="Saatchi.Signup.source = null; Saatchi.Signup.openAccountRequired(); return false;" target="_parent" title="Register | Sign In">Register | Sign In</a></li>
+                                        </div>
                                     
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Style                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/paintings/fine-art" class="mobile-navigation__site-link">
+                                                        Fine Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/abstract" class="mobile-navigation__site-link">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/modern" class="mobile-navigation__site-link">
+                                                        Modern                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/street-art" class="mobile-navigation__site-link">
+                                                        Street Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/pop-art" class="mobile-navigation__site-link">
+                                                        Pop Art                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Subject                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/paintings/portrait" class="mobile-navigation__site-link">
+                                                        Portrait                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/landscape" class="mobile-navigation__site-link">
+                                                        Landscape                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/still-life" class="mobile-navigation__site-link">
+                                                        Still Life                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/nature" class="mobile-navigation__site-link">
+                                                        Nature                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/beach" class="mobile-navigation__site-link">
+                                                        Beach                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Medium                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/paintings/oil" class="mobile-navigation__site-link">
+                                                        Oil                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/watercolor" class="mobile-navigation__site-link">
+                                                        Watercolor                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/acrylic" class="mobile-navigation__site-link">
+                                                        Acrylic                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/airbrush" class="mobile-navigation__site-link">
+                                                        Airbrush                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/paintings/digital" class="mobile-navigation__site-link">
+                                                        Digital                                                    </a>
+                                                                                                                                    </div>
+                                    
+                                </div>
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" data-index="3" class="mobile-navigation__site-link ">
+                                Photography                                                                    <img class="mobile-navigation__site-link__arrow-indicator" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-right.svg">
+                                                            </a>
 
-            </ul>
-        </section>
-    </nav>
-    <div class="clearfix"></div>
+                                                            <div data-index="3" class="mobile-navigation__menu__panel">
+
+                                                                        <div class="mobile-navigation__menu__panel__header">
+                                      <img src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-left.svg" class="mobile-navigation__menu__panel__back">
+                                      <a data-gtm-event="nav header" class="mobile-navigation__menu__panel__header__title" href="/photography">
+                                        Photography                                      </a>
+                                    </div>
+
+                                                                                                                <div class="mobile-navigation__menu__panel__image-container">
+                                            <a data-gtm-event="nav header" href="/art-collection/Photography/Photography/722504/191045/view" class="mobile-navigation__menu__panel__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-photography.jpg)">
+                                                <div class="mobile-navigation__menu__panel__image__title">
+                                                    Featured Photography                                                </div>
+                                            </a>
+                                        </div>
+                                    
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Style                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/photography/fine-art" class="mobile-navigation__site-link">
+                                                        Fine Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/portraiture" class="mobile-navigation__site-link">
+                                                        Portraiture                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/abstract" class="mobile-navigation__site-link">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/documentary" class="mobile-navigation__site-link">
+                                                        Documentary                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/conceptual" class="mobile-navigation__site-link">
+                                                        Conceptual                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Subject                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/photography/landscape" class="mobile-navigation__site-link">
+                                                        Landscape                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/portrait" class="mobile-navigation__site-link">
+                                                        Portrait                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/nature" class="mobile-navigation__site-link">
+                                                        Nature                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/still-life" class="mobile-navigation__site-link">
+                                                        Still Life                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/nude" class="mobile-navigation__site-link">
+                                                        Nude                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Medium                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/photography/digital" class="mobile-navigation__site-link">
+                                                        Digital                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/black---white" class="mobile-navigation__site-link">
+                                                        Black and White                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/color" class="mobile-navigation__site-link">
+                                                        Color                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/c-type" class="mobile-navigation__site-link">
+                                                        C-type                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/photography/gelatin" class="mobile-navigation__site-link">
+                                                        Digital                                                    </a>
+                                                                                                                                    </div>
+                                    
+                                </div>
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" data-index="4" class="mobile-navigation__site-link ">
+                                Drawings                                                                    <img class="mobile-navigation__site-link__arrow-indicator" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-right.svg">
+                                                            </a>
+
+                                                            <div data-index="4" class="mobile-navigation__menu__panel">
+
+                                                                        <div class="mobile-navigation__menu__panel__header">
+                                      <img src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-left.svg" class="mobile-navigation__menu__panel__back">
+                                      <a data-gtm-event="nav header" class="mobile-navigation__menu__panel__header__title" href="/drawings">
+                                        Drawings                                      </a>
+                                    </div>
+
+                                                                                                                <div class="mobile-navigation__menu__panel__image-container">
+                                            <a data-gtm-event="nav header" href="/art-collection/Drawing/Featured-Drawings/871991/191271/view" class="mobile-navigation__menu__panel__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-drawing-v4.jpg)">
+                                                <div class="mobile-navigation__menu__panel__image__title">
+                                                    Featured Drawings                                                </div>
+                                            </a>
+                                        </div>
+                                    
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Style                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/drawings/graffiti" class="mobile-navigation__site-link">
+                                                        Graffiti                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/abstract" class="mobile-navigation__site-link">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/fine-art" class="mobile-navigation__site-link">
+                                                        Fine Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/pop-art" class="mobile-navigation__site-link">
+                                                        Pop Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/surrealism" class="mobile-navigation__site-link">
+                                                        Surrealism Art                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Subject                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/drawings/nature" class="mobile-navigation__site-link">
+                                                        Nature                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/portrait" class="mobile-navigation__site-link">
+                                                        Portrait                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/animal" class="mobile-navigation__site-link">
+                                                        Animal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/love" class="mobile-navigation__site-link">
+                                                        Love                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/cartoon" class="mobile-navigation__site-link">
+                                                        Cartoon                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Medium                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/drawings/pencil" class="mobile-navigation__site-link">
+                                                        Pencil                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/charcoal" class="mobile-navigation__site-link">
+                                                        Charcoal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/digital" class="mobile-navigation__site-link">
+                                                        Digital                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/ink" class="mobile-navigation__site-link">
+                                                        Ink                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/drawings/pastel" class="mobile-navigation__site-link">
+                                                        Pastel                                                    </a>
+                                                                                                                                    </div>
+                                    
+                                </div>
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" data-index="5" class="mobile-navigation__site-link ">
+                                Sculpture                                                                    <img class="mobile-navigation__site-link__arrow-indicator" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-right.svg">
+                                                            </a>
+
+                                                            <div data-index="5" class="mobile-navigation__menu__panel">
+
+                                                                        <div class="mobile-navigation__menu__panel__header">
+                                      <img src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-left.svg" class="mobile-navigation__menu__panel__back">
+                                      <a data-gtm-event="nav header" class="mobile-navigation__menu__panel__header__title" href="/sculpture">
+                                        Sculpture                                      </a>
+                                    </div>
+
+                                                                                                                <div class="mobile-navigation__menu__panel__image-container">
+                                            <a data-gtm-event="nav header" href="/art-collection/Sculpture/Sculpture/685448/191293/view" class="mobile-navigation__menu__panel__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-sculpture.jpg)">
+                                                <div class="mobile-navigation__menu__panel__image__title">
+                                                    Featured Sculptures                                                </div>
+                                            </a>
+                                        </div>
+                                    
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Style                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/sculpture/pop-art" class="mobile-navigation__site-link">
+                                                        Pop Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/abstract" class="mobile-navigation__site-link">
+                                                        Abstract                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/wall" class="mobile-navigation__site-link">
+                                                        Wall                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/figurative" class="mobile-navigation__site-link">
+                                                        Figurative                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/modern" class="mobile-navigation__site-link">
+                                                        Modern                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Subject                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/sculpture/body" class="mobile-navigation__site-link">
+                                                        Body                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/still-life" class="mobile-navigation__site-link">
+                                                        Still Life                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/animal" class="mobile-navigation__site-link">
+                                                        Animal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/architecture" class="mobile-navigation__site-link">
+                                                        Architecture                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/geometric" class="mobile-navigation__site-link">
+                                                        Geometric                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                                                                        <a data-gtm-event="nav header" class="mobile-navigation__site-link mobile-navigation__site-link--section-header">
+                                                Medium                                            </a>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/sculpture/metal" class="mobile-navigation__site-link">
+                                                        Metal                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/bronze" class="mobile-navigation__site-link">
+                                                        Bronze                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/clay" class="mobile-navigation__site-link">
+                                                        Clay                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/glass" class="mobile-navigation__site-link">
+                                                        Glass                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/sculpture/wood" class="mobile-navigation__site-link">
+                                                        Wood                                                    </a>
+                                                                                                                                    </div>
+                                    
+                                </div>
+                                                    </div>
+                                            <div>
+                            <a title="Limited edition art prints" data-gtm-event="nav header" href="https://limited.saatchiart.com/prints" data-index="6" class="mobile-navigation__site-link ">
+                                Limited Editions                                                            </a>
+
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" data-index="7" class="mobile-navigation__site-link ">
+                                Features                                                                    <img class="mobile-navigation__site-link__arrow-indicator" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-right.svg">
+                                                            </a>
+
+                                                            <div data-index="7" class="mobile-navigation__menu__panel">
+
+                                                                        <div class="mobile-navigation__menu__panel__header">
+                                      <img src="https://d3t95n9c6zzriw.cloudfront.net/navigation/caret-left.svg" class="mobile-navigation__menu__panel__back">
+                                      <a data-gtm-event="nav header" class="mobile-navigation__menu__panel__header__title" href="/collections/browse/type/4">
+                                        Features                                      </a>
+                                    </div>
+
+                                                                                                                <div class="mobile-navigation__menu__panel__image-container">
+                                            <a data-gtm-event="nav header" href="/collections/browse/type/4" class="mobile-navigation__menu__panel__image" style="background-image: url(https://d3t95n9c6zzriw.cloudfront.net/navigation/dropdown/saatchi-featured-collection-2.jpg)">
+                                                <div class="mobile-navigation__menu__panel__image__title">
+                                                    Featured Collections                                                </div>
+                                            </a>
+                                        </div>
+                                    
+                                                                            <div>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/collections/browse/type/4" class="mobile-navigation__site-link">
+                                                        Collections                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/shows" class="mobile-navigation__site-link">
+                                                        Shows                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/catalog" class="mobile-navigation__site-link">
+                                                        Catalog                                                    </a>
+                                                                                                                                    </div>
+                                                                            <div>
+                                            
+                                                                                                                                                <a data-gtm-event="nav header" href="/invest-in-art" class="mobile-navigation__site-link">
+                                                        Invest In Art                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="//canvas.saatchiart.com/category/art/one-to-watch" class="mobile-navigation__site-link">
+                                                        One To Watch Artists                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="//canvas.saatchiart.com/category/art/inside-the-studio" class="mobile-navigation__site-link">
+                                                        Inside The Studio                                                    </a>
+                                                                                                    <a data-gtm-event="nav header" href="/gift-guide" class="mobile-navigation__site-link">
+                                                        Gift Guide                                                    </a>
+                                                                                                                                    </div>
+                                    
+                                </div>
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" href="//canvas.saatchiart.com/" data-index="8" class="mobile-navigation__site-link ">
+                                Blog                                                            </a>
+
+                                                    </div>
+                                            <div>
+                            <a data-gtm-event="nav header" href="/artadvisory" data-index="9" class="mobile-navigation__site-link ">
+                                Art Advisory                                                            </a>
+
+                                                    </div>
+                                    </div>
+
+                <div class="mobile-navigation__context-links">
+                                            <a title="Limited Edition Art Prints" data-gtm-event="nav header" href="https://limited.saatchiart.com">
+                            <img alt="Limited Edition Art Prints" class="mobile-navigation__context-link mobile-navigation__context-link--limited" src="//d3t95n9c6zzriw.cloudfront.net/navigation/limited-logo-grayscale.svg">
+                        </a>
+                                            <a title="The Other Art Fair" data-gtm-event="nav header" href="https://www.saatchiart.com/theotherartfair">
+                            <img alt="The Other Art Fair" class="mobile-navigation__context-link mobile-navigation__context-link--toaf" src="//d3t95n9c6zzriw.cloudfront.net/navigation/toaf-logo-grayscale.svg">
+                        </a>
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mobile-navigation__header">
+        <div class="mobile-navigation__header__left">
+            <a data-gtm-event="nav header" title="Saatchi Art" href="https://www.saatchiart.com" class="navigation__logo navigation__logo--saatchiart"><img alt="Saatchi Art" src="//d3t95n9c6zzriw.cloudfront.net/navigation/saatchi-art-icon.svg"></a>
+        </div>
+
+        <div class="mobile-navigation__header__right">
+            <img class="mobile-navigation__search-trigger" src="https://d3t95n9c6zzriw.cloudfront.net/navigation/mag-glass.svg">
+            <a data-gtm-event="nav header" href="/account/favorites" class="navigation__favorite-link">
+                <svg viewBox="0 0 23 20" xmlns="http://www.w3.org/2000/svg"><path d="M22 6.54C22 3.48 19.38 1 16.16 1c-1.9 0-3.6.86-4.66 2.2A5.95 5.95 0 0 0 6.84 1C3.62 1 1 3.48 1 6.54c0 1.31.48 2.51 1.28 3.46l9.23 10 9.2-10A5.34 5.34 0 0 0 22 6.54z" stroke="#221F20" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+            </a>
+            <a data-gtm-event="nav header" href="/checkout" class="navigation__cart-link">
+                <div class="navigation__cart-link__count"></div>
+                <img src="https://d3t95n9c6zzriw.cloudfront.net/navigation/cart.svg">
+            </a>
+        </div>
+    </div>
+
+    <form action="/all" class="mobile-navigation__search-container">
+        <div class="mobile-navigation__search-container__background"></div>
+        <svg class="mobile-navigation__search-container__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23 21"><g fill="none" fill-rule="evenodd"><rect width="8.903" height="1.25" x="14.747" y="17.027" fill="#333" rx=".625" transform="rotate(45 19.198 17.652)"></rect><ellipse cx="9.274" cy="9.073" stroke="#333" rx="8.774" ry="8.573"></ellipse></g></svg>
+        <input class="mobile-navigation__search-container__input" name="query" autocomplete="off" value="">
+        <div class="mobile-navigation__search-type-indicator">
+            <div class="mobile-navigation__search-type-indicator__text">
+                <span>Art</span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 8"><g fill="none" fill-rule="evenodd" stroke="#333" stroke-linecap="square"><path d="M1 0l7.071 7.071M8.5 7.5l7-7"></path></g></svg>
+            </div>
+            <select class="mobile-navigation__search-type-selector">
+                <option value="art">Art</option>
+                <option value="artist">Artist</option>
+                <option value="collection">Collection</option>
+            </select>
+        </div>
+        <svg class="mobile-navigation__search-container__cancel" viewBox="0 0 22 20" xmlns="http://www.w3.org/2000/svg"><g stroke="#000" fill="none" fill-rule="evenodd" stroke-linecap="square"><path d="M1 0l20 20M21 0L1 20"></path></g></svg>
+    </form>
 </div>
-<script type="text/javascript">
-$(document).ready(
-    function()
-    {
-            }
-);
-images = new Array(); // Array of images to load in background for quick view and hover over
-</script>
-	</header>
-
+    
     
     
 
 
 	
-		<div class="row-layout">
-		<div id="div-gpt-ad-1352935184042-0" class="align-center">
-			<script type="text/javascript">
-			googletag.display('div-gpt-ad-1352935184042-0');
-			</script>
-		</div>
-	</div>
 	    <div class="row-layout content">
         <div class="row">
-    <div class="small-12 large-8 large-push-4 columns bgtext content">
+    <div class="small-12 large-8 large-push-4 columns bgtext content privacy-page">
         <div class="row">
             <h1 class="page-title">Leaf Group Privacy Policy</h1>
 
-            <p>Last Updated: November 9, 2016</p>
+            <p>Last Updated: August 1, 2017</p>
 
-            <p>By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a “Service:, collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. (“Leaf Group,” “we,” “us,” or “our”) uses, shares and manages this information.</p>
+            <p>By using this online website, mobile website, application, digital service, or any products, services, sites, features or functionality associated with Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. (each a “Service, collectively the “Services”), you consent to the collection, use, processing, and sharing of your information as described in this Leaf Group Privacy Policy (“Privacy Policy”). This Privacy Policy describes how information is collected from you when you use any of the Services and how Leaf Group Ltd. (“Leaf Group,” “we,” “us,” or “our”) uses, shares and manages this information.</p>
 
             <p>Leaf Group Ltd., and its subsidiaries/affiliates Society 6, LLC and Saatchi Online, Inc. are subject to the investigative and enforcement authority of the US Federal Trade Commission (“FTC”).</p>
 
@@ -458,7 +969,7 @@ images = new Array(); // Array of images to load in background for quick view an
             <p>A.	Information You Directly and Voluntarily Provide to Us. We may collect and store some or all of the following information you make available to us:</p>
             <ul class="disc">
               <li>If you download, register for or use the Service, we may ask you to provide your name, mailing address, email address, telephone number, image, interests, demographic profile, credit card information, user name, password and other registration information. You may be required to register with us and provide us with the information we request from you in order to use the Service or to use some or all of the features offered by the Service. We may also offer you the option to complete a user profile that may be visible to other users of the Service.  If a user profile feature is offered through the Service, you may be able to adjust the settings in your user account to specify the information in your user profile that will be shared publicly, that will only be shared with your friends, or that will remain private.  If you are a registered user you may also be able to adjust your account settings through your user account.  We note that, even if you adjust your settings so that your user profile is only shared with your friends or remains private, we will still be able to access and view the information you provide as part of your user profile.</li>
-              <li>Information you provide when you contact us for technical or customer support or with questions about your use of the Service</li>
+              <li>Information you provide when you contact us for technical or customer support or with questions about your use of the Service.</li>
             </ul>
             <p>B.	Information Automatically Collected from You.  In addition to the information you provide to us, the Service may collect and store additional information automatically, this information may include:</p>
             <ul class="disc">
@@ -483,7 +994,7 @@ images = new Array(); // Array of images to load in background for quick view an
             <p><strong>III.	Social Media Services.</strong> The Service may use social networking or “share functionality” or may contain links to third-party social media sites or applications that are not owned or controlled by Leaf Group. Your use of these features may result in the collection or sharing of information about you by these sites or applications, depending on the feature.  Leaf Group has no control over, and assumes no responsibility for, any share functionality or the content, privacy policies, or practices of any third-party site or application. You are subject to the policies of those third parties when and where applicable. We also may allow you to use social media sites or applications to leverage your existing social media site or application accounts to access features of the Service. Please review your privacy settings for your applicable social media site or application account, as those settings determine what information may be made available to us when you access the Service through the applicable social media site or application.</p>
             <p>We encourage you to review the privacy policies and settings on the social media sites or applications with which you interact to make sure you understand the information that may be collected, used, and shared by those sites.</p>
             <p><strong>IV.	Children Under Age 13.</strong> The Service is not intended for children under age 13.  We do not knowingly collect or distribute personal information from or about children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a>.</p>
-            <p><strong>V.	How We Share Your Information.</strong> We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:</p>
+            <p><strong>V.	How We Share Your Information.</strong> We may share your personal information in the manner described below. In the case of onward transfer to third parties of data of EU nd Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield Frameworks, we are potentially liable. We may share the information you provide or that we collect in some circumstances as follows:</p>
             <p>A.	Advertisers.  We may share your information with advertisers, third-party advertising networks and analytics companies as described above in Section II(A) who may use it to deliver targeted advertisements to you on the Service or third-party websites or advertisers. Similarly, these advertisers may share information with us about you that they have independently gathered or acquired.  We may also share encrypted versions of information we have collected in order to enable our advertising partners to perform data analysis or for advertising-related use.</p>
             <p>B.	Corporate Affiliates.  We may share your information with members of the Leaf Group corporate family in order to provide joint content and services (like registration, transactions and customer support), or to improve your experience with our Services, products and other services.</p>
             <p>C. 	Partner Programs. If you are directed to the Services through a third party, we may share certain information back with that third party, which may include information such as name, email and value of purchase depending on the type of relationship or Service utilized.</p>
@@ -494,16 +1005,13 @@ images = new Array(); // Array of images to load in background for quick view an
             <p><strong>VI. 	Managing Your Information.</strong> We acknowledge the right of individuals to access their personal data. You may send an e-mail to <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a> or a letter to Leaf Group Ltd., Attn: Legal Department; 1655 26th Street, Santa Monica, CA  90404 requesting access to or correction of your personal information. Please include your registration information you provided through the Service. We may ask you to provide additional information for identity verification purposes, or to verify that you are in possession of an applicable email account.  If you’d like us to delete information that you have provided through the Service, please contact us at  <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a> and we will respond in a reasonable time. Please note that some or all of the information you provided may be required in order for the Service to function properly or may be automatically retained in backup storage or records retention archival storage.</p>
             <p>In addition, if you are a California resident under the age of 18 and are a registered user of the Service, you may request that we remove content or information about you that you posted on the Service by (A) submitting a request in writing to <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a> (B) clearly identifying the content or information you wish to have removed and providing sufficient information to allow us to locate the content or information to be removed.  However, please note that we are not required to, and may not be able to, erase or otherwise eliminate content or information if (i) other state or federal laws require us or a third party to maintain the content or information; (ii) the content or information was posted, stored, or republished by another user; (iii) the content or information is anonymized so that you cannot be individually identified; (iv) you do not follow the instructions posted in this Privacy Policy on how to request removal of your content or information; or (v) you have received compensation or other consideration for providing the content.  Further, nothing in this provision shall be construed to limit the authority of a law enforcement agency to obtain the applicable content or information.</p>
             <p><strong>VII.	Use of Information Outside Your Country of Residence.</strong> The Service is directed to users located in the United States.  If you are located outside of the United States and you choose to use the Service or provide your information to us, your information may be transferred to, processed and maintained on servers, databases or cloud storage facilities located in the United States.  Your use of the Service represents your consent and agreement to these practices.  If you do not want your information transferred to or processed or maintained in the United States, you should not use the Service.</p>
-            <p><strong>VIII.	EU-US Privacy Shield.</strong> Leaf Group complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a target="_blank" href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.</p>
-            <p>In compliance with the EU-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this policy should first contact us at <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a>.</p>
-            <p>We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <a target="_blank" href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers/">http://www.bbb.org/EU-privacy-shield/for-eu-consumers/</a> for more information and to file a complaint.</p>
+            <p><strong>VIII.	EU-US Privacy Shield and Swiss-US Privacy Shield.</strong> Leaf Group complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from European Union and Switzerland to the United States, respectively. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a target="_blank" href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.</p>
+            <p>In compliance with the EU-US and Swiss-US Privacy Shield Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this policy should first contact us at <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a>.</p>
+            <p>We have further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit <a target="_blank" href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers/">http://www.bbb.org/EU-privacy-shield/for-eu-consumers/</a> for more information and to file a complaint.</p>
             <p>Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.</p>
-            <p><strong>IX.     US-Swiss Safe Harbor.</strong> Leaf Group complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles will govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
-            <p>In compliance with the US-Swiss Safe Harbor Principles, we are committed to resolving complaints about your privacy and our collection or use of your personal information. Swiss citizens individuals with inquiries or complaints regarding this policy should first contact us at <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a>.</p>
-            <p>We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or your complaint is not satisfactorily addressed, please visit <a target="_blank" href="http://www.bbb.org/us/safe-harbor-complaints">http://www.bbb.org/us/safe-harbor-complaints</a> for more information and to file a complaint.</p>
-            <p><strong>X. 	Security.</strong>  We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.</p>
-            <p><strong>XI.	Updates to this Privacy Policy.</strong> We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes.  If you do not agree to such changes following such notice, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect.  If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.</p>
-            <p>XII. 	Contact Information.  If you have questions about this Privacy Policy, you may contact us at <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a>. We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.</p>
+            <p><strong>IX. 	Security.</strong>  We provide industry-standard physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we take reasonable measures to limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Service. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. As a result, we cannot guarantee or warrant the security of any information you transmit on or through the Service and you do so at your own risk.</p>
+            <p><strong>X.	Updates to this Privacy Policy.</strong> We will notify you of material changes to this Privacy Policy by at least thirty (30) days before the effective date of the changes.  If you do not agree to such changes following such notice, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect.  If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.</p>
+            <p><strong>XI. 	Contact Information.</strong>  If you have questions about this Privacy Policy, you may contact us at <a href="mailto:legal@leafgroup.com">legal@leafgroup.com</a>. We will do our best to respond to you in a timely and professional manner to answer your questions and resolve your concerns.</p>
         </div>
     </div>
     <div class="small-12 large-4 large-pull-8 columns bgtext side-nav-container">
@@ -513,7 +1021,7 @@ images = new Array(); // Array of images to load in background for quick view an
         <li><a href="/privacy" class="active">Privacy Policy</a></li>
         <li><a href="/copyright">Copyright Policy</a></li>
         <li><a href="/press">Press</a></li>
-        <li><a href="https://www.demandmedia.com/job-openings/?p=search%3Fq%3Dsaatchi" target="_blank">Careers</a></li>
+        <li><a href="https://www.leafgroup.com/job-openings/" target="_blank">Careers</a></li>
     </ul>
 </div>
 
@@ -521,8 +1029,9 @@ images = new Array(); // Array of images to load in background for quick view an
 </div>
         <div class="clearfix"></div>
     </div>
-
-    <footer id="footer" role="contentinfo">
+    <!-- Conditionally render footer based on site context -->
+    <script type="text/javascript">Saatchi.SITE_CONTEXT = "saatchiart";</script>
+          <footer id="footer" role="contentinfo">
         
 
     <div class="footer-container row">
@@ -530,8 +1039,9 @@ images = new Array(); // Array of images to load in background for quick view an
             <ul>
                 <li class="header">For Buyers</li>
                 <li><a data-gtm-event="nav footer" href="/artadvisory" title="Art Advisory Services">Art Advisory Services</a></li>
-                <li><a data-gtm-event="nav footer" href="http://help.saatchiart.com/" target="_parent">Buyer FAQ / Support</a></li>
+                <li><a data-gtm-event="nav footer" href="https://support.saatchiart.com/hc/en-us/categories/200254317-For-Buyers" target="_parent">Buyer FAQ</a></li>
                 <li><a data-gtm-event="nav footer" href="/testimonials" target="_parent" title="">Testimonials</a></li>
+                <li><a data-gtm-event="nav footer" href="https://limited.saatchiart.com/prints" title="Limited edition art prints">Art Prints</a></li>
                 <li><a data-gtm-event="nav footer" href="/loyalty" title="Curator’s Circle">Curator’s Circle</a></li>
                 <li><a data-gtm-event="nav footer" href="/catalog" title="Catalog">Catalog</a></li>
             </ul>
@@ -541,9 +1051,8 @@ images = new Array(); // Array of images to load in background for quick view an
 
             <ul>
                 <li class="header">For Artists</li>
-                <li><a data-gtm-event="nav footer" href="/upload" target="_parent">Sell Your Art</a></li>
-                <li><a data-gtm-event="nav footer" href="/artschool" target="_parent">Seller's Guide</a></li>
-                <li><a data-gtm-event="nav footer" href="http://help.saatchiart.com/" target="_parent">Artist FAQ / Support</a></li>
+                <li><a data-gtm-event="nav footer" href="/whysell" target="_parent">Why Sell</a></li>
+                <li><a data-gtm-event="nav footer" href="https://support.saatchiart.com/hc/en-us" target="_parent">Artist Handbook</a></li>
                 <li>&nbsp;</li>
             </ul>
 
@@ -553,7 +1062,7 @@ images = new Array(); // Array of images to load in background for quick view an
             <ul>
                 <li class="header"><a data-gtm-event="nav footer" href="/about" target="_parent" title="About Us">About Us</a></li>
                 <li><a data-gtm-event="nav footer" href="/press" target="_parent" title="Press">Press</a></li>
-                <li><a data-gtm-event="nav footer" href="https://www.leafgroup.com/job-openings/?p=search%3Fq%3Dsaatchi" target="_blank" title="Careers">Careers</a></li>
+                <li><a data-gtm-event="nav footer" href="https://www.leafgroup.com/job-openings/" target="_blank" title="Careers">Careers</a></li>
                 <li><a data-gtm-event="nav footer" href="https://support.saatchiart.com/hc/requests/new" target="_parent" title="Contact Us">Contact Us</a></li>
                 <li><a data-gtm-event="nav footer" href="http://canvas.saatchiart.com/" target="_blank">Blog</a></li>
             </ul>
@@ -613,7 +1122,7 @@ images = new Array(); // Array of images to load in background for quick view an
                         <li><a data-gtm-event="nav footer" href="http://blog.saatchiart.com" target="_blank" title="Tumblr"><i class="fa fa-tumblr btn-round"></i></a></li>
                         <li><a data-gtm-event="nav footer" href="http://instagram.com/saatchiart" target="_blank" title="Instagram"><i class="fa fa-instagram btn-round"></i></a></li>
                         <li><a data-gtm-event="nav footer" href="https://plus.google.com/+saatchiart" rel="publisher" target="_blank" title="Google Plus"><i class="fa fa-google-plus btn-round"></i></a></li>
-                        <li><a data-gtm-event="nav footer" href="https://www.youtube.com/channel/UCqfUz6UyK4kKVsnTyPoWZJw" rel="publisher" target="_blank" title="YouTube"><i class="fa fa-youtube btn-round"></i></a></li>
+                        <li><a data-gtm-event="nav footer" href="https://www.youtube.com/c/Saatchiart" rel="publisher" target="_blank" title="YouTube"><i class="fa fa-youtube btn-round"></i></a></li>
                     </ul>
                     <a data-gtm-event="nav footer" id="appStoreLink" href="http://m.onelink.me/a15f3286" target="_blank" title="Download on the App Store"><img src="//d3t95n9c6zzriw.cloudfront.net/covers/landing/mobile/cta_app_store.png" alt="Download on the App Store"></a>
                     <div class="clear"></div>
@@ -624,7 +1133,7 @@ images = new Array(); // Array of images to load in background for quick view an
                         </a>
                     </div>
                     <div class="logo-Saatchi-Art left">
-                        <a data-gtm-event="nav footer" href="javascript:void(0);" title="Saatchi Art">© 2017 Saatchi Art. LG Commerce. All rights reserved.</a>
+                        <a data-gtm-event="nav footer" href="javascript:void(0);" title="Saatchi Art">© 2018 Saatchi Art. Leaf Group Commerce. All rights reserved.</a>
                         <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b732fbfb950b10de65e5" data-businessunit-id="55d204270000ff0005823f83" data-style-height="20px" data-style-width="100%" data-theme="light"> <a data-gtm-event="nav footer" href="https://www.trustpilot.com/review/saatchiart.com" target="_blank">Trustpilot</a></div>
                     </div>
                 </div>
@@ -650,15 +1159,15 @@ images = new Array(); // Array of images to load in background for quick view an
         });
     </script>
 
-
-    </footer>
+      </footer>
+    
     <script>var Modernizr = false; // No longer loading modernizr</script>
     <script src="https://dfcdths9j2gip.cloudfront.net/js/dist/foundation/foundation5-5.min.js?version=1468284677"></script>
 
     <div id="fb-root"></div>
     <script type="text/javascript">
         window.fbAsyncInit = function () {
-            FB.init({appId: 112537152116651, version: 'v2.2', oauth: true, status: true, cookie: true, xfbml: true, channelUrl: 'https://www.saatchiart.com/channel_secure.html'});
+            FB.init({appId: 112537152116651, version: 'v2.8', oauth: true, status: true, cookie: true, xfbml: true, channelUrl: 'https://www.saatchiart.com/channel_secure.html'});
             FB.Event.subscribe('edge.create', function () {
                 dataLayer.push({'event': 'facebook_like'});
             });
@@ -668,16 +1177,22 @@ images = new Array(); // Array of images to load in background for quick view an
         };
 
         Saatchi.Facebook.requiredPermissions = 'email';
-        Saatchi.Loader.version = '1484855407652';
+        Saatchi.Loader.version = '1515802800064';
         Saatchi.Loader.minified = true;
         Saatchi.Cookie.domain = '.saatchiart.com';
         Saatchi.Loader.cdn = 'https://dfcdths9j2gip.cloudfront.net';
+
+        Saatchi.Footer.init();
+
+        Saatchi.TransitionableHeightContainer.init();
 
         window.___gcfg = {
             lang: 'en-US'
         };
 
-        Saatchi.Navigation.init();
+                    Saatchi.NewDesktopNavigation.init();
+            Saatchi.NewMobileNavigation.init();
+        
 
         $(function() {
                         Saatchi.Signup.init();
@@ -727,12 +1242,6 @@ images = new Array(); // Array of images to load in background for quick view an
             </script>
 
     <!-- served by www.saatchiart.com -->
-            <!-- www-page-takeover -->
-        <div id="div-gpt-ad-1367950793300-0">
-            <script type="text/javascript">
-                googletag.display('div-gpt-ad-1367950793300-0');
-            </script>
-        </div>
     
     <!--[if IE]>
     <style type="text/css">
@@ -760,7 +1269,7 @@ images = new Array(); // Array of images to load in background for quick view an
 
 
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"dd3435eba3","applicationID":"38288628","transactionName":"Y1BTZkFWC0BQUhZRDFoacFFHXgpdHlUHXgJBWUUdQ1YCVkIeEkoKQlRSSw==","queueTime":0,"applicationTime":30,"atts":"TxdEEAlMGB8TUEACGElI","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"dd3435eba3","applicationID":"38288628","transactionName":"Y1BTZkFWC0BQUhZRDFoacFFHXgpdHlUHXgJBWUUdQ1YCVkIeEkoKQlRSSw==","queueTime":0,"applicationTime":69,"atts":"TxdEEAlMGB8TUEACGElI","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
     
 </body></html>
