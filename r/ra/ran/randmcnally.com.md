@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201233312id_/http%3A//www.randmcnally.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114082306id_/https%3A//www.randmcnally.com/legal/doc/privacy_policy) for the most accurate reproduction.*
 
-# Rand McNally - Privacy Policy
+# Rand McNally | Privacy Policy
 
-## Privacy Policy
+### Privacy Policy
+
+* * *
+
+##### Last Updated: December 26, 2017
 
 By using this web site, you agree to the following policy:
 
@@ -10,7 +14,7 @@ This is the Privacy Policy for RM Acquisition, LLC. d/b/a Rand McNally ("Rand Mc
 
 Shopping and obtaining information on-line has changed our lives. At Rand McNally, your trust and satisfaction is of the utmost importance. Because we respect your privacy, we have instituted policies intended to ensure that your personal information is handled in a safe and responsible manner.
 
-This Privacy Policy applies only to information collected through Rand McNally's websites. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This Privacy Policy was last revised on February 27, 2014.
+This Privacy Policy applies only to information collected through Rand McNally's websites. We suggest that you review this Privacy Policy periodically as we may update it from time to time. 
 
   * What information do we collect?
   * How do we use your information?
@@ -152,8 +156,4 @@ If you have any comments or questions about our Privacy Policy Statement, please
 P.O. Box 7600  
 Chicago, IL 60680-9915
 
-Web: Please complete our online request form at [ Click Here](https://web.archive.org/about/contact_us) indicating your question or comments.
-
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
-
-[Click here](http://links.mkt2460.com/ui/modules/display/optOut.jsp?&m=3014788&r=MTQxODEwNjk1NTgS1&j=MTgxMDY1ODk2S0&mt=1&rt=0) to unsubscribe to Rand McNally e-mail.
