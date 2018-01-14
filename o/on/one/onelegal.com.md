@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114073318id_/http%3A//www.onelegal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelegal.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114111909id_/https%3A//www.onelegal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | » One Legal
 
