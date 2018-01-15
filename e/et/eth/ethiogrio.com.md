@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethiogrio.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114122330id_/http%3A//www.ethiogrio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiogrio.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115090059id_/https%3A//www.ethiogrio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ethiogrio.com - Ethiogrio
 
