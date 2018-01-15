@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamviews.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209112509id_/http%3A//www.dreamviews.com/wiki/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamviews.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115162847id_/https%3A//www.dreamviews.com/wiki/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lucid Dreaming - Dream Views
 
@@ -22,3 +22,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
+
+**NAI/IAB**  
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) ([NAI](http://optout.networkadvertising.org/)), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience. [Opt-Out](http://optout.networkadvertising.org/).
