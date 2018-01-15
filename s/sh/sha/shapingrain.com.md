@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapingrain.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920073632id_/http%3A//www.shapingrain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapingrain.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115092411id_/http%3A//www.shapingrain.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ShapingRain.com
 
