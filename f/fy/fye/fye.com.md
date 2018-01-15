@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130084509id_/http%3A//www.fye.com//stores/fye/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115185000id_/https%3A//www.fye.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# FYE - Privacy Policy
-
-**PRIVACY POLICY**
+# FYE.com Privacy Policy
 
 We at FYE have created this privacy statement in order to demonstrate its firm commitment to individual privacy. The following discloses our information - gathering and dissemination practices for this site.
 
@@ -27,14 +25,4 @@ FYE also allows any customer to create an account with FYE. This allows the user
 
 **Links** Pages at FYE contain links to other sites. FYE is not responsible for the privacy practices or the content of such web sites.
 
-**Security** The security of your data is of utmost importance to FYE. [Click here](https://web.archive.org/stores/fye/security-policy.jsp) to learn about our security guarantee. 
-
-  * [Weekly Deals](http://www.fye.com/stores/fye/this-weeks-deals.jsp)
-  * [Events](https://www.facebook.com/FYE/events)
-  * [Backstage Pass](http://www.fye.com/stores/fye/backstage-pass.jsp)
-  * [Gift Cards](https://www.fye.com/stores/fye/gift-card.jsp)
-  * [Win](http://www.fye.com/stores/fye/wanna-win.jsp)
-  * [Localeyez](http://www.dynastyrecords.com/#!localeyez-fye)
-  * [**Sell to Us**](http://www.fye.com/stores/fye/sell.jsp)
-
-
+**Security** The security of your data is of utmost importance to FYE. [Click here](http://www.fye.com/customer-service/help/secure-shopper-guarantee.html) to learn about our security guarantee. 
