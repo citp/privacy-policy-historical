@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharenxs.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114115947id_/http%3A//sharenxs.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharenxs.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115022244id_/http%3A//sharenxs.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ShareNXS
 
