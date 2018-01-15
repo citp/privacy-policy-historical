@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inlinewarehouse.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115194710id_/http%3A//www.inlinewarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlinewarehouse.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116002950id_/http%3A//www.inlinewarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Inline Warehouse
 
