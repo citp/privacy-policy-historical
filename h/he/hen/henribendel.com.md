@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020042847id_/https%3A//www.henribendel.com/default/customer-service/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henribendel.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115025006id_/https%3A//www.henribendel.com/us/customer-service/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
