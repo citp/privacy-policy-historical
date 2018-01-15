@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardcorematureandyoung.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114122522id_/http%3A//www.privacysearch.me/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcorematureandyoung.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115221341id_/http%3A//info.searchprivacy.me/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# web.archive.org
+# Privacy Policy
 
 Click "Add Extension"  
 to install
@@ -62,7 +62,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 ### Uninstalling web.archive.org
 
-You can uninstall SearchPrivacy by following the instructions [here](https://web.archive.org/web/20171114122522id_/http%3A//www.privacysearch.me/uninstall.html).
+You can uninstall SearchPrivacy by following the instructions [here](https://web.archive.org/web/20180115221341id_/http%3A//info.searchprivacy.me/uninstall.html).
 
 ### Contacting Us
 
