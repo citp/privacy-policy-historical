@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201724id_/http%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115233653id_/https%3A//www.365games.co.uk/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - 365games.co.uk
 
 ## Background
 
