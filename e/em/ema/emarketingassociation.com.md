@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117191823id_/http%3A//www.emarketingassociation.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115120755id_/http%3A//emarketingassociation.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
