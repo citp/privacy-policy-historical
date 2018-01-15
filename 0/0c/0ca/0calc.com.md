@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0calc.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223024329id_/http%3A//web2.0calc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0calc.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115224635id_/https%3A//web2.0calc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
