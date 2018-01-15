@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordstore.co.uk privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031215349id_/http%3A//www.recordstore.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordstore.co.uk privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115234248id_/https%3A//www.recordstore.co.uk/privacy) for the most accurate reproduction.*
 
 # Recordstore.co.uk - Recordstore Day, every day. CDs, Vinyl, Merchandise, Signed Exclusives
 
@@ -6,7 +6,7 @@
 
 Digital Stores ("We") are committed to protecting and respecting your privacy.
 
-This privacy policy (together with our [terms of use](https://web.archive.org/web/20171031215349id_/http://www.recordstore.co.uk/terms) and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
+This privacy policy (together with our [terms of use](https://web.archive.org/web/20180115234248id_/https://www.recordstore.co.uk/terms) and any other documents referred to in it) sets out the basis on which any information (which may include personal data) we collect from you, or that you provide to us, through this website will be processed by us. Please read the following carefully to understand our practices regarding your information and how we will treat it.
 
 By visiting this website (the "Site") you are accepting and consenting to the practices described in this policy (including as updated or amended from time to time). If, for any reason, you do not agree to the terms of this policy, please stop using the Site immediately.
 
@@ -124,7 +124,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * If the UMG Company that controls this Site or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20171031215349id_/http://www.recordstore.co.uk/terms) and other agreements; or to protect the rights, property, or safety of UMG Companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction;
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20180115234248id_/https://www.recordstore.co.uk/terms) and other agreements; or to protect the rights, property, or safety of UMG Companies, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction;
   * To any other third party with your prior consent to do so.
 
 
@@ -179,6 +179,6 @@ Universal Music Direct Limited
 London, W14 8NS  
 England
 
-For questions, comments or requests not related to this privacy policy please see [our FAQ](https://web.archive.org/web/20171031215349id_/http://www.recordstore.co.uk/help) or email our customer service team at [customer.services@digitalstores.co.uk](mailto:customer.services@digitalstores.co.uk).
+For questions, comments or requests not related to this privacy policy please see [our FAQ](https://web.archive.org/web/20180115234248id_/https://www.recordstore.co.uk/help) or email our customer service team at [customer.services@digitalstores.co.uk](mailto:customer.services@digitalstores.co.uk).
   *[UMG]: Universal Music Group
   *[SSL]: Secure Sockets Layer
