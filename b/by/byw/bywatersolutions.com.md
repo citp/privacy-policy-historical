@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bywatersolutions.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115034108id_/http%3A//bywatersolutions.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bywatersolutions.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115083635id_/https%3A//bywatersolutions.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # ByWater Solutions Privacy Policy
 
