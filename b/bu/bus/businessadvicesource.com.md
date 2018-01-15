@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessadvicesource.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208001055id_/http%3A//www.businessadvicesource.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessadvicesource.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115211009id_/https%3A//www.businessadvicesource.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - businessadvicesource.com
 
