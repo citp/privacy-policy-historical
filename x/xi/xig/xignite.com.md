@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xignite.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116195919id_/http%3A//www.xignite.com/Documents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xignite.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116195904id_/http%3A//www.xignite.com/Documents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
