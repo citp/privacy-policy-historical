@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxkingtube.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116200845id_/http%3A//xxxkingtube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxkingtube.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116052709id_/https%3A//xxxkingtube.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | xxxKingTube.com
 
