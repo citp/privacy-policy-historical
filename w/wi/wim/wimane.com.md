@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wimane.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917183443id_/http%3A//www.wimane.com/%3Fpage_id%3D26243) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimane.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116191150id_/http%3A//www.wimane.com/%3Fpage_id%3D26243) for the most accurate reproduction.*
 
 # PRIVACY POLICY | WiMane.com
 
