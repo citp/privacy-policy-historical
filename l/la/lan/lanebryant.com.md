@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717201034id_/https%3A//www.lanebryant.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanebryant.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116225655id_/https%3A//www.lanebryant.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Default | Lane Bryant
+# Privacy Policy | Lane Bryant
 
   * What is your Internet privacy policy?
   * What information do you collect when I visit your Web sites?
@@ -29,7 +29,7 @@ This Policy also applies to the Lane Bryant mobile application.
 
 This Privacy Policy tells you what personally identifiable information and personal information we may collect from our customers and investors, how we may share this information, and how you can limit our sharing of your information. "Personally identifiable information" and "personal information" mean any information by which you can be identified, such as your name, address and telephone number.
 
-Charming Shoppes, Inc. is a member of the Direct Marketing Association. As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association Privacy Promise to American consumers](https://www.dmachoice.org/dma/static/privacy_policy.jsp). Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from any of our brands.
+Charming Shoppes, Inc. is a member of the Direct Marketing Association. As a part of our commitment to your privacy, we support and adhere to the guidelines and practices adopted by the [Direct Marketing Association Privacy Promise to American consumers](http://www.dmaconsumers.org/privacy.html). Accordingly, we have agreed to (1) provide customers with notice of their ability to opt out of information exchanges with other marketers; (2) honor customer requests not to have their information transferred to others for marketing purposes; and (3) accept and honor customer requests not to receive solicitations from any of our brands.
 
 Our Web sites may contain links to other Web sites that are not under our control. Those Web sites may have their own policies regarding privacy. We have no control of or responsibility for linked Web sites and provide these links solely for the convenience and information of our visitors. Those Web sites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual Web sites to see how the operators of those third-party Web sites will utilize your personal information. In addition, these Web sites may contain a link to Web sites of our affiliates. The Web sites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such Web sites will utilize your personal information.
 
