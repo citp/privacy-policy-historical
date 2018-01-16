@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpsugar.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065820id_/http%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpsugar.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116062945id_/https%3A//www.phpsugar.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PHP Melody
 
@@ -64,4 +64,4 @@ You can request to have any stored data about your removed from our servers. Thi
 
 ### Final Note
 
-We reserve the right to modify or append our privacy policy at any future date. If you have any questions or concerns, please [contact our team](https://web.archive.org/web/20170606065820id_/http%3A//www.phpsugar.com/support.html).
+We reserve the right to modify or append our privacy policy at any future date. If you have any questions or concerns, please [contact our team](https://web.archive.org/web/20180116062945id_/https%3A//www.phpsugar.com/support.html).
