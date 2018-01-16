@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diy.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226021840id_/http%3A//www.diy.com/customer-support/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116023932id_/https%3A//www.diy.com/customer-support/policies/privacy) for the most accurate reproduction.*
 
 # Customer support | Privacy | DIY at B&Q
 
@@ -19,7 +19,7 @@ In this Privacy Policy, references to **we** , **us** or **our** (or words of si
 
 In this Privacy Policy, references to **you** mean the person whose personal information (as defined below) we collect, use and process. This includes anyone who contacts us in connection with the products and services we provide or otherwise interacts with us (for example, via our Digital Services (as defined below) or in store).
 
-In this Privacy Policy, references to **Digital Services** means our websites at the following URLs: [www.diy.com](https://web.archive.org/web/20171226021840id_/http%3A//www.diy.com/customer-support/policies/www.diy.com) (including <http://www.diy.com/diy/ireland>), <https://spaces.diy.com/ui/sap> and <https://spaces.trade-point.co.uk/ui/sap> (each a **Website** and together the **Websites** ), and any software and web-based applications that we make available for your use.
+In this Privacy Policy, references to **Digital Services** means our websites at the following URLs: [www.diy.com](https://web.archive.org/web/20180116023932id_/https%3A//www.diy.com/customer-support/policies/www.diy.com) (including <http://www.diy.com/diy/ireland>), <https://spaces.diy.com/ui/sap> and <https://spaces.trade-point.co.uk/ui/sap> (each a **Website** and together the **Websites** ), and any software and web-based applications that we make available for your use.
 
 We are committed to protecting your privacy. We will use your personal information in accordance with the Data Protection Act 1998 (the **DPA** ) and other applicable laws and regulations that relate to data protection and privacy.
 
@@ -78,7 +78,7 @@ Your personal information may also be used by us, our employees, contractors or 
 
 We may share your personal information with third parties as described below.
 
-We are a member of the Kingfisher Group of companies; for more information on the Kingfisher Group please visit: [www.kingfisher.com](https://web.archive.org/web/20171226021840id_/http%3A//www.diy.com/customer-support/policies/www.kingfisher.com). We may share your personal information with other members of the Kingfisher Group (including Kingfisher Digital, part of Kingfisher plc) in connection with the purposes above and those listed below. Members of the Kingfisher Group may also use the personal information we share with them to improve their websites and other digital services, for analysis purposes and to offer you products and services that they believe may be of interest to you.
+We are a member of the Kingfisher Group of companies; for more information on the Kingfisher Group please visit: [www.kingfisher.com](https://web.archive.org/web/20180116023932id_/https%3A//www.diy.com/customer-support/policies/www.kingfisher.com). We may share your personal information with other members of the Kingfisher Group (including Kingfisher Digital, part of Kingfisher plc) in connection with the purposes above and those listed below. Members of the Kingfisher Group may also use the personal information we share with them to improve their websites and other digital services, for analysis purposes and to offer you products and services that they believe may be of interest to you.
 
 We may disclose your personal information to third parties, including in the following circumstances: 
 
