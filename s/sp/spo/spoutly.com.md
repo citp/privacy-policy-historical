@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoutly.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117040933id_/http%3A//spoutly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoutly.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116204506id_/https%3A//spoutly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Spoutly
 
