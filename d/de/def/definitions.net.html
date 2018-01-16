@@ -1,157 +1,124 @@
-<!--The following is the downloaded HTML source of the definitions.net privacy policy that was archived on 2017-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171212022007id_/http%3A//www.definitions.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the definitions.net privacy policy that was archived on 2018-01-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180116130302id_/https%3A//www.definitions.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=393997013979407&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="http://definitions.net/adunits/prebid-desktop.js"></script><script>
-var PREBID_TIMEOUT = 1000;
-var MAX_RETRIES = 20;
-var EXCHANGE_RATE = 3.6;
-var pbjs = pbjs || {};
-pbjs.que = pbjs.que || [];
-
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-
-function detectWidth() {var w = window,d = document, e = d.documentElement, x = screen.width || e.offsetWidth || e.clientWidth;return x;}
-var screenSizeMobile = 768;
-function initHBS() {
-  if (pbjs.initAdserverSet) return;
-  loadScript('//www.googletagservices.com/tag/js/gpt.js');
-  pbjs.initAdserverSet = true;
-}
-setTimeout(initHBS, PREBID_TIMEOUT);
-
-if (detectWidth() < screenSizeMobile) {
-      googletag.cmd.push(function () {
-         googletag.pubads().setTargeting("device", "mobile");
-      });
-    loadScript('http://definitions.net/adunits/prebid-mobile.js');
-} else {
-      googletag.cmd.push(function () {
-         googletag.pubads().setTargeting("device", "desktop");
-      });
-    loadScript('http://definitions.net/adunits/prebid-desktop.js');
-}
-
-function loadScript(scriptSrc) {
-  var script = document.createElement('script');
-  script.async=true;
-  script.type = 'text/javascript';
-  script.src = scriptSrc;
-  var node = document.getElementsByTagName('script')[0];
-  node.parentNode.insertBefore(script, node);
-}
-
-pbjs.que.push(function() {
-  pbjs.bidderSettings = {
-    standard: {
-      adserverTargeting: [{
-        key: "hb_bidder",
-        val: function(bidResponse) {
-         return bidResponse.bidderCode;
-       }
-      }, {
-        key: "hb_adid",
-        val: function(bidResponse) {
-         return bidResponse.adId;
-       }
-      }, {
-        key: "hb_pb",
-        val: function(bidResponse) {
-         if(bidResponse.cpm >= 80) return '80.00';
-         return (Math.floor(bidResponse.cpm * 4) / 4).toFixed(2);
-       }
-      }, {
-         key: 'hb_size',
-         val: function (bidResponse) {
-            return bidResponse.size;
-         }
-      }]
-    },
-    sekindoA:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE * .75;
-      }
-    },
-    brealtime:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE * .85;
-      }
-    },
-    aol:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
-    },
-    sovrn:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
-    },
-    sekindoUM:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
-    },
-    pulsepoint:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
-    },
-    districtmDMX:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE  * .85;
-      }
-    },
-    rhythmone:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
-    },
-    rubicon:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE  * .75;
-      }
-    },
-    indexExchange:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
-    },
-    appnexus:{
-      bidCpmAdjustment: function (bidCpm) {
-        return bidCpm * EXCHANGE_RATE;
-      }
+<!-- DFP head code - START -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=393997013979407&amp;version=v2.3"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+    var adsStart = (new Date()).getTime();
+    function detectWidth() {
+        return window.screen.width || window.innerWidth || window.document.documentElement.clientWidth || Math.min(window.innerWidth, window.document.documentElement.clientWidth) || window.innerWidth || window.document.documentElement.clientWidth || window.document.getElementsByTagName('body')[0].clientWidth;
     }
-  };
-});
-</script>
 
-<script>
-var mapSizeMRU = [[300, 250], [300, 600]];
-if(detectWidth() < screenSizeMobile) mapSizeMRU = [[300, 250]];
+    var TIMEOUT = 1000;
+    var EXCHANGE_RATE = 3.42;
+    var screenSizeMobile = 768;
 
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/52304935/Definitions_IA_300x250_A', [300, 250], 'div-gpt-ad-Definitions_IA_300x250_A').addService(googletag.pubads());
-    googletag.defineSlot('/52304935/Definitions_IA_300x250_B', [300, 250], 'div-gpt-ad-Definitions_IA_300x250_B').addService(googletag.pubads());
-    googletag.defineSlot('/52304935/'+((detectWidth() < screenSizeMobile) ? 'Definitions_Mobile_LR_300x250_A' : 'Definitions_LR_300x250_A'), mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_A').addService(googletag.pubads());
-    googletag.defineSlot('/52304935/Definitions_LR_300x250_B', mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_B').addService(googletag.pubads());
-    googletag.defineSlot('/52304935/Definitions_LR_300x250_C', mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_C').addService(googletag.pubads());
-    googletag.defineSlot('/52304935/Definitions_LR_300x250_D', mapSizeMRU, 'div-gpt-ad-Definitions_LR_300x250_D').addService(googletag.pubads());
-    googletag.defineSlot('/52304935/Definitions_LR_125x125', [125, 125], 'div-gpt-ad-Definitions_LR_125x125').addService(googletag.pubads());
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    var pbjs = pbjs || {};
+    pbjs.que = pbjs.que || [];
+    var adUnits = adUnits || [];
 
-    googletag.defineSlot('/52304935/Definition_1x1_Slider', [1, 1], 'div-gpt-ad-Definition_1x1_Slider').addService(googletag.pubads());
+    function initAdServer() {
+        if (pbjs.initAdserverSet) return;
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+        pbjs.initAdserverSet = true;
+    };
+    pbjs.timeout = setTimeout(initAdServer, TIMEOUT);
+    pbjs.timeStart = adsStart;
 
-    pbjs.que.push(function () {
-      pbjs.setTargetingForGPTAsync();
+    // SizeMapping
+    var mapSizeMRU = [[300, 250], [300, 600]];
+    if(detectWidth() < screenSizeMobile) mapSizeMRU = [[300, 250]];
+
+    var dfpNetwork = '52304935';
+
+    // START: Defining Adunits
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_IA_300x250_A",
+            size: [[300, 250]],
+            code: 'div-gpt-ad-Definitions_IA_300x250_A',
+            assignToVariableName: false // false if not in use
+         }); 
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_IA_300x250_B",
+            size: [[300, 250]],
+            code: 'div-gpt-ad-Definitions_IA_300x250_B',
+            assignToVariableName: false // false if not in use
+         }); 
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_LR_300x250_A",
+            size: mapSizeMRU,
+            code: 'div-gpt-ad-Definitions_LR_300x250_A',
+            assignToVariableName: false // false if not in use
+         }); 
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_LR_300x250_B",
+            size: mapSizeMRU,
+            code: 'div-gpt-ad-Definitions_LR_300x250_B',
+            assignToVariableName: false // false if not in use
+         }); 
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_LR_300x250_C",
+            size: mapSizeMRU,
+            code: 'div-gpt-ad-Definitions_LR_300x250_C',
+            assignToVariableName: false // false if not in use
+         }); 
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_LR_300x250_D",
+            size: mapSizeMRU,
+            code: 'div-gpt-ad-Definitions_LR_300x250_D',
+            assignToVariableName: false // false if not in use
+         }); 
+    adUnits.push({
+            network: dfpNetwork,
+            adunit: "Definitions_LR_125x125",
+            size: [[125, 125]],
+            code: 'div-gpt-ad-Definitions_LR_125x125',
+            assignToVariableName: false // false if not in use
+         }); 
+
+    // END: Defining Adunits
+
+    googletag.cmd.push(function() {
+      if(adUnits){
+        var dfpSlots = [];
+        for (var i = 0, len = adUnits.length; i < len; i++) {
+          dfpSlots[i] = googletag.defineSlot('/'+adUnits[i].network+'/'+adUnits[i].adunit, adUnits[i].size, adUnits[i].code).addService(googletag.pubads());
+          if(adUnits[i].assignToVariableName && (adUnits[i].assignToVariableName !== null)) window[adUnits[i].assignToVariableName] = dfpSlots[i];
+        }
+      }
     });
+    googletag.cmd.push(function() {
+        // Header Bidding Targeting
+        pbjs.que.push(function() {pbjs.setTargetingForGPTAsync();});
 
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().collapseEmptyDivs();
-    googletag.enableServices();
-  });
+        // Set targeting
+        googletag.pubads().setTargeting("device", (detectWidth() < screenSizeMobile) ? "mobile" : "desktop");
 
-</script><meta charset="utf-8">
+        // Init DFP
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script>
+<script type="text/javascript" async="true" src="http://definitions.net/adunits/prebid.js"></script>    
+<!-- DFP head code - END --><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>Privacy Policy</title>
 <meta name="description" content="">
@@ -200,8 +167,10 @@ if(detectWidth() < screenSizeMobile) mapSizeMRU = [[300, 250]];
 <div id="page-container">
 <header id="header">
 	<div id="header-int" class="clearfix">		
-					<div id="user-login"><a href="login.php">Login</a></div>
-				<div id="network-header"><span id="network-header-trigger">The&nbsp;STANDS4&nbsp;Network<span class="arw">☰</span></span>
+					<div id="user-login">
+				<a href="login.php">Login</a>&nbsp;<i class="fa fa-sign-in" aria-hidden="true"></i>
+			</div>
+				<div id="network-header"><span id="network-header-trigger">The&nbsp;<span class="hidden-xs">STANDS4&nbsp;</span>Network<span class="arw">☰</span></span>
 	<ul id="network-header-links" style="display:none;">
 		<li class="nw-abbreviations"><a href="http://www.abbreviations.com/">ABBREVIATIONS</a></li>
 		<li class="nw-anagrams"><a href="http://www.anagrams.net/">ANAGRAMS</a></li>
@@ -213,7 +182,7 @@ if(detectWidth() < screenSizeMobile) mapSizeMRU = [[300, 250]];
 		<li class="nw-math"><a href="http://www.math.net/">MATH</a></li>
 		<li class="nw-phrases"><a href="http://www.phrases.net/">PHRASES</a></li>
 		<li class="nw-poetry"><a href="http://www.poetry.net/">POETRY</a></li>
-		<li class="nw-quotes"><a href="http://www.quotes.net/">QUOTES</a></li>
+		<li class="nw-quotes"><a href="https://www.quotes.net/">QUOTES</a></li>
 		<li class="nw-references"><a href="http://www.references.net/">REFERENCES</a></li>
 		<li class="nw-rhymes"><a href="http://www.rhymes.net/">RHYMES</a></li>
 		<li class="nw-scripts"><a href="https://www.scripts.com/">SCRIPTS</a></li>
@@ -293,7 +262,7 @@ if(detectWidth() < screenSizeMobile) mapSizeMRU = [[300, 250]];
 				<p>STANDS4 LLC uses your Personal Information to enhance and personalize your online experience. STANDS4 LLC does not sell Personal Information about individual customers to third parties, sell or rent lists of customers or use information about individual customers except as described below.</p>
 				<p><strong>Aggregated Information:</strong> STANDS4 LLC may use aggregated information regarding its customers and usage of this web site and disclose such aggregated information to advertisers, partners and others for various purposes.</p>
 				<p><strong>Third Party Service Providers:</strong> STANDS4 LLC may employ other companies and individuals to perform certain functions such as delivering packages, processing credit card payments and analyzing data. They may have access to personal information to perform their functions.</p>
-				<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a></p>
+				<p>We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a></p>
 				
 				<h3>Enforcement of Agreement or Compliance with Law</h3>
 				
@@ -461,7 +430,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300
 						<li class="nw-acronyms"><a rel="nofollow" href="http://www.acronyms.com/">Acronyms</a></li>
 						<li class="nw-definitions"><a rel="nofollow" href="http://www.definitions.net/">Definitions</a></li>
 						<li class="nw-math"><a rel="nofollow" href="http://www.math.net/">Math</a></li>
-						<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
+						<li class="nw-quotes"><a rel="nofollow" href="https://www.quotes.net/">Quotes</a></li>
 						<li class="nw-scripts"><a rel="nofollow" href="https://www.scripts.com/">Scripts</a></li>
 						<li class="nw-ua"><a rel="nofollow" href="http://www.useragents.com/">User Agents</a></li>
 					</ul>
@@ -503,7 +472,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300
 				<div class="col-xs-6 col-sm-6">
 					<ul>
 						<li class="nw-poetry"><a rel="nofollow" href="http://www.poetry.net/">Poetry</a></li>
-						<li class="nw-quotes"><a rel="nofollow" href="http://www.quotes.net/">Quotes</a></li>
+						<li class="nw-quotes"><a rel="nofollow" href="https://www.quotes.net/">Quotes</a></li>
 						<li class="nw-references"><a rel="nofollow" href="http://www.references.net/">References</a></li>
 						<li class="nw-rhymes"><a rel="nofollow" href="http://www.rhymes.net/">Rhymes</a></li>
 						<li class="nw-scripts"><a rel="nofollow" href="https://www.scripts.com/">Scripts</a></li>
@@ -518,7 +487,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definitions_LR_300
 	</div>
 
 	<div class="clearfix">
-		<div class="copyright"><strong>© 2001-2017 STANDS4 LLC.</strong><br>All rights reserved.</div>
+		<div class="copyright"><strong>© 2001-2018 STANDS4 LLC.</strong><br>All rights reserved.</div>
 		<div id="social-icons">
 			<a rel="nofollow" href="http://www.facebook.com/STANDS4" target="_blank"><div class="social fb"></div></a>
 			<a rel="nofollow" href="http://twitter.com/justadded" target="_blank"><div class="social tw"></div></a>
@@ -552,4 +521,4 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Definition_1x1_Sli
 </div>
 
 
-<!-- Timer: 0.0677 secs | Server: ip-10-113-129-74 --></body></html>
+<!-- Timer: 0.1311 secs | Server: ip-10-113-129-74 --></body></html>
