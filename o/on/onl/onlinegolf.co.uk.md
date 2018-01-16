@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606093228id_/http%3A//www.onlinegolf.co.uk/customer-services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116212659id_/https%3A//www.onlinegolf.co.uk/customer-services/privacy-policy.html) for the most accurate reproduction.*
 
 # OnlineGolf's Privacy Policy
 
