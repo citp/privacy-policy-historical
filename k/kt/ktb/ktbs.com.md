@@ -1,6 +1,170 @@
-> *The following text is extracted and transformed from the ktbs.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709100651id_/https%3A//www.ktbs.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktbs.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116194349id_/https%3A//www.ktbs.com/site/privacy.html) for the most accurate reproduction.*
 
 # KTBS 3 Privacy Policy | Site | ktbs.com
+
+
+    ARZ050-051-059>061-070>073-LAZ001>006-010>014-017>022-OKZ077-
+    TXZ096-097-108>112-124>126-136>138-149>153-165>167-170030-
+    /O.CON.KSHV.HZ.W.0004.180117T0200Z-180117T1600Z/
+    Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
+    Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
+    Red River-Bienville-Jackson-Ouachita-Sabine-Natchitoches-Winn-
+    Grant-Caldwell-La Salle-McCurtain-Bowie-Franklin-Titus-Camp-
+    Morris-Cass-Wood-Upshur-Marion-Smith-Gregg-Harrison-Cherokee-Rusk-
+    Panola-Nacogdoches-Shelby-Angelina-San Augustine-
+    Including the cities of De Queen, Nashville, Mineral Springs, 
+    Dierks, Ashdown, Hope, Prescott, Texarkana, Stamps, Lewisville, 
+    Bradley, Magnolia, El Dorado, Shreveport, Bossier City, Minden, 
+    Springhill, Homer, Haynesville, Ruston, Farmerville, Bernice, 
+    Mansfield, Stonewall, Logansport, Coushatta, Martin, Arcadia, 
+    Ringgold, Gibsland, Jonesboro, Monroe, Many, Zwolle, 
+    Pleasant Hill, Natchitoches, Winnfield, Colfax, Montgomery, 
+    Dry Prong, Clarks, Grayson, Columbia, Jena, Midway, Olla, Idabel,
+    Broken Bow, Clarksville, Bogata, Mount Vernon, Mount Pleasant, 
+    Pittsburg, Daingerfield, Lone Star, Naples, Omaha, Atlanta, 
+    Linden, Hughes Springs, Queen City, Mineola, Winnsboro, Quitman, 
+    Hawkins, Gilmer, Big Sandy, Jefferson, Tyler, Longview, Marshall,
+    Jacksonville, Rusk, Henderson, Carthage, Nacogdoches, Center, 
+    Lufkin, San Augustine, Hemphill, and Pineland
+    1016 AM CST Tue Jan 16 2018
+    
+    ...HARD FREEZE WARNING REMAINS IN EFFECT FROM 8 PM THIS EVENING
+    TO 10 AM CST WEDNESDAY...
+    
+    * EVENT...Temperatures will plummet into the lower to middle teens
+      resulting in hard freeze conditions. 
+    
+    * TIMING...Temperatures will remain well below freezing today and
+      fall into the teens a few hours after sunset through mid-morning 
+      tomorrow.
+     
+    * IMPACT...Take precautions to cover exposed pipes and bring pets
+      indoors as well as protect sensitive outdoor plants.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    A Hard Freeze Warning means sub-freezing temperatures are either
+    imminent or occurring. These conditions will kill crops and other
+    sensitive vegetation.
+    
+    &&
+    
+    $$
+    
+    
+    
+    
+    ARZ050-051-059>061-070>073-LAZ001>006-010>014-017>022-OKZ077-
+    TXZ096-097-108>112-124>126-136>138-149>153-165>167-171400-
+    Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
+    Columbia-Union-Caddo-Bossier-Webster-Claiborne-Lincoln-De Soto-
+    Red River-Bienville-Jackson-Ouachita-Sabine-Natchitoches-Winn-
+    Grant-Caldwell-La Salle-McCurtain-Bowie-Franklin-Titus-Camp-
+    Morris-Cass-Wood-Upshur-Marion-Smith-Gregg-Harrison-Cherokee-Rusk-
+    Panola-Nacogdoches-Shelby-Angelina-San Augustine-
+    Including the cities of De Queen, Nashville, Mineral Springs, 
+    Dierks, Ashdown, Hope, Prescott, Texarkana, Stamps, Lewisville, 
+    Bradley, Magnolia, El Dorado, Shreveport, Bossier City, Minden, 
+    Springhill, Homer, Haynesville, Ruston, Farmerville, Bernice, 
+    Mansfield, Stonewall, Logansport, Coushatta, Martin, Arcadia, 
+    Ringgold, Gibsland, Jonesboro, Monroe, Many, Zwolle, 
+    Pleasant Hill, Natchitoches, Winnfield, Colfax, Montgomery, 
+    Dry Prong, Clarks, Grayson, Columbia, Jena, Midway, Olla, Idabel, 
+    Broken Bow, Clarksville, Bogata, Mount Vernon, Mount Pleasant, 
+    Pittsburg, Daingerfield, Lone Star, Naples, Omaha, Atlanta, 
+    Linden, Hughes Springs, Queen City, Mineola, Winnsboro, Quitman, 
+    Hawkins, Gilmer, Big Sandy, Jefferson, Tyler, Longview, Marshall, 
+    Jacksonville, Rusk, Henderson, Carthage, Nacogdoches, Center, 
+    Lufkin, San Augustine, Hemphill, and Pineland
+    1250 PM CST Tue Jan 16 2018
+    
+    ...Black Ice will remain a problem over all of the Ark-La-Tex
+    This Afternoon through much of Wednesday...
+    
+    Widespread snowfall totals of one to three inches has fallen
+    across much of the Ark La Tex this morning, with the snow expected
+    to diminish across Deep East Texas and the southern sections of
+    Northcentral Louisiana this afternoon. However, temperatures will
+    remain below freezing this afternoon areawide, with the cloud
+    cover expected to diminish along and south of the Interstate 20
+    corridor by tonight. 
+    
+    The existing snowpack, clearing sky, and weakening winds will
+    allow temperatures to quickly fall into teens and lower 20s this
+    evening, and into the lower and middle teens areawide by 
+    Wednesday morning. As a result, any melting snow on the roadways, 
+    bridges, and overpasses this afternoon will quickly refreeze into
+    black ice this evening, making travel very treacherous. 
+    Temperatures will only warm slowly Wednesday, but will likely 
+    remain below freezing until early to mid afternoon, if at all. 
+    Thus, black ice on area roadways will remain a problem through 
+    much of Wednesday, with this threat again increasing Wednesday 
+    night as temperatures fall into the teens once again. 
+    
+    Travel is strongly discouraged across the region this afternoon
+    through Wednesday. If you must travel this afternoon or tonight,
+    please drive slowly, allow plenty of time to reach your
+    destination, and allow extra space between you and the other 
+    drivers around you. Be sure you pack a winter weather survival 
+    kit, by including food, water, extra blankets, a flashlight, and 
+    provide a means to charge your cell phone or other electronic 
+    devices in case you are stranded. Be sure you have a full tank of 
+    gas before leaving as well. 
+    
+    $$
+    
+    
+    
+    
+    ARZ050-051-059>061-070>073-LAZ001>004-006-OKZ077-TXZ096-097-
+    108>112-124>126-136>138-149>151-170200-
+    /O.CON.KSHV.WC.Y.0003.180117T0200Z-180117T1600Z/
+    Sevier-Howard-Little River-Hempstead-Nevada-Miller-Lafayette-
+    Columbia-Union-Caddo-Bossier-Webster-Claiborne-McCurtain-
+    Red River-Bowie-Franklin-Titus-Camp-Morris-Cass-Wood-Upshur-
+    Marion-Smith-Gregg-Harrison-Cherokee-Rusk-Panola-
+    Including the cities of De Queen, Nashville, Mineral Springs, 
+    Dierks, Ashdown, Hope, Prescott, Texarkana, Stamps, Lewisville, 
+    Bradley, Magnolia, El Dorado, Shreveport, Bossier City, Minden, 
+    Springhill, Homer, Haynesville, Farmerville, Bernice, Idabel, 
+    Broken Bow, Clarksville, Bogata, Mount Vernon, Mount Pleasant, 
+    Pittsburg, Daingerfield, Lone Star, Naples, Omaha, Atlanta, 
+    Linden, Hughes Springs, Queen City, Mineola, Winnsboro, Quitman, 
+    Hawkins, Gilmer, Big Sandy, Jefferson, Tyler, Longview, Marshall,
+    Jacksonville, Rusk, Henderson, and Carthage
+    1242 PM CST Tue Jan 16 2018
+    
+    ...WIND CHILL ADVISORY REMAINS IN EFFECT FROM 8 PM THIS EVENING
+    TO 10 AM CST WEDNESDAY...
+    ...WINTER STORM WARNING HAS EXPIRED...
+    
+    * WHAT...Dangerously cold wind chills will develop tonight after
+      sunset with readings falling into the single digits areawide. 
+    
+    * WHERE...Portions of south central Arkansas, southwest Arkansas,
+      northwest Louisiana and northeast Texas.
+    
+    * WHEN...8 PM tonight through 10 AM Wednesday.
+    
+    * ADDITIONAL DETAILS...The cold wind chills will cause frostbite 
+      in as little as 30 minutes to any exposed skin.
+    
+    PRECAUTIONARY/PREPAREDNESS ACTIONS...
+    
+    A Wind Chill Advisory means that cold air and the wind will
+    combine to create low wind chills. Frost bite and hypothermia can
+    occur if precautions are not taken. Make sure you wear a hat and
+    gloves.
+    
+    &&
+    
+    $$
+    
+    
+
+#### Closings
+
+[ ](https://www.ktbs.com/weather-related-closings/article_a420fa42-fa01-11e7-8553-c367a95dea24.html)
 
 June 4, 2007
 
