@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishgame3d.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107100516id_/http%3A//www.fishgame3d.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishgame3d.com privacy policy that was archived on 2018-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180116200504id_/https%3A//www.fishgame3d.com/policy.php) for the most accurate reproduction.*
 
 # AquaLife 3D
 
