@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307220532id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnchoice.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117161107id_/http%3A//www.vpnchoice.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VPNchoice.com
 
