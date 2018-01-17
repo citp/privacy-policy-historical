@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegay.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117205538id_/http%3A//thegay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegay.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117092302id_/https%3A//thegay.com/privacy) for the most accurate reproduction.*
 
 # Site Information - Privacy Policy - TheGay.com
 
