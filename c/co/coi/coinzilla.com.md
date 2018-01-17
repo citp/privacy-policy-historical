@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinzilla.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824042853id_/http%3A//www.coinzilla.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinzilla.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117061103id_/http%3A//www.coinzilla.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Find Coins, Paper Money and Gold or Silver Bullion at CoinZilla.com
 
