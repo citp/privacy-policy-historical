@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenbbw.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102064555id_/http%3A//goldenbbw.com/information/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenbbw.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117141223id_/http%3A//goldenbbw.com/information/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy at Golden BBW
 
