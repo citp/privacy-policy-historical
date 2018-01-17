@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120002750id_/http%3A//www.mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojosavings.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117164138id_/http%3A//www.mojosavings.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure
 
@@ -8,13 +8,13 @@ If you require any more information or have any questions about our privacy poli
 
 At www.mojosavings.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.mojosavings.com and how it is used.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, www.mojosavings.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 www.mojosavings.com does not use cookies.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.mojosavings.com.
 
@@ -45,7 +45,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-**Disclosure**
+ **Disclosure**
 
 This blog is a personal blog written and edited by Mike and Lisa. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -57,9 +57,6 @@ This blog does not contain any content which might present a conflict of interes
 
 All prices contained in the posts are current at the time of the post. Mojo Savings is not responsible for typos on other sites, errors or omissions on other companies sites, or if the pirce changes after the post is posted.
 
-**Material Connection Disclosure**
+ **Material Connection Disclosure**
 
 Unless otherwise expressly stated, you should assume that Mojo Savings has an affiliate relationship or other material connection to the providers of goods and services mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. In addition, you should assume that Mojo Savings may be compensated monetarily or non-monetarily when you visit, purchase goods or services from, or take any other action on a third-party website mentioned by, recommended, hyperlinked to, or otherwise referenced on Mojo Savings. You should always perform due diligence before buying any goods or services online or offline.
-
-Follow Us On: [Mojo's Facebook ](https://www.facebook.com/mojosavings), [Instagram](https://instagram.com/mojosavings/), [Twitter](https://twitter.com/MoJoSavings) and [Pinterest](http://pinterest.com/mojosavings/) and catch all our deals!   
-
