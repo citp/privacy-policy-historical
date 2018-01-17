@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportstract.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025161738id_/http%3A//www.sportstract.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportstract.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117094839id_/http%3A//www.sportstract.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Sports Tract
 
