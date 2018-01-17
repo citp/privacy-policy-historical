@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedy.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219201040id_/http%3A//www.comedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedy.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117085743id_/http%3A//www.comedy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@ Updated: June 10, 2015
 
 We at Comedy Technologies know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
 
-Remember that your use of Comedy Technologies’ Services is at all times subject to the Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](https://web.archive.org/web/20171219201040id_/http%3A//www.comedy.com/tos.html).
+Remember that your use of Comedy Technologies’ Services is at all times subject to the Terms of Use, which incorporates this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in the [Terms of Use](https://web.archive.org/web/20180117085743id_/http%3A//www.comedy.com/tos.html).
 
 ### What does this Privacy Policy cover?
 
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-As noted in the [Terms of Use](https://web.archive.org/web/20171219201040id_/http%3A//www.comedy.com/tos.html), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [contact@comedy.com](mailto:contact@comedy.com)
+As noted in the [Terms of Use](https://web.archive.org/web/20180117085743id_/http%3A//www.comedy.com/tos.html), we do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at [contact@comedy.com](mailto:contact@comedy.com)
 
 ### Will Comedy Technologies ever change this Privacy Policy?
 
