@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettermoms.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225042543id_/https%3A//www.bettermoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermoms.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117050931id_/http%3A//www.bettermoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Better Moms
 
@@ -45,7 +45,7 @@ Syndication: Online Media Group, LLC. allows for the RSS syndication of all of i
 
 With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-If you would like to know more about the information gathering practices and “opt-out” procedures of our third-party ad servers, please contact us at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2d44434b426d424341444348404849444c4a5f42585d41414e034e4240 "Opt Out").
+If you would like to know more about the information gathering practices and “opt-out” procedures of our third-party ad servers, please contact us at[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6e070008012e01000207000b030b0a070f091c011b1e02020d400d0103 "Opt Out").
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
