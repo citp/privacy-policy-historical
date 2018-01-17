@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224113710id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117105439id_/https%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
 
-# Online customer support solution - forum, ticketing service, livechat and knowledgebase by UserEcho
+# Online customer support solution - Feedback Forum, Helpdesk (ticketing service), Knowledge Base and Live Chat by UserEcho
 
 UserEcho collects the email addresses of people who communicate with UserEcho via email, create accounts, or post topics. UserEcho also collects aggregate information on which pages users access or visit, and information volunteered by users (such as survey information and/or site registrations). The information UserEcho collects is used to improve the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
