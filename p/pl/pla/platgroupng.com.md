@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platgroupng.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platgroupng.com privacy policy that was archived on 2018-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Plat Technologies Limited
 
@@ -43,16 +43,16 @@ Personal information is processed and stored in our databases and we have taken 
 
 We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
 
-If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/contact.php).
+If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/contact.php).
 
 | 
 
-[Website Design](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/services/website_design.php)  
-[Web Application Development](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/services/web_application_development.php)  
-[Website Maintenace Services](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/services/web_maintenance_services.php)  
-[Search Engine Optimisation](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/services/seo.php)  
-[ICT Consultancy](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/services/consultancy.php)  
-[ICT Outsourcing ](https://web.archive.org/web/20171019071035id_/http%3A//platgroupng.com/services/outsourcing.php)
+[Website Design](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/website_design.php)  
+[Web Application Development](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/web_application_development.php)  
+[Website Maintenace Services](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/web_maintenance_services.php)  
+[Search Engine Optimisation](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/seo.php)  
+[ICT Consultancy](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/consultancy.php)  
+[ICT Outsourcing ](https://web.archive.org/web/20180117031157id_/https%3A//www.platgroupng.com/services/outsourcing.php)
 
 ~ Student Portal for Tertiary Institutions  
 ~ Computer Based Testing Software  
