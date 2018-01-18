@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chungdha.nl privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213150929id_/http%3A//www.chungdha.nl/%3Fpage_id%3D7886) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chungdha.nl privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118014339id_/http%3A//www.chungdha.nl/%3Fpage_id%3D7886) for the most accurate reproduction.*
 
 # Cookie Policy | Chung Dha
 
