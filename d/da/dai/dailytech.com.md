@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218071741id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytech.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118023633id_/http%3A//www.dailytech.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,17 +27,3 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 **Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-* * *
-
-Most Popular Articles[ASRock Z370 Killer – Powerful VR Ready Motherboard  
-](https://web.archive.org/ASRock+Z370+Killer++Powerful+VR+Ready+Motherboard/article42900.htm)November 30, 2017, 7:15 AM  
-[Comcast xFi Advanced Gateway Modem/Router  
-](https://web.archive.org/Comcast+xFi+Advanced+Gateway+ModemRouter/article42908.htm)December 6, 2017, 6:30 AM  
-[OnePlus 5T - Star Wars Limited Edition  
-](https://web.archive.org/OnePlus+5T++Star+Wars+Limited+Edition/article42904.htm)December 3, 2017, 6:35 AM  
-[Harman Kardon – Home Speaker with Cortana  
-](https://web.archive.org/Harman+Kardon++Home+Speaker+with+Cortana/article42906.htm)December 5, 2017, 5:55 AM  
-[Samsung Galaxy A8+ - Leaked Images Online  
-](https://web.archive.org/Samsung+Galaxy+A8++Leaked+Images+Online/article42902.htm)December 2, 2017, 9:20 AM  
-
