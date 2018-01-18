@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbe.ab.ca privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118093553id_/http%3A//www.cbe.ab.ca/privacy-statement/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbe.ab.ca privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118011533id_/https%3A//cbe.ab.ca/privacy-statement/Pages/default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy Statement - CBE
 
