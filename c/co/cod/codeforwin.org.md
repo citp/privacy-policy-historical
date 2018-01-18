@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeforwin.org privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218080034id_/http%3A//codeforwin.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeforwin.org privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118111749id_/https%3A//codeforwin.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Codeforwin
 
