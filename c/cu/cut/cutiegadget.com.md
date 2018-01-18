@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110014048id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutiegadget.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118205848id_/http%3A//www.cutiegadget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutie Gadget
 
