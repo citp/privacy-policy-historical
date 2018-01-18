@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211010413id_/http%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118071901id_/https%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rasa Malaysia: Easy Asian Recipes
 
