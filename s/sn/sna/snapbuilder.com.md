@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapbuilder.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118225541id_/http%3A//snapbuilder.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapbuilder.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118072055id_/https%3A//snapbuilder.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Snap Builder Web Productions Privacy Policy
 
