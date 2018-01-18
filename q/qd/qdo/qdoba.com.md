@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qdoba.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626142220id_/http%3A//www.qdoba.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qdoba.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118064109id_/https%3A//www.qdoba.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | QDOBA | Mexican Restaurants & Catering
 
