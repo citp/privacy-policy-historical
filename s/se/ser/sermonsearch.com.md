@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118094023id_/http%3A//www.sermonsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118012326id_/https%3A//www.sermonsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for SermonSearch.com
 
