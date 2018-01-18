@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119135723id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnostar.com privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118222742id_/http%3A//www.starnostar.com/Legal-Privacy-Policy) for the most accurate reproduction.*
 
 # StarNoStar | StarNoStar Legal | StarNoStar Privacy Policy | StarNoStar Disclaimer
 
-Date: 11-19-2017
+Date: 01-18-2018
 
 ## Privacy Policy, Terms & Conditions :
 
