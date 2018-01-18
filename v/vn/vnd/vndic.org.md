@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vndic.org privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918000648id_/http%3A//www.vndic.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vndic.org privacy policy that was archived on 2018-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180118211933id_/http%3A//www.vndic.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
