@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbex.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118102535id_/http%3A//goldbex.com/web_en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbex.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120004141id_/http%3A//goldbex.com/web_en/privacy-policy.php) for the most accurate reproduction.*
 
 # Goldbex - Privacy policy | Goldbex
 
