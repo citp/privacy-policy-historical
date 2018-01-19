@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spyropress.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120032823id_/http%3A//spyropress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyropress.com privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119110327id_/https%3A//spyropress.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SpyroPress’s Privacy Policy - Best WordPress Theme 2017
+# SpyroPress’s Privacy Policy - Best WordPress Theme 2018
 
 Skip to content
 
 [](http://spyropress.com/)
 
-[Home](http://spyropress.com/ "Go to Best WordPress Theme 2017.")SpyroPress’s Privacy Policy
+[Home](http://spyropress.com/ "Go to Best WordPress Theme 2018.")SpyroPress’s Privacy Policy
 
 ## Welcome to Spyropress’s Privacy Policy
 
