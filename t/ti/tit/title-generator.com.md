@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the title-generator.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120024423id_/http%3A//www.title-generator.com/index.php/blog/22-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the title-generator.com privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119150839id_/http%3A//www.title-generator.com/index.php/blog/22-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
