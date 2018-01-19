@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milfslikeitblack.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119222208id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Dmofos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milfslikeitblack.com privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119132204id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Dmofos) for the most accurate reproduction.*
 
 # Privacy Policy - Mofos.com
 
