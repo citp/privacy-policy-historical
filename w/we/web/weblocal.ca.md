@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weblocal.ca privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113191030id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblocal.ca privacy policy that was archived on 2018-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180119200110id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Effective May 9, 2011**
+**Effective January 1, 2018**
 
 Welcome to Solfo, Inc. dba Solfo and YellowBot®. Please read this Privacy Policy and Our [Terms and Conditions of Use](https://web.archive.org/about/tos.html) carefully before using or obtaining any Content, Products or Services through Our Site. The provisions of the Terms and Conditions of Use are expressly incorporated by Reference into the terms of this Privacy Policy.
 
@@ -51,6 +51,14 @@ We may use demographic and listing information to customize Our Site and communi
 ## How We Use Public Information, Reviews, Ratings and Registered User Names
 
 When You become a Registered User, You must create a user name. Our Site provides You with the opportunity to give user reviews and ratings for restaurants, hotels, bars, events and other businesses. Your Registered User name and information may appear next to Your user reviews and ratings as they are posted on Our Site. Your Registered User name and information may also appear on a Registered User Profile section of Our Site. We may also use and disclose Your Registered User name, information and reviews and ratings in any other manner. To read further details about how We may use Your user name, information and reviews, see Our Terms and Conditions of Use.
+
+## Notice
+
+We may disclose personal information we’ve collected with unaffiliated third parties for any legally permissible purpose including, but not limited to, the delivery of targeted offers and advertisements. We may also disclose personal information to unaffiliated third parties, including advertisers, advertising networks, advertising servers, and analytics companies for any legally permissible purpose including, but not limited to, the delivery of targeted advertising.
+
+## Choice
+
+We provide consumers with the opportunity to opt-out of their personal information being shared with third-parties. If you would like to do so, please unsubscribe here, or send us an email to help@yellowbot.com. If you have any additional questions or would like further information on this topic, please e-mail us at help@yellowbot.com.
 
 ## Opt Out
 
