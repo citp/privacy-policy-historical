@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120045310id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120195522id_/https%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
 
 # University System of Georgia | University System of Georgia
 
