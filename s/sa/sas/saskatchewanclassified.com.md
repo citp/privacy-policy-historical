@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saskatchewanclassified.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516034946id_/http%3A//ww43.saskatchewanclassified.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saskatchewanclassified.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120055223id_/http%3A//ww43.saskatchewanclassified.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
