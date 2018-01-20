@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpersonals.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120041928id_/https%3A//www.xpersonals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpersonals.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120174538id_/https%3A//www.xpersonals.com/privacy.php) for the most accurate reproduction.*
 
 # XPersonals.com - Online Dating Community
 
