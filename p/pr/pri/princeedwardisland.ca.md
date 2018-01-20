@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103172517id_/https%3A//www.princeedwardisland.ca/en/information/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120223124id_/https%3A//www.princeedwardisland.ca/en/information/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Prince Edward Island
 
@@ -8,7 +8,7 @@
 
 Your privacy is important. Whether you are browsing for information or conducting business with the Government of Prince Edward Island, your information is personal and must be protected. You also have the right to be informed how and why we collect, use and share your personal information.
 
-The _Freedom of Information and Protection of Privacy Act_ (FOIPP) governs the collection of all personal information handled by Government of Prince Edward Island organizations. 
+The [_Freedom of Information and Protection of Privacy Act_](https://web.archive.org/en/legislation/freedom-information-and-protection-privacy-act) (FOIPP) governs the collection of all personal information handled by Government of Prince Edward Island organizations. 
 
 ### You Have a Choice
 
@@ -88,4 +88,4 @@ Telephone: (902) 368-4942
 Fax: (902) 368-6136  
 Email:  [healthprivacy@ihis.org](mailto:healthprivacy@ihis.org)            
 Feedback: [Compliments and Complaints](https://web.archive.org/en/service/send-health-pei-compliments-and-complaints-online)  
-Website: [Privacy and Your Personal Health Information](https://web.archive.org/en/information/health-pei/privacy-and-your-personal-health-information)
+Website: [Privacy and Your Personal Health Information](https://web.archive.org/en/information/sante-i-p-e/privacy-and-your-personal-health-information)
