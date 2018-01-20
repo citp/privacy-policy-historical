@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228200051id_/http%3A//eu.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.de privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120031159id_/https%3A//eu.puma.com/de/en/privacy-policy/PRIVACY_POLICY.html) for the most accurate reproduction.*
 
 # Sites-EU-Site
 
@@ -120,7 +120,7 @@ Follow each of the above-mentioned links to set an opt-out cookie. This opt-out 
 The data privacy policies of Adobe Analytics, Webtrekk and Teradata Mapp can be found at these websites:
 
 _Adobe Analytics:_ [ http://www.adobe.com/privacy/analytics.html](http://www.adobe.com/privacy/analytics.html)  
-_Webtrekk:_ [ http://www.webtrekk.com/en/index/dataprivacy.html ](http://www.webtrekk.com/en/index/dataprivacy.html) _Mapp:_[ flxone.com/privacy-platform](https://web.archive.org/web/20171228200051id_/http%3A//eu.puma.com/de/en/privacy-policy/%E2%80%9D)  
+_Webtrekk:_ [ http://www.webtrekk.com/en/index/dataprivacy.html ](http://www.webtrekk.com/en/index/dataprivacy.html) _Mapp:_[ flxone.com/privacy-platform](https://web.archive.org/web/20180120031159id_/https%3A//eu.puma.com/de/en/privacy-policy/%E2%80%9D)  
 
 
 _2\. Consent (“Opt-in”) for merging pseudonymized usage profiles in DMP with personal data from the CEP_
@@ -137,7 +137,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Further information concerning data privacy can be found at _https://www.google.de/intl/en/policies/_
 
-[Disable Google Analytics](https://web.archive.org/web/20171228200051id_/http%3A//eu.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
+[Disable Google Analytics](https://web.archive.org/web/20180120031159id_/https%3A//eu.puma.com/de/en/privacy-policy/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D)
 
 ### **8\. The Facebook Like Button**
 
