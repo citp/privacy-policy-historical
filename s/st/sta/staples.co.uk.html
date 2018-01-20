@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the staples.co.uk privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120042520id_/http%3A//www.staples.co.uk/Content/Static/customerservice/legal/policy_privacy.cshtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the staples.co.uk privacy policy that was archived on 2018-01-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180120180914id_/https%3A//www.staples.co.uk/Content/Static/customerservice/legal/policy_privacy.cshtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="res1280"><head>
             <iframe src="javascript:false" id="boomerang" style="width: 0px; height: 0px; border: 0px;"></iframe><script type="text/javascript">                
@@ -189,8 +189,8 @@
     <meta name="viewport" content="width=device-width">
     <link href="/css/shared/print.css" rel="stylesheet" media="print">
 
-    <link type="text/css" rel="stylesheet" href="/Css/Bundle/en/d$-y4kZPrRlehufB0v1MvQSA/common.css">
-    <script type="text/javascript" src="/JavaScript/Bundle/en/d$-y4kZPrRlehufB0v1MvQSA/common.js"></script>
+    <link type="text/css" rel="stylesheet" href="/Css/Bundle/en/d$K-6sxWPGhG01vUGLiePcIw/common.css">
+    <script type="text/javascript" src="/JavaScript/Bundle/en/d$HTRmA02jHrkuvRWrzn6y_Q/common.js"></script>
 
     <!-- Adcore/Conetnt stylesheets -->
 
@@ -204,42 +204,41 @@
     </script>
    
      <script type="text/javascript">
-         if (inCustomList > 0) {
+         if (inCustomList > 0 || ("False"=="True")) {
              $(document).ready(function () {
-                 if (inCustomList == 2 && ("False" == "True")) {
+                 function HideCouchMark() {
+                     $('.coach_marks').hide();
+                     $('#light_box_global').addClass(" lightBoxCoachMarks").hide();
+                 }
+                 function ShowCouchMark() {
+                     $('.coach_marks').show();
+                     $('#light_box_global').addClass(" lightBoxCoachMarks").show();
+                     $('.emailsignup_wrapper').hide();
+                 }
+
+                 if ((inCustomList == 2 && ("False" == "True")) || ("False"=="True" )) {
                      CouponClipper.init();
                     if (("False"=="True") || ("False" == "True" && "False" == "True" && 0 == 2))
                     {
-                        var Cookie=cookie.Get({ bucket: cookie.buckets.funcTemp, name: "CouponCouchMark" });
+                        var Cookie=cookie.Get({ bucket: cookie.buckets.func, name: "CouponCouchMark" });
                         var CurrentPath=window.location.pathname;
                         if (Cookie == '' || typeof Cookie == 'undefined')
                         {
                             if(CurrentPath=='')
                             {
                                 $('#phModalPopUp').hide();
-                                cookie.Set({ bucket: cookie.buckets.funcTemp, name: "CouponCouchMark", value: "CouponCouchMarkValue" });
+                                cookie.Set({ bucket: cookie.buckets.func, name: "CouponCouchMark", value: "CouponCouchMarkValue" });
                                 ShowCouchMark();
                                 $("*").click(function(){
                                     HideCouchMark();
                                 });
                             }
-                        }else{
+                        } else {
                             HideCouchMark();
-                        }
-
-                        function HideCouchMark()
-                        {
-                            $('.coach_marks').hide();
-                            $('#light_box_global').addClass(" lightBoxCoachMarks").hide();
-                        }
-                        function ShowCouchMark()
-                        {
-                            $('.coach_marks').show();
-                            $('#light_box_global').addClass(" lightBoxCoachMarks").show();
-                            $('.emailsignup_wrapper').hide();
                         }
                     }
                  }
+
                  $("#wrapPrimaryNav li[scvalue='Cleaning & Janitorial Deals']").hide();
                  $("#wrapPrimaryNav li[scvalue='Coffee | Water | Snacks | Deals']").hide();
                  $("#wrapPrimaryNav li[scvalue='Furniture Deals']").hide();
@@ -257,8 +256,8 @@
 </head>
 
 <body id="Body" ng-app="Quill" class="pageCookie nonAdaptivePage ">
-    <img class="coach_marks" src="/Images/Quill/Shared/Master/coach_marks.png" style="display:none">
-    <input name="__RequestVerificationToken" type="hidden" value="0m8crO8oVCDk5ALFdt-zsK2wB35PDEMiph0Hx-eSjMsA0giuS01dcGViKga_OFxPh0W5TQpNGimEwKBXukubN19rXxo1">
+    <img class="coach_marks" src="/Images/Master/coach_marks.png" style="display:none">
+    <input name="__RequestVerificationToken" type="hidden" value="hZ6gGClZppXEW_tgPFrSI6mfHtCYKmDoFlmtlIsxeu54gWxLjfQ2z7bC-8kaq-G_DlDwLDQjZlJF7cqqIkFMuB9AaD81">
     <div class="contentloading"></div><span id="PageTypeName" name="Content"></span>
     
 <!--[if lt IE 9]>
@@ -286,6 +285,9 @@
     .ie11Link:hover{color:#0072bc}
     </style>
     <![endif]-->
+
+    
+
         <!--[if lt IE 7]><div class="ie6"><script type="text/javascript">ie6 = true</script><![endif]-->
         <!--[if IE 7]><div class="ie7"><script type="text/javascript">ie7 = true</script><![endif]-->
         <!--[if IE 8]><div class="ie8"><script type="text/javascript">ie8 = true</script><![endif]-->
@@ -483,7 +485,7 @@
     <div class="clear">
         <div class="logSection">
             <span class="manageMyAccountText">Manage my Account </span>
-<form action="https://www.staples.co.uk/Account/Login?returnUrl=/Content/Static/customerservice/legal/policy_privacy.cshtml" autocomplete="off" class="customForm" data-form-valid="True" method="post"><input name="__RequestVerificationToken" type="hidden" value="VH19jL4NfVgDGnjNp5j91WsHopZlavZK4aZ9lG8reqa0ZP3jbErBYJEZ1Gk3t_qChEawBH-8Pyh74L3XUyT2SY7YRx81">                <div class="clear formRow">
+<form action="https://www.staples.co.uk/Account/Login?returnUrl=/Content/Static/customerservice/legal/policy_privacy.cshtml" autocomplete="off" class="customForm" data-form-valid="True" method="post"><input name="__RequestVerificationToken" type="hidden" value="2idi7eM5CJxJslCexFMpB3rLCP0pAYOiHRgr53QPmdGUNUt4yO0X-Zd357Fj3uOO1I3Nu6tqdHaL5OEEVJkTl2bLkF81">                <div class="clear formRow">
                     <div class="LoginWidgetBtn">
                         <input type="submit" value="Login" class="formBtn button js-loginbtn form3 scTrack cta" id="LoginSubmit_hdr" sctype="cta" ctatype="login" locater="flyout" title="Secure Login">
                         <div class="newbtnLock"></div>
@@ -775,13 +777,13 @@
                                                                     <a class="navLink" href="/strapping-mailing-packaging-storage/cbc/1331.html">Strapping</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_2_dept_16" sctype="scNavLink" scnavtype="header" scvalue="Packaging Supplies" scsticky="False" scparentvalue=" Mailing | Packaging | Storage" linktype="">
-                                                                    <a class="navLink" href="/packaging-supplies-mailing-packaging-storage/cbc/1326.html">Packaging Supplies</a>
+                                                                    <a class="navLink" href="/packaging-supplies/cbc/1326.html">Packaging Supplies</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_2_dept_17" sctype="scNavLink" scnavtype="header" scvalue="Tape Dispensers" scsticky="False" scparentvalue=" Mailing | Packaging | Storage" linktype="">
                                                                     <a class="navLink" href="/tape-dispensers-mailing-packaging-storage/cbc/1332.html">Tape Dispensers</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_2_dept_18" sctype="scNavLink" scnavtype="header" scvalue="Postal Tubes" scsticky="False" scparentvalue=" Mailing | Packaging | Storage" linktype="">
-                                                                    <a class="navLink" href="/tubes-mailing-packaging-storage/cbc/1329.html">Postal Tubes</a>
+                                                                    <a class="navLink" href="/postal-tubes/cbc/1329.html">Postal Tubes</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_2_dept_19" sctype="scNavLink" scnavtype="header" scvalue="Wrapping" scsticky="False" scparentvalue=" Mailing | Packaging | Storage" linktype="">
                                                                     <a class="navLink" href="/wrapping-mailing-packaging-storage/cbc/1334.html">Wrapping</a>
@@ -933,7 +935,7 @@
                                                                     <a class="navLink" href="/office-reception-chairs-seating/cbc/297.html">Lobby | Lounge | Reception</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_4_dept_13" sctype="scNavLink" scnavtype="header" scvalue="Lamps" scsticky="False" scparentvalue="Furniture | Chairs | Cabinets" linktype="">
-                                                                    <a class="navLink" href="/floor-and-desk-lamps/cbc/279.html">Lamps</a>
+                                                                    <a class="navLink" href="/lamps/cbc/279.html">Lamps</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_4_dept_14" sctype="scNavLink" scnavtype="header" scvalue="Wall Clocks" scsticky="False" scparentvalue="Furniture | Chairs | Cabinets" linktype="">
                                                                     <a class="navLink" href="/wall-clocks/cbc/599.html">Wall Clocks</a>
@@ -1358,7 +1360,7 @@
                                                                     <a class="navLink" href="/pricing-guns-labels/cbc/450.html">Pricing Guns | Labels</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_11_dept_4" sctype="scNavLink" scnavtype="header" scvalue="Name Badges &amp; Accessories" scsticky="False" scparentvalue="Accounting | Forms | Security | Cash | Banking" linktype="">
-                                                                    <a class="navLink" href="/name-badges-accessories/cbc/399.html">Name Badges &amp; Accessories</a>
+                                                                    <a class="navLink" href="/name-badges-and-accessories/cbc/399.html">Name Badges &amp; Accessories</a>
                                                                 </li>
                                                                 <li class="navItem gridWidth02  scNavlink scTrack" id="L3_Sc_1_cat_11_dept_5" sctype="scNavLink" scnavtype="header" scvalue="Cash Handling | Security Pens" scsticky="False" scparentvalue="Accounting | Forms | Security | Cash | Banking" linktype="">
                                                                     <a class="navLink" href="/cash-handling-security-pens/cbc/87.html">Cash Handling | Security Pens</a>
@@ -2096,7 +2098,7 @@
 
 
 <div class="dvConnectadptive" id="">
-<form action="/Master/EmailSignUp" ajax-url="/Master/EmailSignUp" class="customForm" data-form-valid="True" method="post"><input name="__RequestVerificationToken" type="hidden" value="KglYbxdDboRYHKoV761ngJrZZsoUT7MCiDwOmydxwm_P4zWyTtMmJ9bsM_JemfoKQ2TbH0ZDyWwzjAn9C9O6QPGGldk1">        <div class="sub" style="">
+<form action="/Master/EmailSignUp" ajax-url="/Master/EmailSignUp" class="customForm" data-form-valid="True" method="post"><input name="__RequestVerificationToken" type="hidden" value="tHdHGUeLIvWUuOaZtVM7cmtKsmY6gng85OMbyfe4JNT_TvqC86MWace2k50yr_CIToDz9VKqQGdk3mUGliR5yrnGAs41">        <div class="sub" style="">
 
             <div id="contEmailView" class="dvEmailSignUp">
 
@@ -2179,6 +2181,9 @@
                                                     </li>
                                                     <li class="footmnu">
                                                             <a href="http://www.staplesadvantage.co.uk/home/" class=" scNavlink scTrack" target="_blank" sctype="scNavLink" scnavtype="flyout" scvalue="Corporate Customers " scsticky="True" scparentvalue="About" linktype="footer">Corporate Customers </a>
+                                                    </li>
+                                                    <li class="footmnu">
+                                                            <a href="https://stapleseu.referrals.selectminds.com" class=" scNavlink scTrack" sctype="scNavLink" scnavtype="flyout" scvalue="Staples Careers" scsticky="True" scparentvalue="About" linktype="footer">Staples Careers</a>
                                                     </li>
                                             </ul>
                                     </li>
@@ -2347,7 +2352,7 @@
                         <a class="subFtrHelperLink" href="/Content/Static/customerservice/legal/policy_privacy.cshtml">Privacy Policy</a>
                         <a class="subFtrHelperLink last" href="http://www.staples.co.uk/content/static/international-sites/index.cshtml">See all Staples Solutions Sites in Europe</a>
                         <p class="spacingSmall" style="margin-top: 20px;">
-                            <span>© 2017 STAPLES Inc.</span>
+                            <span>© 2018 STAPLES Inc.</span>
                         </p>
                     </div>
                 </div> 
@@ -2379,7 +2384,7 @@ Staples supplies both businesses and consumers. Prices are available both exclus
        <script type="text/javascript">
            ScriptHelper.OnLoad(function () {
                    
-                   AnalyticsHelper.Initialize({"traffic":{"pagename":"http://www.staples.co.uk/Content/Static/customerservice/legal/policy_privacy.cshtml","take_over":"/Content/Static/W15/00/000/W15_00_000_00UK.png","vat":false,"curr":"GBP"},"global":{"visitor":{"language":"en-GB","vis_status":"Anonymous","dcn":"9C_pb0eo9cT5zTEYhcIgEw","type":"Personal","spcl_pricing":false,"site_id":"0","individual_id":"0","vertical":"0","pgm_res":"default","group":"none","newCustomer":"1","customerID":"D41D8CD98F00B204E9800998ECF8427E","ordr_grp_id":"51124cf8-e2ce-448e-bdae-610393a648d9","custrec":"99"},"visit":{"appserverid":"14","jsessionid":"ggw1gdyeii3hggo2hcz0rnca","ip":"34.207.98.73","ip_recog":false,"environment":"production","device":"Desktop"},"testing":{}},"tracking":{"version":"1.0.3"}});
+                   AnalyticsHelper.Initialize({"traffic":{"pagename":"http://www.staples.co.uk/Content/Static/customerservice/legal/policy_privacy.cshtml","take_over":"/Content/Static/W15/00/000/W15_00_000_00UK.png","vat":false,"curr":"GBP"},"global":{"visitor":{"language":"en-GB","vis_status":"Anonymous","dcn":"6mZrpkQlDZVpGlL6AQnpEA","type":"Personal","spcl_pricing":false,"site_id":"0","individual_id":"0","vertical":"0","pgm_res":"default","group":"none","newCustomer":"1","customerID":"D41D8CD98F00B204E9800998ECF8427E","ordr_grp_id":"a9adab76-5b69-41ac-be9d-184020726b55","custrec":"99"},"visit":{"appserverid":"16","jsessionid":"nlvzaovidbmtgkgpsvfho5bt","ip":"34.207.98.73","ip_recog":false,"environment":"production","device":"Desktop"},"testing":{}},"tracking":{"version":"1.0.3"}});
                     $(document).trigger(AnalyticsEvents.AnalyticsLoaded);
                     
                });
@@ -2392,7 +2397,7 @@ Staples supplies both businesses and consumers. Prices are available both exclus
 
                         <script type="text/javascript">
 
-                            HierarchyNavVersion = "NStaplesUKenFTF171010200118";
+                            HierarchyNavVersion = "NStaplesUKenFTF180102113958";
                             for(var key in $.fn)
                             {
                                 if (!q$.fn[key]) {
