@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhealthdaily.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120022417id_/http%3A//mentalhealthdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhealthdaily.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120050827id_/https%3A//mentalhealthdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ### Contact Information
 
-Concerns or questions about this privacy policy can be directed to mentalhealthdaily@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for further clarification.
