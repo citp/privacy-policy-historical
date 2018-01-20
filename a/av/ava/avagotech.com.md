@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avagotech.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902195341id_/https%3A//www.broadcom.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avagotech.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120143951id_/https%3A//www.broadcom.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Cookies and your Privacy
 
