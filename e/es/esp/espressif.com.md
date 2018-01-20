@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the espressif.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130174632id_/http%3A//espressif.com/en/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espressif.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120193902id_/https%3A//www.espressif.com/en/content/privacy) for the most accurate reproduction.*
 
 # PRIVACY | Espressif Systems
 
