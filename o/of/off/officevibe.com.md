@@ -1,85 +1,91 @@
-> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2017-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170513160002id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officevibe.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121005632id_/https%3A//www.officevibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## Legal
+Officevibe Inc. (“ **Officevibe** ”) offers tools and platform commercialised as “Officevibe” which provide the means to measure and increase employee commitment by giving them a voice within their organization. Officevibe understands the importance of protecting personal information. For this reason, Officevibe strives to have business procedures and security safeguards in place to protect personal information under its control.
 
-This statement describes our privacy policy. Officevibe.com reserves the right to revise this policy at any time without notification to you, so please re-read it often in connection with your use of the Officevibe.com website.
+ **Application and Scope**
 
-## Our Promises to You
+This Privacy Policy ( **“Policy** ”) is intended to establish responsible and transparent practices for the management of personal information and to satisfy the relevant and applicable legal requirements. This Policy sets out the standards, responsibilities and obligations of Officevibe in respect of any personal information collected, accessed or processed by Officevibe in the course of its business operations and specifies the obligations of Officevibe that arise from Officevibe Terms of Service (available at <https://www.officevibe.com/terms>) (the “ **Terms** ”) entered into between Officevibe and its corporate customers (each, a “ **Customer** ”), whereby Officevibe might handle or have access to personal information.
 
-Thank you for visiting Officevibe. We know that you care how information about you is used and shared, and we appreciate your trust. Spam e-mail is the bane of the internet and we won't have anything to do with it.
+This Policy also governs personal information collected about Officevibe’s website users and explains how Officevibe uses and discloses personal information collected from people who visit its website and otherwise interact with Officevibe through https://www.officevibe.com and its sister websites provided by Officevibe (for example, [https://help.officevibe.com](https://help.officevibe.com/)) (collectively, the “ **website** ”). It also explains how Officevibe uses cookies and similar technologies.
 
-  * We promise that we will never share your e-mail address or other identifiable information with any third party company (no external spam).
-  * We promise that you will never receive spam from Officevibe.
-  * We promise to protect your information through the use of secure databases.
+ **International Compliance**
+
+Officevibe complies with: (i) data protection laws applicable to Officevibe; and (ii) applicable industry standards concerning data protection, confidentiality or information security. Officevibe has global operations and therefore, in some cases, information managed by Officevibe may be transferred, processed and stored to other countries, although at all times, Officevibe will ensure that personal information is protected by confidentiality and security procedures and protections that are, at a minimum, equivalent to those employed by Officevibe itself.
+
+Officevibe complies with this Policy as well as applicable Canadian private sector data protection laws such as the Personal Information Protection and Electronic Documents Act (“PIPEDA”) and substantially similar provincial laws pertaining to the collection, use and disclosure of personal information. PIPEDA provides for an adequate protection of personal information according to the European Commission Decision of 20 December 2001 pursuant to Directive 95/46/EC of the European Parliament and the Council.
+
+ **Definition of Personal Information**
+
+Personal information is defined as “any information about an identifiable individual”. This may include, for example, email addresses and contact details and any similar information provided to Officevibe in the course of its business operations, or which Officevibe may receive from business inquiries. Personal information that is aggregated and cannot be associated with an identifiable individual is not considered to be personal information.
+
+ **Collection and Use of Personal Information through the Services**
+
+When providing services, Officevibe only processes personal information in accordance with the Terms and applicable laws. Officevibe generally uses personal information from or about its Customers and Users (as defined in the Terms), (hereinafter referred to as “ **Customer’s Personal Information** ”) for the following purposes:
+
+  * to create, establish and administer Customer’s account, to respond to Customer’s inquiries related to its account and to contact Customer about Officevibe’s services or account-related matters;
+  * to provide services, including to provide Customer and its Users with access and use of the Officevibe platform and customer support;
+  * to measure and analyze User behavior in order to, among others, monitor, maintain and improve Officevibe’s services or features and to create new services or features;
+  * to personalise or customise the experience when using the services;
+  * to meet legal and regulatory requirements and to allow Officevibe to meet contractual requirements relating to the services provided to Customer;
+  * to conduct surveys on the quality of Officevibe’s services or to collect feedbacks on the services; and
+  * to provide Customer with offers for additional products and services that Officevibe believes may be of interest to Customer.
 
 
 
-## Personally Identifiable Information
+Officevibe may also use information provided by Customers and Users to create de-identified data aggregated for benchmarking or marketing purposes.
 
-We collect the personally identifiable information that you submit on the registration and user profile forms to permit you access to our site and to enable credit card verification, where applicable. Please note that any optional information you fill out might be visible to other users on the site (i.e. your biography, or location in the world). If you do not feel comfortable with others knowing this information, then leave it blank.
+Unless required or authorized by law, Officevibe will not use Customer’s Personal Information for any other or new purpose without obtaining prior consent.
 
-Generally, the information Officevibe collects helps us to communicate with you regarding media licensed from or to you. For instance, we use your email address to provide you with an email confirmation of your registration and to notify you of information concerning your media on our site. In addition, users on the site will be able to communicate with you via a confidential form on the site, but they will not know your e-mail address or other personal identification information aside from your username (and therefore will not be able to add you to spam lists, etc). We will not share, rent or sell your personally-identifiable information with any entity, subject to the provisions below. We may share your information with our vendors in connection with system maintenance and other services that these individuals or entities perform for us. In some cases, we may run a joint marketing effort with third parties.
+ **Collection and Use of Personal Information through the Website**
 
-We will only release personal information without your authorization in the following situations:
+Officevibe generally collects and uses personal information from or about its website users as follows:
 
-  * To the authorities when necessary to comply with the law (i.e. answering subpoenas).
-  * To enforce or to apply our Terms of Use and other agreements (including our Member Agreement).
-  * To protect the rights, property, or safety of Officevibe.com, our users or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  *  **Information provided by users.** In many cases, Officevibe collects personal information directly from users when they visit or use the website. For instance, Officevibe may collect the following types of information:
+    *  **Inquiries and Requests for a Trial or Service.** Officevibe may collect users’ name, contact information, e-mail address and any other information provided when users make an inquiry or contact Officevibe through the website, when users sign up to receive Officevibe’s newsletter or when users submit a request or an order for an Officevibe trial or service. Officevibe will only use this information to process and answer users’ request or to manage Officevibe everyday business needs in connection with such request.
+    *  **Personalization of Website.** When users visit the website, they may, from time to time, be invited to provide information such as user’s title to help Officevibe personalise or customise the users experience when using the website.
+  *  **Technical information.** When users visit the website, Officevibe may collect, using electronic means such as cookies, technical information. This information may include information about visits to the website, including the IP address of the users’ computer and which browser was used to view the website, the users’ operating system, resolution of screen, location, language settings in browsers, the site the user came from, keywords searched (if arriving from a search engine), the number of page views, information entered, advertisements seen, etc. This data is used to measure and improve the effectiveness of the website or enhance the experience for users. While most of the time this information is depersonalized, if this information relates to an identifiable individual, Officevibe will treat this information as personal information. Officevibe may also, without limitations, collect and use the following type of information when users visit and/or interact with Officevibe on the website:
+    *  **Google Analytics** : Officevibe uses Google Analytics which allows it to see information on user website activities including, but not limited to, page views, source and time spent on our website. This information is depersonalized and is displayed as numbers, meaning that it cannot be tracked back to individuals. Users may opt-out of Officevibe’s use of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+    *  **HubSpot** : Officevibe uses HubSpot which allows it to see information on user website activities including, but not limited to, page views, source and time spent on our website. However, this information is not depersonalized and users may not opt-out of Officevibe’s use of HubSpot.
+    *  **Google AdWords** : Officevibe uses Google AdWords Remarketing to advertise Officevibe across the Internet and to advertise on third party websites (including Google) to previous visitors to the website. AdWords remarketing will display ads to users based on what parts of the Officevibe website they have viewed by placing a cookie on the users’ web browser. It could mean that Officevibe advertises to previous visitors who haven’t completed a task on the site or this could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. This cookie does not in any way identify the user or give access to the users’ computer or mobile device. The cookie is only used to indicate to other websites that the user has visited a particular page on the website, so that they may show the user ads relating to that page. If users do not wish to participate in Google AdWords Remarketing, they can opt out by visiting [Google’s Ads Preferences Manager](https://www.google.com/settings/u/0/ads/authenticated?hl=en-GB).
+    *  **Interest-based Advertising.** Officevibe may also allow a limited number of trusted third parties to install cookies on users’ hard drive from the website. The website may include third-party advertising and links to other websites which may be used to generate personalized advertisements. Personalized ads, sometimes referred to as interest-based or behavioral ads, are ads based upon information about users, such as page views on the website, information requests or purchases on the website. Officevibe does not provide any personal information to advertisers or to third party sites that display interest-based ads on the website. However, advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content displayed on the website are part of the group that the ad or content is directed towards. Advertisers or ad companies working on their behalf sometimes use technology to serve the ads that appear on the website directly to users’ browser. They may also use cookies to measure the effectiveness of their ads and to personalize ad content. Officevibe does not have access to or control over cookies or other features that advertisers and third party sites may use, and the information practices of these advertisers and third party websites are not covered by this Policy. Please contact them directly for more information about their privacy practices. Users can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Digital Advertising Alliance of Canada. Please visit the [DAAC opt-out page](http://youradchoices.ca/choices/) for more information.
+  *  **Choice with Cookies.** Users can block the use of cookies by activating the settings in their browser. The “Help” feature on most browsers will tell users how to prevent their browser from accepting new cookies, how to have the browser notify the users when they receive a new cookie, or how to disable cookies altogether. If users choose to withhold consent, or subsequently block cookies, they may not be able to access all or part of the content of the website. Additionally, users can disable or delete similar data used by browser add-ons, by changing the add-on’s settings or visiting the website of its manufacturer.
+  *  **Privacy Policies of other Websites.** This Policy only addresses the use and disclosure of information by Officevibe. Other websites that may be accessible through the website have their own privacy policies and data collection, use and disclosure practices.
+  *  **Personal Information from other Sources.** Officevibe may obtain from third parties additional personal information about a website user if such user gave permission to those third parties to share its information.
 
 
 
-## Newsletter
+ **Sharing of Personal Information**
 
-You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to "opt out" if you don't wish to receive further information of the sort indicated. If you have previously consented to have Officevibe send you its newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe.
+Officevibe will not sell, rent or trade personal information to any third party. However, Officevibe may share personal information when authorized and/or required by law or as follows:
 
-## Username and Password Recommendations
+  *  **Service providers.** Officevibe may grant access to personal information to _third party_ service providers in connection with the performance or the improvement of its website and services. Before sharing any personal information with any of its third party service providers, Officevibe will ensure that the third party maintains reasonable data management practices for maintaining the confidentiality and security of personal information and preventing unauthorized access.
+  *  **As permitted or required by law.** Officevibe may disclose personal information as required by applicable law or by proper legal or governmental authority. Officevibe may also disclose information to its accountants, auditors, agents and lawyers in connection with the enforcement or protection of its legal rights. Officevibe may also release certain personal information when it has reasonable grounds to believe that such release is reasonably necessary to protect the rights, property and safety of others and itself, in accordance with or as authorized by law. In the event Officevibe receives a governmental or other regulatory request for any Customer’s Personal Information, it agrees to immediately notify Customer in order that Customer shall have the option to defend such action. Officevibe shall reasonably cooperate with Customer in such defense.
+  *  **Business transaction.** Officevibe may disclose personal information to a third party in connection with a sale or transfer of business or assets, an amalgamation, re-organization or financing of parts of our business. However, in the event the transaction is completed, personal information will remain protected by applicable data protection laws. In the event the transaction is not completed, Officevibe will require the other party not to use or disclose the personal information received in any manner whatsoever and to delete such information.
 
-As we live in a world where digital theft is increasingly rampant, we must advise you to choose a password that is not easily guessed by others. Please make sure that your password is 6 or more characters and is composed of both letters and numbers. In addition, it is recommended that you use a separate password for every website to which you are a member. This is a form of damage control, in case the security of one website is compromised, your other accounts are still protected. Should you forget your Officevibe.com password, it will be emailed to you or reset at your request.
 
-## Use of Automatic Information and Cookies
 
-In addition to being delicious treats baked fresh by our grandmas, cookies are also alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features that recognize your account as logged on and other site features. Further, to help us tailor our site to the needs and interests of our visitors, or for other purposes, we may gather aggregate, non-personally identifiable information via cookies. Examples include the type of Internet browser our visitors are using, the frequency of visits to our site and which pages our visitors viewed. We may share these aggregate statistics with others. The use of cookies is standard on the Internet and many major web sites use them. Cookies stored on your computer that are designated for Officevibe.com use, can not be retrieved by other websites. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser, separate from the one placed by Officevibe.com. We do not have any control or knowledge on the contents or purposes of these cookies.
+ **Security of Personal Information**
 
-## Minors on Officevibe
+  * Officevibe will store and process the personal information in a manner consistent with industry security standards. Officevibe has implemented technical, organizational and administrative systems, policies, and procedures to help ensure the security, integrity and confidentiality of personal information and to mitigate the risk of unauthorized access to or use of personal information, including (i) appropriate administrative, technical and physical safeguards and other security measures designed to ensure the security and confidentiality of the personal information it manages; (ii) a security design intended to prevent any compromise of its own information systems, computer networks or data files by unauthorized users, viruses or malicious computer programs; (iii) appropriate internal practices including, but not limited to, encryption of data in transit; using appropriate firewall and antivirus software; maintaining these countermeasures, operating systems and other applications with up-to-date virus definitions and security patches so as to avoid any adverse impact to the personal information that it manages; appropriate logging and alerts to monitor access controls and to assure data integrity and confidentiality; permitting only authorized users access to systems and applications; and (iv) all persons with authorized access to personal information must have a genuine business need-to-know prior to access (“ **Security Program** ”).
 
-Children below fifteen years of age should not use our website, nor do we have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please [contact us](https://www.officevibe.com/support) and we will remove the information.
 
-## Updating or Deleting Your Information
 
-You can change or delete any optional information in your account settings. Any required information (with the exception of your username), will be completely hidden from the public, or an option to hide it from the public will be made available.
+ **Training and Supervision**
 
-## Security
+Officevibe maintains adequate training programs to ensure that its employees and any others acting on its behalf are aware of and adhere to its Security Program. Officevibe shall exercise necessary and appropriate supervision over its relevant employees to maintain appropriate confidentiality and security of the personal information it manages.
 
-We understand that many consumers are concerned about security on the Internet. The security of the information that you provide to us is also very important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. Our payment systems vendor uses Secure Sockets Layer (SSL), an advanced encryption protocol, to scramble credit card information that you enter so that it cannot be read as it is transmitted across the Internet. SSL is the recognized industry standard worldwide for such sensitive transactions, enhancing safety when you shop with a credit card on the web. It is important for you to protect against unauthorized access to your password and to your computer.
+ **Data Incidents involving Customer’s Personal Information**
 
-When using a shared computer, be sure to sign off and do not opt to stay logged in to Officevibe.com. Should you realize that you accidentally allowed a third party to access your account, you must let us know immediately, as you may be held liable for their actions in your name. [Contact us here](https://www.officevibe.com/support).
+Officevibe shall immediately notify Customer of any reasonably suspected or actual loss of data or breach or compromise of its Security Program which has or may result in the loss or unauthorized access, disclosure, use or acquisition of Customer’s Personal Information (including hard copy records) or otherwise presents a potential threat to such information (“Data Incident”). While the initial notice may be in summary form, a comprehensive written notice shall be given within 48 hours to Customer. The notice shall summarize in reasonable detail the nature and scope of the Data Incident (including each data element type) and the corrective action already taken or to be taken by Officevibe. Officevibe shall promptly take all necessary and advisable corrective actions, and shall cooperate fully with Customer in all reasonable efforts to mitigate the adverse effects of **Data Incident** and to prevent its recurrence.
 
-In the event that our security system is breached, we will attempt to notify you as soon as possible.
+ **How to Contact Us**
 
-## Links, Hosted Sites & Advertisers
+Any questions or complaints regarding this Policy or Officevibe handling of personal information can be addressed by sending an email to: [legal@officevibe.com](mailto:legal@officevibe.com).
 
-We do not have any control over the privacy practices of any external websites linked from the main www.Officevibe.com domain (or any of the websites that are hosted on our server and aren't affiliated with Officevibe). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices.
+ **Change of Privacy Policy**
 
-Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. Officevibe has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements.
+Officevibe will review and update its policies and procedures as required to keep current with rules and regulations, new technologies, standards and customer concerns. This Policy may therefore change from time to time.
 
-#### Use of Yammer:
-
-If a company’s Officevibe network is integrated with the “Yammer” social-enterprise network platform (for either Facegame or Officevibe Platform), Yammer’s API will be used in order to post within the company’s Yammer network, add/integrate users within Officevibe, and will appear on the Yammer activity feed. If you have any specific requests with the use of Yammer’s API for the use of Facegame or the Officevibe Platform, please contact Yammer at the link provided: <https://about.yammer.com/success/activate/need-help/>
-
-For more information on Yammer’s API limitations, read the literature on their dev site: <https://developer.yammer.com/docs>
-
-#### Use of Slack:
-
-Leo the Culturebot is a third party Slack integration. It is not created by, affiliated with, or supported by Slack Technologies, Inc.
-
-Because Slack is simply a front-end interface for Officevibe, there is no additional information collected by using this integration.
-
-#### Use of Hubspot Services:
-
-We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Hubspot, Inc. (“Hubspot”) and utilize Hubspot to collect data for analytics purposes when you visit our website or use our product. Hubspot analyzes your use of our website and/or product and tracks our relationship so that we can improve our service to you. We may also use Hubspot as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Hubspot collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Hubspot, please visit <http://legal.hubspot.com/privacy-policy>. Hubspot’s services are governed by Hubspot’s terms of use which can be found at <http://legal.hubspot.com/terms-of-service>. If you would like to opt out of having this information collected by or submitted to Hubspot, please [contact us](https://www.officevibe.com/support).
-
-## Questions?
-
-If you have any questions regarding this Privacy Statement, the practices of Officevibe.com, or your dealings on our web site, please [contact us](https://www.officevibe.com/support).
+This Policy was last updated on July 5th, 2017.
