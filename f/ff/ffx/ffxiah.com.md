@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120143724id_/http%3A//www.ffxiah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120221805id_/https%3A//www.ffxiah.com/privacy) for the most accurate reproduction.*
 
 # FFXIAH.com
 
