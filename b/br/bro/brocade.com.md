@@ -1,120 +1,208 @@
-> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209221827id_/http%3A//www.brocade.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2018-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180120143951id_/https%3A//www.broadcom.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Brocade Legal - Privacy Policy
+# Cookies and your Privacy
 
-Brocade Communications Systems LLC (“Brocade”) values your privacy.  This Privacy Statement (“Statement”) describes how we collect, use, and disclose personal information that we obtain about those who visit our website [www.brocade.com](http://www.brocade.com/) (the “Site”) and utilize the services available through our Site (collectively, the “Services”).   It does not apply to personal information Brocade obtains in its capacity as an employer.
+This statement was last revised on December 3, 2016.
 
-Your use of our Site or Services is subject to this Statement and our Website Use Terms and Conditions <http://www.brocade.com/en/legal/website-use-terms.html#website>. ****
+Broadcom provides this Privacy Statement to make you aware of our privacy practices and the choices you can make about how your personal information is collected and used, both on-line and off-line. To make this notice easy to access, it is available on the bottom of every Broadcom web page.
 
-**What Information Do We Collect About You and Why?**
+Customers are Broadcom most valuable asset. We recognize that building a long-term business relationship with you depends a great deal on trust. This trust begins with our commitment to respecting as well as protecting your privacy.
 
-We may collect information about you directly from you and from third parties, as well as automatically through your use of our Site or Services.
+We've structured our web site so that you can visit us without identifying yourself or revealing any personal information. Throughout this Privacy Statement, personal information refers to any information that is unique to an individual, such as name, address, e-mail address, phone number, etc. If you do share your personal information with us, you can be assured that it will only be used to support your relationship with Broadcom.
 
-**_Information We Collect Directly From You._** Certain areas and features of our Site and Services require registration.  To register you may be required to provide your name, company, title, e-mail address, phone number, and a password you select as well as other information that Brocade may require from time to time.  We also may collect additional information from you if, for instance, you create an account with us or one of our resellers, participate in contests or surveys, or submit a job application.
+Broadcom privacy statement covers 10 main areas which are listed below and described in details follows. Please keep in mind that our privacy practices may vary as required by local laws and policies.
 
-**_Information We Collect Automatically._**  We may automatically collect the following information about your use of our Site or Services through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and/or use our Services; and the URL or the webpage that led you to our Site.  We may combine this information with other information that we have collected about you such as your user name.  Please see the section “Cookies and Other Tracking Mechanisms” below for more information.
+#### CONTENT
 
-**How Do We Use Your Information?**
-
-We use the information collected about you for the following purposes:
-
-  * to provide our Services to you
-  * to provide customer service
-  * to customize  the content and information that we may send or display to you to administer the careers portion of the Site and process your application
-  * for marketing and promotional purposes
-  * to assist us in advertising our Services on third party websites
-  * to better understand how users access and use our Site and Services and for other research and analytical purposes
-  * to administer other programs that may be offered to customers and end users of our products and Services
-  * to comply with legal requirements
+  1. Notice
+  2. Choice
+  3. Onward Transfer
+  4. Access and Accuracy
+  5. Security
+  6. Oversight/Enforcement
+  7. Tailoring E-Mail Communications and Web Experiences
+  8. How Broadcom Uses Cookies
+  9. Additional Information
+  10. Customer Satisfaction Studies & Market Research Activities
 
 
 
-**With Whom Do We Share Your Information and Why?**
+### 1\. NOTICE
 
-We may share the information collected about you as follows:
+#### What information we collect
 
-**_Brocade Users._** Your user name and any information that you post to our Site, including, without limitation, reviews, comments, and text will be available to, and searchable by, all registered users.
+During the course of your relationship with us, we may collect personal information to enable you to order products or services, download software updates, make requests, and register for customized communications programs. We may collect such personal information as your name, contact and billing information, transaction and credit card information. To tailor our subsequent communications to you and improve our products and services, we may ask you to provide information regarding your personal or professional interests, demographics, experience with our products and contact preferences. Personal information may be required to determine access eligibility for certain restricted parts of our site. Data collected on-line may be combined with information provided off-line.
 
-**_Affiliates or Subsidiaries._** Information we collect from you may be shared with our affiliates or subsidiaries.
+#### How we use the information
 
-**_Unaffiliated Third Parties._** Certain information about you may be shared with select resellers and/or distributors, particularly if you or your company have purchased through a third party before.
+Broadcom uses your personal information to better understand your needs and provide you with better service. Specifically, we use your personal information to help you complete a transaction, to communicate back to you, provide updates on service and benefits, and to personalize our web sites and communications with you. Credit card numbers are used only for payment processing and are not retained for other purposes. From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. We will always give you the opportunity to opt-out of receiving such contact. If you would like to read more about how to opt-out, please follow the directions given below in the "Choice" section of this document. In addition, we will also follow local requirements where applicable.
 
-**_Service Providers._** Information we collect from you may be disclosed to third party vendors, service providers, contractors or agents who perform functions on our behalf.
+#### Whom we share the information with
 
-**_Business Transfers.   _**Information we have collected from you may be transferred to another company as part of a merger or acquisition by that company.
+Broadcom does not sell, rent, or lease your personal information to others. Unless we have your permission or are required by law, we only share your personal information with other Broadcom entities or business partners who are acting on our behalf for the uses described above. Such Broadcom entities and business partners are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
 
-**_In Response to Legal Process.   _**Information we collect from you may be disclosed in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena.
+### 2\. CHOICE
 
-**_To Protect Us and Others.   _**Information we collect from you may be disclosed where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, or violations of our Terms of Use or this Statement.
+Broadcom will not use or share your personal information in ways unrelated to the ones described above without first notifying you and offering a choice. We will also provide you the opportunity to let us know if you wish to opt-out at any time of certain or all contact from Broadcom, and we will do everything we can to honor such requests. This choice may be offered at the bottom of our on-line or off-line communications to you as well as on many of our web registration pages. If you have any difficulty exercising your choices, please send your request to [spgweb.response@broadcom.com](http://spgweb.response@broadcom.com/).
 
-**_Aggregate and De-Identified Information.   _**Aggregate or de-identified information about users may be shared with third parties for marketing, advertising, research or similar purposes.
+Your permission will always be secured first, should we ever decide to share your personal information with third parties that are not acting on our behalf and governed by our privacy policy.
 
-**How Do We Use Cookies and Other Tracking Mechanisms?**
+### 3\. ONWARD TRANSFER
 
-We and our third party service providers use cookies and other tracking mechanisms to track user preferences and to maximize the performance of our Site and Services.  We, or third parties on our behalf, may combine this information with other personal information we collect from you.
+Subject to your permission or as permitted by law, the personal information that you provide to us may be transferred within Broadcom across state or country borders. This may be done to consolidate data storage or to simplify the management of customer information.
 
-Currently, our systems do not recognize browser “do-not-track” requests.  You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt-out of targeted advertising by following the instructions in the Third Party Ad Network section.
+### 4\. ACCESS AND ACCURACY
 
-**_Cookies._** Cookies are alphanumeric identifiers that are transferred to your computer’s hard drive through your web browsers for record-keeping purposes.  Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service. There are two types of cookies: session and persistent cookies.
+Broadcom strives to keep your personal information accurate. We will provide you with access to your personal information, including making every effort to provide you with online access to your registration data so that you may review, update or correct your information at the Broadcom site where it was submitted. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections. To access your personal information, return to the web page where you originally entered it and follow the instructions on that web page. If you cannot access your information on the web page, please telephone the nearest Broadcom Call Center for assistance, or send your request to [spgweb.response@broadcom.com](http://spgweb.response@broadcom.com/).
 
-**_Session Cookies._** Session cookies exist only during an online session.  They disappear from your computer when you close your browser or turn off your computer.  We use session cookies to allow our systems to uniquely identify you during a session or while you logged into the Site.  This allows us to process your online transactions and requests and verify your identity, after you have logged in, as you move through our Site.
+### 5\. SECURITY
 
-**_Persistent Cookies._**   Persistent cookies remain on your computer after you have closed your browser or turned off your computer.  We use persistent cookies to track aggregate and statistical information about user activity.
+Broadcom is committed to ensuring the security of your personal information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of personal information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure it.
 
-**_Disabling Cookies._**   Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future.  The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.  Visitors to our Site who disable cookies will be able to browser certain areas of the Site, but some features may not function.
+### 6\. OVERSIGHT/ENFORCEMENT
 
-**_Clear GIFs, pixel tags and other technologies._**   Clear GIFS are tiny graphics with a unique identifier, similar in function to cookies.  In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded invisibly on web pages.  We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We and our third party service providers also use clear GIFs in e-mails to our customers, to help us measure e-mail response rates, identify when our e-mails are viewed, and determine whether our e-mails are forwarded.
+Broadcom has an internal Global Customer Privacy Program. Its charter is to ensure appropriate privacy processes are in place in order to meet the practices outlined above.
 
-**_Third Party Analytics._   **We use third party automated devices and applications to evaluate usage of our Site. We also may use other analytic means to help us improve our Services, performance, and user experiences.  These applications may use cookies and other tracking technologies to perform their services.  We do not share your personal information except on an aggregated basis with these third parties.
+### 7\. TAILORING E-MAIL COMMUNICATIONS AND WEB EXPERIENCES
 
-**How Do We Use Third-Party Ad Networks?**
+On occasion Broadcom may employ technologies that enable us to review which recipients have opened our e-mail communications and which links they have accessed in the message. This helps us to tailor our communications in our attempts to send you the most relevant information, as local laws and your preferences and permissions allow. As a registered user, we may also monitor your web browsing session while you are logged-in to broadcom.com. In this way we will try to improve our web site through personalization to better meet your needs. Any such monitoring is done in accordance with local laws.
 
-We use third parties such as network advertisers to display advertisements on our Sites, to assist us in displaying advertisements on third party websites, and to evaluate the success of our advertising campaigns.  This enables us and these third parties to deliver ads for products and services in which you might be interested.  Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies to measure the effectiveness of their ads and to personalize advertising content to you.  We may provide these third-party advertisers with information about your usage of our Site and our services, as well as aggregate or non-personally identifiable information about visitors to our Site and users of our service. These third party cookies and other technologies are governed by each third party’s specific privacy policy.
+### 8\. HOW BROADCOM USES COOKIES
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative (“NAI”) and the Digital Advertising Alliance (“DAA”).
+This cookies information section was last revised on September 5, 2013. It is a subset of the entire Broadcom Privacy Policy.
 
-Opting out of one or more NAI member or DAA member networks (many of which will be the same) means that those members no longer will deliver targeted content or ads to you.  You may continue to receive advertisements, for example, based on the particular website that you are viewing.  Also, if your browsers are configured to reject cookies when you change web browsers, your NAI or DAA opt-out may no longer be effective.  For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: <http://www.networkadvertising.org/choices/> (NAI) and <http://www.aboutads.info/choices/> (DAA).
+Broadcom uses cookies to help analyze web traffic, improve your overall web site experience and randomly assign visitors to specific servers to balance traffic loads. By gathering and remembering information with cookies, the web site can:
 
-**What About Information You Post?**
+Tailor its operation to your needs, likes and dislikes
 
-You may be able to post content on our Site once you have created a user account, including your comments, pictures, and any other information that you would like to be available on our Site.  Please note that if you post your own content on our Site or Services, your posting may become public in which case it is no longer governed by Brocade’s Privacy Statement.
+Enable automated log-in as a convenience for previously registered customers.
 
-**What About Links to Other Websites?**
+Prevent multiple survey requests during your visit(s) to our web sites.
 
-Our Site and Services may contain links to third-party websites.  Any access to and use of such linked websites is not governed by this Statement, but instead is governed by the privacy statements/policies of those third-party websites.  We recommend that you check the privacy statements/policies of other sites you visit before providing any personal information.
+Provide a better, more relevant web experience by letting us monitor what's working and what isn't through web site traffic analysis.
 
-**How Do We Secure Your Personal Information?**
+We want you to know that accepting a cookie in no way gives us access to your computer or any personal information about you, other than the data you choose to share with us.
 
-We have implemented administrative, technical, and physical precautions to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction and to help ensure it is used according to this Statement.  Where personal data is processed by Service Providers on behalf of Brocade, we take steps to require those vendors to also comply with applicable data protection laws.
+#### What are Cookies
 
-**How Can You Access Your Personal Information?**
+A cookie is a piece of information either stored temporarily in your browser's memory space (session cookie) or placed on your computer's hard drive (stored cookie). Cookies allow a web application to respond to you as an individual, without the need to identify you explicitly.
 
-You may modify personal information that you have submitted by logging into your account and updating your profile information.  Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time.  In addition, EU (and other) residents may ask Brocade or any of its Service Providers to remove their personal information that is no longer necessary to perform requested services by sending a request to [privacy@brocade.com](mailto:privacy@brocade.com).
+Session cookies disappear when you close your web browser.
 
-**What Choices Do You Have Regarding Use of Your Personal Information?**
+Stored cookies tyically have a predetermined expiration date after which they disappear from your hard drive.
 
-We may send periodically contact you via e-mail or telephone with promotional or other information.  You may opt-out of such communications by following the opt-out instructions contained in the e-mail or by clicking on this [unsubscribe](http://info.brocade.com/UnsubscribePage.html) link.  Please note that it may take up to 10 business days for us to process opt-out requests.  If you opt-out of receiving recommendations or other information we think may interest you, we may still contact you about your account or any Services you have requested or received from us.  
+To learn more about cookies, please visit [AboutCookies.org](http://aboutcookies.org/); a guide designed to help you control and delete cookies.
 
-**What About Children?**
+#### Cookies Used on Broadcom's Web Sites
 
-Our Site and Services are not designed for and do not knowingly collect and information from children under the age of 13.  If we discover that a child under the age of 13 has provided us with personal information, we will delete such information from our systems.
+We have categorized our cookie use below. Note that some cookies are set by third parties which Broadcom does not control, so we can't ensure their cookies won't change over time.
 
-**What About California Consumers and non-US Visitors?**
+  * Web Site Login: To provide acurate data, we identify users accessing myBroadcom, the login required area of broadcom.com.
+  * Web Site Content: We use services from a number of companies to provide the most relevant and appropriate content for our visitors. Most of these services are used in specific areas of the site, meaning their cookies are set only when that content area is visited.
+  * Social Networks: We utilize a number of social network services to enhance the sharing of our content.
+  * Web Site Traffic Analysis: We can provide a more relevant web experience by monitoring what's working and what isn't through web site traffic analysis.
 
-California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes.  You may make one request per calendar year.  In your request, please attest to the fact that you are a California resident and provide a current California address for your response.  You may request this information in writing by contacting us at: [privacy@brocade.com](mailto:privacy@brocade.com).  Please allow up to thirty (30) days for a response.
 
-If you reside outside the United States you should know that information collected under this Statement is hosted in the US and may be transmitted to other jurisdictions that provide a different level of privacy protection than your country.  Also, information may be shared with Service Providers as appropriate to perform services.
 
-**How Are Transfers of Data Performed?**
+#### Adjusting Browser Cookie Settings
 
-Brocade has adopted globally recognized privacy principles and only collects and/or shares that personal information which is necessary to conduct its business and perform requested services. Brocade and its controlled subsidiaries and affiliates in the United States and Service Providers comply with applicable legal requirements providing for adequate protection in the transfer of personal data to countries outside of the EEA and Switzerland.
+Cookies can be managed through functionality built into most web browsers (e.g. Microsoft Internet Explorer, Firefox, Chrome). They can be adjusted to notify you of cookie placement requests, ask for permission to accept them, or decline cookies completely. For information on how to adjust your web browser cookie settings, please visit:
 
-**How Can You Contact Us?**
+  * [Microsoft Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Firefox](http://support.mozilla.org/en-US/kb/Cookies)
+  * [Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies)
 
-If you have questions or concerns about our Privacy Statement or the privacy practices of our Site or Services, please contact us at [privacy@brocade.com](mailto:privacy@brocade.com).
 
-**What About Changes to this Privacy Statement?**
 
-This Privacy Statement is current as of the Effective Date set forth above.  We may change this Statement from time to time, so please be sure to check back periodically.  We will post any changes to this Statement on our site, at [www.brocade.com](http://www.brocade.com/).  If we make any changes to this Statement that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site, or by sending you an e-mail message to the e-mail address you have provided.
+#### Cookie/Web Site Questions
 
-*The terms were last revised November, 2016
+### 9\. ADDITIONAL INFORMATION
+
+#### Links to Third Party Web Sites
+
+Links to third party web sites are provided solely as a convenience to you. If you use these links, you will leave the Broadcom site. Broadcom has not reviewed all of these third party sites; does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, we do not endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third party sites linked to this site, you do so entirely at your own risk.
+
+#### Changes to the Privacy Statement
+
+All material changes to our Privacy Policy and practices will be posted on this page. The revision date shown at the top of the page will be updated accordingly.
+
+#### Contact Information
+
+### 10\. CUSTOMER SATISFACTION STUDIES & MARKET RESEARCH ACTIVITIES
+
+#### Product & Market Research at Broadcom
+
+The market research process at Broadcom includes quantitative and qualitative studies on a wide range of topics. Quantitative studies may include surveys focused on overall markets, regions, applications, customers, or resellers. Qualitative studies include in-depth interviews, traditional in-person focus groups, or the use of online discussion boards or Blogs.
+
+The idea behind all these processes is to learn what is important to you and tailor Broadcom products, systems, services, and support to exceed your expectations. If you are invited to participate in a research study for Broadcom, you may be asked, for example, to evaluate prototype technologies, share impressions of marketing communications materials, or discuss aspects of our web site.
+
+#### Measuring Customer Satisfaction at Broadcom
+
+The Broadcom Customer Satisfaction (CSAT) program is an ongoing, systematic study of customer experiences at key touch points across the global Broadcom organization. The term customer refers to: current, former, or potential customers of Broadcom, visitors to Broadcom’ web site, and resellers or channel partners working with Broadcom.
+
+CSAT surveys are conducted at regular intervals using state-of-the-art web survey methodologies. Surveys are offered in multiple languages, and are designed to run smoothly on multiple operating systems and browsers.
+
+CSAT measures your satisfaction after a recent interaction or transaction with one of Broadcom's customer touch points. If you recently received a survey invitation it is because you:
+
+  * Contacted Broadcom Technical Support
+  * Contacted a Broadcom Business Center
+  * Visited the Broadcom web site, or
+  * Had recent contact with the Broadcom account team that supports your organization.
+
+
+
+The customer survey process begins by sending you an e-mail invitation, sent from a senior Broadcom representative who is identified by name. You the recipient can contact that Broadcom representative to validate the study, or ask questions about the survey methodology.
+
+#### Why Broadcom surveys its customers
+
+The process of inviting customers to complete surveys is done with one overriding goal in mind: to enhance your experience with Broadcom.
+
+#### How often are Broadcom CSAT surveys conducted?
+
+Each Broadcom touch point is studied twice a year so managers have up-to-date information on the customer or visitor experience at those touch points, and a clear picture of what to do to enhance your satisfaction when you interact with Broadcom personnel at those touch points. In research conducted with our customers on the issue of survey frequency, customers told us receiving survey invitations as often as twice a year was deemed "acceptable".
+
+It is not our intention to survey you EVERY time you interact with one of our touch points. We use random sampling procedures and database tools to help keep the number of survey invitations sent to you under control. We understand few people actually enjoy completing surveys, but we know surveys are a valuable link between you and Broadcom management, and we want to keep that link open. The survey mechanism provides you a unique opportunity to speak your mind about how we are performing. Furthermore, you control whether you identify yourself or submit your comments anonymously.
+
+At Broadcom, it’s always your call whether to respond when invited to participate in a survey.
+
+#### Broadcom ascribes to the Marketing Research Association’s Ethical Guidelines for the Use of the Internet for Conducting Opinion & Marketing Research.
+
+Broadcom is a member of the Marketing Research Association and follows the MRA Guidelines for web-based research, whose provisions include:
+
+  * Your cooperation will be voluntary
+  * Our identity will be disclosed
+  * Your rights to anonymity will be safeguarded
+  * Our privacy policy statements will be posted online (See items 1 through 9, above)
+  * Data security is maintained
+  * Unsolicited e-mail is not sent to those who have opted out of receiving such e-mail
+  * For details on these Guidelines, or more information on the MRA, click here: [http://www.mra-net.org](http://www.mra-net.org/)
+
+
+
+#### Survey FAQ's
+
+#### 1\. If I agree to take this survey, will I be bombarded with more surveys from Broadcom?
+
+No. Broadcom is working closely with our survey research partner to limit the number of survey invitations a customer receives. Typically, you will not receive more than 2 survey invitations related to a given touch point in a 12-month period.
+
+#### 2\. If I complete an Broadcom survey, will my contact information be sold or given to other companies for marketing or sales purposes, or used by Broadcom for its own marketing or sales purposes?
+
+No. At Broadcom, we take your concern for privacy seriously. Survey databases containing names and identifying information of persons who have had recent contact with Broadcom are never merged with marketing databases, nor shared with other parts of the Broadcom organization. These data are not released to third-party organizations or individuals outside the Broadcom organization, except to be provided to the CSAT survey research vendor who, as part of their contract with Broadcom, manages the process of mailing e-mail invitations to you. The CSAT vendor operates under a PERSONAL DATA CONFIDENTIALITY AGREEMENT (PDCA) with Broadcom, which includes the following provision, “(Vendor) may not disclose Personal Information to any other third party without the prior written consent of Broadcom. Under no circumstances may Participant sell, rent or lease Personal Information to any third parties.”
+
+#### 3\. I was asked if I wanted to receive an Broadcom newsletter and opted out. Why then am I getting a survey from Broadcom?
+
+Before sending you a newsletter or marketing-related information about new Broadcom products or services, Broadcom will ask you to opt-in to confirm your interest in this information. If you elect to opt out of this type of information, no further marketing-related information will be sent to you.
+
+The CSAT survey is a separate form of communication with our customers and channel partners, and is not classified as a marketing-related communication. It is often the concluding step in a process that began with a recent transaction or interaction with Broadcom. As such, the prior opt-in requirement is not relevant.
+
+Having said that, survey participation is still voluntary. You can elect not to respond to a given survey. Our survey e-mail invitation also provides you with an means to opt-out of the entire survey process. However, if you exercise this option, you will no longer have an opportunity to share your opinions or ideas with Broadcom senior management through the CSAT program.
+
+#### 4\. How do I know you won’t publish my name along with my responses to the CSAT survey?
+
+Your name or identifying data such as e-mail address, is NEVER published in CSAT reports. However, there are three scenarios where your name may appear in CSAT documents or communications, or where you may wish to provide your name in the course of completing the survey:
+
+  * If, in the course of completing the CSAT survey, you ask Broadcom to follow up with you—to address a matter of concern to you, you then give our research vendor permission to forward your name and contact information to the appropriate manager at Broadcom to facilitate immediate follow-up and action.
+  * At the conclusion of the survey, you are asked if you want to give Broadcom permission to “share your individual responses.” Most of our survey respondents (87%) give us permission to do so. Even when you give us permission to share your individual responses, we do not publish your name or personal identifying information in reports of findings. CSAT reports typically report findings on a touch point, regional, job-category, applications area, or product-category basis.
+  * At the conclusion of some CSAT surveys, respondents are invited to provide their name and contact information for the purposes of a gift drawing, as a thank-you for completing the survey. This information is used only to make a random selection among those providing information, and to locate the winners to do gift fulfillment. Beyond these purposes, names and contact information are not released.
+
+
