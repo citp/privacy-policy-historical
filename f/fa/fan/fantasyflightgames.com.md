@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fantasyflightgames.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911083835id_/https%3A//www.fantasyflightgames.com/en/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyflightgames.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121115715id_/https%3A//www.fantasyflightgames.com/en/more/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Fantasy Flight Games is committed to protecting your privacy. This privacy policy applies to the FFG Website and governs data collection and usage at all FFG Website services; it does not apply to other online or offline sites, products or services. Personal information of all users is collected, used and disclosed as described below:
+Fantasy Flight Games, a division of Asmodee North America, Inc., is committed to protecting your privacy. Asmodee North America, Inc is located at 1995 County Rd B2 W, 55113 Roseville, MN. Asmodee North America is a subsidiary of the Asmodee group. This privacy policy applies to the FFG Website and governs data collection and usage at all FFG Website services; it does not apply to other online or offline sites, products or services. Personal information of all users is collected, used and disclosed as described below.
 
 ## Collection of your Personal Information
 
@@ -32,6 +32,14 @@ On the Player Account, you can opt to display or hide certain information about 
 
 Any CCs (please see the Accounts section in the Terms for definition of CCs) between you and FFG or any other user are not confidential, and FFG cannot be and is not responsible for maintaining any sort of confidentiality of CCs.
 
+## Unsubscribing from Announcements – Opt-out Policy
+
+From time to time, we send announcements by e-mail: news about coming games, important changes in our Site or Services, special offers, etc. You may choose to completely turn off these announcements at any time by going to [your profile](https://account.asmodee.net/en/profile) and update the "I agree to receive newsletters and offers from Asmodee and its partners" checkbox in the Subscriptions section. If you are not logged in to your account, you may also use the [Unsubscribe page](https://account.asmodee.net/en/unsubscribe) and enter the e-mail address that you used for your Account. Please note that if you unsubscribe, you will not receive any e-mails from us at all. If you change your mind later, you may turn the announcements back on by returning to [your profile](https://account.asmodee.net/en/profile) and update the "I agree to receive newsletters and offers from Asmodee and its partners" checkbox in the Subscriptions section.
+
 ## Security of your Personal and Financial Information
 
 FFG is committed to protecting the security of your personal and/or financial information. We use a variety of security technologies and procedures to help protect your personal and/or financial information from unauthorized access, use, or disclosure. For example, we store the personal and/or information you provide on computer systems with limited access that are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the internet, we protect it through Authorize.net.
+
+## Privacy Policy Questions
+
+If you have any general questions about your Asmodee account, please contact us at : <https://asmodee.helpshift.com/a/asmodee-net/>
