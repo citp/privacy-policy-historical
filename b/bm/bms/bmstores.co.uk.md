@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001112419id_/http%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmstores.co.uk privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121185358id_/https%3A//www.bmstores.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # B&M Privacy Policy | B&M
 
