@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002091700id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualys.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121230200id_/https%3A//www.qualys.com/company/privacy) for the most accurate reproduction.*
 
 # Qualys Privacy Statement Highlights
 
-Version 2.5 – Effective September 20, 2016
+Version 2.8 – Effective January 15, 2018
 
 [](https://privacy.truste.com/privacy-seal/Qualys,-Inc-/validation?rid=db66dd79-5d1d-4338-9c5e-daf97465efe6 "Validate TRUSTe privacy certification")
 
@@ -16,20 +16,22 @@ Qualys®, Inc. (Qualys) is committed to providing you with excellent service for
 
 This Privacy Statement applies to Qualys Websites that link to this Privacy Statement:  
 [https://www.qualys.com](https://www.qualys.com/);  
-[https://qualysguard.qualys.com](https://qualysguard.qualys.com/);  
-[https://pci.qualys.com](https://pci.qualys.com/);  
-[https://freescan.qualys.com](https://freescan.qualys.com/);  
+[https://lps.qualys.com](https://lps.qualys.com/);  
 [https://community.qualys.com](https://community.qualys.com/);  
-[https://www.qualys.jp](https://www.qualys.jp/);  
+[https://blog.qualys.com](https://blog.qualys.com/);  
+[https://freescan.qualys.com](https://freescan.qualys.com/);  
 [https://browsercheck.qualys.com](https://browsercheck.qualys.com/);  
 [https://ssllabs.qualys.com](https://ssllabs.qualys.com/);  
+[https://pci.qualys.com](https://pci.qualys.com/);  
+[https://qualysguard.qualys.com](https://qualysguard.qualys.com/);  
 [https://qualysguard.qg2.apps.qualys.com](https://qualysguard.qg2.apps.qualys.com/);  
-[https://portal.qg2.apps.qualys.com](https://portal.qg2.apps.qualys.com/);  
-[https://qualysguard.qualys.eu](https://qualysguard.qualys.eu/);  
-[https://portal.qualys.eu](https://portal.qualys.eu/);  
 [https://qualysguard.qg3.apps.qualys.com](https://qualysguard.qg3.apps.qualys.com/);  
-[https://portal.qg3.apps.qualys.com](https://portal.qg3.apps.qualys.com/); and  
-[https://portal.qualys.com](https://portal.qualys.com/) (collectively referred to as “Qualys Websites”)
+[https://qualysguard.qualys.eu](https://qualysguard.qualys.eu/);  
+[https://qualysguard.qg2.apps.qualys.eu](https://qualysguard.qg2.apps.qualys.eu/);  
+[https://qualysguard.qg1.apps.qualys.in](https://qualysguard.qg1.apps.qualys.in/);  
+[https://www.netwatcher.com](https://www.netwatcher.com/);  
+[https://resources.netwatcher.com](https://resources.netwatcher.com/)  
+(collectively referred to as “Qualys Websites”)
 
 Qualys Websites may contain links to other websites. Qualys is not responsible for the information practices or the content of such other websites. Qualys encourages you to review the privacy statements of other websites to understand their information practices.
 
@@ -51,4 +53,4 @@ If you would like to change your preferences online, please visit <https://lps.q
 
 We consider the protection of all personal information we receive from Qualys Website visitors and customers as critical. Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering our services using the Secure Sockets Layer (SSL) protocol. Our security procedures are also subject to an annual SSAE 16 and SOC1 industry standard audit by an internationally-recognized accounting firm. If you have questions about security, please contact us at the information provided below.
 
-If you have questions or would like additional information about Qualys’ Privacy Statement, please contact Qualys at **1600 Bridge Parkway, Redwood City, CA 94065, USA** , telephone: **+1 650 801 6100** , or fax: **+1 650 801 6101**.
+If you have questions or would like additional information about Qualys’ Privacy Statement, please contact Qualys at **919 E Hillsdale Blvd, 4th Floor, Foster City, CA 94404, USA** , telephone: **+1 650 801 6100** , or fax: **+1 650 801 6101**.
