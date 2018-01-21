@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908044253id_/http%3A//nairapark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nairapark.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121152426id_/https%3A//nairapark.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NairaPark
 
