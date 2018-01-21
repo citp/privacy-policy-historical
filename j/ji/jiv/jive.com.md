@@ -1,85 +1,65 @@
-> *The following text is extracted and transformed from the jive.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211014905id_/http%3A//jive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jive.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121152152id_/https%3A//jive.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy • Jive Communications
+# Privacy Policy - Jive Communications
 
-## Jive Privacy Policy
+##  Jive Communications, Inc.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@jive.com.
+This Privacy Policy explains how Jive collects, uses, and discloses personal information. By using Jive’s services or any jive.com website, a person consents to Jive’s privacy practices as stated here. 
 
-At Jive Communications (the Company), the privacy of our customers and web visitors is of extreme importance to us. This privacy policy document is divided into two sections, one which covers the privacy of our customers and their company, personal, and billing information; and the second which outlines the types of personal information that is received and collected by Jive.com and how it is used.
+## What information does Jive collect?
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
+Jive may collect the following types of information: 
 
-## Customer Privacy
-
-### Information Collected
-
-  * When you request additional information or register on Jive’s Web site, the Company will ask you to provide basic contact information.
-  * When you purchase Jive’s services (the “Services”), the Company will ask you to provide billing information. Jive uses common Internet technologies, such as cookies and Web beacons, to keep track of interactions with the Company’s Web sites and emails.
-  * When you register for or attend corporate events, the Company will ask you to provide basic contact information, billing information, and information on your participation in the events on Jive’s Web sites.
-  * Jive uses common Internet technologies, such as cookies and Web beacons, to keep track of interactions with the Company’s Web sites and emails.
+  * **Information it requests.** Jive may request business contact information (name, phone number, email address, and physical address), payment information (billing address, payment account number, and security code and expiration date for credit cards) and phone number information (phone number and extension assignments, phone numbers to be ported to Jive, and account verification information from a previous phone service provider).
+  * **Information a person voluntarily gives.** A person may voluntarily give information to Jive. This includes information in a chat, email, phone call, service ticket or other communication with Jive. Jive does not control the nature of this information.
+  * **Information from use of its services.** Jive automatically collects some information when customers use its services. For example, Jive automatically collects source, destination, and duration information for every phone call placed or received using its services. Jive also stores customers’ voice mail messages until the customer deletes them. Jive may record calls between its employees and its customers or prospective customers after giving required notice.
+  * **Information from use of its websites and ads.** Jive collects information about the activities of visitors to its websites. This information may include the content viewed, the date and time it was viewed, or the IP address from which it was viewed. Jive also places advertisements (“ads”) on other websites via third party ad services and collects information about which ads are clicked.
 
 
 
-### Use of information
+### Is this personal information?
 
-  * Jive uses information collected to provide you with the services you request.
-  * Jive may use information collected to provide you with additional information about the Company’s Services, partners, promotions, and events.
-  * Jive may use information collected to improve the Company’s Web sites and Services.
-  * Jive does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.
-  * Jive does not disclose customer billing information with any third party. Any billing information submitted via the online portal will only be used within our secure billing platform.
+Jive does not sell its services to individual consumers; Jive only sells to businesses. Therefore, some of the information Jive collects may not qualify as personal information. Whether information is personal information depends on the nature of the information and the laws of the applicable jurisdiction. This privacy policy addresses information that may, in some situations, qualify as personal information. Information collected from use of Jive’s websites is not associated with any personally identifiable information. 
+
+### How does Jive use the information it collects?
+
+Jive uses the information it collects in the following ways:
+
+  * to communicate with customers and prospective customers about Jive’s services;
+  * to deliver services to customers;
+  * to respond to customer requests;
+  * to collect payment for services;
+  * to customize its services;
+  * to improve its services;
+  * to give notice of changes to its service; and
+  * to improve its websites and serve more relevant ads.
 
 
 
-### Customer Data
+### When will Jive disclose the information it collects?
 
-  * Customers of Jive may electronically submit data or information to the Company’s services (“Customer Data”).
-  * Jive will not review, share, distribute, or reference any such Customer Data except as provided in the [Jive Terms of Service Agreement](http://jive.com/legal/), or as may be required by law. In accordance with the [Jive Terms of Service Agreement](http://jive.com/legal/), Jive may access Customer Data only for the purposes of providing the services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law.
+Jive will not disclose personal information to third parties for the third parties’ marketing purposes. However, Jive may disclose personal information to third parties for processing. For example, Jive discloses customer payment information to third party payment vendors to process customer payments. Jive may also disclose personal information: 
+
+  * to comply with a subpoena or other legal obligation to provide information;
+  * with a subsidiary company, parent company, or a subsidiary of a parent company; and
+  * if Jive sells or buys any business or assets, in which event Jive may disclose personal information to the purchaser.
 
 
 
-### Communication preferences
+The entities to which Jive discloses personal information may be located in the United States, Canada, or other countries. Information disclosed to these entities will be subject to the privacy laws of the jurisdictions in which the entities are located. These privacy laws may be less protective than the privacy laws of the jurisdiction in which Jive collected the information. 
 
-Every marketing email from Jive contains instructions on how to opt out of receiving further marketing emails from the Company.
+### Is the information secure?
 
-## Web Visitor Privacy
+Jive takes a range of measures to help protect personal information of customers and others. However, no security measure is perfect. This means Jive cannot guarantee the security of personal information. Jive does not assume responsibility for unauthorized access to or use of personal information under its control. 
 
-### Log Files
+### Access to personal information
 
-Like many other Web sites, Jive.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+A subject of personal information can access the personal information. To request access, please send an email to legal@jive.com under the heading “Subject Access Request”. Before Jive processes a request, it may ask for personal information to verify the subject’s identity. Depending on the nature of the request and applicable law, Jive may request payment or may reject requests that are unreasonable or impractical to fulfill. 
 
-### Cookies and Web Beacons
+### Changes to this policy
 
-Jive.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Jive may change this privacy policy at any time. Please check this page regularly for updates. A person may request email notification of privacy policy updates by sending an email to [legal@jive.com](mailto:legal@jive.com) under the heading “Request for Privacy Policy Updates”. Jive will make a good faith effort to give notice of changes by email to those who have requested updates in this way. However, an update published at this website will be effective even if Jive does not give notice.
 
-### DoubleClick DART Cookie
+### Contact
 
-– Google, as a third party vendor, uses cookies to serve ads for Jive.com on other sites. – Google’s use of the DART cookie enables it to serve ads to users based on their visit to Jive.com and other sites on the Internet. – Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: http://www.google.com/privacy_ads.html 
-
-### Ad Networks
-
-Our third-party ad networks use technology that allows advertisements and links to appear on other sites in your browser. In some cases they automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-Jive.com has no access to or control over these cookies that are used by third-party advertisers; however we do not advertise directly on Jive.com.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Jive.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-### Remarketing
-
-Jive.com also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
-
-The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
-
-### Opt-Out
-
-You may opt out of Google’s use of cookies by visiting the Ads Preferences Manager. Also, you can opt out of other third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page.
-
-### DoubleClick’s Remarketing Pixels
-
-You may opt out of DoubleClick’s remarketing pixels, your privacy policy can instead tell people to opt out of DoubleClick’s use of cookies by visiting the DoubleClick opt-out page or the Network Advertising Initiative opt-out page.
-
-### Dynamic Ad Serving
-
-The Dynamic Ad Serving feature uses the Teracent cookie and you may opt out of the Teracent cookie by visiting the Teracent opt-out page.
+For questions related to this policy, please send a message to [legal@jive.com](mailto:legal@jive.com).
