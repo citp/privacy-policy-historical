@@ -1,14 +1,850 @@
-<!--The following is the downloaded HTML source of the ubnt.com privacy policy that was archived on 2017-09-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170902215730id_/https%3A//www.ubnt.com/legal/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ubnt.com privacy policy that was archived on 2018-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180121093712id_/https%3A//www.ubnt.com/legal/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><head><meta charset="utf-8"><meta content="IE=edge" http-equiv="X-UA-Compatible"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"01badd70ac","agent":"","transactionName":"blMGZxZRCEAAVkZZClcZIkYKUxJaDlsdVA9YWANcSkYPVhZGHFcAV1MWWgceBFISUAhkAFRGCFIQVTBaBEIcVwBN","applicationID":"34242717","errorBeacon":"bam.nr-data.net","applicationTime":176}</script><meta content="width=device-width, user-scalable=no, maximum-scale=1" name="viewport"><title>Ubiquiti Networks - Privacy Policy</title><meta content="ubiquiti, networks, networking, wifi, wi-fi, wireless, AP, access point, enterprise, radio, antenna, camera, video, surveillance, security, ip, voip, voice,  unifi, router, routers, routing, switch, switches, switching, port, ports, poe, power, ethernet, LAN, WLAN, control, radio, multi-radio, rf, radio frequency, frequency, latency, noise, mbps, kbps, gigabit, transmit, isp, wisp, internet service, provider, CPE, backhaul, link, broadband,  antennas, amplifiers, uwn, world network, ubnt, ubiquity, airmax, airfiber, unifi, nanostation, picostation, edgemax, 802.11, bridge, iot, internet-of-things, automation, machine to machine, m2m, wan, gateway, scalable, handoff, packet, packet inspection" name="keywords"><meta content="Ubiquiti Networks, Inc." name="dcterms.rightsHolder"><meta content="2017" name="dcterms.dateCopyrighted"><meta content="Ubiquiti Networks (UBNT) provides a variety of high-end wireless networking products that utilize our innovative and ground-breaking wireless technology." name="description"><meta content="telephone=no" name="format-detection"><meta content="140563119297621" property="fb:app_id"><meta content="https://www.ubnt.com/legal/privacypolicy/" property="og:url"><meta content="website" property="og:type"><meta content="Ubiquiti Networks - Wireless networking products for broadband and enterprise" property="og:title"><meta content="Ubiquiti Networks (UBNT) provides a variety of high-end wireless networking products that utilize our innovative and ground-breaking wireless technology." property="og:description"><meta content="https:https://prd-www-cdn.ubnt.com/static/u-logo.png" property="og:image"><meta content="summary_large_image" name="twitter:card"><meta content="@ubnt" name="twitter:site"><meta content="Ubiquiti Networks - Wireless networking products for broadband and enterprise" name="twitter:title"><meta content="Ubiquiti Networks (UBNT) provides a variety of high-end wireless networking products that utilize our innovative and ground-breaking wireless technology." name="twitter:description"><meta content="https:https://prd-www-cdn.ubnt.com/static/u-logo.png" name="twitter:image"><meta content="Ubiquiti Networks" name="application-name"><meta content="#0193d7" name="msapplication-TileColor"><meta content="https://prd-www-cdn.ubnt.com/static/favicon-72.png" name="msapplication-square70x70logo"><meta content="https://prd-www-cdn.ubnt.com/static/favicon-152.png" name="msapplication-square150x150logo"><meta content="https://prd-www-cdn.ubnt.com/static/favicon-310x150.png" name="msapplication-wide310x150logo"><link href="https://prd-www-cdn.ubnt.com/static/favicon.ico" rel="shortcut icon"><link href="https://prd-www-cdn.ubnt.com/static/favicon.ico" rel="icon"><meta content="UBNT" name="apple-mobile-web-app-title"><meta content="SWRaOPCfEwvvxQ4uUus4DPAP83E7Y7N28UFSDzxjlrY" name="google-site-verification"><meta content="Llars2_J_mmoEMsj5ygro8werTQoowezC8xWGUK7GzY" name="google-site-verification"><link href="https://prd-www-cdn.ubnt.com/static/favicon-152.png" rel="apple-touch-icon-precomposed"><link href="https://prd-www-cdn.ubnt.com/static/favicon-152.png" rel="apple-touch-icon-precomposed" sizes="152x152"><link href="https://prd-www-cdn.ubnt.com/static/favicon-144.png" rel="apple-touch-icon-precomposed" sizes="144x144"><link href="https://prd-www-cdn.ubnt.com/static/favicon-120.png" rel="apple-touch-icon-precomposed" sizes="120x120"><link href="https://prd-www-cdn.ubnt.com/static/favicon-114.png" rel="apple-touch-icon-precomposed" sizes="114x114"><link href="https://prd-www-cdn.ubnt.com/static/favicon-72.png" rel="apple-touch-icon-precomposed" sizes="72x72"><link href="https://prd-www-cdn.ubnt.com/static/favicon-57.png" rel="apple-touch-icon-precomposed"><link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900|Oswald:300,400" rel="stylesheet" type="text/css"><link href="https://prd-www-cdn.ubnt.com/static/styles/css/main.min.css" rel="stylesheet" type="text/css"><link href="//dl.ubnt.com/media/css-assets/ubnt-icon/v1.97.0/style.css" rel="stylesheet" type="text/css"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body><!--[if lt IE 9]><div id="reveal-oldbrowser" class="oldbrowser reveal-modal small" data-options="close_on_background_click:false" data-reveal> <h3>This isn't going to work.</h3> <p>Internet Explorer 8 and earlier are not currently compatible with Ubiquiti Networks. Please try a different web browser.</p> <div class="oldbrowser__browsers"> <div class="oldbrowser__link"> <label>Chrome</label> <a class="oldbrowser__image oldbrowser__chrome" href="//www.google.com/chrome/"></a> </div> <div class="oldbrowser__link"> <label>Firefox</label> <a class="oldbrowser__image oldbrowser__firefox" href="//www.firefox.com"></a> </div> </div> </div><![endif]--><div class="comWrapper"><header><div class="comGlobalHeader"><div class="comGlobalHeader__content"><a class="comGlobalHeader__logo" href="/"><span class="comGlobalHeader__reg">®</span> <span class="icon ubnt-icon--logo-lockup"><span class="offstage">Ubiquiti Networks</span></span></a><ul class="comGlobalHeader__nav"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink " href="/software/" title="Software">Software</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink " href="https://airmax.ubnt.com/" title="Operator">Operator</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink " href="https://unifi-sdn.ubnt.com/" title="Unifi">Unifi</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://ulabs.ubnt.com/" title="ULabs">ULabs</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink " href="/products/" title="Products">Products</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink " href="/distributors/" title="Buy">Buy</a></li></ul><ul class="comGlobalHeader__nav comGlobalHeader__navRight"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink " href="/download/" title="Downloads">Downloads</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="//help.ubnt.com" target="_blank" title="Support">Support</a></li><li class="comGlobalHeader__navItem noMarginRight"><a class="comGlobalHeader__navItemLink" href="//community.ubnt.com" target="_blank" title="Community">Community</a></li><li class="comGlobalHeader__navItem comGlobalHeader__navItemSearchForm js-search-form"><form action="/search/" class="comFormSearch" method="get" name="search"><a class="comFormSearch__clearButton js-search-clear"><span class="icon ubnt-icon--x"></span></a><input class="comFormSearch__input js-auto-suggest" name="q" required="" type="text"></form></li><li class="comGlobalHeader__navItem comGlobalHeader__navItemSearch js-search-toggle"><a class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--search-2"><span class="offstage">Search</span></span></a></li></ul><div class="comGlobalHeader__navItem comGlobalHeader__navItemMobile"><a class="comGlobalHeader__navItemLink js-toggle-mobile-nav" href="#"><span class="icon ubnt-icon--menu"><span class="offstage">Menu</span></span></a></div></div><div class="comGlobalHeader__mobileContent js-mobile-nav-content"><ul class="comGlobalHeader__nav"><li class="comGlobalHeader__navItem comGlobalHeader__navItemSearchForm"><span class="icon ubnt-icon--magnifying-glass comGlobalHeader__navItemIcon"></span><form action="/search/" class="comFormSearch comFormSearch--mobile js-search-form" method="get" name="search"><div class="comFormSearch__searchBox"><a class="comFormSearch__clearButton js-search-clear"><span class="icon ubnt-icon--x"></span></a><input class="comFormSearch__input js-auto-suggest" name="q" required="" type="text"></div><button class="comFormSearch__submitButton" type="submit"><span class="icon ubnt-icon--search-2"><span class="offstage">Search</span></span></button></form></li></ul><ul class="comGlobalHeader__nav"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/software/" title="Software"><span class="icon ubnt-icon--disc-2 comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Software</span></a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://airmax.ubnt.com/" title="Operator"><span class="icon ubnt-icon--dish comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Operator</span></a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://unifi-sdn.ubnt.com/" title="Unifi"><span class="icon ubnt-icon--ap-unifi comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Unifi</span></a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://ulabs.ubnt.com/" title="ULabs"><span class="icon ubnt-icon--users comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">ULabs</span></a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/products/" title="Products"><span class="icon ubnt-icon--box comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Products</span></a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink js-submenu" href="#" title="Buy"><span class="icon ubnt-icon--cart comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Buy</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a><ul class="comGlobalHeader__subNav js-submenu-link"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="//store.ubnt.com" title="UBNT Store">UBNT Store</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/distributors/" title="Find a Distributor">Find a Distributor</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/distributors/stock-locator/" title="Stock Locator Tool">Stock Locator Tool</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/distributors/become-authorized-distributor/" title="Become a Distributor">Become a Distributor</a></li></ul></li></ul><ul class="comGlobalHeader__nav"><li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a class="comGlobalHeader__navItemLink " href="/download/" title="Downloads"><span class="icon ubnt-icon--download-2 comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Downloads</span></a></li><li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a class="comGlobalHeader__navItemLink" href="//help.ubnt.com" target="_blank" title="Support"><span class="icon ubnt-icon--support comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Support</span></a></li><li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a class="comGlobalHeader__navItemLink js-submenu" href="#" title="Social"><span class="icon ubnt-icon--chat-bubbles-2 comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Social</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a><ul class="comGlobalHeader__subNav js-submenu-link"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://community-archive.ubnt.com" target="_blank" title="Community">Community</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://www.facebook.com/ubiquiti" target="_blank" title="Facebook">Facebook</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://twitter.com/ubnt" target="_blank" title="Twitter">Twitter</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="https://www.youtube.com/user/ubnt?feature=watch" target="_blank" title="YouTube">YouTube</a></li></ul></li></ul><ul class="comGlobalHeader__nav"><li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a class="comGlobalHeader__navItemLink js-submenu" href="#" title="Company"><span class="icon ubnt-icon--buildings comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Company</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a><ul class="comGlobalHeader__subNav js-submenu-link"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="//ubnt.theresumator.com/apply" title="Careers">Careers</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/contact/" title="Contact Us">Contact Us</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="http://ir.ubnt.com" target="_blank" title="Investors">Investors</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/marketing/" title="Marketing">Marketing</a></li></ul></li><li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a class="comGlobalHeader__navItemLink js-submenu" href="#" title="In the News"><span class="icon ubnt-icon--news comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">In the News</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a><ul class="comGlobalHeader__subNav js-submenu-link"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/product-updates/" title="Product Updates">Product Updates</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/newsletters/" title="Newsletters">Newsletters</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/casestudies/" title="Case Studies">Case Studies</a></li></ul></li><li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a class="comGlobalHeader__navItemLink js-submenu" href="#" title="Training"><span class="icon ubnt-icon--cap comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Training</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a><ul class="comGlobalHeader__subNav js-submenu-link"><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/training/" title="Courses">Courses</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/training/calendar/" title="Calendar">Calendar</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/training/partners/" title="Trainers">Trainers</a></li><li class="comGlobalHeader__navItem"><a class="comGlobalHeader__navItemLink" href="/training/become-trainer/" title="Become a Trainer">Become a Trainer</a></li></ul></li></ul></div></div></header><div class="comContent comPageHeader__darkGradient"><div class="comPageHeader--condensed"><div class="row"><div class="col--lg12"><h2 class="comPageHeader__title"><span class=" comPageHeader__titleIcon comPageHeader__titleIcon--lock"><span class="icon ubnt-icon--lock"></span></span>Privacy Policy</h2></div></div></div></div><div class="comContent comContent--comfy"><div class="row"><div class="col--xs12 col--lg3 right marginBottom"><aside class="comPageSidebar"><h4>Legal Documentation</h4><ul class="list list--smash"><li><a href="/legal/termsofservice/">Terms of Service</a></li><li><a href="/eula/">EULA</a></li><li><a href="/legal/privacypolicy/" style="color:#17191d;">Privacy Policy</a></li><li><a href="/support/warranty/">Limited Warranty</a></li><li><a href="/legal/unifi-elite/termsandconditions/">UniFi Elite Terms and Conditions</a></li><li><a href="/legal/ubnt-store/termsandconditions/">UBNT Store Terms and Conditions</a></li><li><a href="/legal/unifi-ios-app-licenses/">UniFi IOS App License</a></li></ul></aside></div><div class=" col--xs12 col--lg9 left "><h3>OUR PRIVACY POLICY WAS UPDATED ON JULY 17, 2017</h3><p>This Privacy Policy (the “<span class="textBold">Policy</span>”) describes how Ubiquiti Networks, Inc. and its subsidiaries and affiliates ("<span class="textBold">we</span>", "<span class="textBold">us</span>", "<span class="textBold">our</span>") collect and use personal and other information through our 1) websites located at <a href="https://www.ubnt.com" title="www.ubnt.com">www.ubnt.com</a> and ubnt.com sub-domains and any other websites hosted by us (collectively the “<span class="textBold">Sites</span>”), (2) services accessible or downloadable through the Sites (“<span class="textBold">Web Apps</span>”), (3) software that may be downloaded to your smartphone or tablet to access services (“<span class="textBold">Mobile Apps</span>”) and (4) subscription services, including services that can be accessed using the Web Apps and Mobile Apps (“<span class="textBold">Subscription Services</span>”), all for use in conjunction with Ubiquiti hardware products (“<span class="textBold">Products</span>”). The term “<span class="textBold">Services</span>” means the Sites, Web Apps, Mobile Apps, Subscription Services and Products. The term “<span class="textBold">you</span>” or “<span class="textBold">your</span>” as used in this Policy, means any person or entity who accesses or uses the Services.</p><p>PLEASE READ THIS POLICY CAREFULLY. BY USING, ACCESSING OR DOWNLOADING ANY OF OUR SERVICES, YOU ACCEPT AND AGREE TO THE PRACTICES DESCRIBED IN THIS POLICY, ON BEHALF OF YOURSELF AND ALL PERSONS AND BUSINESSES FOR WHOM YOU ARE REPRESENTING.</p><p>This Policy is incorporated by reference into and is subject to any applicable terms governing the Service(s) that you are using, including the general Terms of Service, which are available <a href="/legal/termsofservice/" title="Terms of service">here</a>, and the End User License Agreement, which is available <a href="/eula/" title="EULA">here</a>. By using the Services, you accept and abide by these additional policies.</p><p>Please feel free to contact us, as provided in Section 13, with any questions or comments about this Policy.</p><ul><li><a class="js-anchor-link" href="#c1">Information Collected By Us</a></li><li><a class="js-anchor-link" href="#c2">The Way We Use Information</a></li><li><a class="js-anchor-link" href="#c3">How We May Disclose Information</a></li><li><a class="js-anchor-link" href="#c4">Cookies and Other Tracking Technology</a></li><li><a class="js-anchor-link" href="#c5">Your Choices</a></li><li><a class="js-anchor-link" href="#c6">Data Security</a></li><li><a class="js-anchor-link" href="#c7">Third-Party Links</a></li><li><a class="js-anchor-link" href="#c8">Children's Privacy</a></li><li><a class="js-anchor-link" href="#c9">Special Note to International Users</a></li><li><a class="js-anchor-link" href="#c10">California Privacy Rights</a></li><li><a class="js-anchor-link" href="#c11">Public Information</a></li><li><a class="js-anchor-link" href="#c12">Changes and Updates to this Policy</a></li><li><a class="js-anchor-link" href="#c13">Questions, Disputes and Contact Information</a></li></ul><ul style="list-style-type: decimal;"><a href="" id="c1" name="c1"></a><li class="textBold">Information Collected By Us<ul style="list-style-type: lower-alpha;"><li><span class="textBold">User Provided Information</span>. When using our Services, you may provide certain information by which someone could personally identify you such as your name, email address, mailing address, or other contact information ("<span class="textBold">Personally Identifiable Information</span>"), as well as information about yourself such as your power usage, browser type, webpages of our Services that you access, or Internet Protocol address, by which someone could not personally identify you ("<span class="textBold">Non-Personally Identifiable Information</span>").</li><li><span class="textBold">Usage Data</span>. As described in this section, we may automatically collect information from your Products, Mobile Apps and web browser when you use our Sites, Web Apps or Subscription Services ("<span class="textBold">Usage Data</span>"). The Usage Data that we collect may include information such as your device data, including your mobile devices, sensor data, device signals, device parameters, device identifiers that may uniquely identify your devices, including your mobile device, web request, Internet Protocol address, browser type, browser language, referring/exit pages and URLs, platform type, the date and time of your request, and one or more cookies that may uniquely identify your devices or browser. IN ADDITION, WE MAY AUTOMATICALLY COLLECT LOCATION INFORMATION (INCLUDING LATITUDE AND LONGITUDE), PERFORMANCE DATA, MOTION DATA, TEMPERATURE DATA, POWER USAGE DATA, AND ANY DATA OR SIGNALS COLLECTED BY THE DEVICES AS PART OF THE USAGE DATA. WE DO NOT COLLECT THE CONTENTS OF ANY COMMUNICATIONS THAT PASS THROUGH OUR DEVICES OR SERVICES.</li><li><span class="textBold">Support Data</span>. We may collect certain support data when you submit a support request, including information about your hardware, software and other information related to your support requirements. We will use this support data to resolve your support incident and for training and product development purposes.</li><li><span class="textBold">Payment Data</span>.We may collect certain payment data you provide when you make an online purchase through our Sites. This may include your name, billing address, shipping address, payment instrument number (e.g., credit card), and the security code associated with such instrument. We will only use your payment data to complete your transaction and send you notices about your transactions. Where necessary, we will share your payment data with banks and other third party financial institutions to process your payment transactions, or for fraud prevention. These parties are not allowed to use your payment data for any other purposes.</li></ul></li><a href="" id="c2" name="c2"></a><li class="textBold">The Way We Use Information. <span style="font-weight: normal">In general, we use the information we collect related to the Services as follows:</span><ul style="list-style-type: lower-alpha;"><li><span class="textBold">Providing the Services</span>. We may use your Personally Identifiable Information, Non-Personally Identifiable Information and Usage Data (together, “User Information”) to operate, maintain and provide the features and functionality of any Service and for related business purposes.</li><li><span class="textBold">Communicating with You</span>. We may use your email address or other Personally Identifiable Information to send you marketing emails. Please refer to Section 6(a) of the Policy for more information on marketing communications, including how to opt out of marketing emails.</li><li><span class="textBold">Services for Wireless Network Providers</span>. Some of the Usage Data that we may collect may be on behalf of your Internet service provider who may access and use this information for their purposes under their agreement with you. Use of this Usage Data by these third-parties is not subject to this Policy.</li><li><span class="textBold">Other Business Uses</span>. We also may use your User Information to (1) understand how users access and use our Services on an aggregate and individualized basis, to improve the quality and design of our Services or Products, and to create new features, promotions, functionality and services by storing, tracking and analyzing user preferences and trends; (2) remember information so that you will not have to re-enter it during your visit or the next time you use our Services; (3) provide you with custom, personalized content and information; (4) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; (5) track your use of our Services; (6) provide custom, personalized data analysis; (7) facilitate the provision of the updates to any Services or authenticate our Products; (8) verify compliance with this Policy; and (10) perform other lawful businesses and commercial activities.</li></ul></li><a href="" id="c3" name="c3"></a><li class="textBold">How We May Disclose Information. <span style="font-weight: normal">We may disclose the information we collect related to the Services as follows, and BY USE OF THE SERVICES, YOU EXPRESSLY CONSENT TO SUCH DISCLOSURE:</span><ul style="list-style-type: lower-alpha;"><li><span class="textBold">Usage Data</span>. We may provide Usage Data to our customers in connection with the Services which those customers use. For example, our customers may include network providers or operators and we may disclose Usage Data to these customers in connection with the products and devices that are deployed over these customers’ networks. The treatment of Usage Data by these third-parties is subject to their own privacy policies, and not this one. We are not responsible for the content or privacy and security practices and policies of those third parties.</li><li><span class="textBold">Aggregate or De-identified Data</span>. We may share Non-Personally Identifiable Information, including Usage Data (such as anonymous or aggregate user usage data, referring/exit pages and URLs, platform types, etc.), with certain third-parties to assist such third-parties in understanding the usage patterns for certain content, services and/or functionality with respect to our Services. We may also share aggregate or de-identified information about users with third-parties for marketing, research, or similar purposes.</li><li><span class="textBold">Business Transfers</span>. If we are acquired by or merged with another company, or if substantially all of the assets of one of our business activities are transferred to another company, we may transfer the information we have collected from you to the other company.</li><li><span class="textBold">Service Providers</span>. We may disclose certain User Information to third party vendors, service providers, contractors or agents who perform functions on our behalf (e.g., with vendors that help us with delivering Products to you, vendors that help us maintain our Site, or analytics providers).</li><li><span class="textBold">Other Disclosures</span>. We may also disclose User Information (1) if required to do so by law, or in the good-faith belief that such action is in compliance with state and federal laws (including, without limitation, copyright laws) or in response to a court order, subpoena, legal process or search warrant; (2) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms of Service or any terms applicable to specific Services, exercise our legal rights, take precautions against liability, to investigate and defend ourselves against any claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Services, and to protect the rights, property, or personal safety of us, our users or others; (3) to any parent company, affiliated entity, or other entity controlled by, controlling, or under common control with, us (in which case, we will require such entities to honor this Policy); or (4) as otherwise described herein.</li></ul></li><a href="" id="c4" name="c4"></a><li class="textBold" style="margin-bottom: 1em;">Public Information. <span style="font-weight: normal">Please note that if you choose to share information about yourself in any discussion forum or public areas of our Services (such as the Community Forum or review boards on the Ubiquiti World Network) we consider that information to be public information. Any personal information that you include in any content submitted or posted when using the public areas of our Services can be viewed by the general public, so please consider this before submitting any such information or content. You are solely responsible for any information, including any Personally Identifiable Information, you disclose on the discussion or public areas of our Services, and any use of such information by any third-parties regardless of whether you permitted or did not permit such use. We cannot control how others use the information that you post to public areas of our Services.</span></li><a href="" id="c5" name="c5"></a><li class="textBold">Cookies and Other Tracking Technology. <span style="font-weight: normal">We may use cookies, web beacons, local stored objects (LSOs), JavaScript and similar technology in connection with your use of some of our Services, including our Sites and Mobile Apps, to collect Usage Data and other analytics data. We may also permit third-parties to use cookies and other tracking technologies to collect usage and analytics data on our Sites and Mobile Apps. In addition, some of our Services may use analytic software (which may be provided by third-parties) to collect further Usage Data regarding the usage patterns of our users. We may combine Usage Data with the other information we collect (including Personally Identifiable Information), which could enable us to trace Usage Data to an individual user.</span><ul style="list-style-type: lower-alpha;"><li><span class="textBold">Cookies</span>. Cookies are alphanumeric identifiers that are transferred to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Services, while others are used to enable a faster log-in process or to allow us to track your activities while using our Services. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them. The “Help” portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable or delete cookies altogether. Some features of the Services may not function with cookies disabled.</li><li><span class="textBold">Local Storage Objects</span>. We may use Local Storage Objects ("<span class="textBold">LSOs</span>"), including Flash LSOs, to store your preferences and to personalize your visit to our site and use of our Services. LSOs are different from browser cookies because of the amount and type of data stored. Typically, you cannot control, delete or disable the acceptance of LSOs through your web browser. For more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" target="_blank" title="Manage, disable Local Shared Objects | Flash Player">here</a>.</li><li><span class="textBold">Web Beacons</span>. Web beacons are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, web beacons are embedded invisibly on web pages. We may use web beacons (including clear GIFs) in connection with our Sites, Web Apps and Mobile Apps to, among other things, track the activities of users, help us manage content, and compile statistics about usage. We and our third-party service providers may also use web beacons in HTML emails to our customers, to help track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.</li><li><span class="textBold">Third-Party Tracking</span>. Our Sites currently do not honor “Do Not Track” browser signals. However, we do not track user movements across our site and third-party sites, nor do we permit third-parties to track Personally Identifiable Information about users across our Sites and third-party sites.</li><li><span class="textBold">Ad Networks.</span><ul style="list-style-type: lower-roman;"><li>We may use third-parties, such as network advertisers, to display advertisements on third-party websites and mobile apps, on our behalf. Network advertisers are third-parties that display advertisements based on your use of our Services and other third-party website and mobile applications. This enables us and these third-parties to target advertisements by displaying ads for products and services in which you might be interested. These third-parties may use cookies and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third-party cookies and other technologies are governed by each third-party’s specific privacy policy, not this one. We may provide third-party advertisers with aggregate or de-identified information about your usage of our Services. We do not share your Personally Identifiable Information with these third-parties, and we do not permit these third-parties to use cookies and other tracking technologies placed on our Site to automatically collect Personally Identifiable Information about users.</li><li>You may opt out of many website third-party ad networks, including those operated by members of the Network Advertising Initiative ("<span class="textBold">NAI</span>") and the Digital Advertising Alliance ("<span class="textBold">DAA</span>"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt out of third-party ad networks operated by NAI and DAA members, please visit their respective websites: <a href="https://www.networkadvertising.org/optout_nonppii.asp" target="_blank" title="Opt Out of Interest-Based Advertising">www.networkadvertising.org/optout_nonppii.asp</a> and <a href="https://www.aboutads.info/choices" target="_blank" title="USER'S CURRENT IBA STATUS">www.aboutads.info/choices</a>.</li></ul></li></ul></li><a href="" id="c6" name="c6"></a><li class="textBold">Your Choices. <span style="font-weight: normal">In addition to the actions you may take related to Cookies and Tracking Technology describe above in Section 5, you may consider the following:</span><ul style="list-style-type: lower-alpha;"><li><span class="textBold">Marketing Communications</span>. We may share User Information with our affiliates who may use such information to send you promotional emails. Consistent with federal CANSPAM laws, you may opt out of receiving marketing emails from us by following the opt-out instructions contained in any marketing email we send you. Please note that it may take up to ten (10) business days for us to process opt-out requests. If you opt out of receiving marketing emails from us, we may still send you emails about your account or any Services you have requested or received from us.</li><li><span class="textBold">Account Information</span>. If you maintain an account with us, you may modify your account information by logging into your account and updating your information. Please note that copies of information that you have updated, modified or deleted may remain in our systems, and may also be viewable in cached and archived pages of our Sites for a period of time. Additionally, if you discontinue using our Services or update your account information, we may retain the data previously collected about you.</li></ul></li><a href="" id="c7" name="c7"></a><li class="textBold" style="margin-bottom: 1em;">Data Security. <span style="font-weight: normal">WE BELIEVE THAT WE HAVE IMPLEMENTED COMMERCIALLY REASONABLE PRECAUTIONS TO PROTECT THE USER INFORMATION FROM LOSS, MISUSE, AND UNAUTHORIZED ACCESS, DISCLOSURE, ALTERATION AND DESTRUCTION. PLEASE BE AWARE THAT DESPITE OUR EFFORTS, NO DATA SECURITY MEASURES CAN GUARANTEE 100% SECURITY. YOU SHOULD TAKE STEPS TO PROTECT AGAINST UNAUTHORIZED ACCESS TO YOUR ACCOUNT AND THE INFORMATION ACCESSIBLE VIA YOUR ACCOUNT BY, AMONGST OTHER THINGS, SIGNING OFF AFTER USING A SHARED COMPUTER, CHOOSING A ROBUST PASSWORD THAT NOBODY ELSE KNOWS OR CAN EASILY GUESS, AND KEEPING YOUR LOG-IN AND PASSWORD PRIVATE. WE ARE NOT RESPONSIBLE FOR ANY LOST, STOLEN OR COMPROMISED PASSWORDS OR FOR ANY ACTIVITY ON YOUR ACCOUNT VIA UNAUTHORIZED PASSWORD ACTIVITY.</span></li><a href="" id="c8" name="c8"></a><li class="textBold" style="margin-bottom: 1em;">Third-Party Links. <span style="font-weight: normal">Our Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third-parties. We are not responsible for the privacy or security practices of such third-parties.</span></li><a href="" id="c9" name="c9"></a><li class="textBold" style="margin-bottom: 1em;">Children's Privacy. <span style="font-weight: normal">We do not knowingly collect Personally Identifiable Information from children under thirteen (13) years of age, and no part of our Services is directed to children under thirteen (13) years of age. If we learn that Personally Identifiable Information of children under thirteen (13) years of age has been collected on or through our Services, then we will take the appropriate steps to delete this information from our systems. If you are a parent or guardian and discover that your child under thirteen (13) years of age has provided Personally Identifiable Information to us, then you may alert us at <a href="mailto:legal@ubnt.com" title="legal@ubnt.com">legal@ubnt.com</a>, ATTN: Legal Department, and request that we delete your child’s Personally Identifiable Information from our systems.</span></li><a href="" id="c10" name="c10"></a><li class="textBold" style="margin-bottom: 1em;">Special Note to International Users. <span style="font-weight: normal">Most of our Services are hosted in the United States. If you are accessing our Services from outside of the United States, where laws or regulations governing personal data collection, use, and disclosure differ from United States laws, please be advised that your continued use of our Services will be governed by United States law, this Policy, and any other terms applicable to our Services. User Information may be transferred to, processed in, and held in countries other than the one in which you reside (including the United States) and which the European Union and other jurisdictions have deemed do not provide "adequate" protection for personal information. If you are located in a country outside the United States and voluntarily submit User Information to us, you thereby consent to the general use of such information as provided in this Policy and to the transfer of that User Information to, or storage of that information in, the United States or other locations in which information is stored.</span></li><a href="" id="c11" name="c11"></a><li class="textBold" style="margin-bottom: 1em;">California Privacy Rights. <span style="font-weight: normal">If you are a California resident, you may request a list of certain third-parties, if any, to which we have disclosed your Personally Identifiable Information for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us using the contact information in Section 13 below. Please allow up to thirty (30) days for a response.</span></li><a href="" id="c12" name="c12"></a><li class="textBold" style="margin-bottom: 1em;">Changes and Updates to this Policy. <span style="font-weight: normal">THIS POLICY MAY BE REVISED PERIODICALLY AND THIS WILL BE REFLECTED UNDER “DATE LAST MODIFIED” BELOW. IF WE MAKE ANY CHANGE TO THE WAY IN WHICH WE TREAT YOUR PERSONALLY IDENTIFIABLE INFORMATION, WE MAY INFORM YOU OF SUCH CHANGE VIA EMAIL OR BY POSTING A NOTICE IN THIS POLICY OR ON ANY OF OUR SITES, DEPENDING UPON THE SIGNIFICANCE OF THE CHANCE. YOUR CONTINUED ACCESS OR USE OF OUR SERVICES AFTER ANY CHANGES BECOME EFFECTIVE CONSTITUTES YOUR CONSENT TO, AND AGREEMENT TO BE BOUND BY, THE REVISED POLICY IN RELATION TO THE USER INFORMATION RECEIVED FROM YOU OR YOUR DEVICES. ANY REVISIONS TO THIS POLICY WILL BE EFFECTIVE AS OF THE DATE INDICATED BELOW.</span></li><a href="" id="c13" name="c13"></a><li class="textBold">Questions, Disputes and Contact Information. <span style="font-weight: normal">If you wish to access, modify or have any dispute regarding your User Information, please contact us with any questions, comments or concerns as follows:</span><p>Ubiquiti Networks, Inc.<br> ATTN: Legal Department<br> 685 Third Avenue, 27th Floor<br> New York, New York 10017<br> email: <a href="mailto:legal@ubnt.com" title="legal@ubnt.com">legal@ubnt.com</a></p></li></ul>Copyright © July 2017 Ubiquiti Networks, Inc. All rights reserved.</div></div></div><div class="comContent comContent--standout comContent--cozy comNewsletterSignup"><form action="/newsletters/" class="comNewsletterSignup__form js-form-newsletter-global"><input name="csrfmiddlewaretoken" type="hidden" value="0mIO52iwtjqqonGDcZ9o9wCVEwqtfXBohS5JPAlbgoO7pfGKvUCiDk4w6PhbKGvO"><div class="comNewsletterSignup__text">Stay In Touch</div><input class="comNewsletterSignup__input" name="email" placeholder="Email Address" required="required" type="email"><div class="comNewsletterSignup__button"><button class="comClearButton js-submit-button" data-ga="" data-ga-category="home" data-ga-event="click" data-ga-label="ubnt_newsletter_submit" type="submit">Subscribe</button></div><div class="comNewsletterSignup__social"><div class="comNewsletterSignup__socialContainer"><a class="icon ubnt-icon--facebook" data-ga="" data-ga-category="home" data-ga-event="click" data-ga-label="ubnt_newsletter_facebook" href="https://www.facebook.com/ubiquiti" target="_blank"></a> <a class="icon ubnt-icon--twitter" data-ga="" data-ga-category="home" data-ga-event="click" data-ga-label="ubnt_newsletter_twitter" href="https://twitter.com/ubnt" target="_blank"></a> <a class="icon ubnt-icon--youtube" data-ga="" data-ga-category="home" data-ga-event="click" data-ga-label="ubnt_newsletter_youtube" href="https://www.youtube.com/user/ubnt?feature=watch" target="_blank"></a></div></div></form></div><footer><div class="comGlobalFooter"><div class="row"><div class="comContent--maxWidth"><div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--buildings"></span><h4 class="comGlobalFooter__title">Company</h4><ul class="list list--smash"><li><a href="//ubnt.theresumator.com/apply" title="Careers">Careers</a></li><li><a href="/contact/" title="Contact Us">Contact Us</a></li><li><a href="http://ir.ubnt.com" target="_blank" title="Investors">Investors</a></li><li><a href="/marketing/" title="Marketing">Marketing</a></li></ul></div><div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon comGlobalFooter__newsIcon icon ubnt-icon--news"></span><h4 class="comGlobalFooter__title comGlobalFooter__newsTitle">In the News</h4><ul class="list list--smash"><li><a href="http://blog.ubnt.com/" target="_blank" title="UBNT Blog">UBNT Blog</a></li><li><a href="/product-updates/" title="Product Updates">Product Updates</a></li><li><a href="/newsletters/" title="Newsletters">Newsletters</a></li><li><a href="/casestudies/" title="Case Studies">Case Studies</a></li></ul></div><div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--cap"></span><h4 class="comGlobalFooter__title">Training</h4><ul class="list list--smash"><li><a href="/training/" title="Courses">Courses</a></li><li><a href="/training/calendar/" title="Calendar">Calendar</a></li><li><a href="/training/partners/" title="Trainers">Trainers</a></li><li><a href="/training/become-trainer/" title="Become a Trainer">Become a Trainer</a></li></ul></div><div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--box"></span><h4 class="comGlobalFooter__title">Buy Now</h4><ul class="list list--smash"><li><a href="//store.ubnt.com" target="_blank" title="UBNT Store">UBNT Store</a></li><li><a href="/distributors/" title="Find a Distributor">Find a Distributor</a></li><li><a href="/distributors/stock-locator/" title="Stock Locator Tool">Stock Locator Tool</a></li><li><a href="/distributors/become-authorized-distributor/" title="Become a Distributor">Become a Distributor</a></li><li><a href="https://design.ubnt.com/#/" target="_blank" title="UniFi Design Tool">UniFi Design Tool</a></li></ul></div><div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--forums"></span><h4 class="comGlobalFooter__title">Social</h4><ul class="list list--smash"><li><a href="https://community-archive.ubnt.com" title="Community">Community</a></li><li><a href="https://www.facebook.com/ubiquiti" target="_blank" title="Facebook">Facebook</a></li><li><a href="https://twitter.com/ubnt" target="_blank" title="Twitter">Twitter</a></li><li><a href="https://www.youtube.com/user/ubnt?feature=watch" target="_blank" title="YouTube">YouTube</a></li></ul></div></div></div></div><div class="row"><div class="col--lg12 comGlobalFooter__legal"><div class="comGlobalFooter__border"></div>© 2017 Ubiquiti Networks, Inc. All rights reserved.<br> <a href="/legal/termsofservice/" title="Terms of Service">Terms of Service</a> | <a href="/legal/privacypolicy/" title="Privacy Policy">Privacy Policy</a> | <a href="/legal/" title="Legal">Legal</a></div></div></footer></div><div class="comToastContainer is-toast-hidden js-toast-container" id="toastContainer"><div class="comToast" id="successToastExample"><div class="comToast--success js-toast-success"><div class="comToast__icon icon ubnt-icon--check-circle"></div></div><div class="comToast--danger js-toast-error"><div class="comToast__icon icon ubnt-icon--alert"></div></div><div class="comToast__content"><div class="comToast__header js-toast-message"></div><div class="comToast__body"><p class="noMarginBottom"></p></div></div><div class="comToast__close js-toast-close"><div class="icon ubnt-icon--x"></div></div></div></div><script src="https://prd-www-cdn.ubnt.com/static/scripts/min/plugins.min.js"></script><script src="/wafflejs"></script><script>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"01badd70ac","agent":"","transactionName":"blMGZxZRCEAAVkZZClcZIkYKUxJaDlsdVA9YWANcSkYPVhZGHFcAV1MWWgceBFISUAhkAFRGCFIQVTBaBEIcVwBN","applicationID":"34242717","errorBeacon":"bam.nr-data.net","applicationTime":66}</script>
+        <meta name="viewport" content="width=device-width, user-scalable=no, maximum-scale=1">
+        <title>Ubiquiti Networks - Privacy Policy</title>
+        <meta name="keywords" content="ubiquiti, networks, networking, wifi, wi-fi, wireless, AP, access point, enterprise, radio, antenna, camera, video, surveillance, security, ip, voip, voice,  unifi, router, routers, routing, switch, switches, switching, port, ports, poe, power, ethernet, LAN, WLAN, control, radio, multi-radio, rf, radio frequency, frequency, latency, noise, mbps, kbps, gigabit, transmit, isp, wisp, internet service, provider, CPE, backhaul, link, broadband,  antennas, amplifiers, uwn, world network, ubnt, ubiquity, airmax, airfiber, unifi, nanostation, picostation, edgemax, 802.11, bridge, iot, internet-of-things, automation, machine to machine, m2m, wan, gateway, scalable, handoff, packet, packet inspection">
+        <meta name="dcterms.rightsHolder" content="Ubiquiti Networks, Inc.">
+        <meta name="dcterms.dateCopyrighted" content="2018">
+        <meta name="description" content="Ubiquiti Networks (UBNT) provides a variety of high-end wireless networking products that utilize our innovative and ground-breaking wireless technology.">
+        <meta name="format-detection" content="telephone=no">
+
+        <!-- Facebook Insights -->
+        <meta property="fb:app_id" content="140563119297621">
+        <meta property="og:url" content="https://www.ubnt.com/legal/privacypolicy/">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Ubiquiti Networks - Wireless networking products for broadband and enterprise">
+        <meta property="og:description" content="Ubiquiti Networks (UBNT) provides a variety of high-end wireless networking products that utilize our innovative and ground-breaking wireless technology.">
+        <meta property="og:image" content="https:https://prd-www-cdn.ubnt.com/static/u-logo.png">
+      		
+      	<!-- twitter -->
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@ubnt">
+        <meta name="twitter:title" content="Ubiquiti Networks - Wireless networking products for broadband and enterprise">
+        <meta name="twitter:description" content="Ubiquiti Networks (UBNT) provides a variety of high-end wireless networking products that utilize our innovative and ground-breaking wireless technology.">
+        <meta name="twitter:image" content="https:https://prd-www-cdn.ubnt.com/static/u-logo.png">
+
+
+        <!-- IE10 Metro title icon -->
+        <meta name="application-name" content="Ubiquiti Networks">
+        <meta name="msapplication-TileColor" content="#0193d7">
+        <meta name="msapplication-square70x70logo" content="https://prd-www-cdn.ubnt.com/static/favicon-72.png">
+        <meta name="msapplication-square150x150logo" content="https://prd-www-cdn.ubnt.com/static/favicon-152.png">
+        <meta name="msapplication-wide310x150logo" content="https://prd-www-cdn.ubnt.com/static/favicon-310x150.png">
+
+        <!-- Favicon Cheat Sheet: https://github.com/audreyr/favicon-cheat-sheet -->
+        <link rel="shortcut icon" href="https://prd-www-cdn.ubnt.com/static/favicon.ico">
+        <link rel="icon" href="https://prd-www-cdn.ubnt.com/static/favicon.ico">
+
+        <!-- Title that appears under apple icon on home screen -->
+        <meta name="apple-mobile-web-app-title" content="UBNT">
+
+        <!-- Site verification for la_acounts@ubnt.com -->
+        <meta name="google-site-verification" content="SWRaOPCfEwvvxQ4uUus4DPAP83E7Y7N28UFSDzxjlrY">
+
+        <!-- Site verification for Google Webmaster Tools -->
+        <meta name="google-site-verification" content="Llars2_J_mmoEMsj5ygro8werTQoowezC8xWGUK7GzY">
+
+        <link rel="apple-touch-icon-precomposed" href="https://prd-www-cdn.ubnt.com/static/favicon-152.png">
+
+        <!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
+        <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://prd-www-cdn.ubnt.com/static/favicon-152.png">
+
+        <!-- For iPad with high-resolution Retina display running iOS ≤ 6: -->
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://prd-www-cdn.ubnt.com/static/favicon-144.png">
+
+        <!-- For iPhone with high-resolution Retina display running iOS ≥ 7: -->
+        <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://prd-www-cdn.ubnt.com/static/favicon-120.png">
+
+        <!-- For iPhone with high-resolution Retina display running iOS ≤ 6: -->
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://prd-www-cdn.ubnt.com/static/favicon-114.png">
+
+        <!-- For first- and second-generation iPad: -->
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://prd-www-cdn.ubnt.com/static/favicon-72.png">
+
+        <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+        <link rel="apple-touch-icon-precomposed" href="https://prd-www-cdn.ubnt.com/static/favicon-57.png">
+
+        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:300,400,700,900|Oswald:300,400">
+
+        
+            <link rel="stylesheet" href="https://prd-www-cdn.ubnt.com/static/styles/css/main.min.css" type="text/css">
+        
+        <link rel="stylesheet" href="//dl.ubnt.com/media/css-assets/ubnt-icon/v1.109.0/style.css" type="text/css">
+        
+    <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+        <body class="">
+            <!--[if lt IE 9]>
+<div id="reveal-oldbrowser" class="oldbrowser reveal-modal small" data-options="close_on_background_click:false" data-reveal>
+    <h3>This isn't going to work.</h3>
+    <p>Internet Explorer 8 and earlier are not currently compatible with Ubiquiti Networks.
+        Please try a different web browser.</p>
+    <div class="oldbrowser__browsers">
+        <div class="oldbrowser__link">
+            <label>Chrome</label>
+            <a class="oldbrowser__image oldbrowser__chrome" href="//www.google.com/chrome/"></a>
+        </div>
+        <div class="oldbrowser__link">
+            <label>Firefox</label>
+            <a class="oldbrowser__image oldbrowser__firefox" href="//www.firefox.com"></a>
+        </div>
+    </div>
+</div>
+<![endif]-->
+
+        
+            <div class="comWrapper">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+    <div class="comGlobalHeader">
+        <div class="comGlobalHeader__content">
+            <a href="/" class="comGlobalHeader__logo">
+              <span class="comGlobalHeader__reg">®</span>
+              <span class="icon ubnt-icon--logo-lockup"><span class="offstage">Ubiquiti Networks</span></span>
+            </a>
+            <ul class="comGlobalHeader__nav">
+                <li class="comGlobalHeader__navItem"><a href="/software/" title="Software" class="comGlobalHeader__navItemLink ">Software</a></li>
+                <li class="comGlobalHeader__navItem"><a href="https://airmax.ubnt.com/" title="Operator" class="comGlobalHeader__navItemLink ">Operator</a></li>
+                <li class="comGlobalHeader__navItem"><a href="https://unifi-sdn.ubnt.com/" title="Unifi" class="comGlobalHeader__navItemLink ">Unifi</a></li>
+                <li class="comGlobalHeader__navItem"><a href="https://ulabs.ubnt.com/" title="ULabs" class="comGlobalHeader__navItemLink">ULabs</a></li>
+                <li class="comGlobalHeader__navItem"><a href="/products/" title="Products" class="comGlobalHeader__navItemLink ">Products</a></li>
+                <li class="comGlobalHeader__navItem"><a href="/distributors/" title="Buy" class="comGlobalHeader__navItemLink ">Buy</a></li>
+            </ul>
+            <ul class="comGlobalHeader__nav comGlobalHeader__navRight">
+                <li class="comGlobalHeader__navItem"><a href="/download/" title="Downloads" class="comGlobalHeader__navItemLink ">Downloads</a></li>
+                <li class="comGlobalHeader__navItem"><a href="//help.ubnt.com" target="_blank" title="Support" class="comGlobalHeader__navItemLink">Support</a></li>
+                <li class="comGlobalHeader__navItem noMarginRight"><a href="//community.ubnt.com" target="_blank" title="Community" class="comGlobalHeader__navItemLink">Community</a></li>
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSearchForm js-search-form">
+                    <form name="search" action="/search/" method="get" class="comFormSearch"><a class="comFormSearch__clearButton js-search-clear"><span class="icon ubnt-icon--x"></span></a>
+                        <input name="q" type="text" required="" class="comFormSearch__input js-auto-suggest">
+                    </form>
+                </li>
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSearch js-search-toggle"><a class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--search-2"><span class="offstage">Search</span></span></a></li>
+            </ul>
+            <div class="comGlobalHeader__navItem comGlobalHeader__navItemMobile"><a href="#" class="comGlobalHeader__navItemLink js-toggle-mobile-nav"><span class="icon ubnt-icon--menu"><span class="offstage">Menu</span></span></a></div>
+        </div>
+        <div class="comGlobalHeader__mobileContent js-mobile-nav-content">
+            <ul class="comGlobalHeader__nav">
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSearchForm"><span class="icon ubnt-icon--magnifying-glass comGlobalHeader__navItemIcon"></span>
+                    <form name="search" action="/search/" method="get" class="comFormSearch comFormSearch--mobile js-search-form">
+                        <div class="comFormSearch__searchBox"><a class="comFormSearch__clearButton js-search-clear"><span class="icon ubnt-icon--x"></span></a>
+                          <input name="q" type="text" required="" class="comFormSearch__input js-auto-suggest">
+                        </div>
+                        <button type="submit" class="comFormSearch__submitButton"><span class="icon ubnt-icon--search-2"><span class="offstage">Search</span></span></button>
+                    </form>
+                </li>
+            </ul>
+            <ul class="comGlobalHeader__nav">
+              	 <li class="comGlobalHeader__navItem"><a href="/software/" title="Software" class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--disc-2 comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Software</span></a></li>
+                <li class="comGlobalHeader__navItem"><a href="https://airmax.ubnt.com/" title="Operator" class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--dish comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Operator</span></a></li>
+                <li class="comGlobalHeader__navItem"><a href="https://unifi-sdn.ubnt.com/" title="Unifi" class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--ap-unifi comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Unifi</span></a></li>
+               <li class="comGlobalHeader__navItem"><a href="https://ulabs.ubnt.com/" title="ULabs" class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--users comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">ULabs</span></a></li>
+                <li class="comGlobalHeader__navItem"><a href="/products/" title="Products" class="comGlobalHeader__navItemLink"><span class="icon ubnt-icon--box comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Products</span></a></li>
+                <li class="comGlobalHeader__navItem"><a href="#" title="Buy" class="comGlobalHeader__navItemLink js-submenu"><span class="icon ubnt-icon--cart comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Buy</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a>
+                    <ul class="comGlobalHeader__subNav js-submenu-link">
+                        <li class="comGlobalHeader__navItem"><a href="//store.ubnt.com" title="UBNT Store" class="comGlobalHeader__navItemLink">UBNT Store</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/distributors/" title="Find a Distributor" class="comGlobalHeader__navItemLink">Find a Distributor</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/distributors/stock-locator/" title="Stock Locator Tool" class="comGlobalHeader__navItemLink">Stock Locator Tool</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/distributors/become-authorized-distributor/" title="Become a Distributor" class="comGlobalHeader__navItemLink">Become a Distributor</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="comGlobalHeader__nav">
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a href="/download/" title="Downloads" class="comGlobalHeader__navItemLink "><span class="icon ubnt-icon--download-2 comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Downloads</span></a></li>
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a href="//help.ubnt.com" title="Support" class="comGlobalHeader__navItemLink" target="_blank"><span class="icon ubnt-icon--support comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Support</span></a></li>
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a href="#" title="Social" class="comGlobalHeader__navItemLink js-submenu"><span class="icon ubnt-icon--chat-bubbles-2 comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Social</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a>
+                    <ul class="comGlobalHeader__subNav js-submenu-link">
+                        <li class="comGlobalHeader__navItem"><a href="https://community-archive.ubnt.com" title="Community" class="comGlobalHeader__navItemLink" target="_blank">Community</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="https://www.facebook.com/ubiquiti" title="Facebook" class="comGlobalHeader__navItemLink" target="_blank">Facebook</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="https://twitter.com/ubnt" title="Twitter" class="comGlobalHeader__navItemLink" target="_blank">Twitter</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="https://www.youtube.com/user/ubnt?feature=watch" title="YouTube" class="comGlobalHeader__navItemLink" target="_blank">YouTube</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="comGlobalHeader__nav">
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a href="#" title="Company" class="comGlobalHeader__navItemLink js-submenu"><span class="icon ubnt-icon--buildings comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Company</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a>
+                    <ul class="comGlobalHeader__subNav js-submenu-link">
+                        <li class="comGlobalHeader__navItem"><a href="https://careers.ubnt.com" title="Careers" class="comGlobalHeader__navItemLink">Careers</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/contact/" title="Contact Us" class="comGlobalHeader__navItemLink">Contact Us</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="http://ir.ubnt.com" title="Investors" class="comGlobalHeader__navItemLink" target="_blank">Investors</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/marketing/" title="Marketing" class="comGlobalHeader__navItemLink">Marketing</a></li>
+                    </ul>
+                </li>
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a href="#" title="In the News" class="comGlobalHeader__navItemLink js-submenu"><span class="icon ubnt-icon--news comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">In the News</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a>
+                    <ul class="comGlobalHeader__subNav js-submenu-link">
+                        <li class="comGlobalHeader__navItem"><a href="/product-updates/" title="Product Updates" class="comGlobalHeader__navItemLink">Product Updates</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/newsletters/" title="Newsletters" class="comGlobalHeader__navItemLink">Newsletters</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/casestudies/" title="Case Studies" class="comGlobalHeader__navItemLink">Case Studies</a></li>
+                    </ul>
+                </li>
+                <li class="comGlobalHeader__navItem comGlobalHeader__navItemSecondary"><a href="#" title="Training" class="comGlobalHeader__navItemLink js-submenu"><span class="icon ubnt-icon--cap comGlobalHeader__navItemIcon"></span><span class="comGlobalHeader__navItemLabel">Training</span><span class="icon ubnt-icon--pointer-down comGlobalHeader__subNavIcon"></span><span class="icon ubnt-icon--pointer-up comGlobalHeader__subNavIcon"></span></a>
+                    <ul class="comGlobalHeader__subNav js-submenu-link">
+                        <li class="comGlobalHeader__navItem"><a href="/training/" title="Courses" class="comGlobalHeader__navItemLink">Courses</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/training/calendar/" title="Calendar" class="comGlobalHeader__navItemLink">Calendar</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/training/partners/" title="Trainers" class="comGlobalHeader__navItemLink">Trainers</a></li>
+                        <li class="comGlobalHeader__navItem"><a href="/training/become-trainer/" title="Become a Trainer" class="comGlobalHeader__navItemLink">Become a Trainer</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+        
+                
+<div class="comContent comPageHeader__darkGradient">
+    <div class="comPageHeader--condensed">
+        <div class="row">
+            <div class="col--lg12">
+                <h2 class="comPageHeader__title"><span class=" comPageHeader__titleIcon comPageHeader__titleIcon--lock"><span class="icon ubnt-icon--lock"></span></span>Privacy Policy</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="comContent comContent--comfy">
+    <div class="row">
+
+      <div class="col--xs12 col--lg3 right marginBottom">
+        <aside class="comPageSidebar">
+          <h4>Legal Documentation</h4>
+          <ul class="list list--smash">
+            <li><a href="/legal/termsofservice/">Terms of Service</a></li>
+            <li><a href="/eula/">EULA</a></li>
+          	<li><a style="color:#17191d;" href="/legal/privacypolicy/">Privacy Policy</a></li>
+            <li><a href="/support/warranty/">Limited Warranty </a></li>
+            <li><a href="/legal/unifi-elite/termsandconditions/">UniFi Elite Terms and Conditions</a></li>
+            <li><a href="/legal/ubnt-store/termsandconditions/">UBNT Store Terms and Conditions</a></li>
+            <li><a href="/legal/unifi-ios-app-licenses/">UniFi IOS App License</a></li>
+            <li><a href="/compliance/">Compliance Information</a></li>
+          </ul>
+        </aside>
+      </div>
+
+        <div class="  col--xs12 col--lg9 left ">
+            <h3>OUR PRIVACY POLICY WAS UPDATED ON JULY 17, 2017</h3>
+<p>
+    This Privacy Policy (the “<span class="textBold">Policy</span>”) describes how Ubiquiti Networks, Inc. and its
+    subsidiaries and affiliates ("<span class="textBold">we</span>", "<span class="textBold">us</span>", "<span class="textBold">our</span>") collect and use personal and other information through our 1)
+    websites located at <a href="https://www.ubnt.com" title="www.ubnt.com">www.ubnt.com</a> and
+    ubnt.com sub-domains and any other websites hosted by us (collectively the “<span class="textBold">Sites</span>”),
+    (2) services accessible or downloadable through the Sites (“<span class="textBold">Web Apps</span>”), (3) software
+    that may be downloaded to
+    your smartphone or tablet to access services (“<span class="textBold">Mobile Apps</span>”) and (4) subscription
+    services, including services that
+    can be accessed using the Web Apps and Mobile Apps (“<span class="textBold">Subscription Services</span>”), all for
+    use in conjunction with
+    Ubiquiti hardware products (“<span class="textBold">Products</span>”). The term “<span class="textBold">
+    Services</span>” means the Sites, Web Apps, Mobile Apps, Subscription Services and Products. The
+    term “<span class="textBold">you</span>” or “<span class="textBold">your</span>” as used in this Policy, means any
+    person or entity who accesses or uses the Services.
+</p>
+<p>
+    PLEASE READ THIS POLICY CAREFULLY. BY USING, ACCESSING OR DOWNLOADING ANY OF OUR SERVICES, YOU ACCEPT AND AGREE TO
+    THE PRACTICES DESCRIBED IN THIS POLICY, ON BEHALF OF YOURSELF AND ALL PERSONS AND BUSINESSES FOR WHOM YOU ARE
+    REPRESENTING.
+</p>
+<p>
+    This Policy is incorporated by reference into and is subject to any applicable terms governing the Service(s) that
+    you are using, including the general Terms of Service, which are available
+    <a href="/legal/termsofservice/" title="Terms of service">here</a>, and the End User License Agreement,
+    which is available <a href="/eula/" title="EULA">here</a>. By using the Services, you accept and abide by these
+    additional policies.
+</p>
+<p>
+    Please feel free to contact us, as provided in Section 13, with any questions or comments about this Policy.
+</p>
+
+<ul>
+    <li><a href="#c1" class="js-anchor-link">Information Collected By Us</a></li>
+    <li><a href="#c2" class="js-anchor-link">The Way We Use Information</a></li>
+    <li><a href="#c3" class="js-anchor-link">How We May Disclose Information</a></li>
+    <li><a href="#c4" class="js-anchor-link">Cookies and Other Tracking Technology</a></li>
+    <li><a href="#c5" class="js-anchor-link">Your Choices</a></li>
+    <li><a href="#c6" class="js-anchor-link">Data Security</a></li>
+    <li><a href="#c7" class="js-anchor-link">Third-Party Links</a></li>
+    <li><a href="#c8" class="js-anchor-link">Children's Privacy</a></li>
+    <li><a href="#c9" class="js-anchor-link">Special Note to International Users</a></li>
+    <li><a href="#c10" class="js-anchor-link">California Privacy Rights</a></li>
+    <li><a href="#c11" class="js-anchor-link">Public Information</a></li>
+    <li><a href="#c12" class="js-anchor-link">Changes and Updates to this Policy</a></li>
+    <li><a href="#c13" class="js-anchor-link">Questions, Disputes and Contact Information</a></li>
+</ul>
+<ul style="list-style-type: decimal;">
+    <a href="" name="c1" id="c1"></a>
+    <li class="textBold">
+        Information Collected By Us
+        <ul style="list-style-type: lower-alpha;">
+            <li>
+                <span class="textBold">User Provided Information</span>. When using our Services, you may provide
+                certain information by which someone
+                could personally identify you such as your name, email address, mailing address, or other contact
+                information ("<span class="textBold">Personally Identifiable Information</span>"), as well as
+                information about yourself such as your
+                power usage, browser type, webpages of our Services that you access, or Internet Protocol address, by
+                which someone could not personally identify you ("<span class="textBold">Non-Personally Identifiable Information</span>").
+            </li>
+            <li>
+                <span class="textBold">Usage Data</span>. As described in this section, we may automatically collect
+                information from your Products,
+                Mobile Apps and web browser when you use our Sites, Web Apps or Subscription Services ("<span class="textBold">Usage Data</span>").
+                The Usage Data that we collect may include information such as your device data, including your mobile
+                devices, sensor data, device signals, device parameters, device identifiers that may uniquely identify
+                your devices, including your mobile device, web request, Internet Protocol address, browser type,
+                browser language, referring/exit pages and URLs, platform type, the date and time of your request, and
+                one or more cookies that may uniquely identify your devices or browser. IN ADDITION, WE MAY
+                AUTOMATICALLY COLLECT LOCATION INFORMATION (INCLUDING LATITUDE AND LONGITUDE), PERFORMANCE DATA, MOTION
+                DATA, TEMPERATURE DATA, POWER USAGE DATA, AND ANY DATA OR SIGNALS COLLECTED BY THE DEVICES AS PART OF
+                THE USAGE DATA. WE DO NOT COLLECT THE CONTENTS OF ANY COMMUNICATIONS THAT PASS THROUGH OUR DEVICES OR
+                SERVICES.
+            </li>
+            <li>
+                <span class="textBold">Support Data</span>. We may collect certain support data when you submit a
+                support request, including
+                information about your hardware, software and other information related to your support requirements. We
+                will use this support data to resolve your support incident and for training and product development
+                purposes.
+            </li>
+            <li>
+                <span class="textBold">Payment Data</span>.We may collect certain payment data you provide when you make
+                an online purchase through our Sites. This may include your name, billing address, shipping address,
+                payment instrument number (e.g., credit card), and the security code associated with such instrument. We
+                will only use your payment data to complete your transaction and send you notices about your
+                transactions. Where necessary, we will share your payment data with banks and other third party
+                financial institutions to process your payment transactions, or for fraud prevention. These parties are
+                not allowed to use your payment data for any other purposes.
+            </li>
+        </ul>
+    </li>
+    <a href="" name="c2" id="c2"></a>
+    <li class="textBold">
+        The Way We Use Information. <span style="font-weight: normal">In general, we use the information we collect related to the Services as follows:</span>
+        <ul style="list-style-type: lower-alpha;">
+            <li>
+                <span class="textBold">Providing the Services</span>. We may use your Personally Identifiable
+                Information, Non-Personally Identifiable
+                Information and Usage Data (together, “User Information”) to operate, maintain and provide the features
+                and functionality of any Service and for related business purposes.
+            </li>
+            <li>
+                <span class="textBold">Communicating with You</span>. We may use your email address or other Personally
+                Identifiable Information to send you marketing emails. Please refer to Section 6(a) of the Policy for
+                more information on marketing communications, including how to opt out of marketing emails.
+
+            </li>
+            <li>
+                <span class="textBold">Services for Wireless Network Providers</span>. Some of the Usage Data that we
+                may collect may be on behalf of your Internet service provider who may access and use this information
+                for their purposes under their agreement with you. Use of this Usage Data by these third-parties is not
+                subject to this Policy.
+
+            </li>
+            <li>
+                <span class="textBold">Other Business Uses</span>. We also may use your User Information to (1)
+                understand how users access and use our Services on an aggregate and individualized basis, to improve
+                the quality and design of our Services or Products, and to create new features, promotions,
+                functionality and services by storing, tracking and analyzing user preferences and trends; (2) remember
+                information so that you will not have to re-enter it during your visit or the next time you use our
+                Services; (3) provide you with custom, personalized content and information; (4) monitor aggregate
+                metrics such as total number of visitors, pages viewed, etc.; (5) track your use of our Services; (6)
+                provide custom, personalized data analysis; (7) facilitate the provision of the updates to any Services
+                or authenticate our Products; (8) verify compliance with this Policy; and (10) perform other lawful
+                businesses and commercial activities.
+            </li>
+        </ul>
+    </li>
+    <a href="" name="c3" id="c3"></a>
+    <li class="textBold">
+        How We May Disclose Information. <span style="font-weight: normal">We may disclose the information we collect related to the Services as follows,
+        and BY USE OF THE SERVICES, YOU EXPRESSLY CONSENT TO SUCH DISCLOSURE:</span>
+        <ul style="list-style-type: lower-alpha;">
+            <li>
+                <span class="textBold">Usage Data</span>. We may provide Usage Data to our customers in connection with
+                the Services which those customers use. For example, our customers may include network providers or
+                operators and we may disclose Usage Data to these customers in connection with the products and devices
+                that are deployed over these customers’ networks. The treatment of Usage Data by these third-parties is
+                subject to their own privacy policies, and not this one. We are not responsible for the content or
+                privacy and security practices and policies of those third parties.
+            </li>
+            <li>
+                <span class="textBold">Aggregate or De-identified Data</span>. We may share Non-Personally Identifiable Information, including Usage
+                Data (such as anonymous or aggregate user usage data, referring/exit pages and URLs, platform types,
+                etc.), with certain third-parties to assist such third-parties in understanding the usage patterns for
+                certain content, services and/or functionality with respect to our Services. We may also share aggregate
+                or de-identified information about users with third-parties for marketing, research, or similar
+                purposes.
+
+            </li>
+            <li>
+                <span class="textBold">Business Transfers</span>. If we are acquired by or merged with another company, or if
+                substantially all of the assets of one of our business activities are transferred to another company, we
+                may transfer the information we have collected from you to the other company.
+            </li>
+            <li>
+                <span class="textBold">Service Providers</span>. We may disclose certain User Information to third party vendors, service
+                providers, contractors or agents who perform functions on our behalf (e.g., with vendors that help us
+                with delivering Products to you, vendors that help us maintain our Site, or analytics providers).
+            </li>
+            <li>
+                <span class="textBold">Other Disclosures</span>. We may also disclose User Information (1) if required to do so by law,
+                or in the good-faith belief that such action is in compliance with state and federal laws (including,
+                without limitation, copyright laws) or in response to a court order, subpoena, legal process or search
+                warrant; (2) if we believe, in good faith, such action is appropriate or necessary to enforce our Terms
+                of Service or any terms applicable to specific Services, exercise our legal rights, take precautions
+                against liability, to investigate and defend ourselves against any claims or allegations, to assist
+                government enforcement agencies, to protect the security or integrity of our Services, and to protect
+                the rights, property, or personal safety of us, our users or others; (3) to any parent company,
+                affiliated entity, or other entity controlled by, controlling, or under common control with, us (in
+                which case, we will require such entities to honor this Policy); or (4) as otherwise described herein.
+            </li>
+        </ul>
+    </li>
+    <a href="" name="c4" id="c4"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        Public Information.
+        <span style="font-weight: normal">
+            Please note that if you choose to share information about yourself in any discussion forum or public areas
+            of our Services (such as the Community Forum or review boards on the Ubiquiti World Network) we consider that
+            information to be public information. Any personal information that you include in any content submitted or
+            posted when using the public areas of our Services can be viewed by the general public, so please consider
+            this before submitting any such information or content. You are solely responsible for any information,
+            including any Personally Identifiable Information, you disclose on the discussion or public areas of our
+            Services, and any use of such information by any third-parties regardless of whether you permitted or did
+            not permit such use. We cannot control how others use the information that you post to public areas of our
+            Services.
+        </span>
+    </li>
+    <a href="" name="c5" id="c5"></a>
+    <li class="textBold">
+        Cookies and Other Tracking Technology.
+        <span style="font-weight: normal">
+          We may use cookies, web beacons, local stored objects (LSOs), JavaScript and similar technology in connection
+            with your use of some of our Services, including our Sites and Mobile Apps, to collect Usage Data and other
+            analytics data. We may also permit third-parties to use cookies and other tracking technologies to collect
+            usage and analytics data on our Sites and Mobile Apps. In addition, some of our Services may use analytic
+            software (which may be provided by third-parties) to collect further Usage Data regarding the usage patterns
+            of our users. We may combine Usage Data with the other information we collect (including Personally
+            Identifiable Information), which could enable us to trace Usage Data to an individual user.
+        </span>
+        <ul style="list-style-type: lower-alpha;">
+            <li>
+                <span class="textBold">Cookies</span>. Cookies are alphanumeric identifiers that are transferred to your
+                computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to
+                make it easier for you to navigate our Services, while others are used to enable a faster log-in process
+                or to allow us to track your activities while using our Services. Most web browsers automatically accept
+                cookies, but if you prefer, you can edit your browser options to block them. The “Help” portion of the
+                toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to
+                have the browser notify you when you receive a new cookie, or how to disable or delete cookies
+                altogether. Some features of the Services may not function with cookies disabled.
+            </li>
+            <li>
+                <span class="textBold">Local Storage Objects</span>. We may use Local Storage Objects ("<span class="textBold">LSOs</span>"),
+                including Flash LSOs, to store your preferences and to personalize your visit to our site and use of our
+                Services. LSOs are different from browser cookies because of the amount and type of data stored.
+                Typically, you cannot control, delete or disable the acceptance of LSOs through your web browser. For
+                more information on Flash LSOs, or to learn how to manage your settings for Flash LSOs, go
+                <a href="https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html" title="Manage, disable Local Shared Objects | Flash Player" target="_blank">here</a>.
+
+            </li>
+            <li>
+                <span class="textBold">Web Beacons</span>. Web beacons are tiny graphics with a unique identifier,
+                similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive,
+                web beacons are embedded invisibly on web pages. We may use web beacons (including clear GIFs) in
+                connection with our Sites, Web Apps and Mobile Apps to, among other things, track the activities of
+                users, help us manage content, and compile statistics about usage. We and our third-party service
+                providers may also use web beacons in HTML emails to our customers, to help track email response rates,
+                identify when our emails are viewed, and track whether our emails are forwarded.
+            </li>
+            <li>
+                <span class="textBold">Third-Party Tracking</span>. Our Sites currently do not honor “Do Not Track”
+                browser signals. However, we do not track user movements across our site and third-party sites, nor do
+                we permit third-parties to track Personally Identifiable Information about users across our Sites and
+                third-party sites.
+            </li>
+            <li>
+                <span class="textBold">Ad Networks.</span>
+                <ul style="list-style-type: lower-roman;">
+                    <li>
+                        We may use third-parties, such as network advertisers, to display advertisements on third-party
+                        websites and mobile apps, on our behalf. Network advertisers are third-parties that display
+                        advertisements based on your use of our Services and other third-party website and mobile
+                        applications. This enables us and these third-parties to target advertisements by displaying ads
+                        for products and services in which you might be interested. These third-parties may use cookies
+                        and other technologies to measure the effectiveness of their ads and to personalize advertising
+                        content to you. These third-party cookies and other technologies are governed by each
+                        third-party’s specific privacy policy, not this one. We may provide third-party advertisers with
+                        aggregate or de-identified information about your usage of our Services. We do not share your
+                        Personally Identifiable Information with these third-parties, and we do not permit these
+                        third-parties to use cookies and other tracking technologies placed on our Site to automatically
+                        collect Personally Identifiable Information about users.
+                    </li>
+                    <li>
+                        You may opt out of many website third-party ad networks, including those operated by members of
+                        the Network Advertising Initiative ("<span class="textBold">NAI</span>") and the Digital
+                        Advertising Alliance ("<span class="textBold">DAA</span>"). For
+                        more information regarding this practice by NAI members and DAA members, and your choices
+                        regarding having this information used by these companies, including how to opt out of
+                        third-party ad networks operated by NAI and DAA members, please visit their respective websites:
+                        <a href="https://www.networkadvertising.org/optout_nonppii.asp" title="Opt Out of Interest-Based Advertising" target="_blank">www.networkadvertising.org/optout_nonppii.asp</a>
+                        and
+                        <a href="https://www.aboutads.info/choices" title="USER'S CURRENT IBA STATUS" target="_blank">www.aboutads.info/choices</a>.
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <a href="" name="c6" id="c6"></a>
+    <li class="textBold">
+        Your Choices.
+        <span style="font-weight: normal">
+            In addition to the actions you may take related to Cookies and Tracking Technology describe above in Section
+            5, you may consider the following:
+        </span>
+        <ul style="list-style-type: lower-alpha;">
+            <li>
+                <span class="textBold">Marketing Communications</span>. We may share User Information with our
+                affiliates who may use such information to send you promotional emails. Consistent with federal CANSPAM
+                laws, you may opt out of receiving marketing emails from us by following the opt-out instructions
+                contained in any marketing email we send you. Please note that it may take up to ten (10) business days
+                for us to process opt-out requests. If you opt out of receiving marketing emails from us, we may still
+                send you emails about your account or any Services you have requested or received from us.
+            </li>
+            <li>
+                <span class="textBold">Account Information</span>. If you maintain an account with us, you may modify
+                your account information by logging into your account and updating your information. Please note that
+                copies of information that you have updated, modified or deleted may remain in our systems, and may also
+                be viewable in cached and archived pages of our Sites for a period of time. Additionally, if you
+                discontinue using our Services or update your account information, we may retain the data previously
+                collected about you.
+            </li>
+        </ul>
+    </li>
+    <a href="" name="c7" id="c7"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        Data Security.
+        <span style="font-weight: normal">
+            WE BELIEVE THAT WE HAVE IMPLEMENTED COMMERCIALLY REASONABLE PRECAUTIONS TO PROTECT THE USER INFORMATION FROM
+            LOSS, MISUSE, AND UNAUTHORIZED ACCESS, DISCLOSURE, ALTERATION AND DESTRUCTION. PLEASE BE AWARE THAT DESPITE
+            OUR EFFORTS, NO DATA SECURITY MEASURES CAN GUARANTEE 100% SECURITY. YOU SHOULD TAKE STEPS TO PROTECT AGAINST
+            UNAUTHORIZED ACCESS TO YOUR ACCOUNT AND THE INFORMATION ACCESSIBLE VIA YOUR ACCOUNT BY, AMONGST OTHER THINGS,
+            SIGNING OFF AFTER USING A SHARED COMPUTER, CHOOSING A ROBUST PASSWORD THAT NOBODY ELSE KNOWS OR CAN EASILY
+            GUESS, AND KEEPING YOUR LOG-IN AND PASSWORD PRIVATE. WE ARE NOT RESPONSIBLE FOR ANY LOST, STOLEN OR
+            COMPROMISED PASSWORDS OR FOR ANY ACTIVITY ON YOUR ACCOUNT VIA UNAUTHORIZED PASSWORD ACTIVITY.
+        </span>
+    </li>
+    <a href="" name="c8" id="c8"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        Third-Party Links.
+        <span style="font-weight: normal">
+            Our Services may contain links to third-party websites. Any access to and use of such linked websites is not
+            governed by this Policy, but instead is governed by the privacy policies of those third-parties. We are not
+            responsible for the privacy or security practices of such third-parties.
+        </span>
+    </li>
+    <a href="" name="c9" id="c9"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        Children's Privacy.
+        <span style="font-weight: normal">
+            We do not knowingly collect Personally Identifiable Information from children under thirteen (13) years of
+            age, and no part of our Services is directed to children under thirteen (13) years of age. If we learn that
+            Personally Identifiable Information of children under thirteen (13) years of age has been collected on or
+            through our Services, then we will take the appropriate steps to delete this information from our systems.
+            If you are a parent or guardian and discover that your child under thirteen (13) years of age has provided
+            Personally Identifiable Information to us, then you may alert us at
+            <a href="mailto:legal@ubnt.com" title="legal@ubnt.com">legal@ubnt.com</a>, ATTN: Legal Department, and
+            request that we delete your child’s Personally Identifiable Information from our systems.
+        </span>
+    </li>
+    <a href="" name="c10" id="c10"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        Special Note to International Users.
+        <span style="font-weight: normal">
+            Most of our Services are hosted in the United States. If you are accessing our Services from outside of the
+            United States, where laws or regulations governing personal data collection, use, and disclosure differ from
+            United States laws, please be advised that your continued use of our Services will be governed by United
+            States law, this Policy, and any other terms applicable to our Services. User Information may be transferred
+            to, processed in, and held in countries other than the one in which you reside (including the United States)
+            and which the European Union and other jurisdictions have deemed do not provide "adequate" protection for
+            personal information. If you are located in a country outside the United States and voluntarily submit User
+            Information to us, you thereby consent to the general use of such information as provided in this Policy and
+            to the transfer of that User Information to, or storage of that information in, the United States or other
+            locations in which information is stored.
+        </span>
+    </li>
+    <a href="" name="c11" id="c11"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        California Privacy Rights.
+        <span style="font-weight: normal">
+            If you are a California resident, you may request a list of certain third-parties, if any, to which we have
+            disclosed your Personally Identifiable Information for their own direct marketing purposes. You may make one
+            request per calendar year. In your request, please attest to the fact that you are a California resident and
+            provide a current California address for your response. You may request this information in writing by
+            contacting us using the contact information in Section 13 below. Please allow up to thirty (30) days
+            for a response.
+        </span>
+    </li>
+    <a href="" name="c12" id="c12"></a>
+    <li class="textBold" style="margin-bottom: 1em;">
+        Changes and Updates to this Policy.
+        <span style="font-weight: normal">
+            THIS POLICY MAY BE REVISED PERIODICALLY AND THIS WILL BE REFLECTED UNDER “DATE LAST MODIFIED” BELOW. IF WE
+            MAKE ANY CHANGE TO THE WAY IN WHICH WE TREAT YOUR PERSONALLY IDENTIFIABLE INFORMATION, WE MAY INFORM YOU OF
+            SUCH CHANGE VIA EMAIL OR BY POSTING A NOTICE IN THIS POLICY OR ON ANY OF OUR SITES, DEPENDING UPON THE
+            SIGNIFICANCE OF THE CHANCE. YOUR CONTINUED ACCESS OR USE OF OUR SERVICES AFTER ANY CHANGES BECOME EFFECTIVE
+            CONSTITUTES YOUR CONSENT TO, AND AGREEMENT TO BE BOUND BY, THE REVISED POLICY IN RELATION TO THE USER
+            INFORMATION RECEIVED FROM YOU OR YOUR DEVICES. ANY REVISIONS TO THIS POLICY WILL BE EFFECTIVE AS OF THE
+            DATE INDICATED BELOW.
+        </span>
+    </li>
+    <a href="" name="c13" id="c13"></a>
+    <li class="textBold">
+        Questions, Disputes and Contact Information.
+        <span style="font-weight: normal">
+            If you wish to access, modify or have any dispute regarding your User Information, please contact us with
+            any questions, comments or concerns as follows:
+        </span>
+        <p>
+            Ubiquiti Networks, Inc.<br>
+            ATTN: Legal Department<br>
+            685 Third Avenue, 27th Floor<br>
+            New York, New York 10017<br>
+            email: <a href="mailto:legal@ubnt.com" title="legal@ubnt.com">legal@ubnt.com</a>
+        </p>
+    </li>
+</ul>
+Copyright © July 2017 Ubiquiti Networks, Inc. All rights reserved.
+        </div>
+
+    </div>
+</div>
+
+                
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	
+
+
+    <!-- Newsletter -->
+    
+
+<div class="comContent comContent--standout comContent--cozy comNewsletterSignup">
+    <form class="comNewsletterSignup__form js-form-newsletter-global" action="/newsletters/">
+        <input type="hidden" name="csrfmiddlewaretoken" value="M5ngmO0VMqhyL5SNkW7SoiCVLRoi9I3iGHV4ijuYdveQj1HQfYaArCtWUkfjHhBa">
+        <div class="comNewsletterSignup__text">Stay In Touch</div>
+        <input type="email" placeholder="Email Address" required="required" name="email" class="comNewsletterSignup__input">
+        <div class="comNewsletterSignup__button">
+            <button class="comClearButton js-submit-button" type="submit" data-ga="" data-ga-event="click" data-ga-category="home" data-ga-label="ubnt_newsletter_submit">Subscribe</button>
+        </div>
+        <div class="comNewsletterSignup__social">
+            <div class="comNewsletterSignup__socialContainer">
+                <a href="https://www.facebook.com/ubiquiti" class="icon ubnt-icon--facebook" data-ga="" data-ga-event="click" data-ga-category="home" data-ga-label="ubnt_newsletter_facebook" target="_blank"></a>
+                <a href="https://twitter.com/ubnt" class="icon ubnt-icon--twitter" data-ga="" data-ga-event="click" data-ga-category="home" data-ga-label="ubnt_newsletter_twitter" target="_blank"></a>
+                <a href="https://www.youtube.com/user/ubnt?feature=watch" class="icon ubnt-icon--youtube" data-ga="" data-ga-event="click" data-ga-category="home" data-ga-label="ubnt_newsletter_youtube" target="_blank"></a>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+<footer>
+    
+    <div class="comGlobalFooter">
+        <div class="row">
+            <!--
+            <div class="col--lg12">
+                <div class="comGlobalFooter__border"></div>
+            </div>
+        -->
+            <div class="comContent--maxWidth">
+                <div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--buildings"></span>
+                    <h4 class="comGlobalFooter__title">Company</h4>
+                    <ul class="list list--smash">
+                        <li><a href="https://careers.ubnt.com" title="Careers">Careers</a></li>
+                        <li><a href="/contact/" title="Contact Us">Contact Us</a></li>
+                        <li><a href="http://ir.ubnt.com" title="Investors" target="_blank">Investors</a></li>
+                        <li><a href="/marketing/" title="Marketing">Marketing</a></li>
+                    </ul>
+                </div>
+                <div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon comGlobalFooter__newsIcon icon ubnt-icon--news"></span>
+                    <h4 class="comGlobalFooter__title comGlobalFooter__newsTitle">In the News</h4>
+                    <ul class="list list--smash">
+                      	<li><a href="http://blog.ubnt.com/" target="_blank" title="UBNT Blog">UBNT Blog</a></li>
+                        <li><a href="/product-updates/" title="Product Updates">Product Updates</a></li>
+                        <li><a href="/newsletters/" title="Newsletters">Newsletters</a></li>
+                        <li><a href="/casestudies/" title="Case Studies">Case Studies</a></li>
+                                          </ul>
+                </div>
+                <div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--cap"></span>
+                    <h4 class="comGlobalFooter__title">Training</h4>
+                    <ul class="list list--smash">
+                        <li><a href="/training/" title="Courses">Courses</a></li>
+                        <li><a href="/training/calendar/" title="Calendar">Calendar</a></li>
+                        <li><a href="/training/partners/" title="Trainers">Trainers</a></li>
+                        <li><a href="/training/become-trainer/" title="Become a Trainer">Become a Trainer</a></li>
+                    </ul>
+                </div>
+                <div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--box"></span>
+                    <h4 class="comGlobalFooter__title">Buy Now</h4>
+                    <ul class="list list--smash">
+                        <li><a href="//store.ubnt.com" target="_blank" title="UBNT Store">UBNT Store</a></li>
+                        <li><a href="/distributors/" title="Find a Distributor">Find a Distributor</a></li>
+                        <li><a href="/distributors/stock-locator/" title="Stock Locator Tool">Stock Locator Tool</a></li>
+                        <li><a href="/distributors/become-authorized-distributor/" title="Become a Distributor">Become a Distributor</a></li>
+                        <li><a href="https://design.ubnt.com/#/" target="_blank" title="UniFi Design Tool">UniFi Design Tool</a></li>
+                    </ul>
+                </div>
+                <div class="col--sm2 comGlobalFooter__col"><span class="comGlobalFooter__icon icon ubnt-icon--forums"></span>
+                    <h4 class="comGlobalFooter__title">Social</h4>
+                    <ul class="list list--smash">
+                        <li><a href="https://community-archive.ubnt.com" title="Community">Community</a></li>
+                        <li><a href="https://www.facebook.com/ubiquiti" target="_blank" title="Facebook">Facebook</a></li>
+                        <li><a href="https://twitter.com/ubnt" target="_blank" title="Twitter">Twitter</a></li>
+                        <li><a href="https://www.youtube.com/user/ubnt?feature=watch" target="_blank" title="YouTube">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col--lg12 comGlobalFooter__legal">
+            <div class="comGlobalFooter__border"></div>
+            © 2018 Ubiquiti Networks, Inc. All rights reserved.<br>
+        
+                      
+          	<a href="/legal/termsofservice/" title="Terms of Service">Terms of Service</a> | 
+          <a href="/legal/privacypolicy/" title="Privacy Policy">Privacy Policy</a> | 
+          <a href="/legal/" title="Legal">Legal</a>
+          
+        
+        </div>
+    </div>
+
+</footer>
+            </div>
+
+        <div id="toastContainer" class="comToastContainer is-toast-hidden js-toast-container">
+    <div id="successToastExample" class="comToast">
+        <div class="comToast--success js-toast-success">
+            <div class="comToast__icon icon ubnt-icon--check-circle"></div>
+        </div>
+        <div class="comToast--danger js-toast-error">
+            <div class="comToast__icon icon ubnt-icon--alert"></div>
+        </div>
+        <div class="comToast__content">
+            <div class="comToast__header js-toast-message"></div>
+            <div class="comToast__body">
+                <p class="noMarginBottom"></p>
+            </div>
+        </div>
+        <div class="comToast__close js-toast-close">
+            <div class="icon ubnt-icon--x"></div>
+        </div>
+    </div>
+</div>
+
+        
+            <script src="https://prd-www-cdn.ubnt.com/static/scripts/min/plugins.min.js"></script>
+        
+
+        <script src="/wafflejs"></script>
+
+        <script>
         
             $.fn.globals.set("url", {absolute: "https://www.ubnt.com/legal/privacypolicy/", 'static': "//prd-www-cdn.ubnt.com/static/"});
 
             $.fn.globals.set("newsletterForm", {
                 successMessage: "You will receive an email shortly to confirm your newsletter subscription."
             });
-        </script><script src="https://prd-www-cdn.ubnt.com/static/scripts/min/main.min.js"></script><script src="//prd-www-cdn.ubnt.com/static/scripts/min/privacypolicy.min.js"></script><script>
+        </script>
+
+        
+            <script src="https://prd-www-cdn.ubnt.com/static/scripts/min/main.min.js"></script>
+        
+        
+
+    <script src="//prd-www-cdn.ubnt.com/static/scripts/min/privacypolicy.min.js"></script>
+
+
+        <!-- Adroll tracking pixel -->
+        <script>
             adroll_adv_id = "SVZFBJ4D7RABRP3W55QP6J";
             adroll_pix_id = "DX6V45ODZREL5IFHJAPQJW";
             (function () {
@@ -24,7 +860,9 @@
               document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
               if(oldonload){oldonload()}};
             }());
-        </script><script>
+        </script>
+        <!-- Spiceworks tracking pixel -->
+        <script>
             var SWPX = SWPX || {};
             SWPX.cmd = SWPX.cmd || [];
             SWPX.cmd.push(function() {
@@ -33,4 +871,11 @@
               // SWPX.pixel.setIdentifier('');
               SWPX.pixel.fire();
             });
-        </script><script async="" src="//px.spiceworks.com/px.js"></script><noscript>&lt;img src="//px.spiceworks.com/px/xwl3" height="1" width="1"&gt;</noscript></body></html>
+        </script>
+        <script src="//px.spiceworks.com/px.js" async=""></script>
+
+        <noscript>
+            <img src="//px.spiceworks.com/px/xwl3" height="1" width="1">
+        </noscript>
+  
+</body></html>
