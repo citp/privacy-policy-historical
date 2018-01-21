@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708233729id_/http%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121111059id_/https%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Questex | Digital Media | Events | Business Information | Content Marketing & Media
 
@@ -26,7 +26,7 @@ Questex websites sometimes may offer content (e.g., whitepapers, promotions) tha
 
 We give you choices and control over the collection and use of your Personal Information. You can update your Personal Information or remove your email address from our email list.
 
-There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from QUESTEX, contact us at [customer_service@questexasia.com](mailto:customer_service@questexasia.com) and do not furnish personal information in response to that email.
+There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from QUESTEX, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85e6f0f6f1eae8e0f7daf6e0f7f3ece6e0c5f4f0e0f6f1e0fde4f6ece4abe6eae8) and do not furnish personal information in response to that email.
 
 We may conduct direct marketing via email, direct mail, telephone and other means of communication, or send e-newsletters to you. You may choose not to receive promotional materials, by simply telling us, and we will cease to do so, without charge.
 
@@ -60,4 +60,4 @@ Questex Asia Ltd.
 
 Customer service telephone number: +852 2589 1313
 
-[customer_service@questexasia.com](mailto:customer_service@questexasia.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89eafcfafde6e4ecfbd6faecfbffe0eaecc9f8fcecfafdecf1e8fae0e8a7eae6e4)
