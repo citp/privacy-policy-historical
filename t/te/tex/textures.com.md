@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textures.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217221111id_/http%3A//www.textures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textures.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121201600id_/http%3A//www.textures.com/privacy.html) for the most accurate reproduction.*
 
 # Textures for 3D, graphic design and Photoshop!
 
