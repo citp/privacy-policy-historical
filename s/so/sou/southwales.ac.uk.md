@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwales.ac.uk privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222073758id_/http%3A//www.southwales.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwales.ac.uk privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121190600id_/https%3A//www.southwales.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | University of South Wales
 
