@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khojdeal.com privacy policy that was archived on 2017-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170816114344id_/https%3A//www.khojdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khojdeal.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121192229id_/https%3A//www.khojdeal.com/privacy-policy) for the most accurate reproduction.*
 
-# Khojdeal Privacy Policy
+# Khojdeal: Coupons, Cashback, Promo Codes & Discount Codes
 
 Your privacy is very important to us. Khojdeal is committed to respect your privacy while using our website. This policy applies to information collected by us on our website.
 
