@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradecarview.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614133743id_/https%3A//www.tradecarview.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradecarview.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121133420id_/https%3A//www.tradecarview.com/about/privacy) for the most accurate reproduction.*
 
 # Used japanese car [ tradecarview ]
 
@@ -63,7 +63,7 @@
   * The Procedure of your rights to demand disclosure or other rights set above (“Disclosure Rights Etc.”) is asfollows.
     1. Information subject to Disclosure Rights Etc.; Personal Information registered by Carview(“Registered Information”)
     2. Data subject who can demand Disclosure Rights Etc.: principal or agent on behalf ofprincipal. Please note that in case of demand by agent, we will ask to submit power ofattorney.
-    3. Method and Demand process of Disclosure Rights Etc.: please call at +81-3-6893-7694.We will verify your identification. You can access Registered Information regarding basictradecarview service from [here](https://id.tradecarview.com/trade/members/only/edit.aspx).
+    3. Method and Demand process of Disclosure Rights Etc.: please call at +81-3-6863-5377.We will verify your identification. You can access Registered Information regarding basictradecarview service from [here](https://id.tradecarview.com/trade/members/only/edit.aspx).
     4. If you would like to delete tradecarview members ID, please see [here](https://id.tradecarview.com/trade/members/only/withdrawal.aspx).
 
 
@@ -91,8 +91,12 @@
 
 #### Questions and Suggestions
 
-  * If you have any questions regarding privacy, security, opting-out of e-mail offers or understanding howyour Personal Information is being used, please contact our Customer Support at +81-3-6893-7694. Ifyou do not receive acknowledgement of your inquiry in a prompt fashion or within 10 days, or yourinquiry has not been properly addressed, you may contact us from [Mail us](http://www.tradecarview.com/contacts/cscontactform.aspx).
+  * If you have any questions regarding privacy, security, opting-out of e-mail offers or understanding howyour Personal Information is being used, please contact our Customer Support at +81-3-6863-5377. Ifyou do not receive acknowledgement of your inquiry in a prompt fashion or within 10 days, or yourinquiry has not been properly addressed, you may contact us from [Mail us](https://www.tradecarview.com/help/contactus/mailus/).
 
 
 
 Amended as of September, 2016
+
+  * Please check the [Carview Corporation Privacy Policy](https://www.carview.co.jp/notice/privacy-en/).
+
+
