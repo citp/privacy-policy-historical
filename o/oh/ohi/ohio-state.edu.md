@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ohio-state.edu privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126174345id_/https%3A//www.osu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio-state.edu privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121101005id_/https%3A//www.osu.edu/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for The Ohio State University osu.edu websites - The Ohio State University
+# Privacy Statement for The Ohio State University osu.edu websites
 
 The Ohio State University is committed to protecting the privacy of website visitors as well as the privacy of our students, faculty & staff, alumni and friends. This privacy statement describes the type of information which may be collected from visitors to Ohio State’s websites. Ohio State University does not sell or rent website visitor information and does not share website visitor information except as compelled by law. This privacy statement is updated as necessary to reflect current collection methods and usage of website visitor information.
 
