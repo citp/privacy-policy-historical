@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629232020id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122003716id_/https%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,7 +30,7 @@ We automatically collect limited information about your computer configuration w
 
 Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the Web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble-shooting purposes. Your IP address does not tell us who you are.) We use this information to make our site as useful as we can for as many users as possible.
 
-The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. It is possible, however, that some areas of this website will not function properly if you decline or disable Internet cookies while visiting or otherwise using the website. If you would like more information about this practice and about your option not to accept cookies, please [click here](http://preferences-mgr.truste.com/). 
+The use of cookies is relatively standard. Most browsers are initially set up to accept cookies. However, if you prefer, you can set your browser to either notify you when you receive a cookie or to refuse to accept cookies. It is possible, however, that some areas of this website will not function properly if you decline or disable Internet cookies while visiting or otherwise using the website. If you would like more information about this practice and about your option not to accept cookies, please [click here](https://preferences-mgr.truste.com/). 
 
 This information, which may be used internally or for marketing purposes generally, allows us, among other things, to improve the delivery of our Web pages to you, to analyze usage, and to measure traffic on the edweek.org site. 
 
@@ -40,7 +40,7 @@ Edweek.org uses the information it collects from you while you are using this we
 
 **Ad Serving.** We use one or more third party advertising companies to serve ads when you visit our site. To facilitate our use of third-party analytics services and statistics programs offered by third parties such as Google Analytics, this company may use and share certain non-personally identifiable information (does not include your name, address, email or telephone number) about your visits to our website and other sites, in combination with other non-personally identifiable information about your purchases and interests from other online or offline sources, in order to provide advertisements about goods and services of interest to you. In addition, we share Web usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements, for market research analysis on our site and other sites, and for ad impression reporting. For these purposes, we and our third-party advertising company may note some of the pages you visit on our site through the use of pixel tags (also known as "clear GIFs"). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your computer. 
 
-Visit Google’s pages on [How Google Uses Data](http://www.google.com/policies/privacy/partners/%22), [Advertising](http://www.google.com/intl/en/privacy/ads/), and [Cookie](http://www.google.com/intl/en/policies/technologies/cookies/) technologies and [Facebook’s Privacy Policy](https://www.facebook.com/about/privacy/cookies) to read more about these information collection practices, to access your advertising preferences, or to opt out of such interest-based advertising; they also offer [special browser tools](https://tools.google.com/dlpage/gaoptout/) to opt out of their analytics altogether. 
+Visit Google’s pages on [How Google Uses Data](https://www.google.com/policies/privacy/partners/%22), [Advertising](https://www.google.com/intl/en/privacy/ads/), and [Cookie](https://www.google.com/intl/en/policies/technologies/cookies/) technologies and [Facebook’s Privacy Policy](https://www.facebook.com/about/privacy/cookies) to read more about these information collection practices, to access your advertising preferences, or to opt out of such interest-based advertising; they also offer [special browser tools](https://tools.google.com/dlpage/gaoptout/) to opt out of their analytics altogether. 
 
 **Customer Service.** If you contact edweek.org for customer service, edweek.org will also use your personal information to try to verify that the person contacting edweek.org is you. Please note that any comments or materials sent to us, including feedback data, such as questions, comments, suggestions, and any other responses are deemed to be non-confidential and we may use, reproduce, distribute, and publicly display such comments and materials without reference to you personally. We may also use any ideas, concepts, know-how, or techniques contained in such responses for any purpose whatsoever.
 
@@ -50,7 +50,7 @@ Visit Google’s pages on [How Google Uses Data](http://www.google.com/policies/
 
 **Links And Features Offered In Conjunction With Other Providers.** This privacy statement applies only to information collected by edweek.org. The edweek.org website includes links to other websites, and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services or conduct other transactions through this website, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-TopSchoolJobs.org, the careers channel website of edweek.org, has its own [Privacy Policy](http://www.topschooljobs.org/info/privacy-policy.asp). Please familiarize yourself with that policy before using TopSchoolJobs.org.
+TopSchoolJobs.org, the careers channel website of edweek.org, has its own [Privacy Policy](https://www.topschooljobs.org/privacy-policy/). Please familiarize yourself with that policy before using TopSchoolJobs.org.
 
 **Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property, or safety of visitors to our site, our customers, the public, or edweek.org. In the unlikely event that edweek.org or substantially all of its assets is acquired by another company, information on our visitors would be among the transferred assets.
 
@@ -62,7 +62,7 @@ Transmission of personal information to our servers uses Secure Sockets Layer (S
 
 ## QUESTIONS
 
-If you have any questions or concerns regarding our Privacy Statement, please direct them to [feedback@epe.org](mailto:feedback@epe.org) or to:
+If you have any questions or concerns regarding our Privacy Statement, please direct them to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721417171610131119321702175c1d0015) or to:
 
 Editorial Projects in Education, Inc.  
 6935 Arlington Road, Suite 100  
@@ -71,4 +71,4 @@ Re: Privacy Policy
 
 ## CHANGES TO THIS PRIVACY STATEMENT
 
-The Web is an evolving medium. If we need to change our privacy statement at some point in the future, we'll post a notice about the changes to this Privacy Statement on this website prior to the change becoming effective and update the reference to the effective date to reflect the date of the amendment. You should check this page regularly for updates. Your use of our sites following these changes means that you accept the revised Privacy Statement. By visiting edweek.org, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [User Agreement](https://web.archive.org/web/20170629232020id_/http%3A//www.edweek.org/info/about/terms-of-use.html).
+The Web is an evolving medium. If we need to change our privacy statement at some point in the future, we'll post a notice about the changes to this Privacy Statement on this website prior to the change becoming effective and update the reference to the effective date to reflect the date of the amendment. You should check this page regularly for updates. Your use of our sites following these changes means that you accept the revised Privacy Statement. By visiting edweek.org, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [User Agreement](https://web.archive.org/web/20180122003716id_/https%3A//www.edweek.org/info/about/terms-of-use.html).
