@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121134918id_/http%3A//www.experts.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121130907id_/https%3A//www.experts.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://web.archive.org/Resources/Detail?ID=736)
+[](https://web.archive.org/Resources/Detail?ID=241)
 
-[](https://web.archive.org/Resources/Detail?ID=9)
+[](https://web.archive.org/Resources/Detail?ID=627)
 
-Virginia A. Lathan
+Jon Burroughs, MD, et al
 
-[](https://web.archive.org/Resources/Detail?ID=775)
+[](https://web.archive.org/Resources/Detail?ID=245)
 
-Bankole A. Johnson, MD
+Meyer R. Rosen
 
 ### Our Commitment To Privacy
 
