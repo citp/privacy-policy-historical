@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121202157id_/http%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121101839id_/https%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
 
 # JayneStars.com | Privacy Policy
 
@@ -47,7 +47,7 @@ If you don’t want to receive promotional materials from us or our marketing pa
 
 
 
-If you have questions about opting out, send an email message to admin@jaynestars.com.
+If you have questions about opting out, send an email message to [[email protected]](http://www.jaynestars.com/cdn-cgi/l/email-protection)
 
 **More Details About Information We Collect on our Web Sites**
 
@@ -74,4 +74,4 @@ We reserve the right to modify this Privacy Policy from time to time at our disc
 
 **Questions or Comments**
 
-For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact: [admin@jaynestars.com](mailto:admin@jaynestars.com).
+For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact: [[email protected]](http://www.jaynestars.com/cdn-cgi/l/email-protection#93f2f7fefafdd3f9f2eafdf6e0e7f2e1e0bdf0fcfe).
