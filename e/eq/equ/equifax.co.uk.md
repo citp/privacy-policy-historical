@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909235519id_/https%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121202735id_/https%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Equifax UK
 
@@ -214,7 +214,7 @@ We may change this Privacy & Cookie Policy at any time by publishing revised or 
 
 ## More information & contact details
 
-More information about how Equifax collects, uses and protects personal data is available in our [Personal Data Management Policy](http://www.equifax.com/international/uk/documents/Equifax_Personal_Data_Management_Policy.pdf) and [Data Sharing Policy](http://www.equifax.com/international/uk/documents/Equifax_Data_Sharing_Policy.pdf)
+More information about how Equifax collects, uses and protects personal data is available in our [Personal Data Management Policy](https://www.equifax.com/international/uk/documents/Equifax_Personal_Data_Management_Policy.pdf) and [Data Sharing Policy](https://www.equifax.com/international/uk/documents/Equifax_Data_Sharing_Policy.pdf)
 
 If you have any queries about our on-line Privacy & Cookie Policy or our information practices in general, you may contact us by post by writing to Equifax Limited, Customer Service Centre, PO Box 10036, Leicester, LE3 4FS. or by any of the other methods described in the About Equifax/ Contact Us section of this website.
 
@@ -224,7 +224,7 @@ June 2017
 
 ## Downloads
 
-  * [Equifax Online Privacy and Cookie Policy](https://web.archive.org/web/20170909235519id_/https%3A//www.equifax.co.uk/About-us/Equifax%20Online%20Privacy%20and%20Cookie%20Policy%2012.06.2017.pdf) (.pdf)
+  * [Equifax Online Privacy and Cookie Policy](https://web.archive.org/web/20180121202735id_/https%3A//www.equifax.co.uk/About-us/Equifax%20Online%20Privacy%20and%20Cookie%20Policy%2012.06.2017.pdf) (.pdf)
 
 
   * [ Get Adobe Acrobat Reader](http://get.adobe.com/uk/reader/)
