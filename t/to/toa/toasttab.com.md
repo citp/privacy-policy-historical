@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909150605id_/https%3A//pos.toasttab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toasttab.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121211822id_/https%3A//pos.toasttab.com/toast/privacy) for the most accurate reproduction.*
 
-# Toast Privacy Policy | Toast Restaurant POS
+# Toast Privacy Policy | Toast
 
 ### Scope
 
-This Privacy Policy describes the information Toast, Inc. (“Toast”, “we”, “us” and/or “our”) collects when you and others interact with us through our products and services, including our customer point-of-sale systems, websites, applications, APIs, and any other covered product or service that links to this Policy (collectively, the “Services”).  It also explains how we use and share that information, the measures we take to secure your information, and the choices you have with respect to information about you.
+This Privacy Policy describes the information [Toast](https://pos.toasttab.com/), Inc. (“Toast”, “we”, “us” and/or “our”) collects when you and others interact with us through our products and services, including our customer point-of-sale systems, websites, applications, APIs, and any other covered product or service that links to this Policy (collectively, the “Services”).  It also explains how we use and share that information, the measures we take to secure your information, and the choices you have with respect to information about you.
 
 ### Consent
 
