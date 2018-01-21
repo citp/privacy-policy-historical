@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filthygorgeousmedia.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830213015id_/https%3A//filthy.media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filthygorgeousmedia.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121132102id_/https%3A//filthy.media/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Filthy
 
@@ -115,6 +115,6 @@ United States
 202 S Dean St, NJ  
 07631
 
-[info@filthy.media](mailto:info@filthy.media)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2c40435a49735e49404d584543425f44455c5f6c5a434f4d4002414948454d)
 
 (201)258-3770
