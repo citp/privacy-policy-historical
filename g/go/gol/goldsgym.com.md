@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115062942id_/http%3A//www.goldsgym.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsgym.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121180320id_/https%3A//www.goldsgym.com/privacy-policy) for the most accurate reproduction.*
 
-# Gold's Gym | Privacy Policy | Fitness Gym
+# Gold's Gym
 
 Gold’s Gym is committed to protecting the privacy of its visitors and has prepared the following statement to inform users how personally identifying information and non-personally identifying information is gathered from our Web site and used by GOLDSGYM.COM. GOLD’S GYM encourages its Web site users to be smart about choosing when, and to whom, to release information online.
 
@@ -67,7 +67,7 @@ If you have any questions, comments or concerns regarding GOLD’S GYM’s priva
 
 Gold’s Gym  
 Matt Holder  
-Director of Digital Marketing  
+Senior Director of Digital Marketing  
 4001 Maple Ave., Suite 200  
 Dallas, TX 75219
 
