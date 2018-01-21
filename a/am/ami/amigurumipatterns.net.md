@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the amigurumipatterns.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121200623id_/http%3A//www.amigurumipatterns.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amigurumipatterns.net privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122005556id_/http%3A//www.amigurumipatterns.net/privacy) for the most accurate reproduction.*
 
 # Amigurumipatterns.net - Privacy Policy
 
 **What information do we collect?**   
-We collect information from you when you register on our site. 
+Surfing on the website: You may visit our site anonymously. Our system does determine the country you are surfing from through your IP address, which is used to add customary localised VAT to the patterns and for displaying localised banners on our website. We store this data on a cookie on your computer so the system doesn't have to check your country on each visit. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. 
+When registering on our website: we collect your email address and password. This password is stored securely on our server so when the data is breached, this should not impact your accounts on other websites. You can also choose to log in with your Facebook account in which case we store your Facebook email address. 
+
+When ordering on our site: we collect your name, e-mail address. We also receive from Paypal your country of origin, your full address (if you've purchase a physical item) and the exact time of purchase. We store any transaction in our database for your and our reference. 
 
 **What do we use your information for?**
 
@@ -20,7 +22,7 @@ The email address you provide for order processing, may be used to send you info
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. Your data is stored permanently on our server, unless if you contact us to remove any information that could identify you. 
 
 **Do we use cookies?**
 
@@ -43,6 +45,9 @@ Because we value your privacy we have taken the necessary precautions to be in c
 **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+
+**Can I check or (permanently) delete my data?**  
+Yes. Send an email with your full name and email address to hello@amigurumipatterns.net with your request. If requested, we will delete any personal information from our data and anonymize any purchases you have made in the past. As the data is deleted (not just inactivated) we will not be able to restore your data in the future. 
 
 **Your Consent**
 
