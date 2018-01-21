@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201030603id_/http%3A//www.nationaleatingdisorders.org/neda-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121195315id_/https%3A//www.nationaleatingdisorders.org/privacy-policy) for the most accurate reproduction.*
 
 # NEDA Privacy Policy | National Eating Disorders Association
 
@@ -53,7 +53,7 @@ From time to time, NEDA may decide, or be required by law to make changes to thi
 If you have any questions, comments, or concerns about the Websites or the Privacy Policy, please email  **[info@nationaleatingdisorders.org](mailto:info@nationaleatingdisorders.org) **or contact us at:
 
 National Eating Disorders Association  
-165 West 46th Street, #402  
+200 West 41st Street, #1203  
 New York, NY 10036
 
 (212) 575-6200
