@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124093241id_/http%3A//www.biocompare.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biocompare.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121063938id_/https%3A//www.biocompare.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Biocompare: The Buyer's Guide for Life Scientists
 
