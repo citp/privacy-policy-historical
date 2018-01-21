@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the pinchme.com privacy policy that was archived on 2017-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170830033236id_/https%3A//www.pinchme.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pinchme.com privacy policy that was archived on 2018-01-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180121155526id_/https%3A//www.pinchme.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script src="https://js-agent.newrelic.com/nr-spa-1044.min.js"></script><script async="" src="//pm.alcmpn.com/wt/262/webtag.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a35fdcb668","applicationID":"2157621","transactionName":"cw5bR0JcDVoESxgNBV4FXF1XHBFECE9WAh0=","queueTime":0,"applicationTime":20,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgIHUVVbGwEBUVZUBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(19),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(20),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(p){"stack"in p&&(t(12),t(11),"addEventListener"in window&&t(6),s.xhrWrappable&&t(13),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){C++,M=y.hash,this[u]=b.now()}function o(){C--,y.hash!==M&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(9),x=t(10),E=t(8),O=t(6),R=t(12),P=t(7),T=t(13),S=t("ee"),N=S.get("tracer");t(14),b.features.spa=!0;var M,j=w[v],C=0;S.on(u,r),S.on(p,r),S.on(d,o),S.on(h,o),S.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),R.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),P.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),a(T,"send-xhr"+c),a(S,"xhr-resolved"),a(S,"xhr-done"),a(P,m+c),a(P,m+"-done"),E.on("pushState-end",i),E.on("replaceState-end",i),j("hashchange",i,!0),j("load",i,!0),j("popstate",function(){i(0,C>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(12),c=t(11),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(22)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(19);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(22)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){var r=t("ee").get("mutation"),o=t(22)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],10:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(22),a=t("ee").get("promise"),c=i(a),s=t(19),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],11:[function(t,e,n){var r=t("ee").get("raf"),o=t(22)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],12:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(22)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],13:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(22)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new l(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],14:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(15),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(18),l=t(17),m=window.XMLHttpRequest;a.features.xhr=!0,t(13),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],15:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],16:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(19),c=t(20),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],17:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],19:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],20:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],21:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],22:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(20),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(19),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(19),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1044.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(16),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(21)},{}]},{},["loader",2,14,5,3,4]);</script>
+<script src="https://js-agent.newrelic.com/nr-spa-1071.min.js"></script><script async="" src="//pm.alcmpn.com/wt/262/webtag.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a35fdcb668","applicationID":"2157621","transactionName":"cw5bR0JcDVoESxgNBV4FXF1XHBFECE9WAh0=","queueTime":0,"applicationTime":38,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgIHUVVbGwEBUVZUBQA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(20),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{h?h-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(21),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",h=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(13),t(12),"addEventListener"in window&&t(6),s.xhrWrappable&&t(14),d=!0)}c.on("fn-start",function(t,e,n){d&&(h+=1)}),c.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&h>0&&(h-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,S=y.hash,this[u]=b.now()}function o(){M--,y.hash!==S&&i(0,!0);var t=b.now();this[l]=~~this[l]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=b.now()})}var c="-start",s="-end",f="-body",u="fn"+c,d="fn"+s,p="cb"+c,h="cb"+s,l="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,b=t("loader");if(w[v]&&b.xhrWrappable){var g=t(10),x=t(11),E=t(8),P=t(6),O=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),N=j.get("tracer");t(15),b.features.spa=!0;var S,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(h,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),P.buffer([u]),O.buffer(["setTimeout"+s,"clearTimeout"+c,u]),T.buffer([u,"new-xhr","send-xhr"+c]),R.buffer([m+c,m+"-done",m+f+c,m+f+s]),E.buffer(["newURL"]),g.buffer([u]),x.buffer(["propagate",p,h,"executor-err","resolve"+c]),N.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+c),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+c),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),c=t(12),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",h="-start",l="-end",m="fn"+h,v="fn"+l,w="bstTimer",y="pushState",b=t("loader");b.features.stn=!0,t(8);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=b.now())}),o.on(v,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,b.now()])}),a.on(m,function(t,e,n){this.bstStart=b.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),this.bstType])}),c.on(m,function(){this.bstStart=b.now()}),c.on(v,function(t,e){i(w,[e,this.bstStart,b.now(),"requestAnimationFrame"])}),o.on(y+h,function(t){this.time=b.now(),this.startPath=location.pathname+location.hash}),o.on(y+l,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(23)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(20);e.exports=o;var a=window,c="fetch-",s=c+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,h="prototype";u&&d&&p&&(i(f,function(t,e){r(u[h],e,s),r(d[h],e,s)}),r(a,"fetch",c),o.on(c+"end",function(t,e){var n=this;e?e.clone().arrayBuffer().then(function(t){n.rxSize=t.byteLength,o.emit(c+"done",[null,e],n)}):o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(23)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){s.emit("jsonp-error",[],p),s.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=c(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),s.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function c(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var s=t("ee").get("jsonp"),f=t(23)(s);if(e.exports=s,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,h,"dom-"),f.inPlace(HTMLHeadElement.prototype,h,"dom-"),f.inPlace(HTMLBodyElement.prototype,h,"dom-"),s.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(23)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=c(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(23),a=t("ee").get("promise"),c=i(a),s=t(20),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;s(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),c=f.resolve(i);return c}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),s(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=c(t[0],"resolve-",this),t[1]=c(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),c.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=c(t[0],"cb-",this),t[1]=c(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(23)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(23)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",c)}function i(t){b.push(t),l&&(x?x.then(a):v?v(a):(E=-E,P.data=E))}function a(){for(var t=0;t<b.length;t++)r([],b[t]);b.length&&(b=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(23)(u),p=NREUM.o,h=p.XHR,l=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],b=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(h,g),g.prototype=h.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),l){var x=m&&m.resolve();if(!v&&!m){var E=1,P=document.createTextNode(E);new l(a).observe(P,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return l(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),h=t(19),l=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||h<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=l(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(20),c=t(21),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",h=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var l=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){l[e]=o(h+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],21:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],22:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],23:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),c=l(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[y[n]];return d&&d.push([b,n,r,a]),a}}function h(t,e){w[t]=l(t).concat(e)}function l(t){return w[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var w={},y={},b={on:h,emit:n,get:m,listeners:l,context:e,buffer:v,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var c="nr@context",s=t("gos"),f=t(20),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=g.info=NREUM.info,e=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+g.offset],null,"api");var n=p.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===p.readyState&&i()}function i(){s("mark",["domContent",a()+g.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-g.offset}var c=(new Date).getTime(),s=t("handle"),f=t(20),u=t("ee"),d=window,p=d.document,h="addEventListener",l="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var w=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1071.min.js"},b=m&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:c,now:a,origin:w,features:{},xhrWrappable:b};t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),d[h]("load",r,!1)):(p[l]("onreadystatechange",o),d[l]("onload",r)),s("mark",["firstbyte",c],null,"api");var x=0,E=t(22)},{}]},{},["loader",2,15,5,3,4]);</script>
+<script src="https://cdn.optimizely.com/js/9263795456.js"></script>
 <title>Privacy Policy | PINCHme</title>
 <meta content="" name="description">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
@@ -15,8 +16,8 @@
 <meta content="https://d28jpy4hu9hfha.cloudfront.net/assets/landing/pinchme-fb-share-f59b0bdbc058c921f6d1f6f272cf245f.jpg" property="og:image">
 <link href="https://d28jpy4hu9hfha.cloudfront.net/assets/favicon-91ded834f083d7d4382ddf3a97a9c85d.ico" rel="icon" type="image/x-icon">
 <link href="https://d28jpy4hu9hfha.cloudfront.net/assets/apple-touch-icon-bf9b80fbd42f2fe39801fff5831cbf25.png" rel="apple-touch-icon">
-<link rel="stylesheet" media="screen" href="https://d28jpy4hu9hfha.cloudfront.net/assets/application-24a8b533905fadac9f1c1304b3f53054.css" data-turbolinks-track="true">
-<script src="https://d28jpy4hu9hfha.cloudfront.net/assets/application-d3b88905ba7c1dcfb8291f5a529385a5.js" data-turbolinks-track="true"></script>
+<link rel="stylesheet" media="screen" href="https://d28jpy4hu9hfha.cloudfront.net/assets/application-80f2a78892c1686b9019ed5646faebae.css" data-turbolinks-track="true">
+<script src="https://d28jpy4hu9hfha.cloudfront.net/assets/application-581eefc296feb7bbd02710c1d6a3f55a.js" data-turbolinks-track="true"></script>
 
 <script type="text/javascript">
 var _alcTag = _alcTag || [];
@@ -36,7 +37,7 @@ src="https://www.facebook.com/tr?id=373488206186975&ev=PageView&noscript=1"
 /></noscript>
 
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="MajbGWoGC4pqA1yvDLrushpl4hIW71gTsyPze8IPjo7wflRTdzGee0unJLQI9t1Z2qFKeyPPAtgYPhqvHBYPCw==">
+<meta name="csrf-token" content="UVqNRUFM9PJkB1JmrEAPvJUk8ngeYOfJtL8k21pOz0RodxCM0pv3Vxf56PH6U/gscCBaq/aIUEoOG2J1TPkDsQ==">
 
 </head>
 <body class="">
@@ -100,7 +101,7 @@ Hello Pincher!
 <div class="h3 fancy spacer">
 <span>OR</span>
 </div>
-<form name="log-in-form" novalidate="novalidate" class="simple_form user" action="/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="YkMyq5AyRB5vUDrC37NPYvgNMkdWyaJ3HdP3GWIMV/mjlb3hjQXR7070Qtnb/3yJOMmaLmPp+Ly2zh7NvBXWfA==">
+<form name="log-in-form" novalidate="novalidate" class="simple_form user" action="/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="RCueqL5WuA+GVfp7t5Q9Q5VFtD2Hn6D+sz6PS4kaj0h9BgNhLYG7qvWrQOzhh8rTcEEc7m93F30Jmsnln61DvQ==">
 <div class="form-inputs">
 <div class="input email required user_email"><input class="string email required email form-control" placeholder="EMAIL ADDRESS" type="email" name="user[email]" id="user_email"></div>
 <div class="input password required user_password"><input class="password required password form-control" placeholder="PASSWORD" type="password" name="user[password]" id="user_password"></div>
@@ -127,7 +128,7 @@ Hello Pincher!
 <div class="h3 fancy spacer">
 <span>OR</span>
 </div>
-<form name="sign-up-form" id="modal" novalidate="novalidate" class="simple_form new_user" action="/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="wGJP8Rj7YhhBEO1G1z86ukjRcrVrhdbHmkwm6AINHEcBtMC7Bcz36WC0lV3TcwlRiBXa3F6ljAwxUc883BSdwg=="><div id="ss_alert"></div>
+<form name="sign-up-form" id="modal" novalidate="novalidate" class="simple_form new_user" action="/signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="✓"><input type="hidden" name="authenticity_token" value="DQbAtxx5qxNHeOU3j7t3rUdCKqSi6pTNwpcNl9p+xOk0K11+j66otjSGX6DZqIA9okaCd0oCI054M0s5zMkIHA=="><div id="ss_alert"></div>
 
 <div class="form-inputs">
 <div class="input string required user_first_name"><input class="string required firstname form-control" placeholder="FIRST NAME" type="text" name="user[first_name]" id="user_first_name"></div>
@@ -192,7 +193,6 @@ Hello Pincher!
 </select>
 <select id="user_user_profile_attributes_birthdate_1i" name="user[user_profile_attributes][birthdate(1i)]" class="date required birthdate form-control">
 <option value=""></option>
-<option value="1937">1937</option>
 <option value="1938">1938</option>
 <option value="1939">1939</option>
 <option value="1940">1940</option>
@@ -257,6 +257,7 @@ Hello Pincher!
 <option value="1999">1999</option>
 <option value="2000">2000</option>
 <option value="2001">2001</option>
+<option value="2002">2002</option>
 </select>
 </div>
 </div>
@@ -285,7 +286,10 @@ Hello Pincher!
 </div>
 </div>
 <br>
+<h4 class="text-center partner-offers-headline">Partner Offers</h4>
+<div class="offers-on_page" oi-pid="25297215"></div>
 
+<br>
 <p class="text-center small-copy">
 By choosing to sign up, I acknowledge
 <br>
@@ -321,150 +325,477 @@ internationally.
 </section>
 <section class="blank">
 <div class="container padded-lite">
+<h2>Effective Date: 11/16/17</h2>
 <p>
-PINCHme Group Inc. (“PINCHme”, “we”, “our”, or “us”) provides this Privacy Policy to inform you (“You” or “Your”) how we gather and use, and the circumstances under which we may disclose, personal information we collect from our members (“Members”) through
+PINCHme Group, Inc. ("PINCHme", "we", "our", or "us") provides this Privacy Policy to inform you
+("you" or "your") how we gather and use, and the circumstances under which we may disclose, information we
+collect from our users and members through our website with a homepage available at
 <a class="ui-link" href="http://www.PINCHme.com" target="blank">www.PINCHme.com</a>
-(the “Site”) in connection with our service (the “Service”).
+(the "Site") and other related software, interactive features, and/or services operated by us that post
+a link to this Privacy Policy (collectively, the "Service"). This Privacy Policy does not apply to our
+information collection activities outside of the Service (unless otherwise stated below or at the time
+of collection).
 </p>
 <p>
-We may update this Privacy Policy from time to time at our discretion and will notify you of any material changes by posting an announcement notice on the Site or via email to our Members.  We encourage you to revisit this Privacy Policy which was last updated on August 5, 2014.
+By using the Service, you agree to our Terms of Service, and to our collection, use and disclosure practices,
+and other activities as described in this Privacy Policy. If you do not agree and consent,
+discontinue use of the Service.
 </p>
-<h2>
-THIS PRIVACY POLICY IS LIMITED TO PINCHme
-</h2>
+<h2>COLLECTION OF INFORMATION</h2>
+<br>
+<h4>
+<b>Information You Provide</b>
+</h4>
 <p>
-This Privacy Policy does not apply to third party sites to which we may link or to the products or services of our business partners such as the brands that we work with who provide product samples or third parties who may host and/or deliver our data to brands such as Bazaarvoice, PowerReviews and other like services.  The fact that we link to a website or display an advertisement or other third party content is not an endorsement, authorization or representation of our affiliation with any of those third parties, nor is it an endorsement of their privacy or information security policies or practices.
-</p>
-<h2>
-COLLECTION OF PERSONAL INFORMATION
-</h2>
-<p>
-As part of your use of our Site and as part of our Service to the brands we work with, we may ask you to submit feedback on certain products, by way of surveys, testimonials, ratings and reviews or other format.  In order to uniquely identify you, and so that you may receive communications from us and use our Site, we may ask for your name, address, phone number, e-mail address, age and gender or other personal information (“Personal Information”).
+As part of your use of our Service, we may ask you to provide information directly to us. For example, we
+collect information when you register an account, communicate or transact with us, or submit feedback on
+certain products, by way of surveys, testimonials, ratings and reviews or other format through the Service.
 </p>
 <p>
-We may also collect Personal Information when you interact with the Service by logging into an account that you already have with a third party social networking platform (“SNP”), such as Facebook, via our Service. If you log into an SNP via the Service, you are allowing PINCHme to access the Personal Information in your SNP account, as well as other information associated with your SNP account, pursuant to the SNP’s applicable terms and conditions.  The information we receive from an SNP may depend on the privacy settings you have with the SNP, so please check the SNP’s privacy policy.
+The information we collect may include information that identifies you personally (whether alone or in
+combination), such as your name, address, phone number, email address, age, and gender ("Personal
+Information"). In addition, in order to match you with promotional samples of certain third party products or
+services ("Third Party Product Samples") that are provided by our third party brand partners
+("Brand Partners"), we may ask you to provide additional information. Some examples of possible requested
+information include your relationship status, household information, pet information, product preferences,
+and shopping habits. You may choose to voluntarily submit certain other information to us through the Service,
+including Personal Information, but you are solely responsible for your own Personal Information in instances
+where we have not requested that you submit such information to us.
 </p>
-<h2>
-USE OF PERSONAL INFORMATION
-</h2>
 <p>
-We may use your Personal Information, either alone or in combination with other information, so that we can provide, enhance and personalize our Service and related content, products, offers, and marketing efforts. The following is a non-exhaustive list of ways that we may use your Personal Information:
-</p><ol>
+In some cases, we may collect information that you provide about others, including Personal Information,
+such as when you refer a friend. We will use the information you provide to fulfill your requests, such as
+sending information about our Service to your friend’s email address. By using this functionality, you
+acknowledge and agree that both you and your friend are based in the United States and that you have your
+friend’s consent for us to use his or her contact information to fulfill your request.
+</p>
+<p>
+We may collect, use, transfer, and disclose information that has been "de-identified" for any purpose.
+Personal Information once de-identified is not subject to this Privacy Policy and we and our service
+providers may treat it as non-Personal Information and use it without obligation to you except as prohibited
+by applicable law.
+</p>
+<h4>
+<b>Information Collected Automatically</b>
+</h4>
+<p>
+When you access our Service, we and our third-party service providers may use a variety of technologies, now
+and hereafter devised, that automatically record certain usage information about you ("Usage Information").
+Usage Information may include your Internet Protocol address (and other unique identifiers for the particular
+device you use to access the Internet), browser type, your web or application request, your interaction with
+our Service, the webpage or other feature you were using before you came to our Service, pages of our websites
+that you visit, information you search for via our Service, access times and dates, and other similar
+information. We use this information for a variety of purposes, including analyzing and enhancing our
+products and services, and to help personalize our Service for you. We do not treat this information as
+Personal Information (except to the extent required by law), although if we combine it with the Personal
+Information you provide, we will treat the combined information as Personal Information.
+</p>
+<p>
+The methods that may be used on the Service to collect Usage Information include:
+</p><ul>
 <li>
-to identify you as a user of the Service and to help authenticate any account you create with us;
+<b>Log Information:</b>
+Log information is data about your use of the Service, such as IP address, browser type, internet service
+provider, referring/exit pages, operating system, date/time stamps, and related data, which is stored in
+log files.
 </li>
 <li>
-to communicate with you regarding campaigns, the Service, updates, offers, promotions or events and to deliver products to you for sampling;
+<b>Information Collected by Tracking Technologies:</b>
+We and our third-party service providers may automatically collect information about your interactions
+with the Service or emails using various tracking technologies, including cookies, web beacons (also
+known as "tracking pixels"), embedded scripts, location-identifying technologies, device fingerprinting,
+in-app tracking methods, and other tracking technologies now and hereafter developed (
+<b>"Tracking Technologies"</b>
+).
+<ul>
+<li>
+<b>Cookies</b>
+A cookie is a small data file transferred to your computer (or other device) when it is used to
+access our Service. Cookies may be used for many purposes, including to enable certain features of
+our Service, to better understand how you interact with our Service and to monitor aggregate usage by
+visitors and online traffic routing. Cookies may remain on your device for extended periods of time.
 </li>
 <li>
-to help us develop, customize, deliver, support and improve our Service, products, samples, content, and advertising and to provide you with the best user experience possible;
+<b>Web Beacons (“Tracking Pixels”)</b>
+Web beacons are small graphic images, also known as "internet tags" or "clear gifs," embedded in web
+pages and email messages. Web beacons may be used to count the number of visitors to the Service,
+to monitor how users navigate the Service, and to count content views.
+</li>
+<li>
+<b>Embedded Scripts</b>
+An embedded script is programming code designed to collect information about your interactions with
+the Service. It is temporarily downloaded onto your device from our web server or a third party with
+whom we work, is active only while you are connected to the Service, and deleted or deactivated
+thereafter.
+</li>
+<li>
+<b>Location-identifying Technologies</b>
+GPS (global positioning systems) software, geo-filtering, and other location-aware technologies
+locate (sometimes precisely) you for purposes such as verifying your location and delivering or
+restricting relevant content based on your location.
+</li>
+<li>
+<b>Device Fingerprinting</b>
+Device fingerprinting is the process of analyzing and combining sets of information elements from
+your device’s browser, such as JavaScript objects and installed fonts, in order to create a
+“fingerprint” of your device and uniquely identify your device and applications.
+</li>
+<li>
+<b>In-App Tracking Methods</b>
+There are a variety of tracking technologies that may be included in mobile apps, and these are not
+browser-based like cookies and cannot be controlled by browser settings. Some use device identifier,
+or other identifiers such as “Ad IDs” to associate app user activity to a particular app and to track
+user activity across apps.
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p>
+Some information about your use of the Service and certain Third Party Services (defined below) may be
+collected using Tracking Technologies across time and services and used by us and third parties for
+purposes such as to associate different devices you use, and deliver relevant ads and/or other content
+to you on the Service and certain Third Party Services.
+</p>
+<p>
+For further information on Tracking Technologies and your choices regarding them, please see “Third Party
+Services, Features, and Devices” and “Your Choices” below.
+</p>
+<h4>
+<b>Information from Other Sources</b>
+</h4>
+<p>
+We may obtain information about you from other sources, including service providers and third parties, and
+combine such information with information we have collected about you. To the extent we combine such third
+party sourced information with Personal Information we have collected about you on the Service, we will treat
+the combined information as Personal Information under this Privacy Policy. We are not responsible for the
+accuracy of any information provided by third parties or third party policies or practices.
+</p>
+<h2>USE OF INFORMATION</h2>
+<p>
+We may use your information, including Personal Information, either alone or in combination with other
+information, for any purposes consistent with our statements under this Privacy Policy, including so that we
+can provide, enhance and personalize our Service and related content, products, offers, and marketing efforts.
+The following is a non-exhaustive list of ways that we may use your information:
+</p>
+<ol>
+<li>
+to manage our Service, identify you as a user of the Service, and help authenticate any account you create with us;
+</li>
+<li>
+to communicate with you regarding campaigns, the Service, updates, offers, promotions or events and to
+deliver Third Party Product Samples to you (for information about how to manage these communications and
+marketing efforts, please see “Your Choices” below);
+</li>
+<li>
+to help us develop, customize, deliver, support and improve our Service, products, Third Party Product
+Sample offerings, and advertising and to provide you with the best user experience possible;
 </li>
 <li>
 to administer promotions, contests, sweepstakes or other offerings;
 </li>
 <li>
-to protect the rights or property or security of PINCHme or our users, and prevent fraud and other prohibited or illegal activities;
+to protect the rights or property or security of PINCHme or our users, and prevent fraud and other
+prohibited or illegal activities;
 </li>
 <li>
-for our internal purposes (such as auditing, data analysis, and research to improve our services, and communications); and
+to respond to your comments, questions, and requests, and provide customer service;
+</li>
+<li>
+to send you technical notices, updates, security alerts, information regarding changes to our policies,
+and support and administrative messages;
+</li>
+<li>
+for our internal purposes (such as auditing, data analysis, and research to improve our services, and
+communications); and
 </li>
 <li>
 as may be disclosed to you at the point of collection.
 </li>
 </ol>
-<p></p>
+<br>
+<h4>
+<b>SHARING OF INFORMATION</b>
+</h4>
 <p>
-Except as described in this Privacy Policy (i.e. for hosting and delivering data to brands through Bazaarvoice, PowerReviews or other similar services) we will not share your Personal Information with other companies or individuals outside of PINCHme and its affiliates, unless we have received your consent.  For example, at the time of collection of a rating and review of a product, your consent may be requested to share your Personal Information and grant certain rights to a brand or other third party, in the form of a “Testimonial Release.”
+Except as described in this Privacy Policy, we will not share your Personal Information with other companies
+or individuals outside of PINCHme and its affiliates, unless we have received your consent. We may share your
+information as follows:
 </p>
-<h3>
-Our Service Providers and Other Third Parties
-</h3>
+<h4>
+<b>With Our Service Providers</b>
+</h4>
 <p>
-We may engage third parties to perform services on our behalf, such as hosting and storage services, software maintenance services, e-mail notifications, database management, analytics and other services. These third parties may have access to your Personal Information to perform certain tasks on our behalf but they are not authorized by us to otherwise use or disclose your Personal Information.
+We may engage third parties to perform services on our behalf, such as hosting and storage services,
+software maintenance services, email notifications, database management, analytics, fulfilment services,
+and other services. These third parties may have access to your Personal Information to perform certain tasks
+on our behalf but they are not authorized by us to otherwise use or disclose your Personal Information.
+</p>
+<h4>
+<b>With Our Brand Partners</b>
+</h4>
+<p>
+If you choose to submit any information or materials to us including, without limitation, testimonials,
+ratings and reviews, product feedback, data files, written text, computer software, music, audio files or
+other sounds, photographs, videos, and other images) (collectively, “Content”), we may share the Personal
+Information you include in that Content, if any, with our Brand Partners.
+</p>
+<h4>
+<b>To Comply with Laws, Legal Process and Authorities and Protect Rights</b>
+</h4>
+<p>
+We may disclose Personal Information or other information about you to government or law enforcement
+officials, in connection with subpoenas or judicial process, or to any other third party to protect the
+property and rights of us or a third party, to protect the safety of the public or any person, or to prevent
+or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.
+</p>
+<h4>
+<b>For Business Transfers</b>
+</h4>
+<p>
+We reserve the right to transfer or otherwise disclose your information, including Personal Information, in
+connection with a merger, acquisition, or other change in control, joint venture, reorganization or sale of
+assets or in the event of bankruptcy or liquidation proceeding.
+</p>
+<h4>
+<b>With Our Affiliates for Internal Business Purposes</b>
+</h4>
+<p>
+We may disclose information about you, including Personal Information, with our affiliates for internal
+business purposes.
+</p>
+<h4>
+<b>For Direct Marketing Purposes</b>
+</h4>
+<p>
+We may disclose information about you, including Personal Information, with our affiliates, business partners,
+and other third parties including, Brand Partners, for their own business purposes, including direct marketing
+purposes (California residents have certain rights set forth in “Your California Privacy Rights” below).
+</p>
+<h4>
+<b>With Sponsors and Other Third Parties for Sweepstakes, Contests, Promotions</b>
+</h4>
+<p>
+In addition, if you voluntarily participate in a sweepstakes, contest, rewards program or other promotion
+through our Site or Service, we may share your information, including Personal Information, with the
+participating sponsors or with third parties who assist us in using the content or other information you have
+posted or shared with us. By participating, you agree to the official rules that govern that promotion, and
+may, except where prohibited by applicable law, allow the sponsor and/or other parties to use your name,
+voice and/or likeness in advertising or marketing materials.
+</p>
+<h4>
+<b>With your Consent</b>
+</h4>
+<p>
+We may disclose information about you, including Personal Information, with your consent or at your direction,
+or for purposes disclosed at the time you provide the information.
 </p>
 <p>
-In addition, if you voluntarily participate in a sweepstakes, contest, rewards program or other promotion through our Site or Service, we may share your Personal Information with the participating sponsors or with third parties who assist us in using the content or other information you have posted or shared with us.
+Without limiting the foregoing, in our sole discretion, we may share aggregated information (including
+information collected for purposes of selecting relevant Third Party Product Samples) which does not identify
+you or de-identified information about you with third parties or affiliates for any purpose.
 </p>
-<h2>
-COLLECTION AND USE OF NON-IDENTIFYING INFORMATION
-</h2>
+<h2>THIRD PARTY SERVICES, FEATURES, AND DEVICES</h2>
 <p>
-We may collect, use, transfer, and disclose information in a form that does not personally identify you (“Non-Identifying Information”) for any purpose. Non-Identifying Information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers obtain and may collect non-Identifying Information about you from information that you provide us and/or from your use of the Service, either separately or together with your Personal Information. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other users or sources to attempt to provide you with a better experience, to improve the quality and value of our products and services, and to analyze and understand how our products and services are used. We may also use the combined information without aggregating it to serve you specifically.
+Our Service contains content from and hyperlinks to websites, locations, platforms, and services operated and
+owned by third parties (“Third Party Services”). In addition, our Service contains features that allow you
+interact with, connect to, or access our Service through certain Third Party Services and third party devices
+(“Third Party Features”). For example, you interact with a Third Party Service when you “like” or “share”
+content over social media through our Service or log into an account that you already have with a third party
+social networking platform (“SNP”), such as Facebook, via our Service. If you log into an SNP via the Service,
+you are allowing PINCHme to access the Personal Information in your SNP account, as well as other information
+associated with your SNP account, pursuant to the SNP’s applicable terms and conditions. The information we
+receive from an SNP may depend on the privacy settings you have with the SNP, so please check the SNP’s
+privacy policy. Remember that the SNP and other third parties may also have access to your data and use
+Tracking Technologies to independently collect information about you and solicit Personal Information from you.
 </p>
 <p>
-When you access our Service, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically record certain usage information. This information may include your Internet Protocol address (and other unique identifiers for the particular device you use to access the Internet), browser type, your web or application request, your interaction with our Service, the webpage or other feature you were using before you came to our Service, pages of our websites that you visit, information you search for via our Service, access times and dates, and other similar information. We use this information for a variety of purposes, including analyzing and enhancing our products and services, and to help personalize our Service for you. We do not treat this information as Personal Information (except to the extent required by law), although if we combine it with the Personal Information you provide, we will treat the combined information as Personal Information.
+Our Service also contains Tracking Technologies operated by third parties. For example, analytics services,
+such as Google Analytics, may use Tracking Technologies on our Service to help us analyze your use of the
+Service, compile statistic reports on the Service’s activity, and provide other services relating to Service
+activity and internet usage. Similarly, ad serving services, advertisers, and other third parties may use
+Tracking Technologies on our Service and Third Party Services to track your activities across time and
+services, and tailor ads to you based on your activities, which may include sending you an ad on a Third Party
+Service or third party device after you have left the Service (“Interest-based Advertising”).
 </p>
-<h2>
-USE OF COOKIES
-</h2>
 <p>
-We and our third-party service providers may automatically collect Non-Identifying Information using various methods, including, without limitation, cookies. A cookie is a small data file transferred to your computer (or other device) when it is used to access our Service. Cookies may be used for many purposes, including to enable certain features of our Service, to better understand how you interact with our Service and to monitor aggregate usage by visitors and online traffic routing.  You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the online services you visit. If you do not accept cookies, however, you may not be able to use all portions of our online services or all functionality of our online services.
+This Privacy Policy does not apply to third party sites to which we may link or to the products or services
+of our business partners such as the brands that we work with who provide product samples or third parties
+who may host and/or deliver our data to brands such as Bazaarvoice, PowerReviews and other like services.
+The information collected and stored by third parties, whether through our Service, a Third Party Service,
+or a third party device, remains subject to their own policies and practices, including what information they
+share with us, your choices on their services and devices, and whether they store information in the U.S. or
+elsewhere. The fact that we link to a website or display an advertisement or other third party content is not
+an endorsement, authorization or representation of our affiliation with any of those third parties, nor is it
+an endorsement of their privacy or information security policies or practices. We are not responsible for and
+make no representations regarding third party policies and practices, and encourage you to familiarize
+yourself with and consult their privacy policies and terms of use. To the extent we combine information we
+receive from third parties with Personal Information we collect directly from you on the Service, we will
+treat the combined information as Personal Information under this Privacy Policy.
 </p>
 <p>
-Non-Identifying Information may be provided to third parties for marketing, advertising, or other uses. For example, we may share aggregated demographic about our members without disclosing Personal Information except as described in this Privacy Policy.
+For further information on Tracking Technologies and your choices regarding them, please see “Information
+Collected Automatically” above and “Your Choices” below.
 </p>
-<h2>
-SECURITY IS IMPORTANT TO US
-</h2>
+<h2>YOUR CHOICES</h2>
+<br>
+<h4>
+<b>Changing or Deleting Your Information</b>
+</h4>
 <p>
-We strive to protect your Personal Information and privacy. We employ security measures to protect your Personal Information from unauthorized access and disclosure. We use secure sockets layer (“SSL”) technology. An SSL certificate is a digital certificate that authenticates the identity of a website and encrypts information sent to the server. Encryption is the process of scrambling data into an undecipherable format that can only be returned to a readable format with the proper decryption key.  Please be advised that we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, unauthorized access by third parties or inadvertent disclosure of your Personal Information.
+To view and change Personal Information that you have directly provided to PINCHme via the Service, you can
+contact PINCHme by sending an email to
+<a class="ui-link" href="/cdn-cgi/l/email-protection#f9898b908f989a80b98990979a91d7949c"><span class="__cf_email__" data-cfemail="08787a617e696b71485841464b4026656d26">[email&nbsp;protected]</span></a>
+Information may also be accessible via the “Member Profile” section of our website. We may require additional
+information from you to allow us to confirm your identity. Please note we may retain server/backup copies of
+all such data, and that we may decline to process change or deletion requests that we deem to be
+unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others.
 </p>
-<h2>
-OPT-OUT
-</h2>
+<h4>
+<b>Tracking Technologies Generally</b>
+</h4>
 <p>
-If you decide at any time that you no longer wish to receive communications from us, please follow our unsubscribe instructions by emailing
-<a class="ui-link" href="mailto:privacy@pinch.me">privacy@pinch.me</a>
-While you are a member of PINCHme you may not opt-out of important communications from us such as service related announcements or notifications about changes to our Terms and Conditions or Privacy Policy.
+You may be able to instruct your browser, by changing its options, to stop accepting cookies or to prompt you
+before accepting a cookie from the online services you visit. Browsers offer different functionalities and
+options so you may need to set them separately. With respect to our mobile apps, you can stop all collection
+of information via an app by uninstalling the app. Also, you may be able to exercise specific privacy choices,
+such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile
+device. If you do not accept cookies or disable these technologies, however, you may not be able to use all
+portions of our Site or Service, or all functionality of our Site or Service.
 </p>
-<h2>
-OTHER GENERAL INFORMATION
-</h2>
-<h3>
-Public Posts on the Service
-</h3>
 <p>
-Any information that you voluntarily disclose for public posting to the Service becomes available to the public and may be seen or collected by other persons, including third parties that may not adhere to the standards set forth in this Privacy Policy.  Do not submit information, comments, or other content that you want to keep strictly private.  We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Service.
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you
+visit. Note, however, there is no industry consensus as to what site and app operators should do with regard
+to these signals. Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or
+other mechanisms.  For more information on “Do Not Track,” visit
+<a class="ui-link" href="http://www.allaboutdnt.com">http://www.allaboutdnt.com.</a>
 </p>
-<h3>
-Changing or Deleting Your Information
-</h3>
+<h4>
+<b>Analytics and Advertising Tracking Technologies</b>
+</h4>
 <p>
-To view and change Personal Information that you have directly provided to PINCHme via the Service, you can contact PINCHme by sending an email to
-<a class="ui-link" href="mailto:privacy@pinch.me">privacy@pinch.me</a>
-Information may also be accessible via the “account profile” section of our website. Please note we may retain server/backup copies of all such data, and that we may decline to process change or deletion requests that we deem to be unreasonable, or require disproportionate technical effort, or jeopardize the privacy of others.
+You may exercise choices regarding the use of cookies from Google Analytics by going to
+<a class="ui-link" href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a>
+or downloading the Google Analytics Opt-out Browser Add-on.
 </p>
-<h3>
-Compliance with Laws, Legal Process and Authorities
-</h3>
 <p>
-We may disclose Personal Information or other information about you to government or law enforcement officials, in connection with subpoenas or judicial process, to protect the property and rights of us or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable.
+You may choose whether to receive Interest-based Advertising by submitting opt outs.  Some of the advertisers
+and Service Providers that perform advertising-related services for us and our partners may participate in the
+Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising.
+To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit
+<a class="ui-link" href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>
+and
+<a class="ui-link" href="http://www.aboutads.info/appchoices">http://www.aboutads.info/appchoices</a>
+for information on the DAA’s opt out program for mobile apps.  Some of these companies may also be members of
+the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt out options for their
+members, see
+<a class="ui-link" href="http://www.networkadvertising.org/choices/">http://www.networkadvertising.org/choices/.</a>
+Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may
+continue to receive other types of ads.  Opting out only means that those selected members should no longer
+deliver certain Interest-based Advertising to you, but does not mean you will no longer receive any targeted
+content and/or ads (e.g., from other ad networks). PINCHme is not responsible for effectiveness of, or
+compliance with, any third-parties’ opt out options or programs or the accuracy of their statements
+regarding their programs.
 </p>
-<h3>
-Business Transfers
-</h3>
+<h4>
+<b>Communications Opt-Out</b>
+</h4>
 <p>
-We reserve the right to transfer or otherwise disclose your Personal Information in connection with a merger, acquisition, or other change in control, joint venture, reorganization or sale of assets or in the event of bankruptcy or liquidation proceeding.
+By providing your mobile phone number and using the Service, you hereby affirmatively consent to us sending
+you ongoing text messages (including by automatic telephone dialing systems) for marketing purposes,
+including to notify you of newly available Third Party Product Samples and update you about the status of
+your Third Party Product Sample orders. PINCHme will not assess any charges for text messages, but standard
+message charges or other charges from your wireless carrier may apply. You can opt-out of receiving certain
+promotional communications (emails, text messages, and push notifications) from us at any time by: (i) for
+emails, following the instructions as provided in emails to click on the unsubscribe link, or contacting us at
+<a class="ui-link" href="/cdn-cgi/l/email-protection#08787a617e696b71487861666b6026656d"><span class="__cf_email__" data-cfemail="51212338273032281101181f12197f3c34">[email&nbsp;protected]</span></a>
+with the word UNSUBSCRIBE in the subject field of the email; (ii) for text messages, texting “STOP” in
+response to any text message you receive or contacting us at
+<a class="ui-link" href="/cdn-cgi/l/email-protection#9aeae8f3ecfbf9e3daeaf3f4f9f2b4f7ff"><span class="__cf_email__" data-cfemail="59292b302f383a20190910171a1177343c">[email&nbsp;protected]</span></a>
+and specifying you want to opt-out of text messages; and (iii) for push notifications or in-app messages,
+adjusting the permissions in your mobile device.  Please note that your opt-out is limited to the email
+address, phone number, or device used and will not affect subsequent subscriptions or, for emails,
+non-promotional communications, such as those about your account, transactions, servicing, or our ongoing
+business relations. You understand that we may send you a text message confirming any opt-out by you. If you
+provide to us the number for a mobile phone or other device, you represent, warrant, and guarantee that such
+device is registered in your name and owned by you.
 </p>
-<h3>
-Data Transfers
-</h3>
+<h2>YOUR CALIFORNIA PRIVACY RIGHTS</h2>
 <p>
-PINCHme processes Personal Information on our servers in the United States of America. Your Personal Information may be transferred to, and used by, entities located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Such export is a requirement of providing your information to PINCHme, and you consent to such transfer and use in all respects.
+California’s “Shine the Light” law permits customers in California to request certain details about how
+certain types of their information are shared with third parties and, in some cases, affiliates, for those
+third parties’ and affiliates’ own direct marketing purposes. Under the law, a business should either provide
+California customers certain information upon request or permit California customers to opt in to, or opt out
+of, this type of sharing.
 </p>
-<h3>
-Our Policy Toward Children
-</h3>
 <p>
-We do not knowingly collect personally identifiable information from children under 13 and do not target our online services to children under 13.  If we discover that someone under the age of 13 has provided Personal Information we will delete such information from our Site and server.  We encourage parental controls to prevent children from submitting information or data on our Site.
+We may share personal information as defined by California’s “Shine the Light” law with third parties and/or
+affiliates for such third parties’ and affiliates’ own direct marketing purposes. If you are a California
+resident and wish to obtain information about our compliance with this law, please email us at
+<a class="ui-link" href="/cdn-cgi/l/email-protection#85f5f7ecf3e4e6fcc5f5ecebe6edabe8e0"><span class="__cf_email__" data-cfemail="86f6f4eff0e7e5ffc6d6cfc8c5cea8ebe3">[email&nbsp;protected]</span></a>
+or send us a letter to PINCHme Group, Inc., 611 Broadway, Suite 308 New York NY 10012 (Attention: Legal).
+Requests must include “California Privacy Rights Request” in the first line of the description and include
+your name, street address, city, state, and ZIP code. Please note that we are not required to respond to
+requests made by means other than through the provided email address or mail address.
 </p>
+<h2>DATA SECURITY</h2>
+<p>
+We employ reasonable security measures designed to protect your information, including Personal Information,
+from unauthorized access and disclosure. Please be advised that we cannot guarantee or warrant the security
+of any information you disclose or transmit to us online and are not responsible for the theft, destruction,
+unauthorized access by third parties or inadvertent disclosure of your Personal Information.
+</p>
+<h2>OTHER GENERAL INFORMATION</h2>
+<br>
+<h4>
+<b>Public Posts on the Service</b>
+</h4>
+<p>
+Any information that you voluntarily disclose for public posting to the Service becomes available to the
+public and may be seen or collected by other persons, including third parties that may not adhere to the
+standards set forth in this Privacy Policy. Do not submit information, comments, or other content that you
+want to keep strictly private. We are not responsible for events arising from the distribution of any
+information you choose to publicly post or share through our Service.
+</p>
+<h4>
+<b>Data Transfers</b>
+</h4>
+<p>
+PINCHme processes information on our servers in the United States of America. Your information, including
+Personal Information, may be transferred to, and used by, entities located outside of your state, province,
+country or other governmental jurisdiction where the privacy laws may not be as protective as those in your
+jurisdiction. Such export is a requirement of providing your information to PINCHme, and you consent to such
+transfer and use in all respects.
+</p>
+<h4>
+<b>Our Policy Towards Children</b>
+</h4>
+<p>
+We do not knowingly collect personal information as defined by the U.S. Children’s Privacy Protection Act
+(“COPPA”) from children under 13 in a manner that is not permitted by COPPA, and do not target our online
+services to children under 13. If we discover that someone under the age of 13 has provided personal
+information, we will delete such information from our Site and Service to the extent required by COPPA.
+We encourage parents and guardians to prevent children from submitting information or data on our Service,
+and to contact us at
+<a class="ui-link" href="/cdn-cgi/l/email-protection#7707051e0116140e37071e19141f591a12"><span class="__cf_email__" data-cfemail="dcacaeb5aabdbfa59c8c95929f94f2b1b9">[email&nbsp;protected]</span></a>
+if they believe we have collected personal information from children under 13.
+</p>
+<h4>
+<b>Changes to this Privacy Policy</b>
+</h4>
+<p>
+We may update this Privacy Policy from time to time at our discretion and will notify you of any material
+changes by posting an announcement notice on the Site or via email to our Members. Any changes will be effective
+immediately upon posting of the revised Privacy Policy. Your continued use of our Service indicates your consent
+to the Privacy Policy then posted. We encourage you to revisit this Privacy Policy.
+</p>
+<h4>
+<b>Contact Us</b>
+</h4>
 <p>
 If you have any questions about this Privacy Policy, please feel free to contact us by sending an email to
-<a class="ui-link" href="mailto:privacy@pinch.me">privacy@pinch.me</a>
+<a class="ui-link" href="/cdn-cgi/l/email-protection#fe8e8c97889f9d87be8e97909d96d0939b">privacy<span class="__cf_email__" data-cfemail="8fcfdfc6c1ccc7a1e2eaa1">[email&nbsp;protected]</span></a>
 </p>
-<h3>
-Privacy Policy Effective Date:   August 5, 2014
-</h3>
 </div>
 </section>
 </div>
@@ -486,7 +817,7 @@ Privacy Policy Effective Date:   August 5, 2014
 |
 <a target="_blank" href="http://helpcenter.PINCHme.com">Help Center</a>
 |
-<a target="_blank" href="/careers">Careers</a>
+<a target="_blank" href="https://boards.greenhouse.io/pinchme/#.WjGRpbD828U">Careers</a>
 </div>
 <div class="col-sm-3 social">
 <a target="_blank" href="https://www.facebook.com/PINCHme"><img src="https://d28jpy4hu9hfha.cloudfront.net/assets/redesign/social_icons/Facebook-cdd5f5c17ac637505c3761e0021195bd.png" alt="Facebook"></a>
@@ -500,6 +831,6 @@ Privacy Policy Effective Date:   August 5, 2014
 </footer>
 
 </main>
-
+<script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script>
 
 </body></html>
