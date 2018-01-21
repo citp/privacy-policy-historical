@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayo.edu privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902131955id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayo.edu privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121200202id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About This Site - Mayo Clinic
 
