@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airows.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710132553id_/http%3A//airows.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airows.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121142833id_/http%3A//airows.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Airows Privacy Policy - Airows
 
