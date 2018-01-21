@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dronetrest.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219034053id_/http%3A//dronetrest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronetrest.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122005229id_/https%3A//www.dronetrest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DroneTrest
 
@@ -36,7 +36,7 @@ We will make a good faith effort to:
 
 ## Do we use cookies?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.
 
 We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
@@ -48,9 +48,9 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our site. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-## Children's Online Privacy Protection Act Compliance
+## Children’s Online Privacy Protection Act Compliance
 
-Our site, products and services are all directed to people who are at least 13 years old or older. If this server is in the USA, and you are under the age of 13, per the requirements of COPPA ([Children's Online Privacy Protection Act](http://en.wikipedia.org/wiki/Children)), do not use this site.
+Our site, products and services are all directed to people who are at least 13 years old or older. If this server is in the USA, and you are under the age of 13, per the requirements of COPPA ([Children’s Online Privacy Protection Act](http://en.wikipedia.org/wiki/Children)), do not use this site.
 
 ## Online Privacy Policy Only
 
