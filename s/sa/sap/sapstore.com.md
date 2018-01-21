@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the sapstore.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926055326id_/http%3A//www.sap.com/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sapstore.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121135907id_/http%3A//www.sap.com/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 **Skip to Content**
-
-What describes your role best?
-
-How would you rate the 2016 Integrated Report?
-
-Excellent Very Good Good Fair Poor
-
-How easily did you find the information you were looking for?
-
-Very easy Easy Neutral Difficult Very difficult
 
 ##  I. Global Privacy Fundamentals
 
