@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902084013id_/http%3A//www.susu.org/about/2011/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the susu.org privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121010422id_/http%3A//www.susu.org/about/2011/privacy-policy.html) for the most accurate reproduction.*
 
 # SUSU - University of Southampton Students' Union - About - Privacy Policy
 
