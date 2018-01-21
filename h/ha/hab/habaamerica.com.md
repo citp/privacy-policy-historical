@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the habaamerica.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116122257id_/http%3A//www.habaamerica.com/index.php/policies/%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habaamerica.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121023610id_/https%3A//www.habaamerica.com/policies) for the most accurate reproduction.*
 
-# HABA America Official Privacy Policy
+# Privacy Policy | HABA USA Official
 
 Privacy Policy
 
@@ -74,4 +74,4 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@habaamerica.com](mailto:info@habaamerica.com "HABA US Official")
