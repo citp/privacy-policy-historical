@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxvalleyfoodie.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013194122id_/http%3A//www.foxvalleyfoodie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxvalleyfoodie.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122020518id_/http%3A//www.foxvalleyfoodie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fox Valley Foodie
 
@@ -66,7 +66,3 @@ We will not sell, distribute or lease your personal information to third parties
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-Subscribe to FoxValleyFoodie.com!
-
-Subscribe to FoxValleyFoodie.com today and get each tantalizing new post sent directly to your inbox!
