@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveinstyle.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907125008id_/http%3A//www.liveinstyle.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinstyle.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122041334id_/https%3A//www.liveinstyle.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | LiveInStyle
 
