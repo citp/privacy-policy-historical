@@ -1,58 +1,107 @@
-> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929073358id_/http%3A//www.jewellerynetasia.com/en-us/info/privacy-policy-of-jewellerynetasia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewellerynetasia.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122174938id_/https%3A//ubmasiafiles.com/files/privacy/hk/ubmasia_en.html) for the most accurate reproduction.*
 
-# Privacy Policy | JewelleryNetAsia - Global Network for Jewellery and Gem Professionals
+# Privacy Policy Statement | UBM
 
-This privacy policy explains how we handle your Personal and Business Data for our services. By visiting our Website and/or using our services, you both accept the Privacy Policy and explicitly consent to our collection, holding, storage, security, use and disclosure of your Personal and Business Data under the Personal Data (Privacy) Ordinance of Hong Kong.
+We, UBM Asia Limited, take individual privacy seriously. This Statement explains our policies and practices. 
 
-**Collection of Information**  
-When you visit the Website, we record your visit only as a 'hit' and do not collect any Personal and Business Data about you. The 'hit' records are to allow us to compile general statistics to show the number of visitors to the Website.  
-Upon registration as a Supplier Member or Registered Visitor, we collect personal and business data from you. These Personal and Business Data will include information such as company name, contact persons, addresses, phone and fax numbers, email addresses, business nature, products of interest, together with other information which may be necessary or helpful to the provision of our services. Some of the Personal and Business Data is mandatory and some of it you may volunteer. If you do not wish to provide the mandatory fields at Personal and/or Business Data, we will be unable to register you as a Supplier Member or Registered Visitor.
+We respect your privacy and we will use our reasonable endeavour to:  
 
-We also collect Personal and Business Data from you before you use any services that we are providing, including but not limited to company information, product information, posting of trade leads and enquiry making, appointmentsetc. Again, if you do not wish to provide this Personal and Business Data, we may be unable to process your service usage request.
 
-We also gather statistical information about the Website and Users including computer sign-on data, IP addresses, standard web log information, page views, traffic to and from the website, advertising data and more.
+  * to implement computer, physical and procedural safeguards to reasonably protect the security and confidentiality of the personal data we collect;
+  * to limit the personal data collected to the minimum required to provide better service;
+  * to permit only properly trained, authorized employees to access personal data;
+  * not to disclose your personal data to external parties unless you have agreed, we are required by law or any lawful request of any enforcement agencies or we have previously informed you.
 
-**Personal identity data collection [Visitors to Jewellery Exhibitions only]  
-** In your pre-registrations to attend our [Jewellery exhibitions](http://www.jewellerynetasia.com/en/Fairs.html), passport/national identity card numbers and document scans may be collected for the prevention and detection of crime, and to protect the security and safety of our Jewellery exhibitions. Such data will be stored in our databases in order to verify your identity before, during and for a reasonable time after your visit to our Jewellery exhibitions. We do not use such data for any other purposes and will not share any such data to external parties unless required by law or any lawful request of any enforcement agencies. We will not be able to process your pre-registrations to our Jewellery exhibitions without the said identity support.
+  
 
-**Use of Information**  
-We use your Personal and Business Data for the following purposes, including but not limited to:  
-1.operate the Website and services;  
-2.compile statistics on the use of the Website and services  
-3.provide the services and customer support you request;  
-4.improving and enhancing the features and services;  
-5.process your service applications and requirements;  
-6.contact you regarding notices, surveys, product alerts, new services, offers and communications relevant to you in which you may be interested;  
-7.the additional purposes stated in the respective screens that invite you to provide such Personal and/or Business Data. 
 
-**Disclosure of Information**  
-We may disclose your Personal and Business Data to third parties, our partners and/or alliances, when:  
-1\. we get your consent to share the information;  
-2\. we need to share your information to provide the product or service you have requested;  
-3\. required by subpoenas, court orders or legal process or in our opinion it is required to enable us to comply with any legal requirement of a law enforcement or governmental agency which has in our opinion relevant authorisation to obtain such information (when we may disclose the same without notification to you that we have done so);  
-4.your activity on the Website violates our Terms of Services or any of our usage guidelines for specific products or services;  
-5.we need to send your information to merchants, payment processing service providers and financial institutions for the purposes set out above.
+  1. **Information collection**
 
-**Co-branded and alliance relationship**  
-We have established relationships with other parties to offer you the benefit of other products and services which we ourselvesmay not offer. We offer you access to these other parties either through the use of hyperlinks to their sites from our Website, or through offering "co-branded" sites in which both these other parties and ourselves share the same URL, domain name or pages within a domain name on the Internet. Generally, we do not own the co-branded and alliance parties. It is, therefore, important that you understand their privacy policy and/or terms of use if you visit and use their sites.
+In order to provide better service to you and to fulfil the purposes set out in the next paragraph, we may collect certain information when you register with us or communicate with us. In the process, we may also collect personal information of individual contact persons of companies or their employees. As stated in the registration form, some of the requested information is mandatory and some of them you may provide voluntarily. If specific mandatory information is requested but not supplied, we may be unable to provide the requested service. We only retain personal data for so long as it is necessary for fulfilling the purposes set out in the next paragraph. 
 
-**Retention**  
-Our general policy is to retain records of your visits and online dealings without time limitation.
+  
 
-**Cookies**  
-When you browse the Website, cookies may be stored in your computer's hard drive. We use cookies to personalise your use of the Website and to operate the service areas. You have a choice not to accept cookies, but if you do certain functionality may not be available.
+  2. **Use of information**
 
-**Security Measures**  
-We employ commercially reasonable security methods to prevent unauthorised access, maintain data accuracy and ensure correct use of information. However, we are unable to ensure that all your Personal and Business Data will never be disclosed or used in ways contrary to this Privacy Policy and are not liable in such circumstances.
+The purposes for which information may be used by us include: 
 
-In general, your Personal and Business Data is kept confidential and is only accessible by authorised personnel. We recommend that you do not divulge your User Login Name and Password to anyone. Our personnel will never ask you for your User Login Name and Password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your Account and close your browser window when you have finished your session with the Website. You are responsible for all activities that occur under your User Account and Password.
+    * processing applications for exhibiting at or visiting our trade fairs
+    * facilitating and enhancing our operations by incorporating the personal data into our database and conducting analysis, research and auditing based on the personal data
+    * promoting and notifying you of our trade fairs in Hong Kong and around the world, and events or trade fairs organised by our affiliates and joint venture partners
+    * distributing publications and research materials of our company
+    * marketing our services or products
+    * if necessary, facilitating legal proceedings, including collecting overdue amounts
 
-**Disclaimers**  
-No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your information, we cannot ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
+**_Direct marketing_**  
+We may use your personal data, including your name, email address and physical address to conduct direct marketing in relation to the promotion of and invitation to our trade fairs in Hong Kong and around the world, and events or trade fairs organised by our affiliates and joint venture partners, as well as the promotion of our services via fax, email, direct mail, telephone and other means of communication, or send e-newsletters to you. We will not so use your personal data unless we have received your consent to the said intended use. You may choose not to receive promotional materials by simply telling us through the below contact details, and we will cease to do so, without charge. 
 
-The Website may include links to external sites, including sites of members, third parties and "co-branded" sites. Links to external sites do not imply any endorsement of such sites (or any products or services offered thereon) by us or any warranty or guarantee of any information provided thereon. We disclaim and exclude any responsibility or liability for any external site for which a link is provided and this Privacy Policy shall not apply to any such site.
+  
 
-**Changes to privacy policy**  
-Any changes to this Privacy Policy Statement will be postedon this webpageand effective immediately on the posting date.
+  3. **Disclosure / Transfer of Data**
 
-You agree to indemnify UBM Asia and all Related Persons from and against all Claims arising out of your use of this Website or the use of this Website by any person using your User Account, your password and/or your Personal and Business Data. If there is any conflict between the Chinese and English versions of this Statement, the English version prevails.
+We will keep the personal data we hold confidential but may provide or transfer the personal data to: 
+
+    * our agents, advisers, auditors, contractors, and service providers in connection with our operations or services for facilitating and enhancing our operations and conducting analysis, research and auditing based on the personal data
+    * our overseas offices, affiliates, joint venture partners, which are also exhibition organisers, for the purpose of conducting direct marketing in relation to the promotion of and invitation to our trade fairs in Hong Kong and around the world
+    * persons to whom we are required to make disclosure under applicable laws in or outside Hong Kong
+
+**_Provision of data for direct marketing_**  
+Please note that we intend to provide the personal data we collected, including your name, email address and physical address to our overseas offices, affiliates, joint venture partners, which are also exhibition organisers, for use in direct marketing in relation to the promotion of and invitation to their trade fairs and events. We will not so provide your personal data for the said purposes unless we have received your written consent to the aforesaid intended provision. 
+
+  
+
+  4. **Cookies**
+
+When you browse our website, cookies may be stored in your computer's hard drive. We use cookies to personalise your use of our website and to operate the service areas. You have a choice not to accept cookies, but if you do certain functionality may become unavailable. 
+
+  
+
+  5. **Security**
+
+In general, your Personal Data is kept confidential and is only accessible by authorised personnel. Personal data stored electronically are password-protected. Encryption technology is used on our secured web areas. We recommend that you do not divulge your User Login Name and Password to anyone. Our personnel will never ask you for your User Login Name and Password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your Account and close your browser window when you have finished your session with the Website. You are responsible for all activities that occur under your User Account and Password. 
+
+  
+
+  6. **Hyperlinks**
+
+Our websites may include links to external sites, including sites of members, third parties and "co-branded" sites. Links to external sites do not imply any endorsement of such sites (or any products or services offered thereon) by us or any warranty or guarantee of any information provided thereon. We disclaim and exclude any responsibility or liability for any external site for which a link is provided and this Privacy Policy shall not apply to any such site. Please refer to the privacy policies of the other websites. 
+
+  
+
+  7. **Changes**
+
+Any changes to this Privacy Policy Statement will be posted on this webpage and effective immediately on the posting date. 
+
+  
+
+  8. **Transfer of Data Overseas**
+
+We will generally hold your data on our servers in Hong Kong. However, we may transfer it to our overseas offices elsewhere in the world or to any of the people listed at paragraph 3 above, who may be located elsewhere. 
+
+  
+
+  9. **Your consent and rights**
+
+Under the Hong Kong Personal Data (Privacy) Ordinance, individuals have the right: 
+
+    * to check whether we hold personal data about you and to access such data
+    * to require us to correct inaccurate data
+    * to ascertain our policies and practices in relation to personal data and the kind of personal data held by us.
+  
+
+
+
+
+Please send requests to access or correct data, to cease communications, and questions or complaints to: 
+
+Digital Innovation & Business Intelligence Department  
+UBM Asia Limited  
+17th Floor, China Resources Building  
+26 Harbour Road, Wanchai, Hong Kong  
+Tel: +852 2516 2125 / +852 2827 6211   Fax: +852 3749 7349  
+E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0561647164676c286d6e457067682b666a68)  
+
+
+We may charge a reasonable fee for processing a data access request. 
+
+If there is any conflict between the Chinese and English versions of this Statement, the English version prevails. 
