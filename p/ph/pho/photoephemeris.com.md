@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122130223id_/http%3A//photoephemeris.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoephemeris.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122024001id_/https%3A//www.photoephemeris.com/privacy) for the most accurate reproduction.*
 
 # The Photographer's Ephemeris: Privacy Policy
 
@@ -40,7 +40,7 @@ In the future, we may sell, buy, merge, or partner with other companies or busin
 
 We use return email addresses or other contact information you provide to us to answer the email enquiries we receive and to communicate with you regarding your use of or access to the Services.
 
-If you contact us with an enquiry, support request or other similar request related to Skyfire™, we may share your contact details and request with Matthew Kuhns Photography, the licensor of Skyfire to Crookneck Consulting LLC, for the purposes of addressing your request appropriately, and you hereby consent to the same.
+If you contact us with an enquiry, support request, field report or other similar request related to Skyfire™, we may share your contact details and request with Skyfire Services LLC, the licensor of Skyfire to Crookneck Consulting LLC, for the purposes of addressing your request appropriately, and you hereby consent to the same.
 
 If you indicate interest in our Services by contacting us, donating, or signing up for a trial of or subscription to the Services, we may occasionally email you to inform you of significant updates, or changes that may affect your use of or access to the Services. You may unsubscribe from future mailings using the link included.
 
