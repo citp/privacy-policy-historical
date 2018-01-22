@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacamo.co.uk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122121751id_/http%3A//www.jacamo.co.uk/shop/policies/policiesView.action%3FfinalTarget%3Dpolicies_rights%26decoration%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacamo.co.uk privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122015529id_/https%3A//www.jacamo.co.uk/shop/policies/policiesView.action%3FfinalTarget%3Dpolicies_rights%26decoration%3Dtrue) for the most accurate reproduction.*
 
 # Men's Clothing & Fashion - Large Men's Clothing Inc. XL, XXL, XXXL Sizes | Jacamo
 
