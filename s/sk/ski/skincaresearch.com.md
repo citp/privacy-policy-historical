@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincaresearch.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101222153id_/http%3A//www.skincaresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincaresearch.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122033659id_/http%3A//www.skincaresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SkinCareSearch.com
 
@@ -74,4 +74,4 @@ We reserve the right to make material changes to the substance of this Privacy P
 
 A California resident who has provided personal information to a business with whom he/she has established a business relationship, for personal, family, or household purposes (“California customer”), is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes.  However, under the law, a business is not required to provide such information if the business adopts and discloses to the public (in its Privacy Policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes.
 
-As stated in this Policy, we do not share information with third parties for their direct marketing purposes. California customers may request further information about our compliance with this law by sending us an email at privacy@skincaresearch.com.  Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
+As stated in this Policy, we do not share information with third parties for their direct marketing purposes. California customers may request further information about our compliance with this law by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this email address.
