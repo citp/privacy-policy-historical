@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homestratosphere.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002110751id_/https%3A//www.homestratosphere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestratosphere.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122032145id_/https%3A//www.homestratosphere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Home Stratosphere
+# Privacy Policy -
 
 This privacy policy details how JGD Holding Company Ltd.. (dba “HomeStratosphere.com”) uses and protects any information that you give HomeStratosphere.com when you use this website. HomeStratosphere.com is committed to ensuring that your privacy is protected.  If we ask you to provide certain information, so that we can identify you, when using this website, you can be assured that it will only be used in accordance with this privacy policy.  HomeStratosphere.com may change this policy from time to time by updating this page. You should check this page from time to time if you would like to stay up to date on any change made to this privacy policy. This policy is effective from September 16, 2013.
 
