@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozcarguide.com privacy policy that was archived on 2017-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170524225650id_/http%3A//www.ozcarguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozcarguide.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122082751id_/http%3A//www.ozcarguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OZ Guide: Global Market Research News by Market.biz
 
