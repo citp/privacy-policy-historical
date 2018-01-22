@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ahschools.us privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628224003id_/http%3A//www.ahschools.us/Page/29780) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahschools.us privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122224454id_/https%3A//www.ahschools.us/Page/29780) for the most accurate reproduction.*
 
 # Conditions / Privacy policy
 
-#### Schoolwires privacy policy
+  * #### Schoolwires privacy policy
 
  _Effective on Oct. 10, 2014_
 
@@ -26,12 +26,10 @@ Before a child under 13 may access features that require registration, the Schoo
 
  **Schoolwires collects and subsequently processes personal information in two ways:**
 
-  1.  **Self-registration.** If you choose to become a registered user, on behalf of the School, we will ask for personal information from you through the Solution. After we collect this information from you, it may be verified by the School. So that the registration process is compliant with federal law under the Children's Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored. Children under 13 years of age are not allowed to register themselves with the Solution. Since we are collecting personal information from students for the use and benefit of the School, all information collected by Schoolwires is verified for compliance with applicable laws (such as COPPA) by the School directly and not by Schoolwires. If you feel your child under 13 years of age has registered on this Solution without your permission, please contact the School directly.
-  2.  **Pre-registration.** You may be pre-registered by the School in one of two ways. Either way, the School may not share personal information for children under 13 years of age with Schoolwires without first receiving the necessary parental consent as described above. The two means of pre-registration are: 
-    * Your School may share registration information with Schoolwires, either manually or via an authorized third-party system feed. Schoolwires would conduct an import of this registration information.
-    * A school-designated individual may input registration information for you.
-
-
+    1.  **Self-registration.** If you choose to become a registered user, on behalf of the School, we will ask for personal information from you through the Solution. After we collect this information from you, it may be verified by the School. So that the registration process is compliant with federal law under the Children's Online Privacy Protection Act (COPPA), you are first asked for your birth date. Birth date information is collected only to validate your age and is not stored. Children under 13 years of age are not allowed to register themselves with the Solution. Since we are collecting personal information from students for the use and benefit of the School, all information collected by Schoolwires is verified for compliance with applicable laws (such as COPPA) by the School directly and not by Schoolwires. If you feel your child under 13 years of age has registered on this Solution without your permission, please contact the School directly.
+    2.  **Pre-registration.** You may be pre-registered by the School in one of two ways. Either way, the School may not share personal information for children under 13 years of age with Schoolwires without first receiving the necessary parental consent as described above. The two means of pre-registration are: 
+      * Your School may share registration information with Schoolwires, either manually or via an authorized third-party system feed. Schoolwires would conduct an import of this registration information.
+      * A school-designated individual may input registration information for you.
 
 > Regardless of the way you are registered, various types of information are collected during registration. Some information is required, such as First and Last Name, Email Address, User Name and Password. These fields are labeled to indicate that they are required. Other information is optional such as Title, Address, City, State, ZIP Code, and Phone. Your School may elect to provide certain optional information on your behalf in order to use certain features and functions of the Solution. By way of example, the School may provide Schoolwires with your mobile phone number in order to be able to send certain text and/or voice messages to you.
 
@@ -76,13 +74,10 @@ Schoolwires does not associate information that we collect through log files or 
 A cookie is a piece of data stored on your computer tied to information about you. The only personal information a cookie can contain is information you supply. Schoolwires uses session or dynamic cookies, e-tags, and scripts to let us know when a user is signed in. Once you close your browser, the cookie simply terminates. We may use web beacons (single-pixel gifs) to count visitors.  
 When you are signed in and depending on your assigned role(s), additional services become available through our menu system. Again, depending on your assigned role(s), cookies may offer the following benefits after Sign-In:  
 
-
-  * A personalized salutation greeting
-  * Content tailored to your role(s)
-  * Use of services that require Sign-In
-  * Session time-out, a security feature
-
-
+    * A personalized salutation greeting
+    * Content tailored to your role(s)
+    * Use of services that require Sign-In
+    * Session time-out, a security feature
 
 You can disable cookies in your browser's preferences. If you disable cookies in your browser, you may still use the Solution but certain services and/or features may not function properly. For example, services that require Sign-In will not work if cookies are disabled.
 
@@ -113,10 +108,8 @@ When you or the Site Administrator deletes your account, the information contain
 
 The E-alert feature is a Solution feature available on certain platforms. There are two types of E-alerts:  
 
-
-  1. Broadcast E-alerts are used by Site Administrators to send messages to a specific group or multiple groups of users (i.e., users assigned the same groups). As an example, the School may send voice and/or text messages to groups of users as determined by Site Administrators.
-  2. Content E-alerts are messages to users when certain changes are made to one or more homepages or sections to which they subscribe. Content editors decide whether to send an E-alert to subscribers and the content within the message. Users can opt out of E-alerts through options in their Account Settings.
-
+    1. Broadcast E-alerts are used by Site Administrators to send messages to a specific group or multiple groups of users (i.e., users assigned the same groups). As an example, the School may send voice and/or text messages to groups of users as determined by Site Administrators.
+    2. Content E-alerts are messages to users when certain changes are made to one or more homepages or sections to which they subscribe. Content editors decide whether to send an E-alert to subscribers and the content within the message. Users can opt out of E-alerts through options in their Account Settings.
  **System notifications**
 
 The Solution will notify Site Administrators by email or by electronic means when new users request access to the Solution through self-registration. In addition, the Solution will notify users by email or by electronic means when other users comment on their blog, when account changes are made to their account, and when other such activities occur on the Solution.
@@ -153,11 +146,9 @@ If you have any inquiries regarding our partner’s privacy practices or how the
  **Modifications to personal information**  
 There are three ways personal information can be modified:  
 
-
-  1. If your personal information changes, or if you no longer want a user account on the Solution, you or (depending on the platform you are using) your Site Administrator may update or delete your personal information in your account.
-  2. Site Administrators can modify personal information. These Administrators only have access to their Solution’s user information. For children under 13 years of age, the School is responsible for first validating receipt of verifiable parental consent.
-  3. If you have any other requests related to the modifications or deletion of your personal information, please contact the Site Administrator or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.
-
+    1. If your personal information changes, or if you no longer want a user account on the Solution, you or (depending on the platform you are using) your Site Administrator may update or delete your personal information in your account.
+    2. Site Administrators can modify personal information. These Administrators only have access to their Solution’s user information. For children under 13 years of age, the School is responsible for first validating receipt of verifiable parental consent.
+    3. If you have any other requests related to the modifications or deletion of your personal information, please contact the Site Administrator or Schoolwires. If the request is made to Schoolwires, we will look to the School to validate the request and respond accordingly.
  **Links**  
 The Solution may contain links to other sites. Schoolwires is not responsible for the privacy practices of other such sites. This Privacy Policy applies solely to information that we collect.
 
@@ -207,3 +198,6 @@ State College, PA 16803
 Phone: 814.689.1046  
 Email: PRIVACY@SCHOOLWIRES.COM  
 URL: WWW.SCHOOLWIRES.COM/PRIVACY
+
+
+
