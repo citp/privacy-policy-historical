@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225232901id_/https%3A//www.missuniverse.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missuniverse.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123003922id_/https%3A//www.missuniverse.com/privacy_policy) for the most accurate reproduction.*
 
 # Miss Universe Home
 
