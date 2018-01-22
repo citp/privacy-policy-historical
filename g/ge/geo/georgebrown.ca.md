@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824200344id_/https%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122023748id_/https%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,8 +72,8 @@ The Website endeavours to maintain appropriate procedural and technological meas
 
 ### **Contacting us about your privacy**
 
-You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at [website@georgebrown.ca](mailto:website@georgebrown.ca). George Brown College attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information. If you have any questions about this Privacy Policy, you may contact our privacy officer at the following address:[dhall@georgebrown.ca](mailto:dhall@georgebrown.ca)
+You may request access to your personal information and information about our collection, use and disclosure of information by contacting us at [website@georgebrown.ca](mailto:website@georgebrown.ca). George Brown College attempts to keep records as accurate and complete as possible. You can help us maintain the accuracy of your information by notifying us of any changes to your personal information.
 
-This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to George Brown College’s collection, use and disclosure of your personal information in accordance with this or any revised Privacy Policy.
+This version of the Web Privacy Policy has been in effect since June 2009. This Privacy Policy may be changed from time to time at our sole discretion and without any prior notice. New versions of this Privacy Policy will be posted here. Your continued use of this Website, subsequent to any changes to the Privacy Policy, will signify that you consent to George Brown College's collection, use and disclosure of your personal information in accordance with this or any revised Privacy Policy.
 
-This version of the Web Privacy Policy has been in effect since June 2009.
+If you have any questions around [Freedom of Information and Protection of Privacy](https://web.archive.org/diversity/fippa.aspx), you may contact our Freedom of Information & Privacy Coordinator at the following address:[odosis@georgebrown.ca](mailto:odosis@georgebrown.ca). 
