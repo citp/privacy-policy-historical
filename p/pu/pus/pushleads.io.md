@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushleads.io privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803022636id_/http%3A//pushleads.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushleads.io privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123012407id_/http%3A//pushleads.io/privacy) for the most accurate reproduction.*
 
 # Privacy — PushLeads
 
