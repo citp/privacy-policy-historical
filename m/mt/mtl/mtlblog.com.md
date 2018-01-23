@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtlblog.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901080120id_/https%3A//www.mtlblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtlblog.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123134635id_/https%3A//www.mtlblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MTL Blog
 
