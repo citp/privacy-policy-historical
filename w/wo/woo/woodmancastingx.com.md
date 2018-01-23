@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodmancastingx.com privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917123307id_/http%3A//www.woodmancastingx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodmancastingx.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123194558id_/https%3A//www.woodmancastingx.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
