@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628191340id_/http%3A//fuller.edu/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuller.edu privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123210707id_/https%3A//www.fuller.edu/Footer-Pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Fuller
 
