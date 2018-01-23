@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123055319id_/http%3A//www.flysfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flysfo.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123204107id_/https%3A//www.flysfo.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY Policy | San Francisco International Airport
 
