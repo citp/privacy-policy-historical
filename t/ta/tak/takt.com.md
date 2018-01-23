@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takt.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123192408id_/http%3A//www.takt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takt.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123113051id_/http%3A//takt.com/privacy-policy) for the most accurate reproduction.*
 
 # Takt | Privacy Policy
 
@@ -84,7 +84,7 @@ Our Services are not designed for children under 13. If we discover that a child
 
 ###  Contact Us 
 
-If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#45363035352a37310531242e316b262a28). 
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b484e4b4b54494f7b4f5a504f15585456). 
 
 ###  Changes to this Policy 
 
