@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeducation.pk privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124091509id_/http%3A//theeducation.pk/u/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducation.pk privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123164410id_/http%3A//theeducation.pk/u/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Education In Pakistan
 
