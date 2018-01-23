@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwarebuzzer.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123050728id_/http%3A//softwarebuzzer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarebuzzer.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123012218id_/http%3A//softwarebuzzer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
