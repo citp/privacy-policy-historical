@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directseries.net privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123144817id_/http%3A//directseries.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directseries.net privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123090609id_/https%3A//directseries.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download TV-Series Direct Link
 
