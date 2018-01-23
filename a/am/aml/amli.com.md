@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104111852id_/https%3A//www.amli.com/legal.aspx%3Fref%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123023717id_/https%3A//www.amli.com/legal.aspx%3Fref%3Dprivacypolicy) for the most accurate reproduction.*
 
 # AMLI.com - Privacy Policy
 
