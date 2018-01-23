@@ -1,61 +1,98 @@
-> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116214355id_/http%3A//www.icc-cricket.com/about/230/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketworldcup.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123054100id_/http%3A//www.icc-cricket.com/about/the-icc/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | ICC Cricket
 
-  
-ICC Development (International) Limited ("us", "our" or "we") is committed to preserving the privacy of all visitors to our website at www.icc-cricket.com (the "Website"). Before you proceed with use of the Website, please read the following privacy policy (the "Policy") carefully to understand how we use and protect the information that you provide to us.
+### ICC Website Privacy Policy
 
-Please be aware that this Policy only governs our use of personally identifiable information that is collected when you are on the Website. This Policy does not extend to the use of data submitted to or through any third party websites to which links may be provided on the Website, and we encourage you to review the privacy policies of those other websites in order that you understand how they collect, use and share information.
+**PRIVACY POLICY**
 
-**Information that we may collect from you**
+The International Cricket Council (together with its group companies) ("we", “us” or “our”) are committed to protecting and respecting your privacy.
 
-In general, you can access and browse the Website without providing personal information. However, there may be times when we will request personally identifiable information from you in order that you may participate in the Website's services, activities or features. The personally identifiable information collected may include (without limitation) your fist name, last name, e-mail address, address, country of residence, nationality, gender, date of birth, preferences, billing address, credit or debit card information, account name, account password, answer to security question and/or mother's maiden name. We may also collect information about your usage of the Website as well as information about you from messages you post to any forum or message board and emails, letters and other communications you may send to us from time to time.
+This policy (together with our terms of use [[www.icc-cricket.com/about/the-icc/legal-notices/website-terms-of-use](http://www.icc-cricket.com/about/the-icc/legal-notices/website-terms-of-use)] and any other documents referred to on it) sets out the basis on which any personal data we collect from you will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our site you are accepting and consenting to the practices described in this policy. 
 
-When you submit personally identifiable information to us through the Website, you agree that such information may be stored and processed by us and/or on our behalf. We may also collect information about your interaction with the Website and the services on the Website. We receive and record information on our server logs from your browser including your IP address, cookie information (see further below) and the page(s) you requested. In particular, we reserve the right to perform statistical analysis of user behaviours and characteristics in order to measure interest in and use of the various areas of the Website and to ascertain the number of users that have visited particular pages of the Website. We will provide only aggregated data from these analyses to third parties, and such statistical data will not identify any individual.
+**Information we collect from you**
 
-Please note that if you submit your personally identifiable information to us, you will be giving your consent to the transfer of such information outside the European Economic Area ("EEA"). Collected information is processed in India, and may be stored and used elsewhere depending on the location of affiliates, business partners and other entities who are permitted to access such information under the terms of this Policy. Organisations based in some countries outside of the EEA may not protect privacy and personal data rights as extensively as those based and/or regulated within the EEA (and such locations may include countries which may not afford the same level of protection of such data as the country from which you provided the information).
+We will collect and process the following data about you:
 
-**Use of your information**
+  * technical information, including the Internet protocol (IP) address used to connect to the Internet, browser type and version, time zone setting, operating system and platform;
 
-We collect and use your information in order to give you a better service and to provide you with information you request, including information about ICC events and/or the sport of cricket. Your information is also used to fulfil your requests for certain services and/or to participate in certain activities and make the Website more useful to you. Where you have consented when providing us with your details, we may also allow carefully selected third parties to contact you from time to time about events, products and services which may be of interest to you
 
-You have the right to prevent marketing information being sent direct to you, whether by us or by our carefully selected third parties. If you prefer not to receive information from us or from any other organisation to which we may wish to disclose your personal information, ensure that you tick the appropriate box which appears where you are submitting your personal data. If you change your mind, at any time, about being contacted by us or our third parties, please let us know. Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.
+  * information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site, items you viewed or searched for, page response times, download errors, length of visits to certain pages, page interaction information, methods used to browse away from the page. 
 
-We may disclose your personally identifiable information without your express consent where we believe disclosure to be required by law or regulation, or necessary to protect or defend our rights or property, the safety of the public and/or the users of the Website.
+
 
 **Cookies**
 
-In common with many other website operators, we may use standard technology called 'cookies' on the Website. Cookies are small amounts of information that are stored by your browser on your computer's hard drive. We use cookies to improve the Website, to monitor Website traffic and to deliver a better and more personalised service for you. Most browsers automatically accept cookies, but you can usually change your browser setting to prevent cookies being stored. However, if you adjust your browser setting in this way, you may be unable to access certain parts of the Website.
+Our website uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see Information about our use of Cookies [[https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy](https://www.icc-cricket.com/about/the-icc/legal-notices/cookie-accepting-policy)].
 
-Other companies that are advertising on our Website may also use cookies, over which we have no control. Other companies' use of their cookies is subject to their own privacy policies, not this Policy. Such third party advertisers do not have access to our cookies.
+**Uses made of the information**
 
-**Children under 16**
+We use information held about you in the following ways:
 
-If you are under 16, you must obtain the approval of your parent or legal guardian before sending us any of your personal information (such as your name, e-mail address, home address, date of birth, etc).
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-**Security and data retention**
 
-We employ security measures to help safeguard the information we collect from you on the Website, including technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to access or use your personal information for improper purposes. We will retain your information for a reasonable period or as long as the law requires.
+  * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
 
-**Changes to this Policy**
 
-This Policy was last updated on [insert publication date]. We reserve the right to change this Policy at any time. Any changes in the future will be posted to the Website. Accordingly, we recommend that you check this page periodically in order to review our current Policy.
+  * to allow you to participate in interactive features of our service, when you choose to do so;
 
-**Accessing, updating or removing your information**
+
+  * as part of our efforts to keep our site safe and secure;
+
+
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
+
+
+  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+
+
+
+**Disclosure of your information**
+
+You agree that we have the right to share your personal information with:
+
+  * Any member of our group;
+
+
+  * Selected third parties including:
+
+
+    * our commercial partners, our members, business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+
+
+    * advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.  We do not disclose information about identifiable individuals to our advertisers, but we will provide them with aggregate information about our users. We may also use such aggregate information to help commercial partners reach the kind of audience they want to target;
+
+
+    * analytics and search engine providers that assist us in the improvement and optimisation of our site;
+
+
+    * fraud and crime prevention agencies and providers.
+
+
+
+We will disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [[www.icc-cricket.com/about/the-icc/legal-notices/website-terms-of-use](http://www.icc-cricket.com/about/the-icc/legal-notices/website-terms-of-use)] and other agreements; or to protect our rights, property, or safety or that of other people.
+
+**Where we store your personal data**
+
+The data that we collect is transferred to, stored at and processed a destination outside the European Economic Area ("EEA").  Organisations based in some countries outside of the EEA may not protect privacy and personal data rights as extensively as those based and/or regulated within the EEA.  By using our site and providing your information, you agree to this transfer, storing or processing and that.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+**Your rights**
+
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [enquiry@icc-cricket.com].
+
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.  Please note that the microsites which allow for purchase of merchandise and tickets which are accessible from our site are operated by third parties and are subject to such third parties’ terms and conditions and privacy policies.  We are not responsible for the operation of such microsites.
+
+**Access to information**
 
 You have the right to receive a copy of and/or update, modify and/or remove the personal information that we hold about you. If you wish to receive a copy of the personal information that we hold about you, please let us know. We may charge a small fee towards the cost of administering your request. If you believe that any of the personal information that we hold about you has changed or is incorrect, you may ask us to change or update such data.
 
-All requests shall be in writing and shall be directed to the contact details as set out below and shall include enough information to enable us to satisfy ourselves as to your identity.
+**Changes to our privacy policy**
 
-**Contacting us**
+If our Privacy Policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. Your continued use of our site indicates your acceptance of any changes.
 
-You can contact us by emailing us at enquiry@icc-cricket.com or by writing to us at the following address:
+**Contact**
 
-ICC Development (International) Limited  
-Street 69, Dubai Sports City  
-Emirates Road  
-PO Box 500 070  
-Dubai  
-United Arab Emirates
-
-© Copyright 2010 - ICC Development (International) Limited. All rights reserved. 
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [enquiry@icc-cricket.com].
