@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icc-cricket.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925141823id_/http%3A//www.icc-cricket.com/about/the-icc/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icc-cricket.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123054100id_/http%3A//www.icc-cricket.com/about/the-icc/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal | ICC Cricket
 
