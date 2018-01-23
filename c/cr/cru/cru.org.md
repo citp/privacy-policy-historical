@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831075922id_/https%3A//www.cru.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123064020id_/https%3A//www.cru.org/us/en/about/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy
+# Your Privacy | Cru
 
 ### Last Updated: May 2017
 
@@ -10,7 +10,7 @@ Please know that we are committed to protecting and appropriately handling the p
 
 **1.   **Using this Site.  
 
-Please read our [Terms of Use](https://www.cru.org/about/terms-of-use.html) (the “Terms of Use”) to find out more about the requirements for using this Site. Please note that individual applications like MPDX and Mission Hub may be governed by Terms of Use customized for that specific application.  
+Please read our [Terms of Use](https://www.cru.org/us/en/about/terms-of-use.html) (the “Terms of Use”) to find out more about the requirements for using this Site. Please note that individual applications like MPDX and Mission Hub may be governed by Terms of Use customized for that specific application.  
 
 
 **2.  Collection and Use of Information.**  
@@ -31,7 +31,7 @@ We cannot guarantee that the security measures we implement in connection with t
 
 **5.  Public Forums.**
 
-Certain of our Sites may make Forums (as defined in the [Terms of Use](https://www.cru.org/about/terms-of-use.html) ) available to its registered users.  We might operate these Forums or they may be operated by outside groups.  We are not responsible for the content posted in any chat rooms or other Forum.  Please remember that any information disclosed in any Forum becomes public information and you should exercise caution when deciding to disclose any personal information.  Also, any information you submit to our Sites is the property of our Sites unless the Site indicates otherwise.  If you post personal information online that is accessible to the public (in any Forum, message board, or “chat” environment), you may receive unsolicited messages from other parties in return.
+Certain of our Sites may make Forums (as defined in the [Terms of Use](https://www.cru.org/us/en/about/terms-of-use.html) ) available to its registered users.  We might operate these Forums or they may be operated by outside groups.  We are not responsible for the content posted in any chat rooms or other Forum.  Please remember that any information disclosed in any Forum becomes public information and you should exercise caution when deciding to disclose any personal information.  Also, any information you submit to our Sites is the property of our Sites unless the Site indicates otherwise.  If you post personal information online that is accessible to the public (in any Forum, message board, or “chat” environment), you may receive unsolicited messages from other parties in return.
 
 **6.  Cookies and Information Collected by Technology.**
 
