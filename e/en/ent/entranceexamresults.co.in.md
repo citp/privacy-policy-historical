@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the entranceexamresults.co.in privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525213458id_/http%3A//www.entranceexamresults.co.in/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entranceexamresults.co.in privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123143203id_/http%3A//entranceexamresults.co.in/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy – My Blog
 
-**  PRIVACY POLICY**
+Privacy Policy for http://entranceexamresults.co.in
 
- Privacy is the base of trust between you and Entrance Exam Results.
+The privacy of our visitors to http://entranceexamresults.co.in is important to us.
 
-Complete confidentiality is maintained with Entrance Exam Results and it is assured that no information is leaked to. The information is strictly for an excellent collaboration of you and us for better business for today and tomorrow.The information collected from the registration form that is presented to users when they choose to register may include contact information such as the user's name, gender, e-mail address, contact details, postal address, profession and country. Information collected by Site during registration also includes but is not restricted to Educational Information including preferred educational courses and destinations, education level, marks obtained, expected year of admission and the profile of the registrant (student/parent). 
+At http://entranceexamresults.co.in, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit http://entranceexamresults.co.in, and how we safeguard your information. We never sell your personal information to third parties.
 
- The Site reserves the right to use the user information collected during the registration process or otherwise to use for carrying out its own analysis and research. The Site also reserves the right to provide this information to its business partners / relevant third party for any consideration, including monetary gains.The Site also reserves the right to contact the user based upon the information provided. This contact may be initiated by any of the possible means on the basis of the information provided by the student at registration or through any other mode of contact. 
+Log Files: As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
- Any user not agreeable to the aforementioned policy shall not register himself/herself with the site. By registering with the site or by the way of filling up any form requiring user information, the user is deemed to have agreed to this privacy policy of the Site. 
+Cookies and Web Beacons: We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
- The terms of this privacy policy are subject to change from time to time without any prior notice. 
+We also use third party advertisements on http://entranceexamresults.co.in to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+DoubleClick DART cookies We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
