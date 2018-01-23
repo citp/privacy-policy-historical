@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004103059id_/http%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123224915id_/https%3A//sunnybrook.ca/content/%3Fpage%3Dprivacy-confidentiality-health-information) for the most accurate reproduction.*
 
 # Important information for patients and families - Privacy & Confidentiality - Sunnybrook Hospital
 
@@ -68,29 +68,29 @@ Toronto, Ontario M4W 1A8
 
 _(will open a PDF file in a new window)_
 
-[French](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")  
-[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")
+[French](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")  
+[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_French_-_For_Print.pdf "will open French PDF in a new window")
 
-[Arabic](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")
+[Arabic](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Arabic_-_For_Print.pdf "will open Arabic PDF in a new window")
 
-[Chinese - Simplified](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")
+[Chinese - Simplified](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Simplified_Chinese_-_For_Print.pdf "will open a Simplified Chinese PDF in a new window")
 
-[Chinese - Traditional](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")
+[Chinese - Traditional](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Traditional_Chinese_-_For_Print.pdf "will open a Traditional Chinese PDF in a new window")
 
-[Portugese](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")
+[Portugese](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Portuguese_-_For_Print.pdf "will open a Portuguese PDF in a new window")
 
-[Punjabi](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")
+[Punjabi](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Punjabi_-_For_Print.pdf "will open a Punjabi PDF in a new window")
 
-[Spanish](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")
+[Spanish](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Spanish_-_For_Print.pdf "will open a Spanish PDF in a new window")
 
-[Tamil](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")
+[Tamil](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Tamil_-_For_Print.pdf "will open a Tamil PDF in a new window")
 
-[Urdu](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")  
-[ ](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")[](http://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")
+[Urdu](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")  
+[ ](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")[](https://sunnybrook.ca/uploads/Sunnybrook_PHIPA_Urdu_-_For_Print.pdf "will open a Urdu PDF in a new window")
