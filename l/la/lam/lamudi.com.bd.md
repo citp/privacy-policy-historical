@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamudi.com.bd privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606102245id_/http%3A//www.lamudi.com.bd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamudi.com.bd privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123203008id_/https%3A//www.lamudi.com.bd/privacy-policy) for the most accurate reproduction.*
 
 # Lamudi.com.bd - Privacy policy
 
