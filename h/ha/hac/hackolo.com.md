@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hackolo.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124050627id_/https%3A//hackolo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackolo.com privacy policy that was archived on 2018-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180123095227id_/https%3A//hackolo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hacks and Glitches Portal
+
+Last Updated : Tuesday, September 9, 2014
 
 At _Hacks and Glitches Portal_ , the privacy of our visitors is of extreme importance to us (See [this article](https://web.archive.org/%22http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy//%22) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _Hacks and Glitches Portal_ and how it is used. **Log Files** Like many other Web sites, _Hacks and Glitches Portal_ makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user\'s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. **Cookies and Web Beacons** _Hacks and Glitches Portal_ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. **DoubleClick DART Cookie**
 
