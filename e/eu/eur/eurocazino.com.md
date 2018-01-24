@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922094114id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocazino.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124203940id_/http%3A//www.eurocazino.com/privacy.php%3Fid%3D0) for the most accurate reproduction.*
 
 # Privacy policy of our Online Casino. Description of security and cashouts rules
 
 |  |    |   
 ---|---  
-**[**Gold Lines Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=goldlines)  
+**[**Multistake Slot Machine**](http://games.eurocazino.com/games/play.php?id=0&game=multistake)  
 ** **    |   
 ---|---  
    |   
