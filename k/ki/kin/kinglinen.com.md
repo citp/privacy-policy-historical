@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125071426id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125005453id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
