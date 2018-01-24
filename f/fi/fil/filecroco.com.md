@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filecroco.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224102532id_/http%3A//www.filecroco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filecroco.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124152125id_/https%3A//www.filecroco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FileCroco.com
 
