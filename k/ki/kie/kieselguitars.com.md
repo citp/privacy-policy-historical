@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003223857id_/https%3A//www.kieselguitars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kieselguitars.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125001652id_/https%3A//www.kieselguitars.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KieselGuitars.com
 
