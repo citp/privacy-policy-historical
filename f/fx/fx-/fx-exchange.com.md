@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fx-exchange.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125053930id_/http%3A//www.fx-exchange.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fx-exchange.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125004155id_/https%3A//www.fx-exchange.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Foreign Currency Exchange Rates and Currency Converter Calculator
 
