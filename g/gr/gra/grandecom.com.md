@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206210832id_/http%3A//mygrande.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandecom.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124193333id_/https%3A//mygrande.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement and Policy - Grande Communications
 
-Grande Communications Networks, LLC, ("Grande Communications"), created this privacy statement outlining your privacy rights in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by Grande Communications which can be found at [mygrande.com](http://mygrande.com/austin/), [mygrande.net](http://mygrande.net/) and [grandecom.net](http://grandecom.net/) (collectively, the 'Site').
+Grande Communications Networks, LLC, ("Grande Communications"), created this privacy statement outlining your privacy rights in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the websites operated by Grande Communications which can be found at [mygrande.com](https://mygrande.com/austin/), [mygrande.net](http://mygrande.net/) and [grandecom.net](http://grandecom.net/) (collectively, the 'Site').
 
 Grande Communications is the sole owner of the information collected on the Site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Grande Communications collects information from our users at several different points on our Site as further described in this statement.
 
@@ -80,7 +80,7 @@ The policies included in this Privacy Statement are subject to the terms of any 
 
 ###### **Children's Privacy Statement**
 
-Grande Communications has designed this policy in order to comply with the Children's Online Privacy Protection Act ('COPPA'). This policy is intended to supplement our general Privacy Statement. If you want to read our general Privacy Statement, [click here.](http://mygrande.com/privacy-statement/)
+Grande Communications has designed this policy in order to comply with the Children's Online Privacy Protection Act ('COPPA'). This policy is intended to supplement our general Privacy Statement. If you want to read our general Privacy Statement, [click here.](https://mygrande.com/privacy-statement/)
 
 Although our Site is not specifically directed toward children, and we do not knowingly collect personal information from persons under the age of 13 on our Site, we recognize that parents and children visit the Site. This provides us with the opportunity to help educate consumers about the Federal Trade Commission's Children's Online Privacy Protection Rule. Please visit[www.ftc.gov/kidsprivacy](http://www.ftc.gov/) for information from the Federal Trade Commission about protecting children's privacy online.
 
