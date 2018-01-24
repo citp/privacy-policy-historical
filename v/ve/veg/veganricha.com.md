@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the veganricha.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926151207id_/http%3A//www.veganricha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veganricha.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124031720id_/https%3A//www.veganricha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vegan Richa
 
 ### **Privacy Policy of VeganRicha.com**
 
-I deeply care about you and your privacy. I am wary of your personal information, your interactions with me on and off the blog. Your privacy is really important to me and I always keep it in mind whenever the question of privacy and securing that information comes up. Below outlines what is received and logged when you visit [www.veganricha.com](http://www.veganricha.com/) and how it is used. If you have any questions about the policy below, feel free to contact me at [richahingle@gmail.com](mailto:richahingle@gmail.com)
+I deeply care about you and your privacy. I am wary of your personal information, your interactions with me on and off the blog. Your privacy is really important to me and I always keep it in mind whenever the question of privacy and securing that information comes up. Below outlines what is received and logged when you visit [www.veganricha.com](https://www.veganricha.com/) and how it is used. If you have any questions about the policy below, feel free to contact me at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5b293238333a3332353c373e1b3c363a323775383436)
 
 I will be updating this page from time to time with modified date at the bottom. You should check this page to ensure that you are up-to-date with the latest policy.
 
-### **Logs**
+###  **Logs**
 
 Our log files on our secure servers store all visitors to the site, their IP address and comments. None of this can identify you directly. You can choose to use your email and identify yourself in the comments which stays in our database as comment to the post.
 
@@ -22,7 +22,7 @@ Based on above logs we may collect the following information:
 
 We use this information to improve the content of the blog as well as understand the pattern of visits and users on the site.
 
-### **Cookies**
+###  **Cookies**
 
 A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -32,9 +32,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
  <http://www.allaboutcookies.org/> is an excellent resource to understand this more. Here is an excerpt from the site and also a link on how to disable cookies.
 
-_Also known as browser cookies or tracking cookies, cookies are small, often encrypted text files, located in browser directories. They are used by web developers to help users navigate their websites efficiently and perform certain functions. Due to their core role of enhancing/enabling usability or site processes,  _[ _disabling cookies_](http://www.allaboutcookies.org/manage-cookies/) _ _ _may prevent users from using certain websites._
+ _Also known as browser cookies or tracking cookies, cookies are small, often encrypted text files, located in browser directories. They are used by web developers to help users navigate their websites efficiently and perform certain functions. Due to their core role of enhancing/enabling usability or site processes,  _[ _disabling cookies_](http://www.allaboutcookies.org/manage-cookies/) _ _ _may prevent users from using certain websites._
 
-### **Analytics**
+###  **Analytics**
 
 We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -44,17 +44,17 @@ From: <https://support.google.com/analytics/answer/6004245>
 
 _Google Analytics mainly uses first-party cookies to report on user interactions on your website. These cookies are used to store non-personally identifiable information. Browsers do not share first-party cookies across domains._
 
-_For customers who use Google Analytics Advertising Features, Google advertising cookies are used to enable features, such as Remarketing, for products like AdWords on the Google Display Network. For more information about how Google uses advertising cookies, visit the[Google Advertising Privacy FAQ](http://www.google.com/intl/en/policies/technologies/ads/). To manage settings for these cookies and opt-out of these features, visit the [Ads Settings](http://www.google.com/settings/ads/onweb/)._
+ _For customers who use Google Analytics Advertising Features, Google advertising cookies are used to enable features, such as Remarketing, for products like AdWords on the Google Display Network. For more information about how Google uses advertising cookies, visit the[Google Advertising Privacy FAQ](https://www.google.com/intl/en/policies/technologies/ads/). To manage settings for these cookies and opt-out of these features, visit the [Ads Settings](https://www.google.com/settings/ads/onweb/)._
 
-### **Advertising**
+###  **Advertising**
 
 Our advertisers may also use similar means to track such visits. Privacy policy of the networks being used are below where you should be able to find more information.
 
 [http://www.adthrive.com/adthrive-privacy-statement](http://www.adthrive.com/adthrive-privacy-statement/)
 
-<http://www.google.com/policies/privacy/>
+[http://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
 
-<http://www.sovrn.com/privacy-policy/>
+[http://www.sovrn.com/privacy-policy/](https://www.sovrn.com/privacy-policy/)
 
 <http://www.gourmetads.com/about/privacy-policy>
 
@@ -62,11 +62,11 @@ These Ad vendors may use cookies, web beacons, or similar technologies to serve 
 
 You should go through the individual privacy policy and make sure you understand how you can disable cookies if required.
 
-### **Links to other websites**
+###  **Links to other websites**
 
 Content on our site contain links to other websites such as other bloggers, affiliates such as Amazon or other media sites such as YouTube. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-### **Controlling your personal information**
+###  **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -82,4 +82,4 @@ We do not sell, rent, trade, or otherwise share personal information we have u
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
 
-_Last updated on: 11/27/16_
+ _Last updated on: 11/27/16_
