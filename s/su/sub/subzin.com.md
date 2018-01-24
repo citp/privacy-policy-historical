@@ -1,61 +1,66 @@
-> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620211210id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124063757id_/http%3A//www.subzin.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy policy « The Subzin Blog
+# Privacy Policy - Subzin.com
 
-## Privacy Policy
+[](https://web.archive.org/)
 
-**Website Privacy Statement**
+We respect our users’ privacy and we are committed to safeguarding their privacy while online at subzin.com. The following discloses the information gathering and dissemination practices for subzin.com.
 
-This document was last updated on 23rd September 2010.
+A. WAYS WE COLLECT INFORMATION
 
-**1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS**  
-Subzin is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.subzin.com, you acknowledge and fully understand Subzin’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+**1\. Log Files**  
+Like most standard website servers, ours use log files. The information collected in our log files includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.
 
-**2\. PARTICIPATING MERCHANT POLICIES**  
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Subzin’s services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+**2\. Email Contact**  
+If a user wishes to communicate with us they must supply an email address and name in order to use our [contact us](https://www.subzin.com/ContactUs/) page.
 
-**3\. INFORMATION WE COLLECT AND HOW WE USE IT**  
-Subzin collects certain information from and about its users three ways: directly from web pages, the user, and cookies.
+**3\. Newsletter/RSS Feed**  
+If a user wishes to subscribe to our newsletter or RSS feed, we ask for an email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
-**a. Web Pages.**  
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
+**4\. Contributed Content**  
+When users contribute content to subzin.com we ask for their name.
 
-– Your Internet protocol address.  
-– The kind of browser or computer you use.  
-– Number of links you click within the site.  
-– State or country from which you accessed the site.  
-– Date and time of your visit.  
-– Web page you linked to our site from.  
-– Pages you viewed on the site.
+### B. THE WAY WE USE INFORMATION:
 
-**b. Use of Cookies**  
-Subzin may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
+**1\. Log Files:**  We use information from Log Files to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and providing personalized functionality.
+**2\. Email Contact:**  We use return email addresses and names to answer the email we receive. Such addresses and names are not used for any other purpose and are not shared with outside parties.
 
-Subzin reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies using our website unless there is a temporary, overriding customer value (such as merging into subzin.com a site that relies on third-party cookies).
+**3\. Newsletter/RSS Feed:**  We use email addresses and names only to provide the newsletter or RSS feed as indicated. Such email addresses and names are not used for any other purpose and are not shared with outside parties.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+**4\. Contributed Content:**  We use the information you provide about yourself when contributing content only in order to identify and attribute such content.
 
-**c. Personal Information Users**  
-Visitors to our website can register in order to upload contents onto the Subzin’s database. When you register, we may request some personal information, for now limited to the user email, but in a near future it could be completed with data like address, email, telephone number or facsimile number, account number and other relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+**5\. Generally:**  We never use or share the personally identifiable information provided to us online in ways unrelated to the ways described above. No personal information submitted to us voluntarily by users is shared with any third parties nor do we use any personal information for any purposes.
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including, but not limited to:  
-– To protect ourselves from liability,  
-– To respond to legal process or comply with law, or  
-– In connection with a merger, acquisition, or liquidation of the company.
+### C. OUR COMMITMENT TO DATA SECURITY
 
-**4\. ACCESSING WEB ACCOUNT INFORMATION**
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us [here](mailto:admin@subzin.com "YouTorrent Privacy Contact"). At any time, you can contact us in order to require the permanent blockage of any personal data contained in our systems, causing the lost of any service provided by Subzin. In any case the personal data could be retained if there are legal statements requiring this information to be maintained in Subzin’s database for a certain time.
+### D. OUR COMMITMENT TO CHILDREN’S PRIVACY
 
-**5\. PERSONAL INFORMATION RELATED TO SUBZIN’ SEARCH SERVICES**
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Even though Subzin’ Search Services are not intended to disclosure personal information, the information uploaded in Subzin’s databases by certain users could contain personal information. The reason is that Subzin’s is user-centric, and the information uploaded by Subzin’s users is not previously reviewed or manipulated by Subzin, therefore personal information could be disclosed through Subzin’ Search Services without the knowledge of Subzin staff. If that were the case, upon receiving a removal query in Subzin’s administrator [mailbox](mailto:admin@subzin.com "YouTorrent Privacy Contact"), such information would be removed after evaluation, as soon as possible and permanently from Subzin’s databases, blocking any further visualization through Subzin’ Search Services. It must be understood that this personal information removal service is restricted to search services accessed directly through [www.subzin.com](http://www.subzin.com/) or [subzin.com](http://subzin.com/). Therefore Subzin is not responsible of third party information manipulation, storing or catching activities over Subzin-rendered services.
+### E. HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION
 
-**6\. CHANGES TO THIS STATEMENT**
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-Subzin has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+### F. ADVERTISERS
 
-**7\. CONTACTING US**  
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](mailto:admin@subzin.com "YouTorrent Privacy Contact"). We will use our best efforts to promptly respond and resolve any problems or questions.
+We use outside ad companies to display ads on subzin.com. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by certain ad companies, and we do not have access to this information. We use Google AdSense and other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+**1\. Cookies**  
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our website. You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly. We may allow third-parties, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness.
+
+**2\. Web Beacons**  
+Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+**3\. Links**  
+This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+
+**NAI/IAB**
+
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) ([NAI](http://optout.networkadvertising.org/#!/)), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience.
+
+### Contact Information
+
+If users have any questions or suggestions regarding our privacy policy, please [contact us](https://www.subzin.com/ContactUs/).
