@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multiprofitwebsites.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222121949id_/http%3A//multiprofitwebsites.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multiprofitwebsites.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124093753id_/http%3A//www.multiprofitwebsites.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Multi Profit Websites
 
