@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altdriver.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211032611id_/http%3A//altdriver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altdriver.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124083035id_/https%3A//altdriver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | alt_driver
+# Privacy Policy | Engaging Car News, Reviews, and Content You Need to See – alt_driver
 
 **Effective Date** : October 1, 2014
 
