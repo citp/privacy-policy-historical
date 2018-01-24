@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123235345id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124083735id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
 
 # bsimracing
 
