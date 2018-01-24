@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124105627id_/http%3A//www.versace.com/us/en-us/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versace.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124071949id_/https%3A//www.versace.com/us/en-us/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Versace US
 
