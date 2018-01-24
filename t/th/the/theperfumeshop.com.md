@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112193851id_/http%3A//www.theperfumeshop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theperfumeshop.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124093022id_/https%3A//www.theperfumeshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Perfume Shop
 
