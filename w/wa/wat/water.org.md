@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711181351id_/https%3A//water.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water.org privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124051415id_/https%3A//water.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Water.org
 
