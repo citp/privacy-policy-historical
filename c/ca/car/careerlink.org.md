@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the careerlink.org privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417150334id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerlink.org privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124152903id_/https%3A//careerlink.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Careerlink
+# Job Search, Career Advice & Employer Tools | Careerlink
 
 ## AIM Online Privacy Statement
 
-AIM is committed to protecting your privacy.  Please read the AIM Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular AIM sites and services that you may use.  This AIM Online Privacy Statement applies to data collected by AIM through the majority of its Web sites and services, as well as its offline product support services. 
+AIM is an innovative not for profit that grows, connects and inspires the tech talent ecosystem through career development and educational programs. Through these efforts, we improve thousands of lives in the Silicon Prairie. 
 
 ## Collection of Your Personal Information
 
