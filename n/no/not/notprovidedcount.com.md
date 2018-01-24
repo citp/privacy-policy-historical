@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notprovidedcount.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011230736id_/http%3A//www.click.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notprovidedcount.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124102406id_/https%3A//www.click.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Click Consult
 
