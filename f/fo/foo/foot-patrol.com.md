@@ -1,29 +1,42 @@
-> *The following text is extracted and transformed from the foot-patrol.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606114128id_/http%3A//www.footpatrol.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foot-patrol.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125163713id_/https%3A//www.footpatrol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Footpatrol
 
-#### Information Collected
+#### About Us
 
-We collect personal information from you when you register with us, complete an on-line form, you e-mail us or complete a transaction with us, you enter a prize draw or other competition with us, or we speak to you over the telephone.We also collect personal information about you by using "cookies" on our Web Site - please see the section on cookies below.
+Footpatrol is part of the JD Sports Fashion Group and, for the purposes of the information which you provide to us, acts as the data controller. This means that we are responsible for what happens to the information that you give to us. We will at all times comply with the Data Protection Act 1998 and make sure that we keep your data secure and steps are taken to prevent any unauthorised access to your information. From time to time, we will share the information which you provide to us with other group companies within the JD Sports Fashion Group.
 
-We collect the following information about you in order to process our orders: your name, address, delivery address (if different), credit or debit card number and expiry date. We also ask for a telephone number to contact you if there are any difficulties with your order. 
+The JD Sports Fashion Group is constantly growing and changing. We will always update the web page [here](http://www.jdplc.com/our-group/sports-fashion.aspx), so you should take a look from time to time to see if new companies have joined the group or if any company leaves our group.
 
-#### Use of Information
+#### What data do we collect?
 
-We use the information we collect about you to process orders, deal with any enquiry or request and/or to send you information about our products and offers from time to time.  
-Your credit card details are taken through a secure server for processing by your card provider, our card processor and our bank. Please see our terms and conditions for details of the measures we take to try and ensure the security of your data.
+We collect all of the information which you submit to us. For example, when you sign up to receive our newsletter or when you communicate with us in any way (for example, email, Facebook, Twitter or in one of our stores). This information will include any passwords, usernames, contact details, account details, preferences, interests and details of any complaints you may have made. We will also collect information when you buy from us on our website or in one of our stores. This will include the time and date of your purchase, the goods you purchased and details of any relevant payment card you used
 
-We will pass your name and delivery address on to the carrier responsible for delivering your order.  
-We may also use the information that we collect to inform you about new products, offers or changes to our products. If you would prefer not to receive any marketing information, please send an e-mail to onlinehelp@footpatrol.co.uk.  
-The information collected about you will not be used for any other purposes and will not be sold or otherwise disclosed to any other organisations, except to (i) other companies within our group, (ii) our or their successors in title and (iii) third party service providers engaged by us (or other members of our group) to help operate our business effectively.  
-From time to time your personal information may be processed by systems which are located outside the United Kingdom. Where this happens, we will ensure that your information will be kept secure and your privacy rights remain protected consistent with the Data Protection Act 1998. 
+From time to time we may access publically available information about you on the internet to assist in fraud prevention, for identity verification (such as to confirm we have the correct address details for you) and for marketing purposes, as set out in more detail below..
+
+We also look at your activity on our website, for example what device you're using and what products you're looking at. Much of this information is collected by cookies. For full details, have a look at our [cookie policy](https://www.footpatrol.com/cookies).
+
+#### What do we do with your data?
+
+We use your data to fulfil any orders you place with us. We also share your data with third party service providers who help us to do this and to generally operate our business effectively.  
+For example, to help improve the level of service which we provide to you, your data may be shared with third party, independent review websites such as Trustpilot and Feefo. If you want to provide us with feedback on your experience, such third parties may contact you via email to give you the option to do this. You can always leave your feedback anonymously, if you would prefer.
+
+We also use your data for marketing purposes which may mean that you will receive marketing communications from us, other companies within the JD Sports Fashion Group or carefully selected third parties. However if you do receive marketing communications from other companies, we will endeavour to ensure that the company in question and its products will be as relevant to you as possible.
+
+#### How do i manage my data and what you do with it?
+
+We always give you the choice of whether or not you wish to receive marketing communications from us.
+
+By [contacting us](https://www.footpatrol.com/contact-us) you can tell us that you do not wish to receive marketing communications from us and we will update our records. You can also click on the unsubscribe link in any promotional emails.
+
+If at any time you want to talk to us about your data, for example if you spot a mistake, or if you want to change how we market to you, please also [contact us](https://www.footpatrol.com/contact-us).
 
 #### Cookies
 
 **Collection of Anonymous Data**  
 As described above, we sometimes collect anonymous information from visits to our site to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on this Web Site, but we do so in ways that keep the information anonymous. We use the information that we collect to measure the number of visitors to the different areas of our Web Site, and to help us make our Web Site more useful to visitors. This includes analysing these logs periodically to measure the traffic through our servers, the number of pages visited and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on our servers.
 
-We collect the anonymous information we mentioned above through the use of various technologies, one of which is called "cookies". A cookie is an element of data that a web site can send to your browser, which may then be stored on your hard drive. 
+We collect the anonymous information we mentioned above through the use of various technologies, one of which is called "cookies". A cookie is an element of data that a web site can send to your browser, which may then be stored on your hard drive.
 
 #### Customer/User Identification and Log-in
 
@@ -92,8 +105,8 @@ Pilsworth
 Bury  
 BL9 8RR
 
-enclosing a cheque for £10. 
+enclosing a cheque for £10.
 
 #### Other Web Sites
 
-Our Web Site may contain links to other web sites which are outside our control and are not covered by the privacy policy. If you access other sites then using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. 
+Our Web Site may contain links to other web sites which are outside our control and are not covered by the privacy policy. If you access other sites then using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
