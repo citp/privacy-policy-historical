@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629134851id_/http%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125214623id_/https%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# PCSX2 - The Playstation 2 emulator - Privacy policy
 
-##  [ Privacy policy for pcsx2.net](http://www.pcsx2.net/privacy-policy.html)
+##  [ Privacy policy for pcsx2.net](https://pcsx2.net/privacy-policy.html)
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _**bositman "at" pcsx2 "dot" net**_ or at _**[info@pcsx2.net](mailto:info@pcsx2.net)**_.
 
