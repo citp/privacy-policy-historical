@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dftba.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016151141id_/https%3A//store.dftba.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dftba.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125145627id_/https%3A//store.dftba.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # DFTBA - Privacy Policy
 
