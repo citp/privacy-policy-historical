@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916073043id_/https%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125142249id_/https%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.*
 
 # Cookies and privacy - Office for National Statistics
 
