@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findatopdoc.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620230608id_/https%3A//www.findatopdoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findatopdoc.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125163829id_/https%3A//www.findatopdoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy FindATopDoc | Best Local Doctor Reviews | Search and Book Appointments
 
