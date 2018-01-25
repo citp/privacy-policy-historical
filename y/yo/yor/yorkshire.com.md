@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yorkshire.com privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709175545id_/https%3A//www.yorkshire.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkshire.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125091807id_/https%3A//www.yorkshire.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Welcome to Yorkshire
 
 ## About Welcome to Yorkshire
 
 This is the privacy and cookies policy of Welcome to Yorkshire (Company No. 2896762) of   
-Dry Sand Foundry, Foundry Square, Holbeck, Leeds LS11 5QN (" **we** ", " **us** ").
+Dry Sand Foundry, Foundry Square, Holbeck, Leeds LS11 5DL (" **we** ", " **us** ").
 
 We are mindful of the importance of upholding the security of information under our control. All data collected through the www.yorkshire.com website (the " **Website** ") is stored on secure servers and we have stringent security and confidentiality procedures covering the storage and disclosure of such information, in accordance with the Data Protection Act 1988. However we cannot guarantee the protection of your personal data as due to the nature of the internet, the Website is theoretically accessible by any user of the internet. You should be aware that when you disclose personal information on the Website it may be collected by another user and may result in unsolicited messages from other internet users.
 
@@ -67,4 +67,4 @@ From time to time our Website may contain links to and from other internet sites
 
 ## Contact Us
 
-If you have any comments or queries in connection with our Privacy and Cookies Policy, please email [info@yorkshire.com](mailto:info@yorkshire.com "Enquiry via Privacy Policy Page on Yorkshire.com") or write to Dry Sand Foundry, Foundry Square, Holbeck, Leeds LS11 5QN marking you letter for the attention of the Customer Services team
+If you have any comments or queries in connection with our Privacy and Cookies Policy, please email [info@yorkshire.com](mailto:info@yorkshire.com "Enquiry via Privacy Policy Page on Yorkshire.com") or write to Dry Sand Foundry, Foundry Square, Holbeck, Leeds LS11 5DL marking you letter for the attention of the Customer Services team
