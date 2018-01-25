@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929120749id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpay.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125203813id_/https%3A//bitpay.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BitPay
 
