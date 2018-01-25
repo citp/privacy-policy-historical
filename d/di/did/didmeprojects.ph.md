@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the didmeprojects.ph privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611122848id_/http%3A//didm.pnp.gov.ph/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didmeprojects.ph privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125184248id_/http%3A//didm.pnp.gov.ph/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-[](http://didm.pnp.gov.ph/index.php/privacy?tmpl=component&print=1&page= "Print") [](http://didm.pnp.gov.ph/index.php/component/mailto/?tmpl=component&template=ijoomla04&link=3e45093a7858566aef1461c53b91245604851ced "Email")
+[](https://www.didm.pnp.gov.ph/index.php/privacy?tmpl=component&print=1&page= "Print") [](https://www.didm.pnp.gov.ph/index.php/component/mailto/?tmpl=component&template=ijoomla04&link=f00c23d419f8c885ad8f1e7bb05f7043f55509bb "Email")
 
 According to the Data Privacy Act of 2012, it is the policy of the State “to protect the fundamental human right of privacy of communication while ensuring free flow of information to promote innovation and growth.”
 
@@ -46,4 +46,4 @@ Quezon City, Metro Manila
 Tel. No.: +632 721 6454;  
 Email: [itd@didm.pnp.gov.ph](mailto:itd@didm.pnp.gov.ph)
 
-__Hits: 2237
+__Hits: 5194
