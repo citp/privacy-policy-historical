@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stlouisco.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208195636id_/http%3A//www.stlouisco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisco.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125154823id_/https%3A//www.stlouisco.com/privacy) for the most accurate reproduction.*
 
-# Welcome To The St.Louis County Website!
+# Welcome To The St.Louis County Website | Let's Get Started!
 
 St. Louis County Government is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the St. Louis County Government Web site and governs data collection and usage. By using the St. Louis County Government website, you consent to the data practices described in this statement.
 
