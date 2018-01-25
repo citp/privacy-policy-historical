@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124204404id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125125505id_/https%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — High Country News
 
@@ -10,11 +10,11 @@ We use your computer's IP address to help diagnose problems with our site and to
 
 ### Subscriber privacy
 
-If you subscribe to the paper, you should know that we periodically exchange subscriber lists (physical mailing address only) with other like-minded non-profit groups. List exchanges are one of our most useful tools in spreading the word about  _HCN_ and boosting our circulation. However, you have the option at any time to ask that your name not be traded. [Contact circulation](https://www.hcn.org/feedback/contact-us "Contact Circulation") with your full name and address to be removed from list exchanges.
+If you subscribe to the magazine, you should know that we periodically exchange (trade or sell) our subscriber list (physical mailing address only) with other like-minded non-profit groups. List exchanges are one of our most useful tools in spreading the word about  _HCN_ and boosting our circulation. However, you have the option at any time to ask that your name not be traded. [Contact circulation](https://www.hcn.org/feedback/contact-us "Contact Circulation") with your full name and address to be removed from list exchanges.
 
 ### Your email address
 
-We use your email address for administrative purposes, such as notifying you about your subscription, to contact you about new products or upcoming events, to send you newsletters or other editorial content, donation appeals, and sponsored messages with offers from other organizations. In the case of our enewsletter, we NEVER trade your email address with other organizations. [Update your email preferences](https://www.hcn.org/subscriber-services/email-prefs?epl=) to receive only those emails you want from us. 
+We use your email address for administrative purposes, such as notifying you about your subscription, to contact you about new products or upcoming events, to send you newsletters or other editorial content, donation appeals, and sponsored messages with offers from other organizations. In the case of our enewsletter, we NEVER exchange your email address with other organizations. [Update your email preferences](https://www.hcn.org/subscriber-services/email-prefs?epl=) to receive only those emails you want from us. 
 
 ### Donor privacy
 
