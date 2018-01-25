@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fly4free.com privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721125221id_/https%3A//www.fly4free.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fly4free.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125231659id_/https%3A//www.fly4free.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy flight deals | Fly4free
 
