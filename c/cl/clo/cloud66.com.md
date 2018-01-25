@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616065209id_/http%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud66.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125214959id_/https%3A//www.cloud66.com/privacy) for the most accurate reproduction.*
 
-# Cloud 66 · Privacy Policy
+# Cloud 66 · Privacy
+
+##  The “ **I’m like you** ” version 
+
+By accessing or using Cloud 66, you agree to be bound by this Policy and our [Terms of Service](https://web.archive.org/legal)
+
+We use cookies to collect anonymised web traffic on our site. We also store all information you’ve given us about yourself and your servers, jobs and schedules on our secure servers and as secure as possible.
+
+### What do we do with your data?
+
+Your data belongs to you and we do not sell or lend any part of your data to any third party. This excludes legal obligations to government bodies in various jurisdictions
+
+### What happens to your data when you leave Cloud 66?
+
+We delete everything we have on our servers about you, your servers and your apps permanently. We might hold on to your name and email address so we can contact you later
+
+##  The “ **I am a lawyer** ” version 
 
   * Information we may collect from you
   * IP Addresses and Cookies
@@ -52,7 +68,7 @@ The data that we collect from you may be transferred to, and stored at, a destin
 
 We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. 
 
-Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
 ### Uses made of the information
 
