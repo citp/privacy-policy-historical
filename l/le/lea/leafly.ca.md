@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leafly.ca privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901195527id_/https%3A//www.leafly.ca/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leafly.ca privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125171946id_/https%3A//www.leafly.ca/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Leafly
 
