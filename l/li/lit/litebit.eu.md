@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litebit.eu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220193941id_/https%3A//www.litebit.eu/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litebit.eu privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125154137id_/https%3A//www.litebit.eu/en/privacy-statement) for the most accurate reproduction.*
 
 # LiteBit.eu - Privacy statement
 
@@ -49,7 +49,7 @@ Also in technical sense data is being stored and maintained. This is not only ma
 **We store the following information:**
 
   * Your IP-address
-  * Your IBAN number, we encrypt it into a series of numbers to make it unrecognizable. In addition, we remove the last 4 characters from the number.
+  * Your IBAN number.
   * Your name specified in the registration, we encode it into a series of numbers to make it unrecognizable for third parties.
   * Your delivery address, for example, to deliver Bitcoins.
   * Your e-mail address to keep you informed of your orders. For example if there is a delay or wrong delivery address.
