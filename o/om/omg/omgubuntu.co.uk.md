@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgubuntu.co.uk privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830202834id_/http%3A//www.omgubuntu.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgubuntu.co.uk privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125232726id_/http%3A//www.omgubuntu.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - OMG! Ubuntu!
 
