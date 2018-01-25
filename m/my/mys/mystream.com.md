@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystream.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929160229id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystream.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125111333id_/https%3A//mystream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stream
 
