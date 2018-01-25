@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the algoriddim.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228160912id_/https%3A//www.algoriddim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algoriddim.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125072228id_/https%3A//www.algoriddim.com/privacy) for the most accurate reproduction.*
 
 # Algoriddim » Privacy Policy » Privacy
 
@@ -54,7 +54,7 @@ Google Analytics is a web analytics tool that helps website owners understand ho
 ##### Flurry Analytics
 
 We may use Flurry analytics tool in order to develop and analyze use of our services. If you wish to opt-out from Flurry analytics, please follow this link:   
-[End-User Opt-Out](https://www.flurry.com/user-opt-out.html)
+[End-User Opt-Out](https://dev.flurry.com/secure/optOut.do)
 
 #### We take steps to protect personal information
 
