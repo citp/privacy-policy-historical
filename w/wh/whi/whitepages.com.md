@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003232519id_/http%3A//www.whitepages.com/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125134239id_/https%3A//www.whitepages.com/data-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Whitepages
 
 [Give Feedback](http://www.whitepagescustomers.com/)
 
-**Last updated on April 6, 2017.**
+**Last updated on April 27, 2017.**
 
 This privacy policy is designed to provide you with information regarding data collection and use in connection with our products and services. This policy explains how Whitepages uses the data collected by its Web sites, products, and services, but does not apply to databases or third parties that we do not control. 
 
@@ -32,7 +32,7 @@ When you are asked to provide personal data, you may decline. But if you choose 
 
 ### 3\. How do you collect data?
 
-The data we collect depends on the services and features of our products that you use. You provide some data directly, such as when you create an account, submit a search query, or contact us for support. Our servers collect information known as “log data” that includes your IP address, when your computer or device visited the site, the URL of the Web site you arrived from, and the type of device or browser you used to access the site. We also get information by recording how you use our services and whether you navigate between our services. For example, we use cookies (small text files placed on your device) and may receive usage data from software running on your device. 
+The data we collect depends on the services and features of our products that you use. You provide some data directly, such as when you create an account, submit a search query, or contact us for support. Our servers collect information known as “log data,” that includes your IP address, the time your computer or device visited the site, the URL of the Web site you arrived from, and the type of device or browser you used to access the site. We also get information by recording how you use our services and whether you navigate between our services. For example, we use cookies (small text files placed on your device) and may receive usage data from software running on your device. 
 
 ### 4\. Do you get data anywhere else?
 
@@ -56,7 +56,7 @@ You should take steps to protect against unauthorized access to your password, p
 
 ### How do I access and control my personal information?
 
-You may use your account to access, correct, or change any personal information that you have provided to us or that is otherwise associated with your account. You may also email our customer support team support@whitepages.com. We will respond to your request within 30 days. Please note that your ability to correct or change your personal information does not extend to information that we have received from third parties. 
+You may use your account to access, correct, or change any personal information that you have provided to us or that is associated with your account. You may also email our customer support team at support@whitepages.com. We will respond to your request within 30 days. Please note that your ability to correct or change your personal information does not extend to information that we have received from third parties. 
 
 If you would like to stop receiving marketing materials messages from Whitepages, please provide us with the email address you would like to unsubscribe by mailing support@whitepages.com. Please note that you may still receive account and billing notices from us, if applicable. 
 
@@ -80,7 +80,7 @@ Collection and use of data is subject to the privacy policies of the third party
 
 ### 5\. How do I stop the collection and use of my information by third parties?
 
-To stop collection of information in connection with the use of our products and services, you will need to stop using them. To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+To stop collection of information in connection with the use of our products and services, you will need to stop using them. To opt-out of Whitepages mobile app marketing program tracking, [click here](https://www.optoutmobile.com/). To stop collection of browsing information via supporting web browsers, [click here](http://donottrack.us/). To stop information collection for purposes of relevant online advertising, [click here](http://www.networkadvertising.org/managing/opt_out.asp). At this time, there is no industry solution to opt-out of receiving relevant mobile advertising, but to opt-out of tracking from Whitepages’s own mobile app marketing programs, go to our third party provider’s Web site by [clicking here](https://www.optoutmobile.com/). 
 
 ### 6\. What about interest-based advertising?
 
