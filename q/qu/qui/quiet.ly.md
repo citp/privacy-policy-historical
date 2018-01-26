@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quiet.ly privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126064110id_/https%3A//www.quiet.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quiet.ly privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126104226id_/https%3A//www.quiet.ly/privacy) for the most accurate reproduction.*
 
 # Privacy - Quietly
 
