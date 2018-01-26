@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329130028id_/http%3A//www.playsides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsides.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126165733id_/http%3A//playsides.com/privacy) for the most accurate reproduction.*
 
 # Playsides | Privacy Policy
 
