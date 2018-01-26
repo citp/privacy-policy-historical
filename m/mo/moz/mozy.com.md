@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164030id_/http%3A//mozy.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozy.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126011031id_/https%3A//mozy.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | Mozy
 
