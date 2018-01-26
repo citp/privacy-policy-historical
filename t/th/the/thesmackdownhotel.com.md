@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmackdownhotel.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904042419id_/https%3A//www.thesmackdownhotel.com/forum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmackdownhotel.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126130109id_/https%3A//www.thesmackdownhotel.com/forum/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - TheSmackDownHotel.com Forum
 
