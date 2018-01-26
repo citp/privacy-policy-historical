@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websquash.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230185030id_/http%3A//www.websquash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websquash.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126083612id_/http%3A//www.websquash.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Websquash.com
 
