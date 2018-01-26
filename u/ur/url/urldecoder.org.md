@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urldecoder.org privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018225243id_/https%3A//www.urldecoder.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urldecoder.org privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126044638id_/https%3A//www.urldecoder.org/privacy) for the most accurate reproduction.*
 
 # URL Decode and Encode - Privacy policy
 
