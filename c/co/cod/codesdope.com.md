@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codesdope.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606191544id_/https%3A//www.codesdope.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codesdope.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126082040id_/https%3A//www.codesdope.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for codesdope
 
@@ -94,5 +94,4 @@ Our website contains links to other websites. The users need to take notice of t
 #### Contacting Us
 
 If there are any questions regarding this privacy policy, you may contact us using the information below or visit our [contact us page](https://web.archive.org/contact-us/).   
-help@codesdope.com  
-+91-7858060936 
+help@codesdope.com
