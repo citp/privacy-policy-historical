@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kentlive.news privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126203001id_/http%3A//www.kentlive.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentlive.news privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126134832id_/https%3A//www.kentlive.news/privacy-policy) for the most accurate reproduction.*
 
 # Kent Live privacy policy
 
