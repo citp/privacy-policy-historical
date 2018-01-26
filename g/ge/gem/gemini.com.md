@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211092604id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126125125id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Gemini
 
 ##### Introduction
 
-Welcome! Thanks for visiting Gemini, a digital asset exchange and custodian operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in select jurisdictions, including, DE, MA, ND, OR, SD, UT, VA). By visiting, accessing, or using Gemini, you consent  to the policies and practices of our privacy policy (the “Privacy Policy”) so _please read them carefully_. If any policies or practices of this Privacy Policy is unacceptable to you, please do not visit, access, or use Gemini. Use of the words “we” or “our” in this Privacy Policy refers to Gemini Trust Company, LLC and any or all of its affiliates.
+Welcome! Thanks for visiting Gemini, a digital asset exchange and custodian operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in AK, DE, MA, ND, OR, SD, UT, VA). By visiting, accessing, or using Gemini, you consent  to the policies and practices of our privacy policy (the “Privacy Policy”) so _please read them carefully_. If any policies or practices of this Privacy Policy is unacceptable to you, please do not visit, access, or use Gemini. Use of the words “we” or “our” in this Privacy Policy refers to Gemini Trust Company, LLC and any or all of its affiliates.
 
 ##### General Terms
 
