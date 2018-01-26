@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the soapboxie.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328232006id_/http%3A//hubpages.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapboxie.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126094445id_/https%3A//soapboxie.com/privacy-policy) for the most accurate reproduction.*
 
-# HubPages Privacy Policy
+# Privacy Policy | Soapboxie
 
 This Privacy Policy was last updated on January 27, 2017, and is effective February 5, 2017. See the bottom of this page for recent changes to this Privacy Policy.
 
-The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [HubPages.com](http://hubpages.com/), Tatring.com, Bellatory.com, Delishably.com, AxleAddict.com, CalorieBee.com, DenGarden.com, FeltMagnet.com, Exemplore.com, ReelRunDown.com, LevelSkip.com, ToughNickel.com, KindredBond.com, TurboFuture.com, WanderWisdom.com, LetterPile.com, Holidappy.com, Soapboxie.com, SkyAboveUs.com, HowTheyPlay.com, HobbyLark.com, Owlcation.com, PairedLife.com, HealDove.com, WeHaveKids.com and PetHelpful.com (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the [HubPages Service](http://hubpages.com/), you expressly consent to the practices and activities described in this document. 
+The following information is to help users and visitors (collectively “Users” or “You”) understand how we collect, use, disseminate and safeguard the information You provide to us while accessing and using our HubPages software, services, the website at [Soapboxie](https://soapboxie.com/) (the “Website”), and any other websites and services as may be added from time to time (collectively, the “Service”). We will not use or share Your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Use. By using the HubPages Service, you expressly consent to the practices and activities described in this document. 
 
 ## 1\. Information We Collect
 
 We collect the following information:
 
-a. User Provided Information. You may provide certain personally identifiable information to [HubPages](http://hubpages.com/) directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
+a. User Provided Information. You may provide certain personally identifiable information to HubPages directly, such as Your first and last name, telephone number, address, tax information (such as a Social Security Number), credit card or PayPal® information, and email address (collectively, “Personally Identifiable Information”) when choosing to register, to purchase through the Service, to participate in promotions or surveys, or to subscribe to any newsletters or other distribution lists. You may also choose to provide us with Personally Identifiable Information in your User Content.
 
 When You use our Service, we may collect and store information about Your use, including the following:
 
@@ -80,7 +80,7 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ## 10\. Contact Information
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.
 
 ## RECENT CHANGES TO THIS PRIVACY POLICY
 
