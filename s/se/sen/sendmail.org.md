@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendmail.org privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003003941id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendmail.org privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126193441id_/https%3A//www.proofpoint.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proofpoint
 
@@ -8,7 +8,7 @@ Ask a member of our sales team about our products or services:
 
 ## Proofpoint Privacy Policy
 
-### This Privacy Policy is effective as of September 7, 2016
+### This Privacy Policy is effective as of September 29, 2017
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=d321f3ac-46cc-41e9-9275-053515c30ee0)
 
@@ -22,13 +22,13 @@ We may modify this Privacy Policy from time to time to reflect changes to our in
 
 In this policy, "using" and "processing" information includes using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including without limitation collecting, storing, evaluating, modifying, deleting, using, combining, and transferring information within our organization or among our affiliates within the United States or internationally.
 
-**EU-U.S. Privacy Shield**
+**Privacy Shield**
 
 Proofpoint is a multi-national organization with cross-border technical systems, intra-group relationships and business processes. If you are located outside the United States and provide personal data to us, Proofpoint may transfer your personal data to the United States and use it there in accordance with this Privacy Policy. 
 
-Proofpoint, Inc. and its subsidiary companies Proofpoint Canada, Inc., Proofpoint Limited (UK), Proofpoint Pty Ltd (Australia), Proofpoint Japan KK, Proofpoint GmbH (Germany), Proofpoint Singapore Ptd. Ltd., and Proofpoint Int’l (Taiwan) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Proofpoint, Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
+Proofpoint, Inc. and its subsidiary companies Proofpoint Canada, Inc., Proofpoint Limited (UK), Proofpoint Pty Ltd (Australia), Proofpoint Japan KK, Proofpoint GmbH (Germany), Proofpoint Singapore Ptd. Ltd., and Proofpoint Int’l (Taiwan) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework.  Proofpoint, Inc. is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
-Proofpoint, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Proofpoint, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Proofpoint, Inc. is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Proofpoint, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Proofpoint, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Proofpoint, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -36,17 +36,13 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-**U.S. - Swiss Safe Harbor Framework**
-
-Proofpoint, Inc. complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Proofpoint, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Proofpoint, Inc.’s certification, please visit  <https://safeharbor.export.gov/swisslist.aspx>.
-
 ### Information We Collect and How We Use It
 
 Our primary goals in collecting information are to provide and improve our products and services, to provide quality customer service, to contact companies whose representative has indicated an interest in receiving information about Proofpoint products and to enable users to effectively navigate the Site. We may collect the following personal data about you and process it in the following ways.
 
-**Contact Information You Give Us**  
+**Contact Information You Give Us**
 
-You may give us your contact information in the following ways: (i) if you sign up for a free 45 day trial via www.proofpoint.com, (ii) sign up for offers on the Site, (iii) sign up for newsletters, (iv) download white papers from the Site, (v) respond to a promotion offered by a Proofpoint partner or (iv) send us an email. Such contact information includes first and last name, title, company name, industry type, mailing address, telephone number, fax number, email address and company size (" ** _Contact Information_** "). We may also collect information about your mailbox size, which will allow us to classify your company by size and provide customized information about implementing Proofpoint Services within your organization. We may combine your Contact Information with information collected from others in order to improve the quality and value of the Proofpoint Services and to analyze and understand how our Site is used.
+You may give us your contact information in the following ways: (i) if you sign up for a free 45 day trial via www.proofpoint.com, (ii) sign up for offers on the Site, (iii) sign up for newsletters, (iv) download white papers from the Site, (v) respond to a promotion offered by a Proofpoint partner or (iv) send us an email. Such contact information includes first and last name, title, company name, industry type, mailing address, telephone number, fax number, email address and company size (" ** _Contact Information_** "). We may also collect information about your mailbox size, which will allow us to classify your company by size and provide customized information about implementing Proofpoint Services within your organization. We may combine your Contact Information with information collected from others such as lists of known malicious email accounts in order to improve the quality and value of the Proofpoint Services and to analyze and understand how our Site is used.
 
 We will use your Contact Information to: (i) carry out our obligations arising from any contracts entered into between you and us; or (ii) provide you with the services, products or information, you have requested from us; (iii) notify you about changes to our services or products; or (iv) ensure that content from our Site is presented in the most effective manner for you and your device.  We may also use your Contact Information to contact you with certain marketing or promotional materials, as well as other information that may be of interest to you. If you no longer consent to our use of your Contact Information to send you our newsletter or other communications please send us an email so stating to [privacy@proofpoint.com](mailto:privacy@proofpoint.com) _or f_ ollow the unsubscribe instructions provided in any of the communications.
 
@@ -78,7 +74,7 @@ We partner with a third party to either display advertising on our Web site or t
 
 **Marketing Purposes**
 
-Where you have consented we may from time to time share your Contact Information (name, email address, phone number) with our authorized channel partners so that they can provide you with information on goods or services that may be of interest to you. You can, at any time, update your information and/or opt out of receiving such communications by making your choice known on the form on which we collected your data or by [filling in your information and modifying "Opt out of sharing info with third parties."](https://www.proofpoint.com/us/privacy-policy/opt-out)
+Where you have consented we may from time to time share your Contact Information (name, email address, phone number) with our authorized channel partners so that they can provide you with information on goods or services that may be of interest to you. You can, at any time, update your information and/or opt out of receiving such communications by making your choice known on the form on which we collected your data, by [filling in your information and modifying "Opt out of sharing info with third parties."](https://www.proofpoint.com/us/privacy-policy/opt-out), or by sending an email to [privacy@proofpoint.com](mailto:privacy@proofpoint.com). 
 
 **Analytics Purposes**
 
@@ -99,7 +95,7 @@ You have rights to access your personal data under your local data privacy laws 
 
 Upon request Proofpoint will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by contacting us at [privacy@proofpoint.com](mailto:privacy@proofpoint.com).  We will respond to your request within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
 
-Proofpoint acknowledges that you have the right to access your personal information. Proofpoint has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Proofpoint’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
+Proofpoint acknowledges that you have the right to access your personal information. Proofpoint has no direct relationship with the individuals whose personal data it processes. The use of information collected through our service shall be limited to the purpose of providing the service for which the Proofpoint’s Client has engaged Proofpoint. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Proofpoint’s Client (the data controller). If requested to remove data we will respond within a reasonable timeframe. In certain circumstances we may be required by law to retain your personal information, or may need to retain your personal information in order to continue providing a service.
 
 ### Security & International Transfer
 
