@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910101659id_/https%3A//www.almanac.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almanac.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126124635id_/https%3A//www.almanac.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy The Old Farmer's Almanac | The Old Farmer's Almanac
+
+You will also be subscribed to our Almanac Companion Newsletter
 
 We respect our readers’ privacy and have outlined our full **privacy policy** below.
 
