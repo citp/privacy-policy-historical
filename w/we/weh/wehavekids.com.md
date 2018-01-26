@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wehavekids.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620101404id_/https%3A//wehavekids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wehavekids.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126103843id_/https%3A//wehavekids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WeHaveKids
 
@@ -80,7 +80,7 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ## 10\. Contact Information
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.
 
 ## RECENT CHANGES TO THIS PRIVACY POLICY
 
