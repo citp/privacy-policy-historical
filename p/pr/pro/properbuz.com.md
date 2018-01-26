@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the properbuz.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830103529id_/https%3A//www.properbuz.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the properbuz.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126155503id_/https%3A//www.properbuz.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Properbuz: Privacy Policy
+# Properbuz: Privacy Policy| Legal Terms & Use|
 
 Bebuzee.com & Properbuz.com has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of visitors to our site. The following discloses our information gathering and dissemination practices for Bebuzee.com, Property.bebuzee.com or Properbuz.com, and any other website through which we conduct business. 
 
