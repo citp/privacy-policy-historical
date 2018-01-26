@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7onashoestring.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005230937id_/https%3A//7onashoestring.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7onashoestring.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126033223id_/https%3A//7onashoestring.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
