@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oneangrygamer.net privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720171610id_/https%3A//www.oneangrygamer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneangrygamer.net privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126033514id_/https%3A//www.oneangrygamer.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | One Angry Gamer
+# Privacy Policy - One Angry Gamer
 
 **How do we use your information?**
 
