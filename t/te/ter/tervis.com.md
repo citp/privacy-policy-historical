@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tervis.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120023330id_/http%3A//www.tervis.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tervis.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126143319id_/https%3A//www.tervis.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Tervis Official Store
 
@@ -6,7 +6,7 @@ Tervis wants to make your online experience pleasant, convenient and safe. "Pers
 
 ### What Kind of Information Does Tervis Collect?
 
-Tervis collects the personal information you provide us in connection with your purchase transaction, such as your name and telephone number. We also collect and maintain records and history about customers' purchases and product preferences. If you pay by credit card, debit card or check, you provide us with your account information. If you return merchandise or request a refund or exchange, you provide us with your personal information. Also, when you register or create an online account with us, sign up for e-mail, contact Customer Service, participate in our surveys, enter our sweepstakes, contests or other promotions, or send us feedback or submissions, you are providing us with your personal information.
+Tervis collects the personal information you provide us in connection with your purchase transaction, such as your name and telephone number. We also collect and maintain records and history about customers' purchases and product preferences. If you pay by credit card, debit card or check, you provide us with your account information. If you return merchandise or request a refund or exchange, you provide us with your personal information. Also, when you register or create an online account with us, sign up for e-mail, contact Customer Service, participate in our surveys, enter our sweepstakes, contests or other promotions, or send us feedback or submissions, you are providing us with your personal information. Tervis does not collect or transit any camera or video/audio data, we only provide the ability to take a screenshot within the mobile Tervis app.
 
 ### How Does Tervis Use My Information?
 
