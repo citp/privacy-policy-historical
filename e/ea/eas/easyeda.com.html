@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the easyeda.com privacy policy that was archived on 2017-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170713224531id_/https%3A//easyeda.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyeda.com privacy policy that was archived on 2018-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180126151606id_/https%3A//easyeda.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -9,7 +9,7 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <link rel="stylesheet" type="text/css" href="/assets/static/semantic-ui/semantic.min.css">
-<link rel="stylesheet" type="text/css" href="/assets/css/homepage.min.css?v=6">
+<link rel="stylesheet" type="text/css" href="/assets/css/homepage.min.css?v=10">
 </head>
 <body style="">
 <div class="top-header" dir="ltr">
@@ -27,7 +27,7 @@ Tutorial </a>
 <a class=" item" href="/order" rel="nofollow">
 PCB Order </a>
 <a class="item" href="https://lcsc.com" target="_blank">
-LCSC Parts
+Parts Order
 </a>
 <a class=" item" href="/forum">
 Forum </a>
@@ -206,7 +206,7 @@ Login
 </div>
 <div class="footer ui tertiary vertical segment" dir="ltr">
 <div class="body-width-limit">
-<div class="footer-left">
+<div class="footer-left" style="float:left;">
 <div class="column">
 <h5 class="header">EasyEDA</h5>
 <div class="list">
@@ -243,7 +243,7 @@ Login
 <h5 class="header">Language</h5>
 <div class="list">
 <div class="item"><a href="/?l=en" rel="nofollow"><i class="us flag"></i>English</a></div>
-<div class="item"><a href="/cn"><i class="cn flag"></i>中文(简体)</a></div>
+<div class="item"><a href="https://lceda.cn"><i class="cn flag"></i>中文(简体)</a></div>
 <div class="item"><a href="/fr"><i class="fr flag"></i>français</a></div>
 <div class="item"><a href="/pt"><i class="pt flag"></i>português</a></div>
 <div class="item"><a href="/es"><i class="es flag"></i>español</a></div>
@@ -266,9 +266,16 @@ Login
 </div>
 </div>
 </div>
+<div class="footer-center" style="float: left;margin-left: 35px;">
+<a href="https://lcsc.com/" target="_blank">
+<img src="/assets/static/images/lcsc-coupon.png" border="0">
+</a>
+</div>
+<div style="clear:both;height:0;"></div>
 <div class="footer-right">
 <p><a href="/" class="ui image"><img src="/assets/static/images/logo-140x39.png" alt="EasyEDA | easyeda.com" style="width:140px;height:39px;margin:0 10px;"></a></p>
-<p>© 2017 <a href="/" rel="nofollow">EasyEDA</a></p>
+<p><a href="http://www.miibeian.gov.cn/">粤ICP备13005967号-5</a></p>
+<p>© 2018 <a href="/" rel="nofollow">EasyEDA</a></p>
 <p class="footer-icons">
 <a href="https://github.com/dillonHe/EasyEDA-Documents" title="Github" target="_blank" rel="nofollow"><i class="github icon"></i></a>
 <a href="https://twitter.com/easyeda" title="Twitter" target="_blank" rel="nofollow"><i class="twitter icon"></i></a>
@@ -276,7 +283,7 @@ Login
 </div>
 </div>
 </div>
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script>
 	var FACE     = '';
 	var USERNAME = '';
 </script>
@@ -332,12 +339,62 @@ Login
 	/* ]]> */</script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1031006430279002&ev=PageView&noscript=1"/>
-<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/946326942/?label=mGAlCPq642cQnpufwwM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript><script src="/assets/static/jq/jquery-2.0.3.min.js"></script>
+		<div style="display:inline;">
+			<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1031006430279002&ev=PageView&noscript=1"/>
+			<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/946326942/?label=mGAlCPq642cQnpufwwM&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript><script src="/assets/static/jq/jquery-2.0.3.min.js"></script>
 <script src="/assets/static/semantic-ui/semantic.min.js"></script>
-<script src="/assets/js/homepage.min.js?v=6"></script>
+<script src="/assets/js/homepage.min.js?v=10"></script>
+<style>
+    #warn-cn {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background: yellow;
+        color: red;
+        font-size: 20px;
+        padding: 30px 50px;
+        border: 10px solid rgba(0,0,0,.5);
+        text-align: left;
+        line-height: 2em;
+        display: none;
+        box-sizing: border-box;
+
+    }
+	#warn-cn .close{
+		display: inline-block;
+		position: absolute;
+		right:50px;
+		top:20px;
+		background: rgb(0,140,186);
+		color:white;
+		padding:15px 20px;
+		font-size: 16px;
+		line-height: 1em;
+		cursor:pointer;
+	}
+	#warn-cn .close:hover{
+		background: rgb(4, 120, 158);
+	}
+</style>
+<div id="warn-cn">
+你现在访问的是EasyEDA海外版，不推荐使用，我们已经建立访问速度更快的中国区数据中心 <a href="https://lceda.cn">https://LCEDA.cn</a><br>如果你已经有EasyEDA账号，请使用谷歌浏览器访问
+<a href="https://easyeda.com/applyForLceda">https://easyeda.com/applyForLceda</a> 进行数据迁移到中国区数据中心。<br>有问题联系QQ
+3001956291 <span class="close">不再提醒<i class="remove icon"></i></span>
+</div>
+<script>
+	(function(){
+		var warnDiv = document.querySelector("#warn-cn");
+		if(navigator.language === "zh-CN" && !localStorage.closeWarnCn){
+			warnDiv.style.display="block";
+		}
+		warnDiv.querySelector(".close").onclick = function(){
+			warnDiv.style.display="none";
+			localStorage.closeWarnCn = "true";
+		}
+	})();
+</script>
 
 </body></html>
