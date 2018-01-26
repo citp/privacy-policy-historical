@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfast-search.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124223449id_/http%3A//myfast-search.com/search-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfast-search.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126015108id_/http%3A//myfast-search.com/search-policy.html) for the most accurate reproduction.*
 
 # 
 
