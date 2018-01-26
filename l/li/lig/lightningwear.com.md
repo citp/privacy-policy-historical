@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightningwear.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902085921id_/https%3A//www.lightningwear.com/Pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightningwear.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126103646id_/https%3A//www.lightningwear.com/Pages/privacy.php) for the most accurate reproduction.*
 
 # Site Articles :: Lax Pinnies - Privacy Statement - Custom Lacrosse Reversible Jerseys Custom Tank Tops | Custom Jerseys - Reversible Jerseys - Team Uniforms - Lightning Wear
 
