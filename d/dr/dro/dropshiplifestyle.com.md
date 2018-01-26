@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606184532id_/https%3A//www.dropshiplifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshiplifestyle.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126085816id_/https%3A//www.dropshiplifestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms & Conditions | Drop Ship Lifestyle
+# Terms & Conditions - Drop Ship Lifestyle
 
 **Privacy Policy:**
 
@@ -16,7 +16,7 @@ Among the types of Personal Data that this Application collects, by itself or th
 
 The Personal Data may be freely provided by the User, or collected automatically when using this Application. Any use of Cookies – or of other tracking tools – by the Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the purpose of providing the service required by the User and for remarketing across Facebook, Google, YouTube, and Twitter.
 
-Failure to provide certain Personal Data may make it impossible for this Application to provide its services. The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility. 
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services. The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.
 
 Method Of Processing:
 
@@ -68,16 +68,16 @@ The rights of Users:
 
 Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.
 
-Changes to this policy: 
+Changes to this policy:
 
 The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.
 
 Refunds:
 
-Important:  Please only join if you intend to follow our action tasks.  This course is designed to get you results, and that means you must take action.  This is not just about learning a new skill by watching some videos.  If you do ask for a refund, we will require you to show that you have completed your action tasks.
+Important:  Please only join if you intend to follow your action tasks.  This course is designed to get you results, and that means you must take action.  This is not just about learning a new skill by watching some videos.  If you do ask for a refund, we will require you to show that you have completed all DSL action tasks in the core training.
 
 This guarantee lasts 30 days, which lets you access our entire course, risk-free
 
-It’s simple: Try the ENTIRE course. If you do not love it, just emailsupport@dropshiplifestyle.com at ANY TIME during the first 30 days and show us you are completing the action tasks and not getting results. We’ll refund 100% of your purchase price.
+It’s simple: Try the ENTIRE course. If you do not love it, just emailsupport@dropshiplifestyle.com at ANY TIME during the first 30 days and show us you have completed the 7 DSL action tasks and are not getting results.  We’ll refund 100% of your purchase price.
 
 We built our own course because we saw the sub-par quality of everything else being offered. We only care about developing the best training material online, and about getting our students results.  That is our commitment to you.
