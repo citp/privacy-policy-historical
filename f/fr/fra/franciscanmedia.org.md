@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franciscanmedia.org privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830081213id_/https%3A//www.franciscanmedia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franciscanmedia.org privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126164735id_/https%3A//www.franciscanmedia.org/privacy) for the most accurate reproduction.*
 
 # Privacy – Franciscan Media
 
