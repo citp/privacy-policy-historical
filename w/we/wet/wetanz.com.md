@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetanz.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224114320id_/https%3A//wetaworkshop.zendesk.com/hc/en-us/articles/201361980-Our-Commitment-to-your-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetanz.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126013944id_/https%3A//wetaworkshop.zendesk.com/hc/en-us/articles/201361980-Our-Commitment-to-your-Privacy) for the most accurate reproduction.*
 
 # Our Commitment to your Privacy – Weta Support Centre
 
