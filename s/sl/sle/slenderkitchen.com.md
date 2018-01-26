@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slenderkitchen.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823191716id_/https%3A//www.slenderkitchen.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slenderkitchen.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126072730id_/https%3A//www.slenderkitchen.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Slender Kitchen
 
