@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asiaweddingnetwork.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126131436id_/http%3A//asiaweddingnetwork.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiaweddingnetwork.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126113522id_/http%3A//asiaweddingnetwork.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Asia Wedding Network
+# Privacy Policy on the Asia Wedding Network
 
 ## At Asia Wedding Network, we care deeply about privacy. This privacy policy set out how Asia Wedding Network uses and protects any information that you give to Asia Wedding Network when you use this website.
 
