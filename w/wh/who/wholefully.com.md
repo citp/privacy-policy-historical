@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholefully.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005223941id_/https%3A//wholefully.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholefully.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126082832id_/https%3A//wholefully.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wholefully
 
