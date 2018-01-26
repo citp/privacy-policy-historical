@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928113734id_/https%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126063537id_/https%3A//www.snapsurveys.com/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy | Snap Surveys
+
+_With effect from February 12, 2018 we will be making some changes to our Privacy Policy. If you have any questions about these changes, please contact us at  [privacy@snapsurveys.com](mailto:privacy@snapsurveys.com)_
 
 Snap Surveys Limited and Snap Surveys NH, Inc. are committed to protecting and respecting your privacy.
 
