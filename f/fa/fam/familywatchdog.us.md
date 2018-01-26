@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121194258id_/https%3A//www.familywatchdog.us/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familywatchdog.us privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126222710id_/https%3A//www.familywatchdog.us/Privacy.asp) for the most accurate reproduction.*
 
 # Free Sex Offender Registry | Local Sex Predators | Family Watchdog
 
