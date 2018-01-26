@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arma3.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916062819id_/https%3A//www.bistudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arma3.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126224524id_/https%3A//www.bistudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bohemia Interactive
 
@@ -35,7 +35,7 @@ In order to maintain high quality of our Services we have implemented following 
 
 
 
-Google Analytics Advertising Features collect data about your traffic via Google advertising cookies. More information about how we use first and third party cookies may be found [here](https://www.bistudio.com/cookie-policy). 
+Google Analytics Advertising Features collect data about your traffic via Google advertising cookies. More information about how we use first and third party cookies may be found [here](https://www.bohemia.net/cookie-policy). 
 
 You may opt-out of the Google Analytics Advertising Features by clicking on this [link](https://tools.google.com/dlpage/gaoptout). 
 
@@ -51,4 +51,4 @@ Your continued use of Services will signify your acceptance of the changes to th
 
 ###  Cookies 
 
-In order to improve your experience on our Site and in our Services We use cookies to remember who you are. More information about how and why We use cookies may be found [here](https://www.bistudio.com/cookie-policy). 
+In order to improve your experience on our Site and in our Services We use cookies to remember who you are. More information about how and why We use cookies may be found [here](https://www.bohemia.net/cookie-policy). 
