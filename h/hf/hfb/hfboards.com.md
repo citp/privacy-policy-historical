@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hfboards.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124094302id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hfboards.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126011425id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
