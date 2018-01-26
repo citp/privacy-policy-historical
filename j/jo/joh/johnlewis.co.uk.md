@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnlewis.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229092529id_/http%3A//www.johnlewis.com/customer-services/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnlewis.co.uk privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126194249id_/https%3A//www.johnlewis.com/customer-services/security-privacy) for the most accurate reproduction.*
 
 # Security & privacy
 
@@ -14,7 +14,7 @@ It's a good idea to change your passwords on a regular basis, especially for sit
 
 If you ever get a request to reveal your password for an online site, don't respond as legitimate sites and services won't ask you to send them passwords via email. You may be tempted to share passwords with close family, but do keep in mind there's always a risk they could pass information on inadvertently or share it with someone else.
 
-You can re-set your password on johnlewis.com at any time by signing into [your account](https://web.archive.org/web/20161229092529id_/http%3A//www.johnlewis.com/customer-services/my-john-lewis) and choosing the Edit your password option. If you've forgotten your password, just enter your email address on the 'Forgotten your password' page, and we'll email you your password information. Then simply follow the instructions in the email to change your password.
+You can re-set your password on johnlewis.com at any time by signing into [your account](https://web.archive.org/web/20180126194249id_/https%3A//www.johnlewis.com/customer-services/my-john-lewis) and choosing the Edit your password option. If you've forgotten your password, just enter your email address on the 'Forgotten your password' page, and we'll email you your password information. Then simply follow the instructions in the email to change your password.
 
 It's a good idea at this point to change your password to something that's as secure as possible. If you decide to change your johnlewis.com account password, or if we prompt you to do so, we'll ask you to set one with no fewer than 8 characters, to include a minimum of one upper and one lower case letter, and at least one number.
 
