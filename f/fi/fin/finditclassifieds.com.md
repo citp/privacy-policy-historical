@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024102608id_/http%3A//finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditclassifieds.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126044016id_/http%3A//finditclassifieds.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Find It Classifieds | Privacy Policy
 
@@ -76,3 +76,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please call us at [phone number] or send us an email at [info@finditclassifieds.com](mailto:info@finditclassifieds.com). 
+
+FinditClassifieds.com, your [free alternative to Craigslist](http://craigslist.org/)   
+Copyright © 1997-2018 WebzCom E-Business Services. All rights reserved.
