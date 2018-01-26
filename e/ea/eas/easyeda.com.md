@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyeda.com privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713224531id_/https%3A//easyeda.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyeda.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126151606id_/https%3A//easyeda.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EasyEDA
 
