@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distance-fromto.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127015213id_/http%3A//www.distance-fromto.com/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distance-fromto.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126202100id_/http%3A//www.distance-fromto.com/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Calculator from Map with car or flight from city to city Privacy Policy
 
