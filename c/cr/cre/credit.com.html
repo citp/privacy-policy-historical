@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the credit.com privacy policy that was archived on 2017-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171008051640id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the credit.com privacy policy that was archived on 2018-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180126052633id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us" class="unknown-browser-name-or-version-couldnt-parse"><head id="www-credit-com">
 
@@ -25,7 +25,7 @@
 	<meta property="fb:pages" content="121973361148475">
 
 	
-	<meta name="prefixId" content="g">
+	<meta name="prefixId" content="ekjk6H-gak">
 
 	<meta name="p:domain_verify" content="31e7d6cd800796539328b392e850f96e">
 
@@ -65,9 +65,9 @@
 
 <link rel="stylesheet" href="https://static.ccom-cdn.com/assets/cohesive/css/credit.css_b1dc0e66434c19ac4e5df91a02621a13.css" id="">
 
-	
+
 	<script id="iframe" src="//www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-	
+
 	<!-- IE10+ no longer supports conditionals -->
 
 	<!--[if lt IE 11]>
@@ -85,7 +85,7 @@
 
 	<script>
 	var affiliate = '32806';
-	var sessionId = 'g';
+	var sessionId = 'ekjk6H-gak';
 	console.log('our sessionId is ' + sessionId);
 // 	console.log('our affilate id is ' + affiliate);
 	/**
@@ -208,7 +208,7 @@
 		}
 		ga('require', 'displayfeatures');
 		ga('send', 'pageview', {
-			  'dimension10': 'g'
+			  'dimension10': 'ekjk6H-gak'
 			});
 
 	</script>
@@ -221,13 +221,13 @@
 	    	var parts = value.split("; " + name + "=");
 	    	if (parts.length == 2) return parts.pop().split(";").shift();
 		}
-						
+
 	</script>
-	
+
 	
 	<script src="//assets.adobedtm.com/a79611af417eddae8b7fc53a70dc97cdcc19269f/satelliteLib-31f7c61b09f726e063af3301d7f98442d05a26e0.js"></script>
-			
 	
+
 </head>
 <body id="page-privacy" class="blue_tile page-privacy sign-in ">
 
@@ -245,200 +245,451 @@
 
 
 
-<script>
 
+<!-- aem header-nni -->
+<header id="header" class="">
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-route.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-sanitize.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-animate.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.5.0.js"></script>
 
-</script>
+<link rel="stylesheet" href="https://static.ccom-cdn.com/content/dam/ccom/login/css/style.css">
 
-<div class="navbar" role="navigation">
+    
+<div id="nav-container" class="navbar" role="navigation">
+   <div class="navbar-header">
+      <button type="button" class="safari-collapse-fix-nav navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-controls="navbar-collapse">
+      </button>
+      <div class="margin-std-right" itemscope="" itemtype="http://schema.org/Organization">
+         <a class="logo" itemprop="url" href="https://www.credit.com/">
+         <span class="ccomLogo"></span>
+         </a>
+         <div id="preview" style="display:none;">
+            <form id="previewLogout" action="/previewcontrol" class="left">
+               <input type="hidden" id="action" name="action" value="logout">
+               <div style="color: red; font-size: 16px;">PREVIEW</div>
+               <!-- Need to add mobile class for style -->
+               <div class="left margin-std-left">
+                  <a href="#" data-toggle="modal" data-target="#ppreviewLogout" style="color: red;">(logout)</a>
+               </div>
+            </form>
+         </div>
+         <!-- Pop up confirmation -->
+         <div class="modal fade" id="ppreviewLogout" tabindex="-1" role="dialog" aria-labelledby="previewLogoutLabel" style="z-index: 2500; top: 35px">
+            <div class="modal-dialog" role="document">
+               <div class="modal-content">
+                  <div class="modal-header">
+                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                  </div>
+                  <div class="pagination-centered lead gutter">
+                     Log out from preview?
+                  </div>
+                  <div class="row margin-double-top">
+                     <div class="col-md-6 margin-double-bottom pagination-centered">
+                        <button class="btn btn-info" type="button" onclick="$('#previewLogout').submit();">yes</button>
+                     </div>
+                     <div class="col-md-6 pagination-centered ">
+                        <button class="btn btn-info" aria-hidden="true" data-dismiss="modal" type="button">no</button>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <script>
+             var preCookie = getCookie("CCPRE");
+             if (preCookie != undefined && preCookie != false) {
+                 document.getElementById('preview').style.display = "block";
+                 console.log("Displaying preview mode");
+             }
+            if(aemInfo != undefined && aemInfo.preview) {
+               //console.log("in preview mode");
+               document.getElementById('preview').style.display = "block";
+            }
+         </script>
+      </div>
+   </div>
+    
+   <div class="navbar-collapse collapse no-padding">
+    <div class="modal-demo" data-ng-app="ccomAemApp" data-ng-controller="loginModalController as $ctrl">    
+    <script type="text/ng-template" id="loginModal.html">
+	<div id="">
+		<div id="loginPage" class="modal-content container-fluid login-wrapper no-padding-sides">
+              <div class="container content">
+                 <div class="close" data-dismiss="modal" aria-label="Close" data-ng-click="cancel()"><span aria-hidden="true">&#215;</span></div>
+                <div class="row">
+                  <div class="col-sm-6 adv">
+                    <table>
+                      <tr>
+                        <td>
+                          <p class="slogan text-center">Are Innacurate Items<br>
+                              Ruining Your Credit?</p>
+                           
+                        </td>
+                        <td>
+                          <div class="col-sm-10 col-sm-offset-1 text-center copy bg_medGray padding-top-20 padding-bottom-20 margin-double-bottom"><strong>POTENTIAL BENEFITS IF REMOVED</strong></div>
+                          <div class="clear"></div>
+                            
+                          <p class="offBlk margin-btm-zero">Past client have seen an average</p>
+                          <p class="offBlk margin-btm-zero"><span class="font21 limeGreen">40 Point </span>&nbsp; increase in 4 months</p>  
+                          <p class="offBlk margin-btm-zero"><span class="font21 limeGreen">Save money </span>&nbsp; (with lower interest rates)</p> 
+                          <p class="offBlk"><span class="font21 limeGreen">Increase Probability </span>&nbsp; of loan approval</p> 
+                        </td>
+                        <td>
+                            <div class="margin-top-plus margin-double-bottom fontLarge text-center"><strong>Call Lexington Law today for<br>
+                                a FREE credit consultation</strong></div>
+                            
+                            <div class="text-center"><button class="btn btn-green-flat col-sm-10 col-sm-offset-1">833-333-2409</button></div>
+                            <div class="clear"></div>
 
-		<div class="navbar-header">
-			<button type="button" class="safari-collapse-fix-nav navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false" aria-controls="navbar-collapse">
-			</button>
-
-			<div class="margin-std-right" itemscope="" itemtype="http://schema.org/Organization">
-				<a class="logo left" itemprop="url" href="https://www.credit.com/">
-					<span class="ccomLogo"></span>
-				</a>
-				
-				<!--	check for cookie	-->
-					
-					<!--	if cookie	-->
-			</div>
-			
-			
-			<a data-target="#search-wrapper" data-toggle="collapse" class="btn-search-mobile collapsed" aria-expanded="false" href="javascript:"></a>
-			
-			
-		</div>
-
-		<div class="navbar-collapse collapse no-padding">
-			<ul class="nav navbar-nav pull-left">
-
-				<li id="#nav-credit-cards" class="dropdown"><a data-toggle="dropdown" class="dropdown-toggle nav-cards hidable-nav mobile-only-center" href="#">Credit Cards
-					<i class="glyphicon pull-right"></i></a>
-					<div class="dropdown-menu">
-						<div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
-							<a href="https://www.credit.com/credit-cards/content" class="caps blackLink book-weight">
-							<span class="bold-weight">Credit Cards</span><span class="darkGray"> &gt;</span></a> 
-							<a href="https://www.credit.com/credit-cards/content"><div class="cc-image nav-cc margin-std-top"></div></a>
-						</div>
-						<div class="col-sm-3 col-xs-6 margin-double-top margin-double-bottom">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Compare</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a id="nav-credit-cards-faircredit" class="blackLink" href="https://www.credit.com/credit-cards/fair-credit/">Credit Cards for Fair Credit</a></li>
-								<li><a id="nav-credit-cards-badcredit" class="blackLink" href="https://www.credit.com/credit-cards/bad-credit/">Credit Cards for Bad Credit</a></li>
-								<li><a id="nav-credit-cards-buildcredit" class="blackLink" href="https://www.credit.com/credit-cards/build-credit/">Credit Cards to Build Credit</a></li>
-								<li><a id="nav-credit-cards-lowaprcards" class="blackLink" href="https://www.credit.com/credit-cards/low-interest-low-apr/">Low APR Credit Cards</a></li>
-								<li><a id="nav-credit-cards-business" class="blackLink" href="https://www.credit.com/credit-cards/business/">Business</a></li>
-								<li><a id="nav-credit-cards-balancetransfer" class="blackLink" href="https://www.credit.com/credit-cards/balance-transfer/">Balance Transfer</a></li>
-								<li><a id="nav-credit-cards-compare" class="blackLink" href="https://www.credit.com/credit-cards/">Credit Card Finder</a></li>
-								<li><a id="nav-credit-cards-compare" class="blackLink" href="https://www.credit.com/credit-cards/search/">Search</a></li>								
-								<li><a id="nav-credit-cards-browse" class="blackLink" href="https://www.credit.com/credit-cards/browse/">All</a></li>
-							</ul>
-						</div>
-						<div class="col-sm-3 col-xs-6 margin-double-top margin-double-bottom">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Best of</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a id="nav-credit-cards-bestcardoffers" class="blackLink" href="https://www.credit.com/best-credit-card-offers/">Best Credit Card Offers</a></li>
-								<li><a id="nav-credit-cards-bestrewards" class="blackLink" href="https://www.credit.com/credit-cards/best-rewards-credit-card/">Best Rewards Credit Cards</a></li>
-								<li><a id="nav-credit-cards-bestcashback" class="blackLink" href="https://www.credit.com/credit-cards/cash-back/">Best Cash Back Credit Cards</a></li>
-								<li><a id="nav-credit-cards-bestsecured" class="blackLink" href="https://www.credit.com/credit-cards/secured/">Best Secured Credit Cards</a></li>
-							</ul>
-						</div>	
-						<div class="col-sm-4 col-xs-12 margin-double-top mobile-border-bottom padding-bottom-20">							
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a id="nav-credit-cards-nocchistory" class="blackLink" href="https://www.credit.com/credit-cards/content/how-to-get-a-credit-card-with-no-credit-history/">How to Get a Credit Card with No Credit</a></li>
-								<li><a id="nav-credit-cards-badcchistory" class="blackLink" href="https://www.credit.com/credit-cards/content/how-to-get-a-credit-card-with-bad-credit/">How to Get a Credit Card with Bad Credit</a></li>
-								<li><a id="nav-credit-cards-firstcc" class="blackLink" href="https://www.credit.com/credit-cards/content/your-first-credit-card/">Your First Credit Card</a></li>
-								<li><a id="nav-credit-cards-6ccstrategies" class="blackLink" href="https://www.credit.com/credit-cards/content/six-smart-credit-card-strategies/">6 Smart Credit Card Strategies</a></li>
-								<li><a id="nav-credit-cards-securedcards" class="blackLink" href="https://www.credit.com/credit-cards/content/secured-cards-help-build-credit/">How Secured Cards can Help Build Credit</a></li>
-								<li><a id="nav-credit-cards-easiestcc" class="blackLink" href="https://www.credit.com/credit-cards/content/easiest-credit-cards-to-get/">The Easiest Cards to Get</a></li>
-								<li><a id="nav-credit-cards-applycc" class="blackLink" href="https://www.credit.com/credit-cards/content/how-to-apply-for-a-credit-card/">How To Apply For a Credit Card</a></li>
-								<li><a id="nav-credit-cards-ccbeginners" class="blackLink" href="https://blog.credit.com/2014/11/5-credit-cards-for-beginners-99894/">Credit Cards for Beginners</a></li>
-							</ul>
-							
-						</div>
-					</div>
-				</li>
-				<li class="dropdown">
-					<a data-toggle="dropdown" role="button" class="dropdown-toggle nav-repair hidable-nav mobile-only-center" href="#">Credit Repair
-					<i class="glyphicon pull-right"></i></a>
-					<div class="dropdown-menu">
-						<div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
-							<a href="https://www.credit.com/credit-repair/credit-repair-content/" class="caps blackLink book-weight">
-							<span class="bold-weight">Credit Repair</span><span class="darkGray"> &gt;</span></a> 
-							<a href="https://www.credit.com/credit-repair/credit-repair-content/"><div class="cc-image nav-crepair margin-std-top"></div></a>
-						</div>
-						<div class="col-sm-3 col-xs-12 margin-double-top margin-double-bottom">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Reviews</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a href="https://www.credit.com/credit-repair/lexington-law-review/" class="blackLink">Lexington Law Review</a></li>
-								<li><a href="https://www.credit.com/credit-repair/credit-repair-content/creditrepair-com-review/" class="blackLink">CreditRepair.com Review</a></li>
-							</ul>
-						</div>
-						<div class="col-sm-7 col-xs-12 margin-double-top mobile-border-bottom padding-bottom-20">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a href="https://www.credit.com/credit-repair/credit-repair-content/how-to-fix-your-credit/" class="blackLink">How To Fix Your Credit</a></li>
-								<li><a href="https://www.credit.com/credit-repair/dispute-credit-report-error/" class="blackLink">How To Dispute an Error on Your Credit Report</a></li>
-								<li><a href="https://www.credit.com/credit-repair/the-truth-about-credit-repair/" class="blackLink">The Truth About Credit Repair</a></li>
-								<li><a href="https://www.credit.com/credit-repair/" class="blackLink">Does Credit Repair Work?</a></li>
-								<li><a href="https://www.credit.com/credit-repair/how-to-improve-credit-score/" class="blackLink">How To Improve Credit Score</a></li>
-								<li><a href="https://www.credit.com/credit-repair/how-long-do-things-stay-on-your-credit-report/" class="blackLink">How Long Do Things Stay On Your Credit Report?</a></li>
-								<li><a href="https://www.credit.com/credit-repair/how-to-clean-credit-report/" class="blackLink">How to Clean Up Your Credit Report</a></li>
-								<li><a href="https://www.credit.com/credit-reports/removing-collection-accounts-from-your-credit-reports/" class="blackLink">Removing Collection Accounts from Your Credit Reports</a></li>
-							</ul>
-						</div>							
-					</div>
-				</li>
-				<li class="dropdown"><a data-toggle="dropdown" role="button" class="dropdown-toggle nav-report hidable-nav mobile-only-center" href="#">Credit Reports &amp; Scores
-					<i class="glyphicon pull-right"></i></a>
-					<div class="dropdown-menu">
-						<div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
-							<a href="https://www.credit.com/credit-reports/credit-report-articles/" class="caps blackLink book-weight">
-							<span class="bold-weight">Credit Reports &amp; Scores</span><span class="darkGray"> &gt;</span></a>  
-							<a href="https://www.credit.com/credit-reports/credit-report-articles/"><div class="cc-image nav-creport margin-std-top"></div></a>
-						</div>
-						<div class="col-sm-3 col-xs-12 margin-double-top margin-double-bottom">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Compare</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a href="https://www.credit.com/free-credit-score/" class="blackLink">Free Credit Score</a></li>
-								<li><a href="https://www.credit.com/free-credit-report-card/" class="blackLink">Free Credit Report Card</a></li>
-								<li><a href="https://www.credit.com/credit-reports/" class="blackLink">Credit Reports</a></li>
-								<li><a href="https://www.credit.com/credit-scores/" class="blackLink">Credit Scores</a></li>
-								<li><a href="https://www.credit.com/credit-monitoring/" class="blackLink">Credit Monitoring</a></li>
-								<li><a href="https://www.credit.com/identity-theft-protection/" class="blackLink">Identity Theft Protection</a></li>
-							</ul>
-						</div>
-						<div class="col-sm-7 col-xs-12 margin-double-top mobile-border-bottom padding-bottom-20">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a href="https://www.credit.com/credit-scores/what-is-a-good-credit-score/" class="blackLink">What Is A Good Credit Score</a></li>
-								<li><a href="https://www.credit.com/credit-reports/late-payment-secrets-revealed/" class="blackLink">Late Payment Secrets Revealed</a></li>
-								<li><a href="https://www.credit.com/credit-reports/credit-reporting-agencies/" class="blackLink">Credit Reporting Agencies</a></li>
-								<li><a href="https://www.credit.com/credit-reports/what-is-a-hard-inquiry/" class="blackLink">What Is a Hard Inquiry</a></li>
-								<li><a href="https://www.credit.com/credit-reports/how-do-i-get-rid-of-fraudulent-accounts-opened-in-my-name/" class="blackLink">How Do I Get Rid of Fraudulent Accounts Opened in My Name?</a></li>
-								<li><a href="https://www.credit.com/credit-reports/what-happens-to-your-credit-when-you-get-married/" class="blackLink">What Happens to Your Credit When You Get Married?</a></li>
-								<li><a href="https://www.credit.com/credit-reports/what-happens-to-your-credit-when-you-get-evicted/" class="blackLink">What Happens To Your Credit When You Get Evicted?</a></li>
-								<li><a href="https://www.credit.com/credit-reports/tips-for-improving-your-credit-types-of-accounts/" class="blackLink">Tips for Improving Your Credit: The Types of Accounts in Your Credit Report</a></li>
-								<li><a href="https://blog.credit.com/2013/04/how-long-does-negative-information-stay-on-my-credit-report-65360/" class="blackLink">How Long Does Negative Info Stay on My Credit Report?</a></li>							
-							</ul>
-						</div>							
-					</div>
-				</li>
-				<li class="dropdown"><a data-toggle="dropdown" role="button" class="dropdown-toggle nav-loan hidable-nav mobile-only-center" href="#">Loans
-					<i class="glyphicon pull-right"></i></a>
-					<div class="dropdown-menu">
-						<div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
-							<a href="https://www.credit.com/loans/loan-articles/" class="caps blackLink book-weight">
-							<span class="bold-weight">Loans</span><span class="darkGray"> &gt;</span></a> 
-							<a href="https://www.credit.com/loans/loan-articles/"><div class="cc-image nav-loans margin-std-top"></div></a>
-						</div>
-						<div class="col-sm-3 col-xs-12 margin-double-top margin-double-bottom">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Compare</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a href="https://www.credit.com/loans/personal-loans/" class="blackLink">Personal Loan</a></li>
-								<li><a href="https://www.credit.com/loans/auto-loans/" class="blackLink">Auto Loan</a></li>
-								<li><a href="https://www.credit.com/auto/auto-insurance/" class="blackLink">Auto Insurance</a></li>
-								<li><a href="https://www.credit.com/loans/mortgage-rates/" class="blackLink">Mortgage Loans</a></li>
-								<li><a href="https://www.credit.com/loans/student-loans/" class="blackLink">Student Loan</a></li>
-								<li><a href="https://www.credit.com/loans/" class="blackLink">All Loans</a></li>
-							</ul>
-						</div>
-						<div class="col-sm-7 col-xs-12 margin-double-top padding-bottom-20 mobile-border-bottom">
-							<div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
-							<ul class="list-unstyled  margin-std-top">
-								<li><a href="https://www.credit.com/loans/loan-articles/top-5-worst-car-buying-mistakes/" class="blackLink">Top 5 Worst Car Buying Mistakes</a></li>
-								<li><a href="https://www.credit.com/loans/loan-articles/cosigner-what-you-need-to-know/" class="blackLink">Using a Cosigner: What You Need to Know</a></li>
-								<li><a href="https://www.credit.com/loans/loan-articles/what-to-do-if-you-cant-make-your-car-payments/" class="blackLink">What To Do If You Can't Make Your Car Payments</a></li>
-								<li><a href="https://www.credit.com/loans/mortgage-questions/property-taxes-and-your-mortgage/" class="blackLink">Property Taxes and Your Mortgage</a></li>
-								<li><a href="https://blog.credit.com/2015/06/what-happens-if-i-ignore-my-student-loans-84434/" class="blackLink">What Happens If I Ignore My Student Loans?</a></li>
-								<li><a href="https://www.credit.com/loans/mortgage-questions/how-to-get-loan-fully-approved-the-mortgage-approval-process/" class="blackLink">How to Get a Loan Fully Approved: The Mortgage Loan Approval Process</a></li>
-								<li><a href="https://blog.credit.com/2014/02/5-things-to-know-about-home-equity-loans-76738/" class="blackLink">4 Things You Need to Know About Home Equity Loans</a></li>
-								<li><a href="https://www.credit.com/loans/mortgage-questions/how-to-refinance-your-home-loan-with-bad-credit/" class="blackLink">How to Refinance Your Home Loan With Bad Credit</a></li>
-								<li><a href="https://www.credit.com/loans/student-loans/student-articles/student-loan-forgiveness-programs/" class="blackLink">Paying Off Your Student Loans: Forgiveness Programs &amp; Beyond</a></li>							
-							</ul>
-						</div>							
-					</div>
-				</li>
-				<li class="no-dropdown"><a class="nav-loan hidable-nav mobile-only-center" href="http://blog.credit.com/">Blog</a></li>
-			</ul>
-
-			<ul class="nav navbar-nav pull-right margin-std-right">
-				<li class="nav-search"><a href="javascript:" data-target="#search-wrapper" data-toggle="collapse" aria-expanded="false" class="navbar-search hidable-nav collapsed"></a></li>
-									
-
-				<li id="nav_bar_signup" class="home_page user_controls"><a href="https://www.credit.com/signup/" class="nav-btn btn btn-green-flat" onclick="trackclickCcom(this.href, 'vpv_signup.navdefault');">Sign Up</a></li>
-				<li id="login" class="home_page user_controls"><a href="https://www.credit.com/login/" class="nav-btn btn btn-blk-out">Log In</a></li>
-
-			</ul>
-		</div>
-
+                            <div class="copy text-center margin-std-top margin-double-bottom white">or <a href="https://www.lexingtonlaw.com/l/credit-repair?tid=30989" target="_blank" class="white">Learn More</a> online</div>
+                            <div class="text-center"><img src="https://static.ccom-cdn.com/content/dam/ccom/login/img/lex-logo.png" /></div>
+                            
+                            <div class="white copy margin-double-top">*Since legal cases vary, you should not expect these results.</div>
+                        
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                  <div class="col-sm-6 creds">
+                    <div class="panel credentials">
+                      <div class="panel-heading">
+                        <div class="greeting">
+                        <h1>Welcome Back!</h1>
+                        <p>Log in to get a personalized credit card recommendations, based on your credit score.</p>
+                        </div>
+                        <p>Log Back In</p>
+                      </div>
+                      <div class="panel-body">
+                        <form>
+                                   <div ng-repeat="param in params">
+                                       <input type="hidden" name="{{param.name}}" value="{{param.value}}"/>
+                                   </div>
+                                   <div class="form-group">
+                                       <label for="email">Email Address</label>
+                                       <input name="EMAIL" data-ng-model="email" class="form-control" id="email" type="email">
+                                       <span class="error" data-ng-bind="emailError"></span>
+                                   </div>
+                                   <div class="form-group">
+                                       <label for="password">Password</label>
+                                       <input id="password" name="PASSWORDCS" data-ng-model="password" class="form-control" autocomplete="nope" type="password">
+                                       <span class="error" data-ng-bind="passwordError"></span>
+                                   </div>
+                                   <div class="checkbox">
+                                       <label>
+                                           <input id="REMEMBERMYLOGIN" ng-model="rememberlogin" name="REMEMBERMYLOGIN" value="YES" type="checkbox"><span>Remember me</span>
+                                       </label>
+                                   </div>
+                                   <div class="form-group">
+                                       <button data-ng-click="submit($event)" class="btn btn-primary has-spinner"><span class="spinner"><i class="fa fa-spinner fa-spin"></i></span> &nbsp;Log In</button>
+                                   </div>
+                                   <div class="secondary">
+                                       <a href="/signup/">Sign up now</a> &nbsp;|&nbsp; <a href="/ufg/default/ccom_user_forgot_pass">Forgot password?</a>
+                                   </div>
+                              </form>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </div>
+    </div>
+    </script>
+       
+      <ul class="nav navbar-nav pull-left">
+         <li id="#nav-credit-cards" class="dropdown">
+            <a data-toggle="dropdown" class="dropdown-toggle nav-cards hidable-nav mobile-only-center" href="#">Credit Cards<i class="glyphicon pull-right"></i></a>
+            <div class="dropdown-menu">
+               <div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
+                  <a href="https://www.credit.com/credit-cards/" class="caps blackLink book-weight">
+                  <span class="bold-weight">Credit Cards</span><span class="darkGray"> &gt;</span></a>
+                  <a href="https://www.credit.com/credit-cards/">
+                     <div class="cc-image nav-cc margin-std-top"></div>
+                  </a>
+               </div>
+               <div class="col-sm-3 col-xs-6 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Compare</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a id="nav-credit-cards-faircredit" class="blackLink" href="https://www.credit.com/credit-cards/fair-credit/">Credit Cards for Fair Credit</a></li>
+                     <li><a id="nav-credit-cards-badcredit" class="blackLink" href="https://www.credit.com/credit-cards/bad-credit/">Credit Cards for Bad Credit</a></li>
+                     <li><a id="nav-credit-cards-buildcredit" class="blackLink" href="https://www.credit.com/credit-cards/build-credit/">Credit Cards to Build Credit</a></li>
+                     <li><a id="nav-credit-cards-lowaprcards" class="blackLink" href="https://www.credit.com/credit-cards/low-interest-low-apr/">Low APR Credit Cards</a></li>
+                     <li><a id="nav-credit-cards-business" class="blackLink" href="https://www.credit.com/credit-cards/business/">Business</a></li>
+                     <li><a id="nav-credit-cards-balancetransfer" class="blackLink" href="https://www.credit.com/credit-cards/balance-transfer/">Balance Transfer</a></li>
+                     <li><a id="nav-credit-cards-compare" class="blackLink" href="https://www.credit.com/credit-cards/">Credit Card Finder</a></li>
+                     <li><a id="nav-credit-cards-compare" class="blackLink" href="https://www.credit.com/credit-cards/search/">Search</a></li>
+                     <li><a id="nav-credit-cards-browse" class="blackLink" href="https://www.credit.com/credit-cards/browse/">All</a></li>
+                  </ul>
+               </div>
+               <div class="col-sm-3 col-xs-6 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Best of</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a id="nav-credit-cards-bestcardoffers" class="blackLink" href="https://www.credit.com/best-credit-card-offers/">Best Credit Card Offers</a></li>
+                     <li><a id="nav-credit-cards-bestrewards" class="blackLink" href="https://www.credit.com/credit-cards/best-rewards-credit-card/">Best Rewards Credit Cards</a></li>
+                     <li><a id="nav-credit-cards-bestcashback" class="blackLink" href="https://www.credit.com/credit-cards/cash-back/">Best Cash Back Credit Cards</a></li>
+                     <li><a id="nav-credit-cards-bestsecured" class="blackLink" href="https://www.credit.com/credit-cards/secured/">Best Secured Credit Cards</a></li>
+                  </ul>
+               </div>
+               <div class="col-sm-4 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a id="nav-credit-cards-nocchistory" class="blackLink" href="https://www.credit.com/credit-cards/content/how-to-get-a-credit-card-with-no-credit-history/">How to Get a Credit Card with No Credit</a></li>
+                     <li><a id="nav-credit-cards-badcchistory" class="blackLink" href="https://www.credit.com/credit-cards/content/best-credit-cards-for-bad-credit/tips/">How to Get a Credit Card with Bad Credit</a></li>
+                     <li><a id="nav-credit-cards-firstcc" class="blackLink" href="https://www.credit.com/credit-cards/content/your-first-credit-card/">Your First Credit Card</a></li>
+                     <li><a id="nav-credit-cards-6ccstrategies" class="blackLink" href="https://www.credit.com/credit-cards/content/six-smart-credit-card-strategies/">6 Smart Credit Card Strategies</a></li>
+                     <li><a id="nav-credit-cards-securedcards" class="blackLink" href="https://www.credit.com/credit-cards/content/secured-cards-help-build-credit/">How Secured Cards can Help Build Credit</a></li>
+                     <li><a id="nav-credit-cards-easiestcc" class="blackLink" href="https://www.credit.com/credit-cards/content/easiest-credit-cards-to-get/">The Easiest Cards to Get</a></li>
+                     <li><a id="nav-credit-cards-applycc" class="blackLink" href="https://www.credit.com/credit-cards/content/how-to-apply-for-a-credit-card/">How To Apply For a Credit Card</a></li>
+                     <li><a id="nav-credit-cards-ccbeginners" class="blackLink" href="https://blog.credit.com/2014/11/5-credit-cards-for-beginners-99894/">Credit Cards for Beginners</a></li>
+                     <li><a id="nav-credit-cards-insights" class="blackLink" href="https://www.credit.com/credit-cards/content">More Insights</a></li>
+                  </ul>
+               </div>
+            </div>
+         </li>
+         <li class="dropdown">
+            <a data-toggle="dropdown" role="button" class="dropdown-toggle nav-repair hidable-nav mobile-only-center" href="#">Credit Repair<i class="glyphicon pull-right"></i></a>
+            <div class="dropdown-menu">
+               <div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
+                  <a href="https://www.credit.com/credit-repair/" class="caps blackLink book-weight">
+                  <span class="bold-weight">Credit Repair</span><span class="darkGray"> &gt;</span></a>
+                  <a href="https://www.credit.com/credit-repair/">
+                     <div class="cc-image nav-crepair margin-std-top"></div>
+                  </a>
+               </div>
+               <div class="col-sm-3 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Resources</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/credit-repair/" class="blackLink">Credit Repair 101</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/lexington-law-review/" class="blackLink">Lexington Law Review</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/credit-repair-content/creditrepair-com-review/" class="blackLink">CreditRepair.com Review</a></li>
+                  </ul>
+               </div>
+               <div class="col-sm-7 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/credit-repair/credit-repair-content/how-to-fix-your-credit/" class="blackLink">How To Fix Your Credit</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/dispute-credit-report-error/" class="blackLink">How To Dispute an Error on Your Credit Report</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/" class="blackLink">Does Credit Repair Work?</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/how-to-improve-credit-score/" class="blackLink">How To Improve Credit Score</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/how-long-do-things-stay-on-your-credit-report/" class="blackLink">How Long Do Things Stay On Your Credit Report?</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/how-to-clean-credit-report/" class="blackLink">How to Clean Up Your Credit Report</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/removing-collection-accounts-from-your-credit-reports/" class="blackLink">Removing Collection Accounts from Your Credit Reports</a></li>
+                     <li><a href="https://www.credit.com/credit-repair/credit-repair-content/" class="blackLink">More Insights</a></li>
+                  </ul>
+               </div>
+            </div>
+         </li>
+         <li class="dropdown">
+            <a data-toggle="dropdown" role="button" class="dropdown-toggle nav-report hidable-nav mobile-only-center" href="#">Credit Reports &amp; Scores<i class="glyphicon pull-right"></i></a>
+            <div class="dropdown-menu">
+               <div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
+                  <a href="https://www.credit.com/credit-reports/credit-report-articles/" class="caps blackLink book-weight">
+                  <span class="bold-weight">Credit Reports &amp; Scores</span><span class="darkGray"> &gt;</span></a>
+                  <a href="https://www.credit.com/credit-reports/credit-report-articles/">
+                     <div class="cc-image nav-creport margin-std-top"></div>
+                  </a>
+               </div>
+               <div class="col-sm-3 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Compare</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/free-credit-score/" class="blackLink">Free Credit Score</a></li>
+                     <li><a href="https://www.credit.com/free-credit-report-card/" class="blackLink">Free Credit Report Card</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/" class="blackLink">Credit Reports</a></li>
+                     <li><a href="https://www.credit.com/credit-scores/" class="blackLink">Credit Scores</a></li>
+                     <li><a href="https://www.credit.com/credit-monitoring/" class="blackLink">Credit Monitoring</a></li>
+                     <li><a href="https://www.credit.com/identity-theft-protection/" class="blackLink">Identity Theft Protection</a></li>
+										 <li><a href="https://www.credit.com/how-it-works/free-mobile-credit-app/" class="blackLink">Credit.com App</a></li>
+                  </ul>
+               </div>
+               <div class="col-sm-7 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/credit-scores/what-is-a-good-credit-score/" class="blackLink">What Is A Good Credit Score</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/late-payment-secrets-revealed/" class="blackLink">Late Payment Secrets Revealed</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/credit-reporting-agencies/" class="blackLink">Credit Reporting Agencies</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/what-is-a-hard-inquiry/" class="blackLink">What Is a Hard Inquiry</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/how-do-i-get-rid-of-fraudulent-accounts-opened-in-my-name/" class="blackLink">How Do I Get Rid of Fraudulent Accounts Opened in My Name?</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/what-happens-to-your-credit-when-you-get-married/" class="blackLink">What Happens to Your Credit When You Get Married?</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/what-happens-to-your-credit-when-you-get-evicted/" class="blackLink">What Happens To Your Credit When You Get Evicted?</a></li>
+                     <li><a href="https://www.credit.com/credit-reports/tips-for-improving-your-credit-types-of-accounts/" class="blackLink">Tips for Improving Your Credit: The Types of Accounts in Your Credit Report</a></li>
+                     <li><a href="https://blog.credit.com/2013/04/how-long-does-negative-information-stay-on-my-credit-report-65360/" class="blackLink">How Long Does Negative Info Stay on My Credit Report?</a></li>
+                  </ul>
+               </div>
+            </div>
+         </li>
+         <li class="dropdown">
+            <a data-toggle="dropdown" role="button" class="dropdown-toggle nav-loan hidable-nav mobile-only-center" href="#">Loans<i class="glyphicon pull-right"></i></a>
+            <div class="dropdown-menu">
+               <div class="col-sm-2 hidden-xs margin-double-top pagination-centered">
+                  <a href="https://www.credit.com/loans/loan-articles/" class="caps blackLink book-weight">
+                  <span class="bold-weight">Loans</span><span class="darkGray"> &gt;</span></a>
+                  <a href="https://www.credit.com/loans/loan-articles/">
+                     <div class="cc-image nav-loans margin-std-top"></div>
+                  </a>
+               </div>
+               <div class="col-sm-3 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Compare</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/loans/personal-loans/" class="blackLink">Personal Loan</a></li>
+                     <li><a href="https://www.credit.com/loans/auto-loans/" class="blackLink">Auto Loan</a></li>
+                     <li><a href="https://www.credit.com/auto/auto-insurance/" class="blackLink">Auto Insurance</a></li>
+                     <li><a href="https://www.credit.com/loans/mortgage-rates/" class="blackLink">Mortgage Loans</a></li>
+                     <li><a href="https://www.credit.com/loans/student-loans/" class="blackLink">Student Loan</a></li>
+                     <li><a href="https://www.credit.com/loans/" class="blackLink">All Loans</a></li>
+                  </ul>
+               </div>
+               <div class="col-sm-7 col-xs-12 margin-double-top margin-double-bottom">
+                  <div class="caps bold-weight blackLink mobileUnderline mobile-padd-btm">Insights</div>
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/loans/loan-articles/top-5-worst-car-buying-mistakes/" class="blackLink">Top 5 Worst Car Buying Mistakes</a></li>
+                     <li><a href="https://www.credit.com/loans/loan-articles/cosigner-what-you-need-to-know/" class="blackLink">Using a Cosigner: What You Need to Know</a></li>
+                     <li><a href="https://www.credit.com/loans/loan-articles/what-to-do-if-you-cant-make-your-car-payments/" class="blackLink">What To Do If You Can't Make Your Car Payments</a></li>
+                     <li><a href="https://www.credit.com/loans/mortgage-questions/property-taxes-and-your-mortgage/" class="blackLink">Property Taxes and Your Mortgage</a></li>
+                     <li><a href="https://blog.credit.com/2015/06/what-happens-if-i-ignore-my-student-loans-84434/" class="blackLink">What Happens If I Ignore My Student Loans?</a></li>
+                     <li><a href="https://www.credit.com/loans/mortgage-questions/how-to-get-loan-fully-approved-the-mortgage-approval-process/" class="blackLink">How to Get a Loan Fully Approved: The Mortgage Loan Approval Process</a></li>
+                     <li><a href="https://blog.credit.com/2014/02/5-things-to-know-about-home-equity-loans-76738/" class="blackLink">4 Things You Need to Know About Home Equity Loans</a></li>
+                     <li><a href="https://www.credit.com/loans/mortgage-questions/how-to-refinance-your-home-loan-with-bad-credit/" class="blackLink">How to Refinance Your Home Loan With Bad Credit</a></li>
+                     <li><a href="https://www.credit.com/loans/student-loans/student-articles/student-loan-forgiveness-programs/" class="blackLink">Paying Off Your Student Loans: Forgiveness Programs &amp; Beyond</a></li>
+                  </ul>
+               </div>
+            </div>
+         </li>
+         <li class="dropdown"><a class="nav-loan hidable-nav mobile-only-center" href="http://blog.credit.com/">Blog</a></li>
+      </ul>
+      <ul id="login-container" class="nav navbar-nav pull-right margin-std-right">
+         <li class="nav-search hidden-xs"><a href="javascript:toggleDiv('search-wrapper');" id="navbar-search" class="navbar-search hidable-nav"></a></li> 
+         <li id="nav_bar_signup" class="home_page user_controls"><a href="https://www.credit.com/signup/" class="nav-btn btn btn-green-flat" onclick="trackclickCcom(this.href, 'vpv_signup.navdefault');">Sign Up</a></li>
+         <li id="login" class="home_page user_controls"><a id="loginPage" class="nav-btn btn btn-blk-out" href="/login/">Log In</a></li>
+         <li id="login" class="home_page user_controls"><a id="loginModal" class="nav-btn btn btn-blk-out hide" data-ng-click="$ctrl.open()">Log In</a></li>
+         <!-- User is logged in -->
+            <li class="signed-in dropdown user_controls" style="display:none;">
+               <a data-toggle="dropdown" class="nav-signed-in dropdown-toggle" href="#" aria-expanded="false"> <span class="greeting"> Hi </span> <strong><span id="fname" class="first_name"></span></strong><b class="caret"></b></a>
+               <div class="dropdown-menu dashboard-menu">
+                  <ul class="list-unstyled  margin-std-top">
+                     <li><a href="https://www.credit.com/my-credit-report-card/" class="blackLink mobile-only-center">My Dashboard</a></li>
+                     <li><a href="https://www.credit.com/ufg/default/user_edit_profile" class="blackLink mobile-only-center">Edit Profile</a></li>
+                     <li><a target="_blank" href="https://support.credit.com" class="blackLink mobile-only-center">Support</a></li>
+                     <li>
+                        <a id="logout-link" href="/logoutUser?referer=https://www.credit.com/logout/?crc=true" class="mobile-only-center">Log Out  </a>
+                     </li>
+                  </ul>
+               </div>
+            </li>
+            <!-- End user is logged in -->
+      </ul>
+   </div>
+   <!-- Mobile Sign In Start -->
+      <div id="mobile-login" class="sign-in-collapse-wrapper" style="display:none;">
+         <a class="nav-signed-in-collapsed collapsed" data-target="#sign-in-dropdown" data-toggle="collapse" href="#"></a>
+         <div class="signed-in-dropdown collapse" id="sign-in-dropdown">
+            <ul class="dropdown-menu2">
+               <li>
+                  <a class="mobile-only-center" href="https://www.credit.com/my-credit-report-card/">My Dashboard</a>
+               </li>
+               <li>
+                  <a class="mobile-only-center" href="https://www.credit.com/ufg/default/user_edit_profile">Edit Profile</a>
+               </li>
+               <li>
+                  <a class="mobile-only-center" href="https://support.credit.com" target="_blank">Support</a>
+               </li>
+               <li>
+                  <a id="logout-link" href="/logoutUser?referer=https://www.credit.com/logout/?crc=true" class="mobile-only-center">Log Out  </a>
+               </li>
+            </ul>
+         </div>
+      </div>
+      </div>
+      <!-- Mobile Sign In End -->
 
 </div>
+    
+    
+    
+    <div id="search-wrapper" style="display: none;">
+        <div class="container">
+            <form class="search" action="/search/" method="get">
+                <div class="input-append">
+                <input class="input left" type="text" id="appendedInputButton" value="" placeholder="Have a question about Credit?" name="q" autofocus="autofocus">
+                <button class="submit btn-info left" type="submit" value=""><span></span></button>
+                </div>
+            </form>
 
+            <button onclick="toggleDiv('search-wrapper');" class="search-close close">×</button>
+        </div>
+    </div>
+
+    <script src="//www.credit.com/content/dam/ccom/common/js/collapse.js"></script>
+    
+    
+    
+<script>
+   // If the url contains nonav decide when to display nav, based on affiliate id
+   if (window.location.href.indexOf("nonav") > -1) {
+      //console.log("Before displaying nonav");
+      if ((aemInfo.affiliateid != undefined) && (aemInfo.affiliateid == '99182' || aemInfo.affiliateid == '99183' || aemInfo.affiliateid == '71552' || aemInfo.affiliateid == '71553')) {
+         //console.log("inside nonav");
+         document.getElementById('header').style.display = "none";
+         //console.log("Displaying nonav");
+      } else {
+         //console.log("nav should be displayed");
+         document.getElementById('header').style.display = "block";
+      }
+   }
+   // Show hide the username based on login
+   if (aemInfo.firstname != undefined && aemInfo.firstname != null) {
+      //console.log(" before adding ufn");
+      //$(".first_name").text(ufnCookie);
+      document.getElementById("login-container").children[0].style.display = "none";
+      document.getElementById("login-container").children[1].style.display = "none";
+       document.getElementById("login-container").children[2].style.display = "none";
+       document.getElementById("login-container").children[3].style.display = "none";
+      document.getElementById("login-container").children[4].style.display = "block";
+      $("#mobile-login").css('display','block');
+      document.getElementById('fname').innerHTML= aemInfo.firstname;
+      //console.log(" after adding ufn");
+   } else {
+      document.getElementById("login-container").children[0].style.display = "inline-block";
+       document.getElementById("login-container").children[1].style.display = "inline-block";
+      document.getElementById("login-container").children[2].style.display = "inline-block";
+      $("#mobile-login").css('display','none');
+      document.getElementById("login-container").children[3].style.display = "none";
+   }
+
+//When scroll down header will have a dropshadow
+   $(window).scroll(function() {
+       var scroll = $(window).scrollTop();
+       if (scroll > 0) {
+           $(".navbar").addClass("active-navdropshadow");
+       }
+       else {
+           $(".navbar").removeClass("active-navdropshadow");
+       }
+   });
+</script>
+</header>
+<style>
+.navbar.active-navdropshadow {
+   box-shadow: 0 0 6px rgba(0,0,0,0.3);
+}
+   @media(max-width: 767px) {
+      a.nav-signed-in.dropdown-toggle {
+      display: none;
+      }
+      .sign-in-collapse-wrapper .dropdown-menu2 {
+      margin-top: 0px;
+      }
+      a#logout-link {
+      text-align: center;
+      font-weight: bold;
+      }
+      }
+      @media(min-width: 767px) {
+      .dropdown-menu2 {
+      display: none;
+      }
+   }
+</style>
 
  
  
@@ -1266,18 +1517,21 @@ function onPlayerStateChange(event) {
 		<div class="row copyright-and-disclaimer">
 		  <hr>
 		  <div class="col-xs-12">
-		    <div class="white">© 1996-2017 Credit.com, Inc. All rights reserved.&nbsp;&nbsp; 
+		    <div class="white">© 1996-2017 Credit.com ™, Inc. All rights reserved.&nbsp;&nbsp; 
 		    <a href="https://www.credit.com/privacy/" class="white">Privacy Policy</a> | <a href="https://www.credit.com/terms/" class="white">Terms of Service</a><br>
-		      The offers that appear on Credit.com’s website are from companies from which Credit.com receives compensation. This compensation may influence the selection, appearance, and order of appearance of the offers listed on the website. However, this compensation also facilitates the provision by Credit.com of certain services to you at no charge. The website does not include all financial services companies or all of their available product and service offerings.</div>
+		      The offers that appear on Credit.com’s website are from companies from which Credit.com receives compensation. This compensation may influence the selection, appearance, and order of appearance of the offers listed on the website. However, this compensation also facilitates the provision by Credit.com of certain services to you at no charge. The website does not include all financial services companies or all of their available product and service offerings.<br>Insight and guidance for smart choices.™ <br>Wherever you stand. We stand by you.™
+		      </div>
 		  </div>
 		</div>
 	
 	</div>
 </footer>
 
+<script type="text/javascript" src="https://static.ccom-cdn.com/content/dam/ccom/login/js/login-iframe.js"></script> 
 
 
-<script type="text/javascript" src="https://static.ccom-cdn.com/assets/cohesive/js/lib/ccom_scripts.js_acaf13694baa76275a3be5be20250f4d.js"></script>
+
+<script type="text/javascript" src="https://static.ccom-cdn.com/assets/cohesive/js/lib/ccom_scripts.js_9172215684764b5ec1c5ee3d695c582e.js"></script>
 
 
 
