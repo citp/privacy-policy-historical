@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626203052id_/http%3A//www.thesportreview.com/tsr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126041112id_/https%3A//www.thesportreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Sport Review
 
@@ -44,7 +44,7 @@ Cookies are small text files stored on your computer by your browser.
 
 **1) Analytics Cookies:** To track how many individual readers we have and how often they visit the website. We collect data enabling us to know which of our pages are most frequently visited, by which types of users and from which countries.
 
-**2) Advertising Cookies:** We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>
+**2) Advertising Cookies:** We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 **3) Third-party service Cookies:** Social networking websites, including Facebook and Twitter, may drop Cookies on your computer when you use them on our site or if you are already logged in to them.
 
