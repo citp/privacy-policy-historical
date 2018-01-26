@@ -1,68 +1,91 @@
-> *The following text is extracted and transformed from the quizzclub.com privacy policy that was archived on 2015-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150507071407id_/http%3A//quizzclub.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzclub.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127003232id_/https%3A//quizzclub.com/privacypolicy) for the most accurate reproduction.*
 
-# Funny brain training quizzes - Trivia - Interesting facts - Quizzclub - funny brain training quizzes - QuizzClub
+# Privacy Policy | Quiz Club
 
-February 12th 2010
+Last modified: November 22, 2015
 
-Thank you for visiting the quizzclub.com website located at quizzclub.com (the "Website", "we", "us"). We provide this notice in an effort to explain our online information practices and the choices available to you concerning the way that we use the information collected online at this Website. 
+Thank you for visiting the QuizzClub website located at quizzclub.com (the "Website", "we", "us"). At QuizzClub, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by QuizzClub and how it is used. 
 
-We collect your personally identifiable information when you sign up to receive products and/or services at the Website. We may also collect your personally identifiable information when you otherwise agree to the terms of this Privacy Policy at this Website, but do not complete the full registration process. The types of personally identifiable information that we may collect at this Website, during registration and when you make a purchase include, without limitation, your name, street address, e-mail address and telephone number. In addition, we may request information about your use of, or interest in, the types of products and services offered by the third-party advertisers with whom we have partnered to offer you the products and services available at this Website. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email (contact at quizzclub.com). 
 
-Any personal information that you submit at the Website remains your property. However, by submitting that information to us, you grant to us the right to use your personal information for any legal purpose including, without limitation: 
+## What information do we collect?
 
-a. effectuating a purchase from us that you make at the Website;  
-b. transferring your personal information to a third party to effectuate a purchase from a third party advertiser at the Website;  
-c. marketing purposes such as sharing your information with third party advertisers;  
-d. providing promotional offers to you by means of e-mail advertising, telemarketing, direct mail marketing, pop-ups, pop-unders and/or online banner advertising;  
-e. tracking compliance with our Terms and Conditions;  
-f. for validation, suppression, content improvement and feedback purposes. 
+We collect information from you when you subscribe to our newsletter. When registering on our site, as appropriate, you may be asked to enter your: e-mail address and name. You may, however, visit our site anonymously. 
 
-You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website. We also reserve the right to release current or past member information in the event that we believe that this Website is being or has been used to commit unlawful acts, if the information is subpoenaed, if we are sold or acquired or when we otherwise deem it necessary or appropriate in our sole discretion. 
+## How We Use Your Information 
 
-In addition, you agree that by submitting your personal information at the Website, such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, making a purchase from, or requesting information from, a third party advertiser at or through the Website, such action shall constitute a purchase, an inquiry and/or an application with the respective third party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telephone by such third party advertiser in accordance with the ATSR. 
+We generally use your information only to operate the Site and make your experience more efficient, effective and enjoyable. 
 
-We may share with third party advertisers certain Website usage information of individuals that have received targeted promotional campaigns for the purpose of formatting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we may track some of the pages that you visit on our Website through the use of pixel tags (also called clear gifs). By submitting information at and/or registering at this Website, you agree to allow us to share such Website usage information with third parties. 
+Most uses we make of your information are for site administration of your use of the site, such as diagnosing problems, identification and security. We may also use this information to contact you for operational purposes. 
 
-## Third Party Links
+Player user names are displayed all over the site to identify players. Players should not use personally identifying information in their user names. 
 
-We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each of the third party advertisers that may advertise at this Website. The entities that advertise and/or place banner ads at this Website including, but not limited to, these third party advertisers, are independent third parties and are not affiliated with us. 
+We use player email addresses to contact a player if a password is forgotten, send questions and tests daily when specifically requested by the player. We also request that a user provide their email address in our feedback section, so that we can respond to their problem. 
 
-## Your Choices
+We use player IP addresses to help track down cheating, and to provide us a way to prevent players from accessing the website for abuse, spam, illegal activities, account infractions, etc. Finally, we display in the email the IP address of the player who sends an email from a form on our website to external email addresses, to prevent/track spammers. For example, if someone abuses our "I have forgotten my password" form to send unwanted emails to another user, we can use that IP information to determine where the abuse is originating from. 
 
-During registration and/or when you submit personally identifiable information to us at the Website, you have opted-in to request that we share your personal information with third parties to receive marketing communications. However, your email address will only be shared with our mailing partner, ExpressSender.com. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out from receiving any additional email communications regarding this website, please [Contact Us](https://web.archive.org/contactus). Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties.
+Whenever you play our Quizzes, we collect data about your interactions with each Quiz. This information may be associated with your user name, IP address or device ID for the purpose of providing our Services and improving them. In addition, when you play a Quiz, your user name, related photo and Quiz score may be displayed in our "Top Scores" for other players to see. If you do not want your user name and related photo displayed in the Top Scores, please refrain from playing our Quizzes. 
 
-Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>. 
+Player city, state, and country is public and appears in user profiles. It is used to display regional scoreboards and statistics for some of our trivia games. Players are free to leave this information blank. 
 
-## SMS, Wireless and Other Mobile Offerings
+We also collect and store http logs, statistics, usage logs, and other information about the online activities of our visitors, primarily for error and abuse tracing. This information is never offered to 3rd parties, unless required by law. 
 
-Some of our services use SMS as a channel for live data transferring and different notifications connected with the work of this service. As being registered you agree to get such kind of SMS messages and also promotional SMS messages on the cell number you've entered while registration. You understand that your wireless carrier's rates may apply to these messages. If you would like to stop receiving our our services through SMS you can unsubscribe by sending "STOP", "END", "QUIT" to the SMS text message you have received. 
+If you log-in to our Services using a social media (such as Facebook or Twitter) log-in, you are granting permission to the social media service to share your user details with us. This may include your name, email address, date of birth and location, which will then be used to create a QuizzClub identity. These social media services may use information about your visit to our Services on their pages. If you browse these pages while still logged in to your account with us, information they collect may be connected to your account on their Web site. For more information on how these social media services use information, please review their privacy policies 
 
-## Non-Personaly Identifiable Information
+## How do we protect your information?
 
-We may collect certain non-personally identifiable information about you when you visit many of the pages of this Website. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Netscape, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-We use the non-personally identifiable information that we collect to improve the design and content of our Website and to enable us to personalize your Internet experience. We also may use this information to analyze Website usage, as well as to offer you products and services. We also reserve the right to use aggregate or group data about our visitors for lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at this Website, you agree to allow us to provide such data to third parties.
+## Do we disclose any information to outside parties?
 
-We also may use "cookies" to enhance your experience in using our Website. Cookies are text files that we place in your computer's browser to store your preferences. We use cookies to understand Website usage, to personalize your experience, and to improve the content and offerings on our Website. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-## Minors
+If QuizzClub is acquired or becomes part of another organization, we retain the right to transfer all exclusive control over that data to our new operating entity. 
 
-We do not knowingly collect information from minors under the age of 18. No information should be submitted to, or posted at, this Website by individuals under 18 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. 
+We sometimes share aggregated data with some of our partners. However, none of this information identifies you in any way without your consent. For example, we may share data that shows that a certain percentage of our users buy a certain product, but there would be no identification of specific users. 
 
-## Security
+There are circumstances where we may need to provide individual information to others. For example, we may disclose information if we in good faith believe it is necessary to identify, contact or bring legal action against someone who is violating our Conditions of Use of the Site, breaking the law, causing injury to or interference with others or otherwise violating the rights of others. We may also disclose information to the extent we believe in good faith it is required by law or for administrative and other purposes we deem necessary to maintain, service and improve our products and service. In all such circumstances, we will limit what information we disclose to the extent we believe it to be appropriate 
 
-We employ industry standard security measures designed to safeguard against unauthorized access to information that we collect online. However, we disclaim all liability for failures of our systems.
+## Do we use cookies?
 
-California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-QuizzClub - quizzclub.com  
-315 Madison Avenue, Suite 911  
-New York, NY 10017 
+QuizzClub does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. If you sign-up without changing your settings, we'll assume that you are happy to receive all cookies from this website.
+
+Check [Cookie Policy](http://quizzclub.com/cookies) for detailed information
+
+## Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+## Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
 ## Acceptance
 
 By using the Website and/or agreeing to receive information via e-mail from us, you agree to this Privacy Policy. We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Policy at any time. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check this page periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes. 
 
+## Content
+
+Definition. For purposes of this User Agreement, the term "Content" includes, without limitation, information, data, text, photographs, videos, audio clips, written posts, articles, comments, software, scripts, graphics, and interactive features generated, provided, or otherwise made accessible on or through the Services. For the purposes of this Agreement, "Content" also includes all User Content (as defined below). 
+
+User Content. All Content added, created, uploaded, submitted, distributed, or posted to the Services by users (collectively "User Content"), whether publicly posted or privately transmitted, is the sole responsibility of the person who originated such User Content. You represent that all User Content provided by you is accurate, complete, up-to-date, and in compliance with all applicable laws, rules and regulations. You acknowledge that all Content, including User Content, accessed by you using the Services is at your own risk and you will be solely responsible for any damage or loss to you or any other party resulting therefrom. We do not guarantee that any Content you access on or through the Services is or will continue to be accurate. 
+
+Notices and Restrictions. The Services may contain Content specifically provided by us, our partners or our users and such Content is protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws. You shall abide by and maintain all copyright notices, information, and restrictions contained in any Content accessed through the Services. 
+
+Use License. Subject to this User Agreement, we grant each user of the Services a worldwide, non-exclusive, non-sublicensable and non-transferable license to use (i.e., to download and display locally) Content, to the extent we hold such rights, solely for purposes of using the Services. Use, reproduction, modification, distribution or storage of any Content for other than purposes of using the Services is expressly prohibited without prior written permission from us. You shall not sell, license, rent, or otherwise use or exploit any Content for commercial use or in any way that violates any third party right. 
+
+License Grant. By submitting User Content through the Services, you hereby do and shall grant us a worldwide, non-exclusive, perpetual, royalty-free, fully paid, sublicensable and transferable license to use, edit, modify, truncate, aggregate, reproduce, distribute, prepare derivative works of, display, perform, and otherwise fully exploit the User Content in connection with the Site, the Services and our (and our successors' and assigns') businesses, including without limitation for promoting and redistributing part or all of the Site or the Services (and derivative works thereof) in any media formats and through any media channels (including, without limitation, third party websites and feeds), and including after your termination of your Account or the Services. For the sake of clarity, the foregoing license grant includes our right to distribute, display, perform and otherwise use the User Content in connection with material provided by our sponsors, and you shall not be entitled to any remuneration for such use. To the extent any User Content you submit includes your name, likeness, voice, or photograph, you acknowledge and agree that the foregoing license of this Section shall apply to the same. You also hereby do and shall grant each user of the Site and/or the Services a non-exclusive, perpetual license to access your User Content through the Site and/or the Services, solely for personal use of such User Content, including after your termination of your Account or the Services. For clarity, the foregoing license grants to us and our users do not affect your other ownership or license rights in your User Content, including the right to grant additional licenses to your User Content, unless otherwise agreed in writing. You represent and warrant that you have all rights to grant such licenses to us without infringement or violation of any third party rights, including without limitation, any privacy rights, publicity rights, copyrights, trademarks, contract rights, or any other intellectual property or proprietary rights. 
+
+Availability of Content. We do not guarantee that any Content will be made available on the Site or through the Services. We reserve the right to, but do not have any obligation to, (i) remove, edit, modify or otherwise manipulate any Content in our sole discretion, at any time, without notice to you and for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or if we are concerned that you may have violated this User Agreement), or for no reason at all and (ii) to remove or block any Content from the Services. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). 
+
 ## Contact Us
 
-If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us at [Contact Us](https://web.archive.org/contactus)
+If you have any questions regarding this statement, or would like more information on our privacy practices, please contact us via [Contact Us form](https://quizzclub.com/contactus) or send us a letter to:  
+2637 E Atlantic Blvd #37635  
+Pompano Beach, FL 33062 
