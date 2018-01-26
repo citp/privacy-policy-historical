@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606202446id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126132739id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
