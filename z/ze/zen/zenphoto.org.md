@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124103239id_/http%3A//www.zenphoto.org/pages/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenphoto.org privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126023052id_/http%3A//www.zenphoto.org/pages/data-privacy-policy) for the most accurate reproduction.*
 
 # Data Privacy Policy | Zenphoto - The simpler media website CMS
 
@@ -28,7 +28,7 @@ We offer you the opportunity to sign up for our website. The information entered
 
 **User name and email address**
 
-is collected and stored solely for use by our website. When signing up for our website, we also store your IP address and the date and time you registered. This serves to protect us in the event a third party improperly and without your knowledge makes use of your data to sign up for our site. None of this information is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of our website.
+is collected and stored solely for use by our website. When signing up for our website, we also store your IP address (anyonmized, first two numbers only) and the date and time you registered. This serves to protect us in the event a third party improperly and without your knowledge makes use of your data to sign up for our site. None of this information is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of our website.
 
 #### Contacting Us
 
@@ -36,7 +36,7 @@ On our website we offer you the opportunity to contact us, either by email and/o
 
 #### Posting Comments
 
-On our website we offer you the opportunity to post comments about individual articles. For this purpose, the IP address of the user/internet connection subscriber is stored. This information is stored for our security in the event the author through his/her comments infringes against third party rights and/or unlawful content is entered. Consequently, we have a direct interest in the author’s stored data, particularly since we may be potentially liable for such violations. No data is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of our website.
+On our website we offer you the opportunity to post comments about individual articles. For this purpose, the IP address (anyonmized, first two numbers only) of the user/internet connection subscriber is stored. This information is stored for our security in the event the author through his/her comments infringes against third party rights and/or unlawful content is entered. Consequently, we have a direct interest in the author’s stored data, particularly since we may be potentially liable for such violations. No data is transferred to third parties. Nor is any of this information matched to any information that may be collected by other components of our website.
 
 #### Use of reCAPTCHA
 
