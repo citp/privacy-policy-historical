@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylehomedecor.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225221401id_/http%3A//lifestylehomedecor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylehomedecor.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126051306id_/http%3A//lifestylehomedecor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lifestyle Home Decor
 
