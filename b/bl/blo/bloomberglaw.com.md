@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bloomberglaw.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104153205id_/https%3A//www.bna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomberglaw.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126145537id_/https%3A//www.bna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bloomberg BNA
-
-[ ](https://web.archive.org/)
 
 Updated December 14, 2016
 
