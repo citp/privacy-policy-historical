@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004151145id_/http%3A//www.speakingtree.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126044143id_/https%3A//www.speakingtree.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Speaking Tree
 
@@ -52,7 +52,7 @@ We take appropriate security measures to protect against unauthorized access to 
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to grievance.speakingtree@timesinternet.in to Mr. Mohit Bhardwaj ("Grievance Officer") 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to feedback@speakingtree.in to Mr. Mohit Bhardwaj ("Grievance Officer") 
 
 **Grievance Redressal**  
 Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to 
