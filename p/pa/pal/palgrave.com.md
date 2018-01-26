@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110174630id_/http%3A//www.palgrave.com/us/services/legal/privacy-policy/6626034) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126041122id_/http%3A//www.palgrave.com/gp/services/legal/privacy-policy/6626034) for the most accurate reproduction.*
 
 # Website Privacy Policy (“Privacy Policy”)
 
@@ -7,7 +7,7 @@ www.palgrave.com (“Site”) is operated by Macmillan Publishers Limited, a com
 ###   
 Coverage of the Privacy Policy
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are registering, accessing or using our Site and the products, software and services (“Services”) available on the Site, including without limitation access to the Services by or through the Site, any third party integration of the Services, and any software owned, operated or licensed by us. However, this Privacy Policy excludes treatment of Personal Information in connection with the sale of content on the Site, such treatment is governed by the [Online Shop Privacy Policy](https://web.archive.org/us/services/legal/online-shop-privacy-policy/7074692) of Springer Verlag GmbH.
+This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are registering, accessing or using our Site and the products, software and services (“Services”) available on the Site, including without limitation access to the Services by or through the Site, any third party integration of the Services, and any software owned, operated or licensed by us. However, this Privacy Policy excludes treatment of Personal Information in connection with the sale of content on the Site, such treatment is governed by the [Online Shop Privacy Policy](https://web.archive.org/gp/services/legal/online-shop-privacy-policy/7074692) of Springer Verlag GmbH.
 
 If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Site. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as promptly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [privacy@macmillan.com](mailto:privacy@macmillan.com).
 
