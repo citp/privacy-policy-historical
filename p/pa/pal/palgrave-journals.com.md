@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121132307id_/http%3A//www.palgrave.com/gp/services/legal/privacy-policy/6626034) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126041122id_/http%3A//www.palgrave.com/gp/services/legal/privacy-policy/6626034) for the most accurate reproduction.*
 
 # Website Privacy Policy (“Privacy Policy”)
 
