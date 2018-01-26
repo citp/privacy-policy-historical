@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pesstatsdatabase.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212201444id_/http%3A//pesstatsdatabase.com/PSD/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pesstatsdatabase.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126102721id_/http%3A//pesstatsdatabase.com/PSD/privacy-policy.php) for the most accurate reproduction.*
 
 # PSD - Privacy Policy - PES Stats Database
 
