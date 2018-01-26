@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204122431id_/https%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecopycatrecipes.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126090337id_/https%3A//www.allfreecopycatrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCopycatRecipes.com
 
 **Privacy Policy / Your California Privacy Rights**  
-Revised and posted as of October 28, 2016
+Revised and posted as of December 7, 2017
 
 Prime Publishing, LLC ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -68,6 +68,18 @@ We use third-party advertising companies to serve ads and collect information wh
 Company allows firms including [Google](http://www.google.com/), [LiveRamp](http://www.liveramp.com/), [Datonics](http://www.datonics.com/), and [Magnetic](http://www.magnetic.com/) to monitor Company web sites and newsletters for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities. These firms may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Company users.  Users may go to each firm’s site/URL for information on what is being tracked. Users may go to each firm’s site for information on how to opt-in or opt-out of use of their information and may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third-party tracking.
 
 EU Residents: By using our website you consent to us sharing a hashed, non-human readable version of your email with our partners who will drop a cookie on your browser and match your email with its marketing file to create a link between your browser and our partner’s record of you; this link shall be shared by our partner globally for the purpose of improving the relevance of online advertising and content by third parties that are unaffiliated with our website. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. Please [click here](http://www.youronlinechoices.com/uk/) to opt out of your data being used for these purposes. This link will direct you to our partner's opt-out centre.
+
+We partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising and content to you. Our partner may place or recognize a cookie on your computer or device and we may share personal information with them if you have submitted such information to us, such as your email address. Our partners may link the personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver and/or enable downstream delivery of an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt-out, please visit [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) You can also refuse cookies via the settings of your browser as follow:
+
+For Internet Explorer, [click here](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer)  
+For Mozilla Firefox, [click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)  
+For Google Chrome, [click here](https://support.google.com/chrome/answer/95647?hl=en&co=GENIE.Platform=Desktop)  
+For Safari, [click here](https://support.apple.com/en-us/HT201265)
+
+To know more about Acxiom/Liveramp advertising cookies and opting out:  
+US: <https://liveramp.com/opt_out/>  
+UK: <http://liveramp.uk/cookies-101/>  
+FR: <http://www.acxiom.fr/a-propos-d-acxiom/information-sur-le-depot-de-cookie/>
 
 **Pre-select/Pre-fill Offers**  
 Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.
