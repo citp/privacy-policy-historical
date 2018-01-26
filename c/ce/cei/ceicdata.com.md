@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceicdata.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910013055id_/https%3A//www.ceicdata.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceicdata.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126105314id_/https%3A//www.ceicdata.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CEIC
 
@@ -26,9 +26,8 @@ United Kingdom
 
 #### Institutional Investor, Inc. Company Address:
 
-225 Park Ave. South  
-New York  
-NY 10003  
+1120 Avenue of the Americas.  
+New York, NY 10036  
 USA
 
 ## Name of the Data Controller
