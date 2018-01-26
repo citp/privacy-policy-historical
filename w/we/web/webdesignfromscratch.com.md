@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webdesignfromscratch.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126154427id_/http%3A//webdesignfromscratch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignfromscratch.com privacy policy that was archived on 2018-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180126022145id_/http%3A//webdesignfromscratch.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Web Design from Scratch
 
 Like many other websites, this website uses cookies. A cookie is a small text file stored on your web browser, which contains a string of information used to improve your website experience. No personally identifiable information is ever collected. Data is used to anonymously and in aggregate report on whether our website visitors find the information they are looking for, and to make better decisions about the content this website contains.
 
