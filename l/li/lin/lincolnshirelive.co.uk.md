@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincolnshirelive.co.uk privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213210405id_/http%3A//www.lincolnshirelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincolnshirelive.co.uk privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127081319id_/https%3A//www.lincolnshirelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Lincolnshire Live privacy policy
 
