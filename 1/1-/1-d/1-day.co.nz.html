@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 1-day.co.nz privacy policy that was archived on 2017-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170406081917id_/https%3A//www.1-day.co.nz/content/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1-day.co.nz privacy policy that was archived on 2018-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180127222331id_/https%3A//www.1-day.co.nz/content/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"> 
@@ -70,11 +70,11 @@
 
 
  
-<link href="/docs/themes/new_general.css?v=e5f027e4213c4c11111" rel="stylesheet" type="text/css">
+<link href="/docs/themes/new_general.css?v=a1a71640e52948dab527" rel="stylesheet" type="text/css">
 
 
 
-<link href="/docs/themes/master.css?v=e5f027e4213c4c11111" rel="stylesheet" type="text/css">
+<link href="/docs/themes/master.css?v=a1a71640e52948dab527" rel="stylesheet" type="text/css">
 
 
 
@@ -85,7 +85,12 @@
 
 
 
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5F7GMJ"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script async="" charset="utf-8" src="//v2.zopim.com/?4A82zGwrlBv58xF9X2kxtsAqlWujlDEV" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5F7GMJ"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+
+
+	<script type="text/javascript" src="/cartreviver/scripts/cart-reviver.js?v=a1a71640e52948dab527"></script>
+	<script type="text/javascript" src="/docs/scripts/cart-reviver.js?v=a1a71640e52948dab527"></script>
+
 
 
 
@@ -94,6 +99,21 @@
 	var _webUser_authenticated = false;
 	var _webUser_basket_size = 0;
 	var _forms = [];
+	var _product_group = '';
+	var _isad = false;
+	var _kiosk_mode = false;
+	var _search_term = null;
+	var _ea = 'DisplayCmsContent';
+	var _isMobile = false;
+	
+	
+	
+	var _isClearCartAction = false;
+	
+	
+	
+	
+	var _product_categories = [];
 	
 	
 	
@@ -101,13 +121,72 @@
 	
 </script>
 
+	
+
+<!-- DisplayCmsContent_false -->
+
+
+
+
+
 <script type="text/javascript">
+	
+		var _cartRev = null;
+		try {
+			_cartRev = new CartReviver( { siteId: '', url: "/cartreviver/js", forms: _forms } );
+		} catch(err) {
+			if( window.console ) {
+				console.log( err );
+			}
+		}
+		function syncToCartReviver(response, responseType){
+			
+				var user = 	{
+					
+					
+					
+					
+						email: '', 
+					
+					
+					
+					
+						firstName: '', 
+					
+					
+					
+					
+						lastName: ''
+					
+				};
+				var cart = {"items":[],"totalAmount":0,"totalItems":0,"shippingTotal":0};
+				
+				/*
+				if (responseType == 'DWR'){
+					toCartItemsFromDWR(cart, response);
+				} else {
+					toCartItemsFromJSON(cart, response);
+				}
+				*/
+				if (responseType == 'JSON'){
+					toCartItemsFromJSON(cart, response);
+				}
+				
+				cart.returnUrl = 'http://www.1-day.co.nz/DisplayShoppingBasket.do?loadcart=true';
+				cart.checkoutStep = '1';
+				cart.status = 'Created';
+
+				if (_cartRev != null){
+					_cartRev.setCart(cart, user, function (cart){ 
+						//alert ("Cart set");
+					});
+				}
+			
+		}
 	
 </script>
 
   
-
-
 <!-- Google Search Console Tag -->
 <meta name="google-site-verification" content="9oXmFKnm3VMXYqxnbjdfJbf3Qeqq3CLC2sygxSMZ4AQ">
 
@@ -144,36 +223,44 @@ GA_googleFetchAds();
 
 </style>
 <script src="/docs/scripts/dumpymcfly.min.js?v=1" type="text/javascript"></script>
-<link href="/docs/themes/2016-15-02-kit-out-your-flat.css?v=e5f027e4213c4c11111" rel="stylesheet" type="text/css">
+<link href="/docs/themes/2016-15-02-kit-out-your-flat.css?v=a1a71640e52948dab527" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 if (window._webUser && window._webUser.authenticated){
 	var dataLayer = window.dataLayer = window.dataLayer || [];
 	dataLayer.push({ 'userID': window._webUser.userId });
 }
 </script>
-<script type="text/javascript" src="/docs/scripts/dwr_ajax.js?v=e5f027e4213c4c11111"></script>
+<script type="text/javascript" src="/docs/scripts/dwr_ajax.js?v=a1a71640e52948dab527"></script>
+<script type="text/javascript" src="/docs/scripts/clickable-background-jquery.js?v=a1a71640e52948dab527"></script>
 
 
 
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=25256185"></script></head>
-
-<body class="desktop-site day5 DisplayCmsContent ">
-
-
-
-
-
-
-
-
-
-
-<!-- Google Tag Manager - NEW ZEALAND --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5F7GMJ"
+<!-- Google Tag Manager - NEW ZEALAND www.1-day.co.nz --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5F7GMJ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5F7GMJ');</script><!-- End Google Tag Manager - NEW ZEALAND -->
+
+
+
+
+
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=25256185"></script></head>
+
+<body class="desktop-site day7 DisplayCmsContent ">
+
+
+
+
+
+<script type="text/javascript">
+	if((typeof _isMobileSite === 'undefined' || !_isMobileSite) && typeof _page_background_json !== 'undefined'){
+		jQuery(document).clickableBackground( _page_background_json);
+	}
+</script>
+
+
 
 
 
@@ -211,7 +298,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div id="clock"></div>
 <script type="text/javascript">
 jQuery(function ($) {
-	$('#clock').countdown(56441778);
+	try {
+		$('#clock').countdown(2188092);
+	} catch(err) {
+		console.log(err);
+	}
 });
 </script>
 </div>
@@ -312,12 +403,153 @@ jQuery(function ($) {
 
 
 
+<!--BIRTHDAY BACKGROUND IMG-->
+<style type="text/css" media="all">
+/*body {*/
+/*    background-image: url(https://www.1-day.co.nz/images/onsale/1daynz/20171910-background-tile.jpg);*/
+/*    background-repeat: repeat;*/
+/*    background-color: #252525;*/
+/*    min-height: 100%;*/
+/*    margin: 0;*/
+/*    background-attachment: fixed;*/
+/*    background-position: center top;*/
+/*    background-size: 17%;*/
+/*</style>
+
+<!--POPUP fix-->
+<style type="text/css" media="all">
+    div#colorbox, div#cboxWrapper, div#cboxContent, div#cboxLoadedContent {
+    height: 520px !important;
+  }
+</style>
+
+
+
+<!--hide ads on ipad-->
+<style>
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+    /* hide corner ads on ipad */
+    .cycle-slideshow { display: none !important;}
+    #content-footer-date { display: none !important; }
+
+  } 
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+        /* hide corner ads on ipad */
+    .cycle-slideshow { display: none !important;}
+    #content-footer-date { display: none !important; }
+
+  }
+</style>
+
+
+<!-- 
+###################################### SANTA HAT AND XMASS BG IMAGE LEFT AND RIGHT ######################################################
+-->
+
+<!--santa hat-->
+<style type="text/css" media="all">
+/*.santa_hat { */
+/*  position: relative; */
+/*}*/
+
+/*.santa_hat img {*/
+/*  position: absolute;*/
+/*    top: -64px;*/
+/*    left: 31px;*/
+/*}*/
+  
+</style>
+<!--santa hat-->
+
+
+<!--xmass bg left and right-->
+<style type="text/css" media="all">
+/*body {*/
+/*    background-image: */
+/*    url(http://www.1-day.co.nz/images/onsale/1daynz/2017_xmas_bg_Left.png), */
+/*    url(http://www.1-day.co.nz/images/onsale/1daynz/2017_xmas_bg_Right.png);*/
+/*    background-repeat: no-repeat, no-repeat;*/
+/*    background-color: #313132;*/
+/*    min-height: 100%, margin:0;*/
+/*    z-index: -99;*/
+/*    background-attachment: fixed;*/
+/*    background-position: left top, right top;*/
+/*  }*/
+</style>
+<!--xmass bg left and right-->
+
+
+
+
+
+
+
+
+
+<!--santa hat-->
+<!--<div class="santa_hat">-->
+<!--  <img src="http://www.1-day.co.nz/images/onsale/1daynz/2017_xmas_santa-hat.png" alt="">-->
+<!--</div>-->
+<!--santa hat-->
+
+<!-- 
+###################################### SANTA HAT AND XMASS BG IMAGE LEFT AND RIGHT ######################################################
+-->
+
+
+
+
+
+<!-- 
+###################################### BOXING DAY BG IMAGE LEFT AND RIGHT ######################################################
+-->
+
+<!--BOXING DAY BG IMAGE -->
+<style type="text/css" media="all">
+/*body {*/
+/*    background-image: */
+/*    url(http://www.1-day.co.nz/images/onsale/1daynz/20171226_boxing_day_bkg_tile.png), */
+/*    url(http://www.1-day.co.nz/images/onsale/1daynz/20171226_boxing_day_bkg_tile.png);*/
+/*    background-repeat: repeat, repeat;*/
+/*    background-color: #313132;*/
+/*    min-height: 100%, margin:0;*/
+/*    z-index: -99;*/
+/*    background-attachment: fixed;*/
+/*    background-size: 150px;*/
+/*    background-position: left top, right top;*/
+/*  }*/
+</style>
+<!--BOXING DAY BG IMAGE -->
+
+
+
+<!-- 
+###################################### NEW YEAR SALE BG IMAGE LEFT AND RIGHT ######################################################
+-->
+
+<!--NEW YEAR SALE BG IMAGE -->
+<style type="text/css" media="all">
+body {
+    /*background-image: */
+    /*url(http://www.1-day.co.nz/images/onsale/1daynz/20180101_clear-out_backround_center.png);*/
+    /*background-repeat: no-repeat;*/
+    /*background-color: #2f2f2f;*/
+    /*min-height: margin:0;*/
+    /*z-index: -99;*/
+    /*background-attachment: fixed;*/
+    /*background-size: 1330px;*/
+    /*background-position: center 10%;*/
+  }
+</style>
+<!--NEW YEAR SALE BG IMAGE -->
+
+
 
 
 <div id="header-links">
-	<span>Our Sites:</span> <a href="http://www.torpedo7.co.nz/?utm_source=1-day&amp;utm_medium=referral&amp;utm_campaign=header-links" target="_blank">Torpedo7</a> <span>|</span> <a href="http://www.shotgun.co.nz/?utm_source=1-day&amp;utm_medium=referral&amp;utm_campaign=header-links" target="_blank">Shotgun Supplements</a> <span>|</span> <a href="http://www.no1fitness.co.nz/?utm_source=1-day&amp;utm_medium=referral&amp;utm_campaign=header-links" target="_blank">No.1 Fitness</a></div>
+	<span>Our Sites:</span> <a href="https://www.torpedo7.co.nz/?utm_source=1-day&amp;utm_medium=referral&amp;utm_campaign=header-links" target="_blank">Torpedo7</a> <span>|</span> <a href="https://www.shotgun.co.nz/?utm_source=1-day&amp;utm_medium=referral&amp;utm_campaign=header-links" target="_blank">Shotgun Supplements</a> <span>|</span> <a href="http://www.no1fitness.co.nz/?utm_source=1-day&amp;utm_medium=referral&amp;utm_campaign=header-links" target="_blank">No.1 Fitness</a></div>
 <div id="boss-coming">
-	Quick, the boss is coming... <a href="http://www.1-day.co.nz/docs/mission_critical.html">Look Busy</a></div>
+	Quick, the boss is coming... <a href="https://www.1-day.co.nz/docs/mission_critical.html">Look Busy</a></div>
 <div class="signup">
 
 
@@ -421,14 +653,6 @@ jQuery(function ($) {
 <!--ZOPIM LIVECHAT-->
 
 
-<!-- LIVE PERSON CHAT
-	<div class="live-chat">
-		<div id="LP_DIV_1399859353235">
-			&nbsp;</div>
-	</div>
-LIVE PERSON CHAT -->
-
-
 </div>
 <!-- ############################################################ TOP RIGHT BUTTON ON 1-DAY NZ ###################################################################--><!-- 1-dayLIVE order MAP --><!--
 <div style="position:absolute; width:239px; height:23px; margin:-24px -20px 0 620px; display:none">
@@ -452,13 +676,23 @@ ul.three-slot li .price, ul.three-slot li .save, .emailSignup1, #signup-submit{c
 #nav li.selected{border-bottom: 2px solid #242424 !important;}
 .main_body{background: #242424 url('/images/crap/BOC_web.png') 0 2.5% no-repeat;}
 </style>
---><!-- 1-day NZ TOP STRIP BANNER CODE VIA DFP -->
+-->
+
+<!-- 1-day NZ TOP STRIP BANNER CODE VIA DFP -->
 <div style="position:absolute; margin:10px 25px 0 25px;">
 	<!-- 1-day_NZ_TOP_STRIP_850x35 --><script type="text/javascript">
 GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 </script></div>
 <!-- 1-day NZ TOP STRIP BANNER -->
 
+<!--Font fix for popup-->
+<style type="text/css" media="all">
+
+#colorbox .popup .popup-main {
+    font-size: 36px !important;
+}
+
+</style>
 
 
 
@@ -478,11 +712,11 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 	
 	<div class="stay-left">
 		
-			<b>2127</b>
+			<b>2,354</b>
 			<span class="statsFont1">people online now.</span>
 		
 		
-			<b>179499</b>
+			<b>274,345</b>
 			<span class="statsFont2">visits since noon</span>
 		
 	</div>
@@ -492,23 +726,22 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 		
 		
 			
-
-
 <span class="static-text">Daily Deals Every Day at 12pm</span>
-
 		
 	</div>
 </div>
   <div class="main_body day_colour">
 	
-
-
 <!--style> div .content_inner, .content_main, .content_middle {width:0px;height:0px;}</style> -->
 
 <!--
 <iframe class='campaign_embed' src='//1.shortstack.com/WCs28P?embed=1&v_offset=0&autoscroll_p=1' seamless='seamless' frameborder='0' width='100%' scrolling='no' allowfullscreen></iframe> <script type='text/javascript'> (function(){ function loadScript(url, scriptId, callback) { if(document.getElementById(scriptId) != null) { return; } var script = document.createElement('script'); script.type = 'text/javascript'; if (script.readyState) { script.onreadystatechange = function() { if (script.readyState === 'loaded' || script.readyState === 'complete') { script.onreadystatechange = null; callback(); } }; } else { script.onload = function() { callback(); }; } var scriptIdAttr = document.createAttribute('id'); scriptIdAttr.value = scriptId; script.setAttributeNode(scriptIdAttr); script.src = url; document.getElementsByTagName('head')[0].appendChild(script); } function loadEmbed(){ var iframes = document.getElementsByClassName('campaign_embed'); for(var i = 0; i < iframes.length; i++) { iFrameResize({ enablePublicMethods: true }, iframes[i]); } } loadScript( '//d2xcq4qphg1ge9.cloudfront.net/javascript/responsive_embed/20150624/iframeResizer.min.js', 'campaignEmbedder', loadEmbed ); })(); </script>
 
 -->
+
+
+
+
 
     <div class="content_inner">
       <dl class="content_main">
@@ -528,10 +761,7 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
             <td width="700" id="container_main">
               
 
-
-
 <h1 class="page-title">1-day Privacy Policy</h1><p>1-day Limited has this Privacy Policy in order to demonstrate our commitment to protecting your privacy. We recognise that your personal information is confidential and that it is important for you to know how we handle, gather, store and use your personal information. By entering any of our stores, using our website, mobile site, apps or store Wi-Fi or participating in our database and promotions, you acknowledge that we will be using your personal information as detailed in this Privacy Policy.</p><p>Please read on for more information about our Privacy Policy.<br><br><br></p><strong>This policy addresses the following:<br></strong><br><ul><li>What is considered personal information?</li><li>What personal information do we collect and hold?</li><li>Why do we collect personal information?</li><li>What happens if we are not able to collect personal information?</li><li>How do we collect personal information?</li><li>How do we use cookies?</li><li>What may we do with your information?</li><li>Do we use personal information for marketing?</li><li>How do we use mobile?</li><li>How do we disclose personal information?</li><li>How can you access or correct personal information?</li><li>How can you complain about a breach of privacy?</li><li>Will your personal information be disclosed outside of NZ?</li><li>What security measures are in place?</li><li>Have there been any recent changes to the Privacy Policy?</li><li>Credit Card Security</li></ul><br><br><ol><li><strong>WHAT IS CONSIDERED PERSONAL INFORMATION?</strong></li></ol><br>Within this policy, Personal Information means the same as it does within the Privacy Act 1993. In general terms, this includes any information that can be used to personally identify you. This may include (but is not limited to) your name, age, gender, address, contact details (including phone numbers and email addresses) and possibly financial information, including your payment information. If the information we collect personally identifies you, or you are reasonably identifiable from it, then the information is considered personal information.<br><p><br><br></p><ol start="2"><li><strong>WHAT PERSONAL INFORMATION DO WE COLLECT AND HOLD?</strong></li></ol><p><strong><br>We may collect the following types of personal information:</strong></p><ul><li>Name</li><li>Mailing or street address</li><li>Email address</li><li>Telephone number</li><li>Age or birth date</li><li>Profession, occupation or job title</li></ul><p>Details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries,</p><p>Any additional information relating to you that you provide to us directly through our websites or indirectly through use of our website or online presence through our representatives or otherwise; and information you provide to us through our customer contact centre or customer surveys, or that is publically available.</p><p>Your personal information will be held by 1-day Limited, 152 Collins Road, Melville, Hamilton, New Zealand<br><br><br><br></p><ol start="3"><li><strong>WHY DO WE COLLECT PERSONAL INFORMATION?</strong></li></ol><p><br>The primary purpose for which we collect information about you is to enable us to perform our business activities, and to provide the best possible quality of customer service. Any information that we collect will not be used in ways that you have not consented to. Your personal information will not be shared, sold, rented or disclosed other than as described within this Privacy Policy, or as permitted by the Privacy Act.</p><ul><li>1-day collects, holds, uses and discloses your personal information for the following purposes:</li><li>To provide products and services to you</li><li>To provide you with information or advice about existing and new products and services</li><li>To communicate with you and process your requests</li><li>To manage and enhance our products and services</li><li>To personalise and customise your experience</li><li>To provide you with access to secure areas of our websites</li><li>To conduct competitions or promotions on behalf of 1-day and selected third parties</li><li>To verify your identity</li><li>To provide to third parties if you have authorised us to do so</li><li>To conduct analysis across The Warehouse Group of companies. By 'The Warehouse Group', we mean us and companies related to us, such as companies that trade under the brands Warehouse Stationery, Noel Leeming, The Warehouse, Torpedo7, Warehouse Money, Warehouse Mobile and/or Diners Club (NZ) Limited.</li><li>To conduct business processing functions for operation of our websites or our business, for our administrative, marketing, promotional, planning, product/service development, quality control and research purposes, or those of our contractors or external service providers to investigate if we have reason to suspect a breach of any of our terms and conditions or any suspected unlawful activity; and/or as required or permitted by any law (including the Privacy Act).</li></ul><br><br><ol start="4"><li><strong>WHAT HAPPENS IF WE ARE NOT ABLE TO COLLECT PERSONAL INFORMATION?</strong></li></ol><p><strong><br>If you choose not to provide us with the personal information described within this policy, then:</strong></p><ul><li>We may not be able to provide you with the product or services you have requested, either to the same standard or at all.</li><li>We may not be able to provide you with information about products or services that you may want, including information about discounts, sales or special promotions.</li><li>We may not be able to tailor our content, website and communications for your preferences.</li></ul><br><br><ol start="5"><li><strong>HOW DO WE COLLECT PERSONAL INFORMATION?</strong></li></ol><p><strong><br>We do this in a variety of ways, including through:</strong></p><p>Your access and use of our website and communications, including your registration details and information relating to your use of the website and the services, such as the content you access (for example, the products you have viewed, or the search queries you input):</p><ul><li>Your access and use of our Wi-Fi in store</li><li>Your conversations or email or interaction, between you and our Customer Service Representatives, whether in store or at our Contact Centres</li><li>Your completion of an application for a product purchase or service purchase</li></ul><p>You agree that we may also collect personal information from third parties, including third party companies such as credit reporting agencies, law enforcement agencies, and other government entities:</p><ul><li>Advertisers</li><li>Mailing lists</li><li>Contractors and business partners</li><li>Other companies within The Warehouse Group</li></ul><br><br><ol start="6"><li><strong>HOW DO WE USE COOKIES?</strong></li></ol><p><br>A "cookie" is a small text file that is placed on a device when it is browsing a website to enable the host of the website to store information about use of the website by that device. 1-day uses cookies and similar technologies for the following key purposes:</p><ul><li>To recognise your computer or device and greet you each time you visit our website, without bothering you with a request to register or log-in</li><li>To keep track of products or services you view, so that we can send you news about those products or services,</li><li>To measure traffic patterns, to determine which areas of our websites have been visited, and to measure transaction patterns in the aggregate</li><li>To research our users' habits so that we can improve our online products and services</li><li>To operate our websites efficiently with a high level of functionality</li><li>To measure the effectiveness of our marketing initiatives</li><li>To learn about customer preferences so that we can present customers with web content and advertising that is relevant to them</li><li>To measure the number of advertising referrals we have received to our websites from other websites,</li><li>To produce data on web traffic and customer web activity through our website</li></ul><p>While we use cookies to improve our customers' on-line experience, if you do not wish to allow cookies then you can choose to disable cookies (for all sites) from within your browser settings.<br><br><br><br></p><ol start="7"><li><strong>WHAT MAY WE DO WITH YOUR PERSONAL INFORMATION?</strong></li></ol><p><br>We may use the information we collect to help us to provide products and services to you, to verify your identity, and to occasionally notify you about important functionality changes to our website or loyalty club.</p><p>We may send you marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including but not limited to, mail, SMS or email, in accordance with applicable marketing laws.</p><p>If at any stage you no longer wish to receive these notifications you may opt-out of receiving marketing communications from us by using the opt-out facilities provided (e.g. an unsubscribe link in a promotional email) or contacting us</p><p>If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us.</p><p>We may also share your information with other companies in The Warehouse Group for the purpose of analysis. Your information will only be used as described within their Privacy Policy, or as permitted by the Privacy Act.</p><p>We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you.</p><p>Personal Information is information about an identifiable individual, as defined by the Privacy Act 1993.<br><br><br><br></p><ol start="8"><li><strong>DO WE USE PERSONAL INFORMATION FOR MARKETING?</strong></li></ol><p><br>We use personal information to provide you with information or advice about our existing and new products and services. We also use it to conduct promotions on behalf of 1-day and selected third parties.</p><p>We will not collect usage data or target advertisements based on the following market segments:</p><ul><li>Political opinions</li><li>Membership of a political association</li><li>Religious beliefs or affiliations</li><li>Philosophical beliefs</li><li>Membership of a trade union</li><li>Sexual preferences or practices</li><li>Criminal record</li><li>Health information</li></ul><p>We will not create categories designed to target children under the age of 18 years (however, this does not prevent us from marketing children's products to a general audience).</p><p>Third party advertisers may purchase advertising products from us that enable them to target particular types of users of our network, for advertisements served both on our network and also on third party websites. We do not permit advertisers to use any usage data obtained from our network to target advertisements or content to users off our network. We will not provide any personal information to an advertiser or any other third party without your express consent or in accordance with our Privacy Policy.</p><p>We follow industry "best practice" for the storage of anonymous usage data using reasonable safeguards to protect information held by us.<br><br><br></p><ol start="9"><li><strong>HOW DO WE USE MOBILE?</strong></li></ol><p><br>If you are using one of our mobile applications, and you accept that 1-day can send you "Push Notifications", then you are agreeing to accept notifications from 1-day even when the mobile application is not running. Your "Push Notification" preferences can be configured in the application's settings.<br><br><br><br></p><ol start="10"><li><strong>HOW DO WE DISCLOSE PERSONAL INFORMATION?</strong></li></ol><p><br>We may disclose your personal information to our employees, for the operation of our websites or our business, and for the specific purpose of fulfilling requests by you, and to provide products and services to you, and where we are permitted to under the Privacy Act.</p><p>Where 1-day utilises third parties to undertake services, we may provide those third parties with some of your information if it is required to fulfil those services and only to the extent required to fulfil those services. Examples of such third party providers may include:</p><ul><li>Service providers such as web hosting providers, IT systems administrators, mailing houses, couriers, payment processors, photographic analysers, data entry service providers, electronic network administrators, debt collectors, and professional advisers such as accountants, solicitors, business advisors and consultants,</li><li>Software providers such as customer relationship management, and accounting software</li><li>Existing or potential suppliers, business partners or joint venture entities or partners</li><li>Sponsors or promoters of any competition that we conduct or promote via our services</li><li>Specific third parties authorised by you to receive information held by us</li><li>We require any third party to protect your information against unauthorised use or disclosure</li><li>We do not provide your personal information to other organisations for the purposes of direct marketing unless expressly authorised by you</li></ul><p>Beyond the above, we release personal information only when it is permitted under the Privacy Act or required by law for legal compliance and law enforcement (including to government agencies with statutory law enforcement responsibilities, and/or to your Internet Service Provider or network administrator); to facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of 1-day, our users, or others, and where we reasonably believe that disclosure is necessary. Government agencies with statutory roles enabling them to request data from us include but are not restricted to the Police, Inland Revenue and the Ministry of Business, Innovation and Employment.<br><br><br><br></p><ol start="11"><li><strong>HOW CAN YOU ACCESS OR CORRECT YOUR PERSONAL INFORMATION?</strong></li></ol><p><br><br>You may request access to any personal information we hold about you at any time by contacting us.</p><p>Your request will be processed in accordance with the Privacy Act 1993.</p><p>If you make an access request, we will ask you to verify your identity. There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others, or if it would result in a breach of confidentiality. If that happens, in most circumstances we will give you written reasons for any refusal.</p><p>If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment and will not charge for making any amendments. If we do not agree that there are grounds for amendment, then we will add a note to the personal information stating that you disagree with it. Registered users of our websites can access and update their user details online. We request that you keep your information as current as possible so that we may continue to improve our service to you.<br><br><br><br></p><ol start="12"><li><strong>HOW CAN YOU COMPLAIN ABOUT A BREACH OF PRIVACY?</strong></li></ol><p><br>If you believe your privacy has been breached by us, or have any questions or concerns about our Privacy Policy please, contacting us and provide details of the incident so that we can investigate it.</p><p>We have a formal procedure for investigating and dealing with complaints. Once we receive a complaint in writing we will commence an investigation with the relevant business unit from which the alleged breach stemmed. The investigator will endeavour to determine the nature of the breach and how it occurred.</p><p>We may contact you during the process to seek any further clarification if necessary. If a breach is found, we will escalate the matter to management so that the process can be rectified to prevent any further breaches from taking place. We will also contact you to inform you of the outcome of the investigation. We will endeavour to resolve all investigations within a reasonable time.</p><p>We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in a timely and appropriate manner.</p><p><strong><br>You can write to us at:</strong></p><p><em>Attn: 1-day Customer Services</em></p><p><em>152 Collins Road</em></p><p><em>Melville</em></p><p><em>Hamilton</em></p><p><em>New Zealand<br><br><br><br></em></p><ol start="13"><li><strong>WILL YOUR PERSONAL INFORMATION BE DISCLOSED OUTSIDE OF NZ?</strong></li></ol><p><br>We may disclose personal information to external service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.<br><br><br><br></p><ol start="14"><li><strong>WHAT SECURITY MEASURES ARE IN PLACE?</strong></li></ol><p><br>We will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access or modification. If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.<br><br><br><br></p><ol start="15"><li><strong>HAVE THERE BEEN ANY RECENT CHANGES TO THE PRIVACY POLICY?</strong></li></ol><p><br>We may change this privacy policy from time to time. Updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in November 2016.</p><p>For additional information about your relationship with 1-day, please review our Terms and Conditions.<br><br><br><br></p><ol start="16"><li><strong>CREDIT CARD SECURITY</strong></li></ol><p><br>We work diligently to protect the security of your personal information, including credit card information.</p><p>Your credit card details do not get stored, processed or transmitted through 1-day?s website; all transactions are processed through Payment Express. Payment Express is a secure credit card payment service provided by Direct Payment Solutions, and they host and manage the payment page. All transaction sessions are stored and processed in encrypted strings. You can review their privacy policy here.</p><p>Due to the nature of our business being online retail we have a number of security checks in place to protect our website and our customers from such things as credit card theft. Our order system will automatically put orders on hold if it includes such things as high valued items or if a transaction has failed. To release your order you may be asked for Identification and proof of address so your order can be approved. Once checked and approved any proof of identity information collected in relation to your order will be deleted and you will be contacted by email to confirm that this has been done. Due to these checks your delivery may also be delayed</p>
-
             </td>
             <td id="container_right">
             </td>
@@ -553,8 +783,6 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 
 <div class="content_footer">
   
-
-
 <div id="footer">
 	<div class="col-3">
 		<h4>
@@ -640,10 +868,7 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 		<a href="http://www.totalcom.biz" style="color:#999999;" target="_blank">Powered by JBiz</a> - Copyright © 1-day 2016</div>
 </div>
 
-
 </div>
-
-
 
 
 
@@ -658,7 +883,6 @@ GA_googleFillSlot("1-day_NZ_TOP_STRIP_850x35");
 $('input, textarea').placeholder();
 </script>
 <![endif]-->
-
 
 
 
@@ -726,8 +950,6 @@ $('input, textarea').placeholder();
                
                
                  
-
-
 <!-- To hide a tab, just add hidden to a class -->
 
 	<li>
@@ -739,7 +961,6 @@ $('input, textarea').placeholder();
 	<li>
 		<a class="hidden sidetab sidetab-past-deals" href="/past-deals/">Past Deals</a></li>
 
-
                
                
                
@@ -748,12 +969,9 @@ $('input, textarea').placeholder();
             
         
 		
-
-
-
+<!--
 	<li>
-		<a class="sidetab sidetab-apparel" href="/onsale/clothing191216/p/" title="Apparel">Apparel</a></li>
-
+		<a class="sidetab sidetab-apparel" href="/onsale/clothing191216/p/" title="Apparel">Apparel</a></li> -->
 
 	</ul>
 </div>
@@ -779,7 +997,7 @@ $(document).ready(function() {
 </script>
 
 </div>
-<script src="/assets/scripts/main.js?v=e5f027e4213c4c11111" type="text/javascript"></script>
+<script src="/assets/scripts/main.js?v=a1a71640e52948dab527" type="text/javascript"></script>
 
 
 
@@ -792,8 +1010,6 @@ $(document).ready(function() {
 		}
 	});
 </script>
-
-
 
 
 
@@ -833,10 +1049,7 @@ var google_remarketing_only = true;
 </noscript>
 
 
-
   
-
-
 
 
 
@@ -848,9 +1061,18 @@ jQuery(function($){if($.browser.msie&&$.browser.version.indexOf('7')==0){$('.hom
 
 
 
+<script type="text/javascript" src="/docs/scripts/jquery.colorbox.js?v=a1a71640e52948dab527"></script>
+<script type="text/javascript" src="/docs/scripts/jquery.reveal.js?v=a1a71640e52948dab527"></script>
 
-<script type="text/javascript" src="/docs/scripts/jquery.colorbox.js?v=e5f027e4213c4c11111"></script>
-
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="//v2.zopim.com/?4A82zGwrlBv58xF9X2kxtsAqlWujlDEV";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zopim Live Chat Script-->
 <!-- zopim -->
 <script>
 if (typeof $zopim != 'undefined'){
@@ -869,6 +1091,8 @@ $zopim(function() {
 
 }
 </script>
+
+
 
 <script type="text/javascript">
 //jQuery('.lazy').lazy();
@@ -917,9 +1141,9 @@ $(document).ready(function() {
 
 
 </script>
-<script src="/docs/scripts/hello-visitor.min.js?v=e5f027e4213c4c11111"></script>
+<script src="/docs/scripts/hello-visitor.min.js?v=a1a71640e52948dab527"></script>
 <script>
-			jQuery(function($) {
+
 				
 				//ugly way to change sos content page background colour
 				if (window.location.href.match('/content/homepage/sos_homepage_') != null){
@@ -928,54 +1152,53 @@ $(document).ready(function() {
 							$('#content_middle').css("background-color", "#bcbec0");
 					}
 				}
+        
 
-				$(document).helloVisitor( { 
-					authenticated: _webUser_authenticated, 
-					callback: function(info) {
-						jQuery.colorbox({
-							href: "/popups/mailinglist-signup.html",
-							iframe: false, width: 550,
-							height:400 , scrolling: false,
-							overlayClose: true,
-							onClosed: function () {
-    						}
-    
-    					});
-					
-    					// record that they saw the popup
-                        var dataLayer = window.dataLayer = window.dataLayer || [];
-                        dataLayer.push(
-                        { 'event': 'gaTriggerEvent', 'gaEventCategory': 'emailacquisition', 'gaEventAction': 'popup', 'gaEventLabel': 'Welcome Email Popup' }
-                        );
 
-					},
-					delay: 1000,
-					cookieName: 'SIGN_UP_POPUP',
-					/* Globally exclude and page that matches any of these rules from seeing the popup */
-					exclude: [
-						{
-							type: 'url', match: 'utm_source', value: 'email'
-						},
-						{
-							type: 'url', match: 'utm_campaign', value: 'SOS_email'
-						}
-					],
-					urls: [
-						{
-							data: {
-								cmsId: 'homePageSignUp'
-							}
-						}
-					]
-				}
-				);
-			});
+                var callbackFunction = function(){
+                    	jQuery.colorbox({
+            				href: "/popups/mailinglist-signup.html",
+            				iframe: true,  width: "99%", maxWidth: 550,
+            				height:400 , scrolling: false,
+            				overlayClose: true,
+            				onClosed: function () {
+            				}
+            			});
+                }
+        
+                var helloVisitorConfig = $.extend({ 
+            		authenticated: _webUser_authenticated, 
+            		callback: function(info) {
+                        callbackFunction();
+            			// record that they saw the popup
+            			var dataLayer = window.dataLayer = window.dataLayer || [];
+            			dataLayer.push({'event': 'gaTriggerEvent', 'gaEventCategory': 'emailacquisition', 'gaEventAction': 'popup', 'gaEventLabel': 'Welcome Email Popup'});
+            		},
+            		delay: 5000,
+            		cookieName: 'SIGN_UP_POPUP',
+            		/* Globally exclude and page that matches any of these rules from seeing the popup */
+            		exclude: [
+            			{
+            				type: 'url', match: 'utm_source', value: 'email'
+            			},
+            			{
+            				type: 'url', match: 'utm_campaign', value: 'SOS_email'
+            			}
+            		],
+            		urls: [
+            			{
+            				data: {
+            					cmsId: 'homePageSignUp'
+            				}
+            			}
+            		]
+            	}, helloVisitorConfig);
+            	var helloVisitorPopup = $(document).helloVisitor(helloVisitorConfig);
 		</script>
 
 <!-- BEGIN LivePerson Monitor. --><script type="text/javascript" async="">
         window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'25256185',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
     </script><!-- END LivePerson Monitor. -->
-
 
 
 
