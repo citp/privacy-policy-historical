@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokymountains.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602063244id_/https%3A//smokymountains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokymountains.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127134028id_/https%3A//smokymountains.com/privacy-policy) for the most accurate reproduction.*
 
 # SmokyMountains.com Privacy Policy - Please Read
 
