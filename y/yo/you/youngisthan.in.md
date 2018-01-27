@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202022304id_/http%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngisthan.in privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127035927id_/https%3A//www.youngisthan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Youngisthan.in
 
@@ -16,23 +16,23 @@ Please read this policy carefully because by visiting this website or domain or 
 
 ### Information we Collect
 
-**Information You Give Us:**  
+ **Information You Give Us:**  
 We receive and store any information you enter on our Web site or you provide to us in any other way, such as by telephone or by electronic mail. This information includes your full name, company details, postal address, phone number, email address and your social network profile ID’s.
 
-**Information Collected Automatically:**  
+ **Information Collected Automatically:**  
 Youngisthan.in automatically collects certain type of information when you visit our website. This information includes IP address, browser type, referring url, request url, user agent, browser accept language, platform type, date/time stamp and any other data that comes from interaction with Youngisthan.in network.
 
-**Information Collected by Third Party Tools:**  
+ **Information Collected by Third Party Tools:**  
 Youngisthan.in uses third party services for web analytical puposes. These services are use to collect demographic information, Website surfing patterns, hostnames etc. This information includes IP address, browser type, referring url, request url, user agent, browser accept language, platform type, date/time stamp and any other data that comes from interaction with Youngisthan.in network. This is not linked to any personal information that can identify any individual person.
 
-**Cookies:**  
+ **Cookies:**  
 We use cookies to keep track of your preferences and settings during the time you view our website. We also use them to recognize return visitors and to track our promotions. We gather this information for internal use only.
 
 Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
 
 Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
 
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/).
 
 DoubleClick DART cookies  
 We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history.  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
