@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the unice.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911212755id_/https%3A//www.unice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unice.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128004325id_/https%3A//www.unice.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | UNice
+
+**PRIVACY POLICY**
 
 Thank you for visiting the UNice Hair Individual Malll.
 
