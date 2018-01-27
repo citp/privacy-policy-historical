@@ -1,135 +1,53 @@
-> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205000439id_/http%3A//celebritybabyscoop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127022126id_/https%3A//celebritybabyscoop.com/privacy_policy) for the most accurate reproduction.*
 
-# celebritybabyscoop.com | Privacy Policy
+# CelebrityBabyScoop.com Privacy Policy | Celebrity Baby Scoop
 
-**What information do we collect?**
+Effective Date: August 3, 2017
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+He3 Acquisitions, LLC hereby adopts this Privacy Policy to inform you of how it treats personal or personally identifiable information (“Personal Information”) that may be collected when you visit or use the celebritybabyscoop.com website or He3 Acquisitions, LLC’s services. This Privacy Policy does not apply to the practices of third parties that He3 Acquisitions, LLC does not own or control, or to individuals that are not under He3 Acquisitions, LLC’s actual control.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+1\. Our Collection and Use of Your Personal Information
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We may collect Personal Information when you use the celebritybabyscoop.com website or He3 Acquisitions, LLC services. We use your personal information to help you register a member account, complete a transaction, communicate with you, provide services and support, and to update you on our services and benefits or those of our Trusted Partners. This Personal Information may include but is not limited to name, address, phone number, email address, user ID’s and passwords, billing and transaction information, credit card information, and other information.
 
- **DoubleClick DART Cookie**
+You agree that we are allowed to use your email address, however obtained, to communicate with you and to update you on our services and benefits or those of our Trusted Partners. By submitting an email address to us or by posting on the celebritybabyscoop.com website, you agree that we may contact you. We may use this Personal Information to customize the celebritybabyscoop.com Site Content.
 
-.:: Google, as a third party vendor, uses cookies to serve ads on celebritybabyscoop.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to celebritybabyscoop.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://google.com/privacy_ads.html 
+We may also collect data about your use of the celebritybabyscoop.com website and services that is not associated with your specific personal identity. We may log your IP address when you use the celebritybabyscoop.com website or collect other information via cookies to evaluate how you use the website and to tailor the Site Content according to your preferences.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense   
-Commission Junction   
-Widget Bucks   
-Adbrite   
-Clickbank   
-Epic / Azoogle   
-Chitika   
-Linkshare   
-Amazon   
-Kontera   
-Advertising.com   
-CPAStorm   
-Burst   
-Valueclick   
-InfoLinks   
-Vibrant Media   
-24/7 Real Media   
-Tribal Fusion   
-Casale   
-Tremor Media   
-Adify   
+2\. User Information and Opt-Out
 
+We do not use your Personal Information for advertisements by third parties, by we may provide your Personal Information to our Trusted Partners pursuant to ¶ 3 of this Privacy Policy. We may use your email address consistent with the provisions outlined above. You are permitted and able to opt-out of communications from us, but you must do so in writing. We are not responsible for communications from third parties that we do not own or control.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on celebritybabyscoop.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+3\. Our Sharing and Disclosure of Your Personal Information
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+We will not sell, rent, lease, or transfer your Personal Information to any individual, business, or government entity except to respond to authorized information requests by government authorities, comply with any law, regulation, subpoena, or court order, help prevent frau or to enforce or protect our rights and properties, or to protect the personal safety of our employees and third parties on our property. We may sell, rent, lease, or transfer your Personal Information to our Trusted Partners where we determine that such a sale, rental, lease, or transfer to our Trusted Partners would provide you with information or services that may be of interest to you. We determine the membership criteria of our Trusted Partners program, and it will comply will all applicable state and federal laws concerning the transfer of personal information.
 
-celebritybabyscoop.com has no access to or control over these cookies that are used by third-party advertisers. 
+4\. Our Sale of Celebritybabyscoop.com or the Purchase of Other Business or Entities
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. celebritybabyscoop.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+If we acquire or sell a business unit or subsidiary, including but not limited to the complete sale of the celebritybabyscoop.com service to a third party, your Personal Information may be transferred to a third party. If this happens, your Personal Information will continue to be used consistent with the terms of this Privacy Policy.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
+5\. Member Account Access
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+If we assign you a username and password to access the celebritybabyscoop.com website or services, you have the ability to edit your Personal Information at any time. You may also request, in writing, that He3 Acquisitions, LLC cancel your account. We will not share your user account information with another individual, business, or government entity, excluding a purchase or sale under ¶ 4 or a transfer of information to our Trusted Partners as stated in ¶ 3, unless ordered to do so by a court.
 
-**What do we use your information for?**
+6\. Our Protection of Your Personal Information
 
-Any of the information we collect from you may be used in one of the following ways: 
+All of our member account pages, such as web pages that display your Personal Information, are protected with Secure Socket Layer encryption (“SSL”). All member accounts must be accessed with usernames and passwords. You are advised not to share unnecessary Personal Information, including your username and password, with any other person.
 
-\- To personalize your experience  
-(your information helps us to better respond to your individual needs)
+No security system can be guaranteed to be completely secure. We use commercially reasonable efforts to protect your Personal Information, but you provide your Personal Information at your own risk.
 
-\- To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+7\. Integrity of Personal Information
 
-\- To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We work to ensure that your Personal Information is accurate, complete, current, and relevant. You are responsible for ensuring the same and you have an ongoing duty to inform us of any changes in your Personal Information.
 
-\- To process transactions
+8\. Amendments
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+We reserve the rights to amend this Privacy Policy at any time. If we amend this Privacy Policy, the Effective Date of the Privacy Policy will change.
 
-\- To administer a contest, promotion, survey or other site feature
+9\. Contact
 
-\- To share with our third party marketing partners so they may send you offers for goods and services which you may find of interest
+If you have any questions regarding this Privacy Policy, you can contact us directly by emailing support@celebritybabyscoop.com. You may also write to us at the following address:
 
-\- To send periodic emails
-
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, advertisements etc. The email address you provide to subscribe to a newsletter, receive information or enter to win a prize may be used to send you information and updates, relevant content and advertisements.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
- **How do we protect your information?**
-
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
-
- **Do we disclose any information to outside parties?**
-
-Other than described in this privacy policy, we do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, third party marketers, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
- **Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
- **Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy or you wish to unsubscribe from our site and services you may contact us using the information below or by writing to us at:
-
-2885 Sanford Ave  
-SW #19781  
-Grandville, MI 49418  
-USA 
-
-celebritybabyscoop.com 
-
-Email:  
-contact@celebritybabyscoop.com  
-
+He3 Acquisitions, LLC  
+1321 Upland Dr. Suite 8367  
+Houston, TX 77043
