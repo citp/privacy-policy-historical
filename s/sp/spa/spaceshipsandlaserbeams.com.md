@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006214316id_/http%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceshipsandlaserbeams.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127030837id_/https%3A//spaceshipsandlaserbeams.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spaceships and Laser Beams
 
