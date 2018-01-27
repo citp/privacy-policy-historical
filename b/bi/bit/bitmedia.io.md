@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitmedia.io privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316234940id_/https%3A//bitmedia.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmedia.io privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127133115id_/https%3A//bitmedia.io/privacy) for the most accurate reproduction.*
 
-# BitMedia.IO - Privacy
+# Privacy Policy | BitMedia.IO
 
 Your privacy is important to BitMedia.IO. This privacy statement provides information about the personal information that BitMedia.IO collects, and the ways in which BitMedia.IO uses that personal information.
 
@@ -31,9 +31,9 @@ BitMedia.IO may use your personal information to:
 
 
 
-Where BitMedia.IO discloses your personal information to the third parties (agents or sub-contractors) for the mentioned above purposes, the third parties will be obligated to use that personal information in accordance with the requirements of this privacy statement.
+Where BitMedia.IO discloses your personal information to the third parties (agents or sub-contractors) for the abovementioned purposes, the third parties will be obliged to use that personal information in accordance with the requirements of this privacy statement.
 
-In addition to the disclosures reasonably necessary for the purposes identified above, BitMedia.IO may disclose your personal information to the extent required by law, in with the cases of any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
+In addition to the disclosures reasonably necessary for the purposes identified above, BitMedia.IO may disclose your personal information to the extent required by law, in case of any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
 ### Securing your data
 
@@ -47,7 +47,7 @@ Information relating to electronic transactions conducted via this website will 
 
 Information that BitMedia.IO collects may be stored, processed in and transferred between any of the countries in which BitMedia.IO operates. It is required to enable the use of the information in accordance with this privacy policy.
 
-You agree to such cross-border transfers of personal information.
+It is provided that you agree to such cross-border transfers of personal information.
 
 ### Updating this statement
 
@@ -63,8 +63,4 @@ BitMedia.IO is not responsible for the privacy policies or practices of any thir
 
 ### Contact BitMedia.IO
 
-If you have any questions about this privacy policy or BitMedia.IO treatment of your personal information, please contact us: 
-
-  * by email to support@bitmedia.io; 
-
-
+If you have any questions about this privacy policy or BitMedia.IO treatment of your personal information, please contact us by email to [support@bitmedia.io](mailto:support@bitmedia.io).
