@@ -1,73 +1,160 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215102622id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127134443id_/https%3A//www.ford.co.uk/useful-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Ford Privacy Policy | Ford UK
 
-**Internet privacy policy**
+**Website Privacy Policy  **
 
-Ford Motor Company Limited ("Ford") respects the privacy of every individual who visits its Web Sites and any information collected about you will firstly be used to fulfil any service you might request and secondly improve how as a company we serve you. We do this by making appropriate use of the information.
+This Website Privacy Policy (the " **Policy** ") describes how Ford Motor Company Limited (" **Ford** ", " **we** ", " **our** " or " **us** ") uses and discloses the information collected about you (your " **personal information** ") when you visit this website (the " **Website** ") or when you contact us using the details available on it.
 
-This information will not be disclosed to anyone outside of the Ford Motor Company Group ¹, its affiliated or associated companies, its agencies, dealers or licensees, and other companies with which Ford has arranged services for your benefit and any assignees, transferees or replacements of the above referred parties. It will be treated in accordance with the legal provisions under English law concerning data protection and may be transferred to the USA or countries outside the EEA for the purpose of business administration.
+In some sections of the Website, FCE Bank plc. (" **Ford Credit** ") may collect your personal information (for example, when you access your Ford Credit Account through the Website). This Policy also explains how Ford Credit will use that information.
 
-You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.
+The Website may enable you to purchase, or apply for quotes for products and services such as motor insurance, vehicle lease or hire or accessories. Some of these products and/or services are provided by Ford's partners who will collect additional personal information from you in order to fulfil your requests. Our partners will use the personal information they collect as they describe in their privacy statements or as they explain when you provide your personal information.
 
-If you have any specific questions that are not covered in the FAQ section please mail your enquiry to:
+In addition to this Policy, some Ford products and services (including some Ford apps) have their own privacy policies which describe in more detail how your personal information is used in a particular context. You can also find out more about what information your vehicle collects and uses by consulting the [owners' manual](https://web.archive.org/owner/my-vehicle/download-your-manual) or its accompanying app (where available), and about how your personal information is used when your Ford vehicle is serviced or repaired.
+
+**Who we share your information with**
+
+Your personal information may be disclosed to:
+
+  * companies or other organisations that we have engaged to provide services on our behalf;
+  * companies or other organisations where you have asked us to or agreed that we may share your personal information with them;
+  * dealers and our partners where this is necessary to provide you with a product or service;
+  * professional advisors;
+  * any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party; and
+  * any third party that purchases, or to which we transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this Policy.
+
+
+
+Ford may also transfer your personal information for the purposes described in this Policy to Ford Credit and any other Ford Motor Company Group company worldwide and its service providers. A list of the companies within Ford Motor Company Group is available at <http://corporate.ford.com/homepage.html>.
+
+Your personal information will be treated in accordance with UK law concerning data protection and may be transferred within the European Economic Area (" **EEA** "), as well as to countries outside the EEA (including to the USA). Ford will take reasonable steps to ensure that your personal information is adequately protected when it is transferred to countries outside the EEA.
+
+**What information will we use?**
+
+Ford collects personal information from the Website:
+
+  * when you fill in forms (for example, if you register for a MyFord account or request a test drive); and
+  * automatically through the use of cookies and similar technologies. You can find out more about this in [Ford's cookie guide](https://web.archive.org/useful-information/cookies-guide).
+
+
+
+The Website enables you to provide personal information including:
+
+  * your name and contact information (such as your address and email address) and information about your business or employer if you are enquiring in a commercial capacity;
+  * information about your vehicle (including your Vehicle Identification Number (" **VIN** "), vehicle registration number and mileage);
+  * the products and services in which you are interested; and
+  * your contact and marketing preferences.
+
+
+
+In addition, we:
+
+  * collect your personal information if you contact us using the details available through the Website (for example, we will keep a record of the information you provide when you write to us or contact our customer service centres); and
+  * may combine the information we hold with information about you or your interests, socio-economic and socio-demographic status, online identifiers and current contact details collected by third parties, but only when those third parties have your consent to this.
+
+
+
+**How do we use your information?**
+
+We use the personal information we collect from the Website to:
+
+  * fulfil your requests (for example, to create your My Ford account, or to enable you to book test drives or request vehicle brochures);
+  * manage our business and our relationship with you;
+  * deal with your enquiries;
+  * send you marketing material in line with your communications preferences;
+  * comply with our legal and regulatory responsibilities and to prevent and detect crime and fraud; and
+  * understand how the Website is used so that we can improve it.
+
+
+
+We may combine and analyse your personal information to:
+
+  * help us develop and improve our products and services;
+  * to understand our customers better; and
+  * to manage and improve our relationship with you.
+
+
+
+This could include, for example, informing our distribution strategy, evaluating the effectiveness of our marketing and customer service, conducting market analysis and identifying products or services which may be of interest to you, and contacting you to tell you about such products and services.
+
+We would like to make sure the communications we send you and our interactions with you are as relevant to you as possible. As a result, from time to time, we may use information about you collected from third parties (as described in the ['What information will we use?'] section above) to help us determine what Ford products and services you might be interested in. We may then send you information about those products and services in accordance with your communications preferences, and use the information we hold about you to inform our customer service centres if you contact them. We may also work with third parties to show you tailored advertising on social media platforms or, if you have consented to the use of cookies, when you browse the internet/visit other websites (please see Ford's cookie guide for more information). You can find out how to stop receiving marketing material from us in the ['Your rights'] section below.
+
+**Push Notifications**
+
+The website may use your preference settings from your browser to provide you with push notifications. You may opt-out of receiving push notifications by turning them off in your device.
+
+**Information you provide to Ford Credit**
+
+You may also use [www.ford.co.uk](https://web.archive.org/) to view Ford Credit finance products, and to manage your Ford Credit Account once you become a Ford Credit customer. If you do so, Ford Credit will request additional personal information in order to verify your identity and allow access to your Ford Credit Account. Ford Credit will use this personal information as described when you apply for finance, or once you are a Ford Credit customer, as set out in your Ford Credit agreement.
+
+**Your rights**
+
+You have the right as an individual to find out what information we hold about you and for what purposes, as well as to access that information and make corrections if necessary. You also have the right in some circumstances to object to our use of your personal information.
+
+We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.
+
+If you have chosen to receive marketing communications from Ford and/or Ford Credit you can change your mind at any time. If you would like to stop receiving marketing communications from Ford, please write to:
 
 Privacy Enquiry  
 PO Box 2318  
 GLASGOW  
 G33 9DD
 
-The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company.
+If you would like to stop receiving marketing communications from Ford Credit, please contact:
 
-**Mobile** **and WAP privacy policy**
+The Customer Services Manager  
+FCE Bank plc  
+Manchester Business Centre  
+Number One  
+1Tony Wilson Place  
+Manchester M15 4FN
 
-Ford respects the privacy of every individual who visits its WAP Sites and any information collected about you will firstly be used to fulfil any service you might request and secondly improve how as a company we serve you. We do this by making appropriate use of the information.
+If you have questions or concerns regarding Ford's use of your personal information, or would like to access the information that Ford holds about you, please contact the relevant address above.
 
-**Types of permissions  **
+If you have questions or concerns regarding Ford Credit's use of your personal information, or would like to access the information that Ford Credit holds about you, please contact the relevant address above.
 
-For Brochure requests – where permission is given for future contact you are consenting to receive text and postal contacts.
+**Other websites and social networking**
 
-For Keep Me Informed requests – where permission is given for future contact you are consenting to receive text and postal contacts.
+The Website may contain links to other websites which are outside our control and are not covered by this Policy. If you access other websites using the links provided, the operators of those websites may collect information from you which will be used by them in accordance with their privacy policies, which may differ from ours.
 
-For Test Drives requests – where permission is given for future contact you are consenting to receive text, voice and voicemail and postal contacts. 
+The Website may also offer you the opportunity to share or follow information about Ford, the Website or the products and/or services available through it using third party social networking functionality (such as through “share this”, “like” or “follow” buttons).
 
-**Using your information  **
+We offer this functionality in order to generate interest in the Website among the members of your social networks, and to permit you to share and follow opinions, news and recommendations about the Website with your contacts. However, you should be aware that sharing personal information with a social network may result in that information being collected by the social network provider and being made publicly-available, including through internet search engines.
 
-This information will not be disclosed to anyone outside of the Ford Motor Company Group, its affiliated or associated companies, its agencies, dealers or licensees, and other companies with which Ford has arranged services for your benefit. It will be treated according to the standards set by English and European legislation on acceptable data retention and protection. Your information may be initially stored and processed inside or outside the European Union so long as that country has standards of data protection similar to those set in the European Union. 
+You should always read the privacy policy of any website you access or social network through which you share information carefully in order to understand their privacy practices.
 
-**SMS Data  **
+**Updates to this Privacy Policy**
 
-Our mobile services provider is required to be able to provide historic information data to local telecommunications regulators, mobile operators and authorities on request. This includes opt-in, opt-out, inbound message and outbound message, date and time, mobile phone number and network operator. This data is not available to Ford or its consumers. For further information and contact details please log onto the following sites;
-
-For more information about OFCOM view the link below.
-
-For more information about PhonePay Plus view the link below.
-
-Our mobile services provider also complies with the standards and rules set out by the Global Mobile Marketing Association (MMA), view the link below.
-
-**Contact Us  **
-
-You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However we may be prevented from doing so by legislation, for example relating to health and safety or financial regulation (e.g. when dealing with Ford Credit).
-
-For questions that are not covered in the FAQ section please mail your enquiry to:
-
-Privacy Enquiry  
-PO Box 2318  
-GLASGOW  
-G33 9DD
-
-**Use of Cookies on our WAP site  **
-
-Cookies are only used in the process of Keep Me Informed, Test Drive and Brochure Requests. This is only so that we can keep a record of the session, no customer data is stored. 
-
-**Charges  **
-
-Text messages you send to the Ford shortcode will be charged at your standard network operator cost. You will also be charged your standard network WAP and download charges to access the WAP site and download any content. Text messages sent to you by Ford are free of charge 
-
-**Browsing  **
-
-To browse our WAP site and access the content you must have WAP access enabled on your phone and an appropriately capable handset (e.g. to support video content). Any downloaded content must not be used in any context that might be construed as defamatory or derogatory and may not be used for any commercial purposes without the written permission of Ford Motor Company Limited. Your network operator must also allow our content to be downloaded. If you are unsure please consult your mobile phone service provider before attempting to download the content. The Ford Motor Company Group, nor any of its agents, suppliers or consultants shall be liable or responsible in the event that you are unable to access the content, or for any difficulty in downloading it to, or accessing it on, your handset. For questions around content that has been downloaded to your handset please see our FAQ’s section. 
+We may amend this Policy from time to time. If we make substantial or material changes in the way we wish to use your personal information we will communicate providing a prominent notice on the Website or by contacting you directly. If you do not agree with these changes, please do not continue to use the Website.
 
 Ford Motor Company Limited. Registered in England: No.235446, Registered Office: Eagle Way, Brentwood, Essex, CM13 3BW, England.
 
-**Cookies**
+**Repair, diagnosis and servicing for your Ford vehicle**
+
+When your Ford vehicle was manufactured it was assigned a unique number (the Vehicle Identification Number, or VIN). From the VIN we can tell certain information about your vehicle, including its model, age, the software it uses, its technical specifications.
+
+In order to diagnose, analyse, repair or service your vehicle, the technicians working on it will need to collect the VIN together with certain diagnostic information and information about the current state of your vehicle (for example, what software versions it is using, its mileage etc.).
+
+This information will be transferred to a system run by Ford so that the technicians working on your vehicle can be provided with vehicle-specific repair, maintenance and diagnostic information (such as wiring diagrams, vehicle software updates) and information about any past work carried out on your vehicle to assist them to diagnose, repair and/or service it and to enable them to maintain their records.
+
+To make sure your vehicle has a comprehensive diagnosis record, information about what work is done to your vehicle when it is serviced or repaired will be linked to the VIN of your vehicle. This will be transferred to the system and stored so that Ford (or any third parties it authorises to use the system in this way) can make information about past repair or service available to any dealer or repairer anywhere in the world who needs to repair or service your vehicle.
+
+The information held on the system is also used by Ford to enable the diagnosis, repair of your vehicle, to manage and administer warranties and similar products and services, for product safety and research and development purposes and to enable Ford to comply with its legal obligations.
+
+In addition to the transfers of information described above, Ford may also pass this information to:
+
+  * companies in the Ford corporate Group for the purposes of research and development and analytics; and/or
+  * to companies in the Ford corporate Group and/or third parties where Ford Motor Company Limited believes this is necessary to comply with a legal or regulatory obligation, or otherwise to protect the rights of Ford Motor Company Limited, other companies in the Ford Motor Company corporate group, or the rights of any third party.
+
+
+
+Given the global nature of the system, VIN information is transferred to countries outside the European Economic Area by Ford.
+
+If you have any questions, or would like to access the information about your VIN held in the system, please write to:
+
+Privacy Enquiry  
+PO Box 2318  
+GLASGOW  
+G33 9DD
+
+PP-18-001 – Published – 05-01-2018
