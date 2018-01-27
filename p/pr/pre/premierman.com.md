@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierman.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128021455id_/http%3A//www.premierman.com/shop/policies/policiesView.action%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_sp%3DPMA-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierman.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127232422id_/https%3A//www.premierman.com/shop/policies/policiesView.action%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_sp%3DPMA-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
 
 # Great Value Men's Clothing to 5XL: Online & Catalogue Shop | Premier Man
 
