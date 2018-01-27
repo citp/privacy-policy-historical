@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrymax.net privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013014357id_/http%3A//www.jewelrymax.net/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrymax.net privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127123044id_/http%3A//www.jewelrymax.net/privacy.pdf) for the most accurate reproduction.*
 
 # 
 
