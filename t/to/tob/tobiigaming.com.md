@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tobiigaming.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130110933id_/https%3A//tobiigaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobiigaming.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127172717id_/https%3A//tobiigaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tobii Gaming
 
-This Privacy Policy sets out how Tobii Technology uses and protects any information that you give Tobii Technology when you use this website.
+This Privacy Policy sets out how Tobii AB uses and protects any information that you give Tobii AB when you use this website.
 
-Tobii Technology is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this Privacy Policy.
+Tobii AB is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this Privacy Policy.
 
-Tobii Technology may change this Policy from time to time by updating this page. You should check this page from time to time to ensure that you agree with any changes that have been made. This Policy is effective from September 16, 2009.
+Tobii AB may change this Policy from time to time by updating this page. You should check this page from time to time to ensure that you agree with any changes that have been made. This Policy is effective from September 16, 2009.
 
 ## What we collect
 
@@ -26,6 +26,7 @@ We require this information to understand your needs, to provide you with a bett
   * Internal record keeping.
   * We may use the information to improve our products and services.
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address you have provided.
+  * We may share information with the OEM (Original Equipment Manufacturer) that have provided you with the eye tracking hardware, e.g. the laptop provider.
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
@@ -46,7 +47,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 ## Data Protection
 
-By accepting the conditions in Tobii’s Privacy Policy you explicitly give your consent that Tobii permanently saves and stores personal information required for providing service  (personal information is data that can be used to identify or contact a person, such as a  name, address  email address, phone number, function at the company, issued orders or details regarding rendered services). You also consent that Tobii Technology AB and its affiliated companies worldwide shall be entitled to process and use the data, even after the end of the contract. This is done in order to be able to selectively target and answer any possible support questions, questions of warranty and/or other follow-up questions from the clients.
+By accepting the conditions in Tobii’s Privacy Policy you explicitly give your consent that Tobii permanently saves and stores personal information required for providing service  (personal information is data that can be used to identify or contact a person, such as a  name, address  email address, phone number, function at the company, issued orders or details regarding rendered services). You also consent that Tobii AB and its affiliated companies worldwide shall be entitled to process and use the data, even after the end of the contract. This is done in order to be able to selectively target and answer any possible support questions, questions of warranty and/or other follow-up questions from the clients.
 
 Potentially pre-existing legal consent and/or obligation to collect and process data, in particular for the storing of personal information by Tobii, shall remain in full force and effect.  Furthermore, you grant Tobii permission to ask you to provide additional documentation and/or consents.
 
@@ -62,6 +63,6 @@ We are committed to ensuring that your information is secure. In order to preven
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Tobii Technology AB, Corporate Marketing, Box 743, 182 17 Danderyd, Sweden.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Tobii AB, Corporate Marketing, Box 743, 182 17 Danderyd, Sweden.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at [help@tobii.com](mailto:help@tobii.com). We will promptly correct any information found to be incorrect.
