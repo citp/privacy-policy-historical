@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911050303id_/https%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complaintsboard.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127122413id_/https%3A//www.complaintsboard.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Complaints Board - Consumer Complaints, Reviews, Information
 
@@ -60,39 +60,3 @@ ComplaintsBoard.com may disclose information about its users if required to do s
 
 
 If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this Privacy Policy. 
-
-### Recently Discussed Complaints
-
-[Getaroom](https://www.complaintsboard.com/complaints/getaroom-charging-in-us-currency-for-a-canadian-and-a-room-in-canada-c816788.html)  
-charging in us currency for a canadian and a room in canada  
-21 mins ago
-
-[Realtor.com](https://www.complaintsboard.com/complaints/realtorcom-misleading-information-regarding-their-service-c870707.html)  
-misleading information regarding their service  
-48 mins ago
-
-[Wish.com](https://www.complaintsboard.com/complaints/wishcom-daily-giveaway-c914455.html)  
-Daily giveaway  
-1 hr 6 mins ago
-
-### Subjects of Wide Speculation
-
-1\. [Naira Matevosyan, MD](https://www.complaintsboard.com/complaints/naira-matevosyan-md-identity-theft-defamation-libel-despicable-behavior-c855840.html) (99)  
-identity theft, defamation, libel, despicable behavior
-
-2\. [Marina Noble, MD, MPH](https://www.complaintsboard.com/complaints/marina-noble-md-mph-naira-matevosyan-md-phd-commits-identity-theft-impersonation-and-defamation-by-libel-c850999.html) (59)  
-Naira matevosyan, md, phd commits identity theft, impersonation and defamation by libel
-
-8\. [Shell](https://www.complaintsboard.com/complaints/shell-racist-bad-customer-service-c913311.html) (12)  
-Racist/Bad customer service
-
-10\. [APSFA](https://www.complaintsboard.com/complaints/apsfa-c186469.html) (9)  
-Not support at all
-
-[](https://web.archive.org/tickets/)
-
-### Videos
-
-[](https://www.complaintsboard.com/videos/earning-more-on-your-savings-c748.html)
-
-[](http://www.bdomains.com/)
