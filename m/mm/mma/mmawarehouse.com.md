@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121040719id_/https%3A//www.mmawarehouse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmawarehouse.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127160422id_/https%3A//www.mmawarehouse.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – MMAWarehouse.com
-
-PRIVACY STATEMENT
-
-\----
 
 SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -85,5 +81,3 @@ If you would like to: access, correct, amend or delete any personal information 
 MMA Warehouse, LLC  
 [Re: Privacy Compliance Officer]  
 1147 N. Ellis St. Bensenville, Illinois US 60106
-
-\----
