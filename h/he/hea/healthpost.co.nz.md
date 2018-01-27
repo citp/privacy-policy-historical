@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123221741id_/http%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128000605id_/https%3A//www.healthpost.co.nz/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Online Privacy & Security Policy | HealthPost NZ
 
 **Date Last Updated:** 9th August 2017
 
-| [](http://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll")  
+| [](https://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll")  
 ---|---  
   
 ## The Short Version
@@ -15,11 +15,11 @@
 
 We understand that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us. Any information you give to HealthPost will be held with the utmost care.
 
-A more detailed explanation of how we safeguard your personal information is found below.  This should be read in conjunction with our [Terms & Conditions](http://www.healthpost.co.nz/customer-service/terms-conditions "Terms & Conditions").
+A more detailed explanation of how we safeguard your personal information is found below.  This should be read in conjunction with our [Terms & Conditions](https://www.healthpost.co.nz/customer-service/terms-conditions "Terms & Conditions").
 
-If you've any questions or concerns, [please let us know.](http://www.healthpost.co.nz/contacts "Contact us") We're always happy to help.
+If you've any questions or concerns, [please let us know.](https://www.healthpost.co.nz/contacts "Contact us") We're always happy to help.
 
-HealthPost is proud to have been awarded to the international Online Trust Alliance (OTA) [‘2014 Online Trust Honour Roll’](http://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll") for New Zealand.
+HealthPost is proud to have been awarded to the international Online Trust Alliance (OTA) [‘2014 Online Trust Honour Roll’](https://www.healthpost.co.nz/customer-service/privacy-security/2014-online-trust-honour-roll "2014 Online Trust Honour Roll") for New Zealand.
 
 * * *
 
@@ -45,7 +45,7 @@ We may be obliged to release account and other personal information when we beli
 
 #### **Data Retention**
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please [contact us](http://www.healthpost.co.nz/contacts "contact us"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please [contact us](https://www.healthpost.co.nz/contacts "contact us"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 #### **Types of Information Collected**
 
@@ -86,7 +86,7 @@ We may use your collected information in the following ways:
 
 
 
-You always have the choice not to receive marketing and promotional information. It is our policy to remove any member from our database or mailing list upon the members’ request. Please [contact us](http://www.healthpost.co.nz/contacts "contact us") if you wish to opt out of receiving marketing communications from HealthPost Ltd.
+You always have the choice not to receive marketing and promotional information. It is our policy to remove any member from our database or mailing list upon the members’ request. Please [contact us](https://www.healthpost.co.nz/contacts "contact us") if you wish to opt out of receiving marketing communications from HealthPost Ltd.
 
 #### **Business Continuity**
 
@@ -120,4 +120,4 @@ We reserve the right to use all product reviews we receive in our marketing and 
 
 We reserve the right to change this privacy policy from time to time by publishing the revised privacy policy on our website. We encourage you to check this policy regularly for any modifications or updates. Your continued use of our Services after any changes have been posted on our Website indicates your acceptance of those changes.
 
-If you have any questions regarding our privacy policy or any other matter, or if you believe that HealthPost has not adhered to this privacy policy, please [contact us](http://www.healthpost.co.nz/contacts "contact us").  We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+If you have any questions regarding our privacy policy or any other matter, or if you believe that HealthPost has not adhered to this privacy policy, please [contact us](https://www.healthpost.co.nz/contacts "contact us").  We will use commercially reasonable efforts to promptly determine and remedy the problem. 
