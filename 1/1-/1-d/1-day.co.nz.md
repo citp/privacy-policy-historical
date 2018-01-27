@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1-day.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406081917id_/https%3A//www.1-day.co.nz/content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1-day.co.nz privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127222331id_/https%3A//www.1-day.co.nz/content/PrivacyPolicy) for the most accurate reproduction.*
 
 # 1-day - Privacy Policy
 
