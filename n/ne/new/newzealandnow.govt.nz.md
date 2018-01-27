@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newzealandnow.govt.nz privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702223908id_/https%3A//www.newzealandnow.govt.nz/about-this-site%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newzealandnow.govt.nz privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127200308id_/https%3A//www.newzealandnow.govt.nz/about-this-site%23privacy) for the most accurate reproduction.*
 
 # About this site | New Zealand Now
 
@@ -26,6 +26,8 @@ MBIE itself clarifies that it has no control over and is not responsible for the
 
 If you find something that you think may be wrong, get in touch. We will pass your comments on to the agency concerned. You should always consider carefully whether the information you find through newzealandnow.govt.nz applies to you. If you are not sure, contact the government department providing the information, or get advice from someone you trust. Look for a page called "Contact Us" at the bottom of each page. This will provide you with contact details that you can use get in touch or please email [marketinginz@mbie.govt.nz](mailto:marketinginz@mbie.govt.nz). 
 
+You can request a copy of the personal information we hold on the [Immigration New Zealand website](https://www.immigration.govt.nz/contact/request-information)
+
 ## Providing visitors with anonymous access
 
 You can access our website home page and browse our site without having to disclose any personal data.
@@ -33,6 +35,12 @@ You can access our website home page and browse our site without having to discl
 ## Data collection and purpose specification
 
 We do, however, collect some personal data that you may volunteer while using our site and its services. We generally do not collect or use personal data for any purpose other than to send out relevant immigration information, publications requested by you or to improve the relevance of our content.
+
+If you have subscribed to the 'connect me with jobs from New Zealand employers through LinkedIn' checkbox on the registration form, you have agreed for your first name, last name, email address, and New Zealand Now ID being shared with LinkedIn for matching purposes. You may unsubscribe from this service by clicking the 'unsubscribe' button at the bottom of any emails from New Zealand Now. Please allow 24 hours for this to come into effect. 
+
+If you are registered with New Zealand Now and travel to New Zealand, we will use your information to email you on arrival. 
+
+As with all personal information you provide to any New Zealand organisation, your privacy is protected by law. We will never release your details to third parties for commercial use without your prior permission. 
 
 Any personal information we hold will not be used by us for any purpose other than the one you provided it for, or disclosed to any other person in a form that will identify you except where you have consented to such disclosure, or where such use or disclosure is required or otherwise permitted by the Privacy Act 1993, or otherwise required or permitted by law. 
 
