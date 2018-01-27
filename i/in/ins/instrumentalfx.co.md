@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instrumentalfx.co privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001105422id_/https%3A//instrumentalfx.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instrumentalfx.co privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127084333id_/https%3A//instrumentalfx.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InstrumentalFx
 
