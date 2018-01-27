@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionmaxx.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711070139id_/https%3A//auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionmaxx.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127052859id_/https%3A//auctionmaxx.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # AuctionMaxx Online Auctions Toronto Misguided Freight, Lost in Transit Auctions!
 
@@ -24,6 +24,6 @@ Auctionmaxx.com maintains personal information in a combination of paper and ele
 
 Our website has no application that gathers information from your computer without your consent.
 
-If we have been unclear about any point in this policy, we encourage you to contact us at info@auctionmaxx.com. E-mails are answered during our business hours only.
+If we have been unclear about any point in this policy, we encourage you to contact us at [[email protected]](https://www.auctionmaxx.com/cdn-cgi/l/email-protection) E-mails are answered during our business hours only.
 
 Please be aware that email is not a secure medium, and any personal information you send to us by email could be intercepted. If your communication is very sensitive, you should not send it electronically unless the email is encrypted or your browser indicates that the access to our website is secure.
