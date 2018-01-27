@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fictionpress.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110175836id_/http%3A//fictionpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fictionpress.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128000743id_/https%3A//www.fictionpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FictionPress
 
