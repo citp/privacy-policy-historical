@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyeditor.ca privacy policy that was archived on 2017-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170721222001id_/https%3A//beautyeditor.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyeditor.ca privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127172548id_/https%3A//beautyeditor.ca/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Beautyeditor
 
