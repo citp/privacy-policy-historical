@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefinancialword.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001132538id_/http%3A//www.thefinancialword.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefinancialword.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127205039id_/https%3A//www.thefinancialword.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - TheFinancialWord
 
