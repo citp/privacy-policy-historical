@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703004945id_/http%3A//www.quest.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127192244id_/https%3A//www.quest.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Quest Software
 
@@ -97,7 +97,7 @@ For more information regarding the privacy and data collection practices of thir
 
  **theTradeDesk:** Information regarding the privacy and data collection practices for theTradeDesk is located at <http://www.thetradedesk.com/privacy-policy/>.
 
- **LeadLander:**  Information regarding the privacy and data collection practices for LeadLander is located at <https://www.leadlander.com/privacy.html>https://www.leadlander.com/privacy.html
+ **LeadLander:**  Information regarding the privacy and data collection practices for LeadLander is located at <https://www.leadlander.com/privacy.html>
 
 Similarly, third parties use cookies to deliver advertising for companies other than those within our portfolio to you on the Internet, based on your visits to This Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies can be effective whether you are on This Website or another website. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the website from which you came before arriving at a web page.
 
