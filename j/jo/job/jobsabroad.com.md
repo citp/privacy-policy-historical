@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsabroad.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002163634id_/https%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsabroad.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127211013id_/https%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoAbroad.com
 
@@ -11,6 +11,7 @@ Thanks to our **comprehensive program directories** and filters, our website hel
   * [ Adventure Travel](https://www.goabroad.com/adventure-travel-abroad)
   * [ Degrees Abroad](https://www.goabroad.com/degree-abroad)
   * [ High School Programs Abroad](https://www.goabroad.com/highschool-study-abroad)
+  * [ Gap Year](https://www.goabroad.com/gap-year)
   * [ Internships Abroad](https://www.goabroad.com/intern-abroad)
   * [ Jobs Abroad](https://jobs.goabroad.com/)
   * [ Language Schools Abroad](https://www.goabroad.com/language-study-abroad)
