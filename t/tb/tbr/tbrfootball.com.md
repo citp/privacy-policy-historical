@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128021404id_/http%3A//tbrfootball.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbrfootball.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127234120id_/https%3A//tbrfootball.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - The Boot Room
 
@@ -10,7 +10,7 @@ Your visiting this web site constitutes acceptance of and consent to the practic
 
 The Boot Room reserves the rights to change this Privacy Policy at any time by posting an updated version on the web site. The date that the web site was last updated is shown at the bottom of this web page. Your continued use of this site after an updated version is posted constitutes your acceptance of and consent to the practices set out in this Privacy Policy as modified.
 
-### WHAT INFORMATION DOES THE BOOT ROOM COLLECT?
+### What information does The Boot Room collect?
 
 Your personal information is not collected from you automatically, simply as a result of your accessing this web site. It is only collected on a voluntary basis, resulting from your own input of this information. The only information that is collected automatically when you access this web site is the IP address of the computer that you are using. For more information on IP addresses, please see below.
 
@@ -22,7 +22,7 @@ The Boot Room will also keep any correspondence you sendThe Boot Room whether by
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-### HOW DO SN&CK MEDIA LIMITED USE THE INFORMATION COLLECTED?
+### How does The Boot Room use the information collected?
 
 All the information thatThe Boot Room collect via the web site or correspondence is used to help The Boot Room understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help The Boot Room to send communications to you that may be of interest.
 
@@ -40,7 +40,7 @@ The Boot Room may use the personal information that you have provided to contact
 
 As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include transfers outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising The Boot Room to transfer your personal data in this way.
 
-### DOES SN&CK MEDIA LIMITED USE COOKIES OR WEB BEACONS?
+### Does The Boot Room use cookies or web beacons?
 
 Like many web sites, this web site does use cookies. This enables The Boot Room to provide you with a more personalised service.
 
@@ -52,13 +52,10 @@ For more information about cookies, including how to disable them, please go to 
 
 Some of the web pages of the web site may contain “clear gifs” or “web beacons”. These are used to count the number of users who access those pages and only collect information relating to the time, date and the page that was visited. They do not carry any personal information and are only used to track how effectively certain aspects of the web site are performing.
 
-### IP ADDRESSES
+### IP addresses
 
 The IP address of the computer you use to access this web site is automatically provided by your browser each time you view the web site. If you provide any personal information via this web site then the IP address of the computer you are using at the time you provide this information will be stored by The Boot Room. IP addresses may be used by The Boot Room for various reasons, including but not limited to differentiating between users from different geographical locations or to help with technical problems that may relate to certain groups of IP addresses.
 
-### HOW SECURE IS MY PERSONAL INFORMATION?
+### How secure is my personal information?
 
 The security of your personal information is very important to The Boot Room and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, The Boot Room is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk.
-
-  
-
