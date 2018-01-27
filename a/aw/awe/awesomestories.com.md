@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesomestories.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702200019id_/http%3A//media.awesomestories.com/media/user/bf55c43b7c338b73263342b9cd1e9ac0.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesomestories.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127103656id_/http%3A//media.awesomestories.com/media/user/bf55c43b7c338b73263342b9cd1e9ac0.pdf) for the most accurate reproduction.*
 
 # AWESOME STORIES PRIVACY POLICY
 
