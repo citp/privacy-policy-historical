@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the akersolutions.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125200911id_/http%3A//akersolutions.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akersolutions.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127145026id_/https%3A//akersolutions.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement for Aker Solutions | Aker Solutions
 
