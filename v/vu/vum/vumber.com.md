@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128022751id_/http%3A//www.vumber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127235313id_/http%3A//www.vumber.com/privacy) for the most accurate reproduction.*
 
 # Vumber - Virtual Number Privacy Statement
 
