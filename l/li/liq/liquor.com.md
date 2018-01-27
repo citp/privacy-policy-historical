@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquor.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904194519id_/https%3A//www.liquor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquor.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127041447id_/https%3A//www.liquor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,6 +31,10 @@ Some of the ads appearing on this Web site are delivered to you by our web adver
 ## TRACKING & THIRD PARTY COOKIES
 
 You may have read about “cookies” or bits of information that are placed by a Website in a storage place on your own computer. As with most other Web sites, the Liquor.com does use cookies but only to allow us to quickly check your status as a subscriber and facilitate access to your preferences. Some of our advertisers may serve you cookies as well. Unfortunately, we do not have control over cookies placed by advertisers. If you don’t want cookies, your Web browser likely includes an option that allows you to not accept them.
+
+To opt out of interest based content and advertising, you can do so through the Network Advertising Initiative, (<http://optout.networkadvertising.org/>) and Digital Advertising Alliance ([http://optout.aboutads.info/](http://optout.aboutads.info/#/)) Some of the third-party advertising companies run on the website may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org). 
+
+You may opt out of mobile ad targeting by following the instructions posted [here](https://support.apple.com/en-us/HT202074) (for iOS) and [here](https://support.google.com/ads/answer/2662922?hl=en) (for Android).
 
 ## IP ADDRESS
 
