@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mfat.govt.nz privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703132528id_/https%3A//mfat.govt.nz/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfat.govt.nz privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127143738id_/https%3A//www.mfat.govt.nz/en/privacy) for the most accurate reproduction.*
 
 # Privacy | New Zealand Ministry of Foreign Affairs and Trade
 
