@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the vporn.com privacy policy that was archived on 2015-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150828081038id_/http%3A//www.vporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vporn.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127223321id_/https%3A//www.vporn.com/privacy) for the most accurate reproduction.*
 
 # Vporn - Privacy Policy
 
-_Updated as of March 29, 2012_
+Updated as of March 29, 2012
 
 Pursuant to our [Terms of Use](https://web.archive.org/terms), this document describes how we treat personal information related to your use of vPorn ®, including information you provide when using it.
 
 vPorn ® expressly and strictly limits its use to adults over 18 years of age or the age of majority in the individual’s jurisdiction, whichever is greater. Anyone under this age is strictly forbidden from using the Website. We do not knowingly seek or collect any personal information or data from persons who have not attained this age.
 
-### Data Collected
+##### Data Collected
 
 _Browsing vPorn ®._   You can watch videos and access other parts of vPorn ® without having a vPorn ® account, in which case only your IP address, country of origin and other non-personal information about your computer or device (such as web requests, browser type, browser language, referring URL, operating system and date and time of requests) will be recorded for log file information, aggregated traffic information and in the event that there is any misappropriation of information and/or content.
 
@@ -20,9 +20,9 @@ _Uploaded Content._   Any personal information or content you voluntarily discl
 
 _Correspondences._   We may keep a record of any correspondence between you and us.
 
-__Cookies._   When you use vPorn ®, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies._
+_Cookies._   When you use vPorn ®, we may send cookies to your computer to uniquely identify your browser session. We may use both session cookies and persistent cookies.
 
-### Data Usage
+##### Data Usage
 
 We may use your information to provide you with certain features and to create a personalized experience on the Website. We may also use that information to operate, maintain and improve features and functionality of the Website.
 
@@ -34,13 +34,13 @@ Your username may be displayed to other users alongside content you upload, incl
 
 Any videos that you submit may be redistributed through the internet and other media channels and may be viewed by the general public.
 
-### Disclosures of Information
+##### Disclosures of Information
 
 We may be required to release certain data to comply with legal obligations or in order to enforce our Terms of Use and other agreements. We may also release certain data to protect the rights, property or safety of vPorn ®, its users and others. This includes providing information to other companies or organizations like the police or governmental authorities for the purposes of protection against or prosecution of any illegal activity, whether or not it is identified in the Terms of Use. 
 
 If you upload any illegal material to vPorn ®, we may forward all available information to relevant authorities, including respective copyright owners, without any notice to you.
 
-### Miscellaneous
+##### Miscellaneous
 
 If you have registered with vPorn ® and have a password giving you access to certain parts of the Website, you are responsible for keeping the password confidential. Anyone else with your password may access your account and other personal information.
 
