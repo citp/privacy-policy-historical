@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616054052id_/https%3A//employment.govt.nz/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127104325id_/https%3A//www.employment.govt.nz/about/privacy) for the most accurate reproduction.*
 
 # Privacy » Employment New Zealand
 
