@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackintosh.computer privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017060241id_/http%3A//www.hackintosh.computer/%3Fpage_id%3D110) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackintosh.computer privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127131527id_/https%3A//www.hackintosh.computer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which The Hackintosh Computer collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.Hackintosh.Computer](http://www.hackintosh.computer/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Hackintosh Computer .
+This Privacy Policy governs the manner in which The Hackintosh Computer collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.Hackintosh.Computer](https://www.hackintosh.computer/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Hackintosh Computer .
 
  **Personal identification information**
 
@@ -48,7 +48,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/),  You can read Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/),  You can read Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html> | Google’s [New Privacy Policy](https://www.google.com/policies/privacy/)
 
 **Third Party Advertising** [Third-party vendors and ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) are serving ads in this site. You can view the list of third party advertisers via the following links [AdWords third-party vendors ](https://support.google.com/3pascertification/table/4572577) & [Ad Exchange Vendors](https://support.google.com/3pascertification/table/4570113) You may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can  opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).   The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
@@ -60,6 +60,6 @@ The Hackintosh Computer has the discretion to update this privacy policy at any 
 
  **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.hackintosh.computer/?page_id=110). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.hackintosh.computer/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-This document was last updated on September 25, 2015
+This document was last updated on October 19, 2016
