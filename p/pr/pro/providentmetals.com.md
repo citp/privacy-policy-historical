@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentmetals.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629145031id_/http%3A//help.providentmetals.com/hc/en-us/articles/203123325-Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentmetals.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127030518id_/http%3A//help.providentmetals.com/hc/en-us/articles/203123325-Privacy-Policies) for the most accurate reproduction.*
 
 # Privacy Policies – Provident Metals Help Center
 
