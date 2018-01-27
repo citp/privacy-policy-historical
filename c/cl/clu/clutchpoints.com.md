@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clutchpoints.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831153811id_/https%3A//clutchpoints.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchpoints.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127160034id_/https%3A//clutchpoints.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClutchPoints
 
