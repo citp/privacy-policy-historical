@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213852id_/http%3A//intently.co/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intently.co privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127122821id_/https%3A//intently.co/pages/privacy) for the most accurate reproduction.*
 
 # Intently.co - Privacy
 
@@ -6,11 +6,9 @@ This privacy policy sets out how we use and protect any information that you giv
 
 ### In general
 
-We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. We will never sell your personal data and promise to keep your details safe and secure.
 
-When you use the service, regardless of whether you have signed up, we store information about how you use the service to help us to improve it, and of course we record your requests, services, and conversations that you hold with other users on the system.
-
-We use the information you provide us for the following purposes:
+When you use the service, regardless of whether you have signed up, we store information about how you use the service to help us to improve it. We use the information you provide us for the following purposes:
 
   * Internal record keeping.
   * Publication of requests on this site, and syndication to other websites (including via our API)
@@ -18,7 +16,7 @@ We use the information you provide us for the following purposes:
   * Sharing of information you have provided about you or your company with buyers (or potential buyers) when you act as a supplier (we will show the buyer your visible name, email address, website, phone number, and other information about you or your company).
   * Publication of any testimonials or quotes you may have provided regarding Intently.
   * To improve our service.
-  * We may periodically send emails to you (using the email address you provided) regarding changes and improvements to our service, special offers or other information which we think you may find interesting. We will always give you the option to unsubscribe from such mailings. 
+  * We may periodically send emails to you (using the email address you provided) regarding changes and improvements to our service, special offers or other information which we think you may find interesting. We will always give you the option to unsubscribe from such emails, and you can change your email preferences by editing your profile. 
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email or phone, and again you may request that we do not do this in future.
 
 
@@ -34,7 +32,7 @@ When you sign up to use our service as a buyer, we request the following informa
 
 
 
-## As a seller
+### As a seller
 
 When you sign up as a seller, we ask you to provide a variety of information about your business and services including:
 
@@ -60,12 +58,13 @@ From time to time, one of our administrators may edit your list of services to e
 When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the Internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally. These pieces of information are used to improve services for you through, for example: 
 
   * Enabling our service to recognise your device so you don't have to give the same information several times during one task.
-  * Recognising that you may already have given a username and password so you don't need to do it for every web page requested
-  * Measuring how many people are using our service, so it can be made easier to use and there's enough capacity to ensure it is fast.
+  * Recognising that you may already have given a username and password so you don't need to do it for every web page requested.
 
 
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Declining cookies will prevent you from taking full advantage of our service. 
+
+Note that we also use a few third party tools to monitor the use of our system. These tools are Google Analytics, HEAP Analytics, and Mouseflow, and they use cookies in order to work correctly. Our only purpose behind using these tools is to learn more about how our system is used. Please read their privay policies to understand what they do with your personal data and how you can opt out if necessary. 
 
 ### Links to other websites
 
@@ -73,8 +72,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 ### Freedom of information
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact us at neil.harris@intently.co. If you believe that any information we are holding on you is incorrect or incomplete, please email us at neil_intently@gmail.com. We will promptly correct any information found to be incorrect, or we will delete the information at your request. 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact us at neil.harris@intently.co. If you believe that any information we are holding on you is incorrect or incomplete, please contact us at neil.harris@intently.co. We will promptly correct any information found to be incorrect, or we will delete the information at your request. 
 
-### Canceling your account
+### Withdrawing consent
 
-If you cancel your account, we will delete all of the information you have provided to us about you and your company. We will also delete all of the data you have created through using our service (e.g. requests, services, and conversations with other people on the system). 
+If you no longer consent to us storing and using your personal information in the ways described above, then please cancel your account by visiting your profile page and clikcing "Cancel account". When you cancel your account, we will delete all of the information you have provided to us about you and your company. We will also delete all of the data you have created through using our service (e.g. requests, services, business profile information, and conversations with other people on the system). 
