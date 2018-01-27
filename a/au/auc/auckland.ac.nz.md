@@ -1,136 +1,262 @@
-> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318205354id_/https%3A//www.auckland.ac.nz/en/admin/footer-links/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auckland.ac.nz privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127071013id_/https%3A//www.auckland.ac.nz/en/admin/footer-links/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The University of Auckland
 
-## Introduction
+The University of Auckland values the privacy of every individual’s personal information and is committed to the protection of personal information.
+
+The University has established a privacy regime that strives to:
+
+  * Promote an understanding and acceptance of the privacy principles and their objectives throughout the university community.
+  * Educate people within the university about information privacy.
+  * Handle any complaints received in an efficient and appropriate manner.
+  * Monitor privacy compliance and keep the university informed of updates to procedures.
+
+
+
+The University takes all reasonable steps to ensure that the personal information it holds is protected against loss, access, use or modification other than with the authority of the University.
+
+You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. You also have a right to request correction of personal information that the University holds about you. If you wish to seek access to or request correction of your personal information, or inquire about the handling of your personal information, contact the Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
+
+## University of Auckland Privacy Statements
+
+## Admission Privacy Statement
 
 * * *
 
-The collection, use, storage, disclosure and correction of personal information by the University is governed by The Privacy Act 1993. Personal information means information about an identifiable individual. The University complies with the obligations of the Privacy Act 1993.
+The information collected by us, or on our behalf, during the admissions process and throughout any subsequent enrolment as a student at the University of Auckland (“the University”) is collected for the primary purpose of considering your application for admission to the University and, if you are successful, administering your programme/s of study.
 
-The University collects, stores and uses and discloses personal information about individuals in a number of circumstances set out below.
+Other purposes of collection include:
 
-## 1\. Collection of Information
+  * Corresponding with you.
+  * Informing you about your courses and other aspects of admission and enrolment.
+  * Informing you of the availability of scholarships.
+  * Informing you about opportunities to engage with and support the University.
+  * Providing associated services such as security, parking, information technology and (where used by you) residential services.
+  * Facilitating appropriate assistance in the event of an emergency involving you.
+  * Enabling you to apply for special entry consideration.
+  * Benchmarking, analyses, quality assurance and planning purposes.
+  * Complying with legislative reporting and recordkeeping requirements.
+  * Using the information for other University purposes and as otherwise permitted by the Privacy Act 1993.
+
+
+
+The information may be disclosed to the following types of organisations:
+
+  * Government departments such as the Ministry of Education, the Tertiary Education Commission, Studylink, the Inland Revenue Department, the Department of Work and Income, the Ministry of Foreign Affairs and Trade, the Ministry of Business, Innovation and Employment and Immigration New Zealand.
+  * Other tertiary providers with whom the University has entered into a joint venture or other contractual arrangements.
+  * Tribal trusts and scholarship providers.
+  * Professional registration agencies such as the New Zealand Education Council and the Medical Council of New Zealand.
+  * Agencies and organisations involved in quality assurance and planning for higher education such as the Academic Quality Agency for New Zealand Universities.
+  * External organisations such as former employers, secondary schools, other tertiary education institutions, and tertiary admission centres, and English language testing verification services to verify your qualifications or experience for the integrity of the selection process.
+  * Contracted service providers which the University uses to perform services on its behalf (such as recruitment and course administration, banks, mailing houses, logistics and IT service providers). Where one of our service providers is located outside of New Zealand, personal information collected and held by the University may be transferred outside of New Zealand.
+  * Other tertiary institutions that you transfer to or from, or with which the University has a conjoint teaching arrangement in which you participate.
+  * University owned or related entities, e.g., Auckland UniServices Limited where you are or will be engaged with this entity.
+  * The University's legal advisers or other professional advisers and consultants engaged by the University.
+  * In the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative or nominated emergency contact person, or other person assessed as necessary to respond to the emergency.
+
+
+
+The information may also be disclosed to other agencies where permitted or required in accordance with the Privacy Act 1993 or other legislation. Your name, date of birth, and residency will be included in the New Zealand National Student Index, and will be used in an Authorised Information Matching programme with the New Zealand Birth Register.
+
+If you are successful in your application, the information will become part of your ongoing student record. Please refer to the [Student Privacy Statement](https://www.auckland.ac.nz/en/admin/footer-links/privacy.html#par_contentblock_1) for further details.
+
+If you do not provide the information requested, it may not be possible for the University to consider you for admission or to enrol you.
+
+You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. If you wish to seek access to your personal information or inquire about the handling of your personal information, contact the Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
+
+**This privacy statement applies to personal information collected by any method (including hardcopy, electronic or verbal means).**
+
+## Student Privacy Statement
 
 * * *
 
-The University may use Google Remarketing as a method of targeting our advertising. Remarketing is a way for us to connect with visitors, based upon their past interactions with the University's website(s).
+Your personal information collected by us, or on our behalf, throughout your enrolment as a student at the University of Auckland (“the University”) is collected for the primary purpose of providing you with the programme/s of study for which you are enrolled. Other purposes of collection include:
 
-As a result, third part vendors, including Google, may use cookies to show you ads related to the University as you visit third party sites across the internet. The University does not collect any personally identifiable information through the use of cookies.
+  * Corresponding with you.
+  * Attending to day to day administrative matters.
+  * Informing you about your courses and other University courses/events.
+  * Informing you about opportunities to engage with and support the University.
+  * Facilitating and enabling programmes relevant to your enrolment (such as cross institutional study, student exchanges, student placements, voluntary workplace activities, internships, industry experience, and the like).
+  * Facilitating and enabling opportunities in community engagement, work-integrated learning activities and student-to-student learning.
+  * Facilitating and enabling international experiences and perspectives through study abroad.
+  * Facilitating and enabling scholarship programmes for which you may be eligible.
+  * Providing associated services such as security, parking, information technology, student support services and (where used by you) residential services.
+  * On course completion, placing your details on the University's alumni database so that you may be kept informed of alumni news, events and activities.
+  * Facilitating appropriate assistance in the event of an emergency involving you.
+  * Conducting benchmarking, analyses, quality assurance and planning.
+  * Conducting  ethics committee approved research, the reporting or publication of which is in an aggregate non-identifiable form, or to seek your consent to participate in ethics committee approved research conducted on another basis.
+  * After your enrolment with University ceases, contacting you for the purpose of seeking your feedback in relation to benchmarking, analyses, quality assurance and planning activities.
+  * Complying with legislative reporting and recordkeeping requirements.
+  * Using the information for other University purposes and as otherwise permitted by the Privacy Act 1993.
+
+
+
+The information collected may be disclosed to the following types of organisations:
+
+  * Government departments such as the Ministry of Education, the Tertiary Education Commission, Studylink, the Inland Revenue Department, the Department of Work and Income, the Ministry of Foreign Affairs and Trade, the Ministry of Business, Innovation and Employment and Immigration New Zealand.
+  * Other tertiary providers with whom the University has entered into a collaboration, joint venture or other contractual arrangements.
+  * Tribal trusts and scholarship providers.
+  * Professional registration agencies such as the New Zealand Education Council and the Medical Council of New Zealand.
+  * Agencies and organisations involved in quality assurance and planning for higher education such as the Academic Quality Agency for New Zealand Universities.
+  * External organisations such as former employers, secondary schools, other tertiary education institutions, and tertiary admission centres, and English language testing verification services to verify your qualifications or experience for the integrity of the selection process.
+  * Contracted service providers which the University uses to perform services on its behalf (such as recruitment and course administration, banks, mailing houses, logistics and IT service providers). Where one of our service providers is located outside of New Zealand, personal information collected and held by the University may be transferred outside of New Zealand.
+  * Other tertiary institutions that you transfer to or from, or with which the University has a conjoint teaching arrangement in which you participate.
+  * University owned or related entities, e.g. Auckland UniServices Limited where you are or will be engaged with this entity.
+  * The University’s Alumni Association.
+  * The University's legal advisers or other professional advisers and consultants engaged by the University.
+  * In the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative or nominated emergency contact person, or other person assessed as necessary to respond to the emergency.
+
+
+
+The information may also be disclosed to other agencies where permitted or required in accordance with the Privacy Act 1993 or other legislation. Your name, date of birth, and residency will be included in the New Zealand National Student Index, and will be used in an Authorised Information Matching programme with the New Zealand Birth Register.
+
+You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. If you wish to seek access to your personal information or inquire about the handling of your personal information, contact the Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
+
+**This privacy statement applies to personal information collected by any method (including hardcopy, electronic or verbal means).**
+
+## Alumni Privacy Statement
+
+* * *
+
+The main way the University of Auckland collects and maintains personal information about alumni is when you give it to us, for example, when you update your details, connect with us on social media or register to attend alumni events. We may also collect personal information from publicly available sources or other third party sources that support the University and its work.
+
+The main purpose for the University’s collection of alumni personal information is to connect you with the University and other alumni. More specifically, these purposes include:
+
+  * Corresponding with you.
+  * Informing you about University courses/events.
+  * Informing you of and providing alumni and friends benefits.
+  * Informing you of opportunities to engage with and support the University.
+  * Conducting benchmarking, analyses, quality assurance, and planning to improve alumni services.
+  * Facilitating appropriate assistance in the event of an emergency involving you.
+  * Complying with any legislative reporting or recordkeeping requirements, and using the information for other University purposes and as otherwise permitted by the Privacy Act 1993.  
+
+
+
+
+The information collected may be disclosed to the following types of organisations:
+
+  * Entities owned or related to the University.
+  * Contracted service providers which the University uses to perform services on its behalf (such as recruitment, banks, mailing houses, research and logistics and IT service providers). Where a service provider is located outside of New Zealand, personal information collected and held by the University may be transferred outside New Zealand.
+  * In the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative, or other person assessed as necessary to respond to the emergency.
+  * The University's legal advisers or other professional advisers and consultants engaged by the University.
+
+
+
+The information may also be disclosed to other agencies where permitted or required in accordance with the Privacy Act 1993 or other legislation.
+
+You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. If you wish to seek access to your personal information or inquire about the handling of your personal information, contact the Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
+
+**This privacy statement applies to personal information collected by any method (including hardcopy, electronic or verbal means).**
+
+## Donor Privacy Statement
+
+* * *
+
+The University of Auckland (“the University”) collects and maintains personal information from our donors where it is necessary for our work and helps us engage with you. We use your information to process your donation and to respond to your comments and questions. We may also use your information to keep you up to date with events and initiatives that we think may interest you.
+
+The main way we collect personal information about you is when you give it to us, for example, when you complete a donation form. We may also collect personal information from publicly available sources or other third party sources that support the University and its work.
+
+### Disclosure of donor information
+
+The information collected may be disclosed to the following types of organisations:
+
+  * Your nominated financial institution for processing your donation.
+  * Entities owned or related to the University.
+  * Contracted service providers which the University uses to perform services on its behalf (such as banks, mailing houses, logistics and research and IT service providers). Where a service provider is located outside of New Zealand, personal information collected and held by the University may be transferred outside New Zealand.
+  * Partner institutions or associated entities who may benefit from your donation.
+  * In the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative or other person assessed as necessary to respond to the emergency.
+  * The University's legal advisers or other professional advisers and consultants engaged by the University.
+
+
+
+The information may also be disclosed to government departments and other agencies where permitted or required in accordance with the Privacy Act 1993 or other legislation.
+
+### Providing your Personal Information
+
+If you choose not to provide the information requested, it may not be possible for the University to process your donation and provide you with ongoing information relating to events and initiatives that we think may interest you. 
+
+If you wish for your donation to be anonymous then please let us know and your gift will not be acknowledged publicly.
+
+You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. If you wish to seek access to your personal information or inquire about the handling of your personal information, contact the Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
+
+**This privacy statement applies to personal information collected by any method (including hardcopy, electronic or verbal means).**
+
+## Human Resources Privacy Statement
+
+* * *
+
+The University of Auckland (“the University”) collects your personal information at the commencement and throughout your employment at the University. The purpose of this Privacy Statement is to let you know the reasons why the University collects your personal information and other important information, such as your right to access that information. Staff personal information is also governed by the [Access to Personal Information Policy and Procedures](https://www.auckland.ac.nz/en/about/the-university/how-university-works/policy-and-administration/human-resources1/access-and-storage-of-information/access-to-personal-information-policy-and-procedures-.html), which contains additional specific rules applying to the access and use of that information.
+
+The personal information collected by the University, or on our behalf, is collected for the primary purpose of providing employment or enabling authorised persons to utilise the University's services and facilities (e.g. information technology resources). Other purposes include:
+
+  * Determining and processing your pay and other entitlements.
+  * Corresponding with you.
+  * Informing you about the range of facilities and services available to staff.
+  * Informing you about opportunities to engage with and support the University.
+  * Facilitating appropriate assistance in the event of an emergency involving you.
+  * Complying with legislative reporting and recordkeeping requirements.
+  * Attending to day to day administrative matters, including administration of ACC requirements.
+  * Providing assistance to staff members with disabilities, if they request such assistance (requests for assistance are forwarded to the Staff Equity Manager who will contact the individual and endeavour to meet their needs).
+  * Providing associated services such as security, parking  and information technology.
+  * Conducting benchmarking, analyses, quality assurance and planning activities, including statistical and management reporting.
+  * Contacting you, after your employment with the University ceases, to seek your feedback in relation to benchmarking, analyses, quality assurance and planning activities.
+  * Using the information for other University purposes and as otherwise permitted by the Privacy Act 1993.
+
+
+
+The information collected may be disclosed to the following types of organisations:
+
+  * Your nominated financial institution for payment of salary.
+  * Entities owned or related to the University.
+  * Your Kiwisaver or other superannuation scheme.
+  * Government departments/entities such as the Inland Revenue Department, the Ministry of Education, the Tertiary Education Commission, the Department of Work and Income, the Ministry of Foreign Affairs and Trade, the Ministry of Business, Innovation and Employment, the Accident Compensation Corporation and Immigration New Zealand.
+  * Agencies and organisations involved in quality assurance and planning for higher education such as the Academic Quality Agency for New Zealand Universities.
+  * Organisations that provide salary packaging benefits to eligible and participating staff members, such as gymnasiums, childcare, car parking permits and novated leasing.
+  * Organisations that provide staff benefits including automated payments for services (e.g. health insurance providers, union fees, professional body membership fees).
+  * Contracted service providers which the University uses to perform services on its behalf (such as recruitment and course administration, banks, mailing houses, logistics and IT service providers). Where one of our service providers is located outside of New Zealand, personal information collected and held by the University may be transferred outside of New Zealand.
+  * In the event of an emergency, police, medical or hospital personnel, civil emergency services, your legal representative or nominated emergency contact person, or other person assessed as necessary to respond to the emergency.
+  * The University's legal advisers or other professional advisers and consultants engaged by the University  
+The information may also be disclosed to other agencies where permitted or required in accordance with the Privacy Act 1993 or other legislation.
+
+
+
+If you choose not to provide the information requested, it may not be possible for the University to employ you or it may limit the opportunities and benefits and assistance available to you. You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. If you wish to seek access to your personal information or inquire about the handling of your personal information, please contact the University Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
+
+**This privacy statement applies to personal information collected by any method (including hardcopy, electronic or verbal means).**
+
+## Website Privacy Statement
+
+* * *
+
+The following information is collected by the University of Auckland (“the University”) when you visit this website:
+
+  * Your browser's internet address.
+  * Your server's address.
+  * Your domain name.
+  * Your IP address.
+  * The date and time of your visit to the site.
+  * The pages you accessed and documents downloaded.
+  * The previous site visited.
+  * The type of browser you are using.
+  * The username entered if accessing a restricted site.
+
+
+
+This information is collected for the following purposes:
+
+  * Targeting the University’s advertising using Google Remarketing (remarketing is a way for us to connect with visitors, based on their past interactions with the University’s website/s).
+  * Statistical purposes and system administration tasks.
+  * Using the information for other University purposes and as otherwise permitted by the Privacy Act 1993  
+Information may be disclosed to other agencies where permitted or required in accordance with the Privacy Act 1993 or other legislation.
+
+
+
+As a result of the University’s use of Google Remarketing, third party vendors, including Google, we may use “cookies” to show you ads related to the University as you visit third party sites across the internet. A cookie is a very small text file that is sent to your browser from our web server and stored on your computer hard drive. The text file is sent back to the server each time the browser requests a page from the server. Cookies help us to provide the user with a customized experience without their having to remind us of their preferences each time they return to our web pages. Cookies cannot damage files, nor can they read information from the hard drive of a computer. It is possible to disable the acceptance of cookies by your web browser. However, doing so may restrict your ability to access some web pages.
 
 You have the option to opt out of Google's use of cookies by visiting the Google advertising opt out page.
 
 Alternatively you can opt out of cookies by visiting the Network Advertising Initiative opt out page.
 
-The following information is recorded and logged by the University server when you visit this website:
+The University does not collect any personally identifiable information through the use of cookies.
 
-  * your browser's internet address;
-  * your server's address;
-  * your domain name;
-  * your IP address
-  * the date and time of your visit to the site;
-  * the pages you accessed and documents downloaded;
-  * the previous site visited;
-  * the type of browser you are using; and
-  * the username entered if accessing a restricted site
-
-
-
-The University uses this information for statistical purposes and for system administration tasks to maintain this service. The University does not attempt to identify individuals as part of regular business practice. However, in the event of an investigation, the University, a law enforcement agency or other government agency may exercise its legal authority to inspect relevant server logs.
-
-### **Confidential and personal information**
-
-The University takes all reasonable precautions to guard against unauthorised access to confidential and personal information including the loss, misuse, and alteration of the information held by the University on its servers. When personal information is no longer required for the purposes for which it was collected it may be deleted.
-
-### **Cookies**
-
-A cookie is a very small text file that is sent to your browser from our web server and stored on your computer hard drive. The text file is sent back to the server each time the browser requests a page from the server. Cookies help us to provide the user with a customized experience without having to remind us of his/her preferences each time he/she returns to our web pages. Cookies cannot damage files, nor can they read information from the hard drive of a computer. It is possible to disable the acceptance of cookies by your web browser. However, doing so may restrict your ability to access some web pages.
-
-## 2\. Use of personal information
-
-* * *
-
-Personal information you supply to us through the use of online forms, email, online surveys and feedback will be used for the purposes of the University including student administration matters, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates.
-
-## 3\. Disclosure of personal information
-
-* * *
-
-Personal information held by the University will only be disclosed to third parties with your consent unless the University is obliged to disclose information in certain circumstances set out in the Act or by order of any Court of Tribunal of competent jurisdiction.
-
-If at any stage you provide us with your email address either as part of a message or by completing a web form, we will only use your email address for the purposes for which it was provided. We will not subscribe your email address to any external mailing list without your consent.
-
-External sites that are linked to or from the University site are generally not under the control or responsibility of the University and you are advised to review their privacy statement.
-
-## 4\. Data quality/ access
-
-* * *
-
-The University will use reasonable endeavours to maintain accurate, up-to-date information regarding students and staff.
-
-If you believe that the personal information the University holds about you is inaccurate and requires correction or if you require copies of your personal information held by the University, please contact the [Privacy Officer](mailto:legal@auckland.ac.nz?subject=Privacy%20enquiry%20from%20website).
-
-## Official Information Act 1982
-
-* * *
-
-The University of Auckland is subject to the provisions of the Official Information Act 1982.
-
-Official Information in relation to the University includes only information held by—
-
-(i) The Council of the University; or
-
-(ii) The Senate, Academic Board, or Professorial Board of the University; or
-
-(iii) Any member of the academic staff of the University; or
-
-(iv) Any other officer or employee of the University; or
-
-(v) Any examiner, assessor, or moderator in any subject or examination taught or conducted by the University;
-
-Official Information does not include:
-
-  * personal information about the person making the request. Requests for personal information should be made under the Privacy Act 1993
-  * information contained in the University Library or museum material made or acquired and preserved solely for reference or exhibition purposes;
-  * information which would have to be created in order to respond to a request
-
-
-
-Requests for official information under the Act should be sent by email to [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz) or by post to:
-
-**General Counsel**  
-Office of the Vice-Chancellor  
-The University of Auckland  
-Private Bag 92 019  
-Auckland 1142, New Zealand.
-
-The request should be as specific as possible about the information at issue. It is preferable to put requests in writing.
-
-Under the Act the University has 20 working days to reply, although that time limit can be extended in certain circumstances specified in the Act. In such cases the requester will be advised of the extension and the reasons for it. Requesters can ask that requests be treated as urgent, but must give reasons.
-
-The University is entitled to withhold information if, for example, the release would be likely to prejudice:
-
-  * the national security or defence of New Zealand;
-  * the maintenance of the law
-
-
-
-Other reasons for withholding information include:
-
-  * the commercial position of the supplier or the subject of the information;
-  * the confidentiality of advice tendered by Ministers and officials;
-  * the free and frank expression of opinions by or between or to Ministers and officials;
-  * legal professional privilege;
-  * the commercial activities of the University;
-  * the privacy of natural persons, including deceased natural persons
-
-
-
-Before withholding information for any for these reasons, consideration must be given to whether there are any other public interest considerations which outweigh the need to withhold.
-
-Under the Act the University may make a reasonable charge for providing "official information". Generally, the first hour of time spent processing a request and the first 20 pages of photocopying are free.
-
-You should familiarise yourself with the Act if you wish to make a request for official information. If you make any request for official information that concerns a third party the University may give notice of your request to the third party.
-
-[Information about copyright](https://www.auckland.ac.nz/en/admin/footer-links/copyright.html)   
-[Read the disclaimer](https://www.auckland.ac.nz/en/admin/footer-links/disclaimer.html)
+You have a right to access personal information that the University holds about you, subject to any exceptions in the Privacy Act 1993. If you wish to seek access to your personal information or inquire about the handling of your personal information, contact the Privacy Officer by email at [legal@auckland.ac.nz](mailto:legal@auckland.ac.nz).
