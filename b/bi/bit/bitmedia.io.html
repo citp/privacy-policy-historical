@@ -1,14 +1,26 @@
-<!--The following is the downloaded HTML source of the bitmedia.io privacy policy that was archived on 2015-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150316234940id_/https%3A//bitmedia.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitmedia.io privacy policy that was archived on 2018-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180127133115id_/https%3A//bitmedia.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-		<title>BitMedia.IO - Privacy</title>
-		<link rel="stylesheet" href="/css/login.css">
-		<link rel="shortcut icon" type="image/x-icon" href="/img/favicons/guest.ico">
+		<title>Privacy Policy | BitMedia.IO</title>
+		<meta name="description" content="Privacy policy statement. Here you may read about the personal information that BitMedia.IO collects.">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicons/new.png">
+    <link rel="stylesheet" href="/css/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/login.css">
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/prefixfree.min.js"></script>
+    <script src="/js/jquery-2.1.1.min.js"></script>
 
 		<style>
 			body {
 				padding: 0;
+			}
+
+			.privacy a, .privacy a:hover, .privacy a:active, .privacy a:visited {
+				color: #444444;
 			}
 
 			.privacy {
@@ -38,8 +50,6 @@
 
 		</style>
 
-		<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/jquery-2.1.1.min.js"></script>
-
 		<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
 		{ (i[r].q=i[r].q||[]).push(arguments)}
@@ -55,8 +65,7 @@
 
 
 	
-	<link rel="stylesheet" href="/css/main.css">
-
+	
 <script>
 
     $(document).ready(function() {
@@ -89,28 +98,72 @@
                 scrollTop: 0
             }, 600);
         });
+        $('#year_now').append(new Date().getFullYear());
+
+        $.ajax({
+             type : 'GET',
+             url : '/bitcointousd',
+             dataType : 'json',
+             success : function(res){
+                $('#bitcoin_price').append(res.usd.toFixed(2));
+             },
+             error : function(){
+                $('.header-bitcoin').css('display','none');
+             }
+        });
     });
 
 </script>
-
-<div id="navigation">
-    <div class="content" id="header_content">
-        <a href="/"><div id="logo"><div id="logo_img"></div></div></a>
-
-        <div id="header_login">
-            <a href="/login"><div id="header_login_login" class="header_login_item">LOGIN</div></a>
-            <a href="/auth/facebook"><div id="header_login_facebook" class="header_login_item"></div></a>
-            <a href="/signup"><div id="header_login_signup" class="header_login_item">SIGN UP</div></a>
-        </div>
-
+ <!-- Header section -->
+    <header>
+        <div class="container-fluid header-menu-color">
+        <div class="container">
+          <div class="row">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="true" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <i class="fa fa-bars mobile-nav-icon" aria-hidden="true"></i>
+              </button>
+              <a class="navbar-brand" href="/"><img src="/img/logo_new.png" width="35" alt="">BITMEDIA.IO</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right header-nav">
+               <li class="hidden-xs">
+                    <span class="header-bitcoin">
+                        <span id="bitcoin_price"><i class="fa fa-btc" aria-hidden="true"></i><span class="btc_on">1<span> = <i class="fa fa-usd" aria-hidden="true"></i></span>
+                    </span>
+                8127.87</span></span></li>
+                <li>
+                    <a href="/login" class="sign-in">
+                        <i class="fa fa-unlock-alt" aria-hidden="true"></i> 
+                        <span id="sign-in-text-container">Sign in</span> 
+                    </a>
+                </li>
+                <li>
+                    <a href="/signup" class="sign-up">
+                        <span>Sign up</span>
+                    </a>
+                </li>
+                <li class="hidden-xs"><span class="header-or">or</span></li>
+                <li>
+                    <a href="/auth/facebook">
+                        <i class="fa fa-facebook-official facebook-header-white" aria-hidden="true"></i>
+                    </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>         
     </div>
-</div>
+ </header>
+<!-- End of header section -->
 
 
 		<div class="privacy">
+
 			<h1>Privacy Policy Statement</h1>
 
-			<p>Your privacy is important to BitMedia.IO.  This privacy statement provides information about the personal information that BitMedia.IO collects, and the ways in which BitMedia.IO uses that personal information.</p>
+			<p>Your privacy is important to BitMedia.IO. This privacy statement provides information about the personal information that BitMedia.IO collects, and the ways in which BitMedia.IO uses that personal information.</p>
 
 			<h3>Personal information collection</h3>
 
@@ -139,9 +192,9 @@
 				</ul>
 			<p></p>
 
-			<p>Where BitMedia.IO discloses your personal information to the third parties (agents or sub-contractors) for the mentioned above purposes, the third parties will be obligated to use that personal information in accordance with the requirements of this privacy statement.</p>
+			<p>Where BitMedia.IO discloses your personal information to the third parties (agents or sub-contractors) for the abovementioned purposes, the third parties will be obliged to use that personal information in accordance with the requirements of this privacy statement.</p>
 
-			<p>In addition to the disclosures reasonably necessary for the purposes identified above, BitMedia.IO may disclose your personal information to the extent required by law, in with the cases of any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.</p>
+			<p>In addition to the disclosures reasonably necessary for the purposes identified above, BitMedia.IO may disclose your personal information to the extent required by law, in case of any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.</p>
 
 			<h3>Securing your data</h3>
 
@@ -155,7 +208,7 @@
 
 			<p>Information that BitMedia.IO collects may be stored, processed in and transferred between any of the countries in which BitMedia.IO operates. It is required to enable the use of the information in accordance with this privacy policy.</p>
 
-			<p>You agree to such cross-border transfers of personal information.</p>
+			<p>It is provided that you agree to such cross-border transfers of personal information.</p>
 
 			<h3>Updating this statement</h3>
 
@@ -171,57 +224,101 @@
 
 			<h3>Contact BitMedia.IO</h3>
 
-			<p>If you have any questions about this privacy policy or BitMedia.IO treatment of your personal information, please contact us:
-				</p><ul>
-					<li>
-						by email to support@bitmedia.io<script cf-hash="f9e31" type="text/javascript">
-/* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script>;
-					</li>
-				</ul>
-			<p></p>
+			<p>If you have any questions about this privacy policy or BitMedia.IO treatment of your personal information, please contact us by email to <a href="mailto:support@bitmedia.io">support@bitmedia.io</a>.</p>
 
 		</div>
 
-	<div id="footer">
-    <div class="content" style="position: relative;">
-        <div style="height:150px;">
-            <div id="footer_logo" class="footer_divs"></div>
-            <div id="footer_menu" class="footer_divs">
-                <ul class="nav_points" style="min-width:380px">
+	<!-- Facebook Pixel Code -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1027571100667001', {
+em: 'insert_email_variable'
+});
+fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1027571100667001&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+<!-- Footer Section start -->
+<footer class="footer">
+    <div class="container-fluid footer-top">
+        <div class="container">
+            <div class="row">
+              <div class="col-xs-12 col-sm-12 col-md-12 footer-bottom-top">
+                <div class="col-sm-12 col-md-2 text-center footer-logo-block">
+                    <a href="/"><img src="/img/logo_new.png" alt="bitmedia.io" width="55"></a>
+                    <a class="navbar-brand footer-logo-text" href="/">BITMEDIA.IO</a>
+                </div>
+                <div class="col-sm-2 col-md-1 footer-responsive-text info-element">
+                    <div class="footer-main-header">Information:</div>
+                    <p class="footer-main-sub-text"><a href="/faq">FAQ</a></p>
+                    <p class="footer-main-sub-text footer-main-sub-text-becomeapub"><a href="/how-it-works">How It Works</a></p>
+                </div>
+                <div class="col-sm-2 col-md-2 footer-responsive-text padding-no">
+                    <div class="footer-main-header">Advertising:</div>
+                    <p class="footer-main-sub-text"><a href="/bitcoin-advertising">Advertising With Bitcoin</a></p>
+                    <p class="footer-main-sub-text footer-main-sub-text-becomeapub"><a href="/campaign/ad-placement-management">Ad Placement Management</a>
+                    </p>
+                </div>
+                <div class="col-sm-2 col-md-2 footer-responsive-text earn-element">
+                    <div class="footer-main-header">Earning:</div>
+                    <p class="footer-main-sub-text"><a href="/become-a-publisher">Become a Publisher</a></p>
+                    <p class="footer-main-sub-text footer-main-sub-text-becomeapub"><a href="/referral/program">Affiliate Program</a>
+                    </p>
+                </div>
+                <div class="col-sm-2 col-md-1 footer-responsive-text padding-no">
+                    <div class="footer-main-header">About:</div>
                     
-                </ul>
-            </div>
-            <div id="footer_social" class="footer_divs">
-                <p id="footer_text">BitMedia - is an advertising platform, which is created within Bitcoin-network (community). This is a niche area, which allows resource owners of  Bitcoin-subjects to buy and sell thematic traffic.</p>
-                <!-- <div id="footer_social_icons">
-                    <div class="footer_social_icon" id="footer_social_icon_facebook"></div>
-                    <div class="footer_social_icon" id="footer_social_icon_google"></div>
-                    <div class="footer_social_icon" id="footer_social_icon_twitter"></div>
-                </div> -->
-            </div>
-        </div>
-        <div id="footer_separator" style="height:1px;width:1110px;background-color:white;"></div>
-        <div id="scroll_arrow" style="background: url('/img/scroll_arrow.png') no-repeat center bottom;height:61px;width:63px;position:absolute;right:0px;top:138px;"></div>
-        <div id="footer_copyright">
-            <div class="footer-left">
-                © BitMedia.io, 2014. All rights reserved.
-            </div>
-            <div class="footer-terms">
-                <ul>
-                    <li>
-                        <a target="_blank" href="/terms">Terms</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="/publisher-terms">Publisher Terms</a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="/privacy">Privacy Policy</a>
-                    </li>
-                </ul>
+                    <p class="footer-main-sub-text"><a href="/about">About Us</a></p> 
+                    <p class="footer-main-sub-text footer-main-sub-text-becomeapub" style="width:130%"><a href="/publisher-approval">Publisher Approval</a></p>
+                </div>
+                <div class="col-sm-4 col-md-3 footer-responsive-text padding-no">
+                    <div>
+                        <div class="col-xs-6 col-sm-6 col-md-6 footer-main-header text-right">Follow us:</div>
+                        <div class="col-xs-6 col-sm-6 col-md-6 footer-sosial-icons">
+                            <a href="https://twitter.com/bitmedia_io"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/bitmedia.io"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </div>
+                    </div>
+                    <div>
+                        <span class="col-xs-6 col-sm-6 col-md-6 footer-main-header footer-head-contact text-right">Contacts:</span>
+                        <a href="mailto:support@bitmedia.io" class="col-xs-6 col-sm-6 col-md-6 footer-email">support@bitmedia.io</a>
+                    </div>
+                </div>
+                <div class="col-sm-1 col-md-1">
+                    <div class="footer-scroll-top" id="scroll_arrow"><img src="/img/to_top.png" alt=""></div>
+                </div>
+          </div>
+         </div>
+       </div>
+    </div>
+    <div class="container-fluid footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-6 footer-copyright">
+                  <p><span id="year_now">2020</span> © BitMedia LTD, All rights reserved.</p>
+                </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 padding-no">
+                    <ul class="nav navbar-nav navbar-right footer-nav">
+                        <li><a href="/terms">Terms</a></li>
+                        <li><a href="/publisher-terms">Publisher Terms</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
-</div>
-
+</footer>
+<!-- Footer Section end -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="/css/bootstrap/js/bootstrap.min.js"></script>
 	
+
 </body></html>
