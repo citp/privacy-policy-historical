@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the share.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421153519id_/https%3A//www.share.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share.com privacy policy that was archived on 2018-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180127103350id_/https%3A//www.share.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Share Centre
 
 ## Your personal information is important to us
 
-We recognise that, when you provide us with information, you expect us to use it responsibly, to keep it up to date and to ensure it is only used for the purpose for which it is provided. At the same time, the more information we have, the better able we are to help you achieve your investment aims.
+We recognise that when you provide us with information you expect us to use it responsibly, to keep it up to date and to ensure it is only used for the purpose for which it is provided. At the same time, the more information we have the better able we are to help you achieve your investment aims.
 
 We see it as a partnership. You provide relevant, timely information about yourself and keep us advised of changes. We undertake to seek only relevant details, to safeguard them, and to use them only to meet our statutory obligations and with your permission.
 
@@ -29,9 +29,9 @@ Information you provide is stored in two ways; in paper format and electronicall
 
 All paper records are stored at our premises in Aylesbury and access is controlled by electronic pass card and 24-hour security is in place.
 
-**Electronic information** includes all personal details extracted from application forms etc, and transactional data from activity passing through your Accounts, such as credits to your Account, withdrawals, dividends received, share sales and purchases.
+**Electronic information** includes all personal details extracted from application forms etc, and transactional data from activity passing through your accounts, such as credits to your account, withdrawals, dividends received, share sales and purchases.
 
-All electronic information is stored in our own database which is not accessible other than by authorised employees of The Share Centre and its agents. Our agents include organisations that assist us with mailing your half-yearly account statement, copies of The Shareholder and other large volumes mailings. In order to ensure the security of data, all agents are carefully selected and abide by stringent Service Level and Non-Disclosure agreements.
+All electronic information is stored in our own database which is not accessible other than by authorised employees of The Share Centre and its agents. Our agents include organisations that assist us with mailing your half-yearly account statement and other large volumes mailings. In order to ensure the security of data, all agents are carefully selected and abide by stringent Service Level and Non-Disclosure agreements.
 
 In addition, electronic information is 'backed-up' on a regular (normally daily) basis and discs are stored off-site at both our Disaster Recovery Site and elsewhere, in order to ensure we can have our systems up and running as soon as possible in the event of a fire or other incidents.
 
@@ -41,27 +41,27 @@ Naturally, off-site storage of data is subject to the same stringent safeguards 
 
 Use of your information falls into two main categories:
 
-**Maintaining your Account records  
+**Maintaining your account records  
 ** Information is used to ensure the correct details are recorded and that we can maintain contact with you, both actively and in response to requests you may make.
 
-It is therefore important that details like your address, contact telephone numbers and Bank account details are kept up to date. Please therefore remember to advise us of any changes to these details.
+It is therefore important that details like your address, contact telephone numbers and bank account details are kept up to date. Please therefore remember to advise us of any changes to these details.
 
-For security purposes, some changes need to be made in a secure manner and we will, therefore, ask you to advise or confirm such changes in writing or via your online account, having first signed in using your unique customer reference, password and memorable word.
+For security purposes, some changes need to be made in a secure manner and we will, therefore, ask you to advise or confirm such changes in writing or via your online account, having first signed in using your unique customer reference number, password and memorable word.
 
-We make it easy for you to update your records and control how you manage your account through the 'my profile'.
+We make it easy for you to update your records and control how you manage your account through the 'my profile' section of your account.
 
 **Providing you with information on products and services  
-** As new products are introduced, or changes made to existing services we would, from time to time, like to advise you of them.
+** As new products are introduced or changes made to existing services, we would like to advise you of them from time to time.
 
-Naturally, we want to ensure we only advise you of services that are directly relevant or which may be of interest. To help identify this we will take into account your previous investment activity and other criteria, such as age, investment requirements and the type of investments you make, which may indicate a possible interest.
+Naturally, we want to ensure we only advise you of services that are directly relevant to you or which may be of interest. To help identify this we will take into account your previous investment activity and other criteria, such as age, investment requirements and the type of investments you make which may indicate a possible interest.
 
-The Share Centre does not make your information available to any other organisation or business, other than its agents as detailed above. You can be sure, therefore, that information you give us is used only to provide the services you have requested and to keep you informed and up-to-date.
+The Share Centre does not make your information available to any other organisation or business, other than its agents as detailed above. You can be sure, therefore, that the information you give us is used only to provide the services you have requested and to keep you informed and up-to-date.
 
-We may communicate with you in a number of ways, for instance by letter, telephone, by email and via the Internet. If you have a particular preference we will endeavour to use your preferred method of communication although there may be occasions where this is impracticable or where we are required by law or by our regulators to communicate in a particular way.
+We may communicate with you in a number of ways, for instance by letter, telephone, email or via the Internet. If you have a particular preference we will endeavour to use your preferred method of communication although there may be occasions where this is impracticable or where we are required by law or by our regulators to communicate in a particular way.
 
-Tell us what information you want to receive, and your preferred method of contact, and we'll keep in touch in that way. If you tell us you don't want to receive marketing material, we won't contact you, other than to tell you about statutory changes, amendments to Terms and Conditions or other important changes you need to be aware of.
+Tell us what information you want to receive, and your preferred method of contact, and we'll keep in touch in that way. If you tell us you don't want to receive marketing material then we won't contact you, other than to tell you about statutory changes, amendments to Terms and Conditions or other important changes you need to be aware of.
 
-You may also choose to receive certain information by email or via your online account. This option currently covers Contract Notes for share sales /purchases and your half-yearly account statement. Email or online preferences for these items can be turned on / off via 'my profile' once you have signed in.
+You may also choose to receive certain information by email or via your online account. This option currently covers Contract Notes for share sales /purchases and your half-yearly account statement. Email or online preferences for these items can be turned on / off via 'my profile' once you have signed in to your account.
 
 ## How can I check it?
 
@@ -80,7 +80,7 @@ HP21 8ZB
 
 ## How can I help safeguard it?
 
-Safeguarding your information is important to us both, and you can help.
+Safeguarding your information is important to both us and you, and you can help.
 
 Online, we use a technology called "session cookies" in order to provide you with access to your account information. Session cookies are small pieces of data which are sent to your Internet browser. They are not permanently stored on your computer.
 
@@ -105,7 +105,7 @@ Once you have signed in, you will have access to all parts of the site. If you a
   * No personal information is stored simply by browsing the public areas of the site.
   * Where we do have a record of your personal information, this will be used in the operation of your account, to improve the level and range of services offered to you or to keep you advised of new developments which may be of interest to you.
   * We may also use your details to advise you of services provided by other companies. 
-  * Should you not wish us to keep you informed, please contact Customer Service on 01296 41 41 41. 
+  * Should you wish to not be kept informed, please contact Customer Service on 01296 41 41 41. 
   * We may disclose any information provided by you as required by law or regulation.
   * You are entitled to a copy of the personal data held by us, upon request. If you wish to update any information held, please contact Customer Service or [email us](mailto:service@share.co.uk "email us").
 
@@ -126,16 +126,16 @@ The Share Centre supports the protection of children from potentially harmful ma
 
 ## What if I've other questions?
 
-If you have any questions or concerns regarding the collection; storage, use or accessibility of your personal information please let us know.
+If you have any questions or concerns regarding the collection, storage, use or accessibility of your personal information please let us know.
 
 In the first instance you may raise your query directly with our Customer Service team by calling us on 01296 41 41 41 or writing to us at:
 
 The Share Centre   
-P O Box 2000   
+PO Box 2000   
 Aylesbury   
 Bucks   
 HP21 8ZB
 
 If your question cannot be answered to your complete satisfaction it can then, at your request, be referred to our Data Protection Manager who will acknowledge your query and provide a written response or update within 10 days.
 
-Do remember, our aim is to ensure information recorded is always both appropriate and accurate, so please keep us up-to-date by notifying relevant changes to your personal circumstances and information.
+Do remember, our aim is to ensure information recorded is always both appropriate and accurate, so please keep us up-to-date by notifying us of relevant changes to your personal circumstances and information.
