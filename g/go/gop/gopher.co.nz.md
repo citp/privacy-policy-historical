@@ -1,98 +1,87 @@
-> *The following text is extracted and transformed from the gopher.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406100705id_/http%3A//www.gopher.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopher.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128113721id_/https%3A//www.searchlocal.nz/privacy) for the most accurate reproduction.*
 
-# Gopher Privacy Policy
+# Privacy Policy | Search Local
 
-Gopher.co.nz is owned and operated by Gopher Limited.
+## Privacy Policy
 
-In this Privacy Policy, references to “we” or “us” or “our” are references to Gopher Limited and references to “you” or “your” are references to the person accessing the gopher.co.nz service (“Gopher”).
+We are committed to protecting the privacy of personal information you might provide via any of our websites or mobile applications (each, a “Property”), or otherwise. This policy explains how Pattern Digital Limited (“we”, “us” or “our”) manage your information.
 
-We are committed to protecting your privacy. You can provide us with as much, or as little, personal information as you feel comfortable with. We use the information we collect to make your experience using Gopher a rewarding one.
+### Your information
 
-The following discloses our information gathering and dissemination practices for Gopher at [www.gopher.co.nz](https://web.archive.org/)
+You acknowledge and agree that we may collect information about you. This may be:
 
-Moreover, however you use Gopher, our data collection and usage policy allows you to control the personal information you give to us and what we can do with it. In this way your privacy is guaranteed.
-
-We aim to build your trust and confidence in Gopher and we will not hold or use your personal details without your permission.
-
-## What are cookies?
-
-A cookie is a data file that certain web sites write to your computer's hard drive when you visit such sites. Our website uses cookies to log search types and frequency. We use cookies to deliver content specific to your interests and to safeguard our information from illegal theft and data mining. We use this data on an anonymous basis and we do not correlate this information with personal data of any user.
-
-Most web site browsers automatically accept cookies, but you can usually change your browser settings to display a warning before accepting a cookie, or to refuse all cookies. However, if you choose to disable the receipt of cookies from our web site, you may not be able to use certain features of Gopher.
-
-## What information do we collect?
-
-We only collect information that personally identifies you or allows us to contact you with your permission for example your name, address, email address, and telephone number.
-
-We will also collect data when you request products and services so that we can tailor Gopher to your specific needs.
-
-We also monitor general call centre requests, web site traffic, and user opinions to help us to continually improve Gopher.
-
-## Why do we collect this information?
-
-We collect personal information to provide you with the most relevant service possible. This means in terms of related products and services, and targeted advertising, you only receive information you are interested in.
-
-## How do we use personal information?
-
-We use personal information:
-
-  * To understand more about you so that we can tailor Gopher whenever you access it.
-  * To summarise usage behaviour for advertisers and partners, and to describe our service and performance. This is not based on individual behaviour but is generic.
-  * To improve Gopher.
-  * For other personalised value-added services to which you have specifically subscribed to.
+  * provided by you;
+  * obtained or derived from Property usage information (whether through tracking your click behaviour or otherwise);
+  * obtained or derived from aggregated data not relating to you personally, such as the measuring of traffic relating to our Properties; and/or
+  * provided by third parties.
 
 
 
-By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it at all times. Continued use of Gopher will mean that you agree to any such changes.
+At times, if you do not provide certain information, we may not be able to provide services to you and/or certain functionality on the Properties may not be available.
 
-## What information is collected automatically?
+### Use and sharing of information
 
-Our web servers automatically collect information about a site user's IP address, browser type, and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected in a database and used (in an aggregated, anonymous manner) in our internal analysis of traffic patterns within our web site.
+We collect and use your information to:
 
-This information is automatically logged by most web sites.
-
-## How do we protect your information?
-
-The internet is not a secure medium. However, in order to prevent unauthorised access, we use strict security procedures in the storage and disclosure of information that you have given to us. We use all reasonable endeavours to ensure the security of personal data stored on our system.
-
-All your personal information is password protected and only certain customers who have purchased certain specific products from us have limited password protected access to their own information.
-
-## How do we offer links to third party websites?
-
-This site contains links to other sites. We are not responsible for, without limitation, the privacy practices or the accuracy, relevance, copyright compliance, legality, decency of any content or services contained in such websites which are not directly controlled by us. You acknowledge that the search results may contain links to websites and contents that contain offensive or objectionable material. We will not be responsible if the search results reveal such objectionable or offensive content and you release us from all liability in respect of the same. We reserve the right to disable links from third party websites to Gopher.
-
-You should read the terms and conditions of use of any third party website carefully before using that site or proceeding with any online or offline transaction with that third party. Your correspondence or business dealings with, or participation in the promotions of, third parties found on or through Gopher, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings (including any implied terms) are solely between you and such third parties.
-
-The inclusion of a link to a third party’s site does not imply endorsement by us of the third party, its site, or any goods, services, information or content featured on or available from that site. We exclude its liability for inter alia:
-
-  * The failure of a third party site to comply with applicable laws or regulations from time to time
-  * Any goods, services or content you acquire or access on a third party site
-  * Any damage, loss, cost or expense arising from: any link to or from a third party site on Gopher, any third party content on Gopher, any third party content on Gopher or your use of a third party site.
+  * generally operate our business;
+  * provide you and others with, and improve, our Properties, products and services;
+  * inform you about our Properties, products and services, and any changes thereof;
+  * administer our contests, promotions, surveys and other services;
+  * obtain your feedback or views about our Properties, products and services;
+  * respond to any queries, feedback or other correspondence from you;
+  * gain an understanding of your needs;
+  * prevent and detect any misuse of, or fraudulent activities involving, any of our Properties, products or services; and/or
+  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.
 
 
 
-We do not give any warranties or representations as to the security of any information you might be requested to give to any third party, and you irrevocably waive any claim against us with respect to such sites and third party content.
+Personal information may be shared with our officers, employees, contractors, agents, professional advisors, our related companies, and third parties (including our customers, suppliers or commercial partners) in relation to the purposes described above. We take reasonable steps to ensure that any third parties are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
-## What choice do we offer in relation to the collection, use and distribution of personal information?
+We may also share your personal information as required by law, court order, regulatory authority or the listing rules of any stock exchange, to exercise our legal rights, in the event of a dispute or legal claim, and to defend against legal proceedings (threatened or actual).
 
-When you register, or when you give us your personal details while using Gopher, you acknowledge and accept that your information may be used for marketing activities, or to receive additional offers and information from us and/or third parties. This is called “permission marketing”.
+We collect and use non-personal information to:
 
-## Do we share information?
+  * provide our customers or suppliers with marketing or promotional materials regarding our products and services; and/or
+  * assist our staff in providing tailored sales offers to our customers.
 
-We will not disclose your personally identifiable information to any person or company except where you have given us permission to do so, or if the law requires it, or where in good faith we believe such action is necessary to fulfil the service.
 
-## Privacy Policy – Email
 
-Gopher and its employees respect the privacy needs of their clients and the recipients of any emails sent and received. They do not share with third parties any information about any client or individual and they respect all information contained in their email software and related delivery engines as being confidential.
+### Accessing and correcting personal information
 
-Gopher will not sell, rent, loan or allow external access to a client's email contact list. Nor will they use their client's email contact lists for any purpose other than those agreed to in writing.
+Under the Privacy Act 1993, you have rights of access to and correction of personal information that we hold in relation to you as an individual. There are certain grounds on which we may refuse access or correction requests (for example, where such information cannot be readily retrieved), and we reserve the right to require payment of our reasonable costs in relation to the access to and correction of your personal information.
 
-Maintaining the privacy of their client's email contact list information is of paramount importance to Gopher as it fosters confidence, goodwill and good relationships with their clients and their client's customers who receive emails from Gopher.
+To protect your privacy and the privacy of others, you accept that we may require you to verify your identity before we can give you access to, or change, your personal information.
 
-## What happens if we sell Gopher?
+### Links
 
-If this business is sold or integrated with another business your details may be disclosed to our advisers and any prospective purchasers and their advisers and will be passed on to the new owners of the business.
+Our Properties may provide links to other websites or mobile applications. Please note that such destinations may have different security and privacy policies. We do not accept any responsibility or liability for any information that you divulge to such destinations or how their owners or operators collect, use or disclose such information.
 
-## In summary
+### Cookies
 
-We want to make your Gopher experience a good one. Your privacy is important. We want you to feel happy about the information you are giving us and to be able to retain control over the way it is used.
+To help us provide the best possible services for users and customers, we collect and store information about the way our Properties are used (such as the number and type of electronic devices connecting to each Property, the location and any unique IDs provided by those devices, the operating systems and browsers used by those devices, and which parts of our Properties are being viewed or used). This may include sending a "cookie" to your device. A cookie is a message given to an internet browser by a web server. The browser stores the message in a text file. The message is then sent back to the server each time the browser requests a page from the server. This identifies your device uniquely but does not harm your device and does not identify you.
+
+Our Properties use one type of cookie for reporting on the use of the Property, and another type of cookie to provide you with certain functionality (such as displaying content that is relevant to you, or enabling you to retain search queries). Cookies will be sent to your device the first time you visit one of our Properties. If you do not wish to have a cookie placed on your device, please disable cookies via your internet browser’s settings menu.
+
+### Advertisements
+
+We may use a third-party to serve advertising when you use our Properties. They may use information about your use of our Properties (but not your name, address, email address or telephone number) to provide advertisements that may be of interest to you. When serving such advertisements, they may place, or recognise, a unique cookie on your device. If you would like more information about this practice and your choices for avoiding the use of your information, please visit <https://support.google.com/adsense/troubleshooter/1631343> .
+
+### Security
+
+Although we use safeguards to protect your personal information against theft, loss or unauthorised access, use, modification, disclosure or disposal, no data transmission over the internet can be guaranteed to be completely secure. We do not warrant the security of information you transmit or receive through our Properties, and these activities are conducted at your own risk.
+
+### Emails
+
+By registering an account with us via our Properties or by providing us with your email address, you consent to receiving commercial emails from us or on our behalf, from our related companies and/or from third parties, unless you expressly reject such consent at that time, or until you opt-out of receiving such commercial emails by using the unsubscribe facility provided therein or via certain of our Properties. We may always send you non-commercial emails.
+
+### Terms of Use
+
+Our [Terms of Use](https://www.searchlocal.nz/terms)  apply in addition to this Privacy Policy. In the event of any conflict between this Privacy Policy and the Terms of Use, the Terms of Use prevail to the extent permitted at law.
+
+### Changes
+
+We may change this Privacy Policy, by adding, changing or removing terms at any time. Any change applies from the time it is published on the relevant Property. You should check from time to time to see if this Privacy Policy has changed. Your continued use of a Property confirms your acceptance of its terms.
+
+### Contact us
+
+If you have any questions about the privacy of your personal information please [contact us](https://www.searchlocal.nz/contactus) .
