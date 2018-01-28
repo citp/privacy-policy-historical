@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the varonis.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023043953id_/https%3A//www.varonis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varonis.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128231349id_/https%3A//www.varonis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Varonis Systems
 
