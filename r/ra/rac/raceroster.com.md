@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceroster.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904170754id_/https%3A//raceroster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceroster.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128033434id_/https%3A//raceroster.com/privacy-policy) for the most accurate reproduction.*
 
 # Race Roster — Registration, Marketing. Fundraising
 
