@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainmaker.fm privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903054525id_/https%3A//rainmaker.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainmaker.fm privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128215048id_/https%3A//rainmaker.fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainmaker.FM
 
