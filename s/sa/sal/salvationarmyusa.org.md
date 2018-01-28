@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228033001id_/http%3A//www.salvationarmyusa.org/usn/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salvationarmyusa.org privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128092125id_/https%3A//www.salvationarmyusa.org/usn/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Salvation Army USA
 
