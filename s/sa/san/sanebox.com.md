@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519191249id_/https%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128234950id_/https%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SaneBox
 
@@ -39,7 +39,7 @@ Finally, we do not use or share the personally identifiable information provided
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-All payments and payment information on our site is handled through [Pin Payments](https://subs.pinpayments.com/info/faq) which is fully PCI DSS compliant. [PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml) is the global standard for safegaurding financial transaction data. No customer financial information is ever stored within our computer systems.
+All payments and payment information on our site is handled through [Pin Payments](https://subs.pinpayments.com/info/faq) which is fully PCI DSS compliant. [PCI DSS](https://www.pcisecuritystandards.org/security_standards/pci_dss.shtml) is the global standard for safeguarding financial transaction data. No customer financial information is ever stored within our computer systems.
 
 ## Our Commitment To Children's Privacy
 
@@ -68,4 +68,4 @@ SaneBox, Inc.
 Boston MA 02116  
 
 
-or by leaving us a note: [https://support.sanebox.com](https://support.sanebox.com/requests/anonymous/new)
+or by leaving us a note: [https://support.sanebox.com](https://support.sanebox.com/hc/en-us/requests/new)
