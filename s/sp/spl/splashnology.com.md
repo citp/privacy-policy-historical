@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashnology.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112222629id_/http%3A//splashnology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashnology.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128215349id_/http%3A//splashnology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Splashnology.com
 
