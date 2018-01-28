@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 911metallurgist.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328063240id_/https%3A//www.911metallurgist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 911metallurgist.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128140351id_/https%3A//www.911metallurgist.com/privacy) for the most accurate reproduction.*
 
-# Privacy - 911 Metallurgist
+# Privacy
 
 **Privacy**
 
- **Introduction**
+**Introduction**
 
 1\. This Privacy Policy relates to 911Metallurgist official online privacy policy and it applies to all personal information collected by 911Metallurgist. With this policy in mind, we explain how and why we collect your personal information, how we use it, and what controls you have over our use.
 
 2\. The 911Metallurgist team is committed to complying with Canadian legislation governing privacy of personal information by businesses and individuals to protect and safeguard your privacy.
 
- **Collection of information**
+**Collection of information**
 
 3\. Some information provided to us by clients, customers, contractors and other third parties is considered private and/or personal. Without these details we are not able to carry on our business and provide our services to you. We only collect personal information if it is necessary for one of our functions or activities.
 
@@ -20,7 +20,7 @@
 
 5\. At or before the time the personal information is collected by us we will take reasonable steps to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type of organisation(s) to which we usually disclose information collected relating to you, and any laws requiring the collection of the information and the disposition for you if all or part of the information is not collected.
 
- **Use of information collected and disclosure of personal information to others**
+**Use of information collected and disclosure of personal information to others**
 
 6\. We may use or disclose personal information for the purpose for which it is collected (a provision of our services, including administration, notice to you about changes to our services, record-keeping following termination of our services to you and/or technical maintenance). We may also use such information for purposes relating to the primary purpose of collection. This information is only disclosed to persons outside our business in the circumstances set out in this policy or as otherwise notified to you, at the initial collection of the information.
 
@@ -32,11 +32,11 @@
 
 • Where we reasonably believe that the use or disclosure is necessary for prevention, investigation, prosecution and punishment of crimes or wrongdoings or the preparation for, conduct of, proceedings before any court or tribunal or the implementation of the orders of a court or tribunal by or on behalf of an enforcement body.
 
- **Links**
+**Links**
 
 8\. Our web site may contain links to other web sites and those third party web sites may collect personal information about you. We are not responsible for the privacy practices of other businesses or the content of web sites that are linked to our web site. Please be advised, 911Metallurgist encourages users to be aware that after leaving our site, to read the privacy statements of each and every web site that collects personal identity information.
 
- **Security and storage**
+**Security and storage**
 
 9\. 911Metallurgist places a great emphasis on the security of all information associated with our customers, clients and contractors. We have security measures in place to assist us in protection against loss, misuse and alteration of personal information under our control.
 
@@ -50,7 +50,7 @@
 
 14\. Finally, you are solely responsible for keeping your passwords and/or account information confidential. Caution should be exercised whenever you are online.
 
- **Access to and correction of personal information**
+**Access to and correction of personal information**
 
 15\. 911Metallurgist is committed to maintaining accurate, timely, relevant and appropriate information about its customers, clients and web-site users.
 
@@ -60,22 +60,22 @@
 
 18\. If for any reason we are unable to provide you with access or correct personal information held about you by us, then we will provide reasons for such refusal.
 
- **Complaints**
+**Complaints**
 
 19\. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance our team at E-mail: TBD
 
 20\. We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the National Privacy legislation of Canada.
 
- **Transfer of information overseas**
+**Transfer of information overseas**
 
 21\. Pursuant to the National Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the National Privacy Principles.
 
- **Cookies**
+**Cookies**
 
 22\. 911Metallurgist collects information from the site using “IP files”.
 
 23\. When you visit the 911Metallurgist site to read, browse or download information, our system will record/log your IP address (the address which identifies your computer on the internet and which is automatically recognised by our web server), date and time of your visit to our site, the pages viewed and any information downloaded. This information will only be used for the purpose of site analysis and to help us offer you improved online service. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites.
 
- **Changes to Privacy Policy**
+**Changes to Privacy Policy**
 
 24\. If 911Metallurgist decides to change its Privacy Policy, it will post changes on this Privacy Policy page. Please refer back to this Privacy Policy regularly to review any amendments.
