@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyankart.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519062833id_/https%3A//www.cyankart.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyankart.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128075916id_/https%3A//www.cyankart.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cyankart.com
 
