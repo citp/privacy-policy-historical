@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the survivallife.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106040432id_/http%3A//survivallife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivallife.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128083512id_/https%3A//survivallife.com/places-never-give-ssn) for the most accurate reproduction.*
 
-# Privacy Statement | Survival Life
+# 5 Places You Should Never Give Your SSN | Survival Life
 
 **Privacy Policy**
 
