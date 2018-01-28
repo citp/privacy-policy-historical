@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the northampton.gov.uk privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603055319id_/http%3A//www.northampton.gov.uk/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.gov.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129002235id_/https%3A//www.northampton.gov.uk/terms) for the most accurate reproduction.*
 
 # Terms and disclaimer | Northampton Borough Council
 
 ## Cookies
 
-[See our cookies page.](http://www.northampton.gov.uk/site/scripts/documents_info.php?documentID=1342)
+[See our cookies page.](https://www.northampton.gov.uk/site/scripts/documents_info.php?documentID=1342)
 
 ## Copyright
 
@@ -32,7 +32,7 @@ If you are aware that there are any errors in the information provided please no
 
 ## Information about Northampton Borough Council and our website
 
-Our privacy policy covers Northampton Borough Council and its website. Should you have any queries about the site, you can contact us by using our [online form](http://www.northampton.gov.uk/contactthecouncil). 
+Our privacy policy covers Northampton Borough Council and its website. Should you have any queries about the site, you can contact us by using our [online form](https://www.northampton.gov.uk/contactthecouncil). 
 
 ## Accessing Northampton Borough Council's website
 
