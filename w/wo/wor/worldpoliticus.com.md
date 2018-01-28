@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpoliticus.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901031638id_/https%3A//worldpoliticus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpoliticus.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128133755id_/https%3A//worldpoliticus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Politicus
 
