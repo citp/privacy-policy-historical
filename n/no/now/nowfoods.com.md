@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowfoods.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715183410id_/https%3A//www.nowfoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowfoods.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128160533id_/https%3A//www.nowfoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NOW Foods
 
