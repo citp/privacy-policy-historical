@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bookofthemonth.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217211056id_/https%3A//www.bookofthemonth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookofthemonth.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128192322id_/https%3A//www.bookofthemonth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Book of the Month
+
+### Your privacy rights
 
 We believe the responsible use of information is important for meeting your needs and providing consistent service quality. This privacy statement explains data collection and use practices of _Book of the Month_ ([www.bookofthemonth.com](https://web.archive.org/)).
 
