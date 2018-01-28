@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogstrust.org.uk privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312232156id_/https%3A//www.dogstrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogstrust.org.uk privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128050737id_/https%3A//www.dogstrust.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Dogs Trust
 
@@ -106,6 +106,6 @@ We can only provide raffle tickets to those aged 16 and over and resident in Gre
 
 ### Photography
 
-All photography on this site is reproduced with kind permission of the photographers concerned.  We would like to thank the following for the use of some of their images from time to time on this site: Adrian Brooks Photography, Alan Howard, Andy Caterall, Angus McDougall, Clifford Mason, David McNie, George Archer, Gerry Whitaker, Ian Dixon, Jason Tilley, Jason Venus, Linda Capel, Malcolm Couzens, Marc Henrie, Mike Hall, Dogs Trust Rehoming Centre Staff, Dogs Trust , Pat Doyle, Paul Fletcher, Robert Jones, Roger Richards, Tony Hall, Tim Rose, United Northern Photographers, Vicki Couchman, Wymondham Photographic, Phil Tull.
+All photography on this site is reproduced with kind permission of the photographers concerned.  We would like to thank the following for the use of some of their images from time to time on this site: Adrian Brooks Photography, Alan Howard, Andy Caterall, Angus McDougall, Clifford Mason, David McNie, George Archer, Gerry Whitaker, Ian Dixon, Jason Tilley, Jason Venus, Linda Capel, Malcolm Couzens, Marc Henrie, Mike Hall, Dogs Trust Rehoming Centre Staff, Dogs Trust , Pat Doyle, Paul Fletcher, Robert Jones, Roger Richards, Tony Hall, Tim Rose, United Northern Photographers, Vicki Couchman, Wymondham Photographic, Phil Tull, Richard Murgatroyd
 
 Updated 22nd December 2016
