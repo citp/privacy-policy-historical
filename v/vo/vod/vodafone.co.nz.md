@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628171330id_/http%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128093308id_/https%3A//www.vodafone.co.nz/legal/policy/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone NZ
 
@@ -34,9 +34,9 @@ The information that we collect from you may be used by us for a number of purpo
 
 2.7 carrying out market and product analysis, and improvements to our products and services;
 
-2.8 contacting you about our and our group companies’ products and services and the products and services of carefully selected third parties which we think may be of interest to you (unless you ask us in writing not to). Where such contact is via electronic means, you agree that the electronic marketing messages we and our selected third parties send don’t need to include an unsubscribe facility;
+2.8 contacting you about our group companies’ products and services and the products and services of carefully selected third parties which we think may be of interest to you (unless you ask us in writing not to). Where such contact is via electronic means, you agree that the electronic marketing messages we and our selected third parties send don’t need to include an unsubscribe facility;
 
-2.9 registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our and our group companies’ loyalty or reward programmes and other similar schemes;
+2.9 registering your details and allocating or offering you rewards, discounts or other benefits and fulfilling any requests or requirements you may have in respect of our group companies’ loyalty or reward programmes and other similar schemes;
 
 2.10 carrying out any activity in connection with a legal, governmental or regulatory requirement on us or in connection with legal proceedings, crime or fraud prevention, detection or prosecution;
 
