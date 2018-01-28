@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyexcel.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230183030id_/http%3A//moneyexcel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexcel.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128210152id_/https%3A//moneyexcel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
