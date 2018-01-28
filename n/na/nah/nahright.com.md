@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nahright.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928190256id_/http%3A//nahright.com/nahright-com-privacy-poli) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nahright.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128110327id_/http%3A//nahright.com/nahright-com-privacy-poli) for the most accurate reproduction.*
 
 # Nahright.com Privacy Policy - Nah RightNah Right
 
