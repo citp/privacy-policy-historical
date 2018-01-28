@@ -1,104 +1,81 @@
-> *The following text is extracted and transformed from the dicksmith.co.nz privacy policy that was archived on 2015-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151110214808id_/http%3A//www.dicksmith.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksmith.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128040050id_/https%3A//www.dicksmith.co.nz/dn/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Dick Smith | Privacy Policy
 
-**Respecting Your Privacy**
+## 1\. Openness and transparency
 
-DSE (NZ) Limited (Company No. 37602) (referred to as “Dick Smith”, “we”, “our”, or “us”) understand the importance of protecting your right to privacy of your personal information.  We have policies and appropriate procedures in place to ensure that all personal information, no matter how or where it is obtained, is handled sensitively, securely, and as required by the law.  We are committed to adhering to the Privacy Principles, which set clear standards for the collection, access, storage and use of personal information, which may be obtained as part of our business operations.
+Online Business Number 1 Pty Ltd trading as Dick Smith Group and its related bodies corporate (Dick Smith Group) is committed to protecting your privacy and respects and upholds your rights under the Australian Privacy Principles (APPs) contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using this website, you agree to and consent to the collection, use, holding and disclosure of personal information by Dick Smith Group as set out in this policy.
 
-**What Personal Information Do We Collect and Store?**
+## 2\. Personal information
 
-When used in this policy, “personal information” has the meaning as outlined in the _Privacy Act 1993_.  Personal information generally includes any information that can be used to personally identify you in order to provide goods and services to you.
+Personal information is information or an opinion about an individual whose identity is apparent, or can be reasonably ascertained, from that information or opinion. Personal information we may collect from you includes, without limitation, your name, address, email address, telephone number(s) and date of birth.
 
-We may ask for, or collect, personal details such as your:
+## 3\. Collection
 
-  * Name;
-  * Residential or business address including post codes;
-  * Telephone number;
-  * Email address;
-  * Age and date of birth;
-  * Gender;
-  * Proof of identity, such as drivers licence or passport;
-  * Signature;
-  * Social media information obtained via our Facebook, Twitter, or Instagram accounts;
-  * A photograph, image or sound recording of you collected via CCTV surveillance if you visit our stores; or
-  * Employment history, eligibility status to work in New Zealand, referee details, and information provided by your referees, whom you have authorised us to contact.
+Dick Smith Group will collect personal information only by lawful and fair means and not in an unreasonably intrusive way. If it is reasonable and practical to do so, Dick Smith Group will only collect personal information about you directly from you. Dick Smith Group will not collect personal information unless the information is reasonably necessary for our functions and activities.
 
+Dick Smith Group may enter into arrangements with third parties to collect your personal information in circumstances where the third party notifies you, at the time of collection, that your personal information will be provided to Dick Smith Group.
 
+If you use a pseudonym when dealing with us or you do not provide identifiable information Dick Smith Group may not be able to provide you with any or all of our services as requested. If you wish to remain anonymous when you use our website do not sign into it or provide any information that might identify you.
 
-**Online Services**
+Dick Smith Group requires individuals to provide accurate, up-to-date and complete personal information at the time it is collected.
 
-We commonly use online services such as websites, for example, dicksmith.co.nz, smart phone apps, email, IPTV, Electronic Digital Marketing (EDMs), and social media profiles for the purposes of providing information and services to individuals. Technologies that may be used by us include cookies, web beacons, Flash local stored objects and JavaScript (‘Dick Smith Online Services’).  These technologies are used consistently across various services, allowing us to better understand you and provide a more consistent experience across these services.
+## 4\. What does Dick Smith Group do with your personal information?
 
-When you interact with Dick Smith Online Services, other information which may be recorded includes software versions you are using, your IP address, information regarding location (if this is not disabled), dates, times, file metadata, data  which you have entered and user activity such as links you have visited.
+In addition to any purpose notified to you at the time of collection Dick Smith Group uses your personal information for the purposes of:
 
-Dick Smith Online Services are operated by us, and by other companies authorised by us to deliver a reliable experience, and to enable you to have a unique experience when using our services and provide direct marketing.
-
-We will take reasonable steps to ensure that we keep our Privacy Policy updated to keep you informed of any changes we may adopt regarding how we deal with your personal information.  We recommend that you visit our Privacy Policy from time to time when using our Dick Smith Online Services, to keep up to date with any changes.
-
-**Cookies**
-
-****When you browse websites maintained by Dick Smith Online Services, information about your activity may be stored on your computer in a file known as a “cookie”. A cookie allows our servers to identify and interact more efficiently with your computer device by:
-
-  * Maintaining the continuity of your browsing session (e.g. if you are looking at multiple products on our website); and
-  * Remembering your details and preferences when you return.
+  * providing our services to you;
+  * our internal management needs;
+  * our marketing activities;
+  * responding to any inquiries or comments that you submit to us;
+  * any other purpose you have consented to; and
+  * any use which is required or authorised by law.
 
 
 
-Our cookies do not store personal information that can be retrieved to identify you.
+## 5\. Disclosure of personal information
 
-You can configure your web browser to reject and delete cookies and block JavaScript, however, this will limit your ability to interact with Dick Smith Online Services.
+Dick Smith Group may disclose your personal information:
 
-You can also control your activity preferences regarding Adobe Flash, local shared objects (LSOs). You can find out more at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
-
-**Who Do We Disclose Your Personal Information To?**
-
-In order to provide you with superior goods and services, we may need to disclose your personal information to third parties.  As such your personal information may need to be disclosed to:
-
-  * Our employees, contractors or service providers;
-  * Internet and mobile service providers that you have requested;
-  * IT systems administrators, mailing houses, couriers, and payment gateway providers;
-  * Business advisors such as accountants, auditors, lawyers or other professional service providers;
-  * Suppliers
-  * Marketplaces (including TradeMe);
-  * Employment agencies where your job application has not come directly via Dick Smith to assist with the assessment of your application;
-  * In connection with law enforcement activities to any person authorised by such law from police services, ambulance services, government departments, regulators or authorities; and/or
-  * Other third parties with whom we have commercial relationships, for business, marketing and related purposes.
+  * to third-parties we ordinarily engage for the above purposes;
+  * any person or entity to whom you have consented to Dick Smith Group disclosing your personal information to; and
+  * any person or entity to whom we are required or authorised to disclose your personal information to in accordance with the law
+  * related bodies corporate of the Dick Smith Group
 
 
 
-Dick Smith takes measures to ensure your personal information is protected from unauthorised access, loss, misuse, disclosure or alteration. We also take measures to destroy or permanently de-identify personal information when it is no longer required. The types of measures we take vary with the type of information, and how it is collected and stored.
+## 6\. Access and Management
 
-You have the right to tell us that you do not want us to send information to you other than for the main purpose for which we have collected your personal details and we will not share, sell, or disclose your information  other than as described in this Privacy Policy.
+You may request access to your personal information in our customer account database, or seek correction of it, by contacting our customer service team. See section 8: Contact information.
 
-Where possible, we try to ensure that our disclosure of information to other organisations (for example market researchers, and others with whom we have commercial arrangements) are in a way which does not personally identify individuals.
+Dick Smith Group may charge a reasonable fee that is not excessive to cover the charges of retrieving your personal information from our customer account database. Dick Smith Group will not charge you for making the request.
 
-We may disclose personal information to overseas recipients to ensure that we deliver the best possible goods and services to our customers.
+If you believe that Dick Smith Group holds personal information about you in our customer account database that is not accurate, complete, up-to-date, relevant or information that is misleading then you may request its amendment and Dick Smith Group will respond to your request within a reasonable time. Dick Smith Group will not charge you for correcting your personal information. 
 
-We will take reasonable steps to ensure that all third parties and service providers do not breach the Privacy Principles relating to the personal information you have provided.
+If Dick Smith Group no longer needs your personal information for any the purposes set out in this policy, or as otherwise required by law, Dick Smith Group will take such steps as are reasonable in the circumstances to destroy the information or to de-identify it.
 
-**If We Are Unable to Collect Your Personal Information**
+Dick Smith Group will take reasonable steps to protect the personal information it holds from misuse, interference and loss and from unauthorised access, modification or disclosure.
 
-  * Generally, you have no obligation to provide any information requested by us. If you choose to withhold requested information we may not be able to provide you with the goods and services that depend on the collection of that information, particularly if the collection of that information is required by law;
-  * We may be unable to contact you to provide information about goods and services  that you have purchased or requested from us;
-  * We may be unable to tailor the content of our marketing communications and thereby impacting your experience when shopping with us;
-  * You may experience delays or inefficiencies when interacting with us as we do not have all the relevant information at hand; or
-  * If you are seeking employment with Dick Smith, we may not be able to process your application.
+## 7\. Opting Out
 
+At any time you may opt out of receiving direct marketing communications from us. Unless you opt out, your consent to receive direct marketing communications from us and to the handling of your personal information as detailed above, will continue. To opt out email [commercial@dicksmith.co.nz](mailto:%20commercial@dicksmith.co.nz).
 
+## 8\. Cross-border disclosure
 
-**Access to and Correction of Your Personal Information**
+Dick Smith Group may transfer your personal information to a person who is in a foreign country to assist Dick Smith Group in providing you with the service that you have requested.
 
-We will provide you with access to any of your personal information we hold (except in the limited circumstances recognised by privacy law).  We will also provide you with an opportunity to correct any of your personal information that we hold. If you require access to, or if you need to correct details of your personal information, please email [privacy@dicksmith.co.nz](mailto:privacy@dicksmith.co.nz). 
+Dick Smith Group will take such steps as are reasonable in the circumstances to ensure that the information that is transferred to third parties located outside of Australia will not be held, used or disclosed by the recipient of the information in a manner that is inconsistent with the Australian Privacy Principles.
 
-To help us to properly identify you, we will require some proof of identity. For most requests, your information will be provided free of charge, however we may charge a reasonable fee if your request requires a substantial effort on our part.
+## 9\. Contact information
 
-If you need to update your information (eg. if you change your address), please contact the relevant part of Dick Smith to which you supplied that information so we can make the change.
+If you require further information regarding this policy or wish to make a complaint about a breach of the APPs by Dick Smith Group, please contact us at [commercial@dicksmith.co.nz](mailto:%20commercial@dicksmith.co.nz) or call us on 1300 003 425 if you are calling from within Australia or +64 9 887 6981 if you are calling from New Zealand or any other country, or send mail to: Attn: Privacy Officer, Dick Smith Group c/o Kogan.com, GPO Box 2579, Melbourne VIC 3001 Australia. Our office is located at 136 Buckhurst Street, South Melbourne, VIC 3205 Australia. A senior member of staff will review your complaint within 5 business days and respond to you in writing advising what action(s) Dick Smith Group will take as a result of your complaint.
 
-**More Information**
+## 10\. Dick Smith Group websites
 
-More information about the Privacy Act and the Privacy Principles are available from the Privacy Commissioner’s website at [www.privacy.org.nz](http://www.privacy.org.nz/).
+When transmitting personal information from your computer to a Dick Smith Group website, you must keep in mind that the transmission of information over the Internet is not always completely secure or error-free. Other than liability that cannot lawfully be excluded, Dick Smith Group will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.
 
-**Changes to this Policy**
+The Dick Smith Group websites ([www.dicksmith.com.au](https://www.dicksmith.com.au/) and [www.dicksmith.co.nz](https://www.dicksmith.co.nz/)) may use "cookies" to help personalise your online experience and save you time. You have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Dick Smith Group websites.
 
-We may update this policy from time to time.  The most recent version will be posted on our website and our Privacy Policy was last updated on 6 January 2015.
+## 11\. Miscellaneous
+
+Dick Smith Group reserves the right to modify this Privacy Policy in whole or in part from time to time without notice and amendments will be effective immediately upon posting of the amended Privacy Policy on the Dick Smith Group websites.
