@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lemonade.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225359id_/https%3A//www.lemonade.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonade.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128230718id_/https%3A//www.lemonade.com/privacy-policy) for the most accurate reproduction.*
 
-# Lemonade - Privacy Policy
+# Lemonade Privacy Policy | Lemonade
 
 Last updated: May 03, 2017
 
@@ -8,7 +8,7 @@ We, Lemonade, Inc., and our corporate affiliates ("we" or "us"), highly value an
 
 Please take a moment to familiarize yourself with the Policy before using our Services. Feel free to email us to help@lemonade.com if you have any questions. 
 
-By accessing or using our Services, you agree to this Policy and to our [Terms of Service](https://web.archive.org/terms_of_service). If you do not agree to this Policy or Terms of Service, please do not access or otherwise use our Services or any information contained herein. 
+By accessing or using our Services, you agree to this Policy and to our [Terms of Service](https://web.archive.org/terms-of-service). If you do not agree to this Policy or Terms of Service, please do not access or otherwise use our Services or any information contained herein. 
 
 **Protection of Children’s Privacy**
 
@@ -53,7 +53,7 @@ When you use the services through the App on a device, we will collect and use i
 
 **Does Lemonade share my information with others?**
 
-We will not share or sell your information for marketing purposes. We will share certain personal information with our partners and providers in order run our service and to resolve an incident. For example, we may share your name, address, and phone number with a plumber in order to deal with a burst pipe. We may also share non-personally identifiable information in order to improve our modeling and perform aggregate reporting. 
+We will not share or sell your information for marketing purposes. We will share certain personal information with our partners and providers in order run our service and to resolve an incident. For example, we may share your name, address, and phone number with a plumber in order to deal with a burst pipe. We may also share non-personally identifiable information in order to improve our modeling and perform aggregate reporting, including by use of Google Analytics and other related services provided by Google (for more information on how Google Analytics collects and processes data visit: [www.google.com/policies/privacy/partners](https://www.google.com/policies/privacy/partners/)). 
 
 **How do you protect my information?**
 
