@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdwilliams.co.uk privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125125631id_/http%3A//www.jdwilliams.co.uk/shop/policies/policiesView.action%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_sp%3DJDW-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdwilliams.co.uk privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128034345id_/https%3A//www.jdwilliams.co.uk/shop/policies/policiesView.action%3Fdecoration%3Dtrue%26finalTarget%3Dpolicies_rights%26cm_sp%3DJDW-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
 
 # Women's Fashion in Plus Size, menswear, furniture, homewares and electricals | J D Williams
 
@@ -8,7 +8,11 @@
 
 ### Use of your data
 
-We will make searches about you at credit reference agencies. They will give us credit information and details from the Electoral Register. The agencies record details of searches whether or not we provide credit. We may use credit-scoring methods to assess your application and to verify your identity. When making credit decisions about you or your household, we and third-party organisations may use credit searches and other information given to us and the credit reference agencies about you and people you are linked with financially. This information may also be used to trace debtors, to prevent money laundering, to manage your account and for marketing.
+We will make searches about you at credit reference agencies. They will give us credit information and details from the Electoral Register. The agencies record details of searches whether or not we provide credit. We may use credit-scoring methods to assess your application and to verify your identity. When making credit decisions about you or your household, we use third-party organisations such as Experian, CyberSource and Aire Labs, from whom we will receive and share information about you. 
+
+Some of these third party partners such as Aire Labs may also seek further information about you from other data providers and public sources. The information collected and shared with Aire Labs will be analysed and used to build a picture of your financial standing, which will only be shared with us.
+
+We may use credit searches and other information given to us and the credit reference agencies about you and people you are linked with financially. This information may also be used to trace debtors, to prevent money laundering, to manage your account and for marketing.
 
 We may also use information about you, including your shopping habits, when opening and running your credit account. We may use it to obtain payments, to prevent fraud, to trace debtors and for marketing. Unless you have previously told us otherwise, we may share your information with other carefully selected third-party organisations. We or they may contact you for marketing reasons by mail, telephone - which may include automated calling systems - electronic mail or otherwise.
 
@@ -113,5 +117,5 @@ For staff training and for quality control purposes, your calls may be monitored
 
 YOU MAY PRINT OUT AND KEEP A PERMANENT COPY OF THESE TERMS AND CONDITIONS FOR YOUR REFERENCE BY CLICKING HERE
 
-[Ways to Pay](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_payment&decoration=true) [Deliveries & Returns](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_delivery&decoration=true) [Your Rights, Privacy & Data Protection](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_rights&decoration=true) [Your Personal Account](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_credit_summ&decoration=true) [The Environment & Other Useful Information](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_WEEE&decoration=true) [FCA Complaints Reporting and Insurance Claims Ratio](http://images.drct2u.com/content/common/pdf/FSAComplaintsReportingNew.pdf)
+[Ways to Pay](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_payment&decoration=true) [Deliveries & Returns](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_delivery&decoration=true) [Your Rights, Privacy & Data Protection](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_rights&decoration=true) [Your Personal Account](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_credit_summ&decoration=true) [The Environment & Other Useful Information](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_WEEE&decoration=true) [FCA Complaints Reporting and Insurance Claims Ratio](http://images2.drct2u.com/content/common/pdf/FSAComplaintsReportingNew.pdf)
   *[FCA]: Financial Conduct Authority
