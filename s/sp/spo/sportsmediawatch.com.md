@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsmediawatch.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611233259id_/http%3A//www.sportsmediawatch.com/smw-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmediawatch.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128064626id_/http%3A//www.sportsmediawatch.com/smw-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Sports Media Watch
+# Privacy Policy - Sports Media Watch
 
 Sports Media Watch knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -12,7 +12,7 @@ Sports Media Watch also collects potentially personally-identifying information 
 
 ### Aggregated Statistics
 
-Sports Media Watch may collect statistics about the behavior of visitors to its websites. For instance, Sports Media Watch may monitor the most popular posts on the site or use spam screened by the Akismet service to help identify spam. Sports Media Watch may display this information publicly or provide it to others. However, Sports Media Watch does not disclose personally-identifying information other than as described below. 
+Sports Media Watch may collect statistics about the behavior of visitors to its websites. For instance, Sports Media Watch may monitor the most popular posts on the site or use spam screened by the Akismet service to help identify spam. Sports Media Watch may display this information publicly or provide it to others. However, Sports Media Watch does not disclose personally-identifying information other than as described below.
 
 ### Gathering of Personally-Identifying Information
 
@@ -32,6 +32,8 @@ Some of Sports Media Watch’s business partners may use cookies on the site (fo
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Sports Media Watch and does not cover the use of cookies by any advertisers.
 
+SMW uses third-party advertising companies to serve ads when you visit the site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here (http://www.networkadvertising.org/managing/opt_out.asp).
+
 ### Links
 
 This website contains links to other sites. Please be aware that SMW is not responsible for the content or privacy practices of such other sites.
@@ -40,4 +42,4 @@ This website contains links to other sites. Please be aware that SMW is not resp
 
 Although most changes are likely to be minor, Sports Media Watch may change its Privacy Policy from time to time, and in Sports Media Watch’s sole discretion. Sports Media Watch encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-_This  Privacy Policy is effective as of May 24, 2011 and last updated March 26, 2017._
+ _This  Privacy Policy is effective as of May 24, 2011 and last updated August 20, 2017._
