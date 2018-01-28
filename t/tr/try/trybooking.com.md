@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trybooking.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219133435id_/https%3A//www.trybooking.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trybooking.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128230041id_/https%3A//www.trybooking.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TryBooking.com
 
@@ -114,7 +114,7 @@ Our applications may need to read Personal Information in order to carry out nec
 
 We will take all reasonable measures to ensure the security of your Personal Information. However, given the sophistication of computer hackers, we cannot make any absolute guarantee that our systems will never be accessed without our consent or that our systems are impenetrable.
 
-Our systems are hosted in Australia. We do not send any Customer information overseas. However, we may use the services of overseas providers of data storage and processing services to manage Event Organiser information that we have collected in accordance with this Policy. If you are an Event Organiser, the countries where your Personal Information may be sent presently include the United States of America and Singapore.
+Our systems are hosted in Australia. We do not send any Customer information overseas. However, we may use the services of overseas providers of data storage and processing services to manage Event Organiser information that we have collected in accordance with this Policy. If you are an Event Organiser, the countries where your Personal Information may be sent presently include the United States of America.
 
 If you have any questions about security on our website, you can email us at [privacy@trybooking.com](mailto:privacy@trybooking.com).
 
