@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ivrose.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128022310id_/http%3A//www.ivrose.com/fs/privacy-policy-pc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivrose.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128045059id_/http%3A//www.ivrose.com/fs/privacy-policy-pc) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Security Policy
 
-This Privacy Policy details the information that IVRose collects, how we use the information, and how we protect it. We never share, sell or disclose users’ personal information without their permission.
+This Privacy & Security Policy details the information that IVRose collects, how we use the information, and how we protect it. We never share, sell or disclose users’ personal information without their permission.
 
 ## What information does IVRose collect, and how do we use it?
 
@@ -70,7 +70,7 @@ We will not sell your personal information to others. Only under the following s
 
 
 
-### Privacy policy changes
+### Privacy & Security Policy changes
 
 We reserve the right to modify this privacy statement from time to time. We will inform you beforehand and allow you to provide feedback on the revised policy.
 
