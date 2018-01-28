@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406055931id_/https%3A//www.smilecity.co.nz/en-NZ/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128014509id_/https%3A//www.smilecity.co.nz/en-NZ/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,17 +14,17 @@ This Privacy Policy sets forth the collection, use and disclosure of personal da
 
 Your use of SSI’s Application/Services is completely voluntary and therefore SSI’s processing of your PII in connection with the Application/Services and Non-Research Activities and this Privacy Policy is with your consent.
 
-Surveys administered by third parties and the data collected in connection therewith are not subject to this Privacy Policy. Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](https://www.smilecity.co.nz/policies/terms/general).   In most cases SSI is not the sponsor of the survey and the survey instrument, and the survey results or survey data, are and will be owned by the sponsor of the survey.  
+Surveys administered by third parties and the data collected in connection therewith are not subject to this Privacy Policy. Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](https://www.opinionworld.in/en-in/policies/terms/general).   In most cases SSI is not the sponsor of the survey and the survey instrument, and the survey results or survey data, are and will be owned by the sponsor of the survey.  
 
 All references in this Privacy Policy to “SSI” include SSI and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to SSI.  All PII is stored on servers located in the United States, where SSI’s servers are located and accessible globally to SSI employees and/or agents.  For purposes of this policy, respondent shall mean any individual who participates in SSI Services, including passive data collection and/or participates in the Non-Research Activities described herein.  For purposes of this policy, online shall include mobile web browsing,
 
 **What personal data and other information does the Application/Services collect and how is it used?**
 
-SSI collects personally identifiable information (“PII”) from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. You will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, the unique panelist/respondent identification number we assign to you when you sign up for an account (individually a " **UID** " and collectively " **UIDs** "), and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“ _Sensitive Data_ ”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you and as otherwise set forth in this Privacy Policy. 
+SSI collects personally identifiable information (“PII”) from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. You will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, the unique panelist/respondent identification number we assign to you when you sign up for an account (individually a " **UID** " and collectively " **UIDs** "), and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“ _Sensitive Data_ ”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you and as otherwisåe set forth in this Privacy Policy. 
 
 SSI collects PII and demographic information from non-panel members prior to and during participation in a survey.
 
-SSI provides its clients and/or its advertising partners with information about your device, including but not limited to, the device’s IDFA or Advertising ID and interactions with the Application/Services with your consent. SSI, the clients and/or ad partners may use this information to facilitate SSI surveys, for marketing of SSI products and services to you, for unrelated interest-based advertising, to link your device to additional data about you and/or your device available from third party data management platforms and/or to validate certain information you provide about yourself and/or your device. [Click here](http://www.quickthoughtsapp.com/content/privacyPolicy/en_US.html#ad_networks) to learn more about some of our ad partners, including how to subsequently opt-out.
+SSI provides its clients and/or its advertising partners with information about your device, including but not limited to, the device’s IDFA or Advertising ID and interactions with the Application/Services with your consent. SSI, the clients and/or ad partners may use this information to facilitate SSI surveys, for marketing of SSI products and services to you, for unrelated interest-based advertising, to link your device to additional data about you and/or your device available from third party data management platforms and/or to validate certain information you provide about yourself and/or your device. Click here to learn more about some of our ad partners, including how to subsequently opt-out.
 
 _Additional information you submit._
 
@@ -226,16 +226,6 @@ Online Ad Effectiveness Program
 
 <https://www.opinion-central.com/optedout.asp>  
   
-MSI
-
-| 
-
-Online Ad Effectiveness Program
-
-| 
-
-<http://msi-aci.com/dotdata/track/msiaci/optout>  
-  
 Nielsen
 
 | 
@@ -265,16 +255,6 @@ Development of online “look alike” cohorts and audience insights
 | 
 
 <https://www.quantcast.com/opt-out/>  
-  
-Turn
-
-| 
-
-Online Ad Effectiveness Program
-
-| 
-
-<http://www.turn.com/trust/customer-opt-out>  
   
 Liveramp
 
