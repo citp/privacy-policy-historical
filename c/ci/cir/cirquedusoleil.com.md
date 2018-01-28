@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218020020id_/https%3A//www.cirquedusoleil.com/legal/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128144225id_/https%3A//www.cirquedusoleil.com/legal/corporate/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -99,5 +99,4 @@ _Cirque du Soleil_
 8400, 2nd Avenue  
 Montreal, Quebec   
 H1Z 4M6  
-CANADA  
-[Contact us](https://web.archive.org/faq)
+CANADA
