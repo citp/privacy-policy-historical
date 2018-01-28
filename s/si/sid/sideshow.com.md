@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideshow.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912044904id_/https%3A//www.sideshowtoy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshow.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128135235id_/https%3A//www.sideshowtoy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sideshow Collectibles
 
