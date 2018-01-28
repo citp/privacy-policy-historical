@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918062159id_/https%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aha.io privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128220329id_/https%3A//www.aha.io/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aha!
 
