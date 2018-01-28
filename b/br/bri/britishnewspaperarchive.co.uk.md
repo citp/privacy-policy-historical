@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920205040id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128175404id_/https%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
@@ -40,7 +40,7 @@ We will not, sell, rent, trade or otherwise disclose your personal information t
 
 We may from time to time provide your personal information to third parties for the purposes of providing you with our services. These third-party providers include payment processors, providers of card validation services, credit referencing providers and service providers who assist us with hosting our marketing campaigns. They do not decide what is done with your data and only process it on our behalf. These third parties may be located outside the European Economic Area; however, we only use providers that provide adequate protection for your information at all times. We do not keep a record of your credit or debit card details in our systems.
 
-We will not provide your data to other third parties for marketing purposes unless you have specifically consented to this when you first provided your data to us. You are entitled to decline receiving such 3rd party communications by selecting the appropriate box on the web form that collects your details or at any subsequent time by logging into your account and adjusting your preferences, by contacting us by email at [support@britishnewspaperarchive.co.uk](mailto:support@britishnewspaperarchive.co.uk) or by post to Customer Support, British Newspaper Archive, Gateway House, Luna Place, Dundee Technology Park, Dundee, DD2 1TP
+We will not provide your data to other third parties for marketing purposes unless you have specifically consented to this when you first provided your data to us. You are entitled to decline receiving such 3rd party communications by selecting the appropriate box on the web form that collects your details or at any subsequent time by logging into your account and adjusting your preferences, by contacting us by email at [support@britishnewspaperarchive.co.uk](mailto:support@britishnewspaperarchive.co.uk) or by post to Customer Support, British Newspaper Archive, The Glebe, 6 Chapel Place, Rivington Street, London, EC2A 3DQ
 
 If we sell Findmypast Newspaper Archive Ltd, or a substantial part of our assets, your personal information will be transferred to the new owner.
 
