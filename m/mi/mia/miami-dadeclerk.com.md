@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miami-dadeclerk.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225201327id_/http%3A//www.miamidade.gov/info/privacy_and_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami-dadeclerk.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128162605id_/http%3A//www.miamidade.gov/info/privacy_and_security.asp) for the most accurate reproduction.*
 
 # Miami-Dade County - Information - Privacy and Security Notice
 
