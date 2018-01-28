@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenshield.ca privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125140145id_/http%3A//www.greenshield.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenshield.ca privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128055853id_/https%3A//www.greenshield.ca/privacy-policy) for the most accurate reproduction.*
 
 # Green Shield Canada’s Privacy Policy
 
@@ -127,4 +127,4 @@ The Green Shield Canada Privacy Officer’s office will acknowledge your complai
 Telephone: 1-819-994-5444  
 Toll Free:  1-800-282-1376  
 FAX:  1-819-994-6591  
-WEB SITE: [www.privcom.gc.ca](http://www.privcom.gc.ca/)
+WEBSITE:  **[www.priv.gc.ca](https://www.priv.gc.ca/en/)**
