@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the guess.ca privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214033402id_/http%3A//www.guess.ca/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.ca privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130005348id_/https%3A//www.guess.ca/en/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
+
+| 
 
 Effective Date: This Privacy Policy was last revised on September 1, 2015.
 
@@ -200,7 +202,7 @@ Los Angeles, CA 90021
 
 Call Toll Free Monday through Friday 6:00 a.m. - 5:00 p.m., Saturday 7 a.m. - 4 p.m. (PT):
 
-GUESS or GUESS KIDS: | 1-877-44-GUESS (1-877-444-8377).  
+| GUESS or GUESS KIDS: | 1-877-44-GUESS (1-877-444-8377).  
 ---|---  
 MARCIANO: | 1-866-44-MARCIANO (1-866-446-2724).  
 G BY GUESS: | 1-877-GbyGUESS (1-877-429-4837).  
