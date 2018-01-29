@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitebuildertop10.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222072235id_/http%3A//www.websitebuildertop10.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitebuildertop10.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129040608id_/http%3A//www.websitebuildertop10.com/privacy) for the most accurate reproduction.*
 
 # Top 10 Website Builder – Privacy Policy
 
