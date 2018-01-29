@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fa-mag.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606013856id_/http%3A//www.fa-mag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fa-mag.com privacy policy that was archived on 2018-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180130005332id_/https%3A//www.fa-mag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,22 +8,10 @@
 <meta name="description" content="Financial Advisor magazine Privacy policy">
 <meta name="keywords" content="Financial Advisor magazine Privacy policy">
 
-            <link href="/css/reset.css?m=1481832849" rel="stylesheet" type="text/css">
-
-                    <link href="/css/bxSlider412.css?m=1448379229" rel="stylesheet" type="text/css">
-
-                    <link href="/css/uniform.default.css?m=1358964989" rel="stylesheet" type="text/css">
-
-                    <link href="/css/main.css?m=1489508290" rel="stylesheet" type="text/css">
-
-                    <link href="/css/jquery-ui-1.8.18.custom.css?m=1358964989" rel="stylesheet" type="text/css">
-
-                    <link href="/css/responsive.css?m=1492113830" rel="stylesheet" type="text/css">
-
-        
+<link href="/css/cssloader.php?GET_ALL&amp;m=1820488895" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" async="" src="//img04.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<script type="text/javascript" async="" src="//img04.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>
 	var start_page_ts = new Date().getTime();
 
     function setCookie(cname, cvalue, exdays)
@@ -76,10 +64,57 @@
     })();
 </script>
 
+
+<script src="https://widgets.xtf.com/v2/assets/scripts/xtf-widgets.js" type="text/javascript"></script>
+    <script>
+        function trackXtfLoading(containerId) {
+            console.log('Loaded widget: ' + containerId);
+        }
+        function trackXtfOutboundLinks(containerId) {
+            console.log('trackXtfOutboundLinks: ' + containerId);
+            // Gets all XTF-bound links for this element. Also contains link in footer.
+            var allLinks = document.getElementById(containerId).querySelectorAll('[data-xtf-url]');
+            for (var i = 0; i < allLinks.length; i++) {
+                var row = allLinks[i];
+                // Each outbound XTF link contains a data attribute with the URL: data-xtf-url. The JavaScript dataset
+                // property, however, requires that dashes are removed and camelCase is used for referencing data attributes.
+                var link = row.dataset.xtfUrl;
+                console.log(link);
+                // Don't need to remove existing event. Any will be overwritten by this.
+                // However, GA might require removing events first, so double tracking doesn't occur.
+                row.onmousedown = (function(url) {
+return function(event) {
+    // Use google analytics to track links. Below are samples, depending on your GA version.
+    // _gaq.push(['_trackEvent','Outgoing Links', url]);
+    // pageTracker._trackPageview('/outgoing/'+ url);
+    console.log('Link clicked: ' + url);
+    event.preventDefault();
+                    }
+                })(link);
+            }
+        }
+    </script>
+    
+<script type="text/javascript">
+            function myCallbackFunction(containerId) {
+                // This will print 'myUniqueID123' to the browser debugging console.
+                console.log(containerId);
+            }
+        </script>
+ 
+    <link rel="stylesheet" type="text/css" href="https://www.fa-mag.com/userfiles/ETF_Advisor/online/xtf-widget.css">
+
+
+
     	<script type="text/javascript">
-		var OA_zones = {"header":"115","header_mobile":"365","right_skyscraper1":"113","right_skyscraper2":"235","right_sidebar_box1":"106","right_sidebar_box2":"107","right_sidebar_box3":"108","right_sidebar_box4":"109","right_sidebar_box5":"325","right_sidebar_box6":"427","leftsidebar_skyscraper":"275","leftsidebar_ad_box1":"110","leftsidebar_ad_box2":"333","footer":"103","footer_ad_mobile":"367","center_ad1":"102","center_ad1_mobile":"467","center_ad2":"236","center_ad2_mobile":"468","content_box_ad1":"102","content_box_ad1_mobile":"467","content_box_ad2":"236","content_box_ad2_mobile":"468","interstitial":"477","top_right_sidebar":"114"};
+
+
+		var OA_zones = {"header":"115","header_mobile":"365","right_skyscraper1":"113","right_sidebar_box1":"106","right_sidebar_box2":"107","right_sidebar_box3":"108","right_sidebar_box4":"109","right_sidebar_box5":"325","right_sidebar_box6":"427","leftsidebar_skyscraper":"275","leftsidebar_ad_box1":"110","leftsidebar_ad_box2":"333","footer":"103","footer_ad_mobile":"367","center_ad1":"102","center_ad1_mobile":"366","content_box_ad1":"102","content_box_ad1_mobile":"366","interstitial":"477","top_right_sidebar":"114"};
 		if (jQuery(window).width() < 737) {
-						var OA_zones_mobile = {"header_mobile":"365","footer_ad_mobile":"367","center_ad1_mobile":"467","center_ad2_mobile":"468","content_box_ad1_mobile":"467","content_box_ad2_mobile":"468"};
+
+						var OA_zones_mobile = {"header_mobile":"365","footer_ad_mobile":"367","center_ad1_mobile":"366","content_box_ad1_mobile":"366"};
+
+
 			try {
 				if ((OA_zones_mobile.header_mobile * 1) > 0) {
 					OA_zones_mobile.header = OA_zones_mobile.header_mobile;
@@ -112,8 +147,32 @@
 			} catch(e) {}
 			OA_zones = OA_zones_mobile;
 		}
+
 	</script>
-	<script type="text/javascript" src="//adserver.fa-mag.com/www/delivery/spcjs.php"></script>
+	<script type="text/javascript" src="https://adserver.fa-mag.com/www/delivery/spcjs.php"></script>
+	<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+	</script>
+	<script type="text/javascript">
+		googletag.cmd.push(function() {
+			                				googletag.defineSlot(
+					'/1223628/FA_ROS_famag_skyscraper_2',
+					[160, 600],
+					'div-gpt-ad-1514572051236-0'
+				).addService(googletag.pubads());
+			            			googletag.enableServices();
+		});
+	</script>
 
     <link rel="shortcut icon" href="/favicon-fa.ico">
 
@@ -139,11 +198,7 @@ EvPNG.fix('.logo img,.title img');
 
 </script>
 
-<script type="text/javascript">var switchTo5x=false;</script>
-<script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher:'91ab3e35-c0fb-4472-8bed-b2d29fba1756', publisherGA:'UA-7960127-1'}); </script>
-
-
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=59c287892b68e2001125ae09&amp;product=inline-share-buttons" async="async"></script>
 </head>
 
 <body>
@@ -154,65 +209,51 @@ EvPNG.fix('.logo img,.title img');
             <a id="mobile_menu_link" style="display:none" href="javascript:void(0)"><span></span></a>
         	<div class="top_left">
             	<div class="logo">
-                					<a href="http://www.fa-mag.com/" title="Financial Advisor">
+                					<a href="https://www.fa-mag.com/" title="Financial Advisor">
 						<img src="/images/logo.png" alt="" width="186" height="149">
 					</a>
                 				</div>
             </div>
             <div class="top_right">
             	            	<div class="top_bar">
+
 	            	 
 	                    		                    <a href="https://www.fa-mag.com/register.php?action=new">Free Site Registration</a>
 		                    		                    <a href="https://www.fa-mag.com/register.php?action=login" class="login-"><img src="/images/img_lock.png" alt="" width="15" height="15">LOGIN</a>
 	                    	                                </div>
-                         
+                
+				
+				<script>
+					if ($(window).width() <= 737)
+					{
+						document.write("<style>#content_wrapper {margin-top:80px;}</style>");
+					}
+				</script>
 
-                <div class="anavigation-menu-macrosd_bar ad_top">
-                    <div class="ad_inner">
+
+				<div style="" id="ad_top" class="header-ad anavigation-menu-macrosd_bar ad_top  sticky ">
+
+                    					<script>
+						if ($(window).width() <= 737)
+						{
+							$('#ad_top').css({'position' : 'absolute', 'top' : -9999, 'opacity' : 0.0});
+						}
+					</script>
+
+					<div class="ad_inner">
 						<!-- header ad -->
 																														<script>
 										OA_show('header');
 									</script>
-															
+																										</div>
+				</div>
 
-														 
-							 								<!-- header ad sticky -->
-									<div id="hidden_ad_banner">
-										<div>
-										</div>
-										<div>
-																							<script>
-													OA_show('header');
-												</script>
-																					</div>
-
-										<script type="text/javascript">
-											var tw;
-											
-											$(window).scroll(function(){
-												if($(this).scrollTop() > 110 && jQuery(window).width() >= 737){
-													if(!$('#hidden_ad_banner').hasClass('shown')){
-														$('#hidden_ad_banner').addClass('shown').show();
-														tw = window.setTimeout(function(){
-															$('#hidden_ad_banner').fadeOut(500);
-														},2*1000);
-													}
-												}else{
-													clearTimeout(tw);
-													$('#hidden_ad_banner').removeClass('shown').hide();
-												}
-											});
-											
-										</script>
-									</div>
-													                    </div>
-                </div>
-            </div>
+			</div>
 
         </div>
         <div class="header_bottom">
         	<div class="home_link">
-                            <a href="http://www.fa-mag.com/"><img src="/images/img_top_house.png" alt="" width="24" height="20"></a>
+                            <a href="https://www.fa-mag.com/"><img src="/images/img_top_house.png" alt="" width="24" height="20"></a>
             			</div>
             <div class="menu">
                                     <ul>
@@ -250,10 +291,10 @@ EvPNG.fix('.logo img,.title img');
 
                 </li>
             <li>
-                        <a href="http://www.fa-mag.com/videos" title="Videos" target="_self" onclick="">Videos</a>
+                        <a href="https://www.fa-mag.com/videos" title="Videos" target="_self" onclick="">Videos</a>
                                     <ul>
             <li>
-                        <a href="http://www.fa-mag.com/fa-videos" title="FA Library" target="_self" onclick="">FA Library</a>
+                        <a href="https://www.fa-mag.com/fa-videos" title="FA Library" target="_self" onclick="">FA Library</a>
                             </li>
             <li>
                         <a href="/videos-featured" title="Most Recent Videos" target="_self" onclick="">Featured</a>
@@ -277,7 +318,7 @@ EvPNG.fix('.logo img,.title img');
                         <a onclick="return false;" title="Whitepapers">Whitepapers</a>
                                     <ul>
             <li>
-                        <a href="http://www.fa-mag.com/more-services/white-papers" title="" target="_self" onclick="">Most Recent</a>
+                        <a href="https://www.fa-mag.com/more-services/white-papers" title="" target="_self" onclick="">Most Recent</a>
                             </li>
             <li>
                         <a href="/fa-whitepapers-archive" title="" target="_self" onclick="">Archived</a>
@@ -292,13 +333,13 @@ EvPNG.fix('.logo img,.title img');
 
             	<!--<ul>
 
-                                	<li id="list1"><a href="http://www.fa-mag.com/ce_center.php">CE CENTER</a></li>
-                    <li id="list2"><a href="http://www.fa-mag.com/webcasts/">WEBCASTS</a></li>
-                    <li id="list3"><a href="http://www.fa-mag.com/conferences/">CONFERENCES</a></li>
+                                	<li id="list1"><a href="https://www.fa-mag.com/ce_center.php">CE CENTER</a></li>
+                    <li id="list2"><a href="https://www.fa-mag.com/webcasts/">WEBCASTS</a></li>
+                    <li id="list3"><a href="https://www.fa-mag.com/conferences/">CONFERENCES</a></li>
 
-                    <li id="list4"><a href="http://www.fa-mag.com/events.php">EVENTS</a></li>
+                    <li id="list4"><a href="https://www.fa-mag.com/events.php">EVENTS</a></li>
                     <li id="list5"><a href="http://www.b2bmediaportal.com/dynamicregister/Register.aspx?fid=FAMF">SUBSCRIBE</a></li>
-                    <li id="list6"><a href="http://www.fa-mag.com/bookstore.html">Book Store</a></li>
+                    <li id="list6"><a href="https://www.fa-mag.com/bookstore.html">Book Store</a></li>
                 
                 </ul>-->
 
@@ -389,31 +430,71 @@ EvPNG.fix('.logo img,.title img');
 
 		<div id="content_wrapper">
 
-		
+	    
+
+							<script type="text/javascript">
+				window.setTimeout(function(){
+					var adtopsticky = null;	
+					if(jQuery(window).width() >= 737){
+						jQuery(window).scroll(function(){
+							var top = jQuery("#ad_top");
+							var st = jQuery(this).scrollTop();
+
+							if(st > 110){
+								if(!adtopsticky){
+									top.addClass('stuck');
+									adtopsticky = window.setTimeout(function(){
+		                                top.animate({'top': top.outerHeight()*-1,'opacity':0},250,function(){
+		                                	top.removeClass('stuck').css({'top':0,'opacity':1});
+		                                });
+		                            }, 2500);
+								}							
+							}else if(st < 5){
+								if(adtopsticky){
+									top.removeClass('stuck').css({'top':0,'opacity':1});
+									window.clearTimeout(adtopsticky);
+									adtopsticky = null;
+								}
+							}
+						});
+					}
+				
+				},1000)
+			</script>
+				
 		<div id="content" class="y_layout_7">
 			<div id="content_inner">
 				                    
                                             <div id="sidebar_l" class="sidebarloading">
     <div class="sidebar_l_top">
 
-        <div class="left_sidebar_date">June 5, 2017</div>
+        <div class="left_sidebar_date">January 29, 2018</div>
 
-                    <p class="subscribe">
-                <a href="http://www.b2bmediaportal.com/dynamicregister/Register.aspx?fid=FAMF">Subscribe Free</a>
+                    <p class="subscribe subscribe-lhsb-fa">
+                <a href="http://www.b2bmediaportal.com/dynamicregister/Register.aspx?fid=FAMF" class="subscribe-lhsb-fa">Subscribe Free</a>
             </p>
-            <p class="cur-issue">
-                <a href="http://www.fa-mag.com/current-issue.php"><img alt="Latest Issue Cover" src="/assets/ScreenShot2017-05-30at22813PM_592db9e6446dd6.png"></a>
+            <p class="cur-issue curr-issue-lhsb-fa">
+                <a href="https://www.fa-mag.com/current-issue.php"><img alt="Latest Issue Cover" src="/assets/ScreenShot2017-12-20at124836PM_5a3aa2d46f1d41.png"></a>
             </p>
         
         <ul>
-            <li>
-                <a href="http://www.fa-mag.com/current-issue.php">Current Issue</a>
+                        <li>
+                <a href="https://www.fa-mag.com/current-issue.php">Current Issue</a>
             </li>
-                            <li>
-                    <a href="http://www.fa-mag.com/financial-advisor-magazine/issues/">Past Issues</a>
+                                        <li>
+                    <a href="https://www.fa-mag.com/financial-advisor-magazine/issues/">Past Issues</a>
                 </li>
                     </ul>
-
+        
+                <div class="fa-sub-img-to-sec">
+            <div class="fa-sub-to-lhsb">
+            SUBSCRIBE TO
+            </div>
+            <div>
+            <a href="https://www.fa-mag.com/subscribe/newsletters.html" class="fa-sub-to-img-lhsb"><img src="/images/fa-news-logo.png" class="fa-sub-to-img-lhsb"></a>
+            </div>
+        </div>
+        
         
     </div>
 
@@ -431,31 +512,34 @@ EvPNG.fix('.logo img,.title img');
 
                     <ul>
                                                         <li>
-                        <a href="http://www.fa-mag.com/invest-in-women">Invest In Women 2017</a>
+                        <a href="https://www.fa-mag.com/schwab-impact">Schwab IMPACT 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/inside-retirement-2017">Inside Retirement 2017</a>
+                        <a href="https://www.fa-mag.com/conference-videos">Conference Videos</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/morningstar-conferences-237">Morningstar Conference 2017</a>
+                        <a href="https://www.fa-mag.com/alts-news">Inside Alternatives Conference 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/td-ameritrade-2017">TD Ameritrade 2017</a>
+                        <a href="https://www.fa-mag.com/invest-in-women">Invest In Women 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/inside-etfs-2017">Inside ETFs Conference 2017</a>
+                        <a href="https://www.fa-mag.com/inside-retirement-2017">Inside Retirement 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/schwab-impact-2016">Schwab IMPACT 2016</a>
+                        <a href="https://www.fa-mag.com/morningstar-conferences-237">Morningstar Conference 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/alts-news">Inside Alternatives Conference 2016</a>
+                        <a href="https://www.fa-mag.com/td-ameritrade-2017">TD Ameritrade 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/inside-etfs-conference-2016">Inside ETFs Conference 2016</a>
+                        <a href="https://www.fa-mag.com/inside-etfs-2017">Inside ETFs Conference 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/smart-beta-2016">Smart Beta Conference 2016</a>
+                        <a href="https://www.fa-mag.com/inside-etfs-conference-2016">Inside ETFs Conference 2016</a>
+                    </li>
+                                                        <li>
+                        <a href="https://www.fa-mag.com/smart-beta-2016">Smart Beta Conference 2016</a>
                     </li>
                             </ul>
         
@@ -467,16 +551,16 @@ EvPNG.fix('.logo img,.title img');
 
                     <ul>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advisor-services/broker-dealers">Broker-Dealers</a>
+                        <a href="https://www.fa-mag.com/advisor-services/broker-dealers">Broker-Dealers</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advisor-services/custodiansfee-only">Custodians/Fee Only</a>
+                        <a href="https://www.fa-mag.com/advisor-services/custodiansfee-only">Custodians/Fee Only</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advisor-services/social-media">Social Media</a>
+                        <a href="https://www.fa-mag.com/advisor-services/social-media">Social Media</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advisor-services/technology">Technology</a>
+                        <a href="https://www.fa-mag.com/advisor-services/technology">Technology</a>
                     </li>
                             </ul>
         
@@ -488,58 +572,58 @@ EvPNG.fix('.logo img,.title img');
 
                     <ul>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/401k-plans">401(k) Plans</a>
+                        <a href="https://www.fa-mag.com/advice/401k-plans">401(k) Plans</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/annuities">Annuities</a>
+                        <a href="https://www.fa-mag.com/advice/annuities">Annuities</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/benefits">Benefits</a>
+                        <a href="https://www.fa-mag.com/advice/benefits">Benefits</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/business-transitions">Business Transitions</a>
+                        <a href="https://www.fa-mag.com/advice/business-transitions">Business Transitions</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/Charitable">Charitable Giving</a>
+                        <a href="https://www.fa-mag.com/advice/Charitable">Charitable Giving</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/compliance">DOL/Compliance/Fraud</a>
+                        <a href="https://www.fa-mag.com/advice/compliance">DOL/Compliance/Fraud</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/economy">Economy</a>
+                        <a href="https://www.fa-mag.com/advice/economy">Economy</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/education529">Education/529</a>
+                        <a href="https://www.fa-mag.com/advice/education529">Education/529</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/estate-planning">Estate Planning</a>
+                        <a href="https://www.fa-mag.com/advice/estate-planning">Estate Planning</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/health-care">Health Care</a>
+                        <a href="https://www.fa-mag.com/advice/health-care">Health Care</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/insurance">Insurance</a>
+                        <a href="https://www.fa-mag.com/advice/insurance">Insurance</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/practice-management">Practice Management</a>
+                        <a href="https://www.fa-mag.com/advice/practice-management">Practice Management</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/retirement-income">Retirement Income</a>
+                        <a href="https://www.fa-mag.com/advice/retirement-income">Retirement Income</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/retirement-planning">Retirement Planning</a>
+                        <a href="https://www.fa-mag.com/advice/retirement-planning">Retirement Planning</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/social-security">Social Security</a>
+                        <a href="https://www.fa-mag.com/advice/social-security">Social Security</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/tax-planning">Tax Planning</a>
+                        <a href="https://www.fa-mag.com/advice/tax-planning">Tax Planning</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/variable-annuities">Variable Annuities</a>
+                        <a href="https://www.fa-mag.com/advice/variable-annuities">Variable Annuities</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/advice/women-in-planning">Women and Planning</a>
+                        <a href="https://www.fa-mag.com/advice/women-in-planning">Women and Planning</a>
                     </li>
                             </ul>
         
@@ -551,37 +635,37 @@ EvPNG.fix('.logo img,.title img');
 
                     <ul>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/alternative-investments">Alternative Investments</a>
+                        <a href="https://www.fa-mag.com/investing/alternative-investments">Alternative Investments</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/analysis">Analysis</a>
+                        <a href="https://www.fa-mag.com/investing/analysis">Analysis</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/commodities">Commodities</a>
+                        <a href="https://www.fa-mag.com/investing/commodities">Commodities</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/etfs">ETFs</a>
+                        <a href="https://www.fa-mag.com/investing/etfs">ETFs</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/fixed-income">Fixed Income</a>
+                        <a href="https://www.fa-mag.com/investing/fixed-income">Fixed Income</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/green">Green</a>
+                        <a href="https://www.fa-mag.com/investing/green">Impact Investing</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/international">International</a>
+                        <a href="https://www.fa-mag.com/investing/international">International</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/mutual-funds">Mutual Funds</a>
+                        <a href="https://www.fa-mag.com/investing/mutual-funds">Mutual Funds</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/real-estatereits">Real Estate/REITs</a>
+                        <a href="https://www.fa-mag.com/investing/real-estatereits">Real Estate/REITs</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/smart-beta">Smart Beta</a>
+                        <a href="https://www.fa-mag.com/investing/smart-beta">Smart Beta</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/investing/us-equity-funds">U.S. Equity</a>
+                        <a href="https://www.fa-mag.com/investing/us-equity-funds">U.S. Equity</a>
                     </li>
                             </ul>
         
@@ -599,19 +683,19 @@ EvPNG.fix('.logo img,.title img');
 
                     <ul>
                                                         <li>
-                        <a href="http://www.fa-mag.com/research/10-young-advisors-to-watch">10 Young Advisors To Watch</a>
+                        <a href="https://www.fa-mag.com/research/10-young-advisors-to-watch">10 Young Advisors To Watch</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/market-and-economic-outlook">Market and Economic Outlook</a>
+                        <a href="https://www.fa-mag.com/market-and-economic-outlook">Market and Economic Outlook</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/more-services/white-papers">Whitepapers</a>
+                        <a href="https://www.fa-mag.com/more-services/white-papers">Whitepapers</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/research/bd-survey">B/D Survey Ranking</a>
+                        <a href="https://www.fa-mag.com/research/bd-survey">B/D Survey Ranking</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/research/ria-survey">RIA Ranking</a>
+                        <a href="https://www.fa-mag.com/research/ria-survey">RIA Ranking</a>
                     </li>
                             </ul>
         
@@ -623,28 +707,31 @@ EvPNG.fix('.logo img,.title img');
 
                     <ul>
                                                         <li>
-                        <a href="http://www.fa-mag.com/more-services/bd-profiles-2017">B/D Profiles 2017</a>
+                        <a href="https://www.fa-mag.com/views-from-the-experts---alternative---investments---october-2017&#9;">Alternative Investing Special Section</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/views-from-the-experts---broker-dealer-recruiting-aug-2016">B/D Recruiting Special Section</a>
+                        <a href="https://www.fa-mag.com/more-services/bd-profiles-2017">B/D Profiles 2017</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/views-from-the-experts---fixed-income">Fixed-Income Supplement</a>
+                        <a href="https://www.fa-mag.com/views-from-the-experts---broker-dealer-recruiting-aug-2017">B/D Recruiting Special Section</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/more-services/liquid-alts-special-section-new">Liquid Alts Special Section</a>
+                        <a href="https://www.fa-mag.com/views-from-the-experts---fixed-income">Fixed Income Special Section</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/views-from-the-experts---technology-july-2016">Technology Special Section</a>
+                        <a href="https://www.fa-mag.com/views-from-the-experts---impact---2017">Impact Investing Special Section</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/views-from-the-experts---women-in-the-profession">Women In The Profession</a>
+                        <a href="https://www.fa-mag.com/views-from-the-experts---technology-july-2017">Technology Special Section</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/more-services/bd-recruitment-center">B/D Recruitment Center</a>
+                        <a href="https://www.fa-mag.com/views-from-the-experts---women-in-the-profession">Women In The Profession</a>
                     </li>
                                                         <li>
-                        <a href="http://www.fa-mag.com/more-services/industry-partnerships.html">Industry Partnerships</a>
+                        <a href="https://www.fa-mag.com/more-services/bd-recruitment-center">B/D Recruitment Center</a>
+                    </li>
+                                                        <li>
+                        <a href="https://www.fa-mag.com/more-services/industry-partnerships.html">Industry Partnerships</a>
                     </li>
                             </ul>
         
@@ -679,7 +766,7 @@ EvPNG.fix('.logo img,.title img');
                                         <div id="maincontent">
                         <div class="main_content" style="width:initial;">
 	<div class="title_bar">
-		<div class="bar_right"> <span class="st_sharethis">SHARE</span></div>
+		<div class="bar_right"> <div class="sharethis-inline-share-buttons force-inline"></div> </div>
 		<h3 class="title">Privacy Policy</h3>
 	</div>
 	<div>
@@ -724,71 +811,7 @@ EvPNG.fix('.logo img,.title img');
 <p>
 	&nbsp;</p>
 <hr>
-<p>
-	<!--/* OpenX Javascript Tag v2.8.10 */--><!--/*
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://adserver.fa-mag.com/www/delivery/...'
-  * to
-  *   'https://adserver.fa-mag.com/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */--><script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://adserver.fa-mag.com/www/delivery/ajs.php':'http://adserver.fa-mag.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=102");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.fa-mag.com/www/delivery/ajs.php?zoneid=102&amp;cb=57808607431&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20170606013856id_/http%253A//www.fa-mag.com/privacy"></script><noscript><a href='http://adserver.fa-mag.com/www/delivery/ck.php?n=a353625a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.fa-mag.com/www/delivery/avw.php?zoneid=102&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a353625a' border='0' alt='' /></a></noscript></p>
-<hr>
-<br>
-<!--/* OpenX Javascript Tag v2.8.10 */--><!--/*
-  * The backup image section of this tag has been generated for use on a
-  * non-SSL page. If this tag is to be placed on an SSL page, change the
-  *   'http://adserver.fa-mag.com/www/delivery/...'
-  * to
-  *   'https://adserver.fa-mag.com/www/delivery/...'
-  *
-  * This noscript section of this tag only shows image banners. There
-  * is no width or height in these banners, so if you want these tags to
-  * allocate space for the ad before it shows, you will need to add this
-  * information to the <img> tag.
-  *
-  * If you do not want to deal with the intricities of the noscript
-  * section, delete the tag (from <noscript>... to </noscript>). On
-  * average, the noscript tag is called from less than 1% of internet
-  * users.
-  */--><script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://adserver.fa-mag.com/www/delivery/ajs.php':'http://adserver.fa-mag.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=236");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://adserver.fa-mag.com/www/delivery/ajs.php?zoneid=236&amp;cb=66232301583&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20170606013856id_/http%253A//www.fa-mag.com/privacy"></script><noscript><a href='http://adserver.fa-mag.com/www/delivery/ck.php?n=a6ca2627&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adserver.fa-mag.com/www/delivery/avw.php?zoneid=236&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6ca2627' border='0' alt='' /></a></noscript>
+
 	</div>
 
 	<div class="ad_box"></div>  
@@ -798,74 +821,82 @@ EvPNG.fix('.logo img,.title img');
                     <!--maincontent end-->
                                             <!-- right_sidebar2 (far right) -->
 <div id="sidebar_r">
-	<div class="sidebar_l_img">
+	<div class="sidebar_l_img  sticky ">
 		<!-- right_skyscraper1 -->
 									<script>
 					OA_show('right_skyscraper1');
 				</script>
 			
-									<script type="text/javascript">
-				var twr;
-				$(window).scroll(function(){
-					if(jQuery(window).width() >= 737){
-						var top_pos = 110;
-						if(!$('#hidden_ad_banner').length){
-							top_pos = 210;
-						}
-						if($(this).scrollTop() > top_pos){
-							if(!$('.sidebar_l_img').eq(1).hasClass('sticky')){
-								$('.sidebar_l_img').eq(1).addClass('sticky');
-								if(!$('#hidden_ad_banner').length){
-									$('.sidebar_l_img').eq(1).addClass('top');
-								}
-								$('.sidebar_l_img').eq(1).height(
-									$('.sidebar_l_img').eq(1).find('iframe,a,ins').height()
-								);
+												<script type="text/javascript">
+				window.setTimeout(function(){
 
-								twr = window.setTimeout(function(){
-									$('.sidebar_l_img').eq(1).addClass('stop');
-									$('.sidebar_l_img').eq(1).css('height','auto');
-								},2*1000);
+				var ssidesticky = null;
+
+				if(jQuery(window).width() >= 737){
+					var sside = jQuery(".sidebar_l_img.sticky");
+					var topl = jQuery(".ad_top.sticky").length ? 140 : 20;					
+					jQuery(window).scroll(function(){
+						var st = jQuery(this).scrollTop();
+						if(st > 110){
+							if(!ssidesticky){
+								sside.addClass('stuck').css('top',topl);
+								ssidesticky = window.setTimeout(function(){
+	                                sside.animate({'top': 0,'opacity':0},250,function(){
+	                                	sside.removeClass('stuck').css({'top':0,'opacity':1});
+	                                });
+	                            }, 2500);
+							}		
+						}else if(st < 5){
+							if(ssidesticky){
+								sside.removeClass('stuck').css({'top':0,'opacity':1});
+								window.clearTimeout(ssidesticky);
+								ssidesticky = null;
 							}
-						}else{
-							clearTimeout(twr);
-							$('.sidebar_l_img').eq(1).removeClass('sticky top').removeClass('stop');
-							$('.sidebar_l_img').eq(1).css('height','auto');
 						}
-					}
-				});
+					});
+				}
+				},1000);
 			</script>
-						</div>
+									</div>
 	<div class="sidebar_l_img">
 		<!-- right_skyscraper2 -->
-									<script>
-					OA_show('right_skyscraper2');
-				</script>
+									<!-- /1223628/FA_ROS_famag_skyscraper_2 -->
+<div id="div-gpt-ad-1514572051236-0" style="height:600px; width:160px;">
+	<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514572051236-0'); });
+</script></div>
+
 						</div>
 
 		<div class="q-poll">
 		<h3>Quick Poll</h3>
                 
-		<h5>Do you expect international stocks to continue outperforming U.S. stocks for the rest of the year?</h5>
-		<form action="http://www.fa-mag.com/polls/do_you_expect_international_stocks_to_continue_outperforming_u_s_stocks_for_the_rest_of_the_year-402" method="post">
-			<input type="hidden" name="poll_id" value="402">
-			<input type="hidden" name="token" value="fe31e409143a84127d44f2f78c67a52a6cfcda56db0f1b6a6c4b7e8fd19f4d48">
+		<h5>Do you agree with President Trump's move to put tariffs on imported solar panels and washing machines?</h5>
+		<form action="https://www.fa-mag.com/polls/do_you_agree_with_president_trump_s_move_to_put_tariffs_on_imported_solar_panels_and_washing_machines-435" method="post">
+			<input type="hidden" name="poll_id" value="435">
+			<input type="hidden" name="token" value="fdc582eb748c5fdb0ab15a86d65cba9e52de1b7a95bc9f9f8ae7795790e0fb13">
 			<ul>
 								<li>
 					<label>
-						<input name="choice" type="radio" value="2709">
+						<input name="choice" type="radio" value="2788">
 						Yes
 					</label>
 				</li>
 								<li>
 					<label>
-						<input name="choice" type="radio" value="2708">
+						<input name="choice" type="radio" value="2787">
 						No
 					</label>
 				</li>
 								<li>
+					<label>
+						<input name="choice" type="radio" value="2786">
+						Unsure
+					</label>
+				</li>
+								<li>
 					<input name="" type="submit" class="vote" value="">
-					<a href="http://www.fa-mag.com/polls/do_you_expect_international_stocks_to_continue_outperforming_u_s_stocks_for_the_rest_of_the_year-402" class="view">
+					<a href="https://www.fa-mag.com/polls/do_you_agree_with_president_trump_s_move_to_put_tariffs_on_imported_solar_panels_and_washing_machines-435" class="view">
 						View Results
 					</a>
 				</li>
@@ -927,7 +958,7 @@ EvPNG.fix('.logo img,.title img');
 
 
 	<div id="footer">
-				<div class="ad_bar">
+				<div id="footer-ad-bar" class="ad_bar">
             <div class="ad_inner">
 				<!-- footer ad -->
 															<script>
@@ -969,25 +1000,25 @@ EvPNG.fix('.logo img,.title img');
 
         	<!--<ul>
 
-            	<li><a href="http://www.fa-mag.com/" class="footer_house"><img src="/images/footer_house.jpg" alt="" width="17" height="14" /></a></li>
+            	<li><a href="https://www.fa-mag.com/" class="footer_house"><img src="/images/footer_house.jpg" alt="" width="17" height="14" /></a></li>
 
             	<li><a href="https://www.fa-mag.com/login.php" class="first">login</a></li>
-                <li><a href="http://www.fa-mag.com/about">About us</a></li>
-                <li><a href="http://www.fa-mag.com/media-kit">Media Kit</a></li>
-                <li><a href="http://www.fa-mag.com/online-media-kit">Online Media Kit</a></li>
+                <li><a href="https://www.fa-mag.com/about">About us</a></li>
+                <li><a href="https://www.fa-mag.com/media-kit">Media Kit</a></li>
+                <li><a href="https://www.fa-mag.com/online-media-kit">Online Media Kit</a></li>
                 <li><a href="">FTP site</a></li>
 
                 <li><a href="http://www.b2bmediaportal.com/dynamicregister/Register.aspx?fid=FAMF">Subscriptions</a></li>
 
-                <li><a href="http://www.fa-mag.com/reprints">Reprints</a></li>
-                <li><a href="http://www.fa-mag.com/contact_us.php">contact us</a></li>
-                <li><a href="http://www.fa-mag.com/sitemap">Sitemap</a></li>
+                <li><a href="https://www.fa-mag.com/reprints">Reprints</a></li>
+                <li><a href="https://www.fa-mag.com/contact_us.php">contact us</a></li>
+                <li><a href="https://www.fa-mag.com/sitemap">Sitemap</a></li>
             </ul>-->
         </div>
         <p class="bottom">
-			<a href="http://www.fa-mag.com/privacy">Privacy Policy</a>  |
-			<a href="http://www.fa-mag.com/terms">Terms and Conditions</a>  |
-			©2017 Charter Financial Publishing Network Inc. All rights reserved. </p>
+			<a href="https://www.fa-mag.com/privacy">Privacy Policy</a>  |
+			<a href="https://www.fa-mag.com/terms">Terms and Conditions</a>  |
+			©2018 Charter Financial Publishing Network Inc. All rights reserved. </p>
 			</div><!--footer end-->
 	<script>window.start_scroll_handler = jQuery.noop;</script>
 <!-- ETF NEWSLETTER SIGNUP STUFF -->
@@ -1022,9 +1053,7 @@ EvPNG.fix('.logo img,.title img');
 
 
 
-<script src="/js/jsloader.php?GET_ALL&amp;m=1492113830" type="text/javascript"></script>
-		
-	
+<script src="/js/jsloader.php?GET_ALL&amp;m=422180679" type="text/javascript"></script>
 
 
 <script>
@@ -1042,7 +1071,68 @@ EvPNG.fix('.logo img,.title img');
         _gaq.push(['_trackEvent', 'PDF Downloads', window.location.pathname, pdfHref]);
     });
 
+
+	$(document).ready(function() {
+		var select2 = $("select.select2");
+		if(select2.length > 0){
+			$('head').append( $('<link rel="stylesheet" type="text/css" />').attr('href', 'https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css') );
+			$.getScript( "https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.min.js" )
+			  	.done(function( script, textStatus ) {
+			     	select2.select2({
+					    closeOnSelect: false
+					});
+			 	});
+		}
+		if($(document).width() < 737){
+
+	     	if ($("#ad_top .ad_inner").find("a").length < 1) {
+				if ($("#ad_top .ad_inner").find("iframe").length < 1) {	     	
+		     		$("#ad_top .ad_inner").remove();
+		     		$("#content_wrapper").css({
+		     			 
+		     				"margin-top": "85px"
+		     					     		});
+		     	}
+	     	}
+     	}
+	});
+
 </script>
+
+
+
+
+<!--Prevent the previous script from overwritting the stick header script-->
+					<script type="text/javascript">
+				window.setTimeout(function(){
+					var adtopsticky = null;	
+					if(jQuery(window).width() >= 737){
+						jQuery(window).scroll(function(){
+							var top = jQuery("#ad_top");
+							var st = jQuery(this).scrollTop();
+
+							if(st > 110){
+								if(!adtopsticky){
+									top.addClass('stuck');
+									adtopsticky = window.setTimeout(function(){
+		                                top.animate({'top': top.outerHeight()*-1,'opacity':0},250,function(){
+		                                	top.removeClass('stuck').css({'top':0,'opacity':1});
+		                                });
+		                            }, 2500);
+								}							
+							}else if(st < 5){
+								if(adtopsticky){
+									top.removeClass('stuck').css({'top':0,'opacity':1});
+									window.clearTimeout(adtopsticky);
+									adtopsticky = null;
+								}
+							}
+						});
+					}
+				
+				},1000)
+			</script>
+				
 
 
 
