@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordzone.co.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - LandlordZONE
 
@@ -132,8 +132,8 @@ The Help function within your browser should tell you how to do this. However, i
 
 To view any cookies that have been placed on your computer following visits to ours or other websites you can check your browser history.
 
-If you still have any queries or concerns you can [contact us here](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/contact "Contact LandlordZONE")
+If you still have any queries or concerns you can [contact us here](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/contact "Contact LandlordZONE")
 
-See our [Website Terms and Conditions of Use](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/terms "Website Terms and Conditions of Use")
+See our [Website Terms and Conditions of Use](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/terms "Website Terms and Conditions of Use")
 
-See our [Advertising Terms and Conditions of Use](https://web.archive.org/web/20170903091652id_/https%3A//www.landlordzone.co.uk/advertise/advertising-terms-conditions "LandlordZONE Advertising Terms and Conditions of Use")
+See our [Advertising Terms and Conditions of Use](https://web.archive.org/web/20180130005927id_/https%3A//www.landlordzone.co.uk/advertise/advertising-terms-conditions "LandlordZONE Advertising Terms and Conditions of Use")
