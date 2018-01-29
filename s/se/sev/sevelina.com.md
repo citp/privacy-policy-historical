@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129185422id_/http%3A//sevelina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevelina.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129165207id_/https%3A//sevelina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | • Sevelina Games for girls •
 
