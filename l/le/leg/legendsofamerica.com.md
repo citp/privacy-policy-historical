@@ -1,178 +1,58 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623071636id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129050456id_/https%3A//www.legendsofamerica.com/privacy-policy) for the most accurate reproduction.*
 
-# Legends of America Privacy Policy
+# Privacy Policy – Legends of America
 
-[ ](http://www.facebook.com/legendsofamerica)[](http://www.twitter.com/legendsamerica)[](http://www.pinterest.com/legendsamerica/)
+**The cliff notes of our Privacy Policy:**
 
-[ Legends Home](http://www.legendsofamerica.com/index.html)
+We don’t use your information for spam, nor for anything nefarious. If you ever receive spam from us, please [let us know](https://www.legendsofamerica.com/about-us/#Contact) immediately. Your web browser settings have more control than we do. We don’t sell any information collected. We use [Google Adsense and Google Double Click for Publishers](https://www.google.com/policies/technologies/ads/) for most of our advertising. These services have their own privacy policies. We use [GetResponse](https://www.getresponse.com/legal/privacy.html), a reputable, established company, as our Newsletter provider. This privacy policy pretty much covers everything, but we still have a separate [policy notice on our General Store](https://store.legendsofamerica.com/index.php?l=page_view&p=privacy_policy), as that is where we would collect more than just an email address and name. Our Photo Print Shop is hosted by Zenfolio.com which specializes in showcasing and sales of Photo Prints and other Products. [Zenfolio.com has it’s own privacy policy](https://en.zenfolio.com/privacy).
 
-[ Site Map](http://www.legendsofamerica.com/loa-sitemap.html)
+The rest of this is the legal mumbo jumbo that’s required for us to show you. If you read this entire message, you probably need to find a hobby…just sayin.
 
-[What's New!! ](http://www.legendsofamerica.com/whatsnew.html)
+**Privacy Policy in full:**
 
-Content Categories:
+Your privacy is very important to us. At Legends of America we have a few fundamental principles that we follow:
 
-[ American History](http://www.legendsofamerica.com/americanhistory.html)
+We don’t ask you for personal information unless we truly need it. (Primarily we would ask for your name and email address when signing up for our newsletter. We also require email for making comments on our website.)
 
-[ Destinations-States](http://www.legendsofamerica.com/destinations.html)
+We don’t share your personal information with anyone except to comply with the law, develop our website, or protect our rights.
 
-[ Ghost Stories](http://www.legendsofamerica.com/ghostlegends.html)
+We don’t store personal information on our servers unless required for the on-going operation of our site.
 
-[ Ghost Towns](http://www.legendsofamerica.com/ghosttowns.html)
+Legends of America operates several websites including Store.LegendsOfAmerica.com, LegendsofAmerica.com, Photos.LegendsofAmerica.com, and LegendsOfKansas.com. It is Legends of America’s policy to respect your privacy regarding any information we may collect while operating our websites. [Legends’ General Store has it’s own privacy policy](https://store.legendsofamerica.com/index.php?l=page_view&p=privacy_policy) due to the fact we gather more information there when you place an order.  Legends’ Photo Print shop is hosted by [Zenfolio.com, which has its own privacy policy](https://en.zenfolio.com/privacy).
 
-[ Historic People](http://www.legendsofamerica.com/we-oldwestpeople.html)
+_Website Visitors_
 
-[Legends & Myths](http://www.legendsofamerica.com/ah-legends.html)
+Like most website operators, Legends of America collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Legends of America’s purpose in collecting non-personally identifying information is to better understand how Legends of America’s visitors use its website. From time to time, Legends of America may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-[ Native Americans](http://www.legendsofamerica.com/na-nativeamericans.html)
+Legends of America also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our stories. Legends of America only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that website commenter IP addresses are visible and disclosed to the administrators of the website where the comment was left.
 
-[Old West](http://www.legendsofamerica.com/oldwest.html)
+_Gathering of Personally-Identifying Information_
 
-[Photo Galleries](http://www.legendsofamerica.com/photogalleries.html)
+Certain visitors to Legends of America’s websites choose to interact with Legends of America in ways that require Legends of America to gather personally-identifying information. The amount and type of information that Legends of America gathers depends on the nature of the interaction. For example, we ask visitors who comment on our website to provide a username and email address. Those who wish to receive Legends of America updates via email, we collect their emails. In each case, Legends of America collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Legends of America. Legends of America does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.  
+Aggregated Statistics
 
-[ Route 66](http://www.legendsofamerica.com/66-main.html)
+Legends of America may collect statistics about the behavior of visitors to its websites. For instance, Legends of America may monitor the most popular pages on the list25.com site or use spam screened by the Akismet service to help identify spam. Legends of America may display this information publicly or provide it to others. However, Legends of America does not disclose personally-identifying information other than as described below.
 
-[ Treasure Tales](http://www.legendsofamerica.com/treasures.html)
+_Protection of Certain Personally-Identifying Information_
 
-[About Us](http://www.legendsofamerica.com/aboutus.html)
+Legends of America discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Legends of America’s behalf or to provide services available at Legends of America’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Legends of America’s websites, you consent to the transfer of such information to them. Legends of America will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Legends of America discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Legends of America believes in good faith that disclosure is reasonably necessary to protect the property or rights of Legends of America, third parties or the public at large. If you are a registered user of an Legends of America website and have supplied your email address, Legends of America may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Legends of America and our products. We primarily use our various product websites to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Legends of America takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-[Advertising](http://www.legendsofamerica.com/advertising.html)
+_Cookies_
 
-[Article/Photo Use](http://www.legendsofamerica.com/loa-reproduction.html)
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Legends of America uses cookies to help Legends of America identify and track visitors, their usage of Legends of America website, and their website access preferences. Legends of America visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Legends of America’s websites, with the drawback that certain features of Legends of America’s websites may not function properly without the aid of cookies.
 
-[Copyright Information](http://www.legendsofamerica.com/copyright.html)
+_Business Transfers_
 
-[Blog](http://legendsofamerica.blogspot.com/)
+If Legends of America, or substantially all of its assets were acquired, or in the unlikely event that Legends of America goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Legends of America may continue to use your personal information as set forth in this policy.
 
-[Facebook Page](http://www.facebook.com/legendsofamerica)
+_Ads_
 
-[Guestbook](http://www.legendsofamerica.com/guestbook.html)
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Legends of America and does not cover the use of cookies by any advertisers. We use [Google Adsense and Google Double Click for Publishers](https://www.google.com/policies/technologies/ads/) for most of our advertising.
 
-[Links](http://www.legendsofamerica.com/loa-links.html)
+_Comments_
 
-[ Newsletter](http://www.legendsofamerica.com/newsletter.html)
+Comments and other content submitted to Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
-[Privacy Policy](http://www.legendsofamerica.com/loa-privacypolicy.html)
+_Privacy Policy Changes_
 
-[Site Map](http://www.legendsofamerica.com/loa-sitemap.html)
-
-[Writing Credits](http://www.legendsofamerica.com/loa-credits.html)
-
-We welcome corrections
-
-and feedback!
-
-[Contact Us](http://www.legendsofamerica.com/contact.html)
-
-[ ](http://www.store.legendsofamerica.com/)
-
-  
-[Old West/Western](http://store.legendsofamerica.com/index.php?l=product_list&c=122)
-
-[ Route 66](http://store.legendsofamerica.com/index.php?l=product_list&c=123)
-
-[ Native American](http://store.legendsofamerica.com/index.php?l=product_list&c=124)
-
-[ Featured Items](http://store.legendsofamerica.com/index.php?l=product_list&c=featured)
-
-[ Sale Items](http://store.legendsofamerica.com/index.php?l=product_list&c=specials)
-
-[ Books/Magazines](http://store.legendsofamerica.com/index.php?l=product_list&c=5)
-
-[ CD's - DVD's](http://store.legendsofamerica.com/index.php?l=product_list&c=174)
-
-[ Nuwati Herbals](http://store.legendsofamerica.com/index.php?l=product_list&c=6)
-
-[ Personalized-Engraved](http://store.legendsofamerica.com/index.php?l=product_list&c=167)  
-[ Postcards](http://store.legendsofamerica.com/index.php?l=product_list&c=11)
-
-[ Wall Art](http://store.legendsofamerica.com/index.php?l=product_list&c=172)
-
-[Custom Products](http://www.cafepress.com/legendsamerica)
-
-and [Much More](http://www.store.legendsofamerica.com/)!
-
-  [ ](http://store.legendsofamerica.com/index.php?l=cart_view)
-
-[Legends' Photo Prints ](http://photos.legendsofamerica.com/)
-
-**[ ](http://photos.legendsofamerica.com/)**  
- 
-
-[Ghost Town Prints](http://photos.legendsofamerica.com/ghosttowns)
-
-[Native American Prints](http://photos.legendsofamerica.com/nativeamericans)
-
-[Old West Prints](http://photos.legendsofamerica.com/oldwest)
-
-[Route 66 Prints](http://photos.legendsofamerica.com/route66)
-
-[States, Cities & Places](http://photos.legendsofamerica.com/statesplaces)
-
-[Nostalgic Prints](http://photos.legendsofamerica.com/nostalgic-20thcentury)
-
-[Photo Art Prints](http://photos.legendsofamerica.com/photoart)
-
-[Jim Hinckley's America](http://photos.legendsofamerica.com/jimhinckleysamerica)
-
-[David Fisk (Lens of Fisk)](http://photos.legendsofamerica.com/davidfisk)
-
-[Specials-Gift Ideas](http://photos.legendsofamerica.com/specials-gifts)
-
-and [Much More!](http://photos.legendsofamerica.com/main)!  
- 
-
-[ ](http://photos.legendsofamerica.com/cart.html)
-
-[ ](http://www.familyfriendlysites.com/)
-
-| | 
-
-|    
----  
-  
-**[ ](http://www.legendsofamerica.com/)LEGENDS OF AMERICA**
-
-** Privacy Policy**  
-  
-[ ](http://www.facebook.com/LegendsOfAmerica)
-
-  [ ](http://www.addthis.com/bookmark.php?v=250&username=legendsofamerica)  
-  
-**Privacy Policy**
-
-**Who We Are**
-
-**_[Legends of America](http://www.legendsofamerica.com/)_** is a small mid-west company with strong moral, ethical, and business values.  We take pride in our work and strive to provide our readers, advertisers, and customers with a continually updated site, great products, and superior customer service.  For more information on the _[Legends of America](http://www.legendsofamerica.com/)_ Team, please see our [About Us Page](http://www.legendsofamerica.com/aboutus.html).
-
-This Privacy Policy is effective January 19, 2010
-
-Your use of this website indicates your acceptance of the following policy in it's entirity. Also, this privacy policy may be updated or changed at any time at our discretion and your continued use of our website indicates your acceptance of any changes or updates. 
-
-  
-**Information Collected  
-**  
-When you place an order with us (whether online, by mail, or over the phone) we collect information from you that is necessary to fulfill your request. This information is used only to fill your order. We store some of the information, such as your name and address, in a database so we can contact you in the future about new products. We do not make sales calls or participate in telemarketing. Your phone number is requested in case we need to contact you about your order.
-
-** Cookies**
-
-When ordering online, cookies are used to store information on your computer about what products you are ordering. This is essential for the shopping basket feature to work properly. You can learn more about cookies by visiting [ www.cookiecentral.com](http://www.cookiecentral.com/) or perform a search at [www.yahoo.com](http://www.yahoo.com/) or [www.google.com](http://www.google.com/).
-
-This website utilizes Google and their Adsense advertising system to serve ads to our visitors. Google also uses the DART cookie, which enables it and it's partners to serve ads to our users based on their visits and/or other sites on the internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-
-|   
-  
-We may also use other third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
-
-**Contact Information**  
- 
-
-Legends of America  abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to us at  [kathy@legendsofamerica.com](mailto:orders@legendsofamerica.com).  You may also contact us at Legends of America,  28926 Cedar Hill Loop , Warsaw, MO 65355, 660-723-2550
-
-We **DO NOT** sell or rent any of the information kept in our database.     
-  
-[ ](http://www.legendsofamerica.com/)[Dave and Kathy](http://www.legendsofamerica.com/aboutus.html), owners of _[Legends of America](http://www.legendsofamerica.com/)_ , and the only "employees" of this small business, want to send out a big _**Thank You**_ to all of our readers and customers! It's your support of [Legends' General Store](http://store.legendsofamerica.com/) and our [Photo Shop](http://photos.legendsofamerica.com/) that keeps us alive and continuing to provide our website content, [newsletter](http://www.legendsofamerica.com/newsletter.html), and [ blog](http://legendsofamerica.blogspot.com/) for free. We also love your feedback on our [guestbook](http://www.legendsofamerica.com/guestbook.html)  and the contributions to our pages that many of you provide.
-
-We just can't tell you how much we appreciate you! Thanks a whole big bunch!  
-  
- 
+Although most changes are likely to be minor, Legends of America may change its Privacy Policy from time to time, and in Legends of America’s sole discretion. Legends of America encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
