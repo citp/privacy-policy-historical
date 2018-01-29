@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the internshala.com privacy policy that was archived on 2017-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171004150250id_/https%3A//internshala.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the internshala.com privacy policy that was archived on 2018-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180129175801id_/https%3A//internshala.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -24,15 +24,112 @@
                             <title>Internshala | Privacy Policy</title>
         <meta name="description" content="Internshala is no.1 internship &amp; training website for students in India with 4000+ paid internships in Engineering, MBA, media, law, arts &amp; other streams.
 ">
-        <link href="/static/css/info/info.1506682464.css" rel="stylesheet" type="text/css">
-        <script src="/static/js/combined/common.1506401641.js" type="text/javascript"></script>
+        <link href="/static/css/info/info.1516338410.css" rel="stylesheet" type="text/css">
+        <link href="/static/css/login/login_modal.1516338410.css" rel="stylesheet" type="text/css">
+        <script src="/static/js/combined/common.1516338410.js" type="text/javascript"></script>
+        <script src="/static/js/login/login.1516338410.js" type="text/javascript"></script>
                     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5NSPHG');</script>
-<!-- End Google Tag Manager -->                    </head>
+<!-- End Google Tag Manager --><script>
+    window.addEventListener('load', function() {
+        store_session_data();
+    });
+
+    function store_session_data() {
+        var message = "device=" + getDeviceType();
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                //Success
+                update_session_data();
+            }
+        };
+
+        xhttp.open("POST", "/info/storeData", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function update_session_data() {
+        var message = "";
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+                //Success
+            }
+        };
+
+        xhttp.open("POST", "/info/updateDeviceCookieDomain", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function getDeviceType() {
+        var device;
+        if (typeof isMobile !== 'undefined') {
+            if (isMobile === '1') {
+                device = "mobile";
+            } else {
+                device = "desktop";
+            }
+        } else {
+            device = "NA";
+        }
+
+        return device;
+    }
+
+</script>
+<script>
+    window.onerror = function (error, url, line) {
+        store_data(error, line);
+    };
+
+    function store_data(error, line) {
+        var url = window.location.href;
+        var browser = get_browser();
+        var browser_name = browser.name;
+        var browser_version = browser.version;
+        var message = "error=" + error + ". Line:" + line + "&browser=" + browser_name + "&version=" + browser_version + "&url=" + url;
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState === 4 && this.status === 200) {
+
+            }
+        };
+        xhttp.open("POST", "/browser_error/insert_browser_logs", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send(message);
+    }
+
+    function get_browser() {
+        var ua = navigator.userAgent, tem, M = ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];
+        if (/trident/i.test(M[1])) {
+            tem = /\brv[ :]+(\d+)/g.exec(ua) || [];
+            return {name: 'IE', version: (tem[1] || '')};
+        }
+        if (M[1] === 'Chrome') {
+            tem = ua.match(/\bOPR|Edge\/(\d+)/)
+            if (tem != null) {
+                return {name: 'Opera', version: tem[1]};
+            }
+        }
+        M = M[2] ? [M[1], M[2]] : [navigator.appName, navigator.appVersion, '-?'];
+        if ((tem = ua.match(/version\/(\d+)/i)) != null) {
+            M.splice(1, 1, tem[1]);
+        }
+        return {
+            name: M[0],
+            version: M[1]
+        };
+    }
+
+</script>
+                    </head>
                     <body>
                         <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NSPHG"
@@ -213,8 +310,67 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <div class="popover_overlay">
-</div>
-                            
+</div><div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">×</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                                    <div id="user-menu-container">
+                        <div id="user-menu">
+                            <div class="col-xs-6 user-menu-item active login_student" id="modal_student">
+                                STUDENT
+                            </div>
+                            <div class="col-xs-6 user-menu-item login_employer" id="modal_employer">
+                                EMPLOYER/ T&amp;P
+                            </div>
+                        </div>
+                    </div>
+                                                    <a class="google_login" href="/login/get_google">
+
+                        <div id="google-button-container">
+                            <div class="google_image_container">
+                                <img src="/static/images/login/google_logo.png"> 
+                            </div>
+                            <div class="google_content">
+                                Login with Google
+                            </div>
+                        </div>
+                    </a>
+                    <div class="helper">
+                        <div class="text2"><p>Or</p></div>
+                        <div class="border"></div>
+                    </div>
+                
+                <form role="form" id="modal-login-form" method="POST">
+                    <input type="hidden" name="csrf_test_name" value="b91b59c952526a8ac5a91e178ba49f8e">
+                    <div class="form-group">
+                        <label for="email" class="control-label">Email</label>
+                        <input type="email" class="form-control" id="modal_email" tabindex="1" name="email">
+                    </div>
+                    <div class="form-group">
+                        <label for="password" class="control-label">Password</label>
+                        <input type="password" class="form-control" id="modal_password" tabindex="2" name="password">
+                    </div>
+                    <div class="forgot_password">
+                        <a href="/login/forgot_password" id="forgot-password">Forgot Password?</a>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary" id="modal_login_submit" tabindex="3">Login</button>
+                    </div>
+                                            <div class="form-group new_to_internshala">
+                            <label>
+                                New to Internshala? Register (<a href="/registration/student">Student</a> / <a href="/registration/employer">Company</a>)
+                            </label>
+                        </div>
+                                    </form>
+            </div>
+        </div>
+    </div>
+</div>                            
 
 <div id="header">
     <div class="max-width-container-header">
@@ -224,13 +380,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="container-fluid">
             <div class="navbar-header" id="main-navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#dropdown">
-                                            <span class="offer_hamburger" id="offer_hamburger">OFFER</span>    
-                    
+                                            <span class="offer_hamburger hidden-xs hidden-sm" id="offer_hamburger">NEW</span>
+                        
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+
                 <a class="navbar-brand" href="/">
                     <img src="/static/images/common/internshala_logo.png" width="190">
                 </a>
@@ -239,7 +396,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="collapse navbar-collapse" id="dropdown">
                 <ul class="nav navbar-nav navbar-right">
                                         <li class="dropdown dropdown-hover">
-                        <a href="/internships">Internships 
+                        <a href="" id="internships_new_superscript">Internships 
+                                                            <span class="offer hidden-xs hidden-sm" id="superscript_new">NEW</span>
                              	
                             <b class="caret hidden-xs hidden-sm"></b></a>
                         <div class="dropdown-menu" id="internships-dropdown">
@@ -250,47 +408,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <hr class="drop-down-rule">
                                     <ul class="dropdown-menu-part">
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-bangalore">Internship in Bangalore</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-delhi">Internship in Delhi</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-hyderabad">Internship in Hyderabad</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-mumbai">Internship in Mumbai</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-chennai">Internship in Chennai</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-pune">Internship in Pune</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-kolkata">Internship in Kolkata</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/internship-in-jaipur">Internship in Jaipur</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/virtual-internship">Virtual Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/international-internship">International Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/" style="text-decoration:underline;">View more</a>
                                         </li>
                                     </ul>
@@ -301,47 +459,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <hr class="drop-down-rule">
                                     <ul class="dropdown-menu-part">
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/computer%20science-internship">Computer Science Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/marketing-internship">Marketing Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/finance-internship">Finance Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/mechanical-internship">Mechanical Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/hr-internship">HR Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/digital marketing-internship">Digital Marketing Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/electronics-internship">Electronics Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/content%20writing-internship">Content Writing Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/civil-internship">Civil Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/campus ambassador-internship?utm_medium=header">Campus Ambassador Program</a><span class="offer">NEW</span>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/" style="text-decoration:underline;">View more</a>
                                         </li>
                                     </ul>
@@ -352,48 +510,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     </div>
                                     <hr class="drop-down-rule">
                                     <ul class="dropdown-menu-part">
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/engineering-internship">Engineering Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/mba-internship">MBA Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/media-internship">Media Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/graphic design-internship">Graphic Design Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/humanities-internship">Humanities Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/science-internship">Science Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/law-internship">Law Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
                                             <a href="/internships/architecture-internship">Architecture Internship</a>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
-                                            <a href="/india_employed?utm_medium=india_employed_is_dropdown">Internship with PPO</a><span class="offer">NEW</span>
-                                        </li>
-                                        <li class="divider"></li>
-                                        <li>
-                                            <a href="/ifwinternships?utm_medium=ifw_is_dropdown">Internships for Women</a>
+                                        <li class="internship_item">
+                                            <a href="/india_employed?utm_medium=india_employed_is_dropdown">Internship with PPO</a>
                                             <span class="offer">NEW</span>
                                         </li>
                                         <li class="divider"></li>
-                                        <li>
+                                        <li class="internship_item">
+                                            <a href="/internships-for-women?utm_medium=ifw_is_dropdown">Internships for Women</a>
+                                            <span class="offer">NEW</span>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li class="internship_item">
                                             <a href="/internships/" style="text-decoration:underline;">View more</a>
                                         </li>
                                     </ul>
@@ -403,57 +562,81 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </li>
 
                     <li class="dropdown dropdown-hover" style="position:relative;">
-                        <a href="https://trainings.internshala.com?utm_source=internshala-menu-dropdown-FTUD1" target="_blank">Online Winter Trainings
-                                                            <span class="offer">OFFER</span>
+                        <a href="https://trainings.internshala.com?utm_source=internshala-menu-dropdown1" target="_blank">Online Winter Trainings
                              							
                             <b class="caret hidden-xs hidden-sm"></b></a>
                         <div class="dropdown-menu" id="trainings-dropdown">
                             <div class="dropdown-inner">
                                 <div class="inner-dropdown">
-
+                                    <div class="menu-heading">
+                                        Programming
+                                    </div>
+                                    <hr class="drop-down-rule">
                                     <ul class="dropdown-menu-part">
                                         <li>
-                                            <a href="https://trainings.internshala.com/web-development?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Web Development Training</a>
+                                            <a href="https://trainings.internshala.com/web-development-training?utm_source=internshala-menu-dropdown" target="_blank">Web Development Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/excel?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Advance Excel Training</a>
+                                            <a href="https://trainings.internshala.com/android-training?utm_source=internshala-menu-dropdown" target="_blank">Android Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/business-communication-skills?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Business Communication Skills</a>
+                                            <a href="https://trainings.internshala.com/python-training?utm_source=internshala-menu-dropdown" target="_blank">Python Online Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/autocad?utm_source=internshala-menu-dropdown-FTUD" target="_blank">AutoCAD Training</a>
+                                            <a href="https://trainings.internshala.com/java-training?utm_source=internshala-menu-dropdown" target="_blank">Core Java Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/angularjs?utm_source=internshala-menu-dropdown-FTUD" target="_blank">AngularJS Training</a>
+                                            <a href="https://trainings.internshala.com/c-plus-plus-training?utm_source=internshala-menu-dropdown" target="_blank">Programming with C &amp; C++</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/android?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Android Training</a>
+                                            <a href="https://trainings.internshala.com/angularjs-training?utm_source=internshala-menu-dropdown" target="_blank">AngularJS Training</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="inner-dropdown">
+                                    <div class="menu-heading">
+                                        Core Engineering
+                                    </div>
+                                    <hr class="drop-down-rule">
+                                    <ul class="dropdown-menu-part">
+                                        <li>
+                                            <a href="https://trainings.internshala.com/autocad-training?utm_source=internshala-menu-dropdown" target="_blank">AutoCAD Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/data-analytics?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Data Analytics Training</a>
+                                            <a href="https://trainings.internshala.com/iot-training?utm_source=internshala-menu-dropdown" target="_blank">IoT Training</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="inner-dropdown">
+                                    <div class="menu-heading">
+                                        Management
+                                    </div>
+                                    <hr class="drop-down-rule">
+                                    <ul class="dropdown-menu-part">
+                                        <li>
+                                            <a href="https://trainings.internshala.com/excel-training?utm_source=internshala-menu-dropdown" target="_blank">Advance Excel Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/digital-marketing?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Digital Marketing Training</a>
+                                            <a href="https://trainings.internshala.com/business-communication-skills-training?utm_source=internshala-menu-dropdown" target="_blank">Business Communication Skills</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/python?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Python Online Training</a>
+                                            <a href="https://trainings.internshala.com/digital-marketing-training?utm_source=internshala-menu-dropdown" target="_blank">Digital Marketing Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com/hacking?utm_source=internshala-menu-dropdown-FTUD" target="_blank">Hacking Training</a>
+                                            <a href="https://trainings.internshala.com/data-analytics-training?utm_source=internshala-menu-dropdown" target="_blank">Data Analytics Training</a>
                                         </li>
                                         <li class="divider"></li>
                                         <li>
-                                            <a href="https://trainings.internshala.com?utm_source=internshala-menu-dropdown-FTUD" style="text-decoration:underline;" target="_blank">6 more</a>
+                                            <a href="https://trainings.internshala.com/trading-training?utm_source=internshala-menu-dropdown" target="_blank">Beginner's Trading Certification</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -487,11 +670,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                                     <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-user" aria-hidden="true"></span>  <span class="caret"></span></a>
                                 <ul class="dropdown-menu" role="menu" id="guest_settings">
-                                    <li>Existing users - <a href="/login/user">Login</a></li>
+                                    <li>Existing users - <button data-toggle="modal" data-target="#login-modal">Login</button></li>
                                     <li class="divider"></li>
                                     <li>New student - <a href="/registration/student">Register</a></li>
                                     <li class="divider"></li>
-                                    <li>New company - <a href="/registration/employer">Hire Interns</a></li>
+                                    <li>New company - <a href="/registration/employer?utm_campaign=employer_searchpage">Hire Interns</a></li>
                                 </ul>
                             </li>
                                             </ul>
@@ -501,7 +684,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
 
 <script>
-</script>    </div>
+</script>
+    </div>
 </div>
                             
 <div class="container-fluid" id="content">
@@ -541,6 +725,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <h4>Cookies</h4>
         <p>
             Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site.
+        </p>
+        <h4>Information from Third Parties</h4>
+        <p>
+            We may collect, process and store your information associated with your Google account if you choose to sign in using Google. When you sign in to your account with your Google account information, you consent to our collection, storage, and use of the information that you make available to us through your Google account in accordance with this Privacy Policy. This could include your name, email address and phone number associated with your Google account.
+            <br>When you choose to share content on Internshala with friends using the Google+ share feature and sign in using your Google account, we may collect, process and store information of the contacts (email addresses of contacts) associated with your Google account.
         </p>
         <h4>Data provided via social media accounts linked commenting system</h4>
         <p>
@@ -631,35 +820,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="footer-list">
                         <h4>
                             Online Winter Trainings
-                                                            <span class="offer">OFFER</span>
-                        </h4>
+                                                    </h4>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/android?course=android101&amp;utm_source=is-footer-FTUD" target="_blank">Android Training</a>
+                            <a href="https://trainings.internshala.com/web-development-training?utm_source=is-footer" target="_blank">Web Development Training</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/web-development?course=webdev101&amp;utm_source=is-footer-FTUD" target="_blank">Web Development Training</a>
+                            <a href="https://trainings.internshala.com/android-training?utm_source=is-footer" target="_blank">Android Training</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/digital-marketing?course=marketing101&amp;utm_source=is-footer-FTUD" target="_blank">Digital Marketing Training</a>
+                            <a href="https://trainings.internshala.com/python-training?utm_source=is-footer" target="_blank">Python Online Training</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/c-plus-plus?course=c101&amp;utm_source=is-footer-FTUD" target="_blank">Programming with C &amp; C++</a>
+                            <a href="https://trainings.internshala.com/java-training?utm_source=is-footer" target="_blank">Core Java Training</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/autocad?course=autocad101&amp;utm_source=is-footer-FTUD" target="_blank">AutoCAD Training</a>
+                            <a href="https://trainings.internshala.com/autocad-training?utm_source=is-footer" target="_blank">AutoCAD Training</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/hacking?course=hacking101&amp;utm_source=is-footer-FTUD" target="_blank">Hacking</a>
+                            <a href="https://trainings.internshala.com/excel-training?utm_source=is-footer" target="_blank">Advance Excel Training</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/data-analytics?course=analytics101&amp;utm_source=is-footer-FTUD" target="_blank">Data Analytics Training</a>
+                            <a href="https://trainings.internshala.com/business-communication-skills-training?utm_source=is-footer" target="_blank">Business Communication Skills</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/python?course=python101&amp;utm_source=is-footer-FTUD" target="_blank">Python Online Training
-                            </a>
-                        </div>
-                        <div class="footer-list-item">
-                            <a href="https://trainings.internshala.com/iot?course=iot101&amp;utm_source=is-footer-FTUD" target="_blank">IoT Training</a>
+                            <a href="https://trainings.internshala.com/c-plus-plus-training?utm_source=is-footer" target="_blank">Programming with C &amp; C++</a>
                         </div>
                     </div>
                 </div>
@@ -674,10 +858,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <a href="/careers">We're hiring</a>
                         </div>
                         <div class="footer-list-item">
-                            <a href="/registration/employer?utm_source=ISfooter">Hire interns for your company</a>
-                        </div>
-                        <div class="footer-list-item">
-                            <a href="/advertise">Advertise with us</a>
+                                                        <a href="/registration/employer?utm_source=ISfooter">Hire interns for your company</a>
                         </div>
                         <div class="footer-list-item">
                             <a href="http://blog.internshala.com/internshala-editorials/team-diary/" target="_blank">Team Diary</a>
@@ -700,7 +881,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <hr>
             <div class="row" id="footer-bottom">
                 <div class="col-xs-12" id="copyright">
-                    © Copyright 2017 Internshala
+                    © Copyright 2018 Internshala
                 </div>
             </div>
         </div>
@@ -720,7 +901,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 }(document, 'script', 'facebook-jssdk'));
                             </script>
 
-                        
+                            
                                                 <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 981478532;
@@ -747,11 +928,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <script>
                             var l_cookie = "";
                             var web_socket_server_base_url = "wss://wss.internshala.com";
-                            var sw_file_name = "/sw.1507124355.js";
+                            var sw_file_name = "/sw.1517226380.js";
                         </script>
-
+                        
                         <script>
                         </script>
-                    
+                                            
                     
 </body></html>
