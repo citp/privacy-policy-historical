@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701070112id_/https%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129020830id_/https%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
 
 # Westpac NZ - Legal Information
 
-**You can download a copy of our[Privacy Policy here](http://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf)[]() or read it below.**
+  * [Privacy Policy](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab1)
+  * [Website terms of use](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab2)
+  * [General Terms and Conditions](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab3)
+  * [Changes to Westpac Terms and Conditions](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab4)
+
+
+
+[ Privacy Policy  ](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab1)
+
+**You can download a copy of our[Privacy Policy here](https://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf)[]() or read it below.**
 
 At Westpac we are committed to your privacy. In this Privacy Policy we explain how **_Westpac_** (Westpac New Zealand Limited and its NZ operations) collects, stores, uses and shares your personal information.
 
@@ -12,15 +21,15 @@ This Privacy Policy applies to all products and services made available in New Z
 
 ### Summary of how we manage your personal information
 
-[**1\. Collection:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#collection) We collect the personal information you provide to us either directly or from your computer, mobile or other device. We may also collect your personal information from a range of third parties, including service providers. If you choose not to provide the personal information we request then we may not be able to offer all our services to you.
+[**1\. Collection:**](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#collection) We collect the personal information you provide to us either directly or from your computer, mobile or other device. We may also collect your personal information from a range of third parties, including service providers. If you choose not to provide the personal information we request then we may not be able to offer all our services to you.
 
-[**2\. Use and Disclosure:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#use) We use your personal information for a range of purposes including for the provision of products and services, to better understand your preferences and to conduct and develop our business. Where authorised, we may share your personal information with other members of the Westpac Group, credit reporting, governmental and law enforcement agencies and third party service providers.
+[**2\. Use and Disclosure:**](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#use) We use your personal information for a range of purposes including for the provision of products and services, to better understand your preferences and to conduct and develop our business. Where authorised, we may share your personal information with other members of the Westpac Group, credit reporting, governmental and law enforcement agencies and third party service providers.
 
-[**3\. Storage:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#storage) If we collect personal information about you, we will store it in secure data storage facilities usually located in New Zealand or Australia.
+[**3\. Storage:**](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#storage) If we collect personal information about you, we will store it in secure data storage facilities usually located in New Zealand or Australia.
 
-[**4\. Cookies:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#cookies) We use cookies and similar technologies on our websites and other digital services to improve those services and enhance your online experience.
+[**4\. Cookies:**](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#cookies) We use cookies and similar technologies on our websites and other digital services to improve those services and enhance your online experience.
 
-[**5\. Access & Complaints:**](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#access) You may request access and corrections to your personal information.
+[**5\. Access & Complaints:**](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#access) You may request access and corrections to your personal information.
 
 ### 1\. Collection of your personal information 
 
@@ -123,7 +132,7 @@ For those purposes, we may combine information collected from your use of the Di
 
 **4.1 How to control cookie settings on your device**
 
-We recommend you enable cookies on your browsers in order to enjoy all the features of our Digital Services. **You won’t be able to use our secure online banking services if you block some or all cookies**. In addition, other websites and applications may not function properly. You can block advertising cookies by manually adjusting the cookie settings on your website browser - see the “Help” menu on your browser for details. To opt out of receiving personalised messages on the Digital Services and the aggregation and analysis of data about your visits to the Digital Services, you will need to install a special cookie on your browser that identifies you have opted out. You can do this by visiting [westpac.co.nz/nocookies](http://www.westpac.co.nz/nocookies). You will not be able to opt out in this manner if you have previously blocked advertising cookies in your website browser. Opt-out cookies are specific to your browser and device and will need to be re-set on different devices and browsers. To learn more about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+We recommend you enable cookies on your browsers in order to enjoy all the features of our Digital Services. **You won’t be able to use our secure online banking services if you block some or all cookies**. In addition, other websites and applications may not function properly. You can block advertising cookies by manually adjusting the cookie settings on your website browser - see the “Help” menu on your browser for details. To opt out of receiving personalised messages on the Digital Services and the aggregation and analysis of data about your visits to the Digital Services, you will need to install a special cookie on your browser that identifies you have opted out. You can do this by visiting [westpac.co.nz/nocookies](https://www.westpac.co.nz/nocookies). You will not be able to opt out in this manner if you have previously blocked advertising cookies in your website browser. Opt-out cookies are specific to your browser and device and will need to be re-set on different devices and browsers. To learn more about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
 
 ### 5\. Accessing and correcting your personal information
 
@@ -139,9 +148,9 @@ Your satisfaction is our priority so if you have a concern or complaint, please 
 
 ### 7\. How to contact us
 
-  * In person at a branch (you can use our handy branch locator tool at [westpac.co.nz/redpages](http://www.westpac.co.nz/who-we-are/find-contact-us/find-a-branch-or-atm/)) 
+  * In person at a branch (you can use our handy branch locator tool at [westpac.co.nz/redpages](https://www.westpac.co.nz/who-we-are/find-contact-us/find-a-branch-or-atm/)) 
   * By phone on 0800 400 600, 7 days a week, 7 am – 11 pm 
-  * Online at [westpac.co.nz/feedback](http://www.westpac.co.nz/who-we-are/find-contact-us/feedback/) 
+  * Online at [westpac.co.nz/feedback](https://www.westpac.co.nz/who-we-are/find-contact-us/feedback/) 
   * In writing to the Westpac Privacy Officer, Freepost 125 436, P.O. Box 934, Auckland 1140, New Zealand.
 
 
@@ -156,7 +165,9 @@ This Privacy Policy is governed by New Zealand law. Your personal information wi
 
 This policy is current as at **20 October 2016**.
 
-[Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
+[Back to top](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
+
+[ Website terms of use  ](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab2)
 
 ### Information you must read before proceeding into the Westpac Website.
 
@@ -174,13 +185,94 @@ This policy is current as at **20 October 2016**.
   10. You agree that any ideas, suggestions or comments you provide to Westpac through this website will be treated as non-confidential and non-proprietary to you. Such ideas, suggestions and comments will become the exclusive property of Westpac and may be used by Westpac in whole or in part in any manner whatsoever without notice or compensation to you.
   11. The copyright in this website is owned by Westpac New Zealand Limited. You may electronically reproduce and store the website’s contents solely for the purposes of viewing the website, or saving its content. However, if you want to display or distribute the content or any of the pages of the website in public or in such a way that they will be accessible to the public (including reproduction in any form on the Internet), you must first obtain Westpac’s permission.
   12. Access to the Westpac's internet banking services is restricted to authorised users only. Unauthorised users may be subject to criminal or civil prosecution under the laws of New Zealand or under the laws of the country from which unauthorised access took place.
-  13. These Website Terms of Use incorporate [Westpac's Privacy Policy which is available here](http://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf).
+  13. These Website Terms of Use incorporate [Westpac's Privacy Policy which is available here](https://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf).
 
 
 
 5 December 2013
 
-[Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
+[Back to top](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
+
+[ General Terms and Conditions  ](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab3)
+
+#### General Terms & Conditions - Effective 13 November 2017
+
+[Westpac New Zealand Limited General Terms and Conditions](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/General-Terms-Conditions_13_Nov_2017.pdf)
+
+#### General Terms & Conditions - Effective 20 October 2016
+
+[Westpac New Zealand Limited General Terms and Conditions](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/General-Terms-Conditions.pdf)
+
+#### Supplier Terms & Conditions - Effective 4 November 2016
+
+Applicable for suppliers supplying goods or services to Westpac not currently covered by an existing agreement.
+
+[Westpac New Zealand Supplier General Terms and Conditions](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Terms-and-conditions-for-P2P-041116.pdf "Westpac New Zealand Supplier General Terms & Conditions")
+
+[ Changes to Westpac Terms and Conditions  ](https://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#tab4)
+
+**22 December 2017**
+
+From 8 January 2017, we’re making the following changes to our term sheets for each of Westpac Term Deposits, the Westpac Term PIE Fund, the Westpac Cash PIE Fund and the Westpac Notice Saver PIE Fund.
+
+1\. In the term sheets for all four products, some references to the Code of Banking Practice are being replaced with a reference to Westpac General Terms and Conditions.
+
+We are making this change because of anticipated changes to the Code of Banking Practice which will remove detail around methods of communication with customers. Equivalent provisions have now been inserted into the Westpac General Terms and Conditions.
+
+2\. For the Westpac Cash PIE Fund, new Online Saver PIE accounts are no longer available. For Online Bonus Saver PIE, you can choose to have one or multiple accounts.
+
+3\. For the Westpac Notice Saver PIE Fund, the Funds on Notice rate may no longer be similar to the rate of a term deposit that has the same or similar term to the minimum notice period. The wording in the term sheet will be changed to reflect this.
+
+### Updated documents
+
+The updated Term Sheets are available below.
+
+[Westpac Term Deposit](https://www.westpac.co.nz/assets/Personal/Investment-and-KiwiSaver/Term-Sheets/Westpac-Term-Deposit-Term-Sheet.pdf)
+
+[Westpac Term PIE Fund](https://www.westpac.co.nz/assets/Personal/Investment-and-KiwiSaver/Term-PIE-Fund-Investment-Statement.pdf)
+
+[Westpac Cash PIE Fund](https://www.westpac.co.nz/assets/Personal/Bank-Accounts/Cash-PIE/Cash-PIE-Fund-Term-Sheet.pdf)
+
+[Westpac Notice Saver PIE Fund](https://www.westpac.co.nz/assets/Personal/Investment-and-KiwiSaver/Term-Sheets/Westpac-Notice-Saver-PIE-Fund-Term-Sheet.pdf)
+
+******30 October 2017******
+
+**We are making some changes to our General Terms and Conditions effective as from 13 November 2017.**
+
+The key changes:
+
+\- the removal of our special answers provision as Westpac is removing our ‘Special Answer’ service for the fast clearance of cheques, effective 13 November 2017;
+
+\- new wording to clarify liability where a customer has used their account for fraudulent or unauthorised transactions;
+
+\- amendments to the international payments provisions clarifying international payment processes, including correspondent and beneficiary bank charges;
+
+\- the exclusion of Westpac One Business from the Electronic Banking Services Terms; and
+
+\- clarification as to the method by which a customer can contact Westpac to close an account.
+
+Our updated General Terms and Conditions are displayed below.
+
+[****Westpac General Terms and Conditions****](https://www.westpac.co.nz/assets/Managing-your-Money/Public-Notices/General-Terms-and-Conditions-30_10_2017.pdf "Terms and Conditions")
+
+****18 October 2017****
+
+**Change to Customer Requested Value Transactions Fee**
+
+Effective 1st November 2017, we will increase the Customer Requested Value Transaction Fee, from $10 to $15.  This fee is applied to a business account when a customer requests Westpac to complete a bank transfer between their accounts or to a third party on their behalf. 
+
+Alternatively, customers can avoid this fee by completing the transaction via our on-line banking channels. Please refer to the [Business Service and Transaction Fees](https://www.westpac.co.nz/assets/Personal/Your-Money-and-Tailored-Packs/Brochures/business_transaction_and_service_fees.pdf) brochure regarding specific transaction fees for each account.
+
+**18 August 2017**
+
+**Change of Personal Overdraft Establishment Fee for temporary overdrafts**
+
+**Effective 1 September 2017 we will reduce the Personal Overdraft Establishment Fee  for customers who require a temporary overdraft facility of 45 days or less (temporary overdraft).**
+
+From 1 September 2017, the following fees will apply to temporary overdrafts:
+
+\- For temporary overdrafts of $100 or less, there will be no establishment fee.   
+\- For temporary overdrafts in excess of $100, the establishment fee will be $9.
 
 **1 June 2017**
 
@@ -194,9 +286,9 @@ This function allows customers who use their hotpoints credit card for qualifyin
 
 A link to each of our updated conditions of use that apply to hotpoints credit cards and will come into effect on 15 June 2017 are available below.
 
-[Westpac Credit Card Conditions of Use](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/CONDITIONS-OF-USE/72696WP-14-05-17-General-Credit-Cards-Conditions-of-Use-Brochure.pdf)
+[Westpac Credit Card Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/CONDITIONS-OF-USE/72696WP-14-05-17-General-Credit-Cards-Conditions-of-Use-Brochure.pdf)
 
-[Westpac World Mastercard® Account Conditions of Use](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/CONDITIONS-OF-USE/72919WP-9-05-17-World-Conditions-of-Use.pdf)
+[Westpac World Mastercard® Account Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/CONDITIONS-OF-USE/72919WP-9-05-17-World-Conditions-of-Use.pdf)
 
 ****9 March 2017****
 
@@ -208,11 +300,11 @@ From 23rd March 2017, we're making some changes to the Conditions of Use that ap
 
 The new Conditions of Use will come into effect on 23rd March 2017 and are available below.
 
-[MasterCard Business Card Conditions of Use ](http://www.westpac.co.nz/assets/Business/Lending-and-Credit-Cards/63394WT-5-02-17-MasterCard-BusinessCard-Conditions-of-Use-1.pdf)
+[MasterCard Business Card Conditions of Use ](https://www.westpac.co.nz/assets/Business/Lending-and-Credit-Cards/63394WT-5-02-17-MasterCard-BusinessCard-Conditions-of-Use-1.pdf)
 
 **27 January 2017**
 
-With effect from 1 March 2017 we are making changes to Westpac Credit Card Overseas Travel Insurance policies, which includes making them dementia friendly. Find out more about the policy change [here](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/credit-card-travel-insurance-policy-changes.pdf).
+With effect from 1 March 2017 we are making changes to Westpac Credit Card Overseas Travel Insurance policies, which includes making them dementia friendly. Find out more about the policy change [here](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/credit-card-travel-insurance-policy-changes.pdf).
 
 ##### **18 January 2017**
 
@@ -226,7 +318,7 @@ From 1 February 2017 we're changing some of our fees on our products and service
 
 The key changes:
 
-\- we’ve created a new and separate Westpac Privacy Policy which is now available [here](http://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf "Westpac Privacy Policy") at westpac.co.nz or at any Westpac branch;
+\- we’ve created a new and separate Westpac Privacy Policy which is now available [here](https://www.westpac.co.nz/assets/Personal/Westpac-Privacy-Policy.pdf "Westpac Privacy Policy") at westpac.co.nz or at any Westpac branch;
 
 \- if we change our General Terms and Conditions, or the terms and conditions of Westpac’s services and products, we will give our customers at least 14 days notice in at least one of the following ways: on our website, in branch, within Westpac Online Banking, by public notice, in newspapers or by email or letter;
 
@@ -274,7 +366,7 @@ Choices Everyday Home Loan Terms and Conditions
 
 The key changes :
 
-  * Remove reference to specific daily transaction and ATM withdrawal limits in the conditions of use and including a reference that details of such limits are available [here](http://www.westpac.co.nz/daily-transaction-limits/).
+  * Remove reference to specific daily transaction and ATM withdrawal limits in the conditions of use and including a reference that details of such limits are available [here](https://www.westpac.co.nz/daily-transaction-limits/).
   * Provide that following the closure of a hotpoints credit card, any unredeemed hotpoints will expire 10 business days from the date of closure of the hotpoints credit card account.
 
 
@@ -299,13 +391,13 @@ Westpac Airpoints Credit Card Conditions of Use
 
 **Redeeming hotpoints®**
 
-To give customers the flexibility to choose the best rewards programme for them, when we launched our Airpoints offer, we also introduced the special offer of 180 days to redeem any unused hotpoints when switching to an Airpoints credit card. This special offer expired on 29 April following which the standard 10 business days to redeem unused hotpoints when cancelling or switching a hotpoints credit card will apply. For more information see [Westpac Credit Card Conditions of Use](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/General-Credit-Cards-Conditions-of-Use-Brochure.pdf).
+To give customers the flexibility to choose the best rewards programme for them, when we launched our Airpoints offer, we also introduced the special offer of 180 days to redeem any unused hotpoints when switching to an Airpoints credit card. This special offer expired on 29 April following which the standard 10 business days to redeem unused hotpoints when cancelling or switching a hotpoints credit card will apply. For more information see [Westpac Credit Card Conditions of Use](https://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/General-Credit-Cards-Conditions-of-Use-Brochure.pdf).
 
 ##### **1 December 2015 changes:**
 
 **Credit Card Travel Insurance Policy changes**
 
-Some changes have been made to the Overseas Travel Insurance policies that apply to the Westpac Gold Card, Titanium Credit Card, hotpoints Platinum MasterCard and hotpoints  _World MasterCard_  products. To view the policies effective from 1st December, ** [click here](http://www.westpac.co.nz/credit-cards/managing-your-credit-card/credit-card-insurance-cover/)[.](http://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions-November-2015.pdf)**
+Some changes have been made to the Overseas Travel Insurance policies that apply to the Westpac Gold Card, Titanium Credit Card, hotpoints Platinum MasterCard and hotpoints  _World MasterCard_  products. To view the policies effective from 1st December, ** [click here](https://www.westpac.co.nz/credit-cards/managing-your-credit-card/credit-card-insurance-cover/)[.](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions-November-2015.pdf)**
 
 ##### 23 November 2015 changes:
 
@@ -313,7 +405,7 @@ Some changes have been made to the Overseas Travel Insurance policies that apply
 
 The changes clarify certain operational aspects of electronic transactions, in particular relating to automatic payments and direct debits.
 
-[Westpac General Terms and Conditions](http://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions-November-2015.pdf)[](http://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/General-Terms-Conditions.pdf)
+[Westpac General Terms and Conditions](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/Westpac-General-Terms-and-Conditions-November-2015.pdf)[](https://www.westpac.co.nz/assets/Who-we-are/About-Westpac-NZ/General-Terms-Conditions.pdf)
 
 ##### 26 September 2015 changes:
 
@@ -328,7 +420,7 @@ Various sections of the Westpac Debit MasterCard Conditions of Use have been up
 
 The new Conditions of Use will come into effect on 26 September 2015 are available below.
 
-[Conditions of Use for Westpac Debit MasterCard and Westpac Airpoints Debit MasterCard](http://www.westpac.co.nz/assets/Personal/Bank-Accounts/Debit-MasterCard-Conditions-of-Use.pdf)[](file:///C:/Users/F785431/AppData/Local/Temp/notes2C87F0/Debit%20Card%20Conditions%20of%20Use%20-%20web%20copy%20amends%20100915.docx#_msocom_1)
+[Conditions of Use for Westpac Debit MasterCard and Westpac Airpoints Debit MasterCard](https://www.westpac.co.nz/assets/Personal/Bank-Accounts/Debit-MasterCard-Conditions-of-Use.pdf)[](file:///C:/Users/F785431/AppData/Local/Temp/notes2C87F0/Debit%20Card%20Conditions%20of%20Use%20-%20web%20copy%20amends%20100915.docx#_msocom_1)
 
 ##### 5 June 2015 changes:
 
