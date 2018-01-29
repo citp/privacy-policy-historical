@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myandroidmag.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229071624id_/http%3A//www.myandroidmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myandroidmag.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129025228id_/http%3A//www.myandroidmag.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Android Magazine
 
