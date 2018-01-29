@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myplay.video privacy policy that was archived on 2017-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170815160149id_/http%3A//myplay.video/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplay.video privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129132145id_/https%3A//myplay.video/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyPlay.Video
 
 ### Data Security and Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to [Contact us](http://myplay.video/contact). 
+If you require any more information or have any questions about our privacy policy, please feel free to [Contact us](https://myplay.video/contact). 
 
 At MyPlay.Video the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by MyPlay.Video and how it is used.
 
