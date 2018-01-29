@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606103005id_/http%3A//quotes.freerealtime.com/dl/frt/A%3FSA%3DPrivacy%2520Statement%26file%3Dmain/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129014433id_/http%3A//www2.freerealtime.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - FreeRealTime.com
-
-**Privacy Policy**
-
-* * *
-
-  
-
+# Privacy Policy | FreeRealTime
 
 ## _FreeRealTime.com Privacy Policy_
 
@@ -65,21 +58,21 @@ Our Web site has certain security measures in place in effort to protect the los
 
 Our Web site contains links to other sites. FreeRealTime.com is not responsible for the privacy practices or the content of such sites. You may wish to review the privacy policies of these sites. 
 
-**Third Party Advertising**   
+**Third Party Advertising**  
 We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here ](http://www.networkadvertising.org/optout_nonppii.asp)
 
-**Third Party Cookies**   
+**Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique 'cookie' on your browser. 
 
 ## Your Options
 
 You may choose not to register for real-time quotes. Access to delayed quotes does not require registration. 
 
-You may opt-out of receiving communications from us and/or our partners. Your options include: 
+You may opt-out of receiving communications from us and/or our partners. Your options include:   
+ 
 
-* Opting to not receive promotional materials from our advertisers and/or,  
-
-* Opting to not receive any newsletters, notices about new services or any other content from FreeRealTime.com. 
+  * Opting to not receive promotional materials from our advertisers and/or,
+  * Opting to not receive any newsletters, notices about new services or any other content from FreeRealTime.com. 
 
 You may opt-out during the registration process or after registering by visiting us at <http://www.freerealtime.com/> and using the Account Information link or by contacting us [by e-mail](mailto:support@corp.freerealtime.com) Every e-mail we send to you will provide you with instructions on how to unsubscribe so that you will not receive any future e-mails. 
 
@@ -92,10 +85,13 @@ You may correct or update any information previously provided to us by visiting 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Web Site Administrator  
-FreeRealTime, LLC. href="/dl/frt/account?IM=support">Contact support 
+FreeRealTime, LLC. Contact support 
 
 ## Additional Information
 
 Please also refer to the FreeRealTime.com License Agreement for additional privacy related information. For general information about Internet privacy issues, you may wish to visit the Web site hosted by the Federal Trade Commission at <http://www.ftc.gov/privacy>. 
 
 We may from time to time revise this Privacy Policy. This statement of our Privacy Policy was last revised on July 2, 2014. 
+
+
+
