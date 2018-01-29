@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118193243id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129050007id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -11,8 +11,8 @@ This site gives users the following options for removing their information from 
   * You can **[click here](http://www.shop4tech.com/e/pref/)** to unsubscribe
   * You can send mail to the following postal address:   
 _PLC Multimedia Inc. (Optout)  
-13745 Seminole Drive   
-Chino, CA 91710_
+1226 E Lexington Ave.   
+Pomona, CA 91766_
   * You can call the following telephone number: **Toll Free: 877-659-7392**
 
 
@@ -26,8 +26,8 @@ This site has security measures in place to protect the loss, misuse and alterat
   * **[email](mailto:support@shop4tech.com)**
   * send mail to the following postal address:   
 _PLC Multimedia Inc. (Optout)  
-13745 Seminole Drive   
-Chino, CA 91710_
+1226 E Lexington Ave.   
+Pomona, CA 91766_
 
 
 
