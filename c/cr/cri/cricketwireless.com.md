@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001014932id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketwireless.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130004831id_/https%3A//www.cricketwireless.com/legal-info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Cricket
 
