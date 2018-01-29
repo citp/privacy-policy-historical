@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodtruckr.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204816id_/http%3A//foodtruckr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtruckr.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130000117id_/https%3A//foodtruckr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FoodTruckr | How to Start and Run a Successful Food Truck Business
 
@@ -78,7 +78,7 @@ through this Site as we use their services for social media and infrastructure p
 
 Google participates in the NIA opt out program. You can visit this link
 
-[<http://www.networkadvertising.org/choices/#completed>] to no longer be tracked by
+[[http://www.networkadvertising.org/choices/#completed](https://www.networkadvertising.org/choices/#completed)] to no longer be tracked by
 
 Google and Google properties such as Google Plus. You can also visit the following
 
