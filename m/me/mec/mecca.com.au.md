@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003133158id_/http%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129105159id_/https%3A//www.mecca.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Customer Service | MECCA
 
@@ -77,9 +77,9 @@ If we determine that Personal Information is no longer needed for any purpose, w
 
 Where we have your express or implied consent, or where we are otherwise permitted by law, we may use your Personal Information to send you information about the products and services we offer, as well as other information that may be of interest to you. We may send this information by mail, email, SMS telephone, on or via social media or other online channels (including by customising online content advertised or displayed on our websites or social media channels)
 
-If you do not wish to receive direct marketing communications from us, you may opt-out at any time by: (a) using the unsubscribe facility that we include in our commercial electronic messages (ie email or SMS); (b) [Contacting Us](http://www.mecca.com.au/contact-us.html); or (c) calling us on **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. This may not remove you from any customer rewards programs or remove you from receiving any social media or other online channels communications or customised online content advertised or displayed on our website or social media channels.
+If you do not wish to receive direct marketing communications from us, you may opt-out at any time by: (a) using the unsubscribe facility that we include in our commercial electronic messages (ie email or SMS); (b) [Contacting Us](https://www.mecca.com.au/contact-us.html); or (c) calling us on **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. This may not remove you from any customer rewards programs or remove you from receiving any social media or other online channels communications or customised online content advertised or displayed on our website or social media channels.
 
-To opt out of all communications from us, including communications regarding our customer rewards programs, you may opt out by notifying us, that you wish to opt out of all communications, in store or contacting us [here](http://www.mecca.com.au/contact-us.html) or calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. If you opt out of all communications, this will also remove you from receiving any email or direct mail communications from us (including communications about customer reward programs such as Mecca Beauty Loop). In these circumstances and for client management purposes, we will not delete your client file and this can still be accessed for making purchases in store or via our websites. Further, opting out of communications about customer reward programs such as Mecca Beauty Loop will not have the effect of removing you from that program.
+To opt out of all communications from us, including communications regarding our customer rewards programs, you may opt out by notifying us, that you wish to opt out of all communications, in store or contacting us [here](https://www.mecca.com.au/contact-us.html) or calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**. If you opt out of all communications, this will also remove you from receiving any email or direct mail communications from us (including communications about customer reward programs such as Mecca Beauty Loop). In these circumstances and for client management purposes, we will not delete your client file and this can still be accessed for making purchases in store or via our websites. Further, opting out of communications about customer reward programs such as Mecca Beauty Loop will not have the effect of removing you from that program.
 
 * * *
 
@@ -135,7 +135,7 @@ Although our sites may contain links to or from external websites, those website
 
 We will use our reasonable endeavours to keep your Personal Information that we collect accurate, up-to-date and complete. Upon your request we will provide you with access to any of your Personal Information we hold (except in the limited circumstances recognised at law).
 
-If you require access to your Personal Information which we have collected from you, please contact our Privacy Officer at [Contact Us](http://www.mecca.com.au/contact-us.html).
+If you require access to your Personal Information which we have collected from you, please contact our Privacy Officer at [Contact Us](https://www.mecca.com.au/contact-us.html).
 
 Proof of identity is required before such information will be provided. For most requests, your information will be provided free of charge, however it may be necessary to charge a reasonable fee if your request requires a substantial effort on our part.
 
@@ -143,7 +143,7 @@ Proof of identity is required before such information will be provided. For most
 
 ##### 13\. RESOLVING YOUR PRIVACY ISSUES
 
-If you have any issues you wish to raise with us regarding, or would like to discuss any issues about, our Privacy Policy, please [Contact Us](http://www.mecca.com.au/contact-us.html) or by calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**  with your issues or queries.
+If you have any issues you wish to raise with us regarding, or would like to discuss any issues about, our Privacy Policy, please [Contact Us](https://www.mecca.com.au/contact-us.html) or by calling  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**  with your issues or queries.
 
 * * *
 
@@ -155,7 +155,7 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 
 ##### 15\. CONTACTING US
 
-We have taken great measures to ensure that your interaction with us is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact our Privacy Officer by [Contacting Us](http://www.mecca.com.au/contact-us.html) or call  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**  and please provide our Privacy Officer with full details of your complaint and any supporting documentation.
+We have taken great measures to ensure that your interaction with us is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact our Privacy Officer by [Contacting Us](https://www.mecca.com.au/contact-us.html) or call  **1800 007 844 (Australia)**  or  **0800 882 443 (New Zealand)**  and please provide our Privacy Officer with full details of your complaint and any supporting documentation.
 
 Please do not email the Privacy Officer for any matters that do not relate to Privacy such as applications for employment, resumes or questions regarding employment. Any applications, resumes and questions sent to the Privacy Officer may not be responded to. To apply for a job, follow the instructions outlined in Careers.
 
