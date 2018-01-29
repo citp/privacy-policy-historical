@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoddereducation.co.uk privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001145811id_/https%3A//www.hoddereducation.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoddereducation.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129134820id_/https%3A//www.hoddereducation.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Hodder Education - Privacy Polciy
 
