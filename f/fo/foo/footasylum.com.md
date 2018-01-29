@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210045834id_/https%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129103957id_/https%3A//www.footasylum.com/privacy) for the most accurate reproduction.*
 
 # Footasylum Customer Services - Privacy policy
 
 We are committed to safeguarding the privacy and security of our website visitors, this policy sets out how we will treat your personal information.  
 
-###  Data Collection
+### Data Collection
 
 We may collect, store and use the following kinds of personal data:
 
@@ -16,11 +16,11 @@ We may collect, store and use the following kinds of personal data:
 
 
 
-###  Cookies (Collection of Anonymous Data)
+### Cookies (Collection of Anonymous Data)
 
 A cookie is a small text file stored by your web browser on your computer or mobile phone's hard drive. Some cookies are essential for the website to work for example to remember what you have added to your basket while you browse the site. They are useful because they help us to provide you with relevant information, such as remembering what you have in your wish list or basket when you return to our site. They also allow us to recognise your computer (but not specifically who is using it) when you access our website and to improve the usability and performance of our website. View our [cookie policy](https://web.archive.org/cookie-policy/).
 
-###  Use of Information
+### Use of Information
 
 Personal data submitted on this website will be used for the purposes specified below; data will not be passed onto third parties for use in direct marketing unless we have your expressed consent.   We may use your personal information:
 
@@ -29,7 +29,7 @@ Personal data submitted on this website will be used for the purposes specified 
   * to Send you commercial communications;
   * to Deal with enquiries and complaints made by or about you relating to our service and website;
   * to Provide third parties with statistical information about our website users;
-  * to Send you marketing information with your express permission via mediums including email, post and telephone. You have the right to terminate marketing communications at any point by emailing “stop communications” via the [contact us](https://web.archive.org/page/contact/) form; 
+  * to Send you marketing information with your express permission via mediums including email, post and telephone. You have the right to terminate marketing communications at any point by emailing “stop communications” via the [contact us](https://www.footasylum.com/page/contact/) form; 
   * to Send order confirmations and invoices to you.;
   * for Internal Record Keeping;
   * to improve our products and services;
@@ -38,26 +38,24 @@ Personal data submitted on this website will be used for the purposes specified 
 
 
 
-###  Transfer of data
+### Transfer of data
 
 In addition to the points above we may transfer, disclose, sell, distribute, or lease your personal information to third parties unless you tell us you do not wish this to happen.  This may include direct marketing agents.
 
-###  Security
+### Security
 
 We will store all the personal information you provide on the secure servers of our web service provider. All electronic transactions you make to or receive from us will be encrypted using SSL technology and we will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We cannot guarantee the safety of data transferred by you over the Internet. You personally are responsible for keeping your personal access details safe.  
 
-###  Policy Updates
+### Policy Updates
 
 We may update this privacy policy from time to time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
 
-###  Data Access Rights
+### Data Access Rights
 
-You are entitled to request a copy of all personal data held about you. To obtain a copy please write to us:
+You are entitled to request a copy of all personal data held about you. To obtain a copy please write to us:  
+Footasylum Customer Services, Sandbrook House, Sandbrook Park, Sandbrook Way, Rochdale, OL11 1RY  
+We do however request an administration fee; therefore please enclose a cheque for £10.00, made payable to Footasylum plc.
 
-Footasylum Customer Services, Sandbrook House, Sandbrook Park, Sandbrook Way, Rochdale, OL11 1RY
-
-We do however request an administration fee; therefore please enclose a cheque for £10.00, made payable to Footasylum Limited.  
-
-###  Other Parties
+### Other Parties
 
 This website may contain links to other (third party) websites. We are not responsible for the content or privacy policies of said websites.  The use of third party websites is entirely at your own risk and we accept no liability for the content of any linked site or any link contained in a linked site.  If you access other sites then using the links provided, these sites may collect information from you which will be used by them in accordance with their privacy policy, which we have no control over. The privacy policies of third party sites may differ from our own.
