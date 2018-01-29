@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the izea.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005183749id_/https%3A//app.izea.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izea.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129010559id_/https%3A//app.izea.com/privacy_policy) for the most accurate reproduction.*
 
 # IZEA : The Creator Marketplace
 
@@ -16,7 +16,7 @@ IZEA may collect two types of information from users of our Sites: “personal i
 
 ## Collecting and Using Your Personal Information
 
-IZEA only collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Creator Marketplace - the “IZEA Exchange” (IZEAx), we ask you for personal information such as your name, address, social service connectors, email address, and social security number. (Please note that we require social security numbers for income tax reporting purposes.) We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
+IZEA only collects personal information that is voluntarily provided when users sign up for an IZEA site or service. Specifically, when you sign up for our Creator Marketplace - the “IZEA Exchange” (IZEAx), we ask you for personal information such as your name, address, social media connections, and email address. We may also request PayPal payment account information which we maintain in encrypted form on secure servers.
 
 ## Collecting and Using Your Aggregate Information
 
