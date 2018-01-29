@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countdown.co.nz privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407095600id_/https%3A//www.countdown.co.nz/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countdown.co.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129062022id_/https%3A//www.countdown.co.nz/about-us/our-policies/privacy-statement) for the most accurate reproduction.*
 
-# Our privacy statement
+# Privacy statement - Countdown
 
 **1\. Respecting your privacy**
 
