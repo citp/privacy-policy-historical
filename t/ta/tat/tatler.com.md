@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatler.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620000150id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatler.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129072443id_/https%3A//www.condenast.co.uk/privacy/%3Futm_source%3DTatler%2520Magazine%26utm_campaign%3Dcookiewarning%26utm_medium%3Dreferral) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Statement - The Condé Nast Publications Ltd.
 
@@ -32,7 +32,7 @@ We are committed to safeguarding your privacy online. We appreciate that you do 
 ## 1\. What personal information do we collect from you?
 
   * 1.1. What is personal information? Personal information is any information that allows someone to identify you, including, for example, your name, address, telephone and mobile numbers, email address, as well as any information about you that is associated with or linked to, or could be linked to, any of the foregoing data.
-  * 1.2. Your personal information is collected when you register or fill in a form on a Website, contact Condé Nast, or complete a form in any of our publications which may relate, for example, to subscriptions, competitions, offers and promotions. This includes information you provide when you register to use our Website, subscribe to newsletters, place an order or participate in discussion boards on our Website. The information you give us may include your name, address, email, phone number and payment details.
+  * 1.2. Your personal information is collected when you register or fill in a form on a Website, contact Condé Nast, or complete a form in any of our publications which may relate, for example, to subscriptions, competitions, offers and promotions and personal information you provide in online surveys and forums on a voluntary basis. This includes information you provide when you register to use our Website, subscribe to newsletters, place an order or participate in discussion boards on our Website. The information you give us may include your name, address, email, phone number and payment details.
   * 1.3. Personal information that is provided by you will only be used for the purpose for which it is provided, unless you are informed otherwise at the time of giving the information.
   * 1.4. Condé Nast will from time to time collect information from you for the purpose of creating de-personalised data that does not reveal your identity. Condé Nast uses this information to improve our products and occasionally for other internal purposes. This information is only used in de-personalised form and is not connected to any name, address or other personal identifying information.
 
@@ -54,6 +54,7 @@ We are committed to safeguarding your privacy online. We appreciate that you do 
     * monitoring, developing and improving the Websites, our services and your experience;
     * providing a personalised service;
     * conducting market research surveys;
+    * market research, community and forums management;
     * running competitions;
     * providing you with information about Condé Nast's, or our business partners' products and services where you have provided your consent. You will always be able to opt-out or unsubscribe from these messages;
     * send out email alerts you have agreed to receive. You will always be able to unsubscribe from these messages;
@@ -169,6 +170,9 @@ When you create or log in to an account on [http://www.google.com](http://www.go
 
 More information about this cookie and Google's Privacy Policy can be found at <https://www.google.com/policies/privacy/>  
   
+Communities and forum site cookies | Communities domains e.g. uk.voguevoices.com | Condé Nast uses Vision Critical as a provider of communities and forums. Vision Critical sets various cookies to administer the community websites. For a full list of Vision Critical cookies click here([/privacy/vision-critical-cookies/](https://web.archive.org/privacy/vision-critical-cookies/))  
+Oracle BlueKai DMP cookies | Condé Nast websites | The Oracle DMP creates profiles through the use of cookies, cross-device/cross-context technology (such as statistical IDs), or other unique identifiers provided to us by customers (such as mobile-device IDs) to learn about your journey across websites owned and operated by Conde Nast. This information is used in order to help us show you more relevant marketing content. To learn more about this cookie please visit Oracle BlueKai's privacy policy (<https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html>) or to opt out please visit the Oracle BlueKai registry (<http://www.bluekai.com/registry/>).  
+  
   * 9.1. Social networking sites, such as Facebook, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
   * 9.2. We do not control how your personal information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the information they may be sharing. If you do not want your networking sites to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Condé Nast is not responsible for how these third party sites may use information collected from or about you.
 
@@ -186,6 +190,7 @@ More information about this cookie and Google's Privacy Policy can be found at <
   * 11.1. You are entitled to see the information we hold about you. If you wish to access the personal information held by us, you should contact us in writing using the information provided below.
   * 11.2. If we are legally able, we will provide you with copies of all the personal information we hold about you, on payment of a nominal administration charge of £10. We are also obliged to request that you provide us with identification so that we can be certain that you are entitled to receive the requested data.
   * 11.3. Please help us to keep our records of your personal information up-to-date by notifying us of any changes or corrections to the personal information we hold about you.
+  * 11.4. If you are a member of one of our online communities and forums you will be able to directly log in and review some your personal information and amend/delete accordingly.
 
 
 
