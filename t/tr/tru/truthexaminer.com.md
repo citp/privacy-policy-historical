@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the truthexaminer.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205053754id_/https%3A//www.truthexaminer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthexaminer.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129202850id_/https%3A//www.truthexam.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TruthExaminer.com |
+# Privacy Policy
 
 ### **General**
 
-TruthExaminer.com respects the privacy of every individual who visits our web sites, responds to any of our mailings, or sends us e-mail. This Privacy Statement outlines the information TruthExaminer.com will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit our websites, respond to our web-based mailings or send us email.
+Massoumi Web Holdings, LLC respects the privacy of every individual who visits our web sites, responds to any of our mailings, or sends us e-mail. This Privacy Statement outlines the information Massoumi Web Holdings, LLC will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit our websites, respond to our web-based mailings or send us email.
 
 ###  **Security**
 
@@ -12,12 +12,12 @@ We are committed to protecting the security of your personal information. We use
 
 ###  **Personal Information**
 
-TruthExaminer.com will not collect any personally-identifiable information about you (that is, your name, address, telephone number, email address, credit card billing information, etc.) unless you provide it to us voluntarily.
+Massoumi Web Holdings, LLC will not collect any personally-identifiable information about you (that is, your name, address, telephone number, email address, credit card billing information, etc.) unless you provide it to us voluntarily.
 
-The following are some examples of when TruthExaminer.com may require that you provide personally-identifiable information:
+The following are some examples of when Massoumi Web Holdings, LLC may require that you provide personally-identifiable information:
 
   * To complete an order for a product or service
-  * To request more information about new or current TruthExaminer.com products or services
+  * To request more information about new or current Massoumi Web Holdings, LLC products or services
 
 
 
@@ -27,14 +27,14 @@ When you do provide us with personally-identifiable information, we may use that
 
   * We may store and process that information to better understand all customer needs and how we can improve our products and services for all customers
   * We may use that information to contact you with new promotions and announcements if you have previously provided your permission and if the promotions and announcements are in your interest
-  * We may contact you if we have questions about your account TruthExaminer.com will not rent, sell, or lease personally-identifiable information to third parties.
+  * We may contact you if we have questions about your account Massoumi Web Holdings, LLC will not rent, sell, or lease personally-identifiable information to third parties.
 
 
 
 We will not disclose personal information except as follows:
 
   * To persons or companies who help us provide products and services to you. We may share information with business partners. We will only provide those companies the personal information they need to deliver the service and they are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
-  * When required by law. TruthExaminer.com may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to comply with the law, to enforce our software licenses and other rights, or to protect the rights and safety of others. This may include exchanging information with law enforcement agencies, or with other companies and organizations for fraud protection and credit risk.
+  * When required by law. Massoumi Web Holdings, LLC may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to comply with the law, to enforce our software licenses and other rights, or to protect the rights and safety of others. This may include exchanging information with law enforcement agencies, or with other companies and organizations for fraud protection and credit risk.
   * As part of a sale of our assets or a merger of our company. We may in the future sell all or part of our assets or be involved in a merger. It is customary for user information to be included with the transferred assets in these types of transactions.
 
 
@@ -61,10 +61,10 @@ When you view one of our web sites we may store some information on your compute
 
 ###  **Web Beacons**
 
-TruthExaminer.com web pages may contain electronic images known as web beacons – sometimes called single-pixel gifs – that allow us to count users who have visited those pages and to deliver co-branded services. We may include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personal information; they are a technique we use to compile aggregated statistics about web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
+Massoumi Web Holdings, LLC web pages may contain electronic images known as web beacons – sometimes called single-pixel gifs – that allow us to count users who have visited those pages and to deliver co-branded services. We may include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your personal information; they are a technique we use to compile aggregated statistics about web site usage. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
 
 ###  **Changes to this Statement**
 
-TruthExaminer.com will occasionally update this Statement of Privacy to reflect company and customer feedback. When we post changes to this Statement, we will include the date at the top of this statement. TruthExaminer.com encourages you to periodically review this Statement to be informed of how we are protecting your information.
+Massoumi Web Holdings, LLC will occasionally update this Statement of Privacy to reflect company and customer feedback. When we post changes to this Statement, we will include the date at the top of this statement. Massoumi Web Holdings, LLC encourages you to periodically review this Statement to be informed of how we are protecting your information.
 
-Please fill free to [contact us](mailto:editor@truthexaminer.com?subject=Questions/Comments "contact us") with any questions.
+Please fill free to [contact us](mailto:editor@truthexam.com?subject=Questions/Comments "contact us") with any questions.
