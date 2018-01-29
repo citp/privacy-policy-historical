@@ -1,0 +1,1258 @@
+<!--The following is the downloaded HTML source of the slrgear.com privacy policy that was archived on 2018-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180129211747id_/https%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.-->
+
+<html><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/2478.js?438994" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script language="JavaScript" type="text/javascript">
+// If the cookie is not present, begin is set to -1
+begin = document.cookie.indexOf("pgtraffic=");
+// document.write(begin+"<br>");
+// If cookie is not present
+if (begin == -1) {
+// document.write(document.referrer+"<br>");
+
+	// If referer site is pricegrabber
+	var inThere = document.referrer.match(/info_expertreviews/g);
+// document.write(inThere+"<br>");
+
+	if (inThere) {
+
+		// Set cookie, expires when browser closes
+		document.cookie = "pgtraffic=yes;;path=/";
+	}
+}
+</script>
+
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<title>The Imaging Resource Privacy Policy</title>
+<meta name="description" content="Privacy Policy for The Imaging Resource.">
+<meta name="keywords" content="usage policy">
+<link href="/IN/style.css" type="text/css" rel="stylesheet">
+<link rel="SHORTCUT ICON" href="/ART/favicon.ico">
+<script type="text/javascript">
+	
+/*
+ * Sticky Ad Module
+ * The stick ad is a rectangle (300x250) or super rectangle (300x600) that
+ * follows in the right rail as the user scrolls down the page until it hits
+ * the bottom ad, then stops.
+ *
+ */
+
+var adSticky = (function ($) {
+  // private variables and functions
+  var adSelector = '.ad-scroll';
+  var bottomAdSelector = '#scroll-stopper, .affiliate-scroll-stopper';
+  var adWrapper = 'ad-scroll-wrap';
+  var stuckClass = 'stuck-sidebar';
+  var lockedClass = 'locked';
+  var lockedPadding = 50;
+
+
+  // constructor
+  var module = function () {
+    console.log('Sticky Ad Module instantiated');
+    this.wrapElements();
+    this.scrollAdjuster();
+    this.createWaypoints();
+
+    var self = this;
+    $(window).resize(function() {
+      $('.'+adWrapper).removeClass(stuckClass);
+      self.createWaypoints();
+    });
+  };
+
+  // prototype
+  module.prototype = {
+    constructor: module,
+    wrapElements: function() {
+      $(adSelector).each(function() {
+        var height = $(this).outerHeight(true);
+        height = height < 250 ? 250 : height; 
+        $(this).parent('.'+adWrapper).height(height);
+      });
+    },
+
+    scrollAdjuster: function() {
+      $(window).scroll(function() {
+        var $stuckAd = $('.'+stuckClass +' '+adSelector);
+        // the size of the actual browser window on desktop. iOS defaults this to 980px
+        var windowWidth = $(window).width(); 
+        // the size of the document.
+        var docWidth = $(document).width();
+        // the actual size of the screen on iOS.
+        var deviceWidth = window.screen.width;
+
+        if($stuckAd.hasClass('locked'))
+        {
+          $stuckAd.css("marginLeft", 0);
+        }
+        else
+        {
+          // we've scrolled past the right edge of the document
+          // (and we're not on a mobile device where the 'window' is larger than the screen)
+          // if a user expands the browser window wider than their screen width on the desktop
+          // they'll get the sort of paralax effect this is intended to prevent
+          if (windowWidth + $(this).scrollLeft() > docWidth && deviceWidth > windowWidth)
+          {
+            $stuckAd.css("marginLeft", windowWidth - docWidth - 1);
+          }
+          // we've scrolled past the left edge of the document
+          else if ($(this).scrollLeft() < 0)
+          {
+            $stuckAd.css("marginLeft", 0);
+          }
+          // offset the sticky ad with scroll amount
+          else
+          {
+            $stuckAd.css("marginLeft", -$(this).scrollLeft());
+          }
+        }
+      });
+    },
+
+    // Create Waypoints for Sticky Ad
+    createWaypoints: function () {
+
+      $('.'+adWrapper).waypoint(function(direction) {
+        if(direction == 'down')
+        {
+          $(this).addClass(stuckClass);
+        }
+        else
+        {
+          $(this).removeClass(stuckClass);
+          $(this).find(adSelector).css('marginLeft', 0);
+        }
+      });
+
+      $(bottomAdSelector).waypoint(function(direction) {
+        if(direction == 'down')
+        {
+          var offsetTop = $(bottomAdSelector).position().top;
+          offsetTop -= $(adSelector).outerHeight(true);
+          // also subtract some constant to add more space
+          // between the bottom ad and the scrolling ad
+          offsetTop -= lockedPadding;
+
+          $(adSelector).addClass(lockedClass).css({'top' : offsetTop, 'marginLeft' : 0});
+        }
+        else
+        {
+          $(adSelector).removeClass(lockedClass).css({'top' : 0});
+        }
+
+      }, {
+        offset: function() {
+          return $(adSelector).height() + lockedPadding;
+        }
+      });
+    }
+  };
+
+  // return module
+  return module;
+})(jQuery);
+
+
+/*
+ * Expandable Ad Module
+ * The expandable ad module is a rectangle (300x250) or super rectangle (300x600)
+ * in the right rail area that expands in to the content area on mouse-over
+ * or click to contain some larger or expanded content.
+ */
+
+var adExpandable = (function ($) {
+  // private variables and functions
+  var adSelector = '.ad-expandable';
+  var expandedClass = 'expanded';
+  var inTimer, outTimer;
+  var delayIn = 300;
+  var delayOut = 700;
+  // For analytics
+  var campaign = '{advertiser}/{campaign}'; // this needs to change per campaign
+  var dwellStart = 0;
+
+  // constructor
+  var module = function () {
+    console.log('Expandable Ad Module instantiated');
+    _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Ad loaded', campaign, 1, true]);
+    this.setupEvents();
+  };
+
+  // prototype
+  module.prototype = {
+    constructor: module,
+    // Setup Events for Expandable Ad
+    setupEvents: function () {
+      var mod = this;
+
+      $('body').on('mouseover', adSelector, function(){
+        outTimer = clearTimeout(outTimer);
+        var ad = $(this);
+
+        inTimer = setTimeout(function(ad) {
+          console.log('Expandable Ad - Expanded');
+          _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Expanded', campaign, 1, true]);
+          ad.addClass(expandedClass);
+          mod.startDwell();
+        }, delayIn, ad);
+      });
+
+      $('body').on('mouseout', adSelector+'.'+expandedClass, function(){
+        inTimer = clearTimeout(inTimer);
+        var close = true;
+        var ad = $(this);
+
+        outTimer = setTimeout(function(ad) {
+          dwell = mod.stopDwell();
+          if(dwell) {
+            console.log('Expandable Ad - Dwell Time - '+dwell);
+            _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Dwell Time', campaign, dwell, true ]);
+          }
+
+          console.log('Expandable Ad - Collapsed');
+          _gaq.push(['_trackEvent', 'advertising/expandable-ad', 'Collapsed', campaign, 1, true ]);
+          ad.removeClass(expandedClass);
+        }, delayOut, ad);
+
+      });
+    },
+    startDwell: function() {
+      if (window.performance.now) {
+        dwellStart = window.performance.now();
+      }else{
+        dwellStart = Date().getTime();
+      }
+    },
+    stopDwell: function() {
+      if (window.performance.now && dwellStart !== 0) {
+        dwellEnd = window.performance.now();
+      }else{
+        dwellEnd = Date().getTime();
+      }
+
+      dwellTime = Math.round(dwellEnd - dwellStart) / 1000; // dwell time converted to seconds
+      dwellStart = 0;
+      return dwellTime;
+    }
+
+  };
+
+  // return module
+  return module;
+})(jQuery);
+
+
+/**
+ * Not sure if the stuff below is currently used
+ */
+
+
+// Functions for clearing/setting text in searchbox
+function clickclear(thisfield, defaulttext) {
+	if (thisfield.value == defaulttext) {
+		thisfield.value = "";
+	}
+}
+function clickrecall(thisfield, defaulttext) {
+	if (thisfield.value == "") {
+		thisfield.value = defaulttext;
+	}
+}
+
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+	sPicURL = theURL.replace("MD", "LG");
+	window.open( "popup.htm?"+sPicURL, "", "resizable=1,HEIGHT=200,WIDTH=200");
+}
+
+
+
+
+//addLoadListener(initTooltips);
+
+function initTooltips()
+{
+
+  var browserID = identifyBrowser();
+
+  if (browserID.indexOf("ie") != -1) 
+  {
+
+	// Only check table headers if IE
+	var tableHeaders = document.getElementsByTagName("th");
+	var matchedArray = new Array();
+	
+	for (var i = 0; i < tableHeaders.length; i++)
+	{
+		if (tableHeaders[i].getAttribute("class") == "hastooltip")
+		{
+			matchedArray[matchedArray.length] = tableHeaders[i];
+		}
+	}
+	
+	var tips = matchedArray;
+  } 
+  else 
+  {
+
+	// Otherwise, check all elements
+  	var tips = getElementsByAttribute("class", "hastooltip");
+  }
+  
+  
+  for (var i = 0; i < tips.length; i++)
+  {
+    attachEventListener(tips[i], "mouseover", showTip, false);
+    attachEventListener(tips[i], "mouseout", hideTip, false);
+  }
+
+  return true;
+}
+
+function showTip(event)
+{
+  if (typeof event == "undefined")
+  {
+    event = window.event;
+  }
+
+  var target = getEventTarget(event);
+
+  while (target.className == null || !/(^| )hastooltip( |$)/.test(target.className))
+  {
+    target = target.parentNode;
+  }
+
+  var tip = document.createElement("div");
+  var content = target.getAttribute("title");
+
+  target.tooltip = tip;
+  target.setAttribute("title", "");
+
+  if (target.getAttribute("id") != "")
+  {
+    tip.setAttribute("id", target.getAttribute("id") + "tooltip");
+  }
+
+  tip.className = "tooltip";
+  tip.appendChild(document.createTextNode(content));
+
+  var scrollingPosition = getScrollingPosition();
+  var cursorPosition = [0, 0];
+
+  if (typeof event.pageX != "undefined" && typeof event.x != "undefined")
+  {
+    cursorPosition[0] = event.pageX;
+    cursorPosition[1] = event.pageY;
+  }
+  else
+  {
+    cursorPosition[0] = event.clientX + scrollingPosition[0];
+    cursorPosition[1] = event.clientY + scrollingPosition[1];
+  }
+
+  tip.style.position = "absolute";
+  tip.style.left = cursorPosition[0] - 100 + "px";
+  tip.style.top = cursorPosition[1] + 10 + "px";
+  tip.style.visibility = "hidden";
+  
+  document.getElementsByTagName("body")[0].appendChild(tip);
+
+  var viewportSize = getViewportSize();
+
+  if (cursorPosition[0] - scrollingPosition[0] -100 + tip.offsetWidth > viewportSize[0] - 25)
+  {
+    tip.style.left = scrollingPosition[0] + viewportSize[0] - 25 - tip.offsetWidth + "px";
+  }
+  else
+  {
+    tip.style.left = cursorPosition[0] -100 + "px";
+  }
+
+  if (cursorPosition[1] - scrollingPosition[1] + 10 + tip.offsetHeight > viewportSize[1] - 25)
+  {
+    if (event.clientX > (viewportSize[0] - 25 - tip.offsetWidth))
+    {
+      tip.style.top = cursorPosition[1] - tip.offsetHeight - 10 + "px";
+    }
+    else
+    {
+      tip.style.top = scrollingPosition[1] + viewportSize[1] - 25 - tip.offsetHeight + "px";
+    }
+  }
+  else
+  {
+    tip.style.top = cursorPosition[1] + 10 + "px";
+  }
+
+  tip.style.visibility = "visible";
+
+  return true;
+}
+
+function hideTip(event)
+{
+  if (typeof event == "undefined")
+  {
+    event = window.event;
+  }
+
+  var target = getEventTarget(event);
+
+  while (target.className == null || !target.className.match(/(^| )hastooltip( |$)/))
+  {
+    target = target.parentNode;
+  }
+
+  if (target.tooltip != null)
+  {
+    target.setAttribute("title", target.tooltip.childNodes[0].nodeValue);
+    target.tooltip.parentNode.removeChild(target.tooltip);
+  }
+
+  return false;
+}
+
+function addLoadListener(fn)
+{
+  if (typeof window.addEventListener != 'undefined')
+  {
+    window.addEventListener('load', fn, false);
+  }
+  else if (typeof document.addEventListener != 'undefined')
+  {
+    document.addEventListener('load', fn, false);
+  }
+  else if (typeof window.attachEvent != 'undefined')
+  {
+    window.attachEvent('onload', fn);
+  }
+  else
+  {
+    var oldfn = window.onload;
+    if (typeof window.onload != 'function')
+    {
+      window.onload = fn;
+    }
+    else
+    {
+      window.onload = function()
+      {
+        oldfn();
+        fn();
+      };
+    }
+  }
+}
+
+function attachEventListener(target, eventType, functionRef, capture)
+{
+  if (typeof target.addEventListener != "undefined")
+  {
+    target.addEventListener(eventType, functionRef, capture);
+  }
+  else if (typeof target.attachEvent != "undefined")
+  {
+    target.attachEvent("on" + eventType, functionRef);
+  }
+  else
+  {
+    eventType = "on" + eventType;
+
+    if (typeof target[eventType] == "function")
+    {
+      var oldListener = target[eventType];
+
+      target[eventType] = function()
+      {
+        oldListener();
+
+        return functionRef();
+      }
+    }
+    else
+    {
+      target[eventType] = functionRef;
+    }
+  }
+
+  return true;
+}
+
+function getEventTarget(event)
+{
+  var targetElement = null;
+
+  if (typeof event.target != "undefined")
+  {
+    targetElement = event.target;
+  }
+  else
+  {
+    targetElement = event.srcElement;
+  }
+
+  while (targetElement.nodeType == 3 && targetElement.parentNode != null)
+  {
+    targetElement = targetElement.parentNode;
+  }
+
+  return targetElement;
+}
+
+function getViewportSize()
+{
+  var size = [0,0];
+
+  if (typeof window.innerWidth != 'undefined')
+  {
+    size = [
+        window.innerWidth,
+        window.innerHeight
+    ];
+  }
+  else if (typeof document.documentElement != 'undefined'
+      && typeof document.documentElement.clientWidth != 'undefined'
+      && document.documentElement.clientWidth != 0)
+  {
+    size = [
+        document.documentElement.clientWidth,
+        document.documentElement.clientHeight
+    ];
+  }
+  else
+  {
+    size = [
+        document.getElementsByTagName('body')[0].clientWidth,
+        document.getElementsByTagName('body')[0].clientHeight
+    ];
+  }
+
+  return size;
+}
+
+function getScrollingPosition()
+{
+  //array for X and Y scroll position
+  var position = [0, 0];
+
+  //if the window.pageYOffset property is supported
+  if(typeof window.pageYOffset != 'undefined')
+  {
+    //store position values
+    position = [
+        window.pageXOffset,
+        window.pageYOffset
+    ];
+  }
+
+  //if the documentElement.scrollTop property is supported
+  //and the value is greater than zero
+  if(typeof document.documentElement.scrollTop != 'undefined'
+    && document.documentElement.scrollTop > 0)
+  {
+    //store position values
+    position = [
+        document.documentElement.scrollLeft,
+        document.documentElement.scrollTop
+    ];
+  }
+
+  //if the body.scrollTop property is supported
+  else if(typeof document.body.scrollTop != 'undefined')
+  {
+    //store position values
+    position = [
+        document.body.scrollLeft,
+        document.body.scrollTop
+    ];
+  }
+
+  //return the array
+  return position;
+}
+
+function getElementsByAttribute(attribute, attributeValue)
+{
+  var elementArray = new Array();
+  var matchedArray = new Array();
+
+  if (document.all)
+  {
+    elementArray = document.all;
+  }
+  else
+  {
+    elementArray = document.getElementsByTagName("*");
+  }
+
+  for (var i = 0; i < elementArray.length; i++)
+  {
+    if (attribute == "class")
+    {
+      var pattern = new RegExp("(^| )" + attributeValue + "( |$)");
+
+      if (elementArray[i].className.match(pattern))
+      {
+        matchedArray[matchedArray.length] = elementArray[i];
+      }
+    }
+    else if (attribute == "for")
+    {
+      if (elementArray[i].getAttribute("htmlFor") || elementArray[i].getAttribute("for"))
+      {
+        if (elementArray[i].htmlFor == attributeValue)
+        {
+          matchedArray[matchedArray.length] = elementArray[i];
+        }
+      }
+    }
+    else if (elementArray[i].getAttribute(attribute) == attributeValue)
+    {
+      matchedArray[matchedArray.length] = elementArray[i];
+    }
+  }
+
+  return matchedArray;
+}
+
+function identifyBrowser() {
+  var agent = navigator.userAgent.toLowerCase();
+
+  if (typeof navigator.vendor != "undefined" && navigator.vendor == "KDE" &&
+      typeof window.sidebar != "undefined")
+  {
+    return "kde";
+  }
+  else if (typeof window.opera != "undefined")
+  {
+    var version = parseFloat(agent.replace(/.*opera[\/ ]([^ $]+).*/, "$1"));
+
+    if (version >= 7)
+    {
+      return "opera7";
+    }
+    else if (version >= 5)
+    {
+      return "opera5";
+    }
+
+    return false;
+  }
+  else if (typeof document.all != "undefined")
+  {
+    if (typeof document.getElementById != "undefined")
+    {
+      var browser = agent.replace(/.*ms(ie[\/ ][^ $]+).*/, "$1").replace(/ /, "");
+
+      if (typeof document.uniqueID != "undefined")
+      {
+        if (browser.indexOf("5.5") != -1)
+        {
+          return browser.replace(/(.*5\.5).*/, "$1");
+        }
+        else
+        {
+          return browser.replace(/(.*)\..*/, "$1");
+        }
+      }
+      else
+      {
+        return "ie5mac";
+      }
+    }
+
+    return false;
+  }
+  else if (typeof document.getElementById != "undefined")
+  {
+    if (navigator.vendor.indexOf("Apple Computer, Inc.") != -1)
+    {
+      if (typeof window.XMLHttpRequest != "undefined")
+      {
+        return "safari1.2";
+      }
+
+      return "safari1";
+    }
+    else if (agent.indexOf("gecko") != -1)
+    {
+      return "mozilla";
+    }
+  }
+  return false;
+}
+
+	</script><script language="JavaScript" type="text/javascript">
+				//var randomnumber=Math.floor(Math.random()*101);
+				var randomnumber = 11;
+				if (randomnumber <= 10) {
+					// Dual ads
+					document.write('<scr'+'ipt src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/unique/javascript/strip?zid=182&pid=0&total=2&layout=horizontal&margin=0&padding=27&overlay=true&autoclose=15&spacing=20&bgcolor=%23E0E0EB&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+encodeURIComponent(document.location)+'" type="text/javascript"></scr'+'ipt>');
+				} else {
+					// Regular single ad
+					if (!document.cookie || document.cookie.indexOf('AVPWCAP=') == -1) {
+						document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/window/javascript/zone?zid=78&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"><\/SCR'+'IPT>');
+					}
+				}
+				</script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/window/javascript/zone?zid=78&amp;pid=0&amp;random=99674694&amp;millis=1580378942526&amp;referrer=https%3A//web.archive.org/web/20180129211747id_/https%253A//www.imaging-resource.com/PRIVACY.HTM" language="JavaScript" type="text/javascript"></script><script type="text/javascript" language="JavaScript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_jumpMenuGo(selName,targ,restore){ //v3.0
+  var selObj = MM_findObj(selName); if (selObj) MM_jumpMenu(targ,selObj,restore);
+}
+</script><script type="text/javascript" src="//www.google.com/jsapi"></script><script type="text/javascript">
+  <!--
+  google.load("jquery","1.7", {uncompressed:true});
+  -->
+  </script><script type="text/javascript">
+    (function() {
+        function async_load(script_url){
+        var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+        var s = document.createElement('script'); s.src = protocol + script_url;
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      }
+      bm_website_code = 'E923B8D2F91C4182';
+      jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
+      jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
+    })();
+  </script><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Oswald" type="text/css"><link rel="stylesheet" href="/includes/css/review.css?v=6" type="text/css"><link rel="stylesheet" href="/includes/css/footer.css?v=3" type="text/css"><meta name="viewport" content="width=device-width, initial-scale=1"><script type="text/javascript" src="//use.typekit.net/xyz0jcd.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script type="text/javascript" src="/includes/vendor/typeahead.js/dist/typeahead.bundle.js"></script><script type="text/javascript" src="/includes/vendor/mustache/mustache.js"></script><script type="text/javascript" src="/includes/js/search.js"></script><script type="text/javascript" src="/includes/js/responsive.js"></script><script src="/features/tooltips/js/jquery.wtooltip.min.js" type="text/javascript" charset="utf-8"></script><script src="/features/tooltips/js/inittooltips.js" type="text/javascript" charset="utf-8"></script><script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1284392514913618');
+  fbq('track', "PageView");</script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body itemscope="" itemtype="http://schema.org/WebPage"><noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1284392514913618&ev=PageView&noscript=1"
+  /></noscript>
+
+
+
+<div id="wrapper">
+<header>
+<nav class="top-nav">
+<div itemscope="" itemtype="http://schema.org/Organization" class="logo">
+<div class="logo-strip"><a itemprop="url" href="//www.imaging-resource.com" class="no_decoration"></a></div>
+<meta itemprop="logo" content="http://www.imaging-resource.com/images/wordmark_dark.png">
+<div class="wordmark"><a href="//www.imaging-resource.com" class="no_decoration"></a></div>
+</div>
+<div id="hamburger-menu">
+<span></span>
+<span></span>
+<span></span>
+</div>
+<ul class="nav-menu">
+<li>
+<div class="nav-item">
+<a href="/news" class="nav-text"><span class="longer">Photo </span>News</a>
+</div>
+<div class="nav-content">
+<div class="section two-column">
+<span class="heading">News</span>
+<ul class="menu-column">
+<li><a href="/news">Photo News</a></li>
+<li><a href="/new-on-ir">New on the Site</a></li>
+<li><a href="/NEWSARCH/news-archive.html">News Archive</a></li>
+</ul>
+</div>
+<div class="section two-column">
+<span class="heading">Topics</span>
+<ul class="menu-column">
+<li><a href="/articles/">Full Article Index</a></li>
+<li><a href="/topics/camera+deals+of+the+day">Camera Deals</a></li>
+<li><a href="/topics/firmware+friday">Firmware Updates</a></li>
+<li><a href="/topics/interview">Interviews</a></li>
+<li><a href="/favorite-photographers">Our Favorite Photographers</a></li>
+<li><a href="/topics/history+of+photography">History of Photography</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="nav-item">
+<a href="/cameras/reviews/" class="nav-text">Camera<span class="longer"> Reviews</span></a>
+</div>
+<div class="nav-content">
+<div class="section three-column">
+<span class="heading">Cameras</span>
+<ul class="menu-column">
+<li><a href="/cameras/reviews/">Camera Reviews</a></li>
+<li><a href="/IMCOMP/COMPS01.HTM">Compare Images</a></li>
+<li><a href="/cameras/compare">Compare Cameras</a></li>
+<li><a href="/WB/WB.HTM">Best Cameras</a></li>
+</ul>
+</div>
+<div class="section three-column">
+<span class="heading">Types</span>
+<ul class="menu-column">
+<li><a href="/compact-cameras">Compact Cameras</a></li>
+<li><a href="/dslr-cameras">DSLR Cameras</a></li>
+<li><a href="/mirrorless-cameras">Mirrorless Cameras</a></li>
+<li><a href="/full-frame-cameras">Full-Frame Cameras</a></li>
+<li><a href="/waterproof-cameras">Waterproof Cameras</a></li>
+</ul>
+</div>
+<div class="section three-column">
+<span class="heading">Brands</span>
+<ul class="menu-column two-column">
+<li><a href="/cameras/canon/reviews/">Canon</a></li>
+<li><a href="/cameras/fujifilm/reviews/">Fuji</a></li>
+<li><a href="/cameras/nikon/reviews/">Nikon</a></li>
+<li><a href="/cameras/olympus/reviews/">Olympus</a></li>
+<li><a href="/cameras/panasonic/reviews/">Panasonic</a></li>
+</ul>
+<ul class="menu-column two-column">
+<li><a href="/cameras/pentax/reviews/">Pentax</a></li>
+<li><a href="/cameras/samsung/reviews/">Samsung</a></li>
+<li><a href="/cameras/sony/reviews/">Sony</a></li>
+<li><a href="/cameras/brands/">All Brands</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="nav-item">
+<a href="/lenses/reviews/" class="nav-text">Lens<span class="longer"> Reviews</span></a>
+</div>
+<div class="nav-content">
+<div class="section three-column">
+<span class="heading">Formats</span>
+<ul class="menu-column two-column">
+<li>
+<a rel="nofollow" href="/lenses/tag/ef/">Canon EF</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/ef-s/">Canon EF-S</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/x-mount/">Fuji X</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/micro-four-thirds/">Micro Four Thirds</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/nikon-1/">Nikon 1</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/dx/">Nikon DX</a>
+</li>
+</ul>
+<ul class="menu-column two-column">
+<li>
+<a rel="nofollow" href="/lenses/tag/fx/">Nikon FX</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/k/">Pentax K</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/a-mount/">Sony A</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/fe-mount/">Sony FE</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/e-mount/">Sony E</a>
+</li>
+</ul>
+</div>
+<div class="section three-column">
+<span class="heading">Brand</span>
+<ul class="menu-column two-column">
+<li>
+<a href="/lenses/reviews/">All Lens Reviews</a>
+</li>
+<li>
+<a href="/lenses/canon/reviews/">Canon Lenses</a>
+</li>
+<li>
+<a href="/lenses/fujinon/reviews/">Fuji Lenses</a>
+</li>
+<li>
+<a href="/lenses/nikon/reviews/">Nikon Lenses</a>
+</li>
+<li>
+<a href="/lenses/olympus/reviews/">Olympus Lenses</a>
+</li>
+</ul>
+<ul class="menu-column two-column">
+<li>
+<a href="/lenses/panasonic/reviews/">Panasonic Lenses</a>
+</li>
+<li>
+<a href="/lenses/pentax/reviews/">Pentax Lenses</a>
+</li>
+<li>
+<a href="/lenses/sigma/reviews/">Sigma Lenses</a>
+</li>
+<li>
+<a href="/lenses/sony/reviews/">Sony Lenses</a>
+</li>
+ <li>
+<a href="/lenses/tamron/reviews/">Tamron Lenses</a>
+</li>
+</ul>
+</div>
+<div class="section three-column">
+<span class="heading">Type</span>
+<ul class="menu-column two-column type-column">
+<li>
+<a rel="nofollow" href="/lenses/tag/macro/">Macro</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/mid/">Mid-range</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/prime/">Prime</a>
+</li>
+</ul>
+<ul class="menu-column two-column type-column">
+<li>
+<a rel="nofollow" href="/lenses/tag/tele/">Telephoto</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/wide/">Wide</a>
+</li>
+<li>
+<a rel="nofollow" href="/lenses/tag/zoom/">Zoom</a>
+</li>
+</ul>
+<ul class="menu-column one-column what-to-know">
+<li>
+<a rel="nofollow" href="/articles/camera-lenses-101-an-introduction-to-camera-lenses">Lenses 101: What to know</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="nav-item no-nav-content">
+<a href="/PRINT.HTM" class="nav-text">Printer<span class="longer"> Reviews</span></a>
+</div>
+</li>
+<li>
+<div class="nav-item">
+<a href="/more-resources" class="nav-text">More</a>
+</div>
+<div class="nav-content">
+<div class="section three-column">
+<span class="heading">Accessories</span>
+<ul class="menu-column">
+<li><a href="/camera-accessories">Camera Accessories</a></li>
+<li><a href="/PRINT.HTM">Printers</a></li>
+<li><a href="/SCAN1.HTM">Scanners</a></li>
+<li><a href="/SOFT.HTM">Software</a></li>
+</ul>
+</div>
+<div class="section three-column">
+<span class="heading">Community</span>
+<ul class="menu-column">
+<li><a href="/IRNEWS/">Newsletter</a></li>
+</ul>
+</div>
+<div class="section three-column">
+<span class="heading">Contests</span>
+<ul class="menu-column">
+<li><a href="http://www.dailydigitalphoto.com/cgi-bin/potd/potd.pl">Photo of the Day</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+<div class="search">
+<span class="search-icon-target"></span>
+<div class="search-input-wrapper">
+<input type="text" placeholder="Search..." id="search-input" autocomplete="off">
+</div>
+</div>
+</nav>
+</header>
+<div class="ad leaderboard">
+
+<script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=64&amp;pid=0&amp;keywords=NULL&amp;random=61261448&amp;millis=1580378943211&amp;referrer=https%3A//web.archive.org/web/20180129211747id_/https%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+</div>
+<div id="content">
+<div id="mid-col-5">
+<div class="marker7">The Imaging Resource Privacy Policy</div>
+<p>The Imaging Resource does not collect any user specific identifiable
+information other than what the user specifically volunteers. For example, this
+information may be volunteered when you register for the <a href="http://www.photo-forums.com/" target="_blank">forums</a> or subscribe to
+the <a href="/IRNEWS/" target="_blank">newsletter</a>. We do not use this information for any purpose
+other than its intended use (to allow posting in the forums, to allow sending
+of the newsletter to a specific email address, etc.) We don't resell names or
+any individual data. We may report demographic information in the aggregate,
+but don't share information on individual readers. </p>
+<p>A possible exception to the above may occur when a company sponsors
+a sweepstakes or contest. In these cases the company is generally entitled to
+the raw data collected for the sweepstakes/survey.</p>
+<p>The Imaging Resource collects some non user specific information
+such as the type of browser and operating system used. This information is used
+to assist us internally to provide the best site design and format for our users.
+We don't share any data that may be uniquely linked to any of our readers outside the IR organization.</p>
+<p>Please note that third party ad servers may place and read cookies or use
+web beacons to collect information in your browser when you access third
+party ads served on our site. Please consult the Help documentation for your
+respective browser if you wish to disable such third party cookies.</p>
+<p>Some network ads are served by Lijit Networks. For the information collected by this ad network, please see their privacy policy at:</p>
+<p>Lijit Networks, Inc. Privacy Policy<br>
+<a href="http://www.lijit.com/company/privacy-policy" target="_blank">http://www.lijit.com/company/privacy-policy</a></p>
+<p>Lijit collects only anonymous information unless you choose to submit personal information. Lijit permits readers to opt out of the collection of this anonymous site visit data. To opt out, please see the section labeled 'Opting Out' in the above privacy policy for additional information.</p>
+<p> If
+you have any questions about our privacy policy, please send us a <a href="mailto:web@imaging-resource.com">note</a>. </p>
+<p>&nbsp;</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+<div id="mid-col-4">
+<div class="ad-news">
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=34&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=34&amp;pid=0&amp;keywords=NULL&amp;random=54698335&amp;millis=1580378943214&amp;referrer=https%3A//web.archive.org/web/20180129211747id_/https%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+</div>
+<div class="ad-news">
+
+<script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=121&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=121&amp;pid=0&amp;keywords=NULL&amp;random=25277860&amp;millis=1580378943216&amp;referrer=https%3A//web.archive.org/web/20180129211747id_/https%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+</div>
+<div class="ad-news">
+
+<script type="text/javascript">
+        <!--
+        document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=122&amp;pid=0&amp;keywords=NULL&amp;random='+Math.floor(89999999*Math.random()+10000000)+'&amp;millis='+new Date().getTime()+'&amp;referrer='+escape(document.location)+'" type="text/javascript"><\/SCR'+'IPT>');
+        //-->
+    </script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/banner/javascript/zone?zid=122&amp;pid=0&amp;keywords=NULL&amp;random=60307941&amp;millis=1580378943218&amp;referrer=https%3A//web.archive.org/web/20180129211747id_/https%253A//www.imaging-resource.com/PRIVACY.HTM" type="text/javascript"></script>
+
+</div>
+<div class="potd-pod landscape">
+<div class="photo-container">
+<a href="http://www.dailydigitalphoto.com/cgi-bin/potd/potd.pl" target="_blank">
+<img src="/features/potd/images/ir_potd_300.jpg" alt="Photo of the Day from Daily Digital Photo">
+</a>
+<span class="potdh3"><a href="http://www.dailydigitalphoto.com/cgi-bin/potd/potd.pl" target="_blank"><span class="todays">Today’s</span> <span class="photo">Photo</span> <span class="ofthe">of the</span> <span class="day">Day</span><span class="arrow"></span></a></span>
+</div>
+<span class="potdh4"><a href="http://www.dailydigitalphoto.com/potd-images/ir_potd_enter.htm">Enter</a> this month to win:</span>
+<div class="prizes">
+<p class="first"><em>1</em> $300 Adorama Gift Certificate</p>
+<p class="second"><em>2</em> $200 Adorama Gift Certificate</p>
+<p class="third"><em>3</em> $100 Adorama Gift Certificate</p>
+</div>
+</div>
+<table><tbody><tr><td valign="top" align="right" width="135"><img src="/ART/SPACE.GIF" width="130" height="1" valign="top"></td></tr></tbody></table>
+</div>
+</div>
+<p>&nbsp;</p>
+<div id="footer">
+<div id="foot-col-1">
+
+<p align="center"></p>
+<footer>
+<div class="footer-nav-wrapper">
+<div class="footer-menu-wrapper">
+<div class="nav-start">
+<div class="logo">
+<div class="logo-strip"><a href="//www.imaging-resource.com" class="no_decoration"></a></div>
+<div class="wordmark"><a href="//www.imaging-resource.com" class="no_decoration"></a></div>
+</div>
+</div>
+<div class="nav-middle">
+<ul class="footer-menu">
+<li><a href="/cameras/reviews/">Camera Reviews</a></li>
+<li><a href="/compact-cameras">Compact Cameras</a></li>
+<li><a href="/mirrorless-cameras">Mirrorless Cameras</a></li>
+<li><a href="/dslr-cameras">DSLR Cameras</a></li>
+<li><a href="/cameras/canon/reviews/">Canon Cameras</a></li>
+<li><a href="/cameras/nikon/reviews/">Nikon Cameras</a></li>
+<li><a href="/cameras/brands/">All Brands</a></li>
+</ul>
+</div>
+<div class="nav-middle">
+<ul class="footer-menu">
+<li><a href="/cameras/compare/">Compare Cameras</a></li>
+<li><a href="/IMCOMP/COMPS01.HTM">Compare Images</a></li>
+<li><a href="/news">Photo News</a></li>
+<li><a href="http://www.dailydigitalphoto.com/cgi-bin/potd/potd.pl" target="_blank">Photo of the Day</a></li>
+<li><a href="/lenses/reviews/">Lens Reviews</a></li>
+<li><a href="/PRINT.HTM">Printer Reviews</a></li>
+<li><a href="/WB/WB.HTM">Best Cameras</a></li>
+</ul>
+</div>
+<div class="nav-middle">
+<ul class="footer-menu">
+<li><a href="/about-ir">About Us</a></li>
+<li><a href="mailto:web@imaging-resource.com" target="_blank">Contact Us</a></li>
+<li><a href="/ADINFO.HTM">Advertising</a></li>
+<li><a href="/USAGE.HTM">Usage Policy</a></li>
+<li><a href="/PRIVACY.HTM">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="nav-end">
+<ul class="footer-menu">
+<li class="facebook"><a href="https://www.facebook.com/imagingresource" target="_blank">Facebook</a></li>
+<li class="twitter" target="_blank"><a href="https://twitter.com/IR_Lab" target="_blank">Twitter</a></li>
+<li class="google" target="_blank"><a rel="publisher" href="https://plus.google.com/+imagingresource">Google+</a></li>
+</ul>
+</div>
+</div>
+<div class="copyright">
+<span>Imaging Resource © 1998 - 2018. Material on this site may not be reproduced, distributed, transmitted or otherwise used without the prior written consent of The Imaging Resource.</span>
+</div>
+</div>
+</footer>
+<div class="fixedApply">
+
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-8396527-1']);
+_gaq.push(['_trackPageview']);
+setTimeout("_gaq.push(['_trackEvent', '60_seconds', 'read'])",60000);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/2478.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-c3GXusZc0TJL4"
+});
+</script>
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-c3GXusZc0TJL4.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+
+</div>
+</div>
+
+<script language="JavaScript" type="text/javascript">
+		<!--
+		if (!document.cookie || document.cookie.indexOf('AVPDCAP=') == -1) {
+		  document.write('<SCR'+'IPT src="http://ads.imaging-resource.com/advertpro/servlet/view/dynamic/javascript/zone?zid=96&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
+		}
+		//-->
+		</script><script src="http://ads.imaging-resource.com/advertpro/servlet/view/dynamic/javascript/zone?zid=96&amp;pid=0&amp;random=32390016&amp;millis=1580378943252&amp;referrer=https%3A//web.archive.org/web/20180129211747id_/https%253A//www.imaging-resource.com/PRIVACY.HTM" language="JavaScript" type="text/javascript"></script>
+
+</div>
+
+
+
+</body></html>
