@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoder.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913195948id_/https%3A//www.videoder.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoder.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129191255id_/https%3A//www.videoder.net/privacy) for the most accurate reproduction.*
 
 # "Videoder Video Downloader Privacy Policy"
 
@@ -8,7 +8,7 @@ Here at GLENNIO SOFTWARE PRIVATE LIMITED, doing business as Videoder (“Company
 
 By visiting or using the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, process and share your information as described herein.
 
-Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: www.videoder.net/terms.
+Any capitalized terms used herein without definition shall have the meaning given to them in the End UserLicense Agreement: [Our terms](https://www.videoder.net/terms).
 
 This Privacy Policy reflects the following three principles that we strive to uphold in providing you with the services on our Services:
 
