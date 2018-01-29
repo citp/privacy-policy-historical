@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229235756id_/http%3A//www.noelgallagher.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noelgallagher.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129203316id_/https%3A//www.noelgallagher.com/terms) for the most accurate reproduction.*
 
 # Official Website | Noel Gallagher's High Flying Birds
 
