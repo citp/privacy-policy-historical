@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooman.co.nz privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915174023id_/http%3A//store.fooman.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooman.co.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129045941id_/https%3A//store.fooman.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@
   * We collect the information you choose to provide us when ordering or registering
   * We use common internet technologies, such as cookies and beacons, on our websites and emails.
   * We use analytics and marketing services provided by a range of 3rd parties
-  * For more information about our information collection practices, please click [here](http://store.fooman.co.nz/privacy-full-v2.00/).
+  * For more information about our information collection practices, please click [here](https://store.fooman.co.nz/privacy-full-v2.00/).
 
 
 
@@ -41,4 +41,4 @@
 
 
 
-To see our full privacy policy, click [here](http://store.fooman.co.nz/privacy-full-v2.00/).
+To see our full privacy policy, click [here](https://store.fooman.co.nz/privacy-full-v2.00/).
