@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appletoolbox.com privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724015705id_/https%3A//appletoolbox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletoolbox.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129081257id_/https%3A//appletoolbox.com/privacy) for the most accurate reproduction.*
 
 # Privacy - AppleToolBox
 
 We value your trust, so we’ve strived to present this policy in clear, plain language:  We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
-This Privacy Policy governs the manner in which AppleToolbox collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://appletoolbox.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by AppleToolbox.
+This Privacy Policy governs the manner in which AppleToolbox collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://appletoolbox.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by AppleToolbox.
 
 **Personal identification information**
 
@@ -36,13 +36,13 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://appletoolbox.com/terms-of-use/ "Terms of Use"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://appletoolbox.com/terms-of-use/ "Terms of Use"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 AppleToolbox  
-http://appletoolbox.com/  
+https://appletoolbox.com/  
 info@appletoolbox.com
 
 Our mailing address
