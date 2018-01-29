@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattcallen.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916171046id_/http%3A//www.inetinnovation.com/inetinnovation-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattcallen.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129194520id_/http%3A//www.inetinnovation.com/inetinnovation-privacy.htm) for the most accurate reproduction.*
 
 # 
 
