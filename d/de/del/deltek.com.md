@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deltek.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219103057id_/https%3A//www.deltek.com/en/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltek.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129180953id_/https%3A//www.deltek.com/en/legal) for the most accurate reproduction.*
 
-# Deltek Privacy Statement
+# Privacy Statement | Deltek
 
 #### I. Purpose
 
@@ -24,7 +24,7 @@ Deltek does not knowingly collect Personal Data from children under the age of 1
 
 Deltek may receive Personal Data: (1) directly from you, (2) from an affiliated company, or (3) through information that Deltek collects from third parties and as you navigate through a Deltek website or service, including usage details, IP addresses, and cookies. More information about Deltek’s use of cookies may be found in Deltek’s [Cookie Policy](https://web.archive.org/en/legal/cookie-policy).
 
-Deltek uses your Personal Data for business purposes, including without limitation: (1) creating an account; (2) order and service fulfillment; (3) customer service; (4) product improvement; (5) storing and processing data, including Personal Data, in computer databases and servers; (6) implementing and maintaining Deltek's information technology; (7) personalizing your experience; (8) marketing communications with you; and (9) for other business-related purposes permitted and/or required under applicable local law and regulation. If Deltek intends to use your Personal Data for any purpose not described in this Privacy Statement, Deltek will seek your prior consent.
+Deltek uses your Personal Data for business purposes, including without limitation: (1) creating an account; (2) order and service fulfillment; (3) customer service; (4) product improvement; (5) storing and processing data, including Personal Data, in computer databases and servers; (6) implementing and maintaining Deltek's information technology; (7) personalizing your experience; (8) marketing communications with you including communications from partners for which you have expressed interest; and (9) for other business-related purposes permitted and/or required under applicable local law and regulation. If Deltek intends to use your Personal Data for any purpose not described in this Privacy Statement, Deltek will seek your prior consent.
 
   
 
@@ -34,6 +34,8 @@ Deltek uses your Personal Data for business purposes, including without limitati
 Deltek discloses your Personal Data to those who reasonably need to know such data for a legitimate business purpose and as required by law to Deltek subsidiaries, third parties, and business partners. By using Deltek websites, products, and solutions, or by providing your Personal Data to Deltek, you consent to the potential transfer, processing, and storage of such information outside of your country of residence where data protection standards may be different than your own.
 
 Deltek requires our business partners, service vendors, authorized agents, and contractors to whom such disclosures are made to abide by confidentiality obligations. Absent your consent, Deltek will disclose your Personal Data only to service providers and their contractors who perform tasks on Deltek's behalf, provided that such service providers and/or contractors either: (a) comply with the EU-US Privacy Shield principles regarding the collection, use, sharing, and retention of personal information from the European Union or use another mechanism permitted by EU data protection laws and the applicable laws of other countries that impose international data transfer restrictions; or (b) agree to provide adequate protections for your privacy interests that are no less protective than those set out in this Privacy Statement and to use the Personal Data only for the purposes for which the third party has been engaged by Deltek.
+
+Deltek’s business partners are independent third parties that are otherwise not affiliated with Deltek. Any relationship a customer elects to enter into with a partner for products and services is between the customer and partner directly.
 
 Previously, Deltek certified to compliance with the EU-US Safe Harbor framework and its principles regarding the collection, use, and retention of Personal Data from the EU. Deltek did not rely solely upon the Safe Harbor program for data transfers to comply with EU law. Following the European Court of Justice’s ruling on the validity of EU-US Safe Harbor program on October 6, 2015, Deltek has continued to comply with EU law for data transfers by participating, when required, in other approved data transfer programs.
 
@@ -61,6 +63,10 @@ Deltek maintains reasonable physical, administrative, and technical safeguards d
 #### VII. Right to Access, Change or Delete Data
 
 Upon reasonable request and to the extent the request does not compromise the protections set forth in this Privacy Statement, Deltek permits reasonable access to Personal Data and Sensitive Data in order to correct, amend, or delete such data. You should direct any such request to [privacy@deltek.com](mailto:privacy@deltek.com?subject=Deltek%20Privacy).
+
+For California Users: California Civil Code Section 1798.83 permits Site visitors who are California residents and who have provided us with "personal information" (as that term is defined in Section 1798.83) to request certain information about the disclosure of that information to third parties for their direct marketing purposes. If you are a California resident, you may contact us by writing to: Deltek, Attn: Privacy Statement Inquiry, 2291 Wood Oak Drive, Herndon, Virginia 20171.
+
+For Canadian Users: Canadian citizens, except under circumstances defined by law, are entitled to access their own personal data collected by Deltek by writing to: Deltek, Attn: Privacy Statement Inquiry, 2291 Wood Oak Drive, Herndon, Virginia 20171. If you believe that the personal data about you that we have collected is incomplete or inaccurate, please contact us and we will correct the information upon verification of the omission or error and of the identity of the person requesting the change.
 
 Deltek will endeavor to respond in a timely manner to all reasonable written requests to view, modify, or delete Personal Data or Sensitive Data.
 
@@ -97,14 +103,44 @@ You are responsible for the accuracy of the data that you provide to Deltek. Del
   
 
 
-#### XI. Changes to this Privacy Statement
+#### XI. Reporting Claims of Copyright Infringement
 
-StatementThis Privacy Statement is current as of the effective date set forth below. Deltek reserves the right to change this Privacy Statement from time to time, consistent with applicable data protection and privacy laws and principles. Unless such changes afford greater protections to your privacy interests, or you otherwise consent, such changes will apply only to Personal Data received after the effective date of such change. You should refer to this Privacy Statement regularly, as it will be updated from time to time. By continuing to access or use Deltek services after such revisions become effective, you agree to be bound by the revised Privacy Statement.
+We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible on or from kona.com and/or govwin.com (the "Websites") infringe your copyright, you may request removal of those materials (or access to them) from the Websites by submitting written notification to our copyright agent designated below. In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) ("DMCA"), the written notice (the "DMCA Notice") must include substantially the following:
+
+  * Your physical or electronic signature;
+  * Identification of the copyrighted work you believe to have been infringed or, if the claim involves multiple works on the Website, a representative list of such works;
+  * Identification of the material you believe to be infringing in a sufficiently precise manner to allow us to locate that material;
+  * Adequate information by which we can contact you (including your name, postal address, telephone number, and, if available, email address);
+  * A statement that you have a good faith belief that use of the copyrighted material is not authorized by the copyright owner, its agent, or the law;
+  * A statement that the information in the written notice is accurate; and
+  * A statement, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+
+
+
+Our designated copyright agent to receive DMCA Notices is: 
+
+Office of the General Counsel  
+Attn: Compliance Counsel  
+Deltek  
+2291 Wood Oak Drive  
+Herndon, Virginia 20171  
+[dmca@deltek.com](mailto:dmca@deltek.com) or [legalcompliance@deltek.com](mailto:legalcompliance@deltek.com)
+
+If you fail to comply with all of the requirements of Section 512(c)(3) of the DMCA, your DMCA Notice may not be effective.
+
+Please be aware that if you knowingly materially misrepresent that material or activity on the Website is infringing your copyright, you may be held liable for damages (including costs and attorneys' fees) under Section 512(f) of the DMCA.
 
   
 
 
-#### XII. Questions or Complaints
+#### XII. Changes to this Privacy Statement
+
+This Privacy Statement is current as of the effective date set forth below. Deltek reserves the right to change this Privacy Statement from time to time, consistent with applicable data protection and privacy laws and principles. Unless such changes afford greater protections to your privacy interests, or you otherwise consent, such changes will apply only to Personal Data received after the effective date of such change. You should refer to this Privacy Statement regularly, as it will be updated from time to time. By continuing to access or use Deltek services after such revisions become effective, you agree to be bound by the revised Privacy Statement.
+
+  
+
+
+#### XIII. Questions or Complaints
 
 Thoughts or questions about this Privacy Policy? Please let us know by contacting us at [privacy@deltek.com](mailto:privacy@deltek.com?subject=Deltek%20Privacy) or writing to us at the address below:
 
@@ -116,8 +152,8 @@ Herndon, Virginia 20171
   
 
 
-#### XIII. Enforcement
+#### XIV. Enforcement
 
 As part of Deltek's privacy compliance process, Deltek will review its compliance with this Privacy Statement. If you have any questions, complaints, or disputes regarding the manner in which Deltek handles or protects your data, please bring it to the attention of [privacy@deltek.com](mailto:privacy@deltek.com?subject=Deltek%20Privacy).
 
-Updated: January 25, 2017
+Updated: October 6, 2017
