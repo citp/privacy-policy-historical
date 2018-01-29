@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fa-mag.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013856id_/http%3A//www.fa-mag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fa-mag.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130005332id_/https%3A//www.fa-mag.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -26,8 +26,3 @@ How to contact us about privacy issues: by mail, send correspondence to: Charter
 Last updated: April 22, 2011
 
 * * *
-
-* * *
-
-  
-
