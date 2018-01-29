@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ifoodreal.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126154957id_/http%3A//ifoodreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifoodreal.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129172830id_/https%3A//ifoodreal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iFOODreal
+# Privacy Policy - iFOODreal - Healthy Family Recipes
 
 This privacy policy sets out how iFOODreal uses and protects any information that you give while using www.ifoodreal.com
 
