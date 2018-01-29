@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134328id_/http%3A//strapi.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129203720id_/https%3A//strapi.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Strapi - Node.js Framework based on Koa
+# Privacy Policy - Strapi
 
 It is important for you to understand what types of information we are collecting and what may happen to that information when using our website and related applications and resources (collectively, the "Services").
 
 Services are:
 
-  * The Strapi Website - [http://strapi.io](http://strapi.io/)
-  * The Strapi Studio - [http://studio.strapi.io](http://studio.strapi.io/)
+  * The Strapi Website - [http://strapi.io](https://web.archive.org/)
   * The Strapi Community on Slack - [http://slack.strapi.io](http://slack.strapi.io/)
+  * [Link]()
 
 
 
@@ -88,7 +88,7 @@ Personal Data is collected for the following purposes and using the following se
 
 The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-#### Google Analytics (Google Inc.)
+**Google Analytics (Google Inc.)**
 
 Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the Data collected to track and examine the use of the Services, to prepare reports on its activities and share them with other Google services.
 
@@ -104,7 +104,7 @@ These services allow you to view content hosted on external platforms directly f
 
 If a service of this kind is installed, it may still collect web traffic data for the pages where the service is installed, even when users do not use it.
 
-#### Google Fonts (Google Inc.)
+**Google Fonts (Google Inc.)**
 
 Google Fonts is a typeface visualization service provided by Google Inc. that allows the Services to incorporate content of this kind on its pages.
 
@@ -120,7 +120,7 @@ Depending on what is described below, third parties may provide registration and
 
 In this case, the Services will be able to access some Data, stored by these third party services, for registration or identification purposes.
 
-#### Direct registration (This Application)
+**Direct registration (This Application)**
 
 The User registers by filling out the registration form and providing the Personal Data directly to the Services.
 
@@ -134,7 +134,7 @@ Depending on the settings chosen by the Owner, Users may also leave anonymous co
 
 If a content commenting service provided by third parties is installed, it may still collect web traffic data for the pages where the comment service is installed, even when Users do not use the content commenting service.
 
-#### Disqus (Disqus)
+**Disqus (Disqus)**
 
 Disqus is a content commenting service provided by Big Heads Labs Inc.
 
@@ -144,7 +144,7 @@ Place of processing: USA – [Privacy Policy](http://docs.disqus.com/help/30/) �
 
 ### Contacting the User
 
-#### Mailing List or Newsletter (This Application)
+**Mailing List or Newsletter (This Application)**
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning the Services. Your email address might also be added to this list as a result of signing up to the Services or after making a purchase.
 
@@ -156,7 +156,7 @@ These services make it possible to manage a database of email contacts, phone co
 
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
-#### Mailchimp (Mailchimp)
+**Mailchimp (Mailchimp)**
 
 Mailchimp is an email address management and message sending service provided by Mailchimp Inc.
 
@@ -236,4 +236,4 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy relates solely to the Services.
 
-_Latest update: December 4, 2015_
+Latest update: December 4, 2015
