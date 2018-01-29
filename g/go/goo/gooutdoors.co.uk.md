@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913132657id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooutdoors.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129132000id_/http%3A//www.gooutdoors.co.uk/privacy) for the most accurate reproduction.*
 
 # GO Outdoors | Tents & Camping Equipment | Outdoor Clothing & Waterproof Clothing
 
@@ -90,4 +90,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Services at [enquiries@gooutdoors.co.uk](https://web.archive.org/web/20170913132657id_/http%3A//www.gooutdoors.co.uk/enquiries@gooutdoors.co.uk) or Cuthbert House, Arley Street, Sheffield S2 4QP.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Services at [enquiries@gooutdoors.co.uk](https://web.archive.org/web/20180129132000id_/http%3A//www.gooutdoors.co.uk/enquiries@gooutdoors.co.uk) or Cuthbert House, Arley Street, Sheffield S2 4QP.
