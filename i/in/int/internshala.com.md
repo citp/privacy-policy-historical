@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004150250id_/https%3A//internshala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129175801id_/https%3A//internshala.com/privacy) for the most accurate reproduction.*
 
 # Internshala | Privacy Policy
 
@@ -33,6 +33,11 @@ Internshala is not intended for children under 13 years of age. If you are less 
 #### Cookies
 
 Like many web sites, we set and use cookies to enhance your user experience, such as retaining your personal settings. Advertisements may appear on our web site and, if so, may set and access cookies on your computer and is subject to the privacy policy of those parties providing the advertisement. However, the companies serving the advertising do not have access to our cookies. These companies usually use non-personally identifiable or anonymous codes to obtain information about your visits to our site. 
+
+#### Information from Third Parties
+
+We may collect, process and store your information associated with your Google account if you choose to sign in using Google. When you sign in to your account with your Google account information, you consent to our collection, storage, and use of the information that you make available to us through your Google account in accordance with this Privacy Policy. This could include your name, email address and phone number associated with your Google account.   
+When you choose to share content on Internshala with friends using the Google+ share feature and sign in using your Google account, we may collect, process and store information of the contacts (email addresses of contacts) associated with your Google account. 
 
 #### Data provided via social media accounts linked commenting system
 
