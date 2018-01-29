@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemalestrokers.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115162111id_/http%3A//www.shemalestrokers.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalestrokers.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129204140id_/https%3A//shemalestrokers.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Shemale Strokers Official Membership Site
 
