@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secockpit.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321012121id_/http%3A//swissmademarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secockpit.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129135251id_/https%3A//swissmademarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SwissMadeMarketing
 
