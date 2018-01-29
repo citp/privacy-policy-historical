@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quartoknows.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129235725id_/https%3A//www.quartoknows.com/Info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quartoknows.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129041035id_/https%3A//www.quartoknows.com/Info/privacy) for the most accurate reproduction.*
 
 # Pivacy | Quarto Knows
 
