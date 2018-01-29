@@ -1,661 +1,2969 @@
-<!--The following is the downloaded HTML source of the senacases.com privacy policy that was archived on 2017-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170626125157id_/http%3A//www.senacases.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the senacases.com privacy policy that was archived on 2018-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180129204529id_/https%3A//www.senacases.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Article" class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
- 
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M99NLC"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYPWVJbGwcBVlJUBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
-<title>Privacy Policy | Sena Cases</title>
-<meta name="keywords" content="Sena ®, Cases, iPhone, iPad, Samsung, Galaxy, Leather">
-<meta name="description" content="At Sena Cases, we take our customers' privacy seriously. Learn more about our Privacy Policy here.">
-<meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1">
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 
-<meta property="og:title" content="Privacy Policy | Sena Cases">
-<meta property="og:description" content="At Sena Cases, we take our customers' privacy seriously. Learn more about our Privacy Policy here.">
-<meta property="og:image" content="http://path.com/to/image.jpg">
- <link rel="stylesheet" type="text/css" media="all" href="http://www.senacases.com/skin/frontend/www_sena/default/css/custom.css">
- <link rel="stylesheet" type="text/css" media="all" href="http://www.senacases.com/skin/frontend/www_sena/default//js/static/css/styles.css">
- <link rel="shortcut icon" href="http://www.senacases.com/skin/frontend/www_sena/default//js/static/img/favicon.ico">
- 
-<script src="http://www.senacases.com/skin/frontend/www_sena/default//js/static/js/vendor/jquery/jquery.js"></script>
-<script src="http://www.senacases.com/skin/frontend/www_sena/default//js/static/js/vendor/modernizr/modernizr.js"></script>
-<script src="http://www.senacases.com/skin/frontend/www_sena/default//js/static/js/vendor/typekit/typekit.js"></script>
-<script src="http://www.senacases.com/skin/frontend/www_sena/default//js/static/js/vendor/spin/spin.js"></script>
-<script src="http://www.senacases.com/skin/frontend/www_sena/default//js/static/js/vendor/require.js"></script>
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
 
-<meta name="google-site-verification" content="VLtfNT1CoeIcBtTdI1YCOgwvrqA2lQfWhzKOMqOEpy8"> 
-<meta name="msvalidate.01" content="77CF84CFED0964CBF7E0D6B78FA7ED3E">
-<meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="http://www.senacases.com/skin/frontend/www_sena/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.senacases.com/skin/frontend/www_sena/default/favicon.ico" type="image/x-icon">
-<!--[if lt IE 7]>
+  <!-- Title and description ================================================== -->
+  <title>
+    
+	    Privacy Policy | Sena Cases
+    
+  </title>
+
+  
+  <meta name="description" content="Sena® Cases recognizes and respects the privacy of SenaCases.com visitors, so we provide you with this Privacy Policy to inform you of our online information.">
+  
+
+
+  <!-- Helpers ================================================== -->
+  <link rel="canonical" href="https://www.senacases.com/pages/privacy-policy">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <meta name="google-site-verification" content="ljVQfKPmJ66hWfHVjJKDkup3ZL70aTOszuCS3dN4zq4">
+  <meta name="msvalidate.01" content="E557EE7A91A2E12942F883FC861385BD">
+  
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/favicon.png?5393823817423660678" type="image/x-icon">
+  
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,600,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,300italic,400,400italic,500,600,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,600,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,600,700,700italic,900,900italic" rel="stylesheet" type="text/css">
+
+
+  <!-- Styles -->
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/bootstrap.min.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <!-- Theme base and media queries -->
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/owl.carousel.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/owl.theme.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jcarousel.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/selectize.bootstrap3.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery.fancybox.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/component.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/styles.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/styles-setting.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/responsive.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/animate.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/elegantfont.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/font-awesome.min.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/cleversoft_font.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery-confirm.min.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+
+  
+  <link href="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/retina-responsive.css?5393823817423660678" rel="stylesheet" type="text/css" media="all">
+  
+
+  <!-- Scripts -->
+  <script type="text/javascript" async="" src="https://cdn.getshogun.com/pixel.js?v=3&amp;shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="//shopify.privy.com/widget.js?shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="https://d8sfokcjiy6.cloudfront.net/cdn/automatic-discount/wallsh_dp.min.js?shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/lastsecondcoupon/js/quickannouncementbar.js?shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="https://assets1.adroll.com/shopify/latest/j/shopify_rolling_bootstrap.js?adroll_adv_id=WXQ3JIC7EFDEDGHL7F2I6S&amp;adroll_pix_id=H53FHWNSD5GQVEREERWTVQ&amp;shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="https://chimpstatic.com/mcjs-connected/js/users/0856de5bfbfa8ac94a7382da1/73935defa413feb07f4daa430.js?shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="https://productoptions.w3apps.co/js/options.js?shop=sena-cases.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/files/1/1908/9311/t/1/assets/zendesk-embeddable.js?2114201441452154321&amp;shop=sena-cases.myshopify.com"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script> 
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery-cookie.min.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/selectize.min.js?5393823817423660678" type="text/javascript"></script>
+
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/lazyloadxt.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/isotope.pkgd.min.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/owl.carousel.min.js?5393823817423660678" type="text/javascript"></script>
+
+<script>
+  window.ajax_cart = false;
+  window.money_format = "${{amount}} USD";
+  window.shop_currency = "USD";
+    window.show_multiple_currencies = false;
+  //window.show_multiple_currencies = true;
+
+  window.loading_url = "//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/loading.gif?5393823817423660678"; 
+  window.use_color_swatch = true;
+  window.product_image_resize = false;
+  window.enable_sidebar_multiple_choice = true;
+  window.dropdowncart_type = "hover";
+  window.file_url = "//cdn.shopify.com/s/files/1/1908/9311/files/?5393823817423660678";
+  window.asset_url = "";
+  window.images_size = {
+    is_crop: false,
+    ratio_width : 1,
+    ratio_height : 1.25,
+  };
+</script>
+
+  <!-- Header hook for plugins ================================================== -->
+  <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/19089311/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="a6f49d39235d4c1162487e608f37da9a">
+<style media="all">.additional-checkout-button{border:0 !important;border-radius:5px !important;display:inline-block;margin:0 0 10px;padding:0 24px !important;max-width:100%;min-width:150px !important;line-height:44px !important;text-align:center !important}.additional-checkout-button+.additional-checkout-button{margin-left:10px}.additional-checkout-button:last-child{margin-bottom:0}.additional-checkout-button span{font-size:14px !important}.additional-checkout-button img{display:inline-block !important;height:1.3em !important;margin:0 !important;vertical-align:middle !important;width:auto !important}@media (max-width: 500px){.additional-checkout-button{display:block;margin-left:0 !important;padding:0 10px !important;width:100%}}.additional-checkout-button--apple-pay{background-color:#000 !important;color:#fff !important;display:none;font-family:-apple-system, &#39;Helvetica Neue&#39;, sans-serif !important;min-width:150px !important;white-space:nowrap !important}.additional-checkout-button--apple-pay:hover,.additional-checkout-button--apple-pay:active,.additional-checkout-button--apple-pay:visited{color:#fff !important;text-decoration:none !important}.additional-checkout-button--apple-pay .additional-checkout-button__logo{background:-webkit-named-image(apple-pay-logo-white) center center no-repeat !important;background-size:auto 100% !important;display:inline-block !important;vertical-align:middle !important;width:3em !important;height:1.3em !important}@media (max-width: 500px){.additional-checkout-button--apple-pay{display:none}}.additional-checkout-button--google-pay{background-color:#fff;background-origin:content-box;background-position:center;background-repeat:no-repeat;background-size:contain;border:0;border-radius:4px;-webkit-box-shadow:0 1px 3px 0 #6d6d6d;box-shadow:0 1px 3px 0 #6d6d6d;outline:0;padding:10px 8px;width:240px;height:40px;min-height:40px}.additional-checkout-button--google-pay .short{width:160px}.additional-checkout-button--google-pay:focus{-webkit-box-shadow:0 1px 3px 0 #6d6d6d, inset 0 0 0 1px #a8abb3;box-shadow:0 1px 3px 0 #6d6d6d, inset 0 0 0 1px #a8abb3}.additional-checkout-button--google-pay:hover:enabled{background-color:#f7f7f7}.additional-checkout-button--google-pay:active:enabled{background-color:#e7e8e8}.additional-checkout-button--google-pay .no-shadow{-webkit-box-shadow:inset 0 0 0 1px #dadce0;box-shadow:inset 0 0 0 1px #dadce0}.additional-checkout-button--google-pay .no-shadow:focus{-webkit-box-shadow:inset 0 0 0 1px #a8abb3;box-shadow:inset 0 0 0 1px #a8abb3}.additional-checkout-button--google-pay:disabled::before{content:&#39;&#39;;width:100%;height:100%;display:block;background-color:rgba(255,255,255,0.5)}.additional-checkout-button--paypal-express{background-color:#ffc439 !important}.additional-checkout-button--paypal{vertical-align:top;line-height:0 !important;padding:0 !important}.additional-checkout-button--amazon{background-color:#fad676 !important;position:relative !important}.additional-checkout-button--amazon .additional-checkout-button__logo{-webkit-transform:translateY(4px) !important;transform:translateY(4px) !important}.additional-checkout-button--amazon .alt-payment-list-amazon-button-image{max-height:none !important;opacity:0 !important;position:absolute !important;top:0 !important;left:0 !important;width:100% !important;height:100% !important}.additional-checkout-button-visually-hidden{border:0 !important;clip:rect(0, 0, 0, 0) !important;clip:rect(0 0 0 0) !important;width:1px !important;height:1px !important;margin:-2px !important;overflow:hidden !important;padding:0 !important;position:absolute !important}
+</style>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":19089311,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/19089311","merchantName":"Sena Cases","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover"],"total":{"type":"pending","label":"Sena Cases","amount":"1.00"}}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "sena-cases.myshopify.com";
+Shopify.theme = {"name":"leathercraft","id":254377988,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/cdn.shopify.com\/s\/files\/1\/1908\/9311\/t\/1\/assets\/zendesk-embeddable.js?2114201441452154321\u0026shop=sena-cases.myshopify.com","https:\/\/productoptions.w3apps.co\/js\/options.js?shop=sena-cases.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/0856de5bfbfa8ac94a7382da1\/73935defa413feb07f4daa430.js?shop=sena-cases.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=WXQ3JIC7EFDEDGHL7F2I6S\u0026adroll_pix_id=H53FHWNSD5GQVEREERWTVQ\u0026shop=sena-cases.myshopify.com","https:\/\/s3.amazonaws.com\/lastsecondcoupon\/js\/quickannouncementbar.js?shop=sena-cases.myshopify.com","https:\/\/d8sfokcjiy6.cloudfront.net\/cdn\/automatic-discount\/wallsh_dp.min.js?shop=sena-cases.myshopify.com","\/\/shopify.privy.com\/widget.js?shop=sena-cases.myshopify.com","https:\/\/cdn.getshogun.com\/pixel.js?v=3\u0026shop=sena-cases.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();
+</script>
+<script id="__st">var __st={"a":19089311,"offset":-28800,"reqid":"aae1f8f5-009f-43f9-9f55-a8290e96c0ad","pageurl":"www.senacases.com\/pages\/privacy-policy","s":"pages-263176836","u":"dd914290177f","p":"page","rtyp":"page","rid":263176836};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.senacases.com/js/blank.html';
-    var BLANK_IMG = 'http://www.senacases.com/js/spacer.gif';
+        window['GoogleAnalyticsObject'] = 'ga';
+        window['ga'] = window['ga'] || function() {
+          (window['ga'].q = window['ga'].q || []).push(arguments);
+        };
+        window['ga'].l = 1 * new Date();
+
+//]]>
+</script><script src="https://www.google-analytics.com/analytics.js" type="text/javascript" async="async"></script><script type="text/javascript">var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-50240807-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script><script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-68ca1924c495cfc55dac65f4853e0c9a395387ffedc8fe58e0f2e677f95d7f23.js" defer="defer"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'USD';
+      var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":263176836}};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
+
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.09.05.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":19089311,"isMerchantRequest":null,"themeId":254377988,"themeCityHash":383912240735950681}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Facebook Pixel":{"pixelIds":["1738298503157016"],"agent":"plshopify1.2"},"Session Attribution":{}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":263176836}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-f2c5800305098f0ebebdfa7d980c9abf56514c46d5305e97a7c476f7c9116163.js"></script>
+    
+<meta id="in-context-paypal-metadata" data-shop-id="19089311" data-environment="production" data-locale="en_US" data-merchant-id="JTE8AYQNLQZP6" data-redirect-url="">
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-382eb43f4570bd168048d6614eb6f24d2bbca3ea7c039ea051063d54848e1471.js" defer="defer" crossorigin="anonymous" integrity="sha256-OC60P0VwvRaASNZhTrbyTSu8o+p8A56gUQY9VISOFHE="></script><script>
+//<![CDATA[
+      window.Shopify = window.Shopify || {};
+      window.Shopify.Checkout = window.Shopify.Checkout || {};
+      window.Shopify.Checkout.apiHost = "sena-cases.myshopify.com";
+      window.Shopify.Checkout.rememberMeHost = "pay.shopify.com";
+      window.Shopify.Checkout.rememberMeAccessToken = "RFlyMDJqak5ocVlCdmRTUThycmRIWXZORkVvQnk5dXZock50RENJeXA0NndwdzdxSm5zMjFvVjhTN0FWMWZUUi0teStCRjNKRkZoOStTS2JnOFdsVUxWdz09--2c115e1f4ece12d1a3dfca5bf33544eeb1506cf6";
+      window.Shopify.Checkout.sheetStyleSheetUrl = "\/\/cdn.shopify.com\/s\/assets\/shared\/sheet\/main-c38a91ed541a82b485cb4285b3651975cfbf14dd4524647e78a9715f2c79e28b.css";
+
 //]]>
 </script>
+
+
+  
+  <!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
 <![endif]-->
 
-
- </head>
-<body class=" cms-page-view cms-about-privacy-policy ">
-<div id="body-wrapper">
-<div id="border-wrapper">
-        <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-	     <link href="http://www.senacases.com/skin/frontend/www_sena/default/nav/css/jetmenu.css" rel="stylesheet">
-<link href="http://www.senacases.com/skin/frontend/www_sena/default/nav/css/sidebar.css" rel="stylesheet">
-<link href="http://www.senacases.com/skin/frontend/www_sena/default/nav/mob/menu_sideslide.css" rel="stylesheet">
-<link href="http://www.senacases.com/skin/frontend/www_sena/default/nav/mob/mob_menu.css" rel="stylesheet">
-<script type="text/javascript" src="http://www.senacases.com/skin/frontend/www_sena/default/nav/js/jetmenu.js"></script>
-<script type="text/javascript" src="http://www.senacases.com/skin/frontend/www_sena/default/nav/js/hammer.js"></script>
-<script type="text/javascript" src="http://www.senacases.com/skin/frontend/www_sena/default/nav/js/sidebar.js"></script>
-<script type="text/javascript" src="http://www.senacases.com/skin/frontend/www_sena/default/nav/mob/mob_menuscript.js"></script>
-<script type="text/javascript">
-	jQuery(document).ready(function(){  
-		jQuery("#jetmenu").jetmenu();
-	});
+  
+  
+  
+    <script type="text/javascript">
+!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+ 
+pintrk('load','2614611290074');
+pintrk('page');
 </script>
-<style type="text/css">
-	#TopNav *{ z-index:2; }
-	#TopPanelWrap *{ z-index:2; }
-	.content-wrap { overflow: hidden; width: 100%; height: 100%; }
-	.content-wrap { overflow-y: scroll; -webkit-overflow-scrolling: touch; }	
-</style>
-<div id="TopPanelWrap">
-<div class="TopPanel">
-	<div class="Shipping">50% off iPhone 6 cases + Free domestic shipping </div>
-    <div class="Call"><a href="/about/contact-us/"><span>Contact Us</span> 1.888.736.2872</a></div>
-    <div class="CallM"><a href="tel:1.888.736.2872">1.888.736.2872</a></div>
-    <div class="MyAccount">
-	<a href="https://store.senacases.com/customer/account/">
-			<span class="label">Login</span>
-	</a>
-	
-	</div>
-    <div class="clearfix"></div>
-</div>
-</div>
-<div class="site-header-full">
-<div class="MobileContainer">
-<div data-sidebar="true" class="sidebar-trigger">
-    <a class="sidebar-toggle" href="#">
-       <span class="sr-only">Sidebar toggle</span>
-        <span class="fa fa-sidebar-toggle"></span>
-    </a>
+<noscript>
+<img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=2614611290074&noscript=1" />
+</noscript>
+  
 
-    <div class="sidebar-wrapper sidebar-default">
-    <div class="sidebar-scroller">
-    <nav>
-    <div id="menu" class="menu">
-      <ul>
-        <li class="active"><a href="javascript:" class="submenu-indicator-minus">DEVICES</a>
-        	<ul class="submenu" style="display: block;">
-                <li><a href="#" class="submenu-indicator-minus">iPhone</a>
-                    <ul class="submenu" style="display:block;">
- <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=267"><p>iPhone 7</p></a></li>
-                                                <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=268"><p>iPhone 7 Plus</p></a></li>
-                        <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=175"><p>iPhone 6/6s</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=174"><p>iPhone 6 Plus/6s Plus</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=59"><p>iPhone SE/5/5s</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=58&amp;q=5c"><p>iPhone 5c</p></a></li>
-                    </ul>
-                </li>
-                <li><a href="#"> iPad</a>
-                    <ul class="submenu">
-			<li><a href="/catalogsearch/result/index/?device_model=308"><p>New iPad Pro 10.5"</p></a></li>
-                        <li><a href="/catalogsearch/result/index/?device_model=309"><p>New iPad Pro 12.9"</p></a></li>
-			<li><a href="/catalogsearch/result/index/?device_model=307"><p>New iPad</p></a></li>
-                        <li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=217"><p>iPad Pro 9.7"</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=247"><p>iPad Pro 12.9"</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=178"><p>iPad Air 2</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=60"><p>iPad Air</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=218"><p>iPad mini 4</p></a></li>
-						<li><a href="/catalogsearch/result/index/?q=navmw123ipadmini"><p>iPad mini 2-3</p></a></li>
-                    </ul>
-                </li>
-                <li><a href="#">MacBook</a>
-                    <ul class="submenu">
-                        <li><a href="/catalogsearch/result/index/?device_model=195"><p>MacBook 12"</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=140"><p>MacBook Pro 13"</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=158"><p>MacBook Pro 15"</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=159"><p>MacBook Air 11"</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=57"><p>MacBook Air 13"</p></a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Apple Watch</a>
-	                <ul class="submenu">
-                        <li><a href="/catalogsearch/result/index/?device_model=273"><p>38mm</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=227"><p>42mm</p></a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Samsung</a>
-	                <ul class="submenu">
-                        <li><a href="/catalogsearch/result/index/?device_model=306"><p>Galaxy S8</p></a></li>
-                        <li><a href="/catalogsearch/result/index/?device_model=305"><p>Galaxy S8+</p></a></li>
-                        <li><a href="/catalogsearch/result/index/?device_model=250"><p>Galaxy S7</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=249"><p>Galaxy S7 edge</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=194"><p>Galaxy S6</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=193"><p>Galaxy S6 edge</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=222"><p>Galaxy S6 edge Plus</p></a></li>
-				    </ul>
-                </li>
-          </ul>
-        </li>
-		<li class="active"><a href="javascript:">PRODUCTS</a>
-			<ul class="submenu">
-                <li><a href="#">Cases</a>
-                    <ul class="submenu">
-                        <li><a href="/catalogsearch/result/index/?product_style=74"><p>Snap-on</p></a></li>
-						<li><a href="/catalogsearch/result/index/?product_style=76"><p>Pouch</p></a></li>
-						<li><a href="/catalogsearch/result/index/?product_style=78"><p>Holster</p></a></li>
-						<li><a href="/catalogsearch/result/index/?product_style=81"><p>Flip</p></a></li>
-						<li><a href="/catalogsearch/result/index/?product_style=73"><p>Wallet</p></a></li>
-                    </ul>
-                </li>
-				<li><a href="/catalogsearch/result/index/?product_style=80"><p>Folio</p></a></li>
-			    <li><a href="#">Stands</a>
-                    <ul class="submenu">
-                        <li><a href="/apple-pencil-stand"><p>Apple Pencil</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_type=226&amp;product_style=228"><p>Apple&nbsp;Watch</p></a></li>
-				    </ul>
-                </li>
-                <li><a href="/catalogsearch/result/?q=sleeve">Sleeves</a></li>
-                <li><a href="/catalogsearch/result/?q=messenger">Bags</a></li>
-                <li><a href="/catalogsearch/result/index/?product_type=86"><p>Accessories</p></a></li>
-          </ul>
-        </li>
-        <li class="active"><a href="javascript:">WOMEN</a>
-        	<ul class="submenu">
-                <li><a href="/catalogsearch/result/?q=~wmncase">Cases</a></li>
-				<li><a href="/catalogsearch/result/?q=~wmnfolio"><p>Folio</p></a></li>
-			    <li><a href="/catalogsearch/result/?q=~wmnbags">Bags</a></li>
-                <li><a href="/catalogsearch/result/?q=~wmnaccessories"><p>Accessories</p></a></li>
-          </ul>
-        </li>
-        <li class="active"><a href="javascript:">SPECIALS</a>
-        	<ul class="submenu">
-                <li><a href="#">iPhone</a>
-                    <ul class="submenu">
-                        <li><a href="/catalogsearch/result/?q=spip6121615"><p>iPhone 6/6s/6 Plus/6s Plus</p></a></li>
-						<li><a href="/catalogsearch/result/?q=5-5s-5c"><p>iPhone SE/5/5s</p></a></li>
-                    </ul>
-                </li>
-                <li><a href="#">iPad</a>
-                    <ul class="submenu">
-                        <li><a href="/catalogsearch/result/?q=spia2121615"><p>iPad Air 2</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=60"><p>iPad Air</p></a></li>
-						<li><a href="/catalogsearch/result/index/?device_model=130"><p>iPad mini 2/3</p></a></li>
-                        <li><a href="/catalogsearch/result/index/?q=navmw123ipadmini"><p>iPad mini</p></a></li>
-				    </ul>
-                </li>
-                <li><a href="/catalogsearch/result/?q=~sm61b0a1">MacBook</a></li>
-                <li><a href="#">Galaxy</a>
-                    <ul class="submenu">
-                        <li><a href="/catalogsearch/result/?q=~1323021052"><p>Galaxy S6 edge/S6 edge Plus</p></a></li>
-						<li><a href="/catalogsearch/result/?q=~8894775211"><p>Galaxy S6</p></a></li>
-						<li><a href="/catalogsearch/result/?q=~1544262389"><p>Galaxy S5</p></a></li>
-                    </ul>
-                </li>
-          </ul>
-        </li>
-      </ul>
-    </div>
-  </nav>
-        </div>
-    </div>
-</div>
-</div>
-
-<div class="content-wrap" style="display:none;"></div>
-
-<div class="menu_mobile">
-<div class="mobile_icons">
-	<span href="javascript:;" class="headericon-search js-modal-search search"></span>
-	<a href="https://store.senacases.com/customer/account/"><span class="headericon-login"></span></a>
-	<a href="https://store.senacases.com/checkout/cart/"><span class="fa fa-shopping-cart">  </span></a><a class="cart" href="https://store.senacases.com/checkout/cart/"><span>0</span></a>
-				
+  
 
 
-</div>
-	
-<ul id="jetmenu" class="jetmenu">
-    <li class="logoDiv"><a href="/" class="logo"></a></li>
-</ul>	
-</div>
 
-<div id="TopNav" class="menu_desktop">
-<div class="mobile_icons">
-	<a href="javascript:;" class="js-modal-search search"></a>
-	<a class="user" href="https://store.senacases.com/customer/account/"></a>
-	  <a class="cart" href="https://store.senacases.com/checkout/cart/"><span>0</span></a>
-				
+</head>
 
-	
-</div>
-	
-    <ul id="jetmenu" class="jetmenu">
-	<li><a href="/" class="logo"></a></li>
-    <li><a href="#" style="padding: 9px 0px 9px 62px;"><p>Shop</p></a>
-        <div class="megamenu full-width">
-            <div class="row megaInner">
-            <div class="col3 nav_device">
-            <div class="title"><h5>Devices</h5></div>            
-            <!-- sdsdsd -->
-            <div class="row">
-                <div class="col2 first">
-                    <div class="row">
-                        <div class="col3">
-                        	<ul class="jetmenu" style="z-index:0;">
-                                <li><a href="#"><p>iPhone</p></a>
-                                    <ul class="dropdown" style="display:none">
-										<li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=267"><p>iPhone 7</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=268"><p>iPhone 7 Plus</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=175"><p>iPhone 6/6s</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=174"><p>iPhone 6 Plus/6s Plus</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=67&amp;device_model=59"><p>iPhone SE/5/5s</p></a></li>
-										<li><a href="/catalogsearch/result/index/?device_model=58&amp;q=5c"><p>iPhone 5c</p></a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col3">
-                        <ul class="jetmenu">
-                                <li><a href="#"><p>iPad</p></a>
-                                    <ul class="dropdown" style="display:none">
-					 <li><a href="/catalogsearch/result/index/?device_model=308"><p>New iPad Pro 10.5"</p></a></li>
-                        		<li><a href="/catalogsearch/result/index/?device_model=309"><p>New iPad Pro 12.9"</p></a></li>
-					<li><a href="/catalogsearch/result/index/?device_model=307"><p>New iPad</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=217"><p>iPad Pro 9.7"</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=247"><p>iPad Pro 12.9"</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=178"><p>iPad Air 2</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=60"><p>iPad Air</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_type=68&amp;device_model=218"><p>iPad mini 4</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?q=navmw123ipadmini"><p>iPad mini 2-3</p></a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col2 second">
-                    <div class="row">
-                        <div class="col3">
-                            <ul class="jetmenu">
-                                <li><a href="#"><p>MacBook</p></a>
-                                    <ul class="dropdown" style="display:none">
-                                        <li><a href="/catalogsearch/result/index/?device_model=195"><p>MacBook 12"</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_model=140"><p>MacBook Pro 13"</p></a></li>
-										<li><a href="/catalogsearch/result/index/?device_model=158"><p>MacBook Pro 15"</p></a></li>
-										<li><a href="/catalogsearch/result/index/?device_model=159"><p>MacBook Air 11"</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_model=57"><p>MacBook Air 13"</p></a></li>
-                                    </ul>
-	                            </li>
-                            </ul>
-                        </div>
-                        <div class="col3 AppleWatch">
-                        <ul class="jetmenu">
-                                <li><a href="#"><p>Apple Watch</p></a>
-                                    <ul class="dropdown" style="display:none">
-                                        <li><a href="/catalogsearch/result/index/?device_model=273"><p>38mm</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_model=227"><p>42mm</p></a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="col2 third">
-                   <div class="col3">
-                        <ul class="jetmenu">
-                                <li><a href="#"><p>Samsung</p></a>
-                                    <ul class="dropdown" style="display:none">
-                                            <li><a href="/catalogsearch/result/index/?device_model=306"><p>Galaxy S8</p></a></li>
-											<li><a href="/catalogsearch/result/index/?device_model=305"><p>Galaxy S8+</p></a></li>
-											<li><a href="/catalogsearch/result/index/?device_model=250"><p>Galaxy S7</p></a></li>
-                                            <li><a href="/catalogsearch/result/index/?device_model=249"><p>Galaxy S7 edge</p></a></li>
-                                            <li><a href="/catalogsearch/result/index/?device_model=194"><p>Galaxy S6</p></a></li>
-                                            <li><a href="/catalogsearch/result/index/?device_model=193"><p>Galaxy S6 edge</p></a></li>
-                                            <li><a href="/catalogsearch/result/index/?device_model=222"><p>Galaxy S6 edge Plus</p></a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </div>
-                </div>
-                
-                
-            </div>                    
-                    </div>
-                    
-                <div class="col1 navProducts">
-                    <ul>
-                    <li class="title"><h5>Products</h5></li>
-                        <ul class="dropdown">
-                            <li class="submenu"><a href="#"><p>Cases</p></a>
-                                <ul class="dropdown" style="z-index:1;">
-                                    <li><a href="/catalogsearch/result/index/?product_style=74"><p>Snap-on</p></a></li>
-                                    <li><a href="/catalogsearch/result/index/?product_style=76"><p>Pouch</p></a></li>
-                                    <li><a href="/catalogsearch/result/index/?product_style=78"><p>Holster</p></a></li>
-                                    <li><a href="/catalogsearch/result/index/?product_style=81"><p>Flip</p></a></li>
-                                    <li><a href="/catalogsearch/result/index/?product_style=73"><p>Wallet</p></a></li>
-                                </ul>
-                            </li>
-							<li><a href="/catalogsearch/result/index/?product_style=80"><p>Folio</p></a></li>
-                            <li><a href="#"><p>Stands</p></a>
-                                <ul class="dropdown">
-                                    <li><a href="/apple-pencil-stand"><p>Apple Pencil</p></a></li>
-                                    <li><a href="/catalogsearch/result/index/?device_type=226&amp;product_style=228"><p>Apple&nbsp;Watch</p></a></li>
-                                </ul>
-                            </li>
-                            <li><a href="/catalogsearch/result/?q=sleeve"><p>Sleeves</p></a></li>
-                            <li><a href="/catalogsearch/result/?q=messenger"><p>Bags</p></a></li>
-                            <li><a href="/catalogsearch/result/index/?product_type=86"><p>Accessories</p></a></li>
-                        </ul>
-                   </ul>
-                   </div>
-                   
-                    <div class="col1 Collections">
-                        <ul>
-                    <li class="title"><h5>Women</h5></li>
-                        <ul class="dropdown">
-							<li><a href="/catalogsearch/result/?q=~wmncase">Cases</a></li>
-							<li><a href="/catalogsearch/result/?q=~wmnfolio"><p>Folio</p></a></li>
-							<li><a href="/catalogsearch/result/?q=~wmnbags">Bags</a></li>
-							<li><a href="/catalogsearch/result/?q=~wmnaccessories"><p>Accessories</p></a></li>
-				        </ul>
-                   </ul>
-                    </div>
-                    
-                    <div class="col1 Specials">
-                        <ul>
-                        <li class="title"><h5>Specials</h5></li>
-                            <ul class="dropdown">
-                                <li><a href="#"><p>iPhone</p></a>
-                                    <ul class="dropdown">
-                                        <li><a href="/catalogsearch/result/?q=spip6121615"><p>iPhone 6/6s/6 Plus/6s Plus</p></a></li>
-                                        <li><a href="/catalogsearch/result/?q=5-5s-5c"><p>iPhone SE/5/5s</p></a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="#"><p>iPad</p></a>
-                                    <ul class="dropdown">
-                                        <li><a href="/catalogsearch/result/?q=spia2121615"><p>iPad Air 2</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_model=60"><p>iPad Air</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?device_model=130"><p>iPad mini 2/3</p></a></li>
-                                        <li><a href="/catalogsearch/result/index/?q=navmw123ipadmini"><p>iPad mini</p></a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="/catalogsearch/result/?q=~sm61b0a1"><p>MacBook</p></a></li>
-                                <li><a href="#"><p>Galaxy</p></a>
-                                    <ul class="dropdown">
-                                        <li><a href="/catalogsearch/result/?q=~1323021052"><p>Galaxy S6 edge/S6 edge Plus</p></a></li>
-                                        <li><a href="/catalogsearch/result/?q=~8894775211"><p>Galaxy S6</p></a></li>
-                                        <li><a href="/catalogsearch/result/?q=~1544262389"><p>Galaxy S5</p></a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </ul>
-                    </div>                    
-                    </div>
+
+<body id="privacy-policy-sena-cases" class=" template-page">
+
+  <div class="wrapper-container">
+    <header id="header-content" class="header-layout-1">
+  <div class="header-top">
+    <div class="container">
+      <div class="top-currency">
+        <div class="row">
+          <div class="header-top-left col-lg-5 col-md-6 hidden-sm hidden-xs">
+            
+            <div class="header-contact">
+              
+              <div class="contact-content">
+                <span>
+                  FREE GROUND SHIPPING ON U.S. ORDERS OVER $39.
+                </span>
+              </div>
+              
             </div>
-    </li>
-    <li class="right"><a class="CartLink" href="https://store.senacases.com/checkout/cart/"><span class="headericon-cart"></span> <p>Cart</p></a></li>
-    <li class="right js-modal-search"><a href="#" class="SearchLink"><p>Search</p></a></li>
-</ul>	
-</div>
-</div>
-<div style="clear:both;"></div>
-<script type="text/javascript">
-jQuery(document).ready(function($) {
-  $("#menu").accordion();
-});
-</script>
+            
+          </div>
+          <div class="bar-content header-content-right col-lg-7 col-md-6 col-xs-12">
+            <div class="header-links">
+              <div class="cusstom-link">
+                <ul class="customer-links">
+                  
+                  
+                  <li><i class="icon_lock-open" aria-hidden="true"></i>
+                    <a href="/account/login" id="customer_login_link">Login</a>
 
+                  </li>
+                  <li><i class="icon_profile" aria-hidden="true"></i>
+                    
+                    <a href="/account/register" id="customer_register_link">Register</a>
+                    
+                  </li>
+
+                  
+                  
+                  <li>
+
+</li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="header-bottom">
+    <div class="container">
+      <div class="header-inner">
+        <div class="row main-header">
+          <div class="col-xs-4 toggle-me">
+            <div id="off-canvas-button">
+              <span class="off-canvas-nav"><i class="clever-icon-close"></i></span>			
+            </div>
+            <div class="toggle-menu">
+              <button class="navbar-toggle btn-menu-canvas" data-toggle="offcanvas" data-target="#off-canvas-nav">
+                <i class="icon_menu"></i>
+              </button>
+            </div>
+          </div>
+          <div class="search-top-container col-sm-4">
+            <div id="search-top">
+              <div class="icon-search"><i class="clever-icon-search-4"> </i></div>
+              <div class="search-form" style="display: none;">
+                <div class="search-close">
+                  <i class="icon_close"></i>
+                </div>
+                
+
+
+<div class="searchbox">
+  <form action="/search" method="get" class="input-group search-bar navbar-form search" role="search">
     
-<div class="wrapper">
-    <div class="page">
-        <div class="main-container col1-layout">
-            <div class="main-before-top-container"></div>
-            <div class="main container">
-                                <div class="preface grid-full in-col1"></div>
-                <div class="col-main grid-full in-col1">
-                    	<main id="main" role="main" data-page="generic">
-	<div class="generic-wrapper">
-	    <h1 class="generic-title">Privacy Policy</h1>	
-	<div class="std"><p class="generic-sub-heading">WE KEEP YOUR INFORMATION IN CONFIDENCE!</p>
-<div class="generic-text-block-data">
-<p>Sena® Cases recognizes and respects the privacy of SenaCases.com visitors, so we provide you with this Privacy Policy to inform you of our online information practices and the choices available regarding the collection and use of your information. This Privacy Policy applies to all information collected off the SenaCases.com website (reseller program excluded).</p>
-<p>For each visitor browsing our website, our web server automatically recognizes and stores the visitor's IP address (the Internet address of visitor's computer) to determine which areas of our site is being visited and how long each visitor spends there. This information helps us to understand visitors' traffic patterns through our website so that we can enhance the overall usability of our website. Your computer provides this information automatically each time you log on, unless you've activated blocking technology available in some browsers. While we do not generally require that you provide us with individually identifiable information in order to visit and use our website, at times we may ask you to provide us with personal information such as your E-mail address, name, mailing address, telephone number, credit card number, demographic information, or persistent identifier (such as user name and password) which is associated with individually identifiable information, to enable you to make a purchase, register a product, correspond with us, enter a sweepstakes, participate in an online survey, subscribe to a mailing list or newsletter, or register for special purchase discounts. If you choose not to provide it for those activities, you may not be able to participate in them.</p>
-</div>
-<p class="generic-sub-heading">COOKIES</p>
-<div class="generic-text-block-data">
-<p>Like many websites today, we may employ a standard technology called cookies to collect information about how you use our site in order to provide you with a better experience by measuring which areas of our website of greatest interest or to remember you when you return to visit us. We have no desire or intent to infringe on your privacy while visiting our site. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You can choose to set your browser to notify you when you receive a cookie, giving you the choice of rejecting or accepting the cookie. Cookies may also be used by third party ad-serving companies when they place ads on our website and control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. It is important to note that we do not place or use these cookies.</p>
-</div>
-<p class="generic-sub-heading">WHAT WE DO WITH PERSONAL INFORMATION</p>
-<div class="generic-text-block-data">
-<p>The information you provide will be kept confidential and used to support your customer relationship with Sena® Cases. Among other things, we want to use this data to tailor your experience at our website. Unless you instruct us otherwise, we will send you information about our various product upgrades, special offers and other new products and services from Sena® Cases that we feel may be of interest to you. Only Sena® Cases (or agents working on behalf of Sena® Cases and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. At any time should you choose to, you could opt-out of receiving future mailings; see the opt-out section below. Sena® Cases will not share your personal information to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of Sena® Cases for the purpose of performing services for Sena® Cases. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction.</p>
-</div>
-<p class="generic-sub-heading">LINKED WEBSITES</p>
-<div class="generic-text-block-data">
-<p>Other sites which are linked to/from our website (including the websites of Sena® Cases affiliates) may have different policies. Since we do not control these websites, we encourage you to review the privacy policies posted on those sites for details.</p>
-</div>
-<p class="generic-sub-heading">SECURITY MEASURES</p>
-<div class="generic-text-block-data">
-<p>We protect the personal information you share with us. At Sena® Cases, access to your personal information is limited to people who need it to do their job. In addition, it is our policy to maintain the integrity of any personal information within our possession. To prevent security breaches, Sena® Cases collects and stores all personal information in a separate location from this website, with no connection to the Internet or any other network.</p>
-</div>
-<p class="generic-sub-heading">HOW TO OPT-OUT OF OUR USE OF YOUR PERSONAL INFORMATION</p>
-<div class="generic-text-block-data">
-<p>Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications at any time. They may do so by clicking on the unsubscribe link at the bottom of each email.</p>
-</div></div>	</div>
-	</main>
-	                </div>
-                <div class="postscript grid-full in-col1"></div>
-            </div>
-        </div>
-    </div>
+	<input type="hidden" name="type" value="product">
+
+    <input type="text" name="q" placeholder="Search for Leather Cases" class="input-group-field input__field-2" aria-label="Search Site" autocomplete="off">
+    <span class="input-group-btn">
+      <button type="submit" class="" value="Search"></button>
+    </span>
+  </form>
 </div>
 
-		<footer id="site-footer" class="site-footer js-site-footer" data-position="0.9">
-    <nav class="footer-nav js-footer-nav" role="navigation">
-        <h3 class="accessibility">Footer Navigation</h3>
+<script>
+  (function() {
+    // trim polyfill : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim
+    if (!String.prototype.trim) {
+      (function() {
+        // Make sure we trim BOM and NBSP
+        var rtrim = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g;
+        String.prototype.trim = function() {
+          return this.replace(rtrim, '');
+        };
+      })();
+    }
 
-        <ul class="company">
-            <li class="nav-header"><h4>Company</h4></li>
-            <li class="nav-item js-nav-item"><a href="/about-us/" class="link">About us</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/job-opportunities/" class="link">Careers</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/reviews/" class="link">Reviews &amp; Press</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/privacy-policy/" class="link">Privacy Policy</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/terms-of-use/" class="link">Terms of Use</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/patents/" class="link">Patents</a></li>
-<li class="nav-item js-nav-item"><a href="http://blog.senacases.com/" target="_blank" class="link">Sena Blog</a></li>
-        </ul>
-        <ul class="shopping">
-            <li class="nav-header"><h4>Shopping</h4></li>
-            <li class="nav-item js-nav-item"><a href="/corporate-orders/" class="link">Corporate Orders</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/shipping/" class="link">Shipping</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/warranty/" class="link">Warranty</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/return-and-exchange/" class="link">Exchanges &amp; Returns</a></li>
-        </ul>
-        <ul class="support">
-            <li class="nav-header"><h4>Support</h4></li>
-            <li class="nav-item js-nav-item"><a href="/about/contact-us/" class="link">Contact Us</a></li>
-            <li class="nav-item js-nav-item"><a href="/about/faq/" class="link">FAQ</a></li>
-        </ul>
+    [].slice.call( document.querySelectorAll( 'input.input__field-2' ) ).forEach( function( inputEl ) {
+      // in case the input is already filled..
+      if( inputEl.value.trim() !== '' ) {
+        classie.add( inputEl.parentNode, 'input--filled-2' );
+      }
 
-        <div class="connect-nav">
-            <ul>
-                <li class="nav-header"><h4>Connect</h4></li>
-                <li class="nav-item js-nav-item facebook"><a href="http://facebook.com/SenaCases" target="_blank"><span class="icon-facebook"></span></a></li>
-                <li class="nav-item js-nav-item pinterest"><a href="https://www.pinterest.com/senacases/" target="_blank"><span class="icon-pinterest"></span></a></li>
-                <li class="nav-item js-nav-item twitter"><a href="https://twitter.com/SenaCases" target="_blank"><span class="icon-twitter"></span></a></li>
-                <li class="nav-item js-nav-item tumblr"><a href="http://senacases.tumblr.com/" target="_blank"><span class="icon-tumblr"></span></a></li>
-                <li class="nav-item js-nav-item instagram"><a href="http://instagram.com/senacases/" target="_blank"><span class="icon-instagram"></span></a></li>
-            </ul>
-        </div>
-		<form class="newsletter-signup" id="newsletter-signup" method="post" action="http://www.senacases.com/subscribe/index/" target="_blank">
-			<fieldset>
-                <legend>Newsletter Sign Up</legend>
-                <label for="newsletter-email">Newsletter Sign Up</label>
-                <input type="email" name="email_address" placeholder="Your Email" class="newsletter-email" id="newsletter-email">
-                <button class="newsletter-submit" type="submit">Sign Up</button>
-            </fieldset>
-        </form>
-    </nav>
+      // events:
+      inputEl.addEventListener( 'focus', onInputFocus );
+      inputEl.addEventListener( 'blur', onInputBlur );
+    } );
 
-    <p class="legal">© 2017 Sena Cases All Rights Reserved </p>
-</footer>
+    function onInputFocus( ev ) {
+      classie.add( ev.target.parentNode, 'input--filled-2' );
+    }
 
-<script type="text/javascript" src="http://www.senacases.com/skin/frontend/www_sena/default/newsletter-popup/lity/lity.js"></script>
-<script type="text/javascript" src="http://www.senacases.com/skin/frontend/www_sena/default/newsletter-popup/jquery.cookie.js"></script>
-<link href="http://www.senacases.com/skin/frontend/www_sena/default/newsletter-popup/lity/lity.css" rel="stylesheet">
-<div id="div-signup-popup" class="div-signup-popup">
-	<div class="thank-you-popup">
-		<h2>THANK YOU!</h2>
-		<h3>Be sure to check your email for your exclusive code for 10% off of your next purchase.</h3>
-		<p><a href="javascript:;" class="newsletter-button lity-close-custom">SHOP NOW</a></p>
-	</div>
-	<div class="newsletter-signup-popup">
-	<form id="newsletter-signup-form" method="post" action="http://www.senacases.com/subscribe/index/" target="_blank">
-		<input type="hidden" name="popup_subscribe" value="1"> 
-		<h2>SIGN UP AND SAVE 10%*</h2>	
-		<h3>Be the first to hear about new product releases and exclusive promotions.</h3>
-		<input type="email" name="email_address" placeholder="EMAIL ADDRESS*" class="newsletter-email" id="newsletter-email" required="">
-		<p class="sign-up-button"><button class="newsletter-submit newsletter-button" type="submit">SIGN UP</button></p>
-		<p class="no-thank-you"><a href="javascript:;" class="lity-close-custom">No Thank You</a></p><br>
-		<p class="exclusions-apply">*Exclusions Apply. </p>
-	</form>
-	</div>
-</div>
-<script type="text/javascript">
-	jQuery(document).ready(function(){  
-	
-		if(skcookie('NewsletterPopUp')==undefined)
-		{
-			jQuery( "#newsletter-signup-form" ).submit(function( event ) {
-				event.preventDefault();
-				$( ".sign-up-button" ).html( '<img src="http://www.senacases.com/skin/frontend/www_sena/default/newsletter-popup/lity/loader.gif" />' );
-				var $form = $( this )
-				jQuery.post( $form.attr( "action" ), $form.serialize()).done(function( data ) {
-						if(data=="1")
-						{
-							skcookie('NewsletterPopUp', 'Done', { expires: 20*365 });
-							jQuery( ".newsletter-signup-popup" ).slideUp( "slow", function() {
-								 jQuery( ".thank-you-popup" ).slideDown();
-							 });
-							
-						}
-						else
-						{
-							//alert('Please try again');;
-							lity_obj.close();
-							
-						}
-						return false;
-					  });
-					  
-					  
-				  return false;
-				  
-				});
-			
-			var lity_obj = lity('#div-signup-popup');
-			
-			jQuery(document).on('lity:close', function(event, instance) {
-				if(skcookie('NewsletterPopUp') != "Done")
-				{
-					skcookie('NewsletterPopUp', 'Pending', { expires: 14 });
-				}
-				jQuery(".div-signup-popup").remove();
-			});
-			
-			jQuery(".lity-close-custom").bind("click",function(){
-				lity_obj.close();
-			});
-		}
-		else
-		{
-			jQuery(".div-signup-popup").remove();
-		}
-		
-	});
+    function onInputBlur( ev ) {
+      if( ev.target.value.trim() === '' ) {
+        classie.remove( ev.target.parentNode, 'input--filled-2' );
+      }
+    }
+  })();
 </script>
-<div style="display:none;">SENACASES MONITOR TEXT</div> <!-- Do not remove this line --> 
+              </div>
+              <div class="overlay-search"></div>
+            </div>
+          </div>
+          <div class="logo col-sm-4">
+            <div class="">
+              
+              <h1><a href="/"><img id="shop_logo" src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/logo.png?5393823817423660678" alt="Sena Cases"></a></h1>
+              
+              
+            </div>
 
-		</div> <!-- end: border-wrapper -->
-		</div> <!-- end: body-wrapper -->
-                <div class="site-border" id="border-top"></div>
-    <div class="site-border" id="border-right"></div>
-    <div class="site-border" id="border-bottom"></div>
-    <div class="site-border" id="border-left"></div>
-    <div id="modal-region"></div>
+          </div>
+          <div class="header-cart-container col-md-4 col-lg-4">
+            
+            <div class="header-cart">
+              <!--%include 'customer_links' %-->
+              <div class="top-cart">
+                <div class="top-cart">
+                  <a href="#" id="cartToggle">
+                    <span class="icon top-icon-cart">
+                      <span id="cart-count">0</span>
+                      <i class="clever-icon-cart-3"></i>
+                    </span>
+                  </a> 
+                </div>
+                <div id="dropdown-cart"> 
+                  <div class="continue-shoping"><span>My Cart</span><a><i class="clever-icon-close"></i></a></div>
+                  <div class="cart-empty">
+                    <p>You have no items in your shopping cart.</p>
+                  </div>
+                  <div class="mini_cart_header">
+                    <ol class="cart-list">  
+                      
+                    </ol>
+                    <div class="wrap-btcart">
+                      <div class="summary">                
+                        <p class="total">
+                          <span class="label" style="color:#000">Total:</span>
+                          <span class="price">$0.00</span> 
+                        </p>
+                      </div>
+                      <div class="actions">
+                        <div class="view-cart"><a class="harman_btn4" href="/cart">View Cart</a></div>
+                        <button class="btn harman_btn4" type="submit" name="checkout" onclick="window.location='/checkout'">Checkout</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div> <!-- End Top Header --> 
+            </div>
+          </div>
+        </div>
+      </div> 
+    </div>  
+  </div>
+  <div class="header">
+    <div class="container">
+      <div class="row header-menu">
+        <div class="logo-sticky col-xs-1">
+          
+          <a href="/"><img src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/logo-sticky.png?5393823817423660678" alt="Sena Cases"></a>
+          
+        </div>
+        <div class="menu-main-home col-xs-12 hidden-xs">
+          <div class="menu-top ">
+            <div class="menu-action">
+<!--Top Menu -->
+   
+<div class=" megamenu">
+  <ul class="navbar-nav site-nav">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class=" level-top">
+      <a class="" href="/" title="Home" target="_self">
+        <span class="">Home</span>
+      </a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class="menu-dropdown  mega-menu  level-top full-width ">
+      <a class="dropdown-toggle" href="/collections/all-collections" title="Shop by Device">
+        <span>Shop by Device</span><i class="fa fa-angle-down"></i>
+        
+      </a>
+      
+      
 
-    <script>
-        var MAGENTO_URL       = 'http://store.senacases.com',
-            MAGENTO_MEDIA_URL = 'http://www.senacases.com/media/catalog/product',
-            SITE_URL          = 'http://www.senacases.com',
-            STATIC_URL        = 'http://www.senacases.com/skin/frontend/www_sena/default/js/static';
-    </script>
 
-    <script>
-        window.SENA = window.SENA || {};
-        window.SENA.spinConfig = {
-            lines: 9,       // The number of lines to draw
-            length: 0,      // The length of each line
-            width: 5,       // The line thickness
-            radius: 9,      // The radius of the inner circle
-            color: '#000',  // #rgb or #rrggbb or array of colors
-            speed: 0.8,     // Rounds per second
-            trail: 40,      // Afterglow percentage
-            shadow: false,  // Whether to render a shadow
-            hwaccel: false, // Whether to use hardware acceleration
-            zIndex: 2,      // The z-index (defaults to 2000000000)
-            left: 'none',   // Left position relative to parent
-            top: 'none',
-            position: 'relative'
-        }
+
+
+
+
+
+
+
+	
+
+	
+
+<div class="dropdown-sub sub-1" style="width:">
+	<div class="dropdown-menu-inner">
+		<div class="row">
+			
+				<div class="mega-item col-sm-12 col-md-12">
+                  	
+					<div class="row">
+	
+		
+			<div class="col-sm-2">
+				<div class="mega-col-inner ">
+                  <div class="menu-title"><a href="/collections/iphone">iPhone</a></div>
+					<div class="widget-inner">
+						<ul class="nav-links">
+							
+								
+									<li class=""><a href="/collections/iphone-x" title="iPhone X">iPhone X</a></li>
+								
+									<li class=""><a href="/collections/iphone-8-7" title="iPhone 8 / 7">iPhone 8 / 7</a></li>
+								
+									<li class=""><a href="/collections/iphone-8-plus-7-plus" title="iPhone 8 Plus / 7 Plus">iPhone 8 Plus / 7 Plus</a></li>
+								
+									<li class=""><a href="/collections/iphone-6s-6" title="iPhone 6s / 6">iPhone 6s / 6</a></li>
+								
+									<li class=""><a href="/collections/iphone-6s-plus-6s" title="iPhone 6s Plus / 6 Plus">iPhone 6s Plus / 6 Plus</a></li>
+								
+									<li class=""><a href="/collections/iphone-5s-5-se" title="iPhone SE / 5s / 5">iPhone SE / 5s / 5</a></li>
+								
+									<li class=""><a href="/collections/iphone-5c" title="iPhone 5c">iPhone 5c</a></li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+			<div class="col-sm-2">
+				<div class="mega-col-inner ">
+                  <div class="menu-title"><a href="/collections/ipad">iPad</a></div>
+					<div class="widget-inner">
+						<ul class="nav-links">
+							
+								
+									<li class=""><a href="/collections/new-ipad-pro-12-10" title="New iPad Pro 12.9" "="">New iPad Pro 12.9"</a></li>
+								
+									<li class=""><a href="/collections/new-ipad-pro-10-5" title="New iPad Pro 10.5" "="">New iPad Pro 10.5"</a></li>
+								
+									<li class=""><a href="/collections/new-ipad" title="New iPad">New iPad</a></li>
+								
+									<li class=""><a href="/collections/ipad-pro-9-7" title="iPad Pro 9.7" "="">iPad Pro 9.7"</a></li>
+								
+									<li class=""><a href="/collections/ipad-pro-12-9" title="iPad Pro 12.9" "="">iPad Pro 12.9"</a></li>
+								
+									<li class=""><a href="/collections/ipad-air-2" title="iPad Air 2">iPad Air 2</a></li>
+								
+									<li class=""><a href="/collections/ipad-mini-4" title="iPad mini 4">iPad mini 4</a></li>
+								
+									<li class=""><a href="/collections/ipad-air" title="iPad Air">iPad Air</a></li>
+								
+									<li class=""><a href="/collections/ipad-mini-2-3" title="iPad Mini 2-3">iPad Mini 2-3</a></li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+			<div class="col-sm-2">
+				<div class="mega-col-inner ">
+                  <div class="menu-title"><a href="/collections/macbook">MacBook</a></div>
+					<div class="widget-inner">
+						<ul class="nav-links">
+							
+								
+									<li class=""><a href="/collections/macbook-12" title="MacBook 12" "="">MacBook 12"</a></li>
+								
+									<li class=""><a href="/collections/macbook-air-11" title="MacBook Air 11" "="">MacBook Air 11"</a></li>
+								
+									<li class=""><a href="/collections/macbook-air-13" title="MacBook Air 13" "="">MacBook Air 13"</a></li>
+								
+									<li class=""><a href="/collections/macbook-pro-13" title="MacBook Pro 13" "="">MacBook Pro 13"</a></li>
+								
+									<li class=""><a href="/collections/macbook-pro-15" title="MacBook Pro 15" "="">MacBook Pro 15"</a></li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+			<div class="col-sm-2">
+				<div class="mega-col-inner ">
+                  <div class="menu-title"><a href="/collections/apple-watch">Apple Watch</a></div>
+					<div class="widget-inner">
+						<ul class="nav-links">
+							
+								
+									<li class=""><a href="/collections/apple-watch-38-mm" title="Apple Watch 38 mm">Apple Watch 38 mm</a></li>
+								
+									<li class=""><a href="/collections/apple-watch-42-mm" title="Apple Watch 42 mm">Apple Watch 42 mm</a></li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+			<div class="col-sm-2">
+				<div class="mega-col-inner ">
+                  <div class="menu-title"><a href="/collections/samsung">Samsung</a></div>
+					<div class="widget-inner">
+						<ul class="nav-links">
+							
+								
+									<li class=""><a href="/collections/galaxy-s8" title="Galaxy S8">Galaxy S8</a></li>
+								
+									<li class=""><a href="/collections/galaxy-s8-1" title="Galaxy S8+">Galaxy S8+</a></li>
+								
+									<li class=""><a href="/collections/galaxy-s7" title="Galaxy S7">Galaxy S7</a></li>
+								
+									<li class=""><a href="/collections/galaxy-s7-edge" title="Galaxy S7 Edge">Galaxy S7 Edge</a></li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+	
+</div>
+				</div>
+			
+			
+			
+			
+		</div>
+	</div>
+</div>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class="menu-dropdown  level-top   ">
+      <a class="dropdown-toggle has-category" href="/collections/all-collections" title="Collections">
+        <span class="">Collections</span><i class="fa fa-angle-down"></i>
+      </a>
+      <div class="dropdown-sub level1">
+        <ul>
+          
+          
+          <li class="">
+            <a class="" href="/collections/new-arrivals" title="New Arrivals">
+              <span class="">New Arrivals</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/men" title="Men">
+              <span class="">Men</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/women" title="Women">
+              <span class="">Women</span>
+            </a>
+          </li>
+          
+          
+        </ul>
+      </div>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class="menu-dropdown  level-top   ">
+      <a class="dropdown-toggle has-category" href="/collections/all-products" title="Products">
+        <span class="">Products</span><i class="fa fa-angle-down"></i>
+      </a>
+      <div class="dropdown-sub level1">
+        <ul>
+          
+          
+          <li class="">
+            <a class="" href="/collections/cases" title="Cases">
+              <span class="">Cases</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/folio" title="Folio">
+              <span class="">Folio</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/sleeves" title="Sleeves">
+              <span class="">Sleeves</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/bags" title="Bags">
+              <span class="">Bags</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/accessories" title="Accessories">
+              <span class="">Accessories</span>
+            </a>
+          </li>
+          
+          
+        </ul>
+      </div>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class="menu-dropdown  level-top   ">
+      <a class="dropdown-toggle has-category" href="/collections/valentines-day-gifts" title="Gift Ideas">
+        <span class="">Gift Ideas</span><i class="fa fa-angle-down"></i>
+      </a>
+      <div class="dropdown-sub level1">
+        <ul>
+          
+          
+          <li class="">
+            <a class="" href="/collections/gifts-for-her" title="Gifts for Her">
+              <span class="">Gifts for Her</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/gifts-for-him" title="Gifts for Him">
+              <span class="">Gifts for Him</span>
+            </a>
+          </li>
+          
+          
+        </ul>
+      </div>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class=" level-top">
+      <a class="" href="/collections/specials" title="Specials" target="_self">
+        <span class="">Specials</span>
+      </a>
+    </li>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <li class=" level-top">
+      <a class="" href="/blogs/news" title="Blog" target="_self">
+        <span class="">Blog</span>
+      </a>
+    </li>
+    
+    
+    
+  </ul>
+</div>  
+
+<!-- End Menu -->
+
+
+
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="nm-page-overlay"></div>
+</header>
+
+<script>
+  jQuery('#header-content .icon-search').click(function(){
+    jQuery('#search-top .search-form').fadeIn('300');        
+
+    jQuery('#search-top').addClass('active');
+  });
+  jQuery('#header-content .search-close').click(function(){
+    jQuery('#search-top .search-form').fadeOut('300'); 
+
+    jQuery('#search-top').removeClass('active');
+  });
+</script>
+
+<script>
+  $(document).ready(function() {
+    $( ".dropdown-sub").hover(
+      function() {
+        $( this ).parent().addClass("has_arrow");
+      }, function() {
+        $( this ).parent().removeClass("has_arrow");
+
+      }
+    );
+  });
+  jQuery(window).scroll(function() {    
+    var scroll = jQuery(window).scrollTop();
+    if (scroll > 150) {
+      jQuery("#header-content .header").addClass("is-ticky");
+    }else{
+      jQuery("#header-content .header").removeClass("is-ticky");
+    }
+  });
+  if (window.screen.width > 1024) {
+    jQuery(window).scroll(function() {    
+      var scroll = jQuery(window).scrollTop();
+      if (scroll > 150) {
+        jQuery("#header-content").addClass("fixed-cart");
+      }else{
+        jQuery("#header-content").removeClass("fixed-cart");
+      }
+    });
+  }
+  if (window.screen.width < 1025) {
+    jQuery(window).scroll(function() { 
+      var scroll = jQuery(window).scrollTop();
+      jQuery("#header-content .header").removeClass("is-ticky");
+      if (scroll > 40) {
+        jQuery("#header-content .header-bottom").addClass("is-ticky");
+      }else{
+        jQuery("#header-content .header-bottom").removeClass("is-ticky");
+      }
+    });
+  }
+  jQuery('.top-cart a').click(function(){
+
+    //jQuery('#dropdown-cart').addClass('active');
+    //jQuery('.wrapper-container').addClass('show-cart');
+    //jQuery('body').css( "overflow", "hidden" );
+	document.location.href = "/cart";
+  });
+
+  jQuery('.continue-shoping a').click(function(){
+
+    jQuery('#dropdown-cart').removeClass('active');
+    jQuery('.wrapper-container').removeClass('show-cart');
+    jQuery('body').css( "overflow", "visible" );
+
+  });
+  jQuery(document).mouseup(function (e){
+
+    var container = jQuery("#dropdown-cart");
+
+    if (!container.is(e.target) // if the target of the click isn't the container...
+        && container.has(e.target).length === 0) // ... nor a descendant of the container
+    {
+      jQuery('#dropdown-cart').removeClass('active');
+      jQuery('.wrapper-container').removeClass('show-cart');
+      jQuery('body').css( "overflow", "visible" );
+    }
+
+  });
+
+
+</script>
+
+    <div class="product-quickview"></div>
+    
+
+
+
+<div class="clearfix breadcrumb-wrap">
+<div class="breadcrumb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="breadcrumb_position">
+ 
+        
+        <a href="/" title="Back to the frontpage">Home</a>  
+        
+
+        <span class="icon"></span>
+        <strong>Privacy Policy</strong>
 
         
-    </script>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>  
 
-    <script>
-	var dgMain;
-		require.config({
-			baseUrl: 'http://www.senacases.com/skin/frontend/www_sena/default/js/static/js'
-		});
-		
-        require(['http://www.senacases.com/skin/frontend/www_sena/default/js/static/js/common.js'], function(common) {
-            require([
-									'sena/main',
-					'sena/page-generic/main'
-                            ],
 
-            function(main) {
-				$(function(){
-					dgMain=main;
-                    main.App.start();
-                });
-            });
+    <main class="main-content">
+      <div class="container main_container">
+        
+
+<div class="generic-text-block-data" style="text-align: center;"></div>
+<div class="generic-text-block-data"></div>
+<div class="generic-text-block-data">
+<p>&nbsp;<img src="//cdn.shopify.com/s/files/1/1908/9311/files/Header_Block_PrivacyPolicy.jpg?v=1504634002" alt=""></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<h3 class="generic-sub-heading"><span style="color: #444444;"><strong>WE KEEP YOUR INFORMATION IN CONFIDENCE!</strong></span></h3>
+<div class="generic-text-block-data">
+<p>Sena® Cases recognizes and respects the privacy of SenaCases.com visitors, so we provide you with this Privacy Policy to inform you of our online information practices and the choices available regarding the collection and use of your information. This Privacy Policy applies to all information collected off the SenaCases.com website (reseller program excluded). For each visitor browsing our website, our web server automatically recognizes and stores the visitor's IP address (the Internet address of visitor's computer) to determine which areas of our site is being visited and how long each visitor spends there. This information helps us to understand visitors' traffic patterns through our website so that we can enhance the overall usability of our website. Your computer provides this information automatically each time you log on, unless you've activated blocking technology available in some browsers. While we do not generally require that you provide us with individually identifiable information in order to visit and use our website, at times we may ask you to provide us with personal information such as your E-mail address, name, mailing address, telephone number, credit card number, demographic information, or persistent identifier (such as user name and password) which is associated with individually identifiable information, to enable you to make a purchase, register a product, correspond with us, enter a sweepstakes, participate in an online survey, subscribe to a mailing list or newsletter, or register for special purchase discounts. If you choose not to provide it for those activities, you may not be able to participate in them.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<h3 class="generic-sub-heading"><span style="color: #444444;"><strong>COOKIES</strong></span></h3>
+<div class="generic-text-block-data">
+<p>Like many websites today, we may employ a standard technology called cookies to collect information about how you use our site in order to provide you with a better experience by measuring which areas of our website of greatest interest or to remember you when you return to visit us. We have no desire or intent to infringe on your privacy while visiting our site. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You can choose to set your browser to notify you when you receive a cookie, giving you the choice of rejecting or accepting the cookie. Cookies may also be used by third party ad-serving companies when they place ads on our website and control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. It is important to note that we do not place or use these cookies.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<h3 class="generic-sub-heading"><span style="color: #444444;"><strong>WHAT WE DO WITH PERSONAL INFORMATION</strong></span></h3>
+<div class="generic-text-block-data">
+<p>The information you provide will be kept confidential and used to support your customer relationship with Sena® Cases. Among other things, we want to use this data to tailor your experience at our website. Unless you instruct us otherwise, we will send you information about our various product upgrades, special offers and other new products and services from Sena® Cases that we feel may be of interest to you. Only Sena® Cases (or agents working on behalf of Sena® Cases and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. At any time should you choose to, you could opt-out of receiving future mailings; see the opt-out section below. Sena® Cases will not share your personal information to any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of Sena® Cases for the purpose of performing services for Sena® Cases. For example, if we need to ship something to you, we must share your name and address with a shipping company. We only provide third party agents with the minimum amount of information needed to complete the requested service or transaction.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<h3 class="generic-sub-heading"><span style="color: #444444;"><strong>LINKED WEBSITES</strong></span></h3>
+<div class="generic-text-block-data">
+<p>Other sites which are linked to/from our website (including the websites of Sena® Cases affiliates) may have different policies. Since we do not control these websites, we encourage you to review the privacy policies posted on those sites for details.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<h3 class="generic-sub-heading"><span style="color: #444444;"><strong>SECURITY MEASURES</strong></span></h3>
+<div class="generic-text-block-data">
+<p>We protect the personal information you share with us. At Sena® Cases, access to your personal information is limited to people who need it to do their job. In addition, it is our policy to maintain the integrity of any personal information within our possession. To prevent security breaches, Sena® Cases collects and stores all personal information in a separate location from this website, with no connection to the Internet or any other network.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+<h3 class="generic-sub-heading"><span style="color: #444444;"><strong>HOW TO OPT-OUT OF OUR USE OF YOUR PERSONAL INFORMATION</strong></span></h3>
+<div class="generic-text-block-data">
+<p>Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications at any time. They may do so by clicking on the unsubscribe link at the bottom of each email.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+
+      </div>
+    </main>
+
+    <div class="button-accrion" style="display:none;"></div>
+<footer class="footer-container">
+  <div class="container">
+    <div class="footer-top"> 
+      <div class="row">
+        
+        <div class="col-md-3 col-sm-12 col-xs-12">
+          <h3 class="module-title">Company</h3>
+          <ul class="content">
+            
+            
+            <li><a href="/pages/about-us" title="">About Us</a></li>
+            
+            <li><a href="/pages/reviews-and-press" title="">Reviews &amp; Press</a></li>
+            
+            <li><a href="/pages/patents" title="">Patents</a></li>
+            
+            <li><a href="/pages/careers" title="">Careers</a></li>
+            
+            <li><a href="/pages/privacy-policy" title="">Privacy Policy</a></li>
+            
+            <li><a href="/pages/terms-of-use" title="">Terms of Use</a></li>
+            
+          </ul>
+        </div>
+        
+        
+        <div class="col-md-3 col-sm-12 col-xs-12">
+          <h3 class="module-title">Shopping</h3>
+          <ul class="content">
+            
+            
+            <li><a href="/pages/corporate-orders">Corporate Orders</a></li>
+            
+            <li><a href="/pages/shipping">Shipping</a></li>
+            
+            <li><a href="/pages/warranty">Warranty</a></li>
+            
+            <li><a href="/pages/exchanges-returns">Exchanges &amp; Returns</a></li>
+            
+          </ul>
+        </div>
+        
+        
+        <div class="col-md-3 col-sm-12 col-xs-12">
+          <h3 class="module-title">Support</h3>
+          <ul class="content">
+            
+            
+            <li><a href="/pages/contact-us">Contact Us</a></li>
+            
+            <li><a href="/pages/faq">FAQ</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="col-md-3 col-sm-12 col-xs-12 text-left">
+          <h3 class="module-title">Newsletter Sign Up</h3>
+          
+          	
+          <div class="footer-newsletter">
+            <div class="newsletter">
+  
+  <div class="title_newsletter">
+    Subscribe now and receive a 10% discount on your next purchase. Be the first to hear about new product releases and exclusive promotions.
+  </div>
+  
+  <div class="content">
+    <form action="//myshopify.us11.list-manage.com/subscribe/post?u=0856de5bfbfa8ac94a7382da1&amp;id=97b7f0dc43" method="post" name="mc-embedded-subscribe-form" target="_blank" class="input-group">
+      <div class="input-group newsletter_form_content">
+        <input class="input__field input-group-field" type="email" value="" name="EMAIL" aria-label="Email Address">
+        <label class="input_label" for="input-23">
+          <span class="input_label-content">Your email address</span>
+        </label>
+        <span class="input-group-btn">
+          <input type="submit" class="btn harman_btn4" value="Sign Up" name="subscribe">
+        </span>
+      </div>
+    </form>
+  </div>
+</div>
+<script>
+  (function() {
+    // trim polyfill : https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim
+    if (!String.prototype.trim) {
+      (function() {
+        // Make sure we trim BOM and NBSP
+        var rtrim = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g;
+        String.prototype.trim = function() {
+          return this.replace(rtrim, '');
+        };
+      })();
+    }
+
+    [].slice.call( document.querySelectorAll( 'input.input__field' ) ).forEach( function( inputEl ) {
+      // in case the input is already filled..
+      if( inputEl.value.trim() !== '' ) {
+        classie.add( inputEl.parentNode, 'input--filled' );
+      }
+
+      // events:
+      inputEl.addEventListener( 'focus', onInputFocus );
+      inputEl.addEventListener( 'blur', onInputBlur );
+    } );
+
+    function onInputFocus( ev ) {
+      classie.add( ev.target.parentNode, 'input--filled' );
+    }
+
+    function onInputBlur( ev ) {
+      if( ev.target.value.trim() === '' ) {
+        classie.remove( ev.target.parentNode, 'input--filled' );
+      }
+    }
+  })();
+</script>
+          </div>
+          
+          
+          
+          <div class="footer-icon-share">
+            
+            <a href="https://www.instagram.com/senacases/"><i class="fa fa-instagram"></i></a>
+            
+            
+            <a href="https://www.facebook.com/SenaCases"><i class="fa fa-facebook"></i></a>
+            
+            
+            <a href="https://www.pinterest.com/senacases/"><i class="fa fa-pinterest"></i></a>
+            
+            
+            <a href="https://twitter.com/senacases"><i class="fa fa-twitter"></i></a>
+            
+            
+            <a href="https://www.youtube.com/user/SenaCases"><i class="fa fa-youtube"></i></a>
+            
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="footer-bottom-ct">
+        <div class="row">
+          <div class="col-xs-12 col-sm-6 col-footer-left">
+            
+            <address>
+
+              Copyright © 2018 by Sena Cases LLC. All Rights Reserved.
+
+            </address>
+            
+
+          </div>
+
+          <div class="col-xs-12 col-sm-6">
+            <div class="custom-fotter-top">
+              <div class="footer-link-custom">
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<div class="loading cbox">Processing...</div>
+<div class="ajax-error-cbox cbox">
+  <div class="modal-inner">
+    <div class="ajax-error-title">Error</div>
+    <div class="ajax-error-message"></div>
+  </div>
+</div>
+<div class="ajax-success-cbox cbox">
+	<div class="content">
+
+        <p class="success-message show-cart">added to cart success.</p>
+        <p class="success-message show-wishlist">added to wishlist success.</p>        
+
+
+    <a href="javascript:void(0)" class="close-cbox"><span class="icon_close"></span></a>
+ 	</div>    
+</div>
+
+    <!-- Begin quick-view-template -->
+<div class="clearfix" id="quickview-popup" style="display:none">
+  <div class="overlay"></div>
+  <div class="product-content clearfix">
+    <div class="product-img col-xs-6">
+      <div class="quickview-featured-image"></div>
+      <div class="more-view">
+        <ul class="product-photo-thumbs  quickview-more-views-owlslider ">
+        </ul>
+      </div>
+    </div>
+
+    <div class="product-shop col-xs-6">
+      <div class="product-item">
+        <h2 class="product-title"><a>&nbsp;</a></h2>
+
+
+
+
+
+        <div class="product-details clearfix" id="add-to-cart-form">
+          <form action="/cart/add" method="post" class="variants">
+
+            <div class="prices">
+              <span class="text-price"> Price: </span>
+              <span class="compare-price"></span>
+              <span class="price"></span>
+            </div>
+            <p class="product-description"></p>
+
+            <select name="id" style="display:none"></select>
+            <div class="wrap-button">
+              <div class="wrap-qty">
+                <div class="custom-qty">
+                  <input type="text" id="quantity" class="quantity" name="quantity" value="1">
+                  <div class="btn-plus">
+                    <span class="dec button down-qty">-</span>
+                    <span class="inc button up-qty">+</span>
+                  </div>
+
+                </div>
+              </div>
+              <div class="actions">
+                <button type="button" class="btn add-to-cart-btn" id="add-to-cart-btn">Add to cart</button>
+              </div>
+            </div>
+          </form>
+        </div>
+
+      </div>
+    </div>  
+    <a href="javascript:void(0)" class="close-popup"><i class="clever-icon-close"></i></a> 
+  </div>
+</div>
+<!-- End of quick-view-template -->
+<script type="text/javascript">  
+  Shopify.doNotTriggerClickOnThumb = false; 
+
+  var selectCallbackQuickview = function(variant, selector) {
+    var productItem = jQuery('.product-quickview .product-item');
+    addToCart = productItem.find('.add-to-cart-btn'),
+      productPrice = productItem.find('.price'),
+      comparePrice = productItem.find('.compare-price'),
+      totalPrice = productItem.find('.total-price span');
+
+
+    if (variant) {
+      if (variant.available) {
+        // We have a valid product variant, so enable the submit button
+        addToCart.removeClass('disabled').removeAttr('disabled').text('Add to Cart');
+
+      } else {
+        // Variant is sold out, disable the submit button
+        addToCart.val('Sold Out').addClass('disabled').attr('disabled', 'disabled');
+      }
+
+      // Regardless of stock, update the product price
+      productPrice.html(Shopify.formatMoney(variant.price, "${{amount}}"));
+
+                                            // Also update and show the product's compare price if necessary
+                                            if ( variant.compare_at_price > variant.price ) {
+                        comparePrice
+                        .html(Shopify.formatMoney(variant.compare_at_price, "${{amount}}"))
+                        .show();
+      productPrice.addClass('on-sale');
+    } else {
+      comparePrice.hide();
+      productPrice.removeClass('on-sale');
+    }
+
+    
+    // BEGIN SWATCHES
+    var form = jQuery('#' + selector.domIdPrefix).closest('form');
+    for (var i=0,length=variant.options.length; i<length; i++) {
+      var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+      if (radioButton.size()) {
+        radioButton.get(0).checked = true;
+      }
+    }
+    // END SWATCHES
+    
+
+    //update variant inventory
+    
+    var inventoryInfo = productItem.find('.product-inventory span');
+    if (variant.available) {
+      if (variant.inventory_management!=null) {
+        inventoryInfo.text(variant.inventory_quantity + " in stock");
+      } else {
+        inventoryInfo.text("Many in stock");
+      }
+    } else {
+      inventoryInfo.text("Out of stock");
+    }
+    
+
+    /*recaculate total price*/
+    //try pattern one before pattern 2
+    var regex = /([0-9]+[.|,][0-9]+[.|,][0-9]+)/g;
+    var unitPriceTextMatch = jQuery('.product-quickview .price').text().match(regex);
+
+    if (!unitPriceTextMatch) {
+      regex = /([0-9]+[.|,][0-9]+)/g;
+      unitPriceTextMatch = jQuery('.product-quickview .price').text().match(regex);      
+    }
+
+    if (unitPriceTextMatch) {
+      var unitPriceText = unitPriceTextMatch[0];      
+      var unitPrice = unitPriceText.replace(/[.|,]/g,'');
+      var quantity = parseInt(jQuery('.product-quickview input[name=quantity]').val());
+      var totalPrice = unitPrice * quantity;
+
+      var totalPriceText = Shopify.formatMoney(totalPrice, window.money_format);
+
+      totalPriceText = totalPriceText.match(regex)[0];
+
+      var regInput = new RegExp(unitPriceText, "g");  
+      var totalPriceHtml = jQuery('.product-quickview .price').html().replace(regInput ,totalPriceText); 
+      jQuery('.product-quickview .total-price span').html(totalPriceHtml);      
+    }/*end of price calculation*/
+
+
+    /*begin variant image*/
+    if (variant && variant.featured_image) {
+      var newImage = Shopify.resizeImage(variant.featured_image.src, 'small');
+      newImage = newImage.replace(/https?:/,'');
+      jQuery('.product-quickview .quickview-more-views img').each(function() {
+        var grandSize = jQuery(this).attr('src');
+        if (grandSize == newImage) {
+          jQuery(this).parent().trigger('click');              
+          return false;
+        }
+      });
+    }
+    /*end of variant image*/  
+
+  } else {
+    // The variant doesn't exist. Just a safegaurd for errors, but disable the submit button anyway
+    addToCart.text('Unavailable').addClass('disabled').attr('disabled', 'disabled');
+  }
+
+  };
+</script>
+    <!-- Footer scripts -->
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/bootstrap.min.js?5393823817423660678" type="text/javascript"></script>  
+<script src="//cdn.shopify.com/s/assets/themes_support/api.jquery-0ea851da22ae87c0290f4eeb24bc8b513ca182f3eb721d147c009ae0f5ce14f9.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/assets/themes_support/option_selection-ea4f4a242e299f2227b2b8038152223f741e90780c0c766883939e8902542bda.js" type="text/javascript"></script>
+
+
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery.fakecrop.js?5393823817423660678" type="text/javascript"></script>
+
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery.history.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/gosh-scrip.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/modernizr.custom.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/classie.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/modernizr.js?5393823817423660678" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/ajax.jquery.js?5393823817423660678" type="text/javascript"></script>
+
+<script>
+
+  (function ($) { 
+
+    var items_min_width = 0;
+    
+    items_min_width = 320
+       
+
+
+
+
+
+    var $container = $('.product-grid-isotope'),
+        settings_min_width ,
+        featured_item_width,
+        count_visible_items,
+        margin_right,
+        settings = {min_item_width : items_min_width, item_selector:'grid-item-isotope'},
+        $grid = $container,
+        setItemWidth = function() {
+          if (Modernizr.mq('only screen and (max-width: 28.875em)')) {
+            featured_item_width = settings_min_width = 150;
+          } else if (Modernizr.mq('only screen and (max-width: 45em)')) {
+            featured_item_width = settings_min_width = 180;
+          } else if (Modernizr.mq('only screen and (max-width: 790px)')) {
+            featured_item_width = settings_min_width = 220;
+          } else {
+            featured_item_width = settings_min_width = settings.min_item_width;
+          }
+          var number_of_items = 0;
+          margin_right = 0;
+          var available_width = parseInt($grid.width());
+          while(featured_item_width >= settings_min_width) {
+            number_of_items++;
+            featured_item_width = available_width / number_of_items
+          }
+          if (number_of_items > 1) number_of_items--;
+          // uncomment the following line to enforce an even number of columns
+          //if (Math.abs(number_of_items % 2)) number_of_items--;
+          count_visible_items = number_of_items;
+          featured_item_width = parseInt(available_width / number_of_items);
+        },
+        colWidth = function () {
+          setItemWidth();
+          columnWidth = featured_item_width - margin_right - 1;
+          $container.find('.grid-item-isotope').each(function() {
+            var $item = $(this),
+                multiplier_w = $item.attr('class').match(/item-w(\d)/),
+                multiplier_h = $item.attr('class').match(/item-h(\d)/),
+                width = multiplier_w ? columnWidth*multiplier_w[1] - 0 : columnWidth - 0 ;
+            $item.css({ width: width, });
+          });
+          return columnWidth;
+        },
+        isotope = function () {
+          $container.isotope({
+            resizable: false,
+            itemSelector: '.grid-item-isotope',
+            masonry: {
+
+              columnWidth: colWidth(),
+              fitWidth: true
+
+            }
+          });
+        };
+
+
+    $(window).smartresize(isotope); 
+
+    jQuery(window).load(function() { 
+      var bLazy = new Blazy();
+      isotope(); 
+    });
+    jQuery(window).resize(isotope); 
+
+    jQuery('#grid').click(function(){
+      isotope();
+      jQuery(window).smartresize(isotope);
+      jQuery(window).resize();
+
+    });
+    jQuery('#list').click(function(){
+      isotope();
+      jQuery(window).smartresize(isotope);
+      jQuery(window).resize();
+    });
+
+  }(jQuery)); 
+</script>
+    
+
+
+
+<script type="text/javascript">// <![CDATA[
+  
+  jQuery(document).ready(function() {    //
+    var $popupwapper        = jQuery('#wapper-popup'),
+        popupnewsletter         = jQuery('#popup-newsletter'),
+        popuppage        = window.location.pathname; 
+
+
+    $popupwapper.css({'position':'relative'});
+    jQuery('.wrapper #popup-newsletter').remove();
+    $popupwapper.append(popupnewsletter);
+
+    if (jQuery.cookie('emailpopup') != 'closed') {
+      openpopup();
+    };
+
+    jQuery('#popup-newsletter .btn.close').click(function(e) {
+      e.preventDefault();
+      closepopup();
+    });
+    jQuery('body').keydown(function(e) {
+      if( e.which == 27) {popup-newsletter
+      closepopup();
+                          jQuery('body').unbind('keydown');
+                         }
+    });
+    jQuery('#mc_embed_signup form').submit(function() {
+      if (jQuery('#mc_embed_signup .email').val() != '') {
+        closepopup();
+      }
+    });
+
+    function closepopup () {
+      jQuery('#popup-newsletter .popupnewsletter').fadeOut(600, function() {
+        jQuery('#popup-newsletter .popup-overlay').fadeOut(600, function() {
+          jQuery('#popup-newsletter').hide();
+          jQuery.cookie('emailpopup', 'closed', {expires:1, path:'/'});
         });
-    </script>
-<script src="http://www.senacases.com/skin/frontend/www_sena/default/nav/mob/classie.js"></script>
-<script src="http://www.senacases.com/skin/frontend/www_sena/default/nav/mob/main1.js"></script>
+      })
+    }
+    function openpopup () {
+      jQuery('#popup-newsletter').fadeIn(600, function() {
+        jQuery('#popup-newsletter .popupnewsletter').fadeIn(600);
+      });
+    }
+    jQuery(document).mouseup(function (e){
 
-    	<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M99NLC"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-M99NLC');</script>
-<!-- End Google Tag Manager --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d7a6e29c13","applicationID":"4123638","transactionName":"YgZbYUIHC0JTV0ZbXFtMeFZEDwpfHVdfQRxFAl5QHxAMVEU=","queueTime":0,"applicationTime":606,"atts":"TkFYFwodGEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+      var container = jQuery(".popupnewsletter");
+
+      if (!container.is(e.target) // if the target of the click isn't the container...
+          && container.has(e.target).length === 0) // ... nor a descendant of the container
+      {
+        e.preventDefault();
+        closepopup();
+      }
+
+    });  
+  });
+  // ]]
+  // ]]></script>
+<div id="wapper-popup">
+  <div id="popup-newsletter" style="display: none;">
+    <div class="popup-overlay"></div>
+    <div class="popupnewsletter" style="display: none;">
+      <div class="modal-bg-image"> 
+        <img src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/newsletter-bg.png?5393823817423660678" alt="">
+      </div>
+      <div class="newsletter-popup">
+        <div class="newsletter-content"><a class="btn close" title="Close"><span aria-hidden="true" class="icon_close"></span></a>
+          <div class="logo-newsletter">
+            <a href="/"><img src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/logo_popupnews.png?5393823817423660678" alt="Sena Cases"></a>
+          </div>
+          <h2 class="title">NEWSLETTER SIGN UP</h2>
+          <p class="sub-title">Sign Up for exclusive updates, new arrivals and insider-only discounts</p>
+          <div id="email-subscibe">
+            <div id="mc_embed_signup">
+<form action="//myshopify.us11.list-manage.com/subscribe/post?u=0856de5bfbfa8ac94a7382da1&amp;id=97b7f0dc43" method="post" name="mc-embedded-subscribe-form" target="_blank" class="input-group">
+  <div class="input-group newsletter_form_content">
+    <input type="email" value="" placeholder="Your email address" name="EMAIL" class="input-group-field" aria-label="Email Address">
+    <span class="input-group-btn">
+      <input type="submit" class="btn harman_btn4" value="Subscribe" name="subscribe">
+    </span>
+  </div>
+</form>
+</div>
+            <!--End mc_embed_signup--></div>
+          <h3 class="message"></h3>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    <div id="back-top" style="display: none;"><a class="" href="#top"><i class="fa fa-long-arrow-up"></i></a></div>
+  </div>
+  <section id="offcanvas" class="megamenu-canvas">
+  <nav class="offcanvas-mainnav">
+    <div id="off-canvas-button">
+      <span class="off-canvas-nav"><i class="clever-icon-close"></i></span>			
+    </div>
+    <ul class="nav navbar-nav megamenu">
+      <li class="search-mobile">
+        
+        <div class="searchbox">
+          <form action="/search" method="get" class="input-group search-bar navbar-form search" role="search">
+            
+            
+            <input type="text" name="q" placeholder="Search for Leather Cases" class="input-group-field input__field-2" aria-label="Search Site" autocomplete="off">
+            <span class="input-group-btn">
+              <button type="submit" class="" value="Search"></button>
+            </span>
+          </form>
+        </div>
+        
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="">
+        <a class="" href="/" title="Home" target="_self">
+          <span class="">Home</span>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="parent dropdown ">
+        <h3>
+          <i class="icon_plus ion-ios-plus-empty"></i>
+          <a class="dropdown-toggle has-category" href="#" title="Shop by Device">
+            <span class="">Shop by Device</span>
+          </a>
+        </h3>
+        <ul class="level-1">
+          
+          
+          <li class="parent dropdown-submenu ">
+            <h3><i class="icon_plus ion-ios-plus-empty"></i>
+              <a class="dropdown-toggle" data-toggle="dropdown" href="/collections/iphone" title="iPhone">
+                <span class="">iPhone</span>
+              </a>
+            </h3>
+            <ul class="level-2">
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-x" title="iPhone X">
+                  <span class="">iPhone X</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-8-7" title="iPhone 8 / 7">
+                  <span class="">iPhone 8 / 7</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-8-plus-7-plus" title="iPhone 8 Plus / 7 Plus">
+                  <span class="">iPhone 8 Plus / 7 Plus</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-6s-6" title="iPhone 6s / 6">
+                  <span class="">iPhone 6s / 6</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-6s-plus-6s" title="iPhone 6s Plus / 6 Plus">
+                  <span class="">iPhone 6s Plus / 6 Plus</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-5s-5-se" title="iPhone SE / 5s / 5">
+                  <span class="">iPhone SE / 5s / 5</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/iphone-5c" title="iPhone 5c">
+                  <span class="">iPhone 5c</span>
+                </a>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          
+          
+          <li class="parent dropdown-submenu ">
+            <h3><i class="icon_plus ion-ios-plus-empty"></i>
+              <a class="dropdown-toggle" data-toggle="dropdown" href="/collections/ipad" title="iPad">
+                <span class="">iPad</span>
+              </a>
+            </h3>
+            <ul class="level-2">
+              
+              
+              <li class="">
+                <a class="" href="/collections/new-ipad-pro-12-10" title="New iPad Pro 12.9" "="">
+                  <span class="">New iPad Pro 12.9"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/new-ipad-pro-10-5" title="New iPad Pro 10.5" "="">
+                  <span class="">New iPad Pro 10.5"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/new-ipad" title="New iPad">
+                  <span class="">New iPad</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/ipad-pro-9-7" title="iPad Pro 9.7" "="">
+                  <span class="">iPad Pro 9.7"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/ipad-pro-12-9" title="iPad Pro 12.9" "="">
+                  <span class="">iPad Pro 12.9"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/ipad-air-2" title="iPad Air 2">
+                  <span class="">iPad Air 2</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/ipad-mini-4" title="iPad mini 4">
+                  <span class="">iPad mini 4</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/ipad-air" title="iPad Air">
+                  <span class="">iPad Air</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/ipad-mini-2-3" title="iPad Mini 2-3">
+                  <span class="">iPad Mini 2-3</span>
+                </a>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          
+          
+          <li class="parent dropdown-submenu ">
+            <h3><i class="icon_plus ion-ios-plus-empty"></i>
+              <a class="dropdown-toggle" data-toggle="dropdown" href="/collections/macbook" title="MacBook">
+                <span class="">MacBook</span>
+              </a>
+            </h3>
+            <ul class="level-2">
+              
+              
+              <li class="">
+                <a class="" href="/collections/macbook-12" title="MacBook 12" "="">
+                  <span class="">MacBook 12"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/macbook-air-11" title="MacBook Air 11" "="">
+                  <span class="">MacBook Air 11"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/macbook-air-13" title="MacBook Air 13" "="">
+                  <span class="">MacBook Air 13"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/macbook-pro-13" title="MacBook Pro 13" "="">
+                  <span class="">MacBook Pro 13"</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/macbook-pro-15" title="MacBook Pro 15" "="">
+                  <span class="">MacBook Pro 15"</span>
+                </a>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          
+          
+          <li class="parent dropdown-submenu ">
+            <h3><i class="icon_plus ion-ios-plus-empty"></i>
+              <a class="dropdown-toggle" data-toggle="dropdown" href="/collections/apple-watch" title="Apple Watch">
+                <span class="">Apple Watch</span>
+              </a>
+            </h3>
+            <ul class="level-2">
+              
+              
+              <li class="">
+                <a class="" href="/collections/apple-watch-38-mm" title="Apple Watch 38 mm">
+                  <span class="">Apple Watch 38 mm</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/apple-watch-42-mm" title="Apple Watch 42 mm">
+                  <span class="">Apple Watch 42 mm</span>
+                </a>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          
+          
+          <li class="parent dropdown-submenu ">
+            <h3><i class="icon_plus ion-ios-plus-empty"></i>
+              <a class="dropdown-toggle" data-toggle="dropdown" href="/collections/samsung" title="Samsung">
+                <span class="">Samsung</span>
+              </a>
+            </h3>
+            <ul class="level-2">
+              
+              
+              <li class="">
+                <a class="" href="/collections/galaxy-s8" title="Galaxy S8">
+                  <span class="">Galaxy S8</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/galaxy-s8-1" title="Galaxy S8+">
+                  <span class="">Galaxy S8+</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/galaxy-s7" title="Galaxy S7">
+                  <span class="">Galaxy S7</span>
+                </a>
+              </li>
+              
+              
+              
+              <li class="">
+                <a class="" href="/collections/galaxy-s7-edge" title="Galaxy S7 Edge">
+                  <span class="">Galaxy S7 Edge</span>
+                </a>
+              </li>
+              
+              
+            </ul>
+          </li>
+          
+          
+        </ul>
+
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="parent dropdown ">
+        <h3>
+          <i class="icon_plus ion-ios-plus-empty"></i>
+          <a class="dropdown-toggle has-category" href="#" title="Collections">
+            <span class="">Collections</span>
+          </a>
+        </h3>
+        <ul class="level-1">
+          
+          
+          <li class="">
+            <a class="" href="/collections/new-arrivals" title="New Arrivals">
+              <span class="">New Arrivals</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/men" title="Men">
+              <span class="">Men</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/women" title="Women">
+              <span class="">Women</span>
+            </a>
+          </li>
+          
+          
+        </ul>
+
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="parent dropdown ">
+        <h3>
+          <i class="icon_plus ion-ios-plus-empty"></i>
+          <a class="dropdown-toggle has-category" href="#" title="Products">
+            <span class="">Products</span>
+          </a>
+        </h3>
+        <ul class="level-1">
+          
+          
+          <li class="">
+            <a class="" href="/collections/cases" title="Cases">
+              <span class="">Cases</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/folio" title="Folio">
+              <span class="">Folio</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/sleeves" title="Sleeves">
+              <span class="">Sleeves</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/bags" title="Bags">
+              <span class="">Bags</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/accessories" title="Accessories">
+              <span class="">Accessories</span>
+            </a>
+          </li>
+          
+          
+        </ul>
+
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="parent dropdown ">
+        <h3>
+          <i class="icon_plus ion-ios-plus-empty"></i>
+          <a class="dropdown-toggle has-category" href="#" title="Gift Ideas">
+            <span class="">Gift Ideas</span>
+          </a>
+        </h3>
+        <ul class="level-1">
+          
+          
+          <li class="">
+            <a class="" href="/collections/gifts-for-her" title="Gifts for Her">
+              <span class="">Gifts for Her</span>
+            </a>
+          </li>
+          
+          
+          
+          <li class="">
+            <a class="" href="/collections/gifts-for-him" title="Gifts for Him">
+              <span class="">Gifts for Him</span>
+            </a>
+          </li>
+          
+          
+        </ul>
+
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="">
+        <a class="" href="/collections/specials" title="Specials" target="_self">
+          <span class="">Specials</span>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <li class="">
+        <a class="" href="/blogs/news" title="Blog" target="_self">
+          <span class="">Blog</span>
+        </a>
+      </li>
+      
+      
+      
+
+      
+      
+
+      
+      <li><i class="icon_check_alt" aria-hidden="true"></i><a href="/checkout"><span>Checkout</span></a></li>
+      <li><i class="icon_lock-open" aria-hidden="true"></i>
+        <a href="/account/login" id="customer_login_link">Sign In</a>
+
+      </li>
+      <li><i class="icon_profile" aria-hidden="true"></i>
+        
+        <a href="/account/register" id="customer_register_link">Create an account</a>
+        
+      </li>
+
+      
+      
+    </ul>
+  </nav>
+</section>
+<script>
+  jQuery('.btn-menu-canvas').click(function(){
+    if(jQuery('#offcanvas').hasClass('active')){
+      jQuery('body').removeClass('off-canvas-active');
+      jQuery('#offcanvas').removeClass('active');
+      jQuery('.wrapper-container').removeClass('offcanvas-push');
+    }else{ 
+      jQuery('body').addClass('off-canvas-active');
+      jQuery('#offcanvas').addClass('active');
+      jQuery('.wrapper-container').addClass('offcanvas-push');
+    }  
+  });
+  jQuery('#off-canvas-button').click(function(){
+    jQuery('#offcanvas').removeClass('active');
+    jQuery('.wrapper-container').removeClass('offcanvas-push');
+  });
+
+  jQuery(document).mouseup(function (e){
+
+    var container = jQuery("#offcanvas");
+
+    if (!container.is(e.target) // if the target of the click isn't the container...
+        && container.has(e.target).length === 0) // ... nor a descendant of the container
+    {
+      jQuery('#offcanvas').removeClass('active');
+      jQuery('.wrapper-container').removeClass('offcanvas-push');
+    }
+
+  });
+
+  jQuery("#offcanvas .navbar-nav ul").hide();
+  jQuery("#offcanvas .navbar-nav li h3 i").addClass("accordion-show");
+
+  jQuery("#offcanvas .navbar-nav li h3 i").click(function(){
+    if(jQuery(this).parent().next().is(":visible")){
+      jQuery(this).addClass("accordion-show");
+    }else{
+      jQuery(this).removeClass("accordion-show");
+    }
+    jQuery(this).parent().next().toggle(400);
+    if(jQuery(this).hasClass("ion-ios-plus-empty")){
+      jQuery(this).removeClass("ion-ios-plus-empty");
+      jQuery(this).addClass("icon_minus-06");
+      jQuery(this).removeClass("icon_plus");
+      
+    }else{
+      jQuery(this).removeClass("icon_minus-06");
+      jQuery(this).addClass("ion-ios-plus-empty");
+      jQuery(this).addClass("icon_plus");
+    }
+  });
+  
+  jQuery("#offcanvas .navbar-nav li h3 a").click(function(){
+    if(jQuery(this).parent().next().is(":visible")){
+      jQuery(this).prev().addClass("accordion-show");
+    }else{
+      jQuery(this).prev().removeClass("accordion-show");
+    }
+    jQuery(this).parent().next().toggle(400);
+    if(jQuery(this).prev().hasClass("ion-ios-plus-empty")){
+      jQuery(this).prev().removeClass("ion-ios-plus-empty");
+      jQuery(this).prev().addClass("icon_minus-06");
+      jQuery(this).prev().removeClass("icon_plus");
+      
+    }else{
+      jQuery(this).prev().removeClass("icon_minus-06");
+      jQuery(this).prev().addClass("ion-ios-plus-empty");
+      jQuery(this).prev().addClass("icon_plus");
+    }
+  });
+
+
+</script>
+  
+  <script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jqueryzoom.js?5393823817423660678" type="text/javascript"></script>
+  
+  
+
+
+
+
+
+
+<script>
+$(function() {
+  // Current Ajax request.
+  var currentAjaxRequest = null;
+  // Grabbing all search forms on the page, and adding a .search-results list to each.
+  var searchForms = $('form[action="/search"]').css('position','relative').each(function() {
+    // Grabbing text input.
+    var input = $(this).find('input[name="q"]');
+    // Adding a list for showing search results.
+    var offSet = input.position().top + input.innerHeight();
+    $('<ul class="search-results"></ul>').css( { 'position': 'absolute', 'left': '0px', 'top': offSet } ).appendTo($(this)).hide();    
+    // Listening to keyup and change on the text field within these search forms.
+    input.attr('autocomplete', 'off').bind('keyup change', function() {
+      // What's the search term?
+      var term = $(this).val();
+      // What's the search form?
+      var form = $(this).closest('form');
+      // What's the search URL?
+      var searchURL = '/search?type=product&q=' + term + '*';
+      // What's the search results list?
+      $('.searchbox').addClass('s-loading');
+      var resultsList = form.find('.search-results');
+      // If that's a new term and it contains at least 3 characters.
+      if (term.length > 2 && term != $(this).attr('data-old-term')) {
+        // Saving old query.
+        $(this).attr('data-old-term', term);
+        // Killing any Ajax request that's currently being processed.
+        if (currentAjaxRequest != null) currentAjaxRequest.abort();
+        // Pulling results.
+        currentAjaxRequest = $.getJSON(searchURL + '&view=json', function(data) {
+          // Reset results.
+          jQuery('.searchbox').addClass('s-loading');
+          resultsList.empty();
+          // If we have no results.
+          if(data.results_count == 0) {
+            resultsList.html('<li><span class="title">No results.</span></li>');
+            resultsList.fadeIn(200);
+           jQuery('.searchbox').removeClass('s-loading');
+          } else {
+            // If we have results.
+            $.each(data.results, function(index, item) {
+              var link = $('<a></a>').attr('href', item.url);
+              link.append('<span class="thumbnail"><img src="' + item.thumbnail + '" /></span>');
+              link.append('<span class="title">' + item.title + '</span>');
+            
+              
+              if (item.price > item.min_price){
+              	//link.append('<span class="price first">' + item.price + item.min_price + '</span>');
+                link.append('<span class="price last">From ' + item.min_price + '</span>');
+              }else{
+              	link.append('<span class="price last">' + item.min_price + '</span>');
+              }
+              
+              link.wrap('<li><div class="item-search"></div></li>');
+              resultsList.append(link.parent());
+            });
+            // The Ajax request will return at the most 10 results.
+            // If there are more than 10, let's link to the search results page.
+            if(data.results_count > 8) {
+              resultsList.append('<li><span class="title"><a href="' + searchURL + '">See all results (' + data.results_count + ')</a></span></li>');
+            }
+            jQuery('.searchbox').removeClass('s-loading');
+            resultsList.fadeIn(200);
+          }        
+        });
+      }
+    });
+  });
+  // Clicking outside makes the results disappear.
+  $('body').bind('click', function(){
+    $('.search-results').hide();
+    jQuery('.searchbox').removeClass('s-loading');
+  });
+});
+</script>
+  
+  <!-- Begin Recently Viewed Products -->
+  <script src="//ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery.products.min.js?5393823817423660678" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1908/9311/t/24/assets/jquery-confirm.min.js?5393823817423660678" type="text/javascript"></script>
+  
+  <!-- End Recently Viewed Products -->
+  
+
+  <script>
+    jQuery(document).ready(function() {
+      jQuery('.tp-caption').hide();
+      jQuery(window).load(function() {
+
+        jQuery('#loading').hide();
+        jQuery('.tp-caption').show();
+      });
+      
+      
+
+    })
+    
+    function clickSwatch(elm) {
+    	var productImage = elm.parents('.product-inner').find('.grid-image'); 
+        productImage.find('img.feature-images').attr('src', elm.data('image'));  
+        var extra = "";
+        if (extra !== undefined){
+        	extra = "&d=" + setDevice+"&cache=false";
+	    }
+        productImage.attr('href', elm.data('variant-url')+extra);
+        
+        var productTitle = elm.parents('.product-inner').find('.product-title'); 
+        productTitle.attr('href', elm.data('variant-url')+extra);
+    
+        var oldPrice = elm.parents('.product-inner').find('#old_price'); 
+    	oldPrice.text(elm.data('old-price'));
+    
+        var curPrice = elm.parents('.product-inner').find('#current_price'); 
+      	curPrice.text(elm.data('current-price'));
+
+        var productLabel = elm.parents('.product-inner').find('#product-label'); 
+        if(elm.data('old-price') != "")
+        {
+            var cur = parseFloat(elm.data('current-price').replace("$",""));
+            var old = parseFloat(elm.data('old-price').replace("$",""));
+          
+	        var diff = Math.round((old - cur) * 100 / old);
+    	    productLabel.text("-" + diff + "%").removeClass('initial_hidden');;
+        }
+        else
+        {
+          productLabel.text("").addClass('initial_hidden');;
+        } 
+   } 
+
+    function fancyConfirm(msg,callback) {
+        $.confirm({
+          title: 'Sorry',
+          content: msg,
+          animation: 'scale',
+          animationClose: 'top',
+          opacity: 0.5,
+          buttons: {
+            ok: function () {
+              if(callback)
+	             callback(true);
+            }
+          }
+        });
+  	  }
+    
+    function fancyMessage(msg,callback) {
+        $.confirm({
+          title: 'Message',
+          content: msg,
+          animation: 'scale',
+          animationClose: 'top',
+          opacity: 0.5,
+          buttons: {
+            ok: function () {
+              if(callback)
+              	callback(true);
+            }
+          }
+        });
+  	  }
+    
+  </script>
+
+<script>
+jQuery(function() {
+  attachNotifyMe();
+  
+  jQuery('.swatch :radio').change(function() {
+    var colorIndex = jQuery(this).closest('.swatch').attr('data-option-index');
+    var colorValue = jQuery(this).val();
+    var typeValue =  $("select[name='option-0']"). val();
+    
+    if(typeValue == "") {
+      fancyConfirm("Please choose a device type from the drop down.", function (ret) { 
+      });
+    }
+    else
+    {
+        var variant = getVariant(typeValue, colorValue);
+        if(variant) {
+            jQuery(this).closest('form').find('.single-option-selector').eq(colorIndex).val(colorValue).trigger('change');
+        }
+        else {
+          fancyConfirm("Selected option is not available for this device type/color combination, please choose another one.", function (ret) { 
+          });
+          $(this).removeAttr("checked");
+        }
+    }
+  });   
+  
+  jQuery('.swatch_select').on('change', function() {
+    var typeIndex = jQuery(this).closest('.swatch').attr('data-option-index');
+    var typeValue = jQuery(this).val();
+    var colorValue =  $("input[name='option-1']:checked"). val();
+    var variant = getVariant(typeValue, colorValue);
+    
+    if(typeValue == "") {
+      //fancyConfirm("Please choose a device type from the drop down.", function (ret) { 
+      //});
+    }
+    else
+    {
+        if(variant) {
+           jQuery(this).closest('form').find('.single-option-selector').eq(typeIndex).val(typeValue).trigger('change'); 
+           var colorIndex = 1;
+           updateColorOptions(colorIndex, colorValue, typeValue);
+        }
+        else {
+          var selfRef = this;
+          //fancyConfirm("Selected option is not available for this device type/color combination, please choose another one.", function (ret) { 
+              var colorIndex = 1;
+              updateColorOptions(colorIndex, colorValue, typeValue);
+
+              //Select first available option
+              var div = $('.swatch[data-option-index="' + colorIndex + '"] .swatch-element').not(".soldout").first();
+              if(div)
+              {
+                colorValue = $(div).attr("data-value");
+                jQuery(selfRef).closest('form').find('.single-option-selector').eq(typeIndex).val(typeValue).trigger('change');
+                jQuery(selfRef).closest('form').find('.single-option-selector').eq(colorIndex).val(colorValue).trigger('change');
+              }
+              else
+              {
+                jQuery(selfRef).closest('form').find('.single-option-selector').eq(typeIndex).val(typeValue).trigger('change');
+              }
+
+          //});
+        }
+    }
+    
+ });
+  
+  function attachNotifyMe()
+  {
+    	$('#notify-me-form').on('submit',function(e) {
+          
+           var email = $('#product-notify-me-email').val();
+           var sku = current_sku;
+           
+           if(!email || email.length == 0) {
+             fancyConfirm("Please enter your email address.", function (ret) { 
+                e.preventDefault();
+              });
+           }
+          
+           $('#product-notify-me-sku').val(sku);    
+      });
+   
+  }
+  
+  function updateColorOptions(colorIndex, colorValue, typeValue) {
+    var isColorAvailableForType = false;
+    
+    var colors = getAvailableColorOptions(typeValue);
+    $('.swatch[data-option-index="' + colorIndex + '"] .swatch-element').each(function() {
+      var val = $(this).attr("data-value");
+      if(colors.indexOf(val) >= 0) {
+        if(val == colorValue) {
+          isColorAvailableForType = true;
+          $(this).removeClass("soldout").find(":radio").attr("checked");
+        }
+        else
+        {
+          $(this).removeClass("soldout").find(":radio").removeAttr("checked");
+        }
+      } else {
+         $(this).addClass("soldout").find(":radio").removeAttr("checked");
+        }
+   });
+    
+    return isColorAvailableForType;
+  }
+  
+  function getAvailableColorOptions(typeValue) {
+    var colors = new Array();
+    
+    for(var v = 0, l = product_json.variants.length; v < l; v = v + 1 ) {
+      var variant = product_json.variants[v];
+      if(variant.option1 == typeValue) {
+		colors.push(variant.option2);
+      }
+    }
+    return colors;
+  }
+  
+  function getVariant(typeValue, colorValue) {
+    for(var v = 0, l = product_json.variants.length; v < l; v = v + 1 ) {
+      var variant = product_json.variants[v];
+      if(variant.option1 == typeValue && variant.option2 == colorValue) {
+        return variant;
+      }
+    }
+    return null;
+  }
+      
+});
+  
+if (window.use_color_swatch) {
+    Shopify.optionsMap = {};
+    Shopify.updateOptionsInSelector = function(t) {
+      switch (t) {
+        case 0:
+          var n = "root";
+          var r = $(".single-option-selector:eq(0)");
+          break;
+        case 1:
+          var n = $(".single-option-selector:eq(0)").val();
+          var r = $(".single-option-selector:eq(1)");
+          break;
+        case 2:
+          var n = $(".single-option-selector:eq(0)").val();
+          n += " / " + $(".single-option-selector:eq(1)").val();
+          var r = $(".single-option-selector:eq(2)")
+          }
+      var i = r.val();
+      r.empty();
+      var s = Shopify.optionsMap[n];
+      for (var o = 0; o < s.length; o++) {
+        var u = s[o];
+        var a = $("<option></option>").val(u).html(u);
+        r.append(a)
+      }
+      $('.swatch[data-option-index="' + t + '"] .swatch-element').each(function() {
+        if(pageInitialized) {
+          if ($.inArray($(this).attr("data-value"), s) !== -1) {
+            $(this).removeClass("soldout").show().find(":radio").removeAttr("checked");
+          } else {
+            $(this).addClass("soldout").hide().find(":radio").removeAttr("checked");
+          }
+        }
+      });
+      if ($.inArray(i, s) !== -1) {
+        r.val(i)
+      }
+      r.trigger("change")
+    };
+  
+    Shopify.linkOptionSelectors = function(mt) {
+      for (var n = 0; n < mt.variants.length; n++) {
+        var r = mt.variants[n];
+        if (r.available || true) {
+          Shopify.optionsMap["root"] = Shopify.optionsMap["root"] || [];
+          Shopify.optionsMap["root"].push(r.option1);
+          Shopify.optionsMap["root"] = Shopify.uniq(Shopify.optionsMap["root"]);
+          if (mt.options.length > 1) {
+            var i = r.option1;
+            Shopify.optionsMap[i] = Shopify.optionsMap[i] || [];
+            Shopify.optionsMap[i].push(r.option2);
+            Shopify.optionsMap[i] = Shopify.uniq(Shopify.optionsMap[i])
+          }
+          if (mt.options.length === 3) {
+            var i = r.option1 + " / " + r.option2;
+            Shopify.optionsMap[i] = Shopify.optionsMap[i] || [];
+            Shopify.optionsMap[i].push(r.option3);
+            Shopify.optionsMap[i] = Shopify.uniq(Shopify.optionsMap[i])
+          }
+        }
+      }
+      
+      $(".single-option-selector:eq(0)").change(function() {
+        Shopify.updateOptionsInSelector(1);
+        if (mt.options.length === 3) Shopify.updateOptionsInSelector(2);
+        return true
+      });
+      
+      $(".single-option-selector:eq(1)").change(function() {
+        if (mt.options.length === 3) Shopify.updateOptionsInSelector(2);
+        return true
+      });
+      
+      Shopify.updateOptionsInSelector(0);
+      if (mt.options.length > 1) Shopify.updateOptionsInSelector(1);
+      if (mt.options.length === 3) Shopify.updateOptionsInSelector(2);
+            
+    }
+  }
+  
+var selectCallback = function(variant, selector) {
+     updateOptions(variant, selector.domIdPrefix);
+};
+  
+function updateOptions(variant, domIdPrefix) {
+     if(pageInitialized != 1)
+      {
+          return;
+      }
+  
+      var addToCart = jQuery('#product-add-to-cart'),
+      productPrice = jQuery('.product .price'),
+      comparePrice = jQuery('.product .compare-price');  
+      variantTitle = jQuery('#variant_title');
+
+      if (variant) {
+         current_sku = variant.sku;
+         $('#sku').text(current_sku);
+    	 //console.log(current_sku);
+        
+        /*
+        if (variant.inventory_management!=null && variant.inventory_policy == "deny")
+        {
+            disable_notify_me = true;
+        }
+        */
+        
+        if (variant.available) {
+          // We have a valid product variant, so enable the submit button
+          addToCart.removeClass('disabled').removeAttr('disabled').val('Add to Cart');
+          
+          if(disable_notify_me == false) {
+            $('#notify-me').addClass('initial_hidden');
+            addToCart.show();
+          }
+
+        } else {
+          // Variant is sold out, disable the submit button
+          addToCart.val('Out of stock').addClass('disabled').attr('disabled', 'disabled');
+          
+          if(disable_notify_me == false) {
+            $('#notify-me').removeClass('initial_hidden');
+            addToCart.hide();
+          }
+          else
+          {
+            addToCart.val('Discontinued');
+          }
+        }
+
+        // Regardless of stock, update the product price
+        productPrice.html(Shopify.formatMoney(variant.price, "${{amount}}"));
+
+        // Also update and show the product's compare price if necessary
+        if ( variant.compare_at_price > variant.price ) {
+             productPrice.addClass("on-sale");
+	        comparePrice.html(Shopify.formatMoney(variant.compare_at_price, "${{amount}}")).show();
+        } else {
+            comparePrice.hide();
+     	    productPrice.removeClass("on-sale");
+        }
+  
+        
+            // BEGIN SWATCHES
+  			if(domIdPrefix != null)
+            {
+                var form = jQuery('#' + domIdPrefix).closest('form');
+                for (var i=0,length=variant.options.length; i<length; i++) {
+                  var radioButton = form.find('.swatch[data-option-index="' + i + '"] :radio[value="' + variant.options[i] +'"]');
+                  if (radioButton.size()) {
+                    radioButton.get(0).checked = true;
+                  }
+                }
+            }
+            // END SWATCHES
+        
+
+        
+  
+  		var selectedDevice = jQuery('.swatch_select').val();
+	    if(product_json.variants.length == 1)
+        {      
+			variantTitle.text(product_json.variants[0].option1);
+        }
+	    else
+        {
+          	if(selectedDevice !== undefined && selectedDevice != "") {
+           		variantTitle.text(selectedDevice);
+          	}
+        }
+
+    } else {
+      // The variant doesn't exist. Just a safeguard for errors, but disable the submit button anyway
+      addToCart.val('Unavailable').addClass('disabled').attr('disabled', 'disabled');
+    }
+
+  	jQuery("#pre_order_note").text("");
+    
+    var addToCartTitle = getCartTitleForSku(variant.sku);
+  
+    //update variant inventory
+    
+    if (variant.available) {
+        if (variant.inventory_management!=null) {
+            if(variant.inventory_quantity > 0 || pre_order) {
+                if(isSkuPreOrder(current_sku)) {
+                  jQuery(".product-inventory span").text("Pre-order stock");
+                  var msg = getPreOrderMsgForSku(variant.sku);
+                  if(msg != "")
+                  {
+                    jQuery("#pre_order_note").text(msg);
+                  }
+                }
+                else {
+                   jQuery(".product-inventory span").text("In stock");
+                }
+                addToCart.removeClass('disabled').removeAttr('disabled').val(addToCartTitle);
+                jQuery("#personalize").show().trigger('change');
+                $('#custom-qty').show();
+              
+                if(disable_notify_me == false) {
+                  $('#notify-me').addClass('initial_hidden');
+                  addToCart.show();
+                }
+            }
+            else {
+                jQuery(".product-inventory span").text("Out of stock");
+                addToCart.addClass('disabled').attr('disabled','disabled').val('Out of stock');
+                jQuery("#personalize").hide().trigger('change');
+                $('#custom-qty').hide();
+              
+              	if(disable_notify_me == false) {
+                  $('#notify-me').removeClass('initial_hidden');
+                  addToCart.hide();
+                }
+                else
+                {
+                  jQuery(".product-inventory span").text("Discontinued");
+                  addToCart.val('Discontinued');
+                }
+            }
+        } else {
+          $('#custom-qty').show();
+          jQuery(".product-inventory span").text("In stock");
+          addToCart.removeClass('disabled').removeAttr('disabled').val(addToCartTitle);
+          jQuery("#personalize").show().trigger('change');
+
+          if(disable_notify_me == false) {
+            $('#notify-me').addClass('initial_hidden');
+            addToCart.show();
+          }
+        }
+    } else {
+	  $('#custom-qty').hide();
+      jQuery(".product-inventory span").text("Out of stock")
+   	  addToCart.addClass('disabled').attr('disabled','disabled').val('Out of stock');
+      jQuery("#personalize").hide().trigger('change');
+      
+      if(disable_notify_me == false) {
+        $('#notify-me').removeClass('initial_hidden');
+        addToCart.hide();
+      }
+      else
+      {
+        addToCart.val('Discontinued');
+        jQuery(".product-inventory span").text("Discontinued");
+      }
+    }
+    
+
+	if(productPersonalizationEnabled) {
+    	var enablePersonalizationForSku = true;
+        product_json.tags.forEach(function(tag, index) {
+          	var tmp = "disable-personalization-" + variant.sku;
+            if(tag == tmp) {
+          		enablePersonalizationForSku = false;
+            }
+        });
+
+        if(enablePersonalizationForSku) {
+            var chk = $('.product-options-checkbox').first();
+            if(chk) {
+              chk.prop('checked', false).trigger('change');
+            }
+
+            $('#personalize').removeClass('initial_hidden');
+            userChosePersonalization = false;
+        }
+        else {
+            $('#personalize').addClass('initial_hidden');
+
+            var chk = $('.product-options-checkbox').first();
+            if(chk) {
+              chk.prop('checked', false).trigger('change');
+            }
+
+            $('.personalization_container').addClass('initial_hidden');
+            $('#personalization_preview').addClass('initial_hidden');
+            userChosePersonalization = false;
+        }
+    }
+  	
+
+    if (variant) {
+      
+      var totalImagesForSku = 0;
+      var maxImagesPerSlider = 8;
+      var imageSquareHeight = 50;
+
+      jQuery('.zt_list_product').each(function() {
+          var divRef = this;
+          var divId = $(divRef).attr('id');
+
+          if(divId == "zt_list_product_" + variant.sku) {
+
+            $("#"+divId).removeClass('initial_hidden');
+            
+            imageSquareHeight = Math.max(imageSquareHeight, $(this).height());
+            totalImagesForSku = $(this).find('img').length;
+            jQuery("#"+divId+' li').first().find('a').addClass('zoomGalleryActive');
+          }
+          else
+          {
+            $("#"+divId).addClass('initial_hidden');
+          }
+          
+      });
+      
+      var carousel = $('.jcarousel-clip-vertical').first();
+      if(carousel !== undefined && carousel != null)
+      {
+        var height = carousel.height();
+        maxImagesPerSlider = Math.floor(height / 80);
+                
+        if(totalImagesForSku < maxImagesPerSlider) {
+          $('.jcarousel-prev-vertical').hide();
+          $('.jcarousel-next-vertical').hide();
+        }
+        else {
+          $('.jcarousel-prev-vertical').show();
+          $('.jcarousel-next-vertical').show();
+        }
+      }
+        
+      jQuery('.thumb-image-mobile').each(function() {
+          var divRef = this;
+          var divId = $(divRef).attr('id');
+
+          if(divId == "thumb-image-mobile_" + variant.sku) {
+            $("#"+divId).removeClass('initial_hidden');
+          }
+          else
+          {
+            $("#"+divId).addClass('initial_hidden');
+          }
+      });     
+      
+      //Show first image of this variant
+      var originalImage = jQuery("#product-featured-image");
+      var newImage = variant.featured_image;
+      var element = originalImage[0];
+
+      function removeExtent(str){
+        var arr = str.split("v=");
+        if(arr[0])
+          return arr[0];
+      }
+      
+      Shopify.Image.switchImage(newImage, element, function (newImageSizedSrc, newImage, element) {
+        
+        //For Desktop gallery
+        jQuery('#zt_list_product_'+current_sku+' img').each(function() {
+
+          var grandSize = jQuery(this).attr('src');
+          grandSize = grandSize.replace('_compact','');
+
+          grandSize = grandSize.replace('.jpg.jpg','.jpg');
+          grandSize = removeExtent(grandSize);
+
+          newImageSizedSrc = newImageSizedSrc.replace('https:','');
+          newImageSizedSrc = newImageSizedSrc.replace('http:','');
+          newImageSizedSrc = newImageSizedSrc.replace('_grande','');
+
+          newImageSizedSrc = newImageSizedSrc.replace('.jpg.jpg','.jpg');
+
+          newImageSizedSrc = removeExtent(newImageSizedSrc);
+
+          if (grandSize == newImageSizedSrc) {
+            jQuery(this).parent().trigger('click'); 
+            return false;
+          }
+        });
+
+        /*
+        jQuery('#thumb-image-mobile_'+current_sku+' img').each(function(index) {
+          var owlWrapperDiv = jQuery(this).closest('div.owl-wrapper');
+          var owlDiv = jQuery(this).closest('div.owl-item');
+		  var width = owlDiv.width();
+          
+          var grandSize = jQuery(this).attr('src');
+          grandSize = grandSize.replace('_compact','');
+
+          grandSize = grandSize.replace('.jpg.jpg','.jpg');
+          grandSize = removeExtent(grandSize);
+
+          newImageSizedSrc = newImageSizedSrc.replace('https:','');
+          newImageSizedSrc = newImageSizedSrc.replace('http:','');
+          newImageSizedSrc = newImageSizedSrc.replace('_grande','');
+
+          newImageSizedSrc = newImageSizedSrc.replace('.jpg.jpg','.jpg');
+
+          newImageSizedSrc = removeExtent(newImageSizedSrc);
+          if (grandSize == newImageSizedSrc) {
+            var scroll = -1 * index * width;  
+            $(owlWrapperDiv).css({"transform": "translate3d("+ scroll + "px, 0px, 0px)"});
+            return false;
+          }
+        });
+        */
+        
+      });   
+      
+      
+    }
+}
+
+</script>
+
+
+
+  
+  
+<!-- START Google Dynamic Remarketing For Theme.Liquid -->
+<script type="text/javascript">
+
+
+// Other Page
+var google_tag_params = {
+ecomm_pagetype: 'other'
+};
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 980985342;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+var google_conversion_format = 3;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/980985342/?value=0&guid=ON&script=0"/>
+</div>
+</noscript>
+<!-- END Google Dynamic Remarketing For Theme.Liquid -->  
 
 </body></html>
