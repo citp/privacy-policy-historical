@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217015753id_/http%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaging-resource.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129211747id_/https%3A//www.imaging-resource.com/PRIVACY.HTM) for the most accurate reproduction.*
 
 # The Imaging Resource Privacy Policy
 
@@ -19,7 +19,7 @@ Lijit Networks, Inc. Privacy Policy
 
 Lijit collects only anonymous information unless you choose to submit personal information. Lijit permits readers to opt out of the collection of this anonymous site visit data. To opt out, please see the section labeled 'Opting Out' in the above privacy policy for additional information.
 
-If you have any questions about our privacy policy, please send us a [note](https://web.archive.org/cdn-cgi/l/email-protection#2f584a4d6f46424e48464148025d4a5c405a5d4c4a014c4042). 
+If you have any questions about our privacy policy, please send us a [note](https://web.archive.org/cdn-cgi/l/email-protection#3d4a585f7d54505c5a54535a104f584e52484f5e58135e5250). 
 
 [Enter](http://www.dailydigitalphoto.com/potd-images/ir_potd_enter.htm) this month to win:
 
