@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikeadvice.in privacy policy that was archived on 2015-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150415003057id_/http%3A//bikeadvice.in/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeadvice.in privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129141629id_/https%3A//bikeadvice.in/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | BikeAdvice.in
 
 **What information do we collect?**
 
@@ -62,7 +62,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.bikeadvice.in  
+https://www.bikeadvice.in  
 bikeadvice.in@gmail.com
-
-[ ](http://feedburner.google.com/fb/a/mailverify?uri=Bikeadvice)
