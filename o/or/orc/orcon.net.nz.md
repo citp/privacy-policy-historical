@@ -1,33 +1,67 @@
-> *The following text is extracted and transformed from the orcon.net.nz privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407073039id_/https%3A//www.orcon.net.nz/about/page/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcon.net.nz privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129052528id_/https%3A//www.orcon.net.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy | Orcon
 
-  1. During the provision of services to you, you agree that Orcon may collect information about you. This may be obtained from you or may be generated from your use of the Orcon services. You may decide not to provide us with certain personal information but this may mean that we cannot provide the services to you. Orcon will deal with all your information in accordance with the Privacy Act 1993.
-  2. We may monitor or record calls to customer services for training purposes, to improve service quality and to aid in dispute resolution.
-  3. You can at any time make a written request to see any personal information that we hold or to ask us to correct any mistakes in that information.
-  4. You agree that we can collect information about you (such as your home address, phone number and evidence that you will be able to pay for our services) and the ways that you use our services. We will collect this information from our communications with you and through your use of the services. You agree that we can use this information and can pass it on to our employees, contractors, agents and suppliers for a range of lawful purposes connected with our business operations, including, but not limited to: 
-    * complete credit checking
-    * providing services to you
-    * administering your account
-    * recovering overdue accounts
-    * keeping you informed about our services (unless you have advised us that you do not want to receive this information). You agree that we may send you marketing messages, electronic or otherwise, about our special offers, products and services which may be of interest to you. You agree too that the electronic marketing message we send you need not include an unsubscribe facility
-    * looking at ways in which we can improve our services
-    * sending you bills
-    * resolving any disputes
-    * training our staff
-  5. If you contact us through the preferred contact email address you register with us when you create your account, we will take this to mean you are the account holder and have authority on the account. Please keep access to your preferred email account secure.
-  6. Cookies  
-When you visit Orcon, we may send you a cookie. A cookie is a small file which is placed on your computer or device.  
-6.1 Functional Cookies  
-These are used to remember your preferences with Orcon. This can be anything from remembering your username to your favourite data pack so you don’t have to pick it all the time.  
-6.2 Analytical Performance Cookies  
-In short, they allow us to improve your online experience by understanding how the website is performing. Things like optimising My Account so you can quickly do what you need to do and identify areas that need maintenance.  
-6.3 Advertising Cookies  
-We use these cookies to help place relevant ads on third party sites based on your prior visits to this website.  
-6.4 How to control the use of cookies  
-Below are two options to opt-out of cookies used for advertising:  
-a. Opting out of Google advertising cookies: You can opt out of Google's use of cookies for advertising, including DoubleClick cookies, by visiting Google's Advertising and Privacy page.  
-b. Opting out of cookies from all participating advertisers: You can opt out of third-party advertising cookies from a wide range of advertising services, including Google, by visiting the Network Advertising Initiative's Opt-Out page.  
-For all other cookies, please consult the help section of your browser. Please note, by changing your cookie settings, some websites may not function properly or at all.
+[ ](https://web.archive.org/ "Home")
+
+## Customer portals & logins
+
+  * [Log in](https://web.archive.org/)
+
+Log in to your broadband, webmail or mobile account.
 
 
+
+
+_The following provides a summary of how we hold and use your information:_
+
+**Visitors to our website**
+
+If you are just visiting the website, then we collect and store the following information about your visit:
+
+  * The operating system and the browser your computer uses, and any search engine you are using
+  * The date and time you are visiting
+  * The URLs of the pages you visit
+  * Your email address if you provide it.
+
+
+
+**We may use that information for the following purposes:**
+
+  1. Measuring the number of visitors to different parts of the site
+  2. Measuring the effectiveness of our advertising
+  3. Publishing aggregated information about usage patterns
+  4. Sending you electronic communications
+
+
+
+If we think it is necessary, we can disclose information to relevant law enforcement authorities, such as the Police or the Department of Internal Affairs, in accordance with the appropriate sections of the Privacy Act and as noted below:
+
+**Personal Information**
+
+If you choose to provide us with personal information such as your email address, for example by filling out an electronic query or order form or something similar, we will use the information only for authorised purposes listed below. Personal information will be stored and used in accordance with this Privacy Policy. You can read our Terms and Conditions online. You have the right under the Privacy Act 1993 to access any personal information held about you and to request correction of the Orcon database if any information is incorrect or requires updating. You can do this by sending us an email.
+
+**We may use your information for the following purposes:**
+
+  1. The purposes listed above in relation to visitors to the website;
+  2. Processing your orders or applications;
+  3. Providing you with products or services requested;
+  4. Registering your details and offering you discounts or benefits and fulfilling any requests you may have in respect of any loyalty or reward programmes or anything similar;
+  5. Billing you;
+  6. Debt recovery;
+  7. Settling accounts with those who provide related services to us;
+  8. Dealing with requests, enquiries or complaints and other customer care related activities; and any other general administrative purposes;
+  9. Carrying out credit checking and scoring
+  10. Contacting you about our products and the products and services of selected third parties which we believe you may be interested in (unless you ask us not to) and other forms of electronic marketing;
+  11. Carrying out any activity in connection with a legal, government or regulatory requirement or use in connection with legal proceedings, crime or fraud prevention, detection or prosecution;
+  12. Sharing your information with other networks or public sector agencies for the purpose of monitoring and investigating fraud and other offences.
+
+
+
+**Orcon customers**
+
+If you do provide us with personal information as described above, we may link this information to your Orcon customer profile. We may also use this information to improve the website for different customer profiles. If you are a Orcon customer, the Standard Terms and Conditions will also apply.
+
+**Changing this policy**
+
+We may change this policy at any time by changing or removing existing terms or adding new ones. Changes may take the form of a completely new policy. We will tell you about any changes by posting an updated policy on our website. Any changes will apply from the date we post them on the website.
