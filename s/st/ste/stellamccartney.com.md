@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311130249id_/https%3A//www.stellamccartney.com/yTos/Plugins/AreaLocalizer/Redirectarea%3Farea%3DHelp%26controllerName%3DLegalArea%26actionName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellamccartney.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129143942id_/https%3A//www.stellamccartney.com/yTos/Plugins/AreaLocalizer/Redirectarea%3Farea%3DHelp%26controllerName%3DLegalArea%26actionName%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-Welcome to our website www.stellamccartney.com (the " **Site** "). Please read our Privacy Policy carefully.
+Welcome to our website www.stellamccartney.com (the " **Site** "). Please read our Privacy Policy carefully. 
 
 This Privacy Policy applies when you visit or surf the Site without purchasing any product, when you register on the Site and when you use our services for purchasing products. This Privacy Policy does not apply to any job application, which are governed by the specific "Careers Privacy policy" accessible through the "Careers" webpage. By using this Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the Site.
 
@@ -16,7 +16,7 @@ Your personal data are collected and processed by Stella McCartney Ltd (hereinaf
 
 Your Personal Data will be processed to provide the services you subscribed to or reserved for registered users, to facilitate your navigation of and shopping from the website and to keep you informed of Kering Group news and offers.
 
-Stella McCartney Ltd and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **E-Commerce Purposes** ") through the Site, together with YOOX NET-A-PORTER GROUP S.p.A. with registered offices in via Morimondo, 17 – Milano 20143, Italy, Milan Business Register, Tax and VAT number 02050461207, share capital Euro fully paid up.
+Stella McCartney Ltd and the companies of Kering Group are jointly controllers of Personal Data collected and processed for purpose of rendering the e-commerce services and the sale of products (herein the " **E-Commerce Purposes** ") through the Site, together with YOOX NET-A-PORTER GROUP S.p.A. with registered offices in via Morimondo, 17 – Milano 20143, Italy, Milan Business Register, Tax and VAT number 02050461207, share capital Euro 1,338,942.89 fully paid up.
 
 The management of the sale of the products and the transactions performed on www.stellamccartney.com , within the United States of America are operated, under license, by YOOX NET-A-PORTER GROUP S.p.A.' s subsidiary YOOX Corporation, a Delaware corporation having an address at 148 Lafayette Street, 10th Floor, New York, NY, 10013 ("YNAP USA", YOOX NET-A-PORTER GROUP S.p.A. and YNAP USA also jointly referred to as YOOX NET-A-PORTER GROUP).
 
