@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107191647id_/http%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertbaudet.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129223856id_/https%3A//www.vertbaudet.co.uk/page/privacy-policy.htm) for the most accurate reproduction.*
 
 # Vertbaudet Privacy Policy
 
