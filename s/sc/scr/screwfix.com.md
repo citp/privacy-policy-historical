@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screwfix.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909231350id_/https%3A//www.screwfix.com/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screwfix.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129163317id_/https%3A//www.screwfix.com/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy | Help | Screwfix Website
 
@@ -44,7 +44,7 @@ If, at any time, you wish to have your information removed from our active datab
 
 ### Our Use of Cookies, Internet Protocol (IP) addresses and Other Information Gathering Technologies
 
-View our full [Cookies policy](https://web.archive.org/help/cookiespolicy). 
+View our full [Cookies policy](https://web.archive.org/help/cookiespolicy//). 
 
 Please note that the information we gather from the following technologies does not specify any specific individual and is used by us as statistical data only about our users browsing actions and patterns.
 
@@ -52,7 +52,7 @@ We may collect information about your general internet usage by using a cookie f
 
 We may also collect information about your computer, including your domain name, IP address, operating system, browser version, how long you stay on a page, the route you took to navigate through the pages and the website you visited prior to accessing our site.
 
-#You can choose to refuse to accept our and or third party cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you will be unable to access certain parts of our site or place an order with us. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Modern browsers provide the ability to navigate the web privately by using "private browsing mode" or you can use a proxy server, which allows web users to see pages via a third party web server. More information can be found in our [Cookies policy](https://web.archive.org/help/cookiespolicy). 
+#You can choose to refuse to accept our and or third party cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you will be unable to access certain parts of our site or place an order with us. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. Modern browsers provide the ability to navigate the web privately by using "private browsing mode" or you can use a proxy server, which allows web users to see pages via a third party web server. More information can be found in our [Cookies policy](https://web.archive.org/help/cookiespolicy//). 
 
 * * *
 
@@ -108,7 +108,7 @@ We welcome your views about our website and our Privacy Policy. If you would lik
 
 ### Making a Complaint
 
-If you wish to make a complaint about the way that we handle your personal data, you may contact the Information Commissioner's Office through their website [www.ico.org.uk](http://www.ico.org.uk/). 
+If you wish to make a complaint about the way that we handle your personal data, you may contact the Information Commissioner's Office through their website [www.ico.org.uk](https://www.ico.org.uk/). 
 
 * * *
 
