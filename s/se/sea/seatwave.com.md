@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2017-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170502105248id_/http%3A//www.seatwave.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129120108id_/https%3A//www.seatwave.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Tickets | Buy & Sell Concert, Sport & Theatre Tickets | Seatwave.com
 
