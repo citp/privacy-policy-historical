@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uipath.com privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627115746id_/https%3A//www.uipath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uipath.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129171321id_/https%3A//www.uipath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
