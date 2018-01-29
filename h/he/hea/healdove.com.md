@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healdove.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831115909id_/https%3A//healdove.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healdove.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129020041id_/https%3A//healdove.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HealDove
 
@@ -80,7 +80,7 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ## 10\. Contact Information
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.
 
 ## RECENT CHANGES TO THIS PRIVACY POLICY
 
