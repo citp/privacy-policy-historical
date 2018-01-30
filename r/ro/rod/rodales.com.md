@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rodales.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222230046id_/http%3A//www.rodale.com/customer-care/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rodales.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130231155id_/https%3A//www.rodale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rodale Inc
 
