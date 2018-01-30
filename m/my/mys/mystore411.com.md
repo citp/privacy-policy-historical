@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystore411.com privacy policy that was archived on 2017-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170820142804id_/http%3A//mystore411.com/p/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystore411.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131000939id_/https%3A//www.mystore411.com/p/privacy.php) for the most accurate reproduction.*
 
 # View store locations, hours, maps, phone numbers, services and more
 
@@ -26,4 +26,4 @@ This site includes links to external web sites. We encourage users to review the
 
 ## Contact Information
 
-If you have questions or suggestions about our privacy policy, please [contact us](https://web.archive.org/web/20170820142804id_/http%3A//mystore411.com/p/feedback.php). 
+If you have questions or suggestions about our privacy policy, please [contact us](https://web.archive.org/web/20180131000939id_/https%3A//www.mystore411.com/p/feedback.php). 
