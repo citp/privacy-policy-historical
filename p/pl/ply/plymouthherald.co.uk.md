@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plymouthherald.co.uk privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210080828id_/http%3A//www.plymouthherald.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plymouthherald.co.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130153445id_/https%3A//www.plymouthherald.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Plymouth Herald privacy policy
 
