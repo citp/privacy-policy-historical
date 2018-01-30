@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehockeywriters.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830024850id_/https%3A//thehockeywriters.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehockeywriters.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130164156id_/https%3A//thehockeywriters.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
