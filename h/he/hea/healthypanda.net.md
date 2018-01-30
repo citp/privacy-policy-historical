@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthypanda.net privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130180305id_/http%3A//healthypanda.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthypanda.net privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130193709id_/https%3A//healthypanda.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA – HealthyPanda.net
 
@@ -50,7 +50,7 @@ You must identify in sufficient detail the copyrighted work claimed to have been
 – Must be signed by the authorized person to act on behalf of the owner of an exclusive right that is allegedly being infringed.  
   
 Send the electronic copy to:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+ibuzzworth@gmail.com  
   
 Once Proper Bona Fide Infringement Notification Is Received by the Designated Agent it is Company’s policy to do the following:  
 – Remove or disable access to the allegedly infringing material  
