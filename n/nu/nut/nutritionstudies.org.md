@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164210id_/http%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionstudies.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130163256id_/https%3A//nutritionstudies.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Center for Nutrition Studies
 
