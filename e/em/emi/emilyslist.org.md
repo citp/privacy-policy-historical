@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emilyslist.org privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924224320id_/http%3A//www.emilyslist.org/pages/entry/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emilyslist.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130060911id_/https%3A//www.emilyslist.org/pages/entry/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EMILY's List
 
