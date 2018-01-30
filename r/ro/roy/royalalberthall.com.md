@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalalberthall.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621163013id_/http%3A//www.royalalberthall.com/extra/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalalberthall.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130180012id_/https%3A//www.royalalberthall.com/extra/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Royal Albert Hall
 
@@ -69,7 +69,7 @@ We may also share with certain social media websites such as Facebook unique ide
 
 Advertisers or other third parties using our website may also engage in Behavioural Advertising and use cookies and web beacons in the manner described above. We do not control these advertisers or other parties’ use of cookies or web beacons or what they do with the information they collect. 
 
-You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](http://www.royalalberthall.com/extra/cookies/for) more details of how to delete cookies.
+You can limit the way that we tailor advertising based on your Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser. Please see our [Cookie Policy](https://www.royalalberthall.com/extra/cookies/)for more details of how to delete cookies.
 
 After you have exercised your right to object or reject the use of cookies, you may still see advertisements, but the advertising may not be as relevant to your interests. If you change your computer, change your browser or delete certain cookies, you will need to renew your preferences.
 
@@ -78,7 +78,7 @@ After you have exercised your right to object or reject the use of cookies, you 
 Under the Act you have the right to request a copy of the Information that we hold about you. There will be an administration fee of £10 associated with this request and it will require two pieces of identification to prove your identity . Please make a written application to the Customer Services Team, Royal Albert Hall, Kensington Gore, London, SW7 2AP .
 
 If any of the Information that we hold about you is incorrect, you can either:  
-• [Contact Us;](http://www.royalalberthall.com/your-visit/contact-us/) or  
+• [Contact Us;](https://www.royalalberthall.com/your-visit/contact-us/) or  
 • change your details in the My Account section or  
 • contact the customer services team on 0845 401 5045 who will update your details as soon as practically possible.
 
@@ -120,7 +120,7 @@ The Telephone Preference Service (TPS) and the Mailing Preference Service (MPS) 
 
 ##### 6.3 Contacting Us
 
-If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences by contacting us using the [Contact Us](http://www.royalalberthall.com/%5Bsitetree_link%2Cid%3D%5D) section or by updating your preferences in the My Account section.
+If your Information has changed or if you no longer wish to receive marketing communications from us then you can amend your Information or update your preferences by contacting us using the [Contact Us](https://www.royalalberthall.com/\[sitetree_link,id=\]) section or by updating your preferences in the My Account section.
 
 Please note that:  
 • even if you delete Information, we may retain your Information in conformance with our data retention policy; and  
@@ -138,6 +138,12 @@ The Information that we collect from you may be transferred to and stored at a d
 
 We follow appropriate security procedures in the storage and disclosure of your Information so as to prevent unauthorised access by third parties. We also require those parties to whom we transfer personal information to comply with the same. However, unfortunately, the transmission of information via the Internet is not completely secure. So, we cannot ensure the security of your Information transmitted by you to us via the internet. Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your Information, except to the extent we are required to accept such responsibility by the Act. Once we have received your Information we will use security procedures and features to prevent unauthorised access to it. 
 
-### 10 HOW TO CONTACT US
+### 10 Friends & Patrons
 
-If you have any questions regarding privacy or this Policy, you may [contact us.](http://www.royalalberthall.com/your-visit/contact-us/)
+If you sign up to our Friends & Patrons scheme, we may use your personal information (including your name, contact details, booking and transaction history) to fulfil your orders, provide customer service and Friends & Patrons benefits and for our own analysis purposes so that we can find new supporters and offer benefits that are right for you. We may share your personal information with other organisations for these purposes. We require that such organisations meet our standards for handling data, and that it is only used for the agreed purpose. We will not otherwise share your personal information as a Friend or Patron with any third party organisations.
+
+We will not assume permission for marketing purposes unless this is expressly granted when you sign up to use our services. You can withdraw your consent to us using your data in this way at any time by contacting the Friends & Patrons team on 020 7070 4444 or [friends@royalalberthall.com](mailto:friends@royalalberthall.com). 
+
+### 11 HOW TO CONTACT US
+
+If you have any questions regarding privacy or this Policy, you may [contact us.](https://www.royalalberthall.com/your-visit/contact-us/)
