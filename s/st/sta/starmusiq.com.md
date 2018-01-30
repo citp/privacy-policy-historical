@@ -1,47 +1,117 @@
-> *The following text is extracted and transformed from the starmusiq.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210024203id_/http%3A//5starmusiq.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmusiq.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130111433id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
 
-# :: Privacy Policy :: NewTamilHits.com ::
+# Privacy Policy | Hover.com
 
-##### Last Updated: December 12, 2014
+## Our Privacy and Data Collection Practices
 
-At NewTamilHits, we take the privacy of our users very seriously. This policy spells out the information we collect and how we put it to use. Please feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a99cdaddc8dbc4dcdac0d887cac6c4e9cec4c8c0c587cac6c496fadccbc3cccadd94f9dbc0dfc8cad08c9b99f9c6c5c0cad0) if you have any questions about this Policy.
+Like most online businesses, Hover collects a lot of information on behalf of, and about our customers. We want to help our clients understand what data we collect, how we use the data we collect, who we share this data with, and how we secure and protect this data.
 
-## Terms Of Service
+The purpose of this document is to share these details with our customers and any else that is interested in these details.
 
-Refer to our [Terms of Service](http://www.5starmusiq.com/terms.asp) for explanation of all legal terms and provisions, limitations of liability, exclusions of warranties, etc.
+Whenever we refer to "Hover" in this document, we are referring to the domain registration services provided by Tucows.com Co. via the website hover.com. Tucows is a corporation, accredited by ICANN and under contract with the various domain registries to facilitate the registration and management of your domain names.
 
-## Information Collection & Use
+We've tried really hard to keep this document simple and readable and if you have any suggestions concerning how we can improve it, please let us know.
 
-NewTamilHits requires users to register for the service and provide personal information including but not limited to the user's name, zip code and email address. NewTamilHits uses this information to establish and deliver service to the individual. NewTamilHits may use this information to contact registered users to notify them of product and service updates, provide instruction, and to deliver other service related information. NewTamilHits may also contact users to request additional information and feedback. NewTamilHits may employ companies and people to perform tasks on its behalf, and will need to share personal information with these agents to establish and deliver service to the individual. NewTamilHits's agents do not receive any right to use personal information beyond what is necessary to perform these tasks.
+## Account Information
 
-NewTamilHits will not disclose registration information to third parties, including, but not limited to, companies affiliated with NewTamilHits, without your consent or as otherwise stated in this privacy policy. If at some point NewTamilHits sells all or a portion of its assets, customer information is one of those assets that would be transferred or acquired by a third party; the third party would then have the right to continue using the personal information as set forth in this policy. For more information see NewTamilHits's Privacy Policy Changes section below.
+When you purchase services from Hover, we create an account for you. This makes it easier for you to track and manage your purchases with us. For the purpose of creating your account, we collect what we call "account data" and "registration contact data".
 
-NewTamilHits may release or exchange personal information if required to do so to comply with applicable law or to enforce its rights or agreements or prevent fraud or reduce credit risk. In addition, NewTamilHits may contact you to inform you of updates or new features. If you wish to be removed from such secondary mailings you may do so by the means provided in the email.
+Account data includes:
 
-NewTamilHits may automatically collect and analyze information regarding the use of NewTamilHits's services and NewTamilHits site activity. Information collected may include but is not limited to web site traffic volume, frequency of visits, type and time of transactions, type of browser and operating system, etc. This information is logged to help diagnose technical problems, administer the site, and improve the quality and types of service delivered. NewTamilHits may also collect, track and analyze information that does not personally identify a user in aggregate form. This aggregate data will be used at NewTamilHits's discretion and may be shared with third parties, but with no personally identifiable information attached. Registered users will be using the site to host relationship data. Relationship data sent to NewTamilHits servers by the user will remain the property of the user. NewTamilHits will not review, share, distribute or reference such data except as may be required to provide the requested NewTamilHits services, or as provided in the NewTamilHits Terms of Use Agreement, or as may be required by law.
+  
 
-If a user elects to use NewTamilHits's invite service for reaching a person via the NewTamilHits site, we will generate an automatic email that is sent to them. We will automatically send this person an email inviting them to visit the site if they are not a user or if they are a user we will send that an email to ask them to visit the site or respond to the invite. If the individual does not respond we do not send any reminder emails. We do not store this information for public use. The emails are for the sole purpose of notifying individuals about upcoming sports events.
 
-If a user's personally identifiable information changes (such as zip code or email), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. If not easily available online, this can be done by emailing our customer support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c1f4b2b5a0b3acb4b2a8b0efa2aeac81a6aca0a8adefa2aeacfe92b4a3aba4a2b5fc91b3a8b7a0a2b8e4f3f191aeada8a2b8).
+• the name of the account holder;
 
-## Cookies & Beacons
+• the mailing address of the account holder;
 
-NewTamilHits uses cookies and beacons to assist in delivering the service and to provide a positive and personalized user experience. Cookies are files sent to your browser from a web server and stored on your computer's hard drive. Our persistent and session ID Cookies are used to identify unique visitors and to provide a personalized user experience. Beacons are bits of code that function similar to cookies. Our beacons are embedded in outgoing emails and generate a call back to the NewTamilHits server when such emails are opened. NewTamilHits uses beacons to track the status of sent emails.
+• a primary and secondary email address associated with the account holder and any other individual that the account holder wishes to designate;
 
-**COOKIES & 3rd PARTY ADVERTISMENTS**
+• a credit card number, expiry and verification code;
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Registration contact data includes:
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+  
 
-## Security
 
-NewTamilHits has implemented processes designed to protect user information and maintain security. Each registered user is assigned a unique user name and password which is required to access their account and relationship information. It is the user's responsibility to protect the security of their login information. NewTamilHits's servers are located in secure server environments. Firewalls and other advanced security technologies are employed to prevent interference or access from outside intruders. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data.
+• the name of the owner and administrative contact(s)
 
-## Third Party Sites
+• the address of the owner and administrative contact(s)
 
-NewTamilHits's sites may contain links to third party web sites not associated with NewTamilHits. NewTamilHits is not responsible for the privacy practices or content of such sites. Users will need to review the policy statements of these sites to understand their privacy policies.
+• the phone number of the owner and administrative contact(s)
 
-## Privacy Policy Changes
+• the email address for the owner and administrative contact(s)
 
-NewTamilHits reserves the right to make changes to this privacy statement. Any material changes to this statement will be prominently posted online and accessible via the NewTamilHits user portal 30 days prior to taking effect.
+## Our use of your account data
+
+Hover only uses account data for the purpose of facilitating the management of your account and billing for your purchases.
+
+We share this data programmatically with Mailchimp and Mandrill for the purpose of sending your notifications and updates about our services and Braintree, for the purpose of billing your credit card.
+
+Hover relies on tokens generated by Braintree to trigger billable events. Hover retains the industry normal first six and last four digits of the credit card, the type of credit card and the name associated with the credit card for internal tracking and audit purposes. The data is stored securely and is not useable for any billing or charging purposes.
+
+Hover shares your name, email address and demographic information with Mailchimp and Mandrill for the purpose of sending you various notifications related to your account. You may choose which notifications you receive under the Settings link in your Hover account management tools. Neither Braintree, nor Mailchimp or Mandrill may ever use your data for their own purposes without our explicit consent or notice to us.
+
+Hover may share your account data with law enforcement agencies on a case-by-case basis. We may or may not notify you if this happens, depending on the circumstances. Hover may also share your account data with a third party under order from a court of competent jurisdiction related to a lawsuit or investigation. Again, we evaluate these requests on a case-by-case basis and we may or may not notify you if this happens.
+
+We may use your account data to contact you concerning a dispute related to your account, or for verification purposes to make sure no one else is accessing your account.
+
+Hover does not share your account data with any other parties for any other reasons.
+
+## Our use of your registration data
+
+Hover only ever uses your registration data for the purpose of facilitating the registration, management and transfer of the domain names you register with Hover. Hover shares your registration data with the registry that manages the TLD you are registering in, for example, Verisign, CIRA, Nominet and others. Hover is also required by ICANN to escrow your registration data with Iron Mountain. They are not permitted to use this data, except to disclose it to ICANN in the event that Hover ceases to be a domain registrar.
+
+ICANN requires that we verify the accuracy of the registration data you provide us on at least an annual basis. We use the email address associated with the Administrative Contact for the domain registration in question for this purpose. Hover sends this email to the Administrative Contact directly and does not use a third party service to facilitate this mailing.
+
+We may use your registration data to contact you concerning a dispute related to your domain name, or for verification purposes to make sure no one else is accessing your domain.
+
+We never sell this information.
+
+## WHOIS
+
+Hover is required by most domain registries and ICANN to publish your registration data in a publicly accessible database called "Whois".
+
+Whois is a publicly accessible database that publishes the contact information associated with domain name registrants. In most cases you may choose not to have your contact information published in the WHOIS. Some top-level domains, like .US and others, may not allow you to opt-out of publication.
+
+Many Registries allow for the use of WHOIS Privacy services, but many others do not. Support (or lack of support for) WHOIS Privacy is noted during the checkout process, and also noted in the Hover dashboard when viewing the details for each domain you own.
+
+[This tutorial](https://help.hover.com/entries/21196313) can help you with controlling the publication of your information in WHOIS.
+
+It may be useful to note that the term "Whois Privacy" is a term common in the domain industry to denote services that help you keep your personal information out of the Whois database. It is also important to know that Hover doesn't guarantee any level of privacy associated with the use of this feature.
+
+Your personal information is still known to the registries and the people who work here and to anyone who may view your Whois information should you ever disable this function on your domain name(s). It should not be viewed as an "Registration Anonymizing" service in any way.
+
+## Domain Search Information
+
+When you search for a domain name to register, you provide us with search terms and phrases that we compare to the lists of domain names that are available for registration and display the results to you.
+
+We never sell the search information you provide to us.
+
+We use this information solely to help you find a suitable domain name to register and to improve the relevancy of our search results. We do not use it for any other purposes. We may provide it to law enforcement agencies if they request it pursuant to appropriate due process.
+
+## Customer Service Information
+
+We use a third party service, Zendesk, to help us manage all of our customer service interactions. Any information you send to use via email is usually stored and tracked in our Zendesk system. We also use Zendesk to log information when you call us for assistance. None of this information is accessible by any third party other than Zendesk.
+
+When you call Hover Support via telephone, we will likely record and archive the conversation. If you don’t agree to this, please contact Hover Support through our online chat, email or other means as may be available at [help.hover.com](https://help.hover.com/).
+
+## Electronic Newsletters and Unsubscribe Policy
+
+When you signed up with Hover, you may have given us permission to send you news and announcements about our services. If you change your mind, you can unsubscribe from our mailing list at any time through the link we provide at the top and bottom of every mailer. You can also remove yourself from our mailing list by sending an email request to [help@hover.com](mailto:help@hover.com) or by giving us a phone call at 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm ).
+
+## Data Analytics
+
+We collect and aggregate data concerning how people use the website at [www.hover.com](http://www.hover.com/). Some of the data is associated with your Hover account and the domains you register with us, but is not personally identifiable to our analytics vendors. Data collected helps us understand how people use our website so that we can improve it. We use a variety of third party services to help us collect and analyze this data, including Google Analytics and Hotjar.
+
+From time to time, we may use other services in addition to these, either to evaluate their effectiveness for long-term use, or to gather information about a very specific question we have. If you ever have any questions about which third party services we are currently using, please don't hesitate to ask us. Any services we have made a long-term commitment to will always be listed here.
+
+## Surveys
+
+Occasionally, we send out surveys intended to help us better understand how you use our services and how we can improve them. We never sell the information collected through these surveys.
+
+Hover uses Delighted, a third-party service, to facilitate sending and collection of customer satisfaction surveys. Data collected by Delighted is used only by Hover, and not shared with any other third-parties.
+
+## How to contact us
+
+Phone: 1.866.731.6556 (Monday to Friday between 8am and 11pm ET and weekends from 8am to 8pm)
