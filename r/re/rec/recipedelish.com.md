@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipedelish.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125004805id_/http%3A//www.recipedelish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipedelish.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130122107id_/https%3A//www.recipedelish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RecipeDelish
 
