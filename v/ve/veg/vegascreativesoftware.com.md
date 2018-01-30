@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegascreativesoftware.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128160344id_/http%3A//www.vegascreativesoftware.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegascreativesoftware.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130185045id_/https%3A//www.vegascreativesoftware.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy – VEGAS Creative Software
 
