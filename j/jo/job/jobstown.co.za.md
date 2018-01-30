@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121083442id_/http%3A//www.jobstown.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstown.co.za privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130072938id_/https%3A//www.jobstown.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy - Jobs South Africa
 
