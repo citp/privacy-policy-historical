@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babe.net privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901202231id_/https%3A//babe.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babe.net privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130200331id_/https%3A//babe.net/privacy-policy) for the most accurate reproduction.*
 
 # babe • Privacy Policy
 
@@ -115,5 +115,5 @@ Tab Media
 2-4 Great Eastern St  
 London, EC2A NW3  
 Greater London  
-editor@babe.net  
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Last Edited on 2015-09-28
