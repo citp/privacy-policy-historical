@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campustechnology.com privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519105858id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campustechnology.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130193622id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1105 Media Privacy Policy -- 1105 Media
 
