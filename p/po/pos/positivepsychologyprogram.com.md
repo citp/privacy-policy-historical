@@ -1,56 +1,125 @@
-> *The following text is extracted and transformed from the positivepsychologyprogram.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425140631id_/https%3A//positivepsychologyprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivepsychologyprogram.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130013558id_/https%3A//positivepsychologyprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at: info@positivepsychologyprogram.com
+Last edited on 11th June 2017
 
-At https://positivepsychologyprogram.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://positivepsychologyprogram.com and how we use it.
+In this Privacy and Cookie Policy, you will find information about the manner in which we use your personal data (“personal information”) and information about the cookies we place when you visit our website www.positivepsychologyprogram.com.
 
-**Log Files**  
-Like many other Web sites, https://positivepsychologyprogram.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+### **How do we use your personal information?**
 
-**Cookies and Web Beacons**  
-https://positivepsychologyprogram.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+We use your personal information for the following purpose:
 
-**DoubleClick DART Cookie**
+  * To be able to address you by your name.
+  * To process your order and the payment transaction.
+  * To send a confirmation of your order to your email address.
+  * To send emails to update you on your order.
+  * To send periodic emails regarding our other products and services (you can opt-out of these emails when you fill out your email address and afterwards, also at any time).
+  * For administration purposes (information regarding your purchases and transactions).
+  * To correspond with you (live chat, email or phone inquiries).
+  * To be able to offer our services to you (the community on our website).
+  * To analyze statistics of visitors to our website (IP-addresses, cookie IDs).
+  * To analyze preferences of website visitors, based on previous or current website activity, so that we can improve our services (cookie IDs).
+  * Aggregating data about site traffic and site interaction so that we can offer better site experiences and tools in the future (cookie IDs).
+  * To show you advertisements through different channels (using cookie IDs).  
+On what legal basis do you process my personal information?  
+We process your personal information on the following legal basis:
+  * we require your personal information because it is necessary for the performance of a contract between you and us (your order of our products, the use of our services such as the community);
+  * we require your personal information for compliance with legal obligations (amongst others to send you a confirmation by email of your purchase, to comply with book keeping obligations);
+  * for certain types of processing we may ask your consent (e.g. sending commercial emails). You may withdraw your consent at any time for the future (withdrawal does not affect the lawfulness of processing based on consent before the withdrawal);
+  * we require your personal information for the purposes of our legitimate interests, including keeping in contact with you about our products and services, analyzing information about site visits so that we can offer better site experiences and tools in the future, to correspond with you.
 
-→ Google, as a third party vendor, uses cookies to serve ads on https://positivepsychologyprogram.com.
 
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to https://positivepsychologyprogram.com and other sites on the Internet.
 
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](http://www.google.com/policies/privacy/ads/ "Opt out of the Dart Cookie")
+### **Am I required to provide my personal information?**
 
-**Our Advertising Partners**
+Yes, you are required to provide some personal information in order for us to process your purchase order. We require the personal information you fill out during the registration, order and payment process, such as your name, email address, credit card details. Without this information, we cannot process your purchase order.
 
-_Each of these advertising partners has their own Privacy Policy for their site._
+When making use of our community, your user name and your occupation and interests (you do not have to enter these into your profile), your points balance as well as your “topics” and friends will be shown to other users and to us within the community. Of course, your contributions to the community will also be shown to other users and to us.
 
-You may consult this listing to find the privacy policy for each of the advertising partners of https://positivepsychologyprogram.com.
+### **Third-party disclosure**
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on https://positivepsychologyprogram.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+We do not sell or trade your personal information.
 
-https://positivepsychologyprogram.com has no access to or control over these cookies that are used by third-party advertisers.
+We make use of service providers, such as the hosting provider of our website, advertising service providers (see also below, with regard to cookies) and an administrative service provider, to be able to offer and operate our website and our business.
 
-**Third Party Privacy Policies**
+### **How long is my personal information stored?**
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. https://positivepsychologyprogram.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+If you have purchased a product, we store your personal information as long as you have an account with us. The reason for this being that we will have to notify you when a product is updated. When you close your account, your personal information will be removed, save for information we are required to store pursuant to tax laws in the Netherlands, such as information relating to your purchase and transactions and our financial obligations during a period of seven years.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [  
-](http://www.privacypolicyonline.com/what-are-cookies/)
+The information you contribute to the community as well as your user name and profile information will be shown to other users as long as we offer the community services and as long as the information is relevant for the community.
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.  
-https://positivepsychologyprogram.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that https://positivepsychologyprogram.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+For the cookie storage periods, see below, with regard to cookies.
 
-**Online Privacy Policy Only**
+### **How do we protect your information?**
 
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there.  
-This policy does not apply to any information collected offline or via channels other than this website.
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-**Consent**
+We use regular Malware Scanning.
 
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-**Update**  
-This Privacy Policy was last updated on: Sunday, January 19th, 2014.
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+### **Do we use ‘cookies’?**
+
+Yes.
+
+Cookies are small files that our site transfers to your computer, or other type of user device, through your web browser. It enables our systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart, these are functional cookies. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+The following non-functional cookies are transferred when you visit our website:  
+____________  
+Name cookie: Facebook Connect  
+Type of cookie: tracking cookie  
+Placed by: Facebook, Inc.  
+Purposes: used for remarketing so that we can show you relevant advertisements when you visit other websites, based on your visit of our website.  
+Privacy Policy: https://www.facebook.com/policy.php  
+Retention Period: 180 days  
+Do we ask your consent: yes, for this type of cookie we require your consent.  
+____________  
+Name cookie: Double Click Ad Exchange  
+Type of cookie: tracking cookie  
+Placed by: Google, Inc.  
+Purposes: used for remarketing so that we can show you relevant advertisements when you visit other websites, based on your visit of our website.  
+Privacy Policy: https://www.google.com/policies/privacy/  
+Retention Period: 180 days  
+Do we ask your consent: yes, for this type of cookie we require your consent.  
+____________  
+Name cookie: Wistia  
+Type of cookie: tracking cookie  
+Placed by: Wistia, Inc.  
+Purposes: used for embedding video’s and tracking user behavior on websites, in order to show personalized advertisements.  
+Privacy Policy: https://wistia.com/privacy  
+Retention Period: 180 days  
+Do we ask your consent: yes, for this type of cookie we require your consent.
+
+### **Can I turn the cookies off?**
+
+You can choose to turn off all cookies. You do this through your browser settings. Since each browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies. If you turn your cookies off, some of the features that make your website experience more efficient may not function properly.
+
+### **What rights to do I have with regard to my personal information?**
+
+Pursuant to EU privacy laws, you have – at least – the following rights:
+
+  * the right to ask access to your personal information;
+  * the right to have incorrect personal information rectified – you can always change your personal information by logging in on your account on our website;
+  * under certain conditions to have your personal information erased;
+  * under certain conditions to have the processing of your personal information restricted;
+  * under certain conditions to object to the processing of your personal information;
+  * when we use your personal information for direct marketing purposes, you can object to this unconditionally;
+  * (per 25 May 2018) the right to receive your personal information in a structured, commonly used and machine readable format, where it concerns personal information you have provided to us and the processing is based on your consent or required for the performance of a contract and is carried out by automated means; in that case you may also ask us to transfer your personal data to another processor, where technically feasible;
+  * you have the right to lodge a complaint with the supervisory authority.
+
+
+
+### **Contacting Us**
+
+If there are any questions regarding this Privacy and Cookie Policy, you may contact us using the information below.
+
+Positive Psychology Program B.V.  
+Gandhiplein 16  
+Maastricht, Limburg 6229HN  
+The Netherlands  
+info@positivepsychologyprogram.com
