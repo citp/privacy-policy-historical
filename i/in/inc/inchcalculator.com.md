@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818054659id_/https%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130113155id_/https%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inch Calculator
 
