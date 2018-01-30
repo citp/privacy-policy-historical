@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406071119id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130060310id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – itison
 
@@ -58,11 +58,11 @@ Most modern browsers will allow you to control which cookies you want to accept 
 
 For more information on how your browser can help you filter cookies, please refer to the user guide.
 
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+[Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
 
 [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
 
-[Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+[Cookie settings in Chrome](https://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
 
 [Cookie settings in Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
 
