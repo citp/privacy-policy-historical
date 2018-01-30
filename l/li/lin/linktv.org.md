@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619002356id_/https%3A//www.linktv.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktv.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130102627id_/https%3A//www.linktv.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Link TV
 
