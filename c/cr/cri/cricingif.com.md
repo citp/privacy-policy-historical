@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricingif.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902095947id_/https%3A//www.cricingif.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricingif.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130142938id_/https%3A//www.cricingif.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | Cricingif
 
