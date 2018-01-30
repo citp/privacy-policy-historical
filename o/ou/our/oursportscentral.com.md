@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602044111id_/http%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131002550id_/https%3A//www.oursportscentral.com/about/privacy) for the most accurate reproduction.*
 
 # Minor League Sports News on OurSports Central
-
-[ ](http://createdbyinfinity.com/7star-services/)
 
 Privacy Notice Table Of Contents:   
 
