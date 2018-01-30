@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606145708id_/http%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangolf.co.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130130349id_/https%3A//www.americangolf.co.uk/content/privacy-policy.html) for the most accurate reproduction.*
 
 # American Golf's Privacy Policy
 
@@ -108,7 +108,7 @@ This Privacy Policy forms part of the website [Terms of Use](http://www.american
 
 #### Questions
 
-If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk) or write to SW Golf Limited, PO Box 2007, Liverpool, L69 3FX.
+If you have further questions about this Privacy Policy or comments on how this website can be improved, please do not hesitate to send an email to [aftersales@americangolf.co.uk](mailto:aftersales@americangolf.co.uk) or write to American Golf, PO Box 2007, Liverpool, L69 3FX.
 
 #### Use of Personal Data for Credit Checking
 
