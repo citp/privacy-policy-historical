@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dontbreakme.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111025532id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Ddbm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontbreakme.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130092552id_/https%3A//static-ht.mofoscontent.com/policy_files/pp.php%3Fsite%3Ddbm) for the most accurate reproduction.*
 
 # Privacy Policy - DontBreakMe.com
 
