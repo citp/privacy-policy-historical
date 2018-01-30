@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smugglersbounty.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914022225id_/https%3A//www.smugglersbounty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smugglersbounty.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130012748id_/https%3A//www.smugglersbounty.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Smugglers Bounty by Funko
 
