@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uca.ac.uk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130160332id_/http%3A//www.uca.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uca.ac.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130065030id_/https%3A//www.uca.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # University for the Creative Arts - Privacy Policy - UCA
 
