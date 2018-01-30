@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the themonastery.org privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627013410id_/https%3A//www.themonastery.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themonastery.org privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130192732id_/https%3A//www.themonastery.org/privacy-policy) for the most accurate reproduction.*
 
 # Universal Life Church Monastery Privacy Policies
 
-_Our church changes constantly, so we may amend this Policy from time to time - and you agree to all amendments. This Policy was last revised on January 12, 2015. If this Policy is changed, we will post a notice for 5 weeks._
+_Our church changes constantly, so we may amend this Policy from time to time - and you agree to all amendments. This Policy was last revised on October 19, 2017._
 
 The Universal Life Church Ministries herein referred to as “the ULC”, “the Church”, “we”, and “our”) cares about the privacy of visitors (herein referred to as “you” and “yours”) to our site. We also know you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please read on for a full discussion/understanding of privacy policy and how we may utilize, disclose, and protect this information. By visiting our websites, you accept the practices described in this Privacy Notice and our Terms of Use. 
 
@@ -24,7 +24,7 @@ There are two types of information we collect or use. One is personal informatio
 
 **3\. Disclosure And Sharing**
 
-**3.a**   We will never sell or rent to any third party your personal or financial information you provide to us, unless you give us consent. Nor will we use personal or financial information in ways not described in this Privacy Policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+**3.a**   We will never sell or rent to any third party your financial information you provide to us, unless you give us consent. Nor will we use personal or financial information in ways not described in this Privacy Policy. The Church has contracted with a firm that collects responses to survey questions to ensure that we are serving our ministers as best we can. Please note that if you choose to participate in this survey, that third party firm may request that you provide them with your email address and may contact you to send additional survey questions. Our system also automatically passes your email address to the survey firm to send you followup questions after your order is placed. Once the survey email has been dispatched, the third party survey firm deletes all minister email address information. 
 
 **3.b**   The Church offers pages on our site such as our forum and our guest book where any personal information you enter will be publicly accessible and available to third parties via public search engines offering search services. We are not liable for any harm that occurs as a result of your posting personal information in these accessible areas of the website. If a written request is made to remove any personally-identifying content in one of these areas of the site, the Church will make every effort to remove that information in a timely manner. 
 
