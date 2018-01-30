@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkpittsburghsports.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901014607id_/https%3A//www.dkpittsburghsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkpittsburghsports.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130193127id_/https%3A//www.dkpittsburghsports.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -20,9 +20,7 @@ E-mail may be sent to inform you of news of our services or offers by us or our 
 
 **Visitor options**
 
-If you have subscribed to our services, you may unsubscribe by emailing a request to [**Help@DKPittsburghSports.com**](mailto:Help@DKPittsburghSports.com)
-
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+If you have subscribed to our services, you may unsubscribe by emailing a request to **[Help@DKPittsburghSports.com](mailto:Help@DKPittsburghSports.com), **though there are no refunds for subscriptions, which are paid in advance. You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
 
 **Cookies**
 
