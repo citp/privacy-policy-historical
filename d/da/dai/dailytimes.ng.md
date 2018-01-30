@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytimes.ng privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210075529id_/https%3A//dailytimes.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytimes.ng privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130043102id_/https%3A//dailytimes.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Daily Times Nigeria
 
@@ -114,3 +114,5 @@ Agidingbi – Ikeja,
 Lagos
 
 We will take reasonable steps to remove copyright material from the Site where complete and accurate information is submitted in respect of the alleged copyright infringement.  You are not entitled to submit a copyright infringement notification where you do not own or are not authorised to act on behalf of the owner of the copyright material.  Such an action may render you liable to legal action by the true owner of the copyright material.
+
+(Visited 11 times, 1 visits today)
