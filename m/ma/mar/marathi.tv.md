@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathi.tv privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130122939id_/http%3A//www.marathi.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathi.tv privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130203912id_/https%3A//www.marathi.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marathi.TV
 
@@ -92,7 +92,7 @@ The Fair Information Practices Principles form the backbone of privacy law in th
 
  **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
-We will notify the users via email – [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We will notify the users via email – contact.marathitv@gmail.com
 
  **•**  Within 7 business days
 
@@ -106,6 +106,6 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
  **To be in accordance with CANSPAM we agree to the following:**
 
- **If at any time you would like to unsubscribe from receiving future emails, you can email us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+ **If at any time you would like to unsubscribe from receiving future emails, you can email us at contact.marathitv@gmail.com**
 
 and we will promptly remove you from  **ALL**  correspondence.
