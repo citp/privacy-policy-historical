@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmeticsbusiness.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124222613id_/http%3A//www.hpcimedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticsbusiness.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130033257id_/https%3A//www.hpcimedia.com/privacy) for the most accurate reproduction.*
 
 # privacy | HPCi
 
