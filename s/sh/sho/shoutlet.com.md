@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the shoutlet.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705115515id_/https%3A//www.spredfast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutlet.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130134650id_/https%3A//www.spredfast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spredfast
 
 **SPREDFAST, INC.  
 PRIVACY POLICY**
 
-_Last updated May 1, 2017_
+_Last updated January 2018_
 
-Spredfast, Inc. and its wholly owned subsidiaries, Shoutlet, Inc. and Spredfast Limited (collectively, “ **Spredfast** ” or “ **we** ” or “ **us** ”) provide an open social marketing platform and related services, including software as a service (“ **SaaS** ”) applications, tools and platform, which help connect our Customers to the people they care about the most (collectively, “ **Spredfast Services** ”). 
+Spredfast, Inc., together with Spredfast GmbH, Spredfast Limited, Spredfast Pty Ltd and any of its other wholly owned subsidiaries now or existing in the future (collectively, “ **Spredfast** ” or “ **we** ” or “ **us** ”) provide an open social marketing platform and related services, including software as a service (“ **SaaS** ”) applications, tools and platform, which help connect our Customers to the people they care about the most (collectively, “ **Spredfast Services** ”). 
 
 This Privacy Policy (“ **Privacy Policy** ”) governs our privacy practices for our websites and mobile apps as well as the privacy practices applicable to our Customers in their use of Spredfast Services.  As used in this Privacy Policy, the term “ **Customers** ” refers to our Customers who have purchased or are otherwise authorized to use Spredfast Services (including all of their authorized users), the term “ **Visitors** ” shall refer to both the users of our websites and our Customers and the term “ **Website** ” shall include [www.spredfast.com](http://www.spredfast.com/), any website operated by Spredfast on which this Privacy Policy is posted, as well as mobile and other applications.   Use or access of any of our Websites or use or deployment of a Spredfast Service constitutes acceptance of this Privacy Policy on behalf of the Customer or Visitor.
 
