@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823233857id_/https%3A//www.trumphotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130141809id_/https%3A//www.trumphotels.com/privacy-policy) for the most accurate reproduction.*
 
-# Worldwide Luxury Hotels | Trump Hotels™– Privacy Policy | Luxury Hotels International
+# Luxury 5 Star Hotels | Trump Hotels - Privacy Policy | Luxury Spa Hotels
 
 This Privacy Policy was last modified on March 2, 2017 and is effective immediately.
 
