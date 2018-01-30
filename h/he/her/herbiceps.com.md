@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbiceps.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226172923id_/http%3A//www.herbiceps.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbiceps.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130021647id_/http%3A//www.herbiceps.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
