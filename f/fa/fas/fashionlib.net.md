@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionlib.net privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117115732id_/http%3A//www.fashionlib.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionlib.net privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130173252id_/http%3A//www.fashionlib.net/privacy) for the most accurate reproduction.*
 
 # Term of use - Fashionlib
 
