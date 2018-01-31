@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newmatilda.com privacy policy that was archived on 2017-07-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170701230410id_/https%3A//newmatilda.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newmatilda.com privacy policy that was archived on 2018-01-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180131051525id_/https%3A//newmatilda.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-AU" xmlns:fb="http://ogp.me/ns/fb#" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 
@@ -10,15 +10,88 @@
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="pingback" href="//newmatilda.com/xmlrpc.php">
+<link rel="pingback" href="https://newmatilda.com/xmlrpc.php">
 	
-<link rel="shortcut icon" href="//newmatilda.com/wp-content/uploads/2015/09/favicon.ico">	
+<link rel="shortcut icon" href="https://newmatilda.com/wp-content/uploads/2015/09/favicon.ico">	
 
-<link rel="apple-touch-icon-precomposed" href="//newmatilda.com/wp-content/uploads/2015/09/mobilefavicon.png">
+<link rel="apple-touch-icon-precomposed" href="https://newmatilda.com/wp-content/uploads/2015/09/mobilefavicon.png">
 	
+        <style>
 
+            #newsletter-close {
+                position: absolute;
+                right: -10px;
+                top: -10px;
+                cursor: pointer;
+            }
+            #newsletter-popup-overlay {
+                display: none;
+                background:#000;
+                position:fixed;
+                top:0;
+                bottom: 0;
+                right: 0;
+                left:0px;
+                z-index:10000;
+                cursor:pointer;
+                opacity: .7;
+                filter: alpha(opacity=70);
+                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+            }
+
+            #newsletter-popup-container {
+                display: none;
+                position:fixed;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                z-index:11000;
+            }
+
+            #newsletter-popup{
+                position: relative;
+                margin: 50px auto;
+                background-color:#fff;
+                width: 510px;
+                height: 390px;
+                border: 0px solid ;
+                border-radius: 0px;
+                box-sizing: content-box;
+            }
+
+            @media (max-width: 767px) {
+                #newsletter-popup{
+                    width: 90%;
+                    max-width: 510px;
+                    margin: 50px auto;
+                    height:calc( 100vh - 50px );
+                }
+            }
+            #newsletter-iframe {
+                margin: 5px;
+                width: 500px;
+                height: 380px;
+                border: 0;
+                xmargin: 0;
+            }
+            @media (max-width: 767px){
+                #newsletter-iframe{
+                    width: calc( 100% - 10px ) !important;
+                    height: calc( 100% - 10px )!important;
+            }
+
+            @media (max-width: 480px) {
+                #newsletter-popup{
+                    max-height: 100vh;
+                }
+            }
+
+
+        </style>
+        
 <!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="//newmatilda.com/privacy/">
+<link rel="canonical" href="https://newmatilda.com/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - New Matilda">
@@ -32,8 +105,8 @@
 <meta name="twitter:creator" content="@newmatilda">
 <!-- / Yoast SEO plugin. -->
 
-<link rel="alternate" type="application/rss+xml" title="New Matilda » Feed" href="//newmatilda.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="New Matilda » Comments Feed" href="//newmatilda.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="New Matilda » Feed" href="https://newmatilda.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="New Matilda » Comments Feed" href="https://newmatilda.com/comments/feed/">
 <!-- This site is powered by Shareaholic - https://shareaholic.com -->
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=920883917947593&amp;version=v2.3"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" data-cfasync="false">
   //<![CDATA[
@@ -48,7 +121,7 @@
 <meta name="shareaholic:language" content="en-AU">
 <meta name="shareaholic:url" content="https://newmatilda.com/privacy/">
 <meta name="shareaholic:article_published_time" content="2013-01-24T04:02:29+00:00">
-<meta name="shareaholic:article_modified_time" content="2017-06-30T23:05:54+00:00">
+<meta name="shareaholic:article_modified_time" content="2018-01-30T08:29:23+00:00">
 <meta name="shareaholic:shareable_page" content="true">
 <meta name="shareaholic:article_author_name" content="New Matilda">
 <meta name="shareaholic:site_id" content="4340253a5117d796bde859a0a2520f65">
@@ -56,9 +129,9 @@
 
 <!-- Shareaholic Content Tags End -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/newmatilda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.11"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/newmatilda.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.15"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://newmatilda.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.11" type="text/javascript"></script>
+		</script><script src="https://newmatilda.com/wp-includes/js/wp-emoji-release.min.js?ver=4.3.15" type="text/javascript"></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -73,14 +146,13 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="contact-form-7-css" href="//newmatilda.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="arevico_scsfbcss-css" href="//newmatilda.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/featherlight/featherlight.min.css?ver=4.3.11" type="text/css" media="all">
-<link rel="stylesheet" id="sidebar-login-css" href="//newmatilda.com/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.7.3" type="text/css" media="all">
-<link rel="stylesheet" id="wfg-styles-css" href="//newmatilda.com/wp-content/plugins/woocommerce-multiple-free-gift/css/wfg-styles.css?ver=4.3.11" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://newmatilda.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="arevico_scsfbcss-css" href="https://newmatilda.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/featherlight/featherlight.min.css?ver=4.3.15" type="text/css" media="all">
+<link rel="stylesheet" id="sidebar-login-css" href="https://newmatilda.com/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?ver=2.7.3" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-layout-css" href="//newmatilda.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.4.12" type="text/css" media="all">
 <link rel="stylesheet" id="woocommerce-smallscreen-css" href="//newmatilda.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.4.12" type="text/css" media="only screen and (max-width: 768px)">
 <link rel="stylesheet" id="woocommerce-general-css" href="//newmatilda.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.4.12" type="text/css" media="all">
-<link rel="stylesheet" id="wp-polls-css" href="//newmatilda.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73" type="text/css" media="all">
+<link rel="stylesheet" id="wp-polls-css" href="https://newmatilda.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73" type="text/css" media="all">
 <style id="wp-polls-inline-css" type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -92,11 +164,11 @@ img.emoji {
 }
 
 </style>
-<link rel="stylesheet" id="motive-fonts-css" href="//fonts.googleapis.com/css?family=Lora%3A400%2C700%7COpen+Sans%3A400%2C600%2C700%7CVolkhov%3A400&amp;subset" type="text/css" media="all">
-<link rel="stylesheet" id="motive-core-css" href="//newmatilda.com/wp-content/themes/motive-child/style.css?ver=1.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="motive-lightbox-css" href="//newmatilda.com/wp-content/themes/motive/css/lightbox.css?ver=1.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="motive-font-awesome-css" href="//newmatilda.com/wp-content/themes/motive/css/fontawesome/css/font-awesome.min.css?ver=1.2.4" type="text/css" media="all">
-<link rel="stylesheet" id="motive-responsive-css" href="//newmatilda.com/wp-content/themes/motive/css/responsive.css?ver=1.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="motive-fonts-css" href="https://fonts.googleapis.com/css?family=Lora%3A400%2C700%7COpen+Sans%3A400%2C600%2C700%7CVolkhov%3A400&amp;subset" type="text/css" media="all">
+<link rel="stylesheet" id="motive-core-css" href="https://newmatilda.com/wp-content/themes/motive-child/style.css?ver=1.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="motive-lightbox-css" href="https://newmatilda.com/wp-content/themes/motive/css/lightbox.css?ver=1.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="motive-font-awesome-css" href="https://newmatilda.com/wp-content/themes/motive/css/fontawesome/css/font-awesome.min.css?ver=1.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="motive-responsive-css" href="https://newmatilda.com/wp-content/themes/motive/css/responsive.css?ver=1.2.4" type="text/css" media="all">
 <style id="motive-responsive-inline-css" type="text/css">
 ::selection { background: #017777 }
 
@@ -165,39 +237,39 @@ display:none;
 }
 }
 </style>
-<link rel="stylesheet" id="jetpack-top-posts-widget-css" href="//newmatilda.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="//newmatilda.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4" type="text/css" media="all">
-<script type="text/javascript" src="//newmatilda.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/featherlight/featherlight.min.js?ver=4.3.11"></script>
+<link rel="stylesheet" id="jetpack-top-posts-widget-css" href="https://newmatilda.com/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://newmatilda.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.4" type="text/css" media="all">
+<script type="text/javascript" src="https://newmatilda.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/featherlight/featherlight.min.js?ver=4.3.15"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var lb_l_ret = {"width":"400","height":"255","delay":"7000","coc":"1","fb_id":"New-Matilda-23703068834\/","cooc":"0","fblocale":"","loggedin":"1","connect":"1","appid":"","mab":"","gaevent":"1","hideonlike":"1","eam":"1","overlaycolor":"#666666","extracss":"","cmessage":"Don't show again!","display_on_page":"1","display_on_post":"1","display_on_homepage":"1","display_on_archive":"1","show_once":"0","submenu":"1","min":"0","performance":"0","overlayop":"0.3","cover":"1","mobile":"1","ref_fb":"1","no_ref":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/launch/launch-premium.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/sidebar-login/assets/js/jquery.blockUI.min.js?ver=2.70"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/facebook-page-promoter-lightbox-premium/includes/launch/launch-premium.min.js?ver=4.3.15"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/sidebar-login/assets/js/jquery.blockUI.min.js?ver=2.70"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var sidebar_login_params = {"ajax_url":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php","force_ssl_admin":"1","is_ssl":"1","i18n_username_required":"Please enter your username","i18n_password_required":"Please enter your password","error_class":"sidebar_login_error"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.7.3"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/woocommerce-multiple-free-gift/js/wfg-scripts.js?ver=4.3.11"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?ver=2.7.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Basket","cart_url":"https:\/\/newmatilda.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="//newmatilda.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.12"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.7.4"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="//newmatilda.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="//newmatilda.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.3.11">
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=4.7.4"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://newmatilda.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://newmatilda.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.3.15">
 <meta name="generator" content="WooCommerce 2.4.12">
-<link rel="shortlink" href="//wp.me/P6M8VC-158">
-<meta property="fb:app_id" content="920883917947593"><style type="text/css">img#wpstats{display:none}</style>
+<link rel="shortlink" href="https://wp.me/P6M8VC-158">
+<meta property="fb:app_id" content="920883917947593">			<meta property="fb:pages" content="23703068834">
+			<style type="text/css">img#wpstats{display:none}</style>
 <!-- BEGIN GADWP v4.9.3.1 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -210,10 +282,16 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 
 <!-- END GADWP Universal Tracking -->
 
+
+<style id="custom-css-css">/*
+Welcome to Custom CSS!
+
+To learn how this works, see http://wp.me/PEmnE-Bt
+*/</style>
 <noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;"></script>	
 <!--[if lt IE 9]>
-<script src="//newmatilda.com/wp-content/themes/motive/js/html5.js" type="text/javascript"></script>
-<script src="//newmatilda.com/wp-content/themes/motive/js/selectivizr.js" type="text/javascript"></script>
+<script src="https://newmatilda.com/wp-content/themes/motive/js/html5.js" type="text/javascript"></script>
+<script src="https://newmatilda.com/wp-content/themes/motive/js/selectivizr.js" type="text/javascript"></script>
 <![endif]-->
 
 </head>
@@ -234,37 +312,34 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 					<ul>
 												
 												
-							<li><a href="https://newmatilda.com/2016/01/21/false-balance-abc-news-boss-directed-journalist-nick-ross-to-target-alps-nbn-plan-for-insurance-against-coalition-attacks/" title="FALSE BALANCE: ABC Directed Journalist To Target Labor NBN Plan For “Insurance” Against Coalition Attacks">FALSE BALANCE: ABC Directed Journalist To Target Labor NBN Plan For “Insurance” Against Coalition Attacks</a></li>
+							<li><a href="https://newmatilda.com/2018/01/30/native-title-colonialism-racism-adani-and-the-manufacture-of-consent-for-mining/" title="Killing Country (Part 5): Native Title Colonialism, Racism And Mining For Manufactured Consent">Killing Country (Part 5): Native Title Colonialism, Racism And Mining For Manufactured Consent</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/07/01/gonski-2-0-has-exposed-deep-divisions-in-the-libs-and-greens/" title="‘Gonski 2.0’ Has Exposed Deep Divisions On The Left And Right">‘Gonski 2.0’ Has Exposed Deep Divisions On The Left And Right</a></li>
+							<li><a href="https://newmatilda.com/2018/01/29/one-rule-for-big-business-another-for-small-workers/" title="One Rule For Big Business, Another For Small Workers: Ged Kearney">One Rule For Big Business, Another For Small Workers: Ged Kearney</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/28/cheap-human-rights/" title="Cheap Human Rights">Cheap Human Rights</a></li>
+							<li><a href="https://newmatilda.com/2018/01/26/redate-australia-day/" title="Redating Australia Day">Redating Australia Day</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/28/taika-waititis-simple-punters-guide-to-being-just-a-little-bit-racist/" title="Taika Waititi’s Simple Punter’s Guide To Being ‘Just A Little Bit Racist’">Taika Waititi’s Simple Punter’s Guide To Being ‘Just A Little Bit Racist’</a></li>
+							<li><a href="https://newmatilda.com/2018/01/26/invasion-day-is-more-than-just-a-day-on-the-calendar/" title="Invasion Day Is More Than Just A Day On The Calendar">Invasion Day Is More Than Just A Day On The Calendar</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/28/the-poisoned-chalice-breakthrough-wa-study-shines-a-light-on-global-water-contamination/" title="THE POISONED CHALICE: Breakthrough WA Study Shines A Light On Global Water Contamination">THE POISONED CHALICE: Breakthrough WA Study Shines A Light On Global Water Contamination</a></li>
+							<li><a href="https://newmatilda.com/2018/01/23/vile-brit-racist-sells-house-to-fund-legal-loss-guess-whose-trying-to-buy-it/" title="Media-Boosted Racist Sells House To Fund Legal Loss. Guess Who’s Trying To Buy It">Media-Boosted Racist Sells House To Fund Legal Loss. Guess Who’s Trying To Buy It</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/28/a-decade-on-the-fraud-of-the-nt-intervention-is-exposed/" title="A Decade On, The Fraud Of The NT Intervention Is Exposed">A Decade On, The Fraud Of The NT Intervention Is Exposed</a></li>
+							<li><a href="https://newmatilda.com/2018/01/23/all-speech-is-created-equal-but-some-speech-is-more-equal-than-others/" title="All Speech Is Created Equal But Some Speech Is More Equal Than Others">All Speech Is Created Equal But Some Speech Is More Equal Than Others</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/28/collateral-damage-australian-bombs-and-iraqi-civilians/" title="Collateral Damage: Australian Bombs And Iraqi Civilians">Collateral Damage: Australian Bombs And Iraqi Civilians</a></li>
+							<li><a href="https://newmatilda.com/2018/01/23/university-paradoxes/" title="University Paradoxes: A Decent Degree And No Job; A Job And No Degree Of Decency">University Paradoxes: A Decent Degree And No Job; A Job And No Degree Of Decency</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/25/the-national-rifle-association-takes-a-shot-at-australia-and-misses/" title="The National Rifle Association Takes A Shot At Australia, And Misses">The National Rifle Association Takes A Shot At Australia, And Misses</a></li>
+							<li><a href="https://newmatilda.com/2018/01/22/donald-trump-is-a-symptom-of-a-greater-evil-the-rotten-core-of-the-republican-party/" title="Donald Trump Is A Symptom Of A Greater Evil: The Rotten Core Of The Republican Party">Donald Trump Is A Symptom Of A Greater Evil: The Rotten Core Of The Republican Party</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/25/the-donald-tweets-journalists-drop-all-pretense-of-impartiality/" title="The Donald Tweets, Journalists Drop All Pretense of Impartiality">The Donald Tweets, Journalists Drop All Pretense of Impartiality</a></li>
+							<li><a href="https://newmatilda.com/2018/01/22/peak-death-murder-hire-oil-fields-columbia/" title="PEAK DEATH: Murder For Hire In The Oil Fields Of Colombia">PEAK DEATH: Murder For Hire In The Oil Fields Of Colombia</a></li>
 						
 												
-							<li><a href="https://newmatilda.com/2017/06/24/a-geriatric-dr-evil-coal-magnate-is-suing-john-oliver-for-defamation/" title="A ‘Geriatric Dr Evil’ Coal Magnate Is Suing John Oliver For Defamation">A ‘Geriatric Dr Evil’ Coal Magnate Is Suing John Oliver For Defamation</a></li>
-						
-												
-							<li><a href="https://newmatilda.com/2017/06/23/bad-aunty-seven-years-how-abc-lateline-sparked-racist-nt-intervention/" title="Bad Aunty: 10 Years On, How ABC Lateline Sparked The Racist NT Intervention (With Introduction By John Pilger)">Bad Aunty: 10 Years On, How ABC Lateline Sparked The Racist NT Intervention (With Introduction By John Pilger)</a></li>
+							<li><a href="https://newmatilda.com/2018/01/22/invasion/" title="Invasion">Invasion</a></li>
 						
 												
 											</ul>
@@ -274,7 +349,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 					<a href="#" class="top-icon fa fa-search"><span class="visuallyhidden">Search</span></a>
 					
 					<div class="search">
-					<form action="//newmatilda.com/" method="get">
+					<form action="https://newmatilda.com/" method="get">
 						<input type="text" name="s" class="query" value="" placeholder="To search, type and press enter.">
 					</form>
 					</div> <!-- .search -->
@@ -300,7 +375,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 					<a href="https://newmatilda.com/" title="New Matilda" rel="home">
 					
 															
-											<img src="//newmatilda.com/wp-content/uploads/2015/09/newmatildalogo.png" class="logo-image" alt="New Matilda" data-at2x="https://newmatilda.com/wp-content/uploads/2015/09/newmatildalogo_retina.png">
+											<img src="https://newmatilda.com/wp-content/uploads/2015/09/newmatildalogo.png" class="logo-image" alt="New Matilda" data-at2x="https://newmatilda.com/wp-content/uploads/2015/09/newmatildalogo_retina.png">
 											 
 									
 					</a>
@@ -328,22 +403,19 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 				
 				<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-44890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-44890"><a href="https://newmatilda.com">Home</a></li>
 <li id="menu-item-36912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12586 menu-item-36912"><a href="https://newmatilda.com/category/aboriginal-affairs/">Aboriginal Affairs</a></li>
-<li id="menu-item-36919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12593 menu-item-36919"><a href="https://newmatilda.com/category/environment/">Environment</a></li>
 <li id="menu-item-36914" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12588 menu-item-36914"><a href="https://newmatilda.com/category/australian-politics/">Politics</a></li>
 <li id="menu-item-48359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-13576 menu-item-48359"><a href="https://newmatilda.com/category/special-investigations/">Special Investigations</a></li>
-<li id="menu-item-46161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-13208 menu-item-46161"><a href="https://newmatilda.com/category/the-insider/">The Insider Blog</a></li>
+<li id="menu-item-46161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-13208 menu-item-46161"><a href="https://newmatilda.com/category/the-insider/">The Insider</a></li>
 <li id="menu-item-36924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36924"><a>More</a>
 <ul class="sub-menu">
-	<li id="menu-item-38260" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12790 menu-item-38260"><a href="https://newmatilda.com/category/advertorial/">Advertorial</a></li>
 	<li id="menu-item-36913" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12587 menu-item-36913"><a href="https://newmatilda.com/category/asylum-seekers/">Asylum Seekers</a></li>
 	<li id="menu-item-36915" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12589 menu-item-36915"><a href="https://newmatilda.com/category/business-consumerism/">Business &amp; Consumerism</a></li>
 	<li id="menu-item-38088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12759 menu-item-38088"><a href="https://newmatilda.com/category/cartoons/">Cartoons</a></li>
 	<li id="menu-item-36916" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12590 menu-item-36916"><a href="https://newmatilda.com/category/civil-society/">Civil Society</a></li>
-	<li id="menu-item-36917" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12591 menu-item-36917"><a href="https://newmatilda.com/category/editorial/">Editorial</a></li>
 	<li id="menu-item-36918" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12592 menu-item-36918"><a href="https://newmatilda.com/category/education/">Education</a></li>
+	<li id="menu-item-36919" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12593 menu-item-36919"><a href="https://newmatilda.com/category/environment/">Environment</a></li>
 	<li id="menu-item-36920" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12594 menu-item-36920"><a href="https://newmatilda.com/category/international-affairs/">International Affairs</a></li>
 	<li id="menu-item-36921" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12595 menu-item-36921"><a href="https://newmatilda.com/category/media-culture/">Media &amp; Culture</a></li>
-	<li id="menu-item-36922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12596 menu-item-36922"><a href="https://newmatilda.com/category/satire/">Satire</a></li>
 	<li id="menu-item-36923" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-cat-12597 menu-item-36923"><a href="https://newmatilda.com/category/workers-rights/">Workers’ Rights</a></li>
 </ul>
 </li>
@@ -393,50 +465,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 		<aside class="col-4 sidebar">
 			<ul>
 			
-			<li id="categories-3" class="widget widget_categories"><h5 class="widget-title section-head cf main-color"><span class="title">Quick Navigation</span></h5><label class="screen-reader-text" for="cat">Quick Navigation</label><select name="cat" id="cat" class="postform">
-	<option value="-1">Select Category</option>
-	<option class="level-0" value="12586">Aboriginal Affairs&nbsp;&nbsp;(251)</option>
-	<option class="level-0" value="12790">Advertorial&nbsp;&nbsp;(12)</option>
-	<option class="level-0" value="12587">Asylum Seekers&nbsp;&nbsp;(461)</option>
-	<option class="level-0" value="12588">Australian Politics&nbsp;&nbsp;(4,306)</option>
-	<option class="level-0" value="12589">Business &amp; Consumerism&nbsp;&nbsp;(406)</option>
-	<option class="level-0" value="12759">Cartoons&nbsp;&nbsp;(153)</option>
-	<option class="level-0" value="12590">Civil Society&nbsp;&nbsp;(1,345)</option>
-	<option class="level-0" value="12591">Editorial&nbsp;&nbsp;(153)</option>
-	<option class="level-0" value="12592">Education&nbsp;&nbsp;(155)</option>
-	<option class="level-0" value="12593">Environment&nbsp;&nbsp;(795)</option>
-	<option class="level-0" value="12594">International Affairs&nbsp;&nbsp;(1,507)</option>
-	<option class="level-0" value="12595">Media &amp; Culture&nbsp;&nbsp;(856)</option>
-	<option class="level-0" value="12596">Satire&nbsp;&nbsp;(305)</option>
-	<option class="level-0" value="13576">Special Investigations&nbsp;&nbsp;(14)</option>
-	<option class="level-0" value="13208">The Insider&nbsp;&nbsp;(201)</option>
-	<option class="level-0" value="12597">Workers’ Rights&nbsp;&nbsp;(76)</option>
-</select>
-
-<script type="text/javascript">
-/* <![CDATA[ */
-(function() {
-	var dropdown = document.getElementById( "cat" );
-	function onCatChange() {
-		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
-			location.href = "https://newmatilda.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
-		}
-	}
-	dropdown.onchange = onCatChange;
-})();
-/* ]]> */
-</script>
-
-</li>
-<li id="search-2" class="widget widget_search">	<form role="search" method="get" class="search-form" action="//newmatilda.com/">
-		<label>
-			<span class="screen-reader-text">Search for:</span>
-			<input type="search" class="search-field" placeholder="To search, type and press enter." value="" name="s" title="Search for:">
-		</label>
-		<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
-	</form></li>
-<li id="woocommerce_widget_cart-2" class="widget woocommerce widget_shopping_cart"><h5 class="widget-title section-head cf main-color"><span class="title">Your Shopping Basket</span></h5><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></li>
-<li id="newsletterwidget-2" class="widget widget_newsletterwidget"><h5 class="widget-title section-head cf main-color"><span class="title">Free Tri-Weekly Digest</span></h5>Get the best of New Matilda delivered straight to your inbox for FREE three days every week.
+			<li id="newsletterwidget-2" class="widget widget_newsletterwidget"><h5 class="widget-title section-head cf main-color"><span class="title">Free Tri-Weekly Digest</span></h5>Get the best of New Matilda delivered straight to your inbox for FREE three days every week.
 
 <script type="text/javascript">
 //<![CDATA[
@@ -490,80 +519,59 @@ window.newsletter_check = function (f) {
 //]]>
 </script>
 
-<form action="//newmatilda.com/?na=s" onsubmit="return newsletter_check(this)" method="post"><input type="hidden" name="nr" value="widget"><p><input class="newsletter-email" type="email" required="" name="ne" value="Email" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"></p><p><input class="newsletter-submit" type="submit" value="Subscribe"></p></form></div></li>
-<li id="text-4" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Support New Matilda</span></h5>			<div class="textwidget"><a href="https://newmatilda.com/shop/" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2015/10/make-a-difference.jpg" alt=""></a></div>
+<form action="https://newmatilda.com/?na=s" onsubmit="return newsletter_check(this)" method="post"><input type="hidden" name="nr" value="widget"><p><input class="newsletter-email" type="email" required="" name="ne" value="Email" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"></p><p><input class="newsletter-submit" type="submit" value="Subscribe"></p></form></div></li>
+<li id="search-2" class="widget widget_search">	<form role="search" method="get" class="search-form" action="https://newmatilda.com/">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input type="search" class="search-field" placeholder="To search, type and press enter." value="" name="s" title="Search for:">
+		</label>
+		<button type="submit" class="search-submit"><i class="fa fa-search"></i></button>
+	</form></li>
+<li id="woocommerce_widget_cart-2" class="widget woocommerce widget_shopping_cart"><h5 class="widget-title section-head cf main-color"><span class="title">Your Shopping Basket</span></h5><div class="hide_cart_widget_if_empty"><div class="widget_shopping_cart_content"></div></div></li>
+<li id="text-4" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Support New Matilda</span></h5>			<div class="textwidget"><a href="https://newmatilda.com/shop/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/make-a-difference.jpg" alt=""></a></div>
+		</li>
+		<li id="recent-posts-2" class="widget widget_recent_entries">		<h5 class="widget-title section-head cf main-color"><span class="title">Recent Posts</span></h5>		<ul>
+					<li>
+				<a href="https://newmatilda.com/2018/01/30/native-title-colonialism-racism-adani-and-the-manufacture-of-consent-for-mining/">Killing Country (Part 5): Native Title Colonialism, Racism And Mining For Manufactured Consent</a>
+						</li>
+					<li>
+				<a href="https://newmatilda.com/2018/01/29/one-rule-for-big-business-another-for-small-workers/">One Rule For Big Business, Another For Small Workers: Ged Kearney</a>
+						</li>
+					<li>
+				<a href="https://newmatilda.com/2018/01/26/redate-australia-day/">Redating Australia Day</a>
+						</li>
+					<li>
+				<a href="https://newmatilda.com/2018/01/26/invasion-day-is-more-than-just-a-day-on-the-calendar/">Invasion Day Is More Than Just A Day On The Calendar</a>
+						</li>
+					<li>
+				<a href="https://newmatilda.com/2018/01/23/vile-brit-racist-sells-house-to-fund-legal-loss-guess-whose-trying-to-buy-it/">Media-Boosted Racist Sells House To Fund Legal Loss. Guess Who’s Trying To Buy It</a>
+						</li>
+				</ul>
 		</li>
 <li id="top-posts-2" class="widget widget_top-posts"><h5 class="widget-title section-head cf main-color"><span class="title">Most Popular Reads</span></h5><ul class="widgets-list-layout no-grav">
 					<li>
-												<a href="https://newmatilda.com/" title="Homepage" class="bump-view" data-bump-view="tp">
-														<img width="40" height="40" src="//i2.wp.com/newmatilda.com/wp-content/uploads/2015/09/Life-drawing-Stable-on-Hubert-ad-300.jpg?resize=40%2C40&amp;ssl=1" class="widgets-list-layout-blavatar" alt="Homepage" data-pin-nopin="true">
+												<a href="https://newmatilda.com/2018/01/30/native-title-colonialism-racism-adani-and-the-manufacture-of-consent-for-mining/" title="Killing Country (Part 5): Native Title Colonialism, Racism And Mining For Manufactured Consent" class="bump-view" data-bump-view="tp">
+														<img width="40" height="40" src="https://i2.wp.com/newmatilda.com/wp-content/uploads/2017/11/Killing-country-5.jpg?resize=40%2C40&amp;ssl=1" class="widgets-list-layout-blavatar" alt="Killing Country (Part 5): Native Title Colonialism, Racism And Mining For Manufactured Consent" data-pin-nopin="true">
 						</a>
 						<div class="widgets-list-layout-links">
-							<a href="https://newmatilda.com/" class="bump-view" data-bump-view="tp">
-								Homepage							</a>
-						</div>
-											</li>
-									<li>
-												<a href="https://newmatilda.com/2017/06/28/the-poisoned-chalice-breakthrough-wa-study-shines-a-light-on-global-water-contamination/" title="THE POISONED CHALICE: Breakthrough WA Study Shines A Light On Global Water Contamination" class="bump-view" data-bump-view="tp">
-														<img width="40" height="40" src="//i0.wp.com/newmatilda.com/wp-content/uploads/2017/06/Poisoned-doctors.jpg?resize=40%2C40&amp;ssl=1" class="widgets-list-layout-blavatar" alt="THE POISONED CHALICE: Breakthrough WA Study Shines A Light On Global Water Contamination" data-pin-nopin="true">
-						</a>
-						<div class="widgets-list-layout-links">
-							<a href="https://newmatilda.com/2017/06/28/the-poisoned-chalice-breakthrough-wa-study-shines-a-light-on-global-water-contamination/" class="bump-view" data-bump-view="tp">
-								THE POISONED CHALICE: Breakthrough WA Study Shines A Light On Global Water Contamination							</a>
-						</div>
-											</li>
-									<li>
-												<a href="https://newmatilda.com/2017/06/28/a-decade-on-the-fraud-of-the-nt-intervention-is-exposed/" title="A Decade On, The Fraud Of The NT Intervention Is Exposed" class="bump-view" data-bump-view="tp">
-														<img width="40" height="40" src="//i0.wp.com/newmatilda.com/wp-content/uploads/2015/06/Brough-Howard-intervention.jpg?resize=40%2C40&amp;ssl=1" class="widgets-list-layout-blavatar" alt="A Decade On, The Fraud Of The NT Intervention Is Exposed" data-pin-nopin="true">
-						</a>
-						<div class="widgets-list-layout-links">
-							<a href="https://newmatilda.com/2017/06/28/a-decade-on-the-fraud-of-the-nt-intervention-is-exposed/" class="bump-view" data-bump-view="tp">
-								A Decade On, The Fraud Of The NT Intervention Is Exposed							</a>
-						</div>
-											</li>
-									<li>
-												<a href="https://newmatilda.com/2015/06/17/inquiry-targeting-green-groups-accidentally-exposes-145-million-mining-tax-dodge/" title="Inquiry Targeting Green Groups Accidentally Exposes $145 Million Mining Tax Dodge" class="bump-view" data-bump-view="tp">
-														<img width="40" height="40" src="/wp-content/uploads/legacy/Greg-Hunt-L_1_0.jpg" class="widgets-list-layout-blavatar" alt="Inquiry Targeting Green Groups Accidentally Exposes $145 Million Mining Tax Dodge" data-pin-nopin="true">
-						</a>
-						<div class="widgets-list-layout-links">
-							<a href="https://newmatilda.com/2015/06/17/inquiry-targeting-green-groups-accidentally-exposes-145-million-mining-tax-dodge/" class="bump-view" data-bump-view="tp">
-								Inquiry Targeting Green Groups Accidentally Exposes $145 Million Mining Tax Dodge							</a>
-						</div>
-											</li>
-									<li>
-												<a href="https://newmatilda.com/2017/07/01/gonski-2-0-has-exposed-deep-divisions-in-the-libs-and-greens/" title="‘Gonski 2.0’ Has Exposed Deep Divisions On The Left And Right" class="bump-view" data-bump-view="tp">
-														<img width="40" height="40" src="//i1.wp.com/newmatilda.com/wp-content/uploads/2017/06/Malcolm-Turnbull-2017.jpg?resize=40%2C40&amp;ssl=1" class="widgets-list-layout-blavatar" alt="‘Gonski 2.0’ Has Exposed Deep Divisions On The Left And Right" data-pin-nopin="true">
-						</a>
-						<div class="widgets-list-layout-links">
-							<a href="https://newmatilda.com/2017/07/01/gonski-2-0-has-exposed-deep-divisions-in-the-libs-and-greens/" class="bump-view" data-bump-view="tp">
-								‘Gonski 2.0’ Has Exposed Deep Divisions On The Left And Right							</a>
-						</div>
-											</li>
-									<li>
-												<a href="https://newmatilda.com/2017/06/28/taika-waititis-simple-punters-guide-to-being-just-a-little-bit-racist/" title="Taika Waititi’s Simple Punter’s Guide To Being ‘Just A Little Bit Racist’" class="bump-view" data-bump-view="tp">
-														<img width="40" height="40" src="//i2.wp.com/newmatilda.com/wp-content/uploads/2017/06/Taika-Waititit-racist.jpg?resize=40%2C40&amp;ssl=1" class="widgets-list-layout-blavatar" alt="Taika Waititi’s Simple Punter’s Guide To Being ‘Just A Little Bit Racist’" data-pin-nopin="true">
-						</a>
-						<div class="widgets-list-layout-links">
-							<a href="https://newmatilda.com/2017/06/28/taika-waititis-simple-punters-guide-to-being-just-a-little-bit-racist/" class="bump-view" data-bump-view="tp">
-								Taika Waititi’s Simple Punter’s Guide To Being ‘Just A Little Bit Racist’							</a>
+							<a href="https://newmatilda.com/2018/01/30/native-title-colonialism-racism-adani-and-the-manufacture-of-consent-for-mining/" class="bump-view" data-bump-view="tp">
+								Killing Country (Part 5): Native Title Colonialism, Racism And Mining For Manufactured Consent							</a>
 						</div>
 											</li>
 				</ul>
 </li>
-<li id="text-12" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ad</span></h5>			<div class="textwidget"><a href="http://news.nirs.org.au/" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2016/10/ADV-NIRS-ad.jpg" alt=""></a></div>
+<li id="text-12" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ad</span></h5>			<div class="textwidget"><a href="http://news.nirs.org.au/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2016/10/ADV-NIRS-ad.jpg" alt=""></a></div>
 		</li>
-<li id="text-14" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.ginninderrapress.com.au/rapidcartpro/index.php?product/page/693/%2A+John+Passant+%2F+Songs+for+the+Band+Unformed" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2016/10/John-Passant-MREC-DOUBLE.jpg" alt=""></a></div>
+<li id="text-14" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.ginninderrapress.com.au/rapidcartpro/index.php?product/page/693/%2A+John+Passant+%2F+Songs+for+the+Band+Unformed" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2016/10/John-Passant-MREC-DOUBLE.jpg" alt=""></a></div>
 		</li>
-<li id="text-5" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ads</span></h5>			<div class="textwidget"><a href="http://www.seashepherd.org.au" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2015/10/Sea-Shepherd-Small-Final.gif" alt=""></a></div>
+<li id="text-5" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ads</span></h5>			<div class="textwidget"><a href="http://www.seashepherd.org.au" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/Sea-Shepherd-Small-Final.gif" alt=""></a></div>
 		</li>
 <li id="twitter_timeline-2" class="widget widget_twitter_timeline"><h5 class="widget-title section-head cf main-color"><span class="title">New Matilda on Twitter</span></h5><a class="twitter-timeline" data-widget-id="652670223296802817" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="2" height="400" lang="EN">My Tweets</a></li>
-<li id="text-7" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ad</span></h5>			<div class="textwidget"><a href="https://www.justgiving.com/amsredfern/" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2015/10/AMS-mrec-donated.jpg" alt=""></a></div>
+<li id="text-7" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">NM Subscriber Sponsored Ad</span></h5>			<div class="textwidget"><a href="https://www.justgiving.com/amsredfern/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/AMS-mrec-donated.jpg" alt=""></a></div>
 		</li>
-<li id="text-6" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Support New Matilda</span></h5>			<div class="textwidget"><a href="https://newmatilda.com/shop/" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2015/10/So-many-enemies.jpg" alt=""></a></div>
+<li id="text-6" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Support New Matilda</span></h5>			<div class="textwidget"><a href="https://newmatilda.com/shop/" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2015/10/So-many-enemies.jpg" alt=""></a></div>
 		</li>
-<li id="text-13" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.asrc.org.au/winterappeal/?utm_source=newmatildawebsite&amp;utm_medium=MREC&amp;utm_campaign=winterappeal16" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2016/05/ASRC-MREC.gif" alt=""></a></div>
-		</li>
-<li id="text-2" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.csu.edu.au/courses/fees-and-costs/help-with-costs/scholarships/foundation/accom/jimmy-little-foundation-scholarship" target="_blank"><img class="aligncenter" src="//newmatilda.com/wp-content/uploads/2016/07/ADV-JLF.jpg" alt=""></a></div>
+<li id="text-2" class="widget widget_text"><h5 class="widget-title section-head cf main-color"><span class="title">Advertisement</span></h5>			<div class="textwidget"><a href="http://www.csu.edu.au/courses/fees-and-costs/help-with-costs/scholarships/foundation/accom/jimmy-little-foundation-scholarship" target="_blank"><img class="aligncenter" src="https://newmatilda.com/wp-content/uploads/2016/07/ADV-JLF.jpg" alt=""></a></div>
 		</li>
 	
 			</ul>
@@ -635,14 +643,14 @@ window.newsletter_check = function (f) {
 </div>
 
 </div>
-      <script type="text/javascript" src="//newmatilda.com/wp-includes/js/comment-reply.min.js?ver=4.3.11"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+      <script type="text/javascript" src="https://newmatilda.com/wp-includes/js/comment-reply.min.js?ver=4.3.15"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"https:\/\/newmatilda.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy\/?wc-ajax=%%endpoint%%"};
@@ -654,24 +662,90 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 var pollsL10n = {"ajax_url":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73"></script>
-<script type="text/javascript" src="//s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201726"></script>
-<script type="text/javascript" src="//secure.gravatar.com/js/gprofiles.js?ver=2017Julaa"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201805"></script>
+<script type="text/javascript" src="https://secure.gravatar.com/js/gprofiles.js?ver=2018Janaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.11"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.3.15"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var Bunyad = {"ajaxurl":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/themes/motive/js/bunyad-theme.js?ver=4.3.11"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/themes/motive/js/lightbox.js?ver=4.3.11"></script>
-<script type="text/javascript" src="//newmatilda.com/wp-content/themes/motive/js/owl.carousel.min.js?ver=4.3.11"></script>
-<!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
+<script type="text/javascript" src="https://newmatilda.com/wp-content/themes/motive/js/bunyad-theme.js?ver=4.3.15"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/themes/motive/js/lightbox.js?ver=4.3.15"></script>
+<script type="text/javascript" src="https://newmatilda.com/wp-content/themes/motive/js/owl.carousel.min.js?ver=4.3.15"></script>
+        <div id="newsletter-popup-overlay"></div>
+        <div id="newsletter-popup-container">
+            <div id="newsletter-popup"><img id="newsletter-close" src="https://newmatilda.com/wp-content/plugins/newsletter-popup/images/close.png">
+                <iframe id="newsletter-iframe" data-src="https://newmatilda.com/wp-content/plugins/newsletter-popup/iframe.php"></iframe></div>
+        </div>
+        <script>
+            function newsletter_set_cookie(name, value, time) {
+                var e = new Date();
+                e.setTime(e.getTime() + time * 24 * 60 * 60 * 1000);
+                document.cookie = name + "=" + value + "; expires=" + e.toGMTString() + "; path=/";
+            }
+            function newsletter_get_cookie(name, def) {
+                var cs = document.cookie.toString().split('; ');
+                var c, n, v;
+                for (var i = 0; i < cs.length; i++) {
+                    c = cs[i].split("=");
+                    n = c[0];
+                    v = c[1];
+                    if (n == name)
+                        return v;
+                }
+                return def;
+            }
+            jQuery(document).ready(function () {
+
+                jQuery("#newsletter-close").click(
+                        function () {
+                            jQuery('#newsletter-popup-overlay').fadeOut('fast');
+                            jQuery('#newsletter-popup-container').hide();
+                        });
+
+                jQuery("#newsletter-popup-overlay").click(
+                        function () {
+                            jQuery(this).fadeOut('fast');
+                            jQuery('#newsletter-popup-container').hide();
+                        });
+
+                            if (newsletter_get_cookie("newsletter", null) == null) {
+                        var newsletter_popup = parseInt(newsletter_get_cookie("newsletter_popup", 0));
+                        newsletter_set_cookie("newsletter_popup", newsletter_popup + 1, 7);
+                        if (newsletter_popup == 0) {
+                            jQuery('#newsletter-iframe').attr("src", jQuery('#newsletter-iframe').attr("data-src"));
+                            setTimeout(newsletter_popup_open,
+            30000);
+                        }
+                    }
+                    });
+
+            function newsletter_popup_open() {
+                jQuery('#newsletter-iframe').attr("src", jQuery('#newsletter-iframe').attr("data-src"));
+                //jQuery('#overlay').css('height', $(document).height());
+                jQuery('#newsletter-popup-overlay').fadeIn('fast');
+                var windowW = jQuery(window).width();
+                var windowH = jQuery(window).height();
+                //var modalW = jQuery('#box').width();
+                //var modalH = jQuery('#box').height();
+                /*
+                 jQuery('#box').css({
+                 "top": ((windowH - modalH) / 2 + $(document).scrollTop()) + "px",
+                 "left": ((windowW - modalW) / 2) + "px"
+                 });
+                 */
+                jQuery('#newsletter-popup-container').fadeIn('slow');
+                return false;
+            }
+        </script>
+        <!-- Facebook Comments Plugin for WordPress: http://peadig.com/wordpress-plugins/facebook-comments/ -->
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -680,7 +754,7 @@ var Bunyad = {"ajaxurl":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php"};
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=920883917947593&version=v2.3";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<script type="text/javascript" src="//stats.wp.com/e-201726.js" async="" defer=""></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201805.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:3.9.4',blog:'100132084',post:'4162',tz:'10',srv:'newmatilda.com'} ]);
@@ -688,6 +762,4 @@ var Bunyad = {"ajaxurl":"https:\/\/newmatilda.com\/wp-admin\/admin-ajax.php"};
 </script>
 
 
-
-<!--Cached using Nginx-Helper on 2017-07-02 08:51:25. It took 104 queries executed in 0.157 seconds.-->
-<!--Visit http://wordpress.org/extend/plugins/nginx-helper/faq/ for more details--></body></html>
+</body></html>
