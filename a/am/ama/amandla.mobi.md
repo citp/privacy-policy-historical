@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amandla.mobi privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130225418id_/http%3A//amandla.mobi/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amandla.mobi privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131080709id_/http%3A//amandla.mobi/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amandla.mobi
 
