@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119095846id_/http%3A//www.tutor2u.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor2u.net privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131195955id_/https%3A//www.tutor2u.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Your privacy | tutor2u
 
