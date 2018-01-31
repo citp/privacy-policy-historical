@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmobomb.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908145600id_/https%3A//www.mmobomb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmobomb.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131070932id_/https%3A//www.mmobomb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMO Bomb
 
