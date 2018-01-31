@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tofler.in privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707061124id_/https%3A//www.tofler.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tofler.in privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131130144id_/https%3A//www.tofler.in/privacy) for the most accurate reproduction.*
 
 # Tofler - Privacy Policy
 
