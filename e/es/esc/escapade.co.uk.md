@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201135905id_/http%3A//www.escapade.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131101707id_/https%3A//www.escapade.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Escapade | Escapade® UK
 
