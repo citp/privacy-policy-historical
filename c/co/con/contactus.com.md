@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629133656id_/https%3A//www.workwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactus.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131040435id_/https%3A//www.workwave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WorkWave
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=8c98ce2d-da81-4d38-9591-f1ecfae72b7b "TRUSTe Privacy Certification")
 
-**Effective Date: June 13, 2017**
+**Effective Date: November 1, 2017**
 
 At WorkWave LLC ("WorkWave"), we value our relationship with you and place the highest importance on respecting and protecting the privacy of our customers. This Privacy Statement applies to all WorkWave sites, products and services that display or link to this Privacy Statement owned and operated by WorkWave, and describes how WorkWave collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. The use of information collected through our services shall be limited to the purpose of providing the service for which the Customer has engaged WorkWave.
 
@@ -46,9 +46,9 @@ If you sign up for a third-party application or service, we may share informatio
 
 WorkWave collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our Customers and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Customers.
 
-An individual or entity seeking access, or who or which seeks to correct, amend, or delete inaccurate data may do so by making any required changes directly through use of WorkWave's products and services or direct his query to the applicable WorkWave Customer (the data controller). In the event of any difficulties doing so, please contact the customer support address applicable to the product or service (or if that does not adequately address the matter, please contact [generalcounsel@workwave.com](mailto:generalcounsel@workwave.com)). If a Customer requests the removal of data we will respond within a reasonable timeframe.
+An individual or entity seeking access, or who or which seeks to correct, amend, or delete inaccurate data may do so by making any required changes directly through use of WorkWave's products and services or direct his query to the applicable WorkWave Customer (the data controller). In the event of any difficulties doing so, please contact the customer support address applicable to the product or service (or if that does not adequately address the matter, please contact generalcounsel@workwave.com). If a Customer requests the removal of data we will respond within a reasonable timeframe.
 
-We will retain personal data we process on behalf of our Customers for as long as needed to provide services to our Customer. WorkWave will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain personal data we process on behalf of our Customers for as long as needed to provide services to our Customer and thereafter for so long as we have a reasonable business purpose to retain such data, in any case not to exceed applicable statutes of limitation for contractual claims. WorkWave will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## How We Use Information
 
@@ -78,7 +78,7 @@ We train and require our employees to safeguard your information. We also use ph
 
 We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
 
-At WorkWave, safeguarding your personal information is a top priority. WorkWave does not solicit sensitive customer information via e-mail. If you receive an e-mail message that appears to come from us that requests such information, please forward it immediately to: [generalcounsel@workwave.com](mailto:generalcounsel@workwave.com)
+At WorkWave, safeguarding your personal information is a top priority. WorkWave does not solicit sensitive customer information via e-mail. If you receive an e-mail message that appears to come from us that requests such information, please forward it immediately to: generalcounsel@workwave.com
 
 ## Information Sharing
 
@@ -92,11 +92,13 @@ We work with other companies or developers to provide you with products and serv
 
 We also may share information about our users with third parties, such as advertisers or partners, for marketing and promotional purposes. Our Web sites may provide links to third-party sites, such as those of our business partners and online advertisers. These could include other services, promotions or sweepstakes offered by business partners. Because WorkWave does not control the information policies or practices of these third parties, you should review their privacy policies to learn more about how they collect and use personal information.
 
+With respect to residents of the European Union, due to the multinational character of WorkWave, some of the affiliated companies and other recipients listed above may be located in countries (including the United States) that do not provide a level of data protection equivalent to that set forth by the European Union. WorkWave will take appropriate steps to make sure that such recipients act in accordance with applicable law. To the extent that WorkWave transfers user information to recipients which are located outside the European Union, WorkWave will implement appropriate contractual measures to secure such transfer, in compliance with applicable law.
+
 ## Your Choices
 
-Upon request WorkWave will provide you with information about whether we hold or process on behalf of a third party, any of your personal information. To request this information please contact us by emailing [generalcounsel@workwave.com](mailto:generalcounsel@workwave.com)
+Upon request WorkWave will provide you with information about whether we hold or process on behalf of a third party, any of your personal information. To request this information please contact us by emailing generalcounsel@workwave.com
 
-You may change your account and contact information for WorkWave any time by logging into your account or by emailing [generalcounsel@workwave.com](mailto:generalcounsel@workwave.com). We will respond to your request within a reasonable timeframe.
+You may change your account and contact information for WorkWave any time by logging into your account or by emailing generalcounsel@workwave.com. We will respond to your request within a reasonable timeframe.
 
 To change your mobile contact preferences, follow the instructions in your SMS or other mobile message.
 
@@ -108,7 +110,7 @@ We may update this Privacy Statement to reflect changes to our information pract
 
 ## How to Contact Us
 
-If you have questions or concerns about WorkWave's collection, use, or disclosure of your personal information, please email us at [generalcounsel@workwave.com](mailto:generalcounsel@workwave.com) or write to us at:
+If you have questions or concerns about WorkWave's collection, use, or disclosure of your personal information, please email us at generalcounsel@workwave.com or write to us at:
 
 WorkWave LLC  
 101 Crawfords Corner Road  
@@ -116,4 +118,4 @@ Holmdel, New Jersey 07733
 Attention: General Counsel  
 
 
-We will endeavor to respond to any questions or concerns within 10 days of receipt.
+We will endeavor to respond to any questions or concerns within 10 days of receipt. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.- based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
