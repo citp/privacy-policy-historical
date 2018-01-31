@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sysoon.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710211541id_/https%3A//www.sysoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sysoon.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131170630id_/https%3A//www.sysoon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Center | Sysoon [en]
 
