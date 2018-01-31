@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalbank.co.nz privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616061755id_/http%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalbank.co.nz privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131053925id_/https%3A//www.anz.co.nz/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # Website security and privacy statement | ANZ
 
@@ -20,7 +20,7 @@
 
 This ANZ Website Security and Privacy Statement applies to this website ("ANZ website") but does not include ANZ Internet Banking or ANZ goMoney. This website is operated by ANZ Bank New Zealand Limited ("ANZ", “we” and, together with Australia and New Zealand Banking Group Limited and any companies owned by, or related to those companies whether located in New Zealand or elsewhere the “ANZ Group").
 
-For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 152kB)](https://web.archive.org/resources/6/7/67cd07804ee131e5bc44fe146f64e4a5/ANZ+Electronic-COU.pdf?MOD=AJPERES "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
+For information about ANZ Internet Banking or goMoney, please see the [ANZ Electronic Banking Conditions of Use (PDF 152kB)](https://web.archive.org/resources/6/7/67cd07804ee131e5bc44fe146f64e4a5/ANZ-Electronic-COU.pdf?MOD=AJPERES "ANZ Electronic Banking Conditions of Use \(PDF 152kB\)")
 
 ANZ understands and appreciates that you, as an ANZ website visitor, are concerned about your privacy and about the confidentiality and security of information we may gain about you online. We are committed to protecting your privacy. This ANZ Website Security and Privacy Statement explains how your information will be treated as you access and interact with ANZ online, including on the ANZ website.
 
