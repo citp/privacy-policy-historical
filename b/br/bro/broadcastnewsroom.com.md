@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastnewsroom.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224211224id_/http%3A//www.broadcastnewsroom.com/articles/viewarticle.jsp%3Fid%3D4034023) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastnewsroom.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131204036id_/http%3A//broadcastnewsroom.com/articles/viewarticle.jsp%3Fid%3D4034023) for the most accurate reproduction.*
 
 # Privacy Policy - BroadcastNewsroom
 
