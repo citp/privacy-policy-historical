@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uopeople.edu privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313192901id_/http%3A//www.uopeople.edu/wp-content/uploads/2016/03/Website-Privacy-Policy-02-2016.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uopeople.edu privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131053556id_/http%3A//3w1fdw3g237j15p5421zov1f-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/Website-Privacy-Policy-02-2016.pdf) for the most accurate reproduction.*
 
 # Policy Statement
 
