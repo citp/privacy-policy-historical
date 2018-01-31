@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119213352id_/https%3A//www.siriusdecisions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131062411id_/https%3A//www.siriusdecisions.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy | SiriusDecisions
 
@@ -53,6 +53,40 @@ We monitor how you use our Web sites through pages visited and documents viewed.
 This data may also be used by SiriusDecisions, in the aggregate, to identify appropriate product offerings and subscription plans. 
 
 This same data is also used by SiriusDecisions clients to help them understand how their subscriptions are being used by their employees and in this case, is personally identifiable to the specific client. 
+
+### What data we collect and how we use it
+
+We may collect the following categories of information for the purposes explained below.
+
+  * Advertiser website activity: This is data about your browsing activity on the SiriusDecisions website. For example, which pages you visited and when.
+  * Device and browser information: This is technical information about the device or browser you use to access the Advertiser's website. For example, your device's IP address, cookie string data and (in the case of mobile devices) your device type and mobile device's unique identifier such as the Apple IDFA or Android Advertising ID.
+  * Ad data: This is data about the online ads we have served (or attempted to serve) to you. It includes things like how many times an ad has been served to you, what page the ad appeared on, and whether you clicked on or otherwise interacted with the ad.
+  * We use this data to help identify and serve ads to you that are more relevant. We also use this data to operate, improve and enhance our services including enhancing the data points we have about a particular user, browser, or device, or to target, optimize, cap, or synchronize advertising.
+
+
+
+Specifically, the AdRoll cookie we serve through the AdRoll platform for this purpose is named “__adroll”. We may also drop an additional AdRoll opt-out cookie if you opt-out as described below.
+
+### Your choices and opting-out
+
+We recognize how important your online privacy is to you, so we offer the following options for controlling the targeted ads you receive and how we use your data:
+
+  * You can opt out of receiving targeted ads served by us or on our behalf by clicking on the blue icon that typically appears in the corner of the ads we serve or by clicking here. Please note that, if you delete your cookies or upgrade your browser after having opted out, you will need to opt out again. Further, if you use multiple browsers or devices you will need to execute this opt out on each browser or device. If you opt-out we may collect some data about your online activity for operational purposes (such as fraud prevention) but it won't be used by us for the purpose of targeting ads to you.
+  * We adhere to the Network Advertising Initiative (NAI) Codes of Conduct. You may use the NAI opt out tool here, which will allow you to opt out of seeing targeted ads from us and from other NAI approved member companies.
+  * We also comply with the Self-Regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance (DAA). You may opt out of receiving targeted ads via the DAA website here.
+  * We also comply with the Canadian Self-regulatory Principles for Online Behavioral Advertising as managed by the Digital Advertising Alliance of Canada (DAAC). You may opt out of receiving targeted ads via the DAAC website here.
+  * We also adhere to the European Interactive Advertising Digital Alliance (EDAA) guidelines for online advertising and you may opt out via their Your Online Choices website.
+  * To opt out of receiving targeted ads that are based on your behavior across different mobile applications follow the below instructions, for iOS and Android devices: 
+    * iOS 7 or Higher: Go to your Settings > Select Privacy > Select Advertising > Enable the “Limit Ad Tracking” setting
+    * For Android devices with OS 2.2 or higher and Google Play Services version 4.0 or higher: Open your Google Settings app > Ads > Enable “Opt out of interest-based advertising”
+
+
+
+Opting out will not prevent you from seeing ads, but those ads will likely be less relevant because they won’t be tailored to your interests. The ads might, for instance, be randomly generated or based on the web page you are visiting.
+
+Some internet browsers allow users to send a "Do Not Track" signal to websites they visit. We do not respond to this signal.
+
+In addition, if you are located in the European Economic Area you may also have the right to access, correct or update some of the information we hold about you. You can also request that we delete your information. If you wish to exercise any of these rights, please contact us at [research5@siriusdecisions.com](mailto:research5@siriusdecisions.com).
 
 ### Links to Other Sites
 
