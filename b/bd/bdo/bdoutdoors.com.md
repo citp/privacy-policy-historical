@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdoutdoors.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420213508id_/https%3A//www.bdoutdoors.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdoutdoors.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131160626id_/https%3A//www.bdoutdoors.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BD Outdoors
 
