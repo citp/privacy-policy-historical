@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201134949id_/http%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowyourmoney.co.uk privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131093023id_/https%3A//www.knowyourmoney.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Know Your Money
 
@@ -24,7 +24,7 @@ In addition, we will also hold anonymised information about your computer and ab
 
 ## How to view, change or remove the data we hold about you:
 
-Under the Data Protection Act you have the right to access information we hold about you. If you would like to request the information we hold about you, delete or change it, or opt-out of emails, product contact request forms, email us on **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)** or write to us at:
+Under the Data Protection Act you have the right to access information we hold about you. If you would like to request the information we hold about you, delete or change it, or opt-out of emails, product contact request forms, email us on **advertising@noticemedia.co.uk** or write to us at:
 
 **Notice Media Ltd  
 Floor 3 Haldin House  
