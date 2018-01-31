@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606234908id_/https%3A//www.manta.com/resources/manta-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manta.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131121054id_/https%3A//www.manta.com/resources/manta-privacy-policy) for the most accurate reproduction.*
 
 # Manta Privacy Policy - Manta
 
