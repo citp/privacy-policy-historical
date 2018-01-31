@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elkharttruth.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606124743id_/http%3A//www.elkharttruth.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elkharttruth.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131213029id_/http%3A//www.elkharttruth.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | elkharttruth.com
 
