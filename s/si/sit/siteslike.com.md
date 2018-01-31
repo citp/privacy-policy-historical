@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteslike.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222844id_/https%3A//siteslike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteslike.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131014758id_/https%3A//siteslike.com/privacy) for the most accurate reproduction.*
 
 # Sites Like - Privacy Policy
 
