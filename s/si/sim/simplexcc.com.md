@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the simplexcc.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924135244id_/https%3A//www.simplexcc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplexcc.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131070507id_/https%3A//www.simplex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PrivacyPolicy | Simplex - Enabling Payments, Defeating Fraud
 
-Last Revised: June 7th, 2014
+Last Revised: January 16th, 2018
 
-SimplexCC Ltd. (“ **SimplexCC** ”, “ **Company** ” “ **we** ” or “ **us** ”) respect the privacy of the users of our platform (the “ **Platform** ”) and/or our website at: [simplex.cc](https://www.simplexcc.com/) or [simplexcc.com](https://www.simplexcc.com/) (the “ **Site** ”), and are committed to protect the personal information that users share with us in connection with the use of our Platform and/or Site (collectively – the “ **Service** ”).
+SimplexCC Ltd. (“ **SimplexCC** ”, “ **Company** ” “ **we** ” or “ **us** ”) respect the privacy of the users of our platform (the “ **Platform** ”) and/or our website at:[simplex.cc](https://www.simplex.com/) or [simplex.com](https://www.simplex.com/) (the “ **Site** ”), and are committed to protect the personal information that users share with us in connection with the use of our Platform and/or Site (collectively – the “ **Service** ”).
 
 This Privacy Policy (the “ **Privacy Policy** ”) is intended to describe our practices regarding the information we may collect from you (the “ **User** ” or “ **you** ”) when you use the Service (or any part thereof), the manners in which we may use such information, and the options and rights available to you.
 
-Capitalised terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use available at www.simplexcc.com/terms (the “ **TOU** ”), which this Privacy Policy is incorporated thereto by reference.
+Capitalised terms which are not defined herein, shall have the meaning ascribed to them in our Terms of Use available at www.simplex.com/terms-of-use (the “ **TOU** ”), which this Privacy Policy is incorporated thereto by reference.
 
 ### **1.  ** **Your Consent (PLEASE READ CAREFULLY!)**
 
@@ -71,7 +71,7 @@ For avoidance of doubt, SimplexCC may transfer and disclose to third parties or 
 
 ### **6.  ** **Deletion of Personal Information**
 
-If for any reason you wish to delete your Personal Information stored with us and identifying to you, please send us an e-mail to: [support@simplexcc.com](mailto:support@simplexcc.com) ** _,_**  and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for a period of five (5) years or a longer period as required to provide you with the Service and/or as legally required.
+If for any reason you wish to delete your Personal Information stored with us and identifying to you, please send us an e-mail to:[support@simplex.com](mailto:support@simplex.com) ** _,_**  and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for a period of five (5) years or a longer period as required to provide you with the Service and/or as legally required.
 
 ### **7.  ** **Minors**
 
@@ -87,7 +87,7 @@ We may also use certain third-party cookies. These are a different kind of cooki
 
 You hereby agree that we may use your contact details for the purpose of informing you regarding products and services (offered by SimplexCC and/or by third parties) which may interest you, and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided.
 
-You may withdraw your consent via sending a written notice to SimplexCC by email to the following address: [support@simplexcc.com](mailto:support@simplexcc.com) or on the same manner as the advertising was transmitted to you (e.g. via phone text message). It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties and you irrevocably and unconditionally agree that we shall not be held responsible or liable in connection thereof.
+You may withdraw your consent via sending a written notice to SimplexCC by email to the following address: [support@simplex.com](mailto:support@simplex.com) or on the same manner as the advertising was transmitted to you (e.g. via phone text message). It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties and you irrevocably and unconditionally agree that we shall not be held responsible or liable in connection thereof.
 
 ### **10.     ** **Security**
 
@@ -95,7 +95,7 @@ We take a great care in implementing and maintaining the security of the Service
 
 ### **11.     ** **Third Party Software/Service**
 
-While using the Site and/or Service we may be using third party software and/or service, in order to collect and/or process the information detailed herein. Such software includes without limitation, Google Analytics, which privacy policy is available at <http://www.google.com/intl/en/analytics/privacyoverview.html> and Amazon Web Services, which privacy policy is available at <http://aws.amazon.com/privacy/>.
+While using the Site and/or Service we may be using third party software and/or service, in order to collect and/or process the information detailed herein. Such software includes without limitation, Google Analytics, which privacy policy is available at <http://www.google.com/intl/en/analytics/privacyoverview.html> and Amazon Web Services, which privacy policy is available at<http://aws.amazon.com/privacy/>.
 
 ### **12.     ** **Third Party Websites**
 
@@ -107,4 +107,4 @@ SimplexCC reserves the right to change this Privacy Policy at any time, so pleas
 
 **14.     ** **Have any Questions** **?**
 
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at [support@simplexcc.com](mailto:support@simplexcc.com), and we will make an effort to reply within a reasonable timeframe.
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email at [support@simplex.com](mailto:support@simplex.com), and we will make an effort to reply within a reasonable timeframe.
