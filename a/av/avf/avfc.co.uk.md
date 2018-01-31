@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606203322id_/https%3A//www.avfc.co.uk/club/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avfc.co.uk privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131090932id_/https%3A//www.avfc.co.uk/club/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
