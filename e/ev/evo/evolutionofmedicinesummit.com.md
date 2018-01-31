@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the evolutionofmedicinesummit.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514154408id_/http%3A//evolutionofmedicinesummit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionofmedicinesummit.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131180059id_/http%3A//geneticssummit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Evolution of Medicine Summit
+# Privacy Policy - Interpreting Your Genetics Summit
 
 Disclosure Regarding Collection and Use of Personal Information  
 Last Updated April 8, 2015
 
-Thank you for visiting evolutionofmedicinesummit.com. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information.
+Thank you for visiting geneticssummit.com. This notice explains our online information collection and use practices and the choices you can make about the way we use and share such information. Please take the time to read and understand this policy so that you can understand how we use your personal information.
 
 **The Information We Collect.  
 **  
-evolutionofmedicinesummit.com collects the following information:
+geneticssummit.com collects the following information:
 
 First Name and Email Address
 
@@ -23,13 +23,13 @@ We may disclose your personally identifiable information in response to subpoena
 
 **How We Share Your Personal Information.**
 
-The host of evolutionofmedicinesummit.com and Health Talks Online retains explicit rights to this information and will NOT share the personal information you provide except with your explicit permission.
+The host of geneticssummit.com and Health Talks Online retains explicit rights to this information and will NOT share the personal information you provide except with your explicit permission.
 
 Our business needs may change from time to time and we reserve the right to make changes to our Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We will not materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-Our operations and maintenance contractors sometimes have limited access to your personally identifiable information in the course of providing products or services to evolutionofmedicinesummit.com. These contractors include vendors and suppliers that provide us with credit card processing, e-mail distribution technology, services, and/or content for the operation and maintenance of our Web site. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and 2) not use or disclose your personally identifiable information for any purpose other than providing us with products and services as required by law.
+Our operations and maintenance contractors sometimes have limited access to your personally identifiable information in the course of providing products or services to geneticssummit.com. These contractors include vendors and suppliers that provide us with credit card processing, e-mail distribution technology, services, and/or content for the operation and maintenance of our Web site. Access to your personally identifiable information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function. We also contractually require that our operations and maintenance contractors 1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and 2) not use or disclose your personally identifiable information for any purpose other than providing us with products and services as required by law.
 
-evolutionofmedicinesummit.com is committed to handling your customer information with high standards of information security. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+geneticssummit.com is committed to handling your customer information with high standards of information security. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
 **Use and Disclosure of Anonymous Information.**
 
@@ -51,14 +51,14 @@ Some of our Web pages may contain electronic images known as Web beacons, which 
 
 **Discussions, Community Tools and Testimonials.**
 
-You agree that any information you submit to us through evolutionofmedicinesummit.com may be used for promotional purposes. Because of the public nature of some of our services, you should exercise caution when deciding to disclose any personal information. We may also use a limited amount of information, such as first name, last initial and your town and state in marketing materials on the website. Your registration constitutes consent to this use.
+You agree that any information you submit to us through geneticssummit.com may be used for promotional purposes. Because of the public nature of some of our services, you should exercise caution when deciding to disclose any personal information. We may also use a limited amount of information, such as first name, last initial and your town and state in marketing materials on the website. Your registration constitutes consent to this use.
 
 **International Users.**
 
-If you are visiting evolutionofmedicinesummit.com from a location outside of the United States, your connection will be through and to servers located in the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using How 2 Publishing you authorize and specifically consent to the transfer of your personal information to the USA and its storage and use as specified above when you provide such information to us.
+If you are visiting geneticssummit.com from a location outside of the United States, your connection will be through and to servers located in the United States, and all information you provide will be processed and securely maintained in our web servers and internal systems located within the United States. By using How 2 Publishing you authorize and specifically consent to the transfer of your personal information to the USA and its storage and use as specified above when you provide such information to us.
 
 **How You Can Access or Correct Your Personal Information.**
 
-For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please contact us at evolutionofmedicinesummit.com/contact-us
+For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please contact us at geneticssummit.com/contact-us
 
 To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.
