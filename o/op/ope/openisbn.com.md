@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openisbn.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201233645id_/http%3A//www.openisbn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openisbn.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131110311id_/http%3A//www.openisbn.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of OpenISBN Project
 
