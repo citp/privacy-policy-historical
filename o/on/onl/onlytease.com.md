@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616010144id_/http%3A//www.onlytease.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlytease.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131143556id_/https%3A//www.onlytease.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlyTease
 
