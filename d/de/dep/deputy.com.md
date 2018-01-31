@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deputy.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424204156id_/https%3A//www.deputy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deputy.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131161645id_/https%3A//www.deputy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Deputy
 
