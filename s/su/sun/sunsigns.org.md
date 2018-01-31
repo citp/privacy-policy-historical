@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsigns.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220062621id_/https%3A//www.sunsigns.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsigns.org privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131201639id_/https%3A//www.sunsigns.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sun Signs
 
