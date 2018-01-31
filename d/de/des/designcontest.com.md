@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designcontest.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905084136id_/https%3A//www.designcontest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcontest.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131164210id_/https%3A//www.designcontest.com/privacy) for the most accurate reproduction.*
 
 # DesignContest - Privacy Default
 
