@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalcherryblossomfestival.org privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203123814id_/http%3A//www.nationalcherryblossomfestival.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalcherryblossomfestival.org privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202001003id_/https%3A//www.nationalcherryblossomfestival.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - National Cherry Blossom Festival
 
@@ -74,7 +74,7 @@ If you do not want to receive Updates, Yahoo! Marketing, or Future Solicitations
 
 
 
-Write us at 1250 H Street, NW, Suite 1000, Washington, DC 20005, requesting that you name be removed from future Updates, Yahoo! Marketing or Future Solicitations.
+Write us at 1275 K Street, NW, Suite 1000, Washington, DC 20005, requesting that you name be removed from future Updates, Yahoo! Marketing or Future Solicitations.
 
 ### Other Websites
 
