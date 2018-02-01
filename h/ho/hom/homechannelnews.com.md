@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202130048id_/http%3A//www.hbsdealer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201033956id_/http%3A//www.hbsdealer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HBS Dealer
 
