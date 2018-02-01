@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kooding.com privacy policy that was archived on 2015-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150613012813id_/http%3A//www.kooding.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kooding.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201193449id_/https%3A//www.kooding.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Korean Fashion Online Shopping Mall - KOODING.com
+# Korean Fashion Online Shopping | American Fashion Clothing
 
 We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy carefully.  
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
