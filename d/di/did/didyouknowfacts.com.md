@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didyouknowfacts.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231023639id_/http%3A//didyouknowfacts.com/know-privacy-policy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didyouknowfacts.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201141951id_/http%3A//www.didyouknowfacts.com/know-privacy-policy-copyright) for the most accurate reproduction.*
 
 # © did you know - Privacy Policy and Copyright - did you know?
 
