@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitlisboa.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124083903id_/https%3A//www.visitlisboa.com/terms-and-notice%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitlisboa.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201045702id_/https%3A//www.visitlisboa.com/terms-and-notice%23privacy-policy) for the most accurate reproduction.*
 
 # | Visit LISBON
 
@@ -14,7 +14,7 @@ The Lisbon Tourism Association – Visitors and Convention Bureau (ATL) recognis
 
 On using the Platform you agree to the collection and use of your personal information by the same, provided this is done in accordance with this Privacy Policy. You should access this Privacy Policy on a regular basis to ensure you are familiar with any amendments. If you are in doubt in relation to the Privacy Policy, you may contact us here. If you disagree with this Privacy Policy, you are not authorized to use the Platform and should exit immediately.
 
-**CoCollection of personal information**
+**Collection of personal information**
 
 Non-registered users may only use the features of the Platform which do not require the user to be registered, whereby the following information is collected in relation to unregistered users of the Platform:
 
