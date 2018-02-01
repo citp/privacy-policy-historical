@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushlimbaugh.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830214939id_/https%3A//www.rushlimbaugh.com/privacy-cookie-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushlimbaugh.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201062941id_/https%3A//www.rushlimbaugh.com/privacy-cookie-notice) for the most accurate reproduction.*
 
 # Privacy & Cookie Notice | The Rush Limbaugh Show
 
