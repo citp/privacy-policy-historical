@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingdock.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909212657id_/https%3A//listingdock.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingdock.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201191423id_/https%3A//listingdock.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - ListingDock
 
