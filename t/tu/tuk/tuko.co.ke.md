@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuko.co.ke privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328193512id_/https%3A//www.tuko.co.ke/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuko.co.ke privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201012513id_/https%3A//www.tuko.co.ke/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -69,7 +69,7 @@ Personalized Advertising. You may be able to opt out of receiving personalized a
 
 
 
-You may opt out of personalized ads from AdCash at <https://www.adcash.com/en/legal.php#tc_5_5>.
+You may opt out of personalized ads from AdCash at <https://www.adcash.com/legal-info/#h.ew5sib19a7w8>.
 
 When you opt out of personalized advertising, you may continue to see online advertising on the Service and/or our ads on other Internet websites and online services.
 
