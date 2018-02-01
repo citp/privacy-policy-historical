@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalmap.gov privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929163744id_/https%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalmap.gov privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201081038id_/https%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
