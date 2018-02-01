@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hendrickboards.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902063155id_/https%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hendrickboards.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201194612id_/https%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ Hendrick & Co. collects information from you when you choose to provide it to us
 Examples of the ways in which we may collect information from you include:
 
   * Registration and Ordering: Before ordering or using certain features of this Website, you may be required to submit your name, address, email, billing and other personal information. This particularly pertains to the ordering process whether you opt for guest checkout or to create an account on the Website. 
-  * Marketing Emails: We may send marketing and/or promotional emails to the email address you provide to us. You may unsubscribe at any time from receiving these marketing messages by clicking on the "Unsubscribe" link contained in any promotional email or contact us at customerservice@hendrickboards.com. Please note that despite unsubscribing from such newsletter and marketing communications, we may still contact you in relation to your order(s) or any issues relating any business you conduct with us.
+  * Marketing Emails: We may send marketing and/or promotional emails to the email address you provide to us. You may unsubscribe at any time from receiving these marketing messages by clicking on the "Unsubscribe" link contained in any promotional email or contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please note that despite unsubscribing from such newsletter and marketing communications, we may still contact you in relation to your order(s) or any issues relating any business you conduct with us.
   * Phone and Email Support: If you opt to contact us via phone and email, we may collect information to better serve you, such as your name, contact information and notations. 
 
 
