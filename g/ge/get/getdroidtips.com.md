@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getdroidtips.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002131532id_/https%3A//www.getdroidtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdroidtips.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201223849id_/https%3A//www.getdroidtips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
