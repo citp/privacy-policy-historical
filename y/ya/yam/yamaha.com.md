@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yamaha.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228003111id_/http%3A//www.yamaha.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yamaha.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201030842id_/https%3A//www.yamaha.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yamaha Corporation
 
