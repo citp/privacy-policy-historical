@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002142459id_/https%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201051943id_/https%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
