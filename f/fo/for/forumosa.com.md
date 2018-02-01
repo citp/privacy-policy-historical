@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forumosa.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202103746id_/http%3A//tw.forumosa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumosa.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201040951id_/https%3A//tw.forumosa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Forumosa
 
