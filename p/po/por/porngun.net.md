@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porngun.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617173930id_/http%3A//www.porngun.net/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porngun.net privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201232903id_/https%3A//porngun.net/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
