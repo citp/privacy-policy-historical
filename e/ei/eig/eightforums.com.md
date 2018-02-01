@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228002701id_/https%3A//www.eightforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eightforums.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201031454id_/https%3A//www.eightforums.com/help/privacy) for the most accurate reproduction.*
 
-# Windows 8 Forums - Privacy Policy
+# Privacy Policy | Eight Forums
 
 ****Privacy Policy****  
 
@@ -93,9 +93,9 @@
 > 
 > We may send to you the following cookies: 
 > 
-> (1) vbulletin forum preferences 
+> (1) xenforo forum preferences 
 > 
-> (2) vbulletin forum login 
+> (2) xenforo forum login 
 > 
 > (3) Google Analytics 
 > 
@@ -172,4 +172,4 @@
 >   
 >  This website is owned and operated by Designer Media Ltd. 
 > 
-> If you have any questions about our cookies or this cookies policy, please [contact us.](https://www.eightforums.com/sendmessage.php)
+> If you have any questions about our cookies or this cookies policy, please [contact us.](https://www.eightforums.com/misc/contact)
