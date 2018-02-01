@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pressurecookingtoday.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905102306id_/https%3A//www.pressurecookingtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressurecookingtoday.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201210159id_/https%3A//www.pressurecookingtoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pressure Cooking Today
+# Privacy Policy - Pressure Cooking Today™
 
 Pressure Cooking Today is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Pressure Cooking Today website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us.
+
+## Our Privacy Policy
 
 Children Under 13:
 
