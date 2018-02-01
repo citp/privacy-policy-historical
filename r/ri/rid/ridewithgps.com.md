@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ridewithgps.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310065715id_/https%3A//ridewithgps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ridewithgps.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201012835id_/https%3A//ridewithgps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Ride With GPS
 
