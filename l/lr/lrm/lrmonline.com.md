@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrmonline.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108130326id_/http%3A//lrmonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrmonline.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201015754id_/https%3A//lrmonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy + Terms | lrmonline
 
