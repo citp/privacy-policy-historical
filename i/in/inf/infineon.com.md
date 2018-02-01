@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infineon.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918154727id_/https%3A//www.infineon.com/cms/en/about-infineon/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infineon.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201211112id_/https%3A//www.infineon.com/cms/en/about-infineon/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Infineon Technologies
 
@@ -71,16 +71,7 @@ A cookie is a text file that is stored on your computer which makes it possible 
 **Opt out:**  
 If you wish to block the use of Eloqua cookies on your device for the future, you can do so via this link: <http://www.oracle.com/us/legal/privacy/privacy-policy/index.html#opt-out>[ ](http://www.oracle.com/us/legal/privacy/privacy-policy/index.html#opt-out)
 
-    3. **Google Analytics**  
-Our website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies. Information gained by cookies about your use of this website (including your IP address) will be transmitted to a Google server in the U.S. and stored there. Google will use this information to evaluate your use of the website, compile reports on website activity for website operators, and provide other website-use and Internet-related services. Google may also transmit this information to third parties where required by law, or in cases where third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may block the installation of cookies by selecting the appropriate settings on your browser; however Infineon points out that if you do, you may not be able to use all the features of this website. By using this site, you agree to the processing of data collected about you by Google in the manner described above and for the aforementioned purpose.
-
- **Opt out:  
-**[https://tools.google.com/dlpage/gaoptout?hl=de   
-](https://tools.google.com/dlpage/gaoptout?hl=de)[  
-](https://tools.google.com/dlpage/gaoptout?hl=de)For more information on Terms of Use and the Privacy Policy, please visit <http://www.google.com/analytics/terms/de.html> or <https://www.google.de/intl/de/policies/>[  
-](https://www.google.de/intl/de/policies/)
-
-  8. **Links to Other Websites  
+    3.   8. **Links to Other Websites  
 ** Our website may contain links to websites of other providers to which this Privacy Policy does not extend. If the usage of web pages of other providers is connected with the collection, processing, or use of personal data, please see the respective privacy policies of those providers.  
 Infineon assumes no responsibility for the content of these websites.
   9. **Twitter, Facebook, YouTube & Co.  
