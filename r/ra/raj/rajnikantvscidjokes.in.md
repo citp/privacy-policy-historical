@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajnikantvscidjokes.in privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722215755id_/http%3A//www.rajnikantvscidjokes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajnikantvscidjokes.in privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202152118id_/https%3A//www.rvcj.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RVCJ Media
 
