@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toxicbellybugfix.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203224110id_/http%3A//www.toxicbellybugfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toxicbellybugfix.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202234318id_/http%3A//toxicbellybugfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Toxic Belly Bug Fix - Privacy Policy
 
@@ -115,7 +115,7 @@ www.ToxicBellyBugFix.com
 111 Congress Ave; Suite 400  
 Austin, TX 78701  
 USA  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+support@ToxicBellyBugFix.com  
 1-800-766-5086
 
 If at anytime You have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](https://secure.trust-guard.com/disputesystem/disputeresolution.php).
