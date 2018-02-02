@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007000412id_/http%3A//www.adl.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adl.org privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202041246id_/https%3A//www.adl.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,13 +79,13 @@ Our Web site provides users the opportunity to opt-out of receiving communicatio
 The following options are available for removing information from our database to discontinue receiving future communications or our service.
 
   1. You can unsubscribe or change your e-mail preferences online by following the link at the bottom of any e-mail you receive from ADL.
-  2. You can notify us offline through the form on our [Contact Us](https://web.archive.org/web/20171007000412id_/http%3A//www.adl.org/contact) page of your desire to be removed from our e-mail list or contributor mailing list, or by contacting ADL's SVP of Privacy at privacy@adl.org or at ADL's mailing address: 605 Third Avenue, New York, NY 10158.
+  2. You can notify us offline through the form on our [Contact Us](https://web.archive.org/web/20180202041246id_/https%3A//www.adl.org/contact) page of your desire to be removed from our e-mail list or contributor mailing list, or by contacting ADL's SVP of Privacy at privacy@adl.org or at ADL's mailing address: 605 Third Avenue, New York, NY 10158.
 
 
 
 ### CONTACTING THE WEB SITE
 
-If you have any questions about this privacy statement, the practices of our Web site or your dealings with the Web site, please send it to us through our [Contact Us](https://web.archive.org/web/20171007000412id_/http%3A//www.adl.org/contact) form.
+If you have any questions about this privacy statement, the practices of our Web site or your dealings with the Web site, please send it to us through our [Contact Us](https://web.archive.org/web/20180202041246id_/https%3A//www.adl.org/contact) form.
 
 ### NOTIFICATION OF CHANGES
 
