@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the novelupdates.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109082356id_/http%3A//www.novelupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelupdates.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202052333id_/https%3A//www.novelupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Novel Updates
 
 #### Privacy Policy
 
-This Privacy Policy governs the manner in which Novel Updates collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.novelupdates.com/> website (“Site”).
+This Privacy Policy governs the manner in which Novel Updates collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.novelupdates.com/](https://www.novelupdates.com/) website (“Site”).
 
 #### Copyright Infringement Statement
 
@@ -85,6 +85,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 #### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at novelupdates@yahoo.com.
 
 This document was last updated on June 25, 2015
