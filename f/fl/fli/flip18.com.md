@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flip18.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202200551id_/http%3A//www.flip18.com/f18_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flip18.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202020713id_/http%3A//www.flip18.com/f18_privacy.html) for the most accurate reproduction.*
 
 # Flip18.com - Privacy Policy
 
