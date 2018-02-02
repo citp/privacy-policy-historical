@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204030736id_/http%3A//www.mdx.ac.uk/about-us/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdx.ac.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202221156id_/http%3A//www.mdx.ac.uk/about-us/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Middlesex University London
 
@@ -10,14 +10,14 @@ The following statement will outline what personal data we collect, how we use i
 
 The University’s official contact details are:
 
+Data Protection Officer  
 Middlesex University  
 The Burroughs  
 London  
 NW4 4BT
 
-Tel: +44 (0)20 8411 5555
-
-The University’s Data Protection Officer is Teresa Kelly([dpaofficer@mdx.ac.uk](mailto:dpaofficer@mdx.ac.uk)).
+Tel: +44 (0)20 8411 5555  
+Email: [dpaofficer@mdx.ac.uk](mailto:dpaofficer@mdx.ac.uk)
 
 ## How and why does the University use personal data?
 
@@ -162,9 +162,9 @@ In some cases, there are good reasons as to why the University needs to retain d
 
 ## Your rights
 
-An individual has the right to ask the University what personal data we hold about them, and to ask for a copy of that information. This is called making a Data Protection Subject Access Request.
+An individual has the right to ask the University what personal data we hold about them, and to ask for a copy of that information. This is called making a [Data Protection Subject Access Request](http://www.mdx.ac.uk/__data/assets/pdf_file/0021/444333/Subject-Access-Request-Policy-20170927.pdf).
 
-A Subject Access Request should be submitted in writing to the Data Protection Officer ([dpaofficer@mdx.ac.uk](mailto:dpaofficer@mdx.ac.uk)) or in hard copy to the postal address provided earlier. The University reserves the right to ask you to provide proof of identification and for you to clarify your request if it is unclear in the first instance. You will receive a reply no longer than 40 calendar days from the date you make the request in writing.
+A Subject Access Request should be submitted in writing via email to the [Data Protection Officer](mailto:dpaofficer@mdx.ac.uk) or in hard copy to the postal address provided above. The University reserves the right to ask you to provide proof of identification and for you to clarify your request if it is unclear in the first instance. You will receive a reply no longer than 40 calendar days from the date you make the request in writing.
 
 If you are unhappy with the initial response you can ask the University to undertake a further search if there is specific information you have good reason to believe exists but that hasn’t been provided.
 
@@ -181,7 +181,7 @@ You also have the right to withdraw consent from the processing of your personal
 
 ### Right to rectify
 
-If you believe the University holds information about you that is factually incorrect please contact Academic Registry ([a.r.admin@mdx.ac.uk](mailto:a.r.admin@mdx.ac.uk)) if you are a student or Human Resources ([HRSS@mdx.ac.uk](mailto:HRSS@mdx.ac.uk)) if you are a member of staff providing the correct information, and the University should update it within one month.
+If you believe the University holds information about you that is factually incorrect please email [Academic Registry](mailto:a.r.admin@mdx.ac.uk) if you are a student or [Human Resources](mailto:HRSS@mdx.ac.uk) if you are a member of staff providing the correct information, and the University should update it within one month.
 
 From May 2018 you will also have a number of new individual rights under the GDPR. The means to exercise these new rights with the University will be published early 2018 in the run-up to the rights coming into effect.
 
