@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdiplomacy.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202190552id_/http%3A//playdiplomacy.com/help.php%3Fsub_page%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdiplomacy.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202113718id_/https%3A//playdiplomacy.com/help.php%3Fsub_page%3DPrivacy) for the most accurate reproduction.*
 
 # Play Diplomacy Online ::: web version of the classic Diplomacy board game
 
