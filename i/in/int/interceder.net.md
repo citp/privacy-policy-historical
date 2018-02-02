@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interceder.net privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201051819id_/http%3A//interceder.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interceder.net privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202055039id_/http%3A//interceder.net/content/privacy) for the most accurate reproduction.*
 
 # 
 
