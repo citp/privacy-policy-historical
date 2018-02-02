@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bov.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127025929id_/https%3A//www.bov.com/Content/data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bov.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202130107id_/https%3A//www.bov.com/Content/data-policy) for the most accurate reproduction.*
 
 # Data Protection Policy - Bank of Valletta - BOV Group
 
