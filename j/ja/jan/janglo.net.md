@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janglo.net privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118211150id_/http%3A//www.janglo.net/content/view/136701/9999) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janglo.net privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202070740id_/https%3A//www.janglo.net/content/view/136701/9999) for the most accurate reproduction.*
 
 # Privacy Policy
 
