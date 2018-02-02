@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016155139id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202063514id_/https%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
@@ -53,7 +53,7 @@ Affiliate Window cookies are marked awXXXX where XXXX is the ID of the website r
 
 Further information provided in terms of guidance from Affiliate Window in the document below.
 
-[Download AWIN The ePrivacy Directive FAQs PDF](http://currys.cdn.dixons.com/grafx/gb/uk/promotions/pdf/AWIN_ePrivacy_Directive_FAQs.pdf)  
+[Download AWIN The ePrivacy Directive FAQs PDF](https://currys-ssl.cdn.dixons.com/grafx/gb/uk/promotions/pdf/AWIN_ePrivacy_Directive_FAQs.pdf)  
 Flixmedia | 
 
 Flixmedia is one of our approved suppliers that deliver enriched product content such as images and text to product pages on our website. They use cookies to ensure this content loads quickly on product pages and collect views and clicks from this content. Flixmedia does not collect any personally identifiable information. Flixmedia cookies are set to expire after a maximum of 12 months. Please refer to <http://flixmedia.eu/privacy-policy/> for full details.  
@@ -378,7 +378,7 @@ guarantee records and to provide pre and after-sales service (we may pass your d
 
 (2) to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and
 
-(3) to comply with legal requirements We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
+(3) to comply with legal requirements We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use trusted third parties to carry out certain activities on our behalf and may share your personal data with them for the purposes of: processing and sorting data, monitoring how customers use our site, issuing our emails for us and collecting product/customer feedback from you via surveys.
 
 We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys PC World, Carphone Warehouse and Team Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
 
