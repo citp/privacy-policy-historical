@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singpromos.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044300id_/http%3A//singpromos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpromos.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202131151id_/https%3A//singpromos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SINGPromos.com
 
@@ -28,11 +28,11 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
- ** _Get a **FREE American Tourister Caravan 70cm TSA luggage (worth S$260)** (with min spend of S$600 within a month of Card Account Opening Date) and 2-years annual fees waiver when you sign up for a HSBC Revolution credit card at [www.hsbc.com.sg](http://singpromos.com/redirect/link?url=http%3A%2F%2Fwww.hsbc.com.sg%2F1%2F2%2Fpersonal%2Fcards%2Fhsbc-revolution-credit-card)._**
+ ** _Get $120 cashback when you apply for a Citibank card at[www.citibank.com.sg](https://singpromos.com/redirect/link?url=http%3A%2F%2Fwww.citibank.com.sg%2Fgcb%2Flanding_page%2Fcreditcard%2Fcashback.htm). Plus get additional welcome vouchers when you apply for a Citibank Rewards Visa Card!_**
 
   
 
 
-© 2010-2017 Singapore Promotions. All rights reserved. [forums](http://forums.singpromos.com/) [privacy policy](https://web.archive.org/privacy-policy/) [about](https://web.archive.org/about-singapore-promotions/) [advertise](https://web.archive.org/advertising-rates/) [submit news](https://web.archive.org/submit-promotions-sales-news-press-releases-etc/) [contact us](https://web.archive.org/contact-email-form/)   
+© 2010-2018 Singapore Promotions. All rights reserved. [forums](http://forums.singpromos.com/) [privacy policy](https://web.archive.org/privacy-policy/) [about](https://web.archive.org/about-singapore-promotions/) [advertise](https://web.archive.org/advertising-rates/) [submit news](https://web.archive.org/submit-promotions-sales-news-press-releases-etc/) [contact us](https://web.archive.org/contact-email-form/)   
 Disclaimer: The information and materials contained in this Website are provided "as is" and are to be used only as a reference. Whilst every effort is made to ensure that the information and materials are correct, we do not warrant their accuracy, adequacy or completeness and expressly disclaim any liability for any errors or omissions in the information or materials. By accessing this Website you agree that SINGPROMOS.COM will not be liable for any direct, indirect, or consequential loss arising from the use of the information contained either here or in external links. [FULL DISCLAIMER](https://web.archive.org/disclaimer)  
 Disclosure: We may receive compensation for any information posted on this website & social media pages.
