@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askdeb.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609213839id_/http%3A//www.askdeb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askdeb.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202234145id_/https%3A//www.askdeb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Ask Deb
 
 At Ask Deb the privacy to our visitors and readers is very important. This is why we have released this privacy policy statement.
 
