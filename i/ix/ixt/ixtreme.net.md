@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixtreme.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203163948id_/http%3A//www.ixtreme.net/forum/open-forum-and-legal/rules/29441-privacy-policy%23post29441) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixtreme.net privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202141234id_/http%3A//www.ixtreme.net/forum/open-forum-and-legal/rules/29441-privacy-policy%23post29441) for the most accurate reproduction.*
 
 # Privacy Policy - iXtreme LT+
 
