@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhr.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203182922id_/http%3A//www.dhr.com/customercare/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhr.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202200653id_/http%3A//www.dhr.com/customercare/privacy.php) for the most accurate reproduction.*
 
 # DHR.com - Customer Care : Privacy
 
