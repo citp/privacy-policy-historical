@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203095026id_/http%3A//www.tix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tix.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202081149id_/https%3A//www.tix.com/privacy.html) for the most accurate reproduction.*
 
 # TIX
 
