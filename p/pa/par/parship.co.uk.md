@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413015417id_/https%3A//uk.parship.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202040807id_/https%3A//uk.parship.com/privacypolicy) for the most accurate reproduction.*
 
 # Online Dating Service: Serious Matchmaking for Singles at Parship
 
