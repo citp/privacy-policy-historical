@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profootballrumors.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830073327id_/http%3A//profootballrumors.com/profootballrumors-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballrumors.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202040036id_/http%3A//profootballrumors.com/profootballrumors-com-privacy-policy) for the most accurate reproduction.*
 
 # ProFootballRumors.com Privacy Policy - Pro Football Rumors
 
