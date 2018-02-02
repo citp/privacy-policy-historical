@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcatalogues.co.za privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227092254id_/http%3A//allcatalogues.co.za/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcatalogues.co.za privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202105710id_/http%3A//allcatalogues.co.za/cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
