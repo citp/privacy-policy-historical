@@ -1,33 +1,48 @@
-> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714135533id_/https%3A//www.nimblestorage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimblestorage.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202051231id_/https%3A//www.hpe.com/us/en/legal/privacy.html) for the most accurate reproduction.*
 
-# Nimble Storage Privacy Policy | Nimble Storage
+# Privacy | HPE™
 
-**Nimble Storage Privacy Policy**
+Personal information is any information that personally identifies you or from which you could be identified.  This may include your name, address, telephone number, email address and profession or occupation.
 
-Nimble Storage knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting Nimble Storage’s web site, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+HPE collects, exports, and uses personal information to manage your relationship with HPE and better serve you by personalizing your experience and interaction with HPE. Such collection is done with appropriate notice and consent, along with required filings with data protection authorities, where required.
 
-**What information do we collect?**
+HPE may collect your personal information through your access and use of website,  web-based applications, or mobile applications, during conversations or correspondence with HPE representatives, when you purchase goods or services or complete an online application form.
 
-We collect information from you when you visit our site, subscribe to our newsletter, respond to a survey, or fill out a form.
+HPE may collect personal information from you in connection with:
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the information requested.
+  * product or service orders, activations, and registrations
+  * profile creation and user verification for online services
+  * information requests or complaints
+  * marketing, newsletter or support subscriptions
+  * contest entries or survey participation
+  * instant credit applications
+  * job applications
+  * event registration
+  * visits or browsing on HPE websites
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, surveys, and related product or service information. Note: If at any time you would like to unsubscribe from receiving future emails, we include an unsubscribe link at the bottom of each email.
 
-**Do we use cookies?**
 
-Yes. (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser—if you allow—that enable the site’s or service providers’ systems to recognize your browser and capture and remember certain information.) We use cookies to understand and save your preferences for future visits, compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business
+The types of personal information HPE may collect from you includes:
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly.
+  * personal and business contact information, such as name, address, telephone number, and email address
+  * in some cases, your business contact data may be provided to HPE by a designated entity within your business or enterprise (such as a member of your IT department)
+  * financial information, such as your credit/debit card number or other billing information
+  * other unique information such as user IDs and passwords, product functionality, product and service preferences, contact preferences, educational and employment background, and job interest data
+  * geo-location data such as your IP address or physical location when you request location based services
+  * details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries
+  * any additional information relating to you that you provide to us directly through our websites or indirectly through use of our websites or online presence, through our representatives or otherwise
+  * information you provide to us through our service center, customer surveys or visits by our representatives from time to time
 
-**How do we manage email communications?**
 
-Nimble Storage offers registered users the option of opting out of receiving emails regarding Nimble Storage products, services and special offers by following the opt-out link at the bottom of our email. However, there are certain e-mails that Nimble Storage may continue to send per your request or that are necessary for you to receive the full benefit of company services. For example, Nimble Storage uses e-mail to deliver information that registered users request as well as provide details about customer account(s), delivery information, and operational information regarding existing products, services and systems.
 
-**Do we disclose any information to outside parties?**
+If you apply for instant credit, we may ask you to provide additional personal information such as salary, government issued identification number, banking/financial account information, and other information  (for example from credit reporting agencies) to authenticate you and verify credit worthiness. This information will be used by our financial services providers in determining whether to extend you credit and how much to extend.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+If you post, comment, indicate interest or complaint, or share personal information, including photographs, to any public forum on an HPE site, social network, blog, or other such forum, please be aware that any information you submit can be read, viewed, collected, or used by other users of these forums, and could be used to contact you, send you unsolicited messages, or for purposes that neither you nor HPE have control over. HPE is not responsible for the personal information you choose to provide in these forums.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+In addition to the information you provide, HPE may also collect information during your visit to an HPE website, web-based application, or a website “powered by” another company on behalf of HPE, through our Automatic Data Collection Tools, which include Web beacons, cookies, and similar technologies, as well as embedded Web links. These tools collect certain traffic information that your browser sends to a website, such as your browser type and language, access times, and the address of the website from which you arrived. They may also collect information about your Internet Protocol (IP) address, unique device identifier, clickstream behavior (i.e., the pages you view, the links you click, and other actions you take in connection with HPE websites or “powered by” websites) and product information. HPE may also use some of these Automatic Data Collection Tools in connection with certain emails and communications sent from HPE and therefore may collect information using these tools when you open the email or click on a link contained in the email. To learn more, read How HPE uses automatic data collection tools.
 
-_This policy was last modified on August 12, 2010._
+HPE also collects information from publicly or commercially available sources that it deems credible. Such information may include your name, address, email address, preferences, interests, and demographic/profile data. The information HPE collects from its public or commercial sources may be used along with the information HPE collects when you visit HPE’s sites. For example, HPE may compare the geographic information acquired from commercial sources with the IP address collected by Automatic Data Collection Tools to derive your general geographic area.
+
+Where necessary, HPE may also use information provided by you or your employer, together with information from publicly available and other online and offline sources, to conduct due diligence checks on business contacts as part of HPE’s anti-corruption program.
+
+HPE may also collect some information that is not personal information because it does not identify you or anyone else.  For example, we may collect anonymous answers to surveys or aggregated information about how users use our websites, products or services.
