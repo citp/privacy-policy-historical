@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102175732id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovermagazine.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202172830id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Kalmbach Publishing Company
 
@@ -22,13 +22,13 @@ After answering these initial questions, this policy then addresses a number of 
 Kalmbach Publishing Co. is the publisher of the following magazines and websites:
 
 [American Snowmobiler](http://www.amsnow.com/)  
-[Art Jewelry](http://www.artjewelrymag.com/)  
 [Astronomy](http://www.astronomy.com/)  
 [Bead&Button](http://www.beadandbutton.com/)  
-[BeadStyle](http://www.beadstylemag.com/)  
 [Classic Toy Trains](http://www.classictoytrains.com/)  
 [Classic Trains](http://www.classictrainsmag.com/)  
 [Discover](http://www.discovermagazine.com/)  
+[Facet Jewelry](http://www.facetjewelry.com/)  
+[Facet Jewelry Box](https://www.facetjewelrybox.com/)  
 [FineScale Modeler](http://www.finescale.com/)  
 [Garden Railways](http://www.gardenrailways.com/)  
 [Model Railroader](http://www.modelrailroader.com/)  
