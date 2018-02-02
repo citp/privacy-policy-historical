@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawingtutorials101.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128085501id_/http%3A//www.drawingtutorials101.com/c/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawingtutorials101.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202012738id_/https%3A//www.drawingtutorials101.com/c/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : DrawingTutorials101.com
 
