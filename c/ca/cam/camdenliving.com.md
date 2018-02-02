@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905122929id_/https%3A//www.camdenliving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camdenliving.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202030825id_/https%3A//www.camdenliving.com/privacy-policy) for the most accurate reproduction.*
 
-# | CamdenLiving.com
+# Privacy Policy | CamdenLiving.com
 
 ## Purpose of this Notice.
 
@@ -30,11 +30,15 @@ In order to personalize and enhance your experience on our Sites, we also may co
 
 Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Sites.  Just like any other usage information we collect, this information allows us to improve the Sites and customize your online experience, and otherwise as described in this Privacy Policy.  Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites.  Our services do not support Do Not Track requests at this time, which means that we may collect information about your online activity both while you are using the Sites and after you leave the Sites.  Do Not Track signals are set on a browser-by-browser basis, so you must set them on every browser you use if you do not wish to be tracked.  Remember that this is just our Do Not Track policy, and we can’t and don’t make any promises about how third parties react when you set this signal on your browser.
 
-## Third Party Analytics Services
+## Third Party Analytics Services.
 
-We may use third party analytics services.  Currently, we use the analytics services of Mixpanel, Inc.  Mixpanel’s analytics services allow us to learn how you use our services by giving us the ability to collect information based on your interaction with our services.  Mixpanel does this in part using a first party cookie placed on your device from Mixpanel’s server.  Some information is automatically collected from or about you when you use our services.  The Mixpanel analytics services may also by default collect the following from your usage of our services: the time of an event, how you came to the Sites, what search engine and search keywords you may have used to get to our Sites, information about the device you are on such as your operating system, and browser, as well as your city/country location, and tokens and IDs for push notifications.  In addition, Mixpanel may collect on our behalf data such as your IP addresses, user names, real names, email addresses and other custom properties.  The emails we send to you through Mixpanel’s services may contain web beacons to track on our behalf when you open and act upon such emails.  
+We may use third party analytics services. Currently, we use the analytics services of Mixpanel, Inc. and Lucky Orange.
 
-You can opt-out of Mixpanel’s automatic retention of data collected through your browser while on web properties or web sites that have Mixpanel’s services integrated by clicking [www.mixpanel.com/optout/](http://www.mixpanel.com/optout/).  To track opt-outs Mixpanel uses a persistent opt-out cookie placed on your devices.  If you get a new computer, install a new browser, erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may also clear the Mixpanel opt-out cookie, and you will need to revisit the opt-out page.  Note that Mixpanel’s opt-out cookies will not prevent data from being sent from our servers to Mixpanel, nor will it prevent any other data collection methods.  For more information on Mixpanel’s privacy practices, please refer to their privacy policy located at <https://mixpanel.com/privacy/>.
+Mixpanel’s analytics services allow us to learn how you use our services by giving us the ability to collect information based on your interaction with our services. Mixpanel does this in part using a first party cookie placed on your device from Mixpanel’s server. Some information is automatically collected from or about you when you use our services. The Mixpanel analytics services may also by default collect the following from your usage of our services: the time of an event, how you came to the Sites, what search engine and search keywords you may have used to get to our Sites, information about the device you are on such as your operating system, and browser, as well as your city/country location, and tokens and IDs for push notifications. In addition, Mixpanel may collect on our behalf data such as your IP addresses, user names, real names, email addresses and other custom properties. The emails we send to you through Mixpanel’s services may contain web beacons to track on our behalf when you open and act upon such emails.
+
+You can opt-out of Mixpanel’s automatic retention of data collected through your browser while on web properties or web sites that have Mixpanel’s services integrated by clicking [www.mixpanel.com/optout/](http://www.mixpanel.com/optout/). To track opt-outs Mixpanel uses a persistent opt-out cookie placed on your devices. If you get a new computer, install a new browser, erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may also clear the Mixpanel opt-out cookie, and you will need to revisit the opt-out page. Note that Mixpanel’s opt-out cookies will not prevent data from being sent from our servers to Mixpanel, nor will it prevent any other data collection methods. For more information on Mixpanel’s privacy practices, please refer to their privacy policy located at <https://mixpanel.com/privacy/>.
+
+The Lucky Orange analytics system helps improve usability and the customer experience on our Sites. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this Site. You can choose to disable the Lucky Orange Service by clicking on the opt-out option at <http://www.luckyorange.com/privacy.php>.
 
 ## Confidentiality.
 
@@ -46,7 +50,7 @@ We may share Non-Public Personal Information within the Camden family of compani
 
 ## How to Contact Us.
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@camdenliving.com](mailto:privacy@camdenliving.com).  Please note:  only inquiries regarding our Privacy Policy can be answered via this address.
+Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@camdenliving.com](mailto:privacy@camdenliving.com).  Please note:  only inquiries regarding our Privacy Policy can be answered via this address.
 
 ## Consent.
 
