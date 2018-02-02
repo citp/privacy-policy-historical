@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830084908id_/http%3A//tomandlorenzo.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202174007id_/https%3A//tomandlorenzo.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy Disclosure | Tom + Lorenzo
 
@@ -68,4 +68,4 @@ Archives: 
 
 © Copyright 2006 - 2017 Tomandlorenzo. All Rights Reserved. Do not use or reproduce without permission. DISCLAIMER: The Tom & Lorenzo site is not associated or affiliated with ABC, AMC, BBC, Bravo, CBS, CW, Fox, FX, HBO, Lifetime, Logo, NBC, PBS, Showtime, Sundance or TNT. The Tom & Lorenzo site claims no credit for any images featured on this site unless otherwise noted. All visual content is copyrighted to its respective owners. The Tom & Lorenzo site is in no way responsible for, or has control of, the content of any external website links or embedded streaming videos. Information on this site may contain errors or inaccuracies. If you own rights to any of the content and wish to have it removed please contact us. 
 
-[Privacy Policy Disclosure](http://tomandlorenzo.com/privacy-policy-disclosure/) | [Terms and Conditions of Use](http://tomandlorenzo.com/terms-and-conditions-for-use/)
+[Privacy Policy Disclosure](https://tomandlorenzo.com/privacy-policy-disclosure/) | [Terms and Conditions of Use](https://tomandlorenzo.com/terms-and-conditions-for-use/)
