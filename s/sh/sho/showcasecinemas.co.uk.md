@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showcasecinemas.co.uk privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918004024id_/https%3A//www.showcasecinemas.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcasecinemas.co.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202234552id_/https%3A//www.showcasecinemas.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Terms & Conditions| SHOWCASE
 
@@ -30,11 +30,11 @@ We may use aggregated information for the purpose of monitoring use of the Websi
 How we protect your Information
 
 The internet is not a secure medium. However, we have put in place recommended up to date security measures and will review these and keep them updated regularly.  
-Subject to the terms of this Privacy Policy, we keep your information confidential. For details of procedures in relation to subject access and disclosure of your information please contact ukcs@national-amusements.com, marking your email for the attention of the Data Controller at NATL. Amusements (UK) Limited.
+Subject to the terms of this Privacy Policy, we keep your information confidential. For details of procedures in relation to subject access and disclosure of your information please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), marking your email for the attention of the Data Controller at NATL. Amusements (UK) Limited.
 
 Updating your Details
 
-If any of the details you have provided the Website changes, please give us correct details by email to [ukcs@national-amusements.com](mailto:ukcs@national-amusements.com "Customer Services")
+If any of the details you have provided the Website changes, please give us correct details by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#790c121a0a3917180d10161718155418140c0a1c141c170d0a571a1614 "Customer Services")
 
 Your Consent
 
@@ -60,4 +60,4 @@ These cookies may be set through our site by our advertising partners. They may 
 
 How to Contact Us
 
-We welcome your views about our Website and our Privacy Policy. If you would like to contact us with queries or comments please send an email to [ukcs@national-amusements.com](mailto:ukcs@national-amusements.com "Customer Service") NATL Amusements (UK) Ltd: Redfield Way, Lenton, Nottingham, NG7 2UW Companies House 2141131
+We welcome your views about our Website and our Privacy Policy. If you would like to contact us with queries or comments please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#592c323a2a1937382d30363738357438342c2a3c343c372d2a773a3634 "Customer Service") NATL Amusements (UK) Ltd: Redfield Way, Lenton, Nottingham, NG7 2UW Companies House 2141131
