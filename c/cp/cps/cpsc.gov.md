@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120001227id_/https%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202224705id_/https%3A//www.cpsc.gov/About-CPSC/Policies-Statements-and-Directives/Privacy-Policy) for the most accurate reproduction.*
 
 # CPSC Privacy and Security Notice | CPSC.gov
 
