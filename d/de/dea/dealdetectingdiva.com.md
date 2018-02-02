@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002021208id_/http%3A//hearthookhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdetectingdiva.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202155215id_/https%3A//hearthookhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Heart Hook Home
 
-This post was hand-picked for you, and _may_ contain affiliate links for your convenience. See our [disclosure policy](http://hearthookhome.com/disclosure-policy/).
+This post was written just for you and may contain affiliate links. This means that I may earn a small commission if you make a purchase.   
+See our [disclosure policy](https://hearthookhome.com/disclosure-policy/) for more information. 
 
 Your Privacy
 
@@ -28,7 +29,7 @@ Any information collected during giveaways, such as names and email addresses, w
 
 The contents of this statement may be altered at any time, at our discretion.
 
-[Contact us](http://hearthookhome.com/contact/) if you have any questions regarding this privacy policy.
+[Contact us](https://hearthookhome.com/contact/) if you have any questions regarding this privacy policy.
 
 _This policy last updated July 2016._
 
