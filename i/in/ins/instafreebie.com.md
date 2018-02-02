@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instafreebie.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004123527id_/https%3A//instafreebie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instafreebie.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202205622id_/https%3A//instafreebie.com/about/privacy) for the most accurate reproduction.*
 
 # Instafreebie - free ebook giveaways
 
