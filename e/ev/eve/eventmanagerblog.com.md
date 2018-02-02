@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224055003id_/http%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventmanagerblog.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202072950id_/https%3A//www.eventmanagerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
