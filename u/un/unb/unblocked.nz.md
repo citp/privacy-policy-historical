@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the unblocked.nz privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409045841id_/https%3A//www.crazydomains.co.nz/privacy/terms-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblocked.nz privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202045252id_/https%3A//www.crazydomains.co.nz/privacy/terms-privacy-policy) for the most accurate reproduction.*
 
-# Crazy Domains Policies & Privacy - Domain Names
+# Privacy Policy - Terms of Service | CrazyDomains.co.nz
 
 This privacy policy applies to www.crazydomains.co.nz owned and operated by DreamScape Networks FZ-LLC ("DreamScape", "Us", or "We"). This privacy policy describes how DreamScape Networks FZ-LLC collects and uses the personal information you provide on our website: www.crazydomains.com, www.crazydomains.com.au, www.crazydomains.co.nz, www.crazydomains.co.uk, www.crazydomains.in, www.crazydomains.ae, www.crazydomains.hk, www.crazydomains.ph, www.crazydomains.my, www.crazydomains.id, www.crazydomains.sg ("website"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-DreamScape Networks FZ, LLC has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program covers only information that is collected through this website, and does not cover mobile applications.
 
 This policy governs the use and disclosure by us of personal information of our users and outlines how users can access that information. It is only applicable on the assumption that:
 
@@ -41,7 +37,7 @@ We do link this automatically-collected data to personal information. IP address
 
 7.3 Behavioural targeting
 
-We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other websites to provide you targeted advertising based upon your interests.
 
 7.4 Sensitive information
 
