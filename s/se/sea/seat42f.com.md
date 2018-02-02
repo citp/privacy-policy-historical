@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910224200id_/https%3A//seat42f.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202184650id_/https%3A//seat42f.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEAT42F
 
@@ -6,7 +6,7 @@
 
 This is the web site of **SEAT42F.COM**.
 
-We can be reached via e-mail at privacy@seat42f.com
+We can be reached via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
