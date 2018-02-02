@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eprize.net privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829044443id_/https%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eprize.net privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202052613id_/https%3A//www.helloworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HelloWorld
+# Privacy Policy | HelloWorld, A Merkle Company
 
 ## HelloWorld, Inc. Privacy Policy
 
