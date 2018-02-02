@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the margauxny.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153411id_/http%3A//shop.margauxny.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margauxny.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202065315id_/http%3A//shop.margauxny.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Margaux
 
