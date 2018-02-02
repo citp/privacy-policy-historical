@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the greenlaneseo.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003064617id_/https%3A//www.greenlanemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenlaneseo.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202074625id_/https%3A//www.greenlanemarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenlane
+
+Effective Date: 11/2016
+
+Last Updated: 1/2018
 
 **What information do we collect?**
 
@@ -16,6 +20,7 @@ Any of the information we collect from you may be used in one of the following w
 
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To administer a contest, promotion, survey or other site feature
+  * To deliver marketing, advertising or other campaigns to you
 
 
 
