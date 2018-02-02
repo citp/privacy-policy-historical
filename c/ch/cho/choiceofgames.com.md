@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceofgames.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302231709id_/https%3A//www.choiceofgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceofgames.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202101017id_/https%3A//www.choiceofgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Choice of Games LLC
 
