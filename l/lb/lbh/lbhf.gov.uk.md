@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911012452id_/https%3A//www.lbhf.gov.uk/council-and-elections/data-and-information/data-protection/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202074542id_/https%3A//www.lbhf.gov.uk/council-and-elections/data-and-information/data-protection/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | LBHF
 
