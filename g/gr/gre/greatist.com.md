@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910062007id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202095925id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
 
 # Greatist Privacy Policy | Greatist
 
@@ -56,10 +56,26 @@ We employ reasonable security measures to protect the security and confidentiali
 
 Our site may contain links to websites or products and services offered by third parties. We do not endorse and are not responsible for the information collection practices of those third party websites. Your use of those third party websites is at your sole and entire risk. We encourage you to review those third party websites and their privacy policies before using them or providing them any of your personal information.
 
-### 7\. Amendments to this Privacy Policy
+### 7\. Opt-out of Targeted Advertising
+
+  
+If you prefer to not receive targeted advertising, you can opt-out of some network advertising programs that use your information. Below are the steps you can take to opt-out of targeted advertising:
+
+  * Visit [the Digital Advertising Alliance (DAA) Opt-Out Page](http://www.aboutads.info/choices). The DAA Opt-Out Page provides a tool that identifies its member companies that have Cookies on your browser and provides links to those companies.
+  * If you are using one of our mobile applications, you can download [App Choices](http://youradchoices.com/appchoices), which will allow you to opt-out of in-app tracking. You can also adjust the privacy settings on your mobile device by visiting the settings tab. If you wish to opt-out of cross-device tracking, you will need to opt-out of in app tracking on all of your devices.
+  * Update the privacy settings in the help section of your browser, or in the settings tab on your mobile device.
+  * You may also click on the ad choices icon in the advertisement.
+  * You may opt out of additional third party advertising networks by going to the [Network Advertising Initiative’s Website](http://www.networkadvertising.org/managing/opt_out.asp) and following the directions provided.
+  * Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive.
+
+
+
+Please note that even if you choose to remove your information or “opt-out,” you will still see advertisements while you are browsing online; however, those advertisements will no longer be tailored to your interests. Additionally, information regarding your usage of the online services may still be collected for research, analytics or internal operations purposes. We are not responsible for the effectiveness of any such opt-out options.
+
+### 8\. Amendments to this Privacy Policy
 
 We reserve the right to amend or revise this Privacy Policy, in whole or in part, at any time in our sole discretion. Any such amendments will take effect on the earlier of when they are posted on our site or the date you are notified by email communication (at the email address provided in your account). Your use of our site or its products and services after such amendments have been posted shall constitute your agreement to and acceptance of said amendments.
 
 If you have any questions or concerns, please email us at admin [at] greatist.com.
 
-Effective: July 12, 2012
+Effective: January 17th, 2018
