@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chriskresser.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609113158id_/https%3A//chriskresser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chriskresser.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202173525id_/https%3A//chriskresser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ We also use Google Analytics Advertiser Features to optimize our business. Adver
 
 By enabling these Google Analytics Display features, we are required to notify our visitors by disclosing the use of these features and that we and third-party vendors use first-party cookies (such as the Google Analytics cookie) or other first-party identifiers, and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to gather data about your activities on our Site.  Among other uses, this allows us to contact you if you begin to fill out our check-out form but abandon it before completion with an email reminding you to complete your order.  The “Remarketing” feature allows us to reach people who previously visited our Site, and match the right audience with the right advertising message.
 
-You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You can opt out of Google’s use of cookies by visiting Google’s ad settings and/or you may opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Facebook
 
