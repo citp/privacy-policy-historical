@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107062405id_/http%3A//instantpot.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202023732id_/https%3A//instantpot.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Instant Pot
 
