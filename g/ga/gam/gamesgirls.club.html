@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamesgirls.club privacy policy that was archived on 2017-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171219205359id_/http%3A//gamesgirls.club/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamesgirls.club privacy policy that was archived on 2018-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180203001433id_/http%3A//gamesgirls.club/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,8 +13,8 @@
     <div id="header_elements">
         <div id="mobmenu"></div>
         <div id="logo">
-            <a href="http://gamesgirls.club">
-                <img src="http://gamesgirls.club/images/logo.png" border="0" alt="Free Games for Girls">
+            <a href="/">
+                <img src="/images/logo.png" border="0" alt="Free Games for Girls">
             </a>
         </div>
         <div class="search">
@@ -29,21 +29,31 @@
                 }
                 window.location.href = "/find/"+gameName;
             }
-              document.onkeydown = function(e){
-                    if(!e) e = window.event;
-                    if((e.keyCode || e.which) == 13) {
-                        submit();
-                    }
-               }
+            
+            document.getElementById("gameWord").onfocus = function () {
+                if (document.getElementById("gameWord").placeholder == 'Search...') {
+                    document.getElementById("gameWord").placeholder = '';
+                } 
+            };
+            
+            document.onkeydown = function(e){
+                if(!e) e = window.event;
+                if((e.keyCode || e.which) == 13) {
+                    ga('send', 'event', {
+                        eventCategory: 'Search Button',
+                        eventAction: 'click',
+                        transport: 'beacon'
+                      });
+                    submit();
+                }
+            }
             </script>
         </div>
-                <div class="topbuttons">
-            <span class="st_facebook_hcount" displaytext="Facebook"></span>
-            <span class="st_fblike_hcount" displaytext="Facebook Like"></span>
-            <span class="st_googleplus_hcount" displaytext="Google +"></span>
-            <span class="st_sharethis_hcount" displaytext="ShareThis"></span>
+        <div id="install-button" onclick="chrome.webstore.install()"></div>
+        <div class="topbuttons">
+            <div class="sharethis-inline-share-buttons"></div>
         </div>
-                <div style="clear:both"></div>
+        <div style="clear:both"></div>
     </div>
 </header>
 <div style="clear:both"></div>
@@ -141,13 +151,18 @@
     <div class="wrapper fn-clear">
     <div class="f-text fn-right">
     <p>Free Online Games for Girls:</p>
-    <div>Welcome to GamesGirls.club! GamesGirls.club is girls' zone to play free online games. Stocked each day with new free games, including <h2>sports games</h2>, <h2>cooking games</h2>, puzzle games, makeover games, skill games, animal games, decorating games, dress up games, make up games and more other games. Just enjoy yourself!<br>
+    <div>Welcome to GamesGirls.club! GamesGirls.club is girls' zone to play free online games. Stocked each day with new free games, including <h2>sports games</h2>, <h2>decorating games</h2>, makeover games, animal games, make up games, dress up games, puzzle games, cooking games, skill games and more other games. Just enjoy yourself!<br>
 <center><a href="https://play.google.com/store/apps/details?id=co.gamegirl.play&amp;utm_campaign=ggclub" target="_blank">
-    <img alt="Get it on Google Play" src="http://gamesgirls.club/images/googleplay.png">
+    <img alt="Get it on Google Play" src="/images/googleplay.png">
 </a></center></div>
     </div>
     </div>
-    <p><a href="http://gamesgirls.club/privacy.php" rel="nofollow" title="Privacy Policy">Privacy Policy</a></p>
+    <p>
+        <a href="http://m.shtoss.com" target="_blank">Mobile Games</a> | 
+        <a href="http://shtoss.com" target="_blank">Free Online Games</a> | 
+        <a href="http://gamegirl.co" target="_blank">Free Mobile And Tablet Games</a> | 
+        <a href="/privacy.php" rel="nofollow" title="Privacy Policy">Privacy Policy</a>
+    </p>
 </footer>
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -173,7 +188,5 @@ var google_remarketing_only = true;
   ga('send', 'pageview');
 
 </script>
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "17a8f102-702f-4031-9e46-a94a5fb00c0b", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a5cb1bbe1dacf0013af2e9c&amp;product=inline-share-buttons" async="async"></script>
 </div></body></html>
