@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxatic.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930111535id_/https%3A//luxatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxatic.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202144700id_/https%3A//luxatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Luxatic
 
