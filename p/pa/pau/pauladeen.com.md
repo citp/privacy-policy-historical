@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the pauladeen.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120012832id_/http%3A//www.pauladeen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pauladeen.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202122401id_/https%3A//www.pauladeen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Network Privacy Policy Terms & Conditions - Paula Deen
 
 ## PAULA DEEN NETWORK PRIVACY POLICY
 
 **Updated On: 10/11/2016**
 
-1\. General: Paula Deen Ventures, Inc., its affiliates, and the Paula Deen Network (collectively “PDN”) produce the PDN Website, (“Website”). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website. 
+1\. General: Paula Deen Ventures, Inc., its affiliates, and the Paula Deen Network (collectively “PDN”) produce the PDN Website, (“Website”). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website.
 
 **Collection and Use of Personal Information  **
 
-Personal information is data that can be used to identify or contact a single person. 
+Personal information is data that can be used to identify or contact a single person.
 
 You may be asked to provide your personal information anytime you are in contact with PDN or a PDN affiliated company. PDN and its affiliates may share this personal information with each other and use it consistently with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to inquiries you may have.
 
 Here are some examples of the types of personal information PDN may collect and how we may use it.
 
-**What Personal Information We Collect**  
+**What Personal Information We Collect**
 
 When you create a PDN ID, register your subscription, purchase a product, download a software update, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, birthday, and credit card information.
 
@@ -24,7 +24,7 @@ When you share your content with family and friends using PDN products, send gif
 
 **How we use your personal information**
 
-The personal information we collect allows us to keep you posted on PDN’s latest product announcements, software updates, and upcoming events. 
+The personal information we collect allows us to keep you posted on PDN’s latest product announcements, software updates, and upcoming events.
 
 We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
 
@@ -68,7 +68,7 @@ We may be required to share your personal information and non-personal informati
 
 7\. Ads Displayed on PaulaDeen.com: This Site may include third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data).
 
-For more information about these specialized cookies and other technologies, and how to “opt out” of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://www.networkadvertising.org/choices/>.
+For more information about these specialized cookies and other technologies, and how to “opt out” of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://www.networkadvertising.org/choices/>.
 
 8\. Changes: PDN may update its Privacy Policy from time to time. When PDN changes the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
