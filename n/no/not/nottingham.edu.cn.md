@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nottingham.edu.cn privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203224616id_/http%3A//www.nottingham.edu.cn/en/usage/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nottingham.edu.cn privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202115326id_/http%3A//www.nottingham.edu.cn/en/usage/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - The University of Nottingham Ningbo China - 宁波诺丁汉大学
 
