@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728043625id_/https%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmath.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203090600id_/https%3A//www.travelmath.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ This policy describes the types of information our company ("Company", "us", "we
 This policy applies to information we collect:
 
   * On this Website.
-  * In electronic messages between you and us, such as when you interact with us via our [contact us](http://www.travelmath.com/contact/) link.
+  * In electronic messages between you and us, such as when you interact with us via our [contact us](https://web.archive.org/contact/) link.
   * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
 
@@ -51,16 +51,16 @@ Additionally, we may collect:
 
 Advertisements on the Website are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect non-personally identifiable information about you when you use our Website in order to provide you with their general and interest-based advertising. We do not control third parties' collection or use of your non-personally identifiable information to serve interest-based advertising. You can opt out of many ad networks using these links:
 
-  * The NAI opt out page: <http://www.networkadvertising.org/choices/>
-  * The DAA opt out page: <http://www.aboutads.info/choices/>
-  * YourOnlineChoices: <http://youronlinechoices.com/>
+  * The NAI opt out page: <http://optout.networkadvertising.org/>
+  * The DAA opt out page: <http://optout.aboutads.info/>
+  * YourOnlineChoices: <https://youronlinechoices.com/>
 
   
 
 
 #### Google Ads
 
-Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](http://www.google.com/privacy/ads/).
+Ads displayed by Google may include their system of "interest based targeting" using DoubleClick DART cookies. These ads may take into account your previous browsing history, but they will not track any personally identifiable information. You can read more about their policies at the [Google Privacy Center](https://www.google.com/privacy/ads/).
 
   
 
@@ -74,7 +74,7 @@ We may disclose aggregated information about our users, and information that doe
 
 #### Website Disclaimer
 
-You can read more information on our [website disclaimer](http://www.travelmath.com/disclaimer/). Use of this Website is subject to the terms of the disclaimer.
+You can read more information on our [website disclaimer](https://web.archive.org/disclaimer/). Use of this Website is subject to the terms of the disclaimer.
 
   
 
@@ -90,6 +90,6 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
-<http://www.travelmath.com/contact/>
+[/contact/](https://web.archive.org/contact/)
 
 If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites.
