@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the feastdesignco.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109043305id_/http%3A//feastdesignco.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feastdesignco.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203043506id_/https%3A//feastdesignco.com/about-feast/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Feast
+# Privacy Policy - Feast Design Co.
 
 BY VISITING FEASTDESIGNCO.COM, YOU ARE CONSENTING TO OUR PRIVACY POLICY.
 
 **OVERVIEW**
 
-Feast Design Co. is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at http://feastdesignco.com/ (the “site”), and how we collect and use that information.
+Feast Design Co. is committed to protecting your privacy online. This Privacy Policy describes the personal information we collect through this website at https://feastdesignco.com/ (the “site”), and how we collect and use that information.
 
 The terms “we,” “us,” and “our” refers to Feast Design Co.. The terms “user,” “you,” and “your” refer to site visitors, customers, and any other users of the site.
 
@@ -35,7 +35,9 @@ We may record information relating to your use of the site, such as the searches
 
 **COOKIES**
 
-We may send cookies to your computer in order to uniquely identify your browser and improve the quality of our service. The term “cookies” refers to small pieces of information that a website sends to your computer’s hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). You have the ability to accept or decline cookies using your web browser settings. If you choose to disable cookies, some areas of the site may not work properly or at all.  The site does not respond to Do Not Track signals sent by your browser.
+Your computer or device may request that we send cookies to your computer or device in order to uniquely identify your browser and improve the quality of our service. The term “cookies” refers to small pieces of information that a website sends to your computer’s hard drive while you are viewing the site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). You have the ability to accept or decline cookies using your web browser settings. If you choose to disable cookies, some areas of the site may not work properly or at all.  The site does not respond to Do Not Track signals sent by your browser.
+
+Your access to this website is under the jurisdiction of Toronto, Ontario, Canada. European legislation regarding cookies and notices do not apply. If you do not agree, you may leave.
 
 ** ** **THIRD PARTY LINKS**
 
