@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pokemongo.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109135045id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemongo.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203205114id_/http%3A//www.pokemon.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pokemon.com
 
-[](http://www.esrb.org/confirm/pokemon-confirmation.jsp)Last updated April 19, 2016
+[](http://www.esrb.org/confirm/pokemon-confirmation.jsp)Last updated January 30, 2018
 
 Welcome to Pokémon!
 
@@ -18,7 +18,7 @@ This Privacy Policy and the certification seal shown on our Services confirm tha
 
 _DISCLAIMER: Although ESRB Privacy Certified does not monitor non-English Services, Pokémon makes all best efforts to ensure that non-English Services adhere to applicable data collection guidance and principles set forth by ESRB Privacy Certified, including adherence to EU regulations._
 
-Please note that information collected on the Services is stored and processed in the United States. By using the Services, you consent to any such transfer of information outside of your country. Pokémon complies with the U.S.-EU Safe Harbor Framework _and the U.S.-Swiss Safe Harbor Framework_ as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries _and Switzerland._ Pokémon has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Family Online Safety Institute's certification, please visit <http://www.export.gov/safeharbor/>.
+Please note that information collected on the Services is stored and processed in the United States. By using the Services, you consent to any such transfer of information outside of your country. Pokémon complies with the EU-U.S. Shield and U.S.-EU Safe Harbor Framework and the Swiss U.S. Shield _and the U.S.-Swiss Safe Harbor Framework_ as set forth by the U.S. Department of Commerce and other methods to validate transfer to the US and other jurisdictions regarding the collection, use, and retention of personal information from European Union member countries _and Switzerland._ Pokémon adheres to the Shield and Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about Shield visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). To learn more about the Safe Harbor program, and to view the Family Online Safety Institute's certification, please visit <http://www.export.gov/safeharbor/>.
 
 Table of Contents
 
