@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902173713id_/http%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blr.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203090544id_/https%3A//www.blr.com/About/Legal-Privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Privacy Statement | BLR.com
+# 
 
 BLR, Inc. respects the privacy of our users. We have created this policy in order to demonstrate our privacy commitment to our users. By coming to a BLR site, you are agreeing to and accepting this Privacy Policy as well as the terms and conditions or other end user agreement for that site. In many instances, you may opt-out of uses of your Indentifying Information (defined below) allowed under this Policy, as described at the end of this Policy.
 
