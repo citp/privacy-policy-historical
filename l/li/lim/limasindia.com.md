@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limasindia.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026210523id_/http%3A//limasindia.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limasindia.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203133520id_/http%3A//www.limasindia.com/privacy_policy.php) for the most accurate reproduction.*
 
 # LIMAS Medical Devices & Diagnostics Pvt. Ltd
 
