@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oasys-software.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204042932id_/http%3A//www.oasys-software.com/customer-service/terms-and-conditions.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasys-software.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203013044id_/http%3A//www.oasys-software.com/customer-service/terms-and-conditions.html) for the most accurate reproduction.*
 
 # Oasys Software - Terms & Conditions
 
