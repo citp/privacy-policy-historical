@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museglobal.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203204558id_/http%3A//www.museglobal.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museglobal.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203053326id_/http%3A//www.museglobal.com/about/privacy.php) for the most accurate reproduction.*
 
 # MuseGlobal -- Privacy Policy
 
@@ -33,4 +33,4 @@ Your use of this site implies your consent to the collection of the information 
 ## Contact Information
 
 MuseGlobal Inc., welcomes your comments regarding this Statement of Privacy,  
-please [contact us](https://web.archive.org/web/20171203204558id_/http%3A//www.museglobal.com/about/contact.php). 
+please [contact us](https://web.archive.org/web/20180203053326id_/http%3A//www.museglobal.com/about/contact.php). 
