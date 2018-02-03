@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeessentials.co.uk privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129211612id_/http%3A//www.homeessentials.co.uk/shop/policies/policiesView.action%3FfinalTarget%3Dpolicies_rights%26decoration%3Dtrue%26cm_sp%3DIHM-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeessentials.co.uk privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203125726id_/https%3A//www.homeessentials.co.uk/shop/policies/policiesView.action%3FfinalTarget%3Dpolicies_rights%26decoration%3Dtrue%26cm_sp%3DIHM-Footer-_-PrivacyPolicy-_-PrivacyPolicy%26decoration%3Dtrue) for the most accurate reproduction.*
 
-# Home Essentials | Inspirational homeware for a beautiful home - home decor, bedding sets, garden furniture, fitted sofa covers & more | Home Essentials
+# Inspirational Homewares, Beauty, Electricals and Gifts – Find everything from Bedding Sets and Garden Furniture to personalised gifts for him and for her. | Home Beauty & Gift Shop
 
 ## Your Rights, Privacy and Data Protection
 
@@ -75,7 +75,7 @@ Manchester M60 6ES
 
 ### Returning items
 
-You can return most items for any reason, with some exceptions (see "Product Exceptions"). Unless you have told us you wish to cancel your order (see "Cancelling orders"), you must return the item to us within 14 days of receiving it. Please allow enough time for postal or courier services to reach us. We may accept a returned item received outside the 14-day return period but we reserve the right to charge a £3 late-return fee to cover the cost of processing it.
+You can return most items for any reason, with some exceptions (see "Product Exceptions"). Unless you have told us you wish to cancel your order (see "Cancelling orders"), you must return the item to us within 28 days of receiving it. Please allow enough time for postal or courier services to reach us.
 
 ### Cancelling orders
 
@@ -113,5 +113,5 @@ For staff training and for quality control purposes, your calls may be monitored
 
 YOU MAY PRINT OUT AND KEEP A PERMANENT COPY OF THESE TERMS AND CONDITIONS FOR YOUR REFERENCE BY CLICKING HERE
 
-[Ways to Pay](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_payment&decoration=true) [Deliveries & Returns](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_delivery&decoration=true) [Your Rights, Privacy & Data Protection](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_rights&decoration=true) [Your Personal Account](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_credit_summ&decoration=true) [The Environment & Other Useful Information](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_WEEE&decoration=true) [Cover Plan Information](https://web.archive.org/shop/warranties/cover.action) [FCA Complaints Reporting and Insurance Claims Ratio](http://images.drct2u.com/content/common/pdf/FSAComplaintsReportingNew.pdf)
+[Ways to Pay](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_payment&decoration=true) [Deliveries & Returns](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_delivery&decoration=true) [Your Rights, Privacy & Data Protection](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_rights&decoration=true) [Your Personal Account](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_credit_summ&decoration=true) [The Environment & Other Useful Information](https://web.archive.org/shop/policies/policiesView.action?finalTarget=policies_WEEE&decoration=true) [FCA Complaints Reporting and Insurance Claims Ratio](http://images2.drct2u.com/content/common/pdf/FSAComplaintsReportingNew.pdf)
   *[FCA]: Financial Conduct Authority
