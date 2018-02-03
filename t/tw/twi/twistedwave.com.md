@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistedwave.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508124911id_/http%3A//twistedwave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedwave.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203133004id_/https%3A//twistedwave.com/privacy) for the most accurate reproduction.*
 
 # TwistedWave Privacy Policy
 
@@ -17,3 +17,5 @@ The information collected is for statistical purposes. TwistedWave may use softw
 For site security purposes and to ensure that this service remains available to all users, TwistedWave uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 TwistedWave will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
+
+You can provide personally-identifying information by creating an account, either by manually entering your contact information, or by signing-in with a Google account. That information is used only to identify you, and to send any correspondance related to your usage of your TwistedWave Online account.
