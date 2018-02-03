@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addlocalnews.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003034633id_/http%3A//addlocalnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addlocalnews.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203225259id_/http%3A//addlocalnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - addlocalnews.com
 
