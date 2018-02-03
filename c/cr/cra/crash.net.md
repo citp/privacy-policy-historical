@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203174330id_/http%3A//www.crash.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203091146id_/https%3A//www.crash.net/privacy) for the most accurate reproduction.*
 
 # | Crash
 
@@ -6,7 +6,7 @@ This Privacy Policy explains the practices employed by CMG (UK) Ltd in collectin
 
 CMG (UK) Ltd will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. CMG (UK) Ltd will be the Data Controller of any personal data we collect about you.
 
-##  What information do we collect about you?
+## What information do we collect about you?
 
 Through CMG (UK) Ltd websites you can, amongst other things, order products and services, enter competitions, subscribe to our publications, vote in polls, play games, complete surveys and place postings on forums.
 
@@ -28,9 +28,9 @@ We will use the anonymous information we collect about you to analyse web usage 
 
 From time to time we will ask you whether you wish to receive marketing material from CMG (UK) Ltd containing information about our products and services. If you do not wish to receive such information please ensure that you opt-in or opt-out of receiving such information as appropriate. If you have consented to receiving such material you may opt-out at a later stage from:
 
-**Emails** \- by clicking on an email unsubscribe link;
+ **Emails** \- by clicking on an email unsubscribe link;
 
-**SMS** \- by following the instructions in any SMS message received;
+ **SMS** \- by following the instructions in any SMS message received;
 
 Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material. If this is the case you may unsubscribe to receiving such marketing material at any time by clicking on the e-mail unsubscribe link.
 
@@ -86,15 +86,15 @@ If you do not want your browser to accept cookies and use them in the ways descr
 
 We will use different cookies at various different stages of your use of our websites.
 
-### _Tracking and Customisation Cookies_
+###  _Tracking and Customisation Cookies_
 
 These are used to recognise repeat visitors to CMG (UK) Ltd websites and customise the visitor experience, as described above. They may also be used in conjunction with other information we or our third party partners hold to attempt to record specific browsing information (for example, regarding the way visitors arrive at CMG (UK) Ltd websites, pages viewed, options selected, information entered and the path taken through the CMG (UK) Ltd websites.
 
-### _Session Cookie_
+###  _Session Cookie_
 
 These are used to maintain your session when you sign in on CMG (UK) Ltd websites, allowing you to access CMG (UK) Ltd online services without the need to sign in on every page you visit. The session cookie is used to tailor advertising to you on CMG (UK) Ltd online services and websites and selected third party websites. If you opt out of tailored advertising, we stop using this cookie for this purpose.
 
-### _Advertising Cookies_
+###  _Advertising Cookies_
 
 In addition CMG (UK) Ltd works with third parties for the purpose of delivering targeted behavioural advertising to the CMG (UK) Ltd websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you.
 
@@ -104,7 +104,7 @@ Google DoubleClick serves advertising to CMG (UK) Ltd websites. When an advertis
 
 Opting out of behavioural advertising or DoubleClick tracking does not mean that you will no longer receive advertising when you are using CMG (UK) Ltd websites. It simply means the advertising you see will not be customised for you.
 
-More general information about behavioural advertising can be found at [www.youronlinechoices.com](http://www.youronlinechoices.com/). 
+More general information about behavioural advertising can be found at [www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
 Cookies placed independently by third parties
 
