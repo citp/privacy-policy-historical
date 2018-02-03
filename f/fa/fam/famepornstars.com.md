@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famepornstars.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120155519id_/http%3A//www.roccosiffredi.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famepornstars.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203144851id_/https%3A//www.roccosiffredi.com/en/privacy) for the most accurate reproduction.*
 
 # roccosiffredi
 
@@ -63,4 +63,4 @@ This policy does not apply to any linked websites to roccosiffredi. Please consu
 
 By using/navigating roccosiffredi Users acknowledge they have read, understood and agree to be bound by this privacy policy and the terms and conditions of roccosiffredi. Headings are for ease of reference only.
 
-Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#186b6d6868776a6c587e79757d6b6d6868776a6c367b7775) , online chat or by telephone at 1-877-711-7334. Any questions regarding credit card or other billing matters, please feel free to contact Chargepay B.V. at chargepay.net 
+Feel free to contact Us at Gamma Entertainment, 3300 Boulevard Cote Vertu, Suite 406, Montreal, QC, H4R 2B7, Canada. [**support@famesupport.com**](mailto:support@famesupport.com) , online chat or by telephone at 1-877-711-7334. Any questions regarding credit card or other billing matters, please feel free to contact Chargepay B.V. at chargepay.net 
