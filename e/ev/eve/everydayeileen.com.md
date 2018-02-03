@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everydayeileen.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203171758id_/http%3A//www.everydayeileen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayeileen.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203035951id_/http%3A//www.everydayeileen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Everyday Eileen
+# Privacy Policy - Everyday Eileen
 
 PRIVACY POLICY
 
