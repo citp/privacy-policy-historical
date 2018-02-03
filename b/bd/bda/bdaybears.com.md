@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126223728id_/http%3A//www.bdaybears.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdaybears.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204003437id_/http%3A//www.bdaybears.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
