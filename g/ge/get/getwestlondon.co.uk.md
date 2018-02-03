@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getwestlondon.co.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126232551id_/http%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getwestlondon.co.uk privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203094814id_/https%3A//www.getwestlondon.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Get West London: Number one for news, opinion, sport & celebrity gossip
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to all of our websites and our mobile applications (
 
 In this Privacy Policy, when we refer to any of our Website, we mean any website or mobile application operated by or on behalf of TRINITY MIRROR SOUTHERN LIMITED or its parent companies, subsidiaries and affiliates (collectively "Trinity Mirror"), regardless of how you access the network.
 
-By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our [Website Terms and Conditions](http://reg-cms1a.getwestlondon.co.uk:8080/terms-conditions/)
+By accessing the Website, you agree to be bound by these terms and conditions whenever you access the Website on any device. This Privacy Policy forms part of and is incorporated into our [Website Terms and Conditions](https://web.archive.org/terms-conditions/)
 
 Any changes to this policy will be posted here. We reserve the right to vary this Privacy Policy from time to time and such changes shall become effective as soon as they are posted. Your continued use of the Website constitutes your agreement to all such changes.
 
@@ -32,7 +32,7 @@ In addition to the services we provide on this web site we may want to offer you
 
 We may collect information from you when you fill in an online registration form for any of the services available on our Website, (e.g., chat areas, your Profile page, forums, shopping, advisory services, competitions etc.). We may also collect information you give us over the telephone or in written or other communications. The type of information we will collect includes, for example, your name, mailing address, email address, telephone numbers, gender, preferences and, where relevant, financial, credit card or bank details.
 
-We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](http://reg-cms1a.getwestlondon.co.uk:8080/cookie-policy/) page, which forms part of this [Privacy Policy](http://reg-cms1a.getwestlondon.co.uk:8080/privacy-policy/).
+We collect information about your use of the Website and services it offers through "cookies". For more information on "cookies" please see our [Cookie Policy](https://web.archive.org/cookie-policy/) page, which forms part of this [Privacy Policy](https://web.archive.org/privacy-policy/).
 
 In addition to personal information, we may also collect information about you automatically when you visit the Website by using cookies (small text files) trends which we may make use of ourselves, or pass to our associated companies or to unconnected parties and our advertising partner may also use cookies to serve advertisements that it believes are most likely to be of use or interest to you. For more information about cookies, including how to turn this feature off, please visit our [Cookie Policy](https://web.archive.org/cookie-policy/) page.
 
@@ -74,7 +74,7 @@ a result of a sale, merger, consolidation, change of control, transfer of assets
 
 We use ad serving technology to display the ads on our web pages. We use the cookie feature of this technology to anonymously manage and report on the effectiveness of the ads that you see. No personal data such as your name, address or email address are used during this process.
 
-If you do not wish this to happen, you can either click[ here](http://www.247realmedia.com/privacy.html) to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
+If you do not wish this to happen, you can either click [here](http://www.247realmedia.com/privacy.html) to obtain opt-out details or you can use the cookie preference settings in your browser to manage this process.
 
 More information on this can be found in the "Help" section of the browser that you are using.
 
@@ -82,7 +82,7 @@ More information on this can be found in the "Help" section of the browser that 
 
 TRINITY MIRROR PLC engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. TRINITY MIRROR PLC controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of TRINITY MIRROR SOUTHERN LIMITED is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to TRINITY MIRROR SOUTHERN LIMITED may be reassociated by TRINITY MIRROR SOUTHERN LIMITED with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
 
-Further information regarding Omniture's privacy statement can be found by clicking[ here](http://www.omniture.com/privacy/product).
+Further information regarding Omniture's privacy statement can be found by clicking [here](http://www.omniture.com/privacy/product).
 
  **OBTAINING YOUR PERSONAL INFORMATION**
 
