@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundaymercury.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229143951id_/http%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundaymercury.net privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203050119id_/https%3A//www.birminghammail.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Birmingham news, features, information and sport from the Birmingham Mail
 
