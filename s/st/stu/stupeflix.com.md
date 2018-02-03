@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722222652id_/https%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupeflix.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203022804id_/https%3A//studio.stupeflix.com/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Stupeflix
 
@@ -84,11 +84,10 @@ This policy was last modified on February 1st, 2013
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 By email:   
-[privacy@stupeflix.com](mailto:privacy@stupeflix.com)
+[privacy@gopro.com](mailto:privacy@gopro.com)
 
 By mail:   
-Stupeflix SAS   
-c/o Privacy Manager   
-49 rue Boursault   
-75017 Paris   
-FRANCE 
+GoPro, Inc.   
+3000 Clearview Way   
+San Mateo, CA   
+94402, USA 
