@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-time-traffic.net privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203231137id_/http%3A//real-time-traffic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-time-traffic.net privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203031459id_/http%3A//real-time-traffic.net/privacy.php) for the most accurate reproduction.*
 
 # Real Time Traffic Privacy Policy
 
