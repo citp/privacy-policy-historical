@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ga.gov privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909222338id_/http%3A//georgia.gov/privacysecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203030919id_/http%3A//georgia.gov/privacysecurity) for the most accurate reproduction.*
 
 # Privacy/Security | Georgia.gov
 
