@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvforum.uk privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324212806id_/http%3A//tvforum.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvforum.uk privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203071258id_/https%3A//tvforum.uk/help/privacy) for the most accurate reproduction.*
 
 # Cookies and privacy policy - TV Forum
 
@@ -50,4 +50,4 @@ Your password is ciphered (a one-way hash) so that it is secure. However, it is 
 
 ## Policy changes
 
-TV Forum reserves the right to revise and make changes to this policy at any time. The up to date version will be available from http://tvforum.uk. This policy was last updated on 10th June 2012.
+TV Forum reserves the right to revise and make changes to this policy at any time. The up to date version will be available from https://tvforum.uk. This policy was last updated on 10th June 2012.
