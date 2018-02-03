@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108133645id_/https%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timothysykes.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203110345id_/https%3A//www.timothysykes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Timothy Sykes
 
