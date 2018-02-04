@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712052026id_/https%3A//www.beckett.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204072739id_/https%3A//www.beckett.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -113,5 +113,11 @@ Beckett Collectibles Inc.
 4635 McEwen Road  
 Dallas, Texas 75244  
 webmaster@beckett.com
+
+### Online App Transactions
+
+Your chosen terms will automatically renew unless auto-renew is cancelled in your subscription area 24 hours before the end of the current subscription 
+
+You can choose a different subscription offering in your device account settings, or tap Cancel Subscription to cancel your subscription. If you cancel, your subscription will stop at the end of the current billing cycle.
 
 [Member Terms of Service Agreement](https://www.beckett.com/tos "Member Terms of Service Agreement")
