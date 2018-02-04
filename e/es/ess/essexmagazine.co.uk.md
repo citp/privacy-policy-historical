@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essexmagazine.co.uk privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130151221id_/http%3A//www.essexmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essexmagazine.co.uk privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204191451id_/http%3A//www.essexmagazine.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Essex Magazine
 
