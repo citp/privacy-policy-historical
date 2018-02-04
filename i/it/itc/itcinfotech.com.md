@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcinfotech.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204043538id_/http%3A//www.itcinfotech.com/%3Fpage_id%3D3260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcinfotech.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204172152id_/https%3A//www.itcinfotech.com/%3Fpage_id%3D3260) for the most accurate reproduction.*
 
 # ITC Infotech Privacy Policy: ITC Infotech
 
