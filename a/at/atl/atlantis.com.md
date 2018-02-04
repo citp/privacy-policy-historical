@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantis.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226194926id_/http%3A//atlantisbahamas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantis.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204061047id_/http%3A//atlantisbahamas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Atlantis Resort & Casino Paradise Island Bahamas
 
@@ -138,7 +138,7 @@ California residents are entitled to ask us for a notice describing what categor
 
 **CONTACT US**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#31414358475052487150455d505f45584241504350555842541f525e5c).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com).
 
 OR 
 
@@ -148,6 +148,6 @@ Executive Offices Coral Towers
 One Casino Drive  
 PO Box N-4777, Paradise Island, Bahamas
 
-If you do not want to receive e-mail from us in the future, please let us know by emailing us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#41313328372022380120352d202f35283231203320252832246f222e2c). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48383a213e292b3108293c2429263c213b38293a292c213b2d662b2725). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
+If you do not want to receive e-mail from us in the future, please let us know by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
 
-Upon request we provide Site visitors with access to all information including proprietary information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by emailing us: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1a6a68736c7b79635a7b6e767b746e73696a7b687b7e73697f34797577). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
+Upon request we provide Site visitors with access to all information including proprietary information that we maintain about them. Customers can access this information and if errors are found, request that this information be corrected by emailing us: [privacy@atlantisparadise.com](mailto:privacy@atlantisparadise.com). or calling us Toll Free at 1-888-528-7155 or if outside the US call 1-242-363-3000.
