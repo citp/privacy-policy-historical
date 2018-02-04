@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205021544id_/http%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204190535id_/https%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Politicus USA
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at politicususa@gmail.com.
 
