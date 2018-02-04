@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmompicks.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053526id_/http%3A//coolmompicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmompicks.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204175858id_/https%3A//coolmompicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cool Mom Picks
 
