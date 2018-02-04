@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202145720id_/http%3A//hclibrary.org/support-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204060726id_/https%3A//hclibrary.org/support-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -66,7 +66,7 @@ Contacting HCLS:
 
 If you have any questions about this privacy statement, the practices of HCLS, or your dealings with our web sites, please contact:
 
-Rita Hamlet
+ Rita Hamlet
 
 Howard County Library System  
 9411 Frederick Road  
