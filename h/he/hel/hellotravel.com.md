@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hellotravel.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608223307id_/http%3A//www.hellotravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellotravel.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204173600id_/https%3A//www.hellotravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Travel
-
-_Privacy Policy_
 
 We request all our users to read the following 'privacy policy' to understand how their personal & business information will be treated.
 
@@ -16,6 +14,8 @@ The Website may setup cookies on the Users hard drive and store certain personal
 Certain technical information about User's web browser, IP address and operating system are collected for security reasons. For wireless Users, the Website, strongly recommends that you should check with your subscriber and provide us the information to mark you out. 
 
 'Website' may utilize Users information for additional purposes also.
+
+Despite my number(s) are on Do Not Call Registry, I consent to be contacted by Hellotravel, a division of IndiaMART InterMESH Ltd., through phone calls, SMS notifications or any other means of communication, in respect to the services provided by Hellotravel and any of its associated companies.
 
 **Disclosure of Information**  
 'Website' will not disclose or share any of the user's personally identifiable information except when the 'Website' has the user's permission or under special circumstances, such as when 'Websites' believes in good faith that the law requires it or as permitted in terms of this policy. 
