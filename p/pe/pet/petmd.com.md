@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petmd.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022072341id_/http%3A//www.petmd.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petmd.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204042948id_/https%3A//www.petmd.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # PETMD PRIVACY POLICY | petMD
 
@@ -74,7 +74,7 @@ You may also be asked to participate in surveys about your experience(s) with th
 
 We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the PetMD web properties and Services and those of our affiliates, and other websites and applications. The information these entities may collect includes your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked, and information about actions you took when you saw or clicked on an ad. This information may be used by PetMD, our affiliates, and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services, our affiliates’ services, and other websites and services and better understand your online activity. Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. Neither PetMD nor its third party providers have a systematic method for ensuring that browser “Do Not Track” requests are consistently honored. However, you may learn more about online advertising and opt out of the use of your web browsing activity to serve targeted ads by companies that participate in the Digital Advertising Alliance by visiting [www.aboutads.info/choices](http://www.aboutads.info/choices/). You can also disable cookies in your browser, as described below.
 
-We may also work with other websites or platforms (such as Facebook) to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way. To opt out, [click here](http://www.networkadvertising.org/choices/).
+We may also work with other websites or platforms (such as Facebook) to serve ads to you as part of a customized campaign, unless you notify us that you prefer not to have information about you used in this way. To opt out, [click here](https://www.networkadvertising.org/choices/).
 
 ### Security
 
@@ -92,7 +92,7 @@ You may update, correct or delete information about you at any time by logging i
 
 #### **Cookies and Locally Stored Objects**
 
-Most web browsers are set to accept cookies and certain locally stored objects, like Web storage, by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies and some locally stored objects. However, these browser settings will not necessarily affect third party flash cookies used in connection with our Services. To delete or disable Flash cookies please visit <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html> for more information. Please note that if you choose to remove or reject cookies or locally stored objects, this could affect the availability and functionality of our Services. Currently, our systems do not recognize browser "do-not-track" signals.
+Most web browsers are set to accept cookies and certain locally stored objects, like Web storage, by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies and some locally stored objects. However, these browser settings will not necessarily affect third party flash cookies used in connection with our Services. To delete or disable Flash cookies please visit [http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for more information. Please note that if you choose to remove or reject cookies or locally stored objects, this could affect the availability and functionality of our Services. Currently, our systems do not recognize browser "do-not-track" signals.
 
 #### **Promotional Communications**
 
@@ -100,7 +100,7 @@ You may opt out of receiving promotional emails from PetMD by following the inst
 
 #### **Your California Privacy Rights**
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please [contact us here](https://web.archive.org/contact), or write us at: PetMD, LLC, Attn: Privacy Policy, 2260 Butler Pike, Plymouth Meeting, PA 19462. However, please note that under the law, Services such as ours that permit California residents to opt out of this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure. To opt out of having information about you shared with third parties for direct marketing purposes, please [click here](http://www.networkadvertising.org/choices/).
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please [contact us here](https://web.archive.org/contact), or write us at: PetMD, LLC, Attn: Privacy Policy, 2260 Butler Pike, Plymouth Meeting, PA 19462. However, please note that under the law, Services such as ours that permit California residents to opt out of this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure. To opt out of having information about you shared with third parties for direct marketing purposes, please [click here](https://www.networkadvertising.org/choices/).
 
 ### Contact Us
 
