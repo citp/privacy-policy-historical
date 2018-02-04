@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the later.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925111647id_/https%3A//later.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the later.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204075302id_/https%3A//later.com/privacy) for the most accurate reproduction.*
 
 # Later (previously Latergramme): Privacy Policy
 
