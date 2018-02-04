@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baublebar.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926185722id_/https%3A//www.baublebar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baublebar.com privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204160634id_/https%3A//www.baublebar.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BaubleBar
 
