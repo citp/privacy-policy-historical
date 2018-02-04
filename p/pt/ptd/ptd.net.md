@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptd.net privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206000528id_/http%3A//www.ptd.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptd.net privacy policy that was archived on 2018-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180204102623id_/https%3A//www.ptd.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PTD
 
