@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhregister.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206135347id_/http%3A//www.nhregister.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhregister.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205101436id_/http%3A//nhregister.com/privacy-policy) for the most accurate reproduction.*
 
 # New Haven Register - Privacy Policy - New Haven Register
 
