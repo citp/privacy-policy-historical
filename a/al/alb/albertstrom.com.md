@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the albertstrom.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albertstrom.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205190929id_/http%3A//www.albertstrom.com/privacy) for the most accurate reproduction.*
 
-# Legal
+# Privacy » Albert Strom
 
-* * *
+We are committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us.
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+We do not rent, sell, or share personal information about you with other people or non-affiliated companies.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+We may collect your name, job title, contact information including email address, demographic information such as postcode, preferences and interests, and other information relevant to customer surveys and/or offers. This information is to understand your needs and provide you with better service and products. Promotional emails will be sent about new products, special offers or other information which we think you may find interesting using the email address which you have provided. Additionally, we may use your information provided to customize the website according to your interests.
 
+We makes every effort to ensure that your purchase experience at our website is secure. We use the most powerful Secure Socket Layers (SSLs) encryption techniques to protect against loss, misuse or alteration of your user information. It simply adds security to the entire stream of data between the your internet browser and our system, therefore, giving you a sense of confidence in providing us with your card number. In addition, we use internet fraud screening to protect credit card transactions.
 
+And when you register on our website, We caution you to choose a password that is difficult to guess, but easy for you to remember. Please protcet your account info, If you find any shadiness about your account,please contact us, we will check the problem for you.
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
+Refer to credit card payment,we obtains credit card authorization information directly from the card-issuing bank for verification before completing any transaction.
+
+If you have any questions about this Privacy Policy, please contact us.
