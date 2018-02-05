@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nottinghampost.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119085941id_/http%3A//www.nottinghampost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nottinghampost.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205175133id_/https%3A//www.nottinghampost.com/privacy-policy) for the most accurate reproduction.*
 
 # Nottingham Post privacy policy
 
