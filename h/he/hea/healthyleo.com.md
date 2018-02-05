@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyleo.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204105918id_/http%3A//healthyleo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyleo.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205042932id_/https%3A//healthyleo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HealthyLeo.com
 
