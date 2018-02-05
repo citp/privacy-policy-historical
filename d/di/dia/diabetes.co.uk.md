@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606022830id_/http%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes.co.uk privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205051451id_/https%3A//www.diabetes.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -8,9 +8,9 @@ Engaging with each other and sharing health experiences and outcomes is improvin
 
 Of course, we have a privacy policy. However, our philosophy is open and transparent. Real-world data is innovating healthcare, and we're proud to be part of that innovation.
 
-You may also want to read [our mission](https://web.archive.org/web/20170606022830id_/http%3A//www.diabetes.co.uk/our-mission.html).
+You may also want to read [our mission](https://web.archive.org/web/20180205051451id_/https%3A//www.diabetes.co.uk/our-mission.html).
 
-This privacy policy (“Privacy Policy”) (together with our [Terms and Conditions](https://web.archive.org/web/20170606022830id_/http%3A//www.diabetes.co.uk/disclaimer.html) and any other documents referred to) sets out the basis on which any personal data we collect from you (whether sensitive personal data or otherwise) (“Personal Data”), or that you provide to us, via our website www.diabetes.co.uk (“Website”) and all branded pages on third party platforms (such as Facebook or YouTube) (insofar as they are applicable), will be processed by us. 
+This privacy policy (“Privacy Policy”) (together with our [Terms and Conditions](https://web.archive.org/web/20180205051451id_/https%3A//www.diabetes.co.uk/disclaimer.html) and any other documents referred to) sets out the basis on which any personal data we collect from you (whether sensitive personal data or otherwise) (“Personal Data”), or that you provide to us, via our website www.diabetes.co.uk (“Website”) and all branded pages on third party platforms (such as Facebook or YouTube) (insofar as they are applicable), will be processed by us. 
 
 **Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
@@ -107,7 +107,7 @@ Please note, we do not disclose information about identifiable individuals to su
   * in registering for the Diabetes.co.uk Prescription Service (DCUK+), Diabetes.co.uk will share that information once, to Pharmacy2U for that the purpose of Pharmacy2U providing the Prescription Services and Diabetes.co.uk will not store or use that information for any other purpose;
   * in the event that you register to take part in a clinical trial, in such circumstances we will only provide your personal information to the responsible clinical research organisation(s);
   * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/web/20170606022830id_/http%3A//www.diabetes.co.uk/disclaimer.html) and other agreements; 
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions](https://web.archive.org/web/20180205051451id_/https%3A//www.diabetes.co.uk/disclaimer.html) and other agreements; 
   * or to protect the rights, property, or safety of Diabetes Digital Media Limited, our customers, or others (this includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction);
   * for the prevention of crime, in accordance with the law, regulatory or governing body, for the purposes of preventing injury or harm to the data subject; or
   * otherwise in accordance with this Privacy Policy. 
