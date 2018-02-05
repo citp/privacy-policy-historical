@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediander.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206141026id_/http%3A//www.mediander.com/info/privacy_policy/%23%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediander.com privacy policy that was archived on 2018-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180205110257id_/http%3A//www.mediander.com/info/privacy_policy/%23%21) for the most accurate reproduction.*
 
 # Privacy Policy | Mediander
 
