@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirock.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026213724id_/https%3A//www.inspirock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirock.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206025041id_/https%3A//www.inspirock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Inspirock
 
