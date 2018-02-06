@@ -1,17 +1,35 @@
-> *The following text is extracted and transformed from the fallout3nexus.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921172529id_/https%3A//www.nexusmods.com/fallout3/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallout3nexus.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206172012id_/http%3A//help.nexusmods.com/article/20-privacy-policy) for the most accurate reproduction.*
 
-# Fallout3 Nexus - mods and community
+# Privacy Policy - Nexus Mods Site Help
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
+It is important for you to understand how we use the information we gather in regards to your usage of Nexus Mods websites and services. As part of our commitment to continuing service and expansion, as well as promoting a healthy environment for user interaction, Nexus Mods collects, stores, correlates, analyzes, and may disclose various types of data and information with our partners. This document details the nature of the types of data we collect, how we use it, and how we may disclose it.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and used to notify consumers about updates to our Web site.
+By using Nexus Mods websites, you acknowledge that you understand and accept the policies described below. If you do not agree with the policies described, please refrain from using our services.
 
-With respect to cookies: We use cookies to store visitors preferences, unique identifier information and ensure that visitors are not repeatedly sent the same banner ads.
+#### Personally-identifying Information
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+We do not require users to provide any personally-identifying information during general use of our websites. Personally-identifying information you submit to our services is done at your own discretion and by doing so, you are providing consent that this data may be stored, shared, and / or, displayed. We encourage that you use discretion when considering submission of any potentially sensitive information.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.
+For the purposes of processing financial transactions (such as our Supporter and Premium Membership Services), we store names and addresses as obligated by EU tax laws. You may remove these details at any time from within your user area. We do not store any credit card numbers and all data is transmitted to our payment providers using standard website encryption methods. More information regarding the billing process is provided by our financial partners and can be accessed during the transaction process.
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
+#### Usage Statistics Aggregation, Correlation, and Disclosure
 
-If you feel that this site is not following its stated information policy please [contact us](http://forums.nexusmods.com/index.php?app=nexus&module=support&section=new).
+Network statistics and browser data that are anonymous in nature such as service providers, IP addresses, browser types, screen resolution, and other non-personally-identifying information is gathered from our users, correlated and analyzed. This information is essential for us in order to provide continuing service, refine user experiences, and expand functionality. We never sell this data. However, by using our services, you understand that this anonymous data may be shared with our partners for purposes of analysis toward refinement of our services. Additionally, you understand that this data may also be shared with the public for informational and promotional purposes.
+
+#### Cookies
+
+We use cookies to uniquely identify you in order to provide personalized features, more convenience, and a better advertising experience. More information about cookies in general can be found at [http://allaboutcookies.org](http://allaboutcookies.org/).
+
+Allowing storage of cookies is recommended but not required.
+
+We are not responsible for cookies generated by our advertising partners.
+
+#### Third Party Services
+
+Certain services we provide may direct you to third-party websites which will have different policies regarding privacy. We are not responsible for these services and encourage you to be aware of the policies involved.
+
+#### Changes to These Policies
+
+We reserve the right to change this document at any time. We encourage you to review these policies periodically.
+
+Last updated on January 19, 2018
