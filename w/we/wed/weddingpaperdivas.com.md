@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218134008id_/https%3A//www.shutterflyinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingpaperdivas.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206113722id_/http%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shutterfly, Inc.
 
@@ -110,7 +110,7 @@ ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CON
 
 ## 12\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20171218134008id_/https%3A//www.shutterflyinc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20180206113722id_/http%3A//shutterflyinc.com/contact.html) page of any of our brands.
 
 ## 13\. Updates to Privacy Policy
 
