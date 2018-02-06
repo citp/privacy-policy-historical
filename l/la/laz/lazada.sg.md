@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazada.sg privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202191035id_/https%3A//www.lazada.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.sg privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206090618id_/https%3A//www.lazada.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lazada Singapore
 
