@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animetv.to privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206125344id_/https%3A//www2.animetv.to/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animetv.to privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206185804id_/http%3A//www3.animetv.to/privacy) for the most accurate reproduction.*
 
 # All free Anime for you - Animes TV
 
