@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902190611id_/https%3A//www.approvedindex.co.uk/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approvedindex.co.uk privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206042953id_/http%3A//www.approvedindex.co.uk/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy & Use of Cookies | Approved Index
 
