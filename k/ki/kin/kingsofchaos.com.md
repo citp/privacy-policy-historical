@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsofchaos.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208015312id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsofchaos.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206225243id_/http%3A//www.kingsofchaos.com/privacy.php) for the most accurate reproduction.*
 
 # Kings of Chaos :: Build Your Army, Conquer Your Enemies, Become a King of Chaos!
 
@@ -88,7 +88,7 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If users have any questions or suggestions regarding our privacy policy, please [contact us](mailto:%61%64%6d%69%6e%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d). 
 
-[Report Spam](https://web.archive.org/web/20171208015312id_/http%3A//www.kingsofchaos.com/spam.php) | [Privacy Policy](https://web.archive.org/web/20171208015312id_/http%3A//www.kingsofchaos.com/privacy.php) | [Business Queries](mailto:%62%69%7a%64%65%76%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d) | [Terms of Service](https://web.archive.org/web/20171208015312id_/http%3A//www.kingsofchaos.com/tos.php)
+[Report Spam](https://web.archive.org/web/20180206225243id_/http%3A//www.kingsofchaos.com/spam.php) | [Privacy Policy](https://web.archive.org/web/20180206225243id_/http%3A//www.kingsofchaos.com/privacy.php) | [Business Queries](mailto:%62%69%7a%64%65%76%40%6b%69%6e%67%73%6f%66%63%68%61%6f%73%2e%63%6f%6d) | [Terms of Service](https://web.archive.org/web/20180206225243id_/http%3A//www.kingsofchaos.com/tos.php)
 
 _Copyright © 2003-2012 Kings of Chaos, LLC. All rights reserved.  
 Kings of Chaos ® is a registered trademark of Kings of Chaos, LLC._  
