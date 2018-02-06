@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207141017id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlomedia.in privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206223628id_/http%3A//techlomedia.in/privacy-policy-techlomedia) for the most accurate reproduction.*
 
 # Privacy Policy
 
