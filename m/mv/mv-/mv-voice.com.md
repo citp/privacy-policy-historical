@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mv-voice.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911112317id_/https%3A//www.mv-voice.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mv-voice.com privacy policy that was archived on 2018-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180206040301id_/http%3A//www.mv-voice.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mountain View Online |
 
-_Last updated: Thursday, January 29, 2015 8:04 AM_
+_Last updated: Monday, January 8, 2018 2:33 PM_
 
 ### Privacy Policy 
 
@@ -36,6 +36,11 @@ We retain the right to use your e-mail address collected for the distribution of
 
 **Children's Privacy**  
 Protecting the privacy of young children is important to us. For that reason, we will not collect or maintain information at our Web site from those actually known to be under 13. The sole exception to this is our mailing lists. If a child under 13 signs up for our newsletter or any of our mailing lists, they will remain a member unless we are asked to remove them by their parent or legal guardian, or they elect to opt-out themselves. 
+
+**Security**  
+We take precautions to protect your information both online and offline. All of our sites use SHA-256 encrypted SSL Certificates. When we collect sensitive information (such as credit card data), the information is encrypted and transmitted in a secure way. Users can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.
+
+Further, we do not store credit card data in our database. mv-voice.com uses a third party provider (Braintree, [https://www.braintreepayments.com](https://www.braintreepayments.com/)) as our vault for storage of such data for our Websites. We never see the data, as it's passed directly to the provider, nor do we have a way of seeing the full information once it's encrypted. 
 
 **Other Disclosure of Personal Information**  
 We will not otherwise disclose or make use of personal information without consent of the user except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any online bulletin board, chat room, newsgroup, reviews or other public forum within our sites. 
