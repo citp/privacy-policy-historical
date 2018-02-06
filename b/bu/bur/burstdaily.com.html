@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the burstdaily.com privacy policy that was archived on 2017-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204234736id_/http%3A//burstdaily.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the burstdaily.com privacy policy that was archived on 2018-02-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180206154556id_/http%3A//burstdaily.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="pubexchange-jssdk" async="" src="//main.pubexchange.com/loader.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&amp;version=v2.5&amp;appId=1726173044323453"></script><script type="text/javascript" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/js/prebid.js?v=1"></script>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="pubexchange-jssdk" async="" src="//main.pubexchange.com/loader.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/js/prebid.js?v=2"></script>
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -253,7 +253,7 @@
 </script>
 <title>Privacy Policy - burstdaily.com</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
 <link rel="canonical" href="http://burstdaily.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -270,16 +270,16 @@
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="alternate" type="application/rss+xml" title="burstdaily.com » Feed" href="http://burstdaily.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="burstdaily.com » Comments Feed" href="http://burstdaily.com/comments/feed/">
-<link rel="stylesheet" id="burstdaily-googlefonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&amp;ver=4.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="semplicemente-child-style-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/style.min.css?timestamp=201711101010&amp;ver=4.8.4" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente/css/font-awesome.min.css?ver=4.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="burstdaily-googlefonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700&amp;ver=4.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="semplicemente-child-style-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/style.min.css?timestamp=201801041605&amp;ver=4.9.2" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente/css/font-awesome.min.css?ver=4.9.2" type="text/css" media="all">
 <!--[if lt IE 9]>
 <script type='text/javascript' src='http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/semplicemente/js/html5.js?ver=3.7.2'></script>
 <![endif]-->
 <link rel="https://api.w.org/" href="http://burstdaily.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://burstdaily.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.8.4">
+<meta name="generator" content="WordPress 4.9.2">
 <link rel="shortlink" href="http://burstdaily.com/?p=506">
         <!-- Utm2DFPKeyValues code START -->
         <script>
@@ -313,6 +313,9 @@
         <!-- Utm2DFPKeyValues code END -->
 
         <script>
+
+	var FORCE_TEST_ID = 99999;
+
 	var hex_test = {
 		active: false,
 		id: '',
@@ -333,22 +336,7 @@
 		}
 	};
 
-	hex_test.setTestId(4);
-
-	if (sessionStorage.getItem(hex_test.name()) !== null && isJsonString(sessionStorage.getItem(hex_test.name()))) {
-		var storedTest = JSON.parse(sessionStorage.getItem(hex_test.name()));
-		hex_test.id = storedTest.id;
-		hex_test.variant = storedTest.variant;
-	} else {
-		hex_test.variant = randomVariant();
-
-		try {
-			sessionStorage.setItem(hex_test.name(), JSON.stringify(hex_test));
-		}
-		catch (e) {
-			console.log(e);
-		}
-	}
+	// hex_test.setTestId(4);
 
 	function randomVariant () {
 		var randomizer = Math.random();
@@ -361,6 +349,50 @@
 		return variant;
 	}
 
+	var force_test_variant = false;
+	var force_test_variant_name = getParameterByName('test');
+
+	if ( force_test_variant_name && ( '' !== force_test_variant_name ) ) {
+		if ( 'clear' === force_test_variant_name ) {
+			clearTest( FORCE_TEST_ID );
+		} else {
+			clearTest( FORCE_TEST_ID );
+			clearTest( '' );
+			hex_test.setTestId( FORCE_TEST_ID );
+			hex_test.variant = force_test_variant_name;
+			force_test_variant = true;
+		}
+	}
+
+	if ( null !== sessionStorage.getItem( 'hex_test_' + parseInt( FORCE_TEST_ID ) ) ) {
+		hex_test.setTestId( FORCE_TEST_ID );
+	}
+
+	if ( !force_test_variant && sessionStorage.getItem(hex_test.name()) !== null && isJsonString(sessionStorage.getItem(hex_test.name()))) {
+		var storedTest = JSON.parse(sessionStorage.getItem(hex_test.name()));
+		hex_test.id = storedTest.id;
+		hex_test.variant = storedTest.variant;
+	} else {
+		if ( !force_test_variant ) {
+			hex_test.variant = randomVariant();
+		}
+		try {
+			sessionStorage.setItem(hex_test.name(), JSON.stringify(hex_test));
+		}
+		catch (e) {
+			console.log(e);
+		}
+	}
+
+	function clearTest(test_id) {
+		var test_name = 'hex_test_' + test_id;
+		try {
+			sessionStorage.removeItem( test_name );
+		} catch (e) {
+			console.log( 'Warning: I was not able to remove test "' + test_name + '"' );
+		}
+	}
+
 	function isJsonString (str) {
 		try {
 			JSON.parse(str);
@@ -369,6 +401,27 @@
 		}
 		return true;
 	}
+
+	function getParameterByName(name, url) {
+		var regex, results;
+
+		if (!url) {
+			url = window.location.href;
+		}
+		url = url.toLowerCase(); // This is just to avoid case sensitiveness
+		name = name.replace(/[\[\]]/g, "\\$&").toLowerCase();// This is just to avoid case sensitiveness for query parameter name
+		regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)");
+		results = regex.exec(url);
+
+		if (!results) {
+			return null;
+		}
+		if (!results[2]) {
+			return '';
+		}
+		return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+
 </script>
 <script>
 	function getSize () {
@@ -829,9 +882,9 @@
 		};
 
 		var audienceNetworkMobileBids = {
-			'div-gpt-ad-1472285514182-1': audienceNetworkBid("1737179193200719_1875461482705822"), //BD-CNTNT-02
-			'div-gpt-ad-1472285514182-2': audienceNetworkBid("1737179193200719_1875461566039147"), //BD-CNTNT-03
-			'div-gpt-ad-1472285514182-6': audienceNetworkBid("1737179193200719_1875461669372470")  //BD-CNTNT-07
+			'div-gpt-ad-1472285514182-1': audienceNetworkBid("1726173044323453_2031091230498298"), //BD-CNTNT-02
+			'div-gpt-ad-1472285514182-2': audienceNetworkBid("1726173044323453_2031091373831617"), //BD-CNTNT-03
+			'div-gpt-ad-1472285514182-6': audienceNetworkBid("1726173044323453_2031091453831609")  //BD-CNTNT-07
 		};
 
 //		var districtmMobileBids = {
@@ -1259,11 +1312,7 @@
             (function () {
                 var d = document, pbs = d.createElement("script"), pro = d.location.protocal;
                 pbs.type = "text/javascript";
-                if (hex_test.activeTest('prebid33')) {
-                    pbs.src = 'http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/js/prebid33.js?v=1';
-                } else {
-                    pbs.src = 'http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/js/prebid.js?v=1';
-                }
+                pbs.src = 'http://18216-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/burstdaily-dartfish/js/prebid.js?v=2';
                 var target = document.getElementsByTagName("head")[0];
                 target.insertBefore(pbs, target.firstChild);
             })();
@@ -1519,29 +1568,36 @@
 <body class="page-template-default page page-id-506 not-multipage not-mullet group-blog base">
 
 <script>
-    window.fbAsyncInit = function() {
-        FB.Event.subscribe(
-            'ad.loaded',
-            function(placementId) {
-                console.log('Audience Network ad loaded');
-            }
-        );
-        FB.Event.subscribe(
-            'ad.error',
-            function(errorCode, errorMessage, placementId) {
-                console.log('Audience Network error (' + errorCode + ') ' + errorMessage);
-            }
-        );
-    };
-    (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&version=v2.5&appId=1726173044323453";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-</script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId      : '1726173044323453',
+			cookie     : true,
+			xfbml      : true,
+			version    : 'v2.10'
+		});
+		FB.Event.subscribe(
+			'ad.loaded',
+			function(placementId) {
+				console.log('Audience Network ad loaded');
+			}
+		);
+		FB.Event.subscribe(
+			'ad.error',
+			function(errorCode, errorMessage, placementId) {
+				console.log('Audience Network error (' + errorCode + ') ' + errorMessage);
+			}
+		);
+		FB.AppEvents.logPageView();
+	};
 
+	(function(d, s, id){
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
 
 <div id="page" class="hfeed site">
 
@@ -1655,7 +1711,7 @@
 
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
-						© 2017 <a href="http://burstdaily.com/">burstdaily.com</a>
+						© 2018 <a href="http://burstdaily.com/">burstdaily.com</a>
 			<div class="menu-footer-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-17529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17529"><span class="sep"> | </span><a href="http://burstdaily.com/terms-of-service/">Terms Of Service</a></li>
 <li id="menu-item-17530" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-506 current_page_item menu-item-17530"><span class="sep"> | </span><a href="http://burstdaily.com/privacy-policy/">Privacy Policy</a></li>
 </ul></div>
