@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manjaree.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208140246id_/http%3A//manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manjaree.com privacy policy that was archived on 2018-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180207092116id_/http%3A//www.manjaree.com/Info/PrivicyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
