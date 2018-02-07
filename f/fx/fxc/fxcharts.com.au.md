@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcharts.com.au privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208204828id_/http%3A//fxcharts.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcharts.com.au privacy policy that was archived on 2018-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180207203620id_/http%3A//fxcharts.net/privacy) for the most accurate reproduction.*
 
 # Privacy - FXCharts
 
