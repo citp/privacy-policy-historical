@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2017-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170430054812id_/https%3A//forensiq.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forensiq.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208000547id_/https%3A//forensiq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forensiq
 
-Effective Date August 20, 2014
+Updated October 12, 2017
 
 Forensiq LLC (“Forensiq”) is an industry leader in online fraud detection. Our technology platform provides measurements about ad impression delivery to help advertisers and advertising inventory sellers confirm accurate delivery characteristics, including viewability metrics and ad impression fraud characteristics. Additionally, advertisers use information we provide about ad impression opportunities to preemptively decide if they want their creative displayed in the available impression environment. With this advanced technology and our dedicated team of data scientists we help you eliminate impression fraud, click fraud, affiliate fraud and cookie stuffing.
 
@@ -74,17 +74,13 @@ We take commercially reasonable security measures to protect the information in 
 
 We intend our services to only be used by adults. We do not collect any personally identifiable information via our services. If we discover that a child under the age of 13 has supplied personally identifiable information to us via our services without his/her parent’s consent, we will use reasonable attempts to ensure that this information is deleted from our system.
 
-### U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
-
-Forensiq, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Forensiq, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Forensiq, LLC’s certification, please visit <http://www.export.gov/safeharbor/>
-
 ### We also have a zero tolerance anti-spam policy
 
 We do not send emails to prospects unless they have completed an “opt in” form indicating an interest in Forensiq services, or otherwise requested them from a Forensiq representative. Forensiq is promoted via word-of-mouth, advertisement, joint ventures, and trade shows, hence, we only build relationships with users who want to learn about our services and have chosen to subscribe to emails.
 
 ### Dispute Resolution
 
-Forensiq LLC participates in the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request). Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information. TRUSTe’s Dispute Resolution process is only available in English.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 ### Changes to This Privacy Policy
 
