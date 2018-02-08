@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129092341id_/http%3A//worldwebdirectoryindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwebdirectoryindex.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208021329id_/http%3A//worldwebdirectoryindex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Directory Index - High quality backlinks
 
