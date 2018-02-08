@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072508id_/http%3A//www.drivers.com/privacy_drivers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208195009id_/https%3A//www.drivers.com/privacy_drivers) for the most accurate reproduction.*
 
 # Privacy Policy - Drivers.com
 
-This privacy notice discloses the privacy practices for http://www.drivers.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
+This privacy notice discloses the privacy practices for www.drivers.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
   2. What choices are available to you regarding the use of your data.
