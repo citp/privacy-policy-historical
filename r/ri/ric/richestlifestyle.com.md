@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richestlifestyle.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206170041id_/http%3A//richestlifestyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richestlifestyle.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208084813id_/https%3A//richestlifestyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Celebrity Net Worth and Lifestyle | Entertainment and Sports Rich List
 
