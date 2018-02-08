@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608154717id_/http%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 420magazine.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209000843id_/https%3A//www.420magazine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : 420 MAGAZINE ® - Medical Marijuana Publication & Social Networking
+# Privacy Policy | 420 MAGAZINE ®
 
 Here at 420Magazine.com we value your business. This brief privacy statement discusses what information we collect about you and what we do with that information.
 
@@ -8,4 +8,4 @@ We have access to your alias and your email address. This information is careful
 
 We send out weekly newsletters to our subscriber base informing them of what is happening in our industry. You may unsubscribe from these mailings at any time by sending an email to unsubscribe at 420magazine.com and you can be sure we will never share your email address with anyone. Most of our business is from loyal customers and we would never intentionally do anything to jeopardize the trust you have in us.
 
-Our server collects the usernames, ip addresses, dates and times and other electronic information about visitors to our website. This information is used solely for security purposes (to prevent hacking and password trading and for banning trouble makers). 
+Our server collects the usernames, ip addresses, dates and times and other electronic information about visitors to our website. This information is used solely for security purposes (to prevent hacking and password trading and for banning trouble makers).
