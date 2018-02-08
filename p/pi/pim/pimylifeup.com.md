@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimylifeup.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504233954id_/https%3A//pimylifeup.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimylifeup.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208160045id_/https%3A//pimylifeup.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy - Pi My Life Up
 
@@ -55,7 +55,7 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DoubleClick cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DoubleClick cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/ads/preferences/ Tracking of users through the DoubleClick cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DoubleClick cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/ads/preferences/> Tracking of users through the DoubleClick cookie mechanisms are subject to Google’s own privacy policies.
 
 ### Business Transfers
 
