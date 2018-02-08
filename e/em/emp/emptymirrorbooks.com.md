@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628162748id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208220935id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # FTC Disclosure & Privacy Policy - Empty Mirror
 
@@ -12,9 +12,9 @@ The owner(s) of this blog may be compensated to provide opinion on products and 
 
 ### Amazon Disclosure
 
-Empty Mirror is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=emptymirrorc-20).
+Empty Mirror is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to [Amazon.com](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=emptymirrorc-20).
 
-Visit [Amazon](http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=emptymirrorc-20).
+Visit [Amazon](https://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=emptymirrorc-20).
 
 ### Privacy Policy:
 
@@ -81,7 +81,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [web site privacy policy](https://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
@@ -93,5 +93,5 @@ This policy was last modified on 2/4/12
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.emptymirrorbooks.com/  
+https://www.emptymirrorbooks.com/  
 
