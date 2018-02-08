@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tartecosmetics.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204071252id_/http%3A//tartecosmetics.com/en_US/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tartecosmetics.com privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208013000id_/https%3A//tartecosmetics.com/en_US/customer-service/privacy-security/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
