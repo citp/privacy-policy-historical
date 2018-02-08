@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localads.co.uk privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209092423id_/http%3A//www.justlooking.com/UK/pages/display/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localads.co.uk privacy policy that was archived on 2018-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180208035828id_/http%3A//www.justlooking.com/UK/pages/display/privacy-policy) for the most accurate reproduction.*
 
 # Justlooking - Deals, Discounts, Vouchers & Money Saving Tips
 
