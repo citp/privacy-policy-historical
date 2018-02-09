@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtobypass.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206122711id_/http%3A//howtobypass.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtobypass.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209074915id_/http%3A//howtobypass.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,4 +23,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [HowToBypass.com](https://web.archive.org/web/20171206122711id_/http://howtobypass.com/privacy-policy/%E2%80%9Dhttp://www.HowToBypass.com.com%E2%80%9D)
+AdSense Privacy Policy Provided by [HowToBypass.com](https://web.archive.org/web/20180209074915id_/http://howtobypass.com/privacy-policy/%E2%80%9Dhttp://www.HowToBypass.com.com%E2%80%9D)
