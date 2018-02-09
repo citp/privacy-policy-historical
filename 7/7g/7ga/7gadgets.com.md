@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208100314id_/http%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7gadgets.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209142438id_/https%3A//www.7gadgets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
