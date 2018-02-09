@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stmath.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211135707id_/https%3A//www.stmath.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stmath.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210003044id_/https%3A//www.stmath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visual Math Learning | ST Math
 
