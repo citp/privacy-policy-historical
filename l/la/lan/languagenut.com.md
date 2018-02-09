@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the languagenut.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211002523id_/http%3A//www.languagenut.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the languagenut.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209234452id_/http%3A//www.languagenut.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Languagenut America
 
@@ -48,4 +48,4 @@ You should be aware that if we are requested by the police or any other regulato
 
 We use Cookies to keep track of your use of this Website and any shopping session to personalise your experience and so that you may obtain access to your training session or to retrieve your shopping basket at any time – if you do not accept Cookies you will be unable to use this Website.
 
-Issue Date [05.05.17] 
+Issue Date [05.05.17]
