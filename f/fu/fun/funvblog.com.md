@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210160931id_/http%3A//www.wackyy.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209153233id_/https%3A//www.wackyy.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -66,4 +66,4 @@ By using Wackyy, you signify your acceptance of this Privacy Statement. If you a
 
 **How to Contact Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us through email **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us through email **admin.funvblog@gmail.com**
