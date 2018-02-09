@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mention.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120202605id_/http%3A//en.support.mention.com/article/435-what-is-mentions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mention.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209180704id_/http%3A//en.support.mention.com/article/435-what-is-mentions-privacy-policy) for the most accurate reproduction.*
 
 # What is Mention's Privacy Policy? - Mention Knowledge Base
 
-Mention Solutions is committed to safeguarding the Personal Data of Users. This privacy policy (“ **Privacy Policy** ”) is part of the [ToS](http://en.support.mention.com/article/443-terms-of-service). Each word defined in the [ToS](http://en.support.mention.com/article/443-terms-of-service) has the same meaning in the Privacy Policy.
+Mention Solutions is committed to safeguarding the Personal Data of Users. This privacy policy (“ **Privacy Policy** ”) is part of the [ToS](https://en.support.mention.com/article/443-terms-of-service). Each word defined in the [ToS](https://en.support.mention.com/article/443-terms-of-service) has the same meaning in the Privacy Policy.
 
 By using the Services, Users agree to abide and be bound by this Privacy Policy, which may be modified or updated from time to time without notice. In this event the update will be displayed on Mention Solutions’ websites.
 
