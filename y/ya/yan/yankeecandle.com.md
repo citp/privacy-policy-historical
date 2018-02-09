@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206084620id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209105454id_/https%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security | Yankee Candle
 
@@ -26,11 +26,10 @@ Shop Our Brands
   * [ **Large Candles** ](https://web.archive.org/browse/large-candles/_/N-9zn)
   * [ **New Arrivals** ](https://web.archive.org/browse/new-arrivals/_/N-a0g)
   * [ **Personalized Photo Candles** ](https://web.archive.org/candleConfigurator/cchomepage.jsp)
-  * [ **Christmas** ](https://web.archive.org/browse/christmas-candles-and-accessories/_/N-arm)
 
 
 
-[](https://web.archive.org/customer-service/shipping-information)
+*FREE SHIPPING when you spend $100 or more. [details](https://web.archive.org/customer-service/shipping-information)
 
 Enter your order number to track your order.
 
@@ -125,7 +124,7 @@ South Deerfield, MA 01373-0110
 
 Despite your indicated e-mail or mail preferences, we may send you service related communication. For example, we may send you notices of any updates to our Terms of Use or Privacy Policy and when you purchase from us online or through our catalogs, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via phone, email or mail to address questions or issues specific to your order or for other service-related reasons, even if you have opted to not receive promotional communications.
 
-If you wish to opt out of sharing information associated with the activities identified in the Third Party Advertisements section above, as noted above visit the NAI website at: [www.networkadvertising.org](https://web.archive.org/web/20171206084620id_/http%3A//www.yankeecandle.com/customer-service/www.networkadvertising.org).
+If you wish to opt out of sharing information associated with the activities identified in the Third Party Advertisements section above, as noted above visit the NAI website at: [www.networkadvertising.org](https://web.archive.org/web/20180209105454id_/https%3A//www.yankeecandle.com/customer-service/www.networkadvertising.org).
 
 [Return to Customer Service Home](https://web.archive.org/customer-service)
 
@@ -195,4 +194,4 @@ We do not intentionally gather personally identifiable information from visitors
 
 [Return to Customer Service Home](https://web.archive.org/customer-service)
 
-Copyright 2017 The Yankee Candle Company, Inc. All Rights Reserved [ ](https://www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur "See Yankee Candle Company Review at Bizrate.com") [](http://secure.trust-guard.com/security/8227) [SSL Certificate](https://www.digicert.com/ssl-certificate.htm)
+Copyright 2018 The Yankee Candle Company, Inc. All Rights Reserved [ ](https://www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur "See Yankee Candle Company Review at Bizrate.com") [](http://secure.trust-guard.com/security/8227) [SSL Certificate](https://www.digicert.com/ssl-certificate.htm)
