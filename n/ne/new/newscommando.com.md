@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscommando.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210004528id_/http%3A//www.newscommando.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscommando.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209210422id_/http%3A//www.newscommando.com/privacy-policy.html) for the most accurate reproduction.*
 
 # NEWSCOMMANDO Politics Movies Latest News Andhra Pradesh Telengana Movie News, Gossips, Movie Reviews, Analysis, Gallery
 
