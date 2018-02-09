@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113195237id_/https%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209085403id_/https%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - INQUIRER.net Services | INQUIRER.net Services
 
