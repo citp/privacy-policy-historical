@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.pk privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914025937id_/https%3A//www.freelancer.pk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.pk privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209193048id_/https%3A//www.freelancer.pk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freelancer
 
