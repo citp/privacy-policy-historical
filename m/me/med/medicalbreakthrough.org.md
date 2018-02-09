@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalbreakthrough.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619121617id_/http%3A//www.medicalbreakthrough.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalbreakthrough.org privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209215255id_/http%3A//medicalbreakthrough.org/privacy-policy.php) for the most accurate reproduction.*
 
 # MedicalBreakthrough.org - Official Site of Medical Breakthrough™ Massage Chairs!
 
