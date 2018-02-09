@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinkl.ie privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210160922id_/http%3A//www.twinkl.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.ie privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209023502id_/https%3A//www.twinkl.ie/privacy-policy) for the most accurate reproduction.*
 
 # Twinkl User Privacy & Data Protection Policies
 
@@ -70,9 +70,9 @@ Twinkl Limited takes your privacy very seriously and we are compliant with the p
 
 ### 7\. Access to your information and updating and correcting your information
 
-7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to [info@twinkl.co.uk](http://www.twinkl.ie/info@twinkl.co.uk?Subject=Privacy%20policy) or send a letter to Twinkl Global HQ, Wards Exchange, 195-199 Ecclesall Road, Sheffield, S11 8HW, United Kingdom. We may make a small charge for this service to cover our administrative costs.
+7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to [info@twinkl.co.uk](https://www.twinkl.ie/info@twinkl.co.uk?Subject=Privacy%20policy) or send a letter to Twinkl Global HQ, Wards Exchange, 195-199 Ecclesall Road, Sheffield, S11 8HW, United Kingdom. We may make a small charge for this service to cover our administrative costs.
 
-7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl Limited changes, or if you wish to cancel your registration, please let us know the correct details by sending an email to [twinklcares@twinkl.co.uk](http://www.twinkl.ie/twinklcares@twinkl.co.uk). You may ask us, or we may ask you, to correct or remove information you or we think is inaccurate.
+7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl Limited changes, or if you wish to cancel your registration, please let us know the correct details by sending an email to [twinklcares@twinkl.co.uk](https://www.twinkl.ie/twinklcares@twinkl.co.uk). You may ask us, or we may ask you, to correct or remove information you or we think is inaccurate.
 
 ### 8\. Sale of business
 
@@ -88,4 +88,4 @@ Our privacy policy is subject to regular review. If we change our privacy policy
 
 ### 11\. How to contact Twinkl
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please use your preferred method from our [contact us](http://www.twinkl.ie/contact-us) page.
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please use your preferred method from our [contact us](https://www.twinkl.ie/contact-us) page.
