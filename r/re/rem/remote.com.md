@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remote.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616050504id_/https%3A//help.remote.com/terms-of-service-and-privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remote.com privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209192147id_/https%3A//help.remote.com/terms-of-service-and-privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Remote.com Help Center
 
