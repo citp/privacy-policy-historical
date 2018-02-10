@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210060555id_/http%3A//burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210112054id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
 
 # 
 
 Founded in 1931, Burke is an international leader in decision support services. We are committed to quality, honesty, and integrity in all endeavors.
 
-As one of the founding members of the Council of American Survey Research Organizations (CASRO), Burke demonstrates its commitment to clients and to the public by adhering to a mandatory Code of Standards and Ethics for Survey Research. This adherence includes respecting the voluntary nature of research participation and taking steps to protect respondents' identities. Burke also monitors the privacy policies of other industry organizations and works to conform to common standards of ethical practice. Burke seeks to avoid any actions that might bring Internet research into disrepute or reduce confidence in its findings.
+As one of the founding members of Insights Association (formerly the Council of American Survey Research Organizations - CASRO), Burke demonstrates its commitment to clients and to the public by adhering to a mandatory Code of Standards and Ethics for Survey Research. This adherence includes respecting the voluntary nature of research participation and taking steps to protect respondents' identities. Burke also monitors the privacy policies of other industry organizations and works to conform to common standards of ethical practice. Burke seeks to avoid any actions that might bring Internet research into disrepute or reduce confidence in its findings.
 
 We place the same high value on the trust of the people who use our Web site. Therefore we want you to know what our policy is regarding information we obtain from you while you are visiting our site.
 
@@ -53,5 +53,11 @@ Telephone:
 Burke has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to the INSIGHTS ASSOCIATION PRIVACY SHIELD PROGRAM, a non-profit alternative dispute resolution provider located in the United States and operated by the Insights Association. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.insightsassociation.org/get-support/privacy-shield-program/privacy-shield-eu-swiss-citizens-file-complaint> for more information and to file a complaint. This dispute resolution service is offered at no cost to you.
 
 Burke is under the enforcement authority of the Federal Trade Commission to adhere to the EU-US and Swiss-US Privacy Shield Frameworks. It may be possible, under certain limited conditions, for European Union individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
+
+CAN-SPAM Act
+
+Although emails for survey research purposes do not qualify as spam, Burke is careful to employ legitimate business practices when inviting consumers to participate in survey, opinion and market research studies online. Burke includes accurate header and subject information and opt out notices in all email distributions and only partner with reputable email vendors who comply with the law.
+
+We may change our privacy policies from time to time. We will notify you of any material changes as required by law by posting the revised privacy statement on this page with a new "Latest Revision Date."
 
 Please contact Burke using the Mail, E-mail or Telephone options listed above if you have any questions or comments about this privacy policy.
