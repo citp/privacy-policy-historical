@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025094936id_/http%3A//lazyaffiliate.ninja/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210051313id_/http%3A//lazyaffiliate.ninja/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lazy Affiliate Ninja
 
