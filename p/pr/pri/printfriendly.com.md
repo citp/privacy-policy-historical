@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfriendly.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108235245id_/https%3A//www.printfriendly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfriendly.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210052306id_/https%3A//www.printfriendly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
