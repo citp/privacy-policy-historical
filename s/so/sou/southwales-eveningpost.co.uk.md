@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwales-eveningpost.co.uk privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231170059id_/http%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwales-eveningpost.co.uk privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210082744id_/https%3A//www.walesonline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # WalesOnline: News, sport, weather and events from across Wales
 
