@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthnewstips.today privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229212729id_/http%3A//healthnewstips.today/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthnewstips.today privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210152337id_/https%3A//healthnewstips.today/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HealthNewsTips
+# Privacy Policy - Health News Tips | Healthier Life Style
 
 At HealthNewsTips, we respect your privacy and have established this Privacy Policy to describe our policies and practices with respect to the information that we collect from users of our website at [HealthNewsTips.today](http://healthnewstips.today/wp-content/uploads). Please review this Privacy Policy before you use our site or any of the services or features offered on or through our site. By using our site and its services and features, you agree to be bound by this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our site or its services and features.
 
@@ -60,6 +60,6 @@ Our site may contain links to websites or products and services offered by third
 
 We reserve the right to amend or revise this Privacy Policy, in whole or in part, at any time in our sole discretion. Any such amendments will take effect on the earlier of when they are posted on our site or the date you are notified by email communication (at the email address provided in your account). Your use of our site or its products and services after such amendments have been posted shall constitute your agreement to and acceptance of said amendments.
 
-If you have any questions or concerns, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or concerns, please email us at contact@healthnewstips.today
 
-(Visited 321 times, 1 visits today)
+(Visited 364 times, 1 visits today)
