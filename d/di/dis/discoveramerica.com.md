@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183153id_/https%3A//www.visittheusa.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoveramerica.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210101225id_/https%3A//www.visittheusa.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visit The USA
 
-This statement outlines the policies and practices of the Corporation for Travel Promotion doing business as BrandUSA regarding the collection and use of your personal information from your visit to our website, VisitTheUSA.com (the ‘website’). It includes our policies for the Brand USA guests, Site visitors, affiliates, members and non-members. If after reviewing our privacy policy you have any questions or concerns please send an email to:[webadministrator@thebrandusa.com](mailto:webadministrator@thebrandusa.com) or send a letter to the following address. We welcome your recommendations, suggestions and feedback.
+This statement outlines the policies and practices of the Corporation for Travel Promotion doing business as BrandUSA regarding the collection and use of your personal information from your visit to our website, VisitTheUSA.com (the ‘website’). It includes our policies for the Brand USA guests, Site visitors, affiliates, members and non-members. If after reviewing our privacy policy you have any questions or concerns please send an email to:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0770626566636a6e696e7473756673687547736f6265756669637274662964686a) or send a letter to the following address. We welcome your recommendations, suggestions and feedback.
 
 Brand USA  
 1725 Eye (I) Street, NW, Suite 800  
@@ -31,7 +31,7 @@ The website may have a section that allows certain visitors, marketing partners 
 
  **Emails/Newsletters**
 
-It is our intention to only send you email communications that you want to receive. When you provide us with your email address by creating an account, we will periodically contact you via email about Brand USA, its programmes and services. Every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email. You may also opt-out by emailing webadministrator@thebrandusa.com or sending a letter to:
+It is our intention to only send you email communications that you want to receive. When you provide us with your email address by creating an account, we will periodically contact you via email about Brand USA, its programmes and services. Every time you receive an email, you will be provided the choice to opt-out of future emails by following the instructions provided in the email. You may also opt-out by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or sending a letter to:
 
 Brand USA  
 1725 Eye (I) Street, NW, Suite 800  
@@ -76,7 +76,7 @@ Comments, suggestions or questions about our privacy policy statement and Brand 
 
 Please contact us:
 
-By email, at [webadministrator@thebrandusa.com](mailto:webadministrator@thebrandusa.com).
+By email, at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfb8aaadaeaba2a6a1a6bcbbbdaebba0bd8fbba7aaadbdaea1abbabcaee1aca0a2).
 
 By phone: (202) 822-2160 ext. 102
 
