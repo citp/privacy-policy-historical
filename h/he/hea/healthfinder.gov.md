@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729130629id_/https%3A//healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210184754id_/https%3A//healthfinder.gov/aboutus/privacy.aspx) for the most accurate reproduction.*
 
-# healthfinder.gov - Privacy Policy
+# Privacy Policy - healthfinder.gov
 
 healthfinder.gov is a government website offering reliable information and tools to help you and those you care about stay healthy. When you visit our website, we do not collect any personal information about you unless you choose to provide that information to us. 
 
@@ -39,4 +39,4 @@ For site security purposes and to ensure that this service remains available to 
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
 
-You may also wish to review our [disclaimers](https://web.archive.org/web/20170729130629id_/https%3A//healthfinder.gov/aboutus/Disclaimer.aspx).
+You may also wish to review our [disclaimers](https://web.archive.org/web/20180210184754id_/https%3A//healthfinder.gov/aboutus/Disclaimer.aspx).
