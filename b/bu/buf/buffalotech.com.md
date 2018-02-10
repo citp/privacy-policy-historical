@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206135023id_/http%3A//www.buffalotech.com/about/legal%23tab-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210155418id_/https%3A//www.buffalotech.com/about/legal%23tab-privacy-policy) for the most accurate reproduction.*
 
 # Legal | Buffalo Americas
 
