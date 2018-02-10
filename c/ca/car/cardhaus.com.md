@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211130331id_/http%3A//www.cardhaus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardhaus.com privacy policy that was archived on 2018-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180210151257id_/http%3A//www.cardhaus.com/privacy_policy) for the most accurate reproduction.*
 
 # Cardhaus - Privacy Policy
 
