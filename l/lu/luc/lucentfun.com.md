@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucentfun.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613132704id_/http%3A//www.lucentfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucentfun.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211170425id_/https%3A//www.lucentfun.com/privacy) for the most accurate reproduction.*
 
 # lucentfun.com - Privacy Policy
 
