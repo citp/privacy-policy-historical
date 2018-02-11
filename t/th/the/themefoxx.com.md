@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the themefoxx.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210161031id_/http%3A//www.themefoxx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themefoxx.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211132320id_/https%3A//www.themefoxx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ThemeFoxx
 
 The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information when we might disclose your personally identifiable information, and how you can manage your information.
 
-**By visiting our site, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use this site.**
+ **By visiting our site, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use this site.**
 
 We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent to such use.
 
@@ -12,21 +12,21 @@ We reserve the right to modify or amend the terms of our privacy policy from tim
 
 We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information.
 
-#### **Personally Identifiable Information**
+####  **Personally Identifiable Information**
 
 As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at ThemeFoxx.
 
-#### **Non-Personally Identifiable Information**
+####  **Non-Personally Identifiable Information**
 
 When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information.
 
 We may also collect information about your use of the Sites, including your search terms and search results, and additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses. Our servers may automatically keep an activity log of your use of our Sites. In addition to non-identifiable individual information, we may collect aggregate data regarding the use of the Sites.
 
-#### **Collection of Your Source IP Address/Location Information**
+####  **Collection of Your Source IP Address/Location Information**
 
 We collect and store your device’s source IP address which may disclose the general location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data.
 
-#### **How Do We Use Your Information?**
+####  **How Do We Use Your Information?**
 
 We use the information we learn from you to help us personalize and continually improve your experience on the Sites, including to:
 
@@ -49,7 +49,7 @@ We use the information we learn from you to help us personalize and continually 
 
 We will not disclose your personally identifiable information collected from the Sites to any organizations not part of ThemeFoxx or its subsidiaries or related entities, except as described in this privacy policy.
 
-#### **Links to Third Party Sites**
+####  **Links to Third Party Sites**
 
 Our Digital Properties may contain links to other websites operated by third parties we do not control and this Privacy Policy applies solely to information collected through our Digital Properties. We encourage you to read the privacy statements of these other websites.
 
