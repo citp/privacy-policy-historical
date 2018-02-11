@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210203614id_/http%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211065350id_/http%3A//www.connectyourcare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and End User Terms of Use | ConnectYourCare
 
