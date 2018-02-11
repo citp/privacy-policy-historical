@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eastidahonews.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916172229id_/https%3A//www.eastidahonews.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastidahonews.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211223842id_/https%3A//www.eastidahonews.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - East Idaho News
+# Privacy Statement | East Idaho News
 
 The following Privacy Policy (the “Policy”) describes how Riverbend Communications collects, uses, and shares personally identified information and non-personally identifiable information collected through the web sites (collectively referred to as “Data”), mobile web sites and mobile applications we operate (collectively, the “Site”) and the services, features, or content we offer (collectively with the Site, the “Services”). You should read the Policy and the Riverbend Terms of Use before you use the Site. By visiting the Site or using the Services, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Policy and consent to having your Data transferred to and/or processed in the United States. If you do not agree to this Privacy Policy, please do not use the Services.
 
