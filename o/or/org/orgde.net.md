@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the orgde.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213105419id_/http%3A//www.orgde.net%3Fpage_id%3D4528) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgde.net privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211213045id_/http%3A//www.orgde.net%3Fpage_id%3D4528) for the most accurate reproduction.*
 
 # Privacy Policy | ORGDE.net
 
+  
 Welcome to ORGDE.net(the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.  
