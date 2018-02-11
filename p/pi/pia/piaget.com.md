@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piaget.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211120715id_/http%3A//www.piaget.com/privacy-policy-united-states) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piaget.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211190110id_/https%3A//www.piaget.com/privacy-policy-united-states) for the most accurate reproduction.*
 
 # Privacy Policy for the U.S. - Piaget the Luxury Watchmaker & Jeweler
 
