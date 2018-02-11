@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the doubledutch.me privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123152006id_/http%3A//doubledutch.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubledutch.me privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212002045id_/https%3A//doubledutch.me/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DoubleDutch
 
-Last modified: November, 2017
+## Privacy Policy DoubleDutch
 
-By accessing and using the Website or App, you agree to be bound by, and represent and warrant that you have read and understood, this Privacy Policy. In the event of an update to this Privacy Policy, your continued use of the App or Website constitutes your acceptance of the updated terms. If you do not agree with this Privacy Policy, you must discontinue use of the App and Website.
+Last Updated: February 2018
 
-**DoubleDutch, Inc., our subsidiaries DoubleDutch EMEA B.V. and DoubleDutch (Hong Kong) Limited, and our international subsidiaries** (collectively “DoubleDutch”, “we”, “us” or “our”), cares about your privacy and data protection. We recommend that you carefully review this privacy and cookies policy. We may update this policy from time to time, and will announce this on our website https://www.doubledutch.me ( **Website** ) or in our event applications ( **App** ). If any changes are material or apply to information we have already collected, we may provide additional notice and/or request additional consents as appropriate under the circumstances.
+This Privacy Policy is between the end user (“you”, “your” or “End User”) of the software application and/or website (“Licensed Application” as described in the EULA, [www.doubledutch.me/eula)](http://www.doubledutch.me/eula\)) and DoubleDutch, Inc., our subsidiaries DoubleDutch EMEA B.V. and DoubleDutch (Hong Kong) Limited, and our international subsidiaries (collectively “DoubleDutch”, “we”, “us” or “our”), a Processor, who collects and processes information on behalf of the App Partner (as described in the EULA).
+
+The App Partner is a third party beneficiary to this Privacy Policy, but may also have their own Privacy Policy linked in the Licensed Application, upon your acceptance of this Agreement, the App Partner will have the right (and will be deemed to have accepted the right) to enforce the terms of this Agreement as a third party beneficiary of this Agreement.
+
+Please read this policy carefully, as it describes DoubleDutch’s use of your Personal Information (as defined in the EU Data Protection Directive 95/46/EC). By accessing and using the Website or App, you are agreeing to this Privacy Policy, and are hereby consenting to this use of your Personal Information. You may withdraw consent at any time by contacting the App Partner or DoubleDutch. We may update this policy from time to time, and will announce this on our website https://www.doubledutch.me ( **Website** ) or in our event applications ( **App** ). If any changes are material or apply to information we have already collected, we may provide additional notice and/or request additional consents as appropriate under the circumstances. Your continued use of the App or Website constitutes your acceptance of the updated terms. If you do not agree with this Privacy Policy, you must discontinue use of the App and Website.
 
 **DoubleDutch, Inc.** complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union member countries to the United States. DoubleDutch, Inc. has certified with the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [privacyshield.gov](https://www.privacyshield.gov/).
 
@@ -16,7 +20,7 @@ By accessing and using the Website or App, you agree to be bound by, and represe
 
 _Personal data you provide to us_
 
-When using the App you may provide us with personal data. Personal data includes all personally identifiable information ( **PII** ) and data that directly or indirectly identifies you such as your name, email address, phone number and location data. You control how much information you provide through the App. To use our App you provide us with an email and username, and you will set a password. We may also receive this information from the event organizer, so we can prepopulate certain fields in the App. It is up to you how much additional personal information you share with us, the event organizer, and the other attendees. When using the App you may choose to create social profiles that display your name, job title, company, links to your social profiles (Facebook, Twitter and LinkedIn) and activity. In addition to the above, you can fill out an “About Me” text box to provide additional information about yourself, as well as contribute through posts, comments, surveys, messages, poll responses and any other App related functions or features that may be available to you. Please do not include personal information in your posts, comments, surveys, messages or poll responses. If you are an event organizer you may also provide us with conference agendas, customer lists, exhibitor lists and other information.
+When using the App you may provide us with personal data. Personal data includes all personally identifiable information (PII) and data that directly or indirectly identifies you such as your name, email address, phone number and location data. You control how much information you provide through the App. To use our App you must provide an email and username, and you will set a password. If you did not submit this information yourself, we have received this information from the event organizer, to invite you to use the App and to prepopulate certain fields in the App. An App Provider may request additional information about you beyond a user name and email address. It is up to you how much additional personal information you share with us, the event organizer, and the other attendees. When using the App you may choose to create social profiles that display your name, job title, company, links to your social profiles (Facebook, Twitter and LinkedIn) and activity. In addition to the above, you can fill out an “About Me” text box to provide additional information about yourself, as well as contribute through posts, comments, surveys, messages, poll responses and any other App related functions or features that may be available to you. Please do not include personal information in your posts, comments, surveys, messages or poll responses. If you are an event organizer you may also provide us with conference agendas, customer lists, exhibitor lists and other information.
 
 _Personal data we collect through your use of our App or Website_
 
@@ -34,8 +38,11 @@ We process your personal data for the following purposes:
   * Showing your App contributions on the activity feeds in the App;
   * For analytics and market research to perform our services;
   * Sending emails or push notifications in relation to the event; and,
-  * Processing complaints, handling disputes, performing audits and meeting statutory requirements.
+  * Processing complaints, handling disputes, performing audits and meeting statutory requirements
 
+
+
+We do not use automated decision-making when processing personal information.  Please refer to the App Partner’s privacy policy for information regarding their use of personal information.
 
   3. **With whom do we share your personal data?**
 
@@ -91,7 +98,9 @@ If the complaint cannot be resolved through DoubleDutch’s internal processes, 
 
 The services of JAMS are provided at no cost to you.
 
-DoubleDutch is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
+DoubleDutch is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC) and the applicable EU Supervisory Authority. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction). If applicable, under EU law, You may lodge a complaint with our arbitration provider, JAMS, or the applicable Supervisory Authority.
+
+If applicable, under EU law, You may: withdraw consent for processing your personal information at any time; object to or restrict processing; or request DoubleDutch to provide you a copy of your personal information, information about processing, or a correction or deletion of your personal information.
 
   6. **Cookies and similar technologies**
 
@@ -111,7 +120,7 @@ You can turn of the use of cookies via the settings of your computer or via the 
 
 Children Under the Age of 13
 
-Our services are directed to the general public. We do not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that children under the age of 13 are accessing our Website or using our services. If we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, or if you are a California resident under the age of 18 and you wish to remove publicly available content, please contact us at [privacy@doubledutch.me](mailto:privacy@doubledutch.me) or the mailing address in this Privacy Policy.
+Our services are directed to the general public. We do not knowingly collect information from children under 13 years of age or have any reasonable grounds for believing that children under the age of 13 are accessing our Website or using our services. If we learn that we have inadvertently collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, or if you wish to remove publicly available content, please contact us at [privacy@doubledutch.me](mailto:privacy@doubledutch.me) or the mailing address in this Privacy Policy.
 
 California Privacy Rights
 
@@ -127,7 +136,11 @@ Our Privacy Policy does not apply to services offered by other companies or indi
 
 If you have questions about our use of your personal data, please contact us at:
 
-DoubleDutch, Inc. and its Subsidiaries
+DoubleDutch, Inc. and its Subsidiaries’ 
+
+Data Protection Officer:
+
+Kasper Jeppesen
 
 Attn: Legal Department
 
@@ -137,8 +150,21 @@ San Francisco, CA 94103 USA
 
 [privacy@doubledutch.me](mailto:privacy@doubledutch.me)
 
+|  
+
+Please refer to the App Partner’s Privacy Policy for the App Partner contact information.  
+  
+---|---  
+  
 If you have questions about the event organizer’s use of your personal data, we recommend that you read and review the privacy policy of the event organizer and contact the event organizer if you still have questions.
 
 **Appendix 1: Cookies and Purpose**
 
 We use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your device for a set period of time or until you delete them). We use the following types of cookies for the purposes explained in this chart:
+
+Cookie Type | Purpose  
+---|---  
+Essential operation | These cookies are necessary in order for you to move around the service as you request. It allows us to recognize what type of attendee, exhibitor, or other subscriber you are so that we can then accordingly provide services.  
+Functional | These cookies allow us to use certain features of the service in accordance with the choices that you make. These cookies mean that if you continue to use the services or return to the services, we can then provide services tailored for you based on the choices you have made or asked us to hold like your username or your customizations.  
+Performance and Analysis | We use performance cookies to help us provide a better user experience for you based on optimizing the services and constantly optimizing the features and performance. We may also obtain information from features that you open or access or click on. This information tells us about the effectiveness of certain features and helps ensure that the content and features we provide are optimized for your interests.  
+Third party | We can allow our business partners to use cookies on or the service as indicated for the same purposes as we provide you with services, including gathering information about your online and in app activities over time and across our services. We can also use service providers acting on our behalf to use cookies for the purposes described above.
