@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625045426id_/https%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabre.com privacy policy that was archived on 2018-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180211115154id_/https%3A//www.sabre.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Sabre
 
-Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the Sabre global distribution system, the SynXis hotel central reservation system, and theSabreSonic airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
+Sabre GLBL Inc. (the “ **Company** ”) operates this website, various other websites, and various services, including the Sabre global distribution system, the SynXis hotel central reservation system, and the SabreSonic airline reservations system (collectively, the “ **Sites** ”), each of which offers unique information, products or services.
 
 ## Introduction
 
@@ -90,10 +90,6 @@ The safety and security of your information also depends on you. Any content, in
 
 We do not knowingly collect personal information from children under age 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will take steps to delete that personal information as soon as possible.
 
-## US-EU and US-Swiss safe harbor for travel network
-
-Please see our [Travel Network Safe Harbor Privacy Statement](http://sabretravelnetwork.com/home/page/travel_network_safe_harbor_privacy_statement) to understand how Sabre Travel Network complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Frameworks.
-
 ## Recruiting Statement
 
 Your privacy is important to us. This Statement aims to inform you of how we will use the information you submit when applying for a position via our website (the “Site”), [sabre.com/careers/](http://www.sabre.com/careers/).  Sabre GLBL Inc. (“Sabre”), a Delaware, United States corporation, operates the Site. By submitting your resume or other personal information through the Site you acknowledge and consent to the uses and transfers of data described in this Statement.
@@ -112,7 +108,7 @@ We may also retain your information after the recruitment process is complete to
 
 **Consent to use and transfer**
 
-By submitting your resume/CV or other information and any subsequent application materials to us, you agree that we may use such information for recruitment, hiring and employment purposes. You also agree that we may including transfer the data to the United States and
+By submitting your resume/CV or other information and any subsequent application materials to us, you agree that we may use such information for recruitment, hiring and employment purposes.
 
 ## Changes to our privacy statement
 
@@ -121,3 +117,5 @@ It is our policy to post any changes we make to our privacy practices on this pa
 ## Contact information
 
 Please direct any questions or comments about this privacy statement and our privacy practices to us at: [privacy@sabre.com](mailto:privacy@sabre.com) or 3150 Sabre Drive, Southlake, Texas 76092 Attn: Privacy Office
+
+Effective Date: 09/22/2017
