@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the houseoftravel.co.nz privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628021506id_/http%3A//www.houseoftravel.co.nz/hot-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoftravel.co.nz privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212012132id_/https%3A//www.houseoftravel.co.nz/hot-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **General**  
-This privacy policy is for House of Travel Limited (“House of Travel”) and applies to personal information provided or collected through [www.houseoftravel.co.nz](http://www.houseoftravel.co.nz/) or [www.mixandmatch.co.nz](http://www.mixandmatch.co.nz/) ** __** (“the Websites”).  This policy sets out how collect use and protect your personal information 
+This privacy policy is for House of Travel Limited (“House of Travel”) and applies to personal information provided or collected through [www.houseoftravel.co.nz](https://www.houseoftravel.co.nz/) or [www.mixandmatch.co.nz](http://www.mixandmatch.co.nz/) ** __** (“the Websites”).  This policy sets out how collect use and protect your personal information 
 
 **Personal Information we may collect from you**
 
