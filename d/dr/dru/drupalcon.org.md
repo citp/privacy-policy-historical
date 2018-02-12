@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalcon.org privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223092641id_/https%3A//www.drupal.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalcon.org privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212211334id_/https%3A//www.drupal.org/privacy) for the most accurate reproduction.*
 
 # Drupal.org Privacy Policy | Drupal.org
 
@@ -139,7 +139,7 @@ DrupalCon attendees may opt-in on their ticket registration to be displayed on t
 
 
 
-If you're getting "spam" type solicitations from companies or aggressive inquiries, feel free to let us know at <https://events.drupal.org/vienna2017/contact>
+If you're getting "spam" type solicitations from companies or aggressive inquiries, feel free to let us know at <https://events.drupal.org/contact-us>
 
 ## Children's Personal Information
 
