@@ -1,116 +1,179 @@
-> *The following text is extracted and transformed from the kueez.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309025907id_/http%3A//www.kueez.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kueez.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212222202id_/https%3A//en.kueez.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kueez
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This Privacy Policy is an integral part of our Terms of Service, found at [www.kueez.com](http://www.kueez.com/).
 
-**What personal information do we collect from the people that visit our blog, website or app?**  
-When registering on our site, as appropriate, you may be asked to enter your name, email address or to connect with you facebook account to help you with your experience.
+We, at Yoto Media Group LTD., including any of our related parties and/or affiliates (collectively: the " **Company** ", "we" "us", "our", or any variation thereof), care about your privacy. That is why we made every effort to create a website that would live up to high level privacy standards. This Privacy Policy describes our policy on the collection, use and disclosure of information about our [www.kueez.com](http://www.kueez.com/) domain and any content and/or URL pages included under the said domain  (collectively: the " **Website** ").
 
-**When do we collect information?**  
-We collect information from you when you connect with facebook in order to use it for your own use on Kueez
+We strongly encourage you to read this Privacy Policy and make sure you fully understand and agree to it, prior to your browsing of the Website and/or any of its features. If you do not fully understand or agree to this Privacy Policy, you must immediately cease any browsing or consuming any content associated with the Website and further terminate your Account (if already created).
 
-**How do we use your information?**  
-We may use the information we collect from you when you register, surf the website, or use certain other site features in the following ways:  
-      • To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-      • To improve our website in order to better serve you.
+In order to better understand your rights and obligations in connection with your use of the Website, including without limitations, with respect to this Privacy Policy, you are advised to read this Privacy Policy concurrently with our Terms of Service. Accordingly, any Capitalized Term not defined herein shall have the meaning ascribed to it in our Terms of Service.
 
-**How do we protect visitor information?**  
-We do not use vulnerability scanning and/or scanning to PCI standards.  
-We only provide articles, games and information. We never ask for credit card numbers.
+WE WILL NOT USE OR SHARE YOUR INFORMATION WITH ANYONE EXCEPT AS DESCRIBED IN THIS PRIVACY POLICY AND/OR OUR TERMS OF USE. 
 
-**We do not use an SSL certificate**  
-We do not need an SSL because we never ask for your credit cards numbers.
+  1. **General**
 
-**Do we use 'cookies'?**  
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-**We use cookies to:**  
-      • Help remember and process the items in the shopping cart.  
-      • Understand and save user's preferences for future visits.  
-      • Keep track of advertisements.  
-      • Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+  1. When you browse the Website and/or otherwise consume any content associated thereto, you explicitly consent to the collection, use and disclosure of your information as described in this Privacy Policy, as well as to Cookies being stored and set and information being accessed on your equipment, while accessing and/or otherwise using the Website (if applicable).
+  2. This Privacy Policy explains what information of yours will be collected by us and stored on our servers when you make use of the Website and how the information will be used.
+  3. If you suspect that the information associated with your Account is not accurate or complete, then you must make all necessary changes in order to correct it.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
-If you disable cookies off, some features will be disabled It won't affect the user's experience that make your site experience more efficient and some of our services will not function properly.
+ 
+  1. **Changes and Updates of this Privacy Policy**
 
-**Third-party disclosure**  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third-party links**  
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+This Privacy Policy may be updated from time to time at our sole discretion, and therefore you are required to periodically check back for the most updated form of Privacy. Your use of the Website after this Privacy Policy has been updated shall be deemed as your continued acceptance of the terms of this Privacy Policy, as updated and revised from time to time. However, we will not expand the scope of disclosure of your Personal Information, without your prior consent. 
 
-**Google**  
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en   
-We use Google AdSense Advertising on our website.  
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.  
-We have implemented the following:  
-      • Remarketing with Google AdSense  
-      • Google Display Network Impression Reporting  
-      • Demographics and Interests Reporting  
-      • DoubleClick Platform Integration
+  1. **How Do We Collect Your Information?**
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+  1. We operate various channels in order to collect information. We may, for example, use the following channels and means to collect your information:
 
-**California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+  * When browsing the Website, creating a user Account through Facebook Login© (or logging into such account via Facebook Login©), or contacting website support, we may collect certain content provided through such actions.
+  * When transmitting us your content in order for us to render you with our Website.
+  * When posting on any online community, forum or any other page established by us or on our behalf in connection with the use of the Website, we may collect and analyze all content provided or otherwise uploaded by our users, and such content will not be subject to any privacy expectations by its lawful contributor.
+  * When transmitting and/or otherwise making available any content with the use of the Website (for example, in the process of your Account registration or updates, or when posting our content on your Facebook page).
+  * Based on the settings of your device, you may be sharing with us your location, while browsing the Website.
+  * Via the use of Cookies, web beacons and/or certain scripts embedded into the Website. For additional information about Cookies, please see below.
+  * Via our use of other Facebook© based tools (such as Facebook Social Plugins, etc.) (the " **Facebook Services** "). 
+  * Via our use of Google© based services, such as Google© Analytics, Google© Adwords, Campaign Manager, and additional marketing and advertising tools (collectively: " **Google Services** "). For additional information related to the Google Services, please refer to https://www.google.com/policies/technologies/ads.
+  *  
 
-**According to CalOPPA we agree to the following:**  
-Users can visit our site anonymously.  
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above.
 
-Users will be notified of any privacy policy changes:  
-      • On our Privacy Policy Page
+  1. You understand that the manner in which we collect your information might defer on the basis of the device you use to access or otherwise use the Website or any related content or features.
+  2. Please note that while in general you are not obligated to actively provide any information, some information may be required in order to access certain features on the Website.
+  3. With respect to the Google Services and the Facebook Services, please note that such entities might collect and/or otherwise utilize additional information regarding you, such that you are advised to determine (where applicable) the privacy settings regarding such services provided by such entities.
 
-**How does our site handle do not track signals?**  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+ 
+  1. **What Information Do We Collect?**
 
-**Does our site allow third-party behavioral tracking?**  
-It's also important to note that we allow third-party behavioral tracking
+_Personal Information_
 
-**COPPA (Children Online Privacy Protection Act)**
+  1. We may collect and store information which identifies or relates to you personally, such as your name, profile picture, unique user account ID, photographs, pictures, list of friends, contact information such as email address, etc. (the " **Personal Information** ") through the means prescribed above.
+  2. Please note however, that any Personal Information which you choose to make publically available, whether on forums, groups or otherwise, or otherwise incorporated into any content you provide for the purpose of making yourself accessible to recruiters via the Website, will not be deemed, to the extent permitted by applicable law, as subject to your expectation of privacy or deemed as personal, and may be treated accordingly by us.
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+_Non-Personal Information_
 
-We do not specifically market to children under 13.
+  1. We collect and aggregate non-identifying information regarding your use of the Website and its features, including, for example, the type, model, ID and location of the device through which the Website is accessed, services that interested you or which you have utilized, the type of operating system and browser you are using and its settings, your IP (Internet Protocol) and/or MAC (Media Access Account) address, gender, location, groups you are a member of, fields of interests, browsing habits, the URL you have come from and the time spent at that URL, number of clicks, content of Cookies set by us (as further detailed below) and your domain type and server, your gameplay session, any content posted by you on public forums or communities associated with the Website, or otherwise (" **Non-Personal Information** ").
 
-**Fair Information Practices**  
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+_Aggregated Information and Metadata_
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via email  
-      • Within 7 business days
+  1. Non-Personal Information collected can also become Personal Information if and when aggregated by us to a scope which identifies you personally. For example, when we collect data regarding your location and your current position, this might make such information, when aggregated, as identifiable information.
+  2. We may aggregate the information we collect about you as prescribed above. Furthermore, we may aggregate any Information (including Personal Information) via the use of Metadata assigned to the content which you provide or otherwise upload to the Website.
+  3. Please note however, that generally Non-Personal Information is aggregated separately for each specific IP or device ID. That said, the ID of your device does not contain any information regarding your identity and the same applies to IP addresses which, while identifying a device connected to the Internet and its general location, are in themselves anonymous and contain no information regarding the identity of the ultimate person using the device – such identity should be known solely to your Internet Service Provider (ISP).
+  4. Moreover, IP addresses assigned by ISPs  are generally (although not always) dynamic and subject to frequent changes – static IP addresses are generally assigned only at subscriber's specific request and frequently require an additional fee. We assume that the IP of your device is dynamic, unless we have a reason to believe otherwise.
 
-We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+ 
+  1. **How Is Collected Information DISCLOSED?**
 
-**CAN SPAM Act**
+_Personal Information_
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+  1. Personal Information shall be used in order to facilitate, customize and improve the use of the Website, process your inquiries and respond to your requests, to ensure the adequate operation thereof, and to further customize the appearance and content offered to you on the Website or as explicitly mentioned herein.
+  2. We do not collect any Personal Information from you or related to you without your approval, which is obtained through your active acceptance of this Privacy Policy and the Terms of Use.
+  3. We may share some or all of your Personal Information with our subsidiaries, other websites operated by us, joint ventures or other trusted affiliates that we have or may have in the future, provided that such parties undertake to protect your privacy in a manner no less stringent than as set forth herein, and for the purpose of providing us with certain services related to the Website (such as improvement, development, data processing and analysis, etc.), for internal purposes, market and trends' analysis purposes, and for the purposes prescribed above. However, we will not disclose your Personal Information to any third party for the purpose of providing you with adverts and/or promotional content, without your consent.
+  4. We may share aggregated information of our users, after excluding any identifiable portions, with certain third parties which are interested to provide you with certain promotional content which we believe is relevant to you.
+  5. Specifically, in accordance with the provisions of our Terms of Service, we may use the content uploaded by you (including the pictures of you and other people linked to you Facebook profile) to appear as an integral part of the services we offer (namely, your picture will appear on certain quizzes or games, EVEN Before people you may not know).
 
-**We collect your email address in order to:**  
-      • Send information, respond to inquiries, and/or other requests or questions.  
-      • We may also send you additional information related to your product and/or service.
+_Non-Personal Information_
 
-**To be in accordance with CANSPAM we agree to the following:**  
-      • NOT use false or misleading subjects or email addresses.  
-      • Identify the message as an advertisement in some reasonable way.  
-      • Include the physical address of our business or site headquarters.  
-      • Monitor third-party email marketing services for compliance, if one is used.  
-      • Honor opt-out/unsubscribe requests quickly.  
-      • Allow users to unsubscribe by using the link at the bottom of each email.
+  1. Non-Personal Information shall be used by us or the permitted entities prescribed above to improve, modify, cancel, enrich or adjust the Website, and ensure the adequate operation thereof, and to further customize the appearance and content offered to you on the Website. We also use Non-Personal information in order to analyze market and users' trends, and further provide you, or enable other third party content providers to provide you with certain promotional content. In addition, we may disclose and/or otherwise use any Non-Personal Information, for all the purposes of which we may use your Personal Information, but without being subject to the specific restrictions related to the Personal Information.
+  2. We reserve the right to use and disclose Non-Personal Information to third parties, including, for example, potential and actual business partners, affiliates and consultants, for industry analysis, marketing, advertising, and other business purposes at our sole discretion.
+  3. We may further disclose Information during the scope of the activities prescribed under this Privacy Policy, even if not specifically stated under this Section.
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-support@kueez.com and we will promptly remove you from ALL correspondence.
+ 
+  1. **Why Do We Collect Such Information?**
 
-**Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below:  
-support@kueez.com
 
-Last Edited on 2016-06-07
+
+We collect such Personal Information and Non-Personal Information for the following purposes: 
+
+  * In order to provide, improve, customize and operate the Website, and further improve and customize it, based on your (and others) preferences and experiences.
+  * In order to be able to provide our users with ongoing, developing customer assistance and technical support.
+  * In order to offer our users with promotional content which we believe is relevant for them.
+  * In order to create statistical data, behavioral models and trends, which we or our business partners may use to provide and improve the use of the Website.
+  * In order to remain in compliance with and applicable law or regulations.
+  * In order to investigate, prevent or take action regarding illegal activities, suspected fraudulent behavior, potential threats or any other violations of our Terms of Use and Privacy Policy.
+  * In order to offer you promotional content based on your preferences based on the analysis of the information we collect, provided that no Personal Information shall be made available by us to third parties offering such content to you, without your prior consent.
+  * We may also disclose your Personal Information in the following cases: 
+    * As required to do so as part of any legal proceedings conducted in connection with the Website.
+    * In order to inquire, investigate, prevent, stop or halt any alleged misuse of the Website, or to impose any sanction thereof.
+    * As required to do so by court order, decree, or applicable law.
+    * In case the entire activity of the Website is transferred to a third party, providing such party undertakes to protect your privacy in accordance with these terms.
+  * As otherwise stated under this Privacy Policy.
+
+ 
+  1. **How Do We Keep Your Personal Information Secure?**
+
+
+
+We do so by following industry standards on information security management to secure sensitive information such as financial information and Personal Information entrusted to us. 
+
+  1. **Promotional Content and Notifications; Cookies**
+
+
+  1. As stated under this Privacy Policy, we may, or allow others to provide you with certain promotional content, and/or otherwise inform you of new features, updates or any other information which we feel could be relevant to you, via the Website.
+  2. We may further inform you by email of any security breach related to your Account (as defined in our Terms of Use), corresponding regarding technical issues and inquiries raised by you, etc.
+
+
+
+**_Cookies_**
+
+ _What are Cookies?_
+
+  1. Cookies are small data files downloaded and stored on user’s device while browsing a website, often used to keep record of actions taken on such website or track related browsing activity.
+  2. For additional information regarding Cookies and the way to control them, please check out the Help file of your browser or visit [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+
+_Our use of Cookies_
+
+  1. We may use Cookies in order to ensure proper operation, collect Non-Personal Information, verify information, tailor the Website to your specific preferences and ensure information security. In addition, certain services (such as the Google Services and the Facebook Services) require the use of cookies. Additionally, we may use third-party content companies in order to present content through the Website. Such parties may use Cookies placed on your device (as well as web beacons and other similar technologies) in order to adjust or track the content presented through the Website.
+  2. Certain third parties providing the content to our Website (such as quizzes, puzzles etc.) may also use cookies, web-beacons and other similar tools in order to collect Non-Personal Information, for marketing and advertising purposes.
+  3. Regarding use of Cookies by third-party content companies, please note that such use is subject to the privacy policy of said parties and is not subject to this Privacy Policy (for example, regarding advertisements served by Google, see <http://www.google.com/privacy/ads>).
+
+
+
+**_Affiliates:_**  
+We are currently collaborating with the following third party providers, which may collect your data as herein prescribed, and based on the respective data collection and privacy policy prescribed therein: 
+
+  * Playbuzz Ltd., Content Provider, 26th Floor Rubinstein Building, 37 Menachem Begin Rd, Tel Aviv, Israel, 6522042. Privacy Policy & Opt-Out: <http://www.playbuzz.com/PrivacyPolicy>
+  * Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, <https://www.cloudflare.com/>, a Content Delivery Network (CDN), which helps us to deliver contents of our Service faster, especially big media files like images or scripts using a world-wide distributed server network. Cloudflare also helps us to determine on the basis of the IP-address the probable country of a user, in order to adjust our Service and contents to the local requirements (e.g. customs or legal needs). Privacy Policy: <https://www.cloudflare.com/security-policy/>.
+  * Sentry, Inc., 25 Kearny St, Suite 500 San Francisco, CA 94108, USA. Privacy Policy: <https://sentry.io/privacy/>.
+  * YouTube, Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, video-content, Privacy Policy: https://www.google.com/policies/privacy.
+
+ 
+  1. **newsletter and emails**
+
+
+
+We may use the email address which you provide us when setting up the Account in order to send you periodical emails containing our newsletter and/or other promotional messages (including External Content) which we believe may interest you. You can opt-out of these emails by clicking the unsubscribe link found at the bottom of each e-mail, or otherwise contact us at the contact information prescribed in Section ‎13.
+
+  1. **Information Security**
+
+
+  1. Note that although we take great measures to secure the information and reduce the risk of unwanted disclosure, we cannot guarantee the information will not be exposed as a result of unauthorized penetration to our servers.
+  2. We use commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your Personal Information. We cannot, however, ensure the security of any information you transmit to us and you do so at your own risk.
+  3. If you have any questions about this Policy, or if you feel your privacy has been violated, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c2b1b7b2b2adb0b682a9b7a7a7b8eca1adaf).
+
+ 
+  1. **Account Termination**
+
+
+  1. If you would like us to delete your records completely, you may ask us to do so, and we will use reasonable efforts to delete such information. However, note that we might not delete such information immediately from our systems. Also, we retain the right to continue and make use of your Non-Personal Information in accordance with this Privacy Policy.
+  2. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+ 
+  1. **Governing Law and Jurisdiction**
+
+
+
+This Privacy Policy shall be construed and governed by the laws of the State of Israel. Any dispute arising from the terms of this Privacy Policy shall be subject to the exclusive jurisdiction of the competent courts of Tel-Aviv, Israel.
+
+  1. **Contact Us**
+
+
+
+Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#71020401011e0305311a0414140b5f121e1c) for any question concerting your privacy or any violation thereof. Please also use the above contact information details if you wish to opt-out of certain services and offers described under this Privacy Policy.
+
+ **○ I hereby approve that I have read and acknowledged the terms of this Privacy Policy and further allow you to send me promotional emails and to collect and use my personal and non-personal information in accordance with the terms of this Privacy Policy.   **
