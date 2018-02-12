@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atomisystems.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203044950id_/https%3A//atomisystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomisystems.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212075930id_/https%3A//atomisystems.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ActivePresenter - Screen Recording & Interactive ELearning Authoring Software
+# Privacy Policy - Atomi Systems, Inc.
 
 ## Purpose and Scope
 
