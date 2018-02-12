@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakepersongenerator.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120163301id_/http%3A//fakepersongenerator.com/Site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakepersongenerator.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212114221id_/https%3A//fakepersongenerator.com/Site/privacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions | Fake Person Generator
 
