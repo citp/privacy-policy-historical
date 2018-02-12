@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630011957id_/https%3A//www.udemy.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udemy.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212171654id_/https%3A//www.udemy.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Policy | Udemy
 
 [Click here](https://web.archive.org/terms/privacy/#cookies) to view the Cookies Policy 
 
-_This Privacy Policy was last updated on May 8, 2017._
+_This Privacy Policy was last updated on September 12, 2017._
 
 All capitalized terms used and not otherwise defined herein shall have the meaning ascribed to them in Udemy's [Terms of Use](https://web.archive.org/terms/). 
 
 Any version of this Privacy Policy in a language other than English is provided for convenience and You understand and agree that the English language will control if there is any conflict with any non-English versions. 
 
-Udemy ("We", "Us", or "Our") respects Your rights regarding Your privacy and information, and We provide this Privacy Policy ("Privacy Policy") to help You understand how We collect, use, share, store and disclose information We obtain from or about You when You use the Services. This Privacy Policy applies to when You use Our Services where We provide a link to this Privacy Policy, unless otherwise stated or unless We provide a link to a different policy. This Privacy Policy also describes the choices available to You regarding the use of, Your access to and how to update and correct Your information. 
+Udemy, Inc. a Delaware corporation located in San Francisco, California, United States of America ("Udemy", We", "Us", or "Our") respects Your rights regarding Your privacy and information, and We provide this Privacy Policy ("Privacy Policy") to help You understand how We collect, use, share, store and disclose information We obtain from or about You when You use the Services. This Privacy Policy applies to when You use Our Services where We provide a link to this Privacy Policy, unless otherwise stated or unless We provide a link to a different policy. This Privacy Policy also describes the choices available to You regarding the use of, Your access to and how to update and correct Your information. 
 
-As used herein the term "use" shall mean use, access, install, sign into, connect with, download, visit or browse the Services. 
+As used herein the term "use" shall mean use, access, install, sign into, connect with, download, visit or browse the Services, as defined in the [Terms of Use](https://web.archive.org/terms/). 
 
 THIS IS A LEGALLY BINDING AGREEMENT BETWEEN YOU AND UDEMY, AND BY USING THE SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY AND THE [TERMS OF USE](https://web.archive.org/terms/). You should review this Privacy Policy in conjunction with Our [Terms of Use](https://web.archive.org/terms/) and any other agreement or policy provided by Us that governs Your use of the Services. 
 
@@ -67,11 +67,13 @@ You hereby grant Udemy a non-exclusive right and license to reproduce, distribut
 
 Udemy allows You to enroll in and take online Courses on a variety of topics which are taught by Instructors where, among other things, You will see reviews for Courses by others. We collect information relating to taking Courses, including, without limitation, course, assignment, and quiz completion activity, interchanges with the Course Instructors, teaching assistants and other Students, answers to questions, essays and other items submitted to satisfy the Course requirements, ("Course Information"). 
 
-You hereby consent to Our sharing of Registration Information, Profile Information, and Couse Information to Instructors and teaching assistants. Udemy does not provide Students’ email addresses to Instructors or teaching assistants. Udemy does not control how Instructors or teaching assistants treat Registration Information, Profile Information, or Course Information and is not liable for Instructors’ or teaching assistants’ use of such information. 
+You hereby consent to Our sharing of Registration Information (except for your email address), Profile Information, and Course Information to Instructors and teaching assistants. Udemy does not provide Students’ email addresses to Instructors or teaching assistants. Udemy does not control how Instructors or teaching assistants treat Registration Information, Profile Information, or Course Information and is not liable for Instructors’ or teaching assistants’ use of such information. 
 
 ###  Payment Information: 
 
 If You make any purchases through our Services, such as for Courses, We may collect certain information regarding Your purchase (such as Your name and zip code) as necessary to process Your order. You will be required to provide certain payment and billing information directly to our payment processing partners, including but not limited to Your name, credit card information, billing address and zip code. We do not access, store or collect Your credit card information. 
+
+If You are an Instructor, We may enable You to link Your PayPal account or other payment account to the Services so that We can pay You. When You link such account, You allow Us to collect and use certain information from such accounts to provide those payments, such as Your payment account email address or account ID, physical address, and other information necessary for Us to send payment to such account. We do not access, store, or collect Your payment card or bank account information. The collection, use, and disclosure of Your information will also be subject to the privacy policies and other terms of the payment account providers. You should review such privacy policies, terms, and other agreements. 
 
 ###  Information Received Through Your Third Party Platform: 
 
@@ -152,7 +154,7 @@ You have some choices concerning our use of these analytics. For instance, to pr
 
 We may use third-party advertising technologies that allow for the delivery of advertising about our Services on other websites You visit and other applications You use. The ads may be based on various factors such as the content of the page You are visiting, information You enter such as Your age and gender, Your searches, demographic data, user-generated content, and other information we collect from You. These ads may be based on Your current activity or Your activity over time and across other websites and online services and may be tailored to Your interests. 
 
-We use third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to help deliver these tailored advertising on other websites and in mobile applications. These third parties may place cookies or other tracking technologies on Your computer, mobile phone, or other device to collect information about Your use of the Services as discussed above and may access these cookies or other tracking technologies on Your computer, mobile phone, or other device You use to access the Services in order to serve these tailored advertisement. We also may share with third-party advertisers a hashed version of Your email address, solely in non-human readable form and content that You share publicly when using the services (e.g, user-generated content) for purposes of delivering tailored advertising. 
+We use third parties (e.g., ad networks and ad servers such as Google Analytics, DoubleClick and others) to help deliver these tailored advertising on other websites and in mobile applications. These third parties may place cookies or other tracking technologies on Your computer, mobile phone, or other device to collect information about Your use of the Services as discussed above and may access these cookies or other tracking technologies on Your computer, mobile phone, or other device You use to access the Services in order to serve these tailored advertisement. We also may share with third-party advertisers a hashed version of Your email address that is anonymized and cannot be used to identify you, solely in non-human readable form and content that You share publicly when using the services (e.g, user-generated content) for purposes of delivering tailored advertising. 
 
 We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on Your computer, mobile phone, or other device You use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. Those parties that use these technologies may offer You a way to opt out of ad targeting as described below. You may receive tailored advertising on Your computer through a web browser. If You are interested in more information about tailored browser advertising and how You can generally control cookies from being put on Your computer to deliver tailored advertising, You may visit the Network Advertising Initiative’s Consumer Opt-Out [link](http://www.networkadvertising.org/choices) or the Digital Advertising Alliance’s Consumer Opt-Out [link](http://www.aboutads.info/choices/) to opt-out of receiving tailored advertising from companies that participate in those programs. To opt out of Google Analytics for display advertising or customize Google display network ads, You can visit the Google Ads Settings [page](https://www.google.com/settings/ads). 
 
@@ -200,11 +202,11 @@ We will share Your information which may include Registration Information, Profi
 
 ###  About You with the Instructor: 
 
-We may share Course Information, course, assignment, and quiz completion activity, and certain Registration Information and Profile Information with Instructors or teaching assistants of the Courses in which You enroll or for which You request information. If You communication with an Instructor, such as by asking a question, that Instructor will be able to view Your name. We will not share Your email address with Instructors or teaching assistants. 
+We may share Course Information, course, assignment, and quiz completion activity, and certain Registration Information (except for your email address) and Profile Information with Instructors or teaching assistants of the Courses in which You enroll or for which You request information. If You communication with an Instructor, such as by asking a question, that Instructor will be able to view Your name. We will not share Your email address with Instructors or teaching assistants. 
 
 ###  Third Party Business Partners, Service Providers, Contractors or Agents 
 
-We may share Your information with third party companies that perform services on Our behalf, including for payment processing, order fulfillment, data analysis, marketing services, advertising services (including but not limited to retargeted advertising), e-mail and hosting services, and customer services and support. An example of these third party companies includes, but is not limited to Adroll. 
+We may share Your information with third party companies that perform services on Our behalf, including for payment processing, order fulfillment, data analysis, marketing services, advertising services (including but not limited to retargeted advertising), e-mail and hosting services, and customer services and support. An example of these third party companies includes, but is not limited to Adroll. These third party service providers may access Your personal information, and are required to use it solely as directed by Us for the purpose of Our requested service. 
 
 We may also share Your information with third party companies that we partner with to provide certain services to You in connection with the Services, including but not limited to Estacio (Our partner in Brazil), Benesse (Our partner in Japan), or other similar partners. Those partners’ collection and use of information is subject to their privacy policies and other terms. You should review such privacy policies, terms, and other agreements. 
 
@@ -214,7 +216,7 @@ As mentioned above your Profile Information may be publicly viewable, including 
 
 ###  Analytics and Data Enrichment Services 
 
-As discussed above, We use third-party analytics such as Full Contact, Google Analytics, Mixpanel, and Hotjar to help understand Your usage of our services and to improve our Service. We also use data enrichment services such as Clearbit, Intercom, and InsideView. We may provide Your contact information ,Registration Information, Technical Information, Usage Data, or de-identified data or to data enrichment services, which match such information with publicly available database information, including contact and social information from other sources, such as Your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses. We use this combined information to communicate with You in a more effective and customized manner. 
+As discussed above, We use third-party analytics such as Full Contact, Google Analytics, Mixpanel, and Hotjar to help understand Your usage of our services and to improve our Service. We also use data enrichment services such as Clearbit, Intercom, and InsideView. We may provide Your contact information, Registration Information, Technical Information, Usage Data, or de-identified data or to data enrichment services to such third party analytics and data enrichment service providers, which match such information with publicly available database information, including contact and social information from other sources, such as Your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses. We use this combined information to communicate with You in a more effective and customized manner. 
 
 ###  Business Transfers, Sales, Mergers, or Divestitures 
 
@@ -222,7 +224,7 @@ In the event that Udemy undergoes a business transition, such as a merger, acqui
 
 ###  With Your Permission 
 
-We may share information with Your consent. 
+We may share information with Your consent to third parties not within scope of this Privacy Policy. 
 
 ###  Aggregate or De-identified Information 
 
@@ -292,7 +294,7 @@ Even after You delete Your Account or Your Account is terminated, we may retain 
 
 ##  14\. Modifications to this Privacy Policy 
 
-From time to time, We may update this Privacy Policy. If We make any material change to this Privacy Policy We will notify You as required by applicable law. Modifications will become effective on the day they are posted unless stated otherwise. 
+From time to time, We may update this Privacy Policy. If We make any material change to this Privacy Policy. We will notify You via email or through notification posted on our website, and as required by applicable law. Modifications will become effective on the day they are posted unless stated otherwise. 
 
 As permitted by applicable law, if You continue to use the Services, after the effective date of any change, then such access and/or use will be deemed an acceptance of and an agreement to follow and be bound by the Privacy Policy as changed. The revised Privacy Policy supersedes all previous Privacy Policies. For this reason, We encourage You to review this Privacy Policy any time You use the Services. Upon Our request, You agree to accept or sign a non-electronic version of this Privacy Policy and any other policies or agreements set forth or available through any Third Party Platform. 
 
@@ -323,7 +325,7 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 [ ](http://privacy.truste.com/privacy-seal/validation?rid=7e255c32-84f4-4e3c-8e8e-82c77ddb18c2)
 
-Effective Date: May 8, 2017 
+Effective Date: September 12, 2017 
 
 ###  What are cookies? 
 
