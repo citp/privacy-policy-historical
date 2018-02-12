@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyhiphop.com privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823060150id_/http%3A//onlyhiphop.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyhiphop.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212051552id_/http%3A//onlyhiphop.com/terms) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy OnlyHipHop.com - Quality Hip Hop Music Updated 24/7
 
