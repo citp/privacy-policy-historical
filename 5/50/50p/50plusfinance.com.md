@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50plusfinance.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210212237id_/http%3A//www.50plusfinance.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plusfinance.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212130135id_/https%3A//www.50plusfinance.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 50 Plus Finance
 
