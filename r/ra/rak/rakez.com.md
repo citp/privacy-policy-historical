@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rakez.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710053242id_/http%3A//www.rakez.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rakez.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212083310id_/http%3A//www.rakez.com/Privacy) for the most accurate reproduction.*
 
-# Business Setup in UAE | Free Zone & Non Free Zone Company Setup| Setting Up a business With Ras Al Khaimah Economic Zone (RAKEZ) - RAK Free Trade Zone (RAK FTZ)
+# Business Setup in UAE | Free Zone & Non Free Zone Company Setup| Setting Up a business With Ras Al Khaimah Economic Zone (RAKEZ) - RAK Free Trade Zone (RAK FTZ) - RAK Investment Authority (RAKIA)
 
 Ras Al Khaimah Economic Zone (RAKEZ) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Ras Al Khaimah Economic Zone (RAKEZ) Web site and governs data collection and usage. By using the Ras Al Khaimah Economic Zone (RAKEZ) website, you consent to the data practices described in this statement.
 
