@@ -1,80 +1,49 @@
-> *The following text is extracted and transformed from the metabolicdesign.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625152259id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metabolicdesign.com privacy policy that was archived on 2018-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180212180453id_/http%3A//metabolicdesign.com/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy – Metabolic Design
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+## Privacy Policy
 
-**What information do we collect?**
+Metabolic Design LLC. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Metabolic Design LLC. website and governs data collection and usage. By using the Metabolic Design LLC. website, you consent to the data practices described in this statement.
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+### Collection of your Personal Information
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+Metabolic Design LLC. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Metabolic Design LLC. also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**What do we use your information for?**
+There is also information about your computer hardware and software that is automatically collected by Metabolic Design LLC. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Metabolic Design LLC. for the operation of the service, to maintain quality of the service and to provide general statistics regarding use of the Metabolic Design LLC. website.
 
-Any of the information we collect from you may be used in one of the following ways: 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Metabolic Design LLC. public message boards, this information may be collected and used by others. Note: Metabolic Design LLC. does not read any of your private online communications.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+Metabolic Design LLC. encourages you to review the privacy statements of websites you choose to link to from Metabolic Design LLC. so that you can understand how those websites collect, use and share your information. Metabolic Design LLC. is not responsible for the privacy statements or other content on websites outside the Metabolic Design LLC. and Metabolic Design LLC. family of websites.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+### Use of your Personal Information
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+Metabolic Design LLC. collects and uses your personal information to operate the Metabolic Design LLC. website and deliver the services you have requested. Metabolic Design LLC. also uses your personally identifiable information to inform you of other products or services available from Metabolic Design LLC. and its affiliates. Metabolic Design LLC. may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-• To process transactions
+Metabolic Design LLC. does not sell, rent or lease its customer lists to third parties. Metabolic Design LLC. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Metabolic Design LLC. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Metabolic Design LLC., and they are required to maintain the confidentiality of your information.
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+Metabolic Design LLC. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-• To send periodic emails
+Metabolic Design LLC. keeps track of the websites and pages our customers visit within Metabolic Design LLC., in order to determine what Metabolic Design LLC. services are the most popular. This data is used to deliver customized content and advertising within Metabolic Design LLC. to customers whose behavior indicates that they are interested in a particular subject area.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Metabolic Design LLC. websites will disclose your personal information, without notice, only if required to do so by law or in the good-faith belief that such action is necessary to: (a) Conform to the edicts of the law or comply with legal process served on Metabolic Design LLC. or the site; (b) protect and defend the rights or property of Metabolic Design LLC.; and (c) act under exigent circumstances to protect the personal safety of users of Metabolic Design LLC., or the public.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+### Use of Cookies
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+The Metabolic Design LLC. website uses “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web-page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie to you.
 
-**How do we protect your information?**
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Metabolic Design LLC. pages, or register with Metabolic Design LLC. site or services, a cookie helps Metabolic Design LLC. to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Metabolic Design LLC. website, the information you previously provided can be retrieved, so you can easily use the Metabolic Design LLC. features that you customized.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Metabolic Design LLC. services or websites you visit.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+### Security of your Personal Information
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+Metabolic Design LLC. secures your personal information from unauthorized access, use or disclosure. Metabolic Design LLC. secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit-card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-**Do we use cookies?**
+### Changes to this Statement
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+Metabolic Design LLC. will occasionally update this Statement of Privacy to reflect company and customer feedback. Metabolic Design LLC. encourages you to periodically review this Statement to be informed of how Metabolic Design LLC. is protecting your information.
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+### Contact Information
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
-
-**Do we disclose any information to outside parties?**
-
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+Metabolic Design LLC. welcomes your comments regarding this Statement of Privacy. If you believe that Metabolic Design LLC. has not adhered to this Statement, please contact Metabolic Design LLC. at support@metabolicdesign.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
