@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831194617id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximizesocialbusiness.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213024444id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
