@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solostream.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108121442id_/https%3A//www.solostream.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solostream.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213235656id_/https%3A//www.solostream.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
