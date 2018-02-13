@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instapu.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203094903id_/http%3A//www.instapu.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapu.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213111004id_/http%3A//www.instapu.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
