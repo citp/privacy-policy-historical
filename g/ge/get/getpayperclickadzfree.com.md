@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpayperclickadzfree.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921135534id_/http%3A//www.getpayperclickadzfree.com/privacy.html%3Fheight%3D450%26width%3D525%26inlineId%3DEarnings) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpayperclickadzfree.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214003520id_/http%3A//getpayperclickadzfree.com/privacy.html%3Fheight%3D450%26width%3D525%26inlineId%3DEarnings) for the most accurate reproduction.*
 
 # 
 
