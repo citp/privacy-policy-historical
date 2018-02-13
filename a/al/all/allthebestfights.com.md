@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004094537id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213092753id_/https%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy policy & Disclosure - All The Best Fights.com
 
@@ -20,7 +20,7 @@ We may collect and store information that you choose to voluntarily provide to u
 
 We may use and share the information we collect from you while you are using the Site in different ways such as: to respond to questions or communications, to send you email, customizing features and advertising that appear on the Site, to measure Site traffic, to improve users’ experience or for any purpose related to the Site.  
 We also may use and share your information with our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services.  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies (Opt Out of Interest-Based Advertising), please visit the following link: <http://www.networkadvertising.org/managing/opt_out.asp>  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies (Opt Out of Interest-Based Advertising), please visit the following link: <https://www.networkadvertising.org/managing/opt_out.asp>  
 The use and collection of information by third-party advertising companies is governed by the relevant third party’s privacy policy and is not covered by ours.
 
 #### Cookies
@@ -28,7 +28,7 @@ The use and collection of information by third-party advertising companies is go
 Cookies are small piece of data that is sent from a website and stored in a user’s web browser when he visits a website.  
 We use cookies and other similar technologies on the Site for security purposes to gather statistical and geographical data, to display the most appropriate advertisements, to identify how many users visit us, to track your preferences, etc.  
 Most web browsers are initially set up to accept cookies but you can disable certain functionality or set certain privacy setting (through your browser) to refuse cookies. However if you want to limit the use of cookies, you may affect your website experience and may not be able to take full advantage of our Site.  
-We also use third-party web analytics services and providers of applications (such as Google Analytics or sharing buttons) that use cookies to help us to analyse how users use the Site and to collect information about visitor traffic. For more information about Google Analytics’ privacy policy, please refer to <http://www.google.com/analytics/learn/privacy.html>, or if you want to install the add-on for your browser to opt out of Google Analytics, please visit the following link: <https://tools.google.com/dlpage/gaoptout?hl+en=GB>.
+We also use third-party web analytics services and providers of applications (such as Google Analytics or sharing buttons) that use cookies to help us to analyse how users use the Site and to collect information about visitor traffic. For more information about Google Analytics’ privacy policy, please refer to <https://www.google.com/analytics/learn/privacy.html>, or if you want to install the add-on for your browser to opt out of Google Analytics, please visit the following link: <https://tools.google.com/dlpage/gaoptout?hl+en=GB>.
 
 #### Links
 
