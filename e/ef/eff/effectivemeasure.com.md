@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivemeasure.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231161133id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213190758id_/https%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
 # Effective Measure - Privacy Policy
 
@@ -31,10 +31,6 @@ In two specific cases, 1) When a visitor opts in to complete a demographic surve
 Effective Measure’s Clients use JavaScript tracking code provided by Effective Measure to track information about their web site visitors’ activity. This code contacts Effective Measure’s servers and receives a response.
 
 From time to time we may also administer random “interactive pop-up” surveys to some users of our Clients’ Web sites while they are visiting those web sites. These surveys request additional demographic, non-personally identifiable information. Your participation in a survey is always voluntary, and you therefore have a choice as to whether or not to provide the requested survey information. We use the information collected in the survey, in conjunction with information gathered through our cookies and code, in order to provide our Clients with an even more detailed understanding of their Internet audience.
-
-The technology used by Effective Measure is not intended to collect personally identifiable information. In some limited circumstances, however, some voluntarily provided personally identifiable information may be captured; for example, when an email address or telephone number is incorporated into a survey for the potential awarding of a prize draw, or when the respondent has opted-in to possible follow up research. This information may be shared with overseas entities or Clients who in turn have agreed to adhere to this Privacy Policy.
-
-Effective Measure does NOT use personally identifiable information inadvertently captured in this manner. Your personally identifiable information will NEVER be used by Effective Measure to advertise, promote or market third party goods or services to you.
 
 Effective Measure will in some occasions make available to third parties such as research and or marketing companies anonymised cookie information.
 
