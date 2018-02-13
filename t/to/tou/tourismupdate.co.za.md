@@ -1,0 +1,109 @@
+> *The following text is extracted and transformed from the tourismupdate.co.za privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213190758id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+
+# Effective Measure - Privacy Policy
+
+[From South Africa? View our Privacy Policy for South Africa.](http://www.effectivemeasure.com/za-privacy-policy/)
+
+## Your trust and confidence is important to us.
+
+## Effective Measure conducts its business under the following privacy principles:
+
+#### Effective Measure Acts as an Agent for our Clients
+
+Effective Measure acts as an Agent for each of our Clients, in that we provide our Services solely for the benefit of the Client. Each of our Clients uses Effective Measure to understand more about the visitors to its websites; in this way, our Clients can provide online advertisers with third party independent statistics that help demonstrate their site audience. This data may include search engine referral, affiliate referrals, traffic driven by banner ads or other online promotions, how visitors navigate around the site, the most popular websites or sections.
+
+We also collect certain technical information, such as the browser version and operating system. We aggregate all of the usage data from our Clients’ websites into a Benchmarking solution that demonstrates their metrics to advertisers and other interested parties. We do, however, reserve a limited right to disclose any data we collect if required by law or valid order of a court or other governmental authority.
+
+We only collect anonymous usage data from safe websites which are registered on our system. These websites participate in Effective Measure by placing a small piece of tracking code on each of their webpages. To see more information on this, please [visit the following link](http://help.effectivemeasure.com/faq-and-troubleshooting) **.**
+
+#### Our Clients’ Use of Effective Measure
+
+We ask each of our Clients to abide by all applicable laws, rules and regulations, as we promise our Clients that we will do ourselves. We also recommend that each Client obtain all necessary consents from visitors to its web site(s), post an online privacy policy that provides each visitor with notice of its data collection and use practices (including the Client’s use of Effective Measure), and provide a link to the Effective Measure privacy policy.
+
+#### Use of Cookies and Other Data Collection Methods
+
+In providing Effective Measure to our Clients, it is Effective Measure’s policy to use cookies and Rich Internet Applications (RIA) only for more accurate traffic analysis. The combination of information does not include personal data such as name, age, phone number, e-mail address or mailing address. Most browsers are initially set up to accept cookies.
+
+If you would prefer, you can set your browser to reject cookies.
+
+In two specific cases, 1) When a visitor opts in to complete a demographic survey or 2) when they elect to Opt Out of measurement, Effective Measure will utilise a Local Shared Object (a “Flash cookie”) to help identify the users preference and ensure compliance with Opt Outs and privacy wishes. You can clear out or completely disable your local shared object by visiting this page.
+
+Effective Measure’s Clients use JavaScript tracking code provided by Effective Measure to track information about their web site visitors’ activity. This code contacts Effective Measure’s servers and receives a response.
+
+From time to time we may also administer random “interactive pop-up” surveys to some users of our Clients’ Web sites while they are visiting those web sites. These surveys request additional demographic, non-personally identifiable information. Your participation in a survey is always voluntary, and you therefore have a choice as to whether or not to provide the requested survey information. We use the information collected in the survey, in conjunction with information gathered through our cookies and code, in order to provide our Clients with an even more detailed understanding of their Internet audience.
+
+Effective Measure will in some occasions make available to third parties such as research and or marketing companies anonymised cookie information.
+
+#### Links to Other Web Sites
+
+Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. This Privacy Policy does not govern those sites, and if you have questions about how a site uses your information, consult that site’s privacy statement.
+
+#### Security
+
+We use reasonable organisational, technical and administrative measures to protect personal information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contact Us” section on Effective Measure site.
+
+#### Opting Out
+
+As a visitor to any of our Clients’ sites, you can deactivate our Clients’ abilities to analyse your web browsing behaviour, which will universally deactivate this ability on all Client sites (including the Effective Measure web sites) currently using our Services. To opt out of receiving tracking cookies for all sites using Effective Measure, you will need to accept a cookie indicating your choice to do so.
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out as described above, we will not be able to remove your personal information from the databases of our affiliates with which we have already shared it. Please also note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages as part of your ongoing use of our products or Services.
+
+Please visit our [opt out page](http://www.effectivemeasure.com/opt-out/) for more information.
+
+#### Privacy Policy For Effective Measure Website
+
+Effective Measure is committed to maintaining the trust and confidence of our Clients and visitors to our web site. In particular, we want you to know that we are not in the business of selling or renting individuals’ personal data to other companies for marketing purposes. In this Privacy Policy we provide detailed information on when and why we collect personal information, how we use it, the limited conditions under which we may disclose it to others, and how we keep it secure.
+
+We use Google Analytics to help us analyse how visitors use the Site. Among other things, Google Analytics uses cookies to collect information about the number of visitors to the Site, the webpage that referred visitors to the Site, and the pages that visitors view within the Site. For more info on Google Analytics’ privacy policy please refer directly to Google Analytics Privacy Policy.
+
+#### Collection and Use of Personal Information
+
+Effective Measure collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address.
+
+In general, you can browse our web site without giving us any personal information. We use our own product, Effective Measure, to analyse traffic to this web site in order to understand our Clients’ and visitors’ needs and to continually improve our site for them. Effective Measure collects only anonymous, aggregate statistics.
+
+Other activities on our site require you to be registered-for example, to request an Effective Measure Account. As part of the registration process, we ask you to provide additional personal information. We use that information for several purposes: to register your company and websites for inclusion in our Service if you so request; to fulfil your request; to contact you if we need to obtain or provide additional information; to verify the accuracy of our records; or to contact you regarding Client satisfaction surveys.
+
+#### Disclosure of Personal Information
+
+In some instances we rely on our channel partners to fulfil product trials and information requests, and provide Clients and prospective Clients with information about Effective Measure and its solutions. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose.
+
+We sometimes hire vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. In addition, we may use third party information or technology in our products and disclose Client information to such third parties solely for the purposes of fulfilment, support, or audit by such third parties. We may also license/transfer or sell-off our technology to third parties, and in connection with such transitions, we may disclose Client data to the transferee.
+
+If you require further information on the channel partners, vendor companies or third parties to whom your information may have been passed to please contact [privacy@effectivemeasure.com](mailto:privacy@effectivemeasure.com).
+
+By using our web site and providing us with your personal data, you consent to this transfer of your personal data.
+
+We may also disclose your personal information if required to do so by law or in the good faith belief that such action is necessary in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a our business and/or the business of our subsidiaries or to (1) conform to legal requirements or comply with legal process served on us or this web site; (2) protect and defend our rights, property and this web site; (3) enforce our agreements with you, or (4) act in urgent circumstances to protect personal safety or the public.
+
+#### Retention Period
+
+We will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+#### Cross-Border Transfer
+
+For Users: Your personal information may be stored and processed in any country where we have facilities, and by using our Site you consent to the transfer of information to countries outside of your country of residence, which have different data protection rules than in your country.
+
+For Effective Measure Clients: Any Client using Effective Measure’s Services outside Australia must ensure they comply with the “Use Of Data” terms as outlined in this Privacy Policy.
+
+#### Children and Privacy
+
+Our web site does not offer information intended to attract children. We do not knowingly solicit personal information from children under the age of 14.
+
+#### What are Cookies?
+
+A cookie is a small text file containing information that a web site transfers to your computer’s hard disk for record-keeping purposes.
+
+Cookies allow a web server to transfer data to a computer for record keeping and other purposes. These cookies are used for security purposes, to facilitate navigation, to display information more effectively, and to better serve you with more tailored information, as well as for online tracking purposes. We may also use cookies to gather statistical information about the usage of the Site in order to provide feedback on the design and functionality, to understand how users use the Site, and to assist with resolving questions regarding the Site.
+
+A cookie cannot give us access to your computer or to information beyond what you provide to us. Most web browsers automatically accept cookies. Consult your browser’s manual or online help if you want information on restricting or disabling the browser’s handling of cookies. If you disable cookies, you can still view the publicly available information on our web site.
+
+#### Unsubscribing From Effective Measure Communications and Newsletters
+
+To unsubscribe from Effective Measure Communications and Product and Service Announcements, please email [media@effectivemeasure.com](mailto:media@effectivemeasure.com).
+
+#### Your Consent
+
+By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
+
+  For more information about this site or your visit, please email us at [info@effectivemeasure.com](mailto:info@effectivemeasure.com).
