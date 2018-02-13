@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myiuhealth.org privacy policy that was archived on 2017-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214094504id_/http%3A//iuhealth.org/legal-notices/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myiuhealth.org privacy policy that was archived on 2018-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180213030604id_/http%3A//iuhealth.org/legal-notices/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js no-touch geolocation svg" lang="en" style=""><!--<![endif]--><head>
 
@@ -123,10 +123,11 @@
          <table class="global_search_container two" role="presentation">
             <tbody><tr>
               <td class="global_search_container_bar">
-
-                <input type="text" class="addsearch" disabled="disabled">
-                <script type="text/javascript" src="https://addsearch.com/js/?key=051345292cd9ede503c3b44cb55e55ef"></script>
-
+                <form class="global_search_container_form" action="/search">
+                  <input class="global_search_container_text-box" name="term" type="text" placeholder="Search">
+                  <input type="hidden" name="page" value="1">
+                  <input class="global_search_container_button" value="" type="submit">
+                </form>
               </td>
               <td class="global_search_container_print">
                 <a onclick="javascript:window.print();return false;" title="Print this page" href="#">
@@ -175,10 +176,12 @@
           <table class="global_search_container three" role="presentation">
             <tbody><tr>
               <td class="global_search_container_bar">
-                <input type="text" class="addsearch" disabled="disabled">
-                <script type="text/javascript" src="https://addsearch.com/js/?key=051345292cd9ede503c3b44cb55e55ef"></script>
-              </td>
-            </tr>
+                <form class="global_search_container_form" action="/search">
+                  <input class="global_search_container_text-box" name="term" type="text" placeholder="Search">
+                  <input type="hidden" name="page" value="1">
+                  <input class="global_search_container_button" value="" type="submit">
+                </form>
+            </td></tr>
           </tbody></table>
         </div>
       </div>
@@ -267,9 +270,9 @@
           <ul>
             <li class="zoc-doc-mobile__li zoc-doc-mobile__li-no-expand">
               <div class="mobile-navigation-tooltip">
-                <div class="tooltip tooltip--left">
-                  <div class="tooltip__toggle" for="tooltip--mobile-nav"></div>
-                  <input class="tooltip__checkbox" type="checkbox" id="tooltip--mobile-nav" title="Toggle tooltip text">
+                <div class="tooltip tooltip--left" data-tooltip="">
+                  <label class="tooltip__toggle" for="tooltip--mobile-nav"></label>
+                  <input class="tooltip__checkbox" type="checkbox" id="tooltip--mobile-nav" title="Toggle tooltip text" data-tooltip-status="">
                   <div class="tooltip__content">
                     <p>Book an appointment online with select physicians.</p>
                   </div>
@@ -658,7 +661,7 @@
 
         <br><br>
 
-        <span>©2017 Indiana University Health</span>
+        <span>©2018 Indiana University Health</span>
       </div>
     </div>
   </footer>
@@ -667,6 +670,9 @@
     
 
   <script data-main="/gsight/js/main-invite.min.js" src="/gsight/js/vendor/require.js"></script>
+
+
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0073/0024.js" async="async"></script>
 
 
 </body></html>
