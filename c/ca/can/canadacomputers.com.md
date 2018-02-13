@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223629id_/http%3A//www.canadacomputers.com/policies/%3Fpage%3Dprivacy_policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213114934id_/http%3A//www.canadacomputers.com/policies.php%3Fpage%3Dpolicies-privacy) for the most accurate reproduction.*
 
-# Policies | Canada Computers & Electronics
+# Privacy Policies - Canada Computers & Electronics
 
 Canada Computers & Electronics welcomes all visitors to our website. Canada Computers & Electronics is committed to ensuring the privacy and protection of all our customers. This policy was developed with this goal in mind and outlines the guidelines in which we gather personal and non-personal information and the use of such information. In the process of engaging in commerce with the public, certain non-personal and personal information is gathered by our website. We do not store personal information on our website, for your protection and privacy, all personal information is redirected to an encrypted, secure site maintained by our order processing system. This system uses the highest level of internet security to protect you from unauthorized use. The following is an explanation of our privacy policy.
 
-### Definitions
+## Definitions
 
 For the purposes of this statement, personal information includes your name, address, account information, company name, email address, telephone number and any other information which identifies you. "We, us, our" refers to Canada Computers & Electronics and our affiliated companies. Non-personal information refers to all non-identifiable information such as your IP address, referring website, browser type, and navigation on the website as well as consolidated demographic information which does not contain individual information.
 
-### Gathering of Personal Information
+## Gathering of Personal Information
 
 To provide you with the best service possible or to complete a transaction, Canada Computers & Electronics gathers your information to both verify your identity (to prevent fraud) and to facilitate your request. By providing your information in association with your request you are giving us your expressed consent in using that information to provide you the service or transaction you requested. This information is not stored on our website but redirected to a secured site. Information collected in this manner is used solely for processing your request. We may collect and summarize this information in such a manner where no individual may be identified for statistical purposes to help us improve our business practices and provide better service to you.
 
-### Gathering of Non-Personal Information
+## Gathering of Non-Personal Information
 
 As most other websites our website may collect information about you that cannot be used to identify you directly. This information is gathered to help us improve our website and our business practices. Most of this information is used in statistical models for our information and may be shared with our vendors, suppliers and third-party contractors to improve the website and continue to give you the best value in the products offered to you. Other uses may include this information to create limitations to specific IP addresses or URLs that have been known to create problems for us.
 
-### Access to and Releasing of Information
+## Access to and Releasing of Information
 
 Order Processing: When you purchase from our website or retail location, your name, address, credit card number and amount purchased will be submitted to your financial institution to verify your identity and to authorize your purchase. We must also supply your name, telephone number, address and items purchased to third party shippers such as UPS to deliver your order to you. There may also be instances where we may drop ship directly from the manufacturer or one of our suppliers. In these instances they are the shipper for this order and given the same information.
 
@@ -26,15 +26,15 @@ Disclosure to Service Providers: Canada Computers & Electronics may share your p
 
 Any information our customers provide will not be used for other commercial purposes and will not be sold, rented, leased or forwarded to any third party.
 
-### Legal Disclosure:
+## Legal Disclosure:
 
-We may disclose your information as permitted or required to by law; for example: 
+We may disclose your information as permitted or required to by law; for example:
 
-  * * To a government institution or other person or entity that has asserted its lawful authority to obtain the information;
-  * * Where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity;
-  * * To comply with a subpoena or warrant or an order made by a court, person or entity with jurisdiction to compel the production of information;
-  * * To comply with court rules regarding the production of records and information;
-  * * To our legal counsel.
+  * To a government institution or other person or entity that has asserted its lawful authority to obtain the information;
+  * Where we have reasonable grounds to believe the information could be useful in the investigation of unlawful activity;
+  * To comply with a subpoena or warrant or an order made by a court, person or entity with jurisdiction to compel the production of information;
+  * To comply with court rules regarding the production of records and information;
+  * To our legal counsel.
 
 
 
