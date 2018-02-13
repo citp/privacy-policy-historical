@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120072309id_/http%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianfanfics.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213073244id_/https%3A//www.asianfanfics.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Asianfanfics
 
@@ -40,7 +40,7 @@ The Site may contain links to third party Sites with which we have no affiliatio
 
 **5\. Our Policy Towards Children**
 
-The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Site is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at legal@asianfanfics.com. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 **6\. Security**
 
@@ -56,7 +56,7 @@ Your information may be transferred to — and maintained on — computers locat
 
 **9\. Dispute Resolution**
 
-If you believe that Asianfanfics has not adhered to this Privacy Policy you may contact Asianfanfics at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection):
+If you believe that Asianfanfics has not adhered to this Privacy Policy you may contact Asianfanfics at legal@asianfanfics.com:
 
 **10**.  **Modifications to this Privacy Policy**
 
