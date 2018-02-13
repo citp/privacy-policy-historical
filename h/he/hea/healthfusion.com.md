@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthfusion.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122162917id_/https%3A//www.healthfusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfusion.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213011605id_/http%3A//www.healthfusion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - HealthFusion
 
 HealthFusion is committed to respecting the privacy of all of our website visitors and customers. This website is designed and administered to protect your privacy and to comply with all related state and federal laws and industry best practices.
 
@@ -70,7 +70,7 @@ If you are not either a patient of one of the practices that subscribes to the H
 
 This website is intended for individuals over the age of 18 and is not intended to collect any information from individuals under the age of 18. If you are not 18 or more years of age, please leave this site immediately.
 
-HealthFusion, Inc. reserves the right to share your information with third parties if required to do so by law or if we believe such action is necessary in order to: (a) conform with the requirements of the law or to comply with legal process served upon us; (b) protect or defend our legal rights or property, HealthFusion.com, or our users; or (c) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the terms and conditions of using HealthFusion.com or related HealthFusion Services (please refer to the [HealthFusion User Agreement](https://web.archive.org/web/20171122162917id_/http://healthfusion.com/privacy-policy/user-agreement) for more information).
+HealthFusion, Inc. reserves the right to share your information with third parties if required to do so by law or if we believe such action is necessary in order to: (a) conform with the requirements of the law or to comply with legal process served upon us; (b) protect or defend our legal rights or property, HealthFusion.com, or our users; or (c) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the terms and conditions of using HealthFusion.com or related HealthFusion Services (please refer to the [HealthFusion User Agreement](https://web.archive.org/web/20180213011605id_/http%3A//www.healthfusion.com/user-agreement) for more information).
 
 If you use a bulletin board, chat room, forum, or blog comments feature on this website, you should be aware that any information you share is visible to other users. Personally identifiable information you submit to one of these forums can be read, collected, or used by other individuals to send you unsolicited messages. HealthFusion, Inc. is not responsible for the personally identifiable information you choose to submit in these forums.
 
