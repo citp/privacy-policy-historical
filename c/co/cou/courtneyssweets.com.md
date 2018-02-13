@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courtneyssweets.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829022842id_/https%3A//www.courtneyssweets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courtneyssweets.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213103952id_/https%3A//www.courtneyssweets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Courtney's Sweets
 
