@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payback.in privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911140142id_/https%3A//www.payback.in/home/privacy-policy.html%3Ficid%3Dfooter%7Cpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payback.in privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213131606id_/https%3A//www.payback.in/home/privacy-policy.html%3Ficid%3Dfooter%7Cpolicy) for the most accurate reproduction.*
 
 # PAYBACK - Privacy Policy
 
