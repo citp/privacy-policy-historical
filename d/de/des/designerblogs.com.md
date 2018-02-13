@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerblogs.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006000653id_/http%3A//www.designerblogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerblogs.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213100159id_/https%3A//www.designerblogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignerBlogs.com
 
@@ -97,6 +97,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us at info@designerblogs.com.
+If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 * * *
