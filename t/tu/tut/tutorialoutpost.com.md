@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420182620id_/http%3A//tutorialoutpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorialoutpost.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213081713id_/http%3A//tutorialoutpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
