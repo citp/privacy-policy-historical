@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628083626id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tupalo.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213233532id_/http%3A//tupalo.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Tupalo - Stuff In Your Neighborhood
 
@@ -35,7 +35,6 @@ We use third-party advertising companies to serve ads and collect information wh
 Some of our other advertising partners may also use cookies and web beacons on Tupalo.com, our advertising partners include: 
 
   1. [HEROLD Business Data GmbH](http://www.herold.at/) (AT) 
-  2. [Twyn Group](http://www.twyn.com/) (AT) 
 
 
 
