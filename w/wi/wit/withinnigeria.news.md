@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withinnigeria.news privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119121359id_/https%3A//www.withinnigeria.news/privacy-protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withinnigeria.news privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214221423id_/https%3A//www.withinnigeria.news/privacy-protection) for the most accurate reproduction.*
 
 # PRIVACY PROTECTION — Within Nigeria
 
