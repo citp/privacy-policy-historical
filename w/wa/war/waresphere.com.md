@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waresphere.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215235458id_/http%3A//www.waresphere.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waresphere.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214133806id_/http%3A//www.waresphere.com/store/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
