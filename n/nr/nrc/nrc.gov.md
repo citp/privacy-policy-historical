@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2017-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170427005404id_/https%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214115422id_/https%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -138,4 +138,4 @@ In response to the OMB May 22, 2007, memorandum (M-07-16), "Safeguarding Against
 
 In accordance with established policy, the NRC actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of the NRC Personally Identifiable Information Breach Notification Policy is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the specified procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML14036A058](https://web.archive.org/docs/ML1403/ML14036A058.pdf).
 
-_Page Last Reviewed/Updated Monday, November 14, 2016_
+_Page Last Reviewed/Updated Monday, August 14, 2017_
