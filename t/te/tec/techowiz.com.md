@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techowiz.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210062955id_/http%3A//www.techowiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techowiz.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214101433id_/https%3A//www.techowiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techowiz
 
@@ -59,6 +59,8 @@ Ads appearing on our Website may be delivered to users by advertising partners, 
 Third parties (i.e., Google Analytics) may also use cookies, scripts or web beacons for the purpose of tracking and analyzing your use, this information does not include Personal Information. To learn more how Google uses data from our use of Google Analytics Cookie we recommend you review Google’s policies located at: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners). We also encourage you to review the Google Analytics’ currently available opt-outs for the web tool available at: <https://tools.google.com/dlpage/gaoptout/>
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+As we use third party retargeting services, you may opt-out directly from third party retargeting cookies or other ad-technology trackers through self-regulator services like the Network Advertising Initiative’s (“ **NAI** ”) website – [NAI consumer opt-out page](http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance’s (“ **DAA** ”) website – [DAA opt-out page](http://www.aboutads.info/).
 
 **DELETING DATA**
 
