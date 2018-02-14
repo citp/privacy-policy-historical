@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireology.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227065832id_/http%3A//hireology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireology.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214164124id_/http%3A//hireology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hireology
 
