@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orbex.com privacy policy that was archived on 2017-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170826151606id_/https%3A//www.orbex.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbex.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214163756id_/https%3A//www.orbex.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Orbex offers comprehensive privacy policy |Forex Broker | ORBEX
+# Orbex offers comprehensive privacy policy | Forex Broker | ORBEX
 
 Orbex Limited is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Privacy Statement applies to all Orbex Limited Websites and governs data collection and usage. By accessing, browsing and/or using this Website, you consent to the data practices described in this statement and acknowledge that you have read, understood, and agree, to be bound by these terms conditions, and notices contained herein and to comply with all applicable laws and regulations.
 
