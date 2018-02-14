@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208123811id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathistars.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214063422id_/http%3A//marathistars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MarathiStars
 
@@ -81,7 +81,3 @@ MarathiStars.com is registered in India. If you are a user / member accessing th
 MarathiStars.com reserve the right at any time to: change the terms of this Agreement; change the Services, including eliminating or modifying any content on or feature of the website; or change/charge any fees or charges for use of the Services.
 
 MarathiStars.com is committed to resolving disputes as soon as feasible and shall endeavour to resolve all disputes brought to our notice in keeping with the mechanism prescribed.
-
-#### Tags
-
-lagira Zala Ji Khalsa Bagh, nxn com marathi, MANSI NAEK NXN VIEDO, web, 
