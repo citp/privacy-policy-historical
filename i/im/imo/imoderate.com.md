@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imoderate.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215061658id_/http%3A//imoderate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imoderate.com privacy policy that was archived on 2018-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180214054958id_/http%3A//imoderate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iModerate
 
@@ -62,7 +62,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [http://184.72.72.106](http://184.72.72.106/)  
 720 South Colorado Blvd. Suite 500 N Denver, CO. 80246  
 (303) 333-7880  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@184.72.72.106
 
 This document was last updated on June 10, 2014
 
