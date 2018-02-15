@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docdroid.net privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108145811id_/https%3A//www.docdroid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docdroid.net privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215153419id_/https%3A//www.docdroid.net/privacy) for the most accurate reproduction.*
 
 # Privacy - DocDroid
 
