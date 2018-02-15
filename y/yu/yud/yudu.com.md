@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the yudu.com privacy policy that was archived on 2015-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151230221411id_/http%3A//www.yudu.com/about-yudu/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yudu.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215031723id_/https%3A//www.yudu.com/about/privacy) for the most accurate reproduction.*
 
-# FAQ | YUDU
-
-**Overall privacy statement**
+# Privacy Policy | YUDU
 
 Our websites are designed to allow publishers /authors/editors/(collectively, 'Publishers') the ability to upload content, enhance and combine content and distribute the resulting materials, to the benefit of readers ('Readers') by making them available on the internet or proprietary devices and operating systems. Anyone who accesses our sites, whether as a Publisher or Reader, is regarded as a 'User'. YUDU Ltd may differentiate between Publishers and Readers with respect to the gathering, use and sharing of User information, but for purposes of this Privacy Policy each User should assume that the entire Policy applies to such User.
 
@@ -14,7 +12,7 @@ Our primary goal in collecting information is to provide individuals and organiz
 
 We collect personally identifiable information, such as your name, company name, email addresses, postal addresses, phone numbers, mobile numbers.
 
-We may also collect other sensitive information such as your job title, gender, and username. We may also receive information about individuals and your organization from other sources and add it to the information you have provided. Passwords are not stored directly; we use a hash of the password to maintain security. Our production sites are encrypted and firewalls are designed to give high levels of protection from unauthorized persons or organizations.
+We may also collect other sensitive information such as your job title, gender, and username. We may also receive information about individuals and your organization from other sources and add it to the information you have provided. Passwords are not stored directly; we use a hash of the password to maintain security. Our production sites are encrypted and firewalls are designed to give high levels of protection from unauthorised persons or organisations.
 
 **Cookies**
 
@@ -24,11 +22,11 @@ We also use technologies, including electronic images - sometimes called transpa
 
 We use cookies and tracking technologies in a variety of ways, including:
 
-  * Keeping count of return visits to our sites;
-  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
-  * Determining which features our overall user population likes best;
-  * Saving your password so you don't have to re-enter it each time you visit our sites;
-  * Displaying the most appropriate advertising or content based on your interests.
+  * Keeping count of return visits to our sites
+  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on website and advertisement usage
+  * Determining which features our overall user population likes best
+  * Saving your password so you don't have to re-enter it each time you visit our sites
+  * Displaying the most appropriate advertising or content based on your interests
 
 
 
@@ -46,32 +44,32 @@ We use the information we gather for 3 general purposes:
 
 We will only make your personally identifiable information available to other companies or people when:
 
-  * You authorize us when you register or at a later date through our website.
-  * You use sites or services that we offer to you in connection with a partner, who is identified on the site. These are known as 'cobranded services'. By using a cobranded service you grant us permission to pass your registration information back to that partner, whose use is subject to their applicable privacy policies.
-  * We may hire third-party vendors to provide specialized services, who are only allowed to use the information to do their jobs, and not for their own use.
-  * You decline a mailing that we send to you on behalf of a third party, in which case we may share your removal instruction so that it may be added to the third party's 'do not contact' list.
+  * You authorise us when you register or at a later date through our website
+  * You use sites or services that we offer to you in connection with a partner, who is identified on the site. These are known as 'cobranded services'. By using a cobranded service you grant us permission to pass your registration information back to that partner, whose use is subject to their applicable privacy policies
+  * We may hire third-party vendors to provide specialized services, who are only allowed to use the information to do their jobs, and not for their own use
+  * You decline a mailing that we send to you on behalf of a third party, in which case we may share your removal instruction so that it may be added to the third party's 'do not contact' list
   * When required by UK or US law to do so where we believe there is sufficient evidence that your actions have violated applicable laws
-  * When Yudu Media terms of use have been breached and we judge that we need to protect our rights, property, safety or those of others.
-  * When we may be parties to a purchase, sale or merger. This may result in the transfer some or all of your information in order for services to be continued. We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+  * When YUDU's terms of use have been breached and we judge that we need to protect our rights, property, safety or those of others
+  * When we may be parties to a purchase, sale or merger. This may result in the transfer some or all of your information in order for services to be continued. We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally
 
 
 
 **User Options; Review/ Update of Personally Identifiable Information**
 
-Certain services require full registration. For other services, Users who would rather not provide any of the user data requested by our registration process should contact us at [support@yudu.com](mailto:support@yudu.com). You can still view the websites and the digital publication but you will not be able to use many of the publishing services.
+Certain services require full registration. For other services, Users who would rather not provide any of the user data requested by our registration process should contact us at [support@yudu.com](mailto:support@yudu.com). You can still view the websites and the digital publication but you will not be able to use many of the publishing services.
 
 We also give Users the following options:
 
-  * Opting not to receive our electronic newsletters or those of third parties when registering or at a later date by following our procedures;
-  * Opting not to provide certain personal information when registering for a site, provided; again this may limit your use of the sites.
-  * Our sites provide the procedures by which Users can review, correct, or change the information collected during registration for any of our sites. We encourage Users to keep information current. If you have problems or questions, contact us using the following e-mail address: [support@yudu.com](mailto:support@yudu.com)
+  * Opting not to receive our electronic newsletters or those of third parties when registering or at a later date by following our procedures
+  * Opting not to provide certain personal information when registering for a site, provided; again this may limit your use of the sites
+  * Our sites provide the procedures by which Users can review, correct, or change the information collected during registration for any of our sites. We encourage Users to keep information current. If you have problems or questions, contact us using the following e-mail address: [support@yudu.com](mailto:support@yudu.com)
 
 
 
 **Privacy Policy Changes**
 
-See our sites. For material changes we will post a notice and provide a link. Further, if the policies relating to our use of information changes from after it is collected, we will send affected users written notice of the change by e-mail.
+See our sites. For material changes we will post a notice and provide a link. Furthermore, if the policies relating to our use of information changes from after it is collected, we will send affected users written notice of the change by e-mail.
 
 **Privacy of children**
 
-Our website and our Services are intended for adult audiences, and Yudu Ltd does not knowingly collect any personal information from anyone under 13 years of age.
+Our website and our services are intended for adult audiences, and YUDU Ltd does not knowingly collect any personal information from anyone under 13 years of age.
