@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernkrazed.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215001245id_/http%3A//southernkrazed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernkrazed.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215125004id_/http%3A//southernkrazed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Southern Krazed
 
