@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zurichinternationalsolutions.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720091243id_/https%3A//www.zurichinternational.com/en/zurich-international-life/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zurichinternationalsolutions.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215160324id_/https%3A//www.zurichinternational.com/en/zurich-international-life/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | About us | Zurich International Life
 
@@ -49,7 +49,7 @@ Collecting your personal information
   * We will correct or delete any inaccurate information that we are holding about you if this is brought to our attention. 
   * Before you provide us with any personal information about a third party you must obtain authority from the individual(s) concerned and undertake to keep them advised about how their information will be used. 
   * If you have any queries in relation to this Privacy Statement please use the “Contact us” facility on this website. 
-  * If you would like to learn more about how we use your personal information, please click [here](http://media.zurich.com/international/pdfs/MSP13537.pdf "MSP13537 - Data Protection statement").
+  * If you would like to learn more about how we use your personal information, please click [here](http://www.zurichinternational.com/_/media/dbe/zurich-international/docs/MSP13537-Data-Protection-Statement-0316.pdf "MSP13537 - Data Protection statement").
 
 
 
