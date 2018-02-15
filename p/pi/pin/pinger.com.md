@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606231758id_/https%3A//wp.pinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215194429id_/https%3A//www.pinger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pinger
 
@@ -26,7 +26,7 @@ Pinger collects information when you use and access Pinger's products, services 
 
 Pinger uses Customer Information to enhance your use of the Pinger services by processing such information for various purposes, including improving and providing Pinger's products and services, product notifications, delivering advertisements and related links, for sending, sharing and storing your Share Data as you direct through use of Pinger products and services, and other purposes relating to offering you Pinger products and services.
 
-If you provide your phone number as part of a request for information about Pinger products or services, we may use that phone number and share that phone number with third parties to contact you about Pinger products and services and to provide advertisements to you about Pinger Products and services.
+If you provide your phone number as part of a request for information about Pinger products or services or in setting up an account, we may use that phone number and share that phone number with third parties to contact you about Pinger products and services and to provide advertisements to you about Pinger Products and services.
 
 **Pinger does not rent, sell, or share any Customer Information except as provided above and unless: you initiate the sharing through the Pinger products, services or website; you have provided your express consent; and in the following circumstances:**
 
@@ -44,17 +44,19 @@ If you provide your phone number as part of a request for information about Ping
 
 #### **Cookies and Tracking**
 
-When you visit Pinger or use Pinger applications, we may send cookies to your computer that uniquely identify your browser or use tracking pixels, agents or other visitor identification technology (collectively, “Tags”) that collect App Data. We may also include Tags in promotional materials in order to determine whether messages have been opened and acted upon.
+When you visit Pinger or use Pinger applications, we may send cookies to your computer that uniquely identify your browser or use tracking pixels, agents or other visitor identification technology (collectively, "Tags") that collect App Data. We may also include Tags in promotional materials in order to determine whether messages have been opened and acted upon.
 
 We use and share App Data as provided above.
 
 Most browsers allow you to disable cookies or set your browser to alert you when cookies are being sent to your computer. If you disable cookies, you may not be able to utilize certain Pinger products and services.
 
-We use analytics tools provided by Google, Flurry, adjust, Mixpanel and others (“Analytics Tools”) which also use Tags to collect and analyze information about your use of our desktop and mobile applications. We use that information to collect App Data, which we use as provided above. That information is also used by the Analytics Tools providers according to their privacy policies. You can find more details about how Google uses data it collects here: [http://www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). To learn how Flurry collects, uses, and stores such information, see the Flurry privacy policy at [https://policies.yahoo.com/us/en/yahoo/privacy/index.htm](https://policies.yahoo.com/us/en/yahoo/privacy/index.htm). You may choose to opt out of the Flurry services via the Flurry Opt-Out Page, available at [https://dev.flurry.com/secure/optOut.do](https://dev.flurry.com/secure/optOut.do). Mixpanel’s use of information is set forth in the “Privacy Policy” section of its Terms of Use available at [https://mixpanel.com/terms/](https://mixpanel.com/terms/). You may choose to opt out of the Mixpanel cookie at any time at [https://mixpanel.com/optout/](https://mixpanel.com/optout/).
+We use analytics tools provided by Google, Facebook, Flurry, adjust, braze and Crashlytics ("Analytics Tools") which also use Tags to collect and analyze information about your use of our desktop and mobile applications. We use Analytics Tools to collect App Data, which we use as provided above. That information is also used by the Analytics Tools providers according to their privacy policies.
+
+You can find more details about how Google uses data it collects here: <http://www.google.com/policies/privacy/partners/>. Some applications may use Google Contacts API to allow access to your contacts using <https://www.googleapis.com/auth/contacts>. That information is stored on your device and not uploaded to our servers, and is used solely to allow you to communicate with contacts using the features of those applications. For more, see [https://console.cloud.google.com](https://console.cloud.google.com/) and <https://console.cloud.google.com/tos?id=universal>. To learn how Flurry collects, uses, and stores such information, see the Flurry privacy policy at <https://policies.yahoo.com/us/en/yahoo/privacy/index.htm>. You may choose to opt out of the Flurry services via the Flurry Opt-Out Page, available at <https://dev.flurry.com/secure/optOut.do>. To learn more about data collection with Facebook Analytics, see <https://developers.facebook.com/docs/analytics/overview>. To learn more about how braze uses data it collects, see <https://www.braze.com/terms/>. Crashlytics privacy policy can be found at <http://try.crashlytics.com/terms/privacy-policy.pdf>.
 
 You hereby expressly consent that we is entitled to place Tags for the above-mentioned uses on your computer or device and to use the information gathered from Tags as provided in this Privacy Policy.
 
-Currently, we do not respond to “Do Not Track” browser features.
+Currently, we do not respond to "Do Not Track" browser features.
 
 #### **Security and Data Integrity**
 
@@ -78,6 +80,6 @@ If you have any questions or concerns regarding this Privacy Policy, please send
 
 #### **Interest-Based Advertiser Opt Outs**
 
-Pinger is not a member of any self-regulatory bodies for interest-based advertising like the DAA and NAI, but some of our advertisers and advertising services providers are members of self-regulatory bodies and require that we provide you with the following out links to the NAI and DAA opt out programs: for the NAI, see [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), and for the DAA, see [http://www.aboutads.info](http://www.aboutads.info/).
+Pinger is not a member of any self-regulatory bodies for interest-based advertising like the DAA and NAI, but some of our advertisers and advertising services providers are members of self-regulatory bodies and require that we provide you with the following out links to the NAI and DAA opt out programs: for the NAI, see <http://www.networkadvertising.org/choices>, and for the DAA, see [http://www.aboutads.info](http://www.aboutads.info/).
 
-Last updated May 12, 2017
+Last updated February 6, 2018
