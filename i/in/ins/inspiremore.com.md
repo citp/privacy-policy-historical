@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiremore.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118225105id_/http%3A//www.inspiremore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremore.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215022640id_/https%3A//www.inspiremore.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -92,7 +92,7 @@ InspireMore abides by the safe harbor framework set forth by the U.S. Department
 
 **Our Policy Toward Children**
 
-The Services are not directed to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian learns his or her child has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#48202d2424270821263b38213a2d25273a2d662b2725771b3d2a222d2b3c75193d2d3b3c2127266d7a781a2d2f293a2c21262f6d7a78183a213e292b316d7a78182724212b31). If we learn a child under 13 has provided us with Personal Information, we will delete such information from our files.
+The Services are not directed to children under 13 years of age. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian learns his or her child has provided us with Personal Information without their consent, he or she should contact us at [hello@inspiremore.com](mailto:hello@inspiremore.com?Subject=Question%20Regarding%20Privacy%20Policy). If we learn a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
 **Changes and Updates**
 
@@ -102,4 +102,4 @@ If InspireMore should ever sell its assets, merge with another entity or file fo
 
 **Contact Us**
 
-InspireMore welcomes your feedback regarding this Privacy Policy and our Terms of Service. If you have questions, comments, or concerns about either one, please contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#28404d4444476841465b58415a4d45475a4d064b4745177b5d4a424d4b5c15795d4d5b5c4147460d1a187a4d4f495a4c41464f0d1a18785a415e494b510d1a18784744414b51).
+InspireMore welcomes your feedback regarding this Privacy Policy and our Terms of Service. If you have questions, comments, or concerns about either one, please contact us by e-mail at [hello@inspiremore.com](mailto:hello@inspiremore.com?Subject=Question%20Regarding%20Privacy%20Policy).
