@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914132342id_/https%3A//www.zoom.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoom.us privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215151115id_/https%3A//www.zoom.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoom
 
-Updated: 05-12-2017
+Updated: 09-12-2017
 
-Zoom Video Communications, Inc. ("Zoom") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Zoom website zoom.us, mobile applications, and desktop clients and is applicable worldwide. This policy outlines our handling practices, how we collect and use the personal information you provide through online and offline. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy" link at the footer on our website.
+Zoom Video Communications, Inc. ("Zoom") is committed to protecting your privacy and ensuring you have a positive experience on our website and in using our products and services (collectively "Products"). This policy covers the Zoom website zoom.us, mobile applications, and desktop clients and is applicable worldwide. For privacy practices when customers use our application and cloud-based services, please refer to Zoom's Service Privacy Policy [zoom.us/service-privacy](https://zoom.us/service-privacy).
+
+This policy outlines our handling practices, how we collect and use the personal information you provide through online and offline. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. If you give us personal information, we will treat it according to this policy. This policy may be updated from time to time and our website will indicate when the policy has been updated. You may access the current version at any time by clicking on the "Privacy" link at the footer on our website.
 
 Collection of your personal information
-
-Zoom collects information under the direction of its customers, and, unless a customer is an individual, has no direct relationship with the individuals whose personal data it processes. If you have been contacted by one of our customers and would no longer like to be contacted by that customer using our service, please contact that customer directly. We may transfer personal information to companies that help us provide our service. Transfers of personal data to subsequent third parties are covered by the service agreements with our customers.
 
 Described below are situations in which personal information is collected and the purposes for which it is collected. "Personal Information" is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, credit or debit card number, title, information generated from use of our Products, and other information required to provide a Product, deliver a product, or carry out a transaction you have requested. Some of the reasons we collect your Personal Information may include:
 
@@ -49,7 +49,7 @@ We will use your Personal Information only in accordance with our Privacy Policy
 
 Referrals
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Zoom may store this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. Your friend may contact us at unsubscribe@zoom.us to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Zoom may stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at unsubscribe@zoom.us to request that we remove this information from our database.
 
 Accessing and updating your Personal Information
 
@@ -57,9 +57,7 @@ Zoom may obtain some Personal Information regarding you from Facebook. In order 
 
 Upon request Zoom will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by sending an email request to [privacy@zoom.us](mailto:privacy@zoom.us). We will respond to your request within a reasonable timeframe.
 
-Zoom acknowledges that you have the right to access your personal information. Except for customers that are individuals, Zoom has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to Zoom's customer (the data controller). If requested to remove data we will respond within a reasonable timeframe.
-
-We may need to retain some Personal Information collected on our site and the Personal Information we process on behalf of our customers for the period of time necessary to provide you service, for legal proceedings, legal requirements or for settling your account, resolve disputes and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Unsubscribing and Opting Out
 
@@ -73,9 +71,9 @@ We partner with a third party to either display advertising on our website or to
 
 Passive Collection
 
-As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. 
 
-In addition, by using some of our Products, anonymous network information may be transmitted back to us such as Product usage information. This information is transmitted back to us so we can determine how users are interacting with our Products, to assist us with improving our Products, and to correct any problems that may occur.
+In addition, by using some of our Products, network information may be transmitted back to us such as Product usage information. This information is transmitted back to us so we can determine how users are interacting with our Products, to assist us with improving our Products, and to correct any problems that may occur.
 
 Tracking Technologies
 
@@ -89,9 +87,9 @@ We send you push notifications from time-to-time in order to update you about an
 
 Geolocation
 
-We collect your location based information for the purpose of [locating a place that you may be searching for in your area]. We will only share this information with our mapping provider for the sole purpose of providing you this service.
+We collect your location based information for the purpose of optimizing your connection to our data center. We will only share this information with our data center provider for the sole purpose of providing you this service.
 
-We may share your geo-location data with third parties for the purpose of them serving you ads for places (such as restaurants) in your area. If you do not wish to allow us to share your information in this manner please opt-out by contacting us at unsubscribe@zoom.us.
+If you do not wish to allow us to share your information in this manner please opt-out by contacting us at unsubscribe@zoom.us.
 
 You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at unsubscribe@zoom.us.
 
@@ -119,7 +117,7 @@ When we transfer credit card information over the Internet, we protect it using 
 
 We recommend you to take every precaution in protecting your Personal Information when you are on the Internet. For example, change your passwords often, use a combination of letters and numbers when creating passwords, and make sure you use a secure browser.
 
-If you have any questions about the security of your personal information, you can contact us at [privacy@zoom.us](mailto:privacy@zoom.us).
+If you have any questions about the security of your personal information, you can contact us at privacy@zoom.us.
 
 Linked websites and third party services
 
@@ -129,31 +127,19 @@ Newsgroups/forums
 
 If you participate in a Zoom discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Zoom, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Zoom.
 
-Children's privacy
-
-Zoom does not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information on a child under the age of 13, we will delete that data from our systems. Zoom encourages parents and guardians to go online with their children. Here are a few tips to help make a child's online experience safer:
-
-  * Teach children never to give Personal Information (such as name, address, phone number, school, etc.) unless supervised by a parent or responsible adult.
-  * Know the sites your children are visiting and which sites are appropriate.
-  * Look for website privacy policies. Know how your child's information is treated.
-
-
-
-Please visit the FTC's website for more tips on protecting children's privacy online.
-
 Consent to Transfer, Processing and Storage of Personal Information
 
 We may transfer your Personal Information to the United States, to any Zoom affiliate worldwide, or to third parties acting on our behalf for the purposes of processing or storage, and by providing any Personal Information you fully understand and unambiguously consent to such transfer, processing and storage of such information.
 
-EU-U.S. Privacy Shield
+EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-Zoom (and its parent/subsidiary company(ies)) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Zoom is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List. [<https://www.privacyshield.gov/list>]
+Zoom participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield. Zoom is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Frameworks, to the Framework's applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce's Privacy Shield List. [<https://www.privacyshield.gov/list>]
 
-Zoom is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Zoom complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Zoom is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Zoom complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Zoom is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Zoom may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Zoom is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Zoom may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
