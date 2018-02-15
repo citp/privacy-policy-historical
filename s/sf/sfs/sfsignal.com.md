@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfsignal.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914155124id_/https%3A//www.sfsignal.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfsignal.com privacy policy that was archived on 2018-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180215025539id_/https%3A//www.sfsignal.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SF Signal
 
