@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avatarcontrols.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215085223id_/http%3A//avatarcontrols.com/index.php%3Fac%3Darticle%26at%3Dlist%26tid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarcontrols.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216123808id_/http%3A//avatarcontrols.com/index.php%3Fac%3Darticle%26at%3Dlist%26tid%3D70) for the most accurate reproduction.*
 
 # Privacy Policy-Privacy Policy-Alexa enabled device,smart voice product and smart home plug-Avatar Controls
 
