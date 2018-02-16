@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212225932id_/https%3A//www.proctoru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proctoru.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216150022id_/https%3A//www.proctoru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ProctorU
 
@@ -81,7 +81,7 @@ In the event that ProctorU Inc. is involved in a bankruptcy, merger, acquisition
 
 Upon request, ProctorU Inc. will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, ask to have it removed from our site or deactivate it by making the change on your profile page or by emailing our Customer Support at help@proctoru.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
-The telephone number to contact is 855-772-8678. The mailing address is 3083 Independence Ave, Suite A, Livermore California, 94551.
+The telephone number to contact is 855-772-8678. The mailing address is 3687 Old Santa Rita Rd #203 Pleasanton, CA 94588.
 
 **Data Retention**
 
