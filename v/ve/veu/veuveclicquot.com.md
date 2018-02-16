@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veuveclicquot.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201094247id_/https%3A//www.veuveclicquot.com/en-int/personal-data-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veuveclicquot.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216085526id_/https%3A//www.veuveclicquot.com/en-int/personal-data-cookies-policy) for the most accurate reproduction.*
 
 # PERSONAL DATA & COOKIES POLICY | Veuve Clicquot
 
