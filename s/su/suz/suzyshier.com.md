@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzyshier.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218063834id_/http%3A//suzyshier.com/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzyshier.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216233124id_/http%3A//suzyshier.com/customer-service/privacy-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
