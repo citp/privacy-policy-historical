@@ -1,78 +1,57 @@
-> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2015-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150510044841id_/http%3A//infospace.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216180957id_/http%3A//www.infospaceinc.com/static/privacy_policy-3164.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy of Our Site - About Us
 
-This privacy policy applies to InfoSpace websites, services, applications and other products that link to this privacy policy. InfoSpace is committed to protecting the privacy of its user community. The intent of this privacy policy is to detail the information InfoSpace may gather about individuals who interact with InfoSpace, how that information is used, and InfoSpace's disclosure practices. Please note that this policy applies only to InfoSpace products, and not to the sites of other companies or organizations to which we provide links or to any software that may be downloaded from our products.
+Our company is electronic commerce platforms are predominantly used by business entities to facilitate electronic commerce and such business use does not generally involve the collection of personal information of individuals. Our company recognizes the importance of privacy as well as the importance of maintaining the confidentiality of personal information. This Privacy Policy applies to all products and services provided by us and sets out how we may collect, use and disclose information in relation to users of the Sites.
 
-### Information Collection.
+You may use our services and products via a mobile device either through mobile applications or mobile optimized websites. This Privacy Policy also applies to such use of our services and products.
 
-InfoSpace may collect anonymous information when you interact with us so we can improve the overall quality of your online experience. We collect your IP address, referral data, and browser and platform type.
+A. COLLECTION OF INFORMATION
 
-The InfoSpace products do not require you to share information that identifies you personally, such as your name or e-mail address, for you to use the product. The products assign an anonymous ID number to your requests and links the following additional data to that number: the date and time you visited the product, your search terms, and the links upon which you click. We use log files to collect and store this anonymous user information. InfoSpace analyzes the information to examine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
+1\. Your privacy is important to us and we have taken steps to ensure that we do not collect more information from you than is necessary for us to provide you with our services and to protect your account.
 
-### Information Use.
+2\. Information including, but not limited to, user name, address, phone number, fax number, email address, gender, date and/or year of birth and user preferences ("Registration Information") may be collected at the time of user registration on the Sites.
 
-The information we collect is used by us to improve our products, offer you more relevant search results and ads, protect our users and products, and identify and block malicious uses of our products. If you contact InfoSpace, we may keep a record of that correspondence and we may collect your e-mail address.
+3\. We record and retain details of users’ activities on the Sites. Information relating to such transactions including, but not limited to, the types and specifications of the goods, pricing and delivery information and any trade dispute records (“Activities Information”) may be collected when sale and purchase transactions are conducted on or facilitated through the Sites
 
-### Third Party Information Gathering.
+4\. We record and retain records of users' buying and browsing activities on our platform including but not limited to IP addresses, browsing patterns and buyer behavioral patterns. In addition, we gather statistical information about the Sites and visitors to the Sites including, but not limited to, IP addresses, browser software, operating system, software and hardware attributes, pages viewed, number of sessions and unique visitors (together "Browsing Information").
 
-The products include content and ads from third parties that may perform user activity tracking. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy.
+5\. Registration Information, Account Information, Activities Information, Event Information and Browsing Information generally relate to business entities and are together referred to as business data (“Business Data”). Insofar and only insofar as they constitute personally identifiable data of living individuals, such information are together referred to as personal data (“Personal Data”).
 
-The products contain links to other sites. Please be aware that InfoSpace is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every site that collects personally identifiable information. This privacy statement applies solely to information collected by InfoSpace products.
+6\. It is mandatory for users of the Sites to provide certain categories of Business Data and Personal Data (as specified at the time of collection). In the event that users do not provide any or sufficient Business Data and/or Personal Data marked as mandatory, we may not be able to complete the registration process or provide such users with our products or services.
 
-For some of our products, we use Google Analytics Advertising Features, including Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations, and Google Analytics Demographic and Interest Reporting. For information about how to opt-out of the Google Analytic Advertising Features, please see the Opt-Out section below.
+B. USE OF PERSONAL DATA
 
-### Cookies.
+If you provide any Personal Data to us, you are deemed to have authorized us to collect, retain and use that Personal Data for the following purposes:
 
-InfoSpace may set and access InfoSpace or third party cookies on your computer. A cookie is a small data file that a site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the InfoSpace products our visitors view and which browsers or devices our visitors use. We may also use cookies to help us provide personalized features and preferences to you within various products in a way that may be linked to individual user information you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site.
+1\. verifying your identity;
 
-We also engage third party ad networks that may place cookies on your device when accessing and using our products that collect anonymous, non-personal information regarding your access and use. This information may be used by InfoSpace and its third party ad network partners to identify and target related advertising to the user of such computer, when on our sites within the third party’s advertising network of sites. For information about opting-out of third party ad network cookies, please see the opt-out section below.
+2\. verifying your eligibility to register as a user of the Sites;
 
-### Sharing.
+3\. processing your registration as a user, providing you with a log-in ID for the Sites and maintaining and managing your registration;
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on us. We may also share your personal information if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of InfoSpace's or such product's terms of use, or as otherwise required by law.
+4\. providing you with customer service and responding to your queries, feedback, claims or disputes;
 
-Products may use third party service providers to serve ads, search listings, and other information. These companies may use technologies to measure the effectiveness and use information so we can provide a better search experience to you. For this purpose, we may also provide these third party service providers anonymous information about your site navigation.
+5\. to facilitate communication between buyers and sellers on the Sites and processing your transactions on the Sites;
 
-### Mergers; Business Transitions.
+6\. performing research or statistical analysis in order to improve the content and layout of the Sites, to improve our product offerings and services and for marketing and promotional purposes;
 
-In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+7\. if you voluntarily submit any information to the Sites for publication on the Sites through the publishing tools, including but not limited to, Company Profile, Product Catalog, Trade Leads, TrustPass Profile and any discussion forum, then you are deemed to have given consent to the publication of such information on the Sites ("Voluntary Information"); and
 
-### Choice/Opt-out.
+8\. making such disclosures as may be required for any of the above purposes or as required by law, regulations and guidelines or in respect of any investigations, claims or potential claims brought on or against us.
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us.](https://web.archive.org/contact/index.html)
+C. MINORS
 
-For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/).
+The Sites and their contents are not targeted to minors (those under the age of 18) and we do not intend to sell any of our products or services to minors. However, we have no way of distinguishing the age of individuals who access our Site. If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact our Legal Department at the address set out in paragraph D above to remove the information.
 
-You can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/choices/) or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/) by visiting the opt-out pages on the NAI site and DAA site.
+D. SECURITY MEASURES
 
-### Notification of Changes.
+We employ commercially reasonable security methods to prevent unauthorized access to the Sites, to maintain data accuracy and to ensure the correct use of the information we hold.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement in places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+For registered users of the Sites, your Registration Information and Account Information (if any) can be viewed and edited through your account, which is protected by a password. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited email. If you share a computer with others, you should not choose to save your log-in information (e.g., user ID and password) on that shared computer. Remember to sign out of your account and close your browser window when you have finished your session.
 
-If, however, we are going to use Individually Identifiable Information in a manner different from that stated at the time of collection we will notify users by posting a notice on our site for 30 days.
+No data transmission over the internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect the information we hold for you, we cannot guarantee the security of any information you transmit to us and you do so at your own risk.
 
-### Safe Harbor
+E. CHANGES TO THIS PRIVACY POLICY
 
-As a subsidiary of Blucora, Inc., we abide by the US-European Union Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the European Union member countries and Switzerland. Our privacy practices with respect to personal data collected from individuals residing in European Union member countries and Switzerland are self-certified to the relevant Safe Harbor Program. For more information about the Safe Harbor Programs, please go to <http://www.export.gov/safeharbor/>.
-
-If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to privacy@blucora.com.
-
-For unresolved privacy complaints, we have elected to use the International Centre for Dispute Resolution / American Arbitration Association Safe Harbor Program. If you feel we have not addressed your complaint, you can find information about how to file a complaint at <http://go.adr.org/safeharbor> and at [http://www.icdr.org](http://www.icdr.org/).
-
-### Special Notification with respect to Children's Privacy (Users under the age of 13).
-
-We do not request or knowingly collect personally identifiable information online or offline contact information from users under 13; or knowingly use or share personal information from users under 13 with third parties.
-
-It is possible that we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information.
-
-Questions regarding privacy, including children's privacy should be directed to:   
-InfoSpace, LLC   
-10900 NE 8th Street, Suite 800   
-Bellevue, Washington 98004 USA   
-\+ (1) 425.201.6100 phone   
-\+ (1) 425.201.6150 fax 
-
-E-mail: [Contact us](https://web.archive.org/contact/index.html)
-
-Policy effective April 17, 2015
+Any changes to this Privacy Policy will be communicated by us posting an amended and restated Privacy Policy on the Sites. Once posted on the Sites the new Privacy Policy will be effective immediately. You agree that any information we hold about you (as described in this Privacy Policy and whether or not collected prior to or after the new Privacy Policy became effective) will be governed by the latest version of the Privacy Policy.
