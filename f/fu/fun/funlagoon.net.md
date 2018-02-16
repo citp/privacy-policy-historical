@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funlagoon.net privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607055059id_/http%3A//www.funlagoon.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funlagoon.net privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216184220id_/https%3A//www2.funlagoon.net/privacy) for the most accurate reproduction.*
 
 # funlagoon.net - Privacy Policy
 
