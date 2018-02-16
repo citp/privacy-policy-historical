@@ -1,118 +1,54 @@
-> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120044925id_/http%3A//www.shakeuplearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216182207id_/https%3A//shakeuplearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shake Up Learning
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+**If you love legal writing, keep scrolling down. If you prefer human-speak, this section of the Privacy Policy is for you…**
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+I hate spam. My inbox is constantly full and the last thing I want is useless junk.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
+I also hate to sign up for one thing and get something completely different. Makes me angry.
 
-**When do we collect information?**
+So, my commitment to you is simple… I will not send you irrelevant emails.
 
-We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
+## What you can expect to receive as a Shake Up Learning email subscriber
 
-**How do we use your information?**
+All of the blog posts from Shake Up Learning in an email newsletter that will land in your inbox 1-2 time/week. This email will keep you up-to-date with all things Shake Up Learning, including free resources, tips, podcasts, online courses, and more!
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+**Special offers from my sponsors**
 
-**•**  To administer a contest, promotion, survey or other site feature.  
-**•**  To send periodic emails regarding your order or other products and services.
+You might also receive special offers that I have hand-picked from companies I trust. These are paid placements to help me pay the bills but I keep tight control on what passes through to my email subscribers because you are valuable to me.
 
-**Do we use ‘cookies’?**
+**Goodies for subscribers**
 
-We do not use cookies for tracking purposes
+As a reward to the faithful followers of Shake Up Learning, I offer subscriber-only free printables and ebooks. These offers are subject to change at any time with a new freebie available every 1 to 3 months.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+**What I will NEVER do**
 
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+You have my promise that I will NEVER…
 
-However, you can still place orders .
+  * sell your email address to anyone, no matter how much money they offer me or how important I think they are. If I plan to provide someone with your email address, I will ask you first.
+  * send you an offer that is a scam. If one slips through the cracks, you can beat me with a wet noodle, but I promise that I do my very best to only send you REAL offers with no hoops to jump through or clanging bells and whistles.
+  * fill your inbox with irrelevant junk mail. Every offer will maintain the high-quality standards that compromise the posts at Shake Up Learning.
 
-**Third Party Disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+## Official Privacy Policy
 
-**Third party links**
+The following outlines the same privacy policy above in legalese.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information.
 
-**Google**
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
-We use Google AdSense Advertising on our website.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-**We have implemented the following:**  
-**•**  Google Display Network Impression Reporting  
-**•**  Demographics and Interests Reporting
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
-
-**Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt-out by visiting the Network Advertising initiative opt-out page or permanently using the Google Analytics Opt-Out Browser add-on.
-
-**California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-**According to CalOPPA we agree to the following:**  
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:  
-**•**  On our Privacy Policy Page  
-Users are able to change their personal information:  
-**•**  By logging in to their account
-
-**How does our site handle do not track signals?**  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-
-**Does our site allow third party behavioral tracking?**  
-It’s also important to note that we do not allow third party behavioral tracking
-
-**COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under 13.
-
-**Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**  
-We will notify the users via email  
-**•**  Within 7 business days  
-We will notify the users via in-site notification  
-**•**  Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-**CAN SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-**We collect your email address in order to:**  
-**•**  Send information, respond to inquiries, and/or other requests or questions.  
-**•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
-
-**To be accordance with CANSPAM we agree to the following:**  
-**•**  NOT use false, or misleading subjects or email addresses  
-**•**  Identify the message as an advertisement in some reasonable way  
-**•**  Include the physical address of our business or site headquarters  
-**•**  Monitor third party email marketing services for compliance, if one is used.  
-**•**  Honor opt-out/unsubscribe requests quickly  
-**•**  Allow users to unsubscribe by using the link at the bottom of each email  
-**  
-If at any time you would like to unsubscribe from receiving future emails, you can**  
-**•**  Follow the instructions at the bottom of each email.  
-and we will promptly remove you from  **ALL**  correspondence.
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
 **Contacting Us**
 
@@ -126,6 +62,6 @@ Texas
 75071  
 kasey@shakeuplearning.com
 
-### 17 Things to Try in 2017
+### 18 Challenges for Teachers in 2018 FREE eBook!
 
-YES! I want the FREE PDF copy of, " _17 Things Teachers Should Try in 2017_ _!_ " Get this 13-page, printable pdf to save and read throughout the year.
+Get the FREE eBook: 18 Challenges for Teachers in 2018! Simply fill out this form and we will send you the 83-page PDF ebook.
