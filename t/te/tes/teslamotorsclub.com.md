@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teslamotorsclub.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606170526id_/https%3A//teslamotorsclub.com/tmc/threads/privacy-policy.18250/%23post-370273) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslamotorsclub.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216143329id_/https%3A//teslamotorsclub.com/tmc/threads/privacy-policy.18250/%23post-370273) for the most accurate reproduction.*
 
 # Privacy Policy | Tesla Motors Club
 
@@ -7,7 +7,7 @@ TMC is an independent, primarily volunteer organization that relies on ad revenu
 Thread Status:
      Not open for further replies.
 
-  1. [](https://web.archive.org/web/20170606170526id_/https://teslamotorsclub.com/tmc/threads/privacy-policy.18250/members/tmc-admin.14583/)
+  1. [](https://web.archive.org/web/20180216143329id_/https://teslamotorsclub.com/tmc/threads/privacy-policy.18250/members/tmc-admin.14583/)
 
 ### 
 
@@ -15,7 +15,7 @@ Joined:
     Jun 23, 2006
 
 Messages:
-    [5](https://web.archive.org/web/20170606170526id_/https://teslamotorsclub.com/tmc/threads/privacy-policy.18250/search/member?user_id=14583)
+    [5](https://web.archive.org/web/20180216143329id_/https://teslamotorsclub.com/tmc/threads/privacy-policy.18250/search/member?user_id=14583)
 
 > We at Tesla Motors Club LLC (TMC) are fully committed to protecting the privacy of our users. The TMC privacy policy applies to TeslaMotorsClub.com and addresses the manner in which we deal with data collection and usage of that data. Though we do our best to follow the policies listed below, we cannot be held responsible for compromised privacy and the damage that it may cause, or make guarantees of privacy, due to forces and elements outside of TMC’s control.   
 > 
