@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1password.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512003304id_/https%3A//1password.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1password.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216082332id_/https%3A//1password.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 1Password
 
-## Last updated: March 16, 2017.
+## Last updated: September 8th, 2017.
 
 ## Introduction
 
@@ -28,13 +28,15 @@ We may use your contact information to communicate with you about Service activi
 
 We have implemented strict access controls to limit who can access Service Data. Only certain employees, vendors, and contractors of AgileBits have the ability to access or review Service Data, and Service Data is only accessed for valid business needs such as but not limited to providing customer service, evaluating Service performance and use, and monitoring and improving our infrastructure. We utilize nondisclosure agreements, firewalls, cryptographic protections, two factor authentication, and other standard measures to prevent unauthorized access to your information.
 
-Under no circumstances do we ever use your Secure Data for any purpose other than transferring your encrypted Secure Data between your devices and delivering it to you.
+Under no circumstances do we ever use your Secure Data for any purpose other than transferring your encrypted Secure Data between your devices and delivering it to you, maintaining a copy in our databases to ensure that your devices are up to date and that you have a backup, and ensuring the integrity of your data.
+
+The most important aspect of preserving the security of your data is that you can take it with you. You can export your 1Password data at any time you wish during the life of your account. If your account is ever suspended or terminated due to abuse or violation of our [terms of service](https://web.archive.org/terms-of-service), we’ll work with you on a case by case basis to ensure you can export your data in a format that does not require a 1Password subscription to access.
 
 ## Your Responsibilities for Protecting Your Data
 
-When you create a 1Password account you will receive an Account Key and create a Master Password. Your Account Key is generated on your computer and your Master Password is something you create yourself. You should create a strong Master Password to ensure that it is not easily guessed.
+When you create a 1Password account you will receive an Secret Key and create a Master Password. Your Secret Key is generated on your computer and your Master Password is something you create yourself. For your protection, you should create a strong Master Password to ensure that it is not easily guessed.
 
-It is extremely important that you understand that anyone with both your Account Key and Master Password can access your Secure Data. It is equally important that you keep a copy in a safe place for your own reference, because future access to your Secure Data depends on having access to both your Account Key and your Master Password. We will never ask you for your Master Password or your full Account Key, and you should never send either to us.
+It is extremely important that you understand that anyone with both your Secret Key and Master Password can access your Secure Data. It is equally important that you keep a copy in a safe place for your own reference, because future access to your Secure Data depends on having access to both your Secret Key and your Master Password. We will never ask you for your Master Password or your full Secret Key, and you should never send either to us.
 
 Due to the nature of our design and the sensitivity of the information you entrust to us (even in encrypted form), it may not be possible for us to help you with certain customer service requests unless you are listed as an account owner and are communicating from your verified email address. In the event that you change your email address, is very important that you update your email on your 1Password account(s) or you may eventually lose access.
 
@@ -76,14 +78,10 @@ If you have any questions about this Policy, you can [contact our support team](
 
 ## Change log
 
-2017-03-16:
+2017-09-08:
     
     
-    Added a note on sending us Service Data for troubleshooting,
-    bug reporting, and crash data collection in general, and for
-    users of beta builds.
+    We clarified how we help you keep your data when we part ways.
     
-    Brought more clarity to the Disclosure section.
-    
-    Created and added a link to the Privacy Policy archive.
+    We also expanded on how your Secure Data is handled on our end.
     
