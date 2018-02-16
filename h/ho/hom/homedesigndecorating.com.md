@@ -1,41 +1,36 @@
-> *The following text is extracted and transformed from the homedesigndecorating.com privacy policy that was archived on 2015-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150312025435id_/http%3A//homedesigndecorating.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedesigndecorating.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216054438id_/http%3A//ww43.homedesigndecorating.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy | Homedesigndecorating.com
+# Privacy Policy
 
-### Privacy Policy
+* **Overview**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at homedesigndecorating@yahoo.com.
+Thank you for visiting ww43.homedesigndecorating.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-At http://homedesigndecorating.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://homedesigndecorating.com and how it is used.
+* **What Type of Information We Collect**
 
-Log Files  
-Like many other Web sites, http://homedesigndecorating.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-Cookies and Web Beacons  
-http://homedesigndecorating.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on http://homedesigndecorating.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://homedesigndecorating.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+* **Uses May Include**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Amazon
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://homedesigndecorating.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
 
-http://homedesigndecorating.com has no access to or control over these cookies that are used by third-party advertisers.
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://homedesigndecorating.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
 
-Content :
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
 
-We gathered the content and images from google search engine and google images search and from blog post and we always give the link from the original site (source), contact us if we forgot to link it, If you see your copyrighted images or material has been published at this blog, please contact us and we will remove it as soon as possible.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-Regards,  
-Homedesigndecorating.com
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
