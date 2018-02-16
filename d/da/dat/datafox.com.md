@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datafox.com privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715201255id_/https%3A//www.datafox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafox.com privacy policy that was archived on 2018-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180216201819id_/https%3A//www.datafox.com/privacy-policy) for the most accurate reproduction.*
 
 # DataFox | Privacy Policy
 
@@ -44,4 +44,4 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to [info@datafox.co](mailto:info@datafox.com).
+Any questions about this Privacy Policy should be addressed to [info@datafox.com](mailto:info@datafox.com).
