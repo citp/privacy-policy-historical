@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701102212id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facinghistory.org privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217092634id_/https%3A//www.facinghistory.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Facing History and Ourselves
 
-### **Basics of This Privacy Policy**
+###  **Basics of This Privacy Policy**
 
 > **Facing History does not sell, rent, or lease its customer lists to third parties. Facing History does not sell, trade, or share any donor's personal information with any other entity, nor does Facing History send donor mailings on behalf of other organizations.  **
 
-### Full Privacy Policy
+###  Full Privacy Policy
 
 Facing History is committed to protecting your privacy. Please read the Facing History Privacy Statement below for details about particular Facing History sites and services that you may use.
 
@@ -44,7 +44,7 @@ Personal information collected on this site may be stored and processed in the U
 
 If you choose to send us an e-mail message, we may retain the content of the e-mail, your e-mail address, and our response in order to service your needs.
 
-You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to [info@facing.org](mailto:info@facing.org?subject=Please%20Remove%20My%20Name%20from%20Mailing%20List)
+You may be placed on our mailing list when you contact us. To remove your name from our mailing list, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3b52555d547b5d5a5852555c5352484f5449421554495c04484e59515e584f066b575e5a485e1e090b695e56544d5e1e090b76421e090b755a565e1e090b5d4954561e090b765a525752555c1e090b7752484f)
 
 If you opt out of broadcast emails, Facing History reserves the right to contact you in other ways.
 
@@ -80,4 +80,4 @@ Brookline, MA 02445
 617-232-1595  
 800-856-9039
 
-Email: [info@facing.org](mailto:info@facing.org?subject=Question%20about%20Privacy%20Policy)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#036a6d656c436562606a6d646b6a70776c717a2d6c71643c707661696660773e52766670776a6c6d26313362616c767726313353716a7562607a263133536c6f6a607a)
