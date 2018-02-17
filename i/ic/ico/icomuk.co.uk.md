@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219025526id_/http%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icomuk.co.uk privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217221605id_/https%3A//www.icomuk.co.uk/categoryRender.asp%3FcategoryID%3D3549) for the most accurate reproduction.*
 
 # Privacy Statement - Icom UK
 
@@ -12,5 +12,5 @@ Please note that clicking on to links may result in your transferral to another 
 
 This privacy policy may be changed by Icom (UK) Ltd at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Icom (UK) Ltd will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data. 
 
-© ICOM (UK) LTD 2017   
+© ICOM (UK) LTD 2018   
 All rights reserved. 
