@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdgadvertising.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217183556id_/http%3A//www.mdgadvertising.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdgadvertising.com privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217110039id_/https%3A//www.mdgadvertising.com/privacy-policy) for the most accurate reproduction.*
 
 # MDG Advertising - Marketing And Advertising Agency Boca Raton | Michael Del Gigante, Eric Norstrom, Joanne Pennisi, Karen Bleier, Hillary Lis, Julia Giordano, Schuyler Meder
 
