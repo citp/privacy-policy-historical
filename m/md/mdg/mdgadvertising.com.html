@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mdgadvertising.com privacy policy that was archived on 2017-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217183556id_/http%3A//www.mdgadvertising.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mdgadvertising.com privacy policy that was archived on 2018-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180217110039id_/https%3A//www.mdgadvertising.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>MDG Advertising - Marketing And Advertising Agency Boca Raton | Michael Del Gigante, Eric Norstrom, Joanne Pennisi, Karen Bleier, Hillary Lis, Julia Giordano, Schuyler Meder</title>
@@ -144,26 +144,22 @@
 		var scrollRange = windowHeight + yOffset;
 		if (scrollRange >= htmlHeight) { forceTrigger = true; console.log (forceTrigger); }
 	});
- 
+	
+		
 		$(document).ready(function() {
 			
 			if(forceTrigger) { 
-				interrupt_open();
+				interrupt_close();
 			}
 			
 			$(window).on('scroll', function(e) {
 				var top = $(window).scrollTop();
 				
 				if((top >= yOffset && !hasscrolled) || forceTrigger) { 
-				interrupt_open();
-				hasscrolled = true;
+					interrupt_close(); 
+					hasscrolled = true;
 				}
 			});
-			
-			$( ".signup-interrupter_close").click(function(){
-				interrupt_close()
-			});
-				
 		});
 	
 </script>
@@ -311,8 +307,8 @@
 <div id="contentContainer">
 		<div class="right_side-container">
 	<div class="right_side_banner right_side-module">
-					<a href="http://www.mdgadvertising.com/contact.html"><img src="http://www.mdgadvertising.com/images/banners/MDG_bnr_brand.gif" alt="Ready to elevate your brand?"></a>
-										
+							<a href="http://www.mdgadvertising.com/contact.html"><img src="http://www.mdgadvertising.com/images/banners/MDG_bnr_integrate.gif" alt="Ready to Integrate Your Marketing?"></a>
+								
 	</div>
 		<a class="google-partner right_side-module" href="/searchmarketing/">
 		<img src="/images/google-partner.png" alt="Google Partner" width="244" height="94">
@@ -430,7 +426,7 @@ United States<br>
         	<div style="clear:both;"></div>
         </div><!--mobile-footer-social-->
         
-        Copyright 2017 MDG Advertising | All rights reserved | <a href="/privacy-policy/">Privacy Policy</a> | 561-338-7797<br>
+        Copyright 2018 MDG Advertising | All rights reserved | <a href="/privacy-policy/">Privacy Policy</a> | 561-338-7797<br>
         Web Design Boca Raton, FL and New York, NY<br><br>    </div>
 </div>
 
