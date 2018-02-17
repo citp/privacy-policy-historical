@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dominos.co.nz privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701055046id_/https%3A//www.dominos.co.nz/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.co.nz privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217224314id_/https%3A//www.dominos.co.nz/inside-dominos/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Domino's Pizza - Privacy And Policy
 
-**Last updated 10 April 2017**
+**Last updated  23 January 2018**
 
 Domino's Pizza Enterprises Limited and Domino’s Pizza New Zealand Limited (" **Domino's** ") respects the privacy of individuals. This policy sets out the way in which Domino's and its franchisees (" **we** " or " **us** ") collect, hold, disclose, use and protect your personal information.
 
@@ -18,15 +18,15 @@ https://www.dominos.co.nz/corporate/terms-conditions
 
 **Revisions to this Policy**
 
-We may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates.  If we think any material changes to this policy will have a significant effect on you, we may notify you by email or put a notice on the homepage [www.dominos.com.au](http://www.dominos.com.au/) of our websites. You can determine when this Privacy Policy was last revised by referring to the date it was “Last Updated” above. 
+We may revise this policy from time to time whenever necessary so check this website regularly to stay informed of any updates.  If we think any material changes to this policy will have a significant effect on you, we may notify you by email or put a notice on the homepage [www.dominos.com.au](http://www.dominos.com.au/) of our websites. You can determine when this Privacy Policy was last revised by referring to the date it was “Last Updated” above. 
 
 If you continue to use our websites, place an order with any of our stores or provide further personal Information to us after this policy has been revised you will be deemed to have accepted the revised policy.
 
 **What Information we collect**
 
-We collect information necessary for us to process your order, register you for an account such as VIP club or Domino’s Online Ordering or DAM, process your application for employment or an expression of interest for a franchise, provide you with information about new franchising opportunities, or provide you with other services and/or the assistance you have requested.  Where practicable, we will give you the option of interacting with us anonymously.
+We collect information necessary for us to process your order, process a refund of your order, register you for an account such as VIP club or Domino’s Online Ordering or DAM, process your application for employment or an expression of interest for a franchise, provide you with information about new franchising opportunities, or provide you with other services and/or the assistance you have requested.  Where practicable, we will give you the option of interacting with us anonymously.
 
-The personal information which we collect from you and hold (" **Information** ") includes information like your first and last name, postal address, telephone and mobile number(s), email address, details of your order (i.e. your last four orders, your delivery address or preferred pick-up location), IP address and credit card details. In respect of your credit card details we only hold some information, as detailed further below.
+The personal information which we collect from you and hold (" **Information** ") includes information like your first and last name, day and month of birth, postal address, telephone and mobile number(s), email address, details of your order (i.e. your last four orders, your delivery address or preferred pick-up location), IP address and credit card details. In respect of your credit card details we only hold some information, as detailed further below. If required, we may request your bank details in order to process a refund of your order.
 
 When you apply for a job with us or to become a franchisee we also collect some information from you for the purposes of assessing your suitability as a Domino's Pizza employee or franchisee (to which you have consented). The sensitive information we collect in these circumstances is further set out under the headings Domino’s Jobs and ‘How we use your Information: 'Sensitive information' below.
 
@@ -41,11 +41,11 @@ When you place an order with us online using the Domino's Pizza internet orderin
 
 
 
-We may also collect your smart device ID and use your smart device’s location services (with your consent) in order to provide you with Domino’s application services.  See **‘Domino’s applications for smart devices** ’ section below for further information.
+We may also collect your smart device ID and use your smart device’s location services (with your consent) in order to provide you with Domino’s application services.  See  **‘Domino’s applications for smart devices** ’ section below for further information.
 
 **Domino’s Jobs**
 
-When you apply for a job with us through [www.jobs.dominos.com.au](http://www.dominosjobs.com.au/), www.jobs.dominos.co.nz or otherwise, we (or our franchisee as the case may be) may collect the following details from you:
+When you apply for a job with us through [jobs.dominos.com.au](http://www.dominosjobs.com.au/), jobs.dominospizza.co.nz or otherwise, we (or our franchisee as the case may be) may collect the following details from you:
 
   * full name;
   * date of birth;
@@ -65,7 +65,7 @@ If you are applying as a driver in our stores, we also collect your driver's lic
 
 We may also require you to provide information about any pre-existing injuries or medical conditions which may affect your ability to carry out the job, or which may be aggravated by the job, you are applying for.
 
-In order to apply for a job through [www.jobs.dominos.com.au](http://www.dominosjobs.com.au/) or www.jobs.dominos.co.nz, you will be required to create an online account which is secured with a password of your choosing. The ‘Your Details’ section in your account will display some of the above-mentioned Information collected by Domino’s and the ‘Your Applications’ section will show your recent job applications. 
+In order to apply for a job through [jobs.dominos.com.au](http://www.dominosjobs.com.au/) or jobs.dominospizza.co.nz, you will be required to create an online account which is secured with a password of your choosing. The ‘Your Details’ section in your account will display some of the above-mentioned Information collected by Domino’s and the ‘Your Applications’ section will show your recent job applications. 
 
 If you have any queries regarding the information contained in your online account, or would like to update any of this information, please contact the Domino’s Training team on Training@dominos.com.au.
 
@@ -85,6 +85,7 @@ When you apply for a franchise with us, or submit an expression of interest for 
   * work experience;
   * business experience;
   * employment;
+  * police check information;
   * financial position; and
   * credit check information. 
 
@@ -125,19 +126,27 @@ We collect your Information in various ways, including when you:
   * place an order via a store, telephone or the Domino's Pizza internet ordering system, mobile sites/devices and applications; or
   * request that your order is delivered and the delivery vehicle that is used contains a GPS tracker;
   * enable location tracking services on your smart device as part of an on time cooking order; or
-  * purchase or use an InstaGift.
+  * purchase or use an InstaGift; or
+  * directly provide the Information to us pursuant to a request made by Domino’s.
 
 
 
-Except as noted in this policy, where possible Domino's or its franchisee will collect your Information directly from you. However, there may be occasions when your Information is collected from someone else (for example Domino's may collect your Information from its franchisees).  Where Domino's or its franchisee collect your Information from someone else, Domino's or the franchisee will take reasonable steps to inform you of this (if this is not already disclosed in this policy).  No matter where we obtain the Information from, your Information is collected, held, used and disclosed by us in accordance with this policy.
+Except as noted in this policy, where possible Domino's or its franchisee will collect your Information directly from you. However, there may be occasions when your Information is collected from someone else (for example Domino's may collect your Information from its franchisees, network companies, service providers and other third parties so that we may provide an enhanced and more relevant user experience, service or product to you).  Where Domino's or its franchisee collect your Information from someone other than you, Domino's or the franchisee will take reasonable steps to inform you of this (if this is not already disclosed in this policy).  No matter where we obtain the Information from, your Information is collected, held, used and disclosed by us in accordance with this policy.
+
+**External Account (Facebook, Google and PayPal) (Australia only)**
+
+If you chose to create a Domino’s Online Ordering account using an existing Facebook, Google or PayPal (“ **External Account Provider”** ) account (“ **External Account** ”), you are providing Domino’s with permission to obtain your personal information via the External Account Provider. The information that we obtain from the External Account Provider will be confirmed by the External Account Provider during the Domino’s account creation process.  Please review the External Account Provider’s privacy policy for further information about the information they hold and their information sharing practices.
+
+Please note that after completing this process, your Domino’s Online Ordering account will be linked with your External Account.  Your Domino’s Online Ordering Account will be accessible so long as your External Account remains active.
 
 **How do we use your Information?**
 
-We use your Information for the purpose for which it was provided to us, other related purposes and as permitted or required by law.  Such purposes include, but are not limited, to the following:
+We use your Information for a variety of purposes including for processing orders, providing our products and/or services to you and for any other purpose for which it was provided to us, or other related purposes and as permitted or required by law.  Such purposes include, but are not limited, to the following:
 
   * providing you with email and/or SMS confirmation of your order;
   * providing you with an email confirming your purchase/receipt of an InstaGift;
   * providing you with the assistance, products and/or services you have requested (this includes services and functions on a downloaded Domino’s application for a smart device);
+  * to create a new Domino's Online Ordering account;
   * allowing you to participate as a VIP club member or register on any platform operated by or on behalf of Domino’s;
   * allowing you access to DAM;
   * processing any job application you may submit;
@@ -146,15 +155,16 @@ We use your Information for the purpose for which it was provided to us, other r
   * providing you with any franchise information you may request;
   * providing you with information about new franchising opportunities;
   * processing any orders you place with us;
+  * processing a refund of any orders your place with us;
   * determining the number of visitors to our websites and conducting reviews of our websites;
   * judging competitions, fulfilling prizes, awards and purchases;
   * keeping you informed about any changes to our websites as well as good and/or services;
   * conducting market research (including focus groups, panels and surveys) so that we can better understand the needs of our customers and tailor our future products and services accordingly;
   * conducting analyses of orders and purchasing habits so that we can better tailor the ordering experience, products and services for our customers;
-  * sending you offers or information on products or services that we consider will be of interest to you (if you have consented to receiving such offers and information);
-  * used to assist in the delivery of your order to your door and to verify your credit card or PayPal (available in Australia only) payment;
-  * stored to help you remember and re-order from our menu in future; and
-  * used to provide you with an SMS to inform you when your order is on its way or ready for pick-up from one of our stores;
+  * for advertising and direct marketing, including sending you offers or information on products or services that we consider will be of interest to you or authorising third parties to send their offers or information on products or services where you have indicated interest in or consented to receiving third party offers;
+  * to assist in the delivery of your order to your door and to verify your credit card or PayPal (available in Australia only) payment;
+  * to help you remember and re-order from our menu in future; and
+  * provide you with an SMS to inform you when your order is on its way or ready for pick-up from one of our stores;
   * requesting your feedback on our products and/or services;
   * responding to any complaints, enquiries and feedback;
   * unsubscribing your details from our databases;
@@ -192,7 +202,7 @@ If you are a registered member of the online ordering system, you may have the a
 
 
 
-Refer to heading ‘Third Party disclosure of your Information’ for more information about these payment gateway providers
+Refer to heading ‘Third Party disclosure of your Information’ for more information about these payment gateway providers.
 
 **eVouchers**
 
@@ -200,7 +210,7 @@ Most Domino's Pizza vouchers carry an eVoucher number which can be redeemed via 
 
 **InstaGift**
 
-InstaGift include an InstaGift Number and a Pin which can be redeemed via the Domino's Pizza internet ordering system.  Follow the process on <https://www.dominos.com.au/inside-dominos/contact-us/terms-conditions> or https://www.dominos.co.nz/inside-dominos/contact-us/terms-conditions when making a purchase using your InstaGift.
+InstaGift include an InstaGift Number and a Pin which can be redeemed via the Domino's Pizza internet ordering system.  Follow the process on <https://www.dominos.com.au/inside-dominos/contact-us/terms-conditions> or https://www.dominos.co.nz/inside-dominos/contact-us/terms-conditions when making a purchase using your InstaGift.
 
 **Third Party disclosure of your Information**
 
@@ -215,14 +225,15 @@ Where appropriate, Domino's (which includes its subsidiary Domino’s Pizza New 
   * if you use PayPal (available in Australia only) to place an order via our website, mobile site or app, your details will be received by PayPal in order to process the order. For more information on PayPal see: https://www.paypal.com/au/home;
   * if you use AndroidPay to place an order via our app, your details will be received by Google in order to process the order. For more information on AndroidPay see: https://www.android.com/intl/en_au/pay/;
   * if you use ApplePay to place an order via our app (available in Australia only), your details will be received by Apple in order to process the order. For more information on ApplePay see: http://www.apple.com/au/apple-pay/;
+  * if you place an order online and express interest in certain third party offers, products or services, we may provide and share your Information with the providers of those third party offers including external creative agencies, advertising and marketing companies and third party suppliers of goods and services so they can contact you directly to advertise and market their goods and services to you and to personalise the advertising and promotional material you receive from us and them;
   * we may share Information with agents, affiliates or service providers who act for or on behalf of us in connection with our business, or for further processing in accordance with the purpose(s) for which the Information was originally collected; and
   * any other third parties notified to you at the time of collecting your Information or after the collection of your Information.
 
 
 
-Some of our related entities and third party service providers are located in countries outside of Australia (including but not limited to the Philippines, India, United Kingdom, New Zealand, United States of America, Germany, The Netherlands, France, Belgium and Ireland). Our contracts with these parties generally include an obligation for them to comply with Australian privacy law and this policy.  However you acknowledge that, by agreeing to the disclosure of your Information to these entities outside of Australia, we will no longer be required to take reasonable steps to ensure the overseas recipient's compliance with the Australian privacy law in relation to your Information and we will not be liable to you for any breach of the Australian privacy law by these overseas recipients and, on this basis, you consent to such disclosure.
+**Some of our related entities and third party service providers are located in countries outside of Australia (including but not limited to the Philippines, India, United Kingdom, New Zealand, United States of America, Germany, The Netherlands, France, Belgium and Ireland). Our contracts with these parties generally include an obligation for them to comply with Australian privacy law and this policy.   However you acknowledge that, by agreeing to the disclosure of your Information to these entities outside of Australia, we will no longer be required to take reasonable steps to ensure the overseas recipient's compliance with the Australian privacy law in relation to your Information and we will not be liable to you for any breach of the Australian privacy law by these overseas recipients and, on this basis, you consent to such disclosure.**
 
-Where we disclose your Information to our related suppliers and third parties, your personal Information will be collected, used, held and disclosed by them in accordance with their privacy policy.
+Where we disclose your Information to our affiliates, your personal Information will be collected, used, held and disclosed by them in accordance with their privacy policy.
 
 **VIP club membership**
 
@@ -260,7 +271,7 @@ Each time you visit our websites our server collects some anonymous information,
 
 Domino's may collect this information for statistical purposes to find out how the websites are used and navigated, including the number of hits, the frequency and duration of visits, most popular session times. Domino's may use this information to evaluate and improve the Domino's websites.
 
-To try and bring you offers that we think may interest you, we have relationships with third party companies (for example DoubleClick and ROKT) that we allow to place advertisements on our websites. If you visit our websites, ad serving or data analytics companies may place cookies on your browser to capture information from you such as your domain type, your IP address, your web usage behaviour whilst on the page (including how you were referred to the page), Google-authenticated identifiers and clickstream information. Any information collected by such third parties is subject to their privacy policies and terms of use (which can be found at Double Click ([www.doubleclick.net](http://www.doubleclick.net/)), Google Analytics ([www.google.com.au/policies/privacy](https://mailtrack.io/trace/link/0561e26e13980cfe8d3592de664d13b9c92f4d18?url=http%3A%2F%2Fwww.google.com.au%2Fpolicies%2Fprivacy&signature=b8806afabfc5ea8e) and [http://www.google.com.au/analytics/terms/us.html](https://mailtrack.io/trace/link/2b2a700869cabd0af786338fab418d7997b08c87?url=http%3A%2F%2Fwww.google.com.au%2Fanalytics%2Fterms%2Fus.html&signature=f66be914e360ed2e)) and ROKT (http://rokt.com/blog/privacy-policy/)).
+To try and bring you offers that we think may interest you, we have relationships with third party companies (for example DoubleClick and ROKT) that we allow to place advertisements on our websites. If you visit our websites, ad serving or data analytics companies may place cookies on your browser to capture information from you such as your domain type, your IP address, your web usage behaviour whilst on the page (including how you were referred to the page), Google-authenticated identifiers and clickstream information. Any information collected by such third parties is subject to their privacy policies and terms of use (which can be found at Double Click ([www.doubleclick.net](http://www.doubleclick.net/)), Google Analytics ([www.google.com.au/policies/privacy](https://mailtrack.io/trace/link/0561e26e13980cfe8d3592de664d13b9c92f4d18?url=http%3A%2F%2Fwww.google.com.au%2Fpolicies%2Fprivacy&signature=b8806afabfc5ea8e) and [http://www.google.com.au/analytics/terms/us.html](https://mailtrack.io/trace/link/2b2a700869cabd0af786338fab418d7997b08c87?url=http%3A%2F%2Fwww.google.com.au%2Fanalytics%2Fterms%2Fus.html&signature=f66be914e360ed2e)) and ROKT (http://rokt.com/blog/privacy-policy/)).
 
 If you wish to opt out of Google Analytics tracking, you can find detail on how to do so at <https://support.google.com/analytics/answer/181881?hl=en>.
 
@@ -327,7 +338,8 @@ The Domino’s website may be accessible through or contain connections to areas
 
   1. To stop receiving the SMS service, follow the instructions contained in the SMS.
   2. To stop receiving any email correspondence from us, simply click on the link to unsubscribe.
-  3. To remove your details from any of our marketing and communication databases simply email the Privacy Officer at [privacy@dominos.com.au](mailto:privacy@dominos.com.au).
+  3. To remove your details from any of our marketing and communication databases simply email the Privacy Officer at [privacy@dominos.com.au](mailto:privacy@dominos.com.au).
+  4. If your information has been shared with a third party by us, based on your consent to do so, you may contact that third party directly and opt out of any direct marketing from them.
 
 
 
@@ -339,6 +351,6 @@ The Domino's Privacy Policy Co-ordinator will investigate your complaint and det
 
 **Contact Us**
 
-If you have any queries regarding this policy please contact the Domino's Privacy Policy Co-ordinator at Level 5, 'KSD1', 485 Kingsford Smith Drive, Hamilton Queensland 4007 Australia, +61 7 3633 3333, privacy@dominos.com.au or [privacy@dominospizza.co.nz](mailto:privacy@dominospizza.co.nz).
+If you have any queries regarding this policy please contact the Domino's Privacy Policy Co-ordinator at Level 5, 'KSD1', 485 Kingsford Smith Drive, Hamilton Queensland 4007 Australia, +61 7 3633 3333 or privacy@dominos.com.au.
 
 If you have any queries regarding the Information contained in your profile on the relevant Domino’s jobs website, including how to update that Information, please contact the Domino’s Training team on Training@dominos.com.au.
