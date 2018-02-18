@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapoperanetwork.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916040309id_/https%3A//www.soapoperanetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapoperanetwork.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218173443id_/https%3A//www.soapoperanetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Soap Opera Network
 
@@ -8,7 +8,7 @@
 Soap Opera Network (hereinafter: “SON”) respects the right to privacy of each individual who visits this website or responds to our interactive advertisements. This privacy policy outlines the information SON will collect and how we will use that information. This statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit SON or respond to our advertisements.
 
 **Individually Identifiable Information  **  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ **click here**](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ **click here**](https://www.networkadvertising.org/managing/opt_out.asp).
 
 **Children  **  
 SON has no intention of collecting any individually identifiable information such as name, address, telephone number, or e-mail address from individuals under the age of 13. Where appropriate, SON will specifically instruct children not to submit such information on our Web site or in response to advertisements. If a child has provided us with individually identifiable information, that child’s parent or guardian should contact us at the e-mail address or phone number listed at the bottom of this policy if they would like this information deleted from our records.
