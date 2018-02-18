@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914032531id_/https%3A//www.partitionwizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218035944id_/https%3A//www.partitionwizard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Solution Ltd.
 
@@ -23,13 +23,14 @@ We use third party vendors and hosting partners to provide the necessary network
 MiniTool Solution Ltd. uses secure server and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition. 
 
 **About cookies**  
-In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses. You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
+In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.  
+You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. We also use Google Analytics. Check how it collects and processes data at [www.google.com/policies/privacy/partners/](https://web.archive.org/web/20180218035944id_/https%3A//www.partitionwizard.com/www.google.com/policies/privacy/partners/). 
 
 **Changes to the Privacy Policy**  
 MiniTool Solution Ltd may amend this policy at any time by posting the amended terms on our web site. All amended terms will be automatically effective without further notice, 10 days after they are first posted. 
 
 **Contact Us**  
-If you have any questions or suggestions regarding our Privacy Policy, please email us at [support@minitool.com](mailto:support@minitool.com). 
+If you have any questions or suggestions regarding our Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8e888d8d928f89bd9094939489929291d39e9290). 
 
 **Address**  
 701 West Georgia Street, Suite 1500,  
@@ -38,4 +39,4 @@ Canada
 
 Tel: 1-800-789-8263  
 Fax: 1-800-510-1501  
-E-Mail: [support@minitool.com](mailto:support@minitool.com)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#72010702021d0006321f1b1c1b061d1d1e5c111d1f)
