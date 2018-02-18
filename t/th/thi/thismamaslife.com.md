@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismamaslife.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219131244id_/http%3A//thismamaslife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismamaslife.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218111815id_/https%3A//thismamaslife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - This Mama's Life
 
