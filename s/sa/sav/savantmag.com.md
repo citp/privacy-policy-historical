@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savantmag.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222035819id_/https%3A//www.savantmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savantmag.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218085205id_/https%3A//www.savantmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Edited: June 13, 2017
+Last Edited: June 13, 2018
 
 We want to protect your privacy. In order to operate our website, we may gather Personally Identifiable Information (the “PII”) about you. PII, as described in privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
