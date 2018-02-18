@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalreporter.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218181235id_/http%3A//www.mentalreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalreporter.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218075138id_/http%3A//www.mentalreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MentalReporter.com
 
