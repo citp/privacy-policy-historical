@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the zigstat.com privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220045806id_/http%3A//zigstat.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zigstat.com privacy policy that was archived on 2018-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180219000715id_/http%3A//zigstat.com/privacy-policy) for the most accurate reproduction.-->
 
 <html lang="en"><head><script async="" type="text/javascript" charset="utf-8" src="https://rec.smartlook.com/recorder.js"></script></head><body style="visibility: visible;"><div class="row">
 	<div class="col-md-12 card-header">
@@ -32,7 +32,7 @@ We also use third party advertisements on Zigstat.com to support our site. Some 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="_token" content="xFejepfVpra8UO676TvBE3KJNdsSBqgp47WRw4XW"> 
+    <meta name="_token" content="8JOnpIPYYTdGNL883XIK6rFJ08rqEwtjelkJZDIi"> 
    
   <title> Privacy Policy </title>
 <meta name="description" content="">
@@ -791,9 +791,7 @@ span.stars span{background-position:0 0;}
 <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "https://www.berush.com/static/berush/js/remote.js"; fjs.parentNode.insertBefore(js, fjs); }(document, "script", "berush-widget"));</script><div class="berush-root" data-ref="2016116019" data-ref_source="" data-db="us" data-color="blue"></div>
   
   
-
   
-
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -821,11 +819,14 @@ span.stars span{background-position:0 0;}
               
               <li><a href="http://zigstat.com/backlinks-checker"><b>Check Backlinks</b></a></li><li>
                   </li><li><a href="http://zigstat.com/keywords-checker"><b>Check Keywords</b></a></li>
-<li><div class="addthis_inline_share_toolbox_qd51"></div></li><li></li>
+
           </ul>
+          
+      
+       
         </div><!--/.navbar-collapse -->
       </div>
-    </nav> 
+</nav>
 
       <!-- Your Page Content Here -->
       
@@ -834,7 +835,7 @@ span.stars span{background-position:0 0;}
         <div class="row">
           <div class="col-md-12 card-header"><center>
  <a href="http://zigstat.com/last-inserted">Newly Inserted</a> |  <a href="http://zigstat.com/being-viewed">Being Viewed</a> | <a href="http://zigstat.com/recent">Recently Updated</a> |  <a href="http://zigstat.com/top">Top</a><br>
-<a href="http://zigstat.com/about">About</a> | <a href="http://zigstat.com/lists">Site List</a> | <a href="http://zigstat.com/privacy-policy">Privacy</a> |  <a href="http://zigstat.com/keywords-list">Keywords List</a> | <a href="http://zigstat.com/contact">Contact</a><br>
+<a href="http://zigstat.com/about">About</a> | <a href="http://zigstat.com/lists">Site List</a> | <a href="http://zigstat.com/privacy-policy">Privacy</a> | <!-- <a href="http://zigstat.com/keywords-list">Keywords List</a> | --><a href="http://zigstat.com/contact">Contact</a><br>
 <a href="http://freeseotools.zigstat.com" target="_blank">Free Seo Tools</a></center>
         </div>
       </div>
@@ -886,9 +887,75 @@ span.stars span{background-position:0 0;}
        select: function( event, ui ) { 
             window.location.href = "http://"+ui.item.value+".zigstat.com";
         }
+  });
+   
+        
+       $(".menu-nav li a").click(function(){
+            $(".menu-nav li a").removeClass('active');
+            $(this).addClass('active');
+           href= $(this).attr('href');
+           href=href.replace('#','');
+           console.log(href);
+           scrollto(href);
     });
   });
+  window.addEventListener('scroll', function() {
+     
+       var scroll = $(window).scrollTop();
+      if(scroll>100)
+      {
+            $("#menu-nav").show();
+      }
+      else{
+          $("#menu-nav").hide();
+          
+      }
+       var section = document.getElementsByTagName("section");
+       console.log(section);
+       var bScroll = document.body.scrollTop;
+       for (var i = 0; i < section.length; i++) {
+
+
+            var sHeight = section[i].offsetHeight;
+            var offsets = section[i].offsetTop;
+            if (bScroll > offsets && bScroll < offsets + sHeight) {
+               
+            
+            } else {
+              section[i].className = "section";
+            }
+
+      
+       }
+  });  
+function scrollto(id) {
+		var etop = $('#' + id).offset().top-140;
+      
+	$('html, body').animate({
+	  scrollTop: etop
+	}, 1000);
+}
   </script>
+  <style>
+  .menu-nav ul{
+     background-color:black
+     
+  }
+  .menu-nav li a{
+      color:white;
+      
+  }
+  .menu-nav li{
+      list-style-type:none;
+      float:left;
+      margin:7px;
+     // background-color:black
+       
+  }
+   .menu-nav li a.active{
+       color:orange;
+   }
+  </style>
 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
 
 <style>
