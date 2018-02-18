@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728080035id_/https%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218220359id_/https%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | vouchercloud
 
