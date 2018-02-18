@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207051511id_/http%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218065553id_/https%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SQLBI
 
@@ -71,19 +71,12 @@ Personal Data collected: Email address and Usage data.
 These services make it possible to manage a database of email contacts, phone contacts or any other contact information to communicate with the User.  
 These services may also collect data concerning the date and time when the message was viewed by the User, as well as when the User interacted with it, such as by clicking on links included in the message.
 
-#### Sendgrid (Sendgrid)
+#### Sparkpot (Message Systems, Inc.)
 
-Sendgrid is an email address management and message sending service provided by Sendgrid Inc.
+Sparkpost is an email address management and message sending service provided by Message Systems, Inc.
 
 Personal Data collected: Email address.  
-Place of processing : USA \- [Privacy Policy](http://sendgrid.com/email_policy.html)
-
-#### Mandrill (The Rocket Science Group, LLC.)
-
-Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC.
-
-Personal Data collected: Email address and Usage data.   
-Place of processing: USA \- [Privacy Policy](http://mandrill.com/privacy/)
+Place of processing : USA \- [Privacy Policy](https://www.sparkpost.com/policies/privacy/)
 
   * #### Hosting and backend infrastructure
 
@@ -363,7 +356,7 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy relates solely to this Application.
 
-Latest update: May 27, 2015 
+Latest update: May 1, 2017 
 
   
 
