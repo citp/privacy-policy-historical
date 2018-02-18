@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219014000id_/http%3A//www.exofficio.com/customer-service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218083727id_/http%3A//www.exofficio.com/customer-service/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
