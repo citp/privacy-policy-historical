@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asdapriceguarantee.co.uk privacy policy that was archived on 2017-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170604221510id_/http%3A//www.asda.com/help/privacy-policy.html%3Fitem%3Dbnf1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdapriceguarantee.co.uk privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218025027id_/http%3A//www.asda.com/help/privacy-policy.html%3Fitem%3Dbnf1) for the most accurate reproduction.*
 
 # Privacy Policy | ASDA
 
@@ -18,19 +18,19 @@ We run this site in order to promote products and services and, where these are 
 
 ## Information We Collect
 
-To be able to order from us we have to collect certain information from you. As part of this, you are required to give your contact information. We use the information given to us by you to provide the service you request from us in the way that is set out in this privacy policy. You can change your registration details easily through the account facilities available on the website or by getting in touch with our Data Protection Officer at the address below 
+To be able to order from us we have to collect certain information from you. As part of this, you are required to give your contact information. We use the information given to us by you to provide the service you request from us in the way that is set out in this privacy policy. You can change your registration details easily through the account facilities available on the website or by getting in touch with our Data Protection Officer at the address below. 
 
 **User name and password** \- if we collect a user name and password, this is so we can keep your information safe and so that we can have your information to hand each time you visit us. 
 
 **Name, address and postcode** \- without this we won't know where to send your order or to whom. We also use postcodes to quickly get your full address to save you typing it out, and in some cases to identify whether we deliver or offer services in your area. 
 
-**Age / date of birth** \- we may need to collect your age or date of birth in order to be able to sell you certain products, such as insurance, financial services products or alcohol, and we may also use this to send you age or birthday related offers if you agree. 
+**Age / date of birth** \- we may need to collect your age or date of birth in order to be able to sell you certain products, such as insurance, financial services products or alcohol, and we may also use this to send you age or birthday related offers if you have agreed to receive marketing communications. 
 
-**Email address** \- we send a confirmation of your orders via email. 
+**Email address** \- we send a confirmation of your orders via email as well as other service related communication. If you have agreed to receive marketing communications these may also be sent by email. 
 
 **Telephone numbers** \- if there are any problems with your order or we need to check anything, we need to be able to contact you quickly. 
 
-**Payment card number, expiry date, issue no and name of card holder** – when you purchase a product or service we need these details so we can collect payment in the same way as when we take payment in a store via chip and pin. 
+**Payment card number, expiry date, issue no and name of card holder** – A payment card is required in order to register for an online account. We retain your payment card information for the duration of the time you hold an account with us. This is necessary to enable payment, to process refunds and in order to help us monitor fraudulent activity on accounts. 
 
 **Where you heard about us** \- we may ask you this to help make our marketing more efficient. 
 
@@ -49,9 +49,12 @@ You may also provide us with personal information if you contact customer servic
 
 ## How We Use The Information We Collect
 
-Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service. Your account may be used to store information about your previous purchases, personal preferences and shopping lists. But you should also be aware of the following uses -
+Our main uses of your information are explained above which in general is to process your orders, as well as to help us understand your needs and provide you with a better service.   
+Your account may be used to store information about your previous purchases, personal preferences and shopping lists. But you should also be aware of the following uses -
 
-**Marketing** \- we (including our group companies and partners) and carefully selected third parties may use the information we collect to inform you, by letter, phone, SMS, push notification or equivalent, or email, about offers, products and services that we think may be of interest to you and we may tell you about other organisations' products and services. We will tell you about this when we collect your information and if you do not wish to receive these communications, please let us know. You can change your mind at any time by going to the account facilities available on the website or by contacting our Data Protection Officer at the address below. You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you. 
+**Marketing** \- we (including our group companies and partners) and carefully selected third parties may use the information we collect to inform you, by letter, phone, SMS, push notification or equivalent, or email, about offers, products and services that we think may be of interest to you and we may tell you about other organisations' products and services. 
+
+We will tell you about this when we collect your information and if you do not wish to receive these communications, please let us know. You can change your mind at any time by going to the account facilities available on the website or by contacting our Data Protection Officer at the address below. You can also unsubscribe following the instructions that we will include in any communication, such as email or text, we send to you.
 
 **Customer care and correspondence** \- as part of our customer care procedures, we may follow-up, either by letter, phone, SMS or email, customers who have purchased goods or services from our website or who have posted comments about ASDA on the internet, for example to resolve a complaint or to ask for a testimonial. 
 
@@ -61,7 +64,9 @@ Our main uses of your information are explained above which in general is to pro
 
 **Website improvement** \- to help us design our website and improve your experience, we may collect information about the way you use and access our website. Our web system collects information about each visitor, including IP address, the length of time spent on the website and the order in which pages are visited. We may employ third party experts to help us look at this information. However, we make sure that anyone we employ treats all information with the same sensitivity and security that we treat it. This is explained in more detail in the cookies section below. 
 
-**Fraud Prevention** \- in order to protect our customers and us from fraud and theft, we may look at the information that we get from making identity checks and other information in our customer records, including how you conduct your account, and may pass this to other group companies, other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way. When you apply for products or services through our website you may also be required to go through a more detailed credit check on terms which will tell you about you first. 
+**Fraud Prevention** \- in order to protect our customers and us from fraud and theft, we may look at the information that we get from making identity checks and other information in our customer records, including how you conduct your account, and may pass this to other group companies, other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way. 
+
+When you apply for products or services through our website you may also be required to go through a more detailed credit check on terms which will tell you about you first.
 
 ## Cookies
 
@@ -101,9 +106,10 @@ You can refuse cookies by activating the relevant setting on your browser. Howev
 
 ## Access Rights
 
-You have a right to access the personal information that is held about you. To obtain a copy of the personal information ASDA holds about you, please write to us at the following address enclosing your postal details and a cheque for £10, which we are entitled by law to charge, payable to ASDA Stores Limited:   
+You have a right to access the personal information that is held about you. To obtain a copy of the personal information ASDA holds about you, please email us at [dataprotection@asda.co.uk](mailto:dataprotection@asda.co.uk) enclosing your postal details and the details of your request.   
+Alternatively you can write to us at the following address:   
 Data Protection Officer,   
-Legal Department,   
+Privacy Compliance,   
 ASDA Stores Limited,   
 ASDA House,   
 Great Wilson Street,   
