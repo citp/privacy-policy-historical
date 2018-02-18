@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2017-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171217161849id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2018-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180218084925id_/https%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -25,23 +25,25 @@
     <link rel="apple-touch-icon" sizes="114x114" href="http://www.ucertify.com/images/ucertify-apple-114x114.png">
 	<link rel="apple-touch-startup-image" href="http://www.ucertify.com/images/startup.png">
 	<link rel="icon" type="image/png" href="http://www.ucertify.com/images/uc-icon.png">
-	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/bootstrap.min.css?16122017" rel="stylesheet" type="text/css">
-    <link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/style.min.css?16122017" rel="stylesheet">
+	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/bootstrap.min.css?15022018" rel="stylesheet" type="text/css">
+    <link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/style.min.css?15022018" rel="stylesheet">
 	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/animate.css" rel="stylesheet" type="text/css">
-	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/font-awesome/css/font-awesome.min.css?16122017" rel="stylesheet" type="text/css">
+	<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/font-awesome/css/font-awesome.min.css?15022018" rel="stylesheet" type="text/css">
 
 			<!-- Included CSS Files -->
 	    <link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/plugins/iCheck/custom.css" rel="stylesheet" type="text/css">
 		<link href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/plugins/sweetalert/sweetalert.css" rel="stylesheet">
 	            		<!--[if lt IE 9]>
-			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/html5shiv.min.js?16122017"></script>
-			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/respond.min.js?16122017"></script>
+			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/html5shiv.min.js?15022018"></script>
+			<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/respond.min.js?15022018"></script>
 	    <![endif]-->
 	    	
 	<link rel="stylesheet" type="text/css" href="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/css/component.min.css">
 	
-	<script type="text/javascript" async="" src="https://www.google-analytics.com/ga.js"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/jquery-1.10.2.min.js?16122017"></script>
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/ga.js"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/jquery-1.10.2.min.js?15022018"></script>
+	<!--<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/bootstrap.min.js?15022018"></script>-->
 	<!-- Grab Google CDN's jQuery. fall back to local if necessary -->
+	<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/bootstrap.min.js?15022018"></script>
 	<script>
 	!window.jQuery && document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"><\/script>');
 	$.fn.hasAttr = function(name) {
@@ -59,6 +61,7 @@
 	var isiPad = 0;
 	var isIEEleven = false;
 	var isIE = false;
+	var isMoz = false;
 	var __isExecOnReady__ = true;
 	var tabindex = {
 		"n" : -1,
@@ -67,7 +70,8 @@
 	};
 	var UCINFO = {
 		isIphone:0,
-	}
+		SMNAME:"author/SM/v1/",
+		isServer:true	}
 	   var startTime = new Date();        //Start the clock!
    var _gaq = _gaq || [];
    	  _gaq.push(['_setAccount', 'UA-86319-5']);
@@ -78,7 +82,7 @@
 	
 	<style></style>
 </head>
-<body style="padding-top:45px;background-color: transparent;" topmargin="0" leftmargin="0" onload="" class="settings_themes  " onbeforeunload="activate(2);" preprel="uc-prep-body">
+<body onload="" class="settings_themes pt-xxxv  " onbeforeunload="activate(2);" preprel="uc-prep-body">
 		<!-- File Name: 'error.tpl' -->
 <div aria-live="assertive" id="errmsg" class="alert alert-warning nm alert-dismissible pt-md pb-md h" role="alert">
 	<button type="button" class="close" onclick="javascript:showmsg('','',1);">×</button>
@@ -92,8 +96,9 @@
 	            <div class="navbar-brand visible-xs-block visible-xs title-top">
 					<ul class="nav navbar-nav nm">
 					<li>
-						<a style="top:-10px; " class="pull-left" href="http://www.ucertify.com/" target="_parent">
+						<a class="pull-left top-10" href="http://www.ucertify.com/" target="_parent">
 							<span class="icomoon-home s4"></span>
+							<span class="sr-only">Home</span>
 						</a> 
 					</li>
 					<li>
@@ -103,27 +108,20 @@
 	             <span class="icon-bar"></span>
 	             <span class="icon-bar"></span>
 	             <span class="icon-bar"></span>
+	             <span class="sr-only">Menu Items</span>
 	            </button>
 	        </div>
 			<div class="container np">
 			  				  		<!-- File Name: 'pe-menubar.tpl' -->
-<style>
-	.max-77{max-width:77%;}
-	.max-65{max-width:65%!important;}
-	.visible{display:block;}
-	#courses_list_menu .dropdown-backdrop{z-index:0}
-	#toolbar_container_preview {left:195px;bottom:4px;}
-	#save_msg_show {left:660px;bottom:10px;}
-</style>
 <nav class="navbar-collapse bs-navbar-collapse collapse relative container np" role="navigation">
-					<div class="pull-left mr" style="height: 44px;width: 145px;text-align: center;" aria-hidden="true">
+					<div class="pull-left mr text-center span16 height44" aria-hidden="true">
 												<a tabindex="-1" href="http://www.ucertify.com/" target="_parent"><img onerror="this.style.display='none'" class="logo-v" src="http://www.ucertify.com/layout/themes/bootstrap3-2016/images/logo/logo.gif" alt="uCertify Logo" style="display: none;"></a>
 									</div>
-		<ul class="nav navbar-nav navbar-right nm nav_height pull-right font-body">
+		<ul class="nav navbar-nav navbar-right nm nav_height pull-right font-body height44">
 				<input type="hidden" id="class_key_input_hidden">
 				  			<!-- File Name: 'pe-menubar-cart_menu.tpl' -->
 <li class="dropdown shopcart" tabindex="0">
-	<a tabindex="-1" href="#" rel="tooltip" data-placement="bottom" title="Shopping Cart" class="dropdown-toggle cart-menu height-cart" data-toggle="dropdown"><span class="icomoon-cart-2 s4 m"></span><span class="text-large" id="total_cart_item"><span class="sr-only">Shopping Cart</span> 0 <span class="sr-only">Item</span></span> <b class="caret"></b></a>
+	<a tabindex="-1" href="" onclick="return false;" rel="tooltip" data-placement="bottom" title="Shopping Cart" class="dropdown-toggle cart-menu height-cart" data-toggle="dropdown"><span class="icomoon-cart-2 s4 m"></span><span class="text-large" id="total_cart_item"><span class="sr-only">Shopping Cart</span> 0 <span class="sr-only">Item</span></span> <b class="caret"></b></a>
 	<ul class="dropdown-menu nm search-bar-menu span3" id="cart-container">
 	  <li>
 		  <div class="text-center m-md">
@@ -132,7 +130,7 @@
 	  </li>
 	</ul>
 </li>
-		  												<li class="show_login_modal" id="show_login_modal" accesskey="L" tabindex="0"><a tabindex="-1" href="javascript:;" style="padding-left:10px;padding-right:10px;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>				
+		  												<li class="show_login_modal" id="show_login_modal" tabindex="0"><a tabindex="-1" href="" onclick="return false;" class="p-md"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>				
 					<!-- File Name: 'get-modalbox-ajax.tpl' -->
 <script>
 $(document).ready(function(){
@@ -162,11 +160,12 @@ $(document).ready(function(){
 
 				</li> 
 						  <li class="dropdown feedback" tabindex="0">
-		<a tabindex="-1" href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="text-small">Feedback &amp;</span><span class="text-large">Support</span> <b class="caret"></b></a>
+		<a tabindex="-1" href="" onclick="return false;" class="dropdown-toggle" data-toggle="dropdown"><span class="text-small">Feedback &amp;</span><span class="text-large">Support</span> <b class="caret"></b></a>
 		<ul class="dropdown-menu nm">
 						<li><a href="http://www.ucertify.com/support.php" target="_blank" id="sup">Support</a></li>
-							<li><a tabindex="-1" href="#modal-keyboard-shortcut" data-toggle="modal">Keyboard Shortcuts</a></li>
-													</ul>
+							<li><a href="#" id="get_shortcut_modal">Keyboard Shortcuts</a></li>
+																	<li><a href="" onclick="getScreenCaptureTool(event)">Send Feedback</a></li>
+									</ul>
 	  </li>
 	  			  
 	</ul>
@@ -191,7 +190,7 @@ $(document).ready(function(){
                 </li>
                                                             <li class="nav-divider"></li>
                                         <li class="show_login_modal" id="show_login_modal_small">
-                    	<a href="javascript:;" style="padding-left:10px;padding-right:10px;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>
+                    	<a href="" onclick="return false" class="p-md"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>
                     </li>
                                                         </ul>
     </nav>
@@ -238,6 +237,18 @@ $(document).ready(function(){
 			activate(0);
 		});
 	});
+	$('#get_shortcut_modal').click(function(){
+		if ($("#modal-keyboard-shortcut").length > 0) {
+			$("#modal-keyboard-shortcut").show();
+		} else {
+			activate(1);
+			$.post(baseUrl+"index.php?get_keyboard_modal=1&mainpage=1", function(data){
+				$("body").prepend(data);
+				$("#modal-keyboard-shortcut").show();
+				activate(0);
+			});
+		}
+	});
 	$(".site_logo").on('focus',function(){
 		$(this).css({"outline":"5px auto -webkit-focus-ring-color","outline-offset":"-2px"});
 	});
@@ -270,6 +281,7 @@ function detectIE() {
 	return false;
 }
 </script>
+
 			  				</div>
 		</header>
 	</div>
@@ -339,34 +351,58 @@ $(document).ready(function() {
     }
 });
 </script>
-<style>
-    #main-page, #main-page li {
-        font-size: unset;
-    }
-</style>
-
 							<div class="container page_wrapper">
 			<div id="container" class="row  animated fadeInLeft">
-				<div class="col-md-12 col-sm-12 col-xs-12 pt-xl npl npr whi" aria-live="assertive" aria-atomic="true" role="main" id="main-page" mode="" style="">
+				<div class="col-md-12 col-sm-12 col-xs-12 pt-xl npl npr nmt whi" aria-live="assertive" aria-atomic="true" role="main" id="main-page" mode="" style="">
 					<!-- File Name: 'pe-notice.tpl' -->
 
 	<!-- File Name: 'pe-open_test_session.tpl' -->
+<section id="open_test_session_container">
 <script>
+	ALLOPENTESTS = "";
 	$('#terminate_test').on('click',function(){
 		$('#confirm_test_session').modal('show');
 	});
 	$('.terminate_current_test').on('click',function(){
 		$('#confirm_test_session').modal('hide');
+		var open_test_session_id = $('[name="open_test_session_id"]').val();
+		open_test_index = -1;
+		var _hide = false;
+		if ($(this).hasAttr('ts_id')) {
+			open_test_session_id = $(this).attr('ts_id');
+			open_test_index = parseInt($(this).attr('ts_index'));
+			_hide = true;
+		}
 		activate(1);
-		$.post("index.php?open_test_session_id="+$('[name="open_test_session_id"]').val()+"&stop=Terminate test session&ajax=1&action=terminate", function(data){
+		$.post("index.php?open_test_session_id="+open_test_session_id+"&stop=Terminate test session&ajax=1&action=terminate", function(data){
 			if(data){
-				$('#open_test_session').remove();
+				if (_hide) {
+					$('#open_test_session_pre').addClass('h');
+				} else {
+					$('#open_test_session, #open_test_session_pre').remove();
+					ALLOPENTESTS = "";
+				}
+								$('.tmode').removeClass("h-imp");
+				if (ALLOPENTESTS != "") {
+					var op = ALLOPENTESTS.split(",");
+					var opp = [];
+					for (var i in op) {
+						if (i != open_test_index) {
+							opp.push(op[i]);
+						}
+					}
+					ALLOPENTESTS = opp.join(',');
+				} 
+				if (ALLOPENTESTS == "") {
+					$('#open_test_session, #open_test_session_pre').remove();
+				}
 				activate(0);
 				showmsg('Test session terminated successfully.')
 			}
 		});
 	});
 </script>
+</section>
 	<!-- File Name: 'pe-profile_update_warning.tpl' -->
 	<!-- File Name: 'contactus_new.tpl' -->
 <script>var i=0;var page = "contactus"</script>
@@ -377,7 +413,7 @@ $(document).ready(function() {
 	</div>
 </section>
 <section class="container pt-md pb-md">
-	<div class="container text-justify support_id">
+	<div class="container support_id">
 		<h3>Our Commitment:</h3>
 
 <p>We are committed to protect your privacy. We assure you that the personal information you provide to uCertify over the Internet is treated with utmost care to ensure safety, security and confidentiality.</p>
@@ -402,86 +438,28 @@ $(document).ready(function() {
 	</div>
 </section>
 <!-- FileName : copyright_info.tpl -->
-<style>
-.footerRights {
-  background: #f5f5f5 !important;
-  color: #333 !important;
-  font-size: 14px !important;
-  clear: both;
-}
-.footerRights .container {
-  background: #f5f5f5 !important;
-}
-.social-icons span:hover {
-  opacity: 0.6;
-}
-.footer-bar {
-  font-size: 13px;
-  border-top: 1px solid #ccc;
-  color: #555;
-}
-.footer_menu a {
-  color: #555;
-}
-.footer_menu a:hover {
-  color: #777;
-}
-.social-icons .icomoon-google-plus,.social-icons .icomoon-instagram, .social-icons .icomoon-blogger, .social-icons .icomoon-twitter, .social-icons .icomoon-facebook, .social-icons .icomoon-linkedin, .social-icons .icomoon-youtube {
-  color: #fff;
-  padding: 8px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-}
-.social-icons .icomoon-twitter {	
-  background-color: #1dcaff;
-}
-.social-icons .icomoon-facebook {
-  background-color: #3b5998;
-}
-.social-icons .icomoon-linkedin {
-  background-color: #287bbc;
-}
-.social-icons .icomoon-youtube {
-  background-color: #bb0000;
-  padding: 7px 8px;	
-}
-.social-icons .icomoon-google-plus {
-  background-color: #D44326;	
-}
-.social-icons .icomoon-blogger{
-  background-color: #F89659;
-}
-.social-icons .icomoon-instagram{
-  background: #f09433; 
-  background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-  background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-}
-.social-icons ul li {
-  padding: 0 4px;
-}
-</style>
-<div id="footerRights" class=" footerRights">
-	<section class="bottom-divider np">
-		<div class="container" style="min-height:280px">
+<div id="footerRights" class=" footerRights bottom_footer">
+	<section class="bottom-divider npl npr npt pb-xl">
+		<div class="container bg-transparent pb-xl">
 			<div class="col-md-5 col-sm-12 col-xs-12 pt-lg">
 				<div><a href="http://www.ucertify.com/"><img src="http://www.ucertify.com/layout/themes/bootstrap3-2016/images/logo/logo.gif" alt="uCertify"></a></div>
-				<p class="text-justify">
-					uCertify provides courses, simulator, labs, test prep kits for IT certifications including Microsoft, Oracle, Cisco, CompTIA, CIW, PMI, ISC2, Linux, Zend, Google, IC3 , Adobe and many more.
+				<p>
+					uCertify provides courses, simulator, labs, test prep kits for IT certifications including <a href="http://www.ucertify.com/vendors/Microsoft.html">Microsoft</a>, <a href="http://www.ucertify.com/vendors/Oracle.html">Oracle</a>, <a href="http://www.ucertify.com/vendors/Cisco.html">Cisco</a>, <a href="http://www.ucertify.com/vendors/CompTIA.html">CompTIA</a>, 
+					<a href="http://www.ucertify.com/vendors/CIW.html">CIW</a>, <a href="http://www.ucertify.com/vendors/PMI.html">PMI</a>, <a href="http://www.ucertify.com/vendors/ISC2.html">ISC2</a>, <a href="http://www.ucertify.com/vendors/Linux.html">Linux</a>, <a href="http://www.ucertify.com/vendors/Zend.html">Zend</a>, 
+					<!--<a href="http://www.ucertify.com/vendors/Google.html">Google</a>,--> <a href="http://www.ucertify.com/vendors/IC3.html">IC3</a>, <a href="http://www.ucertify.com/vendors/Adobe.html">Adobe</a> and many more.
 				</p>
 				<div class="mt-md">
-					© 2002-2017 <a href="http://www.ucertify.com/" target="blank"><b>uCertify</b></a>.
+					© 2002-2017 <a href="http://www.ucertify.com/" target="blank" class="outline1"><b>uCertify</b></a>.
 					 All Rights Reserved
 				</div>
 				<div class="mt-md">
-					<div class="pull-left pr-md mt"><a href="https://itunes.apple.com/us/app/ucertify/id1130631062?mt=8" target="_blank"><img src="//s3.amazonaws.com/ucertify_website_asset/images/app_store.png" alt="app_store"></a></div>
-					<div class="pull-left pr-md mt"><a href="https://play.google.com/store/apps/details?id=com.pegoldnative" target="_blank"><img src="//s3.amazonaws.com/ucertify_website_asset/images/google_play.png" alt="google_play"></a></div>
+					<div class="pull-left pr-md mt"><a href="https://itunes.apple.com/us/app/ucertify-learn/id1293821369?ls=1&amp;mt=8" target="_blank" class="download_from"><img src="//s3.amazonaws.com/ucertify_website_asset/images/app_store.png" alt="app_store"></a></div>
+					<div class="pull-left pr-md mt"><a href="https://play.google.com/store/apps/details?id=com.ucertifylearn" target="_blank" class="download_from"><img src="//s3.amazonaws.com/ucertify_website_asset/images/google_play.png" alt="google_play"></a></div>
 				</div>
 			</div>
 			<div class="col-md-7 col-sm-12 col-xs-12 pt-lg">
 				<div class="col-md-4 col-sm-4 col-md-offset-1 np">
-					<h3>Know Us</h3>
+					<h3 class="line_height5 bold font16 text-greyish">Know Us</h3>
 					<ul class="list-unstyled">
 						<li class="mt-sm"><a href="http://www.ucertify.com/about/about.html" target="_blank">About us</a></li>
 						<li class="mt-sm"><a href="http://www.ucertify.com/about/career_page.html" target="_blank">Careers</a></li>
@@ -494,7 +472,7 @@ $(document).ready(function() {
 				</div>
 				<div class="col-lg-7 col-md-7 col-sm-7 social-icons np">
 					<div class="pb-sm">
-						<h3>Subscribe To Our Newsletter</h3>
+						<div class="line_height5 bold font16">Subscribe To Our Newsletter</div>
 						<form name="newsletter-form" id="newsletter-form" method="post" autocomplete="off">
 							<div class="input-group subscribe_email-group">
 						      <input type="email" name="subscribe_email" aria-label="Email" id="subscribe_email" class="form-control" placeholder="Email">
@@ -504,15 +482,15 @@ $(document).ready(function() {
 						    </div>
 						</form>
 					</div>
-					<h3 class="pb-md">Follow Us</h3>
+					<div class="pb-md line_height5 bold font16">Follow Us</div>
 					<ul class="list-inline">
-						<li class="mb-xl"><a href="https://www.facebook.com/Certifications" aria-label="connect with us through facebook" target="_blank" rel="tooltip" data-original-title="facebook"><span class="icomoon-facebook s3 text-grey"></span></a></li>
-						<li class="mb-xl"><a href="https://twitter.com/uCertify" aria-label="connect with us through twitter" target="_blank" rel="tooltip" data-original-title="twitter"><span class="icomoon-twitter s3 text-grey"></span></a></li>
-						<li class="mb-xl"><a href="https://www.youtube.com/channel/UCsem74kC-T1la_3ngKE1S9w" aria-label="connect with us through youtube" target="_blank" rel="tooltip" data-original-title="youtube"><span class="icomoon-youtube s3 text-grey"></span></a></li>
-						<li class="mb-xl"><a href="https://www.linkedin.com/company/383839" aria-label="connect with us through linkedin" target="_blank" rel="tooltip" data-original-title="linkedin"><span class="icomoon-linkedin s3 text-grey"></span></a></li>
-						<li class="mb-xl"><a href="https://plus.google.com/u/0/107164712829241902159" aria-label="connect with us through google plus" target="_blank" rel="tooltip" data-original-title="google plus"><span class="icomoon-google-plus s3 text-grey"></span></a></li>
-						<li class="mb-xl"><a href="http://www.ucertify.com/blog/" aria-label="connect with us through blog" target="_blank" rel="tooltip" data-original-title="blog"><span class="icomoon-blogger s3 text-grey"></span></a></li>
-						<li class="mb-xl"><a href="https://www.instagram.com/ucertify/" aria-label="connect with us through instagram" target="_blank" rel="tooltip" data-original-title="instagram"><span class="icomoon-instagram s3 text-grey"></span></a></li>
+						<li class="mb-xl"><a href="https://www.facebook.com/Certifications" aria-label="connect with us through facebook" target="_blank" rel="tooltip" data-original-title="facebook" class="follow_on_social_media"><span class="icomoon-facebook s3 text-white r-half p-8"></span></a></li>
+						<li class="mb-xl"><a href="https://twitter.com/uCertify" aria-label="connect with us through twitter" target="_blank" rel="tooltip" data-original-title="twitter" class="follow_on_social_media"><span class="icomoon-twitter s3 text-white r-half p-8"></span></a></li>
+						<li class="mb-xl"><a href="https://www.youtube.com/channel/UCsem74kC-T1la_3ngKE1S9w" aria-label="connect with us through youtube" target="_blank" rel="tooltip" data-original-title="youtube" class="follow_on_social_media"><span class="icomoon-youtube s3 text-white r-half p-8"></span></a></li>
+						<li class="mb-xl"><a href="https://www.linkedin.com/company/383839" aria-label="connect with us through linkedin" target="_blank" rel="tooltip" data-original-title="linkedin" class="follow_on_social_media"><span class="icomoon-linkedin s3 text-white r-half p-8"></span></a></li>
+						<li class="mb-xl"><a href="https://plus.google.com/u/0/107164712829241902159" aria-label="connect with us through google plus" target="_blank" rel="tooltip" data-original-title="google plus" class="follow_on_social_media"><span class="icomoon-google-plus s3 text-white r-half p-8"></span></a></li>
+						<li class="mb-xl"><a href="http://www.ucertify.com/blog/" aria-label="connect with us through blog" target="_blank" rel="tooltip" data-original-title="blog" class="follow_on_social_media"><span class="icomoon-blogger s3 text-white r-half p-8"></span></a></li>
+						<li class="mb-xl"><a href="https://www.instagram.com/ucertify/" aria-label="connect with us through instagram" target="_blank" rel="tooltip" data-original-title="instagram" class="follow_on_social_media"><span class="icomoon-instagram s3 text-white r-half p-8"></span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -550,7 +528,6 @@ function subscribe_newsletter(){
 $("#main-page").removeClass('whi p-xl r-md').addClass('nm np');
 $(".page_wrapper").removeClass("container");
 $(".page_wrapper").addClass("container-fluid");
-$('head').append('<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" />');
 </script>
 				  			</div>		<!-- 	id="container"	-->
 			</div>			<!-- 	class="container nocontainer animated fadeInLeft"	-->
@@ -559,208 +536,6 @@ $('head').append('<link href="//fonts.googleapis.com/css?family=Open+Sans:400,30
      
 
 			<!-- File Name: 'prepengine-footer.tpl' -->
-<!-- File Name: 'pe-keyboard-shotcut-model.tpl' -->
-<div id="modal-keyboard-shortcut" class="modal keyboard" tabindex="-1" role="dialog" aria-hidden="true">
-	<div class="modal-dialog">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-				<h4 class="modal-title">Keyboard Shortcuts</h4>
-			</div>
-			<div class="modal-body fw inline-block">
-				<div>
-					<div id="accordions" class="panel-group nmb">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<span class="caret"></span>
-								<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#commonShortcuts">Common shortcuts</a></h3>
-							</div>
-							<div id="commonShortcuts" class="panel-collapse collapse in">
-								<div class="panel-body">
-									<table class="nm nb common-shortcut-table">
-										<tbody>
-											<tr><td class="pt-xl">Course Navigation Menu</td><td class="pt-xl">Alt+G</td></tr>
-											<tr><td>Move within navigation menu</td><td>Left/Right Arrow</td></tr>
-											<tr><td>Page Up</td><td>Up Arrow</td></tr>
-											<tr><td>Page Down</td><td>Down Arrow</td></tr>
-									     </tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-						
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<span class="caret"></span>
-								<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#testShortcuts">Test Shortcuts</a></h3>
-							</div>
-							<div id="testShortcuts" class="panel-collapse collapse">
-							 	<div class="panel-body">
-								   <table class="nm nb test-table">
-										<tbody>
-											<tr><td>Item list</td><td class="pt-xl">R</td></tr>
-											<tr><td>Learn</td><td>Space bar</td></tr>
-											<tr><td>Previous</td><td>P</td></tr>
-											<tr><td>Next</td><td>N</td></tr>
-											<tr><td>Case Study(Exhibit)</td><td>X</td></tr>
-											<tr><td>Settings</td><td>Ctrl+?</td></tr>
-											<tr><td>Correct for manual grading</td><td>C</td></tr>
-											<tr><td>Incorrect for manual grading</td><td>I</td></tr>
-											<tr><td>Open case study in assessment</td><td>X</td></tr>
-											<tr><td>To end assessment</td><td>Z</td></tr>
-											<tr><td>Answering multiple choice</td><td>Corresponding alphabet or number</td></tr>
-										</tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-						
-						<div class="panel panel-default">
-							<div class="panel-heading">
-							<span class="caret"></span>
-							<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#ebookShortcuts">Ebook Shortcuts</a></h3>
-						</div>
-						<div id="ebookShortcuts" class="panel-collapse collapse">
-							<div class="panel-body">
-							   <table class="nm nb ebook-table">
-									<tbody>
-										<tr><td>Item list</td><td class="pt-xl">R</td></tr>
-										<tr><td>Scroll one Page Down</td><td>Spacebar</td></tr>
-										<tr><td>Previous</td><td>P</td></tr>
-										<tr><td>Next</td><td>N</td></tr>
-										<tr><td>Go back</td><td>Alt+K</td></tr>
-										<tr><td>Open Flash Cards within ebook</td><td>Alt+C</td></tr>
-										<tr><td>Open Quizzes within ebook</td><td>Alt+Q</td></tr>
-										<tr><td>Open Exercises within ebook</td><td>Alt+E</td></tr>
-										<tr><td>Open Labs within ebook</td><td>Alt+L</td></tr>
-										<tr><td>Accessibility</td><td>Alt+A</td></tr>								
-									</tbody>
-								</table>
-								</div>
-							</div>
-						</div>
-						
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<span class="caret"></span>
-								<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#flashCardsShortcuts">Flash Cards Shortcuts</a></h3>
-							</div>
-							<div id="flashCardsShortcuts" class="panel-collapse collapse">
-							 	<div class="panel-body">
-								   <table class="nm nb flashcard-table">
-										<tbody>
-											<tr><td>Item list</td><td class="pt-xl">R</td></tr>
-											<tr><td>Previous</td><td>P</td></tr>
-											<tr><td>Next</td><td>N</td></tr>
-											<tr><td>Settings</td><td>Ctrl+?</td></tr>
-											<tr><td>Flip Flash card</td><td>F</td></tr>
-											<tr><td>Correct for manual grading</td><td>C</td></tr>
-											<tr><td>Incorrect for manual grading</td><td>I</td></tr>
-										</tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-						
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<span class="caret"></span>
-								<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#labsShortcuts">Labs Shortcuts</a></h3>
-							</div>
-							<div id="labsShortcuts" class="panel-collapse collapse">
-								<div class="panel-body">
-									<table class="nm nb labs-table">
-										<tbody>
-											<tr><td>Item list</td><td class="pt-xl">R</td></tr>
-											<tr><td>Reset</td><td>Alt+T</td></tr>
-											<tr><td>Learn</td><td>Space bar</td></tr>
-											<tr><td>Previous</td><td>P</td></tr>
-											<tr><td>Next</td><td>N</td></tr>
-											<tr><td>Device Tab</td><td>D</td></tr>
-											<tr><td>Exercise Tab</td><td>X</td></tr>
-											<tr><td>Evidence Tab</td><td>V</td></tr>
-											<tr><td>Answer Tab</td><td>A</td></tr>
-											<tr><td>Device Selection</td><td>Up &amp; Down arrow key</td></tr>
-											<tr><td>Device Actions</td><td>Tab+Enter (After selecting device)</td></tr>
-											<tr><td>Close</td><td>Alt+C</td></tr>
-											<tr><td>Help</td><td>Alt+H</td></tr>
-											<tr><td>Min/Max lab task window</td><td>Alt+M</td></tr>
-											<tr><td>Restore lab task window</td><td>Alt+S</td></tr>
-											<tr><td>Print task activity</td><td>Alt+I</td></tr>
-											<tr><td>Task tab in Review Mode</td><td>Alt+1</td></tr>
-											<tr><td>Explanation tab in Review Mode</td><td>Alt+2</td></tr>
-											<tr><td>Answer tab in Review Mode</td><td>Alt+3</td></tr>
-											<tr><td>Correct for manual grading</td><td>C</td></tr>
-											<tr><td>Incorrect for manual grading</td><td>I</td></tr>
-											<tr><td>Zoom</td><td>Alt+Z</td></tr>
-											<tr><td>Zoom in</td><td>+ (Plus)</td></tr>
-											<tr><td>Zoom out</td><td>- (Minus)</td></tr>
-											<tr><td>Zoom default/reset</td><td>0</td></tr>
-										</tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-						
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<span class="caret"></span>
-								<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#videoShortcuts">Video Shortcuts</a></h3>
-							</div>
-							<div id="videoShortcuts" class="panel-collapse collapse">
-							 	<div class="panel-body">
-								   <table class="nm nb video-control-table">
-										<tbody>
-											<tr><td>Open video</td><td>Alt+V</td></tr>
-											<tr><td>Pause/Play video</td><td>Space Bar</td></tr>
-											<tr><td>Mute/Unmute video</td><td>M</td></tr>
-											<tr><td>Increase video volume </td><td>Up Arrow</td></tr>
-											<tr><td>Decrease video volume of video</td><td>Down Arrow</td></tr>
-											<tr><td>Forward</td><td>Right Arrow</td></tr>
-											<tr><td>Backwards</td><td>Left Arrow</td></tr>
-											<tr><td>Close video</td><td>Esc</td></tr>
-										</tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<span class="caret"></span>
-								<h3 class="nb panel-title"><a data-toggle="collapse" data-parent="#accordions" href="#bookmarkShortcuts">Bookmark Shortcuts</a></h3>
-							</div>
-							<div id="bookmarkShortcuts" class="panel-collapse collapse">
-							 	<div class="panel-body">
-								   <table class="nm nb bookmark-table">
-										<tbody>
-											<tr><td>Open bookmark popup</td><td class="pt-xl">M</td></tr>
-											<tr><td>Mark it as bookmark</td><td>B</td></tr>
-											<tr><td>Mark it as confidence</td><td>C</td></tr>
-											<tr><td>Enter some notes
-
-&lt;--pe-start-form.tpl--&gt;</td><td>N</td></tr>
-										</tbody>
-									</table>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="modal-footer m-t-n-xs">			
-				<button class="btn btn-default" data-dismiss="modal" aria-hidden="true">Close</button>			
-			</div>
-		</div>
-	</div>
-</div>
-<script>
-$(document).ready(function(){
-	var win_height = $(window).height()-30;
-	$('#modal-keyboard-shortcut').on('show.bs.modal', function () {
-	    $('#modal-keyboard-shortcut .modal-body').css({'max-height':win_height-157, 'overflow-y':'scroll'});
-	});
-});
-</script>
 
 <!-- File Name: 'ga-tracking-code-footer.tpl' -->
 <script type="text/javascript">
@@ -776,7 +551,7 @@ _gaq.push(['_trackPageview']);
 })();
 </script>
 
-<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/prepengine-footer.min.js?16122017"></script><script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/bootstrap.min.js?16122017"></script>
+<script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/prepengine-footer.min.js?15022018"></script>
 <script src="http://www.ucertify.com/layout/themes/bootstrap3-2016/foundation/js/plugins/newtheme-plugins.min.js"></script>
 <script>
 		</script>
