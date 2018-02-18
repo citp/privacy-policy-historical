@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nobroker.in privacy policy that was archived on 2017-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171128135427id_/https%3A//www.nobroker.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nobroker.in privacy policy that was archived on 2018-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180218132008id_/https%3A//www.nobroker.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta property="fb:pages" content="794951570520699">
@@ -37,10 +37,11 @@
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/bootstrap-select.min1508261566138.css">
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/fotorama.min1508261566138.css">
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/prettyCheckable.min1508261566138.css">
-<link rel="stylesheet" href="//assets.nobroker.in/static/css/imgCarousel/nobrokerSlider.css">
-<script type="text/javascript" async="" src="//d22vyp49cxb9py.cloudfront.net/jal-v2.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=390475044430580"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" type="text/javascript" src="//v2.zopim.com/?2V47LvBFAs9piNYSuGqSgWG1djwPFtMP"></script><script type="text/javascript" src="//assets.nobroker.in/static/lib/vendor/progress.min.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/universal/nbCache.min1510212543281.js"></script>
+<link rel="stylesheet" href="//assets.nobroker.in/static/css/imgCarousel/nobrokerSlider.min1508261566138.css">
+<script type="text/javascript" async="" src="//d22vyp49cxb9py.cloudfront.net/jal-v2.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.9&amp;appId=390475044430580"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" charset="utf-8" type="text/javascript" src="//v2.zopim.com/?2V47LvBFAs9piNYSuGqSgWG1djwPFtMP"></script><script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/vendor/progress.min.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/universal/nbCache.min1515130418515.js"></script>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/universal/userRegistrationHelper.min1515433803588.js"></script>
 <style>
 @media all {
 .hideInfbApp {
@@ -58,17 +59,17 @@ display : none;
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/nb_form_sass.min1508261566138.css">
-<link rel="stylesheet" href="//assets.nobroker.in/static/css/style_sass.min1511863720857.css">
+<link rel="stylesheet" href="//assets.nobroker.in/static/css/style_sass.min1515634784580.css">
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/busyHolder.min1508261566138.css">
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/jquery.reject.css">
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/jquery.min.js"></script>
 <script> var setting_cdn_domain = "//assets.nobroker.in"; </script>
 <script> var image_cdn_domain = "//assets.nobroker.in"; </script>
 <script> var full_image_cdn_domain = "https://images.nobroker.in"; </script>
-<script async="" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.2.0/socket.io.js"></script>
+<script async="" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.2.0/socket.io.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/handlebars_3.0.3.min1508261566138.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/dashboard/handlebar-helpers.min1508261566138.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/dashboard/handlebar-helpers.min1516598847334.js"></script>
 <script> var NB_CDN_URL = '//assets.nobroker.in'; </script>
 <script type="text/javascript">
 function nbLocalStorage(){
@@ -164,7 +165,7 @@ var google_app_id='239876242888-mbq11kse03n78gs2o5549clvlcv3ls24.apps.googleuser
 <script>
 function loginWithFB(){
 console.log('Called');
-savePropIdToCookie();
+// userRegistrationHelper.savePropIdToCookie();
 var params = {
 content_name : 'Facebook Registration'
 }
@@ -179,7 +180,7 @@ params.name = response.name;
 params.socialUserId = response.id;
 params.profilePic = "http://graph.facebook.com/"+ response.id+"/picture";
 params.profileLink = 'http://facebook.com/profile.php?id=' + response.id;
-params.phone = $('.numberInUse').text();
+params.phone = $('.numberInUse').text().replace('+91 - ', '') || $('input[name=oldPhone]').val();
 $.ajax ({
 url: "/api/v4/social/signin/facebook",
 type:"POST",
@@ -251,7 +252,7 @@ params.fbPhone = '';
 params.socialUserId = profile.getId();
 params.profilePic = profile.getImageUrl();
 params.profileLink = '';
-params.phone = $('.numberInUse').text();
+params.phone = $('.numberInUse').text().replace('+91 - ', '')|| $('input[name=oldPhone]').val();
 $.ajax ({
 url: "/api/v4/social/signin/google",
 type:"POST",
@@ -277,29 +278,29 @@ console.log('User signed out.');
 <div>
 <span id="closeSideMenu">×</span>
 <ul id="menu-list" class="">
-<li class="animated">
-<a href="/list-your-property-for-rent-sale" id="pypTab" onclick="sendEvent()">Post Your Property</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/list-your-property-for-rent-sale" id="pypTab" onclick="sendEvent()" itemprop="url"><span itemprop="name">Post Your Property</span></a>
 </li>
 <li class="animated hidden-md hidden-lg hidden-sm">
 <a href="javascript:void(0)" data-toggle="modal" data-target="#dosignin">Log in/Signup</a>
 </li>
-<li class="animated">
-<a href="/online-rental-agreements" id="rentAggrTab">Rental Agreement</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/online-rental-agreements" id="rentAggrTab" itemprop="url"><span itemprop="name">Rental Agreement</span></a>
 </li>
-<li class="animated">
-<a href="/click-and-earn" id="clickNearnTab">Click n' Earn</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/click-and-earn" id="clickNearnTab" itemprop="url"><span itemprop="name">Click n' Earn</span></a>
 </li>
-<li class="animated">
-<a href="/online-rent-receipt-generator" id="rentReceiptTab">Rent Receipts</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/online-rent-receipt-generator" id="rentReceiptTab" itemprop="url"><span itemprop="name">Rent Receipts</span></a>
 </li>
-<li class="animated">
-<a href="/tenant/plans" id="tenantPlanTab">Tenant Plans</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/tenant/plans" id="tenantPlanTab" itemprop="url"><span itemprop="name">Tenant Plans</span></a>
 </li>
-<li class="animated">
-<a href="/owner/plans" id="ownerPlanTab">Owner Plans</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/owner/plans" id="ownerPlanTab" itemprop="url"><span itemprop="name">Owner Plans</span></a>
 </li>
-<li class="animated">
-<a href="/careers" id="careerTab">Careers</a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a href="https://www.nobroker.in/careers" id="careerTab" itemprop="url"><span itemprop="name">Careers</span></a>
 </li>
 <li class="animated">
 <a href="http://livesmart.nobroker.in/" id="corporateTab" target="_blank">Corporate Enquiry</a>
@@ -320,10 +321,10 @@ console.log('User signed out.');
 <li class="animated"><a href="tel:+918107555666">
 <div>WhatsApp</div>
 <div>8107-555-666</div></a></li>
-<li class="animated">
-<a class="socialIcons" href="http://www.facebook.com/nobroker.com" target="_blank"><i class="icon-facebook"></i></a>
-<a class="socialIcons" href="http://www.twitter.com/nobrokercom" target="_blank"><i class="icon-twitter"></i></a>
-<a class="socialIcons" href="https://plus.google.com/+NobrokerIn" target="_blank"><i class="icon-google-plus"></i></a>
+<li class="animated" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<a class="socialIcons" href="http://www.facebook.com/nobroker.com" target="_blank" itemprop="url"><i class="icon-facebook"></i><meta itemprop="name" content="NoBroker on Facebook"></a>
+<a class="socialIcons" href="http://www.twitter.com/nobrokercom" target="_blank" itemprop="url"><i class="icon-twitter"></i><meta itemprop="name" content="NoBroker on Twitter"></a>
+<a class="socialIcons" href="https://plus.google.com/+NobrokerIn" target="_blank" itemprop="url"><i class="icon-google-plus"></i><meta itemprop="name" content="NoBroker on Google Plus"></a>
 </li>
 </ul>
 </li>
@@ -521,7 +522,7 @@ Menu
 <input type="hidden" id="loggedInUserPhone" value="false">
 <input type="hidden" id="loggedInUserName" value="false">
 <input type="hidden" id="isMobile" value="false">
-<input type="hidden" id="nbrc" value="mumbai">
+<input type="hidden" id="nbrc" value="chennai">
 <input type="hidden" id="nbpt" value="RENT">
 <input type="hidden" id="cdnUrl" value="//assets.nobroker.in">
 <input type="hidden" id="isZopimAutoReply" value="1">
@@ -718,7 +719,7 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 <span class="btn-fb-text">Continue with Facebook </span>
 </button>
 </form>
-<div class="fbLogin fb-login-button" data-scope="email,public_profile,user_mobile_phone" data-max-rows="1" data-width="264" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" onlogin="loginWithFB();" data-use-continue-as="true"></div>
+<div class="fbLogin fb-login-button" data-scope="email,public_profile" data-max-rows="1" data-width="264" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" onlogin="loginWithFB();" data-use-continue-as="true"></div>
 </div>
 </div>
 </div>
@@ -757,7 +758,7 @@ Register Here!
 </div><!-- /.modal-content -->
 </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/signin.min1508262868142.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/signin.min1516182185680.js"></script>
 <!-- sign in modal ends-->
 <div class="modal signup fade newContactOwnerModal contactDetailsModal" id="ownerDetailPopup" tabindex="-1">
 <div class="modal-dialog">
@@ -782,7 +783,7 @@ $('#ownerDetailPopup').on('hidden.bs.modal', function (e) {
 refreshPageIfLoginStateChange();
 })
 </script>
-<link rel="stylesheet" href="//assets.nobroker.in/static/css/modal/userVerificationModal.min1508261566138.css">
+<link rel="stylesheet" href="//assets.nobroker.in/static/css/modal/userVerificationModal.min1515130418515.css">
 <!--post your requirement modal-->
 <link rel="stylesheet" href="//assets.nobroker.in/static/css/modal/newContactOwnerModal.min1508261566138.css">
 <div id="contactDetailsSentModal" class="newContactOwnerModal contactDetailsModal modal fade" tabindex="-1">
@@ -939,37 +940,47 @@ openTenantScheduleModal('contact-detail-modal')
 function sendMapLocToPhone(){
 nbGA.logEvent('ContactOwner','SendLocation',{});
 }
-</script><div class="modal fade verficationModal" id="userVerificationModal" tabindex="-1" data-backdrop="static" data-keyboard="false" role="dialog">
+</script><script id="userRegistrationContentDiv" type="text/handlebars">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-body">
-<div class="col-lg-4 col-md-4 col-sm-4 titleSideBar">
-<h4 id="mainHeading">Get Owner Details</h4>
-<h5 id="secondaryHeading">100% Genuine Owners, 0% Brokerage.</h5>
-<h5 class="numberIndicator hide">Mobile Number in use: +91 <span class="numberInUse"></span></h5>
+<!-- Condition to show sidebar or not -->
+{{#if showSideBar}}
+{{#if sideBarDetails}}
+<div class="col-lg-4 col-md-4 col-sm-4 titleSideBar" id="titleSideBar">
+{{#if sideBarDetails.primaryIcon}}
+<div id="primaryIcon"></div>
+{{/if}}
+<div id="primaryHeader">{{sideBarDetails.primaryHeader}}</div>
+<div id="secondaryHeader">{{sideBarDetails.secondaryHeader}}</div>
+{{#if sideBarDetails.showPhoneNumberText}}
+<div class="numberIndicator hide" id="showPhoneNumberText">{{sideBarDetails.showPhoneNumberText}} <span class="numberInUse"></span></div>
+{{/if}}
 </div>
+{{/if}}
+{{/if}}
 <div class="col-lg-8 col-md-8 col-sm-8 mainContainer form">
 <div class="verifyForm page">
 <form id="checkMobileNumber" class="form form-horizontal">
 <div class="page">
 <fieldset class="inputMobileField">
-<h4 id="socialSignInError" class="hide" style="color:red;">Unable to get Email from your social account.Please try with different account to SignIn/SignUp.</h4>
-<h4 class="title" id="loginPopUpTitle">Owner details will be sent on the number entered below</h4>
+<div id="socialSignInError" class="hide">{{socialSignInError}}</div>
+<div class="title" id="loginPopUpTitle">{{verifyForm.loginPopUpTitle}}</div>
+<div class="title hide" id="loginOptionsTitle">{{loginOptionsFields.loginOptionsTitle}}</div>
 <div class="form-group">
 <input type="text" id="contactNumber" class="form-control inFocus" maxlength="10" name="contactNo" placeholder="Enter Mobile Number">
 <span>+91 </span>
 </div>
 <div id="errorMobile"></div>
-<button type="button" class="btn actionBtn pull-right" onclick="checkMobileExists()" id="mobileExistNextButtonTitle">Next <i class="icon icon-angle-right"></i></button>
-<button type="button" class="btn actionBtn pull-left " data-dismiss="modal"> <i class="icon icon-angle-left"></i> <span class="close-modal-btn closeButtonTitle">Close</span></button>
+<button type="button" class="btn actionBtn pull-right" data-action="checkIfPhoneExists" id="mobileExistNextButtonTitle">{{verifyForm.mobileExistNextButtonTitle}} <i class="icon icon-angle-right"></i></button>
+<button type="button" class="btn actionBtn pull-left " data-dismiss="modal" id="closeButtonTitle"> <i class="icon icon-angle-left"></i> <span class="close-modal-btn closeButtonTitle">{{verifyForm.closeButtonTitle}}</span></button>
 </fieldset>
 </div>
 <div class="page">
-<fieldset class="hide loginOptionFields" disabled="">
-<h4 class="title">Use OTP or password to login to your account</h4>
+<fieldset class="hide loginOptionFields" disabled>
 <div class="col-lg-6 col-md-6 col-sm-6 radioField">
 <label for="otpRadio">
-<input id="otpRadio" type="radio" name="loginChoice" value="otp" required=""> Generate OTP
+<input id="otpRadio" type="radio" name="loginChoice" value="otp" required> {{loginOptionsFields.otpRadioText}}
 <span class="radioIcon">
 <span class="dot"></span>
 </span>
@@ -977,7 +988,7 @@ nbGA.logEvent('ContactOwner','SendLocation',{});
 </div>
 <div class="col-lg-6 col-md-6 col-sm-6 radioField">
 <label for="passwordRadio">
-<input id="passwordRadio" type="radio" name="loginChoice" value="password" required=""> I've Password
+<input id="passwordRadio" type="radio" name="loginChoice" value="password" required> {{loginOptionsFields.passwordRadioText}}
 <span class="radioIcon">
 <span class="dot"></span>
 </span>
@@ -985,39 +996,39 @@ nbGA.logEvent('ContactOwner','SendLocation',{});
 </div>
 <button type="button" class="btn actionBtn pull-left back backButtonTitle"><i class="icon icon-angle-left"></i>Back</button>
 </fieldset>
-<fieldset class="otpFields hide" disabled="">
-<input type="text" class="form-control" id="otp4Digit" name="otp" pattern="[0-9]{4}" maxlength="4" placeholder="Enter OTP sent on mobile">
-<span class="" onclick="resendVerificationOtp()">Resend</span>
+<fieldset class="otpFields hide" disabled>
+<input type="text" class="form-control" id="otp4Digit" name="otp" pattern="[0-9]{4}" maxlength="4" placeholder="Enter OTP sent on mobile" />
+<span class="" data-action="reSendVerificationOtp">Resend</span>
 <div class="msgDisplay">
 <div class="errorMsgText"></div>
 <div class="successMsgText"></div>
 </div>
-<button type="button" class="btn actionBtn pull-right" onclick="verifyOTP()"><div class="modal-final-button pull-left" id="otpVerifyNextButtonTitle">Next</div> <i class="icon icon-angle-right"></i></button>
-<button type="button" class="btn actionBtn pull-left back backButtonTitle"><i class="icon icon-angle-left"></i>Back</button>
+<button type="button" class="btn actionBtn pull-right" data-action="verifyOtp"><div class="modal-final-button pull-left" id="verifyOtpNextButtonTitle">{{verifyOtpNextButtonTitle}}</div> <i class="icon icon-angle-right"></i></button>
+<button type="button" class="btn actionBtn pull-left back backButtonTitle" id="verifyOtpBackButtonTitle"><i class="icon icon-angle-left"></i>{{verifyOtpBackButtonTitle}}</button>
 </fieldset>
-<fieldset class="passwordInputField passwordGroup hide" disabled="">
-<input type="password" class="form-control" id="passwordField" name="password" placeholder="Enter password">
+<fieldset class="passwordInputField passwordGroup hide" disabled>
+<input type="password" class="form-control" id="passwordField" name="password" placeholder="Enter password" />
 <span class="icon-eye-open togglePassword"></span>
 <div class="msgDisplay">
 <div class="errorMsgText"></div>
 <div class="successMsgText"></div>
 </div>
-<button type="button" class="btn actionBtn pull-right" onclick="verifyPassword()" id="verifyPasswordNextButtonTitle">Next <i class="icon icon-angle-right"></i></button>
-<button type="button" class="btn actionBtn pull-left back backButtonTitle"><i class="icon icon-angle-left"></i>Back</button>
+<button type="button" class="btn actionBtn pull-right" data-action="verifyPassword" id="verifyPasswordNextButtonTitle">{{verifyPasswordNextButtonTitle}} <i class="icon icon-angle-right"></i></button>
+<button type="button" class="btn actionBtn pull-left back backButtonTitle"><i class="icon icon-angle-left" id="verifyPasswordBackButtonTitle"></i>{{verifyPasswordBackButtonTitle}}</button>
 </fieldset>
 </div>
-<button class="hide" type="submit">Submit</button>
+<button class="hide" type="submit" id="submitButton">{{submitButtonText}}</button>
 </form>
 </div>
 <div class="page">
 <fieldset class="newUserSignUpFields hide">
-<h5 class="main-social-header" id="mainSocialHeader">One step sign-up to get owner details</h5>
+<div class="main-social-header" id="mainSocialHeader">{{mainSocialHeader}}</div>
 <div class="text-center">
 <div class="btn-fb-login">
-<form class="fbLogin" action="/signin/facebook" method="POST">
-<input type="hidden" name="X-SOCIAL-USER-PHONE">
+<form class="fbLogin">
+<input type="hidden" name="X-SOCIAL-USER-PHONE" />
 <input type="hidden" name="scope" value="email">
-<button type="submit" class="btn btn-block">
+<button type="button" class="btn btn-block" data-action="doFacebookLogin">
 <div class="btn-fb-icon">
 <div class="btn-fb-icon-img">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 216" class="_5h0m" color="#ffffff"><path fill="#ffffff" d="
@@ -1031,12 +1042,12 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 <span class="btn-fb-text">Continue with Facebook </span>
 </button>
 </form>
-<div class="fb-login-button" data-scope="email,public_profile,user_mobile_phone" onlogin="loginWithFB();" data-width="264" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true"></div>
+<div class="fb-login-button" data-scope="email,public_profile" onlogin="loginWithFB();" data-width="264" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="false" data-use-continue-as="true"></div>
 </div>
 <div class="remove-padding-form-social userVerificationGBtn">
-<input type="hidden" name="X-SOCIAL-USER-PHONE">
+<input type="hidden" name="X-SOCIAL-USER-PHONE" />
 <input type="hidden" name="scope" value="profile email">
-<button class="btn-google-plus" type="submit" onclick="doGoogleSignin()">
+<button class="btn-google-plus" type="submit" data-action="doGoogleLogin">
 <div class="btn-google-wrapper">
 <div class="btn-google-icon">
 <div class="btn-google-icon-img">
@@ -1049,24 +1060,24 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 </div>
 </div>
 <div class="separator text-center"> <span>Or use your email</span> </div>
-<form class="signUpForm form">
-<input type="hidden" value="" name="phone">
-<input type="hidden" value="contact_owner" name="flow">
-<input type="text" class="form-control" name="name" id="newUserName" placeholder="Name">
-<input type="email" class="form-control" name="email" id="newUserEmail" placeholder="Email Address" value="">
+<form class="signUpForm form" id="newSignupForm">
+<input type="hidden" value="" name="phone" />
+<input type="hidden" value="contact_owner" name="flow" />
+<input type="text" class="form-control" name="name" id="newUserName" placeholder="Name" />
+<input type="email" class="form-control" name="email" id="newUserEmail" placeholder="Email Address" value="" >
 <div class="msgDisplay">
 <div class="errorMsgText"></div>
 <div class="successMsgText"></div>
 <div class="suggestionText"></div>
 </div>
 <button type="submit" class="hide">Submit</button>
-<button type="button" class="btn actionBtn pull-right" onclick="newUserSignUp()" id="newUserSignupButton"><div id="newUserSignUpNextButtonTitle" class="modal-final-button pull-left
-">Next</div> <i class="icon icon-angle-right"></i></button>
-<button type="button" class="btn actionBtn pull-left back backButtonTitle"><i class="icon icon-angle-left"></i>Back</button>
+<button type="button" class="btn actionBtn pull-right" data-action="newUserSignup" id="newUserSignupButton"><div id="newUserSignUpNextButtonTitle" class="modal-final-button pull-left
+">{{newUserSignUpNextButtonTitle}}</div> <i class="icon icon-angle-right"></i></button>
+<button type="button" class="btn actionBtn pull-left back backButtonTitle" id="newUserSignUpBackButtonTitle"><i class="icon icon-angle-left"></i>{{newUserSignUpBackButtonTitle}}</button>
 </form>
 </fieldset>
 <div class="termsAndCond hide">
-<p>By continuing you agree to our<a href="/terms-and-condition" target="_blank" class="tc">Terms &amp; Conditions </a></p>
+<p>By continuing you agree to our<a href="/terms-and-condition" target="_blank" class="tc">Terms & Conditions </a></p>
 </div>
 </div>
 <div class="successScreen page hide">
@@ -1079,26 +1090,26 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 <div> <span id="emailId"></span> is linked with the number <span class="existingPhone"></span>. </div>
 <div>Do you want to update your number to <span class="newPhone"></span>?</div>
 <div class="text-center">
-<div> <button class="btn btn-nbprimary" type="button" onclick="sendUpdateOtp()"> Update Mobile Number</button> </div>
+<div> <button class="btn btn-nbprimary" type="button" data-action="sendUpdatePhoneOtp"> Update Mobile Number</button> </div>
 <div><span class="orDividier">or</span></div>
-<button class="btn btn-default" data-dismiss="modal" id="continueBtn"> Continue using <span class="existingPhone"></span></button>
+<button class="btn btn-default" id="continueBtn"> Continue using <span class="existingPhone"></span></button>
 </div>
 </div>
 <div class="">
 <form class="updateNumberForm hide form">
 <div class="text-left">Please enter the OTP sent to +91 <span class="newPhone"></span> to verify the phone number update.</div>
 <div id="updateOtpGroup">
-<input type="text" class="form-control" id="otp6Digit" name="otp" maxlength="6" placeholder="Enter OTP sent on mobile">
+<input type="text" class="form-control" id="otp6Digit" name="otp" maxlength="6" placeholder="Enter OTP sent on mobile" />
 <div class="msgDisplay">
 <div class="errorMsgText"></div>
 <div class="successMsgText"></div>
 </div>
-<span onclick="resendUpdateOtp()">Resend</span>
+<span data-action="reSendUpdatePhoneOtp">Resend</span>
 </div>
-<input type="hidden" name="phone" class="updatedNum">
-<input type="hidden" name="flow" value="number_change">
+<input type="hidden" name="phone" class="updatedNum"/>
+<input type="hidden" name="flow" value="number_change" />
 <button type="submit" class="hide"></button>
-<button type="button" class="btn actionBtn" onclick="validateAndUpdatePhone()">Verify<i class="icon icon-angle-right"></i></button>
+<button type="button" class="btn actionBtn" data-action="validateAndUpdatePhone">{{updatePhoneText}}<i class="icon icon-angle-right"></i></button>
 </form>
 </div>
 </div>
@@ -1107,18 +1118,40 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 <div>Phone number successfully updated</div>
 </div>
 </div>
-</div><!-- /.modal-content -->
-</div><!-- /.modal-dialog -->
+</div>
+</div>
+</div>
+</script><div class="modal fade " id="builderInterestSuccessModal" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<div class="successScreen page" align="center">
+<div class="successLogo"></div>
+<div class="successHeader">
+Thank You
+</div>
+<div class="successMessage">
+Your interest in <span id="builderProjectNameSM"> </span> is registered successfully. We wil get in touch with you shortly.
+</div>
+<center>
+<div class="btn btn-info nb-builderBackBtn" onclick="closeBuilderModal()">
+Back to Listing
+</div>
+</center>
+</div>
+</div>
+</div>
+</div>
+</div> <div class="modal fade verficationModal" id="userVerificationModal" tabindex="-1" data-backdrop="static" data-keyboard="false" role="dialog">
 </div><!-- /.modal -->
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/userVerificationModal.min1511876552888.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/utils/utils.min1511863720857.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/userRegistration/userRegistrationModal.min1515433803588.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/utils/nbUtils.min1516182185680.js"></script>
 <div class="modal fade verficationModal" id="phoneOwnerVerificationModal" tabindex="-1" role="dialog" data-phone="">
 <div class="modal-dialog" role="document">
 <div class="modal-content">
 <div class="modal-body">
 <div class="col-lg-4 col-md-4 col-sm-4 titleSideBar">
-<h4>Get Owner Details</h4>
-<h5>100% Genuine Owners, 0% Brokerage.</h5>
+<h4>Account Verification</h4>
 </div>
 <div class="col-lg-8 col-md-8 col-sm-8 mainContainer form">
 <h4 class="title">Please verify your mobile number below with the OTP sent.</h4>
@@ -1274,7 +1307,7 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 </div><!-- /.modal-content -->
 </div><!-- /.modal-dialog -->
 </div><!-- /.modal --><link rel="stylesheet" href="//assets.nobroker.in/static/css/payment/paymentPlanModal.min1511256217072.css">
-<link rel="stylesheet" href="//assets.nobroker.in/static/css/payment/newPaymentPlan.min1510212543281.css">
+<link rel="stylesheet" href="//assets.nobroker.in/static/css/payment/newPaymentPlan.min1512642070520.css">
 <script id="new_payment_plan_card" class="hidden" type="text/handlebars">
 <div class="dim-modal hide"></div>
 <div class="modal-dialog modal-top" style="width:95% !important">
@@ -1319,7 +1352,11 @@ M204.1 0H11.9C5.3 0 0 5.3 0 11.9v192.2c0 6.6 5.3 11.9 11.9
 {{/if}}
 <button type="button" class="close closePaymentButton"></button>
 {{/unless}}
+{{#if fromCorporatePage}}
+<h1 class="text-center">{{corporatePageHeader}}</h1>
+{{else}}
 <h1 class="text-center">Choose a plan and <span> SAVE THOUSANDS</span> on brokerage.</h1>
+{{/if}}
 {{#if isPlanPage}}
 {{#if introText}}
 <div class="payment-plan-header text-center showIntroText">
@@ -1484,6 +1521,14 @@ Choose your home from lots of options
 </div>
 <div class = "planContent">
 <div class="planFeatures">
+<div class="col-md-12 col-sm-12 featureItem">
+<div class="col-lg-8 col-md-8 col-sm-8 featureText ">
+Premium Filters
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 featureValue">
+Yes
+</div>
+</div>
 <div class="col-md-12 col-sm-12 featureItem">
 <div class="col-lg-8 col-md-8 col-sm-8 featureText ">
 {{freedomData.details.contacts.display}}
@@ -1736,6 +1781,14 @@ Get Guaranteed home <span>or 100% Refund </span>
 <div class="planFeatures">
 <div class="col-md-12 col-sm-12 featureItem">
 <div class="col-lg-8 col-md-8 col-sm-8 featureText ">
+Premium Filters
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 featureValue">
+Yes
+</div>
+</div>
+<div class="col-md-12 col-sm-12 featureItem">
+<div class="col-lg-8 col-md-8 col-sm-8 featureText ">
 {{assureData.details.contacts.display}}
 </div>
 <div class="col-lg-4 col-md-4 col-sm-4 featureValue">
@@ -1972,6 +2025,14 @@ Get Relationship Manager to fix owner meetings
 </div>
 </div>
 <div class="planFeatures">
+<div class="col-md-12 col-sm-12 featureItem">
+<div class="col-lg-8 col-md-8 col-sm-8 featureText ">
+Premium Filters
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 featureValue">
+Yes
+</div>
+</div>
 <div class="col-md-12 col-sm-12 featureItem">
 <div class="col-lg-8 col-md-8 col-sm-8 featureText ">
 {{relaxData.details.contacts.display}}
@@ -3332,10 +3393,10 @@ You have successfully subscribed to our {{current_buy_plan.plan.displayName}}. E
 <div class="col-lg-8 col-md-8 font-weight-300 col-sm-12 appstore-block" id="download-link-content">
 <div class="download-title">Download our app</div>
 <div class="download-sub-title">Where convenience is at your fingertip</div>
-<a class="logo-link android buyer" href="https://play.google.com/store/apps/details?id=com.nobroker.app&amp;referrer=utm_source%3Dnobroker%26utm_medium%3Dwebsite" target="_blank">
+<a class="logo-link android buyer" data-page="buyer" data-app="Android">
 <img src="//assets.nobroker.in/static/img/gplay_logo_large.png">
 </a>
-<a class="logo-link appStore-ios buyer" href="https://itunes.apple.com/nz/app/nobroker-house-for-rent/id1200507100" target="_blank">
+<a class="logo-link appStore-ios buyer" data-page="buyer" data-app="IOS">
 <img src="//assets.nobroker.in/static/img/appStore_logo.svg">
 </a>
 </div>
@@ -3347,11 +3408,11 @@ You have successfully subscribed to our {{current_buy_plan.plan.displayName}}. E
 </div>
 </div>
 </div>
-</div><script type="text/javascript" src="//assets.nobroker.in/static/lib/plans/buyerPlan.min1511443296940.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/plans/sellerPlans.min1511443296940.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/plans/tenantPlans.min1511256217072.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/menu-events.min1508261566138.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/globalUserVerificationModal.min1510580164285.js"></script>
+</div> <script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/plans/buyerPlan.min1515130418515.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/plans/sellerPlans.min1515130418515.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/plans/tenantPlans.min1518440055134.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/menu-events.min1508261566138.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/globalUserVerificationModal.min1513167365400.js"></script>
 <!--post your requirement modal-->
 <div id="postYourPropertyModal" class="modal fade" tabindex="-1">
 <div class="modal-dialog" style="width:800px !important">
@@ -3758,6 +3819,29 @@ $('button.payBtn').fadeTo("fast", 1)
 </div>
 </div>
 </div>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/universal/fb.min1508261566138.js"></script>
+<div class="modal fade " id="builderInterestSuccessModal" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<div class="successScreen page" align="center">
+<div class="successLogo"></div>
+<div class="successHeader">
+Thank You
+</div>
+<div class="successMessage">
+Your interest in <span id="builderProjectNameSM"> </span> is registered successfully. We wil get in touch with you shortly.
+</div>
+<center>
+<div class="btn btn-info nb-builderBackBtn" onclick="closeBuilderModal()">
+Back to Listing
+</div>
+</center>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="container" id="privacy">
 <div class="row listing-container-row" style="padding:10px;background-color:white">
 <h2>Privacy Policy</h2>
@@ -4033,7 +4117,7 @@ Share on Google+
 </a>
 </li>
 <div>
-<a target="_blank" href="https://play.google.com/store/apps/details?id=com.nobroker.app">
+<a class="logo-link" data-page="home" data-app="Android">
 <img alt="Get it on Google Play" src="//assets.nobroker.in/static/img/en_generic_rgb_wo_45_2.png">
 </a>
 </div>
@@ -4326,25 +4410,26 @@ Share on Google+
 <div class="col-md-1 col-lg-1"></div>
 <div class="row">
 <div class="col-md-offset-3 col-md-3 copyright-text">
-<center>© 2013-17 NoBroker.in</center>
+<center>© 2013-18 NoBroker.in</center>
 </div>
 </div>
 </div>
 </div>
 </footer>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/lib-min1.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/polyfiller.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/nb_form.min1508261566138.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/util-main.min1511443296940.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/nobroker-loader.min1511799310278.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/lib-min1.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/polyfiller.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/nb_form.min1508261566138.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/utils/nbUtils.min1516182185680.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/util-main.min1518600631755.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/nobroker-loader.min1518439107542.js"></script>
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/ga-logging.min1508261566138.js"></script>
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/google-events.min1508261566138.js"></script>
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/nb-ga.min1508261566138.js"></script>
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/jReject-min.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/facebookEvent.min1508261566138.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/facebookEvent.min1508261566138.js"></script>
 <script type="text/javascript" src="//assets.nobroker.in/static/lib/sw-register.min1510227217633.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/date-manipulation.min1508261566138.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/admin/globalPopup.min1508261566138.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/date-manipulation.min1508261566138.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/admin/globalPopup.min1508261566138.js"></script>
 <!-- footer starts-->
 <!-- if requested page is authorized, show login-->
 <script async="" type="text/javascript">
@@ -4611,14 +4696,14 @@ var _bout = _bout || [];
 var _boutAKEY = "z4q93ug87e4h3sj4rjk9h384nex4vsy8fhfhnj7sgj", _boutPID = "30262";
 var d = document, f = d.getElementsByTagName("script")[0], _sc = d.createElement("script"); _sc.type = "text/javascript"; _sc.async = true; _sc.src = "//d22vyp49cxb9py.cloudfront.net/jal-v2.min.js"; f.parentNode.insertBefore(_sc, f);
 _bout.push(["identify", {
-"token" : ""
+"token" : "b1a00a39c1dd9c71d002714b603da005"
 } ]);
 }
 </script>
 <!--google remarketing tag-->
 <!--uv int ends-->
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/timeago-min.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/payment/nbpayment.min1511443296940.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/timeago-min.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/payment/nbpayment.min1515523863744.js"></script>
 <script type="text/javascript">
 $('#phone_ver').bind("keyup keypress", function(e) {
 var code = e.keyCode || e.which;
@@ -4638,9 +4723,10 @@ $('#showChatWindow').modal('show');
 src="https://www.facebook.com/tr?id=686098691497157&ev=PageView&noscript=1"
 />
 </noscript>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/universal/nbSwagger.min1508261566138.js"></script>
-<script src="https://www.gstatic.com/firebasejs/3.6.2/firebase.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/universal/nbFirebase.min1508261566138.js"></script>
-<script type="text/javascript" src="//assets.nobroker.in/static/lib/vendor/mailcheck.min.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/universal/nbSwagger.min1515523863744.js"></script>
+<script type="text/javascript" src="//assets.nobroker.in/static/lib/slashRtc/slashRtcIntegration.min1516195634842.js"></script>
+<script defer="" src="https://www.gstatic.com/firebasejs/3.6.2/firebase.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/universal/nbFirebase.min1508261566138.js"></script>
+<script defer="" type="text/javascript" src="//assets.nobroker.in/static/lib/vendor/mailcheck.min.js"></script>
 
 </body></html>
