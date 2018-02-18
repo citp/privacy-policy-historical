@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annexcloud.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219122052id_/http%3A//www.annexcloud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annexcloud.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218101847id_/http%3A//www.annexcloud.com/privacy-policy) for the most accurate reproduction.*
 
 # Annex Cloud Privacy Policy
 
@@ -15,10 +15,14 @@ We may collect Personal Information from End User’s who:
   * 1\. upload user-generated content to Customer digital properties (such as a Customer’s website);
   * 2\. use Customer hashtags or branded location tags on their social media posts;
   * 3\. interact with the user galleries and then buy products directly from a Customer digital property.
+  * 4\. engage with a loyalty program which could include sharing on social media, posting recommendations, and reviewing products.
+  * 5\. refer products or services to friends using our Referral services.
 
 
 
-We may collect information such as your name, email address and phone number and information regarding your social media accounts. You may, however, use our services without providing such information. 
+We may collect information such as your name, email address and phone number and information regarding your social media accounts. You may, however, use our services without providing such information.
+
+We may collect name and email addresses of referrals (“friends”) gathered as part of our referral services such as Refer A Friend. We store the names and email addresses of referrals, however we do not use this information for any marketing purposes.
 
 We may collect information from End Users such as public uploads and posts, including publicly posted photographs, social media username, caption information (if any) and location tag information (if any). When End Users upload user-generated content directly to a Customer digital property, Annex Cloud may collect your name or username and email address, as well as your photo. When End Users interact with the image galleries and then make a purchase directly from a Customer digital property, Annex Cloud may collect purchase information (including purchased product ID, transaction ID, transaction price, date of purchase, unique ID that our Customer may have assigned to you), email and username (if provided by End Users to Customers). Annex Cloud does not collect information from private social media accounts or posts set as private. 
 
@@ -38,7 +42,7 @@ End Users: We only process Personal Information we collect from you to provide t
 
 We may also use the information we collect automatically from End Users of our Services to improve the Services we offer to our Customers, and to improve marketing, analytics and the functionality of the Services.
 
-We do not sell your name, phone number, email or mail address to third parties.
+We do not sell your name, phone number, email or the email addresses of referrals, to third parties.
 
 #### Retention Of Personal Information
 
