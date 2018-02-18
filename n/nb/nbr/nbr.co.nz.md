@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831000407id_/https%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218012839id_/https%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The National Business Review
 
 By using this site, you agree to the Privacy Policy of National Business Review. If you do not agree to the Policy, please do not use this site. National Business Review examines its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at:
 
-Fourth Estate Holdings (2012)  
+Fourth Estate Holdings (2012) Limited  
 Level 3, Achilles House  
 8 Commerce Street,  
 Auckland 1140, NZ,  
@@ -41,6 +41,8 @@ National Business Review maintains appropriate safeguards to ensure the security
 **Cookies**
 
 Cookies are data that a Web site transfers to an individual's hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by NBR, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. National Business Review does not save passwords or credit card information within Cookies, nor are our Cookies programs of the sort that can cause damage to a user's systems or files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services, and to facilitate entry to the main sections of the site.
+
+In order to improve our user's website experience, and for improved advertising purposes, NBR.co.nz makes use of Google advertising cookies which collect non-individually identifiable information about how users browse our site. If you would like you can [opt-out of Google Analytics Advertising Features](https://tools.google.com/dlpage/gaoptout/).
 
 **Links to Third Party and Co-Branded Sites**
 
