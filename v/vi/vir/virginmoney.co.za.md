@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmoney.co.za privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227144514id_/http%3A//www.virginmoney.co.za/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.co.za privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218154358id_/http%3A//virginmoney.co.za/Privacy) for the most accurate reproduction.*
 
 # Virgin Money :: Privacy
 
