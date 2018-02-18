@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnycoco.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217042451id_/http%3A//www.funnycoco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnycoco.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218141807id_/http%3A//www.funnycoco.com/privacy) for the most accurate reproduction.*
 
 # Best Fun & Most Creative Community - FUNNYCOCO.COM
 
@@ -58,4 +58,4 @@ Although most changes are likely to be minor, Funnycoco may change its privacy p
 
 ## Contact Us
 
-If you have any questions about this privacy policy or our sites in general, please [contact us](https://web.archive.org/cdn-cgi/l/email-protection#0b787e7b7b64797f4b6d7e6565726864686425686466). 
+If you have any questions about this privacy policy or our sites in general, please [contact us](mailto:support@funnycoco.com). 
