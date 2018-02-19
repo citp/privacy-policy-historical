@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217024930id_/http%3A//www.entropiaforum.com/forum/showthread.php%3F214967-EntropiaForum-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entropiaforum.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219061550id_/http%3A//www.entropiaforum.com/forum/showthread.php%3F214967-EntropiaForum-Privacy-Policy) for the most accurate reproduction.*
 
 # Info: EntropiaForum Privacy Policy
 
