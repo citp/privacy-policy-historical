@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the greeleyschools.org privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630235124id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greeleyschools.org privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219223311id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy / Privacy policy
 
 ## Blackboard Privacy Policy
 
-#### Effective on September 19, 2016
+#### Effective on August 4, 2017  
 
-Blackboard, Inc. (“Blackboard”) is committed to protecting your privacy. This Privacy Policy was developed to give you a full understanding of terms and conditions relating to the handling of certain personal information which may be collected by Blackboard.
 
-This Privacy Policy applies to personal information collected on websites, applications or other web-based environments (including mobile applications) provided and hosted by Blackboard (“Solution”) for your school, school district or other organization (“School”).
+Blackboard Inc. (“Blackboard”) is committed to protecting your privacy. This Privacy Policy was developed to give you a full understanding of terms and conditions relating to the handling of certain personal information which may be collected by Blackboard.
 
-Blackboard has received TRUSTe's Privacy and Children's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only data that is collected through [www.schoolwires.com](https://web.archive.org/web/20170630235124id_/http%3A//www.schoolwires.com/www.schoolwires.com) and our Web Community Manager. The use of data collected through our Service shall be limited to the purpose of providing the service for which the Client has engaged Blackboard. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.- based third party dispute resolution provider (free of charge) [here](http://feedback-form.truste.com/watchdog/request).
+This Privacy Policy applies to personal information collected on its Web Community Manager (formerly known as "Schoolwires") websites, applications or associated web-based environments (including mobile applications) provided and hosted by Blackboard (the “Solution”) for your school, school district or other organization (“School”).
+
+Blackboard is currently undergoing an assessment by iKeepSafe regarding the collection, use and disclosure of personally identifiable information in order to obtain the iKeepSafe COPPA Safe Harbor Program Seal.  This program will only cover data that is collected through the Solution. The use of data collected through the Solution shall be limited to the purpose of providing the Solution for which the Client has engaged Blackboard.
 
 This Privacy Policy pertains only to the personal information that Blackboard collects from you or that is provided to us by the School where we serve as the data processor on the School’s behalf. Personal information is information that identifies a particular individual, such as a person’s first and last name, postal address, e-mail address and phone number. 
 
@@ -185,7 +186,7 @@ If the School hosts your Solution or hosts with a third-party, the School or the
 
 ### Blackboard Privacy Policy Statement changes
 
-If we change this Privacy Policy, we will post the revised Privacy Policy, with an updated effective date, to the Solution by way of a link to [WWW.SCHOOLWIRES.COM/PRIVACY](http://www.schoolwires.com/privacy). In addition, we will notify the School so that supplemental notice can be provided by the School to Solution visitors. When we believe material changes affecting users, including users under 13, years of age are made to this Privacy Policy, Blackboard will notify your School and request that the School obtain verifiable parental consent to the extent required, and in accordance, with applicable law. We will also email you or post a prominent notice where required so that you are aware of the changes to our Privacy Policy. We encourage you to periodically review this Privacy Policy by visiting the Solution and clicking on the Privacy Policy link to stay informed about how we are collecting, using and sharing personal information. Except as otherwise required by law, all changes to this Privacy Policy will be effective when the updated Privacy Policy is posted to the and each user is bound by such changes when he or she uses the Solution after such changes have been posted.
+If we change this Privacy Policy, we will post the revised Privacy Policy, with an updated effective date, to the Solution by way of a link to [WWW.SCHOOLWIRES.COM/PRIVACY](https://www.schoolwires.com/privacy). In addition, we will notify the School so that supplemental notice can be provided by the School to Solution visitors. When we believe material changes affecting users, including users under 13, years of age are made to this Privacy Policy, Blackboard will notify your School and request that the School obtain verifiable parental consent to the extent required, and in accordance, with applicable law. We will also email you or post a prominent notice where required so that you are aware of the changes to our Privacy Policy. We encourage you to periodically review this Privacy Policy by visiting the Solution and clicking on the Privacy Policy link to stay informed about how we are collecting, using and sharing personal information. Except as otherwise required by law, all changes to this Privacy Policy will be effective when the updated Privacy Policy is posted to the and each user is bound by such changes when he or she uses the Solution after such changes have been posted.
 
 ### Usage implies consent
 
@@ -207,10 +208,10 @@ As Blackboard is a U.S.-based company, your personal information will likely be 
 
 Blackboard takes privacy issues very seriously. If you have any questions, suggestions or concerns regarding this Privacy Policy, please contact us at [PRIVACY@SCHOOLWIRES.COM](mailto:privacy@schoolwires.com)
 
-Blackboard, Inc.  
+Blackboard Inc.  
 ATTN: Privacy Officer  
 330 Innovation Blvd. Suite 301  
 State College, PA 16803  
 Phone: 814.689.1046  
 Email: [PRIVACY@SCHOOLWIRES.COM](mailto:privacy@schoolwires.com)  
-URL: [WWW.SCHOOLWIRES.COM/PRIVACY](http://www.schoolwires.com/privacy)
+URL: [WWW.SCHOOLWIRES.COM/PRIVACY](https://www.schoolwires.com/privacy)
