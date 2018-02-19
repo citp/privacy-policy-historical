@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218202028id_/http%3A//www.printfree.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfree.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219051155id_/http%3A//www.printfree.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
