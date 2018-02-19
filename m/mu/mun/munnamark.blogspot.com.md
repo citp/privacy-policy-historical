@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the munnamark.blogspot.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222952id_/http%3A//www.markspcsolution.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the munnamark.blogspot.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219233209id_/http%3A//www.markspcsolution.com/p/privacy.html) for the most accurate reproduction.*
 
 # Marks PC Solution: Privacy Policy
 
