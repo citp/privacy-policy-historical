@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830092224id_/https%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1iota.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219060511id_/https%3A//1iota.com/Company/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
