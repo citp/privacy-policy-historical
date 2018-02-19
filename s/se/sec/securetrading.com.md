@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220183646id_/http%3A//www.securetrading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219171917id_/https%3A//www.securetrading.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Secure Trading
 
@@ -102,7 +102,7 @@ The Website may, from time to time, contain links to and from the websites of ou
 
 We may use the information we collect to contact you by post, telephone and/or electronic means.
 
-You have the right to ask us not to process your personal data for marketing purposes either at initial registration or later through updates. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You have the right to ask us not to process your personal data for marketing purposes either at initial registration or later through updates. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at marketing@securetrading.com.
 
 If you would prefer to no longer receive marketing-related messages from us, or if you would prefer that we not share personal data about you with any of our business partners, you may opt-out of receiving messages from us or from our future sharing of information about you by following the “unsubscribe” instructions in the latest such message you have received. We will endeavour to comply with your request as soon as reasonably practicable. Please keep in mind that if you opt-out of receiving promotional messages from this Website, we will continue to send you transactional messages and important account-related information regarding this Website or services offered through this Website. We also will continue to honour your requests regarding promotional communications from any other websites within our group of companies for which you have subscribed.
 
@@ -128,7 +128,7 @@ Your use of the Website is governed by the laws of England and Wales and all dis
 
 If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please contact us at the email address set out below. To see all of the information we have about you, and to correct any inaccuracies, change your options in relation to the information you wish to receive or to cancel your registration, please write to The Data Protection Officer using one of the following methods:
 
-  * **Email** : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * **Email** : dpofficer@securetrading.com
   * **Phone** : +44 (0)1248 672 000
   * **Post** : Data Protection Officer, European Operations Centre, Parc Menai, Bangor, Gwynedd, UNITED KINGDOM, LL57 4BL
 
