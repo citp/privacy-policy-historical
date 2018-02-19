@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehomedelivery.net privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219222906id_/http%3A//freehomedelivery.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehomedelivery.net privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219235826id_/http%3A//freehomedelivery.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy freehomedelivery.net -Free Home Delivery Biggest Educational Portal
 
@@ -132,3 +132,7 @@ Users who no longer wish to receive our newsletter or promotional materials from
 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [ _contact us._](http://freehomedelivery.net/contact-us/)
+
+## LATEST UPDATES / POSTS
+
+[SEE MORE](http://freehomedelivery.net/recent-posts/)
