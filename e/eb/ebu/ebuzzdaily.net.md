@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuzzdaily.net privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220052712id_/http%3A//ebuzzdaily.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuzzdaily.net privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219230850id_/http%3A//ebuzzdaily.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Daily Streaming Buzz
 
