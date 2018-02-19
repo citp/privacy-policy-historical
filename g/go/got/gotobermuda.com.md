@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220041651id_/http%3A//www.gotobermuda.com/info/terms-use-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219225940id_/https%3A//www.gotobermuda.com/info/terms-use-privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy // Go To Bermuda
 
@@ -59,7 +59,7 @@ Bermuda Tourism is committed to maintaining the security of information under ou
 
 ## Privacy Inquiries
 
-If you have concerns or questions regarding Bermuda Tourism's consumer privacy practices, please forward them to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f081a1d121e0c0b1a0d3f1d1a0d120a1b1e0b100a0d160c12511c1012)
+If you have concerns or questions regarding Bermuda Tourism's consumer privacy practices, please forward them to: [webmaster@bermudatourism.com](mailto:webmaster@bermudatourism.com)
 
 Bermuda Tourism reserves the right to amend and/or change the privacy policy of gotobermuda.com at any time and without notice. Please check back for updates.
 
