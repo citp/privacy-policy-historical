@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naschools.net privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121100051id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naschools.net privacy policy that was archived on 2018-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180219223311id_/http%3A//www.schoolwires.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy / Privacy policy
 
