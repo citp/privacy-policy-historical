@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allabout-japan.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006210002id_/https%3A//allabout-japan.com/en/site-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allabout-japan.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220083041id_/https%3A//allabout-japan.com/en/site-policy) for the most accurate reproduction.*
 
 # Site Policy | All About Japan
 
