@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheelers.co privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106102324id_/http%3A//www.wheelers.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheelers.co privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220112841id_/https%3A//wheelers.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wheelers Books
 
