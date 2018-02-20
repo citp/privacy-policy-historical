@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222032455id_/https%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220193748id_/http%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArc.com
 
