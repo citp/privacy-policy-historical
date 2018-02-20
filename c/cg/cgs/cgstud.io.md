@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgstud.io privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205141332id_/https%3A//www.cgstud.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgstud.io privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220084918id_/http%3A//www.cgstudio.com/privacy-policy) for the most accurate reproduction.*
 
 # CGStudio - About us
 
