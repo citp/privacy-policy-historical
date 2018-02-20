@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logofury.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222032836id_/http%3A//logofury.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logofury.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220193938id_/http%3A//logofury.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Logo Ideas | Logo Design Gallery | LogoFury.com
 
