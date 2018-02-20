@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capy.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220211912id_/http%3A//www.capy.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capy.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220215318id_/https%3A//www.capy.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Capy Games
 
