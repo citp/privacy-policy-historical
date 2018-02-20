@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grin.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112233414id_/http%3A//www.grin.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grin.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220043736id_/http%3A//www.grin.com/en/privacy.html) for the most accurate reproduction.*
 
 # GRIN | Privacy
 
