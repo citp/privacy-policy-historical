@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwc.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025010705id_/https%3A//www.pwc.com/us/en/site/privacy.html%3Ficid%3Dpwcus_home-new_footer_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwc.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220193158id_/https%3A//www.pwc.com/us/en/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement: PwC
 
