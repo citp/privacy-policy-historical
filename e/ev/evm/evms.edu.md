@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221101423id_/https%3A//www.evms.edu/about_evms/leadership/general_counsel/legal_and_compliance/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220152935id_/https%3A//www.evms.edu/about_evms/leadership/general_counsel/legal_and_compliance/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eastern Virginia Medical School (EVMS), Norfolk, Hampton Roads
 
