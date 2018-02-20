@@ -1,33 +1,33 @@
-> *The following text is extracted and transformed from the mpgomatic.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpgomatic.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MPGomatic.com
 
 [MPGOMATIC -  
-The Gas Mileage Calculator](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/mileage_calculator.html)
+The Gas Mileage Calculator](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/mileage_calculator.html)
 
-[Best Gas Mileage Car](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/best_gas_mileage_car.html)
+[Best Gas Mileage Car](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/best_gas_mileage_car.html)
 
-[Best Gas Mileage SUV](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/best_gas_mileage_suv.html)
+[Best Gas Mileage SUV](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/best_gas_mileage_suv.html)
 
-[Best Gas Mileage Van](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/best_gas_mileage_van.html)
+[Best Gas Mileage Van](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/best_gas_mileage_van.html)
 
-[Best Gas Mileage Truck](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/best_gas_mileage_truck.html)
+[Best Gas Mileage Truck](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/best_gas_mileage_truck.html)
 
 Manufacturers
 
-[](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/ford_mileage.html)[Ford](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/ford_mileage.html)
+[](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/ford_mileage.html)[Ford](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/ford_mileage.html)
 
-[](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/honda_mileage.html)[Honda](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/honda_mileage.html)
+[](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/honda_mileage.html)[Honda](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/honda_mileage.html)
 
-[](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/mercedes_mileage.html)[Mercedes](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/mercedes_mileage.html)
+[](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/mercedes_mileage.html)[Mercedes](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/mercedes_mileage.html)
 
-[](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/nissan_mileage.html)[Nissan](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/nissan_mileage.html)
+[](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/nissan_mileage.html)[Nissan](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/nissan_mileage.html)
 
-[](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/mini_cooper_mileage.html)[Mini Cooper](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/mini_cooper_mileage.html)
+[](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/mini_cooper_mileage.html)[Mini Cooper](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/mini_cooper_mileage.html)
 
-[](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/toyota_mileage.html)[Toyota](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/toyota_mileage.html)
+[](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/toyota_mileage.html)[Toyota](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/toyota_mileage.html)
 
-[Volkswagen](https://web.archive.org/web/20171221182140id_/http%3A//www.mpgomatic.com/Volkswagen_mileage.html)
+[Volkswagen](https://web.archive.org/web/20180220212809id_/http%3A//www.mpgomatic.com/Volkswagen_mileage.html)
 
 | 
 
