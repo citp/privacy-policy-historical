@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visitphilly.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124091858id_/http%3A//www.visitphilly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitphilly.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220162820id_/https%3A//www.visitphilly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Visit Philadelphia — visitphilly.com
 
-_Updated August 1, 2016_
+_Updated May 30, 2017_
 
 **Visit Philadelphia® Privacy Policy**
 
@@ -42,7 +42,7 @@ Users are given the choice to opt-out of certain optional communications from us
 
 **5\. Sharing, Selling and Trading Aggregate Data Collected Online With Third Parties**
 
-VISIT PHILADELPHIA takes the privacy of our Users very seriously. We do not sell, rent or otherwise provide your Personal Data to third parties for marketing purposes without your prior consent. We may however sell, share or trade Aggregate Data to third parties.
+VISIT PHILADELPHIA takes the privacy of our Users very seriously. To improve User experience, VISIT PHILADELPHIA may share your Personal Data with third parties to provide targeted marketing by VISIT PHILADELPHIA to you. However, we do not sell, rent or otherwise provide your Personal Data to third parties for marketing purposes without your prior consent. We may however sell, share or trade Aggregate Data to third parties.
 
 **Notice to California Residents: Your California Privacy Rights**
 
