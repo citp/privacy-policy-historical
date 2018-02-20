@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the playkardo.tv privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001141128id_/http%3A//www.playkardo.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playkardo.tv privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220142047id_/http%3A//www.playkardo.cc/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PlayKardo.Tv
+# Privacy Policy - PlayKardo.Cc
 
   
 
 
-  * [Home](http://www.playkardo.tv/)
+  * [Home](http://www.playkardo.cc/)
   * Privacy Policy
 
 
 
 ## Privacy Policy
 
-PlayKardo cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at PlayKardo.tv you are accepting the practices outlined in this Privacy Policy.
+PlayKardo cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By registering to and creating account at Playkardo.Cc you are accepting the practices outlined in this Privacy Policy.
 
   * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
   * We use cookies with minimal information in them.
