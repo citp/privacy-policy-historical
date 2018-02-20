@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fabricwholesaledirect.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406062936id_/http%3A//www.fabricwholesaledirect.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabricwholesaledirect.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220043240id_/https%3A//www.fabricwholesaledirect.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Fabric Wholesale Direct
+# Privacy Policy - Fabric Wholesale Direct
 
 Fabric Wholesale Direct respects privacy.
 
 ## What information do we collect?
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or info@fabricwholesaledirect.com When ordering or registering on   our    site,   as   appropriate,   you   may   be   asked   to   enter   your    name,   e-mail   address,   mailing   address,   phone   number,   credit    card   information    or info@fabricwholesaledirect.com
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or info@fabricwholesaledirect.com When ordering or registering on   our    site,   as   appropriate,   you   may   be   asked   to   enter   your    name,   e-mail   address,   mailing   address,   phone   number,   and   credit    card   information.
 
 ## What do we use your information for?
 
