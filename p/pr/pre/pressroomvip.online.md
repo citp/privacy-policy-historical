@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressroomvip.online privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221232921id_/http%3A//pressroomvip.online/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressroomvip.online privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220191643id_/http%3A//pressroomvip.online/index.php/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - HOT NEWS
 
