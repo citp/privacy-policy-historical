@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211005504id_/http%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadafreepress.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220191028id_/http%3A//canadafreepress.com/privacy.htm) for the most accurate reproduction.*
 
 # CFP Privacy Statement
+
+  
+
+
+* * *
+
+[
+
+#### Subscribe to Canada Free Press for FREE
+
+](http://www.subscribepage.com/g4c3q7)
 
 Canada Free Press Privacy Policies
 
