@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricpick.in privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219045233id_/http%3A//cricpick.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricpick.in privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220164521id_/https%3A//cricpick.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Today Match Predictions, Dream11 Teams and Free Betting Tips
 
