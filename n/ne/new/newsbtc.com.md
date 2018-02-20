@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newsbtc.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121174809id_/http%3A//www.newsbtc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbtc.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220212519id_/https%3A//www.newsbtc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NEWSBTC
+# Privacy Policy | NewsBTC
 
-newsBTC may gather some personal information from you when you visit our website. This information is kept confidential and only used to monitor website traffic and analyze usage.
+NewsBTC may gather some personal information from you when you visit our website. This information is kept confidential and only used to monitor website traffic and analyze usage.
 
 What’s collected when you visit newsBTC is essentially the same as it would be for all websites that monitor their own analytics. Your IP address, geographical location, language, and so forth. newsBTC utilizes Google Analytics to monitor traffic and pages of interest.
 
