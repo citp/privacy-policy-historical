@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225202206id_/https%3A//www.tomtop.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221060309id_/https%3A//www.tomtop.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -Tomtop.com
 
