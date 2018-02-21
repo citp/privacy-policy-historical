@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontopearson.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003052258id_/https%3A//torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontopearson.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221191559id_/https%3A//www.torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
