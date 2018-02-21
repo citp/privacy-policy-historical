@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patriziapepe.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403105703id_/http%3A//www.patriziapepe.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriziapepe.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221151247id_/https%3A//www.patriziapepe.com/pages/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Patrizia Pepe - Official Website
+# Privacy Policy - Patrizia Pepe - Official Website
 
 **Privacy Policy**
 
@@ -94,11 +94,13 @@ As a general rule, data is processed for the supply of the following services av
 
 4\. payment management, including anti fraud checks in the case of credit card payment; in this case, data provided during the purchase process (first name, last name, address, credit card number, delivery address if different to the invoice address) will be sent directly to the banking system which will use the data for verification purposes;
 
-5\. management of your requests: technical, sales related, on the progress of your orders and general information requests; 
+5\. anti-fraud control; pursuant to Chapter IV, article 25, paragraph 6 “Transfer of personal data to Third Countries” of Directive 95/46/EC, data may be transferred to countries outside the EU or the European Economic Area that guarantee adequate levels of personal data protection. In any case, processing will be carried out according to the procedures set forth in this statement and the provisions of the law; 
 
-6\. making contact with representatives of our departments (Press Relations, Business Development, Web Marketing, Procurement, Customer Services); 
+6\. management of your requests: technical, sales related, on the progress of your orders and general information requests; 
 
-7\. applications to join our staff, by sending a CV.
+7\. making contact with representatives of our departments (Press Relations, Business Development, Web Marketing, Procurement, Customer Services); 
+
+8\. applications to join our staff, by sending a CV.
 
 In processing data that may, directly or indirectly, identify you, we will endeavour to observe the principle of strict necessity. 
 
