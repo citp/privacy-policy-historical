@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controversialtimes.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606130813id_/http%3A//controversialtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controversialtimes.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221230954id_/http%3A//controversialtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Usage | Controversial Times
 
