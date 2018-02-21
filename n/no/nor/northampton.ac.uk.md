@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219034002id_/http%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northampton.ac.uk privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221010703id_/https%3A//www.northampton.ac.uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The University of Northampton
 
@@ -6,7 +6,7 @@
 
 This policy explains what types of personal information will be gathered when you visit the University of Northampton’s website, and how this information will be used. Please note that this policy applies to the University’s main web pages (i.e. those in www.northampton.ac.uk).
 
-Colleges, divisions, faculties, departments, schools, institutes, academic services, libraries and collections of the University may run and maintain their own websites on the northampton.ac.uk domain (these will be identified as www.name.northampton.ac.uk or name.northampton.ac.uk). These sites may carry their own privacy policy or provide additional information relating to their activities, which will supersede or supplement this Privacy Policy.
+Colleges, divisions, faculties, departments, institutes, academic services, libraries and collections of the University may run and maintain their own websites on the northampton.ac.uk domain (these will be identified as www.name.northampton.ac.uk or name.northampton.ac.uk). These sites may carry their own privacy policy or provide additional information relating to their activities, which will supersede or supplement this Privacy Policy.
 
 If you follow a link to any other website, please check their policies before you submit any personal information to those websites.
 
@@ -32,7 +32,7 @@ We may disclose your personal information to third parties if we are under a dut
 
 Most of our web pages use “cookies”. A cookie is a small file of letters and numbers that we place on your computer or mobile device if you agree. These cookies allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allow us to improve our website.
 
-For more detailed information on the cookies we use on the University’s main web pages (i.e. those in www.northampton.ac.uk) and the purposes for which we use them, please see our Cookie Statement. Please refer to individual web pages for further information about the use of cookies on other web pages on the northampton.ac.uk domain.
+For more detailed information on the cookies we use on the University’s main web pages (i.e. those in www.northampton.ac.uk) and the purposes for which we use them, please see our [Cookie Statement](http://www.northampton.ac.uk/about-us/privacy-policy/use-of-cookies/). Please refer to individual web pages for further information about the use of cookies on other web pages on the northampton.ac.uk domain.
 
 ## Access to information
 
