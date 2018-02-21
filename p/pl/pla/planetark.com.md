@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetark.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221184940id_/http%3A//planetark.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetark.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221091357id_/http%3A//planetark.org/privacy.cfm) for the most accurate reproduction.*
 
 # Planet Ark Environmental Foundation Privacy Policy
 
