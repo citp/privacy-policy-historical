@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008094821id_/http%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221022904id_/https%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | OnTheBox
 
@@ -8,8 +8,8 @@ Skip to content __Menu
 
 What's on TV tonight - TV guide - TV listings - Entertainment news online
 
-  * [Home](http://www.onthebox.com/)
-  * [Privacy Policy](http://www.onthebox.com/privacy-policy/)
+  * [Home](https://www.onthebox.com/)
+  * [Privacy Policy](https://www.onthebox.com/privacy-policy/)
 
 
 
@@ -135,4 +135,4 @@ Tel: (020) 7034 1900
 
 Privacy policy | OnTheBox
 
-We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok[Read more](http://www.onthebox.com/privacy-policy/)
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok[Read more](https://www.onthebox.com/privacy-policy/)
