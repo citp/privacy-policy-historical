@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbirds.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007155251id_/https%3A//www.allbirds.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbirds.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221074116id_/https%3A//www.allbirds.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Allbirds
 
