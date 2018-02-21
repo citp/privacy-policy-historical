@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116125703id_/https%3A//www.theoutnet.com/en-us/page/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoutnet.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221111350id_/https%3A//www.theoutnet.com/en-us/page/help/privacy-policy) for the most accurate reproduction.*
 
 # THE OUTNET | Privacy policy
 
 ## PRIVACY POLICY
 
-This website is owned and run by THE NET-A-PORTER GROUP LIMITED ("we", "our", "us"), part of YOOX NET-A-PORTER GROUP. If we use the term "our Group", this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term "our online services" refers to NET-A-PORTER, MR PORTER, THE OUTNET, The NET SET, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term "our services" refers to our online services and any of our other products and services, such as PORTER magazine, offered from time to time. If you use any of our services, we will refer to you using the terms "user", "visitor", "you", "your", "yours" in this policy.
+This website is owned and run by THE NET-A-PORTER GROUP LIMITED ("we", "our", "us"), part of YOOX NET-A-PORTER GROUP. If we use the term "our Group", this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term "our online services" refers to NET-A-PORTER, MR PORTER, THE OUTNET, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term "our services" refers to our online services and any of our other products and services, such as PORTER magazine, offered from time to time. If you use any of our services, we will refer to you using the terms "user", "visitor", "you", "your", "yours" in this policy.
 
 We respect the privacy rights of our visitors and recognise the importance of protecting the information collected about them. This privacy policy is about how we collect, store, and use the personal information that you provide to us. As part of our commitment to your privacy rights and security, our websites have been certified by Cybertrust.
 
@@ -70,13 +70,13 @@ We may also use your personal information to send you marketing updates, as deta
  **Comments and reviews submitted to our online services:** If you wish to submit a comment or feedback on a blog or article featured on our services, we may (but are not obliged to) publish your comment online or offline to promote our business and our services. We will collect your name or username which will be displayed next to your comment, and e-mail address, which will not be published, but which we may use to contact you in relation to your comment.
 
   
- **Mobile services:** When you request our mobile services, we may keep your mobile phone number, the make and model of your phone, the operating system used by your phone and details of your network operator, and we will link a unique identifier to your mobile phone number. We'll store your device language, app language, country, We need this information in order to provide the features and services enabled through our mobile services and to administer the our mobile service? Our Givenchy mobile services use your location to show your closest Givenchy store. We may also use it for SMS or voice marketing and market research.
+ **Mobile services:** When you request our mobile services, we may keep your mobile phone number, the make and model of your phone, the operating system used by your phone and details of your network operator, and we will link a unique identifier to your mobile phone number. We'll store your device language, app language and country. We need this information in order to provide the features and services enabled through our mobile services and to administer the our mobile service.
 
   
  **Social networks:** If you follow us or interact with us on any of our pages on third party social media platforms, such as Instagram, Facebook, Twitter, Pinterest and Google+, information you provide will be subject to the third party's privacy policy, as well as this privacy policy.
 
   
- **Direct marketing:** For information on how we may market to you?, please read the section called "marketing opt-in and opt-out provisions".
+ **Direct marketing:** For information on how we may market to you, please read the section called "marketing opt-in and opt-out provisions".
 
   
  **Customer surveys:** Every now and again, we may ask you for your opinion on our services and the products you have purchased through our services. When we do research or surveys, we may use cookies and may combine the information collected by those cookies with your answers.  
