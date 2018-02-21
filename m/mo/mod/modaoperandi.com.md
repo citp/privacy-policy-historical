@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310175238id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2018-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180221110242id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Moda Operandi
 
