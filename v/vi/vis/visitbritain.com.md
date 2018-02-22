@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitbritain.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206165358id_/https%3A//www.visitbritain.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitbritain.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222040145id_/https%3A//www.visitbritain.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VisitBritain
 
