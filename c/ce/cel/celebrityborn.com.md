@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrityborn.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218153047id_/http%3A//www.celebrityborn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityborn.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222153056id_/https%3A//www.celebrityborn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Serves to Build and Multiply Trust
 
