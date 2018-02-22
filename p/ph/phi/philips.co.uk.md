@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726012059id_/https%3A//www.philips.co.uk/a-w/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philips.co.uk privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222145728id_/https%3A//www.philips.co.uk/a-w/privacy-notice.html) for the most accurate reproduction.*
 
 # Privacy notice | Philips
 
