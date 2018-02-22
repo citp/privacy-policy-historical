@@ -1,116 +1,81 @@
-> *The following text is extracted and transformed from the crayon.co privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111073931id_/https%3A//www.crayon.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crayon.co privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222115456id_/https%3A//www.crayon.co/privacy) for the most accurate reproduction.*
 
-# Crayon | Privacy Policy
+# Crayon Privacy Policy
 
-Last updated July 3, 2015
+##### Last Updated: June 1, 2017
 
-* * *
+Crayon, Inc. (" ** _Crayon_** ") provides services (the " ** _Services_** ") that analyze and aggregate publicly available data and other third party information and materials about certain companies that you wish to monitor (“ ** _Targets_** _”)_ and provides you with strategic insights. This Privacy Policy describes how Crayon collects, uses, stores, and protects information from you and applies to information we collect when you use our Services
 
-## Introduction
+We may periodically post changes to this Privacy Policy on this page by revising the date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-Thanks for using http://www.Crayon.co/ (the "Site"). Crayon is owned, built & operated by [M80 Labs](http://www.m80labs.com/ "M80 Labs"). At M80 Labs Inc. ("M80 Labs"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our website, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy.
+**Collection of Information**
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. We also encourage you to check back, from to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy.
+**Information You Provide to Us**. We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services (e.g. posting, sharing, sending and receiving comments through the Services), fill out a form, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include (a) basic user information such as your name, email address, postal address, phone number, username and password, (b) financial information to process your payment for the Services (if applicable) such as your credit card information, bank account information and billing address (although note that we do not store full credit card numbers as all payment transactions are processed by our third party payment processors), and (c) any other information you choose to provide such as any comments and other content that you post, share, send or receive through the Services (“ ** _User Generated Content_** ”).
 
-## Information provided by you
+**Information We Collect Automatically When You Use the Services**. When you access or use our Services, we automatically collect information about you, including:
 
-You may provide us with certain personally identifiable information when you:
-
-  * register for an account;
-  * order products or gift certificates;
-  * request customer support or send us any other communication;
-  * sign up for newsletters, email alerts, and special offers;
-  * enter sweepstakes or contests;
-  * sign up for, or redeem, special offers;
-  * respond to surveys;
-  * use our share or Email-to-a-Friend or Refer-A-Friend features, or similar features; and
-  * approve your child's request to open a Crayon account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA). 
+  * **Log Information:** We collect log information about your use of the Services, including information about the computer you use to access our Services, hardware model, operating system and version, the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Location Information:** We may collect information about the location of your computer or when you otherwise consent to the collection of this information in order to tailor your experience with the Services based on location.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We and our service providers use various technologies to collect information, including cookies and pixel tags (or web beacons). Cookies are small data files stored on your hard drive or in device memory. Cookies allow our Services to recognize your browser or device, track your usage each time you each visit, help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Pixel tags, which are small blocks of code often used in connection with cookies. Pixel tags may be placed on our websites and emails, and allow us to track website usage, including to determine when emails have been opened and acted upon, help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
 
 
-Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Site or our promotions.
+**Information We Collect From Other Sources** ** **
 
-## Information collected by Cookies
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers and publicly available sources. If you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
 
-M80 Labs uses cookies on the Site to improve the quality of our site and services to you. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. M80 Labs' cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always delete the cookies and reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Site features and functionality may not be available to you and you may not be able to take advantage of all the features on the Site.
+**Use of Information**
 
-M80 Labs collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us.
+We may use information about you for various purposes, including to:
 
-## Information collected through comments or reviews
-
-You may choose to submit a comment or review. If you post such information, we may ask for certain information to validate your review such as email address, photo, and your city/state/country of residence. If you submit a review or comment, we may publish your geographic location or other anonymous information but your email address will be kept private. Additionally, any personally identifiable information that you submit as part of the review or comment can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review or comment. We believe you can post a helpful review or comment without disclosing any personal information.
-
-## How do we secure your information?
-
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your M80 Labs account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer.
-
-We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this Privacy Policy and you consent to the transfer of all information you provide to us in the United States.
-
-You may also choose not to provide us with certain information, but that may result in you being unable to use certain features of our website.
-
-We work very hard to protect your privacy, but we do not promise, and you should not expect, that your personal information or private communications will always remain private. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security.
-
-## How do we use your information?
-
-We use the personally identifiable information you provide to:
-
-  * provide the features and functionality of the Site;
-  * fulfill your requests for our products and services;
-  * communicate with you about the status of your orders and other inquiries about our products and services; 
-  * send you information about our products and services;
-  * for our internal business purposes, such as data analysis, audits and so forth;
-  * help us create content that is most relevant to you; and
-  * provide notices about the results of sweepstakes, contest, and other promotions.
+  * Provide, maintain and improve our Services (including permitting you to analyze your Targets and post, share, send or receive User Generated Content through the Services);
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices,
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Crayon and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Crayon and others;
+  * Personalize and improve the Services and provide content or features that match user profiles or interests;
+  * Link or combine with information we get from others (including from the public Internet) to provide you the Services, help understand your needs and provide you with a better experience with our Services; and
+  * Carry out any other purpose for which the information was collected.
 
 
 
-We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails by contacting M80 Labs support.
+Sharing of Information
 
-When you purchase products from Crayon, we may use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time whether or not you created an account with us. You may unsubscribe or change the frequency of email notifications by emailing M80 Labs support. If you email a product or design to a friend or refer a friend to the Site or our promotions, we will use your friend's email to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-We use non-personally identifiable information to monitor the use and performance of the Site so that we can learn more about how people use the Site which helps us improve our products and services and significantly enhance your experience on our website.
-
-## Does M80 Labs disclose the information it collects to outside parties?
-
-Generally, M80 Labs does not share personal information about you with other people or nonaffiliated companies without your consent except that:
-
-M80 Labs provides information to its agents and trusted service providers and contractors for limited purposes, such as fulfilling customer orders and processing credit card transactions; offering certain products and services; communicating with customers; providing customer service; managing information on our behalf; and enhancing the Site features and functionality. In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our Privacy Policy.
-
-If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties.
-
-M80 Labs may release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to:
-
-  * comply with law;
-  * comply with subpoenas, warrants, court orders, government investigations, or other legal process; 
-  * enforce or apply the terms of any of our user or license agreements;
-  * investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity 
-  * investigate fraud or similar claims;
-  * protect the rights, property or safety of Crayon, our users, or others.
-  * to protect our operations; or
-  * to permit us to pursue available remedies or limit the damages that we may sustain.
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Crayon or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among Crayon and its current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
 
 
 
-In the event that M80 Labs is acquired by, or merges with, another company M80 Labs reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger.
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you. 
 
-M80 Labs may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors.
+**Social Sharing Features**
 
-## Advertising
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features. 
 
-M80 Labs may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please contact us at privacy@m80labs.com.
+**Analytics Services Provided by Others**
 
-## Does this Privacy Policy apply when I access third party websites?
+We may allow others to provide analytics services on our behalf across the Internet and in applications (for example, we use Google Analytics and Google provides some additional privacy options described at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)). These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Crayon and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity. 
 
-You may be able to access third party websites directly from the Site. However, this Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use personal information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your personal information to its provider.
+**Security**
 
-## What about children's privacy?
+Crayon takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. 
 
-We respect children's privacy. We do not knowingly or intentionally collect personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
+**Your Choices**
 
-Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by M80 Labs to third parties without the parents' consent except as may be required by law or upon court order. Personal information at M80 Labs is kept confidential and is disclosed only with the consent of the M80 Labs user or as set forth in this Privacy Policy. We do not engage in the selling of information regarding the habits, behavior, buying patterns, or demographic information of our users. M80 Labs does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity. Parents can review any information M80 Labs has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from M80 Labs' records or to forbid any use of such information, you may send a request to M80 Labs Customer Support. Contact us by sending an email with 'Parental Notification' in the subject line.
+**Account Information**. You may update, correct or delete information about you at any time by logging into your online account, emailing us at support@crayon.co or contacting our support team at support@crayon.co. If you wish to delete or deactivate your account, please email our support team at support@crayon.co, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-If you have any questions about what information is stored or would like to obtain a copy of such information, or if you would like to change any of such information, please contact us at privacy@m80labs.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+**Cookies**. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
-Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+**Promotional Communications**. You may opt out of receiving promotional emails from Crayon by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
-The current version of the M80 Labs Privacy Policy was adopted effective as of February 5, 2014.
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at: [support@crayon.co](mailto:support@crayon.co) or Crayon, Inc., 108 Lincoln Street, Suite BA, Boston, MA 02111.
