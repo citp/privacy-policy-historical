@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blavity.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902084234id_/http%3A//blavity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blavity.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222190534id_/https%3A//blavity.com/privacy) for the most accurate reproduction.*
 
-# Bulletin | BLAVITY
+# The Community for Black Creativity and News | BLAVITY
 
 ## Privacy
 
