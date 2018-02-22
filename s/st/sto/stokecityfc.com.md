@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stokecityfc.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224014541id_/http%3A//www.stokecityfc.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stokecityfc.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222051218id_/https%3A//www.stokecityfc.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy Policy | Stoke City FC
 
