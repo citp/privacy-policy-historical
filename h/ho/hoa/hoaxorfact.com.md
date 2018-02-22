@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoaxorfact.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224054747id_/http%3A//www.hoaxorfact.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoaxorfact.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222223205id_/https%3A//www.hoaxorfact.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hoax Or Fact
 
@@ -10,7 +10,7 @@
   * You can sign into your account to see or delete any personally identifiable information we have stored, such as your name, address, email or phone number. You can also contact us by email to request to see or delete this information.
   * We remove personally identifiable information (such as your name, address, email or phone number) and other preferences associated with your account promptly after you delete your account. We may retain other data indefinitely.
   * We may share personally identifiable information (such as name, address, email or phone) with trusted partners in order to provide you with relevant advertising, offers or services.
-  * California residents are legally entitled (at no charge and no more than once annually) to request information about how we may have shared your information with others for direct marketing purposes. Contact us for this information:[Contact US](https://web.archive.org/web/20171224054747id_/http%3A//www.hoaxorfact.com/policies/Admin.html) OR eMail us at siddhartha[at]hoaxorfact.com
+  * California residents are legally entitled (at no charge and no more than once annually) to request information about how we may have shared your information with others for direct marketing purposes. Contact us for this information:[Contact US](https://web.archive.org/web/20180222223205id_/https%3A//www.hoaxorfact.com/policies/Admin.html) OR eMail us at siddhartha[at]hoaxorfact.com
   * Ad companies may use and collect anonymous data about your interests to customize content and advertising here and in other sites and applications. Interest and location data may be linked to your device, but is not linked to your identity. Click to see company privacy policies and opt-out choices:
   * Analytics companies may access anonymous data (such as your IP address or device ID) to help us understand how our services are used. They use this data solely on our behalf. They do not share it except in aggregate form; no data is shared as to any individual user. Click to see company privacy policies that govern their use of data.
 
@@ -21,7 +21,7 @@
   * This privacy policy was last updated on 19 March 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text.
 
 
-  * If you have any questions or concerns about our privacy policies, please [contact us ](https://web.archive.org/web/20171224054747id_/http%3A//www.hoaxorfact.com/policies/Admin.html)OR send eMail siddhartha[at]hoaxorfact.com
+  * If you have any questions or concerns about our privacy policies, please [contact us ](https://web.archive.org/web/20180222223205id_/https%3A//www.hoaxorfact.com/policies/Admin.html)OR send eMail siddhartha[at]hoaxorfact.com
 
 
 
@@ -29,52 +29,23 @@
 
 ### You may also like
 
-[ ](http://www.hoaxorfact.com/health/simple-cancer-cure-found-in-canada-big-pharma-not-interested-fact-check.html "Simple Cancer Cure found in Canada, Big Pharma Not Interested: Fact Check")
+  * [
 
-__18 __0
+](http://www.hoaxorfact.com/technology/reliance-jio-launched-jiocoin-app-cryptocurrency.html "Reliance Jio Launched JioCoin and App of Cryptocurrency: Fact Check")
 
-[ ](http://www.hoaxorfact.com/paranormal/alien-fish-found-vizag-beach.html "Strange Alien Fish Found in Vizag Beach: Fact Check")
+__161 __76
 
-__78 __0
+  * [
 
-[ ](http://www.hoaxorfact.com/paranormal/natasha-demkina-russian-girl-x-ray-eyes.html "Natasha Demkina, the Russian Girl with X-ray Eyes: Fact Check")
+](http://www.hoaxorfact.com/celebrities/sylvester-stallone-dies-battling-cancer.html "Sylvester Stallone Dies Battling Cancer: Fact Check")
 
-__49 __0
+__217 __60
 
-[ ](http://www.hoaxorfact.com/science/dinosaur-skeleton-found-uttarakhand.html "Partially Preserved Dinosaur Skeleton Found in Uttarakhand: Fact Check")
+  * [
 
-__79 __0
+](http://www.hoaxorfact.com/crime/dog-meat-sale-allowed-los-angeles-restaurant-fact-check.html "Dog Meat Sale Allowed in Los Angeles Restaurant: Fact Check")
 
-[ ](http://www.hoaxorfact.com/paranormal/babu-kalayil-prediction-earthquakes.html "Babu Kalayil Prediction: Major Earth Changes Wipe Out Asia Before 31st December 2017")
+__237 __68
 
-__181 __0
 
-[ ](http://www.hoaxorfact.com/history/ram-setu-man-made-or-natural-bridge-fact-check.html "Ram Setu Man-Made or Natural Bridge: Fact Check")
 
-__108 __0
-
-## DON'T MISS
-
-[ ](http://www.hoaxorfact.com/health/simple-cancer-cure-found-in-canada-big-pharma-not-interested-fact-check.html "Simple Cancer Cure found in Canada, Big Pharma Not Interested: Fact Check")
-
-__18 __0
-
-[ ](http://www.hoaxorfact.com/paranormal/alien-fish-found-vizag-beach.html "Strange Alien Fish Found in Vizag Beach: Fact Check")
-
-__78 __0
-
-[ ](http://www.hoaxorfact.com/paranormal/natasha-demkina-russian-girl-x-ray-eyes.html "Natasha Demkina, the Russian Girl with X-ray Eyes: Fact Check")
-
-__49 __0
-
-[ ](http://www.hoaxorfact.com/science/dinosaur-skeleton-found-uttarakhand.html "Partially Preserved Dinosaur Skeleton Found in Uttarakhand: Fact Check")
-
-__79 __0
-
-[ ](http://www.hoaxorfact.com/paranormal/babu-kalayil-prediction-earthquakes.html "Babu Kalayil Prediction: Major Earth Changes Wipe Out Asia Before 31st December 2017")
-
-__181 __0
-
-[ ](http://www.hoaxorfact.com/history/ram-setu-man-made-or-natural-bridge-fact-check.html "Ram Setu Man-Made or Natural Bridge: Fact Check")
-
-__108 __0
