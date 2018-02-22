@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orderup.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222233113id_/http%3A//policies.orderup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orderup.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222234200id_/http%3A//policies.orderup.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,7 +102,7 @@ We also may use information collected as described in this Privacy Statement wit
 
 Groupon uses your geolocation, including your precise geolocation, consistent with this Privacy Statement as described in Section 5 below to deliver location-based offers, products or services that may be of interest to you. 
 
-If you use any features on the Site to send information about a product or service to another person (e.g., a friend, a colleague, a professional associate, etc.), we will also collect the [Personal Information](https://web.archive.org/web/20171222233113id_/http%3A//policies.orderup.com/personal_information) of that other person to the extent disclosed by you and may contact them using the information you provided us.
+If you use any features on the Site to send information about a product or service to another person (e.g., a friend, a colleague, a professional associate, etc.), we will also collect the [Personal Information](https://web.archive.org/web/20180222234200id_/http%3A//policies.orderup.com/personal_information) of that other person to the extent disclosed by you and may contact them using the information you provided us.
 
 ## 4\. When and Why Groupon Discloses Information
 
