@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610222207id_/https%3A//www.32red.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32vegas.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222030105id_/https%3A//www.32red.com/privacy-policy) for the most accurate reproduction.*
 
 # 32Red Online Casino's Privacy Policy - 32Red Online Casino
 
 A bit of privacy is always good – especially when we’re getting dressed in the morning or singing in the shower. For your protection, 32Red has pulled together this handy privacy policy so you can know how we collect and store your information.
 
-First of all you should know that this website (the 'Site') is operated by and information collected from this Site is collected by 32Red Plc, a British company incorporated and based in Gibraltar (company registration no. 83626) ('32Red', 'us' or 'we').
+First of all you should know that this website (the 'Site') is operated by and information collected from this Site is collected by 32Red Ltd, a British company incorporated and based in Gibraltar (company registration no. 83626) ('32Red', 'us' or 'we').
 
 32Red respects the privacy of its online visitors and users of the Site. 32Red recognises the importance of protecting certain information collected from users and has adopted this Privacy Policy to explain how 32Red gathers, stores, and uses information provided by users through the Sites as described below.
 
@@ -80,6 +80,6 @@ Corrections, Updates and Removal of Information If you are concerned with the ac
 
 Last updated 26th April 2017
 
-32Red Plc is licensed by the Government of Gibraltar (Licence No.019) and regulated by the Gibraltar Gambling Commissioner.
+32Red Ltd is licensed by the Government of Gibraltar (Licence No.019) and regulated by the Gibraltar Gambling Commissioner.
 
-Our services in the UK are licensed and regulated by the UK Gambling Commission (Licence No: 000-039430-R-319293-004) 32Red Plc., 741 Europort, Gibraltar
+Our services in the UK are licensed and regulated by the UK Gambling Commission (Licence No: 000-039430-R-319293-004) 32Red Ltd., 741 Europort, Gibraltar
