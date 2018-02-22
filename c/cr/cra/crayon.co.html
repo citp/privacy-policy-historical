@@ -1,524 +1,530 @@
-<!--The following is the downloaded HTML source of the crayon.co privacy policy that was archived on 2017-01-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170111073931id_/https%3A//www.crayon.co/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crayon.co privacy policy that was archived on 2018-02-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180222115456id_/https%3A//www.crayon.co/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="EN" class=""><head>
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://www.fullstory.com/s/fs.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580433000000/2461061.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAHUlFVGwYGXVFTBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","beacon":"bam.nr-data.net","applicationID":"5690126","applicationTime":12,"queueTime":0,"transactionName":"MVZaZ0RZX0QAUxcNDAgcfkZYW0VeDl5MBxFIRlEdQFFUQBIKExYKEFJbSg==","agent":"","licenseKey":"548068dfca"}</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    
-    <title>Crayon | Privacy Policy</title>
-
-    
-<meta name="description" content="The Crayon Privacy Policy.">
-
-
-    
-        <meta property="og:title" content="Track competitors | Insights &amp; market intelligence for the world's best marketers. | Crayon">
-    
-    
-        <meta property="og:description" content="Crayon is insights &amp; market intelligence for the world's best marketers.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Crayon">
+    <meta name="description" content="Crayon is committed to protecting the privacy of our users.">
+    <meta name="generator" content="HubSpot">
+    <title>Crayon Privacy Policy</title>
+    <link rel="shortcut icon" href="https://www.crayon.co/hubfs/Crayon_Mar2017/Layout/favicon-194x194.c2b53de1897d.png?t=1519096249254">
     
 
-    
-        
-            <meta property="og:image" content="https://d1shm7nvjae321.cloudfront.net/static/img/square-icons/letters/crayon-letters/black-bg-white-c.bce94e915d68.png">
-        
-    
-
-    
-    
-
-    <meta property="og:site_name" content="Crayon">
-    <meta property="og:type" content="product">
-
-    
-    <meta property="og:url" content="https://www.crayon.co/privacy/">
-    
-
-    <link rel="apple-touch-icon" sizes="57x57" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-57x57.73f58ab5422d.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-60x60.b4ac848f21a9.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-72x72.51b5362cbba9.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-76x76.2dbe98d81d6b.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-114x114.469d212d6cbb.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-120x120.e6d84f46cb31.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-144x144.a75d7c5f0343.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-152x152.3d9abdea815b.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/apple-touch-icon-180x180.7717ebbcea23.png">
-    <link rel="icon" type="image/png" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/favicon-32x32.7f28737ac313.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/favicon-194x194.c2b53de1897d.png" sizes="194x194">
-    <link rel="icon" type="image/png" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/favicon-96x96.fc34722f4e38.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/android-chrome-192x192.8b7703d9152e.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/favicon-16x16.444919b3019b.png" sizes="16x16">
-    <link rel="manifest" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/manifest.f42b0ee47098.json">
-    <link rel="mask-icon" href="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/safari-pinned-tab.7e420b4944b0.svg" color="#ffffff">
-    <meta name="apple-mobile-web-app-title" content="Crayon">
-    <meta name="application-name" content="Crayon">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-TileImage" content="https://d1shm7nvjae321.cloudfront.net/static/images/favicons/mstile-144x144.03ceb21726f2.png">
-    <meta name="theme-color" content="#ffffff">
+    <script async="" src="https://www.fullstory.com/s/fs.js"></script><script type="text/javascript" async="" src="https://js.driftt.com/include/1580433000000/gyf6vz2fvvaw.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://static.hsstatic.net/jquery-libs/static-1.4/jquery/jquery-1.11.2.js"></script>
+    <script type="text/javascript">hsjQuery = window['jQuery']</script>
+    <link href="https://static.hsstatic.net/content_shared_assets/static-1.4049/css/public_common.css" rel="stylesheet">
+    <meta property="og:description" content="Crayon is committed to protecting the privacy of our users.">
+    <meta property="og:title" content="Crayon Privacy Policy">
+    <meta name="twitter:description" content="Crayon is committed to protecting the privacy of our users.">
+    <meta name="twitter:title" content="Crayon Privacy Policy">
 
 
     
     
 
     
-    
+<!--  Added by GoogleAnalytics integration -->
 
-    
-    <link rel="stylesheet" href="https://d1shm7nvjae321.cloudfront.net/static/styles/main.01c12047f868.css">
-
-    <script>document.createElement("picture");</script>
-
-    
-    <script src="https://d1shm7nvjae321.cloudfront.net/static/js/vendor.b7f5e982659b.js"></script>
-
-    <script type="text/javascript">
-        window.onerror = function (message, url, line, column, error) {
-            column = column || '';
-            error = error || {};
-
-            var data = {}, data_values = {
-                message: message,
-                url: url,
-                line: line,
-                column: column,
-                error: error,
-                location: window.location.href
-            };
-
-            for (var key in data_values) {
-                if (data_values.hasOwnProperty(key)) {
-                    try {
-                        data[key] = JSON.stringify(data_values[key])
-                    } catch (e) {
-                        data[key] = 'stringify error'
-                    }
-                }
-            }
-
-            $.ajax({
-                type: 'POST',
-                url: '/ajax/frontend-error/',
-                contentType: "application/json; charset=utf-8",
-                data: JSON.stringify(data)
-            });
-
-            return false;
-        };
-    </script>
-
-    <!-- Google Analytics -->
 <script>
-    var goog_analytics_account_id = 'UA-53166429-1';
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-53166429-1', 'auto');
-    
-    ga('send', 'pageview');
+  ga('create', 'UA-53166429-1', 'auto');
+  ga('send', 'pageview');
 </script>
 
-    
-        
-        <script type="text/javascript">
-            (function(d,s,i,r) {
-                if (d.getElementById(i)){return;}
-                var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
-                n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/2461061.js';
-                e.parentNode.insertBefore(n, e);
-            })(document,"script","hs-analytics",300000);
-        </script>
-        
-    
-    
-    <script>
-        window['_fs_debug'] = false;
-        window['_fs_host'] = 'www.fullstory.com';
-        window['_fs_org'] = 'S42K';
-        window['_fs_namespace'] = 'FS';
-        (function(m,n,e,t,l,o,g,y){
-          if (e in m && m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); return;}
-          g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
-          o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
-          y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
-          g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
-          g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
-          g.clearUserCookie=function(c,d,i){if(!c || document.cookie.match('fs_uid=[^;`]*`[^;`]*`[^;`]*`')){
-          d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
-          ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}};
-        })(window,document,window['_fs_namespace'],'script','user');
-    </script>
+<!-- /Added by GoogleAnalytics integration -->
 
     
-    
+    <link rel="canonical" href="https://www.crayon.co/privacy/">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--BEGIN: Bing Ads UET Javascript tag.-->
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5668523"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script><noscript>&lt;img  src="//bat.bing.com/action/0?ti=5668523&amp;amp;Ver=2" height="0" width="0" style="display:none; visibility: hidden;"&gt;</noscript>
+<!--END: Bing Ads UET Javascript tag.-->
+<!--BEGIN: LinkedIn Ads Javascript tag.-->
+<script type="text/javascript">
+_linkedin_data_partner_id = "82394";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<noscript>
+&lt;img  height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=82394&amp;amp;fmt=gif"&gt;
+</noscript>
+<!--END: LinkedIn Ads Javascript tag.-->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+ fbq('init', '616314365366774'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+ &lt;img  height="1" width="1" src="https://www.facebook.com/tr?id=616314365366774&amp;amp;ev=PageView
+&amp;amp;noscript=1"&gt;
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta property="og:url" content="https://www.crayon.co/privacy/">
+<link href="//cdn2.hubspot.net/hub/-1/hub_generated/template_assets/1495141902003/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
+
+
+<link rel="stylesheet" href="https://www.crayon.co/hs-fs/hub/2355195/hub_generated/template_assets/1518158525196/Custom/page/Soar_Theme/soar-style-1511879885975.min.css">
+
+
+
+
 </head>
+<body class="landing-page one-column   hs-content-id-5458252478 hs-site-page page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
 
-<body class="">
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:5453172724 path:generated_global_groups/5453172721.html -->
+<div class="" data-global-widget-path="generated_global_groups/5453172721.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_jinja " style="" data-widget-type="raw_jinja" data-x="0" data-w="12">
 
-    
-    
+</div><!--end widget-span -->
 
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="12">
 
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-logo logo" style="" data-widget-type="logo" data-x="0" data-w="3">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_logo" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="http://crayon.co" id="hs-link-logo" style="border-width:0px;border:0px;"><img src="https://www.crayon.co/hubfs/Crayon_Mar2017/Images/crayon-logo.61be3a424ee4.svg?t=1519096249254" class="hs-image-widget " style="width:317px;border-width:0px;border:0px;" width="317" alt="Crayon" title="Crayon"></a></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-menu custom-menu-primary" style="" data-widget-type="menu" data-x="3" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1489687359445450" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1489687359445450" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Crayon_Mar2017">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Products</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/about-intel">Intel Pro</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/about-intel-free/">Intel Free</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/about-inspire">Inspire</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Content</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/blog">Blog</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/case-studies">Case Studies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/resources/">Resources</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://app.crayon.co/blink/">Blink</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Company</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/about/">About Us</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/jobs/">Careers (We're Hiring!)</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.crayon.co/contact">Contact Us</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://app.crayon.co/signup/">Sign Up Free</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://app.crayon.co/login">Log In</a></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-rich_text headerCta" style="" data-widget-type="rich_text" data-x="9" data-w="3">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_151239355281382" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-0486ab8d-40eb-4375-9a35-25d9b97b6f45"><span class="hs-cta-node hs-cta-0486ab8d-40eb-4375-9a35-25d9b97b6f45" id="hs-cta-0486ab8d-40eb-4375-9a35-25d9b97b6f45"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/2355195/0486ab8d-40eb-4375-9a35-25d9b97b6f45"><img class="hs-cta-img" id="hs-cta-img-0486ab8d-40eb-4375-9a35-25d9b97b6f45" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/2355195/0486ab8d-40eb-4375-9a35-25d9b97b6f45.png" alt="Sign Up Free"></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(2355195, '0486ab8d-40eb-4375-9a35-25d9b97b6f45', {}); </script></span><!-- end HubSpot Call-to-Action Code --> <!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-55b80921-d0f0-4f64-ac17-af9973bdb3af"><span class="hs-cta-node hs-cta-55b80921-d0f0-4f64-ac17-af9973bdb3af" id="hs-cta-55b80921-d0f0-4f64-ac17-af9973bdb3af"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/2355195/55b80921-d0f0-4f64-ac17-af9973bdb3af"><img class="hs-cta-img" id="hs-cta-img-55b80921-d0f0-4f64-ac17-af9973bdb3af" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/2355195/55b80921-d0f0-4f64-ac17-af9973bdb3af.png" alt="Log In"></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(2355195, '55b80921-d0f0-4f64-ac17-af9973bdb3af', {}); </script></span><!-- end HubSpot Call-to-Action Code --></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:5453172724 path:generated_global_groups/5453172721.html -->
 
-<header class="SiteHeader Home-header">
-    <div class="Grid Grid--gutterHorizontalHalf Grid--center u-paddingSidesHalf">
-        <div class="Grid-item Grid-item--autoSize u-paddingLeftFlush">
-            <h1 class="SiteHeader-logo b2-u-marginBottomFlush">
-                <span class="u-visuallyHidden">Crayon</span>
-                <a href="/"><object type="image/svg+xml" style="width:12rem; height:2rem;" data="https://d1shm7nvjae321.cloudfront.net/static/svg/crayon-logo.61be3a424ee4.svg"></object></a>
-            </h1>
-        </div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+    </div><!--end header -->
+</div><!--end header wrapper -->
 
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
 
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_151204658691179" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center content-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
 
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell main-content" style="" data-widget-type="cell" data-x="0" data-w="12">
 
-        <div class="Grid-item u-textRight">&nbsp;</div>
-
-        <a href="/jobs/" class="u-marginRight">We're Hiring!</a>
-        <div class="Grid-item--autoSize u-marginHalf">
-        
-            <a href="/login/" class="Button Button--small Button--muted u-marginRight" data-modal-id="modal-sign-in">Log In</a>
-            <a href="/signup/" class="Button Button--small" data-modal-id="modal-sign-up">Sign Up</a>
-        
-        </div>
-    </div>
-
-</header>
-
-
-    <section class="Main ">
-        
-        
-
-<div class="u-margin">
-    <h1 class="u-marginFlush">Crayon Privacy Policy</h1>
-    <small>Last updated July 3, 2015</small>
-
-    <hr class="u-divider">
-
-    <h2>Introduction</h2>
-    <p>Thanks for using http://www.Crayon.co/ (the "Site"). Crayon is owned, built &amp; operated by <a title="M80 Labs" href="http://www.m80labs.com" target="_blank">M80 Labs</a>. At M80 Labs Inc. ("M80 Labs"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our website, you expressly consent to the collection, storage, disclosure and use of your information as we have outlined in this Privacy Policy and you agree to the terms and conditions of this Privacy Policy.</p>
-    <p>We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we make any changes to this Privacy Policy, we will notify you in accordance with our User Agreement. We also encourage you to check back, from to time, and review this Privacy Policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Site will be subject to the then current Privacy Policy.</p>
-
-    <h2>Information provided by you</h2>
-
-    <p>You may provide us with certain personally identifiable information when you:</p>
-
-    <ul>
-        <li>register for an account;</li>
-        <li>order products or gift certificates;</li>
-        <li>request customer support or send us any other communication;</li>
-        <li>sign up for newsletters, email alerts, and special offers;</li>
-        <li>enter sweepstakes or contests;</li>
-        <li>sign up for, or redeem, special offers;</li>
-        <li>respond to surveys;</li>
-        <li>use our share or Email-to-a-Friend or Refer-A-Friend features, or similar features; and</li>
-        <li>approve your child's request to open a Crayon account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
-        </li>
-    </ul>
-
-    <p>Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Site or our promotions.</p>
-
-    <h2>Information collected by Cookies</h2>
-
-    <p>M80 Labs uses cookies on the Site to improve the quality of our site and services to you. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies our users. M80 Labs' cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. That token is then linked to the user information in our secured databases. You can always delete the cookies and reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Site features and functionality may not be available to you and you may not be able to take advantage of all the features on the Site.</p>
-
-    <p>M80 Labs collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us.</p>
-
-    <h2>Information collected through comments or reviews</h2>
-    <p>You may choose to submit a comment or review. If you post such information, we may ask for certain information to validate your review such as email address, photo, and your city/state/country of residence. If you submit a review or comment, we may publish your geographic location or other anonymous information but your email address will be kept private. Additionally, any personally identifiable information that you submit as part of the review or comment can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review or comment. We believe you can post a helpful review or comment without disclosing any personal information.</p>
-
-    <h2>How do we secure your information?</h2>
-
-    <p>When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your M80 Labs account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when you finish using a shared computer.</p>
-
-    <p>We operate internationally and many of our computer systems are currently based in the United States. As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this Privacy Policy and you consent to the transfer of all information you provide to us in the United States.</p>
-
-    <p>You may also choose not to provide us with certain information, but that may result in you being unable to use certain features of our website.</p>
-
-    <p>We work very hard to protect your privacy, but we do not promise, and you should not expect, that your personal information or private communications will always remain private. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security.</p>
-
-    <h2>How do we use your information?</h2>
-
-    <p>We use the personally identifiable information you provide to:</p>
-
-    <ul>
-        <li>provide the features and functionality of the Site;</li>
-        <li>fulfill your requests for our products and services;</li>
-        <li>communicate with you about the status of your orders and other inquiries about our products and services;
-        </li>
-        <li>send you information about our products and services;</li>
-        <li>for our internal business purposes, such as data analysis, audits and so forth;</li>
-        <li>help us create content that is most relevant to you; and</li>
-        <li>provide notices about the results of sweepstakes, contest, and other promotions.</li>
-    </ul>
-
-    <p>We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails by contacting M80 Labs support.</p>
-
-    <p>When you purchase products from Crayon, we may use your email address or other personally identifiable information to send marketing messages and notifications from time-to-time whether or not you created an account with us. You may unsubscribe or change the frequency of email notifications by emailing M80 Labs support. If you email a product or design to a friend or refer a friend to the Site or our promotions, we will use your friend's email to send them the e-mail you requested. Your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.</p>
-
-    <p>We use non-personally identifiable information to monitor the use and performance of the Site so that we can learn more about how people use the Site which helps us improve our products and services and significantly enhance your experience on our website.</p>
-
-    <h2>Does M80 Labs disclose the information it collects to outside parties?</h2>
-
-    <p>Generally, M80 Labs does not share personal information about you with other people or nonaffiliated companies without your consent except that:</p>
-
-    <p>M80 Labs provides information to its agents and trusted service providers and contractors for limited purposes, such as fulfilling customer orders and processing credit card transactions; offering certain products and services; communicating with customers; providing customer service; managing information on our behalf; and enhancing the Site features and functionality. In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our Privacy Policy.</p>
-
-    <p>If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties.</p>
-    <p>M80 Labs may release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to:</p>
-
-    <ul>
-        <li>comply with law;</li>
-        <li>comply with subpoenas, warrants, court orders, government investigations, or other legal process;
-        </li>
-        <li>enforce or apply the terms of any of our user or license agreements;</li>
-        <li>investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity
-        </li>
-        <li>investigate fraud or similar claims;</li>
-        <li>protect the rights, property or safety of Crayon, our users, or others.</li>
-        <li>to protect our operations; or</li>
-        <li>to permit us to pursue available remedies or limit the damages that we may sustain.</li>
-    </ul>
-
-    <p>In the event that M80 Labs is acquired by, or merges with, another company M80 Labs reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger.</p>
-
-    <p>M80 Labs may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors.</p>
-
-    <h2>Advertising</h2>
-
-    <p>M80 Labs may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please contact us at privacy@m80labs.com.</p>
-
-    <h2>Does this Privacy Policy apply when I access third party websites?</h2>
-    <p>You may be able to access third party websites directly from the Site. However, this Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use personal information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your personal information to its provider.</p>
-
-    <h2>What about children's privacy?</h2>
-
-    <p>We respect children's privacy. We do not knowingly or intentionally collect personal information from children under the age of 13. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.</p>
-
-    <p>Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by M80 Labs to third parties without the parents' consent except as may be required by law or upon court order. Personal information at M80 Labs is kept confidential and is disclosed only with the consent of the M80 Labs user or as set forth in this Privacy Policy. We do not engage in the selling of information regarding the habits, behavior, buying patterns, or demographic information of our users. M80 Labs does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity. Parents can review any information M80 Labs has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from M80 Labs' records or to forbid any use of such information, you may send a request to M80 Labs Customer Support. Contact us by sending an email with 'Parental Notification' in the subject line.</p>
-
-    <p>If you have any questions about what information is stored or would like to obtain a copy of such information, or if you would like to change any of such information, please contact us at privacy@m80labs.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.</p>
-
-    <p>Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
-    
-    <p>The current version of the M80 Labs Privacy Policy was adopted effective as of February 5, 2014.</p>
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_1395325010670284" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"><div id="hs_cos_wrapper_widget_5458741356" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_header" style="" data-hs-cos-general-type="widget" data-hs-cos-type="header"><h1>Privacy Policy</h1></div>
+<div id="hs_cos_wrapper_widget_4960155818" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div id="hs_cos_wrapper_widget_1490099715793" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_section_header" data-hs-cos-general-type="widget" data-hs-cos-type="section_header">
+<div class="page-header section-header">
+<h5 class="secondary-header" style="text-align: center;"><span id="hs_cos_wrapper_subheader" class="section-subheader">Last Updated: June 1, 2017</span></h5>
 </div>
+</div>
+<p>Crayon, Inc. ("<strong><em>Crayon</em></strong>") provides services (the "<strong><em>Services</em></strong>") that analyze and aggregate publicly available data and other third party information and materials about certain companies that you wish to monitor (“<strong><em>Targets</em></strong><em>”)</em> and provides you with strategic insights. This Privacy Policy describes how Crayon collects, uses, stores, and protects information from you and applies to information we collect when you use our Services</p>
+<p>We may periodically post changes to this Privacy Policy on this page by revising the date at the top of this Privacy Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.</p>
+<p><strong>Collection of Information</strong></p>
+<p><strong>Information You Provide to Us</strong>. We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services (e.g. posting, sharing, sending and receiving comments through the Services), fill out a form, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise communicate with us. The types of information we may collect include (a) basic user information such as your name, email address, postal address, phone number, username and password, (b) financial information to process your payment for the Services (if applicable) such as your credit card information, bank account information and billing address (although note that we do not store full credit card numbers as all payment transactions are processed by our third party payment processors), and (c) any other information you choose to provide such as any comments and other content that you post, share, send or receive through the Services (“<strong><em>User Generated Content</em></strong>”).</p>
+<p><strong>Information We Collect Automatically When You Use the Services</strong>. When you access or use our Services, we automatically collect information about you, including:</p>
+<ul>
+<li><strong>Log Information:</strong> We collect log information about your use of the Services, including information about the computer you use to access our Services, hardware model, operating system and version, the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.</li>
+<li><strong>Location Information:</strong> We may collect information about the location of your computer or when you otherwise consent to the collection of this information in order to tailor your experience with the Services based on location.</li>
+<li><strong>Information Collected by Cookies and Other Tracking Technologies:</strong> We and our service providers use various technologies to collect information, including cookies and pixel tags (or web beacons). Cookies are small data files stored on your hard drive or in device memory. Cookies allow our Services to recognize your browser or device, track your usage each time you each visit, help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Pixel tags, which are small blocks of code often used in connection with cookies. Pixel tags may be placed on our websites and emails, and allow us to track website usage, including to determine when emails have been opened and acted upon, help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.&nbsp;</li>
+</ul>
+<p><strong>Information We Collect From Other Sources</strong><strong style="font-size: 0.8125rem; background-color: transparent;">&nbsp;</strong></p>
+<p>We may also obtain information from other sources and combine that with information we collect through our Services. For example, we may collect information about you from third parties, including but not limited to identity verification services, credit bureaus, mailing list providers and publicly available sources. If you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.</p>
+<p><strong>Use of Information</strong></p>
+<p>We may use information about you for various purposes, including to:</p>
+<ul>
+<li>Provide, maintain and improve our Services (including permitting you to analyze your Targets and post, share, send or receive User Generated Content through the Services);</li>
+<li>Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices,</li>
+<li>Send you technical notices, updates, security alerts and support and administrative messages;</li>
+<li>Respond to your comments, questions and requests and provide customer service;</li>
+<li>Communicate with you about products, services, offers, promotions, rewards, and events offered by Crayon and others, and provide news and information we think will be of interest to you;</li>
+<li>Monitor and analyze trends, usage and activities in connection with our Services;</li>
+<li>Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Crayon and others;</li>
+<li>Personalize and improve the Services and provide content or features that match user profiles or interests;</li>
+<li>Link or combine with information we get from others (including from the public Internet) to provide you the Services, help understand your needs and provide you with a better experience with our Services; and</li>
+<li>Carry out any other purpose for which the information was collected.</li>
+</ul>
+<p>Sharing of Information</p>
+<p>We may share information about you as follows or as otherwise described in this Privacy Policy:</p>
+<ul>
+<li>With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;</li>
+<li>In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;</li>
+<li>If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Crayon or others;</li>
+<li>In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;</li>
+<li>Between and among Crayon and its current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and</li>
+<li>With your consent or at your direction.</li>
+</ul>
+<p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.<span style="font-size: 0.8125rem; background-color: transparent;">&nbsp;</span></p>
+<p><strong>Social Sharing Features</strong></p>
+<p>The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.<span style="font-size: 0.8125rem; background-color: transparent;">&nbsp;</span></p>
+<p><strong>Analytics Services Provided by Others</strong></p>
+<p>We may allow others to provide analytics services on our behalf across the Internet and in applications (for example, we use Google Analytics and Google provides some additional privacy options described at <a href="http://www.google.com/policies/privacy/partners/">www.google.com/policies/privacy/partners/</a>). These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Crayon and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity.<span style="font-size: 0.8125rem; background-color: transparent;">&nbsp;</span></p>
+<p><strong>Security</strong></p>
+<p>Crayon takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.<span style="font-size: 0.8125rem; background-color: transparent;">&nbsp;</span></p>
+<p><strong>Your Choices</strong></p>
+<p><strong>Account Information</strong>. You may update, correct or delete information about you at any time by logging into your online account, emailing us at support@crayon.co or contacting our support team at support@crayon.co. If you wish to delete or deactivate your account, please email our support team at support@crayon.co, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.</p>
+<p><strong>Cookies</strong>. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p>
+<p><strong>Promotional Communications</strong>. You may opt out of receiving promotional emails from Crayon by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.</p>
+<p><strong>Contact Us</strong></p>
+<p><span style="background-color: transparent;">If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:support@crayon.co">support@crayon.co</a>&nbsp;or Crayon, Inc., 108 Lincoln Street, Suite BA, Boston, MA 02111.</span></p></div></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-<footer class="SiteFooter u-captionText">
-    <div class="u-textCenter u-marginTopHalf">
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-            <a href="https://twitter.com/crayon" target="_blank">
-                <i class="Icon Icon--twitter u-marginRightHalf" style="color:white; font-size:24px;"></i>
-            </a>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-widget_container " style="" data-widget-type="widget_container" data-x="0" data-w="12">
+<span id="hs_cos_wrapper_module_151204661745381" class="hs_cos_wrapper hs_cos_wrapper_widget_container hs_cos_wrapper_type_widget_container" style="" data-hs-cos-general-type="widget_container" data-hs-cos-type="widget_container"></span>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+    </div><!--end body -->
+</div><!--end body wrapper -->
 
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
 
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:5226071886 path:generated_global_groups/5226071879.html -->
+<div class="" data-global-widget-path="generated_global_groups/5226071879.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="0" data-w="3">
 
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-logo logo" style="" data-widget-type="logo" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1490107515077503" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="http://crayon.co" id="hs-link-module_1490107515077503" style="border-width:0px;border:0px;"><img src="https://www.crayon.co/hubfs/Crayon_Mar2017/Images/crayon-logo.61be3a424ee4.svg?t=1519096249254" class="hs-image-widget " style="width:317px;border-width:0px;border:0px;" width="317" alt="Crayon" title="Crayon"></a></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="margin-top:32px" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_151240142663087" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p style="text-align: center; margin-top: 10px;"><!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-55b80921-d0f0-4f64-ac17-af9973bdb3af"><span class="hs-cta-node hs-cta-55b80921-d0f0-4f64-ac17-af9973bdb3af" id="hs-cta-55b80921-d0f0-4f64-ac17-af9973bdb3af"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/2355195/55b80921-d0f0-4f64-ac17-af9973bdb3af"><img class="hs-cta-img" id="hs-cta-img-55b80921-d0f0-4f64-ac17-af9973bdb3af" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/2355195/55b80921-d0f0-4f64-ac17-af9973bdb3af.png" alt="Log In"></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(2355195, '55b80921-d0f0-4f64-ac17-af9973bdb3af', {}); </script></span><!-- end HubSpot Call-to-Action Code -->&nbsp;<!--HubSpot Call-to-Action Code --><span class="hs-cta-wrapper" id="hs-cta-wrapper-a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c"><span class="hs-cta-node hs-cta-a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c" id="hs-cta-a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c"><!--[if lte IE 8]><div id="hs-cta-ie-element"></div><![endif]--><a href="https://cta-redirect.hubspot.com/cta/redirect/2355195/a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c"><img class="hs-cta-img" id="hs-cta-img-a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/2355195/a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c.png" alt="Sign Up"></a></span><script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script><script type="text/javascript"> hbspt.cta.load(2355195, 'a3d02b94-e0d8-475a-8a1f-ca7c5c29c56c', {}); </script></span><!-- end HubSpot Call-to-Action Code --></p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-    </div>
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="3" data-w="2">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_151240146134196" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<p><strong>Company</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<div id="hs_menu_wrapper_module_1490004248401711" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+<ul>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/about/" target="_self">About</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/jobs/" target="_self">Careers</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/contact" target="_self">Contact</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<p><strong>Legal</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<div id="hs_menu_wrapper_module_1490004274493764" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+<ul>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/terms/" target="_self">Terms</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/privacy/" target="_self">Privacy</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="5" data-w="2">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1512401519156111" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div class="row-fluid-wrapper row-depth-1 row-number-11 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<p><strong>Content</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid-wrapper row-depth-1 row-number-12 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<div id="hs_menu_wrapper_module_1490004268072763" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+<ul>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/blog" target="_self">Blog</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/case-studies" target="_self">Case Studies</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/resources/" target="_self">Resources</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://app.crayon.co/blink/" target="_self">Blink</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid-wrapper row-depth-1 row-number-14 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<p><strong>Products</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div class="row-fluid-wrapper row-depth-1 row-number-15 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu " data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<div id="hs_menu_wrapper_module_14968686350982100" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+<ul>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/about-intel" target="_self">Competitive Analysis</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://www.crayon.co/about-intel-free/" target="_self">Marketing Intelligence</a></li>
+<li class="hs-menu-item hs-menu-depth-1"><a href="https://app.crayon.co/f/" target="_self">Website Inspiration</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span5 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="7" data-w="5">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1512401523220112" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><div class="row-fluid-wrapper row-depth-1 row-number-17 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-header " data-widget-type="header" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<p><strong>About Crayon</strong></p>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div data-widget-type="rich_text" data-x="0" data-w="12">
+<div>
+<p>Crayon is a market intelligence platform that helps businesses track, analyze, and act on everything happening outside their four walls. Track a company's complete digital footprint across 100+&nbsp;<a href="https://www.crayon.co/competitive-intelligence/types-market-intelligence">types of market intelligence</a>&nbsp;with Crayon's&nbsp;<a href="https://www.crayon.co/about-intel/">competitive analysis tools</a>.</p>
+<p><strong>New!</strong> See the latest market research and competitive intelligence benchmarks in the 2018 <a href="https://www.crayon.co/state-of-market-intelligence">State of Market Intelligence</a> Report.</p>
+</div>
+</div>
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-    <div class="u-textCenter u-marginHalf">
-        <nav>
-            
-
-                <a href="/login/" class="u-colorWhite u-marginRightHalf">Log in</a>
-                <a href="/signup/" class="u-colorWhite u-marginRightHalf">Sign up</a>
-
-            
-
-                <a href="/about/" class="u-colorWhite u-marginRightHalf">About</a>
-                <a href="/jobs/" class="u-colorWhite u-marginRightHalf">Jobs</a>
-                <a href="http://blog.crayon.co/" class="u-colorWhite u-marginRightHalf">Blog</a>
-
-                <a href="/privacy/" class="u-colorWhite u-marginRightHalf">Privacy</a>
-                <a href="/terms/" class="u-colorWhite">Terms</a>
-
-        </nav>
-    </div>
-    <div class="u-textCenter">
-        © 2015 – 2016 Crayon
-    </div>
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-page_footer " style="" data-widget-type="page_footer" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_page_footer" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_page_footer" style="" data-hs-cos-general-type="widget" data-hs-cos-type="page_footer">
+<footer>
+    <span class="hs-footer-company-copyright">© 2018 Crayon</span>
 </footer>
+</span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_jinja " style="" data-widget-type="raw_jinja" data-x="0" data-w="12">
+</div><!--end widget-span -->
 
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:5226071886 path:generated_global_groups/5226071879.html -->
 
-        
-            <div class="Signup-message js-signup-message">
-                <div class="b2-u-verticalCenter u-textCenter js-short-message">
-                    <div class="b2-u-verticalCenter-element">
-                        <h1 class="u-titleText u-headlineText u-headlineFont b2-u-kilo u-textShadow--bold">Shall we increase our level of intimacy?</h1>
-                        <h2 class="u-subheadText b2-u-titleText u-textShadow--bold">41,741,407 ideas and insights to help you find what’s next.</h2>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
 
-                        <a href="/login/" class="Button u-marginRightHalf js-command js-activate" data-action="redirect">Log in</a>
-                        <a href="/signup/" class="Button js-command" data-action="redirect">Sign up</a>
-                    </div>
-                </div>
-
-                <div class="b2-u-verticalCenter u-textCenter js-full-message u-hide">
-                    <div class="b2-u-verticalCenter-element"><h1 class="u-headlineText u-headlineFont u-kilo u-textShadow--bold">Shall we increase our level of intimacy?</h1>
-                        <h2 class="u-titleText u-textShadow--bold">41,741,407 ideas and insights to help you find what’s next</h2>
-
-                        <div class="u-centerBlock" style="max-width:28rem;">
-                            <div id="signup-messages"></div>
-
-<form id="form-signup-simple" class="Form js-validate-form" action="/signup/" method="POST" data-action="signup" novalidate="">
-    <p class="u-subheadText u-textCenter">Create Free Account</p>
-
-    <div class="Grid b2Max-Grid--gutterVertical Grid--full b2-Grid--fit">        
-        <div class="Grid-item b2-u-paddingRight b2-u-marginRight u-borderBottom b2-u-borderBottomNone b2-u-borderRight">
-            <div class="u-marginBottomHalf">
-                <input id="signup-email" name="signup-email" type="email" data-validation="email" placeholder="Email address">
-            </div>
-            <div class="u-marginBottomHalf">
-                <input id="signup-password" name="signup-password" type="password" data-validation="password" placeholder="Set your password">
-            </div>
-            <div>
-                <button class="Button Button--block u-textSizeSmall u-captionText js-command" type="submit" data-action="redirect">Sign Up</button>
-            </div>
-        </div>
-
-        <div class="Grid-item u-paddingTop b2-u-paddingFlush">
-            <div class="u-marginBottomHalf">
-                <a href="/auth/linkedin/start/" class="Button Button--linkedin Button--block" type="button"><i class="Icon Icon--linkedin-with-circle u-valignMiddle u-marginRightHalf u-paddingRightHalf u-borderRight"></i><span class="u-captionText u-textShadow">Sign up with Linkedin</span></a>
-            </div>
-            <div class="u-marginBottomHalf">
-                <button class="Button Button--facebook Button--block js-signup-facebook" type="button"><i class="Icon Icon--facebook u-valignMiddle u-marginRightHalf u-paddingRightHalf u-borderRight"></i><span class="u-captionText u-textShadow">Sign up with Facebook</span></button>
-            </div>    
-        </div>
-    </div>
-</form>
-                        </div>
-
-                        <p class="u-textCenter u-marginTopHalf u-marginBottomFlush u-captionText u-fontWeightMedium u-headlineFont--secondary">Already a user? &nbsp;<a href="/login/" class="u-colorBrandGreen js-command js-activate" data-action="redirect">Log in</a></p>
-                    </div>
-                </div>
-            </div>    
-        
-    </section>
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
 
     
-
-        
-        <div id="login-reminder" class="Modal is-hidden" role="dialog" aria-labelledby="reportProblem" aria-hidden="true">
-            <article class="Modal-inner" role="document" style="max-width:30rem;">
-                <button title="Close (Esc)" type="button" class="Icon--cross Modal-close js-modalClose"></button>
-                <h1 class="Modal-heading" id="reportProblem">Shall we increase our level of intimacy?</h1>
-
-                <p>You gotta <a class="u-colorBrandGreen" href="/login/">log in</a> or <a class="u-colorBrandGreen" href="/signup/">sign up</a> to proceed, friend.</p>
-
-                <div class="Modal-actions">
-                    <a href="/login/" class="Button u-marginRightHalf js-activate">Log in</a>
-                    <a href="/signup/" class="Button u-marginRightHalf">Sign Up</a>
-                    <button class="Button Button--muted js-modalClose">Cancel</button>
-                </div>
-            </article>
-        </div>
-    
-
-    <script>
-        var M80 = M80 || {};
-        var Crayon = Crayon || {};
-    </script>
-    <script src="https://d1shm7nvjae321.cloudfront.net/static/js/bundle.787719beca8d.js"></script>
-    <script type="text/javascript">
-        M80.Auth2.init({
-            currentUserData: {"is_authenticated": false, "next": ""},
-            fbAppId: "1426810210923804",
-            fbScope: "public_profile,email",
-            redirectUrl: window.location.href,
-            debugMode: true
-        });
-
-        M80.Analytics.init();
-
-        Crayon.temp.cud = M80.Auth2.getCurrentUserData();
-
-        Crayon.constants.SAD_ICON_CRYING_64 = "https://d1shm7nvjae321.cloudfront.net/static/img/square-icons/sad-icon-crying-64x64.10a0017e1490.png";
-        Crayon.constants.LOADING_INDICATOR = "https://d1shm7nvjae321.cloudfront.net/static/svg/loading-indicator.e4eb2b6a3849.svg";
-        Crayon.constants.LOADING_INDICATOR_DARK = "https://d1shm7nvjae321.cloudfront.net/static/svg/loading-indicator-dark.3265c216cde2.svg";
-
-        $(function() {
-
-            Crayon.generalHelpers.initShell();
-            Crayon.eventController.command();
-            Crayon.eventController.globalEvents();
-            Crayon.eventController.validation();
-
-            Crayon.eventController.subscribeToMarketingMessageCategory();
-
-            
-                
-                
-            
-
-            
-
-            
-                
-                    var welcomeBanner = $('.WelcomeBanner');
-
-                    welcomeBanner
-                        .removeClass('u-hide')
-                        .on('click', '.Modal-close', function () {
-                            welcomeBanner.addClass('u-hide');
-                        });
-
-                
-            
-
-        });
-
-        M80.FollowObject.init({ currentUserData: {"is_authenticated": false, "next": ""}});
-
-        $(document).on('click', '.js-follow', function() {
-            var $this = $(this);
-            Crayon.followHelpers.followObject($this.data('class-id'), $this.data('object-id'), $this.data('text'));
-        });
-        $(document).on('click', '.js-unfollow', Crayon.followHelpers.unfollowObject);
-        $(document).on('click', '.js-loadMoreFollowUsers', Crayon.followHelpers.loadMoreFollowUsers);
+<script type="text/javascript" src="https://static.hsstatic.net/content_shared_assets/static-1.4049/js/public_common.js"></script>
+<script src="https://www.crayon.co/hs-fs/hub/2355195/hub_generated/template_assets/1512679344610/Custom/page/Soar_Theme/soar-scripts.min.js"></script>
 
 
-        $(function() {
-            
-                var m80_analytics_data = {current_url: document.URL};
-                M80.Analytics.sendAnalyticsEvent(Crayon.constants.analyticEvents.SHELL_TEMPLATE_LOADED, JSON.stringify(m80_analytics_data));
-            
-        });
 
-        
-            $(document).on('click', '.js-signup-facebook', Crayon.authHelpers.loginWithFacebook);
-        
-    </script>
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1519300496693,
+    page_id: 5458252478,
+    content_group_id: 0,
+    portal_id: 2355195,
+    app_hs_base_url: "https://app.hubspot.com",
+    language: "en",
+    analytics_page_type: "standard-page"
+}
+</script>
 
 
-    <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 994755018;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        var google_conversion_format = 3;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994755018/?guid=ON&script=0"/>
-        </div>
-    </noscript>
+
+<!-- Start of Async Drift Code -->
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"), 
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js", 
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('gyf6vz2fvvaw');
+</script>
+<!-- End of Async Drift Code -->
+
+<script>
+    window['_fs_debug'] = false;
+    window['_fs_host'] = 'www.fullstory.com';
+    window['_fs_org'] = 'S42K';
+    window['_fs_namespace'] = 'FS';
+    (function(m,n,e,t,l,o,g,y){
+      if (e in m && m.console && m.console.log) { m.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'); return;}
+      g=m[e]=function(a,b){g.q?g.q.push([a,b]):g._api(a,b);};g.q=[];
+      o=n.createElement(t);o.async=1;o.src='https://'+_fs_host+'/s/fs.js';
+      y=n.getElementsByTagName(t)[0];y.parentNode.insertBefore(o,y);
+      g.identify=function(i,v){g(l,{uid:i});if(v)g(l,v)};g.setUserVars=function(v){g(l,v)};
+      g.identifyAccount=function(i,v){o='account';v=v||{};v.acctId=i;g(o,v)};
+      g.clearUserCookie=function(c,d,i){if(!c || document.cookie.match('fs_uid=[^;`]*`[^;`]*`[^;`]*`')){
+      d=n.domain;while(1){n.cookie='fs_uid=;domain='+d+
+      ';path=/;expires='+new Date(0);i=d.indexOf('.');if(i<0)break;d=d.slice(i+1)}}};
+    })(window,document,window['_fs_namespace'],'script','user');
+</script>
+
+
 
     
-    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+<!-- Editor Styles -->
+<style id="hs_editor_style" type="text/css">
+#hs_cos_wrapper_widget_5458741356  { text-align: center !important; font-weight: bold !important; display: block !important }
+#hs_cos_wrapper_widget_5458741356 p , #hs_cos_wrapper_widget_5458741356 li , #hs_cos_wrapper_widget_5458741356 span , #hs_cos_wrapper_widget_5458741356 label , #hs_cos_wrapper_widget_5458741356 h1 , #hs_cos_wrapper_widget_5458741356 h2 , #hs_cos_wrapper_widget_5458741356 h3 , #hs_cos_wrapper_widget_5458741356 h4 , #hs_cos_wrapper_widget_5458741356 h5 , #hs_cos_wrapper_widget_5458741356 h6  { font-weight: bold !important }
 
-    
+</style>
 
+<!-- end coded_template: id:5452757486 path:generated_layouts/5452757485.html -->
 </body></html>
