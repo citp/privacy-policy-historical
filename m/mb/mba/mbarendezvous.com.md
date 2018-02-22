@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208200844id_/http%3A//www.mbarendezvous.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222191609id_/http%3A//www.mbarendezvous.com/privacy-policy) for the most accurate reproduction.*
 
 # MBA Rendezvous - Privacy Policy
+
+April 19, 2017 @ 11:20 AM 
+
+[](https://admission.nopaperforms.com/xavier-institute-of-management-entrepreneurship?utm_source=MBARendezvous&utm_medium=Banner&utm_campaign=Admissions_2018)
+
+[](https://admission.nopaperforms.com/xavier-institute-of-management-entrepreneurship?utm_source=MBARendezvous&utm_medium=Banner&utm_campaign=Admissions_2018)
+
+April 19, 2017 @ 11:20 AM
 
 ## **Privacy Policy**
 
@@ -45,3 +53,27 @@ From time to time we may make changes to our privacy policy If we make changes, 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [info@mbarendezvous.com](mailto:info@mbarendezvous.com)
+
+Crucial Dates, You Should not Miss
+
+[**Manav Rachna International Institute  
+of Research**](http://www.mbarendezvous.com/mba-institute/manav-rachna-international-institute-of-research-and-studies/)   
+Admissions Open for all MBA programme at Manav Rachna International Institute of  
+Research and Studies.  |  [**CII School of Logistics Amity University, Delhi and Mumbai**](http://www.mbarendezvous.com/mba-institute/CII/)   
+Admissions Open at CII School of Logistics Delhi and Mumbai campus, Apply Now!  
+---|---  
+[**GITAM School of International Business, Visakhapatnam**](http://forms.gsib.gitam.edu/)   
+Admissions open for MBA programmes at GITAM. Application Deadline is February 20, 2018  |  [**XIME**](https://admission.nopaperforms.com/xavier-institute-of-management-entrepreneurship?utm_source=MBARendezvous&utm_medium=Banner&utm_campaign=Admissions_2018)   
+Application Last Date for Online Submission - February 25, 2018  
+[**FORE School of Management**](http://admissions.fsm.ac.in/login)   
+Apply for PGDM & PGDM-IB Programmes. Admissions Open for 2018 Apply Now! |  [**MDI Murshidabad**](http://www.mdim.ac.in/ApplyOnline.htm?utm_source=mbarendezvous&utm_medium=banner&utm_campaign=admissions_MDI%20Murshidabad_2018)   
+Applications for PGPM 2018-20 at MDI Murshidabad are open   
+[**Institute of Public Enterprise, Hyderabad**](http://www.ipeindia.org/)   
+Last Date to Apply for IPE, Hyderabad is 17 February, 2018  |  [**IMI New Delhi**](https://www.imi.edu/delhi/?utm_source=mbarendezvous&utm_medium=banner)   
+Admissions Open for Executive PGDM at IMI, New Delhi. Application closes on March 1, 2018.  
+[**TAPMI, Manipal**](https://goo.gl/1UHwNF)   
+Last date extended to 11 February, 2018. Apply Now.  |  [**SDMIMD**   **Mysore**](http://sdmimd.ac.in/)   
+Application for PGDM 2018-20 at SDMIMD is open till February 28, 2018   
+[**Birla Global University**](https://forms.bgu.ac.in/)   
+Admission 2018 Open for MBA at Birla Global University  |  [**KIIT School of Management**](http://bit.ly/2nwIEg3)   
+Admissions Open for MBA at KIIT School of Management through CAT/ MAT/ GMAT/ ATMA/ CMAT/ XAT 
