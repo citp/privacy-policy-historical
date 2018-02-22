@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornysilver.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829114236id_/http%3A//www.hornysilver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornysilver.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222215556id_/http%3A//www.hornysilver.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to hornysilver.com - Privacy Policy
 
