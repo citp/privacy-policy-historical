@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniper.com privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226061614id_/http%3A//www.barclaycardus.com/servicing/footerLinks%3FhandlePrivacy%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniper.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222030152id_/https%3A//www.barclaycardus.com/servicing/footerLinks%3FhandlePrivacy%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,3 +48,5 @@ Companies that place our banner ads on other websites ("ad servers") also use ac
 [Google](http://wallet.google.com/files/privacy.html)
 
 At present, we do not allow third-party serving of advertising on our website. If we do allow such activities in the future, we will post a link from our Online Privacy Statement to the privacy policy of the company or partner that is associated with each advertisement. We recommend that you review each company or partner's privacy policy including their use of cookies to understand their information handling practices and your options.
+
+**Revised as of June 2017**
