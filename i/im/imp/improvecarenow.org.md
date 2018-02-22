@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the improvecarenow.org privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223005122id_/http%3A//www.improvecarenow.org/privacy_policy) for the most accurate reproduction.*
+
+# Privacy Policy - ImproveCareNow
+
+**Why are we asking for your information?**   ImproveCareNow (ICN) strives to create an engaged and collaborative community to improve the health and care of kids with inflammatory bowel disease (IBD).  As a member of the CIRCLE community, ImproveCareNow serves as a resource of information that is relevant to you or to others with similar interests. This information helps ImproveCareNow better understand the needs of the community so we can customize your experience and interaction with ImproveCareNow. 
+
+**What will we do with this information?** ImproveCareNow will NOT sell your information. ImproveCareNow uses your information to learn about our community and get feedback to help ICN improve, to distribute information related to ImproveCareNow, and to connect you with people and topics of interest.  We use [NationBuilder](http://www.nationbuilder.com/) as the platform to collect and manage information you provide.  Using your email address, we may access publicly available information from the external platforms you use, such as Facebook, Twitter and LinkedIn.  These connections are based on settings you have already established with those platforms.
+
+**What type of information will we use?** We ask for your name and email address to contact you and share general information about ICN.  We also ask for other information – like your location and your interests in ICN. This information is not required, but will help us better connect you with people and information. For example, if we know your location, we can send information about ICN at your care center. As we learn of your interests in ICN, we can send information and opportunities relevant to your particular interests.
+
+In compliance with the Children's Online Privacy Protection Act of 1998 (COPPA), we will not knowingly collect or solicit personal information from individuals under the age of 13 or knowingly allow such persons to register on the website. If you are under 13, you can access the tools and information available on the website, however, please do not send any information about yourself to us, including your name, address, telephone number, or email address.  No one under age 13 is allowed to provide any personal information to or on the website. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.
+
+**Who can access your information?**   ImproveCareNow staff, care centers, and volunteers working within the mission of ImproveCareNow will have varying levels of access to the information.  
+
+**Important things to note.  ** The information provided on and through this website does not constitute medical advice and is not intended to be a substitute for professional medical advice, diagnosis, or treatment.  This disclaimer applies to all tools and documents posted on this site.
+
+If you have questions, please [contact us](http://www.improvecarenow.org/contact-us). You do not have to participate or share information on this site to be a part of ImproveCareNow. You can unsubscribe at any time. 
