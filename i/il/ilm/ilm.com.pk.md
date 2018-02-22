@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilm.com.pk privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224145155id_/http%3A//ilm.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilm.com.pk privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222170438id_/https%3A//ilm.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
