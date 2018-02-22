@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominationtube.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813144533id_/http%3A//www.dominationtube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominationtube.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222105104id_/http%3A//www.dominationtube.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ The Site also offers all Members and Users a procedure for "Opting-Out" if the M
 
 **5\. DISCLOSURE**
 
-FuckCams.co will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the FuckCams.co [Terms and Conditions](https://web.archive.org/web/20170813144533id_/http%3A//www.dominationtube.com/terms.html). No personal information will be shared with any third parties without the customer's permission.
+FuckCams.co will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the FuckCams.co [Terms and Conditions](https://web.archive.org/web/20180222105104id_/http%3A//www.dominationtube.com/terms.html). No personal information will be shared with any third parties without the customer's permission.
 
 **6\. REVISIONS TO THIS PRIVACY POLICY**
 
