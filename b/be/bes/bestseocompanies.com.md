@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestseocompanies.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222163126id_/http%3A//www.bestseocompanies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestseocompanies.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222115737id_/http%3A//www.bestseocompanies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best SEO Companies
 
