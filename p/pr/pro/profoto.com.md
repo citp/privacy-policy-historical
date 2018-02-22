@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904072041id_/https%3A//profoto.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profoto.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222174941id_/https%3A//profoto.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Profoto
 
@@ -8,11 +8,12 @@ Profoto AB is the controller of the personal data we collect when you use our we
 
 ## Personal information - definition, collection and use
 
-Personal information is all information that relates directly or indirectly to an identifiable individual person. Profoto collects personal information about you in three different situations:
+Personal information is all information that relates directly or indirectly to an identifiable individual person. Profoto collects personal information about you in four different situations:
 
   1. When visiting our website - We store and process information regarding your usage of our website. The purpose is to improve your website user experience.
   2. When subscribing to our newsletter - We store and process your e-mail address and country. We may also collect information regarding your usage of the newsletter, such as whether you have read it or not. The purpose is personalization and to improve newsletter content.
   3. When creating an account - We store and process information that you have provided us with (such as contact information, registered products and interests etc.), and information regarding your usage of our website. The purpose is personalization and to provide better customer care and service to you.
+  4. When buying Academy courses – We store and process purchase history information in addition to the information you give us when you create your My Profoto account. For US citizens we also store zip code and for Canadian customers we store postal code. The purpose is to be able to sell and deliver education to you.
 
 
 
