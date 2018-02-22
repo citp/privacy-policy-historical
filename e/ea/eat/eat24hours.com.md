@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235116id_/https%3A//eat24hours.com/%3FSCR%3Ds_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eat24hours.com privacy policy that was archived on 2018-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180222035312id_/https%3A//eat24hours.com/%3FSCR%3Ds_privacy) for the most accurate reproduction.*
 
 # Food Delivery | Restaurants Delivery | Eat24 Order Online
 
