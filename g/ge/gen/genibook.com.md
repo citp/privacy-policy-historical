@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genibook.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224044426id_/http%3A//genibook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genibook.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223160743id_/http%3A//genibook.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Geni Book
 
