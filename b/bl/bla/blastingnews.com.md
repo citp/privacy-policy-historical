@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222202353id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastingnews.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223224429id_/http%3A//www.blastingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Blasting News
 
@@ -32,7 +32,7 @@ Our website and marketing emails may contain links to offers from third parties.
 
 
 
-**Your Personal Data in our possession may also be communicated to third parties** , for the purposes indicated above, in Switzerland, Italy and in [other countries](http://www.blastingnews.com/list-of-countries/) identified on our website, namely but not exclusively to entities which are part of the corporate group of Blasting; other entities which are involved in subscription processes, sale and management operations; entities performing banking, financial and other outsourced services for Blasting; entities performing internet support services; entities which are in general business partners of Blasting; supervisory authorities of internet activities; and supervisory authorities for journalism and media related matters. These third parties shall act independently from Blasting, unless they are designated data processors. Your Personal Data shall not otherwise be subject to public disclosure. 
+**Your Personal Data in our possession may also be communicated to third parties** , for the purposes indicated above, in Switzerland, Italy and in [other countries](https://www.blastingnews.com/list-of-countries/) identified on our website, namely but not exclusively to entities which are part of the corporate group of Blasting; other entities which are involved in subscription processes, sale and management operations; entities performing banking, financial and other outsourced services for Blasting; entities performing internet support services; entities which are in general business partners of Blasting; supervisory authorities of internet activities; and supervisory authorities for journalism and media related matters. These third parties shall act independently from Blasting, unless they are designated data processors. Your Personal Data shall not otherwise be subject to public disclosure. 
 
 Blasting has no influence on how such third parties handle the information received and is not responsible for the observance of data protection regulations by these third parties. 
 
