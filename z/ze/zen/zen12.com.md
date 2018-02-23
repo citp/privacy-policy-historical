@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224152623id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223172315id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
 
 # Inspire3 Ltd - Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is important to us. That's why we've created this simplified privac
 
   * We are Inspire3 Ltd, with our homepage at [www.inspire3.com](http://www.inspire3.com/).
   * Our address is 20-22 Wenlock Road, London, N1 7GU, United Kingdom.
-  * You can reach our support team at [ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5637213325393b33163f3825263f2433657835393b), or call us in the UK on (+44) 207 183 2674.
+  * You can reach our support team at [ awesome@inspire3.com](mailto:awesome@inspire3.com), or call us in the UK on (+44) 207 183 2674.
   * We are registered as a limited company in the UK. Our company number is 06609964.
   * "We", "us" and "our" on this page refer to Inspire3 Ltd.
 
