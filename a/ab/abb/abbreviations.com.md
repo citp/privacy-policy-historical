@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbreviations.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212060716id_/http%3A//www.abbreviations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbreviations.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223173054id_/https%3A//www.abbreviations.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ STANDS4 LLC uses your Personal Information to enhance and personalize your onlin
 
 **Third Party Service Providers:** STANDS4 LLC may employ other companies and individuals to perform certain functions such as delivering packages, processing credit card payments and analyzing data. They may have access to personal information to perform their functions.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
 ### Enforcement of Agreement or Compliance with Law
 
@@ -38,7 +38,7 @@ STANDS4 LLC may use or disclose personal information when STANDS4 LLC believes i
 
 ### How may you change or remove your personal information?
 
-You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](http://www.abbreviations.com/contact.php).
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://www.abbreviations.com/contact.php).
 
 You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way.
 
