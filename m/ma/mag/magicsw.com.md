@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the magicsw.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003546id_/http%3A//www.magicsw.com/%3Fp%3D4571) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicsw.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223230900id_/https%3A//www.magicsw.com/%3Fp%3D4571) for the most accurate reproduction.*
 
-# Privacy Policy « Magic Software | Digital Learning
+# Privacy Policy - Magic Software | Digital Learning Magic Software | Digital Learning
 
 Magic Software (or ‘we’/ ‘us’/ ‘ours’) respects and understands the importance of your privacy – and are therefore committed to affording complete protection to the sensitive information of online visitors to our website, of our customers who use our products and services, and of the learners whose information we may have access to. It is in recognition of this need for security and proper management of any information received /collected by us that Magic Software has established this Privacy Policy.
 
-This **privacy policy** is applicable to our websites – [www.magicsw.com](http://www.magicsw.com/) and [www.getmagicbox.com](http://www.getmagicbox.com/) and to our products, including the MagicBox and Appitest platform, and any services we provide. It also applies to our marketing practices. We ensure total transparency in all our dealings.
+This **privacy policy** is applicable to our websites – [www.magicsw.com](https://www.magicsw.com/) and [www.getmagicbox.com](http://www.getmagicbox.com/) and to our products, including the MagicBox and Appitest platform, and any services we provide. It also applies to our marketing practices. We ensure total transparency in all our dealings.
 
 Click on the links below to access the section you wish to:
 
