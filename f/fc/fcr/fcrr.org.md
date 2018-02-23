@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fcrr.org privacy policy that was archived on 2017-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170823194847id_/http%3A//fsu.edu/misc/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcrr.org privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223100414id_/http%3A//fsu.edu/misc/policy.html) for the most accurate reproduction.*
 
-# Florida State University
+# Policy | Florida State University
 
 Thank you for visiting the Florida State University website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
 
