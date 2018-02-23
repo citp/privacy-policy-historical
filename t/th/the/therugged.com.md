@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therugged.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606072552id_/http%3A//therugged.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therugged.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223083503id_/https%3A//www.therugged.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – TheRugged.com
+# Privacy Policy - TheRugged.com
 
 **TheRugged.com Privacy Policy**  
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
@@ -72,8 +72,8 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from ALL correspondence.
 
 Contacting Us  
-If there are any questions regarding this privacy policy you may contact us using the information below.  
-TheRugged.com  
-Arizona
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+**Contact_us@max2media.com**
 
 Last Edited on 2017-04-25
