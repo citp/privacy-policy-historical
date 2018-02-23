@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interest.co.nz privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003134401id_/http%3A//www.interest.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.co.nz privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223230719id_/https%3A//www.interest.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy | interest.co.nz
 
@@ -20,7 +20,7 @@ Logos and original art are copyrighted. All rights reserved.
 
 Our web pages may contain digital signatures to protect our rights under the law.
 
-To find out more about co-branding service, please [**contact us**](http://www.interest.co.nz/feedback).
+To find out more about co-branding service, please [**contact us**](https://www.interest.co.nz/feedback).
 
 We provide this free service to consumers on an 'as-is' basis without representation to accuracy or suitability for any particular purpose. JDJL uses its best efforts to provide reliable information. All information is either sourced from the public domain or is provided by the financial institution named, and JDJL is not responsible for any defects, the results of any defects of this site, or any lost profit or income or consequential damages that may result. Always contact the listed financial institution directly to confirm all information before you invest or borrow.
 
@@ -28,7 +28,7 @@ Only the financial institution can give you confirmed, accurate information. Do 
 
 We have made all reasonable efforts to keep the information on this site as accurate as possible and ensure that the availability of the site is continuous and fault-free, but we are dependent on access to public domain information, and/or co-operation of the companies listed, and there are risks - outside our control - that information may be recorded incorrectly at the site or omitted from it or that the site may not be available. Neither the publisher, JDJL, or anyone else engaged in providing this site or compiling information for it, accepts any liability for inaccuracies or any loss or damage which may directly or indirectly result from use of the site or any error at or ommission of information from it irrespective of the cause.
 
-We may collect and store information about the way this site is used. This may include sending a 'cookie' to your computer which identifies your computer uniquely but does not identify you personally. We will not collect, store or use any information about you personally except as provided by you and only to the extent necessary to provide information requested by you. If you wish to access or request correction of personal information, please [**contact us**](http://www.interest.co.nz/feedback).
+We may collect and store information about the way this site is used. This may include sending a 'cookie' to your computer which identifies your computer uniquely but does not identify you personally. We will not collect, store or use any information about you personally except as provided by you and only to the extent necessary to provide information requested by you. If you wish to access or request correction of personal information, please [**contact us**](https://www.interest.co.nz/feedback).
 
 **More on Cookies, and Tracking**
 
@@ -50,4 +50,4 @@ We may modify or update or change these conditions from time to time with or wit
 
 This site and these conditions are governed by and to be interpreted in accordance with the laws of New Zealand. The New Zealand courts will have exclusive jurisdiction.
 
-You can contact JDJL by clicking [**here**](http://www.interest.co.nz/feedback).
+You can contact JDJL by clicking [**here**](https://www.interest.co.nz/feedback).
