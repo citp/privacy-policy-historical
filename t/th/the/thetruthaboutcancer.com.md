@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcancer.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830164553id_/https%3A//thetruthaboutcancer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcancer.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223223307id_/https%3A//thetruthaboutcancer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Truth About Cancer
 
