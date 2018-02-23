@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalroom.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606024200id_/http%3A//www.digitalroom.com/secure/site-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalroom.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223211238id_/https%3A//www.digitalroom.com/secure/site-policies.html) for the most accurate reproduction.*
 
 # Digital Room | Online Digital Poster Printing | Save On Postcards, Brochures And Posters!
 
