@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yahoosmallbusiness.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628225020id_/https%3A//www.aabacosmallbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoosmallbusiness.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223011354id_/https%3A//www.yahoosmallbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Aabaco Small Business, LLC is now part of Oath, a digital and mobile media company with more than 50 [brands](http://www.oath.com/brands) globally, and a member of the [Verizon family of companies](http://www.verizon.com/about/privacy/). The way we handle your information hasn't changed, so the Company's Privacy Policy still governs when you are on our site, using our app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. We will notify you about significant changes in the way we treat your information by sending a notice to the primary email address specified in your Aabaco account or by placing a prominent notice on our site.
+Aabaco Small Business, LLC is now part of the [Verizon family of companies](http://www.verizon.com/about/privacy/). The way we handle your information hasn't changed, so the Company's Privacy Policy still governs when you are on our site, using our app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. We will notify you about significant changes in the way we treat your information by sending a notice to the primary email address specified in your Aabaco account or by placing a prominent notice on our site.
 
 [< Terms of Service Center](https://web.archive.org/tos-center)
 
-The services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet. The Company is a wholly-owned subsidiary of Yahoo Holdings, Inc. ("Yahoo").
+The Yahoo Small Business services and products (the "Services") are provided by Aabaco Small Business, LLC and its subsidiaries (the "Company") primarily to help fuel the growth and success of businesses on the Internet.
 
 ## **COVERED IN THIS PRIVACY POLICY**
 
@@ -16,7 +16,7 @@ Personal Information collected by the Services is shared with Yahoo. Yahoo's [Pr
 
 **NOT COVERED:**
 
-  * This policy does not override any elements of the terms directly established with the Company customers or partners, including the [Terms of Service](https://web.archive.org/tos?updated=true). Capitalized terms not defined herein have the meanings set forth in the [Terms of Service](https://web.archive.org/tos?updated=true).
+  * This policy does not override any elements of the terms directly established with the Company's customers or partners, including the [Terms of Service](https://web.archive.org/tos?updated=true). Capitalized terms not defined herein have the meanings set forth in the [Terms of Service](https://web.archive.org/tos?updated=true).
   * The Company’s customers operate their own businesses, with their own websites, with or without the technical assistance of the Company, and all of their data collection and use is governed by their own privacy policies.
   * This policy does not apply to the practices of companies that the Company does not own or control, or to people that the Company does not employ or manage.
 
@@ -24,7 +24,7 @@ Personal Information collected by the Services is shared with Yahoo. Yahoo's [Pr
 
 ## **INFORMATION COLLECTION AND USE**
 
-The Company collects Personal Information when You register with the Company; when You interact with the Company's sites, apps, products, development tools, marketing programs, or services, and pages of the Company customers and some partners; when You sign-up for a newsletter or when You enter a promotion or sweepstakes. The Company may combine information about You that we have with information we obtain from customers or partners, publicly available information, or other companies.
+The Company collects Personal Information when You register with the Company; when You interact with the Company's sites, apps, products, development tools, marketing programs, or services, and pages of the Company's customers and some partners; when You sign-up for a newsletter or when You enter a promotion or sweepstakes. The Company may combine information about You that we have with information we obtain from customers or partners, publicly available information, or other companies.
 
 When You register or provide additional account information we may ask for information such as Your full name, company name, email address, birth date, gender, phone number, mobile phone number, address, credit card number, business type, industry, and other details. When You register with the Company and use our sites, products, or services, You are not anonymous to us.
 
@@ -60,7 +60,7 @@ The Company may set and access cookies on Your computer. We may also set and acc
 
 The Company may use web beacons, small segments of code that run on a web page, APIs (application programming interfaces) or SDKs (software development kits) within mobile apps, to access the Company’s cookies and device identifiers inside and outside our network of websites and in connection with the Services.
 
-The Company customers and partners may access their cookies on Your computer and/or use web beacons and SDKs of their own. Other companies' use of their technology such as web beacons, SDKs, cookies and device identifiers, is subject to their own privacy policies, not this one. These partners do not have access to the Company's cookies.
+The Company's customers and partners may access their cookies on Your computer and/or use web beacons and SDKs of their own. Other companies' use of their technology such as web beacons, SDKs, cookies and device identifiers, is subject to their own privacy policies, not this one. These partners do not have access to the Company's cookies.
 
 ## **YOUR ACCOUNT INFORMATION**
 
@@ -88,4 +88,4 @@ Customer Care - Privacy Policy Issues
 Sunnyvale, CA 94089  
 
 
-_Effective date: June 13, 2017_
+_Effective date: January 2, 2018_
