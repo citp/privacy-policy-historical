@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobamatic.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017231835id_/http%3A//www.simplyhired.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobamatic.com privacy policy that was archived on 2018-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180223212826id_/https%3A//www.simplyhired.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Simply Hired
 
