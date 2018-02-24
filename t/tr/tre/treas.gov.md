@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the treas.gov privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221085957id_/https%3A//www.treasury.gov/SitePolicies/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treas.gov privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224153114id_/https%3A//www.treasury.gov/SitePolicies/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Notices
 
 Thank you for visiting the Department of the Treasury's website and reviewing our privacy policy.  This policy explains how we collect, use, maintain, and share the personally identifiable information (PII) you provide when you visit Treasury.gov to browse the site, obtain information, or conduct transactions.  Your privacy is important to us, and we are required by law to protect the information you entrust to us.  The PII you provide to us through Treasury.gov or through social media will be used in a manner compatible with the purpose for which you provide it. 
 
-We strongly recommend that you read the entire policy, but if you choose to only read certain sections of our policy, please use the links below to view the sections that correspond with your specific concerns.
-
-## Personally Identifiable Information
+### Personally Identifiable Information
 
 PII is any information that is "linked" or is "linkable" to a particular individual.  "Linked" means Treasury can identify the individual from the information itself (e.g., their name).  "Linkable" means the information could be linked to a particular individual only if it is combined with other information derived from another source (e.g., a full [as opposed to partial] Internet Protocol address is generally linkable to a computer owned by an account holder who subscribes to a particular internet service provider).  PII may include, but is not limited to, an individual's name, Social Security number, physical address, email address, Internet Protocol address, phone number, or birth date.
 
-## Policy Scope 
+### Policy Scope 
 
 #### Department of the Treasury - Departmental Offices 
 
@@ -37,11 +35,11 @@ This policy _does not_ apply to the individual websites hosted by Treasury's bur
   * [Bureau of Engraving and Printing](http://moneyfactory.gov/privacystatements.html)
   * [Office of the Comptroller of the Currency](http://www.occ.gov/about/policies/web-privacy-policy.html)
   * [Bureau of the Fiscal Service](http://www.fms.treas.gov/privacy.html)
-  * [Financial Crimes Enforcement Network](http://www.fincen.gov/privacy_policy.html)  
+  * [Financial Crimes Enforcement Network  ](https://www.fincen.gov/privacy-security)
 
 
 
-## External Websites
+### External Websites
 
 #### Federal Government 
 
@@ -57,7 +55,7 @@ We use social media websites to engage in dialog that increases government trans
 
 There are some limited circumstances when we will collect PII from social media sites.  This policy applies to Treasury's use of social media websites when and if we collect information that you choose to provide to us by using a Treasury generated hashtag or when you send information to Treasury via email, postal mail, or telephone as instructed on a Treasury account on a particular social media website. Please see the Social Media section below for more information. 
 
-## Privacy Policy
+### Privacy Policy
 
 #### Information Collection 
 
@@ -73,36 +71,31 @@ Treasury maintains and disposes of all information it collects on Treasury.gov (
 
 #### Sharing and Disclosure
 
-  * **Internal Sharing -** A limited number of Treasury employees and contractors must have access to the information provided on Treasury.gov to perform their duties related to the information you submit to us.  This includes employees and contractors responsible for Treasury.gov maintenance and security as well as employees and contractors whose duties include responding to the particular complaint, feedback, or request received. ****
-
-
+  * **Internal Sharing -** A limited number of Treasury employees and contractors must have access to the information provided on Treasury.gov to perform their duties related to the information you submit to us.  This includes employees and contractors responsible for Treasury.gov maintenance and security as well as employees and contractors whose duties include responding to the particular complaint, feedback, or request received.
   * **External Sharing -** We disclose information collected on Treasury.gov only as required by law and/or for purposes consistent with the Privacy Act of 1974.  Treasury does not share personally identifiable information obtained on Treasury.gov with other federal agencies or other governmental or non-governmental organizations or individuals except as stated in this policy or as otherwise authorized or required by law.  When the Privacy Act applies to PII collected on Treasury.gov, disclosures within Treasury will be limited only to Treasury personnel and contractors who have a need to know the information to perform their official duties.  We do not disclose such information externally (outside of Treasury) unless the requirements of the Privacy Act are met.  For example, external disclosure may occur if the disclosure is supported by a routine use in the published [system of records notice](https://web.archive.org/privacy/issuances/Pages/default.aspx) or the disclosure is otherwise allowed by the Privacy Act.  Information collected on Treasury.gov may be subject to disclosure under the Freedom of Information Act.  
-
-
   * **Commercial Marketing -** We do not disclose, give, sell, or transfer any personal information about visitors to our website unless required by statute or for law enforcement purposes.  Moreover, we do not create individual profiles with the information you provide or share it with any private organizations. We do not collect or share information for commercial marketing purposes.
-  * ****
 
 
 
-## Web Measurement and Customization
+### Web Measurement and Customization
 
 #### Single Session and Multi-Session Cookies 
 
 Treasury.gov generally uses single session cookies (not multi-session cookies) to collect information from visitors; however our contractors may use multi-session cookies. A cookie is a small text record placed on the computer of a visitor to a website to facilitate communications between visitor's computer and websites they visit. [Treasury Directive 81-08](https://web.archive.org/about/role-of-treasury/orders-directives/Pages/td81-08.aspx), _Certification Process for the Use of Web Measurement and Customization Technologies on Treasury Websites_ , details Treasury's full policy on cookie usage.  After meeting all Treasury requirements in Treasury Directive 81-08, Treasury websites may use the following types of cookies: 
 
-  * **Single session** \- These cookies remember your online interactions within a single session or visit.  These cookies expire when you close your browser and are then automatically deleted from your computer.  Any identifier is used only within that session, is not later reused, and is deleted immediately after the session ends.  Treasury.gov's use of these technologies is referred to as a "Tier 1" use according to Office of Management and Budget Memorandum 10-22, Guidance for Online Use of Web Measurement and Customization Technologies ([OMB M-10-22](http://www.usmint.gov/xLink/?xLink=http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)).
+  * **Single session** \- These cookies remember your online interactions within a single session or visit.  These cookies expire when you close your browser and are then automatically deleted from your computer.  Any identifier is used only within that session, is not later reused, and is deleted immediately after the session ends.  Treasury.gov's use of these technologies is referred to as a "Tier 1" use according to Office of Management and Budget Memorandum 10-22, Guidance for Online Use of Web Measurement and Customization Technologies [OMB M-10-22](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf)
 
 
-  * **Multi-session without personally identifiable information**  -  These cookies remember your computer (but not you personally) and browsing activities on Treasury.gov through multiple visits.  This technology encompasses any use of multi-session web measurement and customization technologies when no PII is collected.  These cookies collect only a part of your Internet Protocol address.  This partial IP address is not PII because it cannot be linked with other information to identify you.  The use of this multi-session technology is referred to as a "Tier 2" use as that term is described in [OMB M-10-22](http://www.usmint.gov/xLink/?xLink=http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). Treasury.gov does not use multi-session cookies without PII. 
+  * **Multi-session without personally identifiable information**  -  These cookies remember your computer (but not you personally) and browsing activities on Treasury.gov through multiple visits.  This technology encompasses any use of multi-session web measurement and customization technologies when no PII is collected.  These cookies collect only a part of your Internet Protocol address.  This partial IP address is not PII because it cannot be linked with other information to identify you.  The use of this multi-session technology is referred to as a "Tier 2" use as that term is described in [OMB M-10-22](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). Treasury.gov does not use multi-session cookies without PII. 
 
 
-  * **Multi-session with personally identifiable information** \- These cookies remember the way you interact with a website through multiple visits (when you leave the site and later come back), and can collect PII about you or allow a website to recognize you (by combining it with other information provided by you). This use is "Tier 3" as that term is used in [OMB M-10-22](http://www.usmint.gov/xLink/?xLink=http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).  Treasury.gov contractors may use Multi-session cookies with PII. 
+  * **Multi-session with personally identifiable information** \- These cookies remember the way you interact with a website through multiple visits (when you leave the site and later come back), and can collect PII about you or allow a website to recognize you (by combining it with other information provided by you). This use is "Tier 3" as that term is used in [OMB M-10-22](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).  Treasury.gov contractors may use Multi-session cookies with PII. 
 
 
 
 #### Google Analytics Collection 
 
-When you visit Treasury.gov, we use Google Analytics, a web measurement service, to collect, combine, and summarize information about your use of the site.  Google Analytics collects and analyzes information regarding your browsing activities using a "cookie" that Google places on your computer.  The Google Analytics software automatically "anonymizes" (i.e., masks the information so it cannot be identified with you) any PII by removing the portion of the Internet Protocol address that could potentially link to your computer or other device to the individual before the information is sent to Google for analysis.  Google does not receive any PII from your visit to Treasury.gov.  Google automatically receives the anonymized data and immediately combines your data with other Treasury.gov visitors' data for analysis.  Neither Treasury.gov nor Google ever have access to information regarding the specifics of your browsing activities on the site.  The cookies expire after you leave Treasury.gov and they are automatically deleted from your computer.  This use is "Tier 1" according to [OMB M-10-22](http://www.usmint.gov/xLink/?xLink=http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). ****
+When you visit Treasury.gov, we use Google Analytics, a web measurement service, to collect, combine, and summarize information about your use of the site.  Google Analytics collects and analyzes information regarding your browsing activities using a "cookie" that Google places on your computer.  The Google Analytics software automatically "anonymizes" (i.e., masks the information so it cannot be identified with you) any PII by removing the portion of the Internet Protocol address that could potentially link to your computer or other device to the individual before the information is sent to Google for analysis.  Google does not receive any PII from your visit to Treasury.gov.  Google automatically receives the anonymized data and immediately combines your data with other Treasury.gov visitors' data for analysis.  Neither Treasury.gov nor Google ever have access to information regarding the specifics of your browsing activities on the site.  The cookies expire after you leave Treasury.gov and they are automatically deleted from your computer.  This use is "Tier 1" according to [OMB M-10-22](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). ****
 
 If you navigate to Treasury.gov solely to read or download information, Google Analytics collects and stores only the following information in order to deliver aggregate data to Treasury:
 
@@ -111,18 +104,17 @@ If you navigate to Treasury.gov solely to read or download information, Google A
       * Your internet connection speed;
       * Date/Time of Access: the date and time when you accessed Treasury.gov;
       * Content: the pages you visited and files you downloaded from Treasury.gov; 
-      * Referrer: the IP address of a website that may have referred you (i.e., linked you) to Treasury.gov; and Device/Browser: technical information about the device you used to access Treasury.gov (e.g., operating system, screen resolution and color, Flash/Java support, and language).
-
+      * Referrer: the IP address of a website that may have referred you (i.e., linked you) to Treasury.gov; and Device/Browser: technical information about the device you used to access Treasury.gov (e.g., operating system, screen resolution and color, Flash/Java support, and language). 
 
 
 
 #### Google Analytics Use
 
-We use information aggregated automatically by Google Analytics to analyze information for statistical purposes and to manage and improve Treasury.gov content. Google does not maintain PII collected from your computer and the summaries produced by Google do not contain PII.  The summaries contain statistical information that we use to assess what information is of most interest to visitors, to identify system performance or problem areas, and to improve your experience when visiting the site.  For instructions on opting out of cookies, please see [Google's Privacy Policy and How to Opt Out of Google Cookies](https://web.archive.org/SitePolicies/Pages/Google-Privacy-Information.aspx) _._   Treasury maintains and destroys records consisting of information it collects on Treasury.gov according to federal records retention policies and National Archives and Records Administration requirements.  For more information on Google's retention practices, please see [Google Privacy and Terms](http://www.google.com/policies/privacy/).  
+We use information aggregated automatically by Google Analytics to analyze information for statistical purposes and to manage and improve Treasury.gov content. Google does not maintain PII collected from your computer and the summaries produced by Google do not contain PII.  The summaries contain statistical information that we use to assess what information is of most interest to visitors, to identify system performance or problem areas, and to improve your experience when visiting the site.  For instructions on opting out of cookies, please see [Google's Privacy Policy and How to Opt Out of Google Cookies](https://web.archive.org/SitePolicies/Pages/Google-Privacy-Information.aspx).  Treasury maintains and destroys records consisting of information it collects on Treasury.gov according to federal records retention policies and National Archives and Records Administration requirements.  For more information on Google's retention practices, please see [Google Privacy and Terms](http://www.google.com/policies/privacy/).  
 
 #### ForeSee Collection 
 
-Treasury has a contract with ForeSee that allows ForeSee to place a single-session cookie on your computer when you visit Treasury.gov to administer a customer satisfaction survey.  ForeSee uses a single session cookie that prevents you from being presented with the survey multiple times in the same browser session.  This cookie expires once you exit the Treasury.gov website and close your browser.  It does not collect your PII (e.g., it does not collect Internet Protocol addresses) or identify visitors personally.  This use is a "Tier 1" cookie according to [OMB M-10-22](http://www.usmint.gov/xLink/?xLink=http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).
+Treasury has a contract with ForeSee that allows ForeSee to place a single-session cookie on your computer when you visit Treasury.gov to administer a customer satisfaction survey.  ForeSee uses a single session cookie that prevents you from being presented with the survey multiple times in the same browser session.  This cookie expires once you exit the Treasury.gov website and close your browser.  It does not collect your PII (e.g., it does not collect Internet Protocol addresses) or identify visitors personally.  This use is a "Tier 1" cookie according to [OMB M-10-22](https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf).
 
 #### ForeSee Use 
 
@@ -144,9 +136,9 @@ You may opt out of receiving cookies by following the instructions at USA.gov, [
 
 ##  
 
-## Social Media 
+### Social Media 
 
-We use social media websites to engage in dialog that increases government transparency, promotes public participation, and encourages collaboration with the public. We currently maintain official Treasury accounts on the following social media websites: [Facebook](http://www.facebook.com/privacy/explanation.php), [Twitter](http://twitter.com/privacy), [YouTube](http://www.youtube.com/t/privacy_at_youtube), and [Flickr](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html).  Treasury's bureaus maintain accounts on these and other social media websites.  Please see "Treasury Bureaus **"** in this policy to link to the appropriate Treasury bureau privacy policy.  ****
+We use social media websites to engage in dialog that increases government transparency, promotes public participation, and encourages collaboration with the public. We currently maintain official Treasury accounts on the following social media websites: [Facebook](http://www.facebook.com/privacy/explanation.php), [Twitter](http://twitter.com/privacy), [YouTube](http://www.youtube.com/t/privacy_at_youtube), and [Flickr](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html).  Treasury's bureaus maintain additional accounts on these and other social media websites.  Please consult the appropriate Treasury [bureau privacy policy](https://web.archive.org/SitePolicies/Pages/privacy.aspx#_Treasury_Bureaus) for more information. We do not control, moderate, or endorse the comments or opinions provided by visitor to these sites. These social media sites have their own privacy policies and we encourage you to read each policy for the social media sites that you use. 
 
 #### External Privacy Policies 
 
@@ -167,7 +159,7 @@ There are some limited circumstances when Treasury will collect PII from social 
 
 Treasury maintains a website called "The New 10" to interact with the public on matters related to specific Treasury missions, initiatives, activities, and functions.  Treasury collects and maintains on the "The New 10" website information from individuals who engage with Treasury by directly publishing content on "The New 10" website, on Treasury.gov or through third-party social media websites by publishing information using specified web forms and Treasury-generated social media hashtags related to Treasury missions, activities, initiatives, or operations. If you use a Treasury-generated hashtag, Treasury may aggregate your posts from various social media sites for republication on, "The New 10" website.   You may also post comments without the use of social media sites by using the "Share Your Ideas" section on "The New 10" website.
 
-## Information Safeguards 
+### Information Safeguards 
 
 Unauthorized uploading or unauthorized attempts to upload or change information on Treasury.gov is strictly prohibited and is punishable by law, including under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.  Treasury.gov uses software that can monitor network traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage to the website.  Use of this system constitutes consent to such monitoring and auditing.  Except for authorized law enforcement investigations, this monitoring and auditing is not used to identify individual users or their usage habits. 
 
@@ -181,7 +173,7 @@ If you choose to transmit or receive personal information electronically (such a
 
 Treasury employees and contractors are required to safeguard personally identifiable information as well as other sensitive information.  All Treasury employees and contractors are required to take annual privacy training and information security training.  This training includes proper handling of information subject to the Privacy Act of 1974 and other personally identifiable information.    
 
-## Monitoring 
+### Monitoring 
 
 Treasury.gov is an official United States Government system which may be used only for authorized purposes. To keep Treasury.gov available and secure, Treasury monitors network traffic to the extent necessary to identify unauthorized attempts to add or change information, or otherwise cause damage to the website.  "Except for authorized law enforcement investigations, this monitoring and auditing is not used to identify individual users or their usage habits except as otherwise stated in this policy."  
 Visiting Treasury.gov constitutes consent to such monitoring and auditing.
@@ -190,11 +182,11 @@ Visiting Treasury.gov constitutes consent to such monitoring and auditing.
 
 Visitors who violate the law while using Treasury.gov are subject to prosecution.  Unauthorized attempts to alter the confidentiality, integrity, and availability of information on this website are strictly prohibited and are subject to prosecution, including under the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act of 1996, and 18 U.S.C. §§ 1001 and 1030.
 
-## Children's Online Privacy 
+### Children's Online Privacy 
 
 Treasury is committed to protecting children's online privacy.  Treasury.gov does not attempt to collect personally identifiable information online from children under the age of 13.  When visitors to Treasury.gov submit personally-identifiable information through Treasury.gov (e.g., email address, name, or postal address), they are warranting that they are 18 years of age or older. 
 
-## Legal Disclaimers 
+### Legal Disclaimers 
 
 #### Endorsements 
 
