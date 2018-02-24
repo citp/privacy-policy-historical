@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legionathletics.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222032424id_/https%3A//legionathletics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legionathletics.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224154757id_/https%3A//legionathletics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legion Athletics
 
@@ -88,8 +88,6 @@ This policy was last modified on August 13, 2013
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://legionathletics.com
 
 601 Cleveland St. Suite 710  
 Clearwater, FL 33755  
