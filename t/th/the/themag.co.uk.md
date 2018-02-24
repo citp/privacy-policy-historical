@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002141330id_/https%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themag.co.uk privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224224627id_/https%3A//www.themag.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # The Mag Privacy Policy | NUFC The Mag
 
@@ -30,11 +30,11 @@ We will ensure that your personal data will not be disclosed to third parties ex
 
 **Can I see the information you hold about me? And can I amend it?**
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information, please email enquiries@themag.co.uk.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information, please email [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection)
 
-If you believe that any information we are holding on you is incorrect, please e-mail us at enquiries@themag.co.uk. We will correct any information which was found to be incorrect within 28 days and without charge.
+If you believe that any information we are holding on you is incorrect, please e-mail us at [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection) We will correct any information which was found to be incorrect within 28 days and without charge.
 
-If you have agreed to the disclosure of personal information and to receiving marketing and promotional information, but no longer wish to do so, then please contact us at enquiries@themag.co.uk.
+If you have agreed to the disclosure of personal information and to receiving marketing and promotional information, but no longer wish to do so, then please contact us at [[email protected]](https://www.themag.co.uk/cdn-cgi/l/email-protection)
 
 If you are unhappy with our response, you can ask the Information Commissioner to assess whether the requirements of the Data Protection Act have been met. Write to The Information Commissioner at Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF.
 
