@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandhotelcasino.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224061835id_/http%3A//www.grandhotelcasino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandhotelcasino.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224081101id_/http%3A//www.grandhotelcasino.com/privacy) for the most accurate reproduction.*
 
 # Security : Grand Hotel Casino Privacy Policy
 
