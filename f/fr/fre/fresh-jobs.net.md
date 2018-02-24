@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresh-jobs.net privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224190716id_/http%3A//fresh-jobs.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresh-jobs.net privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224073405id_/http%3A//fresh-jobs.net/privacy) for the most accurate reproduction.*
 
 # Fresh-Jobs.net - Jobs around the world. Find Jobs.
 
