@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205214139id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224164450id_/https%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DVF | Privacy Policy
 
@@ -13,7 +13,7 @@ If you are in the European Union, the DvF subsidiary or affiliate who owns and o
 
 ### How Does the Website Work?
 
-The Website enables anonymous visitors ("Visitors") to browse the Website, and Visitors who register with the Website ("Registrants") as described in DvF's terms of use agreement located at <http://www.dvf.com/terms-of-use.html> (the "Terms of Use"), to purchase products through the Website more quickly and otherwise save your information with DvF. The terms "you", "your" and "yours" when used herein refer to either Registrants or Visitors or to both Registrants and Visitors collectively, as applicable, provided, that such terms will refer collectively to both Registrants and Visitors unless the context of this Privacy Policy indicates otherwise.
+The Website enables anonymous visitors ("Visitors") to browse the Website, and Visitors who register with the Website ("Registrants") as described in DvF's terms of use agreement located at [http://www.dvf.com/terms-of-use.html](https://www.dvf.com/terms-of-use.html) (the "Terms of Use"), to purchase products through the Website more quickly and otherwise save your information with DvF. The terms "you", "your" and "yours" when used herein refer to either Registrants or Visitors or to both Registrants and Visitors collectively, as applicable, provided, that such terms will refer collectively to both Registrants and Visitors unless the context of this Privacy Policy indicates otherwise.
 
 BY USING THE WEBSITE OR SUBMITTING INFORMATION IN OUR STORES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION AS DESCRIBED HEREIN. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE US WITH YOUR INFORMATION.
 
@@ -185,7 +185,7 @@ The Website is intended for general use of persons who have reached the age of c
 
 ### Do we have Mechanisms in Place to Permit Access, Removal, and Complaints Regarding Information That We Collect? 
 
-You may access and update your Personal Information by logging into your account on the Website or by contacting DvF. If you wish to remove Personal Information that you have submitted to DvF, please send us an email requesting such removal to [clientservices@dvf.com ](http://www.dvf.com/contactus/). If you have questions or concerns about any of our information collection or handling practices, please contact us at [clientservices@dvf.com](http://www.dvf.com/contactus/) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
+You may access and update your Personal Information by logging into your account on the Website or by contacting DvF. If you wish to remove Personal Information that you have submitted to DvF, please send us an email requesting such removal to [clientservices@dvf.com ](https://www.dvf.com/contactus/). If you have questions or concerns about any of our information collection or handling practices, please contact us at [clientservices@dvf.com](https://www.dvf.com/contactus/) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014. 
 
   
 
@@ -208,7 +208,7 @@ California Civil Code Section 1798.83 permits our Visitors who are California re
 
 If you would like to contact DvF regarding your Personal Information or any of the content in this Privacy Policy, please reach out to us using the following information: 
 
-By email: [clientservices@dvf.com](http://www.dvf.com/contactus/)   
+By email: [clientservices@dvf.com](https://www.dvf.com/contactus/)   
 By mail:   
 DVF Studio, LLC   
 Attn: Customer service for DVF.COM   
