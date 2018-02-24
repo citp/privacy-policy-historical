@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612181157id_/http%3A//www.wanderlust.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wanderlust.co.uk privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224113344id_/https%3A//www.wanderlust.co.uk/system-pages/privacy-policy) for the most accurate reproduction.*
 
-# Wanderlust
+# Privacy Policy | Wanderlust
 
-This privacy policy covers the websites www.wanderlust.co.uk and www.gowander.com which are owned and operated by Wanderlust Publications Ltd, Leworth Place, Mellor Walk, Windsor, Berks SL4 1EB Great Britain, hereinafter referred to as ‘Wanderlust’. Reference to ‘website’ or ‘websites’ in this document means both websites.
+This privacy policy covers the website www.wanderlust.co.uk which are owned and operated by Wanderlust Publications Ltd, Leworth Place, Mellor Walk, Windsor, Berks SL4 1EB Great Britain, hereinafter referred to as ‘Wanderlust’. Reference to ‘website’ or ‘websites’ in this document means both websites.
 
 Wanderlust takes the privacy of its users seriously. Generally, you can browse through our websites without giving us any information about yourself (including your email address). When we do need your personal information to place an order or when you choose to provide us with your personal information in order to be able to access restricted content or interact with our websites, this policy describes how we collect and use your personal information.
 
@@ -48,4 +48,4 @@ We will only perform the activities outlined above to the extent that such activ
 **We may change this privacy policy from time to time. When such a change is made we will post a revised version on the Website. It is your responsibility to view this privacy policy from time to time to be aware of any such change. Your continued use of the Website will indicate your agreement to any such change.
 
 **Further information  
-**If you have any further enquiries or concerns about our privacy policy please email us at info@wanderlust.co.uk or write to us at the above address. 
+**If you have any further enquiries or concerns about our privacy policy please email us at info@wanderlust.co.uk or write to us at the above address.
