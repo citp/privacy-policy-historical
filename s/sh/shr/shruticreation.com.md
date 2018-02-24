@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shruticreation.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112084106id_/https%3A//www.shruticreation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shruticreation.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224090347id_/https%3A//www.shruticreation.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
