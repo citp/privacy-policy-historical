@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobicow.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019180953id_/http%3A//www.mobicow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicow.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224114513id_/http%3A//www.mobicow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Mobicow | Privacy Policy
 
