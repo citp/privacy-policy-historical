@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905184730id_/http%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forzieri.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224051108id_/https%3A//www.forzieri.com/usa/help/security-and-privacy/privacy-policy.asp%3Fl%3Dusa%26c%3Dusa) for the most accurate reproduction.*
 
 # FORZIERI | Help | Security & Privacy | Privacy Policy
 
 ## Privacy Policy
 
-Last Updated on 2015-04-15
+Last Updated on 2017-11-08
 
 We want to assure you that FORZIERI respects your privacy. Information provided to us as a result of your online purchase is completely confidential - FORZIERI does not sell, rent, or loan any personally identifiable information regarding its customers to any third party in ways different than disclosed in this privacy policy
 
@@ -30,7 +30,7 @@ We at FORZIERI have created this section of our website dedicated to the straigh
 
 Questions regarding this statement should be directed to our Info Center by e-mail, snail-mail (postal letter), or by phone:
 
-[email contact](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
+[email contact](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
 FORZIERI/Firenze Seta srl  
 Via della Vigna Nuova 85r  
 50123 Florence, Italy
@@ -50,7 +50,7 @@ Service related or confirmation emails disclosure: because these emails are rela
 
 #### via Forzieri Privileges Club
 
-If you sign up to become a member of our Forzieri Privileges Club, we will send an e-mail newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your consent via our [Forzieri Privileges Club Page](http://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) or by visiting our store in person and signing up. If you wish to stop receiving our newsletter, please click on the link marked **"unsubscribe"** which can be found at the bottom of every email.
+If you sign up to become a member of our Forzieri Privileges Club, we will send an e-mail newsletter with our announcements and special offers from time to time until you decide to unsubscribe. Subscription to our newsletter is optional and requires your consent via our [Forzieri Privileges Club Page](https://www.forzieri.com/usa/privclub.asp?l=usa&c=usa) or by visiting our store in person and signing up. If you wish to stop receiving our newsletter, please click on the link marked **"unsubscribe"** which can be found at the bottom of every email.
 
 #### via Sweepstakes Entry Form
 
@@ -58,7 +58,7 @@ To enter our Sweepstakes, we require your name, mailing address, e-mail address 
 
 #### via Affiliate Program
 
-To sign up for the Affiliate Program, you must fill out the general information form which includes your name, title, e-mail, phone, fax, address and then submit this form to: LinkShare, (this link is located directly on our web site) an independent 3rd party company that produces and manages affiliate tracking systems - they provide an independent accounting of all transactions and real-time, online reporting. Please be advised that all the information collected on the general information form stays with LinkShare not FORZIERI. We can only contact you via LinkShare. You simply have to place a text link, a banner, or a graphic button (we will provide them) on your Web site, e-mail or newsletter. If you want to be deleted from this program just contact LinkShare directly at [www.linkshare.com](http://www.linkshare.com/).
+To sign up for the Affiliate Program, you must fill out the general information form which includes your name, title, e-mail, phone, fax, address and then submit this form to: LinkShare, (this link is located directly on our web site) an independent 3rd party company that produces and manages affiliate tracking systems - they provide an independent accounting of all transactions and real-time, online reporting. Please be advised that all the information collected on the general information form stays with LinkShare not FORZIERI. We can only contact you via LinkShare. You simply have to place a text link, a banner, or a graphic button (we will provide them) on your Web site, e-mail or newsletter. If you want to be deleted from this program just contact LinkShare directly at [www.linkshare.com](https://www.linkshare.com/).
 
 #### via Wish List set-up
 
@@ -66,7 +66,7 @@ By creating a Wish List on the FORZIERI Site you are required to provide your na
 
 #### via Catalog Requests form
 
-When requesting a catalog via our web form, you are required to provide your full name , shipping address and phone number. This information will not be shared or sold to third parties and you will not receive additional mailings other than the FORZIERI catalogs. To opt-out from your catalog subscription please [contact us via e-mail](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O)
+When requesting a catalog via our web form, you are required to provide your full name , shipping address and phone number. This information will not be shared or sold to third parties and you will not receive additional mailings other than the FORZIERI catalogs. To opt-out from your catalog subscription please [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O)
 
 #### via Live Chat
 
@@ -94,6 +94,8 @@ If you entered our site by clicking a link on one of our affiliate web sites, we
 
 It is our privacy policy here at FORZIERI to respect the privacy of our visitors to the utmost of our ability. We do not share your personally identifiable information with any other entities other than the necessary third parties in the normal processing of your orders. These third parties are prohibited from using your personally identifiable information for any secondary purposes.
 
+In accordance with item IV, art. 25, c. 6 "Transfer of personal data to third countries" of the Directive 95/46/EC, the data may be transferred to non EU countries or countries not belonging to the European Economic Area, that however grant an adequate level of protection of the personal data. In any case, the data processing will take place in accordance with the provisions of the current rules and regulations.
+
 ### Security
 
 We utilize industry standard SSL encryption when accepting your credit card information during our online checkout process. In addition, we utilize the same encryption standard when transferring your credit card data to our payment processing gateway.
@@ -106,11 +108,11 @@ We may include links to other sites and if you decide to follow those links, alt
 
 #### Order information
 
-To make any changes to your order, please [contact us via e-mail](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O) or phone 011 39 055 210731 and we will be happy to assist you. FORZIERI will send you a confirmation after receiving any changes/updates made to your order.
+To make any changes to your order, please [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=O) or phone 011 39 055 210731 and we will be happy to assist you. FORZIERI will send you a confirmation after receiving any changes/updates made to your order.
 
 #### Sweepstakes entry
 
-To be removed from our sweepstakes, please send us an e-mail stating your wish and include the e-mail address with which you registered. We will send a confirmation of your request to that e-mail address and your sweepstakes entry will be deleted. To make any other changes to your sweepstakes entry, please contact us via e-mail or phone and we will be happy to assist you. For any of the above issues [contact us via e-mail](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=M).
+To be removed from our sweepstakes, please send us an e-mail stating your wish and include the e-mail address with which you registered. We will send a confirmation of your request to that e-mail address and your sweepstakes entry will be deleted. To make any other changes to your sweepstakes entry, please contact us via e-mail or phone and we will be happy to assist you. For any of the above issues [contact us via e-mail](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=M).
 
 #### Account Information
 
@@ -148,7 +150,7 @@ If users have any questions or suggestions regarding our privacy policy, please 
 
 Andrea Forzieri  
 +39 055 7251077  
-[contact us](http://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
+[contact us](https://www.forzieri.com/usa/help/help_webform.asp?l=usa&c=usa&areaInfo=G)  
 FORZIERI/Firenze Seta srl  
 Via della Vigna Nuova 85r  
 50123 Florence - Italy
