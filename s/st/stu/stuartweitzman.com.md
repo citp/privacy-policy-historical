@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606151528id_/http%3A//www.stuartweitzman.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuartweitzman.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224172403id_/https%3A//www.stuartweitzman.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Shop Stuart Weitzman
 
-Welcome to www.stuartweitzman.com ("the Site"), the United States online store of STUART WEITZMAN® , which is operated by Stuart Weitzman Retail Stores, LLC (Stuart Weitzman IP, LLC and its affiliates, including Stuart Weitzman Retail Stores, LLC, are hereinafter collectively referred to as "Stuart Weitzman".)
+Welcome to www.stuartweitzman.com ("the Site"), the United States online store of STUART WEITZMAN® , which is operated by Coach Services, Inc (Coach Services, Inc and its affiliates, including Coach Services, Inc are hereinafter collectively referred to as "Stuart Weitzman".)
 
 This privacy policy explains Stuart Weitzman’s information and data processing practices, as well as the choices you can make about the way your personal information or personally identifiable information (“PII”) is collected in Stuart Weitzman-owned and operated stores, on our social media platforms and via our Site, as well as the manner in which Stuart Weitzman will use your information.
 
