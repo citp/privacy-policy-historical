@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228110629id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225063840id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
 
 # GSK Privacy Statement
 
@@ -65,12 +65,12 @@ GSK reserves the right to disclose personal information about you, including you
 
 
 
-PII collected may be transferred to, stored and processed in your country of residence or any other country in which GSK (including its affiliates), subcontractors or agents maintain facilities, including the United States and countries outside the European Economic Area (EEA).  This means that your information may be processed in countries with lower data protection standards than your country of residence.  By using our websites and mobile applications, you consent to any transfer, processing or storing of information outside of your country of residence and outside the EEA.  We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Privacy Statement.  
+PII collected may be transferred to, stored and processed in your country of residence or any other country in which GSK (including its affiliates), subcontractors or agents maintain facilities, including the United States and countries outside the European Economic Area (EEA).  This means that your information may be processed in countries with lower data protection standards than your country of residence.  By using our websites and mobile applications, you consent to any transfer, processing or storing of information outside of your country of residence and outside the EEA.  We will ensure that if information is transferred outside your country of residence, it will still be treated in accordance with this Privacy Statement.   
  
 
 #### Use of IP addresses
 
-An IP address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your organisation's local area network (LAN) or wide area network (WAN).  Web servers automatically identify your computer by the IP address assigned to it during your session online.
+An IP address is a set of numbers that is automatically assigned to your computer whenever you log on to your Internet service provider or through your organisation's local area network (LAN) or wide area network (WAN).  Web servers automatically identify your computer by the IP address assigned to it during your session online. 
 
 GSK, or third party companies acting on our behalf, may collect IP addresses for the purposes of systems administration and to audit the use of our websites.  We also may use IP addresses to identify users of our websites when we feel it is necessary to enforce compliance with the websites’ terms of use or to protect our service, websites or other users.
 
