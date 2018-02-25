@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226131746id_/http%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225232311id_/https%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Techwatch Tech News
 
@@ -14,4 +14,4 @@ However, please be advised that our advertising partners, run through Google Ads
 
 Again, this cookie does not collect personally identifiable information, but if you are concerned about your privacy on this issue, you can opt out of any such targeted advertising [directly with Google here](https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&url=http://www.wpbeginner.com/beginners-guide/why-you-need-a-cdn-for-your-wordpress-blog-infographic/&hl=en&client=ca-pub-7626011231493911&adU=Fasthosts.co.uk&adT=VPS:+Award+Winner+2011&adU=Peer1Hosting.co.uk/Web_Servers&adT=PEER+1+UK+Web+Servers&adU=www.netservers.net.uk&adT=Windows+Server+%C2%A343.99+pcm&gl=GB).
 
-[](http://a-fwd.com/uk=brite-21&com=brite0a7-20&asin=B01MA15JNW&asin-au=B01M2UHXR8&asin-es=B01M2UHXR8&asin-it=B01M2UHXR8&asin-fr=B01M2UHXR8&asin-de=B01M2UHXR8&asin-uk=B01M2UHXR8&asin-ca=B01M2UHXR8&asin-com=B01MA15JNW)
+[](http://bit.ly/2sbnERl)
