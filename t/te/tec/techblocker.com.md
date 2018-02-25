@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the techblocker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblocker.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225201730id_/http%3A//techblocker.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Tech Blocker
-
-Privacy Policy - Tech Blocker
+# Contact Us | TechBlocker | The world's most effective ad blocker
 
 General
 
 Techblocker is strongly committed to protect your privacy and provide a safe online experience for all of our users and registered customers while offering the highest quality products and services to them. We may gather certain types of information about and from you to fulfill your request and serve your needs better, we feel you should fully understand the terms and conditions covering the collection and use of this information. This privacy statement discloses what information we may gather, how we may use it and how to correct or change it. 
 
-Please read the [Privacy Policy](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/privacy.html) completely, as well as our [Terms and Conditions](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/termsofuse.html) for use of information we may gather. Should you have any questions in this regard, feel free to contact us. 
+Please read the [Privacy Policy](https://web.archive.org/web/20180225201730id_/http%3A//techblocker.com/privacy.php) completely, as well as our [Terms and Conditions](https://web.archive.org/web/20180225201730id_/http%3A//techblocker.com/termsofuse.php) for use of information we may gather. Should you have any questions in this regard, feel free to contact us. 
 
 What Information we may collect about you?
 
@@ -64,7 +62,7 @@ Issue reporter
 
 Techblocker lets the user send issue reports which will be temporarily stored on the Techblocker.com domain. Issue reports contain information required to solve issues including the browser version, address of the web page where the problem is visible, items which can be blocked on any particular web page, matching filters and active subscriptions.
 
-For further information in Issue reporter, please visit Techblocker.com [Privacy Policy](https://web.archive.org/web/20170606040938id_/http%3A//techblocker.com/en/privacy.html).
+For further information in Issue reporter, please visit Techblocker.com [Privacy Policy](https://web.archive.org/web/20180225201730id_/http%3A//techblocker.com/privacy.html).
 
 Other
 
