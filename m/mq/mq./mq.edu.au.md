@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mq.edu.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mq.edu.au privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy) for the most accurate reproduction.*
 
 # Macquarie University - Privacy
 
@@ -7,53 +7,54 @@
   * [Study](https://web.archive.org/study)
   * [Research](https://web.archive.org/research)
   * [Connect](https://web.archive.org/connect)
-  * [About](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about)
-    * [About the University](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university)
-      * [The Macquarie story](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/the-macquarie-story)
-      * [Our commitment to Aboriginal and Torres Strait Islander Peoples](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/our-commitment-to-aboriginal-and-torres-strait-islander-peoples)
-      * [Strategy and initiatives](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/strategy-and-initiatives)
-      * [Governance](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance)
-        * [Executive](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/executive)
-        * [Macquarie University Council](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/macquarie-university-council)
-        * [Academic Senate](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/academic-senate)
-        * [Policy Central](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/policy-central)
-        * [Annual reports](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/annual-reports)
-        * [Right to information](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/right-to-information)
-        * [Complaints management](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/complaints-management)
-        * [Privacy](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy)
-          * [Privacy policy](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-policy)
-          * [The Health Records and Information Privacy Act](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/the-health-records-and-information-privacy-act)
-          * [Privacy Act 1998](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-act-1998)
-          * [Useful links](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/useful-links)
-          * [Contacts](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/privacy/contacts)
-        * [Elections](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/elections)
-      * [Faculties and departments](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/faculties-and-departments)
-      * [Offices and units](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/offices-and-units)
-      * [Job opportunities](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/job-opportunities)
-      * [Our campus](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/our-campus)
-    * [Campus services and facilities](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/campus-services-and-facilities)
-    * [News and events](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/news-and-events)
-    * [Contacts and maps](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/contacts-and-maps)
+  * [About](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about)
+    * [About the University](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university)
+      * [The Macquarie story](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/the-macquarie-story)
+      * [Our commitment to Aboriginal and Torres Strait Islander Peoples](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/our-commitment-to-aboriginal-and-torres-strait-islander-peoples)
+      * [Strategy and initiatives](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/strategy-and-initiatives)
+      * [Governance](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance)
+        * [Executive](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/executive)
+        * [Macquarie University Council](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/macquarie-university-council)
+        * [Academic Senate](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/academic-senate)
+        * [Policy Central](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/policy-central)
+        * [Annual reports](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/annual-reports)
+        * [Right to information](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/right-to-information)
+        * [Complaints management](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/complaints-management)
+        * [Privacy](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy)
+          * [Privacy policy](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-policy)
+          * [The Health Records and Information Privacy Act](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/the-health-records-and-information-privacy-act)
+          * [Privacy Act 1998](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/privacy-act-1998)
+          * [Useful links](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/useful-links)
+          * [Contacts](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/contacts)
+          * [Risk Online Active Reporting (ROAR)](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/privacy/risk-online-active-reporting-roar)
+        * [Elections](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/governance/elections)
+      * [Faculties and departments](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/faculties-and-departments)
+      * [Offices and units](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/offices-and-units)
+      * [Job opportunities](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/job-opportunities)
+      * [Our campus](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/about-the-university/our-campus)
+    * [Campus services and facilities](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/campus-services-and-facilities)
+    * [News and events](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/news-and-events)
+    * [Contacts and maps](https://web.archive.org/web/20180225235007id_/https%3A//www.mq.edu.au/about/contacts-and-maps)
 
 
 
-### Overview 
+### Overview
 
 Macquarie University is about discovery, learning and participation in a borderless world. We are a dynamic, flexible and engaged university committed to excellence in research, teaching and global citizenship. In undertaking its learning and teaching, research, and community engagement functions, the University collects, stores, and uses a broad range of personal and health information relating to students (including prospective, current and alumni), staff, patients and others who interact with it.
 
 Macquarie University is committed to protecting the privacy of its students, employees and others who interact with it while undertaking its learning and teaching, research, engagement, and associated administrative activities and support services.
 
-The University is required to comply with the [NSW _Privacy and Personal Information Protection Act 1998_ ( **PPIPA** ) ](http://www.ipc.nsw.gov.au/ppip-act "PPIPA link ")and [_Health Records and Information Privacy Act 2002_   ( **HRIPA** )](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/%C2%A5http://www.ipc.nsw.gov.au/hrip-act "HRIPA") in respect of personal and health information which it collects and uses. The University aligns its practices and activities with the Information Protection Principles (IPPs), and the Health Privacy Principles (HPPs) contained in those Acts.
+The University is required to comply with the [NSW _Privacy and Personal Information Protection Act 1998_ ( **PPIPA** ) ](http://www.ipc.nsw.gov.au/ppip-act "PPIPA link ")and[ _Health Records and Information Privacy Act 2002_ ( **HRIPA** ) ](https://www.legislation.nsw.gov.au/#/view/act/2002/71 "link ")in respect of personal and health information which it collects and uses. The University aligns its practices and activities with the Information Protection Principles (IPPs), and the Health Privacy Principles (HPPs) contained in those Acts.
 
-The University’s[ Privacy Management Plan](http://www.mq.edu.au/about/about-the-university/governance/privacy/Privacy-Management-Plan-FINAL.pdf "Privacy plan 2017") provides more information on how the University implements its obligations under the PPIPA and HRIPA, and how these Acts apply to the University’s operations.
+The University’s[ Privacy Management Plan](https://www.mq.edu.au/about/about-the-university/governance/privacy/Privacy-Management-Plan-FINAL.pdf "Privacy plan 2017") provides more information on how the University implements its obligations under the PPIPA and HRIPA, and how these Acts apply to the University’s operations.
 
 ### Controlled entities
 
 Controlled entities of the University that are considered “organisations” under the Commonwealth Privacy Act must comply with the following privacy acts:
 
-  *  _[Privacy Act 1988 (Cth) (Privacy Act)](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/%C2%A5https://www.oaic.gov.au/privacy-law/privacy-act/ "Privacy ")_
+  *  _[Privacy Act 1988 (Cth) (Privacy Act)](https://www.legislation.gov.au/Details/C2014C00076 "Privacy ")_
   *  _[Privacy and Personal Information Protection Act 1998 (NSW) (PPIPA)](http://www.ipc.nsw.gov.au/ppip-act "PPIPA")_
-  *  _[Health Records and Information Privacy Act 2002 (NSW) (HRIPA)](https://web.archive.org/web/20171001163847id_/http%3A//www.mq.edu.au/about/about-the-university/governance/%C2%A5http://www.ipc.nsw.gov.au/hrip-act "HRIPA ")_
+  *  _[Health Records and Information Privacy Act 2002 (NSW) (HRIPA)](https://www.legislation.nsw.gov.au/#/view/act/2002/71 "link ")_
 
 
 
@@ -131,14 +132,14 @@ Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.
 ##### Where to next
 
   * Privacy Management Plan – Access and Accuracy
-  * Information access guidance (including GIPA /[ RFI](http://www.mq.edu.au/about/about-the-university/governance/right-to-information "RIF page "))
+  * Information access guidance (including GIPA /[ RFI](https://www.mq.edu.au/about/about-the-university/governance/right-to-information "RIF page "))
   * Information change form
 
 
 
 Need more assistance contact the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
 
-### Use 
+### Use
 
   * How do I ensure the information is accurate and up to date?
   * Is the information still relevant and fit for purpose?
@@ -182,7 +183,7 @@ Under the PPIPA and HRIPA an agency must allow access to personal and health inf
 
 Students can update their information collected as part of the admission and enrolment process via eStudent, or by contacting Ask MQ. Staff can contact HR to correct or update some of their information in HROnline. Patients can contact the University Hospital’s Health Information Services to correct or update their information in TrakCare.
 
-If any other changes are required a request can be made through the [Change My Personal Information Request form.](http://www.mq.edu.au/about/about-the-university/governance/privacy/Application-for-changes-to-information.pdf "application to change ")
+If any other changes are required a request can be made through the [Change My Personal Information Request form.](https://www.mq.edu.au/about/about-the-university/governance/privacy/Application-for-changes-to-information.pdf "application to change ")
 
 #### Making a complaint
 
@@ -200,7 +201,7 @@ Where an individual has a complaint as a result of the above, they may make a co
 
   * Resolving the matter informally with the unit involved
   * Contacting the [Privacy Officer](mailto:privacyofficer@mq.edu.au?subject=email)
-  * Applying for an [internal review](http://www.mq.edu.au/about/about-the-university/governance/privacy/Application-for-internal-review.pdf "Application for interna review ")
+  * Applying for an [internal review](https://www.mq.edu.au/about/about-the-university/governance/privacy/Application-for-internal-review.pdf "Application for interna review ")
   * Contacting the [Privacy Commissioner](http://www.ipc.nsw.gov.au/ "Privacy comm ")
 
 
