@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascendercorp.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220145516id_/http%3A//www.monotype.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascendercorp.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225091109id_/http%3A//www.monotype.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Monotype
 
@@ -79,7 +79,7 @@ We do not sell or rent your personal information to third parties. From time to 
 
 We rely on third party service providers to perform a variety of services on our behalf, and we may disclose your personal information to such service providers, for example fulfillment services, business intelligence providers, chatbot providers, ad serving companies, customer service providers, delivery services, e-commerce providers, credit card or payment processers and research and analytics providers. We do not authorize these third parties’ to use your personal information for purposes other than for which it has been provided, and we do not authorize these third parties to disclose that information to unauthorized parties.
 
-If we share your personal information with any third party, we will require such third party to maintain the confidentiality of your personal information, comply with applicable to the sharing of personal information and we will not authorize those third parties to use personal information that we provide for their direct marketing purposes unless we have explicitly given you the option to opt-in or opt-out of that disclosure. If you are a resident of the State of California, you may ask us at any time to refrain from sharing your personal information with third parties for their marketing purposes. Please tell us your preference by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cfcfee5faedeff5cce1e3e2e3f8f5fce9a2efe3e1) or by writing to us at:
+If we share your personal information with any third party, we will require such third party to maintain the confidentiality of your personal information, comply with applicable to the sharing of personal information and we will not authorize those third parties to use personal information that we provide for their direct marketing purposes unless we have explicitly given you the option to opt-in or opt-out of that disclosure. If you are a resident of the State of California, you may ask us at any time to refrain from sharing your personal information with third parties for their marketing purposes. Please tell us your preference by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#39494b504f585a4079545657564d40495c175a5654) or by writing to us at:
 
 Monotype Imaging Holdings Inc.  
 Attn: Legal Department – Privacy  
@@ -139,7 +139,7 @@ The collection and use of your information by and through third party websites, 
 
 ### Do we collect information from children under the age of 13?
 
-We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of the Services is directed to children under the age of 13. Children under 13 should not use our Services and should not provide their personal information to us. If you learn that your child or a child for which you are responsible have provided us with their personal information without your consent, you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4333312a3522203a032e2c2d2c373a33266d202c2e). If we learn that we have collected any personal information from any child under 13, we will promptly take steps to delete such information and terminate that child’s account.
+We do not knowingly collect, maintain, or use personal information from children under 13 years of age, and no part of the Services is directed to children under the age of 13. Children under 13 should not use our Services and should not provide their personal information to us. If you learn that your child or a child for which you are responsible have provided us with their personal information without your consent, you may alert us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b1b19021d0a08122b060405041f121b0e45080406). If we learn that we have collected any personal information from any child under 13, we will promptly take steps to delete such information and terminate that child’s account.
 
 ### Do we transfer data including across borders?
 
@@ -151,7 +151,7 @@ By choosing to use the Services or otherwise provide information to us, you agre
 
 ### How can you contact us?
 
-Please direct any inquiries related to this Privacy Statement, the security of your personal information or other information we have collected about you to our legal department by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95e5e7fce3f4f6ecd5f8fafbfae1ece5f0bbf6faf8), or by sending mail to:
+Please direct any inquiries related to this Privacy Statement, the security of your personal information or other information we have collected about you to our legal department by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ee9e9c87988f8d97ae838180819a979e8bc08d8183), or by sending mail to:
 
 Monotype Imaging Holdings Inc.  
 Attn. Legal Department – Privacy  
