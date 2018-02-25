@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighthubeducation.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219085037id_/http%3A//www.brighthubeducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighthubeducation.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225110928id_/https%3A//www.brighthubeducation.com/privacy.html) for the most accurate reproduction.*
 
 # brighthubeducation.com | Privacy Policy
 
@@ -131,5 +131,5 @@ USA
 brighthubeducation.com 
 
 Email:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+contact@brighthubeducation.com  
 
