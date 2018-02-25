@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maingames.co.id privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051934id_/https%3A//maingames.co.id/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maingames.co.id privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225113956id_/https%3A//maingames.co.id/privacy) for the most accurate reproduction.*
 
-# maingames
+# Maingames
 
 **Maingames company (www.maingames.com)** respects the privacy rights of our users and is committed to protecting the information collected through its products, services, and websites accessed through any internet-capable hardware platform including personal computers, mobile computers, smartphones, or in-game applications or any software platform including Online Services.  
 Maingames recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Maingames gathers, stores, and uses information derived from their use of Maingames products, services and online sites.
