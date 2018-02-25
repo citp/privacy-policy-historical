@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dsemulator.org privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212003003id_/http%3A//3dsemulator.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsemulator.org privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225221949id_/https%3A//3dsemulator.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3dsemulator.org
 
@@ -20,7 +20,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://3dsemulator.org/privacy-policy.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://3dsemulator.org/privacy-policy>
 
 **Your Consent**
 
@@ -30,6 +30,6 @@ By using our site, you consent to our websites privacy policy.
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://3dsemulator.org/contact.html  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+http://3dsemulator.org/contact  
+admin@3dsemulator.org  
 This policy is powered by Trust Guard PCI compliance scans.
