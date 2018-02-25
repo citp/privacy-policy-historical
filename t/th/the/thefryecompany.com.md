@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefryecompany.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606115333id_/http%3A//www.thefryecompany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefryecompany.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225190539id_/https%3A//www.thefryecompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FRYE
+# Privacy and Cookie Policy
 
 ## Privacy Policy
 
@@ -97,20 +97,3 @@ This Privacy Policy was last changed in July 2016. If we make changes to any ter
 The Children's Online Privacy Protection Act took effect on April 21, 2000 and imposes certain requirements on websites directed toward children under 13, that collect information on those children, or websites that know they are collecting information on children under the age of 13.
 
 We do NOT sell products for purchase by children under 13 through thefryecompany.com. Youth-oriented products are sold for purchase by adults only. We will not knowingly or intentionally collect personal information from children under the age of 13. Frye is committed to protecting the welfare and privacy of children.
-
-Love your Fryes or send them back for a full refund,
-
-completely free, within 30 days.*
-
-* * *
-
-[Click here](https://web.archive.org/customer-care) for pre-paid return labels and to learn more about our
-
-return policy and repair program.
-
-***Free returns valid on orders in the contiguous US only.**
-
-### Thank you for signing up for our newsletter!
-
-For a tailored experience (and a birthday treat!),   
-tell us more about you...
