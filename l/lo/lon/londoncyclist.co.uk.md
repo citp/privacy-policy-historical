@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207125335id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londoncyclist.co.uk privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226162037id_/http%3A//www.londoncyclist.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - London Cyclist
 
