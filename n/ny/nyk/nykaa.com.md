@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225043053id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226120954id_/http%3A//nykaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nykaa
 
