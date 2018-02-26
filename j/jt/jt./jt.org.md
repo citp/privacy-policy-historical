@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164859id_/http%3A//www.jt.org/privacy-policy-.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jt.org privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226210815id_/http%3A//www.jt.org/privacy-policy-.html) for the most accurate reproduction.*
 
 # Privacy Policy | 855-345-0656 Privacy Information from Comcast
 
