@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinmd.io privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226224720id_/http%3A//www.coinmd.io/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinmd.io privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226021126id_/https%3A//coinmd.io/privacy.aspx) for the most accurate reproduction.*
 
 # CoinMD | Privacy Policy
 
