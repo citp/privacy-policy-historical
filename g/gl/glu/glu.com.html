@@ -1,317 +1,166 @@
-<!--The following is the downloaded HTML source of the glu.com privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218230035id_/http%3A//www.glu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the glu.com privacy policy that was archived on 2018-02-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180226164503id_/https%3A//www.glu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-	
-	<title>Glu | The Leader in 3D Freemium Mobile Gaming</title>
-	
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="Cache-control" content="public">
-	
-		
-	<meta property="og:title" content="Glu | The Leader in 3D Freemium Mobile Gaming">
-	
-	<link rel="icon" type="image/png" href="http://www.glu.com/images/favicon-32x32.png" sizes="32x32">
-	
-	<style type="text/css">
-	
-		html {
-			background-color: #010101;
-		}
-		
-		body {
-			display: none;
-		}
-	
-	</style>
-	
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://www.glu.com/scripts/jquery.js"></script>
-	<script type="text/javascript" src="http://www.glu.com/scripts/match-media.js"></script>
-	<script type="text/javascript">
-	
-		//determine if we're dealing with a touch device
-		var is_touch_device = 'ontouchstart' in window;
-		
-		if(is_touch_device)
-		{
-			//load stylesheet for touch devices
-			$("head").append('<link rel="stylesheet" type="text/css" href="http://www.glu.com/styles/styles_mobile.css" />');
-			//set meta viewport setting
-			$("head").append('<meta name="viewport" content="width=device-width, initial-scale=1" />');
-		}
-		else
-		{
-			//load full stylesheet for non-touch devices
-			$("head").append('<link rel="stylesheet" type="text/css" href="http://www.glu.com/styles/styles.css" />');
-		}
-		
-	
-		//set up mobile detection
-		var isMobile = {
-		    Android: function() {
-		        return navigator.userAgent.match(/Android/i);
-		    },
-		    BlackBerry: function() {
-		        return navigator.userAgent.match(/BlackBerry/i);
-		    },
-		    iOS: function() {
-		        return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-		    },
-		    Opera: function() {
-		        return navigator.userAgent.match(/Opera Mini/i);
-		    },
-		    Windows: function() {
-		        return navigator.userAgent.match(/IEMobile/i);
-		    },
-		    any: function() {
-		        return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-		    }
-		};
-		
-		// -- Newsletter Signup Scripts -- //
-		
-		function newsletterSignup()
-		{
-			var email_address = $("#newsletter").val();
-			
-			//verify email address
-			if(validateEmail(email_address))
-			{
-				//save the email address
-				$.ajax(
-					{
-						type: "POST",
-						data: "email=" + email_address,
-						url: "http://www.glu.com/ajax/newsletterSignup",
-						success: function(returned_data)
-						{
-							switch(returned_data)
-							{
-								case "success":
-									alert("You have been successfully signed up for our newsletter. Thank you.");
-								break;
-								
-								case "failure":
-									alert("There was a problem signing you up for our Newsletter. Please try again.");
-								break;
-								
-								case "invalid":
-									alert("Please enter a valid email address");
-								break;
-							}
-						}
-					});
-			}
-			else
-			{
-				alert("Please enter a valid email address");
-				return false;
-			}
-		}
-		
-		
-		function validateEmail(email)
-		{
-			var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-			    
-			return re.test(email);
-		}
-		
-		
-		function resetNewsletterForm()
-		{
-			var val = $("#newsletter").val();
-			
-			//clear the Email Address label if it exists
-			if(val == "Email Address")
-			{
-				$("#newsletter").val("");
-			}
-			
-			//reapply the email address label if the form is blank
-			if(val == "" || val == " ")
-			{
-				$("#newsletter").val("Email Address");
-			}
-		}
-		
-		// -- Search Field Scripts -- //
-		
-		function submitSearch()
-		{
-			//verify that there is a search term defined
-			var search_term = $("#search").val();
-			
-			if(search_term != "")
-			{
-				document.form2.submit();
-			}
-			else
-			{
-				alert("Please provide a search term.");
-				return false;
-			}
-		}
-	
-	</script>
-	
-	<!--[if lt IE 9]>
-	<link rel="stylesheet" type="text/css" href="http://www.glu.com/styles/ie.css" />
-	<script type="text/javascript" src="http://www.glu.com/scripts/jquery-ie.js"></script>
-	<![endif]-->
-	
-</head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W65GP3J"></script><script>
+dataLayer = [];
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W65GP3J');</script>
+<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+<meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+<title>Privacy Policy | Glu</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.glu.com/xmlrpc.php">
+<!--[if lt IE 9]>
+ <script src="https://www.glu.com/wp-content/themes/glu/js/html5.js"></script>
+ <noscript>This site is not optimized for this browser</noscript>
+<![endif]-->
+    
+<!-- This site is optimized with the Yoast SEO plugin v6.2 - https://yoa.st/1yg?utm_content=6.2 -->
+<meta name="description" content="Glu Mobile Privacy Policy">
+<link rel="canonical" href="https://www.glu.com/privacy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Glu">
+<meta property="og:description" content="Glu Mobile Privacy Policy">
+<meta property="og:url" content="https://www.glu.com/privacy/">
+<meta property="og:site_name" content="Glu">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Glu Mobile Privacy Policy">
+<meta name="twitter:title" content="Privacy Policy | Glu">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.glu.com\/","name":"Glu","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.glu.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
 
-<body>
-	
-	<div class="header_wrapper">
-		
-		<div class="header">
-			
-			<div class="top_hat full">
-				
-				<div class="newsletter_signup top_hat_container">
-					
-					Newsletter:&nbsp;&nbsp;<input type="text" name="newsletter" id="newsletter" value="Email Address" onfocus="resetNewsletterForm();" onblur="resetNewsletterForm();">&nbsp;&nbsp;<a class="button" onclick="newsletterSignup();">Sign Up</a>
-					
-				</div>
-				
-				<div class="social_media top_hat_container">
-					
-					<ul>
-						<li>
-							<a href="https://twitter.com/glumobile" target="_blank"><img name="twitter_button" id="twitter_button" class="full_image" data-src="http://www.glu.com/images/glu_twitter_icon.jpg" alt="Twitter Icon"></a>
-						</li>
-						<li>
-							<a href="https://www.facebook.com/glu.mobile" target="_blank"><img name="facebook_button" id="facebook_button" class="full_image" data-src="http://www.glu.com/images/glu_facebook_icon.jpg" alt="Facebook Icon"></a>
-						</li>
-						<li>
-							<a href="http://www.youtube.com/glumobilegames/" target="_blank"><img name="youtube_button" id="youtube_button" class="full_image" data-src="http://www.glu.com/images/glu_youtube_icon.jpg" alt="Youtube Icon"></a>
-						</li>
-					</ul>
-					
-				</div>
-				
-				<div class="search top_hat_container">
-					
-					<form name="form2" id="form2" method="post" action="http://www.glu.com/search/">
-						<input type="text" name="search" id="search">&nbsp;&nbsp;<a class="button" type="submit" onclick="submitSearch();">Search</a>
-					</form>
-					
-				</div>
-				
-				<div class="customer_care top_hat_container">
-					
-					<ul>
-						<li><img class="full_image" data-src="http://www.glu.com/images/glu_guy.jpg" alt="Glu Guy"></li>
-						<li><a class="button" href="http://www.glu.com/support/">Customer Care</a></li>
-					</ul>
-					
-				</div>
-				
-			</div>
-			
-			<div class="logo full">
-				
-				<a href="http://www.glu.com/">
-					<img class="full_image" data-src="http://www.glu.com/images/glu_logo.jpg" alt="Glu Logo">
-				</a>
-				
-			</div>
-			
-			<div class="nav">
-				
-				<ul class="nav full">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="glu-css-css" href="https://www.glu.com/wp-content/themes/glu/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Heebo:300,400,500%7COswald:500" type="text/css" media="all">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wp_sentry = {"dsn":"https:\/\/3f3709c15ebe47edaaac0c519e69de9c@sentry.kiosk.tm\/32","options":{"release":"1.0","environment":"Production","tags":{"wordpress":"4.9.4","language":"en-US"},"user":{"id":0,"name":"anonymous"}}};
+/* ]]> */
+</script>
+<script src="https://www.glu.com/wp-content/plugins/wp-sentry-integration/public/raven-3.22.0.min.js?ver=3.22.0"></script>
+<script src="https://www.glu.com/wp-content/themes/glu/js/glu.js"></script><noscript><div class="javascript-enable"><p>Please Enable Javascript</p></div><link rel="stylesheet" href="/wp-content/themes/glu/css/noscript.css"></noscript>
+<link rel="https://api.w.org/" href="https://www.glu.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.glu.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.glu.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.glu.com/?p=166">
+<link rel="alternate" type="application/json+oembed" href="https://www.glu.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.glu.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.glu.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.glu.com%2Fprivacy%2F&amp;format=xml">
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.9';
+</script>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.glu.com/?wordfence_lh=1&hid=C3B6F42221445022E430C9D8DE11C29D');
+</script>    <link rel="icon" type="image/png" href="https://www.glu.com/wp-content/themes/glu/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://www.glu.com/wp-content/themes/glu/images/favicon/favicon-16x16.png" sizes="16x16">
+    </head>
 
-					<li><a href="http://www.glu.com/">Home</a></li>					
-					<li><a href="http://www.glu.com/games/">Games</a></li>					
-					<li><a href="http://www.glu.com/news/category/all">News</a></li>					
-					<li><a href="http://www.glu.com/community">Community</a></li>					
-					<li><a href="http://www.glu.com/support">Support</a></li>					
-					<li><a href="http://jobs.jobvite.com/glu-mobile" target="_blank">Careers</a></li>				
-					<li><a href="http://www.glu.com/gluglobal">Glu Global</a></li>
-					
-				</ul>
-				
-				<ul class="nav mobile">
-				
-					<li><a href="http://www.glu.com/"><img class="mobile_image" data-src-mobile="http://www.glu.com/images/glu_logo_mobile.png" data-src="http://www.glu.com/images/glu_logo_mobile.png" data-src-large="http://www.glu.com/images/glu_logo_mobile.png" alt="Glu Logo"></a></li>
-					<li><a href="http://www.glu.com/games/">Games</a></li>
-					<li><a href="http://www.glu.com/news/category/all">News</a></li>	
-					<li><a href="http://www.glu.com/community">Forums</a></li>					
-					<li><a href="http://www.glu.com/support">Support</a></li>													
-					
-				</ul>
-				
-			</div>
-			
-		</div>
-		
-	</div>
-	
-	<div class="content_wrapper clear">
-		
-		<div class="content">
-			
-<!--
-	<div class="full right where">
-		
-		<h1>Where we work</h1>
-		
-		<div class="where_image">
-			
-			<img class="full_image" data-src="" alt="Where we work" />
-			
-		</div>
-		
-		<h2>Etiam interdum risus risus id pretium convallis. </h2>
-		
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus facilisis enim id dignissim. Sed vel quam tellus, vitae blandit tortor. Maecenas porttitor adipiscing euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lacus nibh, aliquet molestie mattis pretium, fringilla id ipsum. Ut elementum, tellus a ultricies pulvinar, magna massa semper quam, in condimentum nunc elit at arcu. Nam interdum odio sed nisi adipiscing quis dictum lacus euismod.</p>
-		
-	</div>
--->
+<body class="page-template-default page page-id-166 page-parent ">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W65GP3J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <header>
+        <div class="grid">
+                            <a class="logo" href="https://www.glu.com" title="Home">
+                    <img src="https://www.glu.com/wp-content/themes/glu/images/logo.svg" alt="Glu Logo">
+                </a>
+                                    <ul id="menu-header-menu" class="menu menu--header"><li id="menu-item-42" class="menu-item menu-item-type-post_type_archive menu-item-object-games menu-item-42"><a href="https://www.glu.com/games/">Games</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48"><a href="https://www.glu.com/company/">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome">Investors</a></li>
+	<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://www.glu.com/news/">News</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.glu.com/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.glu.com/careers/">Careers</a></li>
+</ul>        </div>
+        <div class="menu--mobile">Menu</div>
+    </header>
+    <main>
 
-	<h1 class="page_heading">Privacy</h1>
-	
-	<div class="full right news_widget">
-		
-		
-	<div class="news_sidebar">
-		
-		<h1>Latest News</h1>
-		
-		<div class="glu_twitter">
-			<a class="twitter-timeline" href="https://twitter.com/glumobile" data-widget-id="573637472090873856">Tweets by @glumobile</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-		</div>	
-	
-	</div>
-		
-	</div>
-	
-	<div class="page_sub_content">
-	
-			
-		<h1>Glu Mobile Privacy Policy</h1>
-	
-		<div class="page_text">
-		
-			<p>Last Updated: August 29, 2014</p>
-<p><strong>What's Changed:</strong> Please note the changes the definition of "Glu," changes in "Sharing Your Information," "Analytics, Advertising and Other Services Provided by Other Companies" and in "Your Choices" below.</p>
-<p>This Privacy Policy explains how information about you is collected, used and disclosed by Glu Mobile Inc. and its subsidiaries ("Glu," "we" or "us"). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the "Services"). This Privacy Policy does not apply to the information collected from: (1) web-based applications that are based on our mobile applications but are published by third parties, (2) mobile applications that we distribute on behalf of third parties and which are hosted and operated by such parties, or (3) the on-line submission of resumes and employment applications in connection with the Jobs section of our website.</p>
+    <div id="page" class="page-wrapper admin-content">
+
+        
+                <div class="fold">
+                    <div class="fold--left">
+                                                                                                
+    <div class="bg-blue-dark white with-border">
+        <div class="intro">
+            <div class="content-wrapper--large">
+                <div class="content">
+                <h1>Glu Mobile Privacy Policy</h1>
+                <p><strong>Last Updated: February 8, 2018</strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+                    </div>
+
+                                        
+                </div>
+
+                <div class="main">
+                    <div class="main--left">
+                        <div class="content-wrapper--large">
+                            <div class="content">
+                                                                                                <p>What’s Changed: Please note the changes in the definition of “Glu,” changes in “Sharing Your Information,” “Analytics, Advertising and Other Services Provided by Other Companies” and in “Your Choices” below.</p>
+<p>This Privacy Policy explains how information about you is collected, used and disclosed by Glu Mobile Inc. and its subsidiaries (“Glu,” “we” or “us”). This Privacy Policy applies to information we collect when you use our websites, mobile applications and other online products and services (collectively, the “Services”). This Privacy Policy does not apply to the information collected from: (1) web-based applications that are based on our mobile applications but are published by third parties, (2) mobile applications that we distribute on behalf of third parties and which are hosted and operated by such parties, or (3) the on-line submission of resumes and employment applications in connection with the Jobs section of our website.</p>
 <p>We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or mobile applications or by sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.</p>
 <h2>Collection of Information</h2>
-<p><strong>Information You Provide to Us</strong></p>
+<h3>Information You Provide to Us</h3>
 <p>We collect information you provide directly to us. For example, we collect information when you create an account, manage your user profile, participate in any interactive features of the Services, request our e-newsletter or other marketing communications, participate in a promotion or survey, request customer support or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, photograph, avatar, password, forum posts and comments, messages between users and other contact or identifying information you choose to provide. Prize winners of contests or sweepstakes may also have to provide their Social Security Numbers, which are used exclusively for prize fulfillment and related tax purposes.</p>
-<p><strong>Information We Collect Automatically When You Use the Services </strong></p>
+<h3>Information We Collect Automatically When You Use the Services</h3>
 <p>When you access or use our Services, we automatically collect information about you, including:</p>
-<ul>
-<li>Device Information: We collect device-specific information when you access our Services from a mobile device, including your hardware model, operating system and version, unique device identifiers, mobile network information and country.</li>
-<li>Use Information: We collect information about your use of the Services, including the type of browser you use, access times, pages viewed, game play activity, interactions with other players, your IP address and the page you visited before navigating to our Services.</li>
-<li>Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. For more information about cookies, and how to disable them, please see "Your Choices" below. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.</li>
-<li>Other Information Collected with Permission: Our mobile applications that are distributed through various "app" stores may also request permission to automatically collect other information from your mobile device, including your email address. We may only collect this information with your authorization in accordance with your device operating system's permission process.</li>
-</ul>
-<p>&nbsp;</p>
-<p><strong>Information We Collect From Other Sources</strong></p>
+<p><strong>Device Information: </strong><br>
+We collect device-specific information when you access our Services from a mobile device, including your hardware model, operating system and version, unique device identifiers, mobile network information and country.</p>
+<p><strong>Use Information: </strong><br>
+We collect information about your use of the Services, including the type of browser you use, access times, pages viewed, game play activity, interactions with other players, your IP address and the page you visited before navigating to our Services.</p>
+<p><strong>Information Collected by Cookies and Other Tracking Technologies: </strong><br>
+We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. For more information about cookies, and how to disable them, please see “Your Choices” below. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.</p>
+<p><strong>Other Information Collected with Permission: </strong><br>
+Our mobile applications that are distributed through various “app” stores may also request permission to automatically collect other information from your mobile device, including your email address. We may only collect this information with your authorization in accordance with your device operating system’s permission process.</p>
+<h3>Information We Collect From Other Sources</h3>
 <p>We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information, profile picture, phone number, email address, gender, date of birth and friends lists, in accordance with the authorization procedures determined by such social media site.</p>
 <h2>Use of Information</h2>
 <p>We may use information about you for various purposes, including to:</p>
@@ -341,217 +190,115 @@
 </ul>
 <p>We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.</p>
 <h2>Social Sharing Features</h2>
-<p>The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
+<p>The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.</p>
 <h2>Analytics, Advertising and Other Services Provided by Other Companies</h2>
-<p>We may allow third parties to serve advertisements in connection with our Services, to provide analytics services and provide you with other services, such as rewards programs and tournaments. These third parties may use cookies, web beacons, your account information (that you set up with these third parties) and other technologies to collect information about you on our Services and other websites and online services, such as your IP addresses, identifiers associated with your mobile device or applications on the device, the browsers you use to visit our Services, pages viewed, time spent on pages, links clicked, and conversion information. These third parties may also share this information with their customers and clients. This information may be used by Glu, and these other companies and their customers and clients, to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. Some of these third-party analytics and advertising services offer you a choice to opt out the collection of and/or sharing of this information; links to the opt-out mechanisms for the third parties that offer such a choice can be found in the "Your Choices" section below. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies.</p>
+<p>We may allow third parties to serve advertisements in connection with our Services, to provide analytics services and provide you with other services, such as rewards programs and tournaments. These third parties may use cookies, web beacons, your account information (that you set up with these third parties) and other technologies to collect information about you on our Services and other websites and online services, such as your IP addresses, identifiers associated with your mobile device or applications on the device, the browsers you use to visit our Services, pages viewed, time spent on pages, links clicked, and conversion information. These third parties may also share this information with their customers and clients. This information may be used by Glu, and these other companies and their customers and clients, to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. Some of these third-party analytics and advertising services offer you a choice to opt out the collection of and/or sharing of this information; links to the opt-out mechanisms for the third parties that offer such a choice can be found in the “Your Choices” section below. This Privacy Policy does not apply to, and we are not responsible for, third-party cookies, web beacons, or other tracking technologies.</p>
 <h2>Security</h2>
 <p>Glu takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.</p>
-<h2>Your Choices</h2>
-<p><strong>Website Account Information</strong></p>
-<p>You may update, correct or delete your website account information, which includes your username, password, email address and avatar, by logging into your website account and managing your profile. If you wish to delete or deactivate your website account, please email us at privacy[at]glu.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your website account information for a certain period of time.</p>
-<p><strong>Cookies</strong></p>
+<h3>Your Choices</h3>
+<h4>Website Account Information</h4>
+<p>You may update, correct or delete your website account information, which includes your username, password, email address and avatar, by logging into your website account and managing your profile. If you wish to delete or deactivate your website account, please email us at<br>
+<a href=" mailto:privacy@glu.com ">privacy@glu.com</a>, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your website account information for a certain period of time.</p>
+<h4>Cookies</h4>
 <p>Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.</p>
-<p><strong>Push Notifications</strong></p>
-<p>With your consent, we may send push notifications (or "alerts") to your mobile device to provide game activity information, service updates, promotional communications and other related messages. You can deactivate push notifications by changing your notification settings via your device.</p>
-<p><strong>Promotional Communications</strong></p>
-<p>You may opt out of receiving promotional messages from Glu by following the instructions in those messages or by contacting us at privacy[at]glu.com. If you opt out, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations.</p>
-<p><strong>Third Party Analytics and Advertising Services</strong></p>
+<h4>Push Notifications</h4>
+<p>With your consent, we may send push notifications (or “alerts”) to your mobile device to provide game activity information, service updates, promotional communications and other related messages. You can deactivate push notifications by changing your notification settings via your device.</p>
+<h4>Promotional Communications</h4>
+<p>You may opt out of receiving promotional messages from Glu by following the instructions in those messages or by contacting us at <a href="mailto:privacy@glu.com">privacy@glu.com<br>
+</a>. If you opt out, we may still send you transactional or relationship messages, such as those about your account or our ongoing business relations.</p>
+<h4>Third Party Analytics and Advertising Services</h4>
 <p>We have identified the provider names of some of the third-party analytics and advertising services we use. Please see the links below to learn more about the data practices of our third-party service providers (including opt-out mechanisms they may offer):</p>
-<ul>
-<li>AdColony: <a href="http://privacy.adcolony.com/opt-out">http://privacy.adcolony.com/opt-out</a></li>
-<li>Applovin: <a href="https://applovin.com/optout">https://applovin.com/optout</a> Also see "i" in advertisements provided by Applovin.</li>
-<li>Flurry: <a href="https://dev.flurry.com/secure/optOut.do">https://dev.flurry.com/secure/optOut.do</a></li>
-<li>Mobile App Tracking (MAT): <a href="https://optoutmobile.com/optOut">https://optoutmobile.com/optOut</a></li>
-<li>Nanigans: <a href="http://www.nanigans.com/privacy-policy/">http://www.nanigans.com/privacy-policy/</a></li>
-<li>Skillz: You can adjust the collection of geolocation information by adjusting your device's settings. Please see Skillz's Terms of Service (<a href="http://skillz.com/corporate/terms-and-conditions">http://skillz.com/corporate/terms-and-conditions</a>) and Privacy Policy (<a href="http://skillz.com/corporate/privacy-policy">http://skillz.com/corporate/privacy-policy</a>) for more information and how to delete your Skillz account.</li>
-<li>TapJoy: <a href="http://info.tapjoy.com/about-tapjoy/privacy-policy/">http://info.tapjoy.com/about-tapjoy/privacy-policy/</a></li>
-</ul>
-<p>&nbsp;</p>
+<p><strong>AdColony:</strong> <a href="https://www.adcolony.com/privacy-policy/" target="_blank" rel="noopener">https://www.adcolony.com/privacy-policy/</a></p>
+<p><strong>Google AdMob:</strong> <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener">https://www.google.com/intl/en/policies/privacy/</a></p>
+<p><strong>MoPub:</strong> <a href="https://www.google.com/intl/en/policies/privacy/" target="_blank" rel="noopener">https://www.mopub.com/legal/privacy/</a></p>
+<p><strong>AppLovin:</strong> <a href="https://www.applovin.com/privacy" target="_blank" rel="noopener">https://www.applovin.com/privacy</a></p>
+<p><strong>Conversant Media:</strong> <a href="https://www.conversantmedia.com/legal/privacy" target="_blank" rel="noopener">https://www.conversantmedia.com/legal/privacy</a></p>
+<p><strong>Facebook Audience Network:</strong> <a href="https://www.facebook.com/policy.php" target="_blank" rel="noopener">https://www.facebook.com/policy.php</a></p>
+<p><strong>Yahoo! Flurry:</strong> <a href="https://policies.yahoo.com/us/en/yahoo/privacy/products/developer/index.htm" target="_blank" rel="noopener">https://policies.yahoo.com/us/en/yahoo/privacy/products/developer/index.htm</a></p>
+<p><strong>InMobi:</strong> <a href="https://www.inmobi.com/privacy-policy/" target="_blank" rel="noopener">https://www.inmobi.com/privacy-policy/</a></p>
+<p><strong>LifeStreet:</strong> <a href="http://www.lifestreet.com/privacy/" target="_blank" rel="noopener">http://www.lifestreet.com/privacy/</a></p>
+<p><strong>UnityAds:</strong> <a href="https://unity3d.com/legal/privacy-policy" target="_blank" rel="noopener">https://unity3d.com/legal/privacy-policy</a></p>
+<p><strong>Vungle:</strong> <a href="https://vungle.com/privacy/" target="_blank" rel="noopener">https://vungle.com/privacy/</a></p>
+<p><strong>Aerserv:</strong> <a href="https://www.aerserv.com/privacy-policy/" target="_blank" rel="noopener">https://www.aerserv.com/privacy-policy/</a></p>
+<p><strong>Flurry:</strong> <a href="https://dev.flurry.com/secure/optOut.do" target="_blank" rel="noopener">https://dev.flurry.com/secure/optOut.do</a></p>
+<p><strong>Nanigans:</strong> <a href="http://www.nanigans.com/privacy-policy/" target="_blank" rel="noopener">http://www.nanigans.com/privacy-policy/</a></p>
+<p><strong>TapJoy:</strong> <a href="http://info.tapjoy.com/about-tapjoy/privacy-policy/" target="_blank" rel="noopener">http://info.tapjoy.com/about-tapjoy/privacy-policy/</a></p>
 <h2>Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:privacy@glu.com">Privacy Policy Administrator</a>. You may also contact our Privacy Policy Administrator by writing to:</p>
-<p>Privacy Policy Administrator<br> Glu Mobile Inc.<br> 500 Howard Street, Suite 300<br> San Francisco, CA 94105-2209.</p>
-<h3><a href="http://www.glu.com/privacy/theswiftlife">For The Swift Life supplemental privacy policy, click here</a>.&nbsp;</h3>		
-		</div>
-<!--	
-		<div class="mobile where">
-		
-			<div class="where_image">
-			
-				<img class="mobile_image" data-src-mobile="http://www.glu.com/images/glu_where_mobile.jpg" alt="Where we work" />
-			
-			</div>
-			
-			<h1>Where we work</h1>
-			
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus facilisis enim id dignissim. Sed vel quam tellus, vitae blandit tortor. Maecenas porttitor adipiscing euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed lacus nibh, aliquet molestie mattis pretium, fringilla id ipsum.</p> 
-			<p>Ut elementum, tellus a ultricies pulvinar, magna massa semper quam, in condimentum nunc elit at arcu. Nam interdum odio sed nisi adipiscing quis dictum lacus euismod.</p>
-		
-		</div>
-		
--->
-	
-	</div>			<!-- Closing div for .content -->
-			</div>
-		<!-- Closing div for .content_wrapper -->
-		</div>
+<p>If you have any questions about this Privacy Policy, please contact us at: Privacy Policy Administrator. You may also contact our Privacy Policy Administrator by writing to:</p>
+<p style="padding-left: 1em;">Privacy Policy Administrator<br>
+Glu Mobile Inc.<br>
+875 Howard Street, Suite 100<br>
+San Francisco, CA 94103</p>
+<p>For The Swift Life supplemental privacy policy, <a href="/privacy/theswiftlife">click here</a>.</p>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
 
-		<div class="footer_wrapper clear">
+            
+    </div>
 
-			<div class="footer">
+    <div class="sidebar--mobile" id="sidebar">
+                    </div>
 
-				<ul class="nav full">
+<script src="https://www.glu.com/wp-content/themes/glu/js/_scrollreveal.min.js"></script><noscript></noscript>
 
-					<li><a href="http://www.glu.com/">Home</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/games/genre/all">Games</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/news/category/all">News</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/community">Community</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/support">Support</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/careers">Careers</a></li>
-					<li>|</li>
-					<!-- <li><a href="http://www.glu.com/glu_global">Glu Global</a></li>
-					<li>|</li> -->
-					<li><a href="http://www.glu.com/contact">Contact</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/about">About</a></li>
-					<li>|</li>
-					<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-news&amp;nyo=0" target="_blank">Press</a></li>
-					<li>|</li>
-					<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome" target="_blank">Investors</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/privacy">Privacy</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/terms">Terms</a></li>
+</main>
 
-				</ul>
-
-				<ul class="nav mobile">
-					
-					<li><a href="http://www.glu.com/careers">Careers</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/about">About</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/contact">Contact</a></li>
-					<li>|</li>
-					<li><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome" target="_blank">Investors</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/privacy">Privacy</a></li>
-					<li>|</li>
-					<li><a href="http://www.glu.com/terms">Terms</a></li>
-
-				</ul>
-
-				<div class="copyright">
-					<p>©2014 Glu Mobile Inc All Rights Reserved</p>
-				</div>
-
-			</div>
-
-		</div>
-		
-		<script type="text/javascript">
-		
-			function toggleMobileMenu()
-			{
-				$("#news_categories_menu").toggle();
-			}
-			
-
-			function loadMobileImages()
-			{
-				$(".mobile_image").each(function()
-				{
-					var img_src = $(this).attr("data-src-mobile");
-
-					$(this).attr("src", img_src);
-				});
-			}
+<footer>
+    <div class="content-wrapper pad-2x">
+        <div class="grid">
+            <ul id="menu-header-menu-1" class="menu menu--footer"><li class="menu-item menu-item-type-post_type_archive menu-item-object-games menu-item-42"><a href="https://www.glu.com/games/">Games</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-48"><a href="https://www.glu.com/company/">Company</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52"><a target="_blank" href="http://phx.corporate-ir.net/phoenix.zhtml?c=207033&amp;p=irol-irhome">Investors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://www.glu.com/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="https://www.glu.com/contact/">Contact</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.glu.com/careers/">Careers</a></li>
+</ul>            <a class="logo" href="https://www.glu.com" title="Home">
+                <img src="https://www.glu.com/wp-content/themes/glu/images/logo.svg" alt="Glu Logo">
+            </a>
+        </div>
+        <div class="grid grid-2">
+                        <div class="location">
+                <div class="dropdown--wrapper dropdown--location">
+                    <div class="dropdown--select">
+                        <span class="h3 active">San Francisco</span>
+                    </div>
+                    <ul class="dropdown--list">
+                                                    <li data-location="50">San Francisco</li>
+                                                    <li data-location="63">Burlingame</li>
+                                                    <li data-location="64">San Mateo</li>
+                                                    <li data-location="65">Toronto</li>
+                                                    <li data-location="66">Hyderabad</li>
+                                            </ul>
+                    <div class="dropdown--trigger">
+                                                    <p data-address="50" class="item active">875 Howard Street, Suite 100<br>San Francisco, CA 94103<br></p>
+                                                    <p data-address="63" class="item">330 Primrose Road, Suite 306<br>Burlingame, CA 94010<br></p>
+                                                    <p data-address="64" class="item">2 Waters Park Drive, Suite 150<br>San Mateo, CA 94403<br></p>
+                                                    <p data-address="65" class="item">60 Spadina Avenue, Suite 200<br>Toronto, ON M5V 2H8<br></p>
+                                                    <p data-address="66" class="item">3rd Floor, Western Pearl, Survey No.13<br>Kondapur Main Road, Hyderabad-500084<br>Telangana, India<br></p>
+                                            </div>
+                </div>
+            </div>
+            <div class="social right">
+                <div class="social--box"><a href="https://www.facebook.com/glu.mobile" target="_blank" title="Like us on Facebook" class="social--icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.2 22"><defs><style>.cls-1{fill:#ffffff;}</style></defs><title>facebook</title><g data-name="Layer 2"><g data-name="Layer 1"><path class="cls-1" d="M3.46,22V11.49H0V7.87H3.46V3.94A4,4,0,0,1,7.32,0H11.2V3.29H9.41c-.88,0-2,.72-2,1.6v3h3.49v3.62H7.36V22Z"></path></g></g></svg>
+</a><a href="https://twitter.com/glumobile?ref_src=twsrc%5Etfw&amp;ref_url=https%3A%2F%2Fwww.glu.com%2F" target="_blank" title="Follow us on Twitter" class="social--icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 17.88"><defs><style>.cls-1{fill:#ffffff;}</style></defs><title>twitter</title><g data-name="Layer 2"><g data-name="Layer 1"><path class="cls-1" d="M22,2.12a9,9,0,0,1-2.59.71,4.52,4.52,0,0,0,2-2.5,9.18,9.18,0,0,1-2.86,1.1,4.51,4.51,0,0,0-7.81,3.08,4.93,4.93,0,0,0,.11,1A12.82,12.82,0,0,1,1.53.83,4.45,4.45,0,0,0,.92,3.1a4.51,4.51,0,0,0,2,3.75A4.45,4.45,0,0,1,.88,6.29v0A4.52,4.52,0,0,0,4.5,10.77a4.54,4.54,0,0,1-1.18.16,4.63,4.63,0,0,1-.85-.08A4.5,4.5,0,0,0,6.68,14a9,9,0,0,1-5.6,1.93A9.51,9.51,0,0,1,0,15.85a12.79,12.79,0,0,0,6.92,2A12.76,12.76,0,0,0,19.76,5c0-.2,0-.39,0-.59A9.23,9.23,0,0,0,22,2.12Z"></path></g></g></svg>
+</a><a href="https://www.linkedin.com/company/8289/" target="_blank" title="Connect with us on LinkedIn" class="social--icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 21.96"><defs><style>.cls-1{fill:#ffffff;}</style></defs><title>linkedin</title><g data-name="Layer 2"><g data-name="Layer 1"><path class="cls-1" d="M.36,7.29H4.92V22H.36ZM2.64,0A2.65,2.65,0,1,1,0,2.64,2.65,2.65,0,0,1,2.64,0"></path><path class="cls-1" d="M7.78,7.29h4.38v2h.06a4.77,4.77,0,0,1,4.31-2.37c4.62,0,5.47,3,5.47,7v8H17.44V14.83c0-1.7,0-3.89-2.37-3.89s-2.73,1.85-2.73,3.76V22H7.78Z"></path></g></g></svg>
+</a><a href="https://www.instagram.com/glumobile/" target="_blank" title="Follow us on Instagram" class="social--icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22.47"><defs><style>.cls-1{fill:#ffffff;}</style></defs><title>instagram</title><g data-name="Layer 2"><g data-name="Layer 1"><path class="cls-1" d="M15.3,22.47H6.7A6.7,6.7,0,0,1,0,15.78V6.7A6.7,6.7,0,0,1,6.7,0h8.6A6.7,6.7,0,0,1,22,6.7v9.08A6.7,6.7,0,0,1,15.3,22.47ZM6.7,1.54A5.16,5.16,0,0,0,1.54,6.7v9.08A5.17,5.17,0,0,0,6.7,20.94h8.6a5.17,5.17,0,0,0,5.16-5.16V6.7A5.16,5.16,0,0,0,15.3,1.54Z"></path><path class="cls-1" d="M10.79,17a5.9,5.9,0,1,1,5.9-5.9A5.9,5.9,0,0,1,10.79,17Zm0-10.25a4.36,4.36,0,1,0,4.36,4.35A4.36,4.36,0,0,0,10.79,6.75Z"></path><circle class="cls-1" cx="17.18" cy="4.99" r="1.5"></circle></g></g></svg>
+</a></div>            </div>
+        </div>
+    </div>
+    <div class="content-wrapper pad-1x">
+                <div class="small">© 2018 Glu Mobile Inc. <ul id="menu-legal-menu" class="menu--legal"><li id="menu-item-289" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166 current_page_item menu-item-289"><a href="https://www.glu.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-285"><a href="https://www.glu.com/terms/">Terms of Use</a></li>
+<li id="menu-item-286" class="site-by-kiosk menu-item menu-item-type-custom menu-item-object-custom menu-item-286"><a target="_blank" href="https://kiosk.tm">Site by Kiosk</a></li>
+</ul></div>
+    </div>
+</footer>
 
 
-			function loadMediumMobileImages()
-			{
-				$(".mobile_image").each(function()
-				{
-					var img_src = $(this).attr("data-src");
 
-					$(this).attr("src", img_src);
-				});
-			}
-
-
-			function loadLargeMobileImages()
-			{
-				$(".mobile_image").each(function()
-				{
-					var img_src = $(this).attr("data-src-large");
-
-					$(this).attr("src", img_src);
-				});
-			}
-
-
-			function loadFullImages()
-			{
-				$(".full_image").each(function()
-				{
-					var img_src = $(this).data("src");
-
-					$(this).attr("src", img_src);
-				});
-			}
-
-		
-			$(document).ready(function()
-			{
-				if(is_touch_device)
-				{
-					//display mobile images
-					if(window.matchMedia("(min-width: 20em)").matches && window.matchMedia("(max-width: 30em)").matches)
-					{
-						loadMobileImages();
-					}
-
-					//display medium images
-					if(window.matchMedia("(min-width: 30em)").matches && window.matchMedia("(max-width: 48em)").matches)
-					{
-						loadMediumMobileImages();
-					}
-
-					//display large mobile images
-					if(window.matchMedia("(min-width: 48em)").matches)
-					{
-						loadLargeMobileImages();
-					}
-				}
-				else
-				{
-					loadFullImages();
-				}
-			});	
-
-		</script>
-
-	<!-- Apple Affiliate Code -->
-		
-		<script type="text/javascript">
-			var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '1l3vbAs']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();
-		</script>
-
-		<!-- Google Analytics Code -->
-		<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-44034331-1', 'glu.com');
-  ga('send', 'pageview');
-
-</script>
-
-	
 </body></html>
