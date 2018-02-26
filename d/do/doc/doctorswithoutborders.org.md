@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222165516id_/http%3A//www.doctorswithoutborders.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226180239id_/https%3A//www.doctorswithoutborders.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy | MSF USA
 
@@ -37,7 +37,7 @@ Examples of the types of personal information that may be obtained from public s
 
 In general, we may share your information with third-party business partners, for instance, for the purpose of enhancing our services. If you do not want us to share your personal information with these companies, contact us at (212) 763-5779 or email [donations@newyork.msf.org](mailto:donations@newyork.msf.org).
 
-We do not sell or rent our mailing list to other organizations that solicit donations or sell any products. However, in order to enhance our solicitation strategies and reduce our fundraising costs, Doctors Without Borders exchanges portions of our mailing list with select non-profit organizations. If you prefer not to have your personal information disclosed in this manner, please contact our Donor Services Department at [donations.nyc@newyork.msf.org](mailto:donations.nyc@newyork.msf.org), call us at 212-763-5779 or write to us by postal mail sent to Doctors Without Borders, Attn: Donor Services, 333 7th Avenue, 2nd Floor, New York, NY 10001-5004.
+We do not sell or rent our mailing list to other organizations that solicit donations or sell any products. However, in order to enhance our solicitation strategies and reduce our fundraising costs, Doctors Without Borders exchanges portions of our mailing list with select non-profit organizations. If you prefer not to have your personal information disclosed in this manner, please contact our Donor Services Department at [donations.nyc@newyork.msf.org](mailto:donations.nyc@newyork.msf.org), call us at 212-763-5779 or write to us by postal mail sent to Doctors Without Borders, Attn: Donor Services, 40 Rector St., 16th Floor, New York, NY 10006.
 
 Doctors Without Borders employs companies to assist us with such functions as hosting our donor information database, sending postal mail and email, modeling our data, and processing online and mail donations and credit card payments. These companies have access to personal donor information as needed to perform their functions. Doctors Without Borders requires that these companies keep such information confidential and are authorized to use your personal information only as necessary to provide these services to us. We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements. To have your contact information removed from our systems, contact us at (212) 763-5779 or email [donations@newyork.msf.org](mailto:donations@newyork.msf.org). (See Security section below.)
 
@@ -105,7 +105,7 @@ We may, from time to time, make changes to our Privacy Policy, based on your com
 
 ## Questions or Suggestions
 
-It is important to us at Doctors Without Borders to hear what our site visitors and donors have to say about our services or our policies. If you have any questions, concerns, or complaints about this Privacy Policy, or want to let us know what you think about our products and services, please send an email to [donations@newyork.msf.org](mailto:donations@newyork.msf.org), call us at 212-763-5779 or write to us by postal mail sent to Doctors Without Borders, Attn: Donor Services, 333 7th Avenue, 2nd Floor, New York, NY 10001-5004.
+It is important to us at Doctors Without Borders to hear what our site visitors and donors have to say about our services or our policies. If you have any questions, concerns, or complaints about this Privacy Policy, or want to let us know what you think about our products and services, please send an email to [donations@newyork.msf.org](mailto:donations@newyork.msf.org), call us at 212-763-5779 or write to us by postal mail sent to Doctors Without Borders, Attn: Donor Services, 40 Rector St., 16th Floor, New York, NY 10006.
 
 ## Governing Law
 
