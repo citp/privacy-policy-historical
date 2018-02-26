@@ -1,113 +1,203 @@
-> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2015-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150428143522id_/http%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkick.com privacy policy that was archived on 2018-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180226204416id_/https%3A//www.shopkick.com/privacy-policy) for the most accurate reproduction.*
 
-# shopkick | privacy policy
+# Shopkick | shopkick® Privacy Policy
 
-At shopkick, Inc., we are very focused on making the shopkick experience a great one for you. We have great respect for your personal privacy — this concern is at the heart of our company. In order to provide a useful service to you when you are shopping, though, we need data from you; otherwise we cannot give useful offers and ways to earn rewards, which match the environment or location you are in, and that match the preferences you have. Our commitment to you is that whenever we collect and process data from you, we will do so with your and the other shopkick users’ benefit in mind, either for immediate benefit or for longer-term benefit, by making the shopkick experience better and better for you. In this document, we provide our Privacy Policy to you to inform you in more detail of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our Services. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service <http://www.shopkick.com/terms-of-service> This Privacy Policy applies to information that is provided or collected through all the Services provided by shopkick, Inc. 
+Welcome to shopkick! 
 
-## What Information Do We Collect?
+We greatly respect your privacy, and this Privacy Policy is designed and created in that spirit! This Privacy Policy applies to all Users and visitors of the shopkick Program, and describes our information policies and procedures.
 
-### Non-Personally Identifiable Information
+* * *
 
-When you sign up for your Account or use our Services (either on your mobile phone/device through the Application or though other devices), our servers may (i) automatically record information that your mobile phone/device sends or transmits, including your device type, your device ID number (for example, your UDID), user settings, your geographical location (if you consent to that) (for example, when you check-in or walk-in to a location) and information about your use of the Services such as offers viewed and/or used, stores visited, information you entered, (ii) record which search terms you used, or which referring/exit pages brought you to our page, and date/time information, (iii) record certain non-personally identifying information record information provided by you, such as your gender or date of birth, (iv) record, determine or use information about or from another content delivery platform, and (v) record information derived from such above information and other sources such as entries and offers viewed on our website or on our social media presence, or information provided by Affiliated Partners (collectively, _“Non-Personally Identifiable Information”_ ). 
+Shopkick, Inc.  (together, and with our parent corporations, subsidiaries and affiliates, “shopkick,” “we,” or “us”) is on a mission to become your premier shopping companion, anytime and anywhere. 
 
-### Personal Information You May Provide To Us
+This Privacy Policy governs the collection, use, and disclosure of the information we collect and receive from your use, access, and all interactions with the shopkick mobile application (“Application”), any of shopkick’s services (the “Services”), the shopkick.com website, and any other website associated with shopkick or pages where this Privacy Policy is displayed and accessible (collectively, “Website”) (together, the Website, Application and Services are the “shopkick Program”). Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms of Service](https://www.shopkick.com/terms-of-service).
 
-When you use our Services, we may ask that you provide us with some personally identifiable information—information about you that can be used to contact or identify you, and information on your use or potential use of the Services and related services ( _“Personal Information”_ ). Personal Information that we might collect may include things like your name, mobile phone number, other phone numbers, email address, home address, and, if you elect to share this information with us, store loyalty card numbers for our Affiliated Partners’ (as defined below) stores and other stores, and, where useful for your use of the service, credit card, debit card or store card information. Personal Information may also include other information you supply to us concerning your preferences and interests expressed in the course of using the Services. 
+## Information Collection and Use
 
-### Information About You We May Obtain Through Other Sources
+### Information Collection
 
-We may also use additional methods to collect your Personal Information when you are physically visiting the store of one of our Affiliated Partners, such as when a device with your Application and user ID active scans product barcodes or checks in, or based on presence location data gleaned from a mobile device with your shopkick user ID active. If you do not wish to have your Personal Information collected by these methods, you may not be able to earn and redeem rewards as part of the Services. 
+We collect: 
 
-The Application and Services include geolocation and location presence awareness technology and functionality intended to make the Application useful at the particular location it is being used. For example, the Application may offer rewards points based on presence in a store, provide a reminder of items previously liked at the store, or show the highest-rated deals at the store. To offer those benefits, we must of course be able to determine that the Application is being used in a particular store. To do that, we may use the signal of our “shopBeacon” presence technology devices (or another geolocation or presence technology) which are located in various locations, for example, in a store. Those devices broadcast signals that can be received by a phone on which the Application is installed. When the phone receives the shopBeacon signal, if consent has been provided to receive notifications or messages from the Application (please see our Terms of Service), we may send a message or an image through the Application, for example, about available rewards points or an item previously liked at that store. Thus, shopBeacon can send a welcome after entering a store and show location-specific rewards, discounts, deals and recommendations, without the need to remember to open the Application. To make the Application and Services operate better, consistent with the other terms of this Privacy Policy, shopkick may also collect other information based on shopBeacon signals, for example, the strength of the signal between the shopBeacon and the phone, the duration the phone is near the shopBeacon, or the battery level of the shopBeacon itself, including when the Application is in the background or not running. To avoid geolocation data from being used or received by shopkick while the Application is in the background or not currently running on the phone, it is possible to switch off notifications near or at stores in the Settings of the Application at any time. Please rest assured that any uses of shopBeacon and other geolocation and presence technology innovations in the Application or Services are intended to ensure the best, most rewarding experience. 
+  * Personal Information
+  * Non-Personally Identifiable Information
+  * Device Information – Usage Technologies 
+  * Credit Card Transaction Data
+  * Purchase Information
+  * Other Information from Third Parties
 
-We may also receive Personal Information from Affiliated Partners provided by you in the course of your using their services, or from third parties (e.g., white pages listings providers), subject to the limitations of the Privacy Policies of those Affiliated Partners or third parties. 
 
-### Information About Transactions at Affiliated Partners
 
-To provide you with further potential rewards and/or offers from certain Affiliated Partners, we may receive information about transactions that you make at an Affiliated Partner including the Affiliated Partner name, the location, the date and time, the transaction amount, the purchased items and other personal information about you (“Transaction Data”), from payment processing vendors, from banks or from credit or debit card networks or issuers (“Transaction Providers”). Unless the privacy policy of the Affiliated Partner that you accepted already allows for this information sharing, we will ask for your permission (by your explicit opt-in) in order to receive this information. In case we need to share Personal Information with Transaction Providers to identify you to be able to receive the Transaction Data that determines whether offers or rewards apply to you, then we will ask for your permission (“opt-in”). 
+To provide the shopkick Program, we need information from you. The following are categories of information we collect: 
 
-## How Do We Use the Information?
+**Personal Information**
 
-The terms “using” and “processing” information, as used in this policy, include using cookies or other storage means on a computer or mobile device, subjecting the information to statistical or other analysis and collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our subsidiaries within the United States or internationally. 
+When you use the shopkick Program, we may ask that you provide us with personally identifiable information—information about you that can be used to contact or identify you (“Personal Information”). Personal Information we may collect includes your name, phone number(s), email address, home address, and if you elect to participate in certain parts of our Services, payment card numbers, and/or third-party account information (e.g. store loyalty program information, PayPal, Venmo, banking information, etc.). We may also collect information about your preferences and interests.
 
-### Personal Information
+**Non-Personally Identifiable Information**
 
-We use Personal Information only for the following purposes: (i) to administer the Services, (ii) to provide, improve and optimize the Services, (iii) to personalize your experience, (iv) to provide you with software updates and/or product announcements, (v) to better understand users' needs and interests, and (vi) to provide you with further information and offers from us that we believe you may find useful or interesting, such as targeted advertising and promotional campaigns. 
+When you use the shopkick Program on your mobile phone, computer, or other device(s), our servers may record non-personally identifiable information—information that cannot identify you by itself (“Non-Personally Identifiable Information”) such as: (i) information your device sends or transmits, including your device type, your device ID number (for example, your UDID), user settings, and your geographic location (if you consent) (“Device Information”); (ii) information about your use of the shopkick Program, such as offers viewed and/or used, stores visited, information you entered; (iii) search terms you used, or which referring/exit pages brought you to our page, and date/time information, (iv) demographic information you provide, such as your gender or date of birth, (v) information about or from another content delivery platform; and (vi) information derived from such above information and other sources such as entries and offers viewed on either our website or a third-party website, our social media presence, or other information provided by third parties.
 
-We may match data from your transactions with Affiliated Partners and/or the content information with our usage data in a personally identifiable form in order to perform accounting reconciliation and/or provide targeted offers and/or rewards or discounts to you; but to protect your privacy, our Affiliated Partners and shopkick will perform this matching in a protected environment that does not allow our Affiliated Partners to gain Personal Information you have not opted in to disclose to them, unless you choose to identify yourself at the Affiliated Partner’s store as a shopkick user to use an offer or redeem a reward (e.g., by telling the store’s cashier your cell phone number, or by using a loyalty account that has been linked to your shopkick account). By enabling an Affiliate Partner to identify you as a shopkick user, you are allowing them to identify and store that transaction as a shopkick-related transaction along with your shopkick identifier. 
+In addition, to make the shopkick Program useful in particular locations, we use location technology, such as GPS, our shopkick beacon devices (“shopBeacon” or “beacon”), and other geolocation or presence technologies.  These technologies are found in various locations and broadcast signals that your device may receive, assuming you adjust your device settings to receive such signals such as, by enabling location services. When your device transmits location information, the Application or Website alerts you about available offers, rewards, an item previously liked at a store, or other information we deem useful. To make the Application and shopkick Program operate efficiently, shopkick may also collect other information based on signals from a shopBeacon, for example, the strength of the signal between the shopBeacon and the device and/or the duration the device is near the beacon, including when the Application is in the background or not actively running on your device.
 
-### Non-Personally Identifiable Information
+**Cookies, Pixels, and other Usage Technology**
 
-information about our users generally, and thus, for example, to improve features and functionality of the Services and to make more relevant We may use Non-Personally Identifiable Information for a few purposes. We may analyze trends through aggregated demographic and psychographic offers to users. We may also share this Non-Personally Identifiable Information with our Affiliated Partners to allow them to assist us in delivering tailored advertisements, promotions, sweepstakes, discounts, and other incentives to you when you use the Services. Any information shared with Affiliated Partners in this context will not contain nor be linked to your Personal Information unless you have given us your explicit consent through an “opt-in” mechanism on the Application. For example, an Affiliated Partner may want to offer a discount on its products to a certain audience (for example, men ages 18-34) or audience segment (for example, women ages 25-40 who have viewed certain content). If the Non-Personally Identifiable Information that we have collected about you meets this description, you would be able to view and use the discount offered by the Affiliated Partner. 
+To collect, maintain and use certain Device Information, we may use session ID and persistent “cookies,” data collection tags or directives such as “pixel tags,” Javascript scripts, API calls, and/or other storage on your device (individually or collectively, “Usage Technology”). To learn more about different types of Usage Technology, please visit our [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page.
 
-### Loyalty Card Information and Affiliated Partners
+**Credit Card Transaction Data**
 
-If you have entered a store loyalty card number of a participating store or other affiliated partner who the Services are being sponsored by, or whose brand, product or service name(s) are included on the Services, or for whom the Services are provided in partnership with ( _“Affiliated Partner”_ ), we may share Personal Information with that Affiliated Partner, including your loyalty card number (but as to data regarding your usage of Services, only the usage data that relates to that Affiliated Partner will be shared). In addition, we may request your permission to allow us to share your Personal Information with Affiliated Partners; you are not required to grant such permission in order to use the Services, but if you do consent, we may share Personal Information with one or more Affiliated Partners (as to data regarding your usage of Services, though, only the usage data that relates to a particular Affiliated Partner will be shared with that Affiliated Partner). In all other cases, we will only share data with Affiliated Partners in an aggregated (i.e., not personally identifiable) form for analysis and marketing purposes, with the goal to improve the Services further, or to permit the Affiliated Partner to analyze the effectiveness of its marketing efforts. If we share Personal Information with an Affiliated Partner, we will require in our agreement with that Affiliated Partner that this information not be shared outside the Affiliated Partner except to contractors or service providers for use solely to supply operational or analysis services to that Affiliated Partner, but we cannot ensure our Affiliated Partners’ compliance with these agreements. 
+If you choose to participate in the Kicks for Purchases program, we will receive information about transactions you make at select merchants including the merchant’s name, location, the date and time of the purchase, the transaction amount, the purchased items and other potentially personal information about you (“Transaction Data”). If you explicitly consent (or ‘opt-in’) to participate in the Kicks for Purchases program, the Transaction Data is received from banks or from credit or debit card networks or issuers (“Transaction Providers”).
 
-### Use of Cookies
+**Purchase Information**
 
-We may use “cookies” (a cookie is a small data file that is kept in your device’s memory for record-keeping purposes), and/or other storage on your device to help us collect, maintain, and use this information, for two purposes. First, to make the interactions easier and more personalized for you, we may utilize persistent cookies to save information relating to your Account and/or activity for future interactions with the Services. Second, to better understand how you interact with the Services and to monitor aggregate usage by shopkick users and web traffic routing on the Services, we utilize session ID cookies to enable certain features of the Services. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Services and then close your browser. Third party advertisers on the Services may also place or read cookies on your browser. At any time, you can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Please understand that if you do not accept cookies, you may not be able to use all portions or all functionality of the Services. 
+If you choose to make purchases through or access the Kicks for Receipts program, the mCommerce or eCommerce feature(s) in the shopkick Program, use certain merchants, or otherwise make any purchases through the shopkick Program, shopkick may receive information about you and your purchases from these sources, including the merchant and store names, the store location, the date and time of your purchase, the transaction amount, the items you purchased, and possibly other information used to make your purchase (“Purchase Information”).
 
-### Usage Patterns
+**Other Information from Third Parties**
 
-We may also use data collection tags or directives such as “pixel tags,” Javascript scripts, API calls, or similar means (individually or collectively, “Usage Tracking”) in combination with cookies and the demographic or psychographic data we have collected, and with third-party analysis partners, to analyze usage patterns of users anonymously and to serve advertisements to you that are tailored based on our analysis of what we believe you would respond favorably to in light of the information that we have collected or accessed about you as described above. A “pixel tag” is an electronic image, often a single pixel and often transparent, that is placed on a web page and may be associated with cookies on your hard drive. Usage Tracking allows us to count users who have visited certain web sites and pages within web sites, or used applications or features, to analyze the behavior of users of our web sites and application, in order to improve the web sites and application, and to personalize and determine the effectiveness of promotional or advertising campaigns. 
+We may also receive information about you from service providers, our partners, merchants, or other third parties, such as your preferences and interests, device information when you download a mCommerce store application originating from the shopkick Program, make an online purchase originating from the shopkick Program, or your account information for specific third-party providers if they are integrated with the shopkick Program (e.g. store loyalty program information, PayPal, Venmo, etc.), for example when redeem your kicks, or otherwise when such third parties do business with us. Information we receive from such third parties are subject to the limitations of the privacy policies of those third parties. We also receive information about you that is publicly available, such as when you submit information to a blog, chat room, or social network(s). We encourage you to read the privacy policies for those third parties. 
 
-## When Do We Share Information?
+### Information Usage
 
-We will not share your Personal Information with anyone else except to provide the Services, when we otherwise have your permission, or under the following circumstances: 
+Subject to the restrictions described in this Privacy Policy and applicable law, we use information about you only for purposes related to shopkick’s business, including to:
 
-### Personal Information
+  * Communicate with you and provide information to you about shopkick’s products and services.
+  * Update the shopkick Program and improve content and user experience.
+  * Help you and others discover the shopkick Program. 
+  * Prepare and perform demographic studies. 
+  * If permitted by the applicable Transaction Provider, perform benchmarking, advertising, marketing, performance and promotional studies.
 
-In order to take advantage of an incentive being offered by an Affiliated Partner through the Services, you must provide the Affiliated Partner with identifying information (which may include Personal Information) at the point of sale, to enable the Affiliated Partner to verify that you have a shopkick Account. The Personal Information you provide to the Affiliated Partner in this context will only be used by the Affiliated Partner to record the transaction you make at the time you are redeeming an offer, and the Affiliated Partner will then share the transaction information with us. Any Personal Information used in this context will be bound by this Privacy Policy. If you do not wish to share Personal Information with an Affiliated Partner, you can choose not to provide your store loyalty card number and not to take advantage of the offer when entering into transactions with that Affiliated Partner. 
 
-### Non-Personally Identifiable Information
 
-As discussed above, we may share with third parties or the public (e.g., through white papers or press articles) aggregated information in a form that does not disclose your Personal Information, nor be reasonably likely to allow you to be personally identified, for industry analysis, demographic profiling and similar purposes. We share this aggregated information so that our partners also understand how interested our users are in their products and services, so that they may also provide you with an optimal online experience, and so that additional retail or brand partners can see the opportunity in shopkick and may also become partners and further enrich the Services and offers for our users. 
+To provide the shopkick Program to you, we use information about you. The following are explanations of some of the ways we use your information: 
 
-### Service Providers or Agents
+**Personal Information**
 
-We may employ or partner with third party companies and individuals to process your payments, facilitate our Services, to provide all or a portion of Services on our behalf, to perform Services-related services (e.g., without limitation, maintenance services, database management, web analytics, download provisioning and improvement of the Services' features) or to assist us in analyzing how our Services are used. These third parties may have access to your Personal Information but only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. In some instances, these third parties will be able to make use of Non-Personally Identifiable Information for other purposes. 
+  * Administer, improve, and optimize the shopkick Program. 
+    * For example, if you are invited to the shopkick Program by your friend through our invitation program we may at times contact you through such specified methods. You and the invited friend must give consent to receive such autodialed or prerecorded message calls, and/or general communication. 
+    * Similarly, we may occasionally run sweepstakes, contests, surveys, or other special promotions in which we ask you for Personal Information and Non-Personally Identifiable Information (e.g., a zip code, age, or income level) in order to administer contests and other promotions about the shopkick Program or a third-party. We may also use information available and/or provided to contact participants of such contests and promotions
+  * Personalize your experience with the shopkick Program. 
+  * Provide you with software updates and/or product announcement.
+  * Better understand your needs and interests, and provide you with further information and offers we believe you may find useful or interesting, such as targeted advertising and promotional campaigns.
 
-### Compliance with Laws and Law Enforcement.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We reserve the right to track IP addresses for the purposes of fraud prevention, and to release IP addresses to legal authorities. We will disclose information about you to government or law enforcement officials or private parties when we believe reasonably necessary to comply with law, to protect the property and rights of shopkick or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. 
 
-### Business Transfers
+To contact you, we may at times send emails, texts or SMS, push notifications, or autodialed or prerecorded message calls or text messages at the telephone number(s) or email addresses you provide to us. Standard telephone minute and text charges may apply. At any time, you may opt-out of receiving future communications of these kinds by following the unsubscribe instructions in each promotional communication, or simply by declining to take part in the shopkick Program.
 
-We may sell, transfer or otherwise share your Personal Information in connection with a merger, acquisition, reorganization or sale of our company (or our assets) or in the event of our bankruptcy; this is the only case in which we may sell Personal Information we collect from you or from your use of the Services. 
+**Non-Personally Identifiable Information**
 
-## How Can I Change or Delete My Personal Information?
+We may use Non-Personally Identifiable Information, including geolocation and location presence information for a variety of purposes, including to analyze trends through aggregated demographic information and other information about users, and administer, improve and optimize the shopkick Program. Specifically, offering rewards based on your location or presence in a store, providing reminders of items previously liked, showing the highest-rated deals, sales or interesting items in a certain area. To present these offers, we use the signal of our shopBeacon devices (or another geolocation or presence technology), which are located in various places, such as above the entrance to a store. Those devices broadcast signals that can be received by a device on which the Application is installed or the shopkick Program is accessed. When the device receives the shopBeacon signal, you may receive a message about the shopkick Program, such as available rewards or a reminder about an item previously liked. To avoid geolocation data from being used or received by shopkick Program, either while the Website or Application are in the background or not currently running on your device, you can switch off notifications near or at stores in the Settings of the Application at any time, or adjust your device settings. 
 
-You may review, update, correct or delete your Personal Information in your registration profile by contacting us or by making the appropriate modifications in your Account preferences. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your Account and/or remove your records from our system, please contact us and we will delete your account within 45 days if we do not have any legal obligation to retain the record. 
+**Cookies, Pixels and other Usage Technology**
 
-## Is My Information Secure?
+Usage Technology allows us to do the following: (i) make your interactions with the shopkick Program easier and personalized; (ii) save information relating to your Account and/or activity for future interactions with the shopkick Program; (iii) better understand how you interact with the shopkick Program, and monitor aggregate usage by you and other shopkick users; (iv) monitor web traffic routing on the Services; (v) enable certain features of the Services; (vi) count users who visited certain websites and pages within websites, used applications or features; (vii) analyze the behavior of users of our websites and application; and (viii) determine the effectiveness of promotional or advertising campaigns and improve the overall shopkick Program. Third party advertisers on the shopkick Program may also place or read cookies on your browser. At any time, you may instruct your device to stop accepting cookies or to prompt you before accepting a cookie from websites you visit by changing your device’s settings. Please understand that if you do not accept cookies, you may not be able to use all portions or all functionality of the shopkick Program. We may also use Device Information from Usage Technology together with both demographic or psychographic information we collected, and third-party analysis partners to anonymously analyze usage patterns of users and serve tailored advertisements to you.
 
-We employ administrative and electronic measures designed to safeguard and protect your information from unauthorized access and disclosure. In addition, we will delete information after it is no longer useful for providing the Services. 
+**Credit Card Transaction Data**
 
-We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+By registering your payment card, you authorize your payment card network (e.g. MasterCard/Visa/Amex) to monitor activity on your payment card and to provide information to shopkick regarding your purchase and return transactions (e.g. unique user identification associated with your payment card, transaction amount, date and time and merchant name and location) to enable your card-linked offer(s). For program offers that provide rewards based on a specific item purchase at a participating merchant, shopkick may provide such information to enable that merchant the ability to determine eligibility. We use the Transaction Data from Transaction Providers for the following purposes: (i) to administer the Kicks for Purchases program; (ii) to determine your eligibility in the Kicks for Purchases program; (iii) to match data from your payment card you linked to the Application with transactions under the Kicks for Purchases program; (iv) to provide you with kicks or other rewards; (v) to analyze the usage and effectiveness of the Kicks for Purchases program; and (vi) to improve and optimize the Services. If you unlink your card account number(s) from your Kicks for Purchases profile, shopkick will no longer request your Transaction Data, and your Transaction Provider will no longer share such information.
 
-## International Transfer
+**Please note that if you uninstall the application without first unlinking your payment card, shopkick will continue to receive transaction data for a period of up to one hundred (100) days after you uninstall. This data will only be used as described above in the “use of transaction information” section set forth in the  **[ **Kicks for Purchases Terms and Conditions for MasterCard cards**](http://app2.shopkick.com/shopkick/html/buy_and_collect_mc_cc_terms_and_conditions.html) **  or in the **[ **Kicks for Purchases Terms and Conditions for Visa cards**](http://app2.shopkick.com/shopkick/html/buy_and_collect_terms_and_conditions.html) **  and as described in this Privacy Policy.**
 
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Our Privacy Policy and its protection for you still applies there. If you are located outside the United States and choose to provide information to us, shopkick may transfer your Personal Information to the United States and processes it there. Your submission of such information represents your agreement to that transfer. 
+**Purchase Information**
 
-## Links to Other Sites
+We use Purchase Information to: (i) administer, improve and optimize the shopkick Program; (ii) determine your eligibility for kicks; (iii) match your Personal Information with transactions; (iv) provide you with kicks or other rewards; (v) analyze the usage and effectiveness of the shopkick Program; and (vi) to the extent permitted by stores or applicable third parties, analyze trends and deliver tailored advertising.
 
-Our Services may contain links or API’s (e.g. data or content exchange interfaces), to external services or websites of other partners or advertisers, including our Affiliated Partners, for information or functionality or services. If you choose to visit a partner or advertiser by “clicking on” or selecting a button, service, banner ad, or other type of advertisement, or click on another third party link, you will be directed to that third party’s resources. The fact that we may link to or incorporate a partner's services, functionality, or website, or present a banner ad or other type of advertisement, is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party services, functionality, websites or other resources, including their use of personal information, and you should exercise caution when deciding to disclose any personal information to a third party. We encourage you to read the privacy policies or statements of the other websites you visit to learn more about their privacy practices. These other parties may place their own cookies or other files on your computer or device, collect data or solicit personal information from you. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. Our Privacy Policy only applies to the Services and we are not responsible for the privacy practices or the content of other websites. 
+**Other Information from Third Parties**
 
-## Children’s Information
+We may use information from third parties to administer, update, personalize the shopkick Program, award rewards from your purchases with our partners and select merchants, invite you to the shopkick Program (at the request of your friend(s)), communicate with you, and present relevant offers.
 
-The Services are not directed to children. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, please contact us. If we become aware that a member is under the age of 13 and has provided us with Personal Information without verifiable parental consent, we will delete such information from our files. 
+### Information Disclosure
 
-## Agreement and Changes to this Privacy Policy
+Except in limited circumstances that are set out in this Privacy Policy, we do not disclose any Personal Information to third parties. Before shopkick transfers information – both Personal Information and Non-Personally Identifiable Information – to a third-party, we confirm they adopted, are subject to, or are contractually obligated to comply with the principles and objectives of this Privacy Policy. **   **
 
-By using any part of the Services, you agree to the current Privacy Policy and Terms of Service, to which this Privacy Policy is incorporated. We reserve the right, in our sole discretion, to modify, discontinue, or terminate any or all of the Services or to modify this Privacy Policy at any time, without notice to you. Any modifications will be effective immediately as of the date the modified Privacy Policy is posted on our website. By continuing to access or use the Services after we have posted a modification, you are indicating that you agree to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the Services. 
+To provide the shopkick Program to you, and comply with applicable laws or legal requests, we may disclose information about you. The following are explanations of some of the ways we disclose your information: 
 
-## How Can I Contact shopkick?
+**At Your Request**
 
-We are always trying to make shopkick’s services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com). Our office is located at 999 Main St., 2nd Floor, Redwood City, CA 94063.  Phone: (650) 763-8727. 
+We may disclose your information at your request, whether through the Application, or otherwise through the shopkick Program, such as: 
 
-If you would like to change your email unsubscribe setting, please follow this link <http://app.shopkick.com/shopkick/v1/user/show_email_unsubscribe>. 
+  * If you are invited to the shopkick Program by your friend through our invitation program. Your information will be viewable by the friend who invited you to the shopkick Program, and you may be able to view your friend’s information through the shopkick Program.
+  * If you request or offer services through our partnerships or promotional offerings from a third-party (e.g. completing surveys and quizzes, signing up for new services, etc.). 
+  * When you submit information and communicate with us through a public forum (e.g. social media, features within the shopkick Program, blogs, etc.).
 
-We hope you will enjoy using shopkick. 
 
-Last Updated: May 9, 2014. 
+
+**Transaction Providers, Merchants and Store Partners**
+
+If you chose to participate in the Kicks for Purchases program, we share the Transaction Data and payment card information you entered with the appropriate Transaction Provider. We may also share Transaction Data with select merchants to facilitate the awarding of kicks (only to those merchants that agree to only use the Transaction Data to facilitate the awarding of kicks). 
+
+In addition, when you make purchases through the shopkick Program and use similar features (e.g. mCommerce), you agree Purchase Information may be shared with participating stores, merchants and other relevant third parties. Similarly, when you participate in the Kicks for Receipts program, you agree shopkick may use Purchase Information and other information derived from your participation, to award kicks, deduct kicks, validate offer eligibility, enable offer redemption, and/or provide reporting to merchants and other third parties. 
+
+**Third-Party Service Providers**
+
+We may disclose information to third-party service providers we use to perform various tasks, including data storage, consolidation, retrieval, analysis, effective management customer information, and help communicating with you. These third parties are only given access to information needed to perform their support functions, and are prohibited from using it for other purposes. These third-party service providers include affiliated and unaffiliated service providers in the United States, Europe and other jurisdictions.
+
+**Third-Party Business Partners**
+
+We may disclose information with our third-party business partners, such as marketing, advertising, and analytics companies for various reasons, including to advertise, display relevant content, products and services that you may find useful. To opt out of this sharing, please visit our [Marketing and Advertising](https://app.shopkick.com/marketing_data_opt_out) page. We may also disclose information to our third-party partners to audit the delivery and performance of advertisements. These third-party partners also collect information about you from their cookies, pixel tags, and other Usage Technology placed within the shopkick Program, or otherwise across different websites and applications. To learn more about this type of disclosure and advertising please visit [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page.
+
+**Group Companies and Business Transfers**
+
+We may share information with our affiliates, parent or group companies so they may assist us with providing the shopkick Program. Additionally, as our business continues to grow and change, we might restructure, buy, or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in the then prevailing privacy policy. Also, in the event shopkick, or substantially all of its assets or stock are acquired, transferred, disposed of (in whole or part and including in connection with any bankruptcy or similar proceedings), customer information will, as a matter of course, be one of the transferred assets.
+
+**Legal Processes**
+
+We may disclose your information to third parties to as may be required by law, regulatory authorities, or legal process, for example to: 
+
+  * Protect the rights, property, safety, confidentiality, or reputation of shopkick or Users. 
+  * Enforce our terms and conditions. 
+  * Prevent fraud or cybercrime. 
+  * Permit us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+### Advertising and Your Choices
+
+**Cookies**
+
+The shopkick Program uses cookies and other Usage Technology to help us understand your interests, and administer our Services. We consider information gathered from Usage Technology Non-Personally Identifiable Information. To learn more about how to monitor your device’s use of cookies please visit our [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page. Please understand that if you do not accept cookies, you may not be able to use all portions or all functionality of the shopkick Program. 
+
+**Do Not Track**
+
+Do not track is a signal-based technology and privacy setting that allows users to alerts websites, including third-party advertisers, that you do not want to be tracked. At this time, we do not respond to Do Not Track browser settings and signals. To generally learn more about Do Not Track, please visit our [Advertising and Your Choices](https://www.shopkick.com/privacy-policy/advertising-and-your-choice) page.
+
+**Personalized Advertisements**
+
+Cookies and other Usage Technology allow us and third-party advertisers to personalize your experience with the shopkick Program and on third-party webpages. To learn more about personalized advertisements (online-based advertisements) please visit our [Advertising and Your Choice](https://www.shopkick.com/privacy-policy/advertising-and-your-choice)s page.
+
+### Links to Third Party Sites
+
+The shopkick Program may contain links or API’s (e.g. data or content exchange interfaces) to external services or websites of other companies or merchants, such as making purchases online. If you click on a button, banner ad, or other type of third party link, you will be directed to that third party’s resources. The fact that we may link to or incorporate online stores’ or a merchant’s services, functionality, or website, or present a banner ad or other type of advertisement, is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party services, functionality, websites or other resources, including their use of personal information, and you should exercise caution when deciding to disclose any personal information to a third party. We encourage you to read the privacy policies or statements of the other websites you visit to learn more about their privacy practices. These other parties may place their own cookies or other files on your computer or device, collect data or solicit personal information from you.
+
+### Children’s Information
+
+The shopkick Program is not directed to children. We do not knowingly collect personally identifiable information from children under 14. If you are a parent or guardian that has become aware that your child has provided us with Personal Information without your consent, please contact us. If we become aware that a member is under the age of 14 and has provided us with Personal Information without verifiable parental consent, we will delete such information from our files.
+
+### California Privacy Rights
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to obtain a list of specific types of your Personal Information disclosed to third party direct marketers during the preceding calendar year. Along with the types of Personal Information disclosed, you are entitled to the identity of any third party businesses with whom we have disclosed Personal Information. To receive a copy of this disclosed information, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com) or mail us at the address below with the subject line “Request For California Privacy Rights.”
+
+### Change or Delete Your Information
+
+You may review, update, correct or delete your Personal Information in your Account by contacting us or by making the appropriate modifications in your Account preferences. You can also make changes in the Application by clicking on Settings and making changes. To unlink a Payment Card, in the Application, go to Settings, and tap on “Kicks for Purchase”, tap on “Manage Cards” and follow the steps to unlink a card. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your Account and/or remove your records from our system, please contact us and we will delete your account within 45 days if we do not have any legal obligation to retain the record.
+
+### Security
+
+We employ administrative and electronic measures designed to safeguard and protect your information from unauthorized access and disclosure. In addition, we periodically review and enhance our security and privacy practices as needed. While we cannot guarantee that loss, misuse or alteration of data will not occur we use commercially reasonable efforts to prevent this. It is also important for you to guard against unauthorized access to your passwords and the unauthorized use of your computer.
+
+### International Data
+
+If you are outside the United States, your information will be stored and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Our Privacy Policy and its protection applies to your data. If you are located outside the United States and choose to provide information to us, shopkick collects Personal Information in the United States and processes it there. Your submission of such information represents your agreement to this collection, storage and processing.
+
+### Changes to this Privacy Policy
+
+We are committed to complying with all applicable laws and regulations governing the collection and use of personal information. From time to time, shopkick will review its collection, use, and disclosure practices in order to assure that we are complying with our Privacy Policy and all applicable laws and regulations. If we make material changes our Privacy Policy, we will issue an updated version of this Privacy Policy with an updated date legend and/or notify you via email, the Website, Application or by other appropriate means prior to the change becoming effective if it is a significant change. You should review this Privacy Policy regularly to ensure you are familiar with any changes to it. If you do not consent to any changes to our Privacy Policy and as a result you would like us not to use or hold Personal Information about you in accordance with the revised terms, you may notify us here so we can discontinue your account, or you may discontinue your use of the shopkick Program.
+
+## Contact Us
+
+We are always trying to make shopkick’s services better. If you have any questions about this Privacy Policy, please contact us at [myprivacy@shopkick.com](mailto:myprivacy@shopkick.com). You can also contact us at 900 Middlefield Road, Third Floor, Redwood City, CA 94063.
+
+If you would like to change your email unsubscribe setting, please follow this link:  
+[http://app.shopkick.com/shopkick/v1/user/show_email_unsubscribe](http://app.shopkick.com/shopkick/v1/user/show_email_unsubscribe).
+
+We hope you will enjoy using shopkick.
+
+Last Updated: February 14, 2018
