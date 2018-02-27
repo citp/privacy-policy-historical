@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkplz.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913020014id_/https%3A//apkplz.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkplz.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227034708id_/https%3A//apkplz.com/page/privacy-policy) for the most accurate reproduction.*
 
 # APK Downloader - Free Android APK Store
 
