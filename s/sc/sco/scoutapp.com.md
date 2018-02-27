@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutapp.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228103300id_/http%3A//scoutapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutapp.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227193204id_/http%3A//scoutapp.com/privacy) for the most accurate reproduction.*
 
 # Scout Privacy Policy ~ Scout
 
