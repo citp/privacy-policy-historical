@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalwebsites.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117014554id_/http%3A//www.personalwebsites.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalwebsites.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227114224id_/http%3A//www.personalwebsites.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Websites
 
