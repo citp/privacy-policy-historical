@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avlib.in privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029064900id_/http%3A//www.avlib.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avlib.in privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227150315id_/http%3A//www.avlib.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - pdfcrop.biz
 
