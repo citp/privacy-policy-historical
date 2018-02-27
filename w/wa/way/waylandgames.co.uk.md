@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121023801id_/http%3A//www.waylandgames.co.uk/content/2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227231727id_/http%3A//www.waylandgames.co.uk/content/2-privacy-policy) for the most accurate reproduction.*
 
 # Privacy, Shipping & Returns Policy - Wayland Games
 
@@ -12,7 +12,7 @@ We may collect, store and use the following kinds of personal data:
 
   * Information about your computer, your visits to and your use of this website.
   * This includes your IP address, geographical location, browser type, referral source, the length of your visit and how many pages you viewed.
-  * We also collect information regarding your transactions with us through this website, including which products you purchased to how much you spent, which coupons you redeemed and which method of devliery you chose.
+  * We also collect information regarding your transactions with us through this website, including which products you purchased to how much you spent, which coupons you redeemed and which method of delivery you chose.
   * Please note that we do not store Credit Card/Debit Card information.
   * We also collect any information that you share with us, for the purpose of registering with us, including Title, Name, Email Address, Address and Telephone Numbers.
   * This also includes information that you provide to us for the purpose of subscribing to our website services, email notifications and newsletters.
@@ -33,11 +33,11 @@ We use Google Analytics to collect and understand data about our website, includ
 
 Our advertisers and payment services providers may also send you cookies to track your online activity. But once again, this will only track your activity on their websites and our website.
 
-Most browsers allow you to refuse to accept cookies. However, this will often have a negative impact upon the usability of many websites, including ours.
+Most browsers allow you to refuse to accept cookies. However, this will often have a negative impact on the usability of many websites, including ours.
 
 Where you submit personal information for publication on our website, we will only ever publish and use that information in accordance with the license you grant to us.
 
-Simiarly, we will not, without your express consent, share your personal information with any third parties for the purpose of direct marketing.
+Similarly, we will not, without your express consent, share your personal information with any third parties for the purpose of direct marketing.
 
 ##### Using Your Personal Data
 
@@ -63,7 +63,7 @@ In addition to the disclosures outlined above, which allow us to give you a grea
   * In connection with any legal proceedings or prospective legal proceedings.
   * To establish, exercise or defend our legal rights.
   * To prevent fraud and reduce credit risk to any of our agents, suppliers or subcontractors.
-  * Any futher personal information, which you expressly agree we are able to share. Your name as a winner of one of our many competitions for example.
+  * Any further personal information, which you expressly agree we are able to share. Your name as a winner of one of our many competitions for example.
 
 
 
@@ -85,7 +85,7 @@ In the event of drastic changes to our privacy policy, we may choose to notify y
 
 ##### Your Rights
 
-You may also instruct us not to process your personal data for marketing purposes by email at any time. You will either be able to agree in advance to receive our weekly newsletters, or other form of contact in advance. And you will always be able to opt-out as well, either by clicking the Unsubscribe button at the bottom of each newsletter, or by logging in to your Wayland Games account and changing your settings.
+You may also instruct us not to process your personal data for marketing purposes by email at any time. You will either be able to agree in advance to receive our weekly newsletters or other forms of contact in advance. And you will always be able to opt-out as well, either by clicking the Unsubscribe button at the bottom of each newsletter or by logging in to your Wayland Games account and changing your settings.
 
 ##### Third Party Websites
 
@@ -101,51 +101,47 @@ If you have any questions about this privacy policy or our treatment of your per
 
 ##### Email Notifications
 
-We may from time to time notify all users by email of significant changes to our site which may mean that any data collected is moved or changed. For example, a server move or ecommerce platform update which would require us to migrate customers' accounts from on place to another.
+We may from time to time notify all users by email of significant changes to our site which may mean that any data collected is moved or changed. For example, a server move or e-commerce platform update which would require us to migrate customers' accounts from one place to another.
 
 ##### Shipping Policy
 
 ### How do I get a shipping quote?
 
-The best way to find out how much it costs to deliver to your location is to add a few products to your shopping basket and proceed to the checkout. From here you can enter your address and click the drop down box to see what shipping options are available to you. Each shipping option has a price and an approximate delivery time.
+The best way to find out how much it costs to deliver to your location is to add a few products to your shopping basket and proceed to the checkout. From here you can enter your address and click the drop-down box to see what shipping options are available to you. Each shipping option has a price and an approximate delivery time.
 
-Some items are cheap to ship, while others are suprisingly expensive. Usually, this is due to the size and weight of your chosen products.
+Some items are cheap to ship, while others are surprisingly expensive. Usually, this is due to the size and weight of your chosen products.
 
 But if you are placing a large order, we recommend selecting the Courier options, as they offer great value (up to 30Kg in weight) and your delivery should arrive promptly while being trackable.
 
 We will only charge what it costs us to ship an item. We will not make any profit on shipping costs. Although shipping costs are subject to change due to the postal services that we use.
 
-Please note that the items in the catalog have a weight multiplier (20%) applied to ensure that an order will not be overweight for the shipping method chosen. However, if the final package weight is less than wat is calculated at the checkout, we will refund you the difference.
+Please note that the items in the catalogue have a weight multiplier (20%) applied to ensure that an order will not be overweight for the shipping method chosen. However, if the final package weight is less than what is calculated at the checkout, we will refund you the difference.
 
 A large number of shipping options are available and will be visible at checkout. The majority of orders over £150 will be delivered by Courier for a fixed fee, which we do recommend.
 
  **Europe:**
 
-Although Royal Mail see Europe as one big lump regarding costs, couriers don't. So at the moment we have Airmail and Surface Mail available with various courier options being added daily to the webstore. If our system doesn't show you a courier quote for your address, please [Contact Us](http://www.teapot.waylandgames.co.uk/contact-us) and we will get you a quote.
+Although Royal Mail sees Europe as one big lump regarding costs, couriers don't. So at the moment, we have Airmail and Surface Mail available with various courier options being added daily to the webstore. If our system doesn't show you a courier quote for your address, please [Contact Us](http://www.teapot.waylandgames.co.uk/contact-us) and we will get you a quote.
 
 Please note that any item over 2Kg not sent by courier will be split into 2 or more packages.
 
  **Australia and New Zealand:**
 
-Any orders over £200 will be begin to take advantage of subsidised courier shipping. The subsidy grows the more you spend. Australia and New Zealand are very expensive to ship parcels to, but we will do our best to offer the best deal possible.
+Any orders over £200 will begin to take advantage of subsidised courier shipping. The subsidy grows the more you spend. Australia and New Zealand are very expensive to ship parcels to, but we will do our best to offer the best deal possible.
 
 Airmail and Surface Mail options are available. However, be warned that 12 weeks is the quoted time for a parcel to reach you by the Surface option. Both include insurance. These services have a 2Kg weight limit. Again as per Europe, we are able to split the order into multiple parcels. Therefore if Surface/Airmail is chosen, please be aware that any single item over 2Kg may have been opened and spread between the packages.
 
  **Rest Of The World:**
 
-For the rest of the world both Surface and Airmail options are available, with couriers being added all the time. If you know of any alternative shipping carriers that can give us great rates then please let us know!
+For the rest of the world both Surface and Airmail, options are available, with couriers being added all the time. If you know of any alternative shipping carriers that can give us great rates then please let us know!
 
 ### Airmail
 
-If an order is sent Via Airmail, it may be seperated into multiple shipments as there is a 2kg weight limit, as well as size limits on our Airmail service. Please dont be alarmed if you receive a small package that only contains part of your order. You will be receiving the rest of your order in another package, or multiple packages. Airmail generally does not allow for parcels to be tracked unless you have specifically paid for a tracked service.
+If an order is sent Via Airmail, it may be separated into multiple shipments as there is a 2kg weight limit, as well as size limits on our Airmail service. Please don't be alarmed if you receive a small package that only contains part of your order. You will be receiving the rest of your order in another package or multiple packages. Airmail generally does not allow for parcels to be tracked unless you have specifically paid for a tracked service.
 
 ### Aerosols
 
 Aerosols cannot be sent by Air or surface shipping postage and can only be shipped by surface courier service where applicable when ordered. This is because of the air trapped within a pressurised container which has a tendency to explode due to the decreased air pressure at high altitudes.
-
-### Shipping Times
-
-When you place an order, the estimated dispatch time varies according to the stock status. "In Stock" items are usually dispatched within 48 hours, "Available" items can take between 3 and 9 working days to arrive from the supplier and ship out. This is an average and some special items may take longer. We aim to get the orders packaged and out of the door as soon as possible. But at busy times and after public holidays, there can be a small backlog. Also bear in mind the delivery method selected does not impact the processing-packing-dispatch process. It is simply how quickly your order will be delivered from our warehouse.
 
 ### Exclusions
 
