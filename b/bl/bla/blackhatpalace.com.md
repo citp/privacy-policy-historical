@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackhatpalace.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718160439id_/http%3A//semalt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackhatpalace.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227101954id_/https%3A//m.semalt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
