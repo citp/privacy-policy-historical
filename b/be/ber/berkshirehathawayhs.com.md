@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701013619id_/http%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkshirehathawayhs.com privacy policy that was archived on 2018-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180227181224id_/https%3A//www.berkshirehathawayhs.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Berkshire Hathaway HomeServices
 
@@ -8,7 +8,7 @@ Because we value you as our customer, we want to address any privacy concerns yo
 
 When you visit our consumer applications, we may collect information about you that you share with us by using our consumer applications. This identification information may include, but is not limited to, your name, physical address, e¬mail address, telephone and fax numbers, details of your real estate and lending needs and references, and other details of your life.
 
-As you may be aware, it is a common practice that when you visit our consumer applications, we may collect data involving your usage through the use of “cookies” (i.e. small text files placed on your computer by consumer applications), web server logs, and other web tools. This technology allows us to customize your online experience as well as track your use of our system so that we can improve your experience. The tracking data we collect may include, but is not limited to, the date, time and location of your visit, the time you spend, the web pages you view, the other consumer applications you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your internet service provider. You may deactivate cookies if you do not want your browsing to be tracked, but doing so may hinder your online experience.
+As you may be aware, it is a common practice that when you visit our consumer applications, we may collect data involving your usage through the use of “cookies” (i.e. small text files placed on your computer by consumer applications), web server logs, and other web tools. This technology allows us to customize your online experience as well as track your use of our system so that we can improve your experience. Pixels will be used to collect information and that the information will be shared with our advertising agencies to provide targeted advertisements. The tracking data we collect may include, but is not limited to, the date, time and location of your visit, the time you spend, the web pages you view, the other consumer applications you visit, your search queries, and basic information about your computer, such as your Internet Protocol (“IP”) address, your domain name, your browser type, and the name of your internet service provider. You may deactivate cookies if you do not want your browsing to be tracked, but doing so may hinder your online experience. Consumers can remove tracking technologies and opt-out of receiving behavioral advertising by visiting the following websites: [NAI ](http://optout.networkadvertising.org/?tf=800-830-7777&tf=800-830-7777&mode=grid#!/) and [DAA](http://optout.aboutads.info/#!/). 
 
 When visiting our consumer-facing applications, you may be directed, through hyperlinks, to other consumer applications that are beyond our control. Furthermore, when you are visiting our consumer applications, other companies, such as third party advertisers and sponsors, may be gathering information about you. This Privacy Policy does not cover the collection of information by those other companies and consumer applications. Although we encourage third parties to provide their own privacy policies, we are not responsible for their activities, such as how they handle the information they collect online. 
 
@@ -40,7 +40,7 @@ If you would like to send us a request as indicated above, or if you have any ot
 
 ### Effective Date and Contact Information:
 
-This Privacy Policy is effective as of 11/01/2016. Our company can be reached at [webmaster@hsfranchise.com](mailto:webmaster@hsfranchise.com) .
+This Privacy Policy is effective as of 01/09/2018. Our company can be reached at [webmaster@hsfranchise.com](mailto:webmaster@hsfranchise.com) .
 
 ### California Privacy Rights
 
@@ -51,3 +51,7 @@ To request the above information please contact us by writing to customer servic
 ### International Users
 
 Our consumer applications are hosted by servers in the United States. If you are located outside of the United States, your personal information may be transferred to the United States. By submitting your personal information, you consent to its transfer to the United States and to its storage, processing, and use there in accordance with this Privacy Policy.
+
+### Continue to new location
+
+is not covered by . By selecting continue, your previous locations will be removed. Only  will be included in your search. 
