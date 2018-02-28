@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atos.net privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317153818id_/https%3A//atos.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atos.net privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228034439id_/https%3A//atos.net/en/privacy) for the most accurate reproduction.*
 
 # Atos | Privacy - Atos
 
