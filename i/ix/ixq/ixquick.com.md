@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixquick.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107222652id_/https%3A//www.ixquick.com/eng/privacy-policy.html%23hmb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixquick.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228142435id_/https%3A//www.ixquick.com/eng/privacy-policy.html%23hmb) for the most accurate reproduction.*
 
 # PRIVACY - Privacy Policy
 
