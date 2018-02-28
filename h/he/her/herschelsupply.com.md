@@ -1,111 +1,195 @@
-> *The following text is extracted and transformed from the herschelsupply.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607210752id_/http%3A//www.herschelsupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herschelsupply.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228041725id_/https%3A//herschel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Herschel Supply Co.
+# Privacy Policy | Herschel Supply Company
 
-## Privacy Policy
+This Privacy Policy explains Herschel Supply’s and its affiliates’ policies and practices with respect to how we collect and use your personal information. It also describes how we maintain, use, and disclose personal information. All capitalized terms used in this Privacy Policy that are not defined have the meanings assigned to them in our Terms of Use.
 
-##### Privacy Statement
+Herschel Supply Company Ltd. and our affiliated companies control the data collected when you interact with Herschel Supply. Our contact information is found at the end of this policy. Third-party providers engaged by us may also process and store certain data that we collect.
 
-This privacy policy (this “Privacy Policy”) sets out the privacy policies and practices for Herschel Supply Co. and its subsidiaries and affiliates with respect to how Herschel Supply Co. collects personal information. It also describes how Herschel Supply Co. maintains, uses, and discloses personal information. This Privacy Policy applies to information collected from you by Herschel Supply Co. via this website and other websites operated or provided by Herschel Supply Co., and various subdomains (collectively, the “Sites”); and other places where or means by which we may collect personal information. This Privacy Policy also sets out how you can access certain information that Herschel Supply Co. may collect about you. In this Privacy Policy, “personal information” means information or opinion about an individual whose identity is apparent or can be reasonably ascertained from the information or opinion as further defined under applicable privacy laws, including, but not limited to, Your Contacts and other personal information collected through the Services.
+This Privacy Policy applies to information collected from you by Herschel Supply through the Herschel Sites, our social channels, and other means by which we may collect personal information. This Privacy Policy also sets out how you can access certain information that we may collect about you. In this Privacy Policy, “personal information” means information about an individual who can be identified directly or indirectly from the information we collect. 
 
-Please note that the Sites may contain links to other third party websites that are not controlled or operated by Herschel Supply Co. This Privacy Policy does not apply to such third party websites, and Herschel Supply Co. is not responsible for the content of such third party websites or the privacy practices of such third parties. Therefore Herschel Supply Co. encourages you to request and review the privacy policies of any third parties before disclosing your personal information to such parties or when visiting such third party websites.
+BY SUBMITTING PERSONAL INFORMATION TO HERSCHEL SUPPLY OR OUR SERVICE PROVIDERS AND AGENTS, YOU AGREE THAT HERSCHEL SUPPLY MAY COLLECT YOUR PERSONAL INFORMATION AND YOU CONSENT TO THE USE, DISCLOSURE AND TRANSFER OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain practices identified herein at any time by contacting us at the address provided below. If you refuse or withdraw your consent, you acknowledge that we may not be able to provide you, or continue to provide you, with certain services or information which may be of value to you.
 
-##### Consent
+This Privacy Policy was last updated on January 5, 2018. We reserve the right to update these terms from time to time by posting an updated version on the Herschel Sites, without further notice to you. 
 
-BY SUBMITTING PERSONAL INFORMATION TO HERSCHEL SUPPLY CO. OR ITS SERVICE PROVIDERS AND AGENTS, YOU AGREE THAT HERSCHEL SUPPLY CO. MAY COLLECT YOUR PERSONAL INFORMATION AND YOU CONSENT TO THE USE, DISCLOSURE AND TRANSFER OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the purposes identified herein at any time by contacting Herschel Supply Co. at the address provided below. If you refuse or withdraw your consent, you acknowledge that Herschel Supply Co. may not be able to provide you or continue to provide you with certain services or information which may be of value to you.
+**THIRD PARTY SITES**
 
-##### Revisions to This Privacy Policy
+The Herschel Sites may contain links to websites and other resources operated by third parties other than Herschel Supply, including social media websites. We do not control the collection of data on these websites, and are not responsible for the content of such third party websites or the privacy practices of such third parties. Your use of third party websites is governed by the terms and conditions and privacy policies of the third party.
 
-Herschel Supply Co. reserves the right, in Herschel Supply Co.’s discretion, to change, modify, add or remove portions of this Privacy Policy at any time and from time to time, without prior notice to you. However, Herschel Supply Co. will treat your continued use of the Sites and Services following such revision as your acceptance of the revised terms. All revisions will be posted to the Sites and will apply to any personal information collected on or after the date posted. Herschel Supply Co. will obtain the necessary consents required under applicable privacy laws if it seeks to collect, use or disclose your personal information for purposes other than those to which consent has been obtained unless otherwise required or permitted by law.
+**DATA COLLECTION**
 
-_This Privacy Policy was last updated July 9, 2013._
+We may collect personal information in connection with your use of the Herschel Sites or your purchase of our products and services. Our collection and storage of your personal information depends on our interaction with you and how you use the Herschel Sites.
 
-##### Collection of Your Information
+We may also collect information that is not personal information because it cannot be used to identify you directly or indirectly. This may include aggregated data such as the frequency of user visits to the Herschel Sites, the routes by which users access the Herschel Sites and use of any hyperlinks available on the Herschel Sites. Herschel Supply or its service providers and agents may process and use this aggregate data for various purposes including, but not limited to, analyzing this data for trends and statistics, developing the Herschel Sites and the Herschel Sites’ features and offerings, assessing patterns of use, or planning and evaluating marketing initiatives.
 
-Herschel Supply Co. may collect personal information in connection with your use or purchase of Herschel Supply Co.’s products and services, which may include information provided in connection with the following activities:
+**Information Provided by You**
 
-  * Registering or filling in forms on the Sites. This includes information you may provide when you request additional information about Herschel Supply Co.’s products and services or sign up to receive Herschel Supply Co.’s e-mail newsletters or coupons.
-  * Purchasing any product or service from Herschel Supply Co.
-  * Providing feedback or making other submissions to Herschel Supply Co.
-  * Requesting information or assistance from Herschel Supply Co. Herschel Supply Co. may also keep a copy of any communications or correspondence you may send to it, including any e-mail communications.
-  * Participating or responding to consumer survey or requests for consumer’s opinions, concerns, and preferences regarding Herschel Supply Co.’s products and services.
-  * Participating in consumer contests, sweepstakes and other promotions.
-  * Using other features of the Sites or Services that may be offered from time to time, and may require such information in order to utilize the feature (including but not limited to making a Submission as defined in the Terms of Use).
+By providing us with information, you consent to our collection and use of that information for the purpose for which you provided it. It may also be necessary for us to process the information you provide to do something at your request (e.g., to complete a purchase, to send you newsletters).
 
+Information that you may provide us with directly may include:
 
+·      Your name, user name, email and password when you register for an account on the Herschel Sites;
 
-The personal information that Herschel Supply Co. may collect may include your name, username, password, email address, age, date of birth, gender, address, telephone number, credit card and debit card numbers (with expiration dates), personal preferences, and any other personal information that you choose to include in your profile, or in other communications to Herschel Supply Co. You represent and warrant that you have the right and authority or have obtained all necessary consents to provide any information, including any personal information of another individual, that is provided by you to Herschel Supply Co.
+·      Your age, telephone number, date of birth, gender, personal preferences, purchase history and other information that you add to your account profile;
 
-Herschel Supply Co. may also collect information that may not be personal information, which may include, but is not limited to, the frequency of user visits to the Sites and Services, the routes by which users access the Sites and Services and use of any hyperlinks available on the Sites and Services. Herschel Supply Co. or its service providers and agents may process and use this aggregate data for various purposes including, but not limited to, analysis of this data for trends and statistics, development of the Sites and Services and the Sites’ and Services’ features and offerings, assessing patterns of use, or planning and evaluating marketing initiatives. This information is gathered by certain tools and methods such as the collection of your IP address or the use of cookies and is maintained, used and disclosed in aggregate form unless otherwise noted.
+·      Your name and email address when you subscribe to newsletters or other marketing materials;
 
-##### Cookies
+·      Your name, address, and credit card information when you complete a purchase;
 
-Like many websites, Herschel Supply Co. utilizes “cookies” to maintain a record of your visit to the Sites and your use of the Services. A cookie is a small text file that is transferred by a web server and stored on the hard drive of your computer or mobile device. It can only be read by the server that sent it to you. This information does not identify you personally and you remain anonymous unless you have otherwise provided Herschel Supply Co. with personal information.
+·      Your name, email address, purchase history, other details you provide and a copy of your communications when you contact our customer service team;
 
-Cookies help Herschel Supply Co. to improve the Sites and Services, and to deliver more personalized service by enabling Herschel Supply Co. to estimate audience size and usage patterns; to store information about your preferences; to speed up your searches and to recognize you when you return to the Sites or use the Services.
+·      Your personal preferences and opinions when you respond to consumer survey requests, or other requests for your opinion, preferences or suggestions;
 
-Most web browsers automatically accept cookies. If you would prefer to prevent your computer from accepting Herschel Supply Co.’s cookies, you may follow your Internet browser’s steps for doing so. Please note, however, that if you do disable cookies from your browser, you may not be able to access certain sections of the Sites or the Services.
+·      Your name, age, address and social media handles when you participate in contests, sweepstakes and other promotions on our website or our social channels; and
 
-##### IP Addresses
+·      Your name, address, phone number, email address, work history, and other details you provide if you submit a job application.
 
-An IP address is a computer’s numeric address, by which it can be located within a network. Herschel Supply Co. may record your IP address when you visit or use services or features on the Sites. Herschel Supply Co. may use your IP address for the purposes noted above, and also to help diagnose problems with Herschel Supply Co.’s server, or to administer the Sites. Herschel Supply Co. may also use your IP address to identify you when Herschel Supply Co. feels it is necessary to enforce compliance with this Privacy Policy or the Terms of Use, or to protect the Sites, Services, systems, information, employees, service providers, business partners, users, customers and others.
+By submitting personal information to Herschel Supply, you represent and warrant that you have the right and authority or have obtained all necessary consents to provide any information, including any personal information of another individual that you provide to us.
 
-##### Protection of Your Information
+**Information We Collect Automatically**
 
-To prevent unauthorized access or disclosure, maintain data accuracy and facilitate the appropriate use of information, Herschel Supply Co. uses physical, technological and administrative procedures to protect the personal information that Herschel Supply Co. collects from loss, unauthorized access, modification, disclosure or other misuse.
+Information that we collect automatically when you use the Herschel Sites may include:
 
-Nevertheless, Internet or wireless transmissions are never completely private or secure. You understand that any messages or information you send to the Sites or through the Services may be read or intercepted by others. If you have any questions about the security of personal information collected by Herschel Supply Co., please contact: [privacyofficer@herschelsupply.com](mailto:privacyofficer@herschelsupply.com).
+·      Device information, such as whether you are using a mobile phone, tablet or computer;
 
-You should also be aware that certain aspects of the Sites and Services are not confidential and are available for public viewing. For example, any submissions that you may post to any publicly available blogs or other publicly available features of the Sites and Services are not confidential and may be viewed by other users of the Sites and Services. By making personal information publicly available where the Sites and Services allow you to do so, you consent to such publication by Herschel Supply Co. or its service providers and agents. Please refer to the Terms of Use for additional provisions relating to user submissions that may apply to you.
+·      Your IP address;
 
-##### Use of Your Personal information
+·      The frequency of user visits to the Herschel Sites;
 
-Upon Herschel Supply Co.’s collection of your personal information, Herschel Supply Co. may use such personal information internally, separately or in combination with pre-existing information, for the following purposes:
+·      The use of hyperlinks available on the Herschel Sites;
 
-  * To develop, enhance, market, sell or otherwise provide information, products or services
-  * To establish and conduct commercial relationships, including to process purchases or other transactions and to conduct or administer other transactions that you may engage in with Herschel Supply Coon or through the Sites
-  * To conduct or administer contests, sweepstakes or other promotions in which you have participated;
-  * To contact you and to respond to any communications that you may have had with us;
-  * To troubleshoot problems with the Sites and Services;
-  * To customize your experience or homepage on the Sites;
-  * To develop and manage Herschel Supply Co.’s business and operations;
-  * To enforce Herschel Supply Co.’s Terms of Use or comply with this Privacy Policy;
-  * To detect and protect Herschel Supply Co. and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activity, and to audit compliance with Herschel Supply Co.’s policies and contractual obligations;
-  * To engage in business transactions, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving Herschel Supply Co.:As permitted by, and to comply with, any legal or regulatory requirements or provisions;
-  * To access, preserve, disclose and use your personal information contained in your account, all Submissions (as defined in the Terms of Use), all communications to and from you, all information relating to your use of the Sites, if Herschel Supply Co. is required to do so by law or legal process or if Herschel Supply Co. determines, in its sole discretion, that such action is necessary to protect the rights of Herschel Supply Co., third parties, and other users of the Sites or for purposes of responding to your request for customer service; or
-  * For any other purpose to which you consent.
+·      Which pages you view on the Herschel Sites and how long you stay on each one;
 
+·      Whether you make a purchase.
 
+Like many websites, the Herschel Sites use “cookies” to maintain a record of your visit to the Herschel Sites. A cookie is a small text file that is transferred by a web server and stored on the hard drive of your computer or mobile device. It can only be read by the server that sent it to you. This information does not identify you personally.
 
-Personal information collected by Herschel Supply Co. may be transferred to, stored and processed in the United States, Canada, Hong Kong or Australia. While in another jurisdiction for processing, the information may be accessed by the courts, law enforcement, and national security authorities of that jurisdiction.
+Cookies help us improve the Herschel Sites, optimize your experience, store information about your preferences, speed up your searches and to recognize you when you return to the Herschel Sites. For more information on our use of cookies and to learn how to disable cookies, please read our Cookie Policy [here](https://herschelsupplyco.co.uk/cookie-policy). If you do disable cookies from your browser, certain features of the Herschel Sites will be disabled.
 
-##### Disclosure of Your Information
+Herschel Supply may use automatically collected data for various purposes including analyzing trends and statistics, assessing patterns of use, developing and diagnosing problems on the Herschel Sites or our servers, planning and evaluating marketing initiatives, and optimizing your experience on the Herschel Sites. This information is not used to inform decisions about individuals, only to understand how different categories of users interact with the Herschel Sites. To the extent that any information can be linked to your IP address to identify you, we will treat it as personal information.
 
-Herschel Supply Co. may disclose your personal information to its subsidiaries or affiliates and to third parties whom Herschel Supply Co. hires to provide services on Herschel Supply Co.’s behalf, including, but not limited to, support services, website services, delivering promotional materials, contests, sweepstakes and other promotions, and answering customer questions about Herschel Supply Co.’s products and services. These subsidiaries, affiliates and third parties may be located overseas. Herschel Supply Co. will only provide those third parties with the personal information that they need to deliver the services to Herschel Supply Co. and/or on Herschel Supply Co.’s behalf. Herschel Supply Co. will not disclose your personal information to third parties for their direct marketing purposes without obtaining prior affirmative consent. In the event that Herschel Supply Co. is involved in a business transaction, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving Herschel Supply Co., you consent to your personal information and any other information Herschel Supply Co. may have collected being transferred to another party in connection with such transaction. You also consent to Herschel Supply Co. disclosing your personal information to legal, financial, insurance, or other advisors in connection with such business transaction or management of all or part of Herschel Supply Co.’s business or operations; as consented to by you from time to time, including to fulfill any other purposes that are identified when the personal information is collected; or as otherwise permitted or required by law.
+**USE OF YOUR INFORMATION**
 
-##### Retention of Your Personal information
+**Requested Services**
 
-The personal information that you provide will be retained by Herschel Supply Co. in accordance with applicable laws. However, Herschel Supply Co. will take reasonable steps to destroy or permanently de-identify personal information it holds if it is no longer needed for Herschel Supply Co. business purposes.
+We may use your personal information to provide services you have requested, including:
 
-##### Children’s Privacy
+·      Completing, modifying and cancelling purchases;
 
-Herschel Supply Co. recognizes the privacy interests of children and Herschel Supply Co. encourages parents and guardians to take an active role in their children’s online activities and interests. The Sites are not intended for children under the age of 18. Herschel Supply Co. does not target its services or the Sites to children under 18. Herschel Supply Co. does not knowingly collect personal information from children under the age of 18.
+·      Contacting you about your account or your orders;
 
-##### Choice and Opt-Out Preferences
+·      Maintaining your user account;
 
-Herschel Supply Co. does not collect your personal information unless you choose to provide it. If, at any time, you prefer not to receive further email communications from Herschel Supply Co. (except in connection with information, products or services that you specifically request), you will have the ability to unsubscribe from such communications by means of a link provided in every broadcast e-mail that is sent to you by Herschel Supply Co. If, at any time, you prefer not to receive any other form of communication from Herschel Supply Co., you will have the ability to unsubscribe from such communications by contacting: [email@herschelsupply.com](mailto:email@herschelsupply.com).
+·      Registering you in contests that you enter and awarding you prizes;
 
-##### Access and Correction
+·      Processing and responding to your job application;
 
-Herschel Supply Co. will take reasonable steps to ensure the personal information it holds is accurate, complete and up to date. Upon your written request, subject to certain exceptions provided by law, Herschel Supply Co. will inform you of the existence, use and disclosure of your personal information and give you access to that information. Additionally, if you have any questions or enquiries relating to our privacy practices or procedures, or if you believe that the personal information that Herschel Supply Co. holds about you is not accurate, complete or up to date you may write to the Privacy Officer at the address provided below. If you are able to establish that the information is not accurate, complete or up to date, Herschel Supply Co. will take reasonable steps to correct the information so that it is accurate, complete and up to date.
+·      Responding to communications you send, including to our customer service team;
 
-##### Request for Access and Correction, Questions or Comments
+·      Sending you marketing newsletters and other materials that you consent to receiving; and
 
-Herschel Supply Co. welcomes questions and comments about this Privacy Policy. Requests for access and correction of your personal information, and questions or comments should be directed to the Herschel Supply Co. Privacy Officer at:
+·      Any other purpose to which you consent.
 
-Herschel Supply Co.  
-Attention: Privacy Officer  
+**Other Business Interests**
+
+We may use your information to carry out legitimate activities related to our business, including:
+
+·      Understanding, improving and enhancing our existing products and services, including the Herschel Sites;
+
+·      Establishing commercial relationships necessary for the performance of the Herschel Sites, including to process transactions, store data, and administer the Herschel Sites;
+
+·      Verifying access to your user account;
+
+·      Offering, developing and selling products or services;
+
+·      Troubleshooting problems with the Herschel Sites;
+
+·      Customizing your experience on the Herschel Sites;
+
+·      Enforcing our Terms of Use and this Privacy Policy;
+
+·      Detecting and protecting Herschel Supply and third-parties from error, negligence, breach of contract, fraud, theft and other illegal activity;
+
+·      Auditing our compliance with this policy and other contractual and legal obligations;
+
+·      Developing and managing our business and operations;
+
+·      Developing, enhancing, marketing, selling or providing information about products or services;
+
+·      Customizing advertisements and marketing communications;
+
+·      Monitoring your use of the Herschel Sites to ensure the safety and security of data and to detect security breaches;
+
+·      Engaging in business transactions, including the purchase, sale, lease, merger, amalgamation or any other type of acquisition, disposal, securitization or financing involving Herschel Supply;
+
+·      Complying with any legal or regulatory requirements or provisions; and
+
+·      Protecting the rights of Herschel Supply or third-parties.
+
+**DISCLOSURE OF YOUR INFORMATION**
+
+We may disclose your information to third-parties in certain circumstances with your consent, as required by law, or in furtherance of legitimate business purposes, including to the following third-parties:
+
+·      Service providers and vendors that we hire to provide services on our behalf, including website management, data processing, payment processing, and delivering promotional materials;
+
+·      Our own subsidiaries or affiliates;
+
+·      Counterparties in business transactions, including any type of acquisition, disposal, securitization or financing involving Herschel Supply;
+
+·      Professional legal, financial, insurance or other advisors in connection with business transactions, legal claims or other legal, tax and accounting matters;
+
+·      Government authorities if necessary to comply with a law, regulation or legal process or to protect the safety of any person or their rights (including fraud investigations).
+
+We will only provide third-parties with the personal information they require to complete their work. 
+
+**Data Transfers**
+
+Personal information collected by us may be transferred to and processed outside your country of residence for the purposes set out in this Privacy Policy, including to the United States. 
+
+To the extent that these countries do not have equal or better data protection laws to your jurisdiction, we will take steps necessary to implement appropriate legal mechanisms, including contractual safeguards and data protection policies. However, while in another jurisdiction, your personal information may be accessed by the courts, law enforcement and administrative bodies of that jurisdiction.
+
+**RETENTION OF YOUR INFORMATION**
+
+We will retain the personal information that you provide to us for as long as necessary to carry out the purposes set out in this Privacy Policy. In general, we will retain the information associated with your account until your account is closed. In some cases, your information may be retained for a period of time in accordance with applicable laws (for example, to investigate fraud or for tax reporting purposes). We will take reasonable steps to destroy or permanently de-identify personal information if it is no longer necessary for our business purposes.
+
+**PROTECTION OF YOUR INFORMATION**
+
+We use physical, technological and administrative procedures to protect the personal information that we collect from unauthorized access or disclosure, maintain data accuracy and facilitate the appropriate use of information. However, Internet or wireless transmissions are never completely secure and there is a chance that the messages or information you send may be read or intercepted by others. If you have specific questions about the security of personal information we collect, please contact: [privacyofficer@herschel.com](mailto:privacyofficer@herschelsupply.com).
+
+It is your responsibility to keep your account password and information (including your credit card information) secure. You should not share them with anyone else, and you may want to consider disabling automatic log-in. Contact us immediately if you become aware of any unauthorized use of your account or other security breach.
+
+**CHILDREN’S PRIVACY**
+
+The Herschel Sites are not intended for children under the age of 18. We do not knowingly collect personal information from children under the age of 18.
+
+**YOUR CHOICES AND RIGHTS**
+
+If you consent to receive promotional communications from us and later want to stop receiving these communications, you can unsubscribe using the link provided in each broadcast email. You may also have the right to restrict, object to or withdraw your consent for specific processing activities.
+
+You are entitled to request information about the existence, use and disclosure of your personal information in certain circumstances. We will make reasonable efforts to provide this information, subject to exceptions provided by law.
+
+You may also be entitled to request: (a) to receive your personal information in a commonly used electronic format to facilitate the transfer of your information to another service provider, (b) to have your personal information erased, or (c) to correct or update inaccurate, incomplete or out-of-date personal information held by Herschel Supply.
+
+**REQUESTS, QUESTIONS OR COMMENTS**
+
+If you have questions or inquiries relating to our privacy practices or procedures, or want to make a request concerning your personal information, please write to Herschel Supply’s Privacy Officer/Data Protection Officer at the address provided below:
+
+[privacyofficer@herschel.com](mailto:privacyofficer@herschel.com)
+
+Herschel Supply Company Ltd.  
 327 – 611 Alexander St  
 Vancouver, BC  
 V6A 1E1  
 Canada
+
+Attention: Privacy Officer/Data Protection Officer
+
+Registered UK office:
+
+5 New Street Square
+
+London, United Kingdom
+
+EC4A 3TW
+
+If you remain unhappy with a response you receive about the treatment of your personal information, you can also refer your concerns to the relevant privacy or data protection supervisor in your jurisdiction. 
