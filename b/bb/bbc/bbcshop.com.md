@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006180448id_/https%3A//www.bbcworldwide.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcshop.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228142351id_/https%3A//www.bbcworldwide.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
