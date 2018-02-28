@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116121922id_/http%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228193007id_/https%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Stronghold Kingdoms - Privacy Policy
 
