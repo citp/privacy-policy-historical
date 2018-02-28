@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zingfit.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229162413id_/http%3A//www.zingfit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingfit.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228203647id_/https%3A//zingfit.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement | Fitness Studio Software | zingFit
+# Privacy Policy | zingfit
 
 For visitors, we’ve structured our web sites so that, in general, you can visit us on the web without identifying yourself or revealing any personal information.
 
