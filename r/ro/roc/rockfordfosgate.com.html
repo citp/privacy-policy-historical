@@ -1,34 +1,882 @@
-<!--The following is the downloaded HTML source of the rockfordfosgate.com privacy policy that was archived on 2016-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160629162047id_/http%3A//www.rockfordfosgate.com/support/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockfordfosgate.com privacy policy that was archived on 2018-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180301132651id_/https%3A//www.rockfordfosgate.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	PrivacyPolicy
-</title>
-    <link rel="stylesheet" href="../Styles/global.css" type="text/css"> 
-    <link rel="stylesheet" href="../Styles/bootstrap.css" type="text/css"> 
-</head>
-<body>
-    <form method="post" action="privacypolicy.aspx" id="form1">
-<div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQwMDkwNTc1NGRkrrywaOVyvUB8Ms7/U5HJcinauhmD792Cp1VUP6C+hro=">
-</div>
+<!DOCTYPE html><html><head>
+    <!-- Google Tag Manager -->
+    <script type="text/javascript" async="" src="https://d10lpsik1i8c69.cloudfront.net/w.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MHW3MZH"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MHW3MZH');</script>
+    <!-- End Google Tag Manager -->
 
-<div class="aspNetHidden">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Rich Text | Rockford Fosgate ®</title>
 
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BA0DD1BB">
-</div>
-    <div>
-        <h3>Privacy Policy</h3>
-        <br>
-        <p>Welcome to Rockford Fosgate's website. You may visit this site anonymously, without revealing any personal information. At times, Rockford Fosgate will request personal information to provide you with a specific product, service, or information. This information may include your name, shipping address, billing address, telephone numbers, credit card information and e-mail address. Personal information is only collected when necessary to provide a product, service, or information. By providing such information, you are agreeing to allow Rockford Fosgate to use the information provided to complete the transaction. Rockford Fosgate will not disclose your personal information to third parties without your consent.</p>
-        <br>
-        <p>Rockford Fosgate collects personal information to provide you with a personalized on-line experience. Your email address will be used ONLY when you consent to use it to receive scheduled email newsletters, special discounted offers, and other similar email information. Rockford Fosgate values its customers' privacy and will not disclose any customer-specific information to third parties without their consent. Any additional demographic information collected from customers will be collected on an optional and voluntary basis.</p>
-        <br>
-        <p>As discussed below, Rockford Fosgate cannot be held responsible for personal information voluntarily disclosed by you to third parties. Please safeguard your personal information.</p>
-        <br>
-        <p>(Rockford Fosgate reserves the right to update this policy at any time by posting a notice on its website regarding the existence and location of the new or revised privacy policy.)</p>
+    <script id="shopatronCart" src="//mediacdn.shopatron.com/media/js/product/shopatronAPI-2.4.min.js" type="text/javascript">{"apiKey":"trk2q9zh"}</script>
+    <script src="//mediacdn.shopatron.com/media/js/product/shopatronJST-2.4.min.js" type="text/javascript"></script>
+
+    <link rel="icon" type="image/icon" href="/static/images/icons/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/images/icons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/images/icons/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="mask-icon" href="/static/images/icons/safari-pinned-tab.svg%22%20color%3D%22%23000000">
+    <meta name="theme-color" content="#000000">
+
+    <link rel="stylesheet" href="/static/scripts/lib/swiper/swiper.min.css">
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400" rel="stylesheet">
+    <link href="/static/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style/main.css">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    </head><body><li id="invisibleItem" style="display: none">
+  <!-- For ajax adding to the cart, we need an item that is always on the page. -->
+  <div class="thumb"></div>
+
+  <div class="info">
+    <h6></h6>
+    <div class="desc">
+      <h5></h5>
     </div>
-    </form>
 
+    <div class="total">
+      <span></span> <label></label>
+    </div>
+  </div>
+</li>
+
+<script>
+// CART ACTIONS!
+var _updateItemQuantity = function(pk, quantity, callback, action) {
+  action = action || 'update';
+  // Set's this pk in your session to quantity. Set to -1 to remove the item.
+  // action may be 'update' or 'add'
+
+  if (action === 'add') {
+    console.log('addItemQuantity', pk, quantity, action);
+
+    Shopatron.addToCart({quantity: quantity, partNumber: pk}, {
+      success: function() {
+        window.cartActions.updateDropdownMenu();
+
+        if (callback) {
+          callback();
+        }
+      },
+      error: function() {
+        alert('Unable to add item to cart. ' + pk);
+      }
+    });
+  } else if (action === 'update') {
+    console.log('updateItemQuantity', pk, quantity, action);
+
+    if (quantity === -1) {
+      Shopatron.removeItem({cartItemID: pk}, {
+        success: function(e) {
+          window.cartActions.updateDropdownMenu();
+        },
+        error: function() {
+          alert('Unable to remove item from cart. ' + pk);
+        }
+      })
+    } else {
+      Shopatron.updateQuantity({cartItemID: pk, quantity:quantity}, {
+        success: function(e) {
+          window.cartActions.updateDropdownMenu();
+        },
+        error: function() {
+          alert('Unable to update item quantity. ' + pk);
+        }
+      })
+    }
+  }
+
+
+  return;
+}
+
+var _updateDropdownMenu = function(cart_data) {
+  Shopatron.getCart({
+    success: function(cart) {
+      var cartItems = $('.nav-cart .cart--items');
+
+      /* console.log('Cart: ', cart);*/
+
+      $('.subtotal').html('<span>Subtotal</span> <label>' + cart.subtotalDisplay + "</label>");
+      if (cart.subtotal === 0) {
+        $('.subtotal').html('');
+      }
+
+      if (cart.cartItems.length === 0) {
+        cartItems.empty();
+        cartItems.append('<h1>No Items!</h1>');
+      }
+
+      var shopatronItems = [];
+      var expectedShopatronItems = cart.cartItems.length;
+
+      $(cart.cartItems).each(function(idx, cartProduct) {
+        var afterSlash = cartProduct.product.split('/')[2];
+        var beforeQuestion = afterSlash.split('?')[0];
+
+        Shopatron.getProduct({'partNumber': beforeQuestion}, {
+          success: function(details) {
+            var invisibleItem = $('#invisibleItem');
+
+            // Using the template above, we construct list items for the dropdown.
+            var new_item = invisibleItem.clone();
+            new_item.attr('id', null);
+            new_item.attr('class', 'item');
+            new_item.css('display', 'flex');
+            new_item.data('prod-id', cartProduct.cartItemID);
+            new_item.data('prod-cost', cartProduct.price);
+
+            new_item.data('orderby', beforeQuestion);
+
+            new_item.find('.thumb').css('background-image', 'url("' + details.image + '")')
+            new_item.find('.info h6').html(details.name);
+            new_item.find('.info .desc h5').html(details.description);
+
+            new_item.find('.info .total span').html('QTY: ' + cartProduct.quantity);
+            new_item.find('.info .total label').html(cartProduct.priceDisplay)
+
+            shopatronItems.push(new_item);
+            checkIfCartIsFinishedUpdating();
+          }
+        })
+      });
+
+      var checkIfCartIsFinishedUpdating = function() {
+        if (shopatronItems.length === expectedShopatronItems) {
+          // We wait until we have all data to update the cart.
+          cartItems.empty();
+
+          shopatronItems.sort(function(a, b) {
+            var aob = a.data('orderby') || 0;
+            var bob = b.data('orderby') || 0;
+
+            return aob - bob;
+          });
+
+          $(shopatronItems).each(function(idx, html) { cartItems.append(html) });
+
+          $('.nav-cart .item .info').each(function() {
+              $(this).append('<div class="edit-delete"><div class="cart-delete"><div class="cart-delete-icon cart-action"></div>Delete</div><div class="cart-start-edit"><div class="cart-edit-icon cart-action"></div>Edit</div></div>');
+              $(this).append('<div class="edit-product-quantity"></div>');
+              $(this).find('.edit-product-quantity').append('<div class="select-quantity-wrap"><label>QTY</label><div class="select-quantity"><span class="minus">–</span><input type="text" value="1" name="quantity" /><span class="plus">+</span></div></div><div class="cart-approve-edit cart-action"></div>');
+          });
+
+          // quantity plus minus -- moved here as we had to bind events with dynamically generated content in the cart
+          $('.select-quantity span').off('click');
+          $('.select-quantity span').on('click', function(e) {
+              var cr_val = parseFloat($(this).siblings('input').val());
+              if (cr_val == NaN) cr_val = 1;
+              if ($(this).hasClass('plus')) {
+                  // increment
+                  cr_val++;
+              } else {
+                  // decrement
+                  cr_val--;
+              }
+
+              if (cr_val < 1) cr_val = 1;
+              $(this).siblings('input').val(cr_val);
+          });
+        }
+      }
+    },
+    error: function() {
+      console.warn('Unable to update cart items!');
+    }
+  })
+}
+
+var actions = {
+  updateItemQuantity: _updateItemQuantity,
+  updateDropdownMenu: _updateDropdownMenu
+};
+
+window.cartActions = actions;
+
+window.cartActions.updateDropdownMenu();
+</script>
+
+    
+    
+
+    <!--Locale: US 54.165.59.7-->
+  
+
+  
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MHW3MZH"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+
+<nav role="navigation" class="navbar dark desktop">
+  
+
+
+  <div class="top-bar">
+
+    <!-- breadcrumb menu -->
+
+  	 <div class="breadcrumbs">
+     <!--
+    	 <a class="crumb-link" href="#">HOME</a>
+    	 <a class="crumb-link" href="#">MOBILE</a>
+    	 <a class="crumb-link" href="#">SUBWOOFERS</a>
+    	 <a class="crumb-link" href="#">PRODUCT DETAILS</a>
+      -->
+      
+  	 </div>
+
+    <!-- top right links & search -->
+    <div class="right-bar">
+      <div class="nav-item top-right">
+        <a href="/about/">About Us</a>
+      </div>
+      <div class="nav-item top-right">
+        <a href="/support/">Support</a>
+      </div>
+      <div class="nav-item top-right">
+        <a href="/videos/">Videos</a>
+      </div>
+      <div class="nav-item top-right">
+        <a href="/dealerlocator/">Dealer Locater</a>
+      </div>
+      <div class="nav-item top-right">
+        <a href="/search/"><i class="fa fa-lg fa-search"></i></a>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="bottom-bar">
+
+    <!-- <a href="/" class="logo"></a> -->
+    <div class="logo">
+      <a href="/">
+	<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="183" height="30.76" viewBox="0 0 183 30.76">
+  <defs>
+    <style>
+      .light-logo-with-text {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+
+  <path class="light-logo-with-text" d="M335.33,105.54a2.92,2.92,0,0,1-2.86-3,2.89,2.89,0,0,1,2.86-3,2.69,2.69,0,0,1,2.62,2.08h-4.47l3.15,3.43a2.78,2.78,0,0,1-1.29.44m5.8-.48a6.58,6.58,0,0,0,.49-2.52A6.45,6.45,0,0,0,335.33,96a6.37,6.37,0,0,0-6,4.63V98.76l3-2.81h-3V93.07l-3.95,1.75v14.33h3.95V104.5a6.37,6.37,0,0,0,6,4.66,6.28,6.28,0,0,0,3.84-1.39l-2.38-2.66Zm-94.57.66a3,3,0,1,1,2.83-3,2.9,2.9,0,0,1-2.83,3m20.16-2.16a2.85,2.85,0,0,1-2.71,2.09,3,3,0,0,1,0-5.91,2.85,2.85,0,0,1,2.71,2.09Zm0-6.74a5.87,5.87,0,0,0-2.76-.69,6,6,0,0,0-4.61,2.2V95.95a11.48,11.48,0,0,0-3.11,1.39V95.95h-3.88v4.79a6.16,6.16,0,0,0-5.87-4.6,5.91,5.91,0,0,0-3.71,1.32l.49-.44-2.62-2.63,3.42-1.6V88.51L234.26,93,237.12,96h-2.34v12.18l-3.28-6.82,2.76-5.4h-4.09l-2.09,4.52V92.34h-3.95v16.81h3.95v-5.94l2.69,5.94h7.86V98.79l2.69,0,.9-.8a6.5,6.5,0,0,0-1.84,4.56,6.25,6.25,0,0,0,6.11,6.38,6.16,6.16,0,0,0,5.87-4.6v4.86h3.88V101.6c.35-.58,1.05-1.49,1.92-1.38l.24-.35a6.61,6.61,0,0,0-.55,2.65A6.25,6.25,0,0,0,264,108.9a5.89,5.89,0,0,0,2.76-.69v.95h3.77V92.45h-3.77Zm51.21,9a3,3,0,1,1,2.83-3,2.9,2.9,0,0,1-2.83,3m-12.4-.29a3,3,0,1,1,2.83-3,2.89,2.89,0,0,1-2.83,3m-19.56,0a3,3,0,1,1,2.83-3,2.91,2.91,0,0,1-2.83,3m34.55-8.83a6.32,6.32,0,0,0-2.59-.66,6.24,6.24,0,0,0-5.68,3.75V95.95h-4.05v.77a6,6,0,0,0-2.66-.69,6.41,6.41,0,0,0-6.29,6.57,6.84,6.84,0,0,0,.07.93l-.14-.61c-.84-1.57-2.51-1.75-3.6-3.06-.14-.36-.24-.77.18-1.06,1.26-.47,2.34.44,3.35,1.17V96.72a8,8,0,0,0-5.31-.44,3.91,3.91,0,0,0-2.52,3.06v0A6.07,6.07,0,0,0,286,96.13a5.87,5.87,0,0,0-3.14.91c-1.22-1.3-3.54-3.72-3.54-3.72L284,91.21V86.43l-11.67,5.14,4.26,4.38h-3l0,14.77,4.19,4.34V98.79s2.61-.09,3.29-.11a6.52,6.52,0,0,0-1.23,3.83,6.12,6.12,0,1,0,12.23,0,6.66,6.66,0,0,0-.1-1.09c.91.83,2.2,1.24,3.17,2.11a.94.94,0,0,1-.24,1.31c-.88.51-1.85-.14-2.45-.44a10.55,10.55,0,0,1-1.61,3.14,7.27,7.27,0,0,0,2.62,1.5,5.2,5.2,0,0,0,4.61-.95,6,6,0,0,0,1.58-3.06l-.06-.24a6.28,6.28,0,0,0,5.92,4.36,5.82,5.82,0,0,0,2.62-.62v6.38l4.12-4.05v-5.4a6.25,6.25,0,0,0,5.67,3.72,6.16,6.16,0,0,0,2.59-.58v.55h3.81V96h-3.81Zm-110,8.72a3,3,0,1,1,2.85-3,2.91,2.91,0,0,1-2.85,3m5.54-6a6.37,6.37,0,0,0-5.66-3.61A6.5,6.5,0,0,0,204.91,99l0-3h-4.05l5.28-3.17-15.34-7.15V96.9l3.77-2.26v-3.1l3.95,2-8,5h10.13v11.89l4.19,4.34v-8.94a6.37,6.37,0,0,0,5.52,3.21,6.3,6.3,0,0,0,5.66-3.61,6.34,6.34,0,0,0,5.66,3.65A7.84,7.84,0,0,0,223,109v-3.76a2.64,2.64,0,0,1-1.33.22,2.92,2.92,0,0,1-2.83-3,2.88,2.88,0,0,1,2.83-3,2.62,2.62,0,0,1,1.33.18V95.95a5.23,5.23,0,0,0-1.29-.15,6.3,6.3,0,0,0-5.66,3.61" transform="translate(-158.62 -84.3)"></path>
+  <path class="light-logo-with-text" d="M163.05,94l10.24,4.85c-1.2.81-2.5,1.36-3.7,2.13h2.85v11.83L186,98.59,172.31,84.3Z" transform="translate(-158.62 -84.3)"></path>
+  <polygon class="light-logo-with-text" points="9.68 15.03 6.97 13.78 6.97 15.76 4.43 17.38 4.4 9.7 0 14.29 11.02 25.79 11.02 18.45 4.01 18.45 9.68 15.03"></polygon>
+</svg>
+      </a>
+
+    </div>
+    <div class="dropdown-links">
+
+      <a href="/mobile/">
+        <div class="nav-drop-down bottom-right">
+          <h5>MOBILE</h5>
+          <!-- soundwave animation -->
+          <div class="soundwave">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+        </div>
+      </a>
+
+      <a href="/marine/">
+        <div class="nav-drop-down bottom-right">
+          <h5>MARINE</h5>
+          <!-- soundwave animation -->
+          <div class="soundwave">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+        </div>
+      </a>
+
+      <a href="/motorsports">
+        <div class="nav-drop-down bottom-right">
+          <h5>MOTORSPORTS</h5>
+          <!-- soundwave animation -->
+          <div class="soundwave">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+        </div>
+      </a>
+
+      <a href="/motorcycle/">
+        <div class="nav-drop-down bottom-right">
+          <h5>MOTORCYCLE</h5>
+          <!-- soundwave animation -->
+          <div class="soundwave">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+        </div>
+      </a>
+
+      <a href="/accessories/">
+        <div class="nav-drop-down bottom-right">
+          <h5>ACCESSORIES</h5>
+          <!-- soundwave animation -->
+          <div class="soundwave">
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+  <div class="bar"></div>
+</div>
+
+        </div>
+      </a>
+      
+      <div class="cart bottom-right">
+        <a><i class="fa fa-lg fa-shopping-cart"></i></a>
+        <div class="nav-cart">
+	<div class="inner">
+		<h3>Your Shopping Cart</h3>
+		<ul class="cart--items"></ul>
+		<div class="subtotal">
+			<span>Subtotal</span> <label></label>
+		</div>
+
+		<div class="buttons">
+			<a class="dark-btn" href="#" onclick="Shopatron.checkout()">Go to Checkout</a>
+
+			<a class="white-border-box continue-shopping" href="/continue/">Continue Shopping</a>
+		</div>
+		<div>
+			<a href="/dealerlocator/" class="cart-link" target="_blank">Find a Dealer</a>
+		</div>
+	</div>
+</div>
+
+      </div>
+    </div>
+
+  </div>
+</nav>
+
+<div class="mobile-navbar mobile dark">
+  <!-- trigger hamburger menu -->
+  <div class="nav-trigger">
+    <span class="bar-1"></span>
+    <span class="bar-2"></span>
+    <span class="text">menu</span>
+  </div>
+
+  <a href="/search/" class="search-trigger">
+    <i class="fa fa-lg fa-search"></i>
+  </a>
+
+  <a href="/" class="home-link">
+    <svg xmlns="http://www.w3.org/2000/svg" width="4.3" height="4.3" viewBox="0 0 43 43">
+  <defs>
+    <style>
+      .light-nav-icon {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Diamond_R" data-name="Diamond R" class="light-nav-icon" d="M172.951,24.6l16.1,7.394c-1.884,1.216-3.929,2.042-5.813,3.2l4.421,0.015V53L209,31.577,187.5,10Zm8.245,8.147-4.251-1.9-0.01,3-3.987,2.427-0.016-11.651L166,31.588l17.279,17.326V37.877h-11Z" transform="translate(-166 -10)"></path>
+</svg>
+
+  </a>
+
+  <a href="" class="cart-trigger">
+    <i class="fa fa-lg fa-shopping-cart"></i>
+  </a>
+  <div class="nav-cart">
+	<div class="inner">
+		<h3>Your Shopping Cart</h3>
+		<ul class="cart--items"></ul>
+		<div class="subtotal">
+			<span>Subtotal</span> <label></label>
+		</div>
+
+		<div class="buttons">
+			<a class="dark-btn" href="#" onclick="Shopatron.checkout()">Go to Checkout</a>
+
+			<a class="white-border-box continue-shopping" href="/continue/">Continue Shopping</a>
+		</div>
+		<div>
+			<a href="/dealerlocator/" class="cart-link" target="_blank">Find a Dealer</a>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="mobile-nav mobile">
+  <div class="search">
+    <a href="/search/" class="search-btn">
+      <i class="fa fa-lg fa-search"></i>
+    </a>
+  </div>
+  <div class="drawer-links">
+    <!-- mobile -->
+    <div class="link">
+      <div class="title">
+        <h4>
+          <a href="/mobile/">MOBILE</a>
+        </h4>
+      </div>
+    </div>
+    <!-- marine -->
+    <div class="link">
+      <div class="title">
+      	<h4><a href="/marine/">MARINE</a></h4>
+      </div>
+    </div>
+    <!-- motorsports -->
+    <div class="link">
+      <div class="title">
+      	<h4><a href="/motorsports">MOTORSPORTS</a></h4>
+      </div>
+    </div>
+    <!-- motorcycle -->
+    <div class="link">
+      <div class="title">
+      	<h4><a href="/motorcycle/">MOTORCYCLE</a></h4>
+      </div>
+    </div>
+    <!-- accessories -->
+    <div class="link">
+      <div class="title">
+      	<h4><a href="/accessories/">ACCESSORIES</a></h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="nav-links">/
+    <ul>
+      <li>
+        <a href="/about">About Us</a>
+      </li>
+      <li>
+        <a href="/support/">Support</a>
+      </li>
+      <li>
+        <a href="/videos">Videos</a>
+      </li>
+      <li>
+        <a href="/dealerlocator/">Dealer Locator</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="social">
+    <a href="https://www.youtube.com/user/rockfordfosgate" class="youtube" target="_blank">
+      <i class="fa fa-youtube-play" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/rockfordfosgate/" class="insta" target="_blank">
+      <i class="fa fa-instagram" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.facebook.com/rockfordfosgate" class="fb" target="_blank">
+      <i class="fa fa-facebook-square" aria-hidden="true"></i>
+    </a>
+    <a href="https://twitter.com/RockfordFosgate" class="twitter" target="_blank">
+      <i class="fa fa-twitter" aria-hidden="true"></i>
+    </a>
+  </div>
+
+</div>
+
+
+<script>
+$(document).ready(function() {
+  // add edit/delete icons
+  $('.nav-cart .item .info').each(function() {
+      $(this).append('<div class="edit-delete"><div class="cart-delete"><div class="cart-delete-icon cart-action"></div>Delete</div><div class="cart-start-edit"><div class="cart-edit-icon cart-action"></div>Edit</div></div>');
+      $(this).append('<div class="edit-product-quantity"></div>');
+      $(this).find('.edit-product-quantity').append('<div class="select-quantity-wrap"><label>QTY</label><div class="select-quantity"><span class="minus">–</span><input type="text" value="1" name="quantity" /><span class="plus">+</span></div></div><div class="cart-approve-edit cart-action"></div>');
+  });
+
+  $('.nav-cart').on('click', '.cart-delete', function() {
+      var prod_id = $(this).closest('.item').data('prod-id');
+      window.cartActions.updateItemQuantity(prod_id, -1);
+  });
+
+  $('.nav-cart').on('click', '.cart-start-edit', function() {
+      $(this).closest('.item').addClass('edit-mode');
+  });
+
+  $('.nav-cart').on('click', '.cart-approve-edit', function() {
+      $(this).closest('.item').removeClass('edit-mode');
+      var prod_id = $(this).closest('.item').data('prod-id');
+      var new_quantity = $(this).closest('.item').find('.select-quantity-wrap input').val();
+      window.cartActions.updateItemQuantity(prod_id, new_quantity);
+  });
+
+  // quantity plus minus -- moved here as we had to bind events with dynamically generated content in the cart
+  $('.select-quantity span').off('click');
+  $('.select-quantity span').on('click', function(e) {
+      var cr_val = parseFloat($(this).siblings('input').val());
+      if (cr_val == NaN) cr_val = 1;
+      if ($(this).hasClass('plus')) {
+          // increment
+          cr_val++;
+      } else {
+          // decrement
+          cr_val--;
+      }
+
+      if (cr_val < 1) cr_val = 1;
+      $(this).siblings('input').val(cr_val);
+  });
+
+  $('.navbar .cart.bottom-right').on('cart-opened', function() {
+    $(this).addClass('opened');
+    $('.mobile-navbar .nav-cart').addClass('opened');
+  });
+
+  $('.navbar .cart.bottom-right').on('cart-closed', function() {
+    $(this).removeClass('opened');
+    $('.mobile-navbar .nav-cart').removeClass('opened');
+  });
+
+  $('.cart-trigger, .continue-shopping').click(function(e) {
+      e.preventDefault();
+      if ($('.mobile-navbar .nav-cart').hasClass('opened')) {
+          $('.navbar .cart.bottom-right').trigger('cart-closed');
+      } else {
+          $('.navbar .cart.bottom-right').trigger('cart-opened');
+      }
+  });
+
+  $(document).click(function(event) {
+      if ($(window).width() > 1024) {
+          if (!$(event.target).closest('.cart-trigger').length && !$(event.target).closest('.cart.bottom-right').length) {
+
+              $('.navbar .cart.bottom-right').trigger('cart-closed');
+          }
+      } else {
+          if (!$(event.target).closest('.cart-trigger').length && !$(event.target).closest('.nav-cart').length) {
+              $('.navbar .cart.bottom-right').trigger('cart-closed');
+          }
+      }
+  });
+  // if (Cookies.get('hidesale')) {
+  //   $('.top-message-content').hide();
+  // }
+  $('.top-message-content .close').click(function(e){
+    e.preventDefault();
+    $('.top-message-content').slideUp();
+    Cookies.set('hidesale', 'True');
+  });
+});
+</script>
+
+
+    <div class="main-content" role="main">
+      
+      
+
+
+      
+<div class="rich-text">
+  <h3>This Privacy Policy Was Updated 4/20/2017</h3>
+<p>Your privacy is important to Rockford ("ROCKFORD"). So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices.</p>
+<h3 class="red">Collection of Personal Information</h3>
+<p>You may visit our website and use our iOS or Android apps anonymously, without revealing any personal information. At times, Rockford will request personal information to provide you with a specific product, service, information, or to provide you with a personalized on-line experience.</p>
+<ul>
+<li>We may collect information such as name, shipping address, billing address, telephone numbers, credit card information and e-mail address.</li>
+<li>Personal information is only collected when necessary to provide a product, service, or information.</li>
+<li>By providing such information, you are agreeing to allow Rockford to use the information provided to complete the transaction.</li>
+<li>Your email address will be used ONLY when you consent to use it to receive scheduled email newsletters, special discounted offers, and other similar email information.</li>
+<li>Rockford will not disclose your personal information to third parties without your consent.</li>
+</ul>
+<h3 class="red">Collection of Non-Personal Information</h3>
+<p>We also collect data in a form that does not permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:</p>
+<ul>
+<li>We may collect information such as occupation, language, zip code, area code, unique device identifier, referrer URL, location, and the time zone where a product is used so that we can better understand customer behavior and improve our products, services, and advertising.</li>
+<li>We may collect information regarding customer activities on our website, App Store, Android Play Store and from other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non‑personal information for the purposes of this Privacy Policy.</li>
+<li>We may collect and store details of how you use our services, including search queries. This information may be used to improve the relevancy of results provided by our services. Except in limited instances to ensure quality of our services over the Internet, such information will not be associated with your IP address.</li>
+</ul>
+<p>If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.</p>
+<p>Rockford cannot be held responsible for personal information voluntarily disclosed by you to third parties. Please safeguard your personal information.</p>
+<p>Rockford reserves the right to update this policy at any time by posting a notice on its website regarding the existence and location of the new or revised privacy policy.</p>  
+</div>
+
+    </div>
+
+    
+<footer class="footer" role="contentinfo">
+  <div class="contact-nav">
+      <div class="contact-nav-item">
+        <h5><a href="/contact-us/">Contact Us</a></h5>
+      </div>
+      <div class="contact-nav-item">
+        <h5><a href="tel:18006699899">1-800-669-9899</a></h5>
+      </div>
+      <div class="contact-nav-item">
+        <h5><a href="http://rftech.custhelp.com/">Technical Support</a></h5>
+      </div>
+      <div class="contact-nav-item">
+        <div id="myChatLinkContainer">
+            <div id="myChatLink">
+                <div id="myChatLinkInfo">
+                </div>
+            </div>
+        </div>
+        <!--h5><a href="#">Start a Chat</a></h5-->
+      </div>
+  </div>
+  <div class="social-row">
+    <div class="icon"><a href="https://www.youtube.com/user/rockfordfosgate"><i class="fa fa-lg fa-youtube-play"></i></a></div>
+    <div class="icon"><a href="https://www.instagram.com/rockfordfosgate/"><i class="fa fa-lg fa-instagram"></i></a></div>
+    <div class="icon"><a href="https://www.facebook.com/rockfordfosgate"><i class="fa fa-lg fa-facebook-square"></i></a></div>
+    <div class="icon"><a href="https://twitter.com/RockfordFosgate"><i class="fa fa-lg fa-twitter"></i></a></div>
+  </div>
+  <div class="user-login">
+      <div class="white-border-box"><a href="http://rats.rockfordfosgate.com/media/login.asp">Media Login</a></div>
+      <div class="white-border-box"><a href="https://dashboard.rockfordcorp.com/Account/Login?ReturnUrl=%2f" target="_blank">Dealer Login</a></div>
+  </div>
+  <div class="sitemap-nav">
+      <ul>
+          <li><a href="/privacy-policy/">Privacy Policy</a></li>
+          <li><a href="/terms-of-use/">Terms of Use</a></li>
+          <li><a href="http://www.rockfordcorp.com/JobBoard">Employment </a></li>
+          <li><a href="/sitemap.xml">Site Map</a></li>
+          <li><a href="/products/selector/discontinued/">Discontinued Products</a></li>
+          <li><a href="http://www.rockfordcorp.com" target="_blank">Corporate Info</a></li>
+          <li><a href="/news/">News &amp; Events</a></li>
+      </ul>
+  </div>
+  <div class="sitemap-nav-mobile">
+      <ul>
+         <li><a href="/privacy-policy/">Privacy Policy</a></li>
+         <li><a href="/sitemap.xml">Site Map</a></li>
+      </ul>
+      <ul>
+         <li><a href="/terms-of-use/">Terms of Use</a></li>
+         <li><a href="http://www.rockfordcorp.com/JobBoard">Employment </a></li>
+      </ul>
+      <ul>
+         <li><a href="/news/">News &amp; Events</a></li>
+         <li><a href="http://www.rockfordcorp.com" target="_blank">Corporate Info</a></li>
+
+      </ul>
+      <ul>
+         <li><a href="/products/selector/discontinued/">Discontinued Products</a></li>
+      </ul>
+  </div>
+  <div class="disclaimer">
+      <p class="address">600 South Rockford Drive - Tempe, Arizona 85281 - U.S.A.</p>
+      <p class="copyright">© 2016 Rockford Corp. All rights reserved.</p>
+  </div>
+</footer>
+
+    <script type="text/javascript" src="/static/scripts/lib/all_libs_min.js"></script>
+
+      
+
+      <script type="text/javascript" src="/static/scripts/main-min.js "></script>
+      <script type="text/javascript" src="/static/scripts/site9.js"></script>
+
+    
+    
+
+   <script type="text/javascript" src="//rftech.widget.custhelp.com/euf/rightnow/RightNow.Client.js"></script>
+   <script type="text/javascript">
+       RightNow.Client.Controller.addComponent(
+           {
+               container_element_id: "myChatLinkContainer",
+               info_element_id: "myChatLinkInfo",
+               label_available_immediately_template: "Start a Chat",
+               label_available_with_wait_template: "Agent Available in {TIME} ({NUM_MINUTES} {MINUTES} and {NUM_SECONDS} {SECONDS}).",
+               label_default: "Start a Chat",
+               label_unavailable_busy_template: "All Agents are Busy",
+               label_unavailable_hours: "Chat Currently Unavailable",
+               link_element_id: "myChatLink",
+               instance_id: "sccl_0",
+               module: "ConditionalChatLink",
+               type: 7
+           },
+           "//rftech.widget.custhelp.com/ci/ws/get"
+       );
+   </script>
+   <!-- OwnerIQ Tag -->
+   <script type="text/javascript">
+   document.write('<sc' + 'ript src="' + document.location.protocol + '//px.owneriq.net/anst/s/Rock.js' + '"></sc' + 'ript>');
+
+   // closes all menu accordion when submenu exits
+   $('.dropdown-accordion').on('show.bs.dropdown', function (event) {
+   var accordion = $(this).find($(this).data('accordion'));
+   accordion.find('.panel-collapse.in').collapse('hide');
+   });
+
+   // Prevent dropdown to be closed when we click on an accordion link
+   $('.dropdown-accordion').on('click', 'a[data-toggle="collapse"]', function (event) {
+   event.preventDefault();
+   event.stopPropagation();
+
+   $($(this).data('parent')).find('.panel-collapse.in').collapse('hide');
+   $($(this).attr('href')).collapse('show');
+   });
+   </script><script src="https://px.owneriq.net/anst/s/Rock.js"></script>
+
+   <script type="text/javascript">
+   // oiq_doTag();
+   </script>
+    <script type="text/javascript">
+      window.__lo_site_id = 95400;
+
+      (function() {
+        var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+        wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+      })();
+    </script>
+  
 
 </body></html>
