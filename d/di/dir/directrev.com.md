@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directrev.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231212211id_/http%3A//www.directrev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directrev.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301063716id_/http%3A//www.directrev.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DirectREV - Media Delivery Platform
 
@@ -60,4 +60,4 @@ Out of respect for your privacy, you may choose to stop receiving our newsletter
 
 ### Contact Us
 
-To inquire about privacy concerns, please contact DirectREV using our [online form](https://web.archive.org/web/20171231212211id_/http%3A//www.directrev.com/contact).
+To inquire about privacy concerns, please contact DirectREV using our [online form](https://web.archive.org/web/20180301063716id_/http%3A//www.directrev.com/contact).
