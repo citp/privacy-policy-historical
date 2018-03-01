@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltesting.org privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114004334id_/http%3A//www.caltesting.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltesting.org privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301202142id_/http%3A//www.caltesting.org/privacy.html) for the most accurate reproduction.*
 
 # CA&L: Computerized Assessments and Learning
 
