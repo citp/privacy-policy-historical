@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912003100id_/http%3A//seocopywriting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocopywriting.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301103809id_/http%3A//seocopywriting.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SEO Copywriting
 
