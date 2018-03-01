@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130004747id_/http%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triathlon.org privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301230010id_/https%3A//www.triathlon.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Triathlon.org
 
