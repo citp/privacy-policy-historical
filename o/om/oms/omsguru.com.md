@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omsguru.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231094826id_/http%3A//www.omsguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omsguru.com privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301204707id_/http%3A//www.omsguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OMS Guru
 
