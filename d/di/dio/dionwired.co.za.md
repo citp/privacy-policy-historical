@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dionwired.co.za privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227181008id_/http%3A//www.dionwired.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dionwired.co.za privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301203301id_/https%3A//www.dionwired.co.za/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy - DionWired
 
