@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhealthtips.in privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229223648id_/http%3A//www.myhealthtips.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhealthtips.in privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301063622id_/http%3A//www.myhealthtips.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Health Tips - My Health Tips
 
