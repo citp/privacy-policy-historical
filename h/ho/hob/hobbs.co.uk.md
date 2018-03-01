@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129051907id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbs.co.uk privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301040412id_/https%3A//www.hobbs.co.uk/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hobbs
 
@@ -69,7 +69,7 @@ If we have to transfer your Personal Information to countries outside the Europe
 Marketing Communications From Hobbs
     
 
- If you have consented during our order process, or by providing your details on our web sign-up page or in one of our stores, we may send you updates and information by post and/or email. These may include joint promotions with our business partners, but we will not share your information with them. If you no longer want to receive such offers, please send us a message at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk)
+If you have consented during our order process, or by providing your details on our web sign-up page or in one of our stores, we may send you updates and information by email, post or SMS and your data may be used for profiling. These communications may include joint promotions with our business partners, but we will not share your information with them. If you no longer want to receive such offers, please send us a message at [privacy@hobbs.co.uk](mailto:privacy@hobbs.co.uk)
 
 Collection of Information by Third Party Websites
     
