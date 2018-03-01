@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boston.gov privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002061040id_/https%3A//www.boston.gov/departments/innovation-and-technology/privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.gov privacy policy that was archived on 2018-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180301124559id_/https%3A//www.boston.gov/departments/innovation-and-technology/privacy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy and security statement | Boston.gov
 
