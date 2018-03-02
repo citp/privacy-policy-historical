@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007071244id_/http%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10homeremedies.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302184418id_/https%3A//www.top10homeremedies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Home Remedies
 
-The owners of [www.top10homeremedies.com](http://www.top10homeremedies.com/) follow a very strict privacy policy. As a reputed home remedy site, we cater to the needs of the users and hence give high importance to the privacy policy.
+The owners of [www.top10homeremedies.com](https://www.top10homeremedies.com/) follow a very strict privacy policy. As a reputed home remedy site, we cater to the needs of the users and hence give high importance to the privacy policy.
 
 Here are some of the basic segments of our privacy policy:
 
@@ -47,14 +47,18 @@ All the databases of our website are accessible by those authorized with special
 
  **Do we use cookies?**
 
-To enhance your online experience we use cookies. Cookies are small files that are transferred by the website from the hard disk of the user’s computer. These files provide a piece of personal information about you or your preferences.  We also use third party advertisements on [www. top10homeremedies.com](http://www.top10homeremedies.com/) to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
+To enhance your online experience we use cookies. Cookies are small files that are transferred by the website from the hard disk of the user’s computer. These files provide a piece of personal information about you or your preferences.  We also use third party advertisements on [www. top10homeremedies.com](https://www.top10homeremedies.com/) to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
 
  **DoubleClick DART Cookie**
 
-Google AdSense is an advertising service provided by Google. [www. top10homeremedies.com](http://www.top10homeremedies.com/) uses the “Doubleclick” Cookie, which tracks use of [www. top10homeremedies.com](http://www.top10homeremedies.com/) and user behavior concerning ads, products and the services we offer.  
-You may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](http://www.google.com/settings/ads/onweb/optout?hl=en).
+Google AdSense is an advertising service provided by Google. [www. top10homeremedies.com](https://www.top10homeremedies.com/) uses the “Doubleclick” Cookie, which tracks use of [www. top10homeremedies.com](https://www.top10homeremedies.com/) and user behavior concerning ads, products and the services we offer.  
+You may decide to disable all the Doubleclick Cookies by clicking on: [google.com/settings/ads/onweb/optout?hl=en](https://www.google.com/settings/ads/onweb/optout?hl=en).
 
- **Do we disclose any information to outside parties?**
+ **Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Do we disclose any information to outside parties?**
 
 We do not sell, trade, or transfer any of the information provided by you to outside parties.  Information can be disclosed to trusted third parties who help in conducting our business, but it is done so only when those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
@@ -76,6 +80,6 @@ We allow our users to review, correct or change the information provided by them
 
 We reserve the right to change this privacy policy from time to time with or without notice. If we decide to change our privacy policy, we will post those changes on this page only.
 
- **NOTE:** By using the site, [www.top10homeremedies.com](http://www.top10homeremedies.com/), you agree to the terms and conditions of this privacy policy. You should access our privacy policy regularly to ensure you understand our current policies.
+ **NOTE:** By using the site, [www.top10homeremedies.com](https://www.top10homeremedies.com/), you agree to the terms and conditions of this privacy policy. You should access our privacy policy regularly to ensure you understand our current policies.
 
 If there are any questions regarding this privacy policy you may contact us using this email address – info  @   top10homeremedies.com
