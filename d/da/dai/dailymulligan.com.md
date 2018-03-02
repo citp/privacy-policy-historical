@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailymulligan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606222840id_/http%3A//dailymulligan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymulligan.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302191538id_/http%3A//dailymulligan.com/privacy) for the most accurate reproduction.*
 
 # » DAILY MULLIGAN Privacy Policy
 
 **_DAILY MULLIGAN Privacy Policy_**
 
-_Version 2.9 Dated December 2, 2016_
+_Version 2.9 Dated January 1, 2018_
 
 _BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY  DailyMulligan.com, LLC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE “DailyMulligan.com SITES”), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A “VISITOR” (WHICH MEANS THAT YOU SIMPLY BROWSE THEDailyMulligan.com SITES) OR YOU ARE A “MEMBER” (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE DailyMulligan.comSITES). THE TERM “USER” REFERS TO A VISITOR OR A MEMBER. “YOU” REFERS TO YOU AS A VISITOR OR A MEMBER._
 
