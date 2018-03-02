@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodiehomechef.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017013316id_/http%3A//foodiehomechef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodiehomechef.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302082009id_/http%3A//foodiehomechef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Foodie Home Chef
 
