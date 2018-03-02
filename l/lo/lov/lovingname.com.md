@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingname.com privacy policy that was archived on 2015-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150901084127id_/http%3A//www.lovingname.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingname.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302231230id_/http%3A//www.lovingname.com/support/privacy.php) for the most accurate reproduction.*
 
 # LovingName :: Privacy Policy
 
