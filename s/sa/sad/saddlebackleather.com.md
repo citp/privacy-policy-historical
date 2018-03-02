@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saddlebackleather.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231235826id_/http%3A//www.saddlebackleather.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saddlebackleather.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302092911id_/http%3A//www.saddlebackleather.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Statement
 
