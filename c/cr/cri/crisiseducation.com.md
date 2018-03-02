@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crisiseducation.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913073647id_/https%3A//www.selfrely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisiseducation.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302122844id_/https%3A//www.selfrely.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Self-Reliance Association
+# Privacy Policy – Self-Reliance Association
 
 Privacy is our business – we live and die by it. And we know that it is critically important to our customers as well. We are constantly studying new developments, laws and methods of protecting your privacy.
 
