@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsmachine.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230210351id_/http%3A//www.dealsmachine.com/gp/privacy-policy-100) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsmachine.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302135752id_/http%3A//www.dealsmachine.com/gp/privacy-policy-100) for the most accurate reproduction.*
 
 # DealsMachine: Privacy Policies
 
