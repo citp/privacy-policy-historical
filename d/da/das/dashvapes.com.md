@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dashvapes.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225154133id_/https%3A//www.dashvapes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashvapes.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302211938id_/https%3A//www.dashvapes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - US
 
 ## General
 
