@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitd.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230094038id_/http%3A//wordpress-110172-313493.cloudwaysapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitd.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302223346id_/http%3A//wordpress-110172-313493.cloudwaysapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Piksel
 
