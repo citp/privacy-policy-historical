@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216200446id_/http%3A//www.thenewcivilrightsmovement.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302174827id_/http%3A//www.thenewcivilrightsmovement.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - The New Civil Rights Movement
+# Privacy Policy | The New Civil Rights Movement
 
-## **Updated April 10, 2014**
+**Updated April 10, 2014**
 
-****_The New Civil Rights Movement_  understands your privacy is important to you, and it’s important to us also, which is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
+****_The New Civil Rights Movement_ understands your privacy is important to you, and it’s important to us also, which is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
 
-When accessing our Website,  _The New Civil Rights Movement_  will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+When accessing our Website, _The New Civil Rights Movement_ will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
 If you visit our site to read or download information on our pages, we may collect and store the following information about you, possibly via third party software services, for example, SiteMeter, StatCounter, Google Analytics:
 
@@ -26,12 +26,18 @@ If you visit our site to read or download information on our pages, we may colle
 
 If you identify yourself by giving us your email address or by sending us an e-mail containing personal information, then the information collected will be used to respond to your message. Additionally, we may store and use any contact information, and send you information in the future.
 
-All communications and conversations, electronic or otherwise, made to  _The New Civil Rights Movement_ , or its contributors, editors, writers, interns, or owner, are subject to publication, **regardless of the method of delivery, format, etc.**. That is, if you send us an email, physical letter, or call us  **we reserve the right to publish the contents of that conversation, including your name and email address** , regardless of  **whether or not you give permission in advance** , and  **whether or not you state otherwise**. This includes but is not exclusive to “letters to the editor” and other emails.
+All communications and conversations, electronic or otherwise, made to  _The New Civil Rights Movement_ , or its contributors, editors, writers, interns, or owner, are subject to publication, **regardless of the method of delivery, format, etc.**. That is, if you send us an email, physical letter, or call us **we reserve the right to publish the contents of that conversation, including your name and email address** , regardless of **whether or not you give permission in advance** , and **whether or not you state otherwise**. This includes but is not exclusive to “letters to the editor” and other emails.
 
-The information collected is for statistical purposes.  _The New Civil Rights Movement_  may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+The information collected is for statistical purposes. _The New Civil Rights Movement_ may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-For site security purposes and to ensure that this service remains available to all users,  _The New Civil Rights Movement_  may use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+For site security purposes and to ensure that this service remains available to all users, _The New Civil Rights Movement_ may use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-_The New Civil Rights Movement_  will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Personally-identifying information you have provided to us, such as but not limited to email addresses, may be used by us in conjunction with third-party providers to send you information.
+_The New Civil Rights Movement_ will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Personally-identifying information you have provided to us, such as but not limited to email addresses, may be used by us in conjunction with third-party providers to send you information.
 
-_Generated by:  [General Counsel, PC](http://www.generalcounsellaw.com/ "Northern Virginia Business Attorneys and Lawyers") and [Legal River](http://www.legalriver.com/ "Small Business Attorneys and Lawyers")‘s [Privacy Policy Generator](http://privacy-policy-generator.legalriver.com/ "Privacy Policy Generator")_
+_Generated by:[General Counsel, PC](http://www.generalcounsellaw.com/ "Northern Virginia Business Attorneys and Lawyers") and [Legal River](http://www.legalriver.com/ "Small Business Attorneys and Lawyers")‘s [Privacy Policy Generator](http://privacy-policy-generator.legalriver.com/ "Privacy Policy Generator")_
+
+**Friends:**
+
+**We invite you to[ sign up for our new mailing list](http://visitor.r20.constantcontact.com/manage/optin?v=001whLQo73KzGhEjdskYG07rHNy_XoDDkSBBO4INZHx6oD9kfp2yeeQAJeMQUu9oTviZa0VEl5k0rNiLifxlZsOFScMz8rVGmIaN-FFOO3GTKc%3D), and [subscribe to The New Civil Rights Movement via email](http://feedburner.google.com/fb/a/mailverify?uri=TheNewCivilRightsMovement&amp;loc=en_US) or [RSS](http://feeds2.feedburner.com/thenewcivilrightsmovement).**
+
+**Also, please  [like us on Facebook](https://www.facebook.com/pages/The-New-Civil-Rights-Movement/358168880614), and [follow us on Twitter](https://twitter.com/#!/gaycivilrights)!**
