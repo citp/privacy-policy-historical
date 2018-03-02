@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teampilipinas.info privacy policy that was archived on 2015-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151227061625id_/http%3A//www.teampilipinas.info/2012/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teampilipinas.info privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302151133id_/http%3A//www.teampilipinas.info/2017/08/privacy-policy-teampilipinasinfo.html) for the most accurate reproduction.*
 
-# Privacy Policy | Team Pilipinas
-
-**Privacy Policy for http://www.teampilipinas.info**
+# Privacy Policy (TeamPilipinas.info) | Team Pilipinas
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at . 
 
@@ -15,9 +13,18 @@ Like many other Web sites, TeamPilipinas.info makes use of log files. The inform
 TeamPilipinas.info does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
 **Third-Party Advertisement**  
-TeamPilipinas.info use third-party advertising companies to serve ads when you visit our website. Some of our partners may use cookies and web beacons on our site. Our advertising partners include international and local platforms: Innity Philippines, Nuffnang Philippines, MGID, Taboola, Geniee SSP, PropellerAds Media, Adcash & PopAds.net. 
+TeamPilipinas.info use third-party advertising companies to serve ads when you visit our website. Some of our partners may use cookies and web beacons on our site. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on TeamPilipinas.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Our advertising partners include international and local platforms:  
+\- Innity Philippines  
+\- Nuffnang Philippines  
+\- Ambient Digital  
+\- Geniee SSP  
+\- PropellerAds Media  
+\- Unruly Media  
+\- Adcash 
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on TeamPilipinas.info send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
 TeamPilipinas.info has no access to or control over these cookies that are used by third-party advertisers. 
 
@@ -25,6 +32,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**Title** : Privacy Policy  
-**Description** : Privacy Policy for http://www.teampilipinas.info If you require any more information or have any ...  
+**Title** : Privacy Policy (TeamPilipinas.info)  
+**Description** : If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at . At Tea...  
 **Rating** : 5
