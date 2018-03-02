@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230055819id_/http%3A//www.schuh.co.uk/help/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schuhstore.co.uk privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302110603id_/http%3A//www.schuh.co.uk/help/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy, Cookie and Security Policy | schuh
 
@@ -80,7 +80,7 @@ Third party cookies
 Cookie Name | Function | Duration  
 Google | Google Analytics - site analytics to gather user information to improve the customer experience | Either closes on browser close, or varies between 30 mins and 1 year  
 Google | Google Website Optimiser - testing content to give the customer the best experience | 2 years  
-Adobe | Test & Target – testing content to give the customer the best experience | 20 minutes  
+SaleCycle | Uses the email addresses of customers who placed items in their basket, but did not complete their purchase. Allows Salecycle to send emails, on our behalf, offering the option to continue with the purchase.  | Varies between 40 minutes and 24 hours  
 Adobe | SiteCatalyst – site analytics to gather user information to improve the customer experience | Browser close  
 Criteo | Displays Schuh products similar to those customers have recently viewed on the Schuh site in ad banners on participating websites. | Either closes on browser close, or varies between 1 month and 20 years  
   
