@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamesforgame.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001010227id_/http%3A//www.gamesforgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesforgame.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302094235id_/http%3A//gamesforgame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-To protecting your privacy online, Gamesforgem.com have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
+To protecting your privacy online, Gamesforgame.com have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online.
 
  **What information do we collect?**
 
@@ -36,7 +36,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [HERE](http://www.gamesforgame.com/terms-of-use)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website [HERE](http://gamesforgame.com/terms-of-use)
 
  **Your Consent**
 
@@ -46,7 +46,7 @@ By using our site, you consent to our website Privacy Policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
 
-[Quote this article on your site](http://www.gamesforgame.com/privacy-policy#)  
+[Quote this article on your site](http://gamesforgame.com/privacy-policy#)  
 
 
  **To create link towards this article on your website,  
@@ -54,8 +54,8 @@ copy and paste the text below in your page.**
 
 Preview :
 
-[Privacy Policy](http://www.gamesforgame.com/privacy-policy)  
-To protecting your privacy online, Gamesforgem.com have adopted an Online Privacy Policy that guides how we collect, store, and use the information... 
+[Privacy Policy](http://gamesforgame.com/privacy-policy)  
+To protecting your privacy online, Gamesforgame.com have adopted an Online Privacy Policy that guides how we collect, store, and use the information... 
 
   
 
@@ -64,4 +64,4 @@ To protecting your privacy online, Gamesforgem.com have adopted an Online Privac
 
 GamesForGame is a free flash games site with frequent game's updates. Moreover this site have a list of downloadables games. The most played categories are: action games, adventure games, dress-up games, driving games, puzzles games and shooting games. With bike games, car rancing and car parking games and Monster Truck games. Moreover this site have: super Mario Bros flash games, Hannah Montana games, ultimate flash Sonic the Hedgehog 3 games and sonic adventure 2 battle game, adrenaline challenge and Power Rangers Dino Thunder game. 
 
-Copyright © 2017 Games For Game. All Rights Reserved. VAT: IT03151450792
+Copyright © 2018 Games For Game. All Rights Reserved. VAT: IT03151450792
