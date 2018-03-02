@@ -1,130 +1,73 @@
-> *The following text is extracted and transformed from the kfc.co.uk privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215191514id_/https%3A//www.kfc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.co.uk privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302074826id_/https%3A//www.kfc.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# KFC | KFC Privacy Policy
 
-Kentucky Fried Chicken ( Great Britain ) Limited and its franchisees (hereinafter referred to as either, "KFC", "we", "us" or "our") are committed to protecting the privacy of any personal information you may provide us on this website and any other websites of ours (including kfc.co.uk, kfccareers.co.uk and colonelsclub.co.uk, together the "Sites") and on any of our mobile applications (the "App(s)").
+It is important for you to know how we collect, store and use the personal information that you give to us.
 
-We believe it is important for you to know how we treat your personal information. The terms of this Privacy Policy apply to all users of the Sites and all users of the App(s). If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of the Sites or the App(s), as applicable. Below you will find answers to several questions regarding our Privacy Policy.
+First of all, we should tell you who we mean by “we”. KFC stores in the UK and Republic of Ireland are owned and operated either by the company Kentucky Fried Chicken (Great Britain) Limited or by one of its franchisees. KFC and its franchisees are all committed to protecting your privacy but, just to be clear, each KFC franchisee is an independent business and is responsible for the operation of its own stores. This means that each franchisee is also responsible for ensuring its own compliance with data protection laws.
 
--What information does KFC collect about me?  
--What does KFC do with the information collected?  
--With whom does KFC share the information?  
--How can I stop receiving notices about future offers or to stop my Personal Information from being shared with third parties?  
--How do I correct or update my Personal Information?  
--How does KFC protect the security of my Personal Information?  
--Do KFC's Sites and App(s) link to other sites?  
--How will KFC notify me of changes to its Privacy Policy?  
--How does KFC handle children's privacy on the Sites and on the App(s)?  
--How do I contact KFC?
+So in the policy, references to ‘KFC’, ‘we’, ‘us’ and ‘our’ do not include KFC franchisees – they refer to the KFC company Kentucky Fried Chicken (Great Britain) Limited. If you would like to talk to any of our franchisees about their privacy policies, please contact that store or franchisee directly.
 
-**Personal information** means information which on its own or in combination with other information, allows identification of an individual. We will collect personal information about you which you voluntarily provide, for example, in the context of completing online forms on the Sites or within the App(s) or by corresponding with us.
+In this policy you will find answers to a number of questions about how and why we collect, use and share your personal information. If you have any other questions about our Privacy Policy or the use of your personal information, please write to:
 
-**Sensitive personal information** means personal information relating to physical or mental health, race or ethnicity, trade union membership, sexual life/preference, political opinions, religious or philosophical beliefs and/or criminal allegations or convictions.
+KFC Customer Services Freepost RRKA-HCAS-YSJC Unit 4, Mount Hill Farm Wicken Milton Keynes MK19 6DG Email: kfcuk@marketforce.com
 
-Where you choose to provide personal details to us either in person, at a store, through the Site(s) or the App(s), we may collect the following personal information from you:
+#### WHAT INFORMATION DOES KFC COLLECT ABOUT ME?
 
-your full name, title and gender;
+When you visit us in store or use our any of our websites or mobile applications (e.g. kfc.co.uk, kfccareers.co.uk, colonelsclub.co.uk or our Colonel’s Club app) we may collect or ask you to provide us with some details about yourself.
 
-your work and home contact details eg address, fax number, telephone numbers and e-mail address;  
-the reason for your contact, which may be an enquiry, a request or enquiry on behalf of someone else, a sweepstakes registration, guest comment, promotion and/or competition;
+This information may include: • Your name – so we know who you are; • Email address – so we can email you about your account, offers, rewards, order confirmations and information about any delivery delays. You can unsubscribe at any time by clicking the unsubscribe link at the bottom of any emails we have sent to you or by emailing us at kfcuk@marketforce.com. Please allow 10 days for your request to be updated across all of our systems; • Contact and/or delivery address – so that we can contact you by post (if that’s your preference) and fulfil any delivery orders; • Mobile telephone/other contact telephone number – so that we can speak to you over the phone (if necessary) in relation to your account or delivery order and send you SMS and push notifications, if you have opted in to these through your account; • Credit card/debit card or other payment details – we will only ask for these if you place a delivery order with us, to allow us to take payment for your order. We use a an accredited third party payment processing provider to process payments for delivery orders through our websites and we do not store your card details on our servers; • The reason for your contact (e.g. an enquiry, a guest comment or entry into a promotion and/or competition) – to allow us to assist you or process your entry as quickly as possible; • Your contact and marketing preferences – so we can make sure that you only get the information that you want from us, in the way that you want it; • **if you create an account with us (whether through our website or any of our apps)** : further details including your password and account preferences – to keep your account secure and enable us to give you the services that you want, the way you want them. You may be given the choice to receive future offers and updates from KFC by e-mail and SMS by clicking the appropriate opt-in box. If you choose to opt-in, we will use your information to alert you via e-mail or SMS (whichever you have chosen) with details about our great KFC offers and services. You can change your preferences by emailing us at kfcuk@marketforce.com. Please allow 10 days for your changes to be updated across all of our systems; • **if you take part in a survey for us** : demographics information and information about subjects that may interest you – to give us an insight into how we can better serve you and all of our other customers; • **if you choose to create an account with us on our website and link this to your Facebook or other social media profile** : information contained within your social media account such as contacts, friends, likes, posts and other information that you choose to share with us through the privacy settings on your social media accounts – so that we can get to know you a bit better and give you the best possible customer experience; • **if you register on our careers website or apply for one of our vacancies** : details of employment and education, your employee or governmental identity number, driver's licence number and/or passport number, your date of birth, place of birth, nationality (and where applicable dual or former nationality), evidence of eligibility to work in the UK, details of personal or professional interests, employment history, salary details, career aspirations, language skills and any other information you choose to provide in your CV and any covering documentation – we need all of this so that we can process your application; • **if you complete our franchise application form** : details of your citizenship, place of birth, marriage status and dependents, education and business experience, details of other skills you have and responsibilities you have undertaken, financial account information, income, assets and bankruptcy details and details of any unspent criminal convictions – we need all of this so that we can process your application; • Information you provide to us when reporting a problem with any of our sites or apps (and any further details requested from you to help us deal with the problem) – so that we can sort things out as quickly as possible!; • Information necessary for us to comply with our legal obligations; • When you "like" us or make posts on our pages on social networking websites – so that we can interact with our fans!; • Technical information about the device which you are using to access our website or apps and any information relating to your use of our sites and apps – to help us provide you with the best service we can through our website and apps; • Details of your location (where you visit us in person in store, or choose to activate the location related functions of any of our websites or apps) – so that we know which store you have visited or may want to visit. We can then make sure we give you only information that’s relevant to those stores; • Any other information you may voluntarily provide to us; • Cookies - just like most websites you visit, we also use cookies. Click through to our [Cookie Policy](https://www.kfc.co.uk/cookies) if you would like more detailed information about how these cookies work and our policy on what information they collect; and/or • Anonymous information about your visits to our websites, and your interaction with our products and services. This may be collected by third party service providers on our behalf through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. These service providers do not collect the name, phone number, address, email address, or any personally identifying information about the user, but we just thought we would let you know that this happens on our website.
 
-if you create an account with us (whether through a Site or an App) - further details including your password and account preferences;
+We won’t ask you to provide us with any sensitive personal information (e.g. information relating to your physical or mental health, race or ethnicity, trade union membership, sexual orientation, political opinions, religious or philosophical beliefs and/or criminal allegations or convictions) unless you are applying for a job or a franchising opportunity. If you choose to provide us with this information, we will take this as your consent to us collecting and using that information for the purposes of processing and evaluating your application.
 
-your contact and marketing preferences;
+We know that this might seem like a lot, but we use all of this information to make your KFC experience as easy and enjoyable as possible. For more details of how we use the information we collect, read the answer to the question WHAT DOES KFC DO WITH MY INFORMATION? below.
 
-if you take a survey or interact with us in various other ways - demographics information and information about subjects that may interest you;
+#### WHAT DOES KFC DO WITH MY INFORMATION?
 
-should you choose to create an account with us on our Site(s) using (or linking to) your facebook or other social media profile(s) - information contained within your social media account such as contacts, friends, likes, posts and other information that you choose to share with us through the privacy settings on your social media account(s);
+We have given a brief explanation of why we need to collect each particular piece of information about you in the WHAT INFORMATION DOES KFC COLLECT ABOUT ME? section above. Here is a bit more detail on what we do with the information that you give us. We may need to use your information: • to respond and/or deal with your request or enquiry; • to administer your account if you have registered with us; • to process, administer and take payment for your delivery order through our websites or apps; • to contact you to fulfil prizes in any competitions you have entered; • for internal record keeping; • for research purposes (including anonymisation of your personal information for statistical analysis); • to ensure that the content of our websites, apps and social media pages and our advertisements are presented in the most effective and relevant manner for you and for your computer (or other devices); • to process your application to any vacancy which you register your interest for (including placement or apprenticeship opportunities, as appropriate), to provide you with information on other opportunities available to you (where requested), to obtain suitable references and to undertake any required vetting procedures; • to consider and discuss with you any franchise application you have submitted (or are proposing to submit) and verify the details provided in your application form, including financial and other checks, including suitable references; • to contact you where necessary in the event of a corporate sale, merger, acquisition, or similar event; and • to comply with our legal and regulatory obligations (e.g. in connection with a fraud prevention scheme, court order, government investigation, or when otherwise required by law).
 
-if you are interested in franchising opportunities and choose to submit our franchise application form - citizenship details and place of birth, marriage status and dependents, education and business experience, details of other skills you have and responsibilities you have undertaken, financial account information, income, assets and bankruptcy details and details of any unspent criminal convictions;
+These are just examples and this list may be updated from time to time as business needs and legal requirements dictate. We will let you know if we decide or need to use your personal information in a considerably different way to those that we have previously told you about. We will keep your information for as long as is necessary for us to fulfil the purposes set out above.
 
-if you register / apply for one of the vacancies listed on our careers website - employment, personal and educational details which you choose to provide to us as part of creating your profile, account and/or any application for employment, for example your CV, any employee or governmental identity number, driver's license number and/or passport number (if required), your date of birth, place of birth, nationality (and where applicable dual or former nationality), eligibility (including evidence) to work in the UK (or relevant country), personal or professional interests (including job interests and areas of expertise), employment history, salary details and career aspirations, or language skills and any other information you choose to provide in your CV and any covering documentation;
+#### WHO DOES KFC SHARE MY INFORMATION WITH?
 
-information you provide to us which reports a problem(s) with any of the Site(s) or App(s) and any further details requested from you to help us deal with such problem(s);
+In order for us to achieve some of the things that we have set out in the WHAT INFORMATION DOES KFC COLLECT ABOUT ME? and WHAT DOES KFC DO WITH MY INFORMATION sections above, we may need to share your information with carefully chosen third parties. These may include: • agencies who help us to comply with our legal or regulatory obligations or to carry out background checks for the purposes of processing payments or any applications made by you (e.g. credit reference agencies, credit card clearing agencies and fraud prevention and detection agencies); • payment processing providers and delivery companies that we use to take payment for and process delivery orders that you make with us through our website or apps; • data analysts and research companies who help to give us an insight into how we can better serve you and all of our other customers - we may ask these companies to contact you directly for your opinions on our products and services; • companies who help us to ensure that the content of our websites, apps and social media pages and our advertisements are presented in the most effective and relevant manner for you; and • other companies within our company’s group (and only to people within those companies who actually need to know these details to carry out their functions). This policy will apply if we share your personal information with any of our group companies.
 
-information necessary for legal compliance;
+In all cases, we enter into written agreements with any third party companies that we work with requiring them to put in place safeguards to protect your personal information. We will only provide these third party companies with the information that they need to carry out the services that we have asked them to – they are not allowed to use your information for their own purposes. We will never pass on your details to third parties for them to send you unwanted marketing, unless you have positively agreed to receive this marketing. If you are receiving unwanted marketing messages or have previously opted out and have now changed your mind and would like to receive marketing from some of the other companies that we work with, please email us at kfcuk@marketforce.com.
 
-where you "like" us or make posts on our pages on social networking websites;
+As KFC and its group companies operate globally, it may be necessary for us to transfer your personal information to third parties, such as the ones set out above, that are based outside of the European Economic Area. If we need to do this, we will ensure that they have adequate safeguards in place to protect your personal information. If you object to this transfer, please contact us at this email address: kfcuk@marketforce.com.
 
-technical information about the device which you use (for example the device type), log information (details of your use of our Sites and App(s));
+#### HOW CAN I STOP RECEIVING NOTICES ABOUT FUTURE OFFERS?
 
-details of your location (where you visit us in person in store, or choose to activate the location related functions of any Site or App); and/or
+If you no longer want to receive details of our fantastic products and offers, please let us know by writing to us at kfcuk@marketforce.com or the address given at the bottom of this policy. Please make sure that you tell us your full name and address or email address.
 
-any other information you may voluntarily provide to us.
+Alternatively, you can click on the unsubscribe link at the bottom of any of the email or SMS messages we have sent to you.
 
-Depending on the Site(s) you are browsing, when you voluntarily provide us with your Personal Information, you may be given the option to receive future offers and updates from KFC by e-mail and SMS marketing by checking the appropriate opt-in box. If you choose to opt-in, your Personal Information will be kept in a secured database and we will alert you via e-mail or SMS (as indicated by you) with information about our great KFC offers and services. You can change your preferences in this regard at any time, as set out below.
+#### HOW DO I CORRECT OR UPDATE MY PERSONAL INFORMATION?
 
-You do not have to provide us with any sensitive personal information, save where applying for a job or a franchising opportunity. Where you choose to provide us with such sensitive personal information, by submitting that information to us, you are providing your consent to those details being collected and otherwise processed by Us for the purposes of the management and administration of your application (and any queries relating thereto) in respect of you job application / franchising opportunity, as set out below in more detail (in each case).
+We will rely on the personal information that you give us, so it is important that all of the details that you to give us are accurate and up-to-date. If your personal information changes, please notify us by writing to us at kfcuk@marketforce.com or you can update it yourself in the “my account” section of your account or the app.
 
-Use of Cookies
+#### HOW DOES KFC PROTECT THE SECURITY OF MY PERSONAL INFORMATION?
 
-Just like most websites you visit, we also use cookies. Click the link below if you would like more detailed information about how these cookies work and our policy regarding the information they collect.
+We take the security of our customers’ information very seriously and we use appropriate measures to store all of the personal information that we have collected in a secure, controlled environment to prevent unauthorised access.
 
-Click [here to review our cookies policy](https://web.archive.org/cookies)
+You are also responsible for keeping any account you have with us secure, so where we have given you (or where you have chosen) a password to access certain parts of our websites or apps, it is important that you keep that password confidential, so please do not to share it with anyone. Unfortunately, transmission of information via the internet is not completely secure. Because of this, although we will do our best to protect your personal information, we cannot guarantee the security of the data transmitted to our sites or app. So when you submit your personal information through our websites or apps, this is at your own risk.
 
-KFC may use your Personal Information for any of the following purposes (or as otherwise notified to you from time to time):
+#### DO KFC'S SITES AND APPS LINK TO OTHER SITES?
 
-to respond and/or deal with your request or enquiry;
+Yes. Our websites and apps may contain links to other websites that may not be owned or operated by KFC. KFC cannot control nor is it responsible for the privacy practices or content of these other websites. KFC encourages you to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies only to the personal information KFC collects on its websites and apps.
 
-to administer your membership of the Sites and App(s) if you have registered with Us;
+#### HOW WILL KFC NOTIFY ME OF CHANGES TO ITS PRIVACY POLICY?
 
-to fulfil prizes in any competitions you may enter;
+We notify you of any updates to this policy on our websites' homepage so that you are always aware of any changes we have made to what personal information we collect, how we use it, and under what circumstances we disclose it. You may be required to read and accept the new terms to continue your use of our website or apps. If we decide to use your personal information in a considerably different way to those that we have previously told you about, we will notify you by e-mail to the e-mail address you have provided. You will then be given a choice as to whether or not you are happy for your personal information to be used in this new way.
 
-to process and administer your order(s) or purchase(s) through our Site(s) or App(s);
+#### HOW DOES KFC HANDLE CHILDREN'S PRIVACY ON ITS SITES AND APPS?
 
-to improve our products and services and to ensure that content from the Sites and Apps is presented in the most effective manner for you and for your computer (or other devices);
+We take protecting the privacy of all of our customers very seriously and we are especially careful in relation to any communications with children. It is important to us that children can enjoy our websites and apps responsibly. Our policy is not to collect personal information from children under the age of 13. If you are under 13, you are only allowed to use our websites or apps with your parents’ or guardian’s consent.
 
-to administer the Sites, Apps and for internal record keeping, business development and research (including anonymisation of your personal information for future statistical analysis);
+We encourage parents to regularly monitor and supervise their children's online activities, by using parental control tools, for example. If you are a parent and have any concerns about the collection or use of your child's personal information then please contact us using the contact details below.
 
-to process and administer your job or similar application(s) (including placement or apprenticeship opportunities, as appropriate), to provide you with information on opportunities available to you (where requested), to interview, obtain suitable references, advise and undertake any required vetting procedures in relation to any vacancy which you register your interest for;
+#### HOW DO I CONTACT KFC?
 
-to consider and discuss with you any franchise application you have submitted (or are proposing to submit) and verify the details provided in your application form, including financial and other checks, including suitable references;
+If you have any questions about our Privacy Policy or the use of your personal information, please contact: KFC Customer Services Freepost RRKA-HCAS-YSJC Unit 4, Mount Hill Farm Wicken Milton Keynes MK19 6DG email: kfcuk@marketforce.com
 
-where necessary in the event of a corporate sale, merger, acquisition, or similar event;
-
-to contact you (directly, either by us or through a relevant partner or agent) by e-mail or phone for the above reasons;
-
-to conduct checks on the details you provide to Us, where appropriate, to assist with fraud prevention schemes; and
-
-for compliance with legal, regulatory and other good governance obligations (including in connection with a court order, government investigation, or when otherwise required by law).
-
-This list is not intended to be exhaustive and may be updated from time to time as business needs and legal requirements dictate.
-
-KFC may share any Personal Information which it collects with any of its group companies. Your personal information will be made available for the purposes mentioned above (or as otherwise notified to you from time to time), on a ‘need-to-know' basis and only to responsible corporate staff who properly need to know these details to carry out our functions.
-
-As part of achieving the processing purposes set out above, your personal information may also be made available to third party organisations providing relevant services to us under contract. For example, this may include working with third party data processing companies to support the Sites' technical operations or execute a specific promotion or program (such as providing responses to the guest comments page, conduct surveys, or maintain a database of visitor information, etc). These companies may use information about you to perform their functions on our behalf.
-
-As KFC and its group companies operate globally, it may be necessary to transfer your Personal Information to third parties based outside the European Economic Area for the purposes set out above. We will ensure that adequate safeguards are in place to protect your Personal Information. By submitting your Personal Information, you agree to this transfer, storing and other processing.
-
-This policy applies if KFC shares your Personal Information with any of its group companies. If you choose to provide your Personal Information directly to KFC's group companies through their respective websites, then their additional Privacy Policies will apply and should also be reviewed by you.
-
-KFC will not disclose any Personal Information to third parties except as set forth in this policy. If Personal Information is shared with any third party for the purposes of executing a specific promotion or program, it will be clearly communicated to visitors that the third party will have no right to use the Personal Information for independent purposes. In support of this policy, KFC will enter into written agreements with any third party receiving Personal Information requiring the third party to comply with KFC's privacy policies and applicable laws.
-
-Please let us know by writing to us at the address given at the bottom of this policy. In addition, each time we send you marketing information by e-mail or SMS text messaging, we will provide an opportunity for you to unsubscribe from receiving further information from us.
-
-You control the accuracy of your Personal Information. If your Personal Information changes, please correct, update or delete/deactivate it by writing to us at the address given at the bottom of this policy.
-
-KFC uses appropriate security measures to protect all Personal Information collected in a secure, controlled environment.
-
-Where we have given you (or where you have chosen) a password that enables you to access certain parts of our Sites or App(s), you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your Personal Information, We cannot guarantee the security of your data transmitted to our Sites or App(s); any transmission is at your own risk. Once we have received your information, We will use strict procedures and security features to try to prevent unauthorised access.
-
-Yes. The Sites and App(s) may contain links to other websites that may not be owned or operated by KFC. KFC cannot control nor is responsible for the privacy practices or content of such other websites. KFC encourages you to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to Personal Information collected on the Sites and App(s).
-
-KFC will post any changes to the Policy on the Sites' Homepages so visitors are always aware of any changes to what information we collect, how we use it, and under what circumstances we disclose it. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of the Sites or the App(s). If we decide to use your Personal Information in a manner different than first communicated, KFC will notify users by e-mail to the e-mail addresses on record. Users of the Sites / Apps will then be given a choice as to whether or not their Personal Information can be used in the new manner.
-
-We take great care to protect the privacy of all of our customers and we are especially careful in relation to any communications with children. It is important to us that children can enjoy our Sites and App(s) responsibly. Our policy is not to collect Personal Information from children who are under the age of 12. If you are under 12, please do not use our Sites or App(s).
-
-We encourage parents to regularly monitor and supervise their children's online activities, for example, by adopting parental control tools. If you are a parent and have any concerns about the collection or use of your child's Personal Information then you may contact us using the contact details below.
-
-If you have any further questions concerning the KFC's Privacy Policy and the use of your Personal Information, please contact:
-
-Marketing Manager  
-Kentucky Fried Chicken (Great Britain) Limited
-
-Orion Gate  
-Guildford Road  
-Woking  
-Surrey  
-GU22 7NJ
+The terms of this Privacy Policy apply to all users of our websites and apps. If you do not agree with the terms of this policy, you should immediately discontinue use of our websites or apps.
