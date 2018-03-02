@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231085053id_/http%3A//www.frooition.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frooition.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302105638id_/http%3A//www.frooition.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Frooition Privacy Policies Frooition Worldwide Designs
 
