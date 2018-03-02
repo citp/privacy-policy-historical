@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multco.us privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213555id_/https%3A//multco.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multco.us privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302233757id_/https%3A//multco.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Multnomah County
 
