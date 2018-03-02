@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multicastmedia.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814021448id_/http%3A//www.piksel.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multicastmedia.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302223346id_/http%3A//wordpress-110172-313493.cloudwaysapps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Innovative Streaming Video Solutions - Piksel - Piksel
+# Privacy Policy - Piksel
 
 **Effective as of August 29, 2013**
 
@@ -10,7 +10,7 @@ Piksel Limited and its affiliates and parent company (“we” or “us”) are 
 
 We may collect and process the following data about you:
 
-  * Information that you provide to us by submitting information or by filling in forms on our site [piksel.com](http://www.piksel.com/) (“our site”) or by corresponding with us by phone, e-mail or otherwise. This includes information provided at the time of registering to use our site, searching for a product, posting material and sharing details on message boards and blogs, requesting further services or using any other functions on our site.
+  * Information that you provide to us by submitting information or by filling in forms on our site [piksel.com](http://www.piksel.com/) (“our site”) or by corresponding with us by phone, e-mail or otherwise. This includes information provided at the time of registering to use our site, searching for a product, posting material and sharing details on message boards and blogs, requesting further services or using any other functions on our site.
   * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access on our site.
 
 
@@ -52,17 +52,17 @@ We may transfer the personal information we collect about you to recipients in c
 
 ### CHILDREN UNDER THE AGE OF 13
 
-Our site is not intended for children under 13 years of age. No one under the age of 13 may provide any personal information to or on our site. We do not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not use or provide any information on this site or on or through any of its features, make any purchases through the site or provide any information about yourself to us, including your name, address, telephone number or email address. If we learn we have collected or received personal information from a child under 13 years of age without verification of parental consent, we will delete that information. 
+Our site is not intended for children under 13 years of age. No one under the age of 13 may provide any personal information to or on our site. We do not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not use or provide any information on this site or on or through any of its features, make any purchases through the site or provide any information about yourself to us, including your name, address, telephone number or email address. If we learn we have collected or received personal information from a child under 13 years of age without verification of parental consent, we will delete that information.
 
 ### YOUR RIGHTS
 
-Subject to applicable law, you have the right to ask us not to process your personal data for marketing purposes. We will usually inform you before collecting your data if we intend to use your data if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contracting us at [privacy@piksel.com](mailto:privacy@piksel.com). 
+Subject to applicable law, you have the right to ask us not to process your personal data for marketing purposes. We will usually inform you before collecting your data if we intend to use your data if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contracting us at [privacy@piksel.com](mailto:privacy@piksel.com).
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 ### ACCESS TO INFORMATION
 
-Subject to applicable law, you may have the right to access information held about you. If you are located in the EEA you will have a right of access, rectification, blocking or deletion or to object to the processing of your personal data. This can be exercised by contacting us at [privacy@piksel.com](mailto:privacy@piksel.com).
+Subject to applicable law, you may have the right to access information held about you. If you are located in the EEA you will have a right of access, rectification, blocking or deletion or to object to the processing of your personal data. This can be exercised by contacting us at [privacy@piksel.com](mailto:privacy@piksel.com).
 
 ### DATA SECURITY
 
@@ -74,7 +74,7 @@ Any changes we make to our privacy policy in the future will be posted on this p
 
 ### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@piksel.com](mailto:privacy@piksel.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [privacy@piksel.com](mailto:privacy@piksel.com).
 
 If you prefer not to receive marketing emails from us, please click on the unsubscribe link within any marketing e-mail you receive from us. Please note that such requests may take up to ten (10) days to become effective.
 
