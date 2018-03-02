@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903104906id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsplit.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302202957id_/https%3A//www.xsplit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XSplit
 
@@ -44,4 +44,4 @@ By using any part of our site or product, you consent to our privacy policy.
 
 This privacy policy is valid and in effect from Feb. 26, 2014. Click [here](https://web.archive.org/privacy-old) to see the old Privacy Policy, which this Privacy Policy replaces.
 
-©2017 SplitmediaLabs Limited All rights reserved. All trademarks and/or service marks of Licensor used in connection with the Software are trademarks and registered trademarks of SplitmediaLabs Limited.
+©2018 SplitmediaLabs Limited All rights reserved. All trademarks and/or service marks of Licensor used in connection with the Software are trademarks and registered trademarks of SplitmediaLabs Limited.
