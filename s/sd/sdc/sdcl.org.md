@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206125642id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302214941id_/http%3A//www.sandiegocounty.gov/content/sdc/cosd/privacy.html) for the most accurate reproduction.*
 
 # Web and Privacy Policies
 
 #### Information That May Be Collected And How It May Be Used
 
-If you do nothing during your visit to the County Web site but browse or download information, we may automatically collect and store the following information about your visit:
+If you do nothing during your visit to the County website but browse or download information, we may automatically collect and store the following information about your visit:
 
 The Internet Protocol (IP) address and domain name used, but not the email address. The IP address is a numerical identifier assigned either to your Internet Service Provider or directly to your computer. We use the IP address to direct Internet traffic to you;   
 The type of browser and operating system you used and your connection speed;   
