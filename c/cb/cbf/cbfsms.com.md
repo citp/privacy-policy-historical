@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbfsms.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210232805id_/http%3A//www.sms-messaging-hub.com/privacy-and-cookies-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbfsms.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303135643id_/http%3A//www.sms-messaging-hub.com/privacy-and-cookies-policy.html) for the most accurate reproduction.*
 
 # SMS Messaging Hub
 
