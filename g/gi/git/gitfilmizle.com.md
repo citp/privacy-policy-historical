@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gitfilmizle.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220090821id_/http%3A//gitfilmizle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gitfilmizle.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303075632id_/http%3A//gitfilmizle.com/privacy) for the most accurate reproduction.*
 
 # privacy – GIFT MIZLE
 
