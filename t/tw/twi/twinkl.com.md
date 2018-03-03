@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinkl.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211163951id_/http%3A//www.twinkl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303111052id_/https%3A//www.twinkl.com/privacy-policy) for the most accurate reproduction.*
 
 # Twinkl User Privacy & Data Protection Policies
 
@@ -60,7 +60,7 @@ Twinkl Limited takes your privacy very seriously and we are compliant with the p
 
 ### 5\. How we protect your information
 
-5.1 We have put in place a number of security procedures and technical and organisational measures to safeguard your personal information: Encryption, anti-virus software, vulnerability scanning, role based access control, multi-factor authentication, screening, risk assessment and mitigation, auditing, secure design, secure disposal, physical security, high availability systems, disaster recovery mechanisms and business continuity processes, training and policy, contractual agreements.
+5.1 We have put in place a number of security procedures and technical and organisational measures to safeguard your personal information: Encryption; Firewalling; Anti-Virus; Vulnerability Scanning; Role Based Access Control; Multi-Factor Authentication; Risk Assessment and Mitigation; Logging, Monitoring and Inventory and Auditing; Screening; Secure Design; Physical Security Controls; Secure and High Availability System Configuration; Disaster Recovery Mechanisms, Incident Response and Business Continuity Processes, including Backup; Training; Policy; Contractual Agreements.
 
 5.2 We will use all reasonable efforts to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
 
@@ -70,9 +70,9 @@ Twinkl Limited takes your privacy very seriously and we are compliant with the p
 
 ### 7\. Access to your information and updating and correcting your information
 
-7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to [info@twinkl.co.uk](http://www.twinkl.com/info@twinkl.co.uk?Subject=Privacy%20policy) or send a letter to Twinkl Global HQ, Wards Exchange, 195-199 Ecclesall Road, Sheffield, S11 8HW, United Kingdom. We may make a small charge for this service to cover our administrative costs.
+7.1 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please send an email to [info@twinkl.co.uk](https://www.twinkl.com/info@twinkl.co.uk?Subject=Privacy%20policy) or send a letter to Twinkl Global HQ, Wards Exchange, 195-199 Ecclesall Road, Sheffield, S11 8HW, United Kingdom. We may make a small charge for this service to cover our administrative costs.
 
-7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl Limited changes, or if you wish to cancel your registration, please let us know the correct details by sending an email to [twinklcares@twinkl.co.uk](http://www.twinkl.com/twinklcares@twinkl.co.uk). You may ask us, or we may ask you, to correct or remove information you or we think is inaccurate.
+7.2 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to Twinkl Limited changes, or if you wish to cancel your registration, please let us know the correct details by sending an email to [twinklcares@twinkl.co.uk](https://www.twinkl.com/twinklcares@twinkl.co.uk). You may ask us, or we may ask you, to correct or remove information you or we think is inaccurate.
 
 ### 8\. Sale of business
 
@@ -88,4 +88,4 @@ Our privacy policy is subject to regular review. If we change our privacy policy
 
 ### 11\. How to contact Twinkl
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please use your preferred method from our [contact us](http://www.twinkl.com/contact-us) page.
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please use your preferred method from our [contact us](https://www.twinkl.com/contact-us) page.
