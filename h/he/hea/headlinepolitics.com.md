@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the headlinepolitics.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216140125id_/http%3A//headlinepolitics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headlinepolitics.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303151804id_/http%3A//headlinepolitics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Headlines & Politics
 
@@ -66,7 +66,7 @@ Intermarkets cooperates with government and law enforcement officials and priva
 
 **Opt-Out of Third Party Sharing of Personal Information:**
 
-**IF YOU DO NOT WANT TO RECEIVE EMAIL PROMOTIONS FROM OUR TRUSTED NETWORK OF PARTNERS, EMAIL US AT[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) AND YOU WILL BE REMOVED FROM OUR THIRD PARTY DISCLOSURE LIST.**
+**IF YOU DO NOT WANT TO RECEIVE EMAIL PROMOTIONS FROM OUR TRUSTED NETWORK OF PARTNERS, EMAIL US AT INFO@INTERMARKETS.NET  AND YOU WILL BE REMOVED FROM OUR THIRD PARTY DISCLOSURE LIST.**
 
 Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’ database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed.
 
@@ -112,13 +112,13 @@ Intermarkets may update this Privacy Policy from time to time, and so you should
 
 **Acceptance of Privacy Policy**
 
-When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’s database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b2dbdcd4ddf2dbdcc6d7c0dfd3c0d9d7c6c19cdcd7c6) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
+When you use the Intermarkets website, you are accepting the terms and conditions of this Privacy Policy, and Intermarkets will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Intermarkets website. You can also access, correct, or change your Personally Identifiable Information, or opt out of our direct marketing efforts, by sending an email to info@intermarkets.net. Once a request to opt out has been received, Intermarkets will send a confirming email message to the user that the user’s Personally Identifiable Information has been successfully opted out of Intermarkets’s database. If you do not receive this confirmatory email, then please contact us to ensure that your request was received and processed. If you have questions or concerns about this Privacy Policy, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190.
 
 **California Privacy Notice**
 
 California’s Shine the Light law provides California residents with the right to receive disclosures about any sharing of their personal information with other companies.
 
-If you are a California resident and you provided your personal information to Intermarkets, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f464149406f46415b4a5d424e5d444a5b5c01414a5b) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190 with “Request for California Privacy” in the letter subject line.  
+If you are a California resident and you provided your personal information to Intermarkets, then, once each calendar year, you may submit a written request for information about the information we shared, if any, with other companies for their use in direct marketing. To submit your written request, please email us at [info@intermarkets.net](mailto:info@intermarkets.net) or send us a letter at Intermarkets, Inc., Attention: Privacy, 11911 Freedom Drive, Suite 1140, Reston, VA 20190 with “Request for California Privacy” in the letter subject line.  
 Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.  
 We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice.  
 Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
