@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310065707id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303133854id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crazy Factory online piercing shop
 
@@ -20,11 +20,11 @@ If you subscribe to our newsletter, your e-mail address will be stored. You are 
 
 To shop at Crazy Factory, you will set up a customer account protected by a password (upon registration, you will have a customer number assigned). Whenever you place a new order, the data stored here will automatically be entered in the order form to save you having to enter it manually every time. You may delete your customer account at any time. To do so, just e-mail us at [info.en@crazy-factory.com](mailto:info.en@crazy-factory.com) or write to Crazy Factory GmbH, Quaderstrasse 18, CH-7000 Chur, Switzerland.
 
-#### Privacy policy for user profiles (cookies) 
+#### Privacy policy for the creation and storage of cookies
 
-The Crazy Factory shop uses cookies to ensure your shopping cart functions smoothly so you can shop comfortably.
+Crazy Factory Inc. saves and uses cookies indefinitely, to ensure smooth page functionality and to deliver an optimal shopping experience. 
 
-The following data will be stored for every access:
+The following data will be stored each time the web page is accessed:
 
   * name of the accessed file
   * date and time of access
@@ -35,4 +35,4 @@ The following data will be stored for every access:
 
 
 
-IP addresses will not be stored and no personal user profiles created. The stored data is used only to optimize our shop and product range.
+No IP-addresses are stored and no personalised user profiles are created. Retained data can be used for the purposes of optimisation of the shop or the product range, for marketing purposes or market research or the needs-based creation of pseudonymous usage-profiles. You may revoke this permission to create cookies at any time via email to info@crazy-factory.com. 
