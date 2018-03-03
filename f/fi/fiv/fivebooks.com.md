@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2017-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170805125429id_/https%3A//fivebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303164229id_/https%3A//fivebooks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Five Books
+# Privacy Policy | Five Books
 
 **Fivebooks Business privacy policy**
 
