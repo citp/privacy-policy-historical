@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seorankmonitor.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101195338id_/http%3A//www.seorankmonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seorankmonitor.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303090032id_/http%3A//www.seorankmonitor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEO Rank Monitor
 
