@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914160201id_/https%3A//www.sandiego.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303015609id_/https%3A//www.sandiego.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | City of San Diego Official Website
 
@@ -43,7 +43,7 @@ Any information collected by any City of San Diego website from children 13 and 
 
 
 
-Additional information can be obtained at the [FTC's Consumer Response Center](http://www.ftc.gov/privacy/index.html) and the Kidz Privacy websites.
+Additional information can be obtained at the [FTC's Consumer Response Center](https://www.ftc.gov/privacy/index.html) and the Kidz Privacy websites.
 
 ## Security
 
