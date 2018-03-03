@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the divorcedmoms.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002194059id_/http%3A//divorcedmoms.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divorcedmoms.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303120233id_/https%3A//divorcedmoms.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DivorcedMoms.com Privacy Policy · Divorced Moms
 
 Last revised: June 30th, 2015
 
-This Privacy Policy relates to information collected by Segue Esprit Inc. and its website DivorcedMoms.com (“DivorcedMoms” "we" or “us” or “our”) through your use of any DivorcedMoms applications and online services, including DivorcedMoms.com and any client software associated with the foregoing (collectively such services, websites and software may be referred to as the “Service”) and is a part of and is governed by the [DivorcedMoms.com Terms of Service](https://web.archive.org/TermsOfService.aspx).
+This Privacy Policy relates to information collected by Segue Esprit Inc. and its website DivorcedMoms.com (“DivorcedMoms” “we” or “us” or “our”) through your use of any DivorcedMoms applications and online services, including DivorcedMoms.com and any client software associated with the foregoing (collectively such services, websites and software may be referred to as the “Service”) and is a part of and is governed by the [DivorcedMoms.com Terms of Service](https://web.archive.org/TermsOfService).
 
 You should carefully read this Privacy Policy. By using the Service, you are signifying your acceptance of this Privacy Policy. If you do not agree to this Privacy Policy, you are not permitted to use the Service.
 
@@ -53,9 +53,9 @@ We may collect non-personally identifiable information passively using “cookie
 
 In addition to cookies that we place on your computer or mobile device, cookies may also be placed on your computer or mobile device by third parties that we use to display or serve advertisements or to collect non-personally identifiable information in order to provide advertising-related services. In the course of serving advertisements, our third-party advertisers may place or recognize unique cookies on your browser.
 
-You do not have to accept cookies to use the Service. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar. However, if you reject cookies, certain features or resources of the Service may not work properly and you may experience some loss of convenience.
+You do not have to accept cookies to use the Service. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the “Help” section of the toolbar. However, if you reject cookies, certain features or resources of the Service may not work properly and you may experience some loss of convenience.
 
-"Action tags," also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of the Service, including advertisements, or email sent on our behalf, may contain action tags.
+“Action tags,” also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of the Service, including advertisements, or email sent on our behalf, may contain action tags.
 
 By using cookies and action tags together, we are able to gain valuable information to improve the Service and measure the effectiveness of our advertising and marketing campaigns.
 
@@ -89,11 +89,11 @@ Third Parties Generally.
 
 We may provide to third parties non-personally identifiable information, including where such information is combined with similar information of other users of the Service. For example, we might inform third parties regarding the number of unique users who use the Service, the demographic breakdown of our users of the Service, or the products and/or services purchased using the Service and the vendors of such products and services. We may also provide to third parties personally identifiable information. For example, we might share our users’ responses to questionnaires and e-mail addresses with third parties in order for third parties to contact users about products and services that may be of interest. The third parties to which we may provide personally identifiable and non-personally identifiable information may include potential or actual advertisers, providers of advertising products or services (including vendors and website tracking services), merchants, affiliates and other actual or potential commercial partners, sponsors, licensees, researchers and other similar parties.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 Outside Contractors.
 
-We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service. In the course of providing products or services to us, these Outside Contractors may sometimes have limited access to information collected on the Service, including your personally identifiable information. We require that these contractors (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted.
+We may employ independent contractors, vendors and suppliers (collectively, “Outside Contractors”) to provide specific services and products related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service. In the course of providing products or services to us, these Outside Contractors may sometimes have limited access to information collected on the Service, including your personally identifiable information. We require that these contractors (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted.
 
 Sale of Business.
 
@@ -101,11 +101,11 @@ We reserve the right to transfer information to a third party in the event of a 
 
 Affiliates.
 
-We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with DivorcedMoms, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
+We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, “Corporate Affiliate” means any person or entity which directly or indirectly controls, is controlled by or is under common control with DivorcedMoms, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
 Public Areas.
 
-The Service features various community areas and other public forums (the "Public Areas") where members with similar interests and/or fitness goals can share information and support one another or where members can post questions for others to answer. These Public Areas are open to the public and should not be considered private. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy. DivorcedMoms is not responsible for the results of such postings or for the accuracy of any information contained in those postings.
+The Service features various community areas and other public forums (the “Public Areas”) where members with similar interests and/or fitness goals can share information and support one another or where members can post questions for others to answer. These Public Areas are open to the public and should not be considered private. We cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law, or your personal privacy. DivorcedMoms is not responsible for the results of such postings or for the accuracy of any information contained in those postings.
 
 Any information you share in a Public Area (including personally identifiable and/or personal health information) is by design open to the public and is not private. You should think carefully before posting any information in any Public Area. What you post can be seen, disclosed to or collected by others and may be used by others in ways we cannot control or predict. As with any public forum on any website, the information you post may also show up in third-party search engines like Google, Yahoo, MSN, and Bing. If you mistakenly post personal information in a Public Area you can send us an email to request that we remove it by contacting us at [info@divorcedmoms.com](mailto:info@divorcedmoms.com). You should understand that in some cases, we may not be able to remove your personal information.
 
@@ -125,7 +125,7 @@ Personally-identifiable information collected on the Service may be transferred 
 
 WHAT CHOICES DO I HAVE REGARDING THE COLLECTION, DISCLOSURE AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION?
 
-Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must "opt-in" and give us permission to use your personally identifiable information for any other purpose.
+Except as otherwise described in this Privacy Policy, we will only use personally identifiable information for the purposes described above or as otherwise disclosed at the time we request such information from you. You must “opt-in” and give us permission to use your personally identifiable information for any other purpose.
 
 CAN I UPDATE OR CORRECT MY PERSONALLY IDENTIFIABLE INFORMATION?
 
