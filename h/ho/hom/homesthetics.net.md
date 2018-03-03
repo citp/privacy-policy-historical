@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922021112id_/http%3A//homesthetics.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesthetics.net privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303125957id_/https%3A//homesthetics.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Homesthetics - Inspiring ideas for your home.
 
@@ -39,11 +39,11 @@ We may use cookies on the website for the purpose of monitoring your and other u
 
 **Links to Other Sites**
 
-[Homesthetics](http://homesthetics.net/) has some specific links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new website.
+[Homesthetics](https://homesthetics.net/) has some specific links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new website.
 
 **Restriction of Liability**
 
-[Homesthetics](http://homesthetics.net/) makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+[Homesthetics](https://homesthetics.net/) makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
 
 **Changes to our Privacy Policy**
 
