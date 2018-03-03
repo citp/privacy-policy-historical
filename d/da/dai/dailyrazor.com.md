@@ -1,64 +1,164 @@
-> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101193714id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrazor.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303170404id_/http%3A//www.dailyrazor.com/privacy-policy) for the most accurate reproduction.*
 
 # DailyRazor.com Privacy Policy
 
-DailyRazor.com (hereafter referred to as DailyRazor) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-## What this Privacy Policy Covers
+### What personal information do we collect from the people that visit our blog, website or app?
 
-  * This privacy policy covers DailyRazor’s treatment of personally identifiable information collected by DailyRazor through a website owned and operated by DailyRazor.
-  * This privacy policy does not apply to the practices of companies that DailyRazor does not own or control, or of persons that DailyRazor does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which DailyRazor websites link.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
+### When do we collect information?
 
+We collect information from you when you register on our site, place an order, subscribe to a newsletter, respond to a survey, fill out a form, Use Live Chat, Open a Support Ticket or enter information on our site.
 
-## Collection and Use of Personal Information
+### How do we use your information?
 
-  * You can visit the websites of DailyRazor without revealing any personal information. However, DailyRazor needs certain personal information if you wish to purchase our products, register for an affiliate account, receive DailyRazor newsletter, or use certain DailyRazor services.
-  * Where required, this information may include your personal contact information and/or your company contact information. DailyRazor will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services.
-  * By accessing the services of DailyRazor and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-
-
-## Collection and Use of Non-Personal Information
-
-  * DailyRazor automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. DailyRazor may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, DailyRazor does not connect this non-personal data to any personal information collected from you.
-  * DailyRazor also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and DailyRazor assumes no responsibility or liability for this usage.
-
-
-
-## Information Sharing and Disclosure
-
-  * DailyRazor may disclose your personal information to third parties who work on behalf of DailyRazor to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information
-  * DailyRazor may otherwise disclose your personal information when: 
-    * We have your express consent to share the information for a specified purpose;
-    * We need to respond to subpoenas, court orders or such other legal process;
-    * We need to protect the personal safety of the users of our websites or defend the rights or property of DailyRazor ;
-    * We find that your actions on our websites violate the DailyRazor Terms of Use document or any of our usage guidelines for specific products or services.
+  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To allow us to better service you in responding to your customer service requests.
+  * To administer a contest, promotion, survey or other site feature.
+  * To quickly process your transactions.
+  * To ask for ratings and reviews of services or products
+  * To follow up with them after correspondence (live chat, email or phone inquiries)
 
 
 
-## Consent
+### How do we protect your information?
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to DailyRazor. If you have provided personal information to DailyRazor and no longer consent to its use or disclosure as outlined herein, please notify DailyRazor at support@DailyRazor.com.
-
-
-
-## Security
-
-  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your DailyRazor Information protected for your privacy and security. In certain areas of our websites, as identified on the site, DailyRazor uses industry-standard SSL-encryption to protect data transmissions.
-  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
-  * Further, DailyRazor retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+  * Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+  * We use regular Malware Scanning.
+  * Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+  * We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+  * All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
 
 
-## Changes to this Privacy Policy
+### Do we use ‘cookies’?
 
-  * DailyRazor may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of DailyRazor websites after any such amendments signifies your acceptance thereof.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+### We use cookies to:
+
+  * Help remember and process the items in the shopping cart.
+  * Understand and save user’s preferences for future visits.
+  * Keep track of advertisements.
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 
 
-## Questions or Suggestions
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at support@DailyRazor.com
+### If users disable cookies in their browser:
+
+If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
+
+### Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+### Third-party links
+
+**Google**  
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+  * Remarketing with Google AdSense
+  * Google Display Network Impression Reporting
+  * Demographics and Interests Reporting
+  * DoubleClick Platform Integration
 
 
+
+We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+**Opting out:**  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+
+### California Online Privacy Protection Act
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA, we agree to the following:**  
+Users can visit our site anonymously.  
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.  
+Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+
+You will be notified of any Privacy Policy changes:
+
+  * On our Privacy Policy Page
+
+
+
+Can change your personal information:
+
+  * By logging in to your account
+  * By chatting with us or by sending us a support ticket
+
+
+
+### How does our site handle Do Not Track signals?
+
+We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+### Does our site allow third-party behavioral tracking?
+
+It’s also important to note that we allow third-party behavioral tracking
+
+### COPPA (Children Online Privacy Protection Act)
+
+When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under the age of 13 years old.
+
+### Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+### In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
+
+We will notify you via email within 30 days.
+
+We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+### CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+  * Send information, respond to inquiries, and/or other requests or questions
+  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+
+
+**To be in accordance with CANSPAM, we agree to the following:**
+
+  * Not use false or misleading subjects or email addresses.
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
+
+**If at any time you would like to unsubscribe from receiving future emails, you can do so by following the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.**
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+Sapioterra LLC dba DailyRazor.com  
+4500 Forbes Boulevard  
+Suite 200  
+Lanham, MD 20706  
+United States of America
