@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningall.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231110639id_/http%3A//www.learningall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningall.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303023718id_/https%3A//www.learningall.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | LearningAll
 
