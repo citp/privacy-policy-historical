@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311024551id_/https%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eliquid.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303181650id_/https%3A//www.eliquid.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 **Privacy Policy**
 
 **PRIVACY STATEMENT**
 
-Updated December 20, 2016
+Updated March 20, 2017
 
 **SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?**
 
@@ -28,13 +28,13 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-Except to the extent required for compliance with federal and state age verification requirements, if after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at info@ejuices.com or mailing us at:
+Except to the extent required for compliance with federal and state age verification requirements, if after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at any time, by contacting us at Help@eLiquid.com or mailing us at:
 
 eLiquid.com
 
-16832 Red Hill Ave
+1100 Palms Airport Road
 
-Irvine, California 92606
+Las Vegas, Nevada, 89119
 
 **SECTION 3 - DISCLOSURE**
 
@@ -120,6 +120,6 @@ If you would like to: access, correct, amend or delete any personal information 
 
 eLiquid.com
 
-16832 Red Hill Ave
+1100 Palms Airport Road
 
-Irvine, California 92606
+Las Vegas, Nevada, 89119
