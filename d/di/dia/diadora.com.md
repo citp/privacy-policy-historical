@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diadora.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630223151id_/http%3A//www.diadora.com/en/us/customer_service/privacy_%2526_security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diadora.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303084541id_/https%3A//www.diadora.com/en/us/customer_service/privacy_%2526_security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Diadora Online Shop
 
