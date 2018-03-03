@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031230938id_/https%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesintheuk.co.uk privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303080256id_/https%3A//www.companiesintheuk.co.uk/support/privacy) for the most accurate reproduction.*
 
 # Privacy
 
