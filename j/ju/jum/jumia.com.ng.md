@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumia.com.ng privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627234948id_/http%3A//www.jumia.com.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumia.com.ng privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303125059id_/http%3A//www.jumia.com.ng/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Jumia Nigeria Online Shopping Site
 
