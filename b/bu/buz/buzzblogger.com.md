@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buzzblogger.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114085117id_/http%3A//www.buzzblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzblogger.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303015153id_/https%3A//www.buzzblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which BuzzBlogger.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.buzzblogger.com website (“Site”). This privacy policy applies to the Site and all products and services offered by BuzzBlogger.com.
+This Privacy Policy governs the manner in which BuzzBlogger.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.buzzblogger.com website (“Site”). This privacy policy applies to the Site and all products and services offered by BuzzBlogger.com.
 
 Personal identification information
 
@@ -59,7 +59,7 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 BuzzBlogger.com  
-http://www.buzzblogger.com  
+https://www.buzzblogger.com  
 9869 Worthington BLVD Fishers, Indiana 46038  
 3179123642  
 kim@buzzblogger.com
