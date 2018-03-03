@@ -1,15 +1,76 @@
-<!--The following is the downloaded HTML source of the villagevoice.com privacy policy that was archived on 2017-08-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170830224420id_/https%3A//www.villagevoice.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the villagevoice.com privacy policy that was archived on 2018-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180303113713id_/https%3A//www.villagevoice.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <html style="-webkit-font-smoothing: antialiased;"><head>
 	    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" id="style-css" href="https://villagevoice.freetls.fastly.net/wp-content/themes/villagevoice/style.css?ver=1503505333" type="text/css" media="all">
+	<link rel="stylesheet" id="style-css" href="https://villagevoice.freetls.fastly.net/wp-content/themes/villagevoice/style.css?ver=1510038110" type="text/css" media="all">
 <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://www.villagevoice.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.villagevoice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://villagevoice.freetls.fastly.net/wp-content/themes/villagevoice/main.js?ver=1503505321"></script>
+<script type="text/javascript" src="https://villagevoice.freetls.fastly.net/wp-content/themes/villagevoice/main.js?ver=1510038094"></script>
 <link rel="canonical" href="https://www.villagevoice.com/about/privacy-policy/">
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.villagevoice.com') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
 	<link rel="alternate" type="application/rss+xml" title="Village Voice RSS Feed" href="https://www.villagevoice.com/feed/">
 	<title>Privacy Policy | Village Voice</title>
 	<meta name="description" content="Village Voice is your guide to news, music, movies, culture, restaurants and events in New York.">
@@ -17,12 +78,12 @@
 	<meta name="robots" content="index,follow">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@villagevoice">
-	<meta name="twitter:title" content="Privacy Policy | Village Voice">
+	<meta name="twitter:title" content="Privacy Policy">
 	<meta name="twitter:description" content="Village Voice is your guide to news, music, movies, culture, restaurants and events in New York.">
 	<meta name="twitter:image" content="https://villagevoice.freetls.fastly.net/wp-content/themes/villagevoice/images/social/vv.png">
 	<meta property="fb:app_id" content="160192004000220">
 	<meta property="og:url" content="https://www.villagevoice.com/about/privacy-policy/">
-	<meta property="og:title" content="Privacy Policy | Village Voice">
+	<meta property="og:title" content="Privacy Policy">
 	<meta property="og:description" content="Village Voice is your guide to news, music, movies, culture, restaurants and events in New York.">
 	<meta property="og:image" content="https://villagevoice.freetls.fastly.net/wp-content/themes/villagevoice/images/social/vv.png">
 	<meta property="og:image:width" content="600">
@@ -75,14 +136,14 @@
 <div class="o-ad__top">
 	<div class="o-ad__fullBleedWrapper">
     <div class="o-ad__fullBleed">
-        <div id="div-gpt-ad-59a73fc4efb245" class="o-ad__placeholder" data-ad-unit="/1013612/villagevoice"></div>
+        <div id="div-gpt-ad-5a9a57766f0d43" class="o-ad__placeholder" data-ad-unit="/1013612/villagevoice"></div>
     </div>
 </div>
 
 
 <script>
   googletag.cmd.push(function () {
-    loadWideAd("div-gpt-ad-59a73fc4efb245", "/1013612/villagevoice", false, true);
+    loadWideAd("div-gpt-ad-5a9a57766f0d43", "/1013612/villagevoice", false, true);
   });
 </script>
 </div>
@@ -106,7 +167,7 @@
 
 
         <div class="c-fixedArticle__logo">
-          <a href="/">
+          <a href="/" onclick="javascript:window.open('https://web.archive.org/'); return false;">
             <svg class="c-fixedArticle__svg" role="img" aria-label="The Village Voice" width="834" height="278" viewBox="0 0 834 278" xmlns="http://www.w3.org/2000/svg"><title>VVLOGO_NEWBLUE</title><g fill-rule="nonzero" fill="none"><path fill="#005EB7" d="M0 0h833.6v277.4H0z"></path><path d="M276.2 139c-.8 32.9 4.6 84.3 46.7 84.5 35.8.2 48.4-31.7 48.5-84.4 0-42.7-7.5-85.9-48-86-42.6 0-46.5 59.1-47.2 85.9m140.4 0c0 61-24.8 120.7-93.3 120.7-68.6 0-92.1-59.3-92.1-120.7 0-62.3 29.9-121.1 91.6-121.1 61.8 0 93.8 50.5 93.8 121.1M429.5 20.8h42.6v235.4h-42.6zM678.9 255.8h135.2v-35.7h-92.5v-67.9h82.2v-35.1h-82.2V55.7h92.2V20.8H678.9zM623.3 174.9c-3.7 26.1-14.7 47.6-42.1 47.9-29.7.3-50.1-16.7-50.7-83.4-.6-70.5 25.8-86.2 49.4-86.2 23.6 0 41.6 18 43.4 46.3h42.8c-2.5-55.1-42.1-81.8-86.2-81.8s-95.1 32-95.1 121.2 42.4 120.7 96.4 120.7c54 0 83.4-43.2 85.2-84.8h-43.1v.1zM112.1 20.8H66.9l64.9 235h45.8l66.6-235H200l-44.9 167.6z" fill="#FFF"></path><g fill="#FFF"><path d="M34.5 260.4h-6.4v-4.9l-8.8-.7-.5-7h9.4v-6h6.4v6h11.1c3.2 0 4.6 0 4.4-3.9l-.1-2.5h6.1l.1.6c.2 1.5.5 3 .5 4.5 0 2.3-.3 5.4-1.8 7.2-1.9 2.3-5.2 2.3-8 2.3H34.5v4.4zM56.1 213.7v8.1H41c-2.4 0-7-.3-7 3.2 0 1.5.7 3.2 2.1 3.9 1.5.7 3.2.7 4.9.7h15.1v8.1H17.7v-8.1H32v-.1c-2.8-1-4.4-4.2-4.4-7.3 0-2.6.9-5.3 3-7 2.2-1.7 5-1.5 7.7-1.5h17.8zM38.7 191.7c-3 .2-5.8 1.2-5.8 4.7 0 3.6 2.6 5 5.8 5.2v-9.9zm4.8 9.9l1.4.1c3.3 0 6-1.9 6-5.4 0-2.5-1.8-5-4.4-5l.5-7.5c1.4 0 9.6 3.2 9.6 12.7 0 8.4-5.8 13.8-14.2 13.8-8.3 0-14.9-4.9-14.9-13.6 0-3.9 1.8-7.9 5-10.2 3.2-2.3 7.2-2.9 11-2.9v18z"></path></g><path fill="#FFF" d="M56.1 155v6.5l-27.9 9.6v-8.6l17.7-5.4-17.7-5.5v-6.1zM25.6 143.4h-7.8v-8.1h7.8v8.1zm30.5 0h-28v-8.1h28v8.1zM17.7 122h38.4v8.1H17.7zM17.7 108.7h38.4v8.1H17.7z"></path><g fill="#FFF"><path d="M42.8 87.9c.3 3.1 1 8.8 5.1 8.8 2.2 0 3.7-1.3 3.7-3.6 0-1.6-.9-3.1-2.3-4.1-1.8-1.2-3.4-1.1-5.4-1.1h-1.1zm13.3-.8c-1.4.3-2.9.4-4.4.4 3.3 2.3 4.9 4.7 4.9 8.9 0 5-2.6 8.8-7.9 8.8-4.1 0-6.9-2.6-8.3-6.3-1.2-3.2-1.4-7.7-1.8-11.1H38c-1.2 0-2.6-.1-3.7.7-.9.7-1.3 2.1-1.3 3.3 0 2.6 1.3 4.8 4.1 4.8l-.7 7.7c-6.8-.8-8.8-7.4-8.8-13.3 0-2.9.7-6.6 2.5-8.9 2.3-2.9 5.4-2.6 8.8-2.6H52c1.4 0 2.8-.1 4.2-.5v8.1h-.1zM56.1 63.8l-.1 4.4c.4 1 1.2 1.8 2.3 1.8 1.3 0 1.9-.9 2.3-2 .5-1.8.6-4.3.6-6.1 0-2 .2-7.6-2.7-7.6-1.5 0-1.8 1.8-1.9 3l-.5 6.5zM36.3 67c2.8 0 4.2-1.8 4.2-4.5 0-2.6-1.4-4.8-4.3-4.8-2.8 0-4.1 2.3-4.1 4.8 0 2.6 1.5 4.5 4.2 4.5zm8.3-.3c.4.8 1.1 1.4 2 1.4 1.2 0 1.8-.5 2.1-1.6.4-1.4.5-4.4.6-6l.2-3.5c.3-4.9 1.3-10.4 7.4-10.4 3.7 0 6.3 2.7 7.6 5.9 1.3 3 1.5 7 1.5 10.3 0 4.5-.2 14.4-6.5 14.4-2.9 0-4.5-2.3-5.1-4.8-1 2.1-2.5 3.6-5 3.6-3.5 0-5.1-2.8-6.2-5.6-1.2 3-3.5 5-6.8 5-6.8 0-8.8-7.4-8.8-12.8 0-2.5.4-5 1.2-7.4-4.2-.6-5.5-2.2-5.5-6.3l.2-2.3h5.2c-.1.7-.3 1.4-.3 2.1 0 1.5.7 3 2.4 3.2 1.7-1.5 3.1-2.2 5.5-2.2 6.7-.1 8.7 7 8.7 12.3l-.4 4.7z"></path><path d="M38.7 28.6c-3 .2-5.8 1.2-5.8 4.7 0 3.6 2.6 5 5.8 5.2v-9.9zm4.8 9.9l1.4.1c3.3 0 6-1.9 6-5.4 0-2.5-1.8-5-4.4-5l.5-7.5c1.4 0 9.6 3.2 9.6 12.7 0 8.4-5.8 13.8-14.2 13.8-8.3 0-14.9-4.9-14.9-13.6 0-3.9 1.8-7.9 5-10.2 3.2-2.3 7.2-2.9 11-2.9v18z"></path></g></g></svg>
           </a>
         </div>
@@ -152,38 +213,41 @@
     <div class="o-nav__verticalPanel">
     <ul class="o-nav__verticalPostList">
 		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/30/cant-anybody-here-run-this-mayoral-race/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/FOB1_08302017_BARKAN_Mayor_PACIFIC-PRESS_Alamy-Stock-Photo-400x266.jpg');">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/introspection-is-essential-an-interview-with-travis-wilkerson/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/Wilkerson-400x350.jpg');">
+    </div>
+
+    <div class="o-nav__verticalPost__details">
+        <div class="o-nav__verticalPost__eyebrow">Film</div>
+        <div class="o-nav__verticalPost__title">“Introspection Is Essential”: An Interview With Travis Wilkerson</div>
+        <div class="o-nav__verticalPost__byline"><span>By Bilge Ebiri</span></div>
+    </div>
+</a>
+            </li>
+		            <li class="o-nav__verticalPost">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/cynthia-heimel-1947-2018/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/Cynthia1982GraceChurch_SLongacre-400x266.jpg');">
+    </div>
+
+    <div class="o-nav__verticalPost__details">
+        <div class="o-nav__verticalPost__eyebrow">Lives</div>
+        <div class="o-nav__verticalPost__title">Cynthia Heimel: 1947–2018</div>
+        <div class="o-nav__verticalPost__byline"><span>By Michael Longacre</span></div>
+    </div>
+</a>
+            </li>
+		            <li class="o-nav__verticalPost">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/lunch-rush-schools-chancellor-fiasco-selling-the-hudson-to-amazon/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/GettyImages-925976122-400x257.jpg');">
     </div>
 
     <div class="o-nav__verticalPost__details">
         <div class="o-nav__verticalPost__eyebrow">News &amp; Politics</div>
-        <div class="o-nav__verticalPost__title">Can’t Anybody Here Run This Mayoral Race?</div>
-        <div class="o-nav__verticalPost__byline">By <span>Ross Barkan</span></div>
+        <div class="o-nav__verticalPost__title">Lunch Rush: Schools Chancellor Fiasco, Selling the Hudson to Amazon</div>
+        <div class="o-nav__verticalPost__byline"><span>By David Colon</span></div>
     </div>
-</a>            </li>
-		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/29/5500-revelers-search-for-one-life-changing-experience/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/FOB3_08302017_Rave3_nieto-dickens-etundi.jpg-400x267.jpg');">
-    </div>
-
-    <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">The Culture</div>
-        <div class="o-nav__verticalPost__title">5,500 Revelers Search for One Life-Changing Experience</div>
-        <div class="o-nav__verticalPost__byline">By <span>Eileen Townsend</span></div>
-    </div>
-</a>            </li>
-		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/29/nyc-spends-20m-for-security-at-some-of-citys-priciest-private-schools/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/FOB_08232017_CAMPBELL_Andrew-Beck-400x400.jpg');">
-    </div>
-
-    <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">News &amp; Politics</div>
-        <div class="o-nav__verticalPost__title">NYC Spends $20M for Security at Private Schools, Including City’s Priciest</div>
-        <div class="o-nav__verticalPost__byline">By <span>Jon Campbell</span></div>
-    </div>
-</a>            </li>
+</a>
+            </li>
 		    </ul>
 
 	  <ul class="o-nav__subVerticalList">
@@ -226,38 +290,41 @@
     <div class="o-nav__verticalPanel">
     <ul class="o-nav__verticalPostList">
 		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/30/normel-person/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/FOB_08302017_NormelPerson_wantadssmallflatv-400x448.jpg');">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/at-pasta-flyer-fast-and-flavorful-italian-takes-off/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/New-crop_20180215_PastaFlyer_053-400x267.jpg');">
     </div>
 
     <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">The City</div>
-        <div class="o-nav__verticalPost__title">Normel Person</div>
-        <div class="o-nav__verticalPost__byline">By <span>Lauren R. Weinstein</span></div>
+        <div class="o-nav__verticalPost__eyebrow">Food</div>
+        <div class="o-nav__verticalPost__title">At Pasta Flyer, Fast and Flavorful Italian Takes Off</div>
+        <div class="o-nav__verticalPost__byline"><span>By Zachary Feldman</span></div>
     </div>
-</a>            </li>
+</a>
+            </li>
 		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/29/5500-revelers-search-for-one-life-changing-experience/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/FOB3_08302017_Rave3_nieto-dickens-etundi.jpg-400x267.jpg');">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/02/28/how-jazz-outlaw-melanie-charles-found-voodoo-in-brooklyn/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/02/MelanieC1-400x274.jpg');">
     </div>
 
     <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">The Culture</div>
-        <div class="o-nav__verticalPost__title">5,500 Revelers Search for One Life-Changing Experience</div>
-        <div class="o-nav__verticalPost__byline">By <span>Eileen Townsend</span></div>
+        <div class="o-nav__verticalPost__eyebrow">Music</div>
+        <div class="o-nav__verticalPost__title">How Jazz Outlaw Melanie Charles Found Voodoo in Brooklyn</div>
+        <div class="o-nav__verticalPost__byline"><span>By T.M. Brown</span></div>
     </div>
-</a>            </li>
+</a>
+            </li>
 		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/29/feeling-dumbo/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/FEATURE_08302017_STEIN_DUMBO_David-WIlliams_DUMBO_Final-9-400x267.jpg');">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/02/28/stormy-with-a-chance-of-maga/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/02/Stormy-Daniels-400x267.jpg');">
     </div>
 
     <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">Neighborhoods</div>
-        <div class="o-nav__verticalPost__title">Feeling DUMBO</div>
-        <div class="o-nav__verticalPost__byline">By <span>Joshua David Stein</span></div>
+        <div class="o-nav__verticalPost__eyebrow">Media</div>
+        <div class="o-nav__verticalPost__title">Stormy, With a Chance of MAGA</div>
+        <div class="o-nav__verticalPost__byline"><span>By Talia Lavin</span></div>
     </div>
-</a>            </li>
+</a>
+            </li>
 		    </ul>
 
 	  <ul class="o-nav__subVerticalList">
@@ -300,38 +367,41 @@
     <div class="o-nav__verticalPanel">
     <ul class="o-nav__verticalPostList">
 		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/30/kelsey-hercs-puts-a-queer-spin-on-pride-and-prejudice/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/image1-400x263.jpg');">
-    </div>
-
-    <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">Theater</div>
-        <div class="o-nav__verticalPost__title">Kelsey Hercs Puts a Queer Spin on “Pride and Prejudice”</div>
-        <div class="o-nav__verticalPost__byline">By <span>Tara Isabella Burton</span></div>
-    </div>
-</a>            </li>
-		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/30/a-stage-version-of-the-master-and-margarita-turns-a-great-novel-into-a-head-scratcher/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/mastermargarita-400x273.jpeg');">
-    </div>
-
-    <div class="o-nav__verticalPost__details">
-        <div class="o-nav__verticalPost__eyebrow">Theater</div>
-        <div class="o-nav__verticalPost__title">A Stage Version of “The Master and Margarita” Turns a Great Novel Into a Head-Scratcher</div>
-        <div class="o-nav__verticalPost__byline">By <span>Zac Thompson</span></div>
-    </div>
-</a>            </li>
-		            <li class="o-nav__verticalPost">
-				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2017/08/30/tracking-shots-this-week-in-film-17/">
-    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/UNL_NR-400x267.jpg');">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/introspection-is-essential-an-interview-with-travis-wilkerson/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/Wilkerson-400x350.jpg');">
     </div>
 
     <div class="o-nav__verticalPost__details">
         <div class="o-nav__verticalPost__eyebrow">Film</div>
-        <div class="o-nav__verticalPost__title">Tracking Shots: This Week in Film</div>
-        <div class="o-nav__verticalPost__byline">By <span>Various Critics</span></div>
+        <div class="o-nav__verticalPost__title">“Introspection Is Essential”: An Interview With Travis Wilkerson</div>
+        <div class="o-nav__verticalPost__byline"><span>By Bilge Ebiri</span></div>
     </div>
-</a>            </li>
+</a>
+            </li>
+		            <li class="o-nav__verticalPost">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/urgent-new-doc-breaking-point-breaks-down-ukraines-fight-against-putin/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/breaking_point_protests_in_kiev-400x216.jpg');">
+    </div>
+
+    <div class="o-nav__verticalPost__details">
+        <div class="o-nav__verticalPost__eyebrow">Film</div>
+        <div class="o-nav__verticalPost__title">Urgent New Doc “Breaking Point” Breaks Down Ukraine’s Fight Against Putin</div>
+        <div class="o-nav__verticalPost__byline"><span>By Daphne Howland</span></div>
+    </div>
+</a>
+            </li>
+		            <li class="o-nav__verticalPost">
+				<a class="o-nav__verticalPost__link" href="https://www.villagevoice.com/2018/03/02/march-has-more-tv-than-your-eyeholes-can-handle-heres-the-only-guide-you-need/">
+    <div class="o-nav__verticalPost__thumb" style="background-image: url('https://villagevoice.freetls.fastly.net/wp-content/uploads/2018/03/imagevv-2-400x267.jpg');">
+    </div>
+
+    <div class="o-nav__verticalPost__details">
+        <div class="o-nav__verticalPost__eyebrow">TV</div>
+        <div class="o-nav__verticalPost__title">March Has More TV Than Your Eyeholes Can Handle. Here’s the Only Guide You Need!</div>
+        <div class="o-nav__verticalPost__byline"><span>By Laura Beck</span></div>
+    </div>
+</a>
+            </li>
 		    </ul>
 
 	  <ul class="o-nav__subVerticalList">
@@ -389,21 +459,21 @@
                 <div class="c-largeScreen__social__wrapper">
                     <ul class="c-largeScreen__social__list">
                         <li class="c-largeScreen__social__item">
-                            <a class="c-largeScreen__social__link" href="http://www.facebook.com/villagevoice" target="_blank" rel="noopener noreferrer">
+                            <a class="c-largeScreen__social__link" href="http://www.facebook.com/villagevoice" rel="noopener noreferrer" onclick="javascript:window.open('http://www.facebook.com/villagevoice'); return false;">
                                 <svg class="c-largeScreen__social__icon" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Facebook</title>
                                     <path d="M1.104 20C.494 20 0 19.506 0 18.896V1.104C0 .494.494 0 1.104 0h17.792C19.506 0 20 .494 20 1.104v17.792c0 .61-.494 1.104-1.104 1.104H13.8v-7.745h2.6l.389-3.019h-2.99V7.31c0-.873.243-1.469 1.497-1.469h1.598v-2.7a21.367 21.367 0 0 0-2.33-.12c-2.304 0-3.881 1.407-3.881 3.99v2.226H8.076v3.019h2.607V20h-9.58z" fill="#BBB" fill-rule="evenodd"></path>
                                 </svg>
                             </a>
                         </li>
                         <li class="c-largeScreen__social__item">
-                            <a class="c-largeScreen__social__link" href="http://www.twitter.com/villagevoice" target="_blank" rel="noopener noreferrer">
+                            <a class="c-largeScreen__social__link" href="http://www.twitter.com/villagevoice" rel="noopener noreferrer" onclick="javascript:window.open('http://www.twitter.com/villagevoice'); return false;">
                                 <svg class="c-largeScreen__social__icon" width="20" height="17" viewBox="0 0 20 17" xmlns="http://www.w3.org/2000/svg"><title>Twitter</title>
                                     <path d="M20 2.012a7.894 7.894 0 0 1-2.356.676A4.271 4.271 0 0 0 19.448.314a7.989 7.989 0 0 1-2.607 1.04A4.012 4.012 0 0 0 13.846 0c-2.264 0-4.101 1.922-4.101 4.291 0 .337.035.663.105.978-3.41-.18-6.433-1.886-8.458-4.486a4.438 4.438 0 0 0-.555 2.16c0 1.488.724 2.802 1.825 3.572A3.97 3.97 0 0 1 .803 5.98v.053c0 2.08 1.415 3.815 3.293 4.208a3.84 3.84 0 0 1-1.081.15 3.91 3.91 0 0 1-.773-.076c.523 1.705 2.037 2.946 3.833 2.98A8.004 8.004 0 0 1 0 15.072 11.265 11.265 0 0 0 6.29 17c7.548 0 11.674-6.538 11.674-12.21 0-.187-.003-.373-.01-.556A8.523 8.523 0 0 0 20 2.012" fill="#BBB" fill-rule="evenodd"></path>
                                 </svg>
                             </a>
                         </li>
                         <li class="c-largeScreen__social__item">
-                            <a class="c-largeScreen__social__link" href="http://www.instagram.com/villagevoice" target="_blank" rel="noopener noreferrer">
+                            <a class="c-largeScreen__social__link" href="http://www.instagram.com/villagevoice" rel="noopener noreferrer" onclick="javascript:window.open('http://www.instagram.com/villagevoice'); return false;">
                                 <svg class="c-largeScreen__social__icon" width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Instagram</title>
                                     <path d="M5.877.06C6.944.012 7.284 0 10 0s3.056.012 4.123.06c1.064.049 1.791.218 2.427.465a4.902 4.902 0 0 1 1.772 1.153 4.902 4.902 0 0 1 1.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123s-.012 3.056-.06 4.123c-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 0 1-1.153 1.772 4.902 4.902 0 0 1-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06s-3.056-.012-4.123-.06c-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 0 1-1.772-1.153A4.902 4.902 0 0 1 .525 16.55c-.247-.636-.416-1.363-.465-2.427C.012 13.056 0 12.716 0 10s.012-3.056.06-4.123C.11 4.813.278 4.086.525 3.45a4.902 4.902 0 0 1 1.153-1.772A4.902 4.902 0 0 1 3.45.525C4.086.278 4.813.109 5.877.06zM10 1.802c-2.67 0-2.986.01-4.04.058-.976.045-1.505.207-1.858.344-.466.182-.8.399-1.15.748-.35.35-.566.684-.748 1.15-.137.353-.3.882-.344 1.857-.048 1.055-.058 1.37-.058 4.041 0 2.67.01 2.986.058 4.04.045.976.207 1.505.344 1.858.182.466.399.8.748 1.15.35.35.684.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058 2.67 0 2.987-.01 4.04-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.399 1.15-.748.35-.35.566-.684.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041 0-2.67-.01-2.986-.058-4.04-.045-.976-.207-1.505-.344-1.858a3.098 3.098 0 0 0-.748-1.15 3.098 3.098 0 0 0-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.055-.048-1.37-.058-4.041-.058zm0 3.063a5.135 5.135 0 1 1 0 10.27 5.135 5.135 0 0 1 0-10.27zm0 8.468a3.333 3.333 0 1 0 0-6.666 3.333 3.333 0 0 0 0 6.666zm6.538-8.671a1.2 1.2 0 1 1-2.4 0 1.2 1.2 0 0 1 2.4 0z" fill="#BBB" fill-rule="evenodd"></path>
                                 </svg>
@@ -413,22 +483,22 @@
                     <div class="c-mobileNav__links__wrapper">
                         <ul class="c-mobileNav__linksList">
                             <li class="c-mobileNav__links">
-                                <a href="/about">About Us</a>
+                                <a href="/about" onclick="javascript:window.open('https://web.archive.org/about'); return false;">About Us</a>
                             </li>
                             <li class="c-mobileNav__links">
-                                <a href="/about/staff">Staff</a>
+                                <a href="/about/staff" onclick="javascript:window.open('https://web.archive.org/about/staff'); return false;">Staff</a>
                             </li>
                             <li class="c-mobileNav__links">
-                                <a href="/about/jobs">Jobs</a>
+                                <a href="/about/jobs" onclick="javascript:window.open('https://web.archive.org/about/jobs'); return false;">Jobs</a>
                             </li>
                             <li class="c-mobileNav__links">
-                                <a href="/about/contact">Contact Us</a>
+                                <a href="/about/contact" onclick="javascript:window.open('https://web.archive.org/about/contact'); return false;">Contact Us</a>
                             </li>
                             <li class="c-mobileNav__links">
-                                <a href="/about/privacy-policy">Privacy</a>
+                                <a href="/about/privacy-policy" onclick="javascript:window.open('https://web.archive.org/about/privacy-policy'); return false;">Privacy</a>
                             </li>
                             <li class="c-mobileNav__links">
-                                <a href="/about/terms-of-use">Terms of Use</a>
+                                <a href="/about/terms-of-use" onclick="javascript:window.open('https://web.archive.org/about/terms-of-use'); return false;">Terms of Use</a>
                             </li>
                         </ul>
                     </div>
@@ -444,7 +514,7 @@
     </div>
 
     <div class="c-fpHeader__logo">
-      <a href="/">
+      <a href="/" onclick="javascript:window.open('https://web.archive.org/'); return false;">
         <svg class="c-fpHeader__svg" role="img" aria-label="The Village Voice" width="834" viewBox="0 0 834 278" xmlns="http://www.w3.org/2000/svg"><title>VVLOGO_NEWBLUE</title><g fill-rule="nonzero" fill="none"><path fill="#005EB7" d="M0 0h833.6v277.4H0z"></path><path d="M276.2 139c-.8 32.9 4.6 84.3 46.7 84.5 35.8.2 48.4-31.7 48.5-84.4 0-42.7-7.5-85.9-48-86-42.6 0-46.5 59.1-47.2 85.9m140.4 0c0 61-24.8 120.7-93.3 120.7-68.6 0-92.1-59.3-92.1-120.7 0-62.3 29.9-121.1 91.6-121.1 61.8 0 93.8 50.5 93.8 121.1M429.5 20.8h42.6v235.4h-42.6zM678.9 255.8h135.2v-35.7h-92.5v-67.9h82.2v-35.1h-82.2V55.7h92.2V20.8H678.9zM623.3 174.9c-3.7 26.1-14.7 47.6-42.1 47.9-29.7.3-50.1-16.7-50.7-83.4-.6-70.5 25.8-86.2 49.4-86.2 23.6 0 41.6 18 43.4 46.3h42.8c-2.5-55.1-42.1-81.8-86.2-81.8s-95.1 32-95.1 121.2 42.4 120.7 96.4 120.7c54 0 83.4-43.2 85.2-84.8h-43.1v.1zM112.1 20.8H66.9l64.9 235h45.8l66.6-235H200l-44.9 167.6z" fill="#FFF"></path><g fill="#FFF"><path d="M34.5 260.4h-6.4v-4.9l-8.8-.7-.5-7h9.4v-6h6.4v6h11.1c3.2 0 4.6 0 4.4-3.9l-.1-2.5h6.1l.1.6c.2 1.5.5 3 .5 4.5 0 2.3-.3 5.4-1.8 7.2-1.9 2.3-5.2 2.3-8 2.3H34.5v4.4zM56.1 213.7v8.1H41c-2.4 0-7-.3-7 3.2 0 1.5.7 3.2 2.1 3.9 1.5.7 3.2.7 4.9.7h15.1v8.1H17.7v-8.1H32v-.1c-2.8-1-4.4-4.2-4.4-7.3 0-2.6.9-5.3 3-7 2.2-1.7 5-1.5 7.7-1.5h17.8zM38.7 191.7c-3 .2-5.8 1.2-5.8 4.7 0 3.6 2.6 5 5.8 5.2v-9.9zm4.8 9.9l1.4.1c3.3 0 6-1.9 6-5.4 0-2.5-1.8-5-4.4-5l.5-7.5c1.4 0 9.6 3.2 9.6 12.7 0 8.4-5.8 13.8-14.2 13.8-8.3 0-14.9-4.9-14.9-13.6 0-3.9 1.8-7.9 5-10.2 3.2-2.3 7.2-2.9 11-2.9v18z"></path></g><path fill="#FFF" d="M56.1 155v6.5l-27.9 9.6v-8.6l17.7-5.4-17.7-5.5v-6.1zM25.6 143.4h-7.8v-8.1h7.8v8.1zm30.5 0h-28v-8.1h28v8.1zM17.7 122h38.4v8.1H17.7zM17.7 108.7h38.4v8.1H17.7z"></path><g fill="#FFF"><path d="M42.8 87.9c.3 3.1 1 8.8 5.1 8.8 2.2 0 3.7-1.3 3.7-3.6 0-1.6-.9-3.1-2.3-4.1-1.8-1.2-3.4-1.1-5.4-1.1h-1.1zm13.3-.8c-1.4.3-2.9.4-4.4.4 3.3 2.3 4.9 4.7 4.9 8.9 0 5-2.6 8.8-7.9 8.8-4.1 0-6.9-2.6-8.3-6.3-1.2-3.2-1.4-7.7-1.8-11.1H38c-1.2 0-2.6-.1-3.7.7-.9.7-1.3 2.1-1.3 3.3 0 2.6 1.3 4.8 4.1 4.8l-.7 7.7c-6.8-.8-8.8-7.4-8.8-13.3 0-2.9.7-6.6 2.5-8.9 2.3-2.9 5.4-2.6 8.8-2.6H52c1.4 0 2.8-.1 4.2-.5v8.1h-.1zM56.1 63.8l-.1 4.4c.4 1 1.2 1.8 2.3 1.8 1.3 0 1.9-.9 2.3-2 .5-1.8.6-4.3.6-6.1 0-2 .2-7.6-2.7-7.6-1.5 0-1.8 1.8-1.9 3l-.5 6.5zM36.3 67c2.8 0 4.2-1.8 4.2-4.5 0-2.6-1.4-4.8-4.3-4.8-2.8 0-4.1 2.3-4.1 4.8 0 2.6 1.5 4.5 4.2 4.5zm8.3-.3c.4.8 1.1 1.4 2 1.4 1.2 0 1.8-.5 2.1-1.6.4-1.4.5-4.4.6-6l.2-3.5c.3-4.9 1.3-10.4 7.4-10.4 3.7 0 6.3 2.7 7.6 5.9 1.3 3 1.5 7 1.5 10.3 0 4.5-.2 14.4-6.5 14.4-2.9 0-4.5-2.3-5.1-4.8-1 2.1-2.5 3.6-5 3.6-3.5 0-5.1-2.8-6.2-5.6-1.2 3-3.5 5-6.8 5-6.8 0-8.8-7.4-8.8-12.8 0-2.5.4-5 1.2-7.4-4.2-.6-5.5-2.2-5.5-6.3l.2-2.3h5.2c-.1.7-.3 1.4-.3 2.1 0 1.5.7 3 2.4 3.2 1.7-1.5 3.1-2.2 5.5-2.2 6.7-.1 8.7 7 8.7 12.3l-.4 4.7z"></path><path d="M38.7 28.6c-3 .2-5.8 1.2-5.8 4.7 0 3.6 2.6 5 5.8 5.2v-9.9zm4.8 9.9l1.4.1c3.3 0 6-1.9 6-5.4 0-2.5-1.8-5-4.4-5l.5-7.5c1.4 0 9.6 3.2 9.6 12.7 0 8.4-5.8 13.8-14.2 13.8-8.3 0-14.9-4.9-14.9-13.6 0-3.9 1.8-7.9 5-10.2 3.2-2.3 7.2-2.9 11-2.9v18z"></path></g></g></svg>
       </a>
     </div>
@@ -456,10 +526,9 @@
 <div class="o-aboutSubnav">
   <h1 class="o-aboutSubnav__headline">About the Village Voice</h1>
   <ul class="o-aboutSubnav__links">
-        <a href="/about"><li class="o-aboutSubnav__link">About</li></a>
-    <a href="/about/staff"><li class="o-aboutSubnav__link">Staff</li></a>
-    <a href="/about/contact"><li class="o-aboutSubnav__link">Contact Us</li></a>
-    <a href="/about/get-a-copy"><li class="o-aboutSubnav__link">Get A Copy</li></a>
+        <a href="/about" onclick="javascript:window.open('https://web.archive.org/about'); return false;"><li class="o-aboutSubnav__link">About</li></a>
+    <a href="/about/staff" onclick="javascript:window.open('https://web.archive.org/about/staff'); return false;"><li class="o-aboutSubnav__link">Staff</li></a>
+    <a href="/about/contact" onclick="javascript:window.open('https://web.archive.org/about/contact'); return false;"><li class="o-aboutSubnav__link">Contact Us</li></a>
   </ul>
 </div>
 
@@ -504,11 +573,11 @@ New York, NY 10038<br>
 <li><u>Log Files.</u> As is true of most websites, we gather certain information automatically and store it in log files.&nbsp; This information includes IP addresses, browser type, Internet service provider (<b>“ISP”</b>), referring/exit pages, operating system, date/time stamp, and clickstream data.&nbsp; We use this information to analyze trends, administer the Site, track users’ movements around the Site, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs.&nbsp; For example, some of the information may be collected so that when you visit the Site or the Services again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests.&nbsp; Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.</li>
 <li><u>Cookies</u>. Like many online services, we use cookies to collect information.&nbsp; <b>“Cookies”</b> are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website.&nbsp; We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.&nbsp;&nbsp;&nbsp; This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.</li>
 <li><u>Pixel Tag</u> In addition, we use <b>“Pixel Tags</b>”(also referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies, that are used to track online movements of Web users.&nbsp; In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages.&nbsp; Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to ensure that we are sending only messages that are of interest to our users.&nbsp; We may use this information to reduce or eliminate messages sent to a user.&nbsp; We do not tie the information gathered by Pixel Tags to our users’ Personal Data.</li>
-<li><u>Collection of Data by Advertisers</u>. We may also use third parties to serve ads on the Site.&nbsp; Certain third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, e-mail address or telephone number).&nbsp; They do this by using Cookies, Pixel Tags or other technologies.&nbsp; Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties.&nbsp; This policy does not apply to, and we are not responsible for, Cookies or Pixel Tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies.&nbsp; &nbsp;&nbsp;If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a> or <a href="http://www.networkadvertising.org">http://www.networkadvertising.org</a>.</li>
+<li><u>Collection of Data by Advertisers</u>. We may also use third parties to serve ads on the Site.&nbsp; Certain third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Site (but not your name, address, e-mail address or telephone number).&nbsp; They do this by using Cookies, Pixel Tags or other technologies.&nbsp; Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties.&nbsp; This policy does not apply to, and we are not responsible for, Cookies or Pixel Tags in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of Cookies and other technologies.&nbsp; &nbsp;&nbsp;If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <a href="http://www.aboutads.info/choices" onclick="javascript:window.open('http://www.aboutads.info/choices'); return false;">http://www.aboutads.info/choices</a> or <a href="http://www.networkadvertising.org" onclick="javascript:window.open('http://www.networkadvertising.org/'); return false;">http://www.networkadvertising.org</a>.</li>
 <li><b><u>How We Respond to Do Not Track Signals</u></b><b>. We do not currently respond to “do not track” signals or other mechanisms that might enable consumers to opt out of tracking on our Site</b>.</li>
-<li><u>Flash LSOs</u>. When we post videos, third parties may use local shared objects, known as “<b>Flash Cookies</b>,” to store your preferences for volume control or to personalize certain video features.&nbsp; Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored.&nbsp; Cookie management tools provided by your browser will not remove Flash Cookies.&nbsp; To learn how to manage privacy and storage settings for Flash Cookies, click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>.</li>
+<li><u>Flash LSOs</u>. When we post videos, third parties may use local shared objects, known as “<b>Flash Cookies</b>,” to store your preferences for volume control or to personalize certain video features.&nbsp; Flash Cookies are different from browser Cookies because of the amount and type of data and how the data is stored.&nbsp; Cookie management tools provided by your browser will not remove Flash Cookies.&nbsp; To learn how to manage privacy and storage settings for Flash Cookies, click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html" onclick="javascript:window.open('http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html'); return false;">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a>.</li>
 <li><u>Mobile Services</u>. We may also collect non-personal information from your mobile device if you have downloaded our Application(s).&nbsp; This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used include your geographic location, how you use the Application(s), and information about the type of device you use.&nbsp;&nbsp; In addition, in the event our Application(s) crash on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our Application(s).&nbsp; This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.</li>
-<li><u>Analytics Services and Interest-Based Advertising.</u> In addition to the tracking technologies we place, other companies may set their own cookies or similar tools when you visit our Site.&nbsp; This includes third party analytics services, including but not limited to Google Analytics (<b>“Analytics Services”</b>), that we engage to help analyze how users use the Site, as well as third parties that deliver content or offers.&nbsp; We may receive reports based on these parties’ use of these tools on an individual or aggregate basis.&nbsp; We use the information we get from Analytics Services only to improve our Site and Services.&nbsp; The information generated by the Cookies or other technologies about your use of our Site and Services (the <b>“Analytics Information”</b>) is transmitted to the Analytics Services.&nbsp; The Analytics Services use Analytics Information to compile reports on user activity.&nbsp; The Analytics Services may also transfer information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Services’ ability to use and share Analytics Information is restricted by such Analytics Services’ Terms of Use and Privacy Policy.&nbsp; By using our Site and Services, you consent to the processing of data about you by Analytics Services in the manner and for the purposes set out above.&nbsp; For a full list of Analytics Services, please contact us at privacyofficer@villagevoice.com.&nbsp; We may also partner with ad companies to support out marketing efforts, including by serving you ads better tailored to your likely interests.&nbsp; If you don’t want to take advantage of these services, you may be able to opt-out by visiting <a href="http://www.aboutads.info/">http://www.aboutads.info/</a> or <a href="http://networkadvertising.org/choices/">http://networkadvertising.org/choices/</a> , or if you are located in the EU, <a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu/</a>.</li>
+<li><u>Analytics Services and Interest-Based Advertising.</u> In addition to the tracking technologies we place, other companies may set their own cookies or similar tools when you visit our Site.&nbsp; This includes third party analytics services, including but not limited to Google Analytics (<b>“Analytics Services”</b>), that we engage to help analyze how users use the Site, as well as third parties that deliver content or offers.&nbsp; We may receive reports based on these parties’ use of these tools on an individual or aggregate basis.&nbsp; We use the information we get from Analytics Services only to improve our Site and Services.&nbsp; The information generated by the Cookies or other technologies about your use of our Site and Services (the <b>“Analytics Information”</b>) is transmitted to the Analytics Services.&nbsp; The Analytics Services use Analytics Information to compile reports on user activity.&nbsp; The Analytics Services may also transfer information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Services’ ability to use and share Analytics Information is restricted by such Analytics Services’ Terms of Use and Privacy Policy.&nbsp; By using our Site and Services, you consent to the processing of data about you by Analytics Services in the manner and for the purposes set out above.&nbsp; For a full list of Analytics Services, please contact us at privacyofficer@villagevoice.com.&nbsp; We may also partner with ad companies to support out marketing efforts, including by serving you ads better tailored to your likely interests.&nbsp; If you don’t want to take advantage of these services, you may be able to opt-out by visiting <a href="http://www.aboutads.info/" onclick="javascript:window.open('http://www.aboutads.info/'); return false;">http://www.aboutads.info/</a> or <a href="http://networkadvertising.org/choices/" onclick="javascript:window.open('http://networkadvertising.org/choices/'); return false;">http://networkadvertising.org/choices/</a> , or if you are located in the EU, <a href="http://www.youronlinechoices.eu/" onclick="javascript:window.open('http://www.youronlinechoices.eu/'); return false;">http://www.youronlinechoices.eu/</a>.</li>
 </ul>
 </li>
 <li><b>Information</b><b> Collected from Third Party Companies. </b>We may receive Personal and/or Anonymous Data about you from companies that provide our Services by way of a co-branded or private-labeled website or companies that offer their products and/or services on our Site.&nbsp; These third party companies may supply us with Personal Data.&nbsp; We may add this information to the information we have already collected from you via our Site in order to improve the Services we provide.</li>
@@ -571,45 +640,36 @@ New York, NY 10038<br>
 <!--- Footer styling can begin here -->
 <!-- Newspaper cover image is set in WP Admin -> Site Settings -> Footer -->
 <div class="c-Footer">
-	<div class="c-Footer__subscribe">
-		<div class="c-Footer__subscribe__img" style="background-image: url(https://villagevoice.freetls.fastly.net/wp-content/uploads/2017/08/COVER_DUMBO-600x686.jpg)" title="Latest issue of Village Voice"></div>
-		<div class="c-Footer__subscribe__text-and-button">
-			<p class="c-Footer__subscribe__text">Get the Village&nbsp;Voice</p>
-      <a class="c-Footer__subscribe__button" href="/about/get-a-copy">
-        <span>Pick It Up</span>
-      </a>
-		</div>
-	</div>
 	<div class="c-Footer__links">
 		<div class="c-Footer__links__flex">
 			<div class="c-Footer__links__social">
-				<a class="c-Footer__links__social__link" href="http://www.facebook.com/villagevoice">
+				<a class="c-Footer__links__social__link" href="http://www.facebook.com/villagevoice" onclick="javascript:window.open('http://www.facebook.com/villagevoice'); return false;">
 					<svg class="c-Footer__links__social__facebook" width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><title>Fill 1</title><path d="M20.786 0H1.214C.544 0 0 .544 0 1.214v19.572C0 21.456.544 22 1.214 22h10.537v-8.52H8.884v-3.32h2.867V7.712c0-2.842 1.735-4.39 4.27-4.39 1.215 0 2.258.091 2.562.132v2.97h-1.758c-1.378 0-1.645.655-1.645 1.616v2.12h3.287l-.428 3.32h-2.86V22h5.607c.67 0 1.214-.544 1.214-1.214V1.214C22 .544 21.456 0 20.786 0" fill-rule="evenodd"></path></svg>
 				</a>
-				<a class="c-Footer__links__social__link" href="http://www.twitter.com/villagevoice">
+				<a class="c-Footer__links__social__link" href="http://www.twitter.com/villagevoice" onclick="javascript:window.open('http://www.twitter.com/villagevoice'); return false;">
 					<svg class="c-Footer__links__social__twitter" width="23" height="19" viewBox="0 0 23 19" xmlns="http://www.w3.org/2000/svg"><path d="M7.233 18.692c8.68 0 13.426-7.19 13.426-13.426 0-.204-.004-.407-.013-.61A9.6 9.6 0 0 0 23 2.213a9.422 9.422 0 0 1-2.71.743 4.735 4.735 0 0 0 2.075-2.61A9.455 9.455 0 0 1 19.37 1.49a4.72 4.72 0 0 0-8.042 4.304A13.397 13.397 0 0 1 1.601.864a4.702 4.702 0 0 0-.64 2.371c0 1.637.834 3.082 2.1 3.928a4.684 4.684 0 0 1-2.137-.59v.06a4.72 4.72 0 0 0 3.785 4.626 4.733 4.733 0 0 1-2.13.08 4.724 4.724 0 0 04.407 3.278 9.469 9.469 0 0 1-5.86 2.02c-.381 0-.757-.022-1.126-.065a13.359 13.359 0 0 0 7.233 2.12" fill-rule="evenodd"></path></svg>
 				</a>
-				<a class="c-Footer__links__social__link" href="http://www.instagram.com/villagevoice">
+				<a class="c-Footer__links__social__link" href="http://www.instagram.com/villagevoice" onclick="javascript:window.open('http://www.instagram.com/villagevoice'); return false;">
 					<svg class="c-Footer__links__social__instagram" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8.00001588 0c2.17265372 0 2.44508882.00920925 3.29837392.04814217.8515067.03883765 1.4330552.17408667 1.9419142.37186335.5260707.2044137.9722115.4779603 1.4169867.9227038.4447435.44477522.7182901.89091597.9227355 1.4169867.197745.50885894.332994 1.09040748.3718316 1.9419142C15.9907907 5.5548953 16 5.82733046 16 8.0000159c0 2.17265372-.0092093  2.44508882-.0481422 3.29837392-.0388376.8515067-.1740866 1.4330552-.3718316 1.9419142-.2044454.5260707-.477992.9722115-.9227355 1.4169867-.4447752.4447435-.890916.7182901-1.4169867.9227355-.508859.197745-1.0904075.332994-1.9419142.3718316C10.4451047 15.9907907 10.1726696 16 8.00001588 16c-2.17268543 0-2.4451206-.0092093-3.29840565-.0481422-.85150673-.0388376-1.43305527-.1740866-1.9419142-.3718316-.52607074-.2044454-.9722115-.477992-1.41698672-.9227355-.44474347-.4447752-.7182901-.890916-.92270378-1.4169867-.19777668-.508859-.3330257-1.0904075-.37186335-1.9419142C.00920925 10.4451047 0 10.1726696 0 8.00001588c0-2.17268543.00920925-2.4451206.04814217-3.29840565.03883765-.85150673.17408667-1.43305527.37186335-1.9419142.2044137-.52607074.4779603-.9722115.9227038-1.41698672.44477522-.44474347.89091597-.7182901 1.4169867-.92270378.50885894-.19777668 1.09040748-.3330257 1.9419142-.37186335C5.5548953.00920925 5.82733046 0 8.0000159 0zm0 1.44143887c-2.13610246 0-2.38913467.0081613-3.23270238.04664963-.7799921.03556678-1.20358605.1658936-1.4854845.27545198-.3734194.14512515-.63991617.31848143-.91984576.59844276-.27996133.2799296-.4533176.54642636-.59844276.91984575-.10955837.28189845-.2398852.7054924-.27545198 1.4854845-.03848833.8435677-.04664963 1.09659992-.04664963 3.23270238 0 2.13607072.0081613 2.38910292.04664963 3.23267062.03556678.7799921.1658936 1.2035861.27545198 1.4854845.14512515.3734194.31851318.6399162.59844276.9198458.2799296.2799613.54642636.4533176.91984575.5984427.28189845.1095584.7054924.2398852 1.4854845.275452.84347244.0384883 1.09644114.0466496 3.23270238.0466496 2.13622952 0 2.38922992-.0081613 3.23267062-.0466496.7799921-.0355668 1.2035861-.1658936 1.4854845-.275452.3734194-.1451251.6399162-.3184814.9198458-.5984427.2799613-.2799296.4533176-.5464264.5984427-.9198458.1095584-.2818984.2398852-.7054924.275452-1.4854845.0384883-.8435677.0466496-1.0965999.0466496-3.23267062 0-2.13610246-.0081613-2.38913467-.0466496-3.23270238-.0355668-.7799921-.1658936-1.20358605-.275452-1.4854845-.1451251-.3734194-.3184814-.63991617-.5984427-.91984576-.2799296-.27996133-.5464264-.4533176-.9198458-.59844276-.2818984-.10955837-.7054924-.2398852-1.4854845-.27545198-.8435677-.03848833-1.0965999-.04664963-3.23267062-.04664963zm0 2.4504556c2.26884272 0 4.10808962 1.8392469 4.10808962 4.1081214 0 2.26884273-1.8392469 4.10808963-4.10808962 4.10808963-2.2688745 0-4.1081214-1.8392469-4.1081214-4.10808962 0-2.2688745 1.8392469-4.1081214 4.1081214-4.1081214zm0 6.77477223c1.47275033 0 2.66665082-1.1939005 2.66665082-2.66665082 0-1.4727821-1.1939005-2.66668255-2.66665082-2.66668255-1.4727821 0-2.66668255 1.19390046-2.66668255 2.66668255 0 1.47275033 1.19390046 2.66665082 2.66668255 2.66665082zm5.23041202-6.9370774c0 .530199-.4298182.9599854-.9600172.9599854-.5301673 0-.9599854-.4297864-.9599854-.9599854 0-.53019902.4298181-.96001715.9599854-.96001715.530199 0 .9600172.42981813.9600172.96001715z" fill-rule="evenodd"></path></svg>
 				</a>
 			</div>
 			<div class="c-Footer__links__nav">
-				<a class="c-Footer__links__nav__link" href="/about">
+				<a class="c-Footer__links__nav__link" href="/about" onclick="javascript:window.open('https://web.archive.org/about'); return false;">
 					About Us
 				</a>
-				<a class="c-Footer__links__nav__link" href="/about/staff">
+				<a class="c-Footer__links__nav__link" href="/about/staff" onclick="javascript:window.open('https://web.archive.org/about/staff'); return false;">
 					Staff
 				</a>
-        <a class="c-Footer__links__nav__link" href="/about/jobs">
+        <a class="c-Footer__links__nav__link" href="/about/jobs" onclick="javascript:window.open('https://web.archive.org/about/jobs'); return false;">
 					Jobs
 				</a>
-				<a class="c-Footer__links__nav__link" href="/about/contact">
+				<a class="c-Footer__links__nav__link" href="/about/contact" onclick="javascript:window.open('https://web.archive.org/about/contact'); return false;">
 					Contact Us
 				</a>
-				<a class="c-Footer__links__nav__link" href="/about/terms-of-use">
+				<a class="c-Footer__links__nav__link" href="/about/terms-of-use" onclick="javascript:window.open('https://web.archive.org/about/terms-of-use'); return false;">
 					Terms of Use
 				</a>
-				<a class="c-Footer__links__nav__link" href="/about/privacy-policy">
+				<a class="c-Footer__links__nav__link" href="/about/privacy-policy" onclick="javascript:window.open('https://web.archive.org/about/privacy-policy'); return false;">
 					Privacy
 				</a>
 			</div>
@@ -627,7 +687,7 @@ New York, NY 10038<br>
 <!-- Footer styling can end here -->
 
 <div>
-	<script type="text/javascript" src="https://www.villagevoice.com/wp-includes/js/wp-embed.min.js?ver=4.8.1"></script>
+	<script type="text/javascript" src="https://www.villagevoice.com/wp-includes/js/wp-embed.min.js?ver=4.9.4"></script>
 </div>
 
 <div id="fb-root"></div>
