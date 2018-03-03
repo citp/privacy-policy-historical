@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230073356id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2018-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180303160315id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GradeSaver
 
@@ -26,7 +26,7 @@ Additional information such as your credit card information may be requested if 
 
 **Your Access To and Ability To Change or Update Information:**
 
-Your information may be changed by you at any time by going to the My Account section of our website. If you forget your password, you can go to [/profile](https://web.archive.org/web/20171230073356id_/profile/edit) and request a new password. If you want to change your password or other account information, you can also do so at [/forgot-password](https://web.archive.org/web/20171230073356id_/forgot-password).
+Your information may be changed by you at any time by going to the My Account section of our website. If you forget your password, you can go to [/profile](https://web.archive.org/web/20180303160315id_/profile/edit) and request a new password. If you want to change your password or other account information, you can also do so at [/forgot-password](https://web.archive.org/web/20180303160315id_/forgot-password).
 
 **Description of Safeguards and Security Measures Used to Protect Information:**
 
