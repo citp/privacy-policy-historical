@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siliconarmada.com privacy policy that was archived on 2017-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171004165503id_/https%3A//siliconarmada.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconarmada.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304020843id_/https%3A//siliconarmada.com/privacy.php) for the most accurate reproduction.*
 
 # Silicon Armada - Tech Jobs for Tech People
 
