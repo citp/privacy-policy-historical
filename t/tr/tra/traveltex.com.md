@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908082026id_/https%3A//www.traveltexas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304024625id_/https%3A//www.traveltexas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use
 
