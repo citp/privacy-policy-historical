@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stik.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102204303id_/http%3A//www.stik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stik.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304155722id_/http%3A//www.stik.com/privacy) for the most accurate reproduction.*
 
 # Stik.com
 
-This Privacy Policy describes Stik's policies and procedures on the collection, use and disclosure of your information when you use the Stik Service. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/web/20171102204303id_/http%3A//www.stik.com/terms.html).
+This Privacy Policy describes Stik's policies and procedures on the collection, use and disclosure of your information when you use the Stik Service. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/web/20180304155722id_/http%3A//www.stik.com/terms.html).
 
 * ## Information Collection and Use
 
