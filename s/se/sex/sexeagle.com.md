@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexeagle.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103164347id_/http%3A//www.sexeagle.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexeagle.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304104521id_/http%3A//www.sexeagle.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy - Vpondo.com
 
