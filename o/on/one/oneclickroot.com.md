@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oneclickroot.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721225209id_/https%3A//www.oneclickroot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneclickroot.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304035849id_/https%3A//www.oneclickroot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## **ONECLICKROOT.COM PRIVACY POLICY**
 
-All contents copyright © 2015\. All rights reserved.
+All contents copyright © 2018\. All rights reserved.
 
 * * *
 
