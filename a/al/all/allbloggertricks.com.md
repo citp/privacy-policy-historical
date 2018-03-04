@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the allbloggertricks.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbloggertricks.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304144527id_/http%3A//www.allbloggertricks.com/p/privacy-policy-for-all-blogger-tricks.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Blogger Widgets and HTML Templates - All Blogger Tricks
 
-**Go Daddy Respects Your Privacy**
+  
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+##  Privacy Policy for All Blogger Tricks Updated
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [http://www.allbloggertricks.com/p/contact-us_30.html](mailto:admin@allbloggertricks.com).  
+At http://www.allbloggertricks.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.allbloggertricks.com/ and how we use it.
 
-**Information Collection and Use**
+###  **Log Files**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Like many other Web sites, http://www.allbloggertricks.com/ makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+###  **Cookies and Web Beacons**
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+http://www.allbloggertricks.com/ uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+###  **DoubleClick DART Cookie**
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+→ Google, as a third party vendor, uses cookies to serve ads on http://www.allbloggertricks.com/.  
+→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://www.allbloggertricks.com/ and other sites on the Internet.   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+###  **Our Advertising Partners**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
 
-**Security**
+  * Google
+  * Amazon
+  * Yahoo! Publisher Network
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of http://www.allbloggertricks.com/._  
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.allbloggertricks.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.   
+http://www.allbloggertricks.com/ has no access to or control over these cookies that are used by third-party advertisers.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+###  **Third Party Privacy Policies**
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.allbloggertricks.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
 
-      iii.      You may call us at: (480) 505-8800
+###  **Children's Information**
 
-       iv.      You may fax us at: (480) 505-8844
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://www.allbloggertricks.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.allbloggertricks.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records. 
 
-**Sending Emails**
+###  **Online Privacy Policy Only**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+###  **Consent**
 
-**Compliance with Laws and Law Enforcement**
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+###  **Update**
 
-**Third Party Service Providers**
+This Privacy Policy was last updated on: Saturday, December 30th, 2017. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
