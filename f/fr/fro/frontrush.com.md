@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2017-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170503112539id_/https%3A//www.frontrush.com/web/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304143945id_/https%3A//www.frontrush.com/web/privacypolicy.html) for the most accurate reproduction.*
 
 # Front Rush::Privacy Policy
 
