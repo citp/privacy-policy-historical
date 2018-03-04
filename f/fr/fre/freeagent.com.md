@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2017-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170426054005id_/https%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304114445id_/https%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeAgent
 
@@ -57,7 +57,7 @@ We may contact you if the specific arrangement we have in place with a third par
 
 ## You can export your financial data anytime.
 
-You can export a copy of your financial data as an Excel file whenever you like - this will include your financial transactions, invoices, and expenses (without any uploaded receipts). We recommend that you use the export functionality to keep a backup of your financial data. While we regularly back up your financial data (see our security section), we can't restore backups on an individual basis. Read here for [instructions about how to export your FreeAgent data.](https://web.archive.org/support/kb/getting-started/export-data-from-freeagent)
+You can export a copy of your financial data as an Excel file whenever you like - this will include your financial transactions, invoices, and expenses (without any uploaded receipts). We recommend that you use the export functionality to keep a backup of your financial data. While we regularly back up your financial data (see our security section), we can't restore backups on an individual basis. Read here for [instructions about how to export your FreeAgent data.](https://support.freeagent.com/hc/articles/115001218490-Export-all-data)
 
 You can also ask us for a copy of your personal data that we hold (see "Your Rights" below). 
 
