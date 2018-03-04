@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipker.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110203451id_/http%3A//www.zipker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipker.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304022523id_/https%3A//www.zipker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ All of the products and services that have been made available on zipker.com are
 
 Our Legal Necessities -Zipker.com reserve sole right to reveal your personal info if required: (1) Abide by the legal rules and regulations or legal process processed on Zipker Online Services Private Limited; (2) defend the property or rights of zipker.com; (3) in order to ensure abidance to our Terms & Conditions. Zipker Online Services Private Limited collaborates with law enforcement as well as other third parties to implement laws, intellectual property and other rights. Moreover, Zipker Online Services Private Limited reserve the rights to take legal action by reporting any suspicious or illegal activity to the law enforcement for prosecution.
 
-Communication: Our executives are free to send you information of upcoming or latest services, products and updates. In case, you don’t want to receive any such information, you can very well opt to deny for receiving it just by sending a mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5734222423383a322534362532172d3e273c32257934383a)
+Communication: Our executives are free to send you information of upcoming or latest services, products and updates. In case, you don’t want to receive any such information, you can very well opt to deny for receiving it just by sending a mail at [customercare@zipker.com.](mailto:customercare@zipker.com)
 
 Payments: If you are a credit or debit card holder, your name and card number along with billing details will be sent to the concerned and applicable financial institution.
 
@@ -60,4 +60,4 @@ For advertising online, we use remarketing with Google. Third party vendors incl
 
 We provide you opportunity to choose receiving non-essential (promotional, marketing-related) communications from zipker.com on behalf of our business partners and from Zipker Online Services Private Limited in general after setting up an account.
 
-For any kind of queries regarding this Privacy Policy, just get in touch with us at[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7a4b2b4b3a8aaa2b5a4a6b5a287bdaeb7aca2b5e9a4a8aa)
+For any kind of queries regarding this Privacy Policy, just get in touch with us at[customercare@zipker.com.](mailto:customercare@zipker.com)
