@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemictest.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019200831id_/https%3A//www.onlinemictest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemictest.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304173947id_/https%3A//www.onlinemictest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Mic Test
 
