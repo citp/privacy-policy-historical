@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930050833id_/https%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapost.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304205552id_/https%3A//kapost.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Kapost | The B2B Marketing Platform
 
