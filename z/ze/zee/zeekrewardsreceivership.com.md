@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115161839id_/http%3A//www.zeekrewardsreceivership.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeekrewardsreceivership.com privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304120503id_/http%3A//zeekrewardsreceivership.com/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY NOTICE
 
