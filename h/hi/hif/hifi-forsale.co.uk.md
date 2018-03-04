@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101160715id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifi-forsale.co.uk privacy policy that was archived on 2018-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180304205451id_/http%3A//www.hifi-forsale.co.uk/privacy.php) for the most accurate reproduction.*
 
 # HiFi Forsale - Privacy Statement
 
-[](http://www.audiovenue.com/)
+[](http://www.mackenziehifi.com/)
 
 **Privacy Statement**
 
