@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amara.org privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104011842id_/http%3A//pculture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amara.org privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305150043id_/https%3A//pculture.org/privacy) for the most accurate reproduction.*
 
 # PCF Privacy Policy
 
