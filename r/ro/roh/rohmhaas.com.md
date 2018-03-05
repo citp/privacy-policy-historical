@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103153404id_/http%3A//legal.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohmhaas.com privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305095749id_/https%3A//legal.dow.com/en-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Dow Legal Site
 
@@ -6,9 +6,9 @@
 
 Your privacy is important to us. Together with our global Data Protection/Privacy Policy, this Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.
 
-Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use](http://legal.dow.com/en-us/terms-of-use) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website.
+Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use](https://legal.dow.com/en-us/terms-of-use) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website.
 
-This Online Privacy Policy describes what types of information we gather and track when you use our websites, how this information is used and with whom it is shared. If you have any questions about this Online Privacy Policy, please [contact us](http://www.dow.com/en-us/contact-us).
+This Online Privacy Policy describes what types of information we gather and track when you use our websites, how this information is used and with whom it is shared. If you have any questions about this Online Privacy Policy, please [contact us](https://www.dow.com/en-us/contact-us).
 
 This Online Privacy Policy includes the following:  
 What Information We Collect  
@@ -78,7 +78,7 @@ When you sign up to use a special feature or password-protected area, you may be
 
 ### **Children's Privacy**
 
-We do not knowingly collect information from children to sell or promote our products or services. We host educational programs in science for students and teachers in our communities, but we do not invite minors to contact us or manually provide personal information. Visitors must be 18 years of age or older to submit registration or survey information. Parents or legal guardians may register to obtain information or participate in a survey on behalf of their children. If you believe a child under the age of eighteen has sent personal contact information to Dow, please [contact us](http://www.dow.com/en-us/contact-us) immediately at the address listed below and we will use reasonable efforts to promptly remove that information from our databases.
+We do not knowingly collect information from children to sell or promote our products or services. We host educational programs in science for students and teachers in our communities, but we do not invite minors to contact us or manually provide personal information. Visitors must be 18 years of age or older to submit registration or survey information. Parents or legal guardians may register to obtain information or participate in a survey on behalf of their children. If you believe a child under the age of eighteen has sent personal contact information to Dow, please [contact us](https://www.dow.com/en-us/contact-us) immediately at the address listed below and we will use reasonable efforts to promptly remove that information from our databases.
 
 ### **Security**
 
@@ -106,7 +106,7 @@ If you have created an account or a personal profile on one of our websites, you
 
 ### **Contact Dow**
 
-If you have any questions about this Online Privacy Policy or our privacy practices, please contact us via phone at the numbers listed at [http://www.dow.com/assistance/dowcig.htm](http://www.dow.com/en-us/contact-us). You may also contact us via online form at [http://www.dow.com/assistance/thoughts.htm](http://www.dow.com/en-us/contact-us) or via our email address at [dowcig@dow.com](mailto:dowcig@dow.com). You may also send postal correspondence to: 
+If you have any questions about this Online Privacy Policy or our privacy practices, please contact us via phone at the numbers listed at [http://www.dow.com/assistance/dowcig.htm](https://www.dow.com/en-us/contact-us). You may also contact us via online form at [http://www.dow.com/assistance/thoughts.htm](https://www.dow.com/en-us/contact-us) or via our email address at [dowcig@dow.com](mailto:dowcig@dow.com). You may also send postal correspondence to: 
 
 **In Canada:**  
 Dow Chemical Canada ULC.  
@@ -142,6 +142,6 @@ ChacaraSanto Antonio 
 São Paulo   
 Brazil 04717-903
 
-If you have concerns that someone affiliated with Dow has used your information in a manner that is not consistent with this Online Privacy Policy; would like to seek guidance related to [Dow's Code of Business Conduct](http://www.dow.com/en-us/about-dow/our-company/codes-of-conduct/code-of-business-conduct); or report potential unethical business practices or other violations of our Code of Business Conduct, please contact the Dow EthicsLine. The Dow [EthicsLine](http://www.dow.com/en-us/about-dow/our-company/beliefs-and-culture/ethics) can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide, or the Dow EthicsLine can be accessed using an [online form](https://secure.ethicspoint.com/domain/media/en/gui/23573/index.html) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](http://www.dow.com/en-us/about-dow/our-company/beliefs-and-culture/ethics) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@Dow.com).
+If you have concerns that someone affiliated with Dow has used your information in a manner that is not consistent with this Online Privacy Policy; would like to seek guidance related to [Dow's Code of Business Conduct](https://www.dow.com/en-us/about-dow/our-company/codes-of-conduct/code-of-business-conduct); or report potential unethical business practices or other violations of our Code of Business Conduct, please contact the Dow EthicsLine. The Dow [EthicsLine](https://www.dow.com/en-us/about-dow/our-company/beliefs-and-culture/ethics) can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide, or the Dow EthicsLine can be accessed using an [online form](https://secure.ethicspoint.com/domain/media/en/gui/23573/index.html) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](https://www.dow.com/en-us/about-dow/our-company/beliefs-and-culture/ethics) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@Dow.com).
 
 Effective Date: November 1, 2016
