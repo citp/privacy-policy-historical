@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dartmouth.edu privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728043000id_/http%3A//dartmouth.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartmouth.edu privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305140125id_/https%3A//home.dartmouth.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dartmouth College
 
@@ -55,6 +55,6 @@ Dartmouth College
 63 South Main Street, Suite 301 Hanover, New Hampshire 03755  
 Telephone:  (603) 646­2444  
 Fax:  (603) 646­2447  
-[Office.of.General.Counsel@Dartmouth.edu](mailto:Office.of.General.Counsel@Dartmouth.edu)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#703f16161913155e1f165e37151e1502111c5e331f051e03151c30341102041d1f0504185e151405)
 
 **Effective Date: December 1, 2016**
