@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcsedsystem.edu privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130214040id_/http%3A//www.tcsedsystem.edu/wp-content/uploads/2017/01/TCS-ES-Privacy-Policy_FINAL_011317.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcsedsystem.edu privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305192522id_/https%3A//www.tcsedsystem.edu/wp-content/uploads/2017/01/TCS-ES-Privacy-Policy_FINAL_011317.pdf) for the most accurate reproduction.*
 
 # TCSES ONLINE PRIVACY POLICY
 
