@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilitypass.com privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906101502id_/http%3A//www.mobilitypass.com/sim/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilitypass.com privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305043123id_/http%3A//www2.mobilitypass.com/sim/en/privacy.html) for the most accurate reproduction.*
 
 # MobilityPass Privacy Policy | International Roaming SIM Card & Services
 
