@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102201537id_/https%3A//www.workbooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workbooks.com privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305115630id_/https%3A//www.workbooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Workbooks
 
@@ -72,7 +72,7 @@ Our Website uses cookies from the following third parties:
 
 
 
-For more information on Cookies and for details of how to control or delete cookies, please visit: [www.aboutcookies.org ](http://www.aboutcookies.org/default.aspx)
+For more information on Cookies and for details of how to control or delete cookies, please visit: [www.aboutcookies.org ](https://www.aboutcookies.org/)
 
 Please note that if you disable your web browser’s ability to accept cookies, certain parts of our website will not work.  
 
