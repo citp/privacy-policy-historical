@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613014822id_/http%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306050413id_/http%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Vistage International Privacy Policy | Executive and CEO Organization
+# Privacy Policy | Vistage
 
-This policy covers how Vistage treats personal information that Vistage collects and receives in connection with our public, private and/or restricted-use Web sites including but not limited to: [www.vistage.com](http://www.vistage.com/), [view.vistage.com](http://view.vistage.com/), [village.vistage.com](http://village.vistage.com/), [my.vistage.com](http://my.vistage.com/), [vistageconnect.com](http://vistageconnect.com/) and [myvistageconnect.com](http://myvistageconnect.com/) (collectively, the “ **Sites** “). Personal information is information about you that is personally identifiable like your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
+This policy covers how Vistage treats personal information that Vistage collects and receives in connection with our public, private and/or restricted-use Web sites including but not limited to: [www.vistage.com](https://www.vistage.com/) and [my.vistage.com](https://my.vistage.com/) (collectively, the “ **Sites** “). Personal information is information about you that is personally identifiable like your name, address, e-mail address, or phone number, and that is not otherwise publicly available.
 
 **Information Collection and Use**
 
@@ -45,7 +45,7 @@ We may combine the information we collect through cookies and pixel tags with ot
 
 We limit access to personal information about you to staff who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs.
 
-We take all reasonable precautions to keep your personal information secure and we have put in place physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+We take all reasonable precautions to keep your personal information secure and we have put in place physical, electronic, and procedural safeguards that comply with local, state, federal and foreign laws to protect personal information about you.
 
 **Links to Other Web Sites**
 
@@ -59,10 +59,6 @@ Due to changes in legislation and best practice or enhancements to functionality
 
 If you have questions or suggestions, please contact us at:
 
-Vistage International, Inc. Attention: Chief Information Officer
-
-11452 El Camino Real, Suite 400
-
-San Diego, CA
-
-92130
+Vistage Worldwide, Inc. Attention: Chief Information Officer  
+11452 El Camino Real, Suite 400  
+San Diego, CA 92130
