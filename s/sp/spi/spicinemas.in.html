@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the spicinemas.in privacy policy that was archived on 2017-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170430051125id_/https%3A//www.spicinemas.in/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spicinemas.in privacy policy that was archived on 2018-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180306154623id_/https%3A//www.spicinemas.in/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-	<link rel="stylesheet" type="text/css" href="https://assets.spicinemas.in/resources/styles/app.css?build=v3.9.95">
-	<link rel="stylesheet" type="text/css" href="https://assets.spicinemas.in/resources/styles/normalize.css?build=v3.9.95">
-	<link rel="stylesheet" type="text/css" href="https://assets.spicinemas.in/resources/styles/font-awesome.css?build=v3.9.95">
+	<link rel="stylesheet" type="text/css" href="https://assets.spicinemas.in/resources/styles/app.css?build=0c0642f30d7d23293c76">
+	<link rel="stylesheet" type="text/css" href="https://assets.spicinemas.in/resources/styles/normalize.css?build=0c0642f30d7d23293c76">
+	<link rel="stylesheet" type="text/css" href="https://assets.spicinemas.in/resources/styles/font-awesome.css?build=0c0642f30d7d23293c76">
   <link rel="shortcut icon" href="https://img.spicinemas.in/resources/images/favicon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
@@ -33,28 +33,58 @@
     <article class="row page__content">
 <section class="spi-app-banner hide">
   <div class="app-close-banner">
-    <button><i class="icon-remove"></i></button>
+    <button><i class="fa fa-remove"></i></button>
   </div>
   <div class="app-banner-logo"></div>
   <div class="app-info">Download the free SPI Cinemas app to get your favorite movies at your fingertips!</div>
   <div class="app-view"><a href="#" class="button">View</a></div>
 </section>
-<header class="hide-for-small">
-  <a class="logo left" href="/"></a>
-  <div class="right">
-    <nav class="top-bar user" data-topbar="" data-options="is_hover: false">
+<header class="hide-for-small-only">
+  <a class="logo float-left" href="/"></a>
+  <div class="float-right">
+    <nav class="top-bar user" data-options="is_hover: false">
       <section class="top-bar-section">
-        <ul>
+        <ul class="menu">
               
-<li id="login-topbar" class="users__login current__user ">
+<li id="login-topbar" class="users__login current__user " data-toggle="user-select-dropdown">
         <a class="sign-in" data-reveal-id="loginModal" data-reveal-ajax="https://www.spicinemas.in/oauth2/authorize?client_id=spi-web&amp;redirect_uri=https://www.spicinemas.in/user/profile&amp;response_type=spi_token&amp;state=spi_start&amp;isCallCenter=false" data-reveal-ajax-handler="true">Log In / Sign Up</a>
 </li>
-<li class="city-dropdown has-dropdown">
+<div style="display: none" id="hidden_user_logged_in_view">
+    <a class="allow-click">
+        <span class="app-icon user"></span><span id="user_name" class="user__name"></span>
+    </a>
+    <ul class="dropdown-pane" data-dropdown="" id="user-select-dropdown" data-allow-overlap="true" data-alignment="left" data-close-on-click="true" data-v-offset="4">
+<li>
+    <a href="/user/profile"><span class="app-icon profile"></span><span>My profile</span></a>
+</li>
+<li>
+    <a href="/order/booked-history"><span class="app-icon history"></span><span>Order History</span></a>
+</li>
+    <li>
+        <a data-reveal-id="retrieveBooking" class="allow-click">
+            <span class="app-icon retrieve" data-reveal-id="retrieveBooking"></span>
+            <span data-reveal-id="retrieveBooking">Retrieve Booking</span>
+        </a>
+    </li>
+    <li>
+        <a href="/account/mywallet"><span class="app-icon history"></span><span>Fuel Wallet</span></a>
+    </li>
+<li>
+    <a id="user-logout-link"><span class="app-icon logout"></span><span>Logout</span></a>
+</li>
+    </ul>
+</div>
+<li class="city-dropdown has-dropdown" data-toggle="city-select-dropdown">
     <a class="selected-city city allow-click" data-city-name="chennai">
         <span class="app-icon current-city"></span><span>chennai</span>
     </a>
-    <ul class="dropdown">
+    <ul class="dropdown-pane" data-dropdown="" id="city-select-dropdown" data-close-on-click="true" data-v-offset="4">
 <input type="hidden" class="restrictedMode" id="isRestrictedMode" value="no">
+    <li class="">
+            <a class="city" href="/" data-city-name="bengaluru">
+                <span class="app-icon selected-city"></span><span>bengaluru</span>
+            </a>
+    </li>
     <li class="active">
             <a class="city" href="/" data-city-name="chennai">
                 <span class="app-icon selected-city"></span><span>chennai</span>
@@ -71,8 +101,23 @@
             </a>
     </li>
     <li class="">
+            <a class="city" href="/" data-city-name="nellore">
+                <span class="app-icon selected-city"></span><span>nellore</span>
+            </a>
+    </li>
+    <li class="">
+            <a class="city" href="/" data-city-name="puducherry">
+                <span class="app-icon selected-city"></span><span>puducherry</span>
+            </a>
+    </li>
+    <li class="">
             <a class="city" href="/" data-city-name="trivandrum">
                 <span class="app-icon selected-city"></span><span>trivandrum</span>
+            </a>
+    </li>
+    <li class="">
+            <a class="city" href="/" data-city-name="warangal">
+                <span class="app-icon selected-city"></span><span>warangal</span>
             </a>
     </li>
     </ul>
@@ -82,6 +127,30 @@
         <li class="user-menu-items">
             <a class="sign-in" data-reveal-id="loginModal" data-reveal-ajax="https://www.spicinemas.in/oauth2/authorize?client_id=spi-web&amp;redirect_uri=https://www.spicinemas.in/user/profile&amp;response_type=spi_token&amp;state=spi_start&amp;isCallCenter=false" data-reveal-ajax-handler="true">Log In / Sign Up</a>
         </li>
+<div style="display: none" id="hidden_user_logged_in_resp_view">
+    <li>
+        <label id="resp_user_name"></label>
+    </li>
+<li>
+    <a href="/user/profile"><span class="app-icon profile"></span><span>My profile</span></a>
+</li>
+<li>
+    <a href="/order/booked-history"><span class="app-icon history"></span><span>Order History</span></a>
+</li>
+    <li>
+        <a data-reveal-id="retrieveBooking" class="allow-click">
+            <span class="app-icon retrieve" data-reveal-id="retrieveBooking"></span>
+            <span data-reveal-id="retrieveBooking">Retrieve Booking</span>
+        </a>
+    </li>
+    <li>
+        <a href="/account/mywallet"><span class="app-icon history"></span><span>Fuel Wallet</span></a>
+    </li>
+<li>
+    <a id="user-logout-link"><span class="app-icon logout"></span><span>Logout</span></a>
+</li>
+</div>
+
     <li>
         <label>Movies</label>
     </li>
@@ -101,6 +170,11 @@
         <label>City</label>
     </li>
 <input type="hidden" class="restrictedMode" id="isRestrictedMode" value="no">
+    <li class="">
+            <a class="city" href="/" data-city-name="bengaluru">
+                <span class="app-icon selected-city"></span><span>bengaluru</span>
+            </a>
+    </li>
     <li class="active">
             <a class="city" href="/" data-city-name="chennai">
                 <span class="app-icon selected-city"></span><span>chennai</span>
@@ -117,8 +191,23 @@
             </a>
     </li>
     <li class="">
+            <a class="city" href="/" data-city-name="nellore">
+                <span class="app-icon selected-city"></span><span>nellore</span>
+            </a>
+    </li>
+    <li class="">
+            <a class="city" href="/" data-city-name="puducherry">
+                <span class="app-icon selected-city"></span><span>puducherry</span>
+            </a>
+    </li>
+    <li class="">
             <a class="city" href="/" data-city-name="trivandrum">
                 <span class="app-icon selected-city"></span><span>trivandrum</span>
+            </a>
+    </li>
+    <li class="">
+            <a class="city" href="/" data-city-name="warangal">
+                <span class="app-icon selected-city"></span><span>warangal</span>
             </a>
     </li>
 </div>
@@ -127,9 +216,9 @@
       </section>
     </nav>
     <div class="social__links">
-      <ul class="right">
-        <li><a href="https://www.facebook.com/spicinemasindia" target="_blank" class="icon-facebook icon-2"></a></li>
-        <li><a href="https://twitter.com/SPIcinemas" target="_blank" class="icon-twitter icon-2"></a></li>
+      <ul class="float-right">
+        <li><a href="https://www.facebook.com/spicinemasindia" target="_blank" class="fa fa-facebook fa-2x"></a></li>
+        <li><a href="https://twitter.com/SPIcinemas" target="_blank" class="fa fa-twitter fa-2x"></a></li>
       </ul>
       <h6 class="social__message">Follow Us</h6>
     </div>
@@ -137,36 +226,37 @@
 </header>
       <section class="static-page">
         
-        <div class="off-canvas-wrap">
-          <div class="inner-wrap">
-	<nav class="tab-bar show-for-small">
-    <section class="tab-bar-section">
+        <div class="off-canvas-wrapper" data-off-canvas-wrapper="">
+    <div class="off-canvas off-canvas-absolute position-right" id="off-canvas-list-menu" data-off-canvas="">
+        <ul class="menu vertical" id="off-canvas-list"></ul>
+        <a class="exit-off-canvas"></a>
+    </div>
+          <div class="off-canvas-wrapper-inner off-canvas-content" data-off-canvas-content="">
+	<div class="title-bar show-for-small-only">
+    <div class="title-bar-left">
       <a class="logo small" href="/"></a>
-    </section>
-      <section class="right">
+    </div>
+      <div class="title-bar-right" data-toggle="off-canvas-list-menu">
         <a class="right-off-canvas-toggle menu-icon">
           <span></span>
         </a>
-      </section>
-  </nav>
-	<aside class="right-off-canvas-menu show-for-small">
-    <ul class="off-canvas-list" id="off-canvas-list"></ul>
-  </aside>
+      </div>
+  </div>
             <section class="main-section">
   <section class="menu">
-    <nav class="top-bar main tab hide-for-small">
+    <nav class="top-bar main tabs hide-for-small-only">
       <section class="top-bar-section">
-        <ul>
-          <li class="hide-for-small active">
-            <a href="/"><i class="icon-home"></i></a>
+        <ul id="main-links">
+          <li class="hide-for-small-only tabs-title is-active">
+            <a href="/"><i class="fa fa-home"></i></a>
           </li>
-          <li class="hide-for-small ">
+          <li class="hide-for-small-only tabs-title ">
             <a href="/chennai/now-showing">Movies</a>
           </li>
-          <li class="hide-for-small ">
+          <li class="hide-for-small-only tabs-title ">
             <a href="/chennai/show-times">ShowTimes</a>
           </li>
-          <li class="hide-for-small ">
+          <li class="hide-for-small-only tabs-title ">
             <a href="/cinemas">Cinemas</a>
           </li>
           <li class="quickbook__container">
@@ -265,20 +355,23 @@
     </div>
   </article>
             </section>
-	<a class="exit-off-canvas"></a> 
-          </div> 
+          </div>
         </div>
         
       </section>
 <div class="pageDialog">
-  <div id="cityModal" class="reveal-modal tiny">
+  <div id="cityModal" class="reveal tiny" data-reveal="">
     <form class="custom form" id="cityForm" data-root-url="now-showing">
       <label for="cityList" class="selectCity">Please select your city</label>
       <select id="cityList" class="focus" name="city">
+          <option>bengaluru</option>
           <option>chennai</option>
           <option>coimbatore</option>
           <option>mumbai</option>
+          <option>nellore</option>
+          <option>puducherry</option>
           <option>trivandrum</option>
+          <option>warangal</option>
       </select>
 
       <label for="persist" class="checkbox">
@@ -291,11 +384,9 @@
     </form>
   </div>
 
-  <div id="loginModal" class="user__login reveal-modal small" role="dialog" data-dialog-name="loginModal" data-dialog-action="submit">
+  <div id="loginModal" class="user__login reveal small" data-reveal="" role="dialog" data-dialog-name="loginModal" data-dialog-action="submit"></div>
 
-    </div>
-
-  <div id="cancel-order-dialog" class="reveal-modal tiny" data-dialog-name="cancelOrder">
+  <div id="cancel-order-dialog" class="reveal tiny" data-reveal="" data-dialog-name="cancelOrder">
     <p class="message">We notice that you already have an order in progress for this session.</p>
 
     <div class="action">
@@ -304,12 +395,12 @@
     </div>
   </div>
 
-  <div id="retrieveBooking" class="reveal-modal medium" data-dialog-name="retrieveBooking">
+  <div id="retrieveBooking" class="reveal large" data-reveal="" data-dialog-name="retrieveBooking">
     <div class="retrieve-booking indicate-busy image__source" data-src="https://img.spicinemas.in/resources/images"></div>
     <a class="close-reveal-modal allow-click" data-dialog-action="cancel">×</a>
   </div>
 
-  <div id="noSeatsAvailableDialog" class="reveal-modal tiny" data-dialog-name="noSeatsAvailable">
+  <div id="noSeatsAvailableDialog" class="reveal tiny" data-reveal="" data-dialog-name="noSeatsAvailable">
       <h6>Attention!</h6>
       <p class="message">Sorry, there are no seats available for this show right now. Please try again after a few minutes.</p>
       <div class="action">
@@ -317,7 +408,7 @@
       </div>
   </div>
 
-    <div id="activeOrders" class="reveal-modal tiny" data-dialog-name="activeOrders">
+    <div id="activeOrders" class="reveal tiny" data-reveal="" data-dialog-name="activeOrders">
         <h6>Active Orders</h6>
         <p class="message">You cannot open more than three sessions. Please click on one of the active orders to continue.</p>
         <div class="summary">
@@ -339,17 +430,17 @@
         <li><a href="/cinemas/le-reve" class="le-reve"><span class="border"></span></a></li>
         <li><a href="/cinemas/the-cinema" class="the-cinema"><span class="border"></span></a></li>
         <li><a href="/cinemas/s2" class="s2-cinemas"><span class="border"></span></a></li>
-        <li><a href="http://www.dolby.com/in/en/brands/dolby-atmos.html" class="dolby-atoms" target="_blank"><span class="border"></span></a></li>
+        <li><a href="https://www.dolby.com/in/en/brands/dolby-atmos.html" class="dolby-atoms" target="_blank"><span class="border"></span></a></li>
         <li><a href="/experiences" class="rdx"><span class="border"></span></a></li>
       </ul>
 
 
       <div class="footer__notes ">
         <div class="accordion_menu show-for-small-only">
-            <dl class="accordion" data-accordion="">
-              <dd>
+            <dl class="accordion" data-accordion="" data-allow-all-closed="true">
+              <dd class="accordion-item" data-accordion-item="">
                 <a href="#aboutCinemas">About SPI Cinemas</a>
-                <div id="aboutCinemas" class="content">
+                <div id="aboutCinemas" class="content accordion-content" data-tab-content="">
   <ul>
     <li><a href="/about-us">About Us</a></li>
     <li><a href="/our-vision">Our Vision</a></li>
@@ -361,9 +452,9 @@
   </ul>
                 </div>
               </dd>
-              <dd>
+              <dd class="accordion-item" data-accordion-item="">
                 <a href="#termsAndCondition">Terms &amp; Conditions</a>
-                <div id="termsAndCondition" class="content">
+                <div id="termsAndCondition" class="content accordion-content" data-tab-content="">
   <ul>
     <li><a href="/privacy">Privacy</a></li>
     <li><a href="/legal">Legal</a></li>
@@ -374,7 +465,7 @@
             </dl>
         </div>
 
-        <div class="show-for-medium-up">
+        <div class="show-for-medium">
             <div class="notes__about large-2 medium-2 small-4 columns">
               <h6>About SPI Cinemas</h6>
   <ul>
@@ -412,17 +503,9 @@
   </footer>
   </div>
 
-    <script type="text/javascript">
-        var require = {
-            urlArgs : "build=v3.9.95"
-        };
-    </script>
-    <script src="https://assets.spicinemas.in/resources/js/lib/require.js"></script>
-    <script>
-        require(['https://assets.spicinemas.in/resources/js/mainConfig.js'], function(){
-            require(['https://assets.spicinemas.in/resources/js/static.page.js']);
-        });
-    </script>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+        <script src="https://assets.spicinemas.in/resources/js/commons.js?build=0c0642f30d7d23293c76"></script>
+        <script src="https://assets.spicinemas.in/resources/js/static.page.js?build=0c0642f30d7d23293c76"></script>
 
 
 
