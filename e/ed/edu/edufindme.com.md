@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edufindme.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231000251id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edufindme.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306084718id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.*
 
 # EDUFINDME - Privacy Policy
 
