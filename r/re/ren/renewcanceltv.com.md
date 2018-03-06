@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renewcanceltv.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127012055id_/http%3A//renewcanceltv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renewcanceltv.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306044432id_/https%3A//renewcanceltv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Renew Cancel TV
 
@@ -34,7 +34,7 @@ RenewCancelTV.com will not rent or sell personally identifying information to a
 
 RenewCancelTV.com may run contests, competitions or giveaways for its readers, newsletter and other subscribers. In the case of a dispute, RenewCancelTV.com has the final say on  contests, competitions or giveaways.
 
- **[Amazon](http://renewcanceltv.com/network/amazon/ "Amazon") Affiliation**
+ **[Amazon](https://renewcanceltv.com/network/amazon/ "Amazon") Affiliation**
 
 RenewCancelTV.com participates in the Amazon affiliate advertising program designed to provide a means for sites to earn small advertising fees by linking to Amazon.com, where appropriate.
 
