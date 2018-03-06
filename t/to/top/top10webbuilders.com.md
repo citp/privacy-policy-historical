@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10webbuilders.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203033849id_/http%3A//www.top10webbuilders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10webbuilders.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306050403id_/http%3A//www.top10webbuilders.com/privacy) for the most accurate reproduction.*
 
 # Website Builder Reviews - privacy policy
 
