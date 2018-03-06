@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hexat.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205234826id_/http%3A//xtgem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexat.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306043838id_/http%3A//xtgem.com/privacy%3Fsessid%3D5h5aojjlvk03bnhoji2895il57) for the most accurate reproduction.*
 
-# Privacy Policy - XtGem.com — Visual mobile site building tool
+# Privacy Policy - XtGem.com — Trình tạo wap / công cụ xây dựng website di động trực quan
 
 XTGEM Service Provider aims to ensure the protection of XTGEM website visitors’ and service users’ privacy. This privacy policy is applied only to XTGEM website.
 
@@ -21,4 +21,4 @@ XTGEM service user understands and agrees that the risks related to the submissi
 
 Also the log in name of an XTGEM service user may be shown to other XTGEM service users when the user sends or uploads information on XTGEM website and so other service users who receive this information may contact the user by writing messages or using XTGEM services.
 
-© 2017 xtgem.com 
+© 2018 xtgem.com 
