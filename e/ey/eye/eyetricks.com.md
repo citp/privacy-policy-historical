@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904155942id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306184952id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
