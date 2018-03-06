@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010084121id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.gov.uk privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306220814id_/https%3A//www.westminster.gov.uk/website-privacy-policy) for the most accurate reproduction.*
 
 # Website privacy policy | Westminster City Council
 
