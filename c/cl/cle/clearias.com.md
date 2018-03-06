@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073606id_/http%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306172943id_/https%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClearIAS.com
 
@@ -11,6 +11,8 @@ We do not collect or retain any personal information unless you choose to provid
 We use this information to track the number of visitors to the different pages of our Site as well as make our Site more convenient to users. If you subscribe this website, contact us, submit ideas to us, we collect the information that you provide, which may include name, email address, postal address or telephone number.
 
 We are committed to take steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure. If you have any questions now or during your visit, please contact us.
+
+[](https://www.cleariasexam.com/upsc-prelims-online-mock-tests-complete-package/)
 
 ### **Collection and Use of Personal Information**
 
@@ -29,3 +31,7 @@ While exploring this web site, please be aware that third-party Internet sites a
 ### Changes to This Policy
 
 We may amend this Privacy Policy at any time, and when such a change is made we will post a revised version on this web site. Changes will be effective when they are posted. It is your responsibility to review this Privacy Policy from time to time to be aware of any such changes. Your continued use of the web site indicates your agreement to any such changes.
+
+[](https://www.cleariasexam.com/)
+
+Posted on February 25th, 2013 and last updated on November 19th, 2016. 
