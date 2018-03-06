@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killercovers.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106164624id_/http%3A//killercovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killercovers.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306041408id_/https%3A//killercovers.com/privacy) for the most accurate reproduction.*
 
-# KillerCovers Privacy Policy
+# Privacy
 
 #### What information do we collect?
 
@@ -69,7 +69,7 @@ This online privacy policy applies only to information collected through our web
 
 #### Terms and Conditions
 
-Please also visit our [Terms and Conditions](http://killercovers.com/disclaimer "Terms and Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website [here.](http://killercovers.com/disclaimer "Disclaimer")
+Please also visit our [Terms and Conditions](https://killercovers.com/disclaimer "Terms and Conditions") section establishing the use, disclaimers, and limitations of liability governing the use of our website [here.](https://killercovers.com/disclaimer "Disclaimer")
 
 #### Your Consent
 
@@ -99,10 +99,3 @@ California Online Privacy Protection Act
 Childrens Online Privacy Protection Act  
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
-
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/).
-
-Respectfully,
-
-Vaughan Davidson  
-KillerCovers.com
