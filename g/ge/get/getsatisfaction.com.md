@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803034245id_/https%3A//getsatisfaction.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsatisfaction.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306021714id_/https%3A//getsatisfaction.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -169,4 +169,4 @@ New York, NY 10001
 
 **Effective March 7, 2017**
 
-**[Older privacy policy[08/15/2014](https://web.archive.org/web/20170803034245id_/https://getsatisfaction.com/corp/privacy-policy/privacy-pre-08-15-2014.php)]**
+**[Older privacy policy[08/15/2014](https://web.archive.org/web/20180306021714id_/https://getsatisfaction.com/corp/privacy-policy/privacy-pre-08-15-2014.php)]**
