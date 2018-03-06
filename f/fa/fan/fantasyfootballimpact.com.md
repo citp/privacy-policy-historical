@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballimpact.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122111609id_/http%3A//fantasyfootballimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballimpact.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306013741id_/http%3A//fantasyfootballimpact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fantasy Football Impact
 
