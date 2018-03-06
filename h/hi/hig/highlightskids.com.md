@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706150414id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306111623id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Highlights for Children
 
@@ -8,11 +8,11 @@ Effective March 3, 2016
 
 Thank you for your interest in our privacy policies. We value your privacy and your children's safety. At Highlights for Children, we care about:
 
-  *  **Protecting the privacy of children**  
+  * **Protecting the privacy of children**  
  
-  *  **Being open and honest with our customers, and**  
+  * **Being open and honest with our customers, and**  
  
-  *  **Treating personal information with care and respect**
+  * **Treating personal information with care and respect**
 
 
 
@@ -60,7 +60,9 @@ We welcome the chance to share Highlights' wholesome Fun with a Purpose™ conte
 
 
 
- **If you have additional questions about our approach to privacy, please feel free to contact:**
+**If you have additional questions about our approach to privacy, please feel free to contact:**
+
+**Garry Brown**
 
 VP, INFORMATION SECURITY & PRIVACY
 
@@ -71,3 +73,5 @@ Highlights for Children, Inc.
 Columbus, Ohio 43215
 
 For general questions, please contact us by email or by phone:
+
+[Email](mailto:customerservice@highlights.com) [1-888-372-6433](tel:1-888-372-6433)
