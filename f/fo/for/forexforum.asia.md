@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexforum.asia privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113201806id_/http%3A//forexforum.asia/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexforum.asia privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306174802id_/http%3A//forexforum.asia/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Forex Forum Asia
 
@@ -27,7 +27,7 @@ FOREX FORUM ASIA may make chat rooms, forums, message boards, social network, an
 
 #### CHOICE / OPT-OUT
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. At any point of time, you can modify or unsubscribe from FOREX FORUM ASIA by login to your user account [here](http://forexforum.asia/).
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. At any point of time, you can modify or unsubscribe from FOREX FORUM ASIA by login to your user account [here](http://www.forexforum.asia/).
 
 #### CHANGES TO OUR PRIVACY POLICY
 
