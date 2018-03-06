@@ -1,117 +1,128 @@
-> *The following text is extracted and transformed from the ktm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220939id_/http%3A//www.ktm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktm.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306160616id_/https%3A//www.ktm.com/privacy) for the most accurate reproduction.*
 
-# KTM Privacy
+# Privacy Policy
 
-We at KTM respect and safeguard the personal integrity of everyone and we are committed to ensuring and protecting your privacy at any time you are on our website or communicate electronically with our personnel. This Privacy Policy governs the manner in which KTM collects, uses, maintains and discloses information collected from users of the [www.ktm.com](http://www.ktm.com/) website and/or customers of authorised KTM-dealers. This privacy policy applies to the Site and all products and services offered by KTM.
+**Privacy policy of KTM Sportmotorcycle GmbH (hereinafter referred to as “KTM”):**
 
-We may collect personal identification information from Users and customers in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site and by other means of communication. Users may be asked for, as appropriate, **name, email address, mailing address, birth date**. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities. 
+ We at KTM respect and protect the privacy of all our customers and visitors to our website (hereinafter “visitors”) and adhere strictly to the regulations under data protection law. Personal data will be collected on this website only to the extent required for technical purposes. Under no circumstances will the collected data be sold, or transferred to third parties for any other reason. The explanation below provides you with an overview of how we guarantee this protection and of the type of data collected by KTM from users of the website [**www.ktm.com**](https://web.archive.org/) and/or from customers of authorized KTM dealers, and for what purpose this is done. This privacy policy applies to all KTM websites and all products and services that KTM offers. KTM in this context always includes all KTM affiliated companies which may collect and/or process data.
 
-KTM recognizes and appreciates the importance of responsible use of information collected on these Sites. Without your consent KTM will not communicate any information to you regarding products, services and special offers available from KTM, although we may find it necessary to communicate with you regarding your use of the services on these Sites. Except in the particular circumstances described in this Privacy Policy, KTM will also not provide your name to other companies or organizations without your consent.
+**1\. Collection and processing of personal data**
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+In general, it is not necessary to provide personal data in order to use our website. However, in order that we can actually provide our services, we may require your personal data. All your personal information including your e-mail address, your name, your residential address and possibly your date of birth, are collected by us only when you freely provide this to us, for example, for fulfilling a contract, processing an order, within the framework of contests, for the sending of informational material or a survey, as well as for newsletter registrations. Visitors can of course also decide not to provide any data and to use the website anonymously, but with the understanding that certain functions may in some cases only be available to a limited extent.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The data gathered is solely statistical data. The facts collected about you are statistical only. No identifying information will be shared about our visitors and how they made use of our site. No personal details will ever be shared. However, you may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent. It is imperative that Users understand by declining cookies they may be limiting their access to sections of our website. 
+KTM recognizes and respects the importance of responsible use of the information collected from visitors and customers. KTM will not use this data to contact you and inform you of product news, services and offers without your explicit permission. The data we have collected will not be provided to others without legal reason or your explicit consent (excepting employees of KTM, our affiliated companies, as well as our authorized dealers or other partners who provide services commissioned by us), nor will it be used for any purposes other than those named.
 
-If our advertisers use cookies it will result from a click on their advertisement, and we do not have control over their cookies if used. 
+**2\. Collection and storage of usage data**
 
-The following cookies are currently in use on KTM websites for the following purposes and in the following way: 
+When accessing the website, various access data (e.g. IP address, date and time of access, name of opened file, etc.) are stored. No data evaluation which is specific to the individual is conducted. Data is evaluated anonymously for statistical purposes. This data is handled strictly confidentially and not transferred outside the KTM system or made accessible to third parties unless required by the applicable law.
 
-Information stored and collected about Users allows us to improve our services or products. Added to this parameter, KTM may collect and use Users personal information for the following purposes:
+**3\. Cookies**
 
-  1. Any commitment we make on a contracted basis;
-  2. To administer a contest, promotion, survey or other Site feature;
-  3. To notify re-changes or improvements in regards to product or service changes that could affect our service to Users and customers;
-  4. To send Users and existing customers information they agreed to receive about topics we think will be of interest to them and/or topics of goods or services related to a previous sale;
-  5. To send periodic emails, such as newsletters etc.  
-If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Cookies may be used on certain KTM websites. A cookie is a small data record that can be stored on your hard disk. This data record is generated by the web server with which you have established a connection through your web browser, and is then sent to you. The cookie enables you to be recognized when visiting the website without having to enter data again that you had previously entered. The default setting of most browsers is to automatically accept cookies. You can, however, reset your browser to decline such cookies or to have them fully displayed including the necessary requirements for consent. You can also delete cookies from your system at any time.
 
+The collection and storage occurs exclusively in an anonymous or pseudonymous form and does not allow any information to be inferred about you as an individual person.
 
+The cookies below are currently used on KTM websites for the following purposes:
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+ COOKIES TBD
 
-Our website uses social plugins (“plugins”) provided by the social network facebook.com, operated by Facebook Inc., 1601 S. California Avenue, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identifiable by a Facebook logo (white letter f on blue background or a thumb up icon) or the notice “Facebook Social Plugin”. For a full list of all social Plugins please see <http://developers.facebook.com/plugins>.
+**4\. Scope of data collection**
 
-When you visit a page of our website that contains a social plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the plugin content to your browser which embeds the latter into the website, enabling Facebook to receive information about your having accessed the respective page of our website. Thus we have no influence on the data gathered by the plugin and inform you according to our [state of knowledge](http://www.facebook.com/help/?faq=17512):
+Information that you transmit to us is stored, processed, and used by us for the purposes of handling contractual and order details, processing your requests, as part of contests as well as for registration to receive the newsletter. In addition, your data is further processed and used for providing customer support, for the sending of product information, as well as for market and opinion research.
 
-The embedded plugins provide Facebook with the information that you have accessed the corresponding page of our website. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the plugins, for example by clicking “Like”, or entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. Even if you are not logged into Facebook, there is possibility that the plugins transmits your IP-address to Facebook.
+Should we perform one of the following actions described, or other actions or render services, then we would like to collect and store your personal data and will request your express approval in each instance:
 
-For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook’s privacy policy:<http://www.facebook.com/policy.php>.
+a.      Each declaration of intention on a contractual or quasi-contractual basis
 
-If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. Further you can block Facebook social Plugins by using add-ons for your browser, like the “[Facebook Blocker](http://webgraph.com/resources/facebookblocker/)“.
+b.      Implementation of a contest, a promotion, a survey or other features of the website
 
-  5. **Storing and protecting Personal Data**
+c.      Notification of changes or improvements of products or services which could affect visitors and customers
 
+d.      Sending information to visitors and existing customers on subjects that could be relevant to them and/or about goods and services related to previously purchased products
 
+e.      Sending periodic e-mails, such as the newsletter
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of personal information, username, password, transaction information and data stored on our Site. These processors may work for our suppliers. The transfer of this data may include processing and completing of orders on our site, such as offering support services. We take all reasonable processes to ensure personal data is secure and in agreement with our Privacy Policy as outlined here.
+Insofar as customers/visitors opt to be included in our mailing list, they will receive periodic e-mails informing them of company news, product updates, related products, service information, etc. By notifying us in writing at the contact address listed at the bottom of each e-mail, customers/visitors can also decide to opt out of this mailing list at any time and no longer receive further e-mails from KTM.
 
-Information is stored in a secure environment protected by a combination of physical and technical measures. There is no general public access to this information. All supplied information can only be accessed by those authorized with special access rights to our systems, and are required to keep the information confidential.   
-In addition legislation might oblige us to store information for a certain period of time.
+If you have registered for our newsletter with your e-mail address, we also use your e-mail address for our own advertising purposes over and above performance of the contract until you unsubscribe from the newsletter.
 
-Sensitive and private data exchange between the Websites and the Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+This website uses Google Analytics, a web analysis service of Google Inc. Google Analytics uses cookies, which are text files stored on your computer that enable an analysis of your usage of the website. The information generated by means of cookies on your usage of the website (including your IP address) is transmitted to a Google server in the USA and stored there. Google uses this information to analyze your usage of the website, to create reports on website activities for the website operator and to provide additional services related to website usage and Internet usage. Google may also provide this information to third parties, insofar as this is required by law or to the extent that third parties process this data on behalf of Google. Google will not under any circumstances link your IP address with other Google data. You can prevent the installation of cookies by selecting the corresponding setting in your browser software; however, we must point out that in this case you may not be able to use all the functions of this website to their full extent. By using this website, you consent to the processing of data gathered from you by Google in the manner and for the purposes named above.
 
-KTM operates in many countries in the world. To enable us to offer consistent services to you, our customers, wherever you may be, we manage our Homepages from sites all around the world. When you submit personal information to KTM through these Sites, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in any of the countries in which KTM and its affiliates and subsidiaries maintain offices.
+Our website uses social plugins from the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. You can recognize the plugins by one of the Facebook logos (white “f” on a blue tile or a “thumbs up” symbol) or the additional text “Facebook social plugin”. The list and the appearance of the Facebook social plugins can be viewed here: {7}http://developers.facebook.com/plugins{8}{9}.{10}
 
-Transmission of data on the internet can never be ultimately secure. We do not and cannot guarantee security of information collected electronically or transmitted; however, we take all necessary steps to provide the best security available. As a result of our inability to guarantee safety, Users are submitting information to us at their own risk.
+When you call up one of our Internet website pages containing such a plugin, your browser builds a direct link with the servers of Facebook. The content of the plugin is transmitted directly by Facebook to your browser and integrated in the website. We therefore have no influence on the scope of the data which Facebook obtains with the aid of this plugin and would therefore like to clarify how we [ **believe the system**](http://www.facebook.com/help/?faq=17512) **works:**
 
-  6. **Sharing personal information**
+By the inclusion of the plugins, Facebook receives the information that you invoked this page of our website. If you are logged into Facebook, Facebook can associate this visit with your Facebook account. If you interact with the Facebook plugin, e.g. by clicking the “Like” button or leaving a comment, that information will be transmitted to Facebook and stored there. If you are not a Facebook member, the possibility still exists for Facebook to find out and store your IP address.
 
+The purpose and scope of the data collection and the further processing and use of the data by Facebook as well as your rights and setting options related to this to protect your private sphere can be found in the privacy policy of Facebook: [ **http://www.facebook.com/policy.php**](http://www.facebook.com/policy.php){19}.{20}
 
+If you are a Facebook member and do not want Facebook to gather data about you through our website and link it with your membership data stored at Facebook, you must log out of Facebook before visiting our website.
 
-Gathered information will not be released to anyone outside KTM, our subsidiaries, our authorized dealers or other partners who provide you with a service on our behalf. The information will be treated in accordance with the relevant legislation with regard to personal data protection.
+It is also possible to block Facebook social plugins with add-ons for your browser, for example with “[ **Facebook Blocker**](http://webgraph.com/resources/facebookblocker/)”.
 
-We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share information with these third parties for those limited purposes provided that Users have given us prior permission. We may also release your information when we believe release is appropriate to comply with the law. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**5\. Storage and protection of personal data**
 
-The KTM subsidiary cooperates with trusted third parties in their respective country.
+We have taken a number of measures to guarantee the security of your personal data when you enter or place an order, or access your personal information. We adopt appropriate data collection, storage and processing practices and security measures for protection against unauthorized access, changes, transfer or destruction of personal data, user names, passwords, transactions, information and other data stored on our website. These processes can be maintained by our suppliers. The transfer of this data can involve the processing and completion of orders on our website, as well as provision of support services. We take all appropriate measures to ensure that personal data is handled securely and according to our data protection guidelines.
 
-  7. **Access to Information**
+The information is protected by a combination of physical and technical measures in a secure environment. There is no public access to this information. All information provided can only be accessed by specially authorized persons with access rights to our system who are obliged to handle the information strictly confidentially.  
+Beyond this, national legislation could compel us to store information for a certain period of time.
 
+Personal information collected on KTM websites is stored in a secure operating environment that is not publicly accessible. Sometimes the personal data is additionally encrypted with suitable security systems prior to the transaction.
 
+Sensitive and private data exchange between KTM websites and visitors occurs through SSL secured communication channels, is encrypted and provided with digital signatures.
 
-You have an independent right to find out what information is held on you and to correct/amend this if necessary; you also have the right to request that we do not use the information anymore. We shall do everything practically possible to respect your wishes. Note that special legislation in certain areas, such as security and finance, may prevent us from supplying certain information.
+KTM conducts business in many countries of the world. To be able to offer our customers uniform services, regardless of their location, we maintain our home pages and websites around the world. When you transfer personal information to KTM, you agree that this information may be transmitted across national borders and be stored and processed in each of the countries in which KTM and its affiliated companies have offices.
 
-  8. **Updating Your Personal Information and Privacy Preferences**
+The Internet is by no means secure. You should therefore be careful of the information you disclose when you are online. We cannot guarantee the security of information that we have gathered electronically or by other means, though we do however take all necessary steps to provide the best possible security. Visitors thus transfer information to us at their own risk.
 
+**6\. Disclosure of personal data**
 
+All of the personal data collected by KTM is obtained in accordance with the applicable data protection regulations in each case and used for the purpose of fulfilling contracts/orders and processing your requests. Disclosure of your data to third parties without your express permission does not occur, provided it is not required in order to provide services or to fulfill contractual obligations.
 
-You have the right to access and correct your personal information and privacy preferences at any time. You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from KTM or third parties) by writing to KTM’s contact address (see Section 13 below). Please include your name, address, and/or e-mail address when you contact us.
+We also take in-house data protection very seriously. Our employees and subcontracted service companies are obliged by us to maintain confidentiality and to adhere to data protection regulations.
 
-  9. **Third party websites**
+In cases where we bring in an external service provider, we have also ensured that this provider was chosen and checked in accordance with the relevant legal regulations and is likewise committed to observing data protection regulations and laws. Apart from this, no disclosure of your data is made.
 
+Your data is not sold, leased or otherwise transmitted to external third parties. This does not include: Trustworthy partners, who support us in operating the website or who provide assistance within the scope of doing business or other services, while of course it is also ensured that they are also obliged to maintain confidentiality.
 
+A disclosure to the affiliated companies of KTM or other third parties only occurs to the extent these recipients of the information have committed themselves to KTM in regard to the applicable data protection regulations. Within the scope of processing your order or request we sometimes commission external service providers, who are however in any event contractually obligated to comply with data protection regulations.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+The respective KTM distribution subsidiary works together with trustworthy partners.
 
-  10. **KTM’s commitments to children’s privacy**
+**7\. Right of access to information**
 
+You have the right at any time and without providing reasons to obtain information free of charge in regard to your stored personal data, its origin and recipients, as well as the purpose of this storage. In this regard, please use the contact address specified under item 13. In order to receive information, you must identify yourself as the person about which the information is to be provided or submit proof that you are authorized to receive information about a third party.
 
+**8\. Right to amend/revoke**
 
-Protecting the privacy of children is very important. For that reason, we never collect or maintain information from those we actually assume are under 14 years of age without first obtaining verifiable parental consent, and we will not condition participation on a child providing more personally identifiable information than is necessary to participate in the activity. Upon request, parents may review their child’s information or request it may be deleted.
+You have the right, at any time and free of charge, to make corrections to your data, should it be incorrect.
 
-  11. **Changes to this privacy policy**
+You also have the right, at any time, to revoke your consent to the storage and usage of your personal data either in whole or in part. In such cases, we will delete or block your data to prevent further processing and use. Insofar as such a deletion is against the legal provisions for data storage, or if the deletion is linked to disproportionately high costs, we will block such data from further use and no longer refer to it.
 
+**9\. Links to external websites**
 
+There may be hyperlinks on our web page leading to external websites that do not belong to the KTM organization. Should you visit such websites, KTM can assume no responsibility for the trustworthy handling of your data. The transmission of your data from the Internet occurs in part unencrypted. Consequently, unauthorized access by third parties cannot be entirely excluded.
 
-KTM has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.
+**10.**   **KTM's commitment to protecting the privacy of children**
 
-  12. **Acceptance of these terms**
+The protection of children's data is important to us. For this reason, we do not collect or maintain any data of children who are, to our knowledge, under 14 years of age without first obtaining the verifiable consent of the parents or guardian with parental authority. In addition, we require only so much personal information from children as is absolutely necessary for their participation in activities. On request, those with parental authority can view the data stored for their child or have it deleted.
 
+**11.** **Modifications to this privacy policy**
 
+Due to the fast development of the Internet, it may be necessary to make occasional changes to our privacy policy. Please therefore always note the current version in each case.
 
-By using this Site, Users signify their acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**12**. **Acceptance of this privacy policy**
 
-  13. **Contacting us**
+By using of this privacy policy, visitors declare that they have read and understood it, and that they accept its exclusive validity.
 
+**13.** **Contact**
 
+If you have any questions that are not answered by this privacy policy, or if you require more detailed information on a particular point, please feel free to write to KTM at any time at the following address:
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-KTM-Sportmotorcycle AG
-
-Stallhofner Straße 3
-
-5230 Mattighofen
-
+KTM Sportmotorcycle GmbH  
+Betriebsgebiet Süd  
+Stallhofner Straße 3  
+5230 Mattighofen  
 Austria
 
-This document was last updated on 31.12.2012
+This declaration was last updated in May 2015
