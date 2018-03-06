@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaytipsandthoughts.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230190740id_/http%3A//everydaytipsandthoughts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaytipsandthoughts.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306052938id_/http%3A//everydaytipsandthoughts.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Everyday Tips and Thoughts...
 
