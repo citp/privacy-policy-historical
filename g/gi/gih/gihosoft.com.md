@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gihosoft.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305094547id_/https%3A//www.gihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gihosoft.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306190254id_/https%3A//www.gihosoft.com/help/privacy-policy.html) for the most accurate reproduction.*
 
-# Gihosoft Privacy Policy - Gihosoft Studio | Gihosoft
+# Gihosoft Privacy Policy - Gihosoft Studio
 
 Gihosoft.com respects your privacy and we are dedicated to protecting personal information. All information as well as requests we collected are only for defined purchases, and we not sell, share or rent the information to other person or organization in ways different from what is disclosed in the following privacy statement.
 
