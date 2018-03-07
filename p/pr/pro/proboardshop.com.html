@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the proboardshop.com privacy policy that was archived on 2017-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171105070656id_/http%3A//www.proboardshop.com/helpdesk-privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proboardshop.com privacy policy that was archived on 2018-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180307200935id_/http%3A//www.proboardshop.com/helpdesk-privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js no-mobile desktop no-ie chrome chrome69 web-section 20171105070656id_-section http%3a-section -section www.proboardshop.com-section w-1366 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 lt-1440 lt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded" id="helpdesk-privacy-page"><head>
+<!DOCTYPE html><html class=" js no-mobile desktop no-ie chrome chrome69 web-section 20180307200935id_-section http%3a-section -section www.proboardshop.com-section w-1366 gt-240 gt-320 gt-480 gt-640 gt-768 gt-800 gt-1024 gt-1280 lt-1440 lt-1680 lt-1920 no-portrait landscape gradient rgba opacity textshadow multiplebgs boxshadow borderimage borderradius cssreflections csstransforms csstransitions no-touch no-retina fontface domloaded" id="helpdesk-privacy-page"><head>
 		<title>Proboardshop - Helpdesk Privacy</title>
 	 
 		
@@ -28,119 +28,27 @@
 				<link rel="canonical" href="http://www.proboardshop.com/helpdesk-privacy.html">
 					
 		<script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=0eHMAWfayc7U&amp;v=1"></script><script type="text/javascript" async="" id="_casrc" src="//t.channeladvisor.com/v2/60000418.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#1505"></script><script type="text/javascript" async="" src="https://cdn.avmws.com/1010034/"></script><script type="text/javascript" src="/static/js/head.min.js"></script>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="/static/js/br_rotate_by_source.js"></script><script type="text/javascript">
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="/static/js/br_rotate_by_source.js"></script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">
 			//label and prep the header javascript
 			head.js(
 				{jquery: "https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"},
 				//affiliate tracking scripts
-				{shopzilla: "/static/js/br_rotate_by_source.js"}
+				{shopzilla: "/static/js/br_rotate_by_source.js"},
+				{sharethis: "http://w.sharethis.com/button/buttons.js"}
 			);
 			
 			//global init for jquery
 			head.ready("jquery", function() {
 				head.js(
-					//jquery-dependent libraries
-					{bootstrap: "/static/js/bootstrap.min.js"},
-					{pbsjs: "/static/js/proboardshop.js?v=20161130"},
 					//jquery plugins
-					{jquery_shadowbox: "/static/js/shadowbox.js"}
+					{jquery_shadowbox: "/static/js/shadowbox.js"},
+					//jquery-dependent libraries
+					{pbsjs: "/static/js/proboardshop.js?v=20161130"},
+					{bootstrap: "/static/js/bootstrap.min.js/v=20180108"}
 				);
 				
 			});
-			//global init for jquery_shadowbox
-			head.ready("jquery_shadowbox", function() {
-				Shadowbox.init({
-					troubleElements: ["select", "object", "embed", "canvas", "iframe"]
-				});
-
-				//Check for and Shadowbox any old colorbox links
-				if($("a.cpModal").length) {
-					Shadowbox.setup($("a.cpModal"));
-				}
-
-				$('#largeimglink').click( function() {
-					var currentImage = $('.cloudzoom-gallery-active').attr('href');
-					var cacheItem = null;
-					var cache = Shadowbox.cache;
-					var mainImage = $('#prdimg').attr('src').replace("-prod.jpg","-zoom.jpg");
-				
-					if(!$('.cloudzoom-gallery-active').attr('href')) {
-				 		currentImage = $('#product-images a.cloudzoom-gallery:first').attr('href');
-				 	}
-
-					for (var p in cache) {
-				 		if (cache.hasOwnProperty(p)) {
-							cacheItem = cache[p];
-						   	if( cacheItem.content == currentImage) {
-								Shadowbox.open(cacheItem);
-						   	} else {
-						   		if (currentImage === undefined || currentImage === null) {
-
-									Shadowbox.open({ 
-			                                			content:    mainImage, 
-			                                			type:       "image", 
-			                                			player: "img",
-			                                			height:600, 
-			                                			width:600 
-									});
-								}
-						   	}
-						 }
-				 	}
-
-					return false;
-				});
-			});
-			
-			//global init for DOM ready
-			head.ready(document, function() {
-				head.ready("bootstrap", function() {
-					$(function() {
-						//This set of code checks for a search page with refinables and collapses the refines on smaller devices
-						if ($("#search-refine").length > 0) {
-							var resizeTimer; //Set resizeTimer to empty so it resets on page load
-							var windowWidth;  //Set windowWidth so we can track changes to the width
-
-							function searchCollapse() {
-								if (windowWidth != $(window).width()) {
-									if ($(window).width() < 768) {
-										//Collapse the search refines and search refine list on xsmall devices
-										$("#search-refine").collapse("hide");
-										$("#search-refine .panel-collapse").collapse("hide");
-									}else if ($(window).width() < 977) {
-										//Just collapse search refines on small devices
-										if (!$("#search-refine").hasClass("in")) {
-											$("#search-refine").collapse("show");
-										}
-										$("#search-refine .panel-collapse").collapse("hide");
-									}else{
-										//Dont collapse anything on medium and large devices
-										if (!$("#search-refine").hasClass("in")) {
-											$("#search-refine").collapse("show");
-										}
-										if (!$("#search-refine .panel-collapse").hasClass("in")) {
-											$("#search-refine .panel-collapse").collapse("show");
-										}
-									}
-									
-									windowWidth = $(window).width();
-								}
-							}
-
-							// On resize, run the function and reset the timeout
-						    // add a 250 ms delay between calls to improve performance
-						    $(window).resize(function() {
-						        clearTimeout(resizeTimer);
-						        resizeTimer = setTimeout(searchCollapse, 250);
-						    });
-
-						    searchCollapse();
-						}
-					});
-				});
-			});
-		</script>
-	<!-- Criteo Start -->
+		</script>	<!-- Criteo Start -->
 	<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
 	<script type="text/javascript">
 		var siteType = "d";
@@ -188,8 +96,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(av
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-<!-- END: Google Analytics --><script type="text/javascript" src="/static/js/bootstrap.min.js"></script><script type="text/javascript" src="/static/js/proboardshop.js?v=20161130"></script><script type="text/javascript" src="/static/js/shadowbox.js"></script>
-	
+<!-- END: Google Analytics --><script type="text/javascript" src="/static/js/shadowbox.js"></script><script type="text/javascript" src="/static/js/proboardshop.js?v=20161130"></script><script type="text/javascript" src="/static/js/bootstrap.min.js/v=20180108"></script>
 	</head>
 	<body class="promo">		<div class="top-bar">
 			<nav class="navbar" role="navigation">
@@ -1173,7 +1080,7 @@ With Secure Socket Layer (SSL) implemented on both your browser and ISP server, 
 
 Your browser and secure servers deliver server authentication using signed digital certificates issued by trusted third parties known as certificate authorities. A digital certificate verifies the connection between a server's public key and the server's identification (just as a driver's license verifies the connection between your photograph and your personal identification. Cryptographic checks, using digital signatures, ensure that information within a certificate can be trusted.
 
-You can tell when you have a secure connection by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. You can also verify the security of a document by examining the security icon in the bottom-left corner of the browser window.
+You can tell when you have a secure connection by looking at the location (URL) field. If the URL begins with https:// (instead of https://), the document comes from a secure server. You can also verify the security of a document by examining the security icon in the bottom-left corner of the browser window.
 
 Only your computer and the server can encrypt and decrypt your information. In transit, the information is meaningless and unreadable. An intermediary can continue to route the data, and even make copies of it, but the information cannot be decrypted and remains private and safely communicated.
 
@@ -1249,7 +1156,8 @@ Only your computer and the server can encrypt and decrypt your information. In t
 					<li><a href="http://info.proboardshop.com/pbssitemap.html">SITEMAP</a></li>
 					<li><a href="http://www.proboardshop.com/helpdesk-catalog.html" rel="nofollow">GET OUR CATALOG</a></li>
 					<li><a href="http://www.proboardshop.com/helpdesk-privacy.html" rel="nofollow">PRIVACY POLICY</a></li>
-					<li>COPYRIGHT © 2017 PROBOARDSHOP ALL RIGHTS RESERVED.</li>
+                  	<li><a href="http://investor.campingworld.com/overview/default.aspx" target="_blank">INVESTOR RELATIONS</a></li>
+					<li>COPYRIGHT © 2018 PROBOARDSHOP ALL RIGHTS RESERVED.</li>
 				</ul>
 				
 				<img src="http://images.proboardshop.com/pbs-cc-banner.png" alt="Credit Card Logos">
@@ -1325,8 +1233,9 @@ Only your computer and the server can encrypt and decrypt your information. In t
 			</script>
 		</div>		
 		<script type="text/javascript">
-			head.ready("jquery", function(){
-				$(document).ready(function(){			
+			//global init for DOM ready
+			head.ready("jquery", function() {
+				$(function() {
 					$('body').append('<a href="#" id="toTop"><span id="toTopHover"></span></a>');
 			
 					var $topOver = $("#toTopHover");
@@ -1361,58 +1270,151 @@ Only your computer and the server can encrypt and decrypt your information. In t
 						$topOver.stop().animate({'opacity': 0}, 600);
 						return false;
 					});
+					head.ready("bootstrap", function() {
+						//This set of code checks for a search page with refinables and collapses the refines on smaller devices
+						if ($("#search-refine").length > 0) {
+							var resizeTimer; //Set resizeTimer to empty so it resets on page load
+							var windowWidth;  //Set windowWidth so we can track changes to the width
+
+							function searchCollapse() {
+								if (windowWidth != $(window).width()) {
+									if ($(window).width() < 768) {
+										//Collapse the search refines and search refine list on xsmall devices
+										$("#search-refine").collapse("hide");
+										$("#search-refine .panel-collapse").collapse("hide");
+									}else if ($(window).width() < 977) {
+										//Just collapse search refines on small devices
+										if (!$("#search-refine").hasClass("in")) {
+											$("#search-refine").collapse("show");
+										}
+										$("#search-refine .panel-collapse").collapse("hide");
+									}else{
+										//Dont collapse anything on medium and large devices
+										if (!$("#search-refine").hasClass("in")) {
+											$("#search-refine").collapse("show");
+										}
+										if (!$("#search-refine .panel-collapse").hasClass("in")) {
+											$("#search-refine .panel-collapse").collapse("show");
+										}
+									}
+									
+									windowWidth = $(window).width();
+								}
+							}
+
+							// On resize, run the function and reset the timeout
+							// add a 250 ms delay between calls to improve performance
+							$(window).resize(function() {
+								clearTimeout(resizeTimer);
+								resizeTimer = setTimeout(searchCollapse, 250);
+							});
+
+							searchCollapse();
+						}
+						
+						//Tooltips for package products
+						if ($(".package-tooltip").length > 0) {
+							$(".package-tooltip").tooltip();
+						}
+					});
+					//global init for jquery_shadowbox
+					head.ready("jquery_shadowbox", function() {
+						$(function() {
+							Shadowbox.init({
+								troubleElements: ["select", "object", "embed", "canvas", "iframe"]
+							});
+							//Check for and Shadowbox any old colorbox links
+							if($("a.cpModal").length) {
+								Shadowbox.setup($("a.cpModal"));
+							}
+							$('#largeimglink').click( function() {
+								var currentImage = $('.cloudzoom-gallery-active').attr('href');
+								var cacheItem = null;
+								var cache = Shadowbox.cache;
+								var mainImage = $('#prdimg').attr('src').replace("-prod.jpg","-zoom.jpg");
+								if(!$('.cloudzoom-gallery-active').attr('href')) {
+									currentImage = $('#product-images a.cloudzoom-gallery:first').attr('href');
+								}
+								for (var p in cache) {
+									if (cache.hasOwnProperty(p)) {
+										cacheItem = cache[p];
+										if( cacheItem.content == currentImage) {
+											Shadowbox.open(cacheItem);
+										} else {
+											if (currentImage === undefined || currentImage === null) {
+			
+												Shadowbox.open({ 
+													content:    mainImage, 
+													type:       "image", 
+													player: "img",
+													height:600, 
+													width:600 
+												});
+											}
+										}
+									 }
+								}
+								return false;
+							});
+						});
+					});
+					
 				});
 			});
 		</script><script type="text/javascript">
-	head.ready(function() {
-		var total = 0;
-		var items = '';
-		var cart = '';
-		if (document.cookie.search('cart_contents=') > -1) {
-			cart = JSON.parse("["+document.cookie.split('cart_contents=').pop().split(";").shift()+"]");
-			cart.forEach(function(prod) {
-				for(var key in prod) {
-					if (prod.hasOwnProperty(key)) {
-					items += "{name:'" + key.replace("\'", "") + "', value:'" + prod[key].prod.replace("\'", "") + "'},";
-					total += prod[key].sub;
-					}
+	head.ready(document, function() {
+		head.ready("jquery", function(){
+			$(function() {
+				var total = 0;
+				var items = '';
+				var cart = '';
+				if (document.cookie.search('cart_contents=') > -1) {
+					cart = JSON.parse("["+document.cookie.split('cart_contents=').pop().split(";").shift()+"]");
+					cart.forEach(function(prod) {
+						for(var key in prod) {
+							if (prod.hasOwnProperty(key)) {
+							items += "{name:'" + key.replace("\'", "") + "', value:'" + prod[key].prod.replace("\'", "") + "'},";
+							total += prod[key].sub;
+							}
+						}
+					});
 				}
+				$(document).ready(function() {
+					window.__lc = window.__lc || {};
+					window.__lc.license = 5248121;
+					window.__lc.ga_version = "ga";
+					window.__lc.params = [
+						{name: 'Vendor', value: ''},
+						{name: 'ShopCategory', value: ''},
+						{name: 'Shop', value: ''},
+						{name: 'Type_id', value: '44'},
+						{name: 'URL', value: 'http://www.proboardshop.com/helpdesk-privacy.html'},
+						{name: 'CartStep', value: ''},
+						{name: 'CartTotal', value: total.toFixed(2)},
+						{name: 'CartItems', value: items},
+					];
+		
+					(function() {
+						var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+						lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+					})();
+					window.LC_API = window.LC_API || {};
+					window.LC_API.on_after_load = function() {
+						if(document.getElementById('livechat-compact-container') != undefined ) {
+							document.getElementById('livechat-compact-container').setAttribute('class', 'hidden-xs');
+							document.getElementById('livechat-compact-container').style.height = '60px';
+							document.getElementById('livechat-compact-container').style.width = '225px';
+						};
+						if(document.getElementById('livechat-full') != undefined ) {
+							document.getElementById('livechat-full').setAttribute('class', 'hidden-xs');
+						};
+		
+						$('#livechat-compact-view').contents().find('#content').css("background-color", "#016D9E");
+						$('#livechat-compact-view').contents().find('#full-view-button').html("<span style='padding:6px;'><img src='http://images.proboardshop.com/pbs-livechat-icon.jpg' alt='Proboardshop ' /></span><span style='padding:6px;'> Live Chat</span>");
+					};
+				});
 			});
-		}
-		$(document).ready(function() {
-			window.__lc = window.__lc || {};
-			window.__lc.license = 5248121;
-			window.__lc.ga_version = "ga";
-			window.__lc.params = [
-				{name: 'Vendor', value: ''},
-				{name: 'ShopCategory', value: ''},
-				{name: 'Shop', value: ''},
-				{name: 'Type_id', value: '44'},
-				{name: 'URL', value: 'http://www.proboardshop.com/helpdesk-privacy.html'},
-				{name: 'CartStep', value: ''},
-				{name: 'CartTotal', value: total.toFixed(2)},
-				{name: 'CartItems', value: items},
-			];
-
-			(function() {
-				var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-				lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-			})();
-			window.LC_API = window.LC_API || {};
-			window.LC_API.on_after_load = function() {
-				if(document.getElementById('livechat-compact-container') != undefined ) {
-					document.getElementById('livechat-compact-container').setAttribute('class', 'hidden-xs');
-					document.getElementById('livechat-compact-container').style.height = '60px';
-					document.getElementById('livechat-compact-container').style.width = '225px';
-				};
-				if(document.getElementById('livechat-full') != undefined ) {
-					document.getElementById('livechat-full').setAttribute('class', 'hidden-xs');
-				};
-
-				$('#livechat-compact-view').contents().find('#content').css("background-color", "#016D9E");
-				$('#livechat-compact-view').contents().find('#full-view-button').html("<span style='padding:6px;'><img src='http://images.proboardshop.com/pbs-livechat-icon.jpg' alt='Proboardshop ' /></span><span style='padding:6px;'> Live Chat</span>");
-			};
 		});
 	});
 </script>		<!-- end bottom_proboardshop.tmpl -->
