@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoexpress.co.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109050658id_/http%3A//www.dennis.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoexpress.co.uk privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307125157id_/http%3A//www.dennis.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dennis Publishing
 
@@ -43,7 +43,7 @@ In order to opt out of this you need to go to the providers directly. You can do
 
 [https://aim.yahoo.com/aim/us/en/optout/](https://aim.yahoo.com/aim/us/en/optout/)
 
-Email Mixpanel  [support@mixpanel.com](mailto:support@mixpanel.com)
+<https://mixpanel.com/optout/>
 
 [https://privacy.google.com/](https://privacy.google.com/#)
 
