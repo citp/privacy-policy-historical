@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seogdk.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230005243id_/http%3A//www.seogdk.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seogdk.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307121002id_/http%3A//www.seogdk.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Expert : Seogdk
 
@@ -10,7 +10,7 @@ We may collect personal identification information from Users in a variety of wa
 
 ###  **Non-personal Identification Information**
 
-We may collect non-personal identification information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet service providers utilized and other similar information.
+We may collect non-personal identification information about Users whenever they interact with our Website. The non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet service providers utilized and other similar information.
 
 Our Website may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies or to alert you when cookies are being sent. If they do so, note that some parts of the Website may not function properly.
 
@@ -55,12 +55,13 @@ Seogdk has the discretion to update this privacy policy at any time. When we do,
 
 ###  **Your Acceptance of These Terms**
 
-By using this Website, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Website. Your continued use of the Website following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Website, you signify your acceptance of this policy. If you do not agree with this policy, please do not use our Website. Your continued use of the Website following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 If you have any questions about this Privacy Policy, the practices of this website, or your dealings with this website, please contact us at:  
   
-**Gangadhar Kulkarni  
-[http://www.seogdk.com](http://www.seogdk.com/)  
+**Gangadhar Kulkarni**  
+**Admin  
+[ _Seogdk_](http://www.seogdk.com/)  
 Pune, Maharashtra**
 
 **India  
@@ -68,8 +69,8 @@ Pune, Maharashtra**
 
 **seogdkulkarni@gmail.com/admin@seogdk.com**
 
-This document was last updated on June 24, 2017
+This document was last updated on Jan 09, 2018
 
-**\------------------------------------------------------------------------------------------------------------------------**  
+**\-----------------------------------------------------------------------------------------------------------------------------------**  
 [](https://www.semrush.com/sem/?ref=14155770 "SEMrush") **  
-******\------------------------------------------------------------------------------------------------------------------------****
+******\-----------------------------------------------------------------------------------------------------------------------------------****
