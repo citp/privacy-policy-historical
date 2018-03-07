@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photopoly.net privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105021447id_/http%3A//www.photopoly.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photopoly.net privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307013922id_/http%3A//www.photopoly.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | photopoly
 
