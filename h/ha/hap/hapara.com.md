@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hapara.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830020856id_/https%3A//hapara.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hapara.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307123500id_/https%3A//hapara.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hapara
 
