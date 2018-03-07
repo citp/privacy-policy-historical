@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpcurator.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224023824id_/http%3A//www.fpcurator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpcurator.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307183450id_/http%3A//www.fpcurator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fanpage Curator
 
