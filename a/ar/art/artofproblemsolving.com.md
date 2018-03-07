@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214030137id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofproblemsolving.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307072500id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
 
 # Art of Problem Solving
 
@@ -12,7 +12,7 @@ We take the privacy of our participants very seriously; therefore, we only colle
 
 To post information in a forum, to use some of our online educational tools, or to attend online classes, you must become a member of the Art of Problem Solving Community. To become a member, the only personal information we require is your email address and a username that you select. The username that you select is used as an onscreen name to identify you; it is strongly recommended that it not be your real name, but a pseudonym. You will also select a password, which is needed to log on. We do ask about your general geographic location, your occupation, and interests, but none of this information is required for membership in the Community. 
 
-Your email address is used by us to send messages to you. We do so to confirm your username and password if you should forget your username or password. We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. Your email address will not be shared with or sold to any third party without your explicit consent to the effect. 
+Your email address is used by us to send messages to you. We do so to confirm your username and password if you should forget your username or password. We also use your email address to assist in administering our web site and to help enforce our conduct rules (for example, people who post offensive messages in the forum can be banned). Should you enroll in an Art of Problem Solving online class, your email address will be used for communication purposes for that class. We will not send solicitation emails collected as part of the Art of Problem Solving Community unless the user elects to join our mailing lists. We will not share your email address with third parties except when needed for the operation of our mailing list or when required by law. 
 
 Our site has forums (message boards), private messaging, and real-time discussion available to its members. Please remember that any information that is disclosed in these areas is potentially available to other members and in some cases to the general public. You should not disclose any personal information, such as your real name, address, telephone number, email address, etc. Your username is the only identity that you need to have, and that is how people should know you on our site. 
 
@@ -91,7 +91,7 @@ This data is primarily collected and shared with third parties for internal purp
 
 
 
-The third-party operators who may collect information for these purposes on our sites and applications are Alphabet Inc., Microsoft, Facebook, and Amazon.com, Inc. This information is not used to target advertising to specific users. For any questions about how we or any third-party uses your data, please do not hesitate to contact us. Our contact information is provided below in item #3. 
+The third-party operators who may collect information for these purposes on our sites and applications are Alphabet Inc., Microsoft, Facebook, and Hotjar. This information is not used to target advertising to specific users. For any questions about how we or any third-party uses your data, please do not hesitate to contact us. Our contact information is provided below in item #3. 
 
 (g) We may disclose a child’s personal information if permitted or required by law, for example, in response to a court order or a subpoena. 
 
