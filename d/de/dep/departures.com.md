@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the departures.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930090257id_/https%3A//www.departures.com/microsites/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the departures.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307190627id_/https%3A//www.departures.com/microsites/privacy) for the most accurate reproduction.*
 
 # Departures Online Privacy Statement
 
