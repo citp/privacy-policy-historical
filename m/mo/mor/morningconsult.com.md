@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningconsult.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910151321id_/https%3A//morningconsult.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningconsult.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307111040id_/https%3A//morningconsult.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Morning Consult
 
