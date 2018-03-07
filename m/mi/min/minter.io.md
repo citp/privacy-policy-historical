@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minter.io privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514040013id_/https%3A//minter.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minter.io privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307042846id_/https%3A//minter.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Instagram Analytics for Brands, Agencies, Business | Minter.io
+# Privacy Policy — Instagram Analytics & Instagram Insights — Minter.io
 
 Minter.io understands that your privacy is important. We are committed to ensuring your privacy and protecting your Personal Information that we collect or receive as you use www.minter.io ( “Site”). Personal Information includes your name, email address, and any other information capable of personally identifying you. By submitting Personal Information to Minter.io, you consent to Minter.io’s use of your Personal Information as described in this Privacy Policy. In some cases, the Personal Information we will ask you to provide will be mandatory to access some parts of the Service. If you do not provide this Personal Information, your access to that particular part of the Service may be limited or disabled.
 
