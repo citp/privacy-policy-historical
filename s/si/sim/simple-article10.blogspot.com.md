@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the simple-article10.blogspot.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109183809id_/http%3A//simple-article10.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simple-article10.blogspot.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307093841id_/http%3A//simple-article10.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Do You Know?: Privacy Policy
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1742873&afsid=1)
+# Privacy Policy ~ Do You Know?
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mangkelno@gmail.com.   
   
