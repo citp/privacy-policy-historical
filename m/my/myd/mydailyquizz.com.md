@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailyquizz.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105183842id_/http%3A//mydailyquizz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyquizz.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308224338id_/http%3A//mydailyquizz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyDailyQuizz
 
