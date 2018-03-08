@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pairedlife.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922095639id_/https%3A//pairedlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pairedlife.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308124827id_/https%3A//pairedlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PairedLife
 
@@ -80,11 +80,11 @@ We reserve the right, at our sole discretion, to change, add or remove portions 
 
 ## 10\. Contact Information
 
-Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to 2120 University Ave, Berkeley, CA 94704, USA.
+Please contact us with any questions or comments about this Privacy Policy by email at team@hubpages.com, or by sending postal mail to WeWork c/o HubPages (Floor 3 - Room #169) 1111 Broadway Oakland, CA 94607, USA.
 
 ## RECENT CHANGES TO THIS PRIVACY POLICY
 
-January 27, 2016. We revised the policy on Google Analytics by adding in their advertising services and how to opt-out via their tool.
+January 27, 2017. We revised the policy on Google Analytics by adding in their advertising services and how to opt-out via their tool.
 
 February 2, 2016: We added websites to the service for where Hubs may appear when published. Websites include tatring.com, pethelpful.com and additional websites in the future. These additional websites share registration information so that users can login to any website that is part of the HubPages service.
 
