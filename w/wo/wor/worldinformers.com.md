@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldinformers.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107144512id_/http%3A//worldinformers.com/index.php%3Fmodule%3DcSite%26action%3Dprivacy%26c_id%3D196) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldinformers.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308170706id_/http%3A//worldinformers.com/index.php%3Fmodule%3DcSite%26action%3Dprivacy%26c_id%3D196) for the most accurate reproduction.*
 
 # World Informers - United States
 
@@ -30,4 +30,4 @@ The "World Informers" website maintains appropriate safeguards to ensure the sec
 
 The "World Informers" website may use such personally identifiable information in the aggregate (non-identifiable) form to make our Web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us : [HERE](https://web.archive.org/web/20171107144512id_/http%3A//worldinformers.com/index.php?module=cSite&action=contacts&c_id=196)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us : [HERE](https://web.archive.org/web/20180308170706id_/http%3A//worldinformers.com/index.php?module=cSite&action=contacts&c_id=196)
