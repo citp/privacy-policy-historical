@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203085812id_/https%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jam-software.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308225357id_/https%3A//www.jam-software.com/company/privacy.shtml) for the most accurate reproduction.*
 
 # JAM Software - Privacy Policy
 
@@ -56,7 +56,7 @@ JAM Software GmbH will delete your individual-related data, if you revoke your a
 
 #### Data storage: Opt out
 
-Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20171203085812id_/https%3A//www.jam-software.com/company/privacy.shtml)
+Here you can set whether your visits to be collected at this site from the web analytics or not. [Settings webanalytics.](https://web.archive.org/web/20180308225357id_/https%3A//www.jam-software.com/company/privacy.shtml)
 
 ### Cookies on This Website
 
@@ -92,8 +92,18 @@ Google has its own privacy policy. Google remarketing tags neither store nor tra
 
 ### Your Right Of Access to Personal Data and Further Information
 
-At any time, you have the right to know, which personal data of you are stored, as well as how we obtained them, why we stored them and to whom these data were (lawfully) disclosed. Your confidence in our reliability is a major concern for us. If you have a question that could not be answered by this policy text, or if you want to learn more about a certain subject, please don’t hesitate to ask. Please [contact us](https://web.archive.org/customers/contact.php?language=EN).
+At any time, you have the right to know, which personal data of you are stored, as well as how we obtained them, why we stored them and to whom these data were (lawfully) disclosed. Your confidence in our reliability is a major concern for us. If you have a question that could not be answered by this policy text, or if you want to learn more about a certain subject, please don’t hesitate to ask. Please [contact us](https://web.archive.org/customers/contact.php?language=EN) or our data protection officer.
+
+### Data Protection Officer
+
+Rainer Faldey  
+WEB AGENTUR FALDEY  
+Industriepark Region Trier  
+Europa-Allee 12  
+54343 Föhren  
+Phone: +49-6502-9967817  
+E-Mail: beratung@web-agentur-faldey.de
 
 ### Currency of this Privacy Policy
 
-This privacy policy is up to date and was last changed on October 26, 2017. It is subject to alterations. Changes will be published at this place and will be effective from the day of publication.
+This privacy policy is up to date and was last changed on February 13, 2018. It is subject to alterations. Changes will be published at this place and will be effective from the day of publication.
