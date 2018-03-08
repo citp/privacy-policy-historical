@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtfnews.org privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707220407id_/https%3A//www.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfnews.org privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308085301id_/https%3A//www.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
 
 # RebelMouse Privacy Policy
 
