@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getfreeebooks.com privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018182417id_/http%3A//www.getfreeebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfreeebooks.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308172308id_/https%3A//www.getfreeebooks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Download Free Ebooks, Legally
 
@@ -63,7 +63,7 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
 **California Online Privacy Protection Act  
-**CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+**CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 **According to CalOPPA we agree to the following:-**
 
@@ -114,6 +114,6 @@ Within 7 business days
 
 If at any time you would like to unsubscribe from receiving future emails, follow the instructions at the bottom of each email, and we will promptly remove you from ALL correspondence.
 
-If there are any questions regarding this privacy policy you may use the [contact us form](http://www.getfreeebooks.com/contact/).
+If there are any questions regarding this privacy policy you may use the [contact us form](https://www.getfreeebooks.com/contact/).
 
 _Last Edited on 2016-03-08_
