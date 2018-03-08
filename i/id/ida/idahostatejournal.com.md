@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idahostatejournal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042804id_/http%3A//idahostatejournal.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idahostatejournal.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308090922id_/https%3A//idahostatejournal.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | idahostatejournal.com
 
@@ -53,13 +53,3 @@ In certain jurisdictions, you may have the right to receive: a) information iden
 From time to time, and without notice, the Company may revise the policies set out herein. The effective date of the current policy is set out below the title and all users our the Company’s websites are bound to the terms and conditions in effect as of the date of use.
 
 If you have any questions or comments about our policies, we may be reached at Eric Johnston, Pioneer News Group, Inc., 221 First Avenue West, Suite 405, Seattle, WA 98119; tel. 206-284-4424.
-
-[ ](http://2.dat-e-baseonline.com/v2/BestOf/GetCategories?arg=8F87C98FC9B0B49D787E7F7E7473559AC4ABB69FC69185768C985B8E7D)
-
-Sign up today, or manage your subscriptions, to one of our great newsletters: 
-
-  * Breaking News
-  * Daily Headlines
-  * and much more!
-
-
