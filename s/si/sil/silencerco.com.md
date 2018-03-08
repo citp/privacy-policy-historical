@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silencerco.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207055045id_/https%3A//www.store.silencerco.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silencerco.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308092657id_/https%3A//www.store.silencerco.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
