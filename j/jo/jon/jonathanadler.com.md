@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonathanadler.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203031222id_/http%3A//www.jonathanadler.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonathanadler.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308103420id_/http%3A//www.jonathanadler.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Jonathan Adler
 
