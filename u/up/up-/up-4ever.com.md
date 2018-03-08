@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the up-4ever.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830124009id_/https%3A//www.up-4ever.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up-4ever.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308153138id_/https%3A//www.up-4ever.com/privacy.html) for the most accurate reproduction.*
 
-# Up-4ever File hosting Site - Host files - Easy way to share your files
+# Up-4ever - Easy way to share your files
 
 Personal identification information
 
