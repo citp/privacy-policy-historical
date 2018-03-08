@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdmovieswatch.pw privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026044845id_/http%3A//hdmovieswatch.pw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdmovieswatch.pw privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308121059id_/http%3A//hdmovieswatch.pw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Movies HD
 
