@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humanforce.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013205636id_/http%3A//www.humanforce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanforce.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308231020id_/http%3A//www.humanforce.com/privacy) for the most accurate reproduction.*
 
 # Humanforce | Privacy Policy
 
