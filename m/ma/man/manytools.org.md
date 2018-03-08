@@ -1,20 +1,55 @@
-> *The following text is extracted and transformed from the manytools.org privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929215536id_/https%3A//manytools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manytools.org privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308202746id_/https%3A//manytools.org/privacy-policy) for the most accurate reproduction.*
 
 # Manytools.org Privacy Policy
 
-## Information we gather
+## We respect your privacy.
 
-Please note that we DO NOT disclose or share your personal information to third parties without your consent. We respect your privacy. Please contact us if you have any questions or concerns regarding our policy in this regard via the contact page on this site.
+Please contact us if you have any questions or concerns regarding our policy in this regard via the contact page on this site.
 
-We will contact you only if you have requested us to do so or if you have requested to be informed of updates to our site, in which case we will keep your name and email address in order to carry out your request.
+  * We will contact you only if you have requested us to do so or if you have requested to be informed of updates to our site, in which case we will keep your name and email address in order to carry out your request.
+  * We log anonymous details such as your IP address, your browser type and the referring page and time of your visit.
+  * We use cookies to enhance your experience when using our website and to analyze our site traffic.
+  * Partner Advertising networks (such as Google Adsense/Adwords) also store cookies on your computer and track users to gather information.
+  * Manytools.org has no access or control over these third party cookies, see 'Cookie information' below.
+  * We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, our partners, subsidiaries or affiliates (2) protect and defend the rights or property of ourselves or the users of the site, or (3) act under exigent circumstances to protect the safety of the public or users of the site.
 
-Our log files store anonymous details such as your IP address, your browser type and the referring page and time of your visit. The information gathered is used only to enhance your experience when using our website and to analyze our site traffic. We may use Cookies to remember your preferences when interacting with our website. Traffic and transaction information may be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-We will also use these cookies to show various adds, advertising networks we have partnered with for this purpouse (such as Google Adsense) may also store cookies on your computer or may use web beacons to gather information. Manytools.org has no access or control over these third party cookies.
 
-We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company or its parent company, subsidiaries or affiliates, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the site.
+## Cookies
 
-If you want to disable cookies, you can do so in your browser's configuration. More detailed information about cookie management on specific browsers can be found on their websites; [Internet Explorer](http://www.microsoft.com/info/cookies.htm), [Firefox](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html), [Safari](http://docs.info.apple.com/article.html?path=Safari/2.0/nl/ibr30.html).
+Cookies are small text files that can be used by websites to make a user's experience more efficient. Some cookies are placed by third party services that appear on our pages.This site uses different types of cookies:
+
+  * **Necessary  
+** Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+  * **Preferences  
+** Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+  * **Statistics  
+** Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+  * **Marketing  
+** Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. Our ads are provided by Google adwords, for more info see: [How Google uses data when you use our partners' sites or apps](https://www.google.com/intl/en/policies/privacy/partners/)
+
+
+
+## Sharing
+
+Our advertising partners use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+
+We implement multiple advertising features:
+
+  * Remarketing with Google Analytics
+  * Google Display Network Impression Reporting
+  * Google Analytics Demographics and Interest Reporting
+  * Integrated services that require Google Analytics to collect data for advertising purposes, including the collection of data via advertising cookies and identifiers
+
+
+
+## Opt-out
+
+If you want to disable cookies, you can do so in your browser's configuration. More detailed information about cookie management [can be found here](https://cookies.insites.com/disable-cookies/).
+
+You may opt-out of the Google Analytics Advertising Features through [Ads Settings](https://support.google.com/ads/answer/7029158?hl=en).
+
+You may opt-out of Google Analytics through [Analytics opt-outs for the web](https://tools.google.com/dlpage/gaoptout/).
 
 #### September 27, 2017
 
