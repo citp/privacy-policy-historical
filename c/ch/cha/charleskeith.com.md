@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charleskeith.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127022657id_/http%3A//www.charleskeith.com/sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charleskeith.com privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308215333id_/http%3A//www.charleskeith.com/sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,7 +134,7 @@ By providing your personal information you agree that CK may contact you by mail
 
 6.4.
 
-By providing us with information, you acknowledge and agree that due to the international operations of CK, we may store, process and use personal data collected in the course of our relationship, and provide that data to other enterprises within the CK Group outside your resident jurisdiction. By providing us with information, you specifically consent to the transfer of data containing such information outside of the country or jurisdiction where it was collected for the purposes described in this Policy.
+By providing us with information, you acknowledge and agree that due to the international operations of CK, we may store, process and use personal data collected in the course of our relationship, and provide that data to other enterprises within the CK Group outside your resident jurisdiction. By providing us with information, you specifically consent to the transfer of data containing such information outside of the territory or jurisdiction where it was collected for the purposes described in this Policy.
 
 6.5.
 
@@ -318,7 +318,7 @@ By providing your personal information you agree that CK may contact you by mail
 
 6.4.
 
-By providing us with information, you acknowledge and agree that due to the international operations of CK, we may store, process and use personal data collected in the course of our relationship, and provide that data to other enterprises within the CK Group outside your resident jurisdiction. By providing us with information, you specifically consent to the transfer of data containing such information outside of the country or jurisdiction where it was collected for the purposes described in this Policy.
+By providing us with information, you acknowledge and agree that due to the international operations of CK, we may store, process and use personal data collected in the course of our relationship, and provide that data to other enterprises within the CK Group outside your resident jurisdiction. By providing us with information, you specifically consent to the transfer of data containing such information outside of the territory or jurisdiction where it was collected for the purposes described in this Policy.
 
 6.5.
 
