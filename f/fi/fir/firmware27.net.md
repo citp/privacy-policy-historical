@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firmware27.net privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202165519id_/http%3A//www.firmware27.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firmware27.net privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309004232id_/http%3A//www.firmware27.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Firmware27
 
