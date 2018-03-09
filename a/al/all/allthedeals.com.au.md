@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901060332id_/https%3A//allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthedeals.com.au privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309222510id_/https%3A//allthedeals.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which All The Deals PTY LTD collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.allthedeals.com.au]() website ("Site"). This privacy policy applies to the Site and all products and services offered by All The Deals PTY LTD.
+This Privacy Policy governs the manner in which All The Deals PTY LTD collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://allthedeals.com.au](https://allthedeals.com.au/) website ("Site"). This privacy policy applies to the Site and all products and services offered by All The Deals PTY LTD.
 
 **Personal identification information**
 
@@ -20,13 +20,13 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 All The Deals PTY LTD collects and uses Users personal information for the following purposes:
 
-  * _\- To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
+  * _To improve our Site_  
 We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _\- To improve customer service_  
+  * _To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
-  * _\- To send periodic emails_  
+  * _To send periodic emails_  
 The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
@@ -49,7 +49,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at<http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at<https://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -62,8 +62,8 @@ By using this Site, you signify your acceptance of this policy and [terms of se
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[All The Deals PTY LTD]()  
-[http://www.allthedeals.com.au]()  
+All The Deals PTY LTD  
+[https://allthedeals.com.au](https://allthedeals.com.au/)  
 info@allthedeals.com.au
 
-This document was last updated on 27th October, 2014
+This document was last updated on 21st October, 2017
