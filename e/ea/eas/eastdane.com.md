@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastdane.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928070949id_/https%3A//www.eastdane.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D75238892682%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastdane.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309195043id_/https%3A//www.eastdane.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D78310693300%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
 
 # Shopbop privacy policy
 
