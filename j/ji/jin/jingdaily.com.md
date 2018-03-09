@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831145216id_/https%3A//jingdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309113236id_/https%3A//jingdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jing Daily
 
@@ -8,7 +8,7 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, .
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
 
 With respect to cookies: We do not set any cookies.
 
