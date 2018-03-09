@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sanzarrugby.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128012857id_/http%3A//sanzarrugby.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanzarrugby.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309060236id_/https%3A//sanzarrugby.com/general/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Official SANZAR Site
-
-#### SANZAR Privacy Policy
+# Privacy Policy - Sanzar
 
 This privacy policy sets out how SANZAR Pty Ltd uses and protects any information that you might give SANZAR when you use this website.
 
@@ -10,7 +8,7 @@ SANZAR is committed to ensuring that your privacy is protected. Should we ask yo
 
 SANZAR may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 March 2011.
 
-##### What we collect
+## What we collect
 
 We may collect the following information:
 
@@ -21,7 +19,7 @@ We may collect the following information:
 
 
 
-##### What we do with the information we gather
+## What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -32,11 +30,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-##### Security
+## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable procedures to safeguard and secure the information we collect online.
 
-##### Links to other websites
+## Links to other websites
 
 Our website contains links to other websites. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information that you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
