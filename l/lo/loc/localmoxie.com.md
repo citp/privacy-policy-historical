@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmoxie.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226211254id_/http%3A//www.localmoxie.com/privacy.php%3Fmoxietype%3Dlocal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmoxie.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309020237id_/http%3A//www.localmoxie.com/privacy.php%3Fmoxietype%3Dlocal) for the most accurate reproduction.*
 
 # Find Local Info on LocalMoxie.com
 
