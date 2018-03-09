@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourism.net.nz privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919202105id_/http%3A//www.tourism.net.nz/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourism.net.nz privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309064310id_/http%3A//www.tourism.net.nz/policy.html) for the most accurate reproduction.*
 
 # Website Privacy and Security Policy of New Zealand Tourism Guide (NZTG)
 
