@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightersideofrealestate.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210081657id_/https%3A//www.lightersideofrealestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightersideofrealestate.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309221240id_/https%3A//lightersideofrealestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lighter Side of Real Estate
 
@@ -53,7 +53,7 @@ The main goal of ReTargeting Ads is to re-engage site visitors after they have l
 
 ### HOW CAN I REMOVE MYSELF FROM BEING RETARGETED?
 
-The Lighter Side of Real Estate makes removing our tracking cookie easy for any user who wishes to do so. Users that don’t want to see Lighter Side of Real Estate Personalized Ads should simply email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+The Lighter Side of Real Estate makes removing our tracking cookie easy for any user who wishes to do so. Users that don’t want to see Lighter Side of Real Estate Personalized Ads should simply email admin@lightersideofrealestate.com
 
 ### IP ADDRESSES
 
@@ -95,4 +95,4 @@ In the event that the website (or a substantial portion of its assets) is acquir
 
 We may change this Privacy Policy from time to time. If/when changes are made to this Privacy Policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
 
- _Last Edited on 11-25-2015_
+_Last Edited on 11-25-2015_
