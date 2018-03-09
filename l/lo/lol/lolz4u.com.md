@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolz4u.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213165117id_/http%3A//lolz4u.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolz4u.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309145421id_/http%3A//lolz4u.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best LOL Videos - Lolz4U.com
 
