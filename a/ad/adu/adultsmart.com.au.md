@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultsmart.com.au privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006083122id_/http%3A//adultsmart.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultsmart.com.au privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309213418id_/https%3A//adultsmart.com.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Adultsmart
 
