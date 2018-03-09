@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vendasta.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105204908id_/https%3A//www.vendasta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendasta.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309161348id_/https%3A//www.vendasta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Vendasta
 
