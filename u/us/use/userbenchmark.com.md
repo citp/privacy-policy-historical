@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203063212id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userbenchmark.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309112029id_/http%3A//www.userbenchmark.com/page/privacy) for the most accurate reproduction.*
 
 # UserBenchmark Privacy Policy - UserBenchmark
 
@@ -20,11 +20,11 @@ UserBenchmark may change this policy by updating this page. You should check thi
 
 We will collect the following personally identifiable information should you choose to create an account:
 
-  * username
-  * email address and website url
-  * preferences and bio
-  * actions on UserBenchmark including comments, "likes" and user ratings
-  * profile picture
+  * Username
+  * Email address and website url
+  * Preferences and bio
+  * Actions on UserBenchmark including comments, "likes" and user ratings
+  * Profile picture
 
 
 
@@ -36,7 +36,7 @@ If you choose to download and run our software we will collect:
 
 ### What we do with the information we gather
 
-We require this information to provide you with a better service, and in particular for the following reasons:
+We rely on legitimate interests to use this information to provide you with a better and more personalized service. Specifically, this includes some or all of the following reasons:
 
   * To collect and present computer component performance statistics
   * To generate hardware rankings and recommendations
@@ -55,14 +55,14 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### Cookies
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This will prevent you from taking full advantage of the website.
 
 Cookies on UserBenchmark are used in the following way:
 
   * Traffic log cookies identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to your needs
   * To remember your login details (where you have created an account and chosen to auto login)
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to a website ([how Google uses data when you use UserBenchmark](http://www.google.com/policies/privacy/partners/)).
-  * Google's use of the [DoubleClick cookie](https://support.google.com/adsense/answer/answer.py?answer=2839090) enables it and its partners to serve ads that are based on your visits to UserBenchmark and/or other sites across the Internet
+  * Google's use of the [DoubleClick cookie](https://support.google.com/dfp_premium/answer/2839090?hl=en) enables it and its partners to serve ads that are based on your visits to UserBenchmark and/or other sites across the Internet
   * You may opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).) 
 
 
