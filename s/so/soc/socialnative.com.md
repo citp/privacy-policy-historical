@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialnative.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207111703id_/http%3A//socialnative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialnative.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309144803id_/http%3A//socialnative.com/privacy) for the most accurate reproduction.*
 
 # Social Native
 
-**Effective Date: March 16, 2017**
+**Effective Date: December 7, 2017**
 
-This Privacy Policy is incorporated by this reference into the Social Native LLC [General Visitor Terms of Use](http://socialnative.com/terms "General Visitor Terms of Use") and [Creator Terms of Use](https://my.socialnative.com/creator/terms "Creator Terms of Use") (each, a “ _ **TOU**_ ”). All other terms not defined in this Privacy Policy will have the meanings set forth in the applicable TOU. The terms “ _ **Social Native**_ ,” “ _ **we**_ ,” “ _ **us**_ ,” and “ _ **our**_ ” include Social Native LLC and our affiliates and subsidiaries. This Privacy Policy applies to our website located at [www.socialnative.com](http://www.socialnative.com/ "www.socialnative.com") and all related subdomains (collectively, “ _ **Site**_ ”). This Privacy Policy explains how Social Native may collect, use, and disclose information we obtain through the Site.
+This Privacy Policy is incorporated by this reference into the Social Native Inc [General Visitor Terms of Use](http://socialnative.com/terms "General Visitor Terms of Use") and [Creator Terms of Use](https://my.socialnative.com/creator/terms "Creator Terms of Use") (each, a “ _ **TOU**_ ”). All other terms not defined in this Privacy Policy will have the meanings set forth in the applicable TOU. The terms “ _ **Social Native**_ ,” “ _ **we**_ ,” “ _ **us**_ ,” and “ _ **our**_ ” include Social Native Inc and our affiliates and subsidiaries. This Privacy Policy applies to our website located at [www.socialnative.com](http://www.socialnative.com/ "www.socialnative.com") and all related subdomains (collectively, “ _ **Site**_ ”). This Privacy Policy explains how Social Native may collect, use, and disclose information we obtain through the Site.
 
  **WHEN SOCIAL NATIVE COLLECTS YOUR INFORMATION**
 
@@ -92,7 +92,7 @@ We do not knowingly collect, maintain, or use personal information, as defined b
 
  **Contact Information**
 
-Social Native LLC
+Social Native Inc
 
 9935 S. Santa Monica Boulevard, Beverly Hills, CA 90212
 
