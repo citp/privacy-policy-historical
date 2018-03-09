@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalfinancialnews.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226040903id_/http%3A//totalfinancialnews.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalfinancialnews.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309163022id_/http%3A//totalfinancialnews.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Total Financial News
 
