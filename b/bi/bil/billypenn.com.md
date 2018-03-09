@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2015-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150816074101id_/http%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billypenn.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309080409id_/https%3A//billypenn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Billy Penn, Philadelphia
+# Privacy policy - Billy Penn, Philadelphia
 
 This privacy policy (“ **Policy** ”) describes how Spirited Media Inc. and its related companies (“ **Company** ”) collect, use and share personal information of consumer users of this website, www.billypenn.com (the “ **Site** ”). This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
@@ -8,13 +8,13 @@ This privacy policy (“ **Policy** ”) describes how Spirited Media Inc. and i
 
 We get information about you in a range of ways.
 
-**Information You Give Us.** We collect your‎ email address as well as other information you directly give us on our Site.
+**Information you give ws.** We collect your‎ email address as well as other information you directly give us on our Site.
 
-**Information We Get From Others.** We may get information about you from other sources. We may add this to information we get from this Site.
+**Information We get from others.** We may get information about you from other sources. We may add this to information we get from this Site.
 
-**Information Automatically Collected.** We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site.
+**Information automatically collected.** We automatically log information about you and your computer. For example, when visiting our Site, we log your computer operating system type, browser type, browser language, the website you visited before browsing to our Site, pages you viewed, how long you spent on a page, access times and information about your use of and actions on our Site.
 
-**Cookies.** We may log information using “cookies.” Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site.    This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
+**Cookies.** We may log information using “cookies.” Cookies are small data files stored on your hard drive by a website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. This type of information is collected to make the Site more useful to you and to tailor the experience with us to meet your special interests and needs.
 
 **USE OF PERSONAL INFORMATION**
 
