@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213200153id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309044956id_/https%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | NOW TV
 
@@ -22,7 +22,11 @@ Types of information we may hold about you and where it comes from
 
 How we may we use your information:
 
-We need your information so that we can, in accordance with the contract you have with us, provide you with content, products, services, tailored and personalised recommendations, general account management, and the management of traffic across our network. In addition to using your information for such purposes, we may also use your information in the following ways:
+We need your information so that we can, in accordance with the contract you have with us, provide you with content, products, services, tailored and personalised recommendations, general account management, and the management of traffic across our network. Sky uses your information to facilitate the operation of its network by choosing the most efficient root to transmit you request for communications service in the various parts of its network of equipment and systems.
+
+This information may contain use of your IP address, MAC address, port information, logical network address or similar operational or technical information about your equipment or of each device you use to access Sky’s services. This information is necessary to enable to provide you with its services and products and is held securely within restricted areas accessed only by authorised persons, 
+
+In addition to using your information for such purposes, we may also use your information in the following ways:
 
   * To monitor, improve and protect our content, products and services, work with our agents and business partners to improve the products and services we offer, and develop new content, products and services.
   * We may share information with credit reference, fraud prevention agencies, entities in which we hold a share of the ownership and other companies for use in credit decisions, for fraud detection and debt recovery purposes.
@@ -110,7 +114,7 @@ Our applications, web locations, websites and communications you get from us als
 
 #### Affiliate cookies
 
-We also use 'affiliate' cookies. Some of our web based information will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is used to tell the other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. For more information, see the [Internet Advertising Bureau's](http://www.iab-performance-marketing-explained.net/) guide about how affiliate marketing works.
+We also use 'affiliate' cookies. Some of our web based information will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is used to tell the other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. For more information, see the [Internet Advertising Bureau's](https://www.iab-performance-marketing-explained.net/) guide about how affiliate marketing works.
 
 ### How we show advertising and marketing that is relevant to your interests
 
@@ -135,7 +139,7 @@ It’s easy to choose not to receive behavioural advertising and manage your coo
 
 ### How can I see and manage my cookies in my browser?
 
-Virtually all modern browsers allow you to see what cookies you've got, and to clear them individually or clear all of them. To find out how to do this go to [aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+Virtually all modern browsers allow you to see what cookies you've got, and to clear them individually or clear all of them. To find out how to do this go to [aboutcookies.org](https://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers.
 
 ### How can I choose not to receive Online Behavioural Advertising and other tracking cookies?
 
@@ -146,9 +150,9 @@ Please note that most of these choices work by setting a cookie that overrides t
 Organisations which provide more information on Online Behavioural Advertising
 
   * [Evidon](https://www.evidon.com/consumers-privacy/manage-your-online-profile) are a provider of privacy solutions.
-  * [Internet Advertising Bureau (IAB)](http://www.youronlinechoices.com/uk/your-ad-choices)“ Your Online Choices” page. This allows you to choose not to receive behavioural advertising from each of the advertising networks represented by the IAB.
-  * [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/choices/) opt out page. This allows you to opt out of behavioural advertising from each of the ad networks represented by the NAI.
-  * [Digital Advertising Alliance’s](http://www.aboutads.info/choices/#completed) self-regulatory program for online behavioural advertising choices page.
+  * [Internet Advertising Bureau (IAB)](https://www.youronlinechoices.com/uk/your-ad-choices)“ Your Online Choices” page. This allows you to choose not to receive behavioural advertising from each of the advertising networks represented by the IAB.
+  * [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/choices/) opt out page. This allows you to opt out of behavioural advertising from each of the ad networks represented by the NAI.
+  * [Digital Advertising Alliance’s](https://www.aboutads.info/choices/#completed) self-regulatory program for online behavioural advertising choices page.
 
 
 
