@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baopals.com privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122223958id_/https%3A//www.baopals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baopals.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309194750id_/https%3A//www.baopals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baopals
 
