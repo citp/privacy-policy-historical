@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asubtlerevelry.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214103939id_/http%3A//asubtlerevelry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asubtlerevelry.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309063929id_/http%3A//asubtlerevelry.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – A Subtle Revelry
+# Privacy Policy • A Subtle Revelry
 
 This Privacy Policy governs the manner in which A Subtle Revelry collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://asubtlerevelry.com/> website (“Site”).
 
@@ -96,10 +96,24 @@ A Subtle Revelry
 
 > [Home](http://asubtlerevelry.com/)
 
-[asubtlerevelry@gmail.com](mailto:asubtlerevelry@gmail.com)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2647555344524a43544350434a545f66414b474f4a0845494b)
 
 To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 To opt-out of this type of advertising, you can visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/).
 
 This document was last updated on June 27, 2015
+
+### LET'S CONNECT
+
+  * asubtlerevelry@gmail.com
+
+
+
+### BAKE A CAKE
+
+just because it tastes good, and because that cake stand is too damn pretty to be sitting in the cabinet! 
+
+### Archives
+
+Archives
