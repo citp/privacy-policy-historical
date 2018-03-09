@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the altech.com.au privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309201649id_/https%3A//acatana.com.au/privacy-policy) for the most accurate reproduction.*
+
+# Acatana Online-Market. Electronics, Computers, Computer Parts, Led Lights
+
+Acatana is dedicated to keeping your details private. Any information, we collect in relation to you, is kept strictly secured. We do not pass on/sell/swap any of your personal details with anyone. We use this information to identify your orders, provide you with our weekly or daily newsletter (if applicable) and to personalise your shopping experience with us; that's all. Acatana uses cookies to allow us to give you a more personalised shopping experience by displaying products that interest you throughout our product pages, thus providing you with a more friendly, interesting and enjoyable shopping experience. Whenever you use our web site, or any other web site, the computer on which the web pages are stored (the Web server) needs to know the network address of your computer so that it can send the requested web pages to your Internet browser. The unique network address of your computer is called its "IP address," and is sent automatically each time you access any Internet site. From a computer's IP address, it is possible to determine the general geographic location of that computer, but otherwise it is anonymous.
+
+Acatana keeps a record of the IP addresses from which users access our site address for security purposes. An example of this would be when proceeding to a checkout to finalise an order you may wish to make. After completing the form provided, your IP address will be stored along with a transaction number that allows us to track your order. 
+
+### Security Policy
+
+When purchasing from Acatana, your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our privacy policy, please contact our customer support centre [sales@acatana.com.au](mailto:sales@acatana.com.au)
