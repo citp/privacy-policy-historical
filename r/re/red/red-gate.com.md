@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029144350id_/https%3A//www.red-gate.com/website/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red-gate.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309060130id_/https%3A//www.red-gate.com/website/legal) for the most accurate reproduction.*
 
 # Legal Information About Redgate Software
 
@@ -51,11 +51,11 @@ We also collect information from you if you choose to take part in any of our on
 
 ### Information automatically collected about your use of Redgate Products
 
-  * **Product Usage Data** – We collect product usage data which records certain 'in-product' actions and activities such as 'starting a product', 'creating a workflow', 'open a project', 'run deployment wizard', 'format SQL', 'autocomplete', and 'use a snippet'. We do not scan or collect the content of any file or information that might be displayed by an application or used whilst performing such actions or activities.
+  *  **Product Usage Data** – We collect product usage data which records certain 'in-product' actions and activities such as 'starting a product', 'creating a workflow', 'open a project', 'run deployment wizard', 'format SQL', 'autocomplete', and 'use a snippet'. We do not scan or collect the content of any file or information that might be displayed by an application or used whilst performing such actions or activities.
 
-  * **Device Data** – We collect information about your computer, such as operating system, amount of memory, region, language, time zone, browser version, version of SQL Server.
+  *  **Device Data** – We collect information about your computer, such as operating system, amount of memory, region, language, time zone, browser version, version of SQL Server.
 
-  * **Error reports** – If you experience problems with our products we may collect data about the products and any problems you experience with them. This data helps us improve our products and services, to diagnose problems in the products you use, and provide solutions. Depending on your product and settings, error reports can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred and the current state of the software.
+  *  **Error reports** – If you experience problems with our products we may collect data about the products and any problems you experience with them. This data helps us improve our products and services, to diagnose problems in the products you use, and provide solutions. Depending on your product and settings, error reports can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred and the current state of the software.
 
 
 
