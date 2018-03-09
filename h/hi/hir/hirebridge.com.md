@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203183628id_/http%3A//www.hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309133158id_/http%3A//hirebridge.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Hirebridge Applicant Tracking Solutions :: Privacy Policy
 
@@ -50,6 +50,6 @@ If you have questions about PIPEDA as it pertains to the use or storage of, and 
 
 * * *
 
-Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20171203183628id_/http%3A//www.hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-906-5727. We are here to help.
+Have questions about Hirebridge's applicant tracking software or hiring management solutions? Visit our [Features Page](https://web.archive.org/web/20180309133158id_/http%3A//hirebridge.com/corp/applicant_tracking_features.asp) or give us a call at 1-954-906-5727. We are here to help.
 
 Our [free trial account](http://www.hirebridge.com/corp/demo_form.asp) gives you plenty of time to get familiar with the powerful features available with Hirebridge Recruiter. It's risk free. No credit card required. Sign up today! 
