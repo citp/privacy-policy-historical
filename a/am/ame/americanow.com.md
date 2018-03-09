@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912125452id_/http%3A//www.americanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309131220id_/https%3A//www.americanow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,17 +12,17 @@ This policy tells you how the Sites collect, use, and protect your personal and 
 
 You can browse the Sites without telling us who you are or revealing any personal information about yourself.
 
-We do NOT ask for governmental identification numbers, credit card numbers, or other financial account identifying numbers, codes, or passwords. If you receive an e-mail or any request for this type of information from anyone purporting to be acting by or on behalf of the Company, please notify us at once at [legal@opposingviews.com](mailto:legal@opposingviews.com).
+We do NOT ask for governmental identification numbers, credit card numbers, or other financial account identifying numbers, codes, or passwords. If you receive an e-mail or any request for this type of information from anyone purporting to be acting by or on behalf of the Company, please notify us at once at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#adc1c8caccc1edc2ddddc2dec4c3cadbc4c8dade83cec2c0).
 
 We collect some non-personal information automatically while you use the Sites, including your Internet protocol (“IP”) address, computer and connection information, browser type and version, operating system, platform, browsing history and any cookies we may have set to customize and identify your browser session. As you use the Sites we may also attempt to automatically determine some of the demographic information previously described from the content that you elect to view.
 
 As you use the Sites, we collect a record of the content that you have seen. We may use this information to learn what topics and views you are interested in, and to automatically determine demographic information about you. We may use this information to enhance the services, content, and advertising that we present to you.
 
-We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at [legal@opposingviews.com](mailto:legal@opposingviews.com). We can be contacted via mail at America News, Inc., 8400 Delongpre Avenue, #301, Los Angeles, CA 90069.
+We will not ask for personally identifiable information in an e-mail, nor will we send you an e-mail with a link that directs you to a page where we ask for personally identifiable information. If you receive a request that directly asks for personally identifiable information, please notify us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f8949d9f9994b8978888978b91969f8e919d8f8bd69b9795). We can be contacted via mail at America News, Inc., 8400 Delongpre Avenue, #301, Los Angeles, CA 90069.
 
 ### 3\. Children And Personal Information
 
-The Sites are intended for adult users, and we do not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided the Company with personally identifiable information, please contact us at [legal@opposingviews.com](mailto:legal@opposingviews.com).
+The Sites are intended for adult users, and we do not knowingly collect personal information from children under 13 years old. If you are a parent and suspect that your child has provided the Company with personally identifiable information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a6cac3c1c7cae6c9d6d6c9d5cfc8c1d0cfc3d1d588c5c9cb).
 
 ### 4\. How We Use Personal Information
 
@@ -93,6 +93,6 @@ You should take steps to protect yourself as well. For example:
 
 We may change this Privacy Policy from time to time, and we will post the amended terms on the Sites. All amended terms take effect immediately for all users. We encourage you to periodically review this statement to be informed of how we are protecting your information.
 
-To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [admin@opposingviews.com](mailto:admin@opposingviews.com).
+To contact us for more information about this privacy policy or how your information is treated, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1b0b5bcb8bf91bea1a1bea2b8bfb6a7b8b4a6a2ffb2bebc).
 
 Last updated December 21, 2016
