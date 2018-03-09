@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001142411id_/http%3A//www.metacdn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309215743id_/http%3A//www.metacdn.com/privacy) for the most accurate reproduction.*
 
 # MetaCDN - Privacy Policy
 
