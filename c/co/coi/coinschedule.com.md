@@ -1,136 +1,80 @@
-> *The following text is extracted and transformed from the coinschedule.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119192738id_/https%3A//www.coinschedule.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinschedule.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309020454id_/https%3A//www.coinschedule.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Coinschedule - About Cryptocurrency and ICOs
+# Coinschedule.com Privacy Policy
 
-## **Coinschedule.com Privacy Policy**
+**The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to COINSCHEDULE.COM to help our users retain their privacy when they take advantage of all the Internet has to offer. We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, COINSCHEDULE.COM follows different principles in accordance with worldwide practices for user privacy and data protection.**
+* We take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of our Website’s users throughout their visiting experience. We won’t sell or give away your name, mail address, phone number, email address or any other information to anyone, except for the efficient servicing of your Order and according to the Terms & Conditions of Sale, as they are updated from time to time and provided in our website. 
+* We’ll use state-of-the-art security measures to protect your information from unauthorized users. 
 
-**This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.**
+**This website complies with all applicable EU laws and requirements for user privacy.**
 
-####  **What personal information do we collect from the people that visit our blog, website or app?**
+ **NOTICE**  
+We will ask you when we need information that personally identifies you and your business (personal information and/or business information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you submit a new ICO project to us. We use your Personal Information for five primary purposes: 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience. 
+* To make the site easier for you to use by not having to enter information more than once. 
+* To help you quickly find and access services or information. 
+* To help us create content most relevant to you. 
+* To alert you to product upgrades, special offers, updated information and other new services from COINSCHEDULE.COM. 
+* To perform background checks and reviews that ensure our services are not used for unlawful purposes, and ensure further that while we are offering our services to you we remain fully compliant with the regulatory and legal framework within which we operate. 
 
-#### **When do we collect information?**
+**CONTACT AND COMMUNICATION**  
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the European Union’s General Data Protection Regulation. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk. 
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form, Open a Support Ticket or enter information on our site. 
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties. 
 
-#### **How do we use your information?**
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding COINSCHEDULE.COM. products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from COINSCHEDULE.COM. 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+If you choose not to register or provide personal information, you can still use most of www.coinschedule.com. But you will not be able to access areas that require registration. 
 
-* To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-* To allow us to better service you in responding to your customer service requests. 
-* To administer a contest, promotion, survey or other site feature. 
-* To ask for ratings and reviews of services or products
+COINSCHEDULE.COM occasionally allows other companies to offer our registered users information about their products and services. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
 
-#### **How do we protect your information?**
+**ACCESS**  
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the user dashboard. There, you can: 
 
-We do not use vulnerability scanning and/or scanning to PCI standards. We only provide articles and information. We never ask for credit card numbers. We use regular Malware Scanning. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information. All transactions are processed through a gateway provider and are not stored or processed on our servers. 
+* View and edit personal information you have already given us. 
+* Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail. 
+* Sign up for electronic newsletters about our services and products. 
+* Register. Once you register, you won't need to do it again. Wherever you go on www.coinschedule.com, your information stays with you. 
 
-#### **Do we use 'cookies'?**
+**SECURITY**  
+COINSCHEDULE.COM has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honoured. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+We guarantee your transactions to be 100% safe and secure. When you make transactions, or access your personal account information, you're utilizing secure server software SSL, which encrypts your personal information before it's sent over the Internet. SSL is one of the safest encryption technologies available. 
 
-#### **We use cookies to:**
+COINSCHEDULE.COM strictly protects the security of your personal information and honours your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
 
-* Understand and save user's preferences for future visits. 
-* Keep track of advertisements. 
-* Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in England or any other country where COINSCHEDULE.COM, its subsidiaries, affiliates or agents are located. 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. 
+You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others. 
 
-#### **If users disable cookies in their browser:**
+**ENFORCEMENT**  
+If for some reason you believe COINSCHEDULE.COM has not adhered to these principles, please notify us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), and we will do our best to determine and correct the problem promptly. Be certain the words “Privacy Policy” are in the Subject line. 
 
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly. 
+**COOKIES**  
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device. 
 
-#### **Third-party disclosure**
+Cookies are small files saved to the user's computers hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website. 
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it's release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors. 
 
-#### **Third-party links**
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read Google's privacy policy here for further information [ <http://www.google.com/privacy.html> ]. 
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+Other cookies may be stored to your computer’s hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected. 
 
-#### **Google**
+**USER PROFILES**  
+As mentioned above, every registered user has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile. 
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. [More info here](https://support.google.com/adwordspolicy/answer/1316548?hl=en)
+When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie. This cookie is uniquely yours. It is your passport to seamless travel across www.coinschedule.com, allowing you to download free material, order free newsletters, check the latest ICOs, receive alerts and so on, without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
 
-We use Google AdSense Advertising on our website.
+**WHAT WE DO WITH THE INFORMATION YOU SHARE**  
+When you join us, you provide us with your contact information and email address. We use this information to uniquely identify you. 
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy. 
+We occasionally hire other companies to provide limited services on our behalf, including marketing and ad services, blog articles and newsletters. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. The above-mentioned third-party ad service providers may use cookies, web beacons, or similar technologies in connection with advertisements offered through this and other websites, including helping to operate ad networks. Click on the links to find out more about their practices, for opting-out and for any other choices they provide to you:   
+<http://optout.networkadvertising.org/#!/>
 
-#### **We have implemented the following:**
+We may also share information about you as follows: 
 
-**Demographics and Interests Reporting**  
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website. 
+* With vendors, consultants and other service providers who need access to your information to carry out work on our behalf. These service providers help with our business operations such as fraud prevention and technology services.
+* When we believe, in our sole discretion, that the disclosure of your information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of or enforce our user agreements or other policies and agreements.
 
-#### **Opting out:**
-
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on. 
-
-#### **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 
-
-#### **According to CalOPPA, we agree to the following:**
-
-Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above. You will be notified of any Privacy Policy changes:
-
-* On our Privacy Policy Page Can change your personal information: 
-* By logging in to your account
-
-#### **How does our site handle Do Not Track signals?**
-
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
-
-#### **Does our site allow third-party behavioral tracking?**
-
-It's also important to note that we allow third-party behavioral tracking 
-
-#### **COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. We do not specifically market to children under the age of 13 years old. Do we let third-parties, including ad networks or plug-ins collect PII from children under 13? 
-
-#### **Fair Information Practices**
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
-
-#### **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-* We will notify you via email within 7 business days 
-* We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-#### **CAN-SPAM Act**
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
-
-#### **We collect your email address in order to:**
-
-* Send information, respond to inquiries, and/or other requests or questions 
-* Process orders and to send information and updates pertaining to orders. 
-* Send you additional information related to your product and/or service
-
-#### **To be in accordance with CAN-SPAM, we agree to the following:**
-
-* Not use false or misleading subjects or email addresses. 
-* Identify the message as an advertisement in some reasonable way. 
-* Include the physical address of our business or site headquarters. 
-* Monitor third-party email marketing services for compliance, if one is used. 
-* Honor opt-out/unsubscribe requests quickly. 
-* Allow users to unsubscribe by using the link at the bottom of each email.
-
-#### **If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-* Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
-
-#### **Contacting Us**
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-Coinschedule.com  
-Parda tn 4  
-Tallinn, 10151  
-Estonia  
-support@coinschedule.com
-
-_**Last Update: July 29, 2017**_
+ ** _Last Update: March 3rd, 2018_**
