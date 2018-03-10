@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthservicediscounts.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202043631id_/http%3A//www.healthservicediscounts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthservicediscounts.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310022741id_/http%3A//www.healthservicediscounts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,6 +94,6 @@ All our emails contain a link which enable you to unsubscribe from further commu
 
 ## Company Details
 
-Health Service Discounts is a trading name of Brinc Limited, a company registered in England & Wales with the registration number 4009390 and registered address of Brinc Ltd , Building 3, First Floor, Glasshouse Business Park, Glasshouse Road, Wigan, WN3 6GL. Brinc  is not affiliated to or endorsed by the Department of Health or the NHS.
+Health Service Discounts is a trading name of We Are Discounts Ltd, a company registered in England & Wales with the registration number 4009390 and registered address of We Are Discounts Ltd, Building 3, First Floor, Glasshouse Business Park, Glasshouse Road, Wigan, WN3 6GL. We are Discounts Ltd is not affiliated to or endorsed by the Department of Health or the NHS.
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Contact us at [customerservice@brincltd.com](mailto:customerservice@brincltd.com)
