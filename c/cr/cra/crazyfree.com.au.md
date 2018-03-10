@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyfree.com.au privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215094910id_/https%3A//crazyfree.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyfree.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310112931id_/https%3A//crazyfree.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # CrazyFree - Privacy Policy
 
@@ -10,7 +10,7 @@ Crazy Free has wealth of lifestyle and demographic data that we collect directly
 
 One of Crazy Free’s key business objectives is commitment to open and transparent information practices – informing individuals about how we collect and use personal information and protect the information privacy of those individuals. Personal information is information about an identified individual or one who is reasonably identifiable.
 
-Crazy Free complies with the AU Privacy Act 1988 including the AU Privacy Principles and other AU regulations such as the AU Do Not Call Register Act 2006, the AU Spam Act 2003, UK Data Protection Act 1998 and the (EC Directive) Regulations 2003 which govern how it must handle personal information ( **Privacy Act** ). Our Privacy Policy explains how we do this.
+Crazy Free complies with the AU Privacy Act 1988 including the AU Privacy Principles and other AU regulations such as the AU Do Not Call Register Act 2006, the AU Spam Act 2003, UK Data Protection Act 1998, General Data Protection Regulation 2018 (GDPR) and the (EC Directive) Regulations 2003 which govern how it must handle personal information (Privacy Act). Our Privacy Policy explains how we do this. For UK residents to find out more information about your rights around the data protection act and GDPR please visit [https://ico.org.uk](https://ico.org.uk/).
 
 Crazy Free may change the Privacy Policy to reflect changes in our practices and privacy regulation. Any changes will come into effect when an updated Privacy Policy is posted to our website.
 
@@ -50,13 +50,17 @@ Crazy Free use the personal information we collect for various purposes, includi
 
 
 
-You may opt-out of receiving any Offers and information from Crazy Free at any time simply by submitting a request in writing or under the relevant Offer or communication. You can opt out of receiving any Offers and information from a third party to whom we provide your information under the relevant Offer or communication, from that third party.
+#### 
+
+How do I unsubscribe?
+
+You may opt-out of receiving any Offers and information from Crazy Free at any time simply by submitting a request in writing or under the relevant Offer or communication to [consumercare@cohortglobal.com](mailto:consumercare@cohortglobal.com?subject=Please%20Unsubscribe). You can opt out of receiving any Offers and information from a third party to whom we provide your information under the relevant Offer or communication, from that third party.
 
 #### To whom do we disclose the Personal Information?
 
 We disclose personal information to our clients and advertisers, third party agents, service providers and contractors only for purposes consistent with the reasons for collecting the information set out in this Privacy Policy.
 
-Some of the recipients of the personal information, including some of our service providers, are based overseas, in a wide variety of countries (including NZ, US, EU, Philippines, India and South Africa). Before we disclose personal information to local or overseas recipients we take reasonable steps to ensure they have privacy practices that are at least as protective as the AU Privacy Principles. You consent to the disclosure of your personal information on that basis.
+Some of the recipients of the personal information, including some of our service providers, are based overseas, in a wide variety of countries (including NZ, US, EU, Philippines, India and South Africa). Before we disclose personal information to local or overseas recipients we take reasonable steps to ensure they have privacy practices that are at least as protective as the AU Privacy Principles and the UK Data Protection Act 1998. You consent to the disclosure of your personal information on that basis.
 
 We may disclose personal information to any person or authority where we are required to by law.
 
@@ -100,12 +104,12 @@ __utmz | These cookies allow us to collect information about how visitors use th
 Google Adsense | __gads  
 _drt_  
 id | Google uses cookies to serve more relevant ads across the web and limit the number of times a given ad is shown to you. When you visit a website, view an ad, or click an ad supported by Google’s advertising services, Google may set a cookie on your browser. This advertising cookie will appear in your browser as coming from the domain “doubleclick.net”.Learn more about Googles Policies at http://www.google.com/policies/privacy/ads/  
-Kentico |   | Our website platform using the content management system Kentico which uses cookies to deliver site functionality.  
+Kentico |  | Our website platform using the content management system Kentico which uses cookies to deliver site functionality.  
   
 ### Australian Office
 
   * [consumercare@cohort.com.au](mailto:consumercare@cohort.com.au?subject=CrazyFree); or
-  * 1300 Cohort (1300 264 678); or
+  * 1300 257 528; or
   * Crazy Free, Consumer Care Department, PO Box 369, Strawberry Hills, NSW, 2012.
 
 
@@ -113,8 +117,10 @@ Kentico |   | Our website platform using the content management system Kentico 
 ### UK Office
 
   * [consumercare@cohortglobal.com](mailto:consumercare@cohortglobal.com?subject=CrazyFree); or
-  * 056 0364 1684; or
-  * Crazy Free, Consumer Care Department, 10 Greycoat Place, London, SW1P 1SB.
+  * 0203 949 4800; or
+  * Crazy Free, Consumer Care Department, 25 Buckingham Palace Road, Level 2, Warwick House,  
+Westminster, London, SW1W 0PP.
+  * You can contact the Data Protection Officer on: [dpo@cohortglobal.com](mailto:dpo@cohortglobal.com?subject=CrazyFree%20-%20DPO%20Enquiry).
 
 
 
@@ -125,7 +131,8 @@ Suite 15.04, Ernst & Young Centre, 680 George Street
 Sydney NSW 2000**
 
 **Cohort Global Limited  
-13 Palace Street, Level 5, Audley House,   
-London, SW1E 5HX.**
+25 Buckingham Palace Road, Level 2, Warwick House,  
+Westminster, London, SW1W 0PP.**
 
- **Policy Date: 27th August 2015**
+ **Policy Created: 27th August 2015  
+Policy Updated: 27th February 2018**
