@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieltsbuddy.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031132936id_/http%3A//www.ieltsbuddy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsbuddy.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310062020id_/https%3A//www.ieltsbuddy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.ieltsbuddy.com/contact-us.html).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.ieltsbuddy.com/contact-us.html).
 
 IELTS buddy
 
