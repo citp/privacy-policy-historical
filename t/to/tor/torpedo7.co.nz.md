@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2017-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170517171352id_/https%3A//www.torpedo7.co.nz/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torpedo7.co.nz privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310015942id_/https%3A//www.torpedo7.co.nz/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Torpedo7 NZ - Terms & Conditions
 
