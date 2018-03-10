@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gilletts.com.au privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921084333id_/https%3A//gilletts.com.au/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilletts.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310232904id_/https%3A//gilletts.com.au/privacy-security) for the most accurate reproduction.*
 
-# Privacy and Security - Gillett's Jeweller
+# Privacy and Security
 
 Gillett's Jewellers has created this privacy statement in order to demonstrate our firm commitment to your privacy and security. The following details our information gathering and dissemination practices for this web site. 
 
