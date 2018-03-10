@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182524id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bond.edu.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310055007id_/https%3A//bond.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Bond University
 
@@ -58,6 +58,8 @@ Generally, BU only uses and/or discloses personal information about you for the 
 
 
 From time to time, Agencies are lawfully entitled to share personal information provided by the University to them among themselves. Where the University becomes aware that personal information has been shared with another Agency it will advise anyone affected once it becomes aware.
+
+University staff may require access to Personal Information held by the University in order to perform University related tasks, including in relation to student matters and for Alumni purposes. Personal Information will only be disclosed as required.
 
 BU stores your personal information in different ways, including in paper and in electronic form. The security of your personal information is important to BU. BU takes all reasonable measures to ensure that your personal information is stored safely to protect it from misuse, loss, unauthorised access, modification or disclosure, including electronic and physical security measures.
 
