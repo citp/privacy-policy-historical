@@ -1,141 +1,211 @@
-> *The following text is extracted and transformed from the claires.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606105320id_/http%3A//www.claires.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the claires.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310090537id_/https%3A//www.claires.com/privacy-policy.html%3Flang%3Den_GB) for the most accurate reproduction.*
 
 # Privacy Policy | Claire's
 
-This Privacy Policy was last updated and is effective as of May 13, 2014. 
+We take privacy really seriously and work super hard to protect your personal details, take a look at what we do with your information and the choices you can make about how it’s collected and used…
 
-This Claire's U.S. Privacy Policy applies only to this web site (however accessed and/or used, whether via personal computer, mobile device, or otherwise), and other interactive features or protocols that link to this Privacy Policy (including, without limitation, mobile sites, widgets and downloads) and are owned or controlled by CBI Distributing Corp. ("Claire's," "we," "our," or "us") (collectively, the "Site").  This Privacy Policy only applies to information collected through the Site unless we specifically state otherwise.  In addition, if Claire's combines information collected at one of its retail stores with information collected through the Site, this Privacy Policy will govern the combined information. 
+  * Why we collect this information
+  * What information we collect
+  * Shopping
+  * General Browsing
+  * How we collect information
+  * Use of Cookies
+  * Our Cookies Policy
+  * Use of web beacons, clear-GIFs, pixel tags and Javascript
+  * Widgets and Server Logs
+  * How we use the information we collect
+  * Your choice about the information we collect
+  * Privacy of children who visit the site
+  * Information stored outside of the United Kingdom
+  * Updating personal information
+  * Links
+  * Security
+  * Questions / Changes in Policy
 
-Please read this Privacy Policy carefully. Please also review the [Terms of Use](https://web.archive.org/us/content/terms-of-use), which governs your use of the Site and any content you submit to the Site. 
 
-## NOTICE TO CALIFORNIA RESIDENTS
 
-Pursuant to California Civil Code Section 1798.83, California residents who provide us with personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us, one time per calendar year, information about the customer information we shared, if any, with other businesses for their own direct marketing uses. Alternatively, the law provides that a company may comply, as Claire's does, by disclosing in its privacy policy that it provides consumers choice (opt-in or opt-out) regarding sharing Personal Information with third parties for those third parties’ direct marketing purposes, and information on how to exercise that choice. As stated below in this Privacy Policy, Claire's provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Claire's offers that choice, Claire's does not share your information with that identified third party for its direct marketing purposes. 
+This privacy policy (the "Privacy Policy") applies to the claires.co.uk, m.claires.co.uk and claires.fr websites (however accessed and/or used, whether via personal computers, mobile devices or otherwise) and other interactive features or protocols that link to this privacy policy (including, without limitation, mobile sites, widgets & downloads) (collectively "The Site"), which is owned or controlled by Claires Accessories UK Ltd ("Claire’s”, "we", "us" or "our"). In addition, if Claire's also collects information at one of its retail stores, for example through Ear Piercing forms, this Privacy Policy will govern the use of that information and any of that information combined with information collected through The Site. 
 
-If you are a California resident and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please e-mail your request to customerservice@claires.com or write to us at the following mailing address: 
+The Site is owned and maintained by the company "Claires Accessories UK Ltd", a company registered at the Companies Registration Office of England and Wales under the registration number 3115118, with registered office at Unit 4, Bromford Gate, Bromford Lane, Birmingham, B24 8DL, United Kingdom and with VAT registration number GB927124727 (the "Company" or "Claires").
 
-Claire's.com
+The site includes products (the "Goods" or the "Product(s)") of "Claire's Accessories UK Ltd". 
 
-Customer Services
+Wherever the terms "we," "our," or "us" are used in this privacy policy, we are referring to the practices of Claire's Accessories UK Ltd concerning the processing and collection of your information through the Site.
 
-2400 W. Central Rd., Hoffman Estates, IL 60192/p>
+From time-to-time, the Company may provide you with communications about your order, or otherwise concerning information you might be interested in receiving, such as e-mails about loyalty rewards, sales, special items, and general marketing information about the Products and services. If you make a purchase via the Site you may be, and most probably are, providing your information to the Company to process orders. We inform you that any information you provide may be fully shared between the Company and a third party with whom the Company has entered in any kind of relationship following the terms established in the present Privacy Policy.
 
-Attn: Corporate Attorney 
+We are committed to taking reasonable steps toward protecting your privacy online and to managing your information responsibly.
 
-You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and zip code. We will respond to you at your mailing address or, at our option, your e-mail address. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
+This Privacy Policy is intended to notify you of our online privacy practices, the type of information that may be collected and stored, how the information is used; with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; what kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; and, who to contact with questions or concerns. 
 
-## INFORMATION THAT WE COLLECT THROUGH THE SITE
+This Privacy Policy does not apply to other websites to which we may link. We may post such links on the Site as a way of helping you locate related information and products easily. However, when linking to another website, you must review that website's privacy policy as other websites may not treat information collected online in the same manner as we do, and even though you contact them though the Site, the Site does not hold any responsibility on the treatment by this other websites your personal information.
 
-#### Information that You Provide
+By using the Site, or contacting call centre operations, you consent to the collection and use of information by us in accordance with this privacy policy. If we decide to change our privacy policy, we will post those changes on this page.
 
-The Site may collect information, including "Personal Information" (which is information that can be used to specifically identify you personally, such as first and last name, e-mail address, telephone number, or home address), account information (password and other information collected to an account you create with us), demographic information (such as gender or age), information about your interests and preferences and other information about you.  We will also collect payment information if you choose to purchase products or services through the Site. If we combine demographic information or other non-Personal Information with Personal Information, then we will treat the combined information as Personal Information. Note that if you provide Claire's with information through another Claire's website, application or online service (such as Claires.com), we may combine that information with information we collect here.  The combined information will be subject to this privacy policy. 
+## WHY WE COLLECT INFORMATION
 
-There may also be times when you submit information about someone else, such as when you wish to send products, information or content from the Site. We (or our third-party service providers) use the information you provide about others (typically name and email address) to fulfill your request and not for any other purpose.
+We collect personal information because it helps us deliver Products and services. For example, if you order a Product, we need to have information such as your billing address, age, Product choice, delivery information, and payment processing information. In addition, your personal information helps us communicate to you latest Products, special offers, and information and events about which you might like to hear.
 
-PLEASE NOTE: The Site is a general audience website. Where we offer features that collect personal information, we typically restrict use of such features to users who have identified themselves as age 13 or older. There may be occasions where we offer a specific feature (such as a sweepstakes) or webpage that does allow children younger than age 13 to participate, in which case that feature will post a Children’s Privacy Policy and will, if required by applicable law, provide notice and obtain consent of a parent or legal guardian. . 
+We also collect your personal information to help us design and deliver Site operations, and to deliver targeted advertisements to you. We also may correlate your personal information obtained from you with information from other sources, which may help us to develop a more targeted user profile concerning you and/or your demographic information. For example, if you provide us with your personal information, we may cross-check that against information that might be otherwise available through other entities with whom we have business relationships in order to develop a more in-depth demographic profile of you. Similarly, we may process personal information to target specific items of interest to you. We know that everyone is busy, and nobody likes their email cluttered up with junk mail and as such we will only send you marketing messages if you choose to receive them from us. If you decide that you no longer want to receive our emails you can unsubscribe at any time by clicking and selecting 'Unsubscribe'.
 
-#### Information We Collect Automatically When You Access and Use the Site
+## WHAT INFORMATION WE COLLECT
 
-In addition to any Personal Information or other information that you choose to submit to the Site, we and our third-party service providers (including content and analytics providers and advertising companies) may use a variety of technologies that automatically or passively collect certain information whenever you visit or interact with the Site or one of our advertisements or other content elsewhere online ("Usage Information"). Usage Information may include the browser you are using, the URL that referred you to our Site, all of the areas within our Site that you visit, and the time of day, among other information. Our systems may also automatically gather information about the search terms you use on our Site and the links you select from within our Site to other areas of the Web or elsewhere online. In addition, we may collect your IP address or other unique identifier for your computer, cell phone, or other device used to access the Site (collectively referred to as a "Device Identifier"). A Device Identifier is a number that is automatically assigned to your computer, your cell phone, or other device used to access the Site, and our computers identify your device by its Device Identifier. Usage Information may be non-identifying or may be associated with you. Whenever we associate Usage Information or a Device Identifier with you, as an individual and identifiable person, we will treat it as Personal Information.
+The following generally describes the type of information we may collect about you. 
 
-Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context.  Like many websites and online services, the Site currently does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).  
+Those who wish to communicate with us but do not wish to provide personally identifiable information online may contact us through the address or phone numbers provided on our website. However, you should note that if you contact us by phone, or if you contact us via postal mail, you may still be submitting personally identifiable information to us. For example, if you have a listed phone number without blocking, your phone number may appear to us when you call. Similarly, if you write to us and provide a name and return address, we will gather that information in order to communicate with you, and we may use the information in accordance with this privacy policy.
 
-#### Cookies and Similar Technologies
+## SHOPPING
 
-The Site may include the following tracking technologies, and similar technologies, and which may be set and controlled by us or by our third-party service, advertising or content providers (including advertising services such as Google):
+When you shop on the Site, we will collect the information necessary to complete your order, such as your name, e-mail address, shipping address, payment information (including credit card number and/or debit card number) and billing address. 
 
-Cookies. A cookie is a data file placed on a device when it is used to visit the Site. A Flash cookie is a data file placed on a device via the Adobe Flash plugin that may be built into or downloaded by you to your device. Cookies and Flash Cookies may be used for many purposes, including, without limitation, remembering your device and your preferences and tracking (and serving advertisements elsewhere online based on) your visits to our web pages. For more information about Flash and the privacy choices Adobe offers, visit this [site.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html) If you choose to disable cookies or Flash cookies on your device, some features of the Site may not function properly. 
+You may also choose to provide us with your gender and birth date, as well as other information that you might submit.
 
-Web Beacons. Web beacons are small graphic images or other programming code (also known as "1x1 GIFs" or "clear GIFs"). We may include web beacons in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Site, to monitor how users navigate the Site, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed. Web beacons may be used to collect certain Personal Information (for example, the e-mail address associated with an e-mail message).
+If you create an account, we will collect information about your purchases and payment methods, as well as the shipping addresses that you add to your address book, in order to make future shopping experiences faster and more convenient. We will use this information to process your transaction and despatch your order. Any data that is necessary to process your order is mandatory, the consequence of the refusal to provide it is that we will not process said order, on the other hand any information that is not necessary to process your order is not mandatory and the refusal to provide it has no consequence on the processing of your order.
 
-Embedded Scripts. An embedded script is programming code that is designed to collect information about your interactions with the Site, such as the links on which you click. The code is temporarily downloaded onto your computer, mobile device or other device from our web server or a third-party service provider, is active only while you are connected to the Site, and is deactivated or deleted thereafter.
+## GENERAL BROWSING
 
-In addition, we may use a variety of other technologies on the Site that collect information for security and fraud detection purposes.
+We do not automatically collect your home address, email address, telephone number, and product preferences unless you voluntarily input this information, such as during a registration or ordering process, or when you submit questions or comments, request information, or participate in online surveys, contests, promotions or other activities. 
 
-#### Information from Other Sources
+If you do not want us to collect and process and use your personal data other than the one necessary to fulfil the contractual obligations, please abstain yourself from filling this fields in any of the above.
 
-We may receive information about you from our parent, subsidiary or affiliated companies.  We also may receive information from third parties. For example, if you are on another web site and you opt-in to receive information from our Site, the third-party web site may forward to us your e-mail address and other information about you so that we may contact you as requested.  We may supplement the information we collect about you online with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you. If we combine Personal Information we receive from other sources with information we collect through the Site, we will apply this Privacy Policy to the combined Personal Information.
+Even if you do not submit personal information through the Site, we gather navigational information about where visitors go on the Site and information about the technical efficiencies of the Site and services (i.e., time to connect to the website, time to download pages, etc.). This information allows us to see which areas of the Site are most visited and helps us better understand the user experience. This helps us improve quality by recognising and delivering more of the features, areas, and services our visitors prefer. In this process of gathering information, we may collect for example, domain type, browser type and version, service provider and IP address, referring/exit pages, operating system, date/time stamp, and click-stream data). We may also create and use electronic records to compile statistics about how our visitors collectively interact with the Site.
 
-The Site may permit you to interact with a third-party site or service, such as enabling you to "like" us on another site or "share" content from the Site with other sites (a “Social Networking Service”). If you choose to "like" or "share" content or to otherwise post information from or via the Site to a Social Networking Service, that information may be publicly displayed, and the third party may have access to certain information about you and your use of the Site. Similarly, if you interact with us through a Social Networking Service, we may have access to information about you (for example, if you "like" or "follow" our page on a third-party site).  Please note that if you mention or comment upon Claire's or the Site in your post to a third-party platform, the third-party platform may allow us to publish your post on the Site.
+## HOW WE COLLECT INFORMATION
 
-You may also choose to use a social media tool offered by a third party, but available on the Site (such as posting a review or logging into the Site with your username and password for another site, such as the Facebook Connect feature). Use of such a feature may allow us to collect (or the third party to share) information about you, including Personal Information. Information about you, including your name and profile photo, may be shown to other users of the Site if you are logged in through the Site or through a third-party web site or service or if you have previously posted content to the Site while logged in. When you choose to use a social media tool available through the Site, you may be opting to link your activity on our Site with that third-party web site or service, which may then collect information about your visits to our Site and may publish that activity as you request to your profile or similar feature with that third party.  For example, when you link your Facebook account to the Site using Facebook Connect, your likes, product reviews, and Wish List additions will be shared on your Facebook account unless you disable that sharing. 
+We collect information in three primary ways:
 
-In addition, we may receive information about you if other users of a third-party web site give us access to their profiles and you are one of their "connections" or information about you is otherwise accessible through your "connections" web page, profile page, or similar page on a social networking or other third-party web site or interactive service. 
+1\. You give us information: We collect information from you when you purchase a service from us or when you interact with us about a Product or service we offer or provide. For example, you provide us when you order a Product or establish an account with us. 
 
-The information we collect is subject to this Privacy Policy. The information collected and stored by the third party remains subject to the third party's privacy practices, including whether the third party continues to share information with us, the types of information shared, and your choices with regard to what is visible to others on that third-party web site and service. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected.
+2\. We collect information automatically: We automatically collect certain types of information when you visit the Site or use products and services. For example, we automatically collect various types of technical information when you use the Site as otherwise described in this privacy policy.
 
-#### User Content and Community Forums
+3\. We collect information from other sources: We may obtain information about you from outside sources. For example, we may obtain commercially available information about you from third parties, such as demographic information for advertising and marketing purposes. We may also receive information from third-parties who provide third-party tracking services through web-beacons as otherwise discussed in this privacy policy.
 
-The Site may offer message boards, blogs, chat rooms, product reviews, and other public areas (collectively, "Community Forums") that give you the opportunity to share your opinions on products, engage in social networking, interact with others, or submit photographs, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, "User Content").
+## Facebook and Other Third Party Connections. 
 
-Note that anything you post to a Community Forum is public. Others will have access to your User Content and may use it or share it with third parties. If you choose to voluntarily disclose User Content publicly, the protections of this Privacy Policy will not cover your disclosure of that information or content. Think carefully before you post and use caution before disclosing any Personal Information. 
+You can connect your Claire's account to your accounts on third party services like Facebook, in which case we may collect, use, disclose, transfer and store/retain information relating to your account with such third party services in accordance with this Privacy Policy. For example, if you connect with Facebook, we store your Facebook id, first name, last name, email, location, friends list and profile picture and use them to connect with your Facebook account to provide certain functionality on the Services, like recommending events that your Facebook friends are interested in and sharing the events you are interested in, or attending, with certain groups of people like your Facebook friends. 
 
-If you choose to submit User Content, your User Content may be published online or offline in any medium or format (currently existing or hereafter developed). Subject to applicable law, we may also publish your name, voice, likeness and other Personal Information with your User Content, and may use the User Content, or any portion of the User Content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Content you submit, please review our [Terms of Use](https://web.archive.org/us/content/terms-of-use).
+## USE OF COOKIES
 
-## HOW WE USE THE INFORMATION COLLECTED
+Cookies are bits of electronic information that a website may transfer to a visitor's computer to identify specific information about the visitor's visits to a website. The Site uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies are typically stored on your computer's hard drive and are used to help track clicks as you go through the pages within the Site. 
 
-Claire's may use information collected through the Site, including Personal Information and Usage Information, in order to: (1) send you information regarding Claire's or information from us relating to a third party; (2) enable you to use the Site and participate in the Site's features and provide related customer service; (3) tailor the content, recommendations, and offers we display to you, both on the Site and elsewhere online; (4) process your registration or transaction with the Site, including verifying your information is active and valid; (5) respond to your questions or other requests; (6) improve the Site or for other internal business purposes; (7) contact you with regard to your use of the Site and, in our discretion, changes to the Site and/or policies; and (8) as described in this Privacy Policy and for purposes disclosed at the time you provide your information or otherwise with your consent. 
+Our cookies do not contain any sensitive information, such as your name, address or payment details.
 
-## HOW AND WHEN WE DISCLOSE INFORMATION TO THIRD PARTIES
+We may also use cookies to tell us whether you have previously visited the Site. We also use cookies which may be set by third-parties with whom we have entered into agreements which may enable us to obtain other information about you as may be available from those third-parties, such as demographic data about you. You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. You may also use commonly available tools in your browser to remove cookies which may have been placed onto your computer. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that store cookies. Alternatively you may wish to visit [www.aboutcookies.org](https://www.claires.co.uk/privacy/content/www.aboutcookies.org) which contains comprehensive information on how to manage cookies on a wide variety of browsers. However, please note that if you disable the use of cookies on your computer, some functionality of our site will not work you will not be able to shop on our Site, only browse. We will not use FLASH cookies, unless you are specifically notified that we intend to use them for a specific service, and you are given the opportunity to opt-out from receiving such cookies. FLASH cookies are cookies that are placed on your computer that are not removed through normal browser management tools, but the developer of the FLASH programming language currently has an on-line management tool to allow you to remove these FLASH cookies.
 
-Claire's may share non-personally identifiable information, such as Usage Information and aggregated user statistics, with third parties, including advertisers, content providers, and analytics providers, in our discretion and for a variety of purposes. We do not share your Personal Information with unaffiliated third parties for those third parties' marketing purposes unless we first provide you with the opportunity to opt-in to or opt-out of such sharing. We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information, or with your consent, and as described in this Privacy Policy, including: 
+## OUR COOKIES POLICY
 
-#### Third Parties Providing Services on our Behalf 
+Please find below the list of cookies that we use:
 
-We may use third-party vendors to perform certain services on behalf of the Site, such as hosting or operating the Site, sending e-mail and/or other communications, data analysis, marketing assistance, customer service, and performing other administrative services. These third parties may have access to user information, including Personal Information, for the purpose of performing services on behalf of the Site or our users. If you purchase any products or services, our billing partner will receive billing and financial information (e.g., credit card numbers) necessary to process your charges, including your postal and e-mail addresses, depending on your payment method.
+Cookie Name | Description | Session or Persistent? | Expiry Time (if persistent) | Exempt?  
+---|---|---|---|---  
+JSESSIONID | Unique user session id - used directly by FCP to handle things such as basket management | Session |   | Y  
+K-JSESSIONID-gdncaoo | These cookies are used to identify linked requests from a browser to ensure that the shopping cart works. | Session |   | Y  
+X-Mapping-gbooldlg | These cookies are used to identify linked requests from a browser to ensure that the shopping cart works. | Session |   | Y  
+country_iso | ISO code of the country setting of the browser | Persistent | 60 Days | N  
+currency_iso | ISO of the currency code for the country | Persistent | 60 Days | N  
+nextPreviousIds | Product IDs of the previous and next products if next previous functionality is used on product details screen |   |   | N  
+view_format | The number of columns of products shown on the listings page |   |   | N  
+lastCategory | last browsed category, used for breadcrumbs (may be superseded by fcp_last_category) | Persistent | 31 Days | N  
+lastSuccessfulCategory |   | Persistent | 31 Days | N  
+fcp_last_category | last browsed category, used for breadcrumbs | Persistent | 31 Days | N  
+fcp_shopping_basket | Retains the customer's shopping basket contents between sessions. (See Basket Retention for more information about this one) | Persistent | Set as BASKET_COOKIE_MAX_AGE in seconds | N  
+currentLAT | Used by the store finder when using ‘autofind’ to store current Latitude | Persistent | 7 Days | Y  
+currentLNG | Used by the store finder when using ‘autofind’ to store current Longitude | Persistent | 7 Days | Y  
+_qPageNum_claires | Used to store how many pages have been visited | Session |  | N  
+Cookie Name | Description  
+---|---  
+FCP_MOBILE_LAST_CATEGORY | The last category that the customer looked at. Used in site navigation, for the 'Next' and 'Previous' buttons.  
+FCP_MOBILE_LAST_SEARCH | The last on-site search the customer did.  
+FCP_MOBILE_PRODUCT_IDS | Present but not used?  
+_qPageNum_claires | Used to store how many pages have been visited  
+Cookie Name | Party Using It  
+---|---  
+ARPTH | Bazaar voice  
+BIGipServerprod-c5c-prr-http | Bazaar voice  
+prr-sip | Bazaar voice  
+goto | Bazaar voice  
+qa-sip | Bazaar voice  
+__utma | Google Analytics  
+__utmb | Google Analytics  
+__utmc | Google Analytics  
+__utmz | Google Analytics  
+PREF | Google Analytics  
+Apis.google.com | Google Analytics  
+_qPageNum_claires_mobile | Used to store how many pages have been visited  
+_qsst | Qubit  
+_qsst_s | Qubit  
+_qst | Qubit  
+_qubitTracker | Qubit  
+Com.silverpop.iMA.page_visit | Silverpop  
+Com.silverpop.IMA.session | Silverpop  
+Com.silverpop.iMAWebCookie | Silverpop  
+Sli_basket_count | SLI count items in basket  
+Sli_currency_iso | Used by sli to detect currency iso  
+Sli_fcp_shopping_basket | Used by sli to store current basket  
+Uid | SLI  
+SLI1_59187953 | SLI  
+Ve interactive(id) | Used by VE interactive   
+S7.addthis.com | Used by add this for social widgets  
+Mobile_app | Used to detect if user if accessed the mobile site via app  
+Mt.y |   
+Monetate | Monetate (vary from experience to experience)  
+  
+## USE OF WEB BEACONS, CLEAR-GIFS, PIXEL TAGS AND JAVASCRIPT
 
-#### Administrative and Legal Reasons
+We also use "pixel tags" (also called "action pixels," "web beacons" or "clear gifs") and/or JavaScript plug-ins, placed on our website and in our emails to you. 
 
-We may transfer and disclose your information, including Personal Information, to third parties: (i) to respond to subpoenas or other legal process or if, in our good faith opinion, such disclosure is required by law; (ii) at the request of governmental authorities conducting an investigation; (iii) to protect and/or defend the Site's [Terms of Use](https://web.archive.org/us/content/terms-of-use) or other policies applicable to the Site; or (iv) to protect the personal safety, rights, property, or security of Claire's or any other organization or individual. We may also use IP addresses or other Device Identifiers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers, or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you.
+These web beacons and plug-ins are small graphic images (typically that you cannot see) or code on a website or in an email message which are used for such things as recording web pages and advertisements clicked-on by a user, or for tracking the performance of email marketing campaigns. These devices help us analyse our customers' online behaviour and measure the effectiveness of the Site and advertising. We also work with third-party service providers that help us track, collect, and analyse this information. Third-party entities with whom we have agreements may place these devices on the website and/or in e-mails to use information obtained from them such as pages viewed, items purchased, e-mails opened and items upon which you may click in e-mails. These third-party providers may also place cookies onto your computer. Those third-party cookies may enable us to obtain aggregate demographic information and user statistics about you and your preferences from these third-party sources as well as our information we have about you.
 
-#### Business Transfers
+## WIDGETS AND SERVER LOGS
 
-We may share information we collect, including Personal Information, with our parent, subsidiaries, and affiliates primarily for business and operational purposes. We may also disclose and transfer your information, including Personal Information, in connection with a corporate merger, consolidation, or restructuring; the sale of certain of our ownership interests, assets, or both; or other corporate change, including, without limitation, during the course of any due diligence process.
+A "widget" is generally an application that can be embedded in a web page. Widgets can provide real-time information to the page. Widgets are often provided by third-parties and we may provide widgets on the Site. Widgets may enable the third-parties that provide them to collect data about users visiting the Site. We may also obtain information shared with us through the providers of these widgets. 
 
-#### Sweepstakes, Contests and Promotions
+A web "server log" is a record of activity created by a computer that delivers certain web pages to your browser. Certain activities that you perform on the Site may record information in server logs, such as if you enter a search term into a search box located on the Site. The server log may record the search term, or the link you clicked on to bring you to the Site. The server log may also record information about your browser, such as you IP address and the cookies set on your browser.
 
-We may offer sweepstakes, contests, and other promotions (any, a "Promotion") through the Site that may require registration. By participating in a Promotion, you are agreeing to the terms, conditions or official rules that govern that Promotion, which may contain specific requirements of you, including (except where prohibited by law) allowing the sponsor(s) of the Promotion to use your name, voice, likeness, and/or other indicia of persona in advertising or marketing. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion or as required by law, such as in connection with winner selection or prize fulfillment and as otherwise permitted under the Promotion's official rules. 
+## SEARCH QUERIES ON OUR WEBSITE
 
-## THIRD PARTY AD NETWORKS, ANALYTICS PROVIDERS, AND SIMILAR THIRD PARTIES
+We may provide you with options to search for information on the Site. If you enter information in a search query box, we may store that information and we may aggregate that information with other information we may have about the browser and/or IP address from which the search query originated.
 
-We work with network advertisers, ad agencies, third-party traffic measurement services, and other vendors (which may include Google) to provide us with information regarding traffic on the Site, to serve our advertisements elsewhere online, including advertisements based upon your prior visits to the Site, and to provide us with information regarding the use of the Site and the effectiveness of our advertisements. 
+## HOW WE USE THE INFORMATION WE COLLECT
 
-These service providers may collect certain information, including personal information, over time about you and your visits to the Site or other web sites. These third parties may set and access their own tracking technologies on your computer or mobile device, including cookies and web beacons,[Link to page anchors at the “Cookies” and “Web Beacons” sections above] and may otherwise collect or have access to your Device Identifier and information about your visits to and activity on the Site as well as other web sites or online services. 
+We use the information we collect in a variety of ways. Generally, using all of the above mentioned, and similar type tools, we may collect, aggregate, and use information from or about you such as data about the type of browser and operating system used, which web pages you view, the time and duration or you visits to our Site, the search queries you may use on the Site, whether you clicked on any advertisements, whether you have clicked on any links in any e-mails sent from us, or third-parties on our behalf, whether you have chosen to opt-out of certain services or information sharing, and whether you have viewed or ordered certain products or services. 
 
-Cookies and web beacons, including those set by third-party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. We may share Device Identifier and Usage Information about visitors with third-party advertising companies, analytics providers and other vendors for similar purposes. 
+We use the information we collect internally in our business for many business purposes, such as to: (i) provide the products or services you may order, including processing orders, return and third party payment providers; (ii) analyse trends and conduct research about improving our products and services; (iii) provide support and respond to questions from customers and visitors; (iv) improve the Site, products or services; (v) learn about customers' needs; (vi) contact consumers for research, informational, and marketing purposes, including customising our product recommendations to you based upon your information and purchases; (vii) track traffic patterns and site usage; (viii) enable online ordering and provide customer service with respect to such orders; (ix) correlate information with other commercially available information to identify demographics and preferences to assist us in our marketing efforts; (x) provide specific relevant marketing, promotional, or other information to you; (xi) address information security and/or privacy practices control, network functioning, engineering, and troubleshooting issues; (xii) investigate claims and/or legal actions, violations of Terms of Use, and compliance with relevant applicable laws and legal process; (xiii) comply with law, or based on our good faith belief that it is necessary to conform or comply with the law, or otherwise to disclose information to the agencies concerned to: prevent fraud, to reduce credit risks, to cooperate with police and other governmental authorities, or to protect the rights, property or safety of visitors to the website or the public.
 
-We use a variety of service providers to perform advertising services. Some of these companies are members of the Network Advertising Initiative (“NAI”) or the Digital Advertising Alliance (“DAA”) Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt_out.asp, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit or http://www.aboutads.info/choices/, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note opting out through these mechanisms does not opt you out of being served advertising. You will continue to receive generic ads while online.
+We may also share personally identifiable information and non-personally identifiable information externally with other third-party service providers, which might include, but is not necessarily limited to the companies who handle our order despatch service, payment provider and our delivery company, business entities that provide e-mail address management and communication contact services, network equipment and application management providers and hosting entities, credit and debit card payment gateways and processors and the issuing and acquiring banks involved in the funds settlement procedures necessary to charge your cards or financial accounts, entities which obtain information such as demographic information which might be aggregated with information we have about you, judicial, administrative and/or legal or financial accounting providers in the event that information must be reviewed or released in response to civil and/or criminal investigations, claims, lawsuits, or if we are subject to judicial or administrative process (such as a subpoena) to release your information or to prosecute or defend legal actions, and other service providers which may be involved in the other types of services and activities otherwise discussed in this privacy policy. In the cases where it is required by data protection legislation We will enter into written agreements with these third-parties, to place contractual restrictions on these third-parties from further transmitting your personal data and the treatment of said data outside of the uses and processing necessary to fulfil their contracts with us. We will only provide these third parties with the information which they need to carry out their jobs. We may also use your personally identifiable information to contact you in ways other than e-mail or regular mail, such as via telephone contact and/or mobile messaging and texts to your mobile phone through SMS. 
 
-## LINKS TO THIRD-PARTY SITES AND SITE CONTENT ON THIRD-PARTY SITES
+Some elements on the Site, such as any sponsored links advertising, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements for display. We may share the following information with such third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited prior to clicking through to the Site; (c) your browser and platform type; (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries or word look-ups you submit.
 
-The Site may include links to other web sites that are operated and controlled by third parties that we do not control. In addition, Site widgets or other Site content may be included on web pages and web sites that are not associated with us and over which we have no control. These third parties may collect their own Usage Information or solicit and collect Personal Information. Claire's is not responsible for the practices or content of any third party.
+## YOUR CHOICES ABOUT THE INFORMATION WE COLLECT
 
-## UPDATING YOUR INFORMATION AND YOUR CHOICES
+If you do not consent to the way in which we may use your personal information, please do not submit any personal information to us.
 
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. You can correct or update certain Personal Information you have provided through your registration by logging in to your account and using the links provided on the "My Profile" or similar page of the Site. Claire's will make good faith efforts to make requested changes in our then-active databases. When you edit your Personal Information on the Site, information that you remove may persist internally for administrative purposes. Also, please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. If you have made any public postings on the Site, such as in Community Forums or other online community sections of the Site, these communications cannot generally be removed.
+If you do not wish to receive e-mails about special offers, new fashion trends, contests and other promotions from us click the unsubscribe link located in our e-mails. 
 
-Also, users who receive a newsletter or other marketing e-mails from us and who wish to remove themselves from the mailing list can do so by following the link provided in an e-mail received. However, please note that we reserve the right to send you certain communications relating to your account or use of our Site (such as service announcements, notices of changes to this Privacy Policy or our [Terms of Use](https://web.archive.org/us/content/terms-of-use), and similar administrative messages), and these transactional account messages may be unaffected if you opt-out from marketing e-mails. If you sign up to receive SMS or MMS messages from the Site, you may unsubscribe from any SMS or MMS messages received by replying "STOP." Please note that mobile messaging is only available to U.S. residents.
+If you do not wish for us to share your personal information for any promotional or marketing purposes, please contact us and inform us of your wishes. Please provide enough information for us to determine the nature of your request.
 
-## CONSENT TO TRANSFER
+## PRIVACY OF CHILDREN WHO VISIT THE WEBSITE
 
-Claire's is a United States corporation. Please be aware that any information you provide to us may be transferred to, processed in, and stored in the United States, Ireland (where the Site is hosted), and elsewhere in the world. As a result, this information may be subject to access requests from governments, courts, or law enforcement agencies in such countries (including the United States) according to their respective laws. By accessing our Site, participating in any of our services, and/or providing us with your information, you consent to the transfer, processing and storage of your information in the United States, Ireland, and elsewhere in the world. The privacy laws of the jurisdiction where information is transferred, processed, or stored may not be as comprehensive as those in the country where you reside and/or are a citizen.
+We recognise the importance of children's safety and privacy. We do not request, or knowingly collect, any personally identifiable information from children under the age of 12.
+
+## INFORMATION STORED OUTSIDE OF THE UNITED KINGDOM
+
+When visiting the Site your connection will be through and to servers located in the United Kingdom. All information you receive from us will be created on servers located in the United Kingdom, and all information you provide will be maintained on web servers and systems located in the United Kingdom. The data protection laws in the United Kingdom might not be the same as the laws in other countries. By using the Site and/or submitting information to us, you specifically consent to the transfer of your information to the United Kingdom to the facilities and servers we use, and to those with whom we may share your information.
+
+## UPDATING PERSONAL INFORMATION
+
+We prefer to keep your personal information accurate and up-to-date. If you have a registered account with us would like to change your contact information, please visit ‘My Account' section and update your personal information details.
+
+## LINKS
+
+For your convenience, the Site may contain links to other websites. We are not responsible for the privacy practices, advertising, products, or the content of such other websites. None of the links should be deemed to imply that we endorse or have any affiliation with the links.
 
 ## SECURITY
 
-We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Site and provide us with your information at your own risk.
+We believe in providing a safe and secure experience for all of our online visitors. To that end we have implemented security measures to protect the information collected from you. 
 
-## CHANGES TO THE PRIVACY POLICY
+Please note that no data transmitted over the Internet or stored and utilised for business purposes can be guaranteed to be completely secure. No security measures are perfect or impenetrable. We cannot guarantee that only authorised persons will view your information. We cannot ensure that information you share on the Site will not become publicly available. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
-We reserve the right to change this Privacy Policy at any time and any changes will be effective immediately upon the posting of the revised Privacy Policy on the Site. In the event that there are material changes to the way we treat your Personal Information, we will provide notice through the Site.  We may also notify you by email or through other contact means in our sole discretion.  However, unless you consent, we will not use your Personal Information in a manner materially different than what was stated at the time it was collected.
+## QUESTIONS / CHANGES IN POLICY
 
-## QUESTIONS? CONTACT US
-
-If you have any questions about our Privacy Policy, you can contact Claire's.com customer service via email at customerservice@claires.com, or you may call us at 1-800-CLAIRES, or write us at:
-
-Claire's.com
-
-Customer Services
-
-2400 W. Central Rd., Hoffman Estates, IL 60192
-
-Attn: Corporate Attorney
+If you have questions or concerns with respect to our privacy policy, please contact us at enquiries@claires.co.uk. We may elect to change or amend our privacy policy; in such event, we will post the policy changes in our privacy policy on the Site.
