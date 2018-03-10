@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220003758id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkfun.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310194505id_/https%3A//www.sparkfun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkFun Electronics
 
