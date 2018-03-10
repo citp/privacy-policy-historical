@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the echt.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192315id_/https%3A//echt.com.au/pages/faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echt.com.au privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310161609id_/https%3A//echt.com.au/pages/faq) for the most accurate reproduction.*
 
-# Privacy Policy - Echt Apparel | Performance X Streetwear
+# Privacy Policy - Echt Apparel | Engineered for the Modern Day Athlete
 
 **PRIVACY STATEMENT**
 
