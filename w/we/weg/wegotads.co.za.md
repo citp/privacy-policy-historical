@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegotads.co.za privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230134315id_/http%3A//www.wegotads.co.za/privacy.cmp%3F%26sfid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotads.co.za privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310191842id_/http%3A//wegotads.co.za/privacy.cmp%3F%26sfid%3D1) for the most accurate reproduction.*
 
 # Independent Classifieds : Place a classified advertisement in any one our 18 newspaper titles, sold across South Africa?s metropolitan areas with sales in excess of 2,3 copies per week and have the same advertisement placed on online for FREE.
 
