@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106211408id_/http%3A//www.gtxcel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texterity.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310042000id_/http%3A//www.gtxcel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GTxcel
+# Privacy Policy - GTxcel
 
 GTxcel, Inc. and its subsidiaries (“GTxcel” also referred to as “we” or “us”) provide this Privacy Policy to help you understand how we collect, use, and disclose information, including personal information that you may provide to us, information that may be obtained through your use of this website..  **This Privacy Policy applies only to this website, at www.gtxcel.com (“Website”), and GTxcel email, and does not apply to any other GTxcel websites, any website or digital edition we may create for a customer, or to any third-party websites.** BY VISITING OUR WEBSITE, YOU SIGNIFY YOUR AGREEMENT TO THIS PRIVACY POLICY AND CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL INFORMATION BY GTXCEL CONSISTENT WITH THIS PRIVACY POLICY.  PLEASE READ THIS PRIVACY POLICY TO UNDERSTAND OUR PRACTICES.  IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, DISCONTINUE ALL USE OF OUR WEBSITE.
 
