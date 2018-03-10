@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hmtweb.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902173750id_/https%3A//www.gsqi.com/imd/%3Fp%3D2299) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmtweb.com privacy policy that was archived on 2018-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180310200632id_/https%3A//www.gsqi.com/imd/%3Fp%3D2299) for the most accurate reproduction.*
 
 # G-Squared Interactive Privacy Policy | Internet Marketing Driver
 
-This privacy notice discloses the privacy practices for G-Squared Interactive ** ** and our website; http://www.gsqi.com **.** This privacy notice applies solely to information collected by this website, except where stated otherwise.
+This privacy notice discloses the privacy practices for G-Squared Interactive ** ** and our website; https://www.gsqi.com **.** This privacy notice applies solely to information collected by this website, except where stated otherwise.
 
 **Information Collection, Use, and Sharing**  
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
