@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220234211id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operasoftware.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311204229id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Opera
 
@@ -48,7 +48,7 @@ Some products may require your personal data to function properly. Wherever tech
 
 When we collect your data, we associate it with a unique ID and a unique device ID that are generated when you install an Opera product or begin using one of our services. These identifiers are anonymized and cannot be linked to you as an individual person. We also take measures to remove any possible connections between these IDs and other types of personal data.
 
-To collect information automatically, we may use [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), [web beacons](https://en.wikipedia.org/wiki/Web_beacon), our own data-collection tools or various third-party services.
+To collect information automatically, we may use cookies, web beacons, our own data-collection tools or various third-party services.
 
 Some third-party sites may monitor data traffic from our products and services, such as numbers of hits and the search terms used. We do not make available any personally identifiable information to these services.
 
@@ -101,6 +101,7 @@ For privacy policies and questions specifically related to the Opera products an
   * [Opera Mini](https://web.archive.org/privacy/mini)
   * [Opera Mini for Android](https://web.archive.org/privacy/mini/android)
   * [Opera Mini for iOS](https://web.archive.org/privacy/mini/ios)
+  * [Opera News](https://web.archive.org/privacy/operanews)
   * [Opera websites](https://web.archive.org/privacy/websites)
   * [Opera services](https://web.archive.org/privacy/services)
 
