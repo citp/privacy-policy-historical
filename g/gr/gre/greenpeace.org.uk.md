@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006144917id_/https%3A//www.greenpeace.org.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org.uk privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311073123id_/https%3A//www.greenpeace.org.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Greenpeace UK
 
@@ -28,12 +28,6 @@ This policy explains:
     5. How you can opt out of receiving messages from Greenpeace UK
     6. How Greenpeace UK protects children’s privacy
     7. How you can find out more about your rights under the Data Protection Act
-      * Administering your donations and membership
-      * Contacting you with information and updates about our campaigns and events in your area
-      * Fundraising
-      * Administering volunteer records
-      * Supporter surveys
-      * Research and analysis
 
 
 
