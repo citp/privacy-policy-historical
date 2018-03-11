@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2017-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170715124907id_/https%3A//www.house.gov/content/site_tools/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311183347id_/https%3A//www.house.gov/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy · House.gov
+# Website Privacy Policy | House.gov
 
 This privacy policy applies to the central website of the U.S. House of Representatives. Websites of individual offices of the House of Representatives may have their own privacy policies.
 
@@ -34,11 +34,11 @@ If you choose to identify yourself (or otherwise provide us with personal inform
 
 ## How Long We Keep Information
 
-We reserve the right to retain all information provided for as long as the information is needed.
+We may keep information that will collect for an unlimited period of time.
 
 ## Security
 
-Please note that electronic communication, particularly email, is not necessarily secure against interception. Please do not send sensitive data (e.g., Social Security, bank account, or credit card numbers) by email or web form unless necessary.
+Please note that electronic communication, particularly email, is not necessarily secure against interception. Please do not send sensitive data (e.g., Social Security, bank account, or credit card numbers) by email or web form.
 
 ## Cookies
 
@@ -46,11 +46,10 @@ We may use cookies in order to customize this site for return visitors.  These 
 
 ### Google Analytics
 
-We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as [amended for government websites](http://www.howto.gov/sites/default/files/google-analytics-tos-amendment.pdf "amendments for government websites of the Google Analytics Terms of Use")) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) (as amended for government websites) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
 
 ## Site Monitoring
 
 For site security purposes this government computer system employs software programs to monitor network traffic. Anyone using this system consents to the monitoring of their use by system or security personnel.
 
 Unauthorized use, tampering with or modification of this system—or its supporting hardware or software—may violate federal or other statutes and may subject the violator to criminal and civil penalties. In the event of unauthorized intrusion, all relevant information regarding possible violation of law may be provided to law enforcement officials.
-  *[IP]: Internet Protocol
