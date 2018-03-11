@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328200647id_/https%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311030115id_/https%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -102,7 +102,7 @@ We may need to disclose relevant personal information to external organisations 
 
 They include: 
 
-  * **LINK Group/AAS**  – Has been contracted by the fund for the provision of member and employer services, including the administration of insurance cover. The Link Group manage the database where your personal information is stored. AAS is a member of the Link Group of companies. Please refer to the Link Market Services website, [www.linkgroup.com](https://web.archive.org/web/20170328200647id_/https%3A//hostplus.com.au/www.linkgroup.com)
+  * **LINK Group/AAS**  – Has been contracted by the fund for the provision of member and employer services, including the administration of insurance cover. The Link Group manage the database where your personal information is stored. AAS is a member of the Link Group of companies. Please refer to the Link Market Services website, [www.linkgroup.com](https://web.archive.org/web/20180311030115id_/https%3A//hostplus.com.au/www.linkgroup.com)
   * **Third party vendors** – engaged by the LINK Group/AAS, such as information technology, printing, mailing, and address verification vendors.  
 A commercial organisation may also be used to independently verify your identification details prior to processing a benefit payment request or claim. 
   * Our insurers including but not limited to Metlife Insurance Limited (Metlife) - are responsible for administering your insurance arrangements and processing any claims. 
