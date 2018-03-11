@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dhfl.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109082526id_/http%3A//www.dhfl.com/dhfl-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhfl.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311073244id_/http%3A//www.dhfl.com/dhfl-privacy-policy) for the most accurate reproduction.*
 
 # DHFL Privacy Policy - Terms & Conditions
 
