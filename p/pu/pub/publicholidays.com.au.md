@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publicholidays.com.au privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630065849id_/https%3A//publicholidays.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicholidays.com.au privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311192714id_/https%3A//publicholidays.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PublicHolidays.com.au
 
 Our privacy policy sets out how Public Holidays Global uses and protects any information that you give Public Holidays Global when you use this website.
 
