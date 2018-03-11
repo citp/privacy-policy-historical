@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sabserial.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109203335id_/http%3A//sabserial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sabserial.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311073833id_/http%3A//sabserial.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -22,4 +22,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **CONTACT INFORMATION**
 
-Should you have other questions or concerns about these privacy policies, send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5a5a7bca3b4b6ac95a6b4b7a6b0a7bcb4b9fbb6bab8)
+Should you have other questions or concerns about these privacy policies, send us an email at [privacy@sabserial.com](mailto:privacy@sabserial.com)
