@@ -1,114 +1,194 @@
-> *The following text is extracted and transformed from the i-on.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924121250id_/http%3A//www.ioninteractive.com/Director.aspx%3Fsid%3D3360%26sky%3DQUTNRRJZ%26pgi%3D22567%26pgk%3D3XOX7VZG%26eli%3D3A219310BED08833449B76C4A4B622B21EDEBDFF81ACBEE8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-on.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311222327id_/https%3A//www.ioninteractive.com/Director.aspx%3Fsid%3D3360%26sky%3DQUTNRRJZ%26pgi%3D22083%26pgk%3DPZJ6RIO4%26eli%3D5D83F50F96DCCD8DB9BBD89759E7F53F4D6F9B463F7FB01B) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Cookies - Interactive Content Marketing Solutions | ion interactive
 
-PRIVACY POLICY
+**PRIVACY POLICY**
+
+ **Revised May 18, 2018**
+
+This Privacy Policy (the "Policy") becomes effective on May 18, 2018 for all users, provided that enhanced data protection rights in this Policy required by the EU General Data Protection Regulation (including, without limitation, the "EEA Resident Rights" described herein) become effective on May 25, 2018 for all EU-resident users who are natural persons.
 
  **Privacy Information**
 
-This online privacy policy (the "Policy") applies to all information gathered by i-on interactive, inc. ("ion") online through web sites operated by its customers and utilizing ion’s software and/or services. The purpose of this Policy is to provide you with information about ion’s collection, use, maintenance and disclosure of your information gathered by ion on behalf of its customers. 
+This online privacy policy (the "Policy") applies to all information gathered by Scribble Technologies Inc. and its affiliates and subsidiaries, including i-on interactive Inc., Visually Inc., Trapit, Linkdex, and Engage ( collectively “ScribbleLive”). The purpose of this Policy is to provide you with information about ScribbleLive’s collection, use, maintenance and disclosure of your information gathered by ScribbleLive.
 
- **EU-U.S. Privacy Shield Privacy Policy**
+ **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Frameworks**
 
-ion complies with the U.S.-EU Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  ion has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Privacy Shield program, and to view ion’s certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/)
+ScribbleLive affiliates, i-on interactive, Inc. and Visually, Inc. comply with the U.S.-EU Privacy Shield  and Swiss-U.S. Privacy Shield Principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  i-on interactive, Inc and Visually, Inc. have certified that they adhere to both Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view i-on interactive, Inc and Visually, Inc. certification, please visit[ http://www.privacyshield.gov](http://www.privacyshield.gov/) With respect to personal data received or transferred pursuant to the Privacy Shield, i-on interactive, Inc. and Visually, Inc. are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (FTC).
 
-Privacy Principles 
+ **Privacy Principles**
 
  **Notice**
 
  **Types of Information we Collect**
 
-ion does not collect personal information directly from its customer’s clients, however, ion, on behalf of its customers, collects certain information through its customer's websites.  In the event you visitour customers website, some of the information collected by ion is anonymous data regarding the usage of the website. This information does not personally identify users, by itself or in combination with other information, and is gathered to improve the performance of the website. The anonymous data collected by ion can include information such as the type of browser you are using, and the length of the visit to the website. 
+ScribbleLive collects data directly from you to help provide you with the best experiences with our services and products. ScribbleLive may collect information from you in three ways; 1) through websites operated by ScribbleLive, 2) your use of our services, and 3) information you provide.
 
-In connection to visiting ion’s own website, ion may request and collect personal data authorized by the individuals. In the event personal information is collected by ion, ion shall use personal information as it is relevant to its intended use. 
+ **Websites operated by ScribbleLive**
 
- **Types of Information our Customer’s Collect**
+In connection with visiting any ScribbleLive owned website, ScribbleLive may use third party services to collect and store information.
 
-Some data collected by our Customers is personally identifiable information, which may include your name, address, telephone numbers, e-mail address, company name, and company information. This information will be input by you in response to prompts when using our customer's websites.  
+ **Your use of our Services**
+
+When using or interacting with a ScribbleLive product or service, ScribbleLive may collect information about your interactions, the services you use and how you use them. Information collected may include; device information, location information, unique application ID’s, cookies and similar technologies.
+
+ **Information you provide**
+
+  * ScribbleLive Customers: Some ScribbleLive services may require you to sign up for an account. When you sign up for the account, we may ask you for some personal information such as your name, email address, company name and company information.
+
+  * ScribbleLive Customer Clients: Some data requested by our Customers, through the use of our services (i.e forms), is personally identifiable information, which may include, but not limited to, your name, address, telephone numbers, e-mail address, company name, and company information. This information will be input by you in response to prompts when using our Customer's websites.
+
+
+
 
  **Types of Information NOT Collected**
 
-As mentioned above, ion customers may request you input your information when using our customer’s website, however, our customer’s are restricted from and you should refrain from providing any information related to financial information (such as, but not limited to credit card and account numbers), Social Security number, drivers license number, passport number, information protected by Family Educational Rights and Privacy Act (“FERPA”), the Gramm Leach Bliley Act (“GLBA”), Health Insurance Portability and Accountability Act (“HIPPA”) and/or Social Security Number Protection Act.
+The following personal information is restricted from being collected through the use of our services and you should refrain from providing any information related to financial information such as, but not limited to credit card and account numbers, Social Security number, driver’s license number, passport number, information protected by Family Educational Rights and Privacy Act (“FERPA”), the Gramm Leach Bliley Act (“GLBA”), Health Insurance Portability and Accountability Act (“HIPPA”) and/or Social Security Number Protection Act.
 
- **Information Our Customers May Place on Your Computer**
+ **Information We May Place on Your Computer**
 
-When you view our customer's websites, ion's software may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us and our customer in many ways.  A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive.  If a Cookie is stored on your computers hard drive, the next time you visit the same website, we can recognize you.  For example, Cookies are used to better match your interests and preferences.  With most Internet browsers, you can erase Cookies from your computer hard drives, block all Cookies, or receive a warning before a Cookie is stored.  Please refer to your browser instructions or help screen to learn more about these functions.  Note that certain web site functionality may not work if Cookies are blocked.
+ScribbleLive software may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us and our customer in many ways.  A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. If a Cookie is stored on your computers hard drive, the next time you visit the same website, we can recognize you.  For example, Cookies are used to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer hard drives, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions.  Note that certain web site functionality may not work if Cookies are blocked. For more information on Cookies please read our Cookies Policy.
 
  **Web Beacons**
 
-We use web beacons alone or in conjunction with cookies to help collect information that enables us to track the existence and/or nature of web-based interactions that take place via our customer's websites.  Web beacons help us to analyze where users go and what they do while visiting our customer's websites.  A web beacon is a clear electronic image.  A web beacon will recognize certain types of information on your computer, such as cookies, when you view a website that is connected to that web beacon.  We may also use anonymous information about your visits to our customer's websites in order to improve our customer's products and services and help them provide relevant and useful information about goods and services of interest to you.
+We use web beacons alone or in conjunction with Cookies to help collect information that enables us to track the existence and/or nature of web-based interactions that take place via our customer's websites.  Web beacons help us to analyze where users go and what they do while visiting our customer's websites. A web beacon is a clear electronic image. A web beacon will recognize certain types of information on your computer, such as cookies, when you view a website that is connected to that web beacon.  We may also use anonymous information about your visits to our customer's websites in order to improve our customer's products and services and help them provide relevant and useful information about goods and services of interest to you.
 
  **IP Addresses**
 
-When you visit our customer's website, our computers automatically record certain information, which may include your web request, your interaction with a service, the Internet Protocol address of the computer from which you are accessing the website, your browser type, browser language, and the date and time of your request.
+ScribbleLive automatically records certain information, which may include your web request, your interaction with a service, the Internet Protocol address of the computer from which you are accessing the website, your browser type, browser language, and the date and time of your request.
 
- **Choice**
+ **EEA Resident Rights**
+
+If you are a resident of the European Economic Area, you have the following data protection rights:
+
+  * If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us .
+
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+
+  * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you.
+
+  * Similarly, if we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+
+
+
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Notwithstanding the foregoing, we reserve the right to keep any information in our archives that we deem necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
  **Opt-Out**
 
-If you do not wish to have your personally identifiable information collected, then you should not use the customer website or make use of any tools the customer provides, if any, for opting out of the collection of your personally identifiable information. You may contact customer directly, outside of website, to make alternate arrangements to provide them with applicable information. 
+If you do not wish to have your personally identifiable information collected, then you should not use the customer website or you should make use of any tools the customer provides, if any, for opting out of the collection of your personally identifiable information. You may contact customers directly, outside of the website, to make alternate arrangements to provide them with applicable information.
 
  **Accountability For Onward Transfer**
 
- **Third Party**
+Third Party
 
-ion may use agents to perform services on our behalf. We may share with these agents information input by you solely for the purpose of those agents performing services for ion. These parties are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.  However, we cannot guarantee the security of any information that is disclosed online
+ScribbleLive may use agents to perform services on our behalf. We may share with these agents information input by you solely for the purpose of those agents performing services for ScribbleLive. These parties are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+i-on interactive, Inc. and Visually, Inc. comply with the Privacy Shield for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
  **Security**
 
-ion takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies.  These include internal reviews of our data collection, transmission, storage, and processing practices, as well as encryption and physical security measures to guard against unauthorized access to systems where we store the information we collect.  Data Integrity and Purpose
+ScribbleLive takes appropriate steps to ensure data privacy and security including through various hardware and software methodologies.  These include internal reviews of our data collection, transmission, storage, and processing practices, as well as encryption and physical security measures to guard against unauthorized access to systems where we store the information we collect.  
+
+ **Data Integrity and Purpose**
 
 Except as otherwise stated below, we do not sell, trade or rent your personally identifiable information collected on the site to others. When you do provide us with personally identifiable information, we may use it as follows:
 
-    •    Our customers have access to all personally identifiable information collected through their websites and they may use and disclose such personally identifiable information in accordance with their privacy policies.
+  * Our customers have access to all personally identifiable information collected through their websites and they may use and disclose such personally identifiable information in accordance with their privacy policies.
 
-    •    Our service providers, if any, have access to the information we collect in order to help us deliver our service to our customers.
+  * Our service providers, if any, have access to the information we collect in order to help us deliver our service to our customers.
 
-    •    We may disclose the information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ion, our customers or any other user of our customer's websites.
+  * We may disclose the information to third parties when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of ScribbleLive, our customers or any other user of our customer's websites.
 
-    •    We may disclose the information in response to the request of a law enforcement agency.
+  * We may disclose the information in response to the request of a law enforcement agency.
 
-    •    We may disclose the information to third parties when we believe in good faith that the law requires it (such as responding to a subpoena or court order).
+  * We may disclose the information to third parties when we believe in good faith that the law requires it (such as responding to a subpoena or court order).
 
-    •    We may disclose the information to third parties when we believe in good faith that such action is necessary to enforce any legal terms or conditions that may apply to usage of this website or our customer's websites.
+  * We may disclose the information to third parties when we believe in good faith that such action is necessary to enforce any legal terms or conditions that may apply to usage of this website or our customer's websites.
 
-ion and our customers may use non-personal "aggregated data" to enhance the operation of our software, our customer's websites, or analyze interest in the areas, or the efficacy of those websites. ion provides its customers with reasonable mechanisms to ensure that personal identifiable information is relevant to its intended use, accurate and complete. 
 
-Please note, ion may disclose personal information in response to lawful requests by public authorities in order to meed any national security or law enforcement requirements.
+
+
+ScribbleLive and our customers may use non-personal "aggregated data" to enhance the operation of our software, our customer's websites, or analyze interest in the areas, or the efficacy of those websites. ScribbleLive provides its customers with reasonable mechanisms to ensure that personal identifiable information is relevant to its intended use, accurate and complete.
+
+Please note, ScribbleLive may disclose personal information in response to lawful requests by public authorities in order to meet any national security or law enforcement requirements.
 
  **Access**
 
-Upon written request to security@ioninteractive.com and with consent from our customer, ion will take reasonable steps to permit you tocorrect, amend, or delete your personal information that is demonstrated to be inaccurate or incomplete. Please note, permission must be obtained by our customer before any changes may be made. 
+Upon written request to security@ioninteractive.com and with consent from our customer, ScribbleLive will take reasonable steps to permit you to  correct, amend, or delete your personal information that is demonstrated to be inaccurate or incomplete. Please note, permission must be obtained by our customer before any changes may be made.
 
  **Enforcement and Liability**
 
-ion shall conduct periodic audits as it relates to its obligations and compliance under this Policy. Any isolation of this Policy will be subject to disciplinary action up to and including termination of employment. 
+ScribbleLive shall conduct periodic audits as it relates to its obligations and compliance under this Policy. Any isolation of this Policy will be subject to disciplinary action up to and including termination of employment.
 
  **Dispute Resolution**
 
-Any inquires and/or complaints relating to your information should be directed to the website owner. In the event your inquire or complaint is related to ion’s use of your personal information, you may contact us at :
+Any inquiries and/or complaints relating to your information should be directed to the website owner. In the event your inquire or complaint is related to ScribbleLive’s use of your personal information, you may contact us at :
 
-[security@ioninteractive.com](mailto:security@ioninteractive.com) 
+security@ioninteractive.com
 
-or 
+or
 
-i-on interactive, inc.  
-1095 Broken Sound Parkway Northwest, Suite 200  
-Boca Raton, Florida 33487  
-Attention: Operations 
+ScribbleLive Technologies
 
-ion will respond accordingly within forty-five (45) days from the date on which notice was received. ion shall cooperate with applicable data protection authorities in the event complaints cannot be resolved. 
+Attention: General Counsel
 
-If you have any unresolved privacy or data use concerns that ion has not addressed satisfactorily, please contact our third party dispute resolution provider at <https://www.jamsadr.com/about/submit-a-case> 
+303-49 Spadina Ave.
 
-Under certain conditions, an individual may seek to invoke binding arbitration from the Privacy Shield Panel. 
+Toronto, ON
+
+M5V 2J1
+
+ScribbleLive will respond accordingly within forty-five (45) days from the date on which notice was received. ScribbleLive shall cooperate with applicable data protection authorities in the event complaints cannot be resolved.
+
+If you have any unresolved privacy or data use concerns that i-on interactive, Inc. or Visually, Inc.  has not addressed satisfactorily, please contact our third party dispute resolution provider at[ https://www.jamsadr.com/about/submit-a-case](https://www.jamsadr.com/about/submit-a-case)
+
+Under certain conditions, an individual may seek to invoke binding arbitration from the Privacy Shield Panel.
 
  **Disclaimer**
 
-i-on interactive, inc is a SaaS provider and does not control nor is liable, in any way, for the uses to which our customers may make of personal information you have provided to them. 
+ScribbleLive is a SaaS provider and does not control nor is liable, in any way, for the uses to which our customers may make of personal information you have provided to them.
 
  **Modifications for the Privacy Policy**
 
-ion reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on our website. Such modifications will become effective on the day they are posted. ion encourages you to frequently review the privacy policy for any modifications.
+ScribbleLive reserves the rights to modify its privacy policy at any time and will notify you by posting an amendment to the privacy policy on our website. Such modifications will become effective on the day they are posted. ScribbleLive encourages you to frequently review the privacy policy for any modifications.
 
-Updated: January 23, 2017
+ **COOKIES POLICY**
+
+This online Cookies Policy (the "Policy") applies to all data gathered by Scribble Technologies Inc. and its affiliates and subsidiaries, including i-on interactive Inc., Visually Inc., Trapit, Linkdex, and Engage ( collectively “ScribbleLive”). The purpose of this Policy is to provide you with information about ScribbleLive’s collection, use, maintenance and disclosure of your information gathered by ScribbleLive.
+
+ **What are cookies?**
+
+As stated in our Privacy Policy, a cookie is an element of data that a website can send to your browser, which may then store the cookie on your hard drive. When a cookie is stored on your computer’s hard drive, the next time you visit the same website, we can recognize you.
+
+ **How are cookies used?**
+
+ **Strictly Necessary Cookies**
+
+When you view our website or our customer's hosted websites, ScribbleLive’s software will immediately store some information, in the form of essential cookies, on your device. These cookies are essential to running the site you are visiting and are essential to ScribbleLive’s ability to provide services to its customers. ScribbleLive’s essential cookies are used to allow you to access certain features of the website and display personalized content. 
+
+ **Performance Cookies**
+
+Performance cookies are used to identify you from your previous visits to the site. They will also allow ScribbleLive and its customers to see how you use and interact with website. This information will help ScribbleLive optimize your experience and make it easier for you to navigate. Performance cookies do not collect information that identify you.
+
+ **Functional Cookies**
+
+ScribbleLive and its customers may choose to use additional cookies in an effort to improve your visit. Functional cookies remember specific settings you have applied and/or answers to quizzes and assessments. 
+
+ **Cookies opt-out**
+
+If you wish not to have additional cookies, beyond those described above as Strictly Necessary cookies, placed on your device, then you would not be able to use the ScribbleLive and/or customer website, make use of any tools ScribbleLive and/or the customer provides, and, if available, select the opt-out prompt that has appeared on the website. To erase any Strictly Necessary cookies that have already been placed on your device, you can remove these from your computer hard drives by referring to your browser instructions or help screen. Please note that certain websites and/or website functionality may not work if you opt-out or if cookies are blocked.
+
+ **Email Preferences**
+
+To modify your email preferences or unsubscribe, please visit the ion interactive [Subscription Center](http://go.ioninteractive.com/email-preferences).
+
+ **Disclaimer**
+
+ScribbleLive is a SaaS provider and does not control nor is liable, in any way, for the uses to which our customers may make of personal information you have provided to them. ScribbleLive reserves the rights to modify its cookie policy at any time and will notify you by posting an amendment to the cookie policy on our website. Such modifications will become effective on the day they are posted.  ScribbleLive encourages you to frequently review the cookie policy for any modifications.
+
+If you have any further queries, please contact us by email at [support@scribblelive.com](mailto:support@scribblelive.com).
+
+ **Updated May 18, 2018**
