@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110031946id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommayoungathome.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311162247id_/http%3A//mommayoungathome.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Momma Young at Home
 
@@ -63,7 +63,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 **Google Opt Out:**
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
 
 **Gourmet Ads Opt Out** :
 
