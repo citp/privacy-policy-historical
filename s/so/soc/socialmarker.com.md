@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmarker.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606153246id_/http%3A//kingkong.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmarker.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311081643id_/https%3A//kingkong.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - King Kong
 
