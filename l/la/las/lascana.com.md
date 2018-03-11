@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lascana.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011140343id_/http%3A//www.lascana.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lascana.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311203344id_/http%3A//www.lascana.com/privacy.aspx) for the most accurate reproduction.*
 
 # LASCANA Privacy Policy
 
@@ -30,13 +30,8 @@ LASCANA collects personal information when you:
 • Register at LASCANA   
 • LASCANA collects your e-mail address and password when you register at our web site.   
 • Complete user profile information   
-• LASCANA collects the full name, address, city, state, zip, country, e-mail address, shipping information and  
-  credit card information. This information is stored in the My Account area of LASCANA.   
-• Purchase merchandise   
-• LASCANA collects the billing address of the debit or credit card that is used to make a purchase. We will also  
-  collect debit and credit card information, including card number, card type, cardholder name, and expiration  
-  date, in order to bill you for your purchases through LASCANA. Please view our Credit Card Guarantee for  
-  additional information on LASCANA's commitment to protecting your credit card security   
+• LASCANA collects the full name, address, city, state, zip, country, e-mail address, shipping information.  
+  This information is stored in the My Account area of LASCANA.   
 • Participate in a survey or contests   
 • Occasionally, LASCANA may offer our site visitors an opportunity to participate in a survey or contest.  
   Information collected by LASCANA when you participate in a survey or contest may include your full name,  
@@ -71,7 +66,7 @@ LASCANA collects certain technical information from your computer each time you 
 
 ## Credit Card Guarantee
 
-Your credit card is protected whenever you make a purchase through LASCANA. If any unauthorized charges appear on your credit card statement within 12 months of your last LASCANA transaction, report this fraud to your credit card provider and contact us immediately by calling [1-888-772-2224](tel:18887223160). Most credit card companies cover all charges resulting from credit card fraud, or may limit your responsibility to $50, the maximum allowed under the Fair Credit Billing Act. LASCANA is committed to making sure you're covered. 
+Your credit card is protected whenever you make a purchase through LASCANA. If any unauthorized charges appear on your credit card statement within 12 months of your last LASCANA transaction, report this fraud to your credit card provider and contact us immediately by calling [1-888-772-3160](tel:18887223160). Most credit card companies cover all charges resulting from credit card fraud, or may limit your responsibility to $50, the maximum allowed under the Fair Credit Billing Act. LASCANA is committed to making sure you're covered. 
 
 ## Sharing your information
 
