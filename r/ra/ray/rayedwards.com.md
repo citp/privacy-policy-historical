@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayedwards.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110000403id_/http%3A//rayedwards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayedwards.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311155929id_/http%3A//rayedwards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ray Edwards
 
