@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ducttapemarketing.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912065417id_/https%3A//www.ducttapemarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ducttapemarketing.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311114143id_/https%3A//www.ducttapemarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Duct Tape Marketing
 
