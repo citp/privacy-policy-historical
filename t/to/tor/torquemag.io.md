@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torquemag.io privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903112314id_/https%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torquemag.io privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311012713id_/https%3A//torquemag.io/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | @thetorquemag
 
