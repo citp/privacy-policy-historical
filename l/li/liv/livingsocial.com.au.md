@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingsocial.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606003444id_/http%3A//livingsocial.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingsocial.com.au privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311120149id_/http%3A//livingsocial.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # LivingSocial - Privacy Policy
 
@@ -27,7 +27,7 @@ Please take a few minutes to review this Privacy Policy. By using the Livingsoci
 
 1.2 The Personal Information that we Collect includes (but is not necessarily limited to): your first name, your last name and your email address. 
 
-1.3 If you wish to 'refer a friend' to Livingsocial that friend must register themselves - we will not enter Personal Information on their behalf. You can refer a friend to Livingsocial by clicking on the following link, [http://livingsocial.com.au/referral](https://web.archive.org/referral).
+1.3 If you wish to 'refer a friend' to Livingsocial that friend must register themselves - we will not enter Personal Information on their behalf. You can refer a friend to Livingsocial by clicking on the following link, [https://livingsocial.com.au/referral](https://web.archive.org/referral).
 
 1.4 At or before the time, or, if that is not practicable, as soon as practicable after, we Collect your Personal Information, we will notify you of the matters required pursuant to Australian Privacy Principal 5 – Notification of the Collection of Personal Information, by providing you with this Privacy Policy, or by notifying you of how you may access this Privacy Policy. 
 
