@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahavat.gov.in privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208005404id_/http%3A//www.mahavat.gov.in/Mahavat/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahavat.gov.in privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311111857id_/http%3A//www.mahavat.gov.in/Mahavat/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Department Of Sales Tax - Govt. of Maharashtra
 
