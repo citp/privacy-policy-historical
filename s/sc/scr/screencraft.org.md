@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106213314id_/https%3A//screencraft.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screencraft.org privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311110128id_/https%3A//screencraft.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ScreenCraft
 
