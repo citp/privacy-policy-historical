@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013230727id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311053948id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
 
-# Vote.org Privacy Policy - VOTE.org - Everything you need to vote
+# Vote.org Privacy Policy - Vote.org
 
 **Last updated: March 31, 2017**
 
@@ -58,13 +58,17 @@ San Francisco, CA 94117
 
 #### Every person who shares helps us reach three more voters.
 
-### VOTE.org mission statement
+### Vote.org mission statement
 
 Vote.org uses technology to simplify political engagement, increase voter turnout, and strengthen American democracy. 
 
-[Donate to Vote.org](https://secure.actblue.com/contribute/page/votedotorg?refcode=website-footer)
+[ Donate to Vote.org](https://secure.actblue.com/contribute/page/votedotorg?refcode=website-footer)
 
-### VOTE.org newsletter signup
+### Shop Vote.org
+
+Just in time for the holidays: Vote.org t-shirts, tote bags, hoodies, and other assorted swag. 
+
+[Shop Vote.org](https://shop.vote.org/)
 
 VOTE.org is a 501(c)(3) registered non-profit organization and does not support or oppose any political candidate or party.  
 [Terms](https://web.archive.org/terms/) // [Privacy](https://web.archive.org/privacy/) // [Contact](https://web.archive.org/contact/)
