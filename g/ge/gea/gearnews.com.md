@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearnews.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905040026id_/https%3A//www.gearnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearnews.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311020754id_/https%3A//www.gearnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gearnews.com
 
@@ -30,29 +30,6 @@ Usage data
 When using our website, the following data are recorded and stored exclusively for internal system-related and statistical purposes (“usage data”): names of the viewed website, the browser used, the operating system and the querying domain; the date and time of access; search engines used; names of downloaded documents and your IP address. The usage data are collected using the web analysis tool “Google Analytics” and saved in pseudonymised user profiles. Details about the use of Google Analytics and your right to refuse, which prevents tracking by Google Analytics, can be found under “deactivate Google Analytics”.
 
 Further personal data shall only be recorded if this information is provided to us voluntarily, for example when making an enquiry on our website or when you send us an email.
-
- **Data for use of the DISQUS comment function**
-
-You can use the comment function to comment on articles, tips, news and other content on our website. The comment function is an external service that we have integrated into our website, and is provided by Disqus, Inc., 301 Howard St., Suite 300, San Francisco, CA 94105 (hereinafter referred to as “DISQUS”). You can use the comment function either as a guest or as a registered user. If you wish to comment on articles on our website as a guest, you must first provide a name under which you wish to comment and a valid email address. This information will be transmitted to DISQUS and saved on their servers. You can also log in and comment using your access data from a pre-existing DISQUS user account or your Facebook, Google+ or Twitter account.
-
-If you log in using your DISQUS access data, a connection will be made with the DISQUS server and DISQUS will be informed that you are visiting our website and using the comment function. This information will be associated with your DISQUS account. We have no influence on the scope of further data that is provided to DISQUS using the comment function and saved there. DISQUS is solely responsible for this data processing. You can prevent DISQUS collecting data and information, in particular usage data, by opting out via the following link (click the “opt out” button).
-
-[https://help.disqus.com/customer/portal/articles/1657951?utm_source=disqus&utm_medium=embed-footer&utm_content=privacy-btn](https://help.disqus.com/customer/portal/articles/1657951?utm_source=disqus&utm_medium=embed-footer&utm_content=privacy-btn)
-
-When using the comment function via your Facebook, Google+ or Twitter account, DISQUS connects to the relevant social network’s server via our website and informs it that you are visiting our website and using the DISQUS comment function. This information will be associated with your Facebook, Google+ or Twitter account. When registering for DISQUS, Facebook Google+ or Twitter will send your user ID to DISQUS if the login information provided and sent by our website (normally an email address) corresponds to the information saved on Facebook, Google+ or Twitter. At the same time, by logging in using Facebook, Google+ or Twitter you are authorising DISQUS to use your data and also the functions (e.g. publishing GearNews links) of Facebook, Google+ or Twitter. You can find more information about this by logging in using your Facebook, Google+ or Twitter account. We have no influence on the volume of further data that is provided to Facebook, Google+ or Twitter using the comment function and saved there. Facebook, Google+ or Twitter is solely responsible for this data processing.
-
-For further information regarding the purpose and scope of data collection, and regarding the further processing and use of your data by DISQUS, Facebook, Google+ or Twitter, see the privacy rules of the relevant service. These can be found
-
-  * • for DISQUS at <https://help.disqus.com/customer/portal/articles/466259-privacy-policy>
-  * • for Facebook at [https://www.facebook.com/policy.php](http://de-de.facebook.com/privacy/explanation.php)
-  * • for Google+ at [http://www.google.com/intl/en/policies/privacy/](https://www.google.de/intl/de/policies/privacy/)
-  * • for Twitter at [https://twitter.com/privacy?lang=en](https://twitter.com/privacy)
-
-
-
-online.
-
-There you will find, amongst other things, information regarding settings for the protection of your privacy and regarding your further rights regarding the collecting, processing and use of your data by DISQUS, Facebook, Google+ or Twitter.
 
  **How is my data used and passed on to third parties, and for what purpose?**
 
