@@ -1,53 +1,75 @@
-> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195101id_/http%3A//www.pta.gov.pk/others/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311212159id_/https%3A//www.pta.gov.pk/en/privacy-policy) for the most accurate reproduction.*
 
-# New Issues / Challenges - Pakistan Telecommunication Authority
+# Privacy Policy | PTA
 
-[www.pta.gov.pk](http://www.pta.gov.pk/)  is committed to protecting your privacy and to making your online experience secure, comfortable, valuable and pleasant.
+### Privacy Policy
 
-We do not collect any information about you unless you choose to provide that information. We may share necessary data with other Government agencies and departments. However, information collected by us is used only for official purposes, internal reviews, improvement of the content of our Website, customization of the content and layout of our Website and to contact users. We do not use, share or pass on your information for commercial purposes.
+We use your Personal Information only for providing and improving the Site (www.pta.gov.pk). By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-All record keepers face the possibility of disclosure of their records in some civil, criminal, or administrative matter. PTA could be required to disclose personal information in response to valid legal processes such as a search warrant, subpoena, or court order. Disclosures may also be necessary to protect the PTA's legal rights or during emergencies if physical safety is believed to be at risk. 
+**Policy & Purpose:**
 
-##  What Information About Users Does www.pta.gov.pk Collect?
+This Policy represent the policy of Pakistan Telecommunication Authority (PTA) with respect to retention and destruction of documents and other records, both in hard copy and electronic media (which may merely be referred to as "documents" in this Policy).
 
-We consider any information that could reasonably be used to identify you as "personally identifying information." The PTA does not retain personally identifiable information about you when you visit our Website unless you choose to provide such information to us (i.e. sending an e-mail, registering as a user, participating in a survey, responding to a feedback or "contact us" form, etc.)
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-Government departments, agencies and organisations may request personally identifiable information from you in order to provide requested services however, such information is handled as in the case of an in-person visit to that same department, agency or organisation. 
+**Purposes of the Policy include:**
 
-##  E-Mail Communications and Web Forms
+a)    retention and maintenance of documents necessary for the proper functioning of the organization as well as to comply with applicable legal requirements;  
+b)    destruction of documents which no longer need to be retained.  
+c)    guidance for the focal persons, director generals, directors, officers, staff and other constituencies with respect to their responsibilities concerning uploading the up to date contents, documents retention and destruction.  
+d)    protect user's privacy and keep their personal information safe. We use encryption and other security safeguards to protect customer data  
+e)    Notwithstanding the foregoing PTA reserves the right to revise or revoke this Policy at any time.
 
-If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us information, we will use this personally identifying information only to respond to your request. We may redirect your message to another government agency or person who is in a better position to respond to your query or comment.
+**Privacy** :
 
-All e-mail messages received contain the e-mail addresses of persons who voluntarily communicated with or requested information from us. Your e-mail addresses are not sold, leased or shared with any non-governmental or commercial entities without the user's consent. When a user has given us their e-mail address for purposes of communicating with or requesting information from us, that communication becomes part of the public record and may be subject to public inspection and copying if not protected by law.
+  * It shall be the responsibility of the Administrator, after consultation with concerned Law department or Counsel as the case may be, to determine how privacy laws will apply to the organization's documents from and with respect to employees and other constituencies, to establish reasonable procedures for compliance with such privacy laws; and to allow for their audit and review on a regular basis.
+  * Our privacy commitments are basic fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers and our Web site visitors.
 
-Information submitted via e-mail or web forms may be at risk of being intercepted, read or modified. You are advised not to pass on any personal and confidential information such as security passwords and credit card numbers while using this Website unless specifically required by an authorized person. PTA shall not be liable for any misuse or loss of any such information. 
 
-## Web Cookies
 
-A Cookie is a small file stored on your computer by your web browser when using some Internet sites. Cookies can also store personal information such as your name, e-mail address, home or work address, or telephone number. Persistent Cookies can use this type of personal information to identify you whenever you access a web site. Sessional Cookies are used to help you move around a web site and do not store personal information. 
+**Information Collection And Use:**
 
-The PTA website does not use Persistent Cookies or Sessional Cookies. 
+  * While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information").
+  * We collect information that your browser sends whenever you visit our Site ("www.pta.gov.pk").
+  * This may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+  * In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this.
 
-##  Security Measures
 
-We take very seriously the integrity of the information and systems that we maintain. Hence, appropriate safeguards have been employed to ensure that any personal information is secure from destruction, corruption, unauthorized access and breach of confidentiality.
 
-Several steps have been taken to safeguard the integrity of our computer systems and networks. These steps include, but are not limited to individual authentication, the security of transmitted data, security monitoring, auditing and encryption of your information. 
+**Communications** :
 
-##  Is User Information Shared?
+We may use your Personal Information to contact you when you interact with us, when you use our products and services such as (NOC and custom clearance, online numbering system, online complaint and stolen mobile search) on our website. This information is used to deliver, provide and repair products or services; establish and maintain customer accounts and records; Information may also be aggregated or de-identified for business and marketing uses by us or by third parties.
 
-Except as provided by applicable laws, we do not collect, use or disclose user information without the user's knowledge and approval. We do not share user information with third parties unless we have informed users about the disclosures or have prior consent. 
+Listed below are some of the important points regarding how your information is being used by us:
 
-##  Can I Access and Correct My Personal Information?
+  * Provide services and improve your customer experience;
+  * Respond to your questions;
+  * Do research and analysis to maintain, protect, develop and improve our networks and services;
+  * Let you know about service updates, content, offers and promotions that may be of interest to you;
+  * Deliver Relevant Advertising;
+  * Assist in the prevention and investigation of illegal activities and violations of our Terms of Service or Acceptable Use Policies.
 
-Users concerned about information contained in their personal records should contact the custodian of the record, which typically is the governmental entity that collects and maintains the information. You may request changes or annotate your personal information if you believe it to be inaccurate by submitting a written request describing the error.
 
-The PTA does not collect any personally identifiable information other than what you provide. The automatic data recorded is not matched with any of that personally identifiable information, therefore information cannot be provided about your visit. 
 
-## Links to other Sites
+**Security** :
 
-This Website may include links to websites operated by other government agencies, non-profit organizations and private businesses. When you link to another site, this Privacy Policy will not apply, however, you may be subject to the Privacy Policy of that new website, if one exists. The PTA is not in any way responsible for the privacy practices or content of external websites. 
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-## Policy Revision and Notification of Changes
+**Changes to this Policy:**
 
-The PTA may at any time revise or update this policy without notice. We may inform our users about policy changes through notices on this page containing a version number and date. Any information collected under the current policy will remain subject to these terms. Information collected after any changes take effect will be subject to the revised privacy policy.
+  * This Privacy Policy is effective as of (November 2017) and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+  * We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+  * If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+  * We may revise this Privacy Policy from time to time. The most current version of the policy will govern  use of  our website and will always be at  <http://www.pta.gov.pk/> privacy policy. If we make a change to this policy that, in our sole discretion, is material, we will notify it accordingly. By continuing to access or use the Services after those changes become effective, you agree to be bound by the Revised Privacy Policy.
+
+
+
+_**Contact Us** :_
+
+If you have any questions about this Privacy Policy, please contact us.
+
+Postal: PTA Headquarters, Sector F- 5/1, Islamabad, Pakistan. 44000  
+Toll Free Number: 0800-55055  
+Telephone: +92-51-9225329-30  
+Fax: +92-51-2878127  
+Email:[info@pta.gov.pk](mailto:info@pta.gov.pk)
