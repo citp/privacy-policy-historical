@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativeinstitute.org privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911184615id_/https%3A//www.conservativeinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativeinstitute.org privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311120731id_/https%3A//www.conservativeinstitute.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -150,3 +150,5 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 **•** Follow the instructions at the bottom of each email.
 
 and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy, you may contact us using the information below.
