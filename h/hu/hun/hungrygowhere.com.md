@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112003625id_/http%3A//www.hungrygowhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungrygowhere.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311015544id_/https%3A//www.hungrygowhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hungrygowhere.com
 
@@ -81,7 +81,7 @@ Singtel Digital Media Pte Ltd
 Comcentre 3 (Atrium) Level 2  
 Singapore 239734
 
-or via email at lost@hungrygowhere.com
+or via email at lost@hungrygowhere.com 
 
     8. You may opt to terminate your HungryGoWhere account and delete all personal information by dropping us an email at lost@hungrygowhere.com with the title "Request to Delete All Personal Data." 
   7. THIRD PARTY WEBSITES 
