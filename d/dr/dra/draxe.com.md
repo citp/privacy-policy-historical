@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829192010id_/https%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311052944id_/https%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Axe
 
@@ -66,7 +66,7 @@ The Site contains links to other websites. If you choose to visit other websites
 
 If you have any questions about this Policy, our practices related to this Site, or if you would like to have us remove your information from our database please feel contact us at the following:
 
-orders@draxe.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Dr. Josh Axe
 
@@ -77,3 +77,9 @@ Brentwood, TN 37027
 6.2. UPDATES AND CHANGES
 
 We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+6.3. OPT OUT
+
+You can choose not to receive interest-based ads from Amazon, Facebook and Google. You will continue to see ads on each platform, but they will not be personalized as a result of your actions on our website.
+
+Please visit the links below if you wish to opt out or update your preferences:
