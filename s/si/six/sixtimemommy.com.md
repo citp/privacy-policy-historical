@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sixtimemommy.com privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908070308id_/http%3A//sixtimemommy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixtimemommy.com privacy policy that was archived on 2018-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180311024934id_/https%3A//sixtimemommy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Six Time Mommy and Counting…
 
-This Privacy Policy governs the manner in which Six Time Mommy collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://sixtimemommy.com website (“Site”).
+This Privacy Policy governs the manner in which Six Time Mommy collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://sixtimemommy.com website (“Site”).
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
