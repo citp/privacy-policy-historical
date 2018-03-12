@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026003703id_/http%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelesshack.org privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312153543id_/http%3A//www.wirelesshack.org/privacy-policy-for-www-wirelesshack-org.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.wirelesshack.org | WirelesSHack
 
@@ -108,24 +108,28 @@ The ads served will be targeted based on your previous browsing history (For exa
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-    Earning Disclaimer  
+    **Earning Disclaimer**  
 The owner of this website, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com. Certain content that appears on this site comes from Amazon Services LLC. This content is provided as is and is subject to change or removal at any time.
 
   The owner of this website, wirelesshack.org, is a participant in the Amazon Services LLC Associates Program, Amazon.com.ca, Inc, Amazon EU Associates Programme an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking www.wireleshack.org to Amazon properties including, but not limited to, Amazon.com, Amazon.ca, Amazon.co.uk, Amazon EU Associates Programme, Amazon.it, Amazon.es, Amazon.fr endless.com, myhabit.com, smallparts.com, or amazonwireless.com Amazon.ca, Amazon.co.uk and other sites worldwide.
 
   When you click on links to various merchants on this site and make a purchase, this can result in this site earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network.
 
-    Kodi Disclaimer  
-Kodi is a free Open Source media player which we at www.wirelesshack.org are not affiliated with.
+  We are a professional review site that receives compensation from the companies whose products we review. We test each product thoroughly and give high marks to only the very best. We are independently owned and the opinions expressed here are our own.
 
-  We at www.wirelesshack.org also do not have any affiliation with any Kodi add-ons, 3rd party or otherwise.
+    **Kodi Disclaimer**  
+Kodi is a free Open Source media player which we at www.wirelesshack.org are Not affiliated with.
 
-  We also do not store any programs or addons for download.
+  We at www.wirelesshack.org also do not have any affiliation with with Kodi, any Addons, Repos, or Builds.
 
-  **Any Kodi add-on should only be used to stream public domain content.**
+  Wirelesshack.org also does not store any programs, addons, or any files for download.
+
+  **Any Kodi Add-on or Build should only be used with content that is bought and owned personally or is in the public domain.**
 
   [Read here for information on Public Domain films and movie list. ](https://en.wikipedia.org/wiki/List_of_films_in_the_public_domain_in_the_United_States)
 
   All Kodi tutorials on www.wirelesshack.org should only be used with content that it bought and owned personally or is in the public domain.
+
+  Please note that we don’t condone sharing pirated content or copyright infringement. www.wirelesshack.org is not affiliated with the software mentioned in any article in no way. Make sure to carefully read the above-said disclaimer and ensure the proper use of Kodi, addons, or any other software.
 
   All information on this site www.wirelesshack.org is for testing and educational purposes only; for use by network security administrators, penetration testing professionals, hobbyist and wireless enthusiast. 
