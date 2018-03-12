@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4vector.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107204503id_/http%3A//4vector.com/tos-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4vector.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312193437id_/https%3A//4vector.com/tos-privacy-policy.php) for the most accurate reproduction.*
 
 # Term of Service, Privacy and Policy
 
