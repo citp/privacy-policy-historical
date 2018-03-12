@@ -1,29 +1,43 @@
-> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516052009id_/http%3A//www.ashford.com/us/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashford.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312124944id_/https%3A//www.ashford.com/us/info/privacy.jsp) for the most accurate reproduction.*
 
 # Luxury Watch Movado, Ebel, Tag Heuer, Concord, Bulova, Breitling, Seiko, ESQ, Cartier, Corum, Kenneth Cole, Citizen, Bulgari, Chopard - Ashford.com
 
-## Your Privacy Policy
+## WEBSITE PRIVACY POLICY
 
-Ashford.com is the sole owner of the information collected on this site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement.
+Welcome to the Ashford website, operated by Luxi Group, LLC (“Ashford”) and located at www.ashford.com (the “Site”). This Privacy Policy addresses Ashford’s practices regarding information collected from visitors of the Site and only addresses information collected directly through or from the Site – it does not address or govern any information-gathering, use, or dissemination practices related to information collected from a visitor (sometimes referred to as "you") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
 
-We request information on our order form including contact, billing, shipping and verification information. This information is used for order, billing and verification purposes only! If we have difficulty processing an order, the contact information is used to get in touch with the customer.
+This Privacy Policy is incorporated into Ashford’s [Terms and Conditions](https://www.ashford.com/us/info/terms.jsp) for the Site, which must be reviewed and accepted by you.
 
-Ashford.com takes every precaution to protect our users' information against loss, misuse or alteration of your user information. When users submit sensitive information via our website, the information is protected both online and off-line.
+The Site is not intended for children under the age of 18. It does not knowingly collect personal information online from visitors in this age group.
 
-All information is fully protected by SSL encryption technology. Credit card information is retained only as long as necessary to process your transaction after which time your credit card number and verification information are removed from our server.
+If you have any questions concerning this Privacy Policy, please [contact us](https://www.ashford.com/us/info/contactUs.jsp).
 
-### Other Questions
+### Collection of Personal Information from Site Visitors.
 
-Contact one of our expert customer service agents for assistance at 866-ASHFORD (866-274-3673) or [customerservice@ashford.com](mailto:customerservice@ashford.com).
+Except as specifically set forth herein, Ashford may collect: (a) the email addresses of users that communicate with Ashford via email; and (b) information knowingly provided by the user through the Site. Ashford may also use Internet cookies and other identifiers or methods of web analysis (such as Google Analytics) to gather, store, and track certain information related to your visit to and activity on the Site. If you are uncomfortable with the idea of your information being used in this way, most computer systems and web browsers offer privacy settings and options, such as disabling cookies or opting for “Do Not Track” features. [Ashford does not override these settings or options and encourages you to use them to enhance your choices and personalize your experiences.] However, in order to access certain content, features, services, products or benefits on the Site, you may be required to provide Ashford with certain information, including some types of personally identifying information such as your email, your address, and your phone number. If you do not wish to provide such information through the Site or if you opt to utilize the aforementioned privacy features of your computer system or web browser, you may be unable to obtain certain content, features, services, products or benefits of the Site.
 
-### Third Party Requests
+### Use of Personal Information Collected.
 
-You should be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect Ashford, the users of our website or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+Personal information collected by Ashford may be used by Ashford for limited purposes, including recordkeeping, editorial and feedback purposes, content improvement, or to customize the content and layout of the Site. Personally identifying information, such as names, postal and email addresses, phone numbers, and other personal information voluntarily provided to Ashford may be added to Ashford’s databases and used for future contact regarding updates to the Site or new services provided by Ashford. From time to time, Ashford may need to contact you regarding information that you submitted to Ashford. You agree that Ashford may use your personal information for such contact with you. Ashford may also desire to contact you for market research purposes or to provide you with marketing information that Ashford believes would be of particular interest. Please [contact us](https://www.ashford.com/us/info/contactUs.jsp) if you do not want to be contacted by Ashford as described above.
 
-This website uses Mouseflow, a third-party analytics tool, to track page content and click/touch, movement, scroll, and keystroke activity. You can opt-out at <http://mouseflow.com/opt-out>.
+### Links to Other Sites.
 
-### Compliance with other Internet privacy regulations
+The Site may also contain links to third party websites, for the convenience of users in locating information, products, or services that may be of interest. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Policy. It is possible that these links themselves may be used by third parties or others to collect personal or other information about you. Ashford is not responsible for the privacy practices of third parties or for the content of their websites. Ashford does not control third parties’ use of cookies, collection of information, or how they manage such information. It is your sole obligation to review and understand the privacy practices and policies of all third parties, including those who operate websites accessible through the Site.
 
-Privacy of Young Children (FTC Regulation): Ashford is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children’s products we sell are for purchase by adults only.
+### Security Measures and Communications.
 
-California Privacy Rights: Under California law, customers of Ashford who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, you may send us an email at [2]customerservice@ashford.com with the words “California Privacy Rights” in the subject line or write us at 545 Broadway Brooklyn, NY 11206. 
+The confidentiality of any communication or material transmitted to or from Ashford via the Site or via email cannot be, and is not, guaranteed. You acknowledge that the technical processing and transmission of the Site’s content may be transferred unencrypted and involve: (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, Ashford is not responsible for the security of information transmitted via the Internet.
+
+### Access to and Ability to Correct Personal Information; Opt-Out Right.
+
+Upon your request, Ashford will provide you with a summary of any personal information retained by Ashford that has been voluntarily provided by you to Ashford through email, contact forms, or other online avenues. You may modify, correct, change or update your personal information by [contacting us](https://www.ashford.com/us/info/contactUs.jsp). Except as necessary to obtain the services or information requested, you may opt out of having your personal information, which has been voluntarily provided by you to Ashford through email, contact forms, or other online avenues, prospectively retained by Ashford or used by Ashford for secondary purposes, by contacting Ashford. This provision does not apply to collection of the type of web browser used to visit the Site or to information provided or collected that does not meet the description hereunder.
+
+### California Residents.
+
+California Civil Code Section 1798.83 (also known as the “Shine The Light” law) permits users who are California residents to request and obtain (once a year; free of charge) information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please [contact us](https://www.ashford.com/us/info/contactUs.jsp).
+
+### Right to Change Privacy Policy.
+
+Ashford reserves the right at any time to modify, alter or update this Privacy Policy. Your use of the Site following any changes means that you agree to follow and be bound by the Privacy Policy as changed. Any change to this Privacy Policy shall be effective as to any visitor who has visited the Site before the change was made. It is the obligation of users visiting the Site before the change to learn of changes to the Privacy Policy since their last visit.
+
+Dated: 7th SEP 2017
