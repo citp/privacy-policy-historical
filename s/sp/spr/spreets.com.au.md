@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217060114id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312105050id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Spreets
 
@@ -90,7 +90,7 @@ If you have questions or suggestions, please complete a feedback form.  Complai
 
 Privacy Officer c/-Legal Department  
 Spreets Pty Limited  
-Level 1, 259-261 Coventry St  
+New Yorker, Level 1, 50-56 York St  
 South Melbourne VIC 3205  
 Australia
 
