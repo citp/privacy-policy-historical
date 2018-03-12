@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepatriotpost.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109195306id_/http%3A//www.freepatriotpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepatriotpost.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312012008id_/http%3A//www.freepatriotpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Free Patriot Post
 
