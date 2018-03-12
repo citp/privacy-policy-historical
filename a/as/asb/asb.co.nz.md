@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406123738id_/https%3A//www.asb.co.nz/legal/privacy.html%3Ffm%3Dfooter%3Alink%3Aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.co.nz privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312180117id_/https%3A//www.asb.co.nz/legal/privacy.html%3Ffm%3Dfooter%3Alink%3Aprivacy) for the most accurate reproduction.*
 
 # Privacy | ASB
 
@@ -22,15 +22,19 @@ We use cookies for a number of purposes, including to maintain the secure connec
 You may be able to configure your browser to notify you when you are offered a cookie and decide whether or not to accept it. You may choose not to accept cookies when browsing our websites. However, you may be unable to log on to our secure services without accepting the cookies outlined above.  
 
 
+## Third party partners and analytics
+
 We promote our products and services on our websites and mobile apps. Third party vendors, including Google, show our advertisements on sites throughout the internet. Both us and these vendors may use cookies, separate to those required to maintain secure connections, to assist in serving the most relevant available ASB advertisements to you based on your prior visits to our websites and mobile apps. You do not need to accept these cookies to transact with us and you can opt out of Google's use of cookies by visiting the [Google Analytics Opt-out page](https://tools.google.com/dlpage/gaoptout/).  
 
 
-Throughout our public websites, the [Google Universal Analytics system](https://support.google.com/analytics/?hl=en) is used to measure anonymised site activity, associating multiple sessions across multiple devices. We also use other tools in order to understand and optimise user experiences, including but not limited to Google's Remarketing feature, [Facebook's Remarketing feature](https://developers.facebook.com/docs/ads-for-websites), [Adobe Analytics](http://www.adobe.com/nz/solutions/digital-analytics.html), [Adobe Target](http://www.adobe.com/nz/marketing-cloud/testing-targeting.html), [Survey Monkey](https://www.surveymonkey.com/), [Weirdly](https://www.weirdlyhub.com/), [ClickTale](https://www.clicktale.com/) and [SAS Intelligent Advertising](http://www.sas.com/en_nz/software/customer-intelligence/ad-server.html).
+Throughout our public websites, the [Google Universal Analytics system](https://support.google.com/analytics/?hl=en) is used to measure anonymised site activity, associating multiple sessions across multiple devices. We also use other tools in order to understand and optimise user experiences, including but not limited to Google's Remarketing feature, [Facebook's Remarketing feature](https://developers.facebook.com/docs/ads-for-websites), [Adobe Analytics](http://www.adobe.com/nz/solutions/digital-analytics.html), [Adobe Target](http://www.adobe.com/nz/marketing-cloud/testing-targeting.html), [Survey Monkey](https://www.surveymonkey.com/), [Weirdly](https://www.weirdlyhub.com/), [NZME](http://advertising.nzme.co.nz/) and [SAS Intelligent Advertising](http://www.sas.com/en_nz/software/customer-intelligence/ad-server.html).
 
 ### External websites
 
 While our websites may hyperlink to various third party websites, we are not responsible for the privacy practices of those websites and/or the reliability of the information published on those websites.  
 
+
+## ASB Virtual Branch Facebook Application
 
 When you allow the ASB Virtual Branch Application permission to access your profile, we are accessing information that's set by you to be viewed 'by everyone' in your security settings.
 
@@ -40,3 +44,21 @@ We have no access to information that you have set on your profile to be seen on
 
 When you authorise the ASB Virtual Branch Application, you give the application permission to post one message to your Facebook Wall when the application is initially installed. Any subsequent posts are controlled by you (you can click ‘share’ or ‘like’ to post a message about the ASB Virtual Branch to your Wall).  
 
+
+#### Enquire online
+
+Tell us how we can help and one of our team will get back to you.
+
+[Ask a question](https://www.asb.co.nz/GeneralEnquiry/?email=customerService)
+
+#### Call us
+
+We're here to take your call 24 hours a day.
+
+[0800 803 804](tel:0800 803 804)
+
+#### Visit a branch
+
+Visit us at one of our many branches across New Zealand.
+
+[Find a branch](https://www.asb.co.nz/location)
