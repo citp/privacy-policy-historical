@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109071012id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312234913id_/http%3A//www.100percentdesign.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 100% Design 2017 - The UK's biggest trade event for architects and designers
 
