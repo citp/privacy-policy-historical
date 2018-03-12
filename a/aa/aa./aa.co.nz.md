@@ -1,128 +1,111 @@
-> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604234056id_/http%3A//www.aa.co.nz/terms/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312120122id_/https%3A//www.aa.co.nz/site-info/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - AA New Zealand
+# Privacy policy | AA New Zealand
 
-1\. Our philosophy
+## Collection of information
 
-The New Zealand Automobile Association Inc ("AA"), consider protection of your privacy to be of utmost importance and are committed to providing you with a personalised service that meets your requirements in a way that safeguards your privacy. We appreciate the trust you have placed in us and this policy explains how we may collect information about you and then use it in order to satisfy your particular requirements. It also outlines some of the security measures that we take in order to protect your privacy and gives certain assurances on things that we will not do.
+We may collect personal information from you in a number of ways. This includes when you:
 
-Receiving information from us
-
-When we first obtain personal information from you, or when you take a new service from us, we will give you the opportunity to indicate if you do or do not (as applicable) wish to receive information from us about other services or products. Normally this will be done by way of a tick box on an application form or contract. 
-
-If you want to update or correct information held by us, including contact preferences, you can call our Membership line toll free on 0800 500 444 (8am to 6pm, Monday to Saturday). Or, you can change this information online. Click on 'My AA' and follow the instructions.
-
-2\. Collection of information
-
-We may collect personal information from you in a number of ways, including: 
-
-  * When you agree to take a service from us. This may include your contact details, date of birth, payment method and possibly bank details; 
-  * When you contact us with an enquiry, or in response to a communication from us, in which case this may tell us something about your preferences;
+  * agree to take a service from us. This may include your contact details, date of birth, payment method and possibly bank details
+  * contact us with an enquiry, or in response to a communication from us, in which case this may tell us something about your preferences.
 
 
 
-3\. Use of information
+## Use of information
 
-What we will do
+### What we will do
 
-We may use personal information about you for a number of purposes, including: 
+We may use personal information about you for a number of purposes, including:
 
-  * To help to identify you when you telephone us to make an enquiry. For example, by asking we may ask you for your date of birth or telephone number so that we can avoid disclosing information to a person who is not authorised by you to receive it 
-  * To respond to enquiries from you 
-  * To help administer and contact you about improved administration of any accounts, services and products provided by us previously, now or in the future 
-  * To help prevent or detect fraud or loss 
-  * To contact you by any means (including mail, email, telephone or text messages) about other services or products, where we think you would appreciate receiving an offer from us 
-  * Carrying out marketing analysis and profiling and creating statistical and testing information 
+  * Assisting to identify you when you telephone us to make an enquiry. We may ask you for your date of birth or telephone number so that we can avoid disclosing information to a person who is not authorised by you to receive it
+  * Responses to enquiries from you
+  * Administration and contact about improved administration of any accounts, services and products provided by us previously, now or in the future
+  * Preventing or detect fraud or loss where we are able
+  * Contacting you by any means (including mail, email, telephone or text messages) about other services or products, where we think you would appreciate receiving an offer from us
+  * Carrying out marketing analysis and profiling and creating statistical and testing information
 
 
 
-Whether or not you have opted out in relation to use of your information for direct marketing, it is our practice to search the mailing, telephone, fax and email preference services (as applicable) so that if you have registered your details with those services you will not receive any direct marketing material from us via that channel.
+It is our practice to search the Marketing Association mailing, telephone, fax and email preference services (as applicable) before sending any direct marketing material. If you have registered your details through any of the channels, you will not receive any direct marketing material from us.
 
-In some circumstances, we may do certain credit checks with licensed credit reference agencies when you apply to take a service or product. If this is applicable, then it will be stated in our terms and conditions of business. 
+In some circumstances, we may do certain credit checks with licensed credit reference agencies when you apply to take a service or product. If this is applicable, then it will be stated in the terms and conditions applying to that particular service or product.
 
-What we won't do
+When you first provide personal information to us, we will normally give you the opportunity to indicate whether you would prefer us not to contact you in this way. However, you can send us an email at any time to change your preferences or use the unsubscribe links at the bottom of any of our direct marketing email communications.
+
+We may monitor and record communications we receive. This may be done for:
+
+  * identifying improvements to the service which we provide
+  * ensuring compliance with our practices and procedures
+  * situations where, for example, a contract is entered into by that means, to provide evidence of the transaction.
+
+
+
+### What we won't do
 
 We will not:
 
-  * Send you communications that you do not expect to receive as part of your Membership subscription 
-  * Disclose your personal information (unless authorised to do so) 
+  * Send you communications that you do not expect to receive as part of your relationship with us
+  * Disclose your personal information (unless authorised to do so) except as mentioned below
   * Sell/rent contact information lists to parties who are not part of our business
 
 
 
-4\. Disclosure of information
+## Use of information
 
-We may disclose information we hold about you to third parties where AA has contracted those third parties for the purpose of providing services you have requested, or as part of the process of sale of one or more of our businesses, or where legitimately requested for legal or regulatory purposes, as part of legal proceedings or prospective legal proceedings. 
+We may disclose information we hold about you to third parties where AA has contracted those third parties for the purpose of providing services you have requested; as part of the process of sale of one or more of our businesses; or where legitimately requested for legal or regulatory purposes, as part of legal proceedings or prospective legal proceedings.
 
-We, and other third-party credit organisations, may also access information about you: 
+We, and other third-party credit organisations, may also access information about you to:
 
-  * To help make decisions on credit, or credit related and insurance proposals and claims for you and other members of your household; and 
-  * To check your identity to prevent money laundering unless other satisfactory proof of identity is provided. 
+  * Help make decisions on credit, or credit related and insurance proposals and claims for you and other members of your household; and
+  * Check your identity to prevent money laundering unless other satisfactory proof of identity is provided.
 
 
 
-5\. Protection of information
+## Protection of information
 
-We maintain strict security measures in order to protect personal information. This includes following certain procedures, for example to check your identity when you telephone us, encrypting data on our web sites and in order to ensure compliance with all applicable legal requirements. For details on how we secure personal information provided online, see Security Information.
+We maintain strict security measures in order to protect your personal information. The procedures to protect your privacy include checking your identity when you telephone us, using secure passwords for our computer systems and encrypting data on our websites are compliance with all applicable legal requirements.
 
-6\. Access to personal information
+When you provide personal information online it is protected by encryption, so it cannot be read as it is transmitted over the internet between your browser and our server. The encrypted data is transmitted using a 128-bit secure socket layer (SSL) connection. Certification of our online identity for this SSL connection is provided by a signed certificate from Thawte.
 
-The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To access your personal information call our Membership line toll on free on 0800 500 444, visit an AA Centre, or by using MyAA , our online Membership services tool, which provides access to a limited amount of personal information and services.
+## Access to personal information
 
-When you contact us to make changes, by phone, online or at an AA Centre, we will need to verify that you are the Member authorised to obtain and update personal information. We will therefore ask you for your Membership number (the 16-digit number found on your _AA Membership_ card), surname and date of birth.
+The Privacy Act 1993 gives you the right to access and correct personal information held by us. Your information is held securely and will not be disclosed to any other person or organisation unless authorised by you. To query or access any personal information we hold, call our Customer Contact Centre, visit an AA Centre, or log in to [www.aa.co.nz]() to gain access.
 
-If you do not have your Membership number with you, or have lost your Membership card you will not be able to access the online functions. If you ring the Membership line or visit an AA Centre, you will then be asked for your surname and address in order to find your record and then your date of birth to verify your identity.
+When AA Members or non-Members contact us to make changes by phone, online or at an AA Centre, we will need to verify that you are the person authorised to obtain and update personal information. We will therefore ask you for identifying details such as your Membership number (the 16-digit number found on your AA Membership card) if appropriate, surname and date of birth.
 
-If your date of birth is not listed on your _AA Membership_ record, you will be asked to provide it when you ring the _AA Membership_ call centre, or if you visit an AA Centre. This is for your security, as the date of birth is used as a password to control access to your information over the phone, at AA Centres and online. 
+If you are unable to satisfy the identification requirements, you will not be able to access or change the information. If you ring the Customer Contact Centre or visit an AA Centre, you will be asked for your surname and address in order to find your record and then your date of birth if possible to verify your identity.
 
-7\. The Internet
+If you are an AA Member and your date of birth is not listed on your AA Membership record, you will be asked to provide it when you ring the Customer Contact centre or if you visit an AA Centre. This is for your security, as the date of birth is used as a password to control access to your information over the phone, at AA Centres and online.
 
-If you communicate with us via the Internet, we may occasionally use email to contact you about our services and products. When you first provide personal information to our Web Site we will normally give you the opportunity to indicate whether you would prefer us not to contact you in this way. However, you can always send us an email at any time to change your preferences. 
+## Cookies
 
-Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered. This is the nature of the World Wide Web/Internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. 
+Cookies are pieces of information that a website transfers to your devices hard disk for record keeping purposes. They help us to understand how customers and potential customers use our website so we can develop and improve the design, layout and functionality of the sites.
 
-8\. Cookies
+Further NZAA Incorporated and related entities websites use cookies to advertise on third party websites (including Google) to previous visitors to our site. These cookies will be used to inform, optimise and serve ads based on someone’s past visits to our Website. No personally identifiable data is collected for this advertising.
 
-We may use 'cookies' to monitor website user traffic patterns and site usage. They help us to understand how our customers and potential customers use our web sites so that we can develop and improve the design, layout and functionality of the sites. A cookie is a piece of information that is stored on your computer's hard drive and which records your navigation of a web site so that, when you revisit that web site, it can present tailored options to you based upon the stored information about your last visit. You can normally alter the settings of your browser to prevent acceptance of cookies.
+We may match your cookies information to what we know about you for analysis purposes. We can use such analysis to improve the functionality and your experience of the website.  
+If you do not want us to deploy cookies into your browser, you can set your browser to reject cookies, or to notify you when a website tries to put a cookie on your computer. However, rejecting cookies may affect your ability to use some of the products and/or services at our website.
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. You can find out more information about this practice and your choices. 
+## Credit card details
 
-If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies, or to notify you when a website tries to put a cookie on your computer. However, rejecting cookies may affect your ability to use some of the products and/or services at our website.
+In line with credit card data security standards when you pay AA using a credit card on line, in store or by telephone your credit card information is not stored by AA.
 
-[Click here for instructions on how to turn off Cookies on your computer.](https://web.archive.org/terms/Pages/TurningOffCookiesinDifferentBrowsers.aspx "Turning off cookies. ")
+## Disclaimer
 
-9\. Links
+The New Zealand Automobile Association (AA) includes itself and any division, subsidiary, third party under contract, or joint venture companies including AA Financial Services, AA Insurance and AA Life.
 
-See [Website Terms and Conditions](https://web.archive.org/terms/Pages/WebsiteUse.aspx).
+AA Members agree to abide by the rules of The New Zealand Automobile Association Incorporated. Copies are available from any AA Centre or [online]().
 
-10\. Monitoring of calls
+The Member understands that the information provided may be used by the AA for administrative purposes and for the purpose of providing the Member with information relating to products and services from time to time. Where any Member is an Associate Member, products and services may be offered to both Members in the household jointly or singularly.
 
-We may monitor and record communications we receive. This may be done to improve the service which we provide, to ensure compliance with our practices and procedures and where, for example, a contract is entered into by that means, to provide evidence of the transaction. 
+## Further information
 
-11\. Credit card details
+This Policy applies to personal information held about individuals. It does not apply to information we hold about companies and other organisations. The Office of the Privacy Commissioner has further details of the New Zealand Privacy Act 1993 and how it protects personal information in New Zealand.
 
-When you join the AA or renew your existing Membership online, your personal information and credit card details are loaded into our secure Membership database and not held on our web server.
-
-Credit card details are retained indefinitely when you elect to pay Membership renewals annually using that payment method, otherwise for one off payments we are required by tax law to retain remittance details for two years. 
-
-12\. Further information
-
-If you would like any further information or have any comments on our Privacy Policy, then please write to us at the address below. We may amend this policy from time to time, in which case the amended version will be published on our website and a copy may be obtained by writing to: 
+If you would like any further information or have any comments on our Privacy Policy, please write to us at the address below. We may amend this policy from time to time, in which case the amended version will be published on [www.aa.co.nz](http://www.aa.co.nz/).  A hard copy may be obtained by writing to:
 
 The Association Secretary  
-NZAA  
-P O Box 5  
-Auckland  
+NZAA   
+PO Box 5   
+Auckland   
 New Zealand
-
-This Policy applies to personal information held about individuals. It does not apply to information we hold about companies and other organisations.
-
-The Office of the Privacy Commissioner has further details of the New Zealand Privacy Act and how it protects personal information in New Zealand.
-
-Disclaimer
-
-The Member agrees to abide by the rules of The New Zealand Automobile Association Incorporated (copies of which are available from any AA Centre or online at www.aa.co.nz).
-
-The Member understands that the information provided may be used by the AA for administrative purposes and for the purpose of providing the Member with information relating to products and services from time to time. Where any Member is an Associate Member, products and services may be offered to both Members in the household jointly or singly.
-
-For this purpose the New Zealand Automobile Association (AA) includes itself and any division, subsidiary, third party under contract, or joint venture companies including AA Financial Services, AA Insurance and AA Life.
