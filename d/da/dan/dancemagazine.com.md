@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119060856id_/http%3A//www.dancemagazine.com/privacy-statement-2335020706.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemagazine.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312160525id_/http%3A//www.dancemagazine.com/privacy-statement-2335020706.html) for the most accurate reproduction.*
 
 # Privacy Statement - dancemagazine
 
