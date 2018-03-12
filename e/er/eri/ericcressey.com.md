@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ericcressey.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905204609id_/https%3A//ericcressey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericcressey.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313002250id_/https%3A//ericcressey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eric Cressey | High Performance Training, Personal Training
 
