@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elance.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231213613id_/https%3A//www.upwork.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elance.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313000554id_/https%3A//www.upwork.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Pages
 
