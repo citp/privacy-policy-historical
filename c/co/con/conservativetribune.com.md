@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the conservativetribune.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914191303id_/http%3A//conservativetribune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativetribune.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312014802id_/https%3A//conservativetribune.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Conservative Tribune
 
-**Last Updated 3/14/2017  
-Version 1.3**
+**Last Updated 12/04/2017  
+Version 1.4**
 
 If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at contactus@liftablemedia.com.
 
@@ -37,7 +37,9 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
+Many of our advertising partners are part of the Network Advertising Initiative. You may opt-out of behavioral advertising for Network Advertising Initiative member companies by following the link below and opting-out of all or some of the advertising networks: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
+
 **Subscription to our Email List**  
-After signing up to receive regular updates from LMI by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events, or other digital content, available on Western Journalism (<http://www.westernjournalism.com/>), Liftable (<http://www.liftable.com/>), Conservative Tribune (<http://conservativetribune.com/>), The Wildcard (<http://www.thewildcard.com/>), and USA Radio Network (<http://www.usaradio.com/>) delivered on a daily or weekly basis. Additionally, users may receive other announcements from LMI. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. LMI respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and LMI. This policy is intended to explain how your personal information is collected and how it will be treated.
+After signing up to receive regular updates from LMI by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events, or other digital content, available on Western Journalism (<http://www.westernjournalism.com/>), Liftable (<http://www.liftable.com/>), Conservative Tribune ([http://conservativetribune.com/](https://conservativetribune.com/)), The Wildcard (<http://www.thewildcard.com/>), and USA Radio Network (<http://www.usaradio.com/>) delivered on a daily or weekly basis. Additionally, users may receive other announcements from LMI. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. LMI respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and LMI. This policy is intended to explain how your personal information is collected and how it will be treated.
 
 Users can choose to unsubscribe from any of LMI’s email lists at any time by following the unsubscribe procedures found at the bottom of each e-mail.
