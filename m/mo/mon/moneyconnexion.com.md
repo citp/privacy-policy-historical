@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyconnexion.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229122013id_/http%3A//moneyconnexion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyconnexion.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312174232id_/http%3A//moneyconnexion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MoneyConnexion
 
