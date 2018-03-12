@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904221920id_/https%3A//newscred.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscred.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312053759id_/https%3A//www.newscred.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsCred
 
@@ -6,19 +6,19 @@ California Residents
 
 Last Updated: June 2017
 
-NewsCred values and respects your privacy. This Privacy and Cookie Policy ("Policy") describes the types of personal data we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
+NewsCred values and respects your privacy. This Privacy and Cookie Policy (“Policy”) describes the types of personal data we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how to contact us about our privacy practices.
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. We will only process your personal data in accordance with applicable data protection and privacy laws. For the purpose of EU data protection legislation, the data controller is NewsCred, Inc., of 386 Park Avenue South, 6th Floor, New York, NY 10016.
 
 #### Information We Collect
 
-NewsCred may obtain personal data about you from various sources, including our websites (including websites we operate on behalf of our clients), when you call or email us, communicate and/or engage with content through social media, or when you participate in events or other promotions. We also may obtain information about you from our business partners, clients and other third parties. For the purposes of this Policy, "personal data" shall have the meaning given to it by EU Directive 95/46 EC.
+NewsCred may obtain personal data about you from various sources, including our websites (including websites we operate on behalf of our clients), when you call or email us, communicate and/or engage with content through social media, or when you participate in events or other promotions. We also may obtain information about you from our business partners, clients and other third parties. For the purposes of this Policy, “personal data” shall have the meaning given to it by EU Directive 95/46 EC.
 
 ##### Types of Information
 
 When you visit and interact with our websites and/or our customers’ websites, certain information may be collected via a cookie, including:
 
-  1. your computer's Internet Protocol (IP) address;
+  1. your computer’s Internet Protocol (IP) address;
 
   2. your browser type and operating system;
 
@@ -49,7 +49,7 @@ Our website includes interfaces that allow you to connect with social networking
 
 Please note that NewsCred’s website and our customers’ websites may contain links to other websites and gather data from social media sites, including LinkedIn, Facebook, Twitter and Pinterest. We recommend that you read the privacy policies of the aforementioned sites and every website that you visit. We are not responsible for those sites’ privacy practices.
 
-When you visit our websites and/or our customers’ websites, NewsCred and our customers may also collect information about your online activities over time and across third-party websites or online services. Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track ("DNT") mechanisms, we do not respond to web browser-based DNT signals at this time.
+When you visit our websites and/or our customers’ websites, NewsCred and our customers may also collect information about your online activities over time and across third-party websites or online services. Because there is not yet a consensus on how companies should respond to web browser-based or other do-not-track (“DNT”) mechanisms, we do not respond to web browser-based DNT signals at this time.
 
 ##### Information Automatically Collected
 
@@ -81,7 +81,7 @@ Further information about cookies, including how to see what cookies have been s
 
 #### How We Use Your Information
 
-In order to learn more about how our websites are used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and assess use of the website, to increase our websites’ functionality, and to better tailor our content and design to suit our visitors' needs.
+In order to learn more about how our websites are used, we aggregate and analyze the data that we collect. We may use this information, for example, to monitor and assess use of the website, to increase our websites’ functionality, and to better tailor our content and design to suit our visitors’ needs.
 
 Cookies help us to improve our websites and to deliver a better and more customized service. They enable us:
 
@@ -108,7 +108,7 @@ You may provide your email address to us or other contact information to receive
 
 #### Business Transitions
 
-In the event NewsCred goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+In the event NewsCred goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
 #### Disclosure
 
@@ -124,7 +124,7 @@ NewsCred has technical, administrative and physical safeguards in place to help 
 
 You may opt out of cookies on NewsCred’s websites and our customers’ websites by downloading the plugin located at <https://www.ghostery.com/en/download>. However, if you refuse cookies, you may be unable to access certain parts of these websites or be unable to use some of our and/or our customers’ services.
 
-You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information, including the sharing of your information with third parties, by emailing privacy [at] newscred [dot] com. We will apply your preferences going forward. In some circumstances, withdrawing your consent to NewsCred's use or disclosure of your personal information will mean that you cannot take advantage of certain NewsCred products or services.
+You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information, including the sharing of your information with third parties, by emailing privacy [at] newscred [dot] com. We will apply your preferences going forward. In some circumstances, withdrawing your consent to NewsCred’s use or disclosure of your personal information will mean that you cannot take advantage of certain NewsCred products or services.
 
 #### Data Retention
 
@@ -136,7 +136,7 @@ This is a U.S. website subject to U.S. laws, including those governing the priva
 
 #### Your California Privacy Rights
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that NewsCred has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to NewsCred, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email privacy [at] newscred [dot] com, with the subject line "California Privacy" and your request in the body of your email.
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that NewsCred has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to NewsCred, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email privacy [at] newscred [dot] com, with the subject line “California Privacy” and your request in the body of your email.
 
 #### Notification of Changes
 
@@ -145,5 +145,3 @@ Whenever NewsCred changes this Privacy Policy, we will post the updated Privacy 
 #### Contact Information
 
 If you have any questions or suggestions regarding our Privacy Policy, please feel free to send an email to privacy [at] newscred [dot] com, call (212) 989-4100 or send a letter by mail to Privacy Officer, NewsCred, Inc., 386 Park Avenue South, 6th Floor, New York, NY 10016.
-
-Facebook-outlineIcon of a facebook-outlineFacebookIcon of a facebookGoogle-plusIcon of a google-plusHamburgerIcon of a hamburgerInstagramIcon of a instagramLinkedinIcon of a linkedinMailIcon of a mailPinterestIcon of a pinterestTwitterIcon of a twitterVenmoIcon of a venmoVideoIcon of a videoYoutubeIcon of a youtube
