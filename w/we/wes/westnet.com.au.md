@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802221558id_/https%3A//www.westnet.com.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westnet.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313161557id_/https%3A//www.westnet.com.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Legal
 
@@ -44,21 +44,21 @@ If you do not wish to receive marketing material from Westnet about Westnet even
 
 ### How you may access personal information and seek the correction of such information
 
-We will take all reasonable steps to ensure that your personal information which we collect, use or disclose is accurate, complete and up-to-date. You can access and correct some of the personal information (such as contact details) that we hold about you by securely logging in to our website. You can also request that incorrect information about you be corrected or deleted.
+We will take all reasonable steps to ensure that your personal information which we collect, use or disclose is accurate, complete and up-to-date. You can access and correct some of the personal information (such as contact details) that we hold about you by securely logging in to our website. You can also request that incorrect information about you be corrected or deleted. 
 
 If you wish to access the information we hold about you, please send an email to our privacy compliance officer (see contact details below) and we will respond to you within 30 days. A handling fee may be payable so that we can obtain the information you require.
 
 ### How you may complain about a breach of privacy
 
-If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Westnet's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied (see our [Complaints Escalation Process](https://web.archive.org/web/20170802221558id_/https://www.westnet.com.au/about/legal/complaints-escalation-process))
+If you have any complaints about our privacy practices or would like further information, please contact our Privacy Compliance Officer. Westnet's general complaint handling policy is also applicable for complaints about privacy and sets out an external body which can handle a complaint if you remain dissatisfied (see our [Complaints Escalation Process](https://web.archive.org/web/20180313161557id_/https://www.westnet.com.au/about/legal/complaints-escalation-process)) 
 
 ### Disclosure of personal information to overseas recipients
 
-We operate both in Australia and overseas. Therefore we may need to share some of your personal information with organisations outside Australia.
+We operate both in Australia and overseas. Therefore we may need to share some of your personal information with organisations outside Australia. 
 
-Westnet may disclose some of your personal information that we hold to organisations located outside Australia in countries which do not have the same or substantially similar privacy laws, but only to the extent necessary to provide you with telecommunications services requested by you or to meet our business needs. We may also store your information in cloud or other types of networked or electronic storage. Where required, we will take reasonable steps to ensure that these overseas organisations do not breach the Australian Privacy Principles.
+Westnet may disclose some of your personal information that we hold to organisations located outside Australia in countries which do not have the same or substantially similar privacy laws, but only to the extent necessary to provide you with telecommunications services requested by you or to meet our business needs. We may also store your information in cloud or other types of networked or electronic storage. Where required, we will take reasonable steps to ensure that these overseas organisations do not breach the Australian Privacy Principles. 
 
-We have listed below the known countries in which the overseas organisations with which we share your personal information are located.
+We have listed below the known countries in which the overseas organisations with which we share your personal information are located. 
 
   * Canada
   * Europe
@@ -72,7 +72,7 @@ We have listed below the known countries in which the overseas organisations wit
 
 
 
-It is not always practicable to know in which country your information may be held, for example, when your personal information is stored in cloud. In these types of circumstances, disclosures may occur in countries other than those listed above.
+It is not always practicable to know in which country your information may be held, for example, when your personal information is stored in cloud. In these types of circumstances, disclosures may occur in countries other than those listed above. 
 
 Overseas organisations will be subject to their own laws and may be required to disclose information that we share with them. In those instances, we will not be responsible for that disclosure.
 
@@ -81,7 +81,7 @@ Overseas organisations will be subject to their own laws and may be required to 
 Westnet's privacy officer can be contacted in the following ways:   
 Mail: The Privacy Officer, 65 Waterloo Road, Macquarie Park NSW 2113  
 Email: [privacycompliance@tpg.com.au](mailto:privacycompliance@tpg.com.au)  
-Fax: 02 9252 7855
+Fax: 02 9252 7855 
 
 ### Policy Updates
 
