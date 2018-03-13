@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601161809id_/https%3A//www.amp.com.au/amp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313071126id_/https%3A//www.amp.com.au/amp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AMP
 
 It's important you can trust us with your personal information. We take your privacy and security very seriously. We'll only ask you for the information we need to help you build and protect your wealth.
 
-We've updated our Privacy Policy in line with current Australian privacy legislation to cover:
+Our Privacy Policy is in line with current Australian privacy legislation to cover:
 
   * why AMP needs personal information and what types we collect
   * how we protect your personal information
