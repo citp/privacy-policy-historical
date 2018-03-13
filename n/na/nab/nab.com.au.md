@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930161906id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nab.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313035150id_/https%3A//www.nab.com.au/common/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NAB
 
