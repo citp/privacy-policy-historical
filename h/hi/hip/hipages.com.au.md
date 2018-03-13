@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119002346id_/https%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313070400id_/https%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
 
 # Home Improvement Pages, Privacy Policy
 
@@ -67,7 +67,7 @@
 
 #### Contacting us
 
-22\.  | If you require further information regarding our Privacy Policy, please contact us at the following address: Email: [info@hipages.com.au](mailto:info@hipages.com.au) Physical Address: Level 2, 338 Pitt Street, Sydney NSW 2000, Australia   
+22\.  | If you require further information regarding our Privacy Policy, please contact us at the following address: Email: [info@hipages.com.au](mailto:info@hipages.com.au) Physical Address: Level 10, 255 Pitt Street, Sydney NSW 2000, Australia   
 ---|---  
 23. | Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at privacy@privacy.gov.au   
   
