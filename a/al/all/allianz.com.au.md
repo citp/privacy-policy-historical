@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702000012id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313035045id_/https%3A//www.allianz.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # About - Privacy
 
@@ -51,7 +51,7 @@ If you nominate individuals to be covered by your insurance policy, you should d
 
 If you decide to complete an online application form, the information that you enter into the online form will only be collected by us if you submit your online application. If at any stage you cancel your application prior to submitting your application, the information you have entered up to that point will be automatically deleted.
 
-## Website tracking
+## Website and other data tracking
 
 We may collect information about your visit to our site to assist us to measure and improve our website. Examples of information that we collect include: day and time of your visit, whether you have visited our website previously, whether you used a search engine to find us and some geographical information about what country and state you are in.
 
@@ -68,7 +68,7 @@ We also use other external companies for the following purposes:
 
 ## Email
 
-We retain the content of any email that you send to us if we believe we have a legal requirement to do so. Your email message content may be monitored by our employees for security issues, including where email abuse is suspected; our response to you may be monitored for quality assurance issues.
+We retain the content and associated data of any email that you send to us if we believe we have a legal requirement to do so. Your email message content may be monitored by our employees for security issues, including where email abuse is suspected; our response to you may also be monitored for quality assurance issues.
 
 ## For what purposes do we collect, hold and use your personal information?
 
@@ -88,6 +88,18 @@ We collect, hold and use your personal information for the purposes of providing
 
 
 Personal information (including sensitive information) collected for workers compensation claims will only be used in connection with the business of providing workers compensation claim services or for purposes required by workers compensation regulators or by law.
+
+## Direct marketing and your privacy
+
+From time to time, we may use your personal information to advise you about or offer you other products or services that may be relevant and of interest to you. Personal Information you or an associated party have provided us will be held on file for marketing purposes until you opt out of receiving such information. If you do not want to receive these offers from us (including product or service offerings from us on behalf of our brokers, intermediaries and/or our business partners), please call the relevant customer service line in the ‘Contact Us’ section of this policy, or complete our online opt out form below.
+
+[Online “Opt Out” form](https://www.einsure.com.au/cpmp/cnp/web/?unsubscribe=y#!/search)
+
+In some instances, we may disclose your personal information (but not sensitive information) to others we have business arrangements with to enable them to offer their products and services to you.
+
+We do not use or disclose sensitive information for the purposes of direct marketing.
+
+Personal information, which is not sensitive information, that is collected for workers compensation insurance and compulsory third party insurance in South Australia will not be used or disclosed to others for direct marketing, customer or market research purpose unless required by the regulator.
 
 ## Who do we disclose your personal information to and why?
 
@@ -118,7 +130,7 @@ We will not disclose your sensitive information for any purpose, other than the 
 
 ## Disclosure to overseas recipients
 
-In some instances, your personal information might be disclosed to other companies in the Allianz Group, business partners, reinsurers and service providers (including providers of our virtual online assistant and any online chat function) that may be located overseas. The countries in which these recipients may be located will vary from time to time, but may include Canada, Germany, New Zealand, United Kingdom, United States of America and other countries where the Allianz Group has a presence (a list of which is available on the Allianz Group website www.allianz.com) or engages subcontractors.
+In some instances, your personal information may be disclosed to other companies in the Allianz Group, business partners, reinsurers and service providers (including providers of our virtual online assistant and any online chat function) that may be located overseas. The countries in which these recipients may be located will vary from time to time, but may include Canada, Germany, New Zealand, United Kingdom, United States of America and other countries where the Allianz Group has a presence (a list of which is available on the Allianz Group website www.allianz.com) or engages subcontractors.
 
 We do not disclose your personal (including sensitive) information to recipients outside of Australia when it is collected for the following insurance products:
 
@@ -130,25 +142,13 @@ We do not disclose your personal (including sensitive) information to recipients
 
 We regularly review the security of our systems used for sending personal information overseas. Any information disclosed may only be used for the purposes of collection detailed previously and for system administration.
 
-## Direct marketing and your privacy
-
-From time to time, we may use your personal information to advise you about or offer you other products or services that may be relevant and of interest to you. If you do not want to receive these offers from us (including product or service offerings from us on behalf of our brokers, intermediaries and/or our business partners), please complete our online Opt Out form below, or call the telephone numbers in the 'Contacting us about access to, and correction of, your personal information' section below.
-
-[Online “Opt Out” form](https://web.archive.org/privacy/optout.nsf/InternetOptOut?OpenForm)
-
-In some instances, we may disclose your personal information (but not sensitive information) to others we have business arrangements with to enable them to offer their products and services to you.
-
-We do not use or disclose sensitive information for the purposes of direct marketing.
-
-Personal information, which is not sensitive information, that is collected for workers compensation insurance and compulsory third party insurance in South Australia will not be used or disclosed to others for direct marketing, customer or market research purpose unless required by the regulator.
-
 ## How do we hold your personal information?
 
 We may hold your personal information in a number of ways, including:
 
   * in our computer systems or databases, which may involve storing data on storage or computer systems provided by third party suppliers;
   * in paper records; and/or
-  * in telephone recordings.
+  * in telephone recordings (used for training and verification purposes).
 
 
 
@@ -160,11 +160,13 @@ We may combine personal information we receive about you with other information 
 
 We may include links to external sites that we consider contain content relevant to the information that you were seeking from us. Where these links occur, we accept no responsibility for the accuracy of the content, the privacy or security of those sites or your reliance on any information contained within any such site.
 
-## Contacting us about access to, and correction of, your personal information
+## Contact us
+
+**Access to, and correction of, your personal information**
 
 Allianz aims to ensure that your personal information is accurate, up to date, complete and relevant. If you would like to seek access to, or revise, your personal information, or feel that the information we currently have on record is incorrect or incomplete, please contact us using the following contact details:
 
-Privacy enquiry | Phone  
+Privacy enquiry (including if you want to opt out) | Phone  
 ---|---  
 Life insurance and Consumer Credit Insurance | 13 1000 EST 9am-6pm  
 Monday to Friday  
