@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219000109id_/https%3A//www.nib.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313040346id_/https%3A//www.nib.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Private Health Insurance | nib
 
