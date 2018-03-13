@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sony.com.au privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920165939id_/http%3A//www.sony.com.au/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313091309id_/https%3A//www.sony.com.au/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy : Privacy Policy : Sony Australia
+# Privacy Policy : Sony Australia
 
 **_We take your privacy extremely seriously and are committed to ensuring that your personal information is protected in compliance with all applicable Australian laws. This policy describes what, why and how we collect and use your personal information, how we protect it and how you can contact us._**
 
@@ -8,16 +8,17 @@ Sony Australia Limited ( **Sony Australia** ) (ABN 59 001 215 354), is the Sony 
 
 This policy explains the types of personal information that we may collect and hold, how that information is used and with whom the information is shared. It also sets out how you can contact us if you have any queries or concerns about this information. Some of our services also have their own privacy policy which provide details of the use of your information by that service. These service-specific policies may apply in addition to or instead of this policy. 
 
-Please note that other companies in the Sony Group are responsible for personal information controlled outside Australia, such as Sony Corporation in Japan, or in connection with other Sony products and services, such as Sony Computer Entertainment (Playstation), Sony Mobile, Sony Music, Sony Pictures and Universal Sony Pictures Home Entertainment . These companies may have their own privacy policies, which are generally available from the relevant websites for those products and services.
+Please note that other companies in the Sony Group are responsible for personal information controlled outside Australia, such as Sony Corporation in Japan, or in connection with other Sony products and services, such as Sony Computer Entertainment (Playstation), Sony Mobile, Sony Music, Sony Pictures and Universal Sony Pictures Home Entertainment. These companies may have their own privacy policies, which are generally available from the relevant websites for those products and services.
 
   
 
 
 ### Contents
 
-## 1\. Information that we collect
+## 1 Information that we collect
 
-We need to collect personal information from you in order for us to provide products, services and support to you. If you do not provide us with certain personal information when prompted, we may be unable to sell you products and/or provide certain services, including after sales services.   
+We need to collect personal information from you in order for us to provide products, services and support to you. If you do not provide us with certain personal information when prompted, we may be unable to sell you products and/or provide certain services, including after sales services.
+
 Sony Australia may collect personal information which is necessary for our functions or activities in several different ways. Please take care when submitting personal information to us, in particular when completing free text fields or uploading documents and other materials. Some of our services are automated and we may not recognise that you have accidentally provided us with incorrect or sensitive information.
 
 ### 1.1 The types of personal information that we collect and hold
@@ -57,7 +58,7 @@ We collect personal information directly from you, from publicly available sourc
 
 ### 1.3 Parties from whom we collect personal information
 
-There are a range of people, organisations and sources from whom or from which we collect your personal information. These may be parties related to Sony Group or third parties. Some examples of the parties and sources from whom or which we collect your personal information are:
+There are a range of people, organisations and sources from whom or from which we collect your personal information. These may be parties related to Sony Group or third parties. Some examples of the parties and sources from whom or which we collect your personal information are: 
 
   * other related bodies corporate within the Sony Group;
   * Sony retailers;
@@ -126,7 +127,7 @@ There will be other instances where we may use and disclose your personal inform
 We may link or combine the information that we collect from the different sources outlined above in the “Information that we collect” section above (including information received from other Sony Group companies about your use of other Sony Group products and services). Information may be linked via a unique identifier, such as a cookie or account number . Alternatively, we may decide to combine two or more databases into a single database of customer information.   
 We may do this for your and/or our convenience (for example, to allow you to more easily register for a new service), to allow us to provide a more seamless customer support whenever you contact us and to provide you with better, personalised services, content, marketing and adverts.
 
-## 3\. Disclosure of personal information
+## 3 Disclosure of personal information
 
 ### 3.1 Disclosure of  information by Sony Australia
 
@@ -136,10 +137,14 @@ In general, Sony Australia does not sell, rent or otherwise disclose information
 
 
 
-We will share your personal information with all companies that form a part of the Sony Group. If one Sony Group company collects your personal information, other Sony Group companies may use and disclose that personal information for the purposes for which we collected it, described in section 2.   
-Other Sony Group companies to whom we have disclosed your personal information for one of these purposes may combine this information with other details they hold about you. Unless that Sony Group company provides you with their own privacy policy, they may use your personal details for the purposes explained in this policy.   
-Our service providers   
-We may use third party service providers to process information on our behalf for the purposes outlined above. For example, fulfilling orders, delivering packages, sending postal mail and emails, sending text messages (SMS), providing marketing assistance, processing credit card payments, providing fraud checking services and providing customer services.   
+We will share your personal information with all companies that form a part of the Sony Group. If one Sony Group company collects your personal information, other Sony Group companies may use and disclose that personal information for the purposes for which we collected it, described in section 2. 
+
+Other Sony Group companies to whom we have disclosed your personal information for one of these purposes may combine this information with other details they hold about you. Unless that Sony Group company provides you with their own privacy policy, they may use your personal details for the purposes explained in this policy. 
+
+Our service providers
+
+We may use third party service providers to process information on our behalf for the purposes outlined above. For example, fulfilling orders, delivering packages, sending postal mail and emails, sending text messages (SMS), providing marketing assistance, processing credit card payments, providing fraud checking services and providing customer services.
+
 Our service providers operate only in accordance with our instructions, in line with this policy, and are subject to appropriate confidentiality and security obligations.
 
   * Our business partners
@@ -169,7 +174,7 @@ We prepare anonymous, aggregate or generic data (including “generic” statist
 
 ### 3.2 Sharing of information by you
 
-A number of our online services allow you to upload and share messages, photos, video and other content and links with others and/or create a publically accessible profile for your account. For example:
+A number of our online services allow you to upload and share messages, photos, video and other content and links with others and/or create a publically accessible profile for your account. For example: 
 
   * the communities and forums area of our website, allows you to post comments (with your account name), which are visible to other users of that service; and 
   * other services allow you to share a link which if clicked on may allow the recipient to access your uploaded content. 
@@ -255,7 +260,8 @@ Individuals have the right to request access to personal information we hold abo
 
 ## 8 Complaints
 
-If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)) (which is the regulator responsible for privacy in Australia).   
+If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the Office of the Australian Information Commissioner ([www.oaic.gov.au](http://www.oaic.gov.au/)) (which is the regulator responsible for privacy in Australia).
+
 We will deal with complaints as follows: ****
 
 **Step 1: let us know**
@@ -304,7 +310,8 @@ _[www.oaic.gov.au](http://www.oaic.gov.au/)_
   
 ## 9 Links to other sites
 
-Some of our websites may contain links to other websites that are not operated by Sony Australia, including websites operated by other Sony Group companies.   
+Some of our websites may contain links to other websites that are not operated by Sony Australia, including websites operated by other Sony Group companies. 
+
 While Sony Australia tries to link only to sites that share Sony Australia’s high standards and respect for privacy, we are not responsible for the content, security or privacy practices of those other websites. You should view the privacy and cookie policies displayed on those websites to find out how your personal information may be used.
 
 ## 10 Children’s privacy
@@ -338,7 +345,6 @@ Please dial 1300 13 SONY (7669) 8am to 6pm (AEST), Monday to Friday.
 
 **_While we try our best to use plain and simple language, we recognise that there will be some jargon. This section aims to provide simple definitions for some of the common privacy terminology._ **
 
-  
 **_Applicable law_ ** | 
 
 The legislation with which any personal information processing must comply.  
