@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the novascotia.ca privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103172109id_/https%3A//novascotia.ca/cns/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.ca privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313204517id_/https%3A//novascotia.ca/cns/privacy) for the most accurate reproduction.*
 
 # Communications Nova Scotia Privacy Statement | novascotia.ca
 
-The [Nova Scotia Government Website Privacy Policy Statement](http://novascotia.ca/govt/privacy/) applies to the operation of the websites made by Communications Nova Scotia (the "websites”). The websites use Government of Nova Scotia servers to store site content and information collected through online forms. 
+The [Nova Scotia Government Website Privacy Policy Statement](https://novascotia.ca/govt/privacy/) applies to the operation of the websites made by Communications Nova Scotia (the "websites”). The websites use Government of Nova Scotia servers to store site content and information collected through online forms. 
 
 ## Google Analytics
 
@@ -12,4 +12,4 @@ If you wish, you may opt out of being tracked by Google Analytics by disabling o
 
 If you have never disabled the session cookie option, it should be enabled by default. To disable cookies or JavaScript, please refer to your vendor's browser instruction guide. 
 
-Please note that the websites provide links to other sites that are not covered by this privacy policy statement. Please also review the [Nova Scotia Government Website Privacy Policy Statement](http://novascotia.ca/govt/privacy/). 
+Please note that the websites provide links to other sites that are not covered by this privacy policy statement. Please also review the [Nova Scotia Government Website Privacy Policy Statement](https://novascotia.ca/govt/privacy/). 
