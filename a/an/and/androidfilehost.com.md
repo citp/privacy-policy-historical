@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the androidfilehost.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710155742id_/https%3A//androidfilehost.com%3Fw%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidfilehost.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313232120id_/https%3A//androidfilehost.com%3Fw%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AndroidFileHost.com | Download GApps, PA GApps, Roms, Kernels, Themes, Firmware and more. Free file hosting for all Android developers
 
-_This document was last updated on July 14, 2012_
+_This document was last updated on February 9th, 2017_
 
-This **Privacy Policy** governs the manner in which Android File Host collects, uses, maintains and discloses information collected from users (each, a "User") of the **androidfilehost.com** website ("Site"). This privacy policy applies to the Site and all products and services offered by **AndroidFileHost.com**
-
-### Personal identification information
+This **Privacy Policy** governs the manner in which Android File Host collects, uses, maintains and discloses information collected from users (each, a "User") of the **Android File Host** website ("Site"). This privacy policy applies to the Site and all products and services offered by **Android File Host**
 
 We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -26,7 +24,7 @@ Android File Host collects and uses Users personal information for the following
   * To improve our Site - We continually strive to improve our website offerings based on the information and feedback we receive from you.
   * To improve customer service - Your information helps us to more effectively respond to your customer service requests and support needs.
   * To administer a content, promotion, survey or other Site feature - To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails - The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * To send periodic emails - The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
