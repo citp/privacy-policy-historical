@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915153952id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313114353id_/https%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -288,8 +288,8 @@ Privacy Contact Officer Kathmandu PO Box 1234 Christchurch 8140, New Zealand.
 Email: [privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz)  
 If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact:
 
-Australia Office of the Australian Information Commissioner on 1300 363 992 or visit their website at [www.oaic.gov.au](http://www.oaic.gov.au/)
+Australia Office of the Australian Information Commissioner on 1300 363 992 or visit their website at [www.oaic.gov.au](https://www.oaic.gov.au/)
 
 New Zealand Privacy Commissioner (New Zealand) on 0800 803 909 or visit their website at [www.privacy.org.nz](http://www.privacy.org.nz/)
 
-United Kingdom Information Commissioner’s Office on 0303 123 1113 or visit their website at [ www.ico.org.uk](http://ico.org.uk/)
+United Kingdom Information Commissioner’s Office on 0303 123 1113 or visit their website at [ www.ico.org.uk](https://ico.org.uk/)
