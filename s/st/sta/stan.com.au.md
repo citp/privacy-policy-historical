@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219032401id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stan.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313191718id_/https%3A//www.stan.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Stan
 
@@ -146,7 +146,13 @@ If you believe that personal information we hold about you is incorrect, incompl
 
 We request that you keep your information as current as possible so that we may continue to improve our service to you.
 
-## How to contact the Privacy Officer
+## How to contact us
+
+### Customer Service
+
+For all customer service and account queries, please submit a request via [Stan Help ](https://bit.ly/StanHelp) and our customer service team will get in touch with you shortly.
+
+###  Privacy Officer
 
 If you have any questions or concerns about our Privacy Policy, complaints regarding how we handle your personal information or would like to make an access request, please contact us using the contact information below.
 
@@ -166,8 +172,8 @@ We may disclose personal information to our external service providers located o
 We may disclose your personal information to entities located outside of Australia, including the following:
 
   * our data hosting and Cloud-based IT service providers;
-  * other external technology partners and service providers located in the United States; and
-  * other third parties operating in jurisdictions including the United States where you have authorised us to do so.
+  * other external technology partners and service providers located in the United States and the European Union; and
+  * other third parties operating in jurisdictions including the United States and the European Union where you have authorised us to do so.
 
 
 
@@ -177,4 +183,4 @@ Our website may contain links to other websites operated by third parties. We ma
 
 ## Changes to our Privacy Policy
 
-We may change this privacy policy from time to time and the most current version of the policy will apply. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in November 2014.
+We may change this privacy policy from time to time and the most current version of the policy will apply. Any updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in January 2018.
