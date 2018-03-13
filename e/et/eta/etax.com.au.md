@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606192334id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313173823id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
 
 # Etax Privacy and Security Statement
 
@@ -16,37 +16,46 @@ This Security and Privacy Statement may also apply to services offered by Etax o
 
 Etax takes reasonable steps to preserve the security of cookie and personal information in accordance with this Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted).
 
-**Etax currently uses 256 bit SSL encryption.   We hold an Extended Validation SSL certificate signed by DigiCert – this is the industry standard for Banks and other financial institutions. To verify our current SSL certificate you can use an independent security check tool such as [SSLShopper.com](http://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
+Etax currently uses 256 bit SSL encryption.  We hold an Extended Validation SSL certificate signed by DigiCert – this is the industry standard for Banks and other financial institutions.
+
+**  
+To verify our current SSL certificate you can click the Digicert logo above or use an independent security check tool such as[SSLShopper.com](https://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
 
 Etax regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although Etax strives to protect such information, Etax cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
 
-In early 2014, a new security risk called “heartbleed” was discovered by IT experts. **This problem did not, and does not, affect Etax.com.au.**
-
 ## Browser Security
 
-We strongly encourage you to update your web browser software and computer operating system frequently.
+We strongly encourage you to update your web browser software and computer or mobile operating system frequently.
 
-Etax.com.au works on all browsers and all types of computers, including Apple computers, iOS devises (eg. iPhone and iPad), Android phones and tablets and all Windows computers. However, the security of your private information can be compromised by your own choice of software and whether you keep it up-to-date by installing the manufacturer’s suggested updates.
+Etax.com.au works on all browsers and all types of computers, including Apple computers, iOS devises (eg. iPhone and iPad), Android phones and tablets and all Windows computers. However, the security of your private information can be compromised by your own choice of software and whether you keep it up-to-date with the manufacturer’s latest updates.
 
-Some browsers are known to be at higher risk. Older browsers such as Internet Explorer (versions 8 and older) are out-of-date and should not be used; they should be updated immediately and free updates are available from Microsoft.
+Some browsers are known to be at higher risk. Older browsers such as Internet Explorer (including versions 8, 9 and 10) are out-of-date and should **not** be used; free updates are available from Microsoft.
 
-During April 2014 the IT press revealed that **all** versions of Internet Explorer contain a security vulnerability, including the newest version (IE11) on the latest versions of Windows 8. For this reason, it is commonly suggested that Windows users should use Chrome or Firefox browsers until the problem is resolved by Microsoft.
+Microsoft Windows 8, Windows 7, Windows XP, Windows 2000, Windows 98, Windows 95 and Windows 3.1 are no longer fully supported or updated by Microsoft. Those systems are viewed by Microft as being at “end of lifecycle” and may no longer receiving security updates, therefore it is generally recommended you should not use them to enter or store your private information (or at all).
 
 At this time we are not aware of any security problems relating to current versions of the Apple Safari browser, but we do caution users to download updates from Apple whenever they are available.
 
-Microsoft Windows XP, Windows 2000, Windows 98, Windows 95 and Windows 3.1 are no longer supported or updated by Microsoft. Those systems are no longer receiving security updates, therefore it is generally recommended you should not use them to enter or store your private information (or at all).
+Likewise, Apple users should use only current and supported versions of OSX and iOS. Online safety begins with having an updated computer or device.
 
-Are you using an old computer and can’t update it – but you want to do your tax return right now? Consider using your mobile phone or tablet; Etax.com.au works fine on mobile devices. Please remember to update your mobile device software just as you would a desktop or laptop computer.
+Are you using an old computer and can’t update it – but you want to do your tax return right now? Consider using your mobile phone or tablet; Etax.com.au works fine on mobile devices.
+
+**Please remember to update your mobile device software just as you would a desktop or laptop computer.**
+
+## Security Reporting
+
+Etax values the work of security experts inside and outside of our business. We’re committed to working with the community to reproduce and fix any problem, be it security-related or even just a little usability issue.
+
+If you are a security researcher you can report any suspected security issue at security@etax.com.au. Please provide your name, contact details and business. Etax will prioritise encrypted reports; please provide your PGP public key. [Click here for the Etax public key](https://www.etax.com.au/wp-content/uploads/2018/01/Etax-Public-Key.txt).
 
 ## Information Collected
 
-The information that we will collect about you will depend on how you use the facilities offered by the Etax website.
+The information that we will collect about you will depend on how you use the facilities offered at the Etax websites.
 
-If you visit an unsecure area of the Etax website (that is, an area where you are not required to log on) to read, browse or download information, our system may record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information.
+If you visit an unsecure area of the Etax website (that is, an area where you are not required to log on) to read, browse or download information, our system may record the date and time of your visit to our site, the pages viewed and any information downloaded. However, our systems will not record any personally identifiable information and no attempt will be made to match your visit to any personally identifiable details.
 
-The Etax website offers a number of interactive facilities including the Etax Help service and preparing your online tax return. If you decide to use one of these services, our system will record the information you enter during your use of the Etax website.
+The Etax website offers a number of interactive facilities including the Etax Help service and forms for preparing your online tax return. If you decide to use one of these services, our system will record the information you enter during your use of the Etax websites.
 
-The Etax website also contains links to the websites of third party providers of goods and services (“Third Party websites”). If you have accessed Third Party websites through the Etax website and if those third parties collect information about you, Etax may also collect or have access to that information as part of our arrangements with those third parties.
+The Etax websites may also contain links to the websites of third party providers of goods and services (“Third Party websites”). If you have accessed Third Party websites through the Etax website and if those third parties collect information about you, Etax may also collect or have access to that information as part of our arrangements with those third parties.
 
 The Etax website may periodically be promoted using online display advertising and remarketing tools connected with Google Analytics. Etax and third-party vendors, including Google and Microsoft, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on individuals’ past visits to this website. This is intended to help make ads relating to this site more relevant to people who have or have not visited this website and to minimise ads displayed to people who may not need the services of this site. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads).
 
