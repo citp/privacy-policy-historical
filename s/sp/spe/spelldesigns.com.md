@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spelldesigns.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222120313id_/https%3A//shop.spelldesigns.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spelldesigns.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313140533id_/https%3A//shop.spelldesigns.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Spell & The Gypsy Collective - Australia
 
-\- Updated November 2015
+Updated November 2015
 
-This privacy policy sets out our commitment to protecting the privacy of your personal information that we collection through this website, http://spelldesigns.com (site) or directly from you. 
+This privacy policy sets out our commitment to protecting the privacy of your personal information that we collection through this website, http://spelldesigns.com (site) or directly from you.
 
 Please read this Privacy Policy carefully. Please contact us if you have any questions - our contact details can be found on our [Contact Page](https://web.archive.org/pages/contact).
 
