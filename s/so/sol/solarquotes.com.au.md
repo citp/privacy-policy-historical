@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301054757id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313144011id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers
 
@@ -30,7 +30,7 @@ _We will send you emails walking you through the solar buying process, asking yo
 
 3.1.         enable us to monitor traffic patterns, user actions (like how many people submit a form) and to identify your computer when you return to our website. Cookies do not identify you personally, but they do identify your computer. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may not be able to use certain features of our website.
 
-3.2.         engage in remarketing to market our sites across the web. Users with a remarketing cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (<http://www.networkadvertising.org/managing/opt_out.asp>) or you can opt out of just the Google Remarketing program by using the Google Ad Preference manager: <http://www.networkadvertising.org/managing/opt_out.asp.>  You can also use the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/) tool to opt out of the Google Remarketing program.
+3.2.         engage in remarketing to market our sites across the web. Users with a remarketing cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (<http://www.networkadvertising.org/managing/opt_out.asp>) or you can opt out of just the Google Remarketing program by using the [Google Ad Preference manager](https://support.google.com/ads/answer/2662922?hl=en)  You can also use the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout/) tool to opt out of the Google Remarketing program.
 
 4.If you choose to provide us your details using the 'Get a Quote' form, we will collect the information that you provide using that form, including—
 
