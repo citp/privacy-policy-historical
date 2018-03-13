@@ -1,297 +1,331 @@
-<!--The following is the downloaded HTML source of the iplocationtools.com privacy policy that was archived on 2017-09-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170926184243id_/http%3A//www.iplocationtools.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iplocationtools.com privacy policy that was archived on 2018-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180313120452id_/http%3A//www.iplocationtools.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-<meta name="robots" content="all">
-<meta name="description" content="Information about IPLocationTools.com online privacy policies and practices.">
-<meta name="keywords" content="privacy, privacy statement, privacy practices">
-<meta name="author" content="http://www.iplocationtools.com">
-<meta name="google-site-verification" content="jCvUgemIDWMrRzlPO6B1fQhfRu4-CITARrP3Jlm2okk">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy | IPLocationTools.com</title>
-<link href="lib/style.css" rel="stylesheet" type="text/css">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="JavaScript" src="lib/script.js"></script>
-<meta name="verify-v1" content="Ag2wExipC72neEocMvZTg4ul7cA5/c47yRGCpI/JmSE=">
-<meta name="google-site-verification" content="KYx8zdxczmXwmTwHD6BfIsjw7wSgGXJTK5x1gPTeKFI">
-<script language="javascript" src="http://code.google.com/apis/gears/gears_init.js"></script>
-<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1.0/prototype.js"></script>
-<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js"></script>
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
+		<title>Privacy Policy | IPLocationTools</title>
 
-<script type="text/javascript">
-function getLocation(){
-	try{
-		var geo = google.gears.factory.create('beta.geolocation');
-		geo.getCurrentPosition(successCallback, errorCallback);
-	}
-	catch(e){
-		try{
-			navigator.geolocation.getCurrentPosition(successCallback, errorCallback);
-		}
-		catch(e){
-			errorCallback({code:2,message:e.message});
-		}
-	}
-}
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-function errorCallback(err){}
+		<meta name="description" content="Information about IPLocationTools.com online privacy policies and practices.">
+		<meta name="keywords" content="privacy, privacy statement, privacy practices">
+		<meta name="author" content="IPLocationTools">
 
-function successCallback(r){
-	new Ajax.Request('/geo5.php?lat=' + r.coords.latitude + '&lon=' + r.coords.longitude,{
-		method:'get',
-		onSuccess: function(transport){},
-		onFailure: function(){ alert('Failed to report location.') }
+		<meta property="og:site_name" content="IPLocationTools">
+		<meta property="og:title" content="Privacy Policy | IPLocationTools">
+		<meta property="og:description" content="Information about IPLocationTools.com online privacy policies and practices.">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="/assets/img/logo.png">
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-11026515-6"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-11026515-6');
+		</script>
+
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="/favicon.ico">
+
+		<!-- CSS Global Compulsory -->
+		<link rel="stylesheet" href="/assets/plugins/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/assets/css/style.css">
+
+		<!-- CSS Implementing Plugins -->
+		<link rel="stylesheet" href="/assets/plugins/line-icons/line-icons.css">
+		<link rel="stylesheet" href="/assets/plugins/font-awesome/css/font-awesome.min.css">
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.4/css/flag-icon.min.css">
+
+		<!-- CSS Theme -->
+		<link rel="stylesheet" href="/assets/css/theme-colors/teal.css">
+
+		<!-- CSS Customization -->
+		<link rel="stylesheet" href="/assets/css/custom.css">
+
+			</head>
+
+	<body>
+		<div class="wrapper">
+			<!--=== Header ===-->
+			<div class="header">
+				<div style="margin-top:50px;"></div>
+
+				<!-- Navbar -->
+				<div class="navbar navbar-default" role="navigation">
+					<div class="container">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="fa fa-bars"></span>
+							</button>
+							<a class="navbar-brand" href="/">
+								<img id="logo-header" src="/assets/img/logo.png" width="325" height="25" alt="IPLocationTools">
+							</a>
+						</div>
+
+						<div class="collapse navbar-collapse navbar-responsive-collapse">
+							<ul class="nav navbar-nav">
+								<li><a href="/">Home</a></li>
+
+								<li class="dropdown">
+									<a class="dropdown-toggle" data-toggle="dropdown" href="#">API &amp; Widgets</a>
+									<ul class="dropdown-menu">
+										<li><a href="/api/real-time-visitor">Real-Time Visitor Widget</a></li>
+										<li><a href="/api/javascript-ip-geolocation">JavaScript IP Geolocation API</a></li>
+										<li><a href="/api/native-language-by-ip-address">Native Language by IP Address API</a></li>
+									</ul>
+								</li>
+
+								<li class="dropdown">
+									<a class="dropdown-toggle" data-toggle="dropdown" href="#">Free Database</a>
+									<ul class="dropdown-menu">
+										<li><a href="https://lite.ip2location.com/database/ip-country-region-city-latitude-longitude-zipcode-timezone" target="_blank">IP2Location™ Free Lite Database</a></li>
+										<li><a href="https://lite.ip2location.com/database/px4-ip-proxytype-country-region-city-isp" target="_blank">IP2Proxy™ Free Lite Proxy Database</a></li>
+									</ul>
+								</li>
+
+								<li><a href="/samples">Samples</a></li>
+								<li><a href="/tutorials">Tutorials</a></li>
+								<li><a href="/about">About Us</a></li>
+
+																<a href="/login" class="btn btn-success navbar-btn text-uppercase">Login</a>
+															</ul>
+						</div>
+					</div>
+				</div>
+				<!-- End Navbar -->
+			</div>
+			<!--=== End Header ===-->
+
+			<!--=== Breadcrumbs ===-->
+			<div class="breadcrumbs">
+				<div class="container">
+					<h1 class="pull-left"><strong>Information We Collect and How We Use It</strong></h1>
+				</div>
+			</div>
+			<!--=== End Breadcrumbs ===-->
+
+			<!--=== Content ===-->
+			<div class="container content height-500">
+				<div class="row">
+					<div class="col-md-9">
+						<div class="margin-bottom-40">
+
+							<p>We offer a number of services that may require you to register for an account or provide personal information to us, such as our API tools.</p>
+
+							<p>In order to provide our full range of services, we may collect the following types of information:</p>
+
+							<h3>Information you provide</h3>
+
+							<p>When you sign up for an IPLocationTools.com account that requires registration, we ask you for personal information (such as your name and e-mail address).</p>
+
+							<h3>Cookies</h3>
+
+							<p>When you visit IPLocationTools.com, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies </p>your browser. We use cookies to improve the quality of our service, including storing user information and usage information.
+
+							<h3>Log information</h3>
+
+							<p>When you access IPLocationTools.com services, our servers automatically record information that your browser sends whenever you visit the IPLocationTools.com web site. These </p>server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+
+							<h3>User communications</h3>
+
+							<p>When you send e-mail or other communications to IPLocationTools.com, we may retain those communications in order to process your inquiries, respond to your requests and </p>improve our services.
+
+							<h3>Links</h3>
+
+							<p>IPLocationTools.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of </p>our service, customized content and advertising.
+
+							<h3>Other sites</h3>
+
+							<p>This Privacy Policy applies to IPLocationTools.com services only. We do not exercise control over the links to external sites that are not owned or operated by </p>IPLocationTools.com. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
+
+							<p>IPLocationTools.com only processes personal information for the purposes described in this Privacy Policy for specific services. In addition to the above, such purposes include:</p>
+
+							<ul>
+								<li>Providing our services, including the display of customized content and advertising;</li>
+								<li>Auditing, research and analysis in order to maintain, protect and improve our services;</li>
+								<li>Ensuring the technical functioning of our network;</li>
+								<li>Protecting the rights or property of IPLocationTools.com or our users; and</li>
+								<li>Developing new services.</li>
+							</ul>
+
+							<p>IPLocationTools.com processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country.</p>
+
+							<h3>Choices for personal information</h3>
+
+							<p>When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.</p>
+
+							<p>If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy, unless we have obtained your prior consent.</p>
+
+							<p>Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some IPLocationTools.com features and services may not function properly if your cookies are disabled.</p>
+
+							<p>You can decline to submit personal information to any of our services, in which case IPLocationTools.com may not be able to provide those services to you.</p>
+
+							<h3>Information sharing</h3>
+
+							<p>IPLocationTools.com only shares personal information with other companies or individuals outside of IPLocationTools.com in the following limited circumstances:</p>
+
+							<ul>
+								<li>We have your consent. We require opt-in consent for the sharing of any sensitive personal information.</li>
+								<li>We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</li>
+								<li>
+									We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to
+
+									<ol>
+										<li>satisfy any applicable law, regulation, legal process or enforceable governmental request,</li>
+										<li>enforce applicable Terms of Service, including investigation of potential violations thereof,</li>
+										<li>detect, prevent, or otherwise address fraud, security or technical issues, or</li>
+										protect against harm to the rights, property or safety of IPLocationTools.com, its users or the public as required or permitted by law.
+									</ol>
+								 </li>
+							</ul>
+
+							<p>If IPLocationTools.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.</p>
+
+							<p>Please contact us via e-mail at<strong><span class="contact-us" data-account="support" data-host="iplocationtools.com" data-subject="email"></span></strong> for any additional questions about the management or use of personal data.</p>
+
+							<h3>Information security</h3>
+
+							<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.</p>
+
+							<p>We restrict access to personal information to IPLocationTools.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</p>
+
+							<h3>Data integrity</h3>
+
+							<p>IPLocationTools.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.</p>
+
+							<h3>Accessing and updating personal information</h3>
+
+							<p>When you use IPLocationTools.com services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes.</p>
+
+							<p>We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required.</p>
+
+							<p>In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information.</p>
+
+							<p>We provide the details for these procedures in the specific privacy notices or FAQs for these services.</p>
+
+							<h3>Enforcement</h3>
+
+							<p>IPLocationTools.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or IPLocationTools.com’s treatment of personal information by contacting us via e-mail at<strong><span class="contact-us" data-account="support" data-host="iplocationtools.com" data-subject="email"></span></strong>.</p>
+
+							<p>When we receive formal written complaints, it is IPLocationTools.com’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between IPLocationTools.com and an individual.</p>
+
+							<h3>Changes to this Privacy Policy</h3>
+
+							<p>Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, e-mail notification of Privacy Policy changes).</p>
+
+							<p>Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.</p>
+
+							<p>If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time via e-mail at<strong><span class="contact-us" data-account="support" data-host="iplocationtools.com" data-subject="email"></span></strong>.</p>
+						</div>
+
+					</div>
+
+					<div class="col-md-3 text-center">
+						<p>
+							<a href="https://www.ip2location.com/?utm_source=hexasoft&amp;utm_medium=banner&amp;utm_term=iplocationtools&amp;utm_content=skyscraper&amp;utm_campaign=hexasoft%20banner" target="_blank"><img src="/assets/img/ip2location-banner.jpg" alt="IP2Location"></a>
+						</p>
+						<p>
+							<a href="https://www.ip2location.com/free/widgets" target="_blank"><img src="https://tools.ip2location.com/200x200.png" border="0" width="200" height="200" alt="IP2Location Free Widget"></a>
+						</p>
+						<p>
+							<iframe src="hex-products.php?keyword=iplocationtools" style="height: 200px; width: 200px; margin: 0px; padding: 0px;" scrolling="no" frameborder="0"></iframe>
+						</p>
+						<p>
+							<a href="https://addons.mozilla.org/en-US/firefox/addon/ip2location-ip-geolocation/" target="_blank"><img alt="IP2Location Firefox Add-on" src="/assets/img/ip2location-firefox-add-on.png"></a>
+						</p>
+					</div>
+				</div>
+			</div>
+			<!--=== End Content ===-->
+
+			<!--=== Footer ===-->
+			<div class="footer-v1">
+				<div class="footer">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12 md-margin-bottom-40">
+								<p>
+									Need IP address location detection service? Get it from <a href="https://www.ip2location.com/?rid=722">IP2Location.com</a> now.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="copyright">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<p>2009-2018 © IPLocationTools.com. All Rights Reserved.</p>
+							</div>
+							<div class="col-md-6">
+								<ul class="list-inline">
+									<li>
+										<a href="/privacy-policy">Privacy Policy</a>
+									</li>
+									<li>
+										<a href="/legal-disclaimer">Legal Disclaimer</a>
+									</li>
+									<li>
+										<a href="/contact">Contact Us</a>
+									</li>
+									<li>
+										<a href="/ip-addresses">IP Addresses</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!--=== End Footer ===-->
+		</div>
+
+		<!-- JS Global Compulsory -->
+		<script type="text/javascript" src="/assets/plugins/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="/assets/plugins/jquery/jquery-migrate.min.js"></script>
+		<script type="text/javascript" src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<!-- JS Customization -->
+		<script type="text/javascript" src="/assets/js/custom.js"></script>
+		<!-- JS Page Level -->
+		<script type="text/javascript" src="/assets/js/app.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				App.init();
+			});
+		</script>
+
+				<script src="/assets/plugins/jquery.mailto.min.js" type="text/javascript"></script>
+
+		<script>
+		<!--
+		$(function(){
+		$('.contact-us').mailto();
 	});
-}
-
-Event.observe(window, 'load',
-	function(){
-		getLocation();
-	}
-);</script>
-</head>
-<body>
-<div align="center">
-<table width="780" height="100%" cellspacing="0">
-<tbody><tr>
-	<td>&nbsp;</td>
-	<td>&nbsp;</td>
-</tr>
-<tr>
-	<td align="center"><img src="images/logo.png" width="352" height="63" border="0" align="absMiddle" alt="IPLocationTools" title="IPLocationTools"></td>
-	<td>&nbsp;</td>
-</tr>
-<tr>
-	<td><div class="bar"><a href="join.html"><img src="images/icons/member-add.png" width="16" height="16" border="0" align="absMiddle" alt="Join" title="Join"> Join Member</a></div></td>
-	<td>&nbsp;</td>
-</tr>
-<tr>
-	<td align="left">
-	<table cellspacing="0">
-	<tbody><tr>
-		<td><a href="index.html"><img src="images/menu-home.png" width="106" height="88" border="0" align="absMiddle" alt="Home" title="Home" onmouseover="SwitchMenu(this);"></a></td>		<td>&nbsp;</td>
-		<td><a href="api.html" onmouseover="subMenu('true');" onmouseout="subMenu('');"><img id="api" src="images/menu-api.png" width="106" height="88" border="0" align="absMiddle" alt="API" title="API" onmouseover="SwitchMenu(this);"></a>
-			<div id="submenu" style="display:none;position:absolute;z-index:100;background:#A6CAFF;border:solid 1px #330099;width:200px;padding:5px 5px 5px 5px;text-align:left;">
-			<div onmouseover="Highlight(this,'#97B9FF');" style="padding:3px 3px 3px 3px;"><a href="api.html" onmouseover="subMenu('true');" onmouseout="subMenu('');">Real-Time Visitor API</a></div>
-			<div onmouseover="Highlight(this,'#97B9FF');" style="padding:3px 3px 3px 3px;"><a href="api.html#b" onmouseover="subMenu('true');" onmouseout="subMenu('');">JavaScript IP Geo Location API</a></div>
-			<div onmouseover="Highlight(this,'#97B9FF');" style="padding:3px 3px 3px 3px;"><a href="nativelanguagebyipaddressapi.php" onmouseover="subMenu('true');" onmouseout="subMenu('');">Native Language by IP Address API</a></div>
-			</div></td>		<td>&nbsp;</td>
-		<td><a href="http://lite.ip2location.com" onmouseover="subMenu2('true');" onmouseout="subMenu2('');" target="_blank"><img id="database" src="images/menu-database.png" width="106" height="88" border="0" align="absMiddle" alt="Free Database" title="Free Database" onmouseover="SwitchMenu(this);"></a>
-			<div id="submenu2" style="display:none;position:absolute;z-index:100;background:#A6CAFF;border:solid 1px #330099;width:200px;padding:5px 5px 5px 5px;text-align:left;">
-			<div onmouseover="Highlight(this,'#97B9FF');" style="padding:3px 3px 3px 3px;"><a href="http://lite.ip2location.com/database/ip-country-region-city-latitude-longitude-zipcode-timezone" onmouseover="subMenu2('true');" onmouseout="subMenu2('');" target="_blank">IP2Location Free LITE Database</a></div>
-			<div onmouseover="Highlight(this,'#97B9FF');" style="padding:3px 3px 3px 3px;"><a href="http://lite.ip2location.com/database/px4-ip-proxytype-country-region-city-isp" onmouseover="subMenu2('true');" onmouseout="subMenu2('');" target="_blank">IP2Location FREE Proxy Database</a></div>
-			</div></td>		<td>&nbsp;</td>
-		<td><a href="samples.html"><img src="images/menu-samples.png" width="106" height="88" border="0" align="absMiddle" alt="Samples" title="Samples" onmouseover="SwitchMenu(this);"></a></td>		<td>&nbsp;</td>
-		<td><a href="tutorials.html"><img src="images/menu-tutorials.png" width="106" height="88" border="0" align="absMiddle" alt="Tutorials" title="Tutorials" onmouseover="SwitchMenu(this);"></a></td>		<td>&nbsp;</td>
-		<td><a href="login.html"><img src="images/menu-login.png" width="106" height="88" border="0" align="absMiddle" alt="Login" title="Login" onmouseover="SwitchMenu(this);"></a></td>		<td>&nbsp;</td>
-		<td><a href="about.html"><img src="images/menu-about.png" width="106" height="88" border="0" align="absMiddle" alt="About Us" title="About Us" onmouseover="SwitchMenu(this);"></a></td>	</tr>
-	</tbody></table>
-	</td>
-	<td>&nbsp;</td>
-</tr>
-<tr>
-	<td>
-	<img src="images/menu-home-over.png" width="0" height="0" border="0" align="absMiddle" alt="Home" title="Home">
-	<img src="images/menu-api-over.png" width="0" height="0" border="0" align="absMiddle" alt="API" title="API">
-	<img src="images/menu-samples-over.png" width="0" height="0" border="0" align="absMiddle" alt="Samples" title="Samples">
-	<img src="images/menu-login-over.png" width="0" height="0" border="0" align="absMiddle" alt="Login" title="Login">
-	<img src="images/menu-about-over.png" width="0" height="0" border="0" align="absMiddle" alt="About" title="About">
-	</td>
-	<td>&nbsp;</td>
-</tr>
-<tr valign="top">
-	<td height="500"><div class="title"><h3><img src="images/icons/documents.png" width="32" height="32" border="0" align="absMiddle" alt="PRIVACY POLICY" title="PRIVACY POLICY"> PRIVACY POLICY</h3></div>
-<br>
-<pre><div align="left">
-Information we collect and how we use it
-
-We offer a number of services that may require you to register for an account or provide personal information to us, such as our API tools. 
-In order to provide our full range of services, we may collect the following types of information:
+		//-->
+		</script>
 
 
-<b>Information you provide</b>
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-1. When you sign up for an IPLocationTools.com account that requires registration, we ask you for personal information 
-  (such as your name and e-mail address).
-
-<b>Cookies</b>
-
-1. When you visit IPLocationTools.com, we send one or more cookies – a small file containing a string of characters – to your computer 
-   or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including storing user 
-   information and usage information. 
-
-<b>Log information</b>
-
-1. When you access IPLocationTools.com services, our servers automatically record information that your browser sends whenever you visit the
-   IPLocationTools.com web site. These server logs may include information such as your web request, Internet Protocol address, browser type, 
-   browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-
-<b>User communications</b>
-
-1. When you send e-mail or other communications to IPLocationTools.com, we may retain those communications in order to process your inquiries, 
-   respond to your requests and improve our services.
-
-<b>Links</b>
-
-1. IPLocationTools.com may present links in a format that enables us to keep track of whether these links have been followed. 
-   We use this information to improve the quality of our service, customized content and advertising. 
-
-<b>Other sites</b>
-
-1. This Privacy Policy applies to IPLocationTools.com services only. We do not exercise control over the links to external sites that are
-   not owned or operated by IPLocationTools.com. These other sites may place their own cookies or other files on your computer, 
-   collect data or solicit personal information from you. 
-
-
-IPLocationTools.com only processes personal information for the purposes described in this Privacy Policy for specific services. 
-In addition to the above, such purposes include:
-
-* Providing our services, including the display of customized content and advertising;
-* Auditing, research and analysis in order to maintain, protect and improve our services;
-* Ensuring the technical functioning of our network;
-* Protecting the rights or property of IPLocationTools.com or our users; and
-* Developing new services. 
-
-IPLocationTools.com processes personal information on our servers in the United States of America and in other countries. 
-In some cases, we process personal information on a server outside your own country. 
-
-
-<b>Choices for personal information</b>
-
-When you sign up for a particular service that requires registration, we ask you to provide personal information. 
-If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
-
-If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective 
-way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other 
-than those described in this Privacy Policy, unless we have obtained your prior consent.
-
-Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is 
-being sent. However, some IPLocationTools.com features and services may not function properly if your cookies are disabled.
-
-You can decline to submit personal information to any of our services, in which case IPLocationTools.com may not be able to provide 
-those services to you.
-
-
-<b>Information sharing</b>
-
-IPLocationTools.com only shares personal information with other companies or individuals outside of IPLocationTools.com 
-in the following limited circumstances:
-
-* We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-* We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of 
-  processing personal information on our behalf. We require that these parties agree to process such information based on our instructions 
-  and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-* We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to 
-  (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, 
-  (b) enforce applicable Terms of Service, including investigation of potential violations thereof, 
-  (c) detect, prevent, or otherwise address fraud, security or technical issues, or 
-  (d) protect against harm to the rights, property or safety of IPLocationTools.com, its users or the public as required or permitted by law. 
-
-If IPLocationTools.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, 
-we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal 
-information is transferred and becomes subject to a different privacy policy.
-
-Please contact us via e-mail at <img src="images/email.png" width="159" height="13" border="0" align="absMiddle"> for any additional questions about the management or use of personal data.
-
-
-<b>Information security</b>
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. 
-These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical 
-security measures to guard against unauthorized access to systems where we store personal data.
-
-We restrict access to personal information to IPLocationTools.com employees, contractors and agents who need to know that information 
-in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to 
-discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-
-<b>Data integrity</b>
-
-IPLocationTools.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy.
-We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information 
-needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the 
-personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information 
-whenever necessary.
-
-
-<b>Accessing and updating personal information</b>
-
-When you use IPLocationTools.com services, we make good faith efforts to provide you with access to your personal information and either to 
-correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or 
-for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or 
-removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, 
-require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical 
-(for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. 
-In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a 
-disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. 
-We provide the details for these procedures in the specific privacy notices or FAQs for these services.
-
-
-<b>Enforcement</b>
-
-IPLocationTools.com regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding 
-this Privacy Policy or IPLocationTools.com’s treatment of personal information by contacting us via e-mail at <img src="images/email.png" width="159" height="13" border="0" align="absMiddle">.
-
-When we receive formal written complaints, it is IPLocationTools.com’s policy to contact the complaining user regarding his or her concerns. 
-We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints 
-regarding the transfer of personal data that cannot be resolved between IPLocationTools.com and an individual.
-
-
-<b>Changes to this Privacy Policy</b>
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your 
-explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the 
-changes are significant, we will provide a more prominent notice (including, for certain services, e-mail notification of Privacy Policy changes).
-Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of 
-this Privacy Policy in an archive for your review.
-
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time via e-mail 
-at <img src="images/email.png" width="159" height="13" border="0" align="absMiddle">.
-</div>
-</pre>
-	<div style="height:300px;">&nbsp;</div>
-	</td>
-	<td rowspan="4" valign="top" style="padding-left:10px;">
-		<div style="margin-top:20px;">
-			<iframe src="/ads.php" width="200" height="200" marginwidth="0" scrolling="no" frameborder="0"></iframe>
-		</div>
-
-		<div style="margin-top:10px;">
-			<a href="http://www.ip2location.com/?utm_source=hexasoft&amp;utm_medium=banner&amp;utm_term=iplocationtools&amp;utm_content=skyscraper&amp;utm_campaign=hexasoft%20banner" target="_blank"><img src="images/ip2location-banner.jpg" alt="IP2Location"></a>
-		</div>
-
-		<div style="margin-top:20px;">
-			<iframe src="http://tools.ip2location.com/ib2" width="204" height="162" marginwidth="1" scrolling="no" frameborder="0"></iframe>
-		</div>
-
-			</td>
-</tr>
-<tr>
-	<td class="footer" align="center"><a href="privacy-policy.html">Privacy Policy</a> | <a href="legal-disclaimer.html">Legal Disclaimer</a> | <a href="contact.html">Contact Us</a> | <a href="ip-addresses.html">IP addresses</a></td>
-</tr>
-<tr>
-	<td class="footer" align="center">
-	© Copyright 2009-2017 <a href="http://www.iplocationtools.com">IPLocationTools.com</a>. All Rights Reserved.
-	<br><br>
-	Need IP address location detection service? Get it from <a href="http://www.ip2location.com/?rid=722" target="_blank">IP2Location.com</a> now.
-	<br>
-	All trademarks and registered trademarks are the property of their respective owners.
-	</td>
-</tr>
-<tr>
-	<td>&nbsp;</td>
-</tr>
-</tbody></table>
-</div>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-11026515-6', 'auto');
-  ga('send', 'pageview');
-
-</script>
-<a href="/important-notice.php" style="display:none;"> </a>
+			ga('create', 'UA-11026515-6', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<!--[if lt IE 9]>
+		<script src="/assets/plugins/respond.js"></script>
+		<script src="/assets/plugins/html5shiv.js"></script>
+		<script src="/assets/js/plugins/placeholder-IE-fixes.js"></script>
+		<![endif]-->
+	
 
 </body></html>
