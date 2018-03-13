@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the represent.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910042933id_/https%3A//represent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the represent.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313115038id_/https%3A//represent.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Represent
 
