@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002135455id_/http%3A//costco.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costco.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313160847id_/https%3A//www.costco.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Costco
 
