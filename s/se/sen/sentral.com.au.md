@@ -1,106 +1,130 @@
-> *The following text is extracted and transformed from the sentral.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218210700id_/https%3A//www.sentral.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentral.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313172914id_/https%3A//www.sentral.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sentral Education
 
-Privacy and Data Security Policy
+Sentral Pty Ltd ABN 24 085 316 310 ( **Sentral** , **us** , **our** and/or **we** ) is committed to protecting and respecting your privacy.
 
-At Sentral, your right to privacy and security is a major concern. Below are the guidelines we use for protecting your personal information. Please read the following carefully.
+**Scope of the policy**
 
-Sentral Education’s Privacy Policy
+This policy applies to all information or an opinion about an identified individual or an individual who is reasonably identifiable ( **you** ), whether the information or opinion is true or not and whether the information or opinion is recorded in a material form or not ( **Personal Information** ) that is collected, held, used and disclosed by Sentral.
 
-Sentral Education respects your privacy. At times as part of our core business we may collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your school order, to better provide service and support, and share company news and information with you. We do not sell your personal information. You also may ask to see the personal data you have given us and request amendment, correction or deletion. We strive to protect the security of your personal data by use of appropriate measures and processes.
+This policy has been prepared in compliance with the _Privacy Act 1988_ (Cth) ( **Privacy Act** ).
 
-Information Sentral Education Collects
+In this policy, we explain the kinds of Personal Information we collect, how and why we collect and use it, and what controls you have over our use of it.
 
-Sentral Education asks for specific types of personal information. We ask you to provide information that will enable us to:
+Please read the following carefully to understand our practices regarding the collection and use of your personal information.
 
-  * process your purchase or provide services to you;
-  * allow you to register for conferences, webinars or other training;
-  * respond to requests for information;
-  * support your relationship with us; and
-  * assist you with technical support issues or to follow up with you after our visit.
+**Personal Information that Sentral collects, uses, holds and discloses**
 
+The kinds of Personal Information we collect hold, use and disclose includes the following:
 
-
-Sentral Education may collect information when you interact with us. Some of the instances when this happens might be when you:
-
-  * Request us to provide you with a quote;
-  * Place an order with us;
-  * Request e-mail notification from us;
-  * Request assistance from our online advisors;
-  * Make a request for support either online or by telephone;
-  * Provide feedback in a survey;
-  * Participate in promotional offers;
-  * Subscribe to our newsletter or mailing list; and
-  * Apply for a job or submit your resume/CV.
-
-
-
-We may also collect personal information about you (such as demographic information) from third parties, including:
-
-  * third party service providers;
-  * publicly available sources of information; and
-  * in the case of job applicants, previous employers.
-
-
-
-When you interact with Sentral Education staff, we may ask for some of the following information:
-
-  * your name;
+  * name;
+  * date of birth;
+  * gender;
   * address;
-  * e-mail address;
+  * email address;
+  * phone number(s);
+  * family situation;
+  * identity of your parent, carer, child or other family members;
+  * marital status;
+  * academic results;
+  * attendance;
   * IP address;
-  * phone number; and
-  * occupation or position of employment.
+  * occupation or position of employment;
+  * details of your school, business or company;
+  * details of the school your child attends;
+  * information about any complaints; and
+  * a record of the pages you visit on our website.
 
 
 
-We may also collect demographic information such as:
+Sensitive information is a subset of personal information that is afforded a higher level of privacy protection. The kinds of sensitive information we collect and hold may include:
 
-  * details of your school, business or company; and
-  * gender.
-
-
-
-For job applicants, you may be requested to provide information such as educational background, employment experience, and job interest. We hold your personal information in:
-
-  * computer systems;
-  * electronic databases;
-  * telephone recordings; and
-  * hard copy or paper files.
+  * health information;
+  * religious affiliation;
+  * medical information; and
+  * behavioural incidents
 
 
 
-We will take all reasonable steps to protect your personal information from misuse, interference and loss, as well as unauthorised access, modification or disclosure. The ways we do this, include:
+**How Sentral collects and holds Personal Information  
+**  
+We usually collect Personal Information indirectly from our customers (for example, we may collect Personal Information about a student or parent from their school).
 
-  * where possible, using Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive information;
-  * limiting physical access to our premises;
-  * limiting access to the information we collect about you (for instance, only those of our personnel who need your information to carry out our business activities are allowed access);
-  * ensuring that we and any third party providers have appropriate security safeguards to keep personal information secure; and
-  * destroying or de-identifying personal information as required by law.
+We may also collect Personal Information from you directly in the following ways:
+
+  * if you request us to provide you with a quote;
+  * if you place an order with us;
+  * if you request assistance from our online advisers;
+  * if you make a request for support online or by telephone;
+  * if you provide feedback in a survey;
+  * if you participate in promotional offers;
+  * if you subscribe to our mailing list; or
+  * if you disclose information such as contact details via our website
+  * if you apply for a job.
 
 
 
-Sentral will only disclose your personal information to the extent required or authorised by applicable law, if ordered or required to do so by a court or enforcement authority as appropriate, or to ensure that we are in compliance with our legal obligations.
+Sentral holds this Personal Information in a database which may be hosted on a cloud service within Australia or a server owned by a school we have collected the Personal Information from, also located in Australia.
 
-Your rights
+We take reasonable steps to:
 
-Upon your written request and within 30 days we will inform you about the type of personal information we hold about you, the purposes for which we hold it and the possible recipients or types of recipients. Upon written request and within a reasonable period of time we will also amend, correct, delete or cease to process personal information if that information proves to be factually inaccurate, incomplete, or irrelevant to the purpose(s) of the processing.
+  * protect your Personal Information that we hold from misuse, interference and loss and from unauthorised access, modification or disclosure;
+  * ensure that our system is appropriately backed-up to prevent the loss of your Personal Information; and
+  * destroy or de-identify Personal Information when it is no longer required.
 
-Complaints
 
-If you are concerned that we have not complied with your legal rights or applicable privacy laws, you may bring a complaint internally through our complaints process or you may decide to make a formal complaint with the relevant privacy regulator.
 
-If you would like to contact us, or have questions regarding our privacy statement, please write to us at:
+Security measures that we have in place to protect your Personal Information include the following:
 
-* * *
+  * where possible, Secure Sockets Layer (SSL) encryption when collecting or transferring sensitive information are used;
+  * physical access to our premises is limited;
+  * information access restrictions, including two factor authentication and different levels of security clearance;
+  * configurable account locking policies to lock out accounts after failed login attempts;
+  * all staff are required to sign confidentiality agreements and undergo relevant background and/or working with children checks; and
+  * we ensure that any third-party providers have appropriate security safeguards to keep Personal Information secure.
 
-Sentral Education
 
-PO Box 4401
 
-Thornleigh NSW 2120
+**The purposes for which Sentral collects, holds, uses and discloses Personal Information**
 
+  * Personal Information which is collected by Sentral will be held, used and disclosed by us for the primary purpose of managing, analysing and reporting on the Personal Information to our customers including: to facilitate and support school administration (this may include transferring a subset of information into another system; for example, transferring a list of student names to Google Classroom);
+  * to support and enhance our relationship with you (this includes processing your school order, providing better service and support, and sharing company news and information with you);
+  * to provide insights to schools, education departments and parents on the performance of an individual student or class relative to a larger group;
+  * to assess suitability of job applicants; and
+  * to deal with complaints.
+
+
+
+Sentral may also disclose Personal Information to the extent required or authorised by applicable law.
+
+Sentral does not sell any of your Personal Information.  Sentral is not likely to disclose Personal Information to overseas recipients.
+
+**Access and correction of personal information**
+
+You have a right to request access to your Personal Information and to request its correction.  Upon receipt of a written request from you, we will comply with our obligations under the Privacy Act to give you access to the Personal Information we hold about you within a reasonable period of time unless an exception to access applies under the Privacy Act.
+
+Upon receipt of a written request from you we will comply with our obligations under the Privacy Act to correct any Personal Information we hold about you within a reasonable period of time.
+
+**Complaints process**
+
+If you have a complaint about the way we have dealt with your Personal Information, please make a complaint in writing to our Customer Support Manager, whose details are below. We will respond to all complaints within a reasonable time.
+
+If you are not satisfied with our response to your complaint, you can refer it to the Office of the Australian Information Commissioner.
+
+** ** **Customer Support Manager contact details**
+
+Customer Support Manager  
+Telephone: 61 2 9029 3993  
+Email: Security@sentral.com.au
+
+Sentral Education  
+PO Box 814  
+Chatswood NSW 2057  
 Australia
 
-* * *
+**Updates to our privacy policy**
+
+This privacy policy is subject to change without prior or separate notification. Any changes will be posted on our website.
+
+This privacy policy was last updated on 17 October 2017.
