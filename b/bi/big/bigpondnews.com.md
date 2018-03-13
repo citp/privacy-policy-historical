@@ -1,90 +1,193 @@
-> *The following text is extracted and transformed from the bigpondnews.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013192640id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fref%3DNet-Footer-Corp-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpondnews.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313205447id_/http%3A//more.skynews.com.au/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy – Sky News Australia
 
-We are committed to providing you with the highest levels of customer service. This includes protecting your privacy.
+### 1\. INTRODUCTION AND SCOPE
 
-Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
+This Privacy Policy applies Australian News Channel Pty Ltd (ANC) platforms and services.
 
-We provide a range of telecommunication services, either through a particular division within Telstra or through one of its related companies, eg the publisher of our directories.
+This Privacy Policy applies to information which identifies you, or from which you can reasonably be identified, such as your full name or name and postal address (“personal information”). This Policy describes how we handle the personal information we collect when we provide our services. Our services include: home delivery subscription, digital services subscription, advertising, websites, mobile sites, applications (“apps”), and widgets, competitions and customer surveys (collectively, “Company Services”).
 
-Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests.
+This Privacy Policy does not apply to personal information collected by our journalists and photographers for the purpose of gathering news. We handle the information we collect in the course of journalism in accordance with the Australian Press Council Privacy Standards, which can be found at: [http://www.presscouncil.org.au/privacy-principles](https://webmail.skynews.net.au/owa/redir.aspx?REF=ey-xbxJIewm7WVhHPsPUmgLrMedyX0SQxt8dbvfFATAJ0Pw9kT7VCAFodHRwOi8vd3d3LnByZXNzY291bmNpbC5vcmcuYXUvcHJpdmFjeS1wcmluY2lwbGVz).
 
-If you choose not to provide certain personal information (e.g. your date of birth), we may not be able to provide you with the services you require, or the level of service on which we pride ourselves.
+This Privacy Policy otherwise applies to information about anyone who interacts with us, including advertisers, subscribers and people who use Company Services (both registered and unregistered users).
 
-Occasionally, you may need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them that we can be contacted for further information (see 'How to contact us' at the end of this brochure).
+This Privacy Policy only applies to ANC and its digital services. If you are using a third party site to interact with ANC, or you navigate from the ANC website to a separate site to view advertising or to engage with a service, this activity is not covered by ANC’s Privacy Policy.
 
-We collect personal information in a number of ways, including:
+### 2\. WHAT INFORMATION DO WE COLLECT?
 
-  * directly from you, for example, when you provide information by phone, in application forms or other agreements, or when you submit your personal details through our websites (eg. during telstra.com registration);
-  * from third parties such as our related companies, credit reporting agencies or your representatives;
-  * from publicly available sources of information;
-  * from the organisations identified under 'When we disclose your personal information';
-  * from our own records of how you use your Telstra services;
-  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm); or
-  * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000.
+We collect personal information to provide Company Services and for our business operations. If you choose not to provide the information we request from you, we may not be able to provide you with the services you require. We describe the main types of personal information we collect and the main reasons why we collect that information below.
 
+Registration Information is the information you provide to Company when you register for or acquire a Company Service. This may include information you provide us to:
 
+·     create an account;
 
-Your personal information may be used to:
+·     become a subscriber;
 
-  * verify your identity;
-  * assist you to subscribe to our services;
-  * provide the services you require;
-  * administer and manage those services, including charging, billing and collecting debts;
-  * inform you of ways the services provided to you could be improved;
-  * conduct appropriate checks for credit-worthiness and for fraud;
-  * research and develop our services;
-  * gain an understanding of your information and communication needs in order for us to provide you with a better service; and
-  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.
+·     become an advertiser;
 
+·     post comments;
 
+·     receive a newsletter; or
 
-Also, your personal information is collected so that we, our related bodies and our dealers can promote and market services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue after you cease acquiring services from us. If you do not wish us, our related bodies or our dealers to contact you to promote and market products, services and special offers to you, please call 1800 039 059.
+·     enter a competition.
 
-In order to deliver the services you require, we may disclose your personal information to organisations outside of Telstra. Your personal information is disclosed to these organisations only in relation to us providing our services to you.
+Registration Information includes, for example, your name, delivery or postal address, email address, gender and birthday.
 
-  * customer enquiries;
-  * mailing operations;
-  * billing and debt-recovery functions;
-  * information technology services;
-  * installation, maintenance and repair services;
-  * marketing, telemarketing and door-knocking services;
-  * market research; and
-  * website usage analysis.
+You are able to use some Company Services without providing any personal information (for example when browsing our digital products as a casual user) or by providing an alias. We usually tell you when you are able to use Company Services in this way.
 
+Public Information and Posts include comments or content that you post to the online Company Services and the information about you that comes with those posts. This may include your name, user name, comments, likes, tweets, status, profile information and picture(s). Public Information and Posts are available to everyone who views our websites and may be displayed in search results on external search engines, even after you cancel your account with us.
 
+Information from third party Social Media. If you access or log-in to a Company Service through a third party social media service or connect a Company Service to your social media profile, we may also include information from that social media service. This may include:
 
-We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+·     your user name for that service;
 
-  * your authorised representatives or your legal advisers (e.g. when requested by you to do so);
-  * credit-reporting and fraud-checking agencies;
-  * credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing);
-  * our dealers;
-  * our related companies;
-  * our professional advisers, including our accountants, auditors and lawyers;
-  * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes);
-  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/privacy/privacy-information/index.htm);
-  * government and regulatory authorities and other organisations, as required or authorised by law; and
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation).
+·     any information or content you have permitted the social media service to share with us (such as your profile picture(s), email address, followers or friends lists); and
 
+·     any other information you have made public (including other posts you make using your social media profile).
 
+We do not collect your social media profile password. When you access Company Services through your social media profile, or when you connect a Company Service to your social media profile, you authorise us to collect and handle your personal information in accordance with this Privacy Policy.
 
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date.
+Activity Information – cookies and other technologies. When you visit Company’s websites (including to access and use Company Services) we may collect information about your visit. For example, in order to connect you to the Company Services, our servers receive and record information about your computer, device, and browser, which may include your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
 
-However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you:
+For more information about cookies and tracking technologies and how to block cookies, see the News Corp Australia [Cookie Policy](https://webmail.skynews.net.au/owa/redir.aspx?REF=XX9jeD_cWQbm8uXd-nhiE03elr4QUFrt2vunovg6TEQJ0Pw9kT7VCAFodHRwczovL3ByZWZlcmVuY2VzLm5ld3MuY29tLmF1L2Nvb2tpZXM.).
 
-  * let us know if there are any errors in your personal information; and
-  * keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our websites.
+Information from Other Sources. We may supplement the information we collect about you with information from other sources. This may include information from publicly available sources (such as other published content) and data providers, as well as information from our business partners or related and affiliated companies in Australia or internationally.
 
+Information in relation to other persons who deal with us. When you apply for a job or contract with us we may collect information about you to help us decide whether to offer you the job or contract. For example, we may collect information about how to contact you, your education or work history, or other information included in your CV or résumé. We may collect this information from you, or from any recruitment consultant, your previous employers, or other referees. This Privacy Policy does not apply to our collection, use and disclosure of information:
 
+·     we hold about you once you become an employee;
 
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons.
+·     we keep after your employment relationship with us ends,
 
-We reserve the right to charge a fee for searching for and providing access to your information.
+where that collection, use or disclosure relates to your employee relationship with us and the records we hold about you as an employee.
 
-If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
+Company also collects personal information about our suppliers and individuals employed by our suppliers (including service and content providers), contractors, dealers, related companies, agents and corporate customers. We will explain why we are collecting this information and how we will use that information, unless it obvious from the circumstances.
 
-Telstra Privacy Statement March 2008  
-Telstra Corporation Limited ABN 33 051 775 556  
-C011 03-08 P616244 131530
+### 3\. HOW DO WE USE YOUR INFORMATION?
+
+We use the information we collect about you to provide Company Services to you. As part of our service to you we may use your personal information:
+
+·     to fulfill administrative functions associated with these services (for example billing, credit and account management);
+
+·     to enter into contracts with you or third parties;
+
+·     to measure and improve Company Services and their individual features;
+
+·     to improve your experience by delivering content (including editorial, marketing and advertising) we think you will find relevant and interesting;
+
+·     for other marketing and client relationship purposes;
+
+·     to allow you to comment on content, and participate in games, competitions, or rewards programs;
+
+·     to provide you with customer support; and
+
+·     to respond to your enquiries.
+
+Where your personal information is contained in an advertisement which we publish for you, we may also use your information to publish that advertisement in other media. We do this in accordance with our terms and conditions for the initial publication. If you include personal information in any posts or in a letter, email or text message to an editor or journalist, we may publish your name and suburb to identify you as the author of that post if we publish it in any media.
+
+When we collect your information, we may explain that we will use and disclose your information in other ways. For example, if you win a competition, we may disclose your information to relevant regulatory authorities and publish your details in accordance with the competition terms.
+
+We may also remove certain information or alter the information we collect about you so you can no longer be identified from that information. We do this so that we can use it or disclose it to third parties for other purposes.
+
+We use the information we collect about you for the following additional purposes:
+
+Research and data analysis. We may also use your information for research and data analysis to improve Company Services. We may do this research or engage a service provider to do this.
+
+To allow service and content providers to assist us in providing and managing the Company Services. We may make your information available to certain third party service and content providers who help us manage or provide the Company Services or provide Company with related services. This might include providers of cloud services, website hosting service providers, debt collection service providers and direct marketing service providers. These third parties may be located in a range of different countries including the United Kingdom, United States of America and Singapore. Our agreements with these third party providers require them not to use your information except for the purpose for which your information was provided. We also require them to comply with relevant privacy laws.
+
+To allow social sharing functionality. If you log in with or connect a social media profile with your Company Services account, we may share your personal information (including your user name, picture, tweets, likes and posts) with other Company Services users and your friends or followers linked to your social media profile. We may also share the same information with the social media service provider.
+
+By logging in with or connecting your Company Services account with a social media profile, you authorise us to share your personal information with the social media service provider, other users and your friends or followers. You understand that the social media service provider may handle this information in accordance with its own privacy policy. If you do not want your personal information shared in this way, please do not connect your social media profile with your Company Services account and do not participate in social sharing on Company Services.
+
+To provide co-branded services and features. We may offer co-branded services, such as competitions or other promotions together with a third party (“Co-Branded Services”). When this happens, we may share the information you submit in connection with the Co-Branded Service with the third party, or with our service providers who assist us to host Co Branded Services. The third party’s use of your information will be governed by their own privacy policy. We will obtain your consent to share your personal information with the third party. If you do not provide this consent, you may not be able to access that co-branded service.
+
+To deliver relevant advertisements and content. Company and our advertisers may use the information we collect about you to provide you with relevant advertisements and content when you use Company Services. We may also use your personal information so that relevant advertising can be provided to you when you use services or visit websites of other organisations.
+
+We may combine information that we hold about you with information about you that we collect from other trusted businesses with whom you also have a relationship or from public sources. We may also share information we hold about you with those trusted businesses so that they can do the same thing. We and those trusted businesses do this in order to enable the development of consumer insights about you so that each of us can serve you better. This includes being able to better understand your preferences and interests, personalise your experience, enhance the products and services you receive, and to tell you about products and services. Where those insights are provided to others for their own marketing purposes, such insights do not contain any information that identifies you. We may also use third party service providers to undertake the process of creating these consumer insights.
+
+To contact you. From time to time, we may send you promotional materials or other information which we think may interest you. For example, we may send you an invitation to participate in various activities (such as customer surveys) or special offers.
+
+To share with our Company Affiliates. Company may share your information with our related companies located in Australia or in other countries, including the United Kingdom and United States of America. If we share your information with our related companies, they can use your information in accordance with this Privacy Policy. However, if you access or use a service provided by one of our related companies, you should consider the privacy policy of that company, as it may be different to this policy.
+
+To share with business partners. Company may share your information with business partners so they can send you marketing communications. This will only happen if you have expressly agreed to this.
+
+To protect the rights of Company and others. We may share your information with other third parties where we are lawfully entitled to do so. This includes when we have a reasonable basis to believe that sharing your information is necessary to:
+
+·     protect, enforce or defend the legal rights, privacy, safety, or property of Company, our related companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use);
+
+·     protect the safety, privacy, and security of users of the Company Services or members of the public;
+
+·     protect against fraud or for risk management purposes;
+
+·     comply with the law or legal process in any country; or
+
+·     respond to requests from public and government authorities.
+
+To complete a merger or sale of assets. If Company sells all or part of its business or assets, we may disclose your information to the party or parties involved in the sale transaction. We may also do this if Company is involved in a merger or transfer of all or a material part of its business. We may disclose your information prior to the sale, transfer or merger so that the party or parties involved can consider the transaction and complete any due diligence.
+
+### 4\. HOW DO WE PROTECT YOUR INFORMATION?
+
+We use reasonable measures to safeguard the personal information we hold about you from loss, theft and unauthorised use, disclosure or modification, including:
+
+System security We take reasonable steps to prevent unauthorised access to our online and computerised systems by using measures such as firewalls, data encryption, virus detection methods, and password restricted access.
+
+Property security At our business premises, we may engage security personnel and use ID cards to restrict access to those premises.
+
+Staff training We train our staff to handle your information in accordance with this Privacy Policy and applicable privacy laws.
+
+Third parties We take reasonable steps to ensure that third parties who store or assist us to store your personal information adopt appropriate security measures.
+
+### 5\. HOW CAN YOU ACCESS YOUR INFORMATION?
+
+If you would like to access, review, correct or update your personal information, you may contact us (see section 8). When you contact us, please provide your name and contact details (including your email address, address, and telephone number) and specify clearly what information you would like to access, review, correct or update. We will need to share your information with others who can help us respond to your request. We will try to respond to your request as soon as reasonably practicable. If we refuse your request we will generally tell you why.
+
+### 6\. HOW CAN YOU OPT OUT?
+
+Online advertising. You can block certain advertisements by blocking or deleting cookies in your browser settings. However, we use cookies to provide some of our Company Services and you may not be able to use these Company Services if you do this. Some third party providers use tracking technology other than cookies to deliver targeted advertisements to you. You can read more about this type of advertising at: [http://youronlinechoices.com.au. ](https://webmail.skynews.net.au/owa/redir.aspx?REF=zTkMJZkOG_XQbX878NkSPz5kU8kR9uznxZgRU128_P8J0Pw9kT7VCAFodHRwOi8veW91cm9ubGluZWNob2ljZXMuY29tLmF1Lw..)
+
+Direct marketing. If you do not want to receive promotional messages from us, you can change your account settings or follow the unsubscribe instructions which we include at the bottom of our emails. If you have installed our app, you can stop push notifications by changing the settings in the app or on your mobile device.
+
+If you have linked any of your social media profiles to your account for any Company Service, you can cancel that link by changing your account settings. If you need any assistance with changing your account settings, please call us (see Section 8).
+
+### 7\. OTHER IMPORTANT INFORMATION FOR YOU
+
+Updates to Privacy Policy. We may modify this Privacy Policy at any time. The date at the top of this Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy become effective when we publish it online. If you do not agree with changes to this Privacy Policy, you may be able to terminate your account with us.
+
+Location of Data. Some Company Services are hosted in and managed outside of Australia, including in the United Kingdom, the United States of America and Singapore. In dealing with Us, you consent to this practice, understanding that your personal information may be accessible from or transmitted outside Australia.
+
+Linked Services. Company Services (including Company’s website) may display links to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, competitions or applications developed and maintained by unaffiliated companies. We are not responsible for the privacy practices of these unaffiliated companies. Once you leave the Company Services or click an advertisement you should check the privacy policy of that company to understand how it will handle your information.
+
+Collection of Personal Financial Information by a Payment Service provider. Sometimes we allow you to use an unaffiliated payment service to purchase a product or make payments for Company Services (“Payment Service”). If you use a Payment Service, you will be directed to the webpage for that Payment Service. Any information you provide when using a Payment Service may be collected and used by the Payment Service provider in accordance with that provider’s privacy policy. You should check the provider’s privacy policy to understand how it will handle your information.
+
+Data Retention. Even after you cancel your account with us, we will retain your information for as long as we reasonably need it for the purposes outlined in this Privacy Policy. For example, we may retain your information to prevent fraud, or to maintain systems security. We may also retain your information if required or allowed to by law, regulation or relevant standards and codes of conduct, or to fulfil our contractual obligations to a third party. In certain circumstances, including where we are prevented by technical or systems constraints, we may not be able to remove all of your personal information.
+
+If you share your information with a social media service (including by posting information to that service), this information may not be removed even after you cancel your account. If you delete your account with us, your account information may still be accessible by others for a short period of time because of the way that your information is stored on the internet.
+
+Sensitive Information. We ask that you not provide us with any sensitive information (such as information about your racial or ethnic origin, religious or other beliefs, health, criminal background or trade union membership) when using Company Services, or otherwise. If you do provide us with any sensitive information, you consent to us collecting and handling that information in accordance with this Privacy Policy.
+
+Complaint. If you think we have breached the Privacy Act 1988 (Cth) or other applicable privacy laws, you can contact us (see Section 8) to make a complaint. When you contact us, please include your name and contact details (including your email address, address, and telephone number) and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will contact you within 7 days to let you know the next steps in resolving your complaint and to obtain any further information we need to consider your complaint. As soon as reasonably practicable and in any event within 30 days, we will let you know our decision. If you are not satisfied with our response, you may refer your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
+
+### 8\. HOW YOU CAN CONTACT US
+
+If you have questions about this Privacy Policy, or to request a hard copy, please contact our Privacy Officer at:
+
+Email:
+
+| 
+
+privacy@skynews.com.au  
+  
+---|---  
+  
+Mail:
+
+| 
+
+Locked Bag 918, North Sydney NSW 2059  
+  
+Telephone:
+
+| 
+
++61 2 9886 8000
