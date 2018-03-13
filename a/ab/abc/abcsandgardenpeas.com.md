@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsandgardenpeas.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031215945id_/http%3A//abcsandgardenpeas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsandgardenpeas.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313203006id_/http%3A//abcsandgardenpeas.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ABCs and Garden Peas
 
