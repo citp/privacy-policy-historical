@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworthsrewards.com.au privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216232805id_/https%3A//www.woolworthsrewards.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworthsrewards.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313212400id_/https%3A//www.woolworthsrewards.com.au/privacy.html) for the most accurate reproduction.*
 
 # Woolworths Rewards
 
@@ -24,7 +24,7 @@ Terms not defined in this Collection Notice have the same meaning given to those
 
 **Who we are and how to contact us:**
 
-Woolworths Limited ABN 80 000 014 675. Woolworths Rewards Members can email us at [privacy@woolworths.com.au](mailto:privacy@woolworths.com.au), write to us at Privacy Contact, Woolworths Limited, 1 Woolworths Way, Bella Vista NSW 2153 or call our contact centre on 1300 908 631 (our lines are open Monday to Friday 8:00am to 5:00pm Sydney time, excluding public holidays).
+Woolworths Group Limited ABN 80 000 014 675. Woolworths Rewards Members can email us at [privacy@woolworths.com.au](mailto:privacy@woolworths.com.au), write to us at Privacy Contact, Woolworths Group Limited, 1 Woolworths Way, Bella Vista NSW 2153 or call our contact centre on 1300 908 631 (our lines are open Monday to Friday 8:00am to 5:00pm Sydney time, excluding public holidays).
 
 **Collection from Members:**
 
@@ -109,7 +109,7 @@ We are likely to disclose personal information about Woolworths Rewards members 
 
 **Supplementary Collection Notice: Apple Wallet**
 
-This Notice explains how Woolworths Limited (ABN 88 000 014 675) ("Woolworths", "we" or "our") collects, uses and discloses your personal information if you register and use your Woolworths Rewards card in Apple Wallet. The terms of this Notice apply in addition to the Woolworths Rewards Privacy Collection Notice (set out above), which applies generally to our handling of personal information for the purposes of the Woolworths Rewards program.
+This Notice explains how Woolworths Group Limited (ABN 88 000 014 675) ("Woolworths", "we" or "our") collects, uses and discloses your personal information if you register and use your Woolworths Rewards card in Apple Wallet. The terms of this Notice apply in addition to the Woolworths Rewards Privacy Collection Notice (set out above), which applies generally to our handling of personal information for the purposes of the Woolworths Rewards program.
 
 If you register and use your Woolworths Rewards card in Apple Wallet, Woolworths will collect personal information such as your name, address, contact details, demographic information, and information relating to your mobile device (including your device type and model, and operating system). We may also collect feedback about your use of Apple Wallet to help us better understand and improve the experience for our members.
 
@@ -127,4 +127,4 @@ In addition to this Notice, you should read Apple's Privacy Policy at [www.apple
 
 We may change the terms of this Collection Notice from time to time. A copy of the revised Collection Notice will be available on the Website or can be obtained by calling the Contact Centre.
 
-**Last updated:** Oct 2017.
+**Last updated:** January 2018.
