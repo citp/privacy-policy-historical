@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030549id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313050232id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Edinburgh Airport
 
@@ -10,7 +10,7 @@ __
 
 
 
-**Last updated: May 2012**
+**Last updated: Jun 2017**
 
   * How we use your information
   * Access to personal information
@@ -42,7 +42,7 @@ If you are giving us your personal information in the course of purchasing, regi
 
 We will keep your personal information relating to services or products for no longer than is necessary. Your information will be retained in a secure environment and access to it will be restricted according to the "need to know" principle.
 
-When you purchase certain products and services from EAL we may send you confirmation emails; these may also include marketing which may be of interest to you. We do our best to tailor this information so that it is useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
+When you purchase certain products and services from EAL we may send you confirmation emails or texts; these may also include marketing which may be of interest to you. We do our best to tailor this information so that it is useful to you, but if at any time you no longer wish to receive it, you can opt out by following the instructions that we will give you with each communication.
 
 ## Access to personal information
 
@@ -71,7 +71,7 @@ In the majority of cases we will not disclose your personal information to other
 
 ### What are cookies?
 
-Cookies are small text files which are stored on your computer when you visit certain web pages. At EAL we use cookies to understand how our sites are used which helps us to improve your overall online experience. Some of the cookies we use are necessary for some of our sites to work whilst other cookies are used to provide tailored advertising by trusted third parties. The cookies we and our third parties place on your computer do not collect personally identifiable information like your name, address or payment details. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+Cookies are small text files which are stored on your computer when you visit certain web pages. At EAL we use cookies to understand how our sites are used which helps us to improve your overall online experience. Some of the cookies we use are necessary for some of our sites to work whilst other cookies are used to provide tailored advertising by trusted third parties. The cookies we and our third parties place on your computer do not collect personally identifiable information like your name, address or payment details. To find out more about cookies, visit [www.aboutcookies.org](http://www.aboutcookies.org/)
 
 The privacy of your information is important to us and so we want to keep you well informed about cookies. We shall continue to work on initiatives in relation to recent cookie legislation to ensure you have the best experience when visiting our websites.
 
@@ -79,13 +79,13 @@ The privacy of your information is important to us and so we want to keep you we
 
 EAL use the following categories of cookies on our websites:
 
-**Strictly necessary** These cookies are essential for certain features of our websites to work for example when you make payments for car parking. These cookies do not record identifiable personal information and we do not need your consent to place these cookies on your device. Without these cookies some services you have asked for cannot be provided.
+ **Strictly necessary** These cookies are essential for certain features of our websites to work for example when you make payments for car parking. These cookies do not record identifiable personal information and we do not need your consent to place these cookies on your device. Without these cookies some services you have asked for cannot be provided.
 
-**Performance** \- These cookies are used to collect anonymous information about how you use our websites. This information is used to help us improve our websites and understand how effective our adverts are. In some case we use trusted third parties to collect this information for us but they only use the information for the purposes explained. By using our websites, you agree that we can place these types of cookies on your device.
+ **Performance** \- These cookies are used to collect anonymous information about how you use our websites. This information is used to help us improve our websites and understand how effective our adverts are. In some case we use trusted third parties to collect this information for us but they only use the information for the purposes explained. By using our websites, you agree that we can place these types of cookies on your device.
 
-**Functionality** \- These cookies are used to provide services or remember settings to enhance your visit for example text size or other preferences. The information these cookies collect is anonymous and does not enable us to track your browsing activity on other websites. By using our websites, you agree that we can place these types of cookies on your device.
+ **Functionality** \- These cookies are used to provide services or remember settings to enhance your visit for example text size or other preferences. The information these cookies collect is anonymous and does not enable us to track your browsing activity on other websites. By using our websites, you agree that we can place these types of cookies on your device.
 
-**Targeting and Advertising** These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org](http://www.networkadvertising.org/) or contact us for further information about the trusted third parties we use.
+ **Targeting and Advertising** These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org](http://www.networkadvertising.org/) or contact us for further information about the trusted third parties we use.
 
 ### Managing cookies
 
@@ -99,9 +99,10 @@ This privacy notice does not cover the links within this site to other websites.
 
 We keep our privacy notice under regular review and we will place any updates on this webpage. At the start of this privacy notice we will tell you when it was last updated.
 
-Jake Reddington  
-Security Compliance Manager  
-Airport Control Centre  
+Ian Gregory   
+Security Compliance Manager   
+Burnside Building
+
 Edinburgh Airport Limited  
 Edinburgh  
 EH12 9DN
