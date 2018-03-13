@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strathcona.vic.edu.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218232847id_/https%3A//www.strathcona.vic.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strathcona.vic.edu.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313180913id_/https%3A//www.strathcona.vic.edu.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Strathcona Baptist Girls Grammar School
+# Privacy | Strathcona
 
 ## Privacy Statement
 
@@ -14,15 +14,15 @@ By providing the School with personal information, you consent to that informati
 
 The School collects personal information, including sensitive information, about:
 
-  * Students and parents and/or guardians (‘parent’) before, during and after the course of a student’s enrollment at the School;
-  * Job applicants, staff members, volunteers and contractors; and
-  * Other people who come in contact with the School.
+  * Students and parents and/or guardians (‘parent’) before, during and after the course of a student’s enrollment at the School
+  * Job applicants, staff members, volunteers and contractors
+  * Other people who come in contact with the School. Personal information is information or an opinion relating to an individual which can be used to identify that individual.
 
 
 
-Personal information is information or an opinion relating to an individual which can be used to identify that individual. Personal information that the School collects includes individuals’ names, email addresses, addresses, gender, occupation, contact information or preferences.
+Personal information that the School collects includes individuals’ names, email addresses, addresses, gender, occupation, contact information or preferences.
 
-**Personal information you provide:** The School will generally collect personal information held about an individual by way of forms filled out by parents or students, face to face meetings and interviews e-mails and telephone calls. On occasions, people other than parents and students provide personal information.
+**Personal information you provide:** The School will generally collect personal information held about an individual by way of forms filled out by parents or students, face to face meetings and interviews e-mails and telephone calls. 
 
 **Personal information provided by other people:** In some circumstances, the School may be provided with personal information about an individual from a third party, for example a report provided by a medical professional or a reference from another school.
 
@@ -36,11 +36,11 @@ The School will use personal information it collects from you for the primary pu
 
 The purposes for which the School uses personal information of students and parents include:
 
-  * to keep parents informed about matters related to their child’s schooling, through correspondence, newsletters and magazines,
-  * day to day administration,
-  * looking after a student’s educational, social, spiritual and medical wellbeing,
-  * seeking donations and marketing for the School, and
-  * to satisfy the School’s legal obligations and allow the School to discharge its duty of care.
+  * to keep parents informed about matters related to their child’s schooling, through correspondence, newsletters, marketing materials and online portals
+  * day to day administration
+  * looking after a student’s educational, social, spiritual and personal wellbeing
+  * seeking donations and marketing for the School
+  * to satisfy the School’s legal obligations and allow the School to discharge its duty of care
 
 
 
@@ -50,11 +50,10 @@ In some circumstances where the School requests personal information about a stu
 
 The purposes for which the School uses personal information of job applicants, staff members and contractors include:
 
-  * communicating with the individual;
-  * administering the individual’s employment or contract;
-  * satisfying insurance requirements;
-  * seeking funds and marketing for the School; and
-  * satisfying the School’s legal obligations, for example in relation to child protection legislation.
+  * communicating with the individual
+  * administering the individual’s employment or contract
+  * satisfying payroll and industrial relations requirements
+  * satisfying the School’s legal obligations, for example in relation to child protection legislation
 
 
 
@@ -64,23 +63,24 @@ The purposes for which the School uses personal information of job applicants, s
 
 Parents, staff, contractors and other members of the wider School community may, from time to time, receive fundraising information. School publications, like newsletters and magazines, which include personal information and sometimes visual images, may be used for marketing purposes.
 
-### Disclosure of Personal Information
+Disclosure of Personal Information
 
 We may disclose your personal information to companies that we have engaged to carry out functions and activities on our behalf, our professional advisers and insurers or to anyone else to whom you authorise us to disclose it.
 
 With consent, the School may also disclose personal information, including sensitive information, held about an individual to:
 
-  * another school;
-  * government departments;
+  * another school
+  * government departments
+  * Independent Schools Victoria (for LEAD survey, etc)
   * VCAA, VTAC and tertiary entry authorities
-  * medical practitioners;
-  * people providing services to the School, including specialists visiting teachers and sports coaches, excursion or camp providers;
-  * recipients of School publications, like newsletters and magazines;
+  * medical practitioners
+  * people providing services to the School, including visiting teachers, specialists and sports coaches, excursion or camp providers
+  * recipients of School publications, like newsletters and magazines
   * newspapers; social media forums
-  * parent association/committees;
-  * other parents or guardians;
-  * anyone to whom we are required to disclose the information to by law; and
-  * anyone to whom you authorise the School to disclose information.
+  * parent association/committees
+  * other parents or guardians
+  * anyone to whom we are required to disclose the information to by law
+  * anyone to whom you authorise the School to disclose information
 
 
 
@@ -123,7 +123,7 @@ Under the Commonwealth Privacy Act (and Health Records Act), an individual has t
 
 Requests to access any information the School holds about you or your child should be forwarded in writing to the Privacy Officer (privacyofficer@strathcona.vic.edu.au). The School may require you to verify your identity and specify what information you wish to view. The School may charge a fee to cover the cost of verifying your application and locating, retrieving, reviewing and copying any material requested. If the information sought is extensive, the School will advise the likely cost in advance.
 
-_**Note that personal employment records are exempted from the Act, and hence from access.**_
+**Note that personal employment records are exempted from the Act, and hence from access.**
 
 ### Breach of the Australian Privacy Principles
 
@@ -137,5 +137,6 @@ A person wishing to make a complaint should first attempt to resolve any complai
 
 Generally, the School will refer any requests for consent and notices in relation to the personal information of a student to the student’s parents. The School will treat consent given by parents as consent given on behalf of the student and notice to parents will act as notice given to the student.
 
-**Marise McConaghy**  
+**Marise McConaghy**
+
 **Principal**
