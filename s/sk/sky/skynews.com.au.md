@@ -1,94 +1,193 @@
-> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206114209id_/http%3A//www.skynews.com.au/common/disclaimer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313205447id_/http%3A//more.skynews.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sky News Australia
+# Privacy Policy – Sky News Australia
 
-Sky News Australia ( **Sky News** ) commenced its 24 hour news service on February 19th 1996, becoming the first and only Australian produced television news channel. Sky News is a joint venture of Australia's Nine Network and Seven Network, and the United Kingdom's Sky News channel, a part of the British Sky Broadcasting (BSkyB) network.
+### 1\. INTRODUCTION AND SCOPE
 
-Sky News respects the privacy of its audience and people we do business with, and we strive to comply with the National Privacy Principles ( **NPPs** ) contained in the Privacy Act 1988 ( **the Privacy Act** ). This Privacy Policy outlines how Sky News will handle personal information about you. As we may sometimes collect personal information online through [www.skynews.com.au](http://www.skynews.com.au/) ( **our website** ), this Privacy Policy also outlines our approach to online privacy issues.
+This Privacy Policy applies Australian News Channel Pty Ltd (ANC) platforms and services.
 
-This Privacy Policy does not apply to Sky News' journalists, to the extent that they engage in acts or practices in the course of journalism.
+This Privacy Policy applies to information which identifies you, or from which you can reasonably be identified, such as your full name or name and postal address (“personal information”). This Policy describes how we handle the personal information we collect when we provide our services. Our services include: home delivery subscription, digital services subscription, advertising, websites, mobile sites, applications (“apps”), and widgets, competitions and customer surveys (collectively, “Company Services”).
 
-Our Privacy Policy is divided into the following sections:
+This Privacy Policy does not apply to personal information collected by our journalists and photographers for the purpose of gathering news. We handle the information we collect in the course of journalism in accordance with the Australian Press Council Privacy Standards, which can be found at: [http://www.presscouncil.org.au/privacy-principles](https://webmail.skynews.net.au/owa/redir.aspx?REF=ey-xbxJIewm7WVhHPsPUmgLrMedyX0SQxt8dbvfFATAJ0Pw9kT7VCAFodHRwOi8vd3d3LnByZXNzY291bmNpbC5vcmcuYXUvcHJpdmFjeS1wcmluY2lwbGVz).
 
-**1.** HOW AND WHY SKY NEWS COLLECTS PERSONAL INFORMATION.
+This Privacy Policy otherwise applies to information about anyone who interacts with us, including advertisers, subscribers and people who use Company Services (both registered and unregistered users).
 
-**2.** WILL YOUR PERSONAL INFORMATION BE GIVEN TO ANYONE ELSE?
+This Privacy Policy only applies to ANC and its digital services. If you are using a third party site to interact with ANC, or you navigate from the ANC website to a separate site to view advertising or to engage with a service, this activity is not covered by ANC’s Privacy Policy.
 
-**3.** HOW IS YOUR PERSONAL INFORMATION STORED?
+### 2\. WHAT INFORMATION DO WE COLLECT?
 
-**4.** YOUR RIGHT OF ACCESS AND CORRECTION.
+We collect personal information to provide Company Services and for our business operations. If you choose not to provide the information we request from you, we may not be able to provide you with the services you require. We describe the main types of personal information we collect and the main reasons why we collect that information below.
 
-**5.** ONLINE COLLECTION OF PERSONAL AND NON-PERSONAL INFORMATION.
+Registration Information is the information you provide to Company when you register for or acquire a Company Service. This may include information you provide us to:
 
-**6.** ADDITIONAL PRIVACY INFORMATION & HOW TO CONTACT SKY NEWS.
+·     create an account;
 
-**1\. HOW AND WHY SKY NEWS COLLECTS PERSONAL INFORMATION.**
+·     become a subscriber;
 
-Sky News needs to collect personal information in order to conduct its business.
+·     become an advertiser;
 
-**Our audience.** We collect personal information from members of the public who contact us through our website or by telephone. For example, our website contains a section called "Your Say", where we provide you with an opportunity to contact us with your comments (by email or by telephone). If you provide us with your comments, we give you the opportunity to let us know if you do not want us to respond. If you would like us to respond, we will collect personal information from you (including your name, email address and suburb) in order to do so.
+·     post comments;
 
-If you do wish us to respond to your enquiry, we will keep your comments but will not retain other personal information about you (ie your comments will be 'de-identified').
+·     receive a newsletter; or
 
-**Business contacts.** Sometimes, Sky News needs to collect personal information from people we do business with. This will usually happen when we collect the name and business contact details of a person who is the contact in a government agency or company we deal with, or in one of our contractors or suppliers or shareholders.
+·     enter a competition.
 
-Sky News's policy is only to use personal information collected from its audience or business contacts for the business purpose for which it was collected, and not for any other purpose.
+Registration Information includes, for example, your name, delivery or postal address, email address, gender and birthday.
 
-We do not collect personal information that we do not need. 
+You are able to use some Company Services without providing any personal information (for example when browsing our digital products as a casual user) or by providing an alias. We usually tell you when you are able to use Company Services in this way.
 
-**2\. WILL YOUR PERSONAL INFORMATION BE GIVEN TO ANYONE ELSE?**
+Public Information and Posts include comments or content that you post to the online Company Services and the information about you that comes with those posts. This may include your name, user name, comments, likes, tweets, status, profile information and picture(s). Public Information and Posts are available to everyone who views our websites and may be displayed in search results on external search engines, even after you cancel your account with us.
 
-Sky News will not sell, rent or trade personal information about you to or with others.
+Information from third party Social Media. If you access or log-in to a Company Service through a third party social media service or connect a Company Service to your social media profile, we may also include information from that social media service. This may include:
 
-Personal information collected by Sky News may be disclosed to third parties to whom we outsource specialised functions (such as mailing houses or printing companies), and if so, Sky News takes steps to ensure that those contractors:
+·     your user name for that service;
 
-  * comply with the NPPs when they handle personal information about you (regardless of whether they are a small business, and would otherwise be exempt from the NPPs); and
+·     any information or content you have permitted the social media service to share with us (such as your profile picture(s), email address, followers or friends lists); and
 
+·     any other information you have made public (including other posts you make using your social media profile).
 
-  * are authorised only to use personal information in order to provide the services or to perform the functions required by Sky News.
+We do not collect your social media profile password. When you access Company Services through your social media profile, or when you connect a Company Service to your social media profile, you authorise us to collect and handle your personal information in accordance with this Privacy Policy.
 
+Activity Information – cookies and other technologies. When you visit Company’s websites (including to access and use Company Services) we may collect information about your visit. For example, in order to connect you to the Company Services, our servers receive and record information about your computer, device, and browser, which may include your IP address, browser type, and other software or hardware information. If you access the Company Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information from that device.
 
+For more information about cookies and tracking technologies and how to block cookies, see the News Corp Australia [Cookie Policy](https://webmail.skynews.net.au/owa/redir.aspx?REF=XX9jeD_cWQbm8uXd-nhiE03elr4QUFrt2vunovg6TEQJ0Pw9kT7VCAFodHRwczovL3ByZWZlcmVuY2VzLm5ld3MuY29tLmF1L2Nvb2tpZXM.).
 
-The only other time Sky News would make disclosures of personal information is if we are required to do so by law, or if the disclosure is permitted under the Privacy Act.
+Information from Other Sources. We may supplement the information we collect about you with information from other sources. This may include information from publicly available sources (such as other published content) and data providers, as well as information from our business partners or related and affiliated companies in Australia or internationally.
 
-**3\. HOW IS YOUR PERSONAL INFORMATION STORED?**
+Information in relation to other persons who deal with us. When you apply for a job or contract with us we may collect information about you to help us decide whether to offer you the job or contract. For example, we may collect information about how to contact you, your education or work history, or other information included in your CV or résumé. We may collect this information from you, or from any recruitment consultant, your previous employers, or other referees. This Privacy Policy does not apply to our collection, use and disclosure of information:
 
-Sky News takes physical, electronic and managerial steps to ensure that the personal information it holds is secure from unauthorised access, destruction, use, modification or disclosure. Sky News only permits your details to be accessed by authorised personnel, and we educate our staff about their responsibilities under the NPPs.
+·     we hold about you once you become an employee;
 
-**4\. YOUR RIGHT OF ACCESS AND CORRECTION.**
+·     we keep after your employment relationship with us ends,
 
-Under the Privacy Act, you have the right to seek access to information which Sky News holds about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date.
+where that collection, use or disclosure relates to your employee relationship with us and the records we hold about you as an employee.
 
-If you wish to exercise your right under the Privacy Act to seek access to the personal information that Sky News holds about you, or if you believe that personal information about you is not accurate, complete or up to date, you should contact Sky News's Privacy Officer, including the details of your request for correction (if applicable). The contact details for Sky News's Privacy Officer can be found at the end of this Privacy Policy.
+Company also collects personal information about our suppliers and individuals employed by our suppliers (including service and content providers), contractors, dealers, related companies, agents and corporate customers. We will explain why we are collecting this information and how we will use that information, unless it obvious from the circumstances.
 
-Please note that the personal information we hold about you will be information that you have provided to us.
+### 3\. HOW DO WE USE YOUR INFORMATION?
 
-We will assume (unless you tell us otherwise) that your request relates to our current records about you. To provide you with access to "current" personal information, Sky News would ordinarily provide you with a print-out of the relevant personal information from our databases, or with photocopies of records which are held only on paper files. Ordinarily, Sky News will not charge you for the cost of providing this type of access to these records.
+We use the information we collect about you to provide Company Services to you. As part of our service to you we may use your personal information:
 
-For legal and administrative reasons, Sky News may also store records containing personal information in its archives. You only have a legal right to seek access to personal information about you collected by us prior to 21 December 2001 if we use or disclose that personal information after that date. If you do wish to seek access to personal information collected by us prior to 21 December 2001, please contact our Privacy Officer to discuss whether access may be available. Please note that if we do provide access to old records, we may charge you for the cost of providing such access. 
+·     to fulfill administrative functions associated with these services (for example billing, credit and account management);
 
-**5\. ONLINE COLLECTION OF PERSONAL AND NON-PERSONAL INFORMATION.**
+·     to enter into contracts with you or third parties;
 
-As noted above, Sky News may collect personal information about you from our website if it is volunteered by you through our 'Your Say' page. Otherwise, Sky News does not collect personal information about you through our website.
+·     to measure and improve Company Services and their individual features;
 
-However, our website may also collect other information that may not be personal information. For each visitor to our website, our server automatically recognises and stores the visitor's domain name, but not their email address. 
+·     to improve your experience by delivering content (including editorial, marketing and advertising) we think you will find relevant and interesting;
 
-Sometimes our website contains links to other websites, for your convenience and information. When you access a website other than [www.skynews.com.au](http://www.skynews.com.au/), please understand that Sky News is not responsible for the privacy practices of that site. We suggest that you review the privacy policies of each site you visit.
+·     for other marketing and client relationship purposes;
 
-**6\. ADDITIONAL PRIVACY INFORMATION & HOW TO CONTACT SKY NEWS.**
+·     to allow you to comment on content, and participate in games, competitions, or rewards programs;
 
-Sky News may change its Privacy Policy at any time. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our website.
+·     to provide you with customer support; and
 
-For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
+·     to respond to your enquiries.
 
-If you feel that Sky News is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Privacy Officer (using the following contact details):
+Where your personal information is contained in an advertisement which we publish for you, we may also use your information to publish that advertisement in other media. We do this in accordance with our terms and conditions for the initial publication. If you include personal information in any posts or in a letter, email or text message to an editor or journalist, we may publish your name and suburb to identify you as the author of that post if we publish it in any media.
 
-  * by telephone on 02 9886 8000
-  * by facsimile on 02 9886 8001
-  * by email to privacy@skynews.com.au
-  * by letter to Privacy Officer, Australian News Channel Pty Ltd, Locked Bag 918, North Sydney, NSW, 2059. Australia.   
+When we collect your information, we may explain that we will use and disclose your information in other ways. For example, if you win a competition, we may disclose your information to relevant regulatory authorities and publish your details in accordance with the competition terms.
 
+We may also remove certain information or alter the information we collect about you so you can no longer be identified from that information. We do this so that we can use it or disclose it to third parties for other purposes.
 
+We use the information we collect about you for the following additional purposes:
 
+Research and data analysis. We may also use your information for research and data analysis to improve Company Services. We may do this research or engage a service provider to do this.
 
-_The Sky News Privacy Policy was last updated on 21 December 2001_
+To allow service and content providers to assist us in providing and managing the Company Services. We may make your information available to certain third party service and content providers who help us manage or provide the Company Services or provide Company with related services. This might include providers of cloud services, website hosting service providers, debt collection service providers and direct marketing service providers. These third parties may be located in a range of different countries including the United Kingdom, United States of America and Singapore. Our agreements with these third party providers require them not to use your information except for the purpose for which your information was provided. We also require them to comply with relevant privacy laws.
+
+To allow social sharing functionality. If you log in with or connect a social media profile with your Company Services account, we may share your personal information (including your user name, picture, tweets, likes and posts) with other Company Services users and your friends or followers linked to your social media profile. We may also share the same information with the social media service provider.
+
+By logging in with or connecting your Company Services account with a social media profile, you authorise us to share your personal information with the social media service provider, other users and your friends or followers. You understand that the social media service provider may handle this information in accordance with its own privacy policy. If you do not want your personal information shared in this way, please do not connect your social media profile with your Company Services account and do not participate in social sharing on Company Services.
+
+To provide co-branded services and features. We may offer co-branded services, such as competitions or other promotions together with a third party (“Co-Branded Services”). When this happens, we may share the information you submit in connection with the Co-Branded Service with the third party, or with our service providers who assist us to host Co Branded Services. The third party’s use of your information will be governed by their own privacy policy. We will obtain your consent to share your personal information with the third party. If you do not provide this consent, you may not be able to access that co-branded service.
+
+To deliver relevant advertisements and content. Company and our advertisers may use the information we collect about you to provide you with relevant advertisements and content when you use Company Services. We may also use your personal information so that relevant advertising can be provided to you when you use services or visit websites of other organisations.
+
+We may combine information that we hold about you with information about you that we collect from other trusted businesses with whom you also have a relationship or from public sources. We may also share information we hold about you with those trusted businesses so that they can do the same thing. We and those trusted businesses do this in order to enable the development of consumer insights about you so that each of us can serve you better. This includes being able to better understand your preferences and interests, personalise your experience, enhance the products and services you receive, and to tell you about products and services. Where those insights are provided to others for their own marketing purposes, such insights do not contain any information that identifies you. We may also use third party service providers to undertake the process of creating these consumer insights.
+
+To contact you. From time to time, we may send you promotional materials or other information which we think may interest you. For example, we may send you an invitation to participate in various activities (such as customer surveys) or special offers.
+
+To share with our Company Affiliates. Company may share your information with our related companies located in Australia or in other countries, including the United Kingdom and United States of America. If we share your information with our related companies, they can use your information in accordance with this Privacy Policy. However, if you access or use a service provided by one of our related companies, you should consider the privacy policy of that company, as it may be different to this policy.
+
+To share with business partners. Company may share your information with business partners so they can send you marketing communications. This will only happen if you have expressly agreed to this.
+
+To protect the rights of Company and others. We may share your information with other third parties where we are lawfully entitled to do so. This includes when we have a reasonable basis to believe that sharing your information is necessary to:
+
+·     protect, enforce or defend the legal rights, privacy, safety, or property of Company, our related companies or their employees, agents and contractors (including enforcement of our agreements and our terms of use);
+
+·     protect the safety, privacy, and security of users of the Company Services or members of the public;
+
+·     protect against fraud or for risk management purposes;
+
+·     comply with the law or legal process in any country; or
+
+·     respond to requests from public and government authorities.
+
+To complete a merger or sale of assets. If Company sells all or part of its business or assets, we may disclose your information to the party or parties involved in the sale transaction. We may also do this if Company is involved in a merger or transfer of all or a material part of its business. We may disclose your information prior to the sale, transfer or merger so that the party or parties involved can consider the transaction and complete any due diligence.
+
+### 4\. HOW DO WE PROTECT YOUR INFORMATION?
+
+We use reasonable measures to safeguard the personal information we hold about you from loss, theft and unauthorised use, disclosure or modification, including:
+
+System security We take reasonable steps to prevent unauthorised access to our online and computerised systems by using measures such as firewalls, data encryption, virus detection methods, and password restricted access.
+
+Property security At our business premises, we may engage security personnel and use ID cards to restrict access to those premises.
+
+Staff training We train our staff to handle your information in accordance with this Privacy Policy and applicable privacy laws.
+
+Third parties We take reasonable steps to ensure that third parties who store or assist us to store your personal information adopt appropriate security measures.
+
+### 5\. HOW CAN YOU ACCESS YOUR INFORMATION?
+
+If you would like to access, review, correct or update your personal information, you may contact us (see section 8). When you contact us, please provide your name and contact details (including your email address, address, and telephone number) and specify clearly what information you would like to access, review, correct or update. We will need to share your information with others who can help us respond to your request. We will try to respond to your request as soon as reasonably practicable. If we refuse your request we will generally tell you why.
+
+### 6\. HOW CAN YOU OPT OUT?
+
+Online advertising. You can block certain advertisements by blocking or deleting cookies in your browser settings. However, we use cookies to provide some of our Company Services and you may not be able to use these Company Services if you do this. Some third party providers use tracking technology other than cookies to deliver targeted advertisements to you. You can read more about this type of advertising at: [http://youronlinechoices.com.au. ](https://webmail.skynews.net.au/owa/redir.aspx?REF=zTkMJZkOG_XQbX878NkSPz5kU8kR9uznxZgRU128_P8J0Pw9kT7VCAFodHRwOi8veW91cm9ubGluZWNob2ljZXMuY29tLmF1Lw..)
+
+Direct marketing. If you do not want to receive promotional messages from us, you can change your account settings or follow the unsubscribe instructions which we include at the bottom of our emails. If you have installed our app, you can stop push notifications by changing the settings in the app or on your mobile device.
+
+If you have linked any of your social media profiles to your account for any Company Service, you can cancel that link by changing your account settings. If you need any assistance with changing your account settings, please call us (see Section 8).
+
+### 7\. OTHER IMPORTANT INFORMATION FOR YOU
+
+Updates to Privacy Policy. We may modify this Privacy Policy at any time. The date at the top of this Privacy Policy tells you when it was last updated. Any changes to this Privacy Policy become effective when we publish it online. If you do not agree with changes to this Privacy Policy, you may be able to terminate your account with us.
+
+Location of Data. Some Company Services are hosted in and managed outside of Australia, including in the United Kingdom, the United States of America and Singapore. In dealing with Us, you consent to this practice, understanding that your personal information may be accessible from or transmitted outside Australia.
+
+Linked Services. Company Services (including Company’s website) may display links to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, competitions or applications developed and maintained by unaffiliated companies. We are not responsible for the privacy practices of these unaffiliated companies. Once you leave the Company Services or click an advertisement you should check the privacy policy of that company to understand how it will handle your information.
+
+Collection of Personal Financial Information by a Payment Service provider. Sometimes we allow you to use an unaffiliated payment service to purchase a product or make payments for Company Services (“Payment Service”). If you use a Payment Service, you will be directed to the webpage for that Payment Service. Any information you provide when using a Payment Service may be collected and used by the Payment Service provider in accordance with that provider’s privacy policy. You should check the provider’s privacy policy to understand how it will handle your information.
+
+Data Retention. Even after you cancel your account with us, we will retain your information for as long as we reasonably need it for the purposes outlined in this Privacy Policy. For example, we may retain your information to prevent fraud, or to maintain systems security. We may also retain your information if required or allowed to by law, regulation or relevant standards and codes of conduct, or to fulfil our contractual obligations to a third party. In certain circumstances, including where we are prevented by technical or systems constraints, we may not be able to remove all of your personal information.
+
+If you share your information with a social media service (including by posting information to that service), this information may not be removed even after you cancel your account. If you delete your account with us, your account information may still be accessible by others for a short period of time because of the way that your information is stored on the internet.
+
+Sensitive Information. We ask that you not provide us with any sensitive information (such as information about your racial or ethnic origin, religious or other beliefs, health, criminal background or trade union membership) when using Company Services, or otherwise. If you do provide us with any sensitive information, you consent to us collecting and handling that information in accordance with this Privacy Policy.
+
+Complaint. If you think we have breached the Privacy Act 1988 (Cth) or other applicable privacy laws, you can contact us (see Section 8) to make a complaint. When you contact us, please include your name and contact details (including your email address, address, and telephone number) and clearly describe your complaint. We will need to share your information with others who can assist in responding to your complaint. We will contact you within 7 days to let you know the next steps in resolving your complaint and to obtain any further information we need to consider your complaint. As soon as reasonably practicable and in any event within 30 days, we will let you know our decision. If you are not satisfied with our response, you may refer your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).
+
+### 8\. HOW YOU CAN CONTACT US
+
+If you have questions about this Privacy Policy, or to request a hard copy, please contact our Privacy Officer at:
+
+Email:
+
+| 
+
+privacy@skynews.com.au  
+  
+---|---  
+  
+Mail:
+
+| 
+
+Locked Bag 918, North Sydney NSW 2059  
+  
+Telephone:
+
+| 
+
++61 2 9886 8000
