@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicksmith.com.au privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122171535id_/https%3A//www.dicksmith.com.au/da/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksmith.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313215657id_/https%3A//www.dicksmith.com.au/da/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dick Smith
 
