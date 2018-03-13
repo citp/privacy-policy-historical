@@ -1,120 +1,63 @@
-> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602204843id_/https%3A//www.yourtown.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boystown.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313150316id_/https%3A//www.yourtown.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | yourtown
 
-#### Our privacy policy
+All yourtown
 
-Click here to view our corporate [Privacy Policy](https://web.archive.org/sites/default/files/document/yourtown-Privacy-Policy.pdf). You may also request a copy in an alternate format by contacting  **yourtown**  via:
+This Privacy Statement was last up-dated on 20/03/14 and reviewed with no changes on 14/12/17.
 
-  * Email: privacy@yourtown.com.au
-  * Phone: (07) 3368 3399
+## Our Privacy Commitment
 
+ **yourtown** is committed to protecting and securing your privacy and the personal information provided to us about you.
 
+All personal information collected and held by **yourtown** is protected in accordance with Privacy legislation and the Australian Privacy Principles.
 
-or by writing to us at the above address.
+## What is personal or sensitive information?
 
-This Privacy Statement was last updated on 18 November 2015.
+Personal information is information that can be used to identify you, such as your name, address, and contact details. Sensitive information may include details such as bank account details (for financial transaction purposes) and health information (for program participation purposes).
 
-## Fundraising Privacy Statement
+## How does yourtown collect and use your information?
 
- **yourtown**  is committed to protecting and securing your privacy and the personal information provided to us.
+ **yourtown** will collect your personal or sensitive information by fair, lawful and non-intrusive means. We use your personal information to provide you with the relevant service, program, or product. All information held is retained, secured, and destroyed in accordance with applicable laws.
 
-All personal information collected and held by  **yourtown**  is protected in accordance with Privacy legislation and the Australian Privacy Principles.
+## Will yourtown share your information with others?
 
- **yourtown**  only collects supporter's personal information for the purposes identified below, and to comply with gaming legislation in the various States and Territories where the Art Union operates. At all times, personal information is collected in a fair and lawful manner.
+ **yourtown** will NOT, without your prior consent:
 
-#### Supporter's right to opt-out
-
-From time to time, promotional offers and special events will be communicated to supporters through direct marketing and other channels. Supporters have the right to opt-out of these communications and can do so through any one of the options listed below.
-
-Phone
-
-| 
-
-1800 500 101 (free call in Australia)
-
-+61 7 3867 1252 (International)  
-  
----|---  
-  
-Fax
-
-| 
-
-Australia 1800 557 067 (free fax in Australia)
-
-+61 7 3367 0642 (International)  
-  
-Post
-
-| 
-
- **yourtown** , Reply Paid 2944, Brisbane QLD 4001  
-  
-Online
-
-| 
-
-Existing supporters can opt-out online. Log in with your account password and follow the 'My Details' link on the top navigation bar  
-  
-Email
-
-| 
-
-To unsubscribe from the  **yourtown**  email database either click on the link at the bottom of the email you received or send an email to yourtown@yourtown.com.au with the subject 'UNSUBSCRIBE'  
-  
-#### What kind of personal information is collected?
-
- **yourtown**  collects and holds the following personal information:
-
-  * Name and address
-  * Contact details - phone, fax, mobile, email address
-  * Payment details such as credit card number and expiry
-  * Date of birth
-  * Title
-  * Transaction details associated with the purchase of  **yourtown**  tickets and donations
+  * Use your personal or sensitive information for fundraising, advertising or the promotion of yourtown; or
+  * Disclose information or distribute personal or sensitive information about you unless we are compelled to release information because of a law, court order, or contract requirement (for purposes such as protecting your health and safety or that of any other individual).
 
 
 
-#### Purpose for collection
+Reasonable steps will be taken to protect information about you from misuse, loss and unauthorised access, changes or disclosure.
 
- **yourtown**  collects supporter's personal information for the primary purpose of fundraising, which includes recording and processing of  **yourtown**  ticket sales and donations. Supporter's personal information is also used for the secondary purpose of marketing, planning, product development and research.
+## How does yourtown ensure information is up-to-date?
 
-#### Use and Disclosure
+You are responsible for informing **yourtown** of any changes to your personal details or circumstances, as applicable. **yourtown** will take reasonable steps to ensure information collected is accurate, complete and up-to-date.
 
-Personal information collected by  **yourtown**  will only be used for the purpose it was collected and will not be disclosed to any person, body or agency unless we have your consent or where it is required by law.
+## How can you access information about you?
 
- **yourtown**  will not use or disclose or permit the use or disclosure of personal supporter information that could be used to identify an individual supporter in any circumstances except:
-
-  * To ensure the proper functioning of the  **yourtown**  operation
-  * Where the personal supporter information is to be used by a retained agent for marketing, planning, product development and research
-  * When  **yourtown**  is required by law to disclose the personal supporter information, or
-  * When the supporter has consented to the use or disclosure.
-
-
-
-#### Cross-Border disclosure
-
-Your personal information is not sent overseas, and is used only by  **yourtown**.
-
-#### Security of Personal Information
-
- **yourtown**  undertakes to take reasonable steps necessary to ensure that supporter information is secure from any unauthorised access or disclosure.
-
-#### Supported access to personal information
-
-You may ask for access to your information by emailing privacy@yourtown.com.au or by writing to the Chief Executive Officer at:
+You may ask for access to your information by emailing [privacy@yourtown.com.au](mailto:privacy@yourtown.com.au) or by writing to the Chief Executive Officer at:
 
 The Chief Executive Officer  
  **yourtown**  
 GPO Box 2469  
 Brisbane QLD 4001
 
-#### How to make a privacy complaint
+An administration fee may be charged to access **yourtown** files.
 
-Inquiries, feedback and complaints concerning privacy can be emailed to privacy@yourtown.com.au or made in writing to:
+## How can you make a complaint about the privacy of your information?
 
-The Chief Executive Officer  
- **yourtown**  
-GPO Box 2469  
-Brisbane QLD 4001
+You can make a complaint about the privacy of your information by writing to the postal or email address.
+
+## Can I obtain a copy of your Privacy Policy?
+
+Yes. [Click here](https://www.yourtown.com.au/sites/default/files/document/yourtown-Privacy-Policy.pdf) to view a copy of our Privacy Policy.
+
+You may request a copy in an alternate format by contacting us via the contact details provided above.
+
+## Read also:
+
+[Fundraising Privacy Statement](https://www.yourtown.com.au/sites/default/files/document/Fundraising%20Privacy%20Statement%20-%20c.PDF)  
+[Feedback and Complaints Policy](https://www.yourtown.com.au/sites/default/files/document/Feedback%20and%20Complaints%20Policy%20-%20bms.PDF)  
+[Feedback and Complaints Privacy Collection Notice](https://www.yourtown.com.au/sites/default/files/document/Feedback%20and%20Complaints%20Privacy%20Collection%20Notice%20-%20bms.PDF)
