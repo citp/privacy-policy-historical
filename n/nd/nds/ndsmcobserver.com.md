@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndsmcobserver.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210201838id_/http%3A//ndsmcobserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndsmcobserver.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313180025id_/https%3A//ndsmcobserver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy // The Observer
 
