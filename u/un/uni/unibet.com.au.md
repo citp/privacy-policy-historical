@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unibet.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219100425id_/https%3A//www.unibet.com.au/general-info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibet.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313134133id_/https%3A//www.unibet.com.au/general-info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Unibet Australia| Unibet's Privacy Policy Explained
 
 ### General
 
