@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2017-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170906134431id_/http%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingeye.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313133555id_/https%3A//www.marketingeye.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Marketing Eye
 
@@ -14,18 +14,18 @@ By using our Web site, you give Marketing Eye permission to collect information 
 
 If you are under the age of 18, you must not provide your name, e-mail address, or any other identifying information without the consent of your parent or guardian, or as otherwise provided for by applicable law.
 
-If you have any questions regarding our privacy policy, please [contact us](http://www.marketingeye.com.au/contact-us.html). Any changes to this policy will be posted here, and will be effective once uploaded to this site. 
+If you have any questions regarding our privacy policy, please [contact us](https://www.marketingeye.com.au/contact-us.html). Any changes to this policy will be posted here, and will be effective once uploaded to this site. 
 
-###  Connect with Us
+### Connect with Us
 
 #### Newsletter Subscribe
 
 Sign up today and never miss another deal again!  
-[Subscribe](http://www.marketingeye.com.au/newsletter-subscribe.html "Newsletter Subscribe form")
+[Subscribe](https://www.marketingeye.com.au/newsletter-subscribe.html "Newsletter Subscribe form")
 
 ### Latest Marketing Eye Tweets
 
 Member of  
 [](https://www.ama.org/ "American Marketing Association")
 
-[__](http://www.marketingeye.com.au/privacy.html#)
+[__](https://www.marketingeye.com.au/privacy.html#)
