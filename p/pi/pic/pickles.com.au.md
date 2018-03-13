@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pickles.com.au privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609050351id_/http%3A//www.pickles.com.au/about/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickles.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313184558id_/https%3A//www.pickles.com.au/about/Terms-And-Conditions/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pickles Auctions Australia
+# Pickles - Terms and Conditions - Pickles Auctions Australia
+
+[](https://web.archive.org/learn-how-to-buy)
 
 **1\. Summarised extent of our commitment**
 
@@ -83,7 +85,7 @@ or otherwise throughout your interactions with any of Pickles Auctions’ physic
 **11\. It is our policy only to send emails to customers who give us permission to do so. In every such email, we will also have instructions on how you may unsubscribe from the e-mail list so that you will not receive any future e-mails if you do not wish to.**
 
 **12\. You consent to the following:**  
-(a) That in using our sites, Pickles Auctions may collect and use the information you provide to us;   
+(a) That in using our sites, Pickles Auctions may collect and use the information you provide to us;  
 (b) Pickles Auctions may provide your information to third parties where that information was provided by you to enable us to administer or facilitate the purchase of a good or service by you; and  
 (c) Pickles Auctions may change, alter or modify our privacy policy from time to time without prior notice to you.
 
