@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowadvertising.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606183956id_/https%3A//www.sensis.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowadvertising.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313013059id_/https%3A//www.sensis.com.au/about/privacy) for the most accurate reproduction.*
 
 # Sensis Privacy Policy
 
@@ -84,7 +84,7 @@ We also require our contracted service providers to comply with privacy and conf
   * companies involved in a sale of our company or assets
   * Telstra Corporation Limited (to help them provide directory assistance services like Directory Assistance (1223, 1234) and Call Connect (12456))
   * telephone service providers who supply customer data for publication in our directories, and
-  * our directories and syndication partners, as permitted in our [Product Contract Terms](https://web.archive.org/asset/PDFdirectory/Sensis_Terms_Booklet.pdf).
+  * our directories and syndication partners, as permitted in our [Product Contract Terms](https://web.archive.org/asset/PDFdirectory/Legal/Sensis-Customer-Terms-17-November-2017-V2.pdf).
 
 
 
