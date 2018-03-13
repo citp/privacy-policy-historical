@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solarquotes.com.au privacy policy that was archived on 2017-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170301054757id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solarquotes.com.au privacy policy that was archived on 2018-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180313144011id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -8,12 +8,18 @@
 <title>Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers</title>
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en">
-<meta name="description" content="Privacy Policy - Get 3 Free Quotes for Solar Power Systems from Trusted Local Installers">
-<link rel="stylesheet" href="/css/2014_02_style.css?1487587888">
+<meta name="description" content="Information on the privacy policy of Solar Quotes' - Australia's leading solar energy resources site.">
+<link href="https://www.solarquotes.com.au/privacy.html" rel="canonical">
+<link rel="stylesheet" href="/css/2014_02_style.css?1512607290">
 <link rel="stylesheet" href="/css/jquery-ui-custom.min.css?1453090558">
-<link rel="stylesheet" href="/css/2014_02_fonts.css?1453090558">
+<link rel="stylesheet" href="/css/2014_02_fonts.css?1505303166">
 <link href="//fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet" type="text/css">
-<style type="text/css">.ui-dialog{position:absolute!important;width:70%!important;z-index:10000;left:10%!important;}.ui-widget-overlay{height:100%;left:0;position:fixed;top:0;width:100%;}.ui-dialog .ui-dialog-titlebar-close span{left:0;position:absolute;top:0;}#dialog_container{position:absolute;top:10px;left:240px;width:70%;}@media(max-width:767px){
+<style type="text/css">
+	.ui-dialog{position: absolute !important;width: 70% !important; z-index: 10000; left: 10% !important;}
+	.ui-widget-overlay{height: 100%;left: 0;position: fixed;top: 0;width: 100%;}
+	.ui-dialog .ui-dialog-titlebar-close span {left: 0;position: absolute;top: 0;}
+	#dialog_container{position:absolute; top:10px; left: 240px; width: 70%;}
+	@media(max-width:767px){
 		#dialog_container{
 		left: 0px;
 		width: 100%;
@@ -25,13 +31,13 @@
 	}
 	}
 </style>
-
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ97KQ"></script><script async="" charset="utf-8" src="//v2.zopim.com/?3R6ukL6OCXiupK4dxJoFL4OGz74Q4wDp" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
-	<script src="/js/2014_02/main.js?1453090583"></script>
-	<script src="/js/jquery.scrolldepth.min.js?1453090562"></script>
-	<script src="/js/tablesorter.js?1453090562"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NZ97KQ"></script><script async="" charset="utf-8" src="//v2.zopim.com/?3R6ukL6OCXiupK4dxJoFL4OGz74Q4wDp" type="text/javascript"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script src="/js/2014_02/main.js?1453090583"></script>
+<script src="/js/jquery.scrolldepth.min.js?1453090562"></script>
+<script src="/js/tablesorter.js?1453090562"></script>
 <script type="text/javascript">
+	var SQ_ROOT = 'https://www.solarquotes.com.au/';
 	function msieversion() {
 		var ua = window.navigator.userAgent;
 		var msie = ua.indexOf("MSIE ");
@@ -74,7 +80,7 @@
 
 		$('.form-search form').submit(function(event){
 			event.preventDefault();
-			doGoogleSearch($(this).find('input[type="text"]'));
+			window.open(SQ_ROOT + "search/?addsearch=" + $(this).find('input[type="text"]').val(),'_blank');
 		});
 
 		$('.postcode-form input').filter('.mpostcode, .dpostcode').change(function(){
@@ -82,52 +88,8 @@
 		});
 
 			});
-
-	(function() {
-		var cx = '015109887776303146963:safctqvby7g';
-		var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
-		gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-		'//www.google.com/cse/cse.js?cx=' + cx;
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
-	})();
-	function doGoogleSearch(input){
-		var element = google.search.cse.element.getElement('searchbox-only0');
-		if (input.val() == '') {
-			element.clearAllResults();
-		} else {
-			//Is refined
-			if(typeof($(input).attr('gcse-refinement')) != 'undefined' && $(input).attr('gcse-refinement').length > 0){
-				var d = new Date();
-				var name = d.getTime();
-
-				var attributes = {
-					disableWebSearch: true,
-					enableHistory: true,
-					refinementStyle: 'tab',
-					defaultToRefinement: $(input).attr('gcse-refinement'),
-					autoSearchOnLoad: false,
-					newWindow: true
-				};
-
-				google.search.cse.element.render({
-					div: "_results_container",
-					attributes: attributes,
-					tag: 'searchbox-only',
-					gname: name
-				});
-
-				var elem = google.search.cse.element.getElement(name);
-				elem.execute(input.val());
-			}else{
-				element.execute(input.val());	
-			}
-
-		}	
-	}
 </script>
-
-	<!-- begin Convert Experiments code--><script type="text/javascript" src="//cdn-3.convertexperiments.com/js/10001088-1000942.js"></script><!-- end Convert Experiments code -->
-
+<script type="text/javascript" src="//cdn-3.convertexperiments.com/js/10001088-1000942.js"></script>
 <script type="text/javascript">
 var ua = navigator.userAgent.toLowerCase(),
 platform = navigator.platform.toLowerCase();
@@ -142,17 +104,15 @@ $.src='//v2.zopim.com/?3R6ukL6OCXiupK4dxJoFL4OGz74Q4wDp';z.t=+new Date;$.
 type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 }
 </script>
-		
-	<script src="/js/2014_02/content.js?1466334636"></script>
-		<style type="text/css">
+<script src="/js/2014_02/content.js?1466334636"></script>
+<style type="text/css">
 			.main_container{margin: auto;width: 1024px;}		</style>
-		
-	<link rel="stylesheet" href="/css/2014_02_content.css?1487588675">
-		<style type="text/css">
+<link rel="stylesheet" href="/css/2014_02_content.css?1505303166">
+<style type="text/css">
 						</style>
-	</head>
-	<body>
-		<!-- Google Tag Manager -->
+</head>
+<body>
+
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NZ97KQ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -160,66 +120,58 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-NZ97KQ');</script>
-<!-- End Google Tag Manager -->
-		<div class="container inner-page">
-			<div class="header">
-				<div class="shell clearfix">
-					<div class="header-right">
-						<div class="logo"><a href="https://www.solarquotes.com.au/">SolarQuotes</a></div>
-						<div class="header-right-inner">
-							<span class="nav-mobile">
-								<span>Menu</span>
 
-								<span class="nav-mobile-burger">
-									<span></span>
-									<span></span>
-									<span></span>
-								</span>
-							</span>
-						</div>
-
-						<div class="house">
-							<img src="/img/house.png" alt="House">
-						</div>
-
-						<div class="house-mobile">
-							<img src="/img/house-tablet.png" alt="House Tablet">
-						</div>
-
-						<div class="advantages">
-							<h3>Find The Best Solar Deals In Australia</h3>
-
-							<div class="arr-mobile"></div>
-							<ul class="list-advantages">
-								<li>3 Free, No Obligation, Solar Quotes</li>
-								<li>From Fully Qualified Installers</li>
-								<li>With 1000’s of Customer Reviews</li>
-								<li>Competing for Your Business</li>
-							</ul>
-						</div>
-					</div>
-					<div class="person-desktop">
-						<img src="/img/2014_02_images/person-tablet.png" alt="Finn Peacock Caricature" style="width: 135px;">
-					</div>
-
-					<div class="form-check form-check-rounded">
-						<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
-							<div class="form-head">
-								<p>Ready for some quotes? Enter your postcode now</p>
-							</div>
-
-							<div class="form-body">
-								<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode" maxlength="4">
-								<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode">
-								<input type="hidden" name="postcode" id="postcode" value="">
-								<input type="submit" value="Get 3 Quotes Now" class="btn btn-orange">
-							</div>
-						</form>
-					</div>
-				</div>
-			</div>
-
-			<style type="text/css">
+<div class="container inner-page">
+<div class="header">
+<div class="shell clearfix">
+<div class="header-right">
+<div class="logo"><a href="https://www.solarquotes.com.au/">SolarQuotes</a></div>
+<div class="header-right-inner">
+<span class="nav-mobile">
+<span>Menu</span>
+<span class="nav-mobile-burger">
+<span></span>
+<span></span>
+<span></span>
+</span>
+</span>
+</div>
+<div class="house">
+<img src="/img/house.png" alt="House">
+</div>
+<div class="house-mobile">
+<img src="/img/house-tablet.png" alt="House Tablet">
+</div>
+<div class="advantages">
+<h3>Find The Best Solar Deals In Australia</h3>
+<div class="arr-mobile"></div>
+<ul class="list-advantages">
+<li>3 Free, No Obligation, Solar Quotes</li>
+<li>From Fully Qualified Installers</li>
+<li>With 1000’s of Customer Reviews</li>
+<li>Competing for Your Business</li>
+</ul>
+</div>
+</div>
+<div class="person-desktop">
+<img src="/img/2014_02_images/person-tablet.png" alt="Finn Peacock Caricature" style="width: 135px;">
+</div>
+<div class="form-check form-check-rounded">
+<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
+<div class="form-head">
+<p>Ready for some quotes? Enter your postcode now</p>
+</div>
+<div class="form-body">
+<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode" maxlength="4">
+<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode">
+<input type="hidden" name="postcode" id="postcode" value="">
+<input type="submit" value="Get 3 Quotes Now" class="btn btn-orange">
+</div>
+</form>
+</div>
+</div>
+</div>
+<style type="text/css">
 	.mobile-search{
 		display: none;
 	}
@@ -267,13 +219,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="text/javascript">
 	$(document).ready(function(){
 		$('.mobile-search-image').click(function(){
-			doGoogleSearch($('#mobile-search-val'));
+			window.open(SQ_ROOT + "search/?addsearch=" + $('#mobile-search-val').val(),'_blank');
 		});
 		
 		$('#search-form').on('submit', function(event){
 			event.preventDefault();
 			event.stopPropagation();
-			doGoogleSearch($('#search-input-desktop'));
+			window.open(SQ_ROOT + "search/?addsearch=" + $('#search-input-desktop').val(),'_blank');
 			$(this).parent().removeClass('search-open');
 		});
 		
@@ -284,7 +236,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				if($input.val() == ''){
 					$(this).parent().removeClass('search-open');
 				}else{
-					doGoogleSearch($input);
+					window.open(SQ_ROOT + "search/?addsearch=" + $input.val(),'_blank');
 					$(this).parent().removeClass('search-open');
 				}
 			}else{
@@ -297,241 +249,181 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	});
 </script>
 <div class="nav">
-	<div class="shell">
-				<ul>
-			<li class="nav-menu-item"><a href="#">Menu<i class="icon-arrow-down"></i></a></li>
-			<li style="padding-left: 0px;"><a href="https://www.solarquotes.com.au/">home</a></li>
-			<li><a href="https://www.solarquotes.com.au/solar101.html" style="color:red;font-weight:bold;">start here</a></li>
-			<li><a href="https://www.solarquotes.com.au/testimonials.html">testimonials</a></li>
-			<li><a href="https://www.solarquotes.com.au/about-us.html">about</a></li>
-			<li><a href="https://www.solarquotes.com.au/faq.html">faq</a></li>
-			<li><a href="https://www.solarquotes.com.au/blog/">blog</a></li>
-			<li><a href="https://www.solarquotes.com.au/contact/">contact</a></li>
-			<li class="menu-search desktop-menu-item">
-				<form id="search-form">
-					<div style="text-align: right;">
-						<div class="desktop-search-container">
-							<input type="text" id="search-input-desktop" placeholder="Search...">
-						</div>
-					</div>
-				</form>
-				<a href="#" id="search">
-					<span>Search</span>
-				</a>
-			</li>
-			<li class="mobile-search">
-				<input type="text" name="search" id="mobile-search-val" placeholder="Search website...">				<div class="mobile-search-image"></div>
-
-			</li>
-		</ul>
-	</div>
+<div class="shell">
+<ul>
+<li class="nav-menu-item"><a href="#">Menu<i class="icon-arrow-down"></i></a></li>
+<li style="padding-left: 0px;"><a href="https://www.solarquotes.com.au/">home</a></li>
+<li><a href="https://www.solarquotes.com.au/solar101.html" style="color:red;font-weight:bold;">start here</a></li>
+<li><a href="https://www.solarquotes.com.au/testimonials.html">testimonials</a></li>
+<li><a href="https://www.solarquotes.com.au/about-us.html">about</a></li>
+<li><a href="https://support.solarquotes.com.au/hc/">faq</a></li>
+<li><a href="https://www.solarquotes.com.au/blog/">blog</a></li>
+<li><a href="https://www.solarquotes.com.au/contact/">contact</a></li>
+<li class="menu-search desktop-menu-item">
+<form id="search-form">
+<div style="text-align: right;">
+<div class="desktop-search-container">
+<input type="text" id="search-input-desktop" placeholder="Search...">
 </div>
-			<div class="main">
-				<div class="main_header"> <div style="height: 20px; width: 100%; position: relative;"> 	<div style="float: right; min-width: 350px;" class="addthis_toolbox addthis_default_style" addthis:url="http://www.solarquotes.com.au/privacy.html" addthis:title="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers" addthis:description="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers"> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> 		<a class="addthis_button_tweet"></a> 		<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>  		<a class="addthis_counter addthis_pill_style"></a>  	</div>  </div> <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script> <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=peacockmedia"></script> <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script><style type="text/css">.addthis_button_tweet{width: 80px !important;} .addthis_button_google_plusone{width: 80px !important;} </style><div class="cl"></div></div>
-									<div class="main_container">
-										<div class="shell">
-						<div class="content">
-	<div class="breadcrumb"><a href="/">Home </a> &gt; <a href="/privacy.html"> Privacy Policy </a></div>
-
+</div>
+</form>
+<a href="#" id="search">
+<span>Search</span>
+</a>
+</li>
+<li class="mobile-search">
+<input type="text" name="search" id="mobile-search-val" placeholder="Search website..."> <div class="mobile-search-image"></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="main">
+<div class="main_header"><div class="addthis_container"><div class="addthis_inline_share_toolbox_o4oj" style="text-align: center;" addthis:url="http://www.solarquotes.com.au/privacy.html" addthis:title="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers" addthis:description="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers"></div></div><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=peacockmedia"></script> <div class="cl"></div></div>
+<div class="main_container">
+<div class="shell">
+<div class="content">
+<div class="breadcrumb"><a href="/">Home </a> &gt; <a href="/privacy.html"> Privacy Policy </a></div>
 <h1 class="MsoTitle" style="margin-bottom: 18.0pt; mso-outline-level: 1;"><strong><a name="_GoBack"></a></strong>SolarQuotes Privacy Policy</h1>
-
 <p><strong>The details of our privacy policy are below. But here are our 4&nbsp;Golden Rules:</strong></p>
-
 <p><em>"If you ask for 3 quotes, your information will only be provided to a maximum of 3 solar power companies who serve your area. Each installer is only allowed to use your information to give you a solar quote.</em></p>
-
 <p><em>If you check the box saying you are looking for finance we will provide your information to Parker Lane&nbsp;to contact you about your solar finance options. We will only do this after you submit your request for a quote and you have consented to being contacted by Parker Lane. Parker Lane is a trading name of Upside Downside Pty Ltd Australian Credit License number 482276, and has appointed us as its corporate credit representative. Our credit representative number is 482276</em>&nbsp;<em>. We will receive a fee for a successful referral to Parker Lane&nbsp;which results in a loan. Parker Lane&nbsp;is required to disclose any fee payable to us in their documentation to you.&nbsp;&nbsp;</em></p>
-
 <p><em>We hate spam as much as you do. We will never pass your information on to anyone except the 3 solar installers and Parker Lane unless you give us your explicit permission to do so.</em></p>
-
 <p><em>We will send you emails walking you through the solar buying process, asking you for feedback and may send updates on the solar industry and occasional offers that we think may be of interest to you. Every email will have a prominent unsubscribe link if you don't want to receive them any more."</em></p>
-
 <p>&nbsp;</p>
-
 <p><strong>And here's the full monty:</strong></p>
-
 <p align="center" class="CorrNumbering"><strong>PRIVACY POLICY</strong></p>
-
 <p style="margin-left: 30px;">1. We are committed to protecting your privacy. We have set out what information we collect about you when you visit our website and how we use that information below.</p>
-
 <p style="margin-left: 30px;">2. When&nbsp;you visit our website, we may collect certain information for analysis purposes, including—</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; how many times you visit our website, what pages you view, and how long you stay on our website;</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; details about what kind of browser and other software you are using to visit our website; and</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">2.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your IP address.</p>
-
 <p style="margin-left: 30px;">3. We may use cookies to:</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">3.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; enable us to monitor traffic patterns, user actions (like how many people submit a form) and to identify your computer when you return to our website. Cookies do not identify you personally, but they do identify your computer. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may not be able to use certain features of our website.</p>
-
-<p class="CorrNumbering" style="margin-left: 60px;">3.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; engage in remarketing to market our sites across the web. Users with a remarketing cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>) or you can opt out of just the Google Remarketing program by using the Google Ad Preference manager: <a href="http://www.networkadvertising.org/managing/opt_out.asp.">http://www.networkadvertising.org/managing/opt_out.asp.</a>&nbsp; You can also use the&nbsp;<a href="http://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>&nbsp;tool to opt out of the Google Remarketing program.</p>
-
+<p class="CorrNumbering" style="margin-left: 60px;">3.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; engage in remarketing to market our sites across the web. Users with a remarketing cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (<a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>) or you can opt out of just the Google Remarketing program by using the <a href="https://support.google.com/ads/answer/2662922?hl=en">Google Ad Preference manager</a>&nbsp; You can also use the&nbsp;<a href="http://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>&nbsp;tool to opt out of the Google Remarketing program.</p>
 <p style="margin-left: 30px;">4.If you choose to provide us your details using the 'Get a Quote' form, we will collect the information that you provide using that form, including—</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; your name, addresses (including personal, postal, and prospective installation addresses), phone number, and e-mail address;</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether you are interested in a solar electricity system or a solar hot water system;</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; what time frame you have for purchasing such a system;</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether or not you own the roof space where such a system would be installed;</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; details about the roof space where such a system would be installed (such as the size of the roof, which direction it is facing, what type of roof it is, the slope of the roof, how many storeys is the relevant building);</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; what requirements you have with respect to the system (including minimum power output and certain other features); and</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any other details that you choose to provide to us using the form;</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">4.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and use it for the purpose of matching you with suitable suppliers, who will then contact you with the information that you provided to give you a quote.&nbsp;We will also provide your information to [Upside] to contact you about your solar finance options. You can access Parker Lane's&nbsp;privacy policy here [create link].&nbsp;Please note that we do not operate or control the websites of any supplier, and we are not responsible for their privacy practices. We encourage you to read and understand the privacy policies of any website that collects personal information.</p>
-
 <p style="margin-left: 30px;">5. We will only collect your personal information by lawful and fair means.</p>
-
 <p style="margin-left: 30px;">6. We may store the information that you provide us (as described at Clause 4) on servers hosted overseas when carrying out any of the uses described in this Policy.</p>
-
 <p style="margin-left: 30px;">7. If you choose to provide us with a review of our service or of the goods or services you receive from one of a supplier, we may store that review and post it to our website.</p>
-
 <p style="margin-left: 30px;">8. If you provide us with your name and e-mail address we will store your name and e-mail address and use it to send you occasional newsletter emails until such time as you inform us that you want to unsubscribe using the unsubscribe link at the end of every newsletter email.</p>
-
 <p style="margin-left: 30px;">9. We may monitor the content of any e-mail you send to us for troubleshooting or maintenance purposes, or if we suspect any form of e-mail abuse. We will preserve the content of any e-mail you send to us if we believe we have the legal requirement to do so.</p>
-
 <p style="margin-left: 30px;">10. Except as specified above, we will not, without your permission, sell or otherwise provide your personal information to a third party, or make any other use of your personal information, for any purpose that is not incidental to your use of our website. To avoid doubt, we will never use your personal information for any purpose not listed in this Policy, or that a reasonable person in your position would not expect.</p>
-
 <p style="margin-left: 30px;">11. In certain circumstances, we may aggregate the personal information that we store for the purposes of analysis, but, if we do, we will ensure that the information is made anonymous first.</p>
-
 <p style="margin-left: 30px;">12. If you request us not to use personal information in a particular matter or at all, we will&nbsp;comply with your request. However, we may still use your information if—</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">12.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; we subsequently notify you of the intended use of your information and you&nbsp;consent to that use; or</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">12.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; we believe that the use of your information is reasonably necessary to assist a law enforcement agency or an agency responsible for government or public security in the performance of its functions; or</p>
-
 <p class="CorrNumbering" style="margin-left: 60px;">12.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; we are required by law to do so.</p>
-
 <p style="margin-left: 30px;">13. If you request us not to use personal information in a particular matter or at all, and that personal information has been disclosed to an overseas recipient (as described at Clause 6), we will take all reasonable steps to comply with your request.</p>
-
 <p style="margin-left: 30px;">14. We will keep all of your personal information confidential to the best of our ability while it is in our possession. However, we cannot and do not guarantee the security of your personal information as it is passing over the Internet.</p>
-
 <p style="margin-left: 30px;">15. You are entitled to have access to any of the personal information that you have previously supplied to us and that is in our possession, and you are entitled to change or delete such information except where we are required by law to retain it.</p>
-
 <p style="margin-left: 30px;">16. If you want to ask a question or make a comment about our privacy policy, or if you want to inquire about any of your personal information that may be in our possession, or you want to modify or delete any of your personal information that may be in our possession, please contact us here: <a href="https://www.solarquotes.com.au/contact.php">www.solarquotes.com.au/contact.php</a> or via email: privacy@solarquotes.com.au or by phone 08 7200 0177&nbsp;or at our address: PO Box 470, Brighton, SA 5048.&nbsp;</p>
-
 <p style="margin-left: 30px;">Peacock Media Group P/L,&nbsp;ACN:&nbsp;140 645 932</p>
-
 <p>&nbsp;</p>
-
 <p class="LDStandard2"><span style="text-indent: 0cm;">&nbsp;</span></p>
 </div>
-						<div class="cl"></div> <div style="height: 20px; width: 100%; position: relative;"> 	<div style="" class="addthis_toolbox addthis_default_style" addthis:url="http://www.solarquotes.com.au/privacy.html" addthis:title="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers" addthis:description="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers"> <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a> 		<a class="addthis_button_tweet"></a> 		<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>  		<a class="addthis_counter addthis_pill_style"></a>  	</div>  </div> <script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script> <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=peacockmedia"></script> <script type="text/javascript" src="//apis.google.com/js/plusone.js"></script><style type="text/css">.addthis_button_tweet{width: 80px !important;} .addthis_button_google_plusone{width: 80px !important;} </style>					</div>
-				</div>
-			</div>
-
-			<div class="footer">
-				<div class="footer-top">
-	<span class="footer-left-bg"></span>
-
-	<div class="shell">
-		<span class="footer-right-bg"><img src="/img/2014_02_images/arrow-footer.png" alt="Footer"></span>
-		<div class="footer-nav">
-			<div class="footer-cols">
-
-				<div class="footer-col col-small">
-					<div class="footer-title"><a href="https://www.solarquotes.com.au/panels/">solar panels</a></div>
-
-					<ul>
-						<li><a href="https://www.solarquotes.com.au/panels/comparison/">Compare Panels</a></li>
-						<li><a href="https://www.solarquotes.com.au/panels/reviews/">Panel Reviews</a></li>
-						<li><a href="https://www.solarquotes.com.au/panels/cost/">Cost</a></li>
-						<li class="form-search-container">
-							<div class="form-search">
-								<form action="#">
-									<input type="text" class="field field-search" placeholder="Search..." title="Search..." id="cse-search-input-box-id">
-									<input type="submit" value="Go" name="search" class="btn btn-green">
-								</form>
-							</div>
-						</li>
-					</ul>
-				</div>
-
-				<div class="footer-col">
-					<div class="footer-title"><a href="https://www.solarquotes.com.au/inverters/">inverters</a></div>
-
-					<ul>
-						<li><a href="https://www.solarquotes.com.au/inverters/comparison/chart/">Compare Inverters</a></li>
-						<li><a href="https://www.solarquotes.com.au/inverters/reviews/">Inverter Reviews</a></li>
-						<li><a href="https://www.solarquotes.com.au/inverters/micro/">Micro Inverters</a></li>
-					</ul>
-				</div>
-
-				<div class="footer-col col-xsmall">
-					<div class="footer-title"><a href="https://www.solarquotes.com.au/systems/">systems</a></div>
-
-					<ul>
-						<li><a href="https://www.solarquotes.com.au/systems/upgrade/">Upgrades</a></li>
-						<li><a href="https://www.solarquotes.com.au/systems/feed-in-tariffs/">Feed In Tariffs</a></li>
-						<li><a href="https://www.solarquotes.com.au/panels/rebate/">Rebates</a></li>
-					</ul>
-				</div>
-
-				<div class="footer-col col-xlarge">
-					<div class="footer-title"><a href="https://www.solarquotes.com.au/installers/">installers</a></div>
-
-					<ul>
-						<li><a href="https://www.solarquotes.com.au/installers/">Installer Reviews</a></li>
-						<li><a href="https://www.solarquotes.com.au/solar-installer-ratings.html">Leaderboard</a></li>
-						<li><a href="https://www.solarquotes.com.au/suppliers.html">Installers Join Now!</a></li>
-					</ul>
-				</div>
-
-				<div class="footer-col col-xxlarge">
-					<div class="footer-title">tools</div>
-
-					<ul>
-						<li><a href="https://www.solarquotes.com.au/calc5/index.php">Solar Power Calculator</a></li>
-						<li><a href="https://www.solarquotes.com.au/battery-storage/comparison-table/">Battery Comparison Table</a></li>
-						<li><a href="https://www.solarquotes.com.au/energy/">Compare Feed In Tariffs</a></li>
-						<li><a href="https://www.solarquotes.com.au/solar-power-panel-estimator-2.htm">Solar Roof Estimator</a></li>
-					</ul>
-				</div>
-			</div>
-
-			<div class="socials">
-				<a href="//www.facebook.com/solarquotes" class="icon-facebook" target="_blank">facebook</a>
-				<a href="//www.twitter.com/solar_quotes" class="icon-twitter" target="_blank">twitter</a>
-				<a href="//plus.google.com/+SolarQuotesAU" class="icon-google" target="_blank">google</a>
-				<a href="http://feeds.feedburner.com/SolarPowerPanels" class="icon-rss" target="_blank">rss</a>
-				<a href="//youtube.com/solarquotesaustralia" class="icon-youtube" target="_blank">youtube</a>
-				<a href="//www.pinterest.com/solarquotes/" class="icon-pinterest" target="_blank">pinterest</a>
-			</div>
-		</div>
-
-		<div class="form-check">
-			<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
-				<div class="form-row">
-					<label for="postcode" class="form-label">Ready for some quotes? Enter your postcode now</label>
-					<div class="form-controls">
-						<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1" maxlength="4">
-						<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1">
-						<input type="hidden" name="postcode" id="postcode" value="">
-						<input type="submit" value="Get 3 Quotes Now" class="btn btn-orange">
-					</div>
-				</div>
-			</form>
-		</div>
-	</div>
+<div class="cl"></div><div class="addthis_container"><div class="addthis_inline_share_toolbox_o4oj" style="text-align: center;" addthis:url="http://www.solarquotes.com.au/privacy.html" addthis:title="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers" addthis:description="Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers"></div></div><script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=peacockmedia"></script> </div>
 </div>
-
+</div>
+<div class="footer">
+<div class="footer-top">
+<span class="footer-left-bg"></span>
+<div class="shell">
+<span class="footer-right-bg"><img src="/img/2014_02_images/arrow-footer.png" alt="Footer"></span>
+<div class="footer-nav">
+<div class="footer-cols">
+<div class="footer-col col-small">
+<div class="footer-title"><a href="https://www.solarquotes.com.au/panels/">solar panels</a></div>
+<ul>
+<li><a href="https://www.solarquotes.com.au/panels/comparison/">Compare Panels</a></li>
+<li><a href="https://www.solarquotes.com.au/panels/reviews/">Panel Reviews</a></li>
+<li><a href="https://www.solarquotes.com.au/panels/cost/">Cost</a></li>
+<li class="form-search-container">
+<div class="form-search">
+<form action="#">
+<input type="text" class="field field-search" placeholder="Search..." title="Search..." id="cse-search-input-box-id">
+<input type="submit" value="Go" name="search" class="btn btn-green">
+</form>
+</div>
+</li>
+</ul>
+</div>
+<div class="footer-col">
+<div class="footer-title"><a href="https://www.solarquotes.com.au/inverters/">inverters</a></div>
+<ul>
+<li><a href="https://www.solarquotes.com.au/inverters/comparison/chart/">Compare Inverters</a></li>
+<li><a href="https://www.solarquotes.com.au/inverters/reviews/">Inverter Reviews</a></li>
+<li><a href="https://www.solarquotes.com.au/inverters/micro/">Micro Inverters</a></li>
+</ul>
+</div>
+<div class="footer-col col-xsmall">
+<div class="footer-title"><a href="https://www.solarquotes.com.au/systems/">systems</a></div>
+<ul>
+<li><a href="https://www.solarquotes.com.au/systems/upgrade/">Upgrades</a></li>
+<li><a href="https://www.solarquotes.com.au/systems/feed-in-tariffs/">Feed In Tariffs</a></li>
+<li><a href="https://www.solarquotes.com.au/panels/rebate/">Rebates</a></li>
+</ul>
+</div>
+<div class="footer-col col-xlarge">
+<div class="footer-title"><a href="https://www.solarquotes.com.au/installers/">installers</a></div>
+<ul>
+<li><a href="https://www.solarquotes.com.au/installers/">Installer Reviews</a></li>
+<li><a href="https://www.solarquotes.com.au/solar-installer-ratings.html">Leaderboard</a></li>
+<li class="highlighted-foot-item"><a href="https://www.solarquotes.com.au/supplier.html">Installers Join Now!</a></li>
+</ul>
+</div>
+<div class="footer-col col-xxlarge">
+<div class="footer-title">tools</div>
+<ul>
+<li><a href="https://www.solarquotes.com.au/calc5/index.php">Solar Power Calculator</a></li>
+<li><a href="https://www.solarquotes.com.au/battery-storage/comparison-table/">Battery Comparison Table</a></li>
+<li><a href="https://www.solarquotes.com.au/energy/">Compare Feed In Tariffs</a></li>
+<li><a href="https://www.solarquotes.com.au/solar-power-panel-estimator-2.htm">Solar Roof Estimator</a></li>
+</ul>
+</div>
+</div>
+<div class="socials">
+<a href="//www.facebook.com/solarquotes" class="icon-facebook" target="_blank">facebook</a>
+<a href="//www.twitter.com/solar_quotes" class="icon-twitter" target="_blank">twitter</a>
+<a href="//plus.google.com/+SolarQuotesAU" class="icon-google" target="_blank">google</a>
+<a href="http://feeds.feedburner.com/SolarPowerPanels" class="icon-rss" target="_blank">rss</a>
+<a href="//youtube.com/solarquotesaustralia" class="icon-youtube" target="_blank">youtube</a>
+<a href="//www.pinterest.com/solarquotes/" class="icon-pinterest" target="_blank">pinterest</a>
+</div>
+</div>
+<div class="form-check">
+<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
+<div class="form-row">
+<label for="postcode" class="form-label">Ready for some quotes? Enter your postcode now</label>
+<div class="form-controls">
+<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1" maxlength="4">
+<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1">
+<input type="hidden" name="postcode" id="postcode" value="">
+<input type="submit" value="Get 3 Quotes Now" class="btn btn-orange">
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
 <div class="footer-bottom">
-	<div class="shell">
-		<p class="copyrights">© 2009 to 2017 Peacock Media Group</p>
-		<ul>
-			<li><a href="https://www.solarquotes.com.au/supplier/login.php" rel="nofollow">Login</a></li>
-			<li><a href="https://www.solarquotes.com.au/sitemap.html">Sitemap</a></li>
-			<li><a href="https://www.solarquotes.com.au/privacy.html">Privacy Policy</a></li>
-			<li><a href="https://www.solarquotes.com.au/terms-of-use.html">Terms Of Use</a></li>
-			<li><a href="https://www.solarquotes.com.au/collection-statement.html">Collection Statement</a></li>
-		</ul>
-	</div>
-	</div>
+<div class="shell">
+<p class="copyrights">© 2009 to 2018 Peacock Media Group</p>
+<ul>
+<li><a href="https://www.solarquotes.com.au/supplier/login.php" rel="nofollow">Login</a></li>
+<li><a href="https://www.solarquotes.com.au/sitemap.html">Sitemap</a></li>
+<li><a href="https://www.solarquotes.com.au/privacy.html">Privacy Policy</a></li>
+<li><a href="https://www.solarquotes.com.au/terms-of-use.html">Terms Of Use</a></li>
+<li><a href="https://www.solarquotes.com.au/collection-statement.html">Collection Statement</a></li>
+</ul>
+</div>
+</div>
 <script type="text/javascript">
 		/* <![CDATA[ */
 		var google_conversion_id = 1038438013;
@@ -542,8 +434,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		var google_conversion_value = 0;
 		/* ]]> */
 	</script>
-	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-	<noscript>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
 		<div style="display:inline;">
 			<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1038438013/?label=B1NkCIOF7AEQ_ZyV7wM&amp;guid=ON&amp;script=0"/>
 		</div>
@@ -625,44 +517,41 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	}
 </script>
 <div class="postcode-box-popup">
-	<div class="pbp-header"><a href="#" class="ui-dialog-titlebar-close ui-corner-all pbp-close" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div>
-	<div class="php-content">
-		<div class="php-content-title">&nbsp;To get your quotes, please enter your postcode:&nbsp;</div>
-		<div class="pbp-postcode-container"><input type="text" placeholder="Your Postcode" pattern="\d*" id="pbp-postcode" maxlength="4"></div>
-		<div class="pbp-button-container"><input type="button" class="pbp-button" value="">&nbsp;</div>
-	</div>
-</div>			</div>
-			<div class="banner-mobile">
-				<div class="banner-image">
-					<img src="/img/2014_02_images/saveup-image.png" height="54" width="43" alt="Solar Panel Icon">
-				</div>
-
-				<div class="banner-content">
-					<p>Discover Great. <br> Local Solar Deals</p>
-				</div>
-
-				<div class="banner-actions">
-					<a href="https://www.solarquotes.com.au/quote/" class="btn btn-yellow-mobile">Get 3 solar<br> quotes now »</a>				</div>
-			</div>
-			<div id="_result_dialog" style="display: none;min-height: 80%;z-index:20000;">
-				<div id="_results_container">
-					<gcse:searchbox-only newwindow="true"></gcse:searchbox-only>
-				</div>
-			</div>
-
-		</div>
-
-		<script type="text/javascript">
+<div class="pbp-header"><a href="#" class="ui-dialog-titlebar-close ui-corner-all pbp-close" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div>
+<div class="php-content">
+<div class="php-content-title">&nbsp;To get your quotes, please enter your postcode:&nbsp;</div>
+<div class="pbp-postcode-container"><input type="text" placeholder="Your Postcode" pattern="\d*" id="pbp-postcode" maxlength="4"></div>
+<div class="pbp-button-container"><input type="button" class="pbp-button" value="">&nbsp;</div>
+</div>
+</div> </div>
+<div class="banner-mobile">
+<div class="banner-content">
+<p><strong>Ready to get quotes for solar?</strong></p>
+<p>Get up to <em>3 FREE</em> quotes <br> through our service</p>
+</div>
+<div class="banner-content-second">
+<p><strong>We carefully pre-vet </strong>All of</p>
+<p>Our installers and your <br> quotes are zero-obligation</p>
+</div>
+<div class="banner-actions">
+<a href="https://www.solarquotes.com.au/quote/" class="btn btn-yellow-mobile">Get quotes</a> </div>
+</div>
+<div id="_result_dialog" style="display: none;min-height: 80%;z-index:20000;">
+<div id="_results_container">
+<gcse:searchbox-only newwindow="true"></gcse:searchbox-only>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 			if (navigator.userAgent.indexOf('Chrome') != -1 && navigator.userAgent.indexOf('Mac') != -1 && navigator.userAgent.indexOf('Safari') != -1) {
 				$('html').addClass('chrome-mac');
 			}
 		</script>
-
-		<style type="text/css">
+<style type="text/css">
 			.chrome-mac strong, .chrome-mac b{
 				font-family: 'Helvetica Neue Medium';
 				font-weight: normal;
 			}
 		</style>
-	
+
 </body></html>
