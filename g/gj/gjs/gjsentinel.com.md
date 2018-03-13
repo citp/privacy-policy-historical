@@ -1,40 +1,30 @@
-> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922111116id_/http%3A//www.gjsentinel.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gjsentinel.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313015726id_/https%3A//www.gjsentinel.com/site/privacy.html) for the most accurate reproduction.*
 
-# GJSentinel.com
+# Privacy Policy | Site | gjsentinel.com
 
-## Privacy Policy
+We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. Please read our privacy policy below for further details.  
 
-LAST UPDATED: DECEMBER 2, 2009
-
-We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. Please read our privacy policy below for further details.  
- 
-
-  * CHILDREN’S PRIVACY
-  * TYPES OF INFORMATION WE COLLECT
-  * DISCLOSURE OF INFORMATION
-  * SHOPPING
-  * OPTING OUT
-  * STORAGE OF INFORMATION
-  * CHANGES TO THIS PRIVACY POLICY
+  * [CHILDREN’S PRIVACY](http://www.gjsentinel.com/help/privacy_policy/#children)
+  * [TYPES OF INFORMATION WE COLLECT](http://www.gjsentinel.com/help/privacy_policy/#collect)
+  * [DISCLOSURE OF INFORMATION](http://www.gjsentinel.com/help/privacy_policy/#disclosure)
+  * [SHOPPING](http://www.gjsentinel.com/help/privacy_policy/#shopping)
+  * [OPTING OUT](http://www.gjsentinel.com/help/privacy_policy/#optout)
+  * [STORAGE OF INFORMATION](http://www.gjsentinel.com/help/privacy_policy/#storage)
+  * [CHANGES TO THIS PRIVACY POLICY](http://www.gjsentinel.com/help/privacy_policy/#changes)
 
 
 
 GJSentinel.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Seaton Publishing Company, Inc., Grand Junction Media, Inc., d/b/a The Daily Sentinel (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Content Director:
 
-Duffy Hayes  
-Web Editor  
-GJSentinel.com  
-734 S. 7th Street  
-Grand Junction, CO 81501  
-Email: [duffy.hayes@gjsentinel.com](mailto:duffy.hayes@gjsentinel.com)
+Duffy Hayes Web Editor GJSentinel.com 734 S. 7th Street Grand Junction, CO 81501 Email: [duffy.hayes@gjsentinel.com](mailto:duffy.hayes@gjsentinel.com)
 
-**CHILDREN’S PRIVACY**
+ **CHILDREN’S PRIVACY**
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won’t knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
 
-Back to top
+[Back to top](http://www.gjsentinel.com/help/privacy_policy/#top)
 
-**TYPES OF INFORMATION WE COLLECT**
+ **TYPES OF INFORMATION WE COLLECT**
 
 The information we gather falls into two categories: (1) information (for example, your name and address) that you voluntarily supply when you register or initiate transactions, and (2) information gathered on usage patterns and preferences as visitors navigate through our sites, use our services such as free email, or read our email newsletters. In some cases, it its an agent or affiliate of ours that collects the information on our behalf. Third party providers featured on or linked to by our site, such as vendors of products and services offered through our site, may be gathering the same kinds of information.
 
@@ -54,9 +44,9 @@ Other Methods of Collecting Information. Our web pages may contain electronic im
 
 Browser Level Information and IP Addresses. Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you’re running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site (including our ads) to the interests of our users, and to measure traffic within our site. To improve your ad experience, we may send non-personal information to Yahoo!, an ad network partner that displays ads on this site. Such information is based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information it gathers regarding its own users to select which ads to display on this site. Please click this link <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html> to learn more about Yahoo!‘s ad practices, including how to opt out of Yahoo! using anonymous information to select which ads to show you.
 
-Back to top
+[Back to top](http://www.gjsentinel.com/help/privacy_policy/#top)
 
-**DISCLOSURE OF INFORMATION**
+ **DISCLOSURE OF INFORMATION**
 
 Why we want to know. As with any business, it’s important for us to know our customers—their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. It’s like prime-time television, only better for you! Since we make most of this site available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our site. Advertisers are like most people: They expect something in return for the money they spend. They want to know how many people will see their ad and how often—in other words, how effective their ad is likely to be. So it’s important that we be able to tell advertisers who our audience is.
 
@@ -70,17 +60,17 @@ Sites to Which We Link. Of course, our site includes links to plenty of other we
 
 Other Disclosures. We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our sites, the public, our customers, or our company and its employees, agents, partners and affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that our company, or the bulk of our assets relating to this site, is acquired by another company, information on our visitors would be among the transferred assets.
 
-Back to top
+[Back to top](http://www.gjsentinel.com/help/privacy_policy/#top)
 
-**SHOPPING**
+ **SHOPPING**
 
 When you are ready to make a purchase on our site, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and email), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password). You will be able to review, update, or delete the information you have provided us (except, of course any information that we do not store) at any time by accessing your account on our site.
 
 We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our Provider Partners to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. We may share non-financial information with our Provider Partners in accordance with this Privacy Policy. If you consent (for example, by checking a box or by some other means), we will make your information available to third parties so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.
 
-Back to top
+[Back to top](http://www.gjsentinel.com/help/privacy_policy/#top)
 
-**OPTING OUT**
+ **OPTING OUT**
 
 If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as free email). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please email Duffy Hayes at [duffy.hayes@gjsentinel.com](mailto:duffy.hayes@gjsentinel.com).
 
@@ -88,16 +78,14 @@ If you have subscribed to one of our email newsletters, you will always have the
 
 If you have submitted your information on a page provided in conjunction with one of our Provider Partners, the information you submit may be jointly maintained by us and the Provider Partner. If you decide to opt out on our site, you may also need to contact the Provider Partner separately to request the Provider Partner to remove your information from its database.
 
-Back to top
+[Back to top](http://www.gjsentinel.com/help/privacy_policy/#top)
 
-**STORAGE OF INFORMATION**
+ **STORAGE OF INFORMATION**
 
 All information gathered on our site is stored within a database operated by us or by a contractor on our behalf. Sensitive information, such as your password is encrypted for storage. For e-commerce transactions, in certain instances we may transmit your billing information using encryption. Encryption scrambles your credit card number and personal information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet.
 
-Back to top
+[Back to top](http://www.gjsentinel.com/help/privacy_policy/#top)
 
-**CHANGES TO THIS PRIVACY POLICY**
+ **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we’ll post the changes before they take effect.
-
-Back to top
