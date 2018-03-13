@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchdubbed.net privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214201954id_/http%3A//watchdubbed.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdubbed.net privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313103831id_/http%3A//watchdubbed.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WatchDubbed
 
