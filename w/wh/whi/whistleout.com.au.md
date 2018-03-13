@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730002524id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313051851id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WhistleOut
 
@@ -28,9 +28,18 @@ This policy applies to independent contractors and job applicants, as well as in
 
 WhistleOut will only collect Personal Information where the information is necessary for WhistleOut to perform one or more of its functions or activities. In this context, "collect" means gather, acquire or obtain by any means, information in circumstances where the individual is identifiable or identified.
 
-Where possible, we collect your personal information directly from you. If you feel that the information that we are requesting, either from our website (www.whistleout.com.au) or our sub domains', or in our discussions with you, is not information that you wish to provide, please feel free to raise this with us.
+Where possible, we collect your personal information directly from you, for example when: 
 
-WhistleOut collects Personal Information primarily to refer you to suppliers of products and services from companies listed on https://www.whistleout.com.au/ or a sub domain. This is a free and completely optional service. We will collect at a minimum: 
+  * you contact us by phone, email or online;
+  * we place an order with a Service Provider for you;
+  * you inquire about a product or service displayed on our website
+  * you sign up for a promotion or you opt in to receive product information or alerts;
+
+
+
+If you feel that the information that we are requesting, either from our website (www.whistleout.com.au) or our sub domains', or in our discussions with you, is not information that you wish to provide, please feel free to raise this with us.
+
+WhistleOut collects Personal Information primarily to place an order or refer you to suppliers of products and services from companies listed on https://www.whistleout.com.au/, or a sub domain. This is a free and completely optional service. We will collect at a minimum: 
 
   * name of the contact person;
   * email address and phone number;
@@ -97,7 +106,7 @@ When dealing with job applicants, WhistleOut collects this information in the co
 
 We will not use your personal information for any purpose which is not related to the Primary Purpose for which it is collected. This includes:
 
-  * a free and completely optional service to refer you to the supplier of the products and services that you requested;
+  * a free and completely optional service to place an order or refer you to the supplier of the products and services that you requested;
   * to provide you with further information about the products and services you requested;
   * to personalise and customise your experiences with WhistleOut;
   * to help WhistleOut to review, manage and enhance its services;
@@ -106,9 +115,9 @@ We will not use your personal information for any purpose which is not related t
 
 
 
-If you go to a third party's website via WhistleOut to complete a purchase, all information required by the seller of the product is collected from you, by the seller, using application forms on their site or via email phone (as relevant) and not collected by WhistleOut.
+If you go to a third party's website via WhistleOut to complete a purchase, all information required by the seller of the product is collected from you, by the seller, using application forms on their site, via email or phone (as relevant) and not collected by WhistleOut.
 
-For example, WhistleOut provides an optional enquiry form on a range of financial and telecommunications products which is passed directly to WhistleOut's supplier listed in the enquiry form. The supplier and product will be clearly identified in the enquiry form and the personal information submitted in the form will be used by the supplier to provide a personalised follow up call about your requirements. The personal information that you submit in this enquiry form is subject to the terms and conditions of this privacy policy. Enquiries in this category are only submitted to WhistleOut's supplier for the purposes of follow up on tour request and are not used by any third party partners in other categories.
+For example, WhistleOut provides an optional enquiry form on a range of telecommunications products which is passed directly to the Service Provider listed in the enquiry form. The Service providers and product will be clearly identified in the enquiry form and the personal information submitted in the form will be used by the Service Provider to provide a personalised follow up call about your requirements. The personal information that you submit in this enquiry form is subject to the terms and conditions of this privacy policy. Enquiries in this category are only submitted to the Service Provider for the purposes of follow up on tour request and are not used by any third party partners in other categories.
 
 In addition to the Primary Purpose, we may use the Personal Information we collect and you consent to WhistleOut using your Personal Information to:
 
@@ -139,8 +148,10 @@ For example, WhistleOut provides a function that allows you to request a call ba
 
 WhistleOut may disclose Personal Information and your consent to us disclosing such Personal Information to:
 
+  * the third party supplier of the products and services that you requested;
   * third parties engaged by WhistleOut to perform functions or provide products or services on our or their behalf such as fulfilment of discounts deals, marketing or advertising;
-  * persons authorised by you to receive information held by WhistleOut; and
+  * persons authorised by you to receive information held by WhistleOut;
+  * law enforcement agencies or government authorities; and
   * any persons as required or permitted by any law.
 
 
@@ -158,6 +169,10 @@ You will generally be given the opportunity to "opt out" from receiving communic
 ## Access and Corrections to your Personal information
 
 You have a right to access your Personal Information, subject to certain exceptions provided for in the Act. If you require access to your Personal Information, please contact [privacy@whistleout.com](mailto:privacy@whistleout.com). You are required to put your request in writing and provide proof of identity. You may, upon inspection of the Personal Information we hold about you, write to us to correct any errors in the Personal Information.
+
+## Unsubscribe from Marketing Communications
+
+You can let us know at any time if you no longer wish to receive marketing communications from WhistleOut. Please use the unsubscribe link contained in all of our email communications or by emailing privacy@whistleout.com. 
 
 * * *
 
