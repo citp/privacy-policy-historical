@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbrand.com privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506064615id_/https%3A//dbrand.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbrand.com privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313150745id_/https%3A//dbrand.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » dbrand
 
