@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611054136id_/https%3A//www.mastercard.com.au/en-au/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313040332id_/https%3A//www.mastercard.com.au/en-au/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
 
 # Mastercard Privacy Policy | Global Privacy Notice
 
@@ -6,7 +6,7 @@ Mastercard International Incorporated and its affiliates (collectively, "Masterc
 
 Mastercard entities responsible for the collection and use of your personal information for the purposes described in this Global Privacy Notice are indicated in the How to Contact Us section of this document.
 
-Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
+Our privacy practices may vary among the locations in which we operate to reflect local practices and legal requirements.
 
 ## Personal Information We Collect
 
@@ -107,9 +107,9 @@ If you provide us with any information or material relating to another individua
 
 ## International Data Transfers
 
-We may transfer the personal information we collect about you to recipients in countries other than the country in which the information was originally collected, including the United States of America. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Global Privacy Notice or as otherwise disclosed to you at the time the data is collected (e.g. via program specific privacy notice).
+We may transfer the personal information we collect about you to recipients in locations other than the location in which the information was originally collected, including the United States of America. Those locations may not have the same data protection laws as the location in which you initially provided the information. When we transfer your information to other locations, we will protect that information as described in this Global Privacy Notice or as otherwise disclosed to you at the time the data is collected (e.g. via program specific privacy notice).
 
-Mastercard is a global business. To offer our services, we may need to transfer your personal information among several countries, including the United States, where we are headquartered. We comply with applicable legal requirements providing adequate safeguards for the transfer of personal information to countries outside of the European Economic Area ("EEA") or Switzerland.  
+Mastercard is a global business. To offer our services, we may need to transfer your personal information among several locations, including the United States, where we are headquartered. We comply with applicable legal requirements providing adequate safeguards for the transfer of personal information to locations outside of the European Economic Area ("EEA") or Switzerland.  
 
 In particular, we have established and implemented a set of Binding Corporate Rules (“BCRs”) that have been recognised by EEA data protection authorities as providing an adequate level of protection to the personal information we process globally. A copy of our BCRs is available [here](https://web.archive.org/content/dam/mccom/global/documents/mastercard-bcrs-february-2017.pdf "BCR").
 
