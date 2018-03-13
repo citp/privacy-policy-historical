@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173548id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313175418id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goodlife Health Clubs
 
@@ -63,7 +63,7 @@ Some of our venues have surveillance cameras which may capture your image on fil
 
 ### 5\. ACCESS BY CHILDREN
 
-As we cannot distinguish the age of people accessing our websites, our Privacy Policy applies to all individuals. If a person under sixteen years of age has provided us with personal information without parental or guardian consent, those details may be removed by emailing us at reception@goodlife.com.au 
+As we cannot distinguish the age of people accessing our websites, our Privacy Policy applies to all individuals. If a person under sixteen years of age has provided us with personal information without parental or guardian consent, those details may be removed by emailing us at reception@goodlife.com.au
 
 ### 6\. HOW WE USE YOUR PERSONAL INFORMATION
 
