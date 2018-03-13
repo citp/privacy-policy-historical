@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223045011id_/https%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313180336id_/https%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motley Fool Australia
 
 **Privacy Policy**
 
-The Motley Fool Australia Pty Ltd ACN 146 988 052, (“The Motley Fool”, “we”, “our” or “us”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy. This Privacy Policy sets out The Motley Fool’s current data processing practices including how we collect, hold, use and disclose your personal information. If you have any queries or concerns regarding these practices, please contact us via email at [membersupportAU@fool.com.au](mailto:membersupportAU@fool.com.au)
+Our Privacy Policy outlines how we collect and handle your personal information. References to ‘TMF’, ‘The Motley Fool’, ‘we’, ‘our’ and ‘us’ refer to The Motley Fool Australia and its related companies, including The Capital Club.
+
+The Motley Fool Australia Pty Ltd ACN 146 988 052, takes the issue of privacy very seriously and is committed to protecting and respecting your privacy. This Privacy Policy sets out The Motley Fool’s current data processing practices including how we collect, hold, use and disclose your personal information. If you have any queries or concerns regarding these practices, please contact us via email at [membersupportAU@fool.com.au](mailto:membersupportAU@fool.com.au)
 
 **The Information We Collect**
 
@@ -56,7 +58,7 @@ At The Motley Fool and our affiliated websites cookies are primarily used in the
 
   * To automatically access your previously stored account information, so that we don’t ask for your information multiple times.
   * To estimate our audience size and usage patterns.
-  * TO ENABLE ADVERTISING PARTNERSHIPS FOR OUR PRODUCTS 
+  * TO ENABLE ADVERTISING PARTNERSHIPS FOR OUR PRODUCTS
   * 
 
 
@@ -108,4 +110,4 @@ If you follow or click on links to any third party websites from fool.com.au and
 
 The Fool may amend this Privacy Policy from time to time. If we make any substantive changes to this policy, we’ll announce it on our site. Your continued use of our website, services or provision of further personal information to us once you have been notified of the revised Privacy Policy constitutes your deemed acceptance of the revised Privacy Policy.
 
-_Effective: 31  August 2016_
+_Effective: 5  February 2018_
