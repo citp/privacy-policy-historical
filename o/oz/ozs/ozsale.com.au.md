@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301201652id_/https%3A//www.ozsale.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313132130id_/https%3A//www.ozsale.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # Ozsale.com.au - Privacy
 
 **PRIVACY POLICY**
 
-Updated: FEBRUARY 2017 
+Updated: MAY 2017 
 
 Ozsale.com.au operated by Ozsale Pty Ltd with its registered address at Unit 5, 111 Old Pittwater Road, Brookvale, NSW 2011 (“Ozsale”) is an online retailer of consumer goods.
 
-Ozsale values our relationship with you and the other users of this website. We recognize that you may be concerned about how we collect, hold, use, protect, and disclose your personal information. We have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect and hold this information, and what we do with it after the collection including security measures to keep it safe. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via privacy@ozsale.com.au or call +61 02 8999 0407.
+Ozsale values our relationship with you and the other users of this website. We recognize that you may be concerned about how we collect, hold, use, protect, and disclose your personal information. We have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect and hold this information, and what we do with it after the collection including security measures to keep it safe. If you have any questions or comments regarding this Privacy Policy, please contact us via our contact us page, email us via privacy@ozsale.com.au or call 02 8081 0972.
 
  **MYSALE's Commitment to Online Security**
 
@@ -54,13 +54,13 @@ To view and amend the information we store:
 
 You can view the personal information we store via the My Account Section of the website or App including your registered username, password, email address or date of birth. We also enable you to store and amend up to three addresses for the effective delivery of goods.
 
-If you would like to access any other personal information which we hold about you, or if you would like to seek amendment of that information, you can do so by contacting us via our “contact us” page, or email us at privacy@ozsale.com.au, or call +61 02 8999 0407.
+If you would like to access any other personal information which we hold about you, or if you would like to seek amendment of that information, you can do so by contacting us via our “contact us” page, or email us at privacy@ozsale.com.au, or call 02 8081 0972.
 
 Purpose for which we collect, hold, use and disclose your personal information
 
 We collect, hold, use and disclose personal information for the following purposes:
 
-o  To send you offers of goods and services that you have opted in to receive from us via e-mail. You can choose to opt out and stop us using your personal information for any future direct marketing by selecting the unsubscribe option on any of the e-mails that we send to you. You can also select unsubscribe on our website or in apps, contact us via our Contact page, email us via privacy@Ozsale.com.au or call +61 02 8999 0407 and request to be unsubscribed.
+o  To send you offers of goods and services that you have opted in to receive from us via e-mail. You can choose to opt out and stop us using your personal information for any future direct marketing by selecting the unsubscribe option on any of the e-mails that we send to you. You can also select unsubscribe on our website or in apps, contact us via our Contact page, email us via privacy@Ozsale.com.au or call 02 8081 0972 and request to be unsubscribed.
 
 O To allow you to access our website and view the offers that we have made.
 
@@ -140,7 +140,7 @@ If you wish to be removed from our database for any reason, simply send us an em
 
  **Complaints**
 
-If you would like to make a complaint about a breach of the Australian Privacy Principles, please contact us via our “contact us” page, email us via privacy@ozsale.com.au, or call +61 02 8999 0407. Once we receive your complaint, we will endeavour to respond to your complaint within a reasonable period. If you are unhappy with the outcome of your complaint, you can take your complaint to the Office of the Australian Information Commissioner (OAIC). For more information on how to contact the OAIC, please visit their website at: http://www.oaic.gov.au/about-us/contact-us-page.
+If you would like to make a complaint about a breach of the Australian Privacy Principles, please contact us via our “contact us” page, email us via privacy@ozsale.com.au, or call 02 8081 0972. Once we receive your complaint, we will endeavour to respond to your complaint within a reasonable period. If you are unhappy with the outcome of your complaint, you can take your complaint to the Office of the Australian Information Commissioner (OAIC). For more information on how to contact the OAIC, please visit their website at: http://www.oaic.gov.au/about-us/contact-us-page.
 
  **Updates to this Privacy Policy  **
 
