@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the superamart.com.au privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920232357id_/http%3A//www.superamart.com.au/customer-care/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superamart.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313103715id_/https%3A//www.amartfurniture.com.au/customer-care/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Our Privacy Commitment
 
-Super Amart Pty Limited (ABN 65 009 810 324) (“we”, “us” and “our”) is committed to handling the personal information we collect in an open and transparent manner, in accordance with our Privacy Policy and the Australian Privacy Principles.
+Amart Furniture Pty Limited (ABN 65 009 810 324) (“we”, “us” and “our”) is committed to handling the personal information we collect in an open and transparent manner, in accordance with our Privacy Policy and the Australian Privacy Principles.
 
 This Privacy Policy summarises how we handle your personal information. We may revise this Privacy Policy from time to time by updating this page. The revised Privacy Policy will take effect when it is posted on our website. 
 
@@ -73,7 +73,7 @@ We may collect your personal information for a number of purposes, including:
 
 Where we use your personal information to send you marketing and promotional information by post, email or otherwise, we will provide you with an opportunity to “opt out” of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt-out notices are clear, conspicuous and easy to take up.
 
-If you do not wish to receive direct marketing communications from us, please contact us at [privacy@superamart.com.au](mailto:privacy@superamart.com.au).
+If you do not wish to receive direct marketing communications from us, please contact us at [privacy@amartfurniture.com.au](mailto:privacy@amartfurniture.com.au).
 
 ### To whom do we disclose your personal information? 
 
@@ -119,13 +119,13 @@ If we refuse to grant you access to your personal information, we will provide y
 
 You may ask us to update, correct or delete the personal information we hold about you at any time. We will take reasonable steps to verify your identity before granting access or making any corrections to or deletion of your information. We also have obligations to take reasonable steps to correct personal information we hold when we are satisfied that it is inaccurate, out of date, incomplete, irrelevant or misleading for the purpose for which it is held.
 
-If you require access to, or wish to update your personal information, please contact us at [privacy@superamart.com.au](mailto:privacy@superamart.com.au).
+If you require access to, or wish to update your personal information, please contact us at [privacy@amartfurniture.com.au](mailto:privacy@amartfurniture.com.au).
 
 ### Complaints 
 
-If you have any queries or would like to make a complaint regarding relating to our Privacy Policy or the manner in which we handle your personal information, please contact our Privacy Officer at [privacy@superamart.com.au](mailto:privacy@superamart.com.au) or by writing to:  
+If you have any queries or would like to make a complaint regarding relating to our Privacy Policy or the manner in which we handle your personal information, please contact our Privacy Officer at [privacy@amartfurniture.com.au](mailto:privacy@amartfurniture.com.au) or by writing to:  
 The Privacy Officer  
-Super Amart Pty Limited  
+Amart Furniture Pty Limited  
 PO Box 1470  
 Springwood QLD 4127  
 
