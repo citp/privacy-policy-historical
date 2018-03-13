@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724161521id_/https%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313030122id_/https%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - ACT Government Information Portal
 
@@ -83,4 +83,4 @@ If you have any comment in relation to any aspect of the collection, use, securi
 
 If the issue is not resolved to your satisfaction you may wish to contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/ "Office of the Australian Information Commissioner").
 
-The ACT Government is committed to improving the accessibility of web content. To provide feedback or request an accessible version of a document please [contact us](http://www.act.gov.au/contact-us) or phone [13 22 81](tel:132281).
+The ACT Government is committed to improving the accessibility of web content. To provide feedback or request an accessible version of a document please [contact us](https://www.act.gov.au/contact-us) or phone [13 22 81](tel:132281).
