@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitnfind.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112040654id_/http%3A//hitnfind.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitnfind.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314005438id_/http%3A//hitnfind.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - www.hitnfind.com
 
