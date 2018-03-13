@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910173753id_/https%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313130939id_/https%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bankwest
 
@@ -321,7 +321,7 @@ Visit [oaic.gov.au](http://www.oaic.gov.au/) 
 
 **If   you want to update your personal information, or if you have a privacy concern, need more information, or want to update your preferences — help is just a phone call or a few clicks away.**
 
-Our website: [bankwest.com.au](https://web.archive.org/personal)
+Our website: [bankwest.com.au](https://web.archive.org/)
 
 To ask a question, access personal information, make a correction or complaint, or get a printed version of this policy:
 
