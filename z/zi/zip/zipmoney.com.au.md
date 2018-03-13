@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipmoney.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607061112id_/https%3A//zipmoney.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipmoney.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313012409id_/https%3A//zipmoney.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - zipMoney
 
