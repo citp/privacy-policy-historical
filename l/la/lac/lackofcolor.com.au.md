@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lackofcolor.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218190338id_/https%3A//www.lackofcolor.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lackofcolor.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313230441id_/https%3A//www.lackofcolor.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Lack of Color
 
@@ -86,7 +86,7 @@ We will update our Privacy Policy from time to time. Our website will have the m
 
 * **COMPLAINTS AND ENQUIRIES**
 
-  1. We are committed to the protection of your privacy. If you have any questions about how we handle personal information, would like to complain about how we have handled your information, or would like further information about our Privacy Policy, please submit a written query or complaint to [info@lackofcolor.com.au](mailto:info@lackofcolor.com.au). Our Privacy Officer will assess any complaints and liaise with you to resolve any issues within a reasonable time.
+  1. We are committed to the protection of your privacy. If you have any questions about how we handle personal information, would like to complain about how we have handled your information, or would like further information about our Privacy Policy, please submit a written query or complaint to [love@lackofcolor.com.au](mailto:love@lackofcolor.com.au). Our Privacy Officer will assess any complaints and liaise with you to resolve any issues within a reasonable time.
   2. If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact The Office of the Australian Information Commissioner on 1300 363 992 or visit their website at www.oaic.gov.au.
 
 
