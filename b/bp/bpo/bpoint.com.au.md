@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpoint.com.au privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417224730id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy-policy-html-version.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpoint.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313023246id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy-policy-html-version.html) for the most accurate reproduction.*
 
 # Privacy Policy - How we handle your personal information - CommBank
 
@@ -205,9 +205,9 @@ Credit reporting bodies include this information in their reports to assist othe
 
 We can also ask credit reporting bodies to give us your overall credit score, and may use credit information from credit reporting bodies together with other information to arrive at our own scoring of your ability to manage credit.
 
-The credit reporting bodies we use are Veda Advantage Information Services and Solutions Ltd, Experian Australia Credit Services Pty Ltd and Dun & Bradstreet (Australia) Pty Ltd. You can download a copy of their privacy policies at:
+The credit reporting bodies we use are Equifax Pty Ltd, Experian Australia Credit Services Pty Ltd and Dun & Bradstreet (Australia) Pty Ltd. You can download a copy of their privacy policies at:
 
-  * [veda.com.au/privacy](http://www.veda.com.au/privacy)  
+  * [equifax.com.au/privacy](http://equifax.com.au/privacy)  
 
   * [experian.com.au/legal/privacy.html](http://www.experian.com.au/legal/privacy.html)  
 
