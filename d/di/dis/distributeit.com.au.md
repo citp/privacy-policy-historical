@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303064226id_/https%3A//www.tppwholesale.com.au/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distributeit.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313145404id_/https%3A//www.tppwholesale.com.au/legals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TPP Wholesale - Australia's Largest Wholesale Provider | TPP Wholesale
 
   1. [TPP Wholesale Terms & Conditions](https://web.archive.org/legals/)
-  2. [Service Terms](https://web.archive.org/legals/service-terms/)
-    * [Acceptable Use Policy](https://web.archive.org/legals/acceptable-use-policy/)
-  3. [Domain Terms](https://web.archive.org/legals/domain-terms/)
-    * [ICANN RAA](https://web.archive.org/legals/icann-raa/)
-  4. [Copyright](https://web.archive.org/legals/copyright/)
-  5. [Disclaimer](https://web.archive.org/legals/disclaimer/)
+  2. [TPP Wholesale Affiliate Terms & Conditions](https://web.archive.org/legals/affiliate-terms/)
+  3. [Service Terms](https://web.archive.org/legals/service-terms/)
+  4. [Domain Terms](https://web.archive.org/legals/domain-terms/)
+  5. [Acceptable Use Policy](https://web.archive.org/legals/acceptable-use-policy/)
   6. [Privacy Policy](https://web.archive.org/legals/privacy-policy/)
+  7. [ICANN RAA](https://web.archive.org/legals/icann-raa/)
 
 
 
