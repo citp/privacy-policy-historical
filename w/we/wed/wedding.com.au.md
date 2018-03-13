@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218165622id_/https%3A//www.oneflare.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313044619id_/https%3A//www.oneflare.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Oneflare
 
