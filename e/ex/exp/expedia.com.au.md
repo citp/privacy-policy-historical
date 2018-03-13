@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629110819id_/https%3A//www.expedia.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313164849id_/https%3A//www.expedia.com.au/privacy) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge
 
@@ -154,4 +154,4 @@ If you have questions about this Privacy Policy (or your travel planning or purc
 
 This Privacy Policy is effective as of June 19, 2012. 
 
-Expedia, Inc. is not responsible for content on external Web sites. © 2017 Expedia, Inc. All rights reserved. 
+Expedia, Inc., 333 108th Ave. NE, Bellevue, WA 98004 USA
