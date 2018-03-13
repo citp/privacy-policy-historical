@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekbusiness.com.au privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621105818id_/https%3A//www.seekbusiness.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekbusiness.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313135324id_/https%3A//www.seekbusiness.com.au/privacy-policy) for the most accurate reproduction.*
 
 # SEEK Business - Privacy
 
