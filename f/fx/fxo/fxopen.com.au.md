@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxopen.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218072823id_/https%3A//www.fxopen.com.au/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxopen.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314162933id_/https%3A//www.fxopen.com.au/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
