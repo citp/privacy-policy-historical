@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310100707id_/https%3A//www.swift.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314163220id_/http%3A//www.swift.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - June 2015 | SWIFT
+# Online services | SWIFT
 
 ## Introduction
 
