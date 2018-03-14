@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222055126id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314161833id_/https%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - theGrio
 
@@ -91,6 +91,10 @@ Our articles include proprietary measurement software that allows users to contr
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Nielsen**
+
+The properties may feature Nielsen proprietary measurement software, which will allow users to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at [http://www.nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy).
 
 **Contact Us**
 
