@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218175512id_/http%3A//phnompenhpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314190346id_/https%3A//www.phnompenhpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, Phnom Penh Post
 
@@ -72,4 +72,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 #### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#650401080c0b25150d0b0a0815000b0d150a16114b060a08).
+Should you have other questions or concerns about these privacy policies, send us an email at [admin@phnompenhpost.com](mailto:admin@phnompenhpost.com).
