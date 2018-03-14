@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarteranalyst.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707052327id_/http%3A//www.smarteranalyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarteranalyst.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314203622id_/https%3A//www.smarteranalyst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarter Analyst
 
@@ -10,7 +10,7 @@ We may ask for personal information when providing special features and services
 
 SmarterAnalyst is committed to protecting your privacy. The following statement describes SmarterAnalyst’s privacy policy as it relates to our services, including ad placements, advertising, marketing and lead generation.
 
-**User Information**
+ **User Information**
 
 Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual. SmarterAnalyst may collect non-personally identifiable information while you are visiting our site. With each advertising impression served, SmarterAnalyst collects information such as the time of day, URL visited, browser type, browser language, and IP address. SmarterAnalyst may use page content, form data and URL parameters in order to improve its service to the users.
 
@@ -22,37 +22,37 @@ Neither Web beacons nor cookies provide SmarterAnalyst with an email address or
 
 SmarterAnalyst may place advertisements of third-party advertisers on our site. If you choose to click on an advertisement, SmarterAnalyst may provide non-personally identifiable information to the advertiser and Web publisher. From time to time, SmarterAnalyst may also send offers from third party advertisers via email that may be of interest to you. You may opt out of these offers at any time by following the instructions made available in the email. Furthermore, The subscriber agrees, by accepting the services/newsletter(s) of our site and/or reading emails sent on behalf of SmarterAnalyst, that this action will indemnify the publisher against false accusations of spam to include, but not limited to, payment of all damages, loss of web hosting fees and services, all damages for loss of business and goodwill, and any and all fees or fines that may be imposed against the publisher by any federal, state, local authority or civilian business entity as a result of the false spam accusation.
 
-**Submission of Personally Identifiable Information**
+ **Submission of Personally Identifiable Information**
 
 When using services offered through SmarterAnalyst, you may choose to enter your name, contact information, and other personal information. You will have clear notification that we are collecting this information so that you can choose not to provide it. Users may also provide contact information while visiting smarteranalyst.com to request information.
 
-**Use of Non-Personally Identifiable Information**
+ **Use of Non-Personally Identifiable Information**
 
 SmarterAnalyst may use non-personally identifiable information collected to improve the quality of SmarterAnalyst services. SmarterAnalyst may market its services by sharing Web surfing data with business partners in such a way that you are not identified. SmarterAnalyst also may provide your non-personally identifiable information to companies so that they can perform services for us.
 
-**Use of Personally Identifiable Information**
+ **Use of Personally Identifiable Information**
 
 SmarterAnalyst does not freely provide personally identifiable information to third parties except under the following conditions. If you provide personally identifiable information as part of an inquiry about products or services provided by SmarterAnalyst, we retain the right to provide that information to third parties so that they may attempt to provide you with additional information or special offers either directly through our site and newsletter email system or indirectly through the third party itself on our behalf.
 
 SmarterAnalyst may use the personally identifiable information provided by users or business partners of smarteranalyst.com for internal purposes, such as sales, human resources, marketing, and administration (e.g., billing, newsletters and communicating with our business partners). We may share this information with third parties who provide SmarterAnalyst with administrative services. If SmarterAnalyst shares any of the information collected from you with a third party, their use of that information will be governed by the third party’s privacy policy.
 
-**Advertising Content**
+ **Advertising Content**
 
 SmarterAnalyst’s services display links to other sites in the form of “contextual advertising.” SmarterAnalyst has no control over the content presented in such advertisements; third party advertisers provide them. The content of these advertisements is intended to show a high degree of relevance to the content you view. SmarterAnalyst parses the content of the URL visited, determines the relevant context and keywords and passes this information to the third party to obtain the advertisement to display.
 
-**Contacting the Web Site**
+ **Contacting the Web Site**
 
 If you have questions or concerns regarding this policy, you should contact SmarterAnalyst by sending email to info@smarteranalyst.com with “Privacy” in the subject line.
 
-**Acceptance of Privacy Statement**
+ **Acceptance of Privacy Statement**
 
 Your use of our Web site is subject to this privacy policy. BY USING OUR WEB SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this privacy policy at any time by posting the changes on this page. Please check the effective date at the bottom of this page to determine if the privacy policy has been modified since you last reviewed it. Your continued use of our Web site following posting of the updated privacy policy will constitute your acceptance of the changes.
 
-**Effective Date**
+ **Effective Date**
 
 The privacy policy was last revised on Jan 18, 2015.
 
-**Newsletter Subscription: Cancellation and Refund Policy**
+ **Newsletter Subscription: Cancellation and Refund Policy**
 
 All subscriptions can be cancelled at any time. Quarterly subscriptions will be cancelled at the completion of the current billing month. On request a prorated refund will be issued, less the months used based on the **monthly subscription fee**.
 
