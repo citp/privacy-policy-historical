@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lafalafa.com privacy policy that was archived on 2017-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207060412id_/https%3A//www.lafalafa.com/privacycookie) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lafalafa.com privacy policy that was archived on 2018-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180314041803id_/http%3A//www.lafalafa.com/privacycookie) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -9,8 +9,8 @@
 	<meta name="keywords" content="cashback, vouchers, coupons, discounts, offers, deals, promo codes">	
 	<meta name="description" content="You get actual money as Cashback for all top online stores every time you start your shopping at LAFALAFA. Just follow 3 easy steps – Join/Sign-in, Click to go to store via LafaLafa &amp; Shop. No reward points, no fees - shop and earn actual money.">
 	<meta name="robots" content="index, follow">
-	<link rel="canonical" href="https://www.lafalafa.com/privacycookie">
-	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">		<link rel="stylesheet" type="text/css" href="https://www.lafalafa.com/css/main-style.css?v=2">
+	<link rel="canonical" href="http://www.lafalafa.com/privacycookie">
+	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">		<link rel="stylesheet" type="text/css" href="http://www.lafalafa.com/css/main-style.css?v=2">
 		<script async="" charset="utf-8" src="//v2.zopim.com/?2QrZhVHsjG0UukHiBieZ38hNXhRgpFGx" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/js/lafalafa.js"></script>
 <!-- Facebook Pixel Code -->
 <script>
@@ -1328,7 +1328,7 @@ $('.cashtnc').click(function() {
 		 
 		jQuery.ajax({
 			type : "POST",
-			url : 'https://www.lafalafa.com/indexs/bankClick/',
+			url : 'http://www.lafalafa.com/indexs/bankClick/',
 			data: "bankid="+bankid,
 			success : function(data) {
 					//$('#merchantcate').html(data);
@@ -1356,7 +1356,7 @@ $('.cashtnc').click(function() {
 				
 				source: function(req, res) {
 				$.ajax({
-					url : 'https://www.lafalafa.com/search/',
+					url : 'http://www.lafalafa.com/search/',
 					dataType: "json",
 					data: {
 						query: req.term
@@ -1437,7 +1437,7 @@ $('.cashtnc').click(function() {
 		}
 		jQuery.ajax({
 			type : "POST",
-			url : 'https://www.lafalafa.com/feedbacks/add/',
+			url : 'http://www.lafalafa.com/feedbacks/add/',
 			data: $("#FeedbackForm").serialize(),
 			dataType: "json",
 			success : function(data) {
@@ -1475,7 +1475,7 @@ $("#third_pop").overlay({
 		
 		jQuery.ajax({
 			type : "POST",
-			url : 'https://www.lafalafa.com/subscribers/add/',
+			url : 'http://www.lafalafa.com/subscribers/add/',
 			data: "email="+subscribEmail,
 			dataType: "json",
 			success : function(data) {
@@ -1500,7 +1500,7 @@ $("#third_pop").overlay({
 		
        jQuery.ajax({
 			type : "POST",
-			url : 'https://www.lafalafa.com/indexs/myfavourites/',
+			url : 'http://www.lafalafa.com/indexs/myfavourites/',
 			data: "storeId="+objId1+"&affiliateId="+objId2+"&dealOffer="+objId3+"&cashbackOffer="+objId4+"&offerBy="+objId5,
 			success : function(data) {
 					document.getElementById("saveLater"+divId).innerHTML = data;
