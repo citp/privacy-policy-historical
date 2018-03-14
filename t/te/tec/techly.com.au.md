@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326005427id_/https%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314202226id_/https%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techly
 
@@ -159,6 +159,10 @@ Google AdSense | [Home Page](http://www.google.com/adsense/) |   [Privacy Poli
 
 In addition, Techly uses third party analytics providers and products to obtain, compile and analyze Information (that may include Personally Identifying Information) about how users are using and interacting with Techly. Techly may provide Information (including Personally Identifying Information) to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with Techly. These analytics providers may use tracking techniques other than HTTP cookies to recognize your computer or device and/or to collect or compile this information. These techniques may be used directly on Techly. Techly has no responsibility for the technologies, tools or practices of the third parties that providing analytics products and services to Techly. Please also keep in mind that your web browser may not permit you to block the use of these techniques, and that browser settings that block conventional cookies may have no effect on such techniques.
 
+**Nielsen Services**
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at [www.nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy).
+
 **Security and Protection of Personally Identifying Information**
 
 We have implemented reasonable security measures and practices in an effort to protect the confidentiality of your Personally Identifying Information (other than Personally Identifying Information that you have elected to disclose to others). However, no security system is impenetrable. It may be possible for third parties to intercept or access information you provide to Techly. Techly cannot guarantee the security of your Personally Identifying Information, nor can we guarantee that information you supply will not be intercepted while being transmitted to Techly. It is important for you to protect against unauthorized access to your password(s) and computer or device, and to log off when using any shared computer.
@@ -177,7 +181,7 @@ Techly welcomes any questions or comments you may have regarding this Privacy Po
 
 **Techly**  
 ATTN: Privacy  
-Suite 804  
+Level 9  
 46-56 Kippax Street  
 Surry Hills NSW 2010
 
