@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214211743id_/http%3A//www.osa.org/en-us/About_Osa/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315005553id_/https%3A//www.osa.org/en-us/About_Osa/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Optical Society
 
