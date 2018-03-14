@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inmyownstyle.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711234253id_/https%3A//inmyownstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmyownstyle.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314190015id_/https%3A//inmyownstyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - In My Own Style
+# Privacy Policy | In My Own Style
 
 Privacy Policy for inmyownstyle.com
 
