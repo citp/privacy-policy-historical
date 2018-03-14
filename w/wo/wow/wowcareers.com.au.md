@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the wowcareers.com.au privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015210514id_/https%3A//www.woolworthsgroup.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowcareers.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315000841id_/https%3A//www.woolworthsgroup.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Woolworths Group
+
+### Update to our Privacy Policy
+
+We have updated our Privacy Policy to reflect our name change to Woolworths Group Limited.
 
 ### Woolworths Group Privacy Policy
 
@@ -9,7 +13,7 @@ As we value the trust of our customers and take the protection of their personal
 ###   
 1\. Respecting your privacy
 
-Woolworths Group (including Woolworths Limited ABN 88 000 014 675 and its related bodies corporate) is committed to compliance with privacy laws which apply to its businesses and which set out standards for the management of personal information. This policy outlines our personal information management practices.
+Woolworths Group (including Woolworths Group Limited ABN 88 000 014 675 and its related bodies corporate) is committed to compliance with privacy laws which apply to its businesses and which set out standards for the management of personal information. This policy outlines our personal information management practices.
 
 Specifically:
 
@@ -62,7 +66,7 @@ We do this when:
 
 We may also collect personal information about you by accessing data from other sources and then analysing that data together with the information we already hold about you in order to learn more about your likely preferences and interests. When you visit our websites, social media pages or mobile applications or click on our advertisements on the online media of other companies, we may collect information about you using technology which is not apparent to you, for example “cookies”.
 
-For information about our use of this technology, click on this [link to view our Cookie Statement](https://web.archive.org/page/privacy-policy/cookies/). See below to view Cookie Statement.
+For information about our use of this technology, click on this [link to view our Cookie Statement](https://web.archive.org/page/privacy-policy/cookies/). 
 
 Most of the personal information we collect and hold about you is from your direct dealings with us. We may sometimes collect your personal information other than from you directly. For example from other suppliers who, in common with us, have a relationship with you.
 
@@ -90,7 +94,7 @@ Access to personal information: We will provide you with access to any of your p
 
 Alternatively, you can write to us at:  
 Privacy Officer  
-Woolworths Limited  
+Woolworths Group Limited  
 PO Box 8000  
 BAULKHAM HILLS NSW 2153
 
@@ -132,5 +136,5 @@ This is a policy. There may be additional privacy notices and terms relevant to 
 
 More information about privacy law and privacy principles is available from the Privacy Commissioner. The Privacy Commissioner may be contacted at [www.oaic.gov.au](https://www.oaic.gov.au/) (email- enquiries@oaic.gov.au ) (Australia)
 
-Last update of this policy: August 2017  
+Last update of this policy: January 2018  
  
