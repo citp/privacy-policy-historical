@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107014902id_/http%3A//www.playerspalacecasino.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerspalacecasino.eu privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314044114id_/http%3A//www.playerspalacecasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Players Palace Casino Privacy Policy
 
@@ -33,6 +33,19 @@ Players Palace Casino website works by using cookies and Active X components for
   7. **Players Palace Casino guarantees:**
     1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies. 
     2. To use your personal data to provide you with information or materials only if you requested it.
+  8. **Verification Policy**
+    1. Players Palace Casino reserves the right to ask Players for verification documents following deposits and/or prior to executing a withdrawal. If required for fraud and anti-money laundering purposes, Casino may also need to ask additional questions to identify Player's source of funds or source of wealth.
+    2. Players Palace Casino reserves the right to perform electronic age checks and to also request personal identification documentation at any stage in order to ensure the prohibition of play by minors. Casino play at Players Palace Casino is available only to persons older than 18 years of age. Anyone using the casino software who is found to be under the age of 18 will have all game play voided and any winnings forfeited. Casino may also report them to the relevant authorities.
+    3. By registering an Account with Players Palace Casino, the Player is giving the Casino consent to conduct the verification as required.
+    4. For verification purposes, Players Palace Casino reserves the right to ask for a clear copy of (but is not limited to): 
+      1. Valid identity document (passport, national ID card or driver's licence)
+      2. A copy of the card in question showing the card holder name, or evidence of the deposit method used (if applicable)
+      3. Documents confirming residence, such as a bank statement or utility bill, no older than 3 months
+    5. Should it be deemed necessary Players Palace Casino may also require these documents to be certified by a registered Notary.
+    6. Players Palace Casino may freeze Player's account (and prevent the Player from making a withdrawal) if Casino cannot confirm Player's identity.
+    7. The Player's account may also be frozen if Casino is otherwise unable to verify Player's data prior to processing any payments and Casino has applied a risk based approach to the Player's account and Casino considers that Casino cannot process Player's payments due to risk of money laundering, fraud or other criminal activity.
+    8. Furthermore, Players Palace Casino reserves the right to obtain information about the extent of Player's intended gambling at the same time as Player provides identification information (name, address), if Casino has reasonable grounds to suspect the Player is abusing the Account (e.g. when Player requests a withdrawal from a Deposit without playing a commensurate number of Games or Bets).
+    9. Any documents Player provides to Players Palace Casino will be held in confidence and will be stored for five years from the date on which Player's Account is closed (unless there is a regulatory reason which Casino must comply with which extends this period).
 
 
 
