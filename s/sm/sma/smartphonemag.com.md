@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartphonemag.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110064257id_/http%3A//www.smartphonemag.com/cms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartphonemag.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314164118id_/http%3A//smartphonemag.com/cms/privacy) for the most accurate reproduction.*
 
 # Thaddeus Computing Privacy Policy | Smartphone & Pocket PC magazine
 
