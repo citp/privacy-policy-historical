@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the chrono24.com.au privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195011id_/http%3A//www.chrono24.com.au/info/datenschutz.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrono24.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314215945id_/https%3A//www.chrono24.com.au/info/datenschutz.htm) for the most accurate reproduction.*
 
-# Chrono24 - Datenschutz
+# Data Privacy Policy
 
-## Data Privacy Policy
+As of: December 2016
 
-As of: February 2016
-
-Please note that this is a translation of our German Data Privacy Policy only. Our Data Privacy Policy only applies as defined in the [German version](http://www.chrono24.de/info/datenschutz.htm).  
+Please note that this is a translation of our German Data Privacy Policy only. Our Data Privacy Policy only applies as defined in the [German version](https://web.archive.org/info/datenschutz.htm?displayLanguage=de).  
 
 
 We, Chrono24 GmbH, Haid-und-Neu-Str. 18, 76131 Karlsruhe, Germany (hereinafter referred to as **"Chrono24"** ), operate the under www.chrono24.com available online marketplace for premium watches (hereinafter referred to as **"platform"** ). We are therefore responsible for the collection, processing and use of your personal data within the meaning of the German Data Privacy Act (BDSG) and the German Telemedia Act (TMG). The correct handling of your personal data is particularly important to us. Therefore, we are pleased to provide you with information on how your personal data is handled. 
@@ -21,7 +19,7 @@ We offer you the possibility to use a mobile device to access our platform or to
 
 **a.** **When visiting our website**
 
-When you visit our website, our servers temporarily save every access in a log file. The following data are automatically recorded without any action on your part and stored until such time as the profile is deleted:
+When you visit our website, our servers temporarily save every access in a log file. The following data is automatically recorded without any action on your part and stored until such time as the profile is deleted:
 
   * the IP address of the accessing computer,
   * the date and time of access,
@@ -49,14 +47,14 @@ Buyers and private sellers can create a user account on our platform. To create 
 
 **aa.** **myChrono24 user account**
 
-To register as a user and create a user account the following data are required:
+To register as a user and create a user account the following data is required:
 
   * your e-mail address,
   * a user-defined password.
 
 
 
-This data are necessary to log into your user account.
+This data is necessary to log into your user account.
 
 Additional non-mandatory data:
 
@@ -114,7 +112,7 @@ When using the portal as a registered user, we collect data for statistical purp
 
 **If you do not want to participate in our programs to personalize our performance and advertisement any longer, you can revoke to your participation through your user account.**
 
-**d.** **When using the Trusted Check Out Services**
+**d.** **When using the Trusted Checkout Services**
 
 A user account is required to initiate and to conclude contracts with a dealer via our Trusted Checkout service. Additionally, following data is required:
 
@@ -161,7 +159,7 @@ In case of objection, the use of communications services on our platform is excl
 
 **h.** **When leaving a comment in our magazine**
 
-You can comment on articles in our magazine at [http://www.chrono24.com/magazine/](http://www.chrono24.com/magazine). Required information: 
+You can comment on articles in our magazine at <http://www.chrono24.com/magazine/>. Required information: 
 
   * first and last name,
   * e-mail-address,
@@ -181,43 +179,17 @@ We will share your personal data with third parties only if you have expressly a
 
 Personal data which is saved in your user account (myChrono24) is not accessible for third parties unless you publish offers on the platform. When you publish offers on the platform as private seller, both registered and non-registered user can access your offeror’s data only if you expressly consented. 
 
-**b)** **Express-Sales**
-
-The Express-Sale Service provides users the free-of-charge option to offer sales objects on the platform (hereinafter “”Request For Proposal” or “RFP”). RFP are submitted anonymously and are visible on the platform for dealers using the Express-Sale Service only. Correspondence between dealer and you is carried out anonymously via the user account. An anonymized version of correspondence between dealer and user can be accessed by dealers using the Express-Sale Service.
-
-You can access dealers’ specifications by pressing the button “Proceed to Acceptance”. In this case, the dealer is provided with your specifications as stored in user account (name, address, phone number, fax, e-mail-address).  
-The user’s ITT RFP is deleted from platform, as soon as the user is provided with dealer’s specifications; in this case, the user rejects other dealers’ offers. 
-
-**c)** **Dealers**
+**b)** **Dealers**
 
 If you are registered as dealer and publish offers on the platform, both registered and non-registered users can access your data as listed in Sec. 1b) cc). You can exclude your address from accessible data during registration or afterwards within your profile.
 
-**4.** **Registration with Co-operation Partner (Auctionata) of Chrono24**
-
-Chrono24 and ISA Auctionata Auktionen AG, Kurfürstendamm 212, D-10719 Berlin, Germany (hereinafter „Auctionata“) jointly offer auction platforms for watches accessible at the URL [http://auctionata.com](http://auctionata.com/) and <http://chrono24.auctionata.com/>. You can register with our cooperative partners Auctionata using the data of your Chrono24 user account. If you send a registration request to Auctionata, Chrono24 will forward data listed below to complete your Auctionata registration form, provided you are simultaneously logged in with your Chrono24 user account. 
-
-  * Trade name,
-  * first and last name,
-  * address (street, postal code, city, country),
-  * phone number,
-  * fax number,
-  * e-mail address.
-
-
-
-If you do not confirm registration or delete or amend data input in the registration form, Auctionata will delete your data immediately.
-
-Please also observe data policy of Auctionata: [https://auctionata.com/en/privacy-policy](http://auctionata.com/en/privacy-policy).
-
-There is no additional data exchange/reconciliation between Chrono24 and Auctionata.
-
-**5.** **Right to Information, Deletion and Correction**
+**4.** **Right to Information, Deletion and Correction**
 
 You have a right to information regarding the personal data stored under your name and you can review and change these data after logging into our platform. Formal information requests require written form and proof of identity.
 
 You can delete or adjust your personal data or your user account anytime. For this purpose send an e-mail to support@chrono24.com or use the contact form. Please note that our services may not be available to you or not in full extent after deleting your data. Uploaded content (e.g. comments) will remain accessible.
 
-**6.** **Data security**
+**5.** **Data security**
 
 We use appropriate technical and organizational security measures to protect your personal data stored by us against manipulation, partial or total loss, and unauthorized access by third parties. Our security measures are being continually improved in line with technological developments.
 
@@ -225,7 +197,7 @@ When registering as a user you need to type in your personal password to access 
 
 We also take in-house data protection very seriously. Our employees and the service providers commissioned by us are obligated to maintain confidentiality and comply with data privacy provisions.
 
-**7.** **Cookies**
+**6.** **Cookies**
 
 Cookies help in many different ways to make your visit to our platform easier, more comfortable and more intuitive. Cookies are alpha-numerical information files that your web browser automatically stores on the hard drive of your computer when you visit our Internet site. Cookies do not harm the hard drive on your computer.
 
@@ -233,17 +205,17 @@ We use cookies, for example, to identify you as registered user without logging 
 
 Third-party vendors, including Google, use cookies to serve ads based on a your prior visits to our website. You can object collection and storage of data anytime with future effect.
 
-If you prefer not to receive interest-based advertising, you can deactivate the use of cookies by Google for these purposes at <https://www.google.de/settings/ads>. You can find more information on that at [www.google.de/privacy/ads](http://www.google.de/privacy/ads). Further information on the provisions of Google is available at [www.google.com/intl/de/privacy](http://www.google.com/intl/de/privacy). Alternatively, users can deactivate the use of third-party cookies by visiting the Network Advertising deactivation site at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+If you prefer not to receive interest-based advertising, you can deactivate the use of cookies by Google for these purposes at <http://www.google.de/settings/ads>. You can find more information on that at <http://www.google.de/privacy/ads>. Further information on the provisions of Google is available at <http://www.google.com/intl/de/privacy>. Alternatively, users can deactivate the use of third-party cookies by visiting the Network Advertising deactivation site at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Please note that deactivating cookies does not effect your browser to remain deactivated after deleting the deactivation cookies.
 
 Deactivation of cookies can lead to you not being able to use all of the functions of our platform. More information about deactivating cookies can be found at: [http://www.meine-cookies.org](http://www.meine-cookies.org/).
 
-**8.** **Links**
+**7.** **Links**
 
 This Data Privacy Policy does not cover websites that are linked to from our website. We have no influence over whether our data privacy and security standards are upheld by these sites. The operators of linked sites are solely responsible for the content thereof.
 
-**9.** **Web analytics**
+**8.** **Web analytics**
 
 **a.** **General information**
 
@@ -279,13 +251,13 @@ If you do not want Hotjar to collect information about your use of our websites,
 
 Further information about data protection during use of Hotjar can be found in the [Privacy Policy of Hotjar](https://www.hotjar.com/privacy). 
 
-**c.** **Optimizely**
+**c.** **VWO (Visual Website Optimizer)**
 
-We use Optimizely, a web analytics service of Optimizely Inc, offering a range of website analytics services for A/B and multivariate testing purposes. Optimizely does not store or process personally identifiable information about you. 
+We use VWO, a web analytics service of [Wingify Software Pft. Ltd.](http://wingify.com/), offering a range of website analytics services for [A/B and multivariate testing purposes](https://vwo.com/knowledge/ab-test-vs-mvt-test/). VWO does not store or process personally identifiable information about you. 
 
-You can deactivate data collection and processing of your use of our website anytime with future effect. There is an opt-out cookie that prevents the future collection of your data by Optimizely when visiting this website (q.v. Sec. 9g). We do not disclose information to third parties, unless required to do so by law or third parties process the information on our behalf (e.g. computer center). 
+You can deactivate data collection and processing of your use of our website anytime with future effect. There is an [opt-out-cookie](https://vwo.com/opt-out/) that prevents the future collection of your data by VWO when visiting this website. We do not disclose information to third parties, unless required to do so by law or third parties process the information on our behalf (e.g. computer center). 
 
-Further information about data protection of Optimizely and the functioning of the service can be found in their Privacy Policy. 
+Further information about data protection of VWO and the functioning of the service can be found in their [privacy policy](https://vwo.com/privacy-policy/). 
 
 **d.** **“Google Universal Analytics”**
 
@@ -313,15 +285,11 @@ When using the services of Litmus we do not determine your identity. Information
 
 If you do not want Litmus to collect information about e-mails sent to you, please send an e-mail to .
 
-**f.** **Mailing analytics**
+**g.** **Criteo**
 
-We use e-mail-analytic services of Litmus Software Inc., located in the USA. Litmus collects statistical information of our e-mails delivery and evaluates this information for us. This allows us to identify problems concerning our newsletter and contained links. Litmus enables us to trace which content sparks particular interest. This allows us to adjust our newsletter to particular interests.
+We collect and store data using technologies of [Criteo SA](http://www.criteo.com/) in order to optimize our service and for marketing purposes. These technologies enable us to evaluate our advertising campaigns and contents. This data can be used to create pseudonymized usage profiles. The data collected with technologies of Criteo will neither be used to personally identify visitors of the website nor be associated with other personal data of the pseudonymized user unless expressly agreed. Criteo uses an algorithm to analyze browsing habits and can subsequently display personalized advertising banners on other websites (publishers). Data is not used for other purposes and not forwarded to third parties. You can find further instructions on the technologies of Criteo and options to opt-out of the pseudonymized analysis of your browsing habits at <http://www.criteo.com/privacy>. Please note that you opting-out of personalized advertising will only prevent customized advertising but not block out advertisements in general.
 
-When using the services of Litmus we do not determine your identity. Information will not be assigned to certain e-mail recipients. We only create pseudonymized user profiles not allowing identification.
-
-If you do not want Litmus to collect information about e-mails sent to you, please send an e-mail to .
-
-**g.** **Objection**
+**h.** **Objection**
 
 You can object to the compilation of user profiles anytime.
 
@@ -330,13 +298,13 @@ If you wish to object please follow the instructions of the provider of the resp
   * You can find instructions for preventing your data being processed by the web analytics service of Google Universal Analytics at <http://tools.google.com/dlpage/gaoptout?hl=de>
   * You can find instructions for preventing your data being processed by MobileAppTracking by Tune at <http://optoutmobile.com/optout/index.html>
   * You can prevent your data being processed by Hotjar by installation and use of a browser-add-on like [Ghostery](https://www.ghostery.com/).
-  * You can prevent your data being processed by Optimizely by using a opt-out-cookie. Find an instruction at <https://www.optimizely.com/de/opt_out/>.
+  * You can prevent your data being processed by VWO by using a opt-out-cookie. Find an instruction at <https://vwo.com/opt-out/>.
 
 
 
 We use the tool Crashlytics to collect crash reports and improve the stability of our app. According to the provider of Crashlytics no personal data is collected or disclosed. According to Crashlytics, crash reports are delivered only, including time of crash, receiving device and location. Further information can be found in the privacy policy of Crashlytics at <http://try.crashlytics.com/terms/privacy-policy.pdf>. 
 
-**10.** **Social media plugins**
+**9.** **Social media plugins**
 
 **a.** **Facebook**
 
@@ -370,21 +338,21 @@ The following web address contains Google’s privacy policy, including further 
 
 Please log out of your Google+ account before using our website if you do not wish Google to collect data about your use of our website and link them with the data of your Google account
 
-**11.** **Right to Information, Correction, Blocking and Deletion**
+**10.** **Right to Information, Correction, Blocking and Deletion**
 
 You have the right to information regarding the personal data stored under your name as well as a right to correct incorrect data, or to block and delete such data.
 
 To get information on your personal data, to have incorrect data corrected, to have data blocked or deleted or for further questions on the use of your personal data please contact:
 
-Tel.: +49 721 480889-80
+Tel.: +1 646-887-3560
 
-Fax: +49 721 480889-88
+Fax: +49 721 96693-990
 
 E-Mail: 
 
 You can review and edit your data anytime by logging into our website with your log-in-data.
 
-**12.** **Validity of the data privacy policy**
+**11.** **Validity of the data privacy policy**
 
 This Data Privacy Policy is current and is dated February 2016.
 
