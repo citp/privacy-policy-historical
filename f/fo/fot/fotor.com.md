@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotor.com privacy policy that was archived on 2017-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171106191352id_/https%3A//www.fotor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotor.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314152055id_/https%3A//www.fotor.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Fotor - Free Online Photo Editor
 
@@ -22,15 +22,15 @@ When you use our email support services, we collect your correspondence in order
 
 We use the information collected through Fotor products: (I) to communicate with you; (II) to process your requests and transactions; (III) to improve the site; (IV) to customize the services and/or products we provide to you; (V) to assist with our product and service development; (VI) to perform marketing analysis; and (VII) for other purposes related to our business.
 
-The images you upload to Fotor for editing will not be stored unless your request a link to revisit your works or you actually request a Fotor service that requires storage of this image (e.g. to temporarily save the unfinished works under your Fotor account).
+Storage and Host of User Data 
 
-If you are using Fotor Market Service to share / sell your photo works, refer to clause “3 Fotor’s Use” of the “Fotor Market Terms” in the “Terms of Services” for detailed information on how we handle these images.
+Fotor provides a number of online services allowing users to edit, share and make designs with their photo work. In order to better serve the needs of users, we host both the photos you uploaded and the Fotor projects you started in a secured way. Unless you share or make it public voluntarily, only you can see and revisit these photos and/or the projects by logging into your Fotor account.
 
 TRANSPARENCY AND CHOICE 
 
 You may configure your browser to block cookies, including cookies associated with our services. However, many of our services may not function correctly with cookies disabled. You can also control which social websites you upload images to.
 
-THIRD PARTY ACCOUNTS 
+Third party accounts 
 
 Fotor does not store your Facebook, Twitter, or Flickr passwords. Your account information is not disclosed to Fotor and you are free to cancel any of your social networking website connections with Fotor at any time.
 
@@ -44,4 +44,4 @@ Our Privacy Policy may change occasionally. We will not reduce your rights under
 
 If you have any questions regarding this Privacy Policy, please feel free to contact us . 
 
-Last Updated: 9 - Oct, 2017 
+Last Updated: 4 Dec, 2017 
