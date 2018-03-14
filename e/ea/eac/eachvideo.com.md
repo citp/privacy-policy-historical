@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eachvideo.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108185812id_/http%3A//eachvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eachvideo.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314052737id_/http%3A//eachvideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EachVideo.com
 
@@ -28,4 +28,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://web.archive.org/web/20171108185812id_/http%3A//eachvideo.com/contact).
+If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://web.archive.org/web/20180314052737id_/http%3A//eachvideo.com/contact).
