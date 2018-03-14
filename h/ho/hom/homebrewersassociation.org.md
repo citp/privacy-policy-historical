@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebrewersassociation.org privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326233246id_/https%3A//www.homebrewersassociation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebrewersassociation.org privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314152224id_/https%3A//www.homebrewersassociation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - American Homebrewers Association
 
