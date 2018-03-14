@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21powersave.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113094013id_/http%3A//21powersave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21powersave.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314183826id_/http%3A//21powersave.com/privacy.html) for the most accurate reproduction.*
 
 # 21 Power Save
 
