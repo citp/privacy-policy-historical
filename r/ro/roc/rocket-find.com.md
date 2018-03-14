@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocket-find.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924230019id_/http%3A//getspeedial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocket-find.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314020410id_/http%3A//getspeedial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Speedial
 
@@ -48,7 +48,7 @@ The Software is not intended and/or directed to persons under the age of 13. We 
 
 ******6.  ** **Changes to This Policy**
 
-We may change this Policy from time to time. If we make changes, that are significant in our sole discretion, in the way we treat your personal information, or to the Policy, we will provide you with notice as part of the Software or by any other means. We will also post the revised Policy on the Software’s web site [_www.getspeedial.com_](https://web.archive.org/web/20170924230019id_/http://www.getspeedial.com/privacy-policy/www.getspeedial.com)(“ **Site** ” _)_ , and will update the “Last Update” above. The most current version of this Policy will govern our use of your information and will always be available on the Site. Your continued use of the Software, following any change to this Policy, constitutes your complete and irrevocable acceptance of the updated Policy. If any changes to the Policy are not acceptable to you, you may uninstall the Software.
+We may change this Policy from time to time. If we make changes, that are significant in our sole discretion, in the way we treat your personal information, or to the Policy, we will provide you with notice as part of the Software or by any other means. We will also post the revised Policy on the Software’s web site [_www.getspeedial.com_](https://web.archive.org/web/20180314020410id_/http://www.getspeedial.com/privacy-policy/www.getspeedial.com)(“ **Site** ” _)_ , and will update the “Last Update” above. The most current version of this Policy will govern our use of your information and will always be available on the Site. Your continued use of the Software, following any change to this Policy, constitutes your complete and irrevocable acceptance of the updated Policy. If any changes to the Policy are not acceptable to you, you may uninstall the Software.
 
 **7.** **Contact Information**
 
