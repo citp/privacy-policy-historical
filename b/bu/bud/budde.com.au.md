@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the budde.com.au privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608003906id_/http%3A//www.budde.com.au/About/Policies/Privacy-Disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budde.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314193552id_/https%3A//www.budde.com.au/About/Policies/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy / Disclaimer - BuddeComm
+# Privacy Policy - BuddeComm
+
+  * [](https://web.archive.org/About)
+  * [Policies / Disclaimer](https://web.archive.org/About/Policies)
+  * [Privacy](https://web.archive.org/About/Policies/Privacy)
+  * [Copyright / User Licenses](https://web.archive.org/About/Policies/Copyright-User-License-Agreements)
+  * [Email & Spam](https://web.archive.org/About/Policies/Email-Spam)
+  * [Purchasing](https://web.archive.org/About/Policies/Purchasing)
+
+
 
 Paul Budde Communication Pty Ltd (trading as BuddeComm) is dedicated to the protection of individual privacy issues and committed to the responsible handling of personal information online. Our mission is to promote and foster an ethical marketplace and your privacy is extremely important to us. Set out below are details of our online information practices, adhering to the guidelines as specified by the Government's National Privacy Principles (NPP). 
 
@@ -18,10 +27,12 @@ BuddeComm uses SecurePay's Internet Payment Gateway to provide a secure environm
 
 A client's credit card details are not stored anywhere on the Internet and the only company who has access to this data is the merchant's bank. The bank also sends confirmation information via the same encryption technology back to the client's browser. These secure processes provide clients with peace of mind when purchasing online.
 
-### IIA Responsible Internet Business program:
+### Purchase with Confidence
 
-BuddeComm has committed to the Internet Industry Association of Australia (IIA) Responsible Internet Business program. This program requires businesses to meet the [10 Point User Protection Code of Ethics](http://www.iia.net.au/index.php/initiatives/responsible-internet-businesses.html "View IIA 10 Point User Protection Code of Ethics").
+> Paul is by far, the leading telecommunications analyst in Australia. Not only is his company's research first class and timely, it is superbly contextual to the complexities of today's modern media and communications technology. He is always extremely generous in sharing his knowledge with others and has a great ability to connect people together and be a thought leader on topics of National interest such as the NBN, FttH and Smart Grids. 
+> 
+> **Bruce Duyshart, Director Strategic Technology, Lend Lease**
 
-## Disclaimer
+### News & Views
 
-The reader accepts all risks and responsibility for losses, damages, costs and other consequences resulting directly or indirectly from using our reports or from reliance on any information, opinions, statistics, estimates and forecasts contained herein. The information contained herein has been obtained from sources believed to be reliable. Paul Budde Communication Pty Ltd disclaims all warranties as to the accuracy, completeness or adequacy of such information and shall have no liability for errors, omissions or inadequacies in the information, opinions, estimates and forecasts contained herein. The materials in our reports are for informational purposes only. Prior to making any investment decision, it is recommended that that the reader consult directly with a qualified investment advisor. 
+Have the latest telecommunications industry news delivered to your inbox by subscribing to Paul's FREE weekly News & Views.
