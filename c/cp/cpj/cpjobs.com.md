@@ -1,200 +1,93 @@
-> *The following text is extracted and transformed from the cpjobs.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707231458id_/https%3A//www.cpjobs.com/hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpjobs.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314072314id_/https%3A//www.cpjobs.com/hk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | cpjobs.com
 
-Welcome to the cpjobs.com Web site, owned and operated by the South China Morning Post Publishers Limited and its subsidiary, affiliate and associate corporations, successors and assigns (collectively referred to as " **SCMP** ", " **we** ", " **our** " or " **us** "). Our products and services are offered through web pages at or linked to the uniform resource locator <http://www.cpjobs.com/hk/>, (and other Web sites that we establish from time to time (" **cpjobs.com Web site** ") and are made available subject to the terms and conditions set out in this statement. This statement (" **Privacy Policy** ") describes the privacy practices we have adopted with respect to personal data in operating the cpjobs.com Web site.
+South China Morning Post Publishers Limited (“SCMPP”) intends to collect and use your personal data as set out in paragraph 1 of the Personal Information Collection Statement (“PICS”) for the purposes referred in paragraph 2 of the PICS.
 
-" **Personal data** " means data relating directly or indirectly to an individual from which it is practicable for the identify of the individual to be directly or indirectly ascertained.
+## PERSONAL INFORMATION COLLECTION STATEMENT
 
-" **You** " and " **Your** " when used in this Privacy Policy include any person who accesses the cpjobs.com Web site and submits personal data.
+South China Morning Post Publishers Limited (referred to hereinafter as the “ **SCMPP** ”) recognises its responsibilities in relation to the collection, holding, processing, use and/or transfer of personal data under the Personal Data (Privacy) Ordinance (Cap. 486) (“ **PDPO** ”) and all applicable laws and regulations in force from time to time. Personal data will be collected only for lawful and relevant purposes and all practicable steps will be taken to ensure that personal data held by SCMPP is accurate. SCMPP will take all practicable steps to ensure security of the personal data and to avoid unauthorised or accidental access, erasure or other use.
 
-Our Commitment to Privacy
+Please note that if you do not provide SCMPP with your personal data, SCMPP may not be able to provide the information, products or services you need or process your request.
 
-Our Privacy Policy was developed as an extension of our commitment to seek to combine the highest quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal data you provide to us and to assist you in making informed decisions when using the cpjobs.com Web site and our products and services. We endeavour to continuously assess our privacy practices in light of new technologies, business practices and our customers' needs. Our Privacy Policy may therefore be amended from time to time. You should check our Privacy Policy regularly to ensure you are aware of our latest policies.
+**1\. Personal data:**
 
-What Information Do We Collect?
+SCMPP may collect personal information and/or data about you such as your name, login ID and password, address, email address, phone number, credit card number and expiry date, identity reference, age, gender, date of birth, country of residence, household income, employment status, occupation and any other information you agree to disclose to SCMPP. 
 
-When you visit the cpjobs.com Web site, we may collect two types of information from you: personal data you knowingly choose to disclose that is collected on an individual basis and the cpjobs.com Web site use information collected on an aggregate basis as you and others browse the cpjobs.com Web site.
+**2\. Purpose:**
 
-1\. Personal Information You Choose to Provide
+From time to time it is necessary for SCMPP to collect your personal data which may be used, stored, processed, transferred, disclosed or shared by SCMPP for purposes, including:
 
-Registration
+  * offering, providing and marketing to you the products/services of SCMPP, other companies within the group of companies of which SCMPP forms part (“ **SCMPP Affiliates** ”) or SCMPP’s business partners (see “ **Use and provision of personal data in direct marketing** ” below), and administering, maintaining, managing and operating such products/services; 
+  * processing and evaluating any registration, subscription orders, deliveries, uses, enquiries, feedbacks or requests made by you for products/services offered by SCMPP and SCMPP Affiliates; 
+  * processing your registration, subscriptions and related-billing and payment in relation to any products/services offered by SCMPP and SCMPP Affiliates; 
+  * providing subsequent services to you, including but not limited to administering the policies issued;
+  * running competitions, prize draws and promotions;
+  * designing products/services for you;
+  * conducting market research for statistical or other purposes;
+  * matching any data held which relates to you from time to time for any of the purposes listed herein;
+  * any purposes in connection with any claims made by or against or otherwise involving you in respect of any products/services provided by SCMPP and/or SCMPP Affiliates, including investigation of claims;
+  * making disclosure as required by any applicable law, rules, regulations, codes of practice or guidelines or to assist in law enforcement purposes, investigations by police or other government or regulatory authorities in Hong Kong or elsewhere;
+  * contacting you about specific recruitment opportunities if you register search criteria information on SCMPP’s recruitment sites;
+  * carrying out other services in connection with the operation of SCMPP’s business; and
+  * all other incidental and associated purposes relating to any of the above, including seeking professional advices.
 
-During the registration process prior to using the cpjobs.com Web site, we require that you supply a unique subscriber ID and password, your name, e-mail address, mailing address and demographic information (country, age, sex, personal and household income, marital status, academic qualifications, employment status and occupation). Failure to provide such information may result in our being unable to provide you with our services including access to the cpjobs.com Web site. On occasion, we may also collect additional personal data from you in connection with optional contests, surveys, or special offers. You agree that we may store and deal with any information you provide as part of the registration process or in connection with optional contests, surveys or special offers in accordance with this Privacy Policy.
 
-Credit Card Information
 
-If you choose to purchase products or services from us, you may need to give personal data and authorise us to obtain information from various credit services. For example, you may need to provide the following information:
+**3\. Transfer of personal data:**
 
-  * Name
-  * Mailing address
-  * E-mail address
-  * Identity reference
-  * Credit card number, name of bank and expiry date
-  * Telephone or fax or pager number
+Personal data held by SCMPP relating to an individual will be kept confidential but may be provided to the following parties within Hong Kong for the purposes set out in paragraph 2 above except that any transfer of data to another party for sales and marketing purpose will be subject to paragraph 4 below:
 
+  * any of the SCMPP’s affiliates; 
+  * delivery agents of SCMPP for delivering the newspapers and/or other products in respect of your subscription or free trial; 
+  * any agent, contractor or third party who provides administrative, technology or other services (including direct marketing services) to SCMPP and/or SCMPP Affiliates in Hong Kong and who has a duty of confidentiality to the same; 
+  * credit reference agencies or, in the event of default, debt collection agencies; 
+  * any actual or proposed assignee, transferee, participant or sub-participant of SCMPP’s rights or business; and 
+  * any government department or other appropriate governmental or regulatory authority in Hong Kong or elsewhere. 
 
 
-In addition to providing the foregoing personal data to us, if you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protection for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-2\. cpjobs.com Web site Use Information
+**4\. Use and provision of personal data in direct marketing:**
 
-Cookies
+SCMPP intends to use your personal data in direct marketing and SCMPP requires your consent (which includes an indication of no objection) for that purpose. In this connection, please note that SCMPP may:
 
-The cpjobs.com Web site utilises Web server logs and will use a standard technologycalled "cookies" (see explanation below, "What Are Cookies?") to recognize you and your access privileges on the cpjobs.com Web site as well as to collect information about how the cpjobs.com Web site is used. Information gathered by using cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at the cpjobs.com Web site, and the web sites you visited immediately before and after the cpjobs.com Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+  * conduct direct marketing (including but not limited to providing reward, loyalty or privileges programmes) in relation to the following classes of products and services that SCMPP, SCMPP Affiliates, SCMPP’s co-branding partners and SCMPP’s business partners may offer: 
+    * insurance, banking, provident fund or scheme, IPO, financial services, securities and related products and services; 
+    * products and services on airlines, hotel and resort, sauna and health club, travel and transportation, tourism board, entertainment, spa and similar relaxation activities.
+    * products and services on cosmetics, beauty and skin care, biotech, health, medical devices, pharmacy and medicine, wellness and medical.
+    * products and services on eyewear and optical companies, fashion and apparel, sports equipment, sports event, sporting activities and membership, jewellery and watch, flower shop, stationery and toys, department stores and shopping malls
+    * I.T., electronics goods and electrical appliances, mobile phones and accessories, telecommunications, media and related products and services. 
+    * food and beverage, restaurants, wine related products and services.
+    * products and services on design, automotive, education, antique and auction, arts and gallery, boat and accessories, children, china government, local and oversea property, China property, furniture and household item, interior design, constructions, consulate, listed company, holding company, industry association, non-governmental organization, energy, exhibitions, general trade and association, government services, personal announcement, pets and accessories, post services, public utilities, professional services, publication, career, security services, shipping and logistics.
+  * the above products and services may be provided by SCMPP and/or: 
+    * any of SCMPP Affiliates;
+    * the business partners or co-branding partners of SCMPP and/or affiliates providing the products and services set out in paragraph 4.1 above;
+    * third party reward, loyalty or privileges programme providers supporting SCMPP or any of the above listed entities
+  * in addition to marketing the above products and services, SCMPP also intends to provide the data described in paragraph 1 above to all or any of the persons described in paragraph 4.2 above for use by them in marketing those products and services, and SCMPP requires your written consent (which includes an indication of no objection) for that purpose; 
+  * SCMPP may receive money or other property in return for providing the data to the other persons in paragraph 4.3 above and, when requesting your consent or no objection as described in paragraph 4.3 above, SCMPP will inform you if it will receive any money or other property in return for providing the data to the other persons.
 
-IP Addresses
+**If you do not wish SCMPP to use or provide to other persons your personal data for use in direct marketing as described above, you may exercise your opt-out right by notifying SCMPP at any time and without charge. To opt-out, please notify SCMPP by opting out when prompted to provide written consent to direct marketing in any communication to you or inform SCMPP in writing to the address in the section on “Access and correction of personal data”.**
 
-We also log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the cpjobs.com Web site.
 
-Social Networking Sites ("SNS")
 
-We collect your personal data when you register to join cpjobs.com / JiuJik.com / SmartJob.com by logging into an account that you already have with certain third-party SNS (including, but not limited to, Facebook) via our services. For example, our services allow you to create an account and login automatically to the services using your Facebook account credentials through Facebook Connect. If you are not currently registered as a user on the services and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join cpjobs.com / JiuJik.com / SmartJob.com. In this connection, your registration to join cpjobs.com / JiuJik.com / SmartJob.com indicates your consent to have your personal data be collected by us for the purpose(s) of managing your cpjobs.com / JiuJik.com / SmartJob.com membership and/or providing related services to you.  If you decide to create your user account by logging into a SNS via the services, you are using the personal data you have already provided to the SNS (such as your "real" name, email address and other information you make publicly available via the SNS that may identify you) to create your user account on our services.  The personal data we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices and consider if you need to change your privacy settings as appropriate. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your cpjobs.com / JiuJik.com / SmartJob.com account, then you should disconnect the SNS account in the "social network" section in your profile settings.
 
-How Do We Use the Information That You Provide to Us?
+**5\. Access and correction of personal data** : 
 
-Broadly speaking, we use personal data for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the personal data we collect to notify you about important changes to the cpjobs.com Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal data. You will be given the opportunity to notify us of your desire not to receive these offers.
+Under the PDPO, you have the right to ascertain whether SCMPP holds your personal data, to obtain a copy of the data, and to correct any data that is inaccurate. You may also request SCMPP to inform you of the type of personal data held by it.  
+Requests for access and correction or for information regarding policies and practices and kinds of data held by SCMPP should be addressed in writing to SCMPP’s cpjobs.com at:  
 
-The main purposes for which personal data may be used by us are:
 
-  * Processing your application or registration for our services, enquiry or feedback
-  * Incorporation into our user database
-  * Provision of contacts and business details in response to enquiries and complaints
-  * Operations
-  * Service surveys
-  * Direct marketing
-  * Processing billing and payment
-  * Meeting requirements to make disclosure under any law applicable in or outside Hong Kong
-  * Public notices
-  * Auditing
-  * Other related purposes
+**_cpjobs.com_ **  
+South China Morning Post Publishers Limited  
+Morning Post Centre  
+22 Dai Fat Street, Tai Po Industrial Estate  
+New Territories, Hong Kong
 
+A reasonable fee may be charged to offset SCMPP’s administrative and actual costs incurred in complying with your data access requests.
 
+**6\. Use of Cookies:**
 
-We may use your personal data both in and outside Hong Kong.
+  * SCMPP uses cookies to gather information about your browsing activities in relation to any website, portal and mobile application owned and operated by SCMPP, SCMPP Affiliates and/or its service providers (“Websites”) as to improve its services. Information collected includes – (i) IP addresses; (ii) date/time of your last visit; (iii) articles that you have read and/or commented on; and (iv) what content you have posted on the Websites; and (v) what produces and/or services that you have purchased on the Websites.
+  * While cookies are capable of collecting information set out in 6.1 above, such information is collected on an aggregated basis. None of the information is associated with you as in individual. 
 
-Disclosure to Third Parties
 
-Personal data held by us will be kept confidential but we may provide such data to:
-
-  * Banks and other financial institutions in connection with the collection of payments;
-  * Any personnel, agent, adviser, auditor, contractor or service provider who provides services or advice to us in connection with our operations;
-  * Any person under a duty of confidentiality to us;
-  * Any person to whom we are required to make disclosure under any law applicable in or outside Hong Kong; and
-  * Any actual or proposed transferee of our business or the cpjobs.com Web site or any part of our business or cpjobs.com Web site or participant in our operations.
-
-
-
-You should also note that the privacy protection as set out in this Privacy Policy does not apply to personal data which is passed to third parties, and we are not responsible for the protection of your personal data or lack thereof by such third parties.
-
-Except as otherwise provided in this Privacy Policy, personal data about you as an individual subscriber will not be provided to any third party without your consent.
-
-Sharing Information with South China Morning Post Publishers Limited
-
-Your personal data may be disclosed to and used by us or other companies controlled by, or under common control with, South China Morning Post Publishers the Gro, for the purposes of direct marketing or the provision of customized information regarding the South China Morning Post Publishers Limited's network of Internet and other products and services.
-
-What Do We Do with the Information We Gather?
-
-Statistical Analysis and Banner Advertising
-
-We may perform statistical analyses of user behaviour in order to measure interest in the various areas of the cpjobs.com Web site (for product development purposes) and to inform advertisers as to how many consumers have seen or "clicked" their advertising banners. We also use demographic and preference information to allow advertising banners on the cpjobs.com Web site to be targeted, in aggregate, to the readers for whom they are most relevant. This means that readers see advertising that is most likely to interest them, and advertisers send their messages to people who are most likely to be receptive, improving both the viewer's experience and the effectiveness of the advertisement. For these purposes, we will disclose information to third parties only in aggregate form.
-
-What Are Cookies?
-
-Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. They are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized.
-
-How Do We Use Information We Collect from Cookies?
-
-We use Web site browser software tools such as cookies and Web server logs to gather information about the cpjobs.com Web site users' browsing activities in order to constantly improve the cpjobs.com Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve the cpjobs.com Web site to better meet the needs of our customers and prospective customers.
-
-Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users of our Website as they move from one page to another. Web server logs allow us to count how many people visit the cpjobs.com Web site and evaluate the cpjobs.com Web site's visitor capacity. We do not use these technologies to capture your individual e-mail address or any personally identifying data about you although they do permit us to send focused online banner advertisements and other such responses to you.
-
-From time to time you may notice offers from outside companies advertised on the cpjobs.com Web site. We endeavour to take measures to select product or service providers that are responsible and afford privacy protections to their customers. However, we do not make any representations about the practices and policies of these companies. You may opt-out of sharing your personal data with such affiliates by choosing not to use their service or content.
-
-How Do We Share Information with Strategic Partners?
-
-We may enter into strategic marketing alliances or partnerships with third parties who may be given access to personal information including your name, address, telephone number and e-mail for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to your personal data.
-
-Notice of New Services and Changes
-
-Occasionally, we may also use the information we collect to notify you about important changes to the cpjobs.com Web site, and new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by sending us an e-mail request at [info@cpjobs.com](mailto:info@cpjobs.com).
-
-Information Transmissions
-
-Personal data or e-mail that you send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.
-
-Direct Marketing
-
-In accordance with the requirements of the Ordinance, SCMPP will honor an individual’s request not to use his or her personal data for the purposes of direct marketing. Should you wish not to receive direct marketing material from cpjobs.com Web site or SCMPP, please write to our Personal Data Privacy Officer at the address listed below.
-
-> Personal Data Privacy Officer  
->  _South China Morning Post Publishers Limited  
->  Morning Post Centre, 22 Dai Fat Street,  
->  Tai Po Industrial Estate,  
->  New Territories,  
->  Hong Kong_
-
-Any such request should clearly state details of the personal data in respect of which the request is being made. Please also state clearly the authority under which you are authorized to make such a request. 
-
-Unless otherwise instructed as per the above, we may use any of the personal data collected in the normal course of our business for marketing purposes.
-
-How Do We Protect Your Personal Data?
-
-Information Security
-
-We utilise encryption/security software to safeguard the confidentiality of personal data we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
-
-Evaluation of Information Protection Practices
-
-Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information. This policy may be updated from time to time so please check this statement periodically as it is your responsibility to make sure you are aware of our latest policies.
-
-Employee Access
-
-Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. Employees designated to handle personal data will be instructed to do so only according to this Privacy Policy.
-
-What Are your Rights Under the Personal Data (Privacy) Ordinance?
-
-Under the Personal Data (Privacy) Ordinance of Hong Kong, you have the right:
-
-  * To check whether we hold data about you and to access such data;
-  * To require us to correct any inaccurate data relating to you; and
-  * To be told our policies and practices in relation to personal data and the kind of personal data held by us.
-
-
-
-We may charge a reasonable fee for processing any data access request.
-
-How Can You Access and Correct Your Information?
-
-You may address data access or correction requests, and questions or complaints to:
-
-> Personal Data Privacy Officer  
->  _South China Morning Post Publishers Limited  
->  Morning Post Centre, 22 Dai Fat Street,  
->  Tai Po Industrial Estate,  
->  New Territories,  
->  Hong Kong_
-
-Use of Personal Data in Legal Procedures
-
-If it becomes necessary that we take legal action against you for any reason whatsoever including copyright infringement, you expressly agree that the personal data provided by you can be relied upon in identifying and taking action against you.
-
-What About Legally Compelled Disclosure of Information?
-
-We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
-
-Data Retention
-
-We retain personal data so long as the data is still required for the purposes mentioned above.
-
-We reserve the right to retain copies indefinitely for our archives.
-
-What About Other Web sites Linked to the cpjobs.com Web site?
-
-Please note that the cpjobs.com Web site contains links to other sites and occasionally allows other sites to be co-branded with the cpjobs.com name. Please remember that when you use a link to go from our Website to another Web site or when you use a co-branded site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites that have a link to the cpjobs.com Web site, is subject to that Web site's own rules and policies which may differ from that of the cpjobs.com Web site.
-
-We are not responsible for the practices employed by websites linked to or from our Website nor the information or content contained therein. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Website.
-
-Your Consent
-
-By using the cpjobs.com Web site you consent to our collection and use of your personal data as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on the cpjobs.com Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
