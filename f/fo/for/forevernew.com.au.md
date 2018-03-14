@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301164831id_/https%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314074838id_/https%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forever New
 
@@ -85,7 +85,7 @@ Forever New may update its privacy policy from time to time without notice in li
 
 **Complaints**
 
-If you have any queries or concerns regarding Forever New’s Privacy Policy or wish to access or correct your personal information, please contact our customer service team on [customerservice@forevernew.com.au](mailto:customer.service@forevernew.com.au "Customer Service ") or phone us on 1300 720 687 for all Australian residents or 0800 100 635 for all New Zealand residents Monday - Friday (9am - 5pm AEST).
+If you have any queries or concerns regarding Forever New’s Privacy Policy or wish to access or correct your personal information, please contact our customer service team on [customers@forevernew.com.au](mailto:customers@forevernew.com.au "Customer Service ") or phone us on 1300 720 687 for all Australian residents or 0800 100 635 for all New Zealand residents Monday - Friday (9am - 5pm AEST).
 
 If you wish not to receive any communications or marketing from Forever New, please use the unsubscribe button or contact the customer service team above.
 
