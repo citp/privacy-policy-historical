@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907165453id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314231319id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm%3Fquery%3Dfooter) for the most accurate reproduction.*
 
 # NEJM Group
 
@@ -30,7 +30,7 @@ In addition to the information that you provide to us directly, we may collect i
 
 #### _Cookies_
 
-We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20170907165453id_/http%3A//www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
+We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20180314231319id_/http%3A//www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
 
 We also may use cookies and other tracking technology to facilitate the delivery of relevant ads to you through the Services. 
 
@@ -43,7 +43,7 @@ We may also use clear gifs, which are tiny graphics with unique identifiers that
 
 ### HOW IS THIS INFORMATION USED?
 
-Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. We also may send you information about our various products and services, unless you have indicated you do not wish to receive further information. You may unsubscribe from our e-mail services at any time. For additional information on how to unsubscribe from our e-mail services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20170907165453id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
+Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. We also may send you information about our various products and services, unless you have indicated you do not wish to receive further information. You may unsubscribe from our e-mail services at any time. For additional information on how to unsubscribe from our e-mail services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20180314231319id_/http%3A//www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
 
 Information collected automatically is used to monitor users’ interests and usage patterns in order to help us enhance and improve our service offerings. 
 
