@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607124813id_/https%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idg.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314010142id_/https%3A//www.idg.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IDG Communications - Australia
 
