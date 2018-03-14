@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apowersoft.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612154156id_/https%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apowersoft.com privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314075854id_/https%3A//www.apowersoft.com/privacy.html) for the most accurate reproduction.*
 
 # Apowersoft Privacy Policy
 
-Apowersoft is committed to protecting and respecting your privacy. The policy described on this page sets out the basis on which the personal data received from you will be processed by us. It also has supplemental information about the particular sites and service that you can utilize. Please read the following terms carefully to understand our views and practices regarding your personal data and how we will treat it. Mind that some of our subordinate sites not mentioned here may have their own privacy statements on related pages. If you have any questions, please feel free to [contact us](https://web.archive.org/web/20170612154156id_/https%3A//www.apowersoft.com/company/contact.html).
+Apowersoft is committed to protecting and respecting your privacy. The policy described on this page sets out the basis on which the personal data received from you will be processed by us. It also has supplemental information about the particular sites and service that you can utilize. Please read the following terms carefully to understand our views and practices regarding your personal data and how we will treat it. Mind that some of our subordinate sites not mentioned here may have their own privacy statements on related pages. If you have any questions, please feel free to [contact us](https://web.archive.org/web/20180314075854id_/https%3A//www.apowersoft.com/company/contact.html).
 
 ## Information we may receive from you
 
