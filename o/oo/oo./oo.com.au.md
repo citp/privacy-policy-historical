@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219001304id_/https%3A//www.oo.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oo.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314141845id_/https%3A//www.oo.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # oo.com.au - Privacy
 
