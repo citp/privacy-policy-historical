@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomn.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119105856id_/https%3A//www.gomn.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomn.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315143607id_/https%3A//www.gomn.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoMN
 
