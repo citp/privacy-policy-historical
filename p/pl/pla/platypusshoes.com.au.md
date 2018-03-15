@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the platypusshoes.com.au privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403183534id_/https%3A//www.platypusshoes.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platypusshoes.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315084524id_/https%3A//www.platypusshoes.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Online & In-Store Australia Wide - Platypus Shoes
+# Privacy Policy - Online & In-Store Australia Wide | Platypus Shoes
 
 We recognize the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, Platypus will only collect and use your personal information as set out below. By providing us with your personal information, you agree to that information being collected and used in accordance with this Privacy Policy. Platypus’ Privacy Statement is intended to represent industry best practice and comply fully with the Privacy Act 1988 (Cth).
 
