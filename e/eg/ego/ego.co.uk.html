@@ -1,1414 +1,1385 @@
-<!--The following is the downloaded HTML source of the ego.co.uk privacy policy that was archived on 2017-07-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170721182736id_/https%3A//ego.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ego.co.uk privacy policy that was archived on 2018-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180315051653id_/https%3A//ego.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T8RXK9"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
-    <title>Privacy Policy</title>
-<meta name="description" content="">
+<!DOCTYPE html><html lang="en-GB"><head>
+        <script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T8RXK9"></script><script type="text/javascript" async="" src="https://se.monetate.net/js/2/a-525ef642/p/ego.co.uk/custom.js"></script><script>
+    var require = {
+        "baseUrl": "https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB"
+    };
+</script>
+        <!-- Begin Monetate ExpressTag Async v6.1. Place at start of document head. DO NOT ALTER. -->
+<script type="text/javascript">
+var monetateT = new Date().getTime();
+(function() {
+    var p = document.location.protocol;
+    if (p == "http:" || p == "https:") {
+        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-525ef642/p/ego.co.uk/custom.js";
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+    }
+})();
+</script>
+<!-- End Monetate tag. --><meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQAGU1NRChAGUFJbAAUGUA=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta name="description" content="Shop at Ego - the online trend-led sassy footwear brand representing a movement of stylish shoeaholics from all over the world. ">
 <meta name="robots" content="INDEX,FOLLOW">
-    <meta property="og:site_name" content="Ego.co.uk">
-    <meta property="og:image" content="http://ego.co.uk/skin/frontend/smartwave/porto/images/ego-official-logo.png">
-    <meta property="og:title" content="Privacy Policy">
-    <meta property="og:description" content="">
-        <meta property="og:type" content="website">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@egofootwear">
-    <meta name="twitter:domain" content="http://ego.co.uk/">
-    <meta name="twitter:creator" content="@egofootwear">
-            <meta name="twitter:title" content="Privacy Policy">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image" content="http://ego.co.uk/skin/frontend/smartwave/porto/images/ego-official-logo.png">
-    
-    <!-- Begin Monetate ExpressTag Sync v8.1. Place at start of document head. DO NOT ALTER. -->
-    <script type="text/javascript">var monetateT = new Date().getTime();</script>
-    <script type="text/javascript" src="//se.monetate.net/js/2/a-525ef642/p/ego.co.uk/entry.js"></script>
-    <!-- End Monetate tag. -->
-<script type="application/ld+json">
-{
-   "@context": "http://schema.org",
-   "@type": "WebSite",
-   "url": "http://ego.co.uk/",
-   "potentialAction": {
-     "@type": "SearchAction",
-     "target": "http://ego.co.uk/catalogsearch/result/?q={search_term_string}",
-     "query-input": "required name=search_term_string"
-   }
-}
-</script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="http://cdn.ego.co.uk/media/favicon/default/favicon.png" type="image/x-icon">
-<link rel="shortcut icon" href="http://cdn.ego.co.uk/media/favicon/default/favicon.png" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/ajaxcart/ajaxaddto.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/jquery/plugins/etalage/etalage.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/bootstrap/css/bootstrap-theme.min.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/jquery/plugins/owl-carousel/owl.carousel.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/jquery/plugins/owl-carousel/owl.theme.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/jquery/plugins/owl-carousel/owl.transitions.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/jquery/plugins/selectbox/selectbox.css">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/base/default/css/widgets.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/base/default/aw_autorelated/css/category.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/base/default/css/amasty/ampreorder/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/base/default/css/bubble/elasticsearch.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/base/default/css/flint_feefo.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/default/fancybox/css/jquery.fancybox.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/default/blog/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/default/filterproducts/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/porto/megamenu/css/font-awesome.min.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/porto/megamenu/css/megamenu.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/porto/megamenu/css/megamenu_responsive.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/porto/socialfeeds/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/default/socialicons/css/styles.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/base/default/webcooking/css/all.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/animate.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/icons/css/porto.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/icons/css/animation.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/icons/css/ego.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/local.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/responsive.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/disable_border_radius.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/configed/design_default.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/configed/settings_default.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/custom.css" media="all">
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/print.css" media="print">
-<script type="text/javascript" src="http://cdn.ego.co.uk/media/js/09e9070f8b931f7468f61754e1aefdb1.js"></script>
-<!--[if gt IE 7]>
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/skin/frontend/smartwave/ego/css/styles-ie.css" media="all" />
-<![endif]-->
-<!--[if lt IE 7]>
-<script type="text/javascript" src="http://cdn.ego.co.uk/media/js/0f771a6de2cc0acdfa612717b4f26b02.js"></script>
-<![endif]-->
-<!--[if lt IE 9]>
-<script type="text/javascript" src="http://cdn.ego.co.uk/media/js/aaba7d47523ab4bfe57dda7d148e4864.js"></script>
-<![endif]-->
-
-<script type="text/javascript">
-//<![CDATA[
-Mage.Cookies.path     = '/';
-Mage.Cookies.domain   = '.ego.co.uk';
-//]]>
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-optionalZipCountries = ["HK","IE","MO","PA"];
-//]]>
-</script>
-
-<!-- Nosto Meta Tags -->
-<meta name="nosto-version" content="2.8.2">
-<meta name="nosto-unique-id" content="7b9f56f68a4918643b145c4f39e2b9d239ca01f69bf273c14019dacdb357e07d">
-<meta name="nosto-language" content="en">
-<!-- Nosto Tagging Script -->
-    <script type="text/javascript" src="//connect.nosto.com/include/bm4ttv73" async=""></script>
-<!-- Nosto `add-to-cart` Script -->
-<script type="text/javascript">
-    if (typeof Nosto === "undefined") {
-        var Nosto = {};
-    }
-    Nosto.addProductToCart = function (productId, element) {
-        if (typeof nostojs !== 'undefined' && typeof element == 'object') {
-            var slotId = Nosto.resolveContextSlotId(element);
-            if (slotId) {
-                nostojs(function (api) {
-                    api.recommendedProductAddedToCart(productId, slotId);
-                });
-            }
-        }
-        var form = document.createElement("form");
-        form.setAttribute("method", "post");
-        form.setAttribute("action", "http://ego.co.uk/checkout/cart/add/");
-
-        var hiddenFields = {
-            "product": productId,
-            "form_key": "FY5Y9VWctREesOaA"
-        };
-
-        for (var key in hiddenFields) {
-            if (hiddenFields.hasOwnProperty(key)) {
-                var hiddenField = document.createElement("input");
-                hiddenField.setAttribute("type", "hidden");
-                hiddenField.setAttribute("name", key);
-                hiddenField.setAttribute("value", hiddenFields[key]);
-                form.appendChild(hiddenField);
-            }
-        }
-
-        document.body.appendChild(form);
-        form.submit();
-    };
-    Nosto.resolveContextSlotId = function (element) {
-        var m = 20;
-        var n = 0;
-        var e = element;
-        while (typeof e.parentElement !== "undefined" && e.parentElement) {
-            ++n;
-            e = e.parentElement;
-            if (e.getAttribute('class') == 'nosto_element' && e.getAttribute('id')) {
-                return e.getAttribute('id');
-            }
-            if (n >= m) {
-                return false;
-            }
-        }
-        return false;
-    }
-
-</script>
-
-
-<script type="text/javascript">
-    //Email Capture For Quote
-
-    var emailCapture = Class.create();
-    emailCapture.prototype = {
-        initialize: function(options) {
-            this.options = Object.extend({
-                elements: "input[name='billing[email]']"
-            }, options || {} );
-
-            // Observe blur on email field
-            $$(this.options.elements).each(function(email) {
-                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
-            }.bind(this));
-        },
-
-        //capture email
-        captureEmail: function(event) {
-            var el = $(Event.element(event));
-            //validate email
-            if(el.value && this.validateEmail(el.value)){
-                //ajax call
-                new Ajax.Request('http://ego.co.uk/' + 'connector/ajax/emailcapture', {
-                    method: 'post',
-                    parameters:{
-                        email:el.value
-                    }
-                });
-            }
-        },
-
-        //email validation
-        validateEmail: function (email) {
-            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-            return re.test(email);
-        }
-    };
-
-    //Email Capture For Newsletter
-
-    var newsletterEmailCapture = Class.create();
-    newsletterEmailCapture.prototype = {
-        initialize: function(options) {
-            this.options = Object.extend({
-                elements: "input[name='email']"
-            }, options || {} );
-
-            // Observe blur on email field
-            $$(this.options.elements).each(function(email) {
-                Event.observe(email,'blur',this.captureEmail.bindAsEventListener(this));
-            }.bind(this));
-        },
-
-        //capture email
-        captureEmail: function(event) {
-            var el = $(Event.element(event));
-            //validate email
-            if(el.value && this.validateEmail(el.value)){
-                //ajax call
-                new Ajax.Request('http://ego.co.uk/' + 'connector/ajax/emailcapture', {
-                    method: 'post',
-                    parameters:{
-                        email:el.value
-                    }
-                });
-            }
-        },
-
-        //email validation
-        validateEmail: function (email) {
-            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-            return re.test(email);
-        }
-    };
-</script><!-- Easy Email Capture For Checkout -->
-    <script type="text/javascript">
-        //<![CDATA[
-        document.observe("dom:loaded", function() {
-            window.emailcapture = new emailCapture();
-        });
-        //]]>
-    </script>
-
-<!-- Easy Email Capture For Newsletter Field -->
-    <script type="text/javascript">
-        //<![CDATA[
-        document.observe("dom:loaded", function() {
-            window.newsletterEmailCapture = new newsletterEmailCapture();
-        });
-        //]]>
-    </script>
-
-<!-- Begin Monetate ExpressTag - Init -->
-<script type="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<title>Privacy Policy</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/css/styles-m.min.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/css/styles-l.min.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/css/print.min.css">
+<script type="text/javascript" src="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/requirejs/require.min.js"></script>
+<script type="text/javascript" src="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/requirejs-min-resolver.min.js"></script>
+<script type="text/javascript" src="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/mage/requirejs/mixins.min.js"></script>
+<script type="text/javascript" src="https://ego.co.uk/static/version1520834054/_requirejs/frontend/Corra/ego/en_GB/requirejs-config.min.js"></script>
+<link rel="icon" type="image/x-icon" href="https://ego.co.uk/media/favicon/default/favicon.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://ego.co.uk/media/favicon/default/favicon.png">
+<meta name="google-site-verification" content="2JEhM_iNFnznhzvMHwosyKF82VATx1stZP5lyLPkJjU">
+  <meta name="google-site-verification" content="T275UyBafjYiBhjSyI_YdgmOUboZ0Js16r5qIuS2xN4">
+  <!--77cb647bceb2273ea3677563ad2b7166-->
+          <script type="text/javascript">
 //<![CDATA[
     window.monetateQ = window.monetateQ || [];
-    window.monetateData = window.monetateData || {};
-    window.monetateData.pageType = "unknown";
+    window.monetateQ.push(["setPageType", "unknown"]);
+        window.monetateData = window.monetateData || {};
+    window.monetateData.setPageType = "unknown";
 //]]>
-</script>
-<!-- End Monetate ExpressTag -->
-    <script type="text/javascript">
-        
-            window.ometria = window.ometria || {};
-            window.ometria.raw_data = {"store":"1","store_url":"http:\/\/ego.co.uk\/","route":"cms","controller":"page","action":"view","type":"content"};
+</script><!--EGOTCS-407 :HREFLANG tags added to HEAD -->
+<link rel="alternate" href="https://egoshoes.com/privacy-policy-cookie-restriction-mode/" hreflang="en-US">
+<link rel="alternate" href="https://ca.egoshoes.com/privacy-policy-cookie-restriction-mode/" hreflang="en-CA">
+<link rel="alternate" href="https://au.egoshoes.com/privacy-policy-cookie-restriction-mode/" hreflang="en-AU">
+<link rel="alternate" href="https://eu.egoshoes.com/privacy-policy-cookie-restriction-mode/" hreflang="en-EU">
+<link rel="alternate" href="https://ego.co.uk/privacy-policy-cookie-restriction-mode/" hreflang="en-GB">
+<!--HREFLANG tags added to HEAD Ends--><link rel="stylesheet" type="text/css" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">    </head>
+    <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/images/loader-2.gif&quot;}}" class="cms-privacy-policy-cookie-restriction-mode cms-page-view page-layout-1column">
+            <script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
 
-                        (function(){
-            var url=window.location.protocol+"//cdn.ometria.com/tags/cd98bc82c5e7d2d7.js";
-            setTimeout(function(){var sc=document.createElement('script');sc.src=url;sc.setAttribute('async','true');
-            document.getElementsByTagName("head")[0].appendChild(sc);},50);
-        })();
-            </script>
-<script type="text/javascript">
-	jQuery(function($){
-		var scrolled = false;
-		$(window).scroll(function(){
-			    if(140<$(window).scrollTop() && !scrolled){
-                    if(!$('.header-container .menu-wrapper .mini-cart').length && !$('.header-container .menu-wrapper .sticky-logo').length){
-				    $('.header-container').addClass("sticky-header");
-				    var minicart = $('.header-container .mini-cart').html();
-				    $('.header-container .menu-wrapper').append('<div class="mini-cart">'+minicart+'</div>');
-                				    $('.header-container .header-wrapper > div').each(function(){
-					    if($(this).hasClass("container")){
-						    $(this).addClass("already");
-					    } else {
-						    $(this).addClass("container");
-					    }
-				    });
-				    scrolled = true;
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                if (versionObj.version !== 'f978a99bf6b2bd15de583448db2f28e410512628') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: 'f978a99bf6b2bd15de583448db2f28e410512628'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
                     }
-			    }
-			    if(140>=$(window).scrollTop() && scrolled){
-				    $('.header-container').removeClass("sticky-header");
-				    $('.header-container .menu-wrapper .mini-cart').remove();
-                				    scrolled = false;
-				    $('.header-container .header-wrapper > div').each(function(){
-					    if($(this).hasClass("already")){
-						    $(this).removeClass("already");
-					    } else {
-						    $(this).removeClass("container");
-					    }
-				    });
-			    }
-		});
-	});
-</script>    <script src="https://www.dwin1.com/7576.js" type="text/javascript" defer="defer"></script>
-
-
-    
-    <script type="text/javascript">
-
-        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-            document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-        fbq('init', '852907161509011');
-        fbq('track', 'PageView');
-
+                });
+            }
+        });
     </script>
 
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".ego.co.uk",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
     <noscript>
-        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=852907161509011&ev=PageView&noscript=1"/>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
+        </div>
     </noscript>
 
-
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate({"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Please enter a valid phone number. For example 01234 567890,  (123) 456-7890 or 123-456-7890.","Please enter a valid email address. For example johndoe@domain.com.":"Please enter a valid email address. For example johndoe@example.com.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Please enter a valid postcode or zip. For example AB1 1AB, 90602 or 90602-1234.","Please enter a valid zip code.":"Please enter a valid postcode or zip.","Please enter a valid $ amount. For example $100.00.":"Please enter a valid \u00a3 amount. For example \u00a3100.00.","Please select State\/Province.":"Please select County\/State.","Add to Cart":"Add to Bag"});
-        //]]></script><style>
-.student-index-login .success-msg {  display:none;}
-.blog-post-view .postContent, .blog-index-list .postContent {text-transform:none;}
-.cms-festival .image-link:hover::before {
-    opacity: 0 !important;
-}
-@media (min-width:768px){
-    .col-sm-6.cms-left {
-		padding-right: 0 !important;
-	}
-	.col-sm-6.cms-right{
-		padding-left: 0 !important;
-	}
-}
-@media (min-width:498px){
-	.custom-product-1{
-		padding-right: 0 !important;
-	}
-	.custom-product-2{
-		padding-right: 0 !important;
-		 background-color: #ffe8e2;
-	}
-	.custom-product-3{
-		padding-right: 0 !important;
-		 background-color: #ffe8e2;
-	}
-	.custom-product-4{
-		padding-left: 0 !important;
-	}
-}
-@media (max-width:497px){
-	.custom-product-1{
-		padding-right: 0px !important;
-	}
-	.custom-product-2{
-		padding-left: 0px !important;
-	}
-	.custom-product-3{
-		padding-right: 0px !important;
-	}
-	.custom-product-4{
-		padding-left: 0px !important;
-	}
-}
-
-</style>
-
-<meta name="majestic-site-verification" content="MJ12_8ac20ae8-9562-43bc-9a09-d2260146b332">
-
-<meta name="msvalidate.01" content="1CE82A3CC24BDCC8BEEB3CB09B2CDAC0">
-
-<meta name="yandex-verification" content="e096930c00511e92">
-
-<meta name="google-site-verification" content="2JEhM_iNFnznhzvMHwosyKF82VATx1stZP5lyLPkJjU"><script type="text/javascript">
-    jQuery.noConflict();
-    jQuery(document).ready(function($){
-        $('.search-icon').click(function(){
-            $('input#search').focus();
-        });
-    });
-
-    jQuery(window).on('load resize orientationchange', function(){
-        var screen = window.innerWidth;;
-        if (screen <= 767) {
-            jQuery('.search-area').css('width', '100%').css('width', '-=30px');
-            jQuery('#search').css('width', '100%').css('width', '-=40px');
-            jQuery('.mobile-nav.side-block').css('width', screen-60);
-        }
-        else {
-            jQuery('.search-area').css('width', '');
-            jQuery('#search').css('width', '');
-            jQuery('.mobile-nav.side-block').css('width', '');
-        }
-    });
-    //<![CDATA[
-    if (typeof dailydealTimeCountersCategory == 'undefined') {
-        var dailydealTimeCountersCategory = new Array();
-        var i = 0;
-    }
-    //]]>
-</script>
-<script type="text/javascript">(function(){function f(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//platform2.cloud-iq.com/cartrecovery/store.js?app_id=4403";var t = document.getElementsByTagName('head')[0];t.appendChild(e);}f();})();</script><script type="text/javascript" async="" src="//platform2.cloud-iq.com/cartrecovery/store.js?app_id=4403"></script><script src="https://cdn.ometria.com/tags/cd98bc82c5e7d2d7.js" async="true"></script></head>
-<body class=" cms-page-view cms-privacy-policy-cookie-restriction-mode">
-<script type="text/javascript">
-//<![CDATA[
-if (typeof(Varien.searchForm) !== 'undefined') {
-    Varien.searchForm.prototype._selectAutocompleteItem = function(element) {
-        var link = element.down();
-        if (link && link.tagName == 'A') {
-            setLocation(link.href);
-        } else {
-            if (element.title){
-                this.field.value = element.title;
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "trackingCode": {
+                "isEnabled": "1"
             }
-            this.form.submit();
         }
-    };
-    Varien.searchForm.prototype.initAutocomplete = function(url, destinationElement) {
-        new Ajax.Autocompleter(
-            this.field,
-            destinationElement,
-            url,
-            {
-                paramName: this.field.name,
-                method: 'get',
-                minChars: 2,
-                frequency: .1,
-                updateElement: this._selectAutocompleteItem.bind(this),
-                onShow : function(element, update) {
-                    if(!update.style.position || update.style.position=='absolute') {
-                        update.style.position = 'absolute';
-                        Position.clone(element, update, {
-                            setHeight: false,
-                            offsetTop: element.offsetHeight
+    }
+</script>
+
+                <!-- GOOGLE TAG MANAGER -->
+                <noscript>
+                    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T8RXK9" height="0" width="0"
+                            style="display:none;visibility:hidden"></iframe>
+                </noscript>
+                <script>
+                    //<![CDATA[
+                    (function (w, d, s, l, i) {
+                        w[l] = w[l] || [];
+                        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+                        var f = d.getElementsByTagName(s)[0];
+                        var j = d.createElement(s);
+                        var dl = l != 'dataLayer' ? '&l=' + l : '';
+                        j.async = true;
+                        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+                        f.parentNode.insertBefore(j, f);
+                    })(window, document, 'script', 'dataLayer', 'GTM-T8RXK9');
+
+                    var dlCurrencyCode = 'GBP';
+                                        //]]>
+                </script>
+                <!-- END GOOGLE TAG MANAGER -->
+            <script>
+    var dlCurrencyCode = dlCurrencyCode || '';
+    var dataLayer = dataLayer || [];
+    var staticImpressions = staticImpressions || [];
+    var staticPromotions = staticPromotions || [];
+    var updatedImpressions = updatedImpressions || [];
+    var updatedPromotions = updatedPromotions || [];
+    var cookieAddToCart = 'add_to_cart';
+    var cookieRemoveFromCart = cookieRemoveFromCart || 'remove_from_cart';
+    var bannerCounter = bannerCounter || 0;
+
+    require([
+        "jquery",
+        "prototype",
+        "Magento_Customer/js/customer-data"
+    ], function(jQuery, prototype, customerData){
+
+        function GoogleAnalyticsUniversal(){}
+        GoogleAnalyticsUniversal.prototype = {
+            activeOnCategory : function(id, name, category, list, position) {
+                dataLayer.push({
+                    'event': 'productClick',
+                    'ecommerce': {
+                        'click': {
+                            'actionField': {
+                                'list': list
+                            },
+                            'products': [{
+                                'id': id,
+                                'name': name,
+                                'category': category,
+                                'list': list,
+                                'position': position
+                            }]
+                        }
+                    }
+                });
+            },
+            activeOnProducts : function(id, name, list, position) {
+                dataLayer.push({
+                    'event': 'productClick',
+                    'ecommerce': {
+                        'click': {
+                            'actionField': {
+                                'list': list
+                            },
+                            'products': [{
+                                'id': id,
+                                'name': name,
+                                'list': list,
+                                'position': position
+                            }]
+                        }
+                    }
+                });
+            },
+            addToCart : function(id, name, price, quantity) {
+                dataLayer.push({
+                    'event': 'addToCart',
+                    'ecommerce': {
+                        'currencyCode' : dlCurrencyCode,
+                        'add': {
+                            'products': [{
+                                'id': id,
+                                'name': name,
+                                'price': price,
+                                'quantity': quantity
+                            }]
+                        }
+                    }
+                });
+            },
+            clickBanner : function(id, name, creative, position) {
+                dataLayer.push({
+                    'event': 'promotionClick',
+                    'ecommerce': {
+                        'promoClick': {
+                            'promotions': [{
+                                'id': id,
+                                'name': name,
+                                'creative': creative,
+                                'position': position
+                            }]
+                        }
+                    }
+                });
+            },
+            bindImpressionClick : function(id, type, name, category, list, position, blockType, listPosition) {
+                var productLink = [];
+                var eventBlock;
+                switch (blockType)  {
+                    case 'catalog.product.related':
+                        eventBlock = '.products-related .products';
+                        break;
+                    case 'product.info.upsell':
+                        eventBlock = '.products-upsell .products';
+                        break;
+                    case 'checkout.cart.crosssell':
+                        eventBlock = '.products-crosssell .products';
+                        break;
+                    case 'category.products.list':
+                    case 'search_result_list':
+                        eventBlock = '.products .products';
+                        break;
+                }
+                productLink = $$(eventBlock + ' .item:nth(' + (listPosition) + ') a');
+                if (type == 'configurable' || type == 'bundle' || type == 'grouped') {
+                    productLink = $$(
+                        eventBlock + ' .item:nth(' + (listPosition) + ') .tocart',
+                        eventBlock + ' .item:nth(' + (listPosition) + ') a'
+                    );
+                }
+                productLink.each(function(element) {
+                    element.observe('click', function(event) {
+                        googleAnalyticsUniversal.activeOnProducts(
+                            id,
+                            name,
+                            list,
+                            position);
+                    });
+                });
+            },
+
+            updateImpressions: function() {
+                var pageImpressions = this.mergeImpressions();
+                var dlImpressions = {
+                    'event' : 'productImpression',
+                    'ecommerce' : {
+                        'impressions' : []
+                    }
+                };
+                var impressionCounter = 0;
+                for (blockName in pageImpressions) {
+                    if (blockName === 'length' || !pageImpressions.hasOwnProperty(blockName))
+                        continue;
+                    for (var i = 0; i < pageImpressions[blockName].length; i++) {
+                        var impression = pageImpressions[blockName][i];
+                        dlImpressions.ecommerce.impressions.push({
+                            'id': impression.id,
+                            'name': impression.name,
+                            'category': impression.category,
+                            'list': impression.list,
+                            'position': impression.position
+                        });
+                        impressionCounter++;
+                        this.bindImpressionClick(
+                            impression.id,
+                            impression.type,
+                            impression.name,
+                            impression.category,
+                            impression.list,
+                            impression.position,
+                            blockName,
+                            impression.listPosition
+                        );
+                    }
+                }
+                if (impressionCounter > 0) {
+                    dataLayer.push(dlImpressions);
+                }
+            },
+
+            mergeImpressions: function() {
+                var pageImpressions = [];
+                var blockNames = ["category.products.list","product.info.upsell","catalog.product.related","checkout.cart.crosssell","search_result_list"];
+                blockNames.each(function(blockName) {
+                    // check if there is a new block generated by FPC placeholder update
+                    if (blockName in updatedImpressions) {
+                        pageImpressions[blockName] = updatedImpressions[blockName];
+                    } else if (blockName in staticImpressions) { // use the static data otherwise
+                        pageImpressions[blockName] = staticImpressions[blockName];
+                    }
+                });
+                return pageImpressions;
+            },
+
+            updatePromotions : function() {
+                var dlPromotions = {
+                    'event' : 'promotionView',
+                    'ecommerce': {
+                        'promoView': {
+                            'promotions' : []
+                        }
+                    }
+                };
+                var pagePromotions = [];
+                // check if there is a new block generated by FPC placeholder update
+                if (updatedPromotions.length) {
+                    pagePromotions = updatedPromotions;
+                }
+                // use the static data otherwise
+                if (pagePromotions.length == 0 && staticPromotions.length) {
+                    pagePromotions = staticPromotions;
+                }
+                var promotionCounter = 0;
+                var bannerIds = [];
+                if (jQuery('[data-banner-id]').length) {
+                    _.each(jQuery('[data-banner-id]'), function (banner) {
+                        var banner = jQuery(banner);
+                        var ids = (banner.data('ids') + '').split(',');
+                        bannerIds = jQuery.merge(bannerIds, ids);
+                    });
+                }
+                bannerIds = jQuery.unique(bannerIds);
+                for (var i = 0; i < pagePromotions.length; i++) {
+                    var promotion = pagePromotions[i];
+                    if (jQuery.inArray(promotion.id, bannerIds) == -1 || promotion.activated == '0') {
+                        continue;
+                    }
+                    dlPromotions.ecommerce.promoView.promotions.push({
+                        'id': promotion.id,
+                        'name': promotion.name,
+                        'creative': promotion.creative,
+                        'position': promotion.position
+                    });
+                    promotionCounter++;
+                }
+                if (promotionCounter > 0) {
+                    dataLayer.push(dlPromotions);
+                }
+                jQuery('[data-banner-id]').on('click', '[data-banner-id]', function(e){
+                    var bannerId = jQuery(this).attr('data-banner-id');
+                    var promotions = _.filter(pagePromotions, function(item) {
+                        return item.id === bannerId;
+                    });
+                    _.each(promotions, function(promotion) {
+                        googleAnalyticsUniversal.clickBanner(
+                            promotion.id,
+                            promotion.name,
+                            promotion.creative,
+                            promotion.position
+                        );
+                    });
+                });
+            }
+        };
+
+        GoogleAnalyticsUniversalCart = function(){
+            this.productQtys = [];
+            this.origProducts = {};
+            this.productWithChanges = [];
+            this.addedProducts = [];
+            this.removedProducts = [];
+            this.googleAnalyticsUniversalData = {};
+        };
+        GoogleAnalyticsUniversalCart.prototype = {
+            // ------------------- shopping cart ------------------------
+            listenMinicartReload : function() {
+                var context = this;
+                if (typeof(Minicart) != 'undefined' && typeof(Minicart.prototype.initAfterEvents)) {
+                    Minicart.prototype.initAfterEvents['GoogleAnalyticsUniversalCart:subscribeProductsUpdateInCart']
+                        = function() {
+                        context.subscribeProductsUpdateInCart();
+                        context.parseAddToCartCookies();
+                        context.parseRemoveFromCartCookies();
+                    };
+                    // if we are removing last item init don't calling
+                    Minicart.prototype.removeItemAfterEvents[
+                        'GoogleAnalyticsUniversalCart:subscribeProductsRemoveFromCart'
+                        ] = function() {
+                        context.parseRemoveFromCartCookies();
+                    };
+                }
+            },
+            subscribeProductsUpdateInCart : function() {
+                var context = this;
+                $$('[data-cart-item-update]').each(function(element) {
+                    $(element).stopObserving('click').observe('click', function(){
+                        context.updateCartObserver();
+                    });
+                });
+                jQuery('[data-block="minicart"]').on('mousedown', '.update-cart-item', function(){
+                    context.updateCartObserver();
+                });
+
+                $$('[data-multiship-item-update]').each(function(element) {
+                    $(element).stopObserving('click').observe('click', function(){
+                        context.updateMulticartCartObserver();
+                    });
+                });
+                $$('[data-cart-empty]').each(function(element){
+                    $(element).stopObserving('click').observe('click', function(){
+                        context.emptyCartObserver();
+                    });
+                });
+            },
+            emptyCartObserver : function() {
+                this.collectOriginalProducts();
+                for (var i in this.origProducts) {
+                    if (i != 'length' && this.origProducts.hasOwnProperty(i)) {
+                        var product = Object.extend({}, this.origProducts[i]);
+                        this.removedProducts.push(product);
+                    }
+                }
+                this.cartItemRemoved();
+            },
+            updateMulticartCartObserver : function() {
+                this.collectMultiProductsWithChanges();
+                this.collectProductsForMessages();
+                this.cartItemAdded();
+                this.cartItemRemoved();
+            },
+            updateCartObserver : function() {
+                this.collectProductsWithChanges();
+                this.collectProductsForMessages();
+                this.cartItemAdded();
+                this.cartItemRemoved();
+            },
+            collectMultiProductsWithChanges : function() {
+                this.collectOriginalProducts();
+                this.collectMultiCartQtys();
+                this.productWithChanges = [];
+                var groupedProducts = {};
+                for (var i = 0; i < this.productQtys.length; i++) {
+                    var cartProduct = this.productQtys[i];
+                    if (typeof(groupedProducts[cartProduct.id]) == 'undefined') {
+                        groupedProducts[cartProduct.id] = parseInt(cartProduct.qty, 10);
+                    } else {
+                        groupedProducts[cartProduct.id] += parseInt(cartProduct.qty, 10);
+                    }
+                }
+                for (var j in groupedProducts) {
+                    if (groupedProducts.hasOwnProperty(j)) {
+                        if (
+                            (typeof(this.origProducts[j]) != 'undefined')
+                            && (groupedProducts[j] != this.origProducts[j].qty)
+                        ) {
+                            var product = Object.extend({}, this.origProducts[j]);
+                            product['qty'] = groupedProducts[j];
+                            this.productWithChanges.push(product);
+                        }
+                    }
+                }
+            },
+            collectProductsWithChanges : function () {
+                this.collectOriginalProducts();
+                this.collectCartQtys();
+                this.collectMiniCartQtys();
+                this.productWithChanges = [];
+                for (var i = 0; i < this.productQtys.length; i++) {
+                    var cartProduct = this.productQtys[i];
+                    if (
+                        (typeof(this.origProducts[cartProduct.id]) != 'undefined') &&
+                        (cartProduct.qty != this.origProducts[cartProduct.id].qty)
+                    ) {
+                        var product = Object.extend({}, this.origProducts[cartProduct.id]);
+                        if (parseInt(cartProduct.qty, 10) > 0) {
+                            product['qty'] = cartProduct.qty;
+                            this.productWithChanges.push(product);
+                        }
+                    }
+                }
+            },
+            collectOriginalProducts : function() {
+                var products = {};
+                var items = customerData.get('cart')().items;
+                if (items !== undefined) {
+                    items.each(function(item) {
+                        products[item.product_sku] = {
+                            "id": item.product_sku,
+                            "name": item.product_name,
+                            "price": item.product_price_value,
+                            "qty": parseInt(item.qty, 10)
+                        };
+                    });
+                }
+                this.googleAnalyticsUniversalData['shoppingCartContent'] = products;
+                this.origProducts = this.googleAnalyticsUniversalData['shoppingCartContent'];
+            },
+            collectMultiCartQtys : function() {
+                var productQtys = [];
+                $$('[data-multiship-item-id]').each(function(element){
+                    productQtys.push({
+                        'id' : $(element).readAttribute('data-multiship-item-id'),
+                        'qty' : $(element).getValue()
+                    });
+                });
+                this.productQtys = productQtys;
+            },
+            collectCartQtys : function() {
+                var productQtys = [];
+                $$('[data-cart-item-id]').each(function(element){
+                    productQtys.push({
+                        'id' : $(element).readAttribute('data-cart-item-id'),
+                        'qty' : $(element).getValue()
+                    });
+                });
+                this.productQtys = productQtys;
+            },
+            collectMiniCartQtys : function() {
+                var productQtys = [];
+                $$('input[data-cart-item-id]').each(function(element){
+                    productQtys.push({
+                        'id' : $(element).readAttribute('data-cart-item-id'),
+                        'qty' : $(element).getValue()
+                    });
+                });
+                this.productQtys = productQtys;
+            },
+            collectProductsForMessages : function() {
+                this.addedProducts = [];
+                this.removedProducts = [];
+                for (var i = 0; i < this.productWithChanges.length; i++) {
+                    var product = this.productWithChanges[i];
+                    if (typeof(this.origProducts[product.id]) != 'undefined') {
+                        if (product.qty > this.origProducts[product.id].qty) {
+                            product.qty = Math.abs(product.qty - this.origProducts[product.id].qty);
+                            this.addedProducts.push(product);
+                        } else if (product.qty < this.origProducts[product.id].qty) {
+                            product.qty = Math.abs(this.origProducts[product.id].qty - product.qty);
+                            this.removedProducts.push(product);
+                        }
+                    }
+                }
+            },
+            formatProductsArray : function(productsIn) {
+                var productsOut = [];
+                var itemId;
+                for (var i in productsIn)
+                {
+                    if (i != 'length' && productsIn.hasOwnProperty(i)) {
+                        if (typeof(productsIn[i]['sku']) != 'undefined') {
+                            itemId = productsIn[i].sku;
+                        } else {
+                            itemId = productsIn[i].id;
+                        }
+                        productsOut.push({
+                            'id': itemId,
+                            'name': productsIn[i].name,
+                            'price': productsIn[i].price,
+                            'quantity': parseInt(productsIn[i].qty, 10)
                         });
                     }
-                    Effect.Appear(update,{duration:0});
                 }
-
+                return productsOut;
+            },
+            cartItemAdded : function() {
+                if (this.addedProducts.length == 0) {
+                    return;
+                }
+                dataLayer.push({
+                    'event': 'addToCart',
+                    'ecommerce': {
+                        'currencyCode' : dlCurrencyCode,
+                        'add': {
+                            'products': this.formatProductsArray(this.addedProducts)
+                        }
+                    }
+                });
+                this.addedProducts = [];
+            },
+            cartItemRemoved : function() {
+                if (this.removedProducts.length == 0) {
+                    return;
+                }
+                dataLayer.push({
+                    'event': 'removeFromCart',
+                    'ecommerce': {
+                        'currencyCode' : dlCurrencyCode,
+                        'remove': {
+                            'products': this.formatProductsArray(this.removedProducts)
+                        }
+                    }
+                });
+                this.removedProducts = [];
+            },
+            parseAddToCartCookies : function(){
+                if(getCookie(cookieAddToCart)){
+                    this.addedProducts = [];
+                    var addProductsList = decodeURIComponent(getCookie(cookieAddToCart));
+                    this.addedProducts = JSON.parse(addProductsList);
+                    delCookie(cookieAddToCart);
+                    this.cartItemAdded();
+                }
+            },
+            parseRemoveFromCartCookies : function(){
+                if(getCookie(cookieRemoveFromCart)){
+                    this.removedProducts = [];
+                    var removeProductsList = decodeURIComponent(getCookie(cookieRemoveFromCart));
+                    this.removedProducts = JSON.parse(removeProductsList);
+                    delCookie(cookieRemoveFromCart);
+                    this.cartItemRemoved();
+                }
             }
-        );
-    };
-    Autocompleter.Base.prototype.markPrevious = function() {
-        if (this.index > 0) {
-            this.index--;
-        } else {
-            this.index = this.entryCount - 1;
-        }
-        var entry = this.getEntry(this.index);
-        if (entry.select('a').length === 0) {
-            this.markPrevious(); // Ignore items that don't have link
-        }
-    };
-    Autocompleter.Base.prototype.markNext = function() {
-        if (this.index < this.entryCount - 1) {
-            this.index++;
-        } else {
-            this.index = 0;
-        }
-        var entry = this.getEntry(this.index);
-        if (entry.select('a').length === 0) {
-            this.markNext(); // Ignore items that don't have link
-        } else {
-            entry.scrollIntoView(false);
-        }
-    };
-}
-//]]>
-</script>
+        };
 
-<!-- Nosto Cart Tagging -->
-<div class="nosto_cart" style="display:none">
-    <span class="hcid"></span>
-    </div><script type="text/javascript">
-    var google_tag_params = {
-        ecomm_prodid: '',
-        ecomm_pagetype: 'privacy-policy-cookie-restriction-mode'
-            };
+        var googleAnalyticsUniversal = new GoogleAnalyticsUniversal();
+        var googleAnalyticsUniversalCart = new GoogleAnalyticsUniversalCart();
+
+        document.observe('dom:loaded', function() {
+            googleAnalyticsUniversal.updatePromotions();
+            googleAnalyticsUniversal.updateImpressions();
+            googleAnalyticsUniversalCart.parseAddToCartCookies();
+            googleAnalyticsUniversalCart.parseRemoveFromCartCookies();
+            googleAnalyticsUniversalCart.subscribeProductsUpdateInCart();
+            googleAnalyticsUniversalCart.listenMinicartReload();
+            dataLayer.push({'ecommerce':{'impressions':0,'promoView':0}});
+        });
+
+        function getCookie(name) {
+            var cookie = " " + document.cookie;
+            var search = " " + name + "=";
+            var setStr = null;
+            var offset = 0;
+            var end = 0;
+            if (cookie.length > 0) {
+                offset = cookie.indexOf(search);
+                if (offset != -1) {
+                    offset += search.length;
+                    end = cookie.indexOf(";", offset);
+                    if (end == -1) {
+                        end = cookie.length;
+                    }
+                    setStr = decodeURI(cookie.substring(offset, end));
+                }
+            }
+            return(setStr);
+        }
+
+        function delCookie(name) {
+            var date = new Date(0);
+            var cookie = name + "=" + "; path=/; expires=" + date.toUTCString();
+            document.cookie = cookie;
+        }
+    });
 </script>
+<!--Start of Attraqt Script-->
+<script>
+var attraqtUrl= "//fsm6.attraqt.com/zones/c56119e9-4de7-42d0-9b73-a0a251a03bd8.min.js"; 
+require(['jquery'],function($){
+    	//This script is not ran on PLP, Search and PDP
+        if(!$('body').hasClass("catalog-category-view") && !$('body').hasClass("cms-search") && !$('body').hasClass("catalog-product-view") && !$('body').hasClass("checkout-cart-index")){
+            var scriptTag = document.createElement('script');
+            scriptTag.type = 'text/javascript';
+            scriptTag.src = attraqtUrl;
+            document.getElementsByTagName("head")[0].appendChild(scriptTag);
+        }
+});
+</script>
+<!--End of Attraqt Script-->
+<div class="page-wrapper">        <header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
+
+<div class="header-wrapper"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+    <a class="logo" href="https://ego.co.uk/" title="EGO">
+        <img src="https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/images/logo.svg" alt="EGO" width="94" height="33">
+    </a>
+    <div class="sections nav-sections">
+                <div id="jq-nav-sections" class="section-items nav-sections-items">
+            <div class="section-item-title nav-sections-item-title currency-switcher-title"><a class="nav-sections-item-switch jq-nav-link" data-target-id="currency-switcher" href="javascript:;"><strong class="action toggle switcher-trigger"></strong></a></div>
+            <div class="section-item-content currency-switcher switcher-options currency-switcher-pushmenu" id="currency-switcher" style="display: none;"></div>     
+                                                        
+                    <div class="section-item-title nav-sections-item-title">
+                            <a class="jq-nav-link home-icon nav-sections-item-switch" data-target-id="store-menu" href="https://ego.co.uk/"><span>Home</span></a>
+                    </div>
+            
+                    <div class="section-item-content nav-sections-item-content" id="store-menu">
+<nav id="jq-global-nav" class="navigation category-empty" data-action="navigation">
+    <ul>
+        <li data-nav-level="nav-1" class="jq-category-node-5 level0 nav-1 first level-top parent"><a href="https://ego.co.uk/new-in.html" class="level-top"><span>New In</span></a><div class="level0 submenu ego-menu"><ul>
+        <li><a href="https://ego.co.uk/new-in.html">All New In</a></li>
+	<li><a href="https://ego.co.uk/new-in/new-in-heels.html">New In Heels</a></li>
+	<li><a href="https://ego.co.uk/new-in/new-in-boots.html">New In Boots</a></li>
+	<li><a href="https://ego.co.uk/new-in/back-in-stock.html">Back In Stock</a></li>
+	<li><a href="https://ego.co.uk/new-in/accessories.html">Accessories</a></li>
+        <li><a href="https://ego.co.uk/occasion-shop">Step Up To The Occasion</a></li>
+
+
+
+
+</ul>
+<div class="image-block new-in">
+<img src="https://ego.co.uk/media/wysiwyg/menu/NEWIN_27_02_18.jpg" alt="NEWIN">
+<h3></h3>
+</div>
+
+</div></li><li data-nav-level="nav-2" class="jq-category-node-26 level0 nav-2 level-top parent"><a href="https://ego.co.uk/heels.html" class="level-top"><span>Heels</span></a><div class="level0 submenu ego-menu"><ul>
+<li><a href="https://ego.co.uk/heels.html">All Heels</a></li>
+<li><a href="https://ego.co.uk/heels/stiletto-heels.html">Stiletto Heels</a></li>
+<li><a href="https://ego.co.uk/heels/perspex-heels.html">Perspex Heels</a></li>
+<li><a href="https://ego.co.uk/heels/block-heels.html">Block Heels</a></li>
+<li><a href="https://ego.co.uk/heels/heeled-sandals.html">Heeled Sandals</a></li>
+<li><a href="https://ego.co.uk/heels/lace-ups.html">Lace Up Heels</a></li>
+</ul>
+<div class="image-block heels">
+<img src="https://ego.co.uk/media/wysiwyg/menu/HEELS_27_02_18.jpg" alt="Heels">
+<h3></h3>
+</div></div></li><li data-nav-level="nav-3" class="jq-category-node-47 level0 nav-3 level-top parent"><a href="https://ego.co.uk/boots.html" class="level-top"><span>Boots</span></a><div class="level0 submenu ego-menu"><ul>
+<li><a href="https://ego.co.uk/boots.html">All Boots</a></li>
+<li><a href="https://ego.co.uk/boots/ankle-boots.html">Ankle Boots</a></li>
+<li><a href="https://ego.co.uk/boots/long-boots.html">Long Boots</a></li>
+<li><a href="https://ego.co.uk/boots/sock-boots.html">Sock Boots</a></li>
+<li><a href="https://ego.co.uk/boots/biker-boots.html">Biker Boots</a></li>
+<li><a href="https://ego.co.uk/boots/lace-up-boots.html">Lace Up Boots</a></li>
+</ul>
+
+<div class="image-block boots">
+<img src="https://ego.co.uk/media/wysiwyg/menu/BOOTS_27_02_18.jpg" alt="Boots">
+<h3></h3>
+</div></div></li><li data-nav-level="nav-4" class="jq-category-node-77 level0 nav-4 level-top parent"><a href="https://ego.co.uk/flats.html" class="level-top"><span>Flats</span></a><div class="level0 submenu ego-menu"><ul>
+<li><a href="https://ego.co.uk/flats.html">All Flats</a></li>
+<li><a href="https://ego.co.uk/flats/mules-loafers.html">Mules &amp; Loafers</a></li>
+<li><a href="https://ego.co.uk/flats/espadrilles.html">Espadrilles</a></li>
+<li><a href="https://ego.co.uk/flats/trainers.html">Trainers</a></li>
+<li><a href="https://ego.co.uk/flats/sandals.html">Sandals</a></li>
+<li><a href="https://ego.co.uk/sandals/sliders.html">Sliders</a></li>
+</ul>
+
+<div class="image-block flats">
+<img src="https://ego.co.uk/media/wysiwyg/menu/FLATS_27_02_18.jpg" alt="Flats">
+<h3></h3>
+</div></div></li><li data-nav-level="nav-5" class="jq-category-node-83 level0 nav-5 level-top parent"><a href="https://ego.co.uk/trends.html" class="level-top"><span>Trends</span></a><div class="level0 submenu ego-menu"><ul>
+<li><a href="https://ego.co.uk/occasion-shop">Step Up To The Occasion</a></li>
+<li><a href="https://ego.co.uk/trends/pastels.html">Pastels</a></li>
+<li><a href="https://ego.co.uk/trends/colour-red.html">Red</a></li>
+<li><a href="https://ego.co.uk/heels/perspex-heels.html">Perspex</a></li>
+<li><a href="https://ego.co.uk/heels/lace-ups.html">Lace Up</a></li>
+<li><a href="https://ego.co.uk/trends/stud-up.html">Stud Up</a></li>
+<li><a href="https://ego.co.uk/trends/all-that-sparkle.html">All That Sparkle</a></li>
+
+</ul>
+
+<div class="image-block flats">
+<img src="https://ego.co.uk/media/wysiwyg/menu/TRENDS3.jpg" alt="Trends">
+<h3></h3>
+</div></div></li><li data-nav-level="nav-6" class="jq-category-node-447 level0 nav-6 level-top parent"><a href="https://ego.co.uk/special-offers.html" class="level-top"><span>Special Prices</span></a><div class="level0 submenu ego-menu"><ul>
+<li><a href="https://ego.co.uk/special-offers.html">All Shoes</a></li>
+<li><a href="https://ego.co.uk/special-offers/heels.html">Heels</a></li>
+<li><a href="https://ego.co.uk/special-offers/ankle-boots.html">Ankle Boots</a></li>
+<li><a href="https://ego.co.uk/special-offers/long-boots.html">Long Boots</a></li>
+</ul>
+<div class="image-block special prices">
+<img src="https://ego.co.uk/media/wysiwyg/menu/SPECIAL_27_02_18.jpg" alt="SPECIALPRICES">
+<h3></h3>
+</div>
+<style>
+.jq-category-node-447 > a {color: #ccb72a!important;}
+</style></div></li><li data-nav-level="nav-7" class="jq-category-node-86 level0 nav-7 last level-top parent"><a href="https://ego.co.uk/sale.html" class="level-top"><span>Sale</span></a><div class="level0 submenu ego-menu"><ul>
+<li><a href="https://ego.co.uk/sale.html">All Sale Shoes</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=3">Size 3</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=4">Size 4</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=5">Size 5</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=6">Size 6</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=7">Size 7</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=8">Size 8</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_Size=9">Size 9</a></li>
+<li><a href="https://ego.co.uk/sale.html?esp_filter_FSM_price=5.99%3A15.9899">Under £15</a></li>
+</ul>
+
+<div class="image-block sandals">
+<img src="https://ego.co.uk/media/wysiwyg/menu/SALE2.jpg" alt="sale">
+<h3></h3>
+</div> </div></li>            </ul>
+</nav>
+</div>
+                    
+                                                                                <div class="section-item-title nav-sections-item-title">
+                            <a class="jq-nav-link nav-sections-item-switch account-section" data-target-id="store-links" href="javascript:;"><span>Account</span></a>
+                    </div>
+                   <div style="display: none;" class="section-item-content nav-sections-item-content" id="store-links"><!-- Account links --></div>
+                
+                                    </div>
+    </div>
+<div class="head-right-block"><div class="switcher currency switcher-currency" id="switcher-currency">
+    <strong class="label switcher-label"><span>Currency</span></strong>
+    <div class="actions dropdown options switcher-options">
+        <div class="action toggle switcher-trigger" id="switcher-currency-trigger">
+            <strong class="currency-£">
+                <span>£</span>
+            </strong>
+        </div>
+        <div class="mage-dropdown-dialog switcher-dropdown">
+            <ul class="dropdown">
+                                                            <li class="website-base switcher-option current-active">
+                            <a href="javascript:;">£ GBP</a>
+                        </li>
+                                                                                <li class="website-egoshoes switcher-option">
+                            <a href="https://egoshoes.com/privacy-policy-cookie-restriction-mode/?web=uk-us">
+                                $ USA                            </a>
+                        </li>
+                                                                                <li class="website-egoshoes_eu switcher-option">
+                            <a href="https://eu.egoshoes.com/privacy-policy-cookie-restriction-mode/?web=uk-eu">
+                                € EUR                            </a>
+                        </li>
+                                                                                <li class="website-egoshoes_au switcher-option">
+                            <a href="https://au.egoshoes.com/privacy-policy-cookie-restriction-mode/?web=uk-au">
+                                $ AUS                            </a>
+                        </li>
+                                                                                <li class="website-egoshoes_ca switcher-option">
+                            <a href="https://ca.egoshoes.com/privacy-policy-cookie-restriction-mode/?web=uk-ca">
+                                $ CAN                            </a>
+                        </li>
+                                                </ul>
+        </div>
+    </div>
+</div>
 <script type="text/javascript">
-    /* <![CDATA[ */
-    var google_conversion_id = 930459031;
-    var google_custom_params = window.google_tag_params;
-    var google_remarketing_only = true;
-    /* ]]> */
+    var currencySwitchConfig = {
+        "appendTo":"#switcher-currency > .options",
+        "triggerTarget":"#switcher-currency-trigger",
+        "closeOnMouseLeave": false,
+        "triggerClass":"active",
+        "parentClass":"active",
+        "buttons":null
+    };
 </script>
-<div style="display: none">
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="https://ego.co.uk/checkout/cart/" data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+            <span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+    </a>
+            <div class="block block-minicart empty" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{
+                &quot;appendTo&quot;:&quot;[data-block=minicart]&quot;,
+                &quot;triggerTarget&quot;:&quot;.showcart&quot;,
+                &quot;timeout&quot;: &quot;2000&quot;,
+                &quot;closeOnMouseLeave&quot;: false,
+                &quot;closeOnEscape&quot;: true,
+                &quot;triggerClass&quot;:&quot;active&quot;,
+                &quot;parentClass&quot;:&quot;active&quot;,
+                &quot;buttons&quot;:[]}}">
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/ego.co.uk\/checkout\/cart\/","checkoutUrl":"https:\/\/ego.co.uk\/checkout\/","updateItemQtyUrl":"https:\/\/ego.co.uk\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/ego.co.uk\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/ego.co.uk\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"customerLoginUrl":"https:\/\/ego.co.uk\/customer\/account\/login\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/ego.co.uk\/captcha\/refresh\/","isRequired":false},"guest_checkout":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/ego.co.uk\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":1,"display_cart_subtotal_excl_tax":0,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals","children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}}}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/images/loader-1.gif"
+        }
+    }
     </script>
 </div>
-<noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/930459031/?value=0&amp;guid=ON&amp;script=0"/>
-    </div>
-</noscript>
-<script type="text/javascript">
-var dataLayer = dataLayer || [];
-</script>
 
 
-
-<script type="text/javascript">    
-    var wcIsGtm = true;
-    var productImpressions = [];
-    var promoImpressions = [];
-    var wcGuaTrackerName = '';
-    var wcGuaGlobalTrackerName = 'allstores.';
-    var wcGuaGlobalTrackerEnabled = '0';
-    
-    var referralExclusionList = [];
-            
-    if(document.referrer) {
-        for(excludedDomain in referralExclusionList) {
-            if(document.referrer.indexOf(excludedDomain) != -1) {
-                document.referrer = '';
+<div class="link wishlist" data-bind="scope: 'wishlist'">
+    <a href="https://ego.co.uk/wishlist/">
+        <!-- ko if: wishlist().counter -->
+        <span data-bind="text: wishlist().counter.split(' ')[0]" class="counter qty"></span>
+        <!-- /ko -->
+    </a>
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "wishlist": {
+                        "component": "Magento_Wishlist/js/view/wishlist"
+                    }
+                }
             }
         }
     }
-    
-    
-    
-    
-
-            function updateGuaSession() {
-            if(!ga || (typeof ga.getAll != 'function')) { //GA has not been loaded by GTM yet
-                setTimeout(updateGuaSession, 1000); 
-                return;
-           }
-            var clientId = ga.getAll()[0].get('clientId');
-            if(clientId) {
-                var date = new Date();
-		date.setTime(date.getTime()+(24*60*60*1000));
-                document.cookie = 'guaclientid='+clientId+'; expires='+date.toGMTString()+'; path=/';
-            }
-        }
-        dataLayer.push({
-            'event' : 'newSession',
-            'eventCallback' : function() {
-                if (document.loaded) {
-                    updateGuaSession();
-                } 
-                else {
-                    document.observe('dom:loaded', updateGuaSession);
-                }
-               
-            }
-        });
-        
-    
-
-
-
-    
-
-   
-
-   
-    
 
 </script>
-<!-- Google Tag Manager (WEBTISE ACCOUNT) -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T8RXK9"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!--Start of Attraqt AutoComplete Script-->
 <script>
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-T8RXK9');
-</script>
-
-<!-- End Google Tag Manager --><div class="wrapper">
-        <noscript>
-        <div class="global-site-notice noscript">
-            <div class="notice-inner">
-                <p>
-                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
-                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
-            </div>
-        </div>
-    </noscript>
-    <div class="page">
-                <script type="text/javascript">
-    jQuery(document).on('click','#close-button',function(){
-        jQuery(this).parent().fadeTo(300,0,function(){
-            jQuery(this).remove();
-            jQuery.cookie("US", null,{ path: '/' });
-            jQuery.cookie("UK", null,{ path: '/' });
-        });
+var jsAutocomplete= "//fsm6.attraqt.com/jquery.autocomplete.js"; 
+var autocomplete= "//fsm6.attraqt.com/autocomplete/c56119e9-4de7-42d0-9b73-a0a251a03bd8.js"; 
+require(['jquery'],function($){
+    $(document).ready(function() {
+        var scriptTag = document.createElement('script');
+            scriptTag.type = 'text/javascript';
+            scriptTag.src = jsAutocomplete;
+            document.getElementsByTagName("head")[0].appendChild(scriptTag);
+//        EGOTCS-510 :
+//            scriptTag.onload = function() {
+//                $("#search").fsmAutocomplete();
+//            };
+        var autoCompleteScript = document.createElement('script');
+            autoCompleteScript.type = 'text/javascript';
+            autoCompleteScript.src = autocomplete;
+            document.getElementsByTagName("head")[0].appendChild(autoCompleteScript);
     });
+});
 </script>
-<div class="header-container type_ego">
-    <div class="top-links-container">
-        <div class="top-links container">
-            <div class="search-area">
-                <a href="javascript:void(0)" class="search-icon"><i class="icon-search"></i></a>
-                <!-- <form id="search_mini_form_mob" action="http://ego.co.uk/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <input id="search_mob" type="text" name="q" value="" class="input-text" maxlength="128" />
-        <button type="submit" title="Search" class="button"><i class="icon-search"></i></button>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form_mob', 'search_mob', 'SEARCH');
-        //]]>
-        </script>
-    </div>
-</form> -->
+<!--End of Attraqt AutoComplete Script-->
 
-
-<form id="search_mini_form" action="http://ego.co.uk/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <label for="search">Search:</label>
-        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
-        <button type="submit" title="Search" class="button"><i class="icon-search"></i></button>
-        <div id="search_autocomplete" class="search-autocomplete"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'SEARCH');
-            searchForm.initAutocomplete('http://ego.co.uk/catalogsearch/ajax/suggest/', 'search_autocomplete');
-        //]]>
-        </script>
+<div class="block block-search">
+    <div class="block block-title">
+        <a href="javascript:;" class="search-btn" id="search-btn"><span>Search</span></a>
     </div>
-</form>
+    <div class="block block-content">
+        <div class="search-block-wrap arrow-box">
+            <div class="search-control-wrap">
+                <span class="inner-search"></span>
+
+                <form class="form minisearch" id="search_mini_form" action="/search" method="get">
+                    <div class="field search">
+                        <label class="label" for="search" data-role="minisearch-label">
+                            <span>Search</span>
+                        </label>
+                        <div class="control">
+                            <input id="search" type="text" name="q" value="" placeholder="Hey Bae ~ What can we help you find?" class="input-text" maxlength="128" role="combobox" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
+                            <!--EGOTCS-510 :  div added-->
+                            <div id="search_autocomplete" class="search-autocomplete"></div>
+                        </div>
+                    </div>
+                    <div class="actions">
+                        <button type="submit" title="Search" class="action search">
+                            <span>Search</span>
+                        </button>
+                    </div>
+                </form>
+                <span class="close-search"></span>
             </div>
-            <div class="menu-icon"><a href="javascript:void(0)" title="Menu"><i class="ef ego-menu"></i></a></div>
-            <div class="logo-area">
-                <a href="http://ego.co.uk/" title="EGO">
-                    <img src="http://ego.co.uk/skin/frontend/smartwave/ego/images/logo_mobile.png" alt="EGO">
-                </a>
+            <!--EGOTCS-510 :  static content added -->
+            <div class="search-result-blk" style="display: none;">
+                <div class="search-category">
+                </div>
+                <div class="search-product-list">
+                </div>
             </div>
-                        <div class="cart-area">
-                <div class="mini-cart">
-                    <a href="javascript:void(0)" class="mybag-link"><i class="ef ego-bag"></i><span class="cart-info"><span class="cart-qty">0</span><span><i class="icon-down-dir"></i></span></span></a>
-        <div class="topCartContent block-content theme-border-color">
-            <div class="inner-wrapper">                                                    <p class="cart-empty">
-                        You have no items in your shopping bag.                    </p>
-                            </div>
+            <!--EGOTCS-510 : end of static content -->
         </div>
+    </div>
+</div>
+
 <script type="text/javascript">
-    jQuery(function($){
-        $('.mini-cart').on('mouseover',function(e){
-            $(this).children('.topCartContent').fadeIn(200);
-            return false;
-        }).on('mouseleave',function(e){
-            $(this).children('.topCartContent').fadeOut(200);
-            return false;
+    require(["corraui"], function () {
+        var $ = jQuery;
+        $(document).delegate('.close-search', 'click', function(){
+            var $this = $(this);
+            // $this.closest('.block-search').click();
+            $('#search').val("");
         });
+//        EGOTCS-510 : script for static content
+        setTimeout(function(){
+            if(CorraUI.isMobile()) {
+                var searchResult = $('.search-result-blk');
+                var windowHgt = $(window).height();
+                if($(window).height() > 490) {
+                    searchResult.height(400);
+                }
+                else {
+                    searchResult.height(windowHgt - 100);
+                }
+            }
+        },100);
     });
-</script>
-</div>            </div>
-            <div class="account-area">
-                <a href="https://ego.co.uk/customer/account/"><i class="ef ego-user"></i></a>
-                <a href="https://ego.co.uk/wishlist/"><i class="ef ego-heart"></i></a>
-            </div>
-            <span class="split f-right"></span>
-            <div class="form-currency top-select">
-    <select id="select-currency" onchange="setLocation(this.value)">
-        modehttp://ego.co.uk/privacy-policy-cookie-restriction-mode/                            <option selected="selected" value="http://ego.co.uk/privacy-policy-cookie-restriction-mode/&amp;web=uk" data-image="http://ego.co.uk/skin/frontend/smartwave/ego/images/flags/gbp.png">£GBP</option>
-                            modehttp://www.egoshoes.com/privacy-policy-cookie-restriction-mode/yes                            <option value="http://www.egoshoes.com/privacy-policy-cookie-restriction-mode/&amp;web=us" data-image="http://ego.co.uk/skin/frontend/smartwave/ego/images/flags/usd.png">US$</option>
-                                </select>
-</div>
-<script type="text/javascript">
-    (function($){
-        $(".form-currency select").selectbox();
-    })(jQuery);
-</script>
-<!-- END website switcher -->            <span class="split f-right"></span>
-            <div class="top-links-area">
-                <div class="top-links-icon"><a href="javascript:void(0)">links</a></div>
-                <ul class="links">
-                        <li class="first"><a href="/blog" title="Blog">Blog</a></li>
-                                <li><a href="https://ego.co.uk/wishlist/" title="My Wishlist">My Wishlist</a></li>
-                                <li><a href="https://ego.co.uk/customer/account/login/" title="Log In">Log In</a></li>
-                                <li class=" last"><a href="https://ego.co.uk/customer/account/create/" title="Register">Register</a></li>
-            </ul>
-            </div>
-            <div class="clearer"></div>
-        </div>
-    </div>
-    <div class="header container">
-                    <a href="http://ego.co.uk/" title="EGO" class="logo"><strong>EGO</strong><img src="http://ego.co.uk/skin/frontend/smartwave/ego/images/logo-ego-black.png" alt="EGO"></a>
-            </div>
-    <div class="header-wrapper">
-<div class="main-nav">
-    <div class="container">            
-        <div class="menu-wrapper">
-            <div class="menu-all-pages-container">
-                <ul class="menu">
-                    <li class=" home-icon-img">
-    <a href="//ego.co.uk/">
-       <span><img src="//cdn.ego.co.uk/media/smartwave/megamenu/html/default/home-icon_compressed.png" alt="Home" title="Home"></span>
-    </a>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/new-in.html">New In</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/new-in/back-in-stock.html"><span>Back In Stock</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/heels.html">Heels</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/lace-ups.html"><span>Lace Up Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/platform-heels.html"><span>Platform Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/court-heels.html"><span>Court Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/floral-heels.html"><span>Floral Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/stiletto-heels.html"><span>Stiletto Heels</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class=" ">
-<a href="//ego.co.uk/perspex-heels.html">Perspex Heels</a>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/sliders.html">Sliders</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/sliders/fluffy-sliders.html"><span>Fluffy Sliders</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/mules.html">Mules</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/mules/slip-on-mules.html"><span>Slip on Mules</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/mules/heeled-mules.html"><span>Heeled Mules</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/ankle-boots.html">Ankle Boots</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/heeled-ankle-boots.html"><span>Heeled Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/perspex-ankle-boots.html"><span>Perspex Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/lace-up-ankle-boots.html"><span>Lace Up Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/floral-ankle-boots.html"><span>Floral Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/biker-boots.html"><span>Biker Boots</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/long-boots.html">Long Boots</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/long-boots/heel-long-boots.html"><span>Heeled Long Boots</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class=" ">
-<a href="//ego.co.uk/trainers.html">Trainers</a>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/flats.html">Flats &amp; Sandals</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/flats/espadrilles.html"><span>Espadrilles</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/flats/flatform-espadrilles.html"><span>Flatform Espadrilles </span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/trends.html">Trends</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/occasion.html"><span>Trend: Occasion</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/the-festival-edit.html"><span>Trend: Festival Ready </span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/trend-denim-daze.html"><span>Trend: Denim Daze</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/trend-satin.html"><span>Trend: Satin </span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/casjcool.html"><span>Trend: Casj Cool</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/in-the-detail.html"><span>Trend: In The Detail</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/all-that-sparkle.html"><span>Trend: All That Sparkle</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/peep-toe.html"><span>Trend: Peep Toe</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/sock-boots.html"><span>Trend: Sock Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/trend-frill-seeker.html"><span>Trend: Frill Seeker</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/sherlina.html"><span>Sherlina</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/sale.html"> SALE</a>
-<div class="nav-sublist-dropdown" style="display: none;">
-<div class="container">
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/heels-sale.html"><span>Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/longboots-sale.html"><span>Long Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/ankle-boots-sale.html"><span>Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/trainers.html"><span>Trainers</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/flats-sandals.html"><span>Flats &amp; Sandals </span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/10-and-under.html"><span>£10 And Under</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-
-
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
-
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var SW_MENU_POPUP_WIDTH = 0;
-//]]>
-</script></div>
-<div onclick="jQuery('body').removeClass('mobile-nav-shown');" class="mobile-nav-close"><i class="icon-cancel"></i></div>
-<div class="mobile-nav side-block container">
-    <div class="menu-all-pages-container">
-        <ul class="menu">
-	        <li class="top-action">
-	        	<!-- <form id="search_mini_form_mob" action="http://ego.co.uk/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <input id="search_mob" type="text" name="q" value="" class="input-text" maxlength="128" />
-        <button type="submit" title="Search" class="button"><i class="icon-search"></i></button>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form_mob', 'search_mob', 'SEARCH');
-        //]]>
-        </script>
-    </div>
-</form> -->
-
-
-<form id="search_mini_form" action="http://ego.co.uk/catalogsearch/result/" method="get">
-    <div class="form-search">
-        <label for="search">Search:</label>
-        <input id="search" type="text" name="q" value="" class="input-text" maxlength="128">
-        <button type="submit" title="Search" class="button"><i class="icon-search"></i></button>
-        <div id="search_autocomplete" class="search-autocomplete"></div>
-        <script type="text/javascript">
-        //<![CDATA[
-            var searchForm = new Varien.searchForm('search_mini_form', 'search', 'SEARCH');
-            searchForm.initAutocomplete('http://ego.co.uk/catalogsearch/ajax/suggest/', 'search_autocomplete');
-        //]]>
-        </script>
-    </div>
-</form>
-	        	<div class="form-currency top-select">
-    <select id="select-currency" onchange="setLocation(this.value)">
-        modehttp://ego.co.uk/privacy-policy-cookie-restriction-mode/                            <option selected="selected" value="http://ego.co.uk/privacy-policy-cookie-restriction-mode/&amp;web=uk" data-image="http://ego.co.uk/skin/frontend/smartwave/ego/images/flags/gbp.png">£GBP</option>
-                            modehttp://www.egoshoes.com/privacy-policy-cookie-restriction-mode/yes                            <option value="http://www.egoshoes.com/privacy-policy-cookie-restriction-mode/&amp;web=us" data-image="http://ego.co.uk/skin/frontend/smartwave/ego/images/flags/usd.png">US$</option>
-                                </select>
-</div>
-<script type="text/javascript">
-    (function($){
-        $(".form-currency select").selectbox();
-    })(jQuery);
-</script>
-<!-- END website switcher -->	        </li>
-            <li class="">
-    <a href="//ego.co.uk/">
-       <span>Home</span>
-    </a>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/new-in.html">New In</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/new-in/back-in-stock.html"><span>Back In Stock</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/heels.html">Heels</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/lace-ups.html"><span>Lace Up Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/platform-heels.html"><span>Platform Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/court-heels.html"><span>Court Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/floral-heels.html"><span>Floral Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/heels/stiletto-heels.html"><span>Stiletto Heels</span></a></li>
-</ul>
-</li>
-<li class=" ">
-<a href="//ego.co.uk/perspex-heels.html">Perspex Heels</a>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/sliders.html">Sliders</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/sliders/fluffy-sliders.html"><span>Fluffy Sliders</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/mules.html">Mules</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/mules/slip-on-mules.html"><span>Slip on Mules</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/mules/heeled-mules.html"><span>Heeled Mules</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/ankle-boots.html">Ankle Boots</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/heeled-ankle-boots.html"><span>Heeled Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/perspex-ankle-boots.html"><span>Perspex Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/lace-up-ankle-boots.html"><span>Lace Up Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/floral-ankle-boots.html"><span>Floral Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/ankle-boots/biker-boots.html"><span>Biker Boots</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/long-boots.html">Long Boots</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/long-boots/heel-long-boots.html"><span>Heeled Long Boots</span></a></li>
-</ul>
-</li>
-<li class=" ">
-<a href="//ego.co.uk/trainers.html">Trainers</a>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/flats.html">Flats &amp; Sandals</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/flats/espadrilles.html"><span>Espadrilles</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/flats/flatform-espadrilles.html"><span>Flatform Espadrilles </span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/trends.html">Trends</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/occasion.html"><span>Trend: Occasion</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/the-festival-edit.html"><span>Trend: Festival Ready </span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/trend-denim-daze.html"><span>Trend: Denim Daze</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/trend-satin.html"><span>Trend: Satin </span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/casjcool.html"><span>Trend: Casj Cool</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/in-the-detail.html"><span>Trend: In The Detail</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/all-that-sparkle.html"><span>Trend: All That Sparkle</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/peep-toe.html"><span>Trend: Peep Toe</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/sock-boots.html"><span>Trend: Sock Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/trend-frill-seeker.html"><span>Trend: Frill Seeker</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/trends/sherlina.html"><span>Sherlina</span></a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-has-children menu-parent-item  ">
-<a href="//ego.co.uk/sale.html"> SALE</a>
-<ul>
-<li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/heels-sale.html"><span>Heels</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/longboots-sale.html"><span>Long Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/ankle-boots-sale.html"><span>Ankle Boots</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/trainers.html"><span>Trainers</span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/flats-sandals.html"><span>Flats &amp; Sandals </span></a></li><li class="menu-item  "><a class="level1" href="//ego.co.uk/sale/10-and-under.html"><span>£10 And Under</span></a></li>
-</ul>
-</li>
-
-<li class="menu-item menu-item-has-children menu-parent-item"> <a href="http://ego.co.uk/instashop">Instashop</a> </li>
-<li class="menu-item menu-item-has-children menu-parent-item"> <a href="http://ego.co.uk/blog/">Blog</a> </li>
+</script><ul class="header links">                <li class="customer-welcome jq-logged-out" id="jq-account-dropdown-wrapper">
+            <a id="jq-account-trigger" href="https://ego.co.uk/customer/account/login/">
+                <span>Account</span>
+            </a>
+    <div id="jq-account-dropdown" class="customer-menu">
+        <ul class="header links">
+            <li class="authorization-link">
+                <a href="https://ego.co.uk/customer/account/login/">
+                    Sign In                </a>
+            </li>
+            <li>
+                <a href="https://ego.co.uk/customer/account/create/">
+                    Create an Account                </a>
+            </li>
         </ul>
     </div>
-</div>
-<div class="mobile-nav-overlay close-mobile-nav"></div>
-                <div class="container">
-<div class="homepage-bar">
-<div class="row">
-<div class="col-md-4">
-<div class="text-area">
-<h3>US DELIVERY FROM £5.99</h3>
-<p><a href="http://ego.co.uk/delivery/">Fedex available. More info &amp; Worldwide delivery </a></p>
-</div>
-</div>
-<div class="col-md-4">
-<div class="text-area">
-<h3>20% OFF FLATS &amp; SANDALS*</h3>
-<p><a href="http://ego.co.uk/flats.html" target="_self">USE CODE:HOLIDAY</a></p>
-</div>
-</div>
-<div class="col-md-4">
-<div class="text-area">
-<h3>15% STUDENT DISCOUNT</h3>
-<p><a href="http://ego.co.uk/student-discount">EXCLUDING SALE</a></p>
-</div>
-</div>
-</div>
-</div>
-</div>        <div class="top-container"><div class="breadcrumbs">
-    <div class="container">
-        <div class="row">
-        <div class="col-sm-12 a-left" xmlns:v="http://rdf.data-vocabulary.org/#">
-    <ul>
-                    <li class="home" typeof="v:Breadcrumb">
-                            <a href="http://ego.co.uk/" title="Go to Home Page" rel="v:url" property="v:title">
+    </li>
+<script type="text/javascript">
+            var accountDropdownConfig = {
+            "appendTo":"#jq-account-dropdown-wrapper",
+            "triggerTarget":"#jq-account-trigger",
+            "closeOnMouseLeave": false,
+            "triggerClass":"active",
+            "parentClass":"active",
+            "buttons":null};
+</script></ul><div class="head-top-links"><p><a href="/blog">Blog</a> <a href="/instashop">Shop Insta</a></p></div></div></div></div></div></header><div class="hp-discount-content"><div class="discount-wrapper">
+<div class="discount-block"><a href="https://ego.co.uk/klarna/"> Buy now, Pay later</a></div>
+<div class="discount-block for-mob"><a href="https://ego.co.uk/student-discount">15% Student discount with UNiDAYS </a></div>
+<div class="discount-block"><a href="https://ego.co.uk/delivery/">FREE Standard Delivery on orders over £50*</a></div>
+</div></div><div class="breadcrumbs">
+    <ul class="items">
+                    <li class="item home">
+                            <a href="https://ego.co.uk/" title="Go to Home Page">
                     Home                </a>
-                                        <span class="breadcrumbs-split"><i class="icon-right-open"></i></span>
                         </li>
-                    <li class="cms_page">
+                    <li class="item cms_page">
                             <strong>Privacy Policy</strong>
-                                    </li>
+                        </li>
             </ul>
 </div>
+<script type="text/javascript">
+//<![CDATA[
+window.monetateData = window.monetateData || {};
+window.monetateData.addBreadcrumbs = ["Home","Privacy Policy"];
+//]]>
+</script><main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page-title-wrapper">
+    <h1 class="page-title">
+        <span class="base" data-ui-id="page-title-wrapper">Privacy Policy</span>    </h1>
+    </div>
+<div class="columns"><div class="column main"><div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <div data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
         </div>
     </div>
-</div></div>        
-        <div class="main-container col1-layout">
-            <div class="main container">
-                <div class="col-main">
-                                        <div id="loading-mask">
-<div class="background-overlay"></div>
-	<p id="loading_mask_loader" class="loader">
-        <i class="ajax-loader large animate-spin"></i>
-	</p>
+    <div data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
 </div>
-<div id="after-loading-success-message">
-	<div class="background-overlay"></div>
-	<div id="success-message-container" class="loader"><div class="msg-box">Product was successfully added to your shopping cart.</div>
-    	<button type="button" name="continue_shopping" id="continue_shopping" class="button btn-cart">
-	<span><span>
-				Continue shopping		</span></span></button>
-	<button type="button" name="finish_and_checkout" id="finish_and_checkout" class="button btn-cart"><span><span>
-				View Bag		</span></span></button>
-    </div>
-</div>	
-<script type="text/javascript">
-	jQuery('#finish_and_checkout').click(function(){
-        try{
-            parent.location.href = 'http://ego.co.uk/checkout/cart/';
-        }catch(err){
-            location.href = 'http://ego.co.uk/checkout/cart/';
-        }
-    });
-	jQuery('#continue_shopping').click(function(){
-        jQuery('#after-loading-success-message').fadeOut(200);
-        clearTimeout(ajaxcart_timer);
-        setTimeout(function(){
-            jQuery('#after-loading-success-message .timer').text(ajaxcart_sec);
-        }, 1000);});
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
 </script>
-<div class="nosto_element" id="nosto-page-top"></div>    <div class="page-title">
-        <h1>Privacy Policy</h1>
-    </div>
-<div class="std"><p>
-    This privacy policy sets out how Ego uses and protects any information
-    that you give Ego when you use this website.
-    Ego is committed to ensuring that your privacy is protected.
-    Should we ask you to provide certain information by which you can be identified when using this website,
-    then you can be assured that it will only be used in accordance with this privacy statement.
-    Ego may change this policy from time to time by updating this page.
-    You should check this page from time to time to ensure that you are happy with any changes.
-</p>
+</div><input name="form_key" type="hidden" value="qBil5Dch4W5JBv80"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+    <script>
+        window.authenticationPopup = {"customerRegisterUrl":"https:\/\/ego.co.uk\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/ego.co.uk\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/ego.co.uk\/"};
+    </script>
+    <!-- ko template: getTemplate() --><!-- /ko -->
+    <script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https://ego.co.uk/static/version1520834054/frontend/Corra/ego/en_GB/images/loader-1.gif"
+            }
+        }
+    </script>
+</div>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":"*","customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/ajax\/login":["checkout-data","cart"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"review\/product\/post":["review"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","checkout-data"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"wishlist\/index\/copyitem":["wishlist"],"wishlist\/index\/copyitems":["wishlist"],"wishlist\/index\/deletewishlist":["wishlist","multiplewishlist"],"wishlist\/index\/createwishlist":["multiplewishlist"],"wishlist\/index\/moveitem":["wishlist"],"wishlist\/index\/moveitems":["wishlist"],"wishlist\/search\/addtocart":["cart","wishlist"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"braintree\/paypal\/placeorder":["cart","checkout-data"]},"clientSideSections":["checkout-data"],"baseUrls":["https:\/\/ego.co.uk\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/ego.co.uk\/customer\/section\/load\/","cookieLifeTime":"3600","updateSessionUrl":"https:\/\/ego.co.uk\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/ego.co.uk\/page_cache\/block\/render\/page_id\/4\/","handles":["default","cms_page_view","cms_page_view_id_privacy-policy-cookie-restriction-mode"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/privacy-policy-cookie-restriction-mode\/"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "awBlogAjax": {"url":"https:\/\/ego.co.uk\/aw_blog\/block\/render\/page_id\/4\/"}        }
+    }
+</script>
+<div class="cms-container">
+<p>This privacy policy sets out how Ego uses and protects any information that you give Ego when you use this website. Ego is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Ego may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.</p>
 <h2>What we collect</h2>
 <p>We may collect the following information:</p>
 <ul>
-    <li>name</li>
-    <li>contact information including email address</li>
-    <li>demographic information such as postcode, preferences and interests</li>
-    <li>other information relevant to customer surveys and/or offers</li>
+<li>name</li>
+<li>contact information including email address</li>
+<li>demographic information such as postcode, preferences and interests</li>
+<li>other information relevant to customer surveys and/or offers</li>
 </ul>
-<p>
-    For the exhaustive list of cookies we collect see the <a href="#list">List of cookies we collect</a> section.
-</p>
+<p>For the exhaustive list of cookies we collect see the <a href="#list">List of cookies we collect</a> section.</p>
 <h2>What we do with the information we gather</h2>
-<p>
-    We require this information to understand your needs and provide you with a better service,
-    and in particular for the following reasons:
-</p>
+<p>We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:</p>
 <ul>
-    <li>Internal record keeping.</li>
-    <li>We may use the information to improve our products and services.</li>
-    <li>
-        We may periodically send promotional emails about new products, special offers or other information which we
-        think you may find interesting using the email address which you have provided.
-    </li>
-    <li>
-        From time to time, we may also use your information to contact you for market research purposes.
-        We may contact you by email, phone, fax or mail. We may use the information to customise the website
-        according to your interests.
-    </li>
+<li>Internal record keeping.</li>
+<li>We may use the information to improve our products and services.</li>
+<li>We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.</li>
+<li>From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.</li>
 </ul>
 <h2>Security</h2>
-<p>
-    We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,
-    we have put in place suitable physical, electronic and managerial procedures to safeguard and secure
-    the information we collect online.
-</p>
+<p>We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.</p>
 <h2>How we use cookies</h2>
-<p>
-    A cookie is a small file which asks permission to be placed on your computer's hard drive.
-    Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit
-    a particular site. Cookies allow web applications to respond to you as an individual. The web application
-    can tailor its operations to your needs, likes and dislikes by gathering and remembering information about
-    your preferences.
-</p>
-<p>
-    We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic
-    and improve our website in order to tailor it to customer needs. We only use this information for statistical
-    analysis purposes and then the data is removed from the system.
-</p>
-<p>
-    Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful
-    and which you do not. A cookie in no way gives us access to your computer or any information about you,
-    other than the data you choose to share with us. You can choose to accept or decline cookies.
-    Most web browsers automatically accept cookies, but you can usually modify your browser setting
-    to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-</p>
+<p>A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.</p>
+<p>We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.</p>
+<p>Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</p>
 <h2>Links to other websites</h2>
-<p>
-    Our website may contain links to other websites of interest. However, once you have used these links
-    to leave our site, you should note that we do not have any control over that other website.
-    Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst
-    visiting such sites and such sites are not governed by this privacy statement.
-    You should exercise caution and look at the privacy statement applicable to the website in question.
-</p>
+<p>Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
 <h2>Controlling your personal information</h2>
 <p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
 <ul>
-    <li>
-        whenever you are asked to fill in a form on the website, look for the box that you can click to indicate
-        that you do not want the information to be used by anybody for direct marketing purposes
-    </li>
-    <li>
-        if you have previously agreed to us using your personal information for direct marketing purposes,
-        you may change your mind at any time by writing to or emailing us at
-        mail@ego.co.uk
-    </li>
+<li>whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes</li>
+<li>if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at mail@ego.co.uk</li>
 </ul>
-<p>
-    We will not sell, distribute or lease your personal information to third parties unless we have your permission
-    or are required by law to do so. We may use your personal information to send you promotional information
-    about third parties which we think you may find interesting if you tell us that you wish this to happen.
-</p>
-<p>
-    You may request details of personal information which we hold about you under the Data Protection Act 1998.
-    A small fee will be payable. If you would like a copy of the information held on you please write to
-    Unit 4, Longford Trading Estate,
-Thomas Street, Stretford, Manchester, M32, 0JT.
-</p>
-<p>
-    If you believe that any information we are holding on you is incorrect or incomplete,
-    please write to or email us as soon as possible, at the above address.
-    We will promptly correct any information found to be incorrect.
-</p>
+<p>We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
+<p>You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Unit 4, Longford Trading Estate, Thomas Street, Stretford, Manchester, M32, 0JT.</p>
+<p>If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
 <h2><a name="list"></a>List of cookies we collect</h2>
 <p>The table below lists the cookies we collect and what information they store.</p>
 <table class="data-table">
-    <thead>
-        <tr>
-            <th>COOKIE name</th>
-            <th>COOKIE Description</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th>CART</th>
-            <td>The association with your shopping cart.</td>
-        </tr>
-        <tr>
-            <th>CATEGORY_INFO</th>
-            <td>Stores the category info on the page, that allows to display pages more quickly.</td>
-        </tr>
-        <tr>
-            <th>COMPARE</th>
-            <td>The items that you have in the Compare Products list.</td>
-        </tr>
-        <tr>
-            <th>CURRENCY</th>
-            <td>Your preferred currency</td>
-        </tr>
-        <tr>
-            <th>CUSTOMER</th>
-            <td>An encrypted version of your customer id with the store.</td>
-        </tr>
-        <tr>
-            <th>CUSTOMER_AUTH</th>
-            <td>An indicator if you are currently logged into the store.</td>
-        </tr>
-        <tr>
-            <th>CUSTOMER_INFO</th>
-            <td>An encrypted version of the customer group you belong to.</td>
-        </tr>
-        <tr>
-            <th>CUSTOMER_SEGMENT_IDS</th>
-            <td>Stores the Customer Segment ID</td>
-        </tr>
-        <tr>
-            <th>EXTERNAL_NO_CACHE</th>
-            <td>A flag, which indicates whether caching is disabled or not.</td>
-        </tr>
-        <tr>
-            <th>FRONTEND</th>
-            <td>You sesssion ID on the server.</td>
-        </tr>
-        <tr>
-            <th>GUEST-VIEW</th>
-            <td>Allows guests to edit their orders.</td>
-        </tr>
-        <tr>
-            <th>LAST_CATEGORY</th>
-            <td>The last category you visited.</td>
-        </tr>
-        <tr>
-            <th>LAST_PRODUCT</th>
-            <td>The most recent product you have viewed.</td>
-        </tr>
-        <tr>
-            <th>NEWMESSAGE</th>
-            <td>Indicates whether a new message has been received.</td>
-        </tr>
-        <tr>
-            <th>NO_CACHE</th>
-            <td>Indicates whether it is allowed to use cache.</td>
-        </tr>
-        <tr>
-            <th>PERSISTENT_SHOPPING_CART</th>
-            <td>A link to information about your cart and viewing history if you have asked the site.</td>
-        </tr>
-        <tr>
-            <th>POLL</th>
-            <td>The ID of any polls you have recently voted in.</td>
-        </tr>
-        <tr>
-            <th>POLLN</th>
-            <td>Information on what polls you have voted on.</td>
-        </tr>
-        <tr>
-            <th>RECENTLYCOMPARED</th>
-            <td>The items that you have recently compared.            </td>
-        </tr>
-        <tr>
-            <th>STF</th>
-            <td>Information on products you have emailed to friends.</td>
-        </tr>
-        <tr>
-            <th>STORE</th>
-            <td>The store view or language you have selected.</td>
-        </tr>
-        <tr>
-            <th>USER_ALLOWED_SAVE_COOKIE</th>
-            <td>Indicates whether a customer allowed to use cookies.</td>
-        </tr>
-        <tr>
-            <th>VIEWED_PRODUCT_IDS</th>
-            <td>The products that you have recently viewed.</td>
-        </tr>
-        <tr>
-            <th>WISHLIST</th>
-            <td>An encrypted list of products added to your Wishlist.</td>
-        </tr>
-        <tr>
-            <th>WISHLIST_CNT</th>
-            <td>The number of items in your Wishlist.</td>
-        </tr>
-    </tbody>
-</table></div>
-<div class="nosto_element" id="nosto-page-footer"></div>                </div>
+<thead>
+<tr><th>COOKIE name</th><th>COOKIE Description</th></tr>
+</thead>
+<tbody>
+<tr><th>CART</th>
+<td>The association with your shopping cart.</td>
+</tr>
+<tr><th>CATEGORY_INFO</th>
+<td>Stores the category info on the page, that allows to display pages more quickly.</td>
+</tr>
+<tr><th>COMPARE</th>
+<td>The items that you have in the Compare Products list.</td>
+</tr>
+<tr><th>CURRENCY</th>
+<td>Your preferred currency</td>
+</tr>
+<tr><th>CUSTOMER</th>
+<td>An encrypted version of your customer id with the store.</td>
+</tr>
+<tr><th>CUSTOMER_AUTH</th>
+<td>An indicator if you are currently logged into the store.</td>
+</tr>
+<tr><th>CUSTOMER_INFO</th>
+<td>An encrypted version of the customer group you belong to.</td>
+</tr>
+<tr><th>CUSTOMER_SEGMENT_IDS</th>
+<td>Stores the Customer Segment ID</td>
+</tr>
+<tr><th>EXTERNAL_NO_CACHE</th>
+<td>A flag, which indicates whether caching is disabled or not.</td>
+</tr>
+<tr><th>FRONTEND</th>
+<td>You sesssion ID on the server.</td>
+</tr>
+<tr><th>GUEST-VIEW</th>
+<td>Allows guests to edit their orders.</td>
+</tr>
+<tr><th>LAST_CATEGORY</th>
+<td>The last category you visited.</td>
+</tr>
+<tr><th>LAST_PRODUCT</th>
+<td>The most recent product you have viewed.</td>
+</tr>
+<tr><th>NEWMESSAGE</th>
+<td>Indicates whether a new message has been received.</td>
+</tr>
+<tr><th>NO_CACHE</th>
+<td>Indicates whether it is allowed to use cache.</td>
+</tr>
+<tr><th>PERSISTENT_SHOPPING_CART</th>
+<td>A link to information about your cart and viewing history if you have asked the site.</td>
+</tr>
+<tr><th>POLL</th>
+<td>The ID of any polls you have recently voted in.</td>
+</tr>
+<tr><th>POLLN</th>
+<td>Information on what polls you have voted on.</td>
+</tr>
+<tr><th>RECENTLYCOMPARED</th>
+<td>The items that you have recently compared.</td>
+</tr>
+<tr><th>STF</th>
+<td>Information on products you have emailed to friends.</td>
+</tr>
+<tr><th>STORE</th>
+<td>The store view or language you have selected.</td>
+</tr>
+<tr><th>USER_ALLOWED_SAVE_COOKIE</th>
+<td>Indicates whether a customer allowed to use cookies.</td>
+</tr>
+<tr><th>VIEWED_PRODUCT_IDS</th>
+<td>The products that you have recently viewed.</td>
+</tr>
+<tr><th>WISHLIST</th>
+<td>An encrypted list of products added to your Wishlist.</td>
+</tr>
+<tr><th>WISHLIST_CNT</th>
+<td>The number of items in your Wishlist.</td>
+</tr>
+</tbody>
+</table>
+</div></div></div></main><footer class="page-footer"><div class="footer content"><div class="social-icons">
+	<span class="social-head">Let’s get social</span>
+	<ul>
+		<li class="fb"><a title="Facebook" href="https://www.facebook.com/EGOfootwearretailers" target="_blank">&nbsp;</a></li>
+		<li class="insta"><a title="Instagram" href="https://instagram.com/egoofficial/" target="_blank">&nbsp;</a></li>
+		<li class="twit"><a title="Twitter" href="https://twitter.com/egofootwear" target="_blank">&nbsp;</a></li>
+		<li class="pint"><a title="Pinterest" href="https://uk.pinterest.com/egoofficial/" target="_blank">&nbsp;</a></li>
+		<li class="snap"><a title="Snap Chat" href="https://www.snapchat.com/add/egoofficial/" target="_blank">&nbsp;</a></li>
+	</ul>
+</div>    <div class="footer-newsletter-wrapper">
+        <div class="footer-newsletter-block">
+            <div class="newsletter-title mob-only">
+                <h3 class="title">Hey Girl!  Want 10% OFF Your Next Order?<a class="nl-title-close" href="javascript:;">X</a></h3>                <div class="nl-msg-title no-display">
+                    <h3 class="msg-title"><span>Welcome to the #EGOSQUAD</span><a class="nl-msg-dismiss" href="javascript:;">X</a></h3>
+                </div>
             </div>
-        </div>
-        <div class="footer-container ">
-    <div class="footer">
-                
-        <div class="footer-middle">
-            <div class="container">
-                            <div class="row">
-                <div class="col-sm-6"><div class="block block-subscribe">
-    <div class="block-title">
-        <strong><span>Hey Bae!<br>Want 15% OFF your next order?</span></strong>
-    </div>
-    <form action="https://ego.co.uk/newsletter/subscriber/new/" method="post" id="footer-newsletter-validate-detail" onsubmit="setNewsletterCookie()">
-        <div class="block-content">
-            <!--p></p-->
-            <div class="input-box">
-                <input type="text" name="email" id="newsletter_footer" title="Sign up to our newsletter" class="input-text required-entry validate-email" placeholder="Sign up to our newsletter">
-                <button type="submit" title="Submit" class="button"><span><span><i class="icon-right-open-big"></i></span></span></button>
-                <div class="clearer"></div>
-            </div>
-        </div>
-    </form>
-    <script type="text/javascript">
-    //<![CDATA[
-        var footernewsletterSubscriberFormDetail = new VarienForm('footer-newsletter-validate-detail');
-    //]]>
-    </script>
-</div>
-</div>                <div class="col-sm-6"><div class="block block-social">
-	    <div class="block-title">
-        <strong><span>Show Us Your Style &amp; Get Featured<br>#EGOSQUAD</span></strong>
-    </div>
-    
-<div class="social-icons">
-<a href="https://www.facebook.com/EGOfootwearretailers" style="background-position:-90px 0px; width:45px; height:45px;" class="icon-face" title="Facebook" target="_blank">&nbsp;</a><a href="https://instagram.com/egoofficial/" style="background-position:0px 0px; width:45px; height:45px;" class="icon-inst" title="Instagram" target="_blank">&nbsp;</a><a href="https://twitter.com/egofootwear" style="background-position:-45px 0px; width:45px; height:45px;" class="icon-twit" title="Twitter" target="_blank">&nbsp;</a><a href="https://uk.pinterest.com/egoofficial/" style="background-position:-135px 0px; width:45px; height:45px;" class="icon-pint" title="Pinterest" target="_blank">&nbsp;</a></div>
-</div>
-</div>                                                                </div>
+            <div class="newsletter-block">
+                <h3 class="title">Hey Girl!  Want 10% OFF Your Next Order?</h3>
+    <span>Join the Party ~ Get all the latest news, trends and offers straight to your inbox</span>                <div class="block newsletter">
+                    <div class="title"><strong>Newsletter</strong></div>
+                    <div class="content">
+                        <form class="form subscribe" novalidate="" data-action="https://ego.co.uk/newsletter/subscriber/new/" method="post" data-mage-init="{&quot;validation&quot;: {&quot;errorClass&quot;: &quot;mage-error&quot;}}" id="newsletter-validate-detail">
+                            <div class="field newsletter">
+                                <label class="label" for="newsletter"><span>Sign Up for Our Newsletter:</span></label>
+                                <div class="control">
+                                    <input name="email" type="email" id="newsletter" placeholder="enter your email " data-validate="{required:true, 'validate-email':true}">
+                                </div>
                             </div>
+                            <div class="actions">
+                                <button class="action subscribe primary" title="Subscribe">
+                                    <span>Subscribe</span>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="newsletter-msg no-display">
+                <h3 class="title"><span>Welcome to the #EGOSQUAD</span><a class="nl-msg-dismiss" href="javascript:;">X</a></h3>
+                <div class="msg-content">
+                    <span>time to shop! ~ check your inbox for your code ;)</span>
+                    <a class="nl-msg-close" href="javascript:;">close</a>
+                </div>
+            </div>
         </div>
-                            <div class="footer-middle footer-middle-2">
-            <div class="container">
-                <div class="row" id="accordion">
-                <div class="col-sm-3"><div class="block">
-    <div class="block-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse1" class="accordion-toggle collapsed"><strong><span>Customer Support</span></strong></a></div>
-
-    <div class="block-content collapse" id="collapse1">
-<ul class="links">
-<li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/customer/account/login/" title="Track My Order">Track My Order</a></li>
-<li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/delivery/" title="Delivery">Delivery</a></li>
-    <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/returns/" title="Returns">Returns</a></li>
-    <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/contacts/" title="Contact Us">Contact Us</a></li>
-    <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/size-guide/" title="Size Guide">Size Guide</a></li>
-    <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/faqs/" title="FAQs">FAQs</a></li>
-      <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/terms/" title="T&amp;C's">T&amp;C's</a></li>
+    </div>
+    <div class="nl-popup-mob no-display">
+        <a class="nl-popup-close" href="javascript:;">X</a>
+        <div class="nl-popup-contents">
+            <div class="newsletter-block">
+                <h3 class="title">Hey Girl!  Want 10% OFF Your Next Order?</h3>
+    <span>Join the Party ~ Get all the latest news, trends and offers straight to your inbox</span>                <div class="block newsletter">
+                    <div class="title"><strong>Newsletter</strong></div>
+                    <div class="content">
+                        <form class="form subscribe" novalidate="" data-action="https://ego.co.uk/newsletter/subscriber/new/" method="post" data-mage-init="{&quot;validation&quot;: {&quot;errorClass&quot;: &quot;mage-error&quot;}}" id="newsletter-validate-detail">
+                            <div class="field newsletter">
+                                <label class="label" for="newsletter"><span>Sign Up for Our Newsletter:</span></label>
+                                <div class="control">
+                                    <input name="email" type="email" id="newsletter" placeholder="enter your email " data-validate="{required:true, 'validate-email':true}">
+                                </div>
+                            </div>
+                            <div class="actions">
+                                <button class="action subscribe primary" title="Subscribe">
+                                    <span>Subscribe</span>
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="nl-msg-mob no-display">
+                <h3 class="title"><span>Welcome to the #EGOSQUAD</span></h3>
+                <div class="msg-content">
+                    <span>time to shop! ~ check your inbox for your code ;)</span>
+                    <a class="nl-msg-close" href="javascript:;">close</a>
+                </div>
+            </div>
+        </div>
+    </div><div class="footer-links">
+<div class="block-links first">
+<ul>
+<li><a href="https://ego.co.uk/about-ego/">About Us</a></li>
+<li><a href="https://ego.co.uk/contact/">Contact Us</a></li>
+<li><a href="https://ego.co.uk/customer/account/login/">Track My Order</a></li>
+<li><a href="https://ego.co.uk/blog/">Blog </a></li>
+<li><a style="text-transform: lowercase;" href="https://ego.co.uk/instashop">#egosquad</a></li>
+</ul>
+<ul>
+<li><a href="https://ego.co.uk/careers/">Careers </a></li>
+<li><a href="https://ego.co.uk/student-discount/">Student Discount</a></li>
+<li><a href="https://ego.co.uk/affiliate-page/">Affiliates</a></li>
+<li><a href="https://ego.co.uk/size-guide/">Size Guide</a></li>
+<li><a href="https://ego.co.uk/faqs/">FAQs</a></li>
+<li><a title="Klarna" href="https://ego.co.uk/klarna/">Klarna</a></li>
 </ul>
 </div>
-</div></div>                <div class="col-sm-3"><div class="block">
-  <div class="block-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse2" class="accordion-toggle collapsed"><strong><span>Information</span></strong></a></div>
-  <div class="block-content collapse" id="collapse2">
-    <ul class="links">
-<li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/klarna_page" title="About Klarna">About Klarna</a></li> 
-<li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/about-ego/" title="About EGO">About EGO</a></li>
- <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/student-discount/" title="Student Discount">Student Discount</a></li>
-      <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/careers/" title="Careers">Careers</a></li>
-<li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/affiliate-page/" title="Affilaites">Affiliates</a></li>
-      <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/catalog/seo_sitemap/category/" title="Site Map">Site Map</a></li>
-      <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/privacy-policy-cookie-restriction-mode/" title="Privacy">Privacy</a></li>
-      <li><i class="icon-right-dir theme-color"></i><a href="http://ego.co.uk/cookies/" title="Cookies">Cookies</a></li>
-    </ul>
-  </div>
-</div></div>                <div class="col-sm-3"><div class="block">
-    <div class="block-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse3" class="accordion-toggle collapsed"><strong><span>Returns</span></strong></a></div>
-
-    <div class="block-content collapse" id="collapse3">
-<ul class="links">
-    <li class="text">We promise to refund any item for any reason within 28 days of dispatch should you return it in a saleable condition.</li>
-    <li><a href="http://ego.co.uk//returns/" title="Returns">Click For More Info</a></li>
+<div class="block-links second">
+<h3 class="footer-heading"><a href="https://ego.co.uk/delivery/">Delivery Options</a></h3>
+<ul>
+<li><b>* £2.99&nbsp;</b><span>Royal Mail (2-3 Working Days)</span></li>
+<li><b>* £3.99&nbsp;</b><span>DX Next Working Day</span></li>
+<li><b>* £3.99&nbsp;</b><span>DX Saturday Delivery</span></li>
+<li><b>* £7.99&nbsp;</b><span>Royal Mail Special Delivery</span></li>
+<li><b>* Free&nbsp;</b><span>Standard Delivery Over £50</span></li>
 </ul>
 </div>
-</div></div>                <div class="col-sm-3"><div class="block">
-<div class="block-title"><a data-toggle="collapse" data-parent="#accordion" href="#collapse4" class="accordion-toggle collapsed"><strong><span>Delivery Options</span></strong></a></div>
-<div class="block-content collapse" id="collapse4">
-  <ul class="links">
-    <li class="ship-s">Royal Mail Tracked <span class="ship-c">£2.99*</span></li>
-    <li class="ship-s">DPD Next Working Day <span class="ship-c">£4.99*</span></li>
-    <li class="ship-s">Royal Mail Special Delivery <span class="ship-c">£7.99*</span></li>
-    <li class="ship-s">*Saturday Delivery <span class="ship-c">£7.99*</span></li>
-   <li class="ship-s">*Standard Delivery <br> (UK Over £50 / US &amp; AUS £70)<span class="ship-c">FREE*</span></li>
-    <li><a href="http://ego.co.uk/delivery/" title="Delivery Options">Click For More Info</a></li>
-  </ul>
+<div class="block-links third">
+<h3 class="footer-heading"><a href="https://ego.co.uk/returns/">Returns</a></h3>
+<p>We promise to refund any item for any reason within 28 days of dispatch should you return it in a saleable condition.</p>
 </div>
-</div></div>                                </div>
-            </div>
-        </div>
-            <div class="footer-bottom">
-            <div class="container">
-                <div class="custom-block"><p><a href="https://trustlogo.com/ttb_searcher/trustlogo?v_querytype=W&amp;v_shortname=SC5&amp;v_search=http://ego.co.uk/&amp;x=6&amp;y=5" rel="nofollow"><img src="https://ego.co.uk/media/wysiwyg/smartwave/footer/comodo_secure_seal_113x59_transp.png"></a>
-<img src="https://ego.co.uk/media/wysiwyg/smartwave/footer/payments_1.png" alt="Accepted Payment Types" style="max-width: 100%;"></p></div>                                <address>©Copyright 2017 Ego Official. All Rights Reserved.</address>
-                            </div>
-        </div>
-        </div>
-</div>
+</div><div class="footer-bottom">
+<div class="rhs-btm">
 
-    <link href="http://ego.co.uk/skin/frontend/smartwave/ego/css/fonts-googleapis.css" type="text/css" rel="stylesheet">
-<link href="http://ego.co.uk/skin/frontend/smartwave/ego/css/font-googleapis-light.css" type="text/css" rel="stylesheet">
-<!--loading smartwave/jquery/jquery-ui.min.css-->
-<link rel="stylesheet" type="text/css" href="http://ego.co.uk/js/smartwave/jquery/jquery-ui.min.css">
-<a href="#" id="totop"><i class="icon-up-open"></i></a>
-<script type="text/javascript">
-    var windowScroll_t;
-    jQuery(window).scroll(function(){
-        clearTimeout(windowScroll_t);
-        windowScroll_t = setTimeout(function(){
-            if(jQuery(this).scrollTop() > 100){
-                jQuery('#totop').fadeIn();
-            }else{
-                jQuery('#totop').fadeOut();
-            }
-        }, 500);
-    });
-    jQuery('#totop').click(function(){
-        jQuery('html, body').animate({scrollTop: 0}, 600);
-        return false;
-    });
-    jQuery(function($){
-        $(".cms-index-index .footer-container.fixed-position .footer-top,.cms-index-index .footer-container.fixed-position .footer-middle").remove();
-    });
-</script>                <script type="text/javascript" src="//www.ist-track.com/ContainerJavaScript.ashx?id=8b70706a-213b-4c6f-acd7-d3ed45b437c0"></script>
-<noscript> 
-  <img src="//www.ist-track.com/ProcessClickImage.ashx" alt="" width="1" height="1"/>
-</noscript>
-
-	 
+                  <picture> <source media="(min-width: 768px)" srcset="https://cdn.klarna.com/1.0/shared/image/generic/badge/en_gb/checkout/long-blue.png?width=880 2x">
+	               <source media="(min-width: 1px)" srcset="https://cdn.klarna.com/1.0/shared/image/generic/badge/en_gb/checkout/short-blue.png?width=624 2x">
+	               <img src="https://cdn.klarna.com/1.0/shared/image/generic/badge/en_gb/checkout/long-blue.png?width=880 " alt="Banner"> 
+                    </picture>
+	</div>
+	<div class="lhs-btm">
+		
+		<ul>
+			<li><a href="https://ego.co.uk/terms/">Terms of Use</a></li>
+			<li><a href="https://ego.co.uk/privacy-policy-cookie-restriction-mode/">Privacy</a></li>
+			<li><a href="https://ego.co.uk/sitemap/">Sitemap</a></li>
+			<li><a href="https://ego.co.uk/cookies/">Cookies</a></li>
+		</ul>
+               <span class="copy-right">@ copyright ego shoes </span>
+	</div>
 	
-
-<!-- Begin Monetate ExpressTag - TrackData -->
-<script type="text/javascript">
-//<![CDATA[
-    window.monetateQ.push(["setPageType", window.monetateData.pageType]);
-    if(window.monetateData.cartRows) window.monetateQ.push(["addCartRows", window.monetateData.cartRows]);
-    window.monetateQ.push(["trackData"]);
-//]]>
-</script>
-<!-- End Monetate ExpressTag -->
-<div id="wc-overlay" class="wc-overlay"><div class="wc-overlay-loading"></div></div><script>
-    
-    
-            function guaChunk(arr, n) {
-            return arr.slice(0,(arr.length+n-1)/n|0).
-                   map(function(c,i) { return arr.slice(n*i,n*i+n); });
-        }
-        if(typeof productImpressions !== 'undefined' && productImpressions.length > 0) {
-            productImpressionsChunks = guaChunk(productImpressions, 20);
-            for(var i=0; i < productImpressionsChunks.length; i++) {
-                dataLayer.push({
-                    'ecommerce': {
-                      'currencyCode': 'GBP',                       
-                      'impressions': productImpressionsChunks[i]
-                    },
-                    'event':'GAevent',
-                    'eventCategory':'impression',
-                    'eventAction':'sent',
-                    'eventNoInteraction':true
-               });
-            }
-        }
-        
-    
-    
-    
-    document.observe('dom:loaded', function() {
-        if(typeof promoImpressions !== 'undefined' && promoImpressions.length > 0) {
-                            dataLayer.push({
-                            'ecommerce': {
-                              'promoView' : {
-                                'promotions': promoImpressions
-                               }
-                            }
-                          });
-                dataLayer.push({
-                    'event':'GAevent',
-                    'eventCategory':'impression',
-                    'eventAction':'sent',
-                    'eventNoInteraction':true
-               });
-                    }
-    });
-</script>
-    </div>
 </div>
-<script type="text/javascript" src="//tag.webgains.com/container-11265.html"></script>
-<script src="https://api.socialy.io/analytics/77.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"27ba599283","applicationID":"34426073","transactionName":"NFYEY0MHDEYDWkQMXw0cJ1RFDw1bTVpdFh8TUgFSHhALUBU=","queueTime":0,"applicationTime":1070,"atts":"GBEHFQsdH0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</div></footer>
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Dotdigitalgroup_Email/js/emailCapture":{
+            "isEnabled":"",
+            "type":"newsletter",
+            "url":"https://ego.co.uk/connector/ajax/emailcapture/"
+        }
+    }
+}
+</script>
+
+</div>    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5512ea7bbf","applicationID":"64397416","transactionName":"NAYDbEFZVkMAW0FbWw1MIFtHUVdeTltYQRsTAgZdHE5RVRY=","queueTime":0,"applicationTime":364,"atts":"GEEAGglDRU0=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
