@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the chennaisuperkings.com privacy policy that was archived on 2012-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120508174927id_/http%3A//www.chennaisuperkings.com/html/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaisuperkings.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315071017id_/http%3A//www.chennaisuperkings.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# The Official Website of Chennai Super Kings - CHAMPIONS 2011
+# Chennai Super Kings
+
+  | 
+
+##  Privacy Policy
 
 Chennai Super Kings is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you; we receive from you, on the Internet.
 
@@ -10,16 +14,13 @@ We want you to feel confident about using www.chennaisuperkings.com to browse, b
 
 If you register with any one of the Chennai Super Kings' business units online, then they may use this information to provide you with custom information about Chennai Super Kings' offerings in support of your business needs.
 
-A technology called Cookies may be used to provide you with tailored information. A Cookie is a tiny element of data that a website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a Cookie. Registering with any Chennai Super Kings'; business unit online signifies your unconditional consent to receive such Cookies.
+A technology called Cookies may be used to provide you with tailored information. A Cookie is a tiny element of data that a website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a Cookie. Registering with any Chennai Super Kings’ business unit online signifies your unconditional consent to receive such Cookies.
 
 At times, we conduct on-line surveys to understand better the needs and profile of our visitors. When we conduct a survey, we will try (but are not obligated) to let you know how we will use the information at the time we collect information from you on the Internet.
 
 You recognize and understand that there is no compulsion on you to provide us with your personal information, if any. All the personal information provided by you to us is with your full consent, own volition, and desire to provide such personal information. You also understand that we are under no obligation to verify the source from, which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of 15 days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent.
 
-Chennai Super Kings website may contain links to other sites such as Chennai Super Kings'; partners and affiliates. While we try to link only to the sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by the other sites.
-
-##  Facebook
-
-1\. The Chennai Super Kings Facebook application collects user basic information and email addresses to keep them in touch with Chennai Supper Kings activities. 
-
-2\. Chennai Super Kings will not share this personal data with any third parties. 
+Chennai Super Kings website may contain links to other sites such as Chennai Super Kings’ partners and affiliates. While we try to link only to the sites that share our high standards and respect for privacy, we are not responsible for the content or the privacy practices employed by the other sites.  
+  
+  
+---|---
