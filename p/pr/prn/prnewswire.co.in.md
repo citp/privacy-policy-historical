@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prnewswire.co.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622182711id_/http%3A//prnewswireeurope.mediaroom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prnewswire.co.in privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315221753id_/http%3A//prnewswireeurope.mediaroom.com/privacy) for the most accurate reproduction.*
 
 # PR Newswire Privacy Policy
 
