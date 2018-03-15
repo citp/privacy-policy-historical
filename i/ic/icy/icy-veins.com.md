@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414190249id_/https%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315114338id_/https%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Icy Veins
 
@@ -27,13 +27,9 @@ We monitor our traffic with [Google Analytics](https://www.google.com/analytics)
 
 ## Advertisement
 
-[Proper.io](https://proper.io/) handles all the advertising on our website. They may use information (not including your name, address email address, or telephone number) about your visits to Icy Veins and other Web sites in order to provide you with ads that you may be interested in.
+Icy Veins uses additional third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this Web site, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.networkadvertising.org/consumer/opt_out.asp>.
 
 ## Google Adsense
-
-Proper serves [Google](https://www.google.com/intl/ln/ads/) premium ads on Icy Veins. Google makes use of cookies to track your habits and collect information about you (including personal information) when you navigate websites owned by Google or on which Google software is executed (such as the present site), in order to serve you what they deem to be the most appropriate ads.
-
-We have no control over the type of information collected by Google. For more information, please visit [ the Advertising and Privacy](https://www.google.com/policies/technologies/ads/) page from Google. This page also explains how to opt out of Google advertising cookies.
 
 ## Cookies
 
@@ -52,3 +48,9 @@ The _User Control Panel_ of your forum account gives you ample control about the
 In conformity with French laws (article 23 of the law 78-17 from the 6th of January 1978, modified in 2004), the [CNIL](https://www.cnil.fr/en/) (French National Commission for Information Technology and Liberties) has been made aware of our user database and the nature of the data that we collect (declaration 1588056).
 
 For enquiries regarding our privacy policy, please use [ privacy@icy-veins.com](mailto:privacy@icy-veins.com).
+
+## Premium Accounts
+
+If you have a [Premium Account](https://www.icy-veins.com/forums/topic/32622-premium-faq/), then the only pieces of information that we collect are those that you provide during the registration process: e-mail address, address, and country. These are not shared with anyone. Your payment is handled by [Braintree](https://www.braintreepayments.com/), a subsidiary of [PayPal](https://www.paypal.com/) and none of the payment information is visible by us.
+
+All third-party javascripts are disabled when using a premium account (with the exception of external tools to provide game-specific tooltips, but these do not collect data), so they cannot collect any data from you.
