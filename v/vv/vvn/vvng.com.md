@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904015529id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vvng.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315164641id_/http%3A//www.vvng.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Victor Valley News | VVNG.com
 
