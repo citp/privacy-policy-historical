@@ -1,147 +1,253 @@
-> *The following text is extracted and transformed from the jeunesseglobal2.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126143538id_/http%3A//jeunesseglobal2.com/docs/JeunesseGlobalPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeunesseglobal2.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315095056id_/https%3A//www.jeunesseglobal.com/en-US/privacy-policy) for the most accurate reproduction.*
 
-# Jeunesse Global Privacy Policy
+# Privacy Policy | Jeunesse Global
 
-Jeunesse Global Privacy Policy
-Any communication or material you provide to us, whether received online, electronically,
-otherwise collected by or submitted to us, including any data, questions, comments, suggestions
-or the like is, and will be treated as, non-confidential and non-proprietary except as set forth in
-this Privacy Policy. Anything you transmit or post becomes our property and may be used for
-any Jeunesse Global business purpose, including, but not limited to, reproduction, disclosure,
-transmission, publication, market, research, development of prospect lists, project planning,
-broadcast, posting and marketing, among other things.
-Jeunesse Global is committed to respecting your privacy. We have structured our Website so
-that, in general, you can visit Jeunesse Global on the Web without identifying yourself or
-revealing any personal information. Once you choose to provide us Personally Identifiable
-Information (any information by which you can be identified), you can be assured that it will
-only be used to support your business relationship with Jeunesse Global and Jeunesse Global’s
-business.
-This Privacy Policy covers five main areas: Awareness, Choice, Accuracy and Access, Security,
-and Future Developments.
-Awareness. Jeunesse Global provides this Privacy Policy to make you aware of our privacy
-policies and practices and of the choices you can make about the way your information is
-collected and used. To make this notice easy to find, we make it available on our homepage and
-from the bottom of every page on our Website.
-What we collect. Upon logging onto our Web server, our Web server automatically recognizes
-your domain name, but not your email address (where possible). We will collect the domain
-name from which you log on, aggregate information on what pages you access or visit, user-
-specific information on what pages you access or visit, and information volunteered by you (such
-as survey information and/or site registrations).
-To help us tailor the Website to the needs and interests of its visitors, we may collect various
-types of information from you that do not identify you personally, such as the products you
-purchase, the services you use, the frequency of such purchase and uses, the type of browser you
-are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g.,
-Windows XP or Mac OS X), the domain name of your Internet service provider (e.g., Comcast,
-Earthlink), the length of time you spend on the Website, which pages you visited within the
-Website, which site you visited before coming to the Website, and which site you accessed when
-you left the Website (collectively, “Non-Personally Identifiable Information”). “Collected
-Information” means Personally Identifiable Information and Non-Personally Identifiable
-Information collectively.
-We do collect "cookies" to store your preferences and record session information.
-On parts of the Jeunesse Global Website, you can become a member/customer and/or distributor,
-order products or services, make requests, and register to receive materials. The types of
-Personally Identifiable Information that may be collected on these pages include name, customer
+_Last updated 17 June 2016_
 
+Ensuring the security of the personal information you submit is a priority of Jeunesse Global. Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users and reflects our commitment to your privacy and security.
 
-number, contact and billing information, and transaction and credit card information.
-In order to tailor our subsequent communications to you and continuously improve our products
-and services, we may also ask you to voluntarily provide us with information regarding your
-personal or professional interests, demographics, experience with our products, and contact
-preferences.
-How we use it. Jeunesse Global uses your information to better understand your needs and
-provide you with better service. Specifically, we use your information to help you complete a
-transaction, to communicate back to you, to update you on services and benefits, and to
-personalize our Website for you. Credit card numbers are used only for payment processing and
-are not retained for other purposes.
-We may use the Personally Identifiable Information (a) to protect and defend its rights or
-properties, (b) to protect your personal safety and the personal safety of its users and the public
-in general (whether in emergency situations or otherwise), (c) to provide to third parties to
-maintain and/or operate the Website, (d) to give to its business partners and third party vendors
-that provide services or products selected by you, (e) to fulfill your requests and product or
-service orders, (f) to provide you with information on products, specials, newsletters, and other
-services we provide, (g) for marketing research, (h) to enforce the terms and conditions of this
-Privacy Policy or the Terms of Use, (i) if you are a distributor of the Company, to enforce the
-terms of your Jeunesse Agreement and the Policies & Procedure and in connection with our
-business relationship as set forth in such documents, and (j) as otherwise permitted by law.
-We aggregate the Non-Personally Identifiable Information with information collected from other
-visitors of the Website to track overall visitor traffic patterns. This aggregated information
-allows us to develop statistics that are helpful to understanding how its visitors use the Website.
-We use this aggregated information to monitor, maintain, and improve the functionality and
-content of the Website, making it more responsive to the needs of our visitors. We may also use
-the Non-Personally Identifiable Information for the enhancement, operation, management or
-maintenance of the Website, in connection with developing and operating new websites and for
-historical, statistical, scientific, or other purposes. We reserve the right to use, sell, and assign
-for any and all purposes all Non-Personally Identifiable Information; and you authorize us to use,
-sell, and assign, for any and all purposes, all Non-Personally Identifiable Information.
-We may disclose Collected Information in response to legal process, for example, in response to
-a court order or a subpoena. We also may disclose such information in response to a law
-enforcement agency’s request or where we believe it is necessary to investigate, prevent, or take
-action regarding suspected illegal activities, suspected fraud, situations involving potential
-threats to the physical safety of any person, violations of our Terms of Use, or as otherwise
-required by law.
-From time to time we may also use your information to contact you for market research or to
-provide you with marketing information we think would be of particular interest. At a minimum
-we will always give you the opportunity to opt out of receiving such direct marketing or market
-research contact. We will also follow local requirements, such as allowing you to opt in before
+By using our web site, you consent to the collection and use of information by Jeunesse as described in this Privacy Policy.
 
+Jeunesse adheres to the privacy principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
-receiving unsolicited contact, where applicable. Data collected online may also be combined
-with information you provide when you enroll with Jeunesse Global.
-Whom we share it with. We will only share Personally Identifiable Information with other
-Jeunesse Global entities and/or business partners who are acting on our behalf for the uses
-described above. Such Jeunesse Global entities and/or business partners, including those in the
-United States and/or any other countries, are governed by our privacy policies with respect to the
-use of this data and are bound by appropriate confidentiality agreements.
-Choice. Jeunesse Global will not use or share the Personally Identifiable Information provided
-to us online in ways unrelated to the ones described above without first letting you know and
-offering you a choice. As previously stated, we will also provide you the opportunity to let us
-know if you do not wish to receive unsolicited direct marketing materials from us and we will do
-everything we can to honor such requests.
-Your permission is always secured first should we ever share your information with third parties
-that are not acting on our behalf and governed by our privacy policy.
-Accuracy & Access. Jeunesse Global strives to keep your Personally Identifiable Information
-accurate and secure. In order to update or correct your information with Jeunesse Global, it will
-be necessary for you to contact Jeunesse Global directly through the methods listed below. To
-protect your privacy and security, upon contacting us we will also take reasonable steps to verify
-your identity before granting you access or enabling you to make corrections.
-Security. Jeunesse Global is committed to ensuring the security of your information. To
-prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate
-use of information, we have put in place appropriate physical, electronic, and managerial
-procedures to safeguard and secure the information we collect online. We place a priority on
-protecting your Personally Identifiable Information and take commercially reasonable measures
-to secure and protect such information. However, we cannot guarantee that any electronic
-commerce is totally secure. For example, we have no control over the information collected by
-your Internet service provider or your employer (if the Website is made available to you through
-your employer or if you send us Personally Identifiable Information through your employer-
-provided email account) or information that you disclose in a public forum. Any such third party
-that collects your Personally Identifiable Information may use the information in accordance
-with its terms and conditions of use (and related privacy policies), which may be different from
-this Privacy Policy. We are not responsible for any information collected by such third parties
-and/or how such information is used or maintained. Neither any third party nor we have the
-authority to make any representations or commitments on behalf of the other.
-Future Developments. From time to time, we may use customer and/or Jeunesse Global
-information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our
-information practices change at some time in the future, we will post the Policy changes to our
-Website to notify you of these changes and provide you with the ability to opt out of these new
-uses. If you are concerned about how your information is used, you should check back at our
+This privacy policy covers the collection and use of data through the web sites [www.jeunesseglobal.com](http://www.jeunesseglobal.com/), [www.jeunesseglobal2.com](http://www.jeunesseglobal2.com/) (collectively, the “Websites), and the _JMobile™_ smart phone application, and the [*]™ smart phone application (collectively, the “Smart Phone Apps”). The Websites and Smart Phone Apps are collectively referred to as the “Jeunesse Site”.
 
+We want your use of the Jeunesse Site and the services we offer to be productive and safe and we have taken great efforts to keep your information confidential and secure at all times within our system.
 
-Website periodically. We will only use data collected after a policy has changed for the new
-purposes.
-Collection of Information by Third Party Sites
-The Website may contain links to other Internet sites. These other sites may have different
-privacy policies and this Privacy Policy does not apply to such other sites.
-Children’s Policy
-The Website is not intended for use by children, and children under the age of 13 are not
-authorized to use the Website and should not submit any personal information to us. We do not
-knowingly market to or solicit information from children under the age of 13.
-Business Transactions
-We reserve the right to transfer any and all information that we collect from visitors, or that we
-otherwise collect concerning or in connection with the Website, including Collected Information,
-to a third party in the event of a sale or other transfer of assets or of any portion of our business.
-In the event we enter a business transition, such as a merger, acquisition by another company, or
-sale of all or a portion of our assets, your Collected Information may be among the assets
-transferred.
-By using the Website you acknowledge acceptance of this Privacy Policy in effect at the time of
-use. This Privacy Policy was last revised on February 12, 2015.
-Copyright © 2015 Jeunesse Global, LLC. All rights reserved.
+If you have questions or concerns regarding this statement, you should first contact Doug Whitehead at [privacy@JeunesseHQ.com](mailto:privacy@jeunessehq.com)
+
+Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
+
+## Personal Information
+
+The Jeunesse Site collects different types of personal identifiable information (PII) such as name, address, email address and phone number.
+
+When you download and use the Smart Phone Apps, we automatically collect information on the type of device you use, operating system version, and the device identifier. We do not ask for, access or track any location based information from your _JMobile_ at any time while downloading or using JMobile. However, we do ask for, access and track location based information when using the [IA App].
+
+We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you may turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information.
+
+In order to tailor our subsequent communications to you and continuously improve our products and services, we may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our products, and contact preferences.
+
+Generally, you can visit the Jeunesse Site without entering any PII. However, if you choose to place an order on the Jeunesse Site, we require that you provide your name, mailing address, billing address, email address, phone number, credit card number and its expiration date.
+
+All of this information is necessary for us to complete the transaction and notify you of your order status.
+
+For distributors, the purpose of the Jeunesse Site is to manage your distributorship, preferred customers and network of distributors. If you are a distributor, the Jeunesse Site allows you to order products and manage your distributorship.
+
+In order to use _JMobile_ or the backoffice of the Websites, you must have a Distributor Login provided by Jeunesse.
+
+When enrolling to become a Jeunesse distributor and thereby obtain access to www.Jeunesseglobal.com and www.JeunesseGlobal2.com, we collect your PII, including your name, home or business address, telephone numbers, email address, IP address, credit card number and expiration date, bank account information (for direct deposit or direct debit), and various government-issued identifying data, including, but not limited to, your passport number, tax identification number, national ID card number, social insurance number, etc. We may also collect scanned copies of government-issued photo ID’s.
+
+This data is necessary to manage your Jeunesse distributorship for purposes of identifying who you are, placement of your distributorship and of downline distributorships in the tree, compliance management, product ordering, recognition and rewards, and commissions calculations and payment.
+
+We permit your upline to see only the following PII: your name, the country in which you are registered, your user name, and your sponsor’s name.
+
+We permit your sponsor to see your name, email address and phone number.
+
+If you choose to use a replicated website, we will display the PII that you expressly choose: name, Site URL, phone number.
+
+We also collect third party personal information from customers, including their name, address, telephone number, email address, and credit card number and expiration date.
+
+This PII is used to charge for product orders and ship product and for no other purposes.
+
+## Non-Personally Identifiable Information Collected Automatically
+
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, domain type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
+
+We use mobile analytics software to allow us to better understand the functionality of our Smart Phone Apps on your device. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the Smart Phone Apps.
+
+## Supplementation of Information
+
+In order to protect your account, we may on occasion supplement the personal information you submitted to us with information from third party sources.
+
+We use services from leaders in the industry to verify your identity, in order to prevent others from defrauding your account or the company.
+
+## Testimonials/Product Reviews
+
+If you provide a testimonial or product review on the Jeunesse Site, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.
+
+For testimonials, we do obtain the customer's consent prior to posting his or her name and video testimonial.
+
+If you enter a comment in a public forum we are not responsible for the personal information you choose to submit in these comments.
+
+If you want to remove your personal information that is being displayed on the Jeunesse Site under public pages, please contact us at [privacy@Jeunessehq.com](mailto:privacy@jeunessehq.com)
+
+## How We Use Your Information
+
+We may use your email address, mailing address and/or phone number to provide quality customer support or to reach you regarding order status, product or fulfillment issues and other customer service related activities.
+
+We may use your email address, mailing address and/or phone number to contact you regarding new product offerings, special sales, newsletters, market research, and enforcement of the distributor contract and other aspects of your use of the Jeunesse Sites.
+
+If, however, you do not wish to receive such communications, you have the ability to "opt-out" at any time and you will not be contacted further, unless you place a product order. In that case, we will send you an order confirmation.
+
+From time to time, we may ask you to answer surveys regarding current or future Jeunesse products, as well as to determine hours worked at each rank in the compensation plan. Participation in these surveys is always optional. Survey responses are only used in the aggregate, and are never linked to an individual.
+
+We may occasionally share the aggregate survey data with our affiliates and development partners in order to facilitate new product development and improve customer service and overall customer satisfaction.
+
+## Information Sharing and Choice
+
+Jeunesse is not an "information broker”
+
+We do not engage in the selling of the profile, contact, web usage habits, behavior, buying patterns, or demographic information of our customers, partners or users.
+
+We use the information we collect about you to process orders, pay commissions and provide the best and most personalized service possible.
+
+We will not use or share the PII provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. We will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests.
+
+## Agents/Service Providers
+
+We use third parties such as a shipping company to fulfill orders and a credit card processing company to bill you for goods and services.
+
+We use Live Chat to assist you if you have questions while using our site or regarding your order.
+
+When you purchase a product and use our site, we will share your name, address, telephone number, and email address as necessary for the third party to provide that service.
+
+These third parties are prohibited from using your personal information for promotional purposes or any other purpose aside from what is necessary to _provide_ services to us.
+
+## Business Transition
+
+In the event Jeunesse goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred.
+
+You will be notified via email and/or a prominent notice on our website of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
+
+## Legal Disclaimer
+
+In addition to the circumstances described above, Jeunesse may disclose or release information when we, in good faith, believe that doing so is reasonably necessary: (i) to comply with the law, judicial proceeding, court order, or legal process served on our Web site; (ii) to enforce or apply the terms of User Agreement; or (iii) to protect the rights, property or safety of Jeunesse Sites, our users, or others.
+
+## Links to Other Sites
+
+This Jeunesse Site contains links to other sites that are not owned or controlled by Jeunesse.
+
+Please be aware that we, Jeunesse, are not responsible for the privacy practices of such other sites.
+
+We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personal information.
+
+**This privacy policy applies only to information collected by this Jeunesse Site.**
+
+## Social Media Widgets
+
+Our Websites includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site.
+
+These features may collect your IP address, which page you are visiting on our site, and may set a _cookie_ to enable the feature to function properly.
+
+Social media features and widgets are either hosted by a third party or hosted directly on our web site.
+
+Your interactions with these features are governed by the privacy policy of the company providing it.
+
+## Tracking Information
+
+Jeunesse does not track users of Jeunesse Site online activity over time or allow other parties to do this on the Jeunesse Site.
+
+## Log Files
+
+Like most every web site, the Jeunesse Site records certain tracking information any time someone visits the site.
+
+For every web page that is viewed, our web server records an IP address, the operating system, browser version and the name of the page that was viewed.
+
+We use a third-party tracking service that uses tracking technologies to track non-personal information about visitors to our site.
+
+This information is not linked to any specific user and is used in the aggregate to maintain, track performance and improve the Jeunesse Sites.
+
+## Cookies
+
+A _cookie_ is a small piece of information that is stored by your browser on your computer's hard drive.
+
+The Jeunesse Site uses _cookies_ for the sole purpose of uniquely identifying our users and securing their personal information.
+
+We also use _cookies_ to track your order process without requiring reentry or re-verification of password or personal information on each page of the site.
+
+Rather than storing this information on Jeunessess server, the _cookie_ is stored in your computer and is activated only when you visit the Jeunesse Site.
+
+Your privacy and security are not compromised when you accept a _cookie_ from the Jeunesse Site.
+
+No one can access the information except Jeunesse.
+
+## Third Party Tracking Technologies
+
+Some of our business partners use cookies and web beacons on our site.
+
+We do not have access or control over these third party trackers.
+
+## Clear Gifs (Web Beacons/Web Bugs)
+
+We may employ a software technology called clear gifs (aka Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.
+
+Clear gifs are tiny graphics with a unique identifier, similar in function to _cookies_ , and are used to track the online movements of Web users.
+
+In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
+
+We do not tie the information gathered by clear gifs to our customers’ personal information.
+
+We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.
+
+This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+If you would like to opt-out of these emails, please see “How We Use Your Information”
+
+## Flash _Cookies_
+
+We do not use Flash _cookies_ to collect and store information.
+
+## Data Retention
+
+We will retain your information for as long as your account is active, as needed to provide you services and will use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+## Email & "Opt Out" Policy
+
+We may use your email address provided to contact you regarding the following:
+
+1 User Registration Status (including confirmation of account signup);
+
+2 Order Status and Shipping Notification
+
+3 Online Customer Satisfaction Survey
+
+4 Major changes to the website, addition of new products or services;
+
+5 Promotional and marketing materials that we think you may find useful
+
+If you desire not to receive information about products or services we think may be of interest, you can change the notification options in your account settings.
+
+If you wish to not receive any of these emails, you may _opt-out_ by clicking the Opt-Out link or submitting your email address to unsubscribe@Jeunesseglobal.com or by following the unsubscribe instructions within each email communication.
+
+## Protecting Your Personal Information
+
+Jeunesse is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We place a priority on protecting your Personally Identifiable Information and take commercially reasonable measures to secure and protect such information.
+
+The Jeunesse Sites use secure sockets layer (SSL) to encrypt the transfer of sensitive information, such as your account password and billing information including credit card, from your web browser to our web server.
+
+Only the last four (4) digits of your credit card number will be displayed in your account.
+
+When you place an Order with us, you are given an opportunity to select if you wish to have your credit card numbers stored on our system.
+
+Emails you send to us may not be secure unless otherwise told that security measures will be in place prior to your transmitting the information. For this reason, we ask that you do not send confidential information such as credit card numbers or account numbers to us through emails
+
+The same SSL protocol also acts to authenticate the Jeunesse Sites and prevent unauthorized "hackers" from masquerading as any of our sites while you are logged in to your account. This is accomplished through a "digital certificate", which is an unforgettable electronic "identity card".
+
+If another website attempts to falsely identify itself as a Jeunesse site, your web browser will display a warning indicating that there is a problem with the digital certificate for the Jeunesse Site. Do not log in to those sites if you see any such warning.
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can email us at [privacy@jeunessehq.com](mailto:privacy@jeunessehq.com)
+
+## Updating Your Personal Information
+
+Preferred customers and distributors can update or correct their personal information at any time by visiting the "My Profile" section of the Jeunesse Site.
+
+If you wish to access, delete or correct your information, please fill out a help desk ticket through your JOffice or contact us by telephone.
+
+Requests for access will be responded to within 30 days of the request.
+
+## Children’s Policy
+
+The Website is not intended for use by children, and children under the age of 13 are not authorized to use the Website and should not submit any personal information to us. We do not knowingly market to or solicit information from children under the age of 13.
+
+## Changes in this Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently.
+
+If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
