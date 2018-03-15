@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910214644id_/https%3A//www.visitnorway.com/info/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnorway.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315111419id_/https%3A//www.visitnorway.com/info/privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and security policy
 
@@ -78,84 +78,6 @@ We do not edit user reviews published on TripAdvisor and can not be held respons
 
 **Surveys**  
 Visitnorway may use Qualaroo and/or QuestBack user surveys. It is voluntary to participate in user surveys, and we collect your explicit consent.
-
-**Web analysis and cookies**  
-Visitnorway.com collects and Innovation Norway processes data about visitors to Visitnorway.com and other Visitnorway websites. We use common Internet technologies, including Google Analytics and "cookies" to collect information about users so that at any time we can provide the best possible functionality and develop our information services. This information is taken from the computer's web browser and may include your IP address, operating system, browser, screen resolution and previous website.
-
-"Cookies" are small information capsules (text files) that the website asks your browser to store on your computer or mobile device. This allows the website can remember actions or preferences over time. Most browsers automatically accept cookies. You can always choose to not accept a cookie by changing your browser settings to reject cookies automatically, or so that each cookie must be approved individually, but this may limit the functions available. Consent is considered given if the browser is set to accept the use of cookies. This also applies if the browser is pre-set for acceptance.
-
-To read more about cookies, including how to opt out of accepting cookies on your computer, see for example: [allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies "allaboutcookies.org/manage-cookies/"), [Google Analytics](https://www.google.com/intl/en/policies/privacy/) and [cxense.com/privacy](http://www.cxense.com/privacy "cxense.com/privacy").
-
-Visitnorway.com sets the following cookies:
-
-  * Norway Lights: Pingdom Real User Monitoring (information on response times, page views and geographical distribution)
-  * DoubleClick (Google Analytics remarketing for display advertising)
-  * Cookies for advertising systems with and without remarketing (Adform, Tradedoubler, OpenX)
-  * alertcookie : used to remember the cookie alert was closed
-  * dcOverwrite : used for dynamic content 
-  * dcLanguage : used for language selector
-  * addthis.com : cookies used for add this social sharing: 
-    * atssc
-    * atuvc
-    * atuvs
-  * dc_gtm_UA-2302505-8 : used for google tag manager
-  * ga : used for google analytics
-  * gat_UA-2302505-8 : used for google analytics
-  * LB-Persist: used by load balancer to maintain a persistent connection with the server chosen when load balancing. 
-
-
-
-Cookies from third party systems that we use 
-
-  * facebook.com : used if you're logged into facebook 
-    *  www.facebook.com 
-    * static.ak.facebook.com 
-    * s-static.ak.facebook.com 
-  * addthis.com : used for add this 
-    * s7.addthis.com 
-    * bt2 
-    * di2 
-    * dt 
-    * loc 
-    * ssc 
-    * uid 
-    * um 
-    * uvc 
-    * vc 
-  * www.youtube.com : used for youtube videos on sliders 
-
-
-
-Local storage:
-
-  * recentpages - used for recent pages
-  * res_SITE - used for translations
-  * routeplanner_routeItems - used for maps
-  * tripbuilder_tripItems - used for trip planner 
-  * nearme - used for near me 
-  * compareItems - used for facility search  
-  * compareIDs - used for facility search 
-    *  addthis.com : used for add this  
-    * s7.addthis.com 
-    * _at.hist.1202 
-    * at-lojson-cache-ra-55f15c77310d00f7 
-    * at-rand 
-
-
-
-With the Google Analytics service, we use cookies to collect information about how visitors use our website. We aggregate information and generate reports that help us improve the experience. Cookies collect anonymous information, including the number of visitors to the site, where visitors come from, keywords, and which pages they visit. Google Analytics uses only first-party cookies to gather data.
-
-Both ourselves and third party vendors, including Google, use first-party cookies (such as Google Analytics cookies) and third-party cookies (such as DoubleClick cookies) together to inform, optimize and display ads based on visits to our website.
-
-We use banner ads and "remarketing" with Google Analytics to advertise online.
-
-Third party vendors, including Google, show our ads on sites worldwide.
-
-Visitors may opt out of Google's use of cookies by visiting [Settings for Google Ads](https://www.google.com/settings/u/0/ads/authenticated "Settings for Google Ads").
-
-Scripts are used for advertising solutions to measure the effect of campaigns, and for this use a cookie is used to give campaigns the appropriate crediting for sales and conversions over time.
-
-When you visit Visitnorway.com you may notice some cookies that are not directly related to Visitnorway.com (third-party cookies). When you visit one of our pages that contain embedded content, such as a video from YouTube, you may receive cookies from these sites. We have no control over, or acceptance of, the settings of these cookies. Information about such cookies can most often be found on its associated website.
 
 ### 5\. PERSONAL INFORMATION ABOUT MINORS
 
