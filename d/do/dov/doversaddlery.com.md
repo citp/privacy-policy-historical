@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910115114id_/http%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315010230id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
 
 # Dover Saddlery Privacy Policy
 
@@ -10,37 +10,36 @@ We always welcome your questions and feedback. For privacy-related issues, pleas
 
 Dover Saddlery  
 525 Great Road  
-P.O. Box 1100  
 Littleton, MA 01460  
 800-989-1500  
-[ customerservice@doversaddlery.com](mailto:customerservice@doversaddlery.com?subject=Privacy%20Policy)
+[customerservice@doversaddlery.com](mailto:customerservice@doversaddlery.com?subject=Privacy%20Policy)
 
-**
+ **
 
 ### Contents
 
 **
 
-  * [Information We Collect](http://www.doversaddlery.com/dover-library/a/75/#InformationWeCollect)
-  * [How We Use the Information We Collect](http://www.doversaddlery.com/dover-library/a/75/#HowWeUsetheInformationWeCollect)
-  * [Information We Share with Others](http://www.doversaddlery.com/dover-library/a/75/#InformationWeSharewithOthers)
-  * [Your Choices](http://www.doversaddlery.com/dover-library/a/75/#YourChoices)
-  * [Cookies and Pixel Tags](http://www.doversaddlery.com/dover-library/a/75/#CookiesandPixelTags)
-  * [How We Use E-mail](http://www.doversaddlery.com/dover-library/a/75/#HowWeUseE-mail)
-  * [Links to Other Sites](http://www.doversaddlery.com/dover-library/a/75/#LinkstoOtherSites)
-  * [Updating or Reviewing Your Information](http://www.doversaddlery.com/dover-library/a/75/#UpdatingorReviewingYourInformation)
-  * [Security](http://www.doversaddlery.com/dover-library/a/75/#Security)
-  * [Privacy of Children on Our Web Site](http://www.doversaddlery.com/dover-library/a/75/#PrivacyofChildrenonOurWebSite)
-  * [Policy Changes](http://www.doversaddlery.com/dover-library/a/75/#PolicyChanges)
-  * [Questions or Comments?](http://www.doversaddlery.com/dover-library/a/75/#QuestionsorComments?)
+  * [Information We Collect](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#InformationWeCollect)
+  * [How We Use the Information We Collect](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#HowWeUsetheInformationWeCollect)
+  * [Information We Share with Others](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#InformationWeSharewithOthers)
+  * [Your Choices](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#YourChoices)
+  * [Cookies and Pixel Tags](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#CookiesandPixelTags)
+  * [How We Use E-mail](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#HowWeUseE-mail)
+  * [Links to Other Sites](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#LinkstoOtherSites)
+  * [Updating or Reviewing Your Information](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#UpdatingorReviewingYourInformation)
+  * [Security](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#Security)
+  * [Privacy of Children on Our Web Site](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#PrivacyofChildrenonOurWebSite)
+  * [Policy Changes](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#PolicyChanges)
+  * [Questions or Comments?](https://web.archive.org/web/20180315010230id_/https://www.doversaddlery.com/privacy-policy/a/75/dover-library/a/75/#QuestionsorComments?)
 
-**
+ **
 
 ### Information We Collect
 
 **
 
-We may collect information (including name, address, telephone number, e-mail address, and credit card information) when you: 
+We may collect information (including name, address, telephone number, e-mail address, and credit card information) when you:
 
   * Order from our catalogs or online
   * Purchase from one of our retail stores
@@ -59,7 +58,7 @@ We may also combine this information with data that is publicly available and da
 
 We also gather information about how visitors navigate through our Web site by using "clickstream" data gathered with "cookies," and may also use other online tools such as "pixel tags," as described below.
 
-**
+ **
 
 ### How We Use the Information We Collect
 
@@ -79,7 +78,7 @@ At Dover Saddlery, the information we collect allows us to:
 
 
 
-### **Information We Share with Others**
+###  **Information We Share with Others**
 
 We contract with other companies to provide certain services, including credit card processing, shipping, e-mail distribution, market research, and promotions management. We provide these companies with only the information they need to perform their services and work closely with them to ensure that your privacy is respected and protected. These companies are prohibited by contract from using this information for their own marketing purposes or from sharing this information with anyone other than Dover Saddlery.
 
@@ -87,28 +86,26 @@ From time to time, we make our mailing list (names and addresses only) and infor
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
 
-### **Your Choices**
+###  **Your Choices**
 
 We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Dover Saddlery, please contact us at the address shown below. If you no longer wish to receive our e-mail newsletters or promotions, you also may contact us at the address below or unsubscribe using the link provided in the e-mail.
 
 Dover Saddlery  
 525 Great Road  
-P.O. Box 1100  
 Littleton, MA 01460  
 800-989-1500  
-[ customerservice@doversaddlery.com](mailto:customerservice@doversaddlery.com?subject=Privacy%20Policy)
+[customerservice@doversaddlery.com](mailto:customerservice@doversaddlery.com?subject=Privacy%20Policy)
 
 If you do not want us to provide your name and address to other companies for promotional purposes, please contact us at:  
 Dover Saddlery  
 525 Great Road  
-P.O. Box 1100  
 Littleton, MA 01460  
 800-989-1500  
-[ customerservice@doversaddlery.com](mailto:customerservice@doversaddlery.com?subject=Privacy%20Policy)
+[customerservice@doversaddlery.com](mailto:customerservice@doversaddlery.com?subject=Privacy%20Policy)
 
 Because mailings are planned in advance, it may take several weeks or more for your request to become effective. If you continue to receive unwanted communications of any kind, please contact us, and we will make every effort to correct the situation.
 
-### **Cookies and Pixel Tags**
+###  **Cookies and Pixel Tags**
 
 A cookie is a small data file that is stored by your Web browser on your computer. Cookies enable you to place an order on our Web site. They also allow us to enhance and personalize your online shopping experience, so that the information you receive is more relevant to you.
 
@@ -124,19 +121,19 @@ We may also use pixel tags – tiny graphic images – to tell us what parts of 
 
 We also may contract with other companies who use cookies or other online tools such as pixel tags to measure the performance of a marketing effort on our behalf. We prohibit these companies from using this information for their own marketing purposes or from sharing this information with anyone other than Dover Saddlery.
 
-### **How We Use E-mail**
+###  **How We Use E-mail**
 
 When you provide us your e-mail address, we may send you e-mails necessary to process your order or respond to a request. We may also periodically send out promotions and newsletters by e-mail. Instructions on how to unsubscribe are included in each e-mail.
 
-### **Links to Other Sites**
+###  **Links to Other Sites**
 
 If you click on a link with in the Dover Saddlery site that takes you to another site, you understand that while on their site they have established their own privacy and security policies.
 
-### **Updating or Reviewing Your Information**
+###  **Updating or Reviewing Your Information**
 
 To update your customer information (name, address, telephone number and email address), please contact us at the address above.
 
-### **Security**
+###  **Security**
 
 We use a variety of current technologies and processes for protection of our customer data in order to minimize the chance of loss, misuse or alteration of information that we have collected from you. We limit the information we provide to outside companies with whom we contract to only what they need to carry out their responsibilities.
 
@@ -146,10 +143,10 @@ When you make a purchase, request a catalog, or create an account on our Web sit
 
 Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
 
-### **Policy Changes**
+###  **Policy Changes**
 
 From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes on our Web site. We encourage you to review our privacy policy periodically.
 
-### **Questions or Comments?**
+###  **Questions or Comments?**
 
-For questions, comments or assistance, we invite you to contact us. We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can e-mail the Direct Marketing Association's Committee on Ethical Business Practices at privacypromise@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing.
+For questions, comments or assistance, we invite you to contact us.We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can e-mail the Direct Marketing Association's Committee on Ethical Business Practices at privacypromise@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing.
