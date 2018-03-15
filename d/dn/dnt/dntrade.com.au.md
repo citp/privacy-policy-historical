@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218114716id_/https%3A//www.dntrade.com.au/blog/dntrade-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dntrade.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315225953id_/https%3A//www.dntrade.com.au/content/dntrade-privacy-policy) for the most accurate reproduction.*
 
 # DNTrade Privacy Policy - DNTrade
 
@@ -58,7 +58,7 @@ This document explains how we collect, use and disclose your personal informatio
 
 7.2. Unless we know that personal information is incorrect, we cannot correct it. You can assist us, by telling us when the information we hold has changed and is no longer accurate.
 
-7.3. If you wish to access the personal information we hold about you, you can do so by making a request to us. You can [contact us.](https://www.dntrade.com.au/sendmessage.php)
+7.3. If you wish to access the personal information we hold about you, you can do so by making a request to us. You can [contact us.](https://www.dntrade.com.au/content/contact-us)
 
 **8\. Feedback**
 
@@ -66,4 +66,4 @@ This document explains how we collect, use and disclose your personal informatio
 
 8.2. We may amend this policy from time to time, to make sure that it is accurate and up to date.
 
-8.3 You can contact us as follows [via email](https://www.dntrade.com.au/sendmessage.php) or By Post: DNTrade, P.O Box 2061, Hotham Hill, Victoria, 3051.
+8.3 You can contact us as follows [via email](https://www.dntrade.com.au/content/contact-us) or By Post: DNTrade, P.O Box 2061, Hotham Hill, Victoria, 3051.
