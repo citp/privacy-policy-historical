@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vac-ban.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114120845id_/http%3A//www.vac-ban.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vac-ban.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315071939id_/http%3A//www.vac-ban.com/policy.html) for the most accurate reproduction.*
 
 # VAC-BAN.com - CS:GO stats tracking & VAC ban notifications
 
