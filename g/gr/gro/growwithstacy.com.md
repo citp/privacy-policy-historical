@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the growwithstacy.com privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011182920id_/http%3A//stacyclaflin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growwithstacy.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315081906id_/http%3A//stacyclaflin.com/terms-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Stacy Claflin, Author
-
-## WHAT IS THIS PRIVACY POLICY FOR?
+# Privacy Policy | Stacy Claflin, Author
 
 www.stacyclaflin.com governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-## THE WEBSITE
+#### THE WEBSITE
 
 This website and its owner take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all national laws and requirements for user privacy.
 
-## USE OF COOKIES
+#### USE OF COOKIES
 
 This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer / device.
 
@@ -24,13 +22,13 @@ This website uses tracking software to monitor its visitors to better understand
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
-## CONTACT & COMMUNICATION
+#### CONTACT & COMMUNICATION
 
 Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
 This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
-## EMAIL NEWSLETTER
+#### EMAIL NEWSLETTER
 
 This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
 
@@ -42,19 +40,19 @@ This information is used to refine future email campaigns and supply the user wi
 
 In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
 
-## EXTERNAL LINKS
+#### EXTERNAL LINKS
 
 Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website. (External links are clickable text / banner / image links to other websites.)
 
 The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-## ADVERTS AND SPONSORED LINKS
+#### ADVERTS AND SPONSORED LINKS
 
 This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
 
 Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
-## SOCIAL MEDIA PLATFORMS
+#### SOCIAL MEDIA PLATFORMS
 
 Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
 
@@ -62,13 +60,13 @@ Users are advised to use social media platforms wisely and communicate / engage 
 
 This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
 
-## SHORTENED LINKS IN SOCIAL MEDIA
+#### SHORTENED LINKS IN SOCIAL MEDIA
 
 This website and its owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy urls [web addresses] (this is an example: <http://amzn.to/2kVU392>.)
 
 Users are advised to take caution and good judgement before clicking any shortened urls published on social media platforms by this website and its owners. Despite the best efforts to ensure only genuine urls are published many social media platforms are prone to spam and hacking and therefore this website and its owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
-## RESOURCES & FURTHER INFORMATION
+#### RESOURCES & FURTHER INFORMATION
 
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents "Data Protection Act 1998")
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made "Privacy and Electronic Communications Regulations 2003")
@@ -77,7 +75,7 @@ Users are advised to take caution and good judgement before clicking any shorten
   * [Facebook Privacy Policy](https://www.facebook.com/about/privacy/ "Facebook Privacy Policy")
   * [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy")
   * [Linkedin Privacy Policy](https://www.linkedin.com/legal/privacy-policy "Linkedin Privacy Policy")
-  * [Mailchimp Privacy Policy](http://mailchimp.com/legal/privacy/ "Mailchimp Privacy Policy")
+  * [ActiveCampaign Privacy Policy](https://help.activecampaign.com/hc/en-us/articles/218789997-Privacy-Policy)
   * [Web Design Wales](http://jamieking.co.uk/website-design.html "Web Design Wales")
   * [Website Privacy Policy Template](http://jamieking.co.uk/resources/free_sample_privacy_policy.html "Website Privacy Policy Template")
   * [PDF Form Designer](http://pdfformdesign.co.uk/ "PDF Form Designer")
