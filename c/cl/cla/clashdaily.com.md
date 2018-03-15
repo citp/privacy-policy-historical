@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clashdaily.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108194600id_/http%3A//clashdaily.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashdaily.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315052218id_/https%3A//clashdaily.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy / Terms & Conditions
 
