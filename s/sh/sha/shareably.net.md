@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareably.net privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321020839id_/http%3A//shareably.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareably.net privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315040024id_/https%3A//shareably.net/privacy-policy) for the most accurate reproduction.*
 
 # Shareably - We are the next generation of storytellers
 
