@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jeunesseglobal.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001114701id_/https%3A//www.jeunesseglobal.com/en-US/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeunesseglobal.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315095056id_/https%3A//www.jeunesseglobal.com/en-US/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Jeunesse Global
 
 _Last updated 17 June 2016_
 
@@ -14,7 +14,7 @@ This privacy policy covers the collection and use of data through the web sites 
 
 We want your use of the Jeunesse Site and the services we offer to be productive and safe and we have taken great efforts to keep your information confidential and secure at all times within our system.
 
-If you have questions or concerns regarding this statement, you should first contact Doug Whitehead at [privacy@JeunesseglobalHQ.com](mailto:privacy@jeunesseglobalhq.com)
+If you have questions or concerns regarding this statement, you should first contact Doug Whitehead at [privacy@JeunesseHQ.com](mailto:privacy@jeunessehq.com)
 
 Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -70,7 +70,7 @@ For testimonials, we do obtain the customer's consent prior to posting his or he
 
 If you enter a comment in a public forum we are not responsible for the personal information you choose to submit in these comments.
 
-If you want to remove your personal information that is being displayed on the Jeunesse Site under public pages, please contact us at [privacy@Jeunesseglobal.com](mailto:privacy@jeunesseglobal.com)
+If you want to remove your personal information that is being displayed on the Jeunesse Site under public pages, please contact us at [privacy@Jeunessehq.com](mailto:privacy@jeunessehq.com)
 
 ## How We Use Your Information
 
@@ -230,7 +230,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [privacy@jeunesseglobal.com](mailto:privacy@jeunesseglobal.com)
+If you have any questions about security on our Web site, you can email us at [privacy@jeunessehq.com](mailto:privacy@jeunessehq.com)
 
 ## Updating Your Personal Information
 
