@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930100200id_/http%3A//genengnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315181009id_/https%3A//www.genengnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GEN
 
-  * [ ](https://web.archive.org/gen-articles/precision-medicine-a-bold-initiative-grows-more-iterative/6160) [Precision Medicine: A Bold Initiative Grows More Iterative](https://web.archive.org/gen-articles/precision-medicine-a-bold-initiative-grows-more-iterative/6160)
+  * [ ](https://web.archive.org/gen-articles/flip-the-dna-nanoswitch-power-the-clinical-app/6268) [Flip the DNA Nanoswitch, Power the Clinical App](https://web.archive.org/gen-articles/flip-the-dna-nanoswitch-power-the-clinical-app/6268)
 
-Precision Medicine Is Maintaining a Learning Cycle That Connects Data Collection, Evidence-Based Treatment, and Outcome Analysis
+A Molecular Interaction Detection Platform Uses a Gel-based Readout
 
-  * [ ](https://web.archive.org/gen-exclusives/organ-on-a-chip-technology-trumpeted-as-future-of-drug-discovery/77900984) [Organ-on-a-Chip Technology Trumpeted as Future of Drug Discovery](https://web.archive.org/gen-exclusives/organ-on-a-chip-technology-trumpeted-as-future-of-drug-discovery/77900984)
+  * [ ](https://web.archive.org/gen-exclusives/repurposing-of-kinase-inhibitors-as-broad-spectrum-antiviral-drugs/77901062) [Repurposing of Kinase Inhibitors as Broad-Spectrum Antiviral Drugs](https://web.archive.org/gen-exclusives/repurposing-of-kinase-inhibitors-as-broad-spectrum-antiviral-drugs/77901062)
 
-Slides of Cells Can Mimic Human Tissues Better Than Animal Models but Still Have Development Challenges, Scientists Say
+Summary of the Progress and Challenges in the Repurposing Kinase Inhibitors as Broad-Spectrum Antiviral Therapies
 
-  * [ ](https://web.archive.org/gen-exclusives/autologous-car-t-cell-manufacturing-current-standing-and-future-directions/77900982) [Autologous CAR-T Cell Manufacturing: Current Standing and Future Directions](https://web.archive.org/gen-exclusives/autologous-car-t-cell-manufacturing-current-standing-and-future-directions/77900982)
+  * [ ](https://web.archive.org/gen-articles/single-use-avoids-a-midlife-crisis/6256) [Single-Use Avoids a Midlife Crisis](https://web.archive.org/gen-articles/single-use-avoids-a-midlife-crisis/6256)
 
-A Look at What Drug Manufacturers are Likely Using to Make CAR-T Products
+Single-Use Technology Is Consolidating Its Gains and Finding New Ways of Fitting In
 
-  * [ ](https://web.archive.org/gen-articles/supplement-milliporesigma-sees-opportunity-in-continuous-processing/6150) [Supplement: MilliporeSigma Sees Opportunity in Continuous Processing](https://web.archive.org/gen-articles/supplement-milliporesigma-sees-opportunity-in-continuous-processing/6150)
+  * [ ](https://web.archive.org/gen-exclusives/applications-of-crisprcas9-technology-in-translational-research-on-solid-tumor-cancers/77901066) [Applications of CRISPR/Cas9 Technology in Translational Research on Solid-Tumor Cancers](https://web.archive.org/gen-exclusives/applications-of-crisprcas9-technology-in-translational-research-on-solid-tumor-cancers/77901066)
 
-From the _GEN_ Sounds of Science Podcast
+Efforts Are Underway to Move CRISPR/Cas9 from Bench to Bedside
 
 
 
