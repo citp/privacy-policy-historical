@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915231726id_/http%3A//www.libertyellisfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315224643id_/http%3A//www.libertyellisfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Statue of Liberty & Ellis Island
 
@@ -6,7 +6,7 @@
 
   
 The Statue of Liberty-Ellis Island Foundation, Inc. ("SOLEIF", “we”, “our”, “us”) respects our users (“you”, “your”) concerns about privacy.   
-This policy explains how we collect, use, share and protect any personally identifiable information you provide to us via the following properties that are owned and operated by us (collectively the “Site”): American Family Immigration History Center® on Ellis Island and on LibertyEllisFoundation.org. If at any time you have questions regarding this Privacy Policy, you may contact a representative of SOLEIF by using our [Contact Us Form](https://web.archive.org/web/20170915231726id_/http%3A/contact-us).  
+This policy explains how we collect, use, share and protect any personally identifiable information you provide to us via the following properties that are owned and operated by us (collectively the “Site”): American Family Immigration History Center® on Ellis Island and on LibertyEllisFoundation.org. If at any time you have questions regarding this Privacy Policy, you may contact a representative of SOLEIF by using our [Contact Us Form](https://web.archive.org/web/20180315224643id_/http%3A/contact-us).  
 Personal information is collected on our Site in two forms. One form is information that we expressly request you to provide in connection with certain activities (e.g. through our Kiosk or Site’s forms) or that you otherwise knowingly provide (e.g. submissions, emails). The second form is anonymous aggregated information that we automatically collect from your computer, phone or other device. 
 
 #### I. COLLECTION OF PERSONAL INFORMATION
@@ -55,7 +55,7 @@ We will disclose information we maintain, including personally identifiable info
 
   
 The public portion of the Site is open to non-registered users. The non-public, password protected portion of the Site and the Services are open only to registered users who must be 13 years of age or older. We do not knowingly collect personal information from or allow any Submissions or purchases by children under 13 years of age.   
-Parents or legal guardians may contact us to ask if we have collected their child's personal information, to review such information, if any, and request that we stop collecting this information and have it deleted. Such requests should be made in writing to [Contact Us Form](https://web.archive.org/web/20170915231726id_/http%3A/contact-us). and are subject to SOLEIF’s right to verify to our satisfaction that the request has in fact been made by the child's parent or legal guardian. 
+Parents or legal guardians may contact us to ask if we have collected their child's personal information, to review such information, if any, and request that we stop collecting this information and have it deleted. Such requests should be made in writing to [Contact Us Form](https://web.archive.org/web/20180315224643id_/http%3A/contact-us). and are subject to SOLEIF’s right to verify to our satisfaction that the request has in fact been made by the child's parent or legal guardian. 
 
 #### V. RETENTION OF PERSONAL INFORMATION
 
@@ -68,7 +68,7 @@ Parents or legal guardians may contact us to ask if we have collected their chil
   
 **Modification**. We strive to maintain the accuracy of any personally identifiable information that may have been collected from you, and will use our commercially reasonable efforts to respond promptly to update our database when you tell us the information in our database is inaccurate. It is your responsibility to ensure that such information is accurate, complete, and up-to-date. You may review and update personally identifiable information that you have provided to us at any time by signing in and visiting your profile.   
 **Termination**. You may withdraw your consent to the collection of your information at any time, by notifying us that you terminate the TOU, but please note that your withdrawal of consent will not be retroactive such that information that you publicly posted, or that you shared with others, or that others have downloaded or copied onto their computer or devices may be not be eliminated. Upon termination of the TOU we will eliminate the information you supplied to us, provided that we may keep a copy of it in our archives for uses documented in this Privacy Policy and the TOU or for regulatory and compliance purposes.   
-**Opt Out/Unsbscribe**. You may opt out of or unsubscribe from receiving certain communications from us by following the opt-out/unsubscribe link provided in any email received from us or by emailing us at [Contact Us Form](https://web.archive.org/web/20170915231726id_/http%3A/contact-us). Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. 
+**Opt Out/Unsbscribe**. You may opt out of or unsubscribe from receiving certain communications from us by following the opt-out/unsubscribe link provided in any email received from us or by emailing us at [Contact Us Form](https://web.archive.org/web/20180315224643id_/http%3A/contact-us). Please be aware that we will process your request as quickly as we reasonably can, but it may not be possible to update our systems immediately. 
 
 #### VII. MISCELLANEOUS
 
@@ -86,7 +86,7 @@ New York, NY 10004
 #### Questions and Contact Information
 
   
-If you have any questions or concerns about our privacy policy, please use our [Contact Us Form](https://web.archive.org/web/20170915231726id_/http%3A/contact-us), call 212-561-4500 or send your questions or concerns in writing to: 
+If you have any questions or concerns about our privacy policy, please use our [Contact Us Form](https://web.archive.org/web/20180315224643id_/http%3A/contact-us), call 212-561-4500 or send your questions or concerns in writing to: 
 
 The Statue of Liberty-Ellis Island Foundation, Inc., Customer Service,   
 17 Battery Place, Suite 210,   
