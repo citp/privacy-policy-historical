@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopguideposts.org privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031143714id_/https%3A//www.guideposts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopguideposts.org privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315095826id_/https%3A//www.guideposts.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guideposts
 
@@ -40,7 +40,7 @@ You can, of course, disable cookies on your computer by indicating this in the p
 
 We and our trusted third party marketing partners may share with one another anonymous versions of user information (i.e., aggregate data or data which does not identify a particular individual). We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes.  Such cookies do not contain personally identifiable information.  If you would like to opt out of online behavioral advertising, click on one of these links and follow the instructions found on those sites:
 
-<http://www.aboutads.info/choices> or [http://networkadvertising.org/choices.        ](http://networkadvertising.org/choices.%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0)
+<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>.        
 
 Guideposts does NOT use or authorize the use of so-called “spyware” (i.e., we do not use embed pop-up, pop-under or other advertising adware in any of our downloadable features such as screen savers or wallpaper).
 
