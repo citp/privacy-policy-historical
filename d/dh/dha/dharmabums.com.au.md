@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dharmabums.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218111613id_/https%3A//www.dharmabums.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dharmabums.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315195553id_/https%3A//www.dharmabums.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Women's Yoga and Activewear Clothing Online | Dharma Bums
 
