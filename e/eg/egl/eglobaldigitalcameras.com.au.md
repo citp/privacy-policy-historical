@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610110445id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315112548id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eGlobal Australia
 
