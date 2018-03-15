@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metaboliccooking.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208010736id_/http%3A//www.metaboliccooking.com/welcome/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metaboliccooking.com privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315172906id_/http%3A//www.metaboliccooking.com/welcome/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,6 +66,6 @@ MetabolicCooking.com is controlled, operated and administered entirely within Ba
 
 
 
-© 2017 and beyond MuscleMind Media inc.
+© 2018 and beyond MuscleMind Media inc.
 
 ClickBank is the retailer of this product. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk Street, Suite 200, Boise Idaho, 83706, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of this product or any claim, statement or opinion used in promotion of this product.
