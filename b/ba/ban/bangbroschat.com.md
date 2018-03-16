@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangbroschat.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219003525id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbroschat.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316055339id_/http%3A//bangbroschat.com/support/privacy.htm) for the most accurate reproduction.*
 
-# Camster - Free live cam girls and sex chat
+# Bangbroschat - Free live cam girls and sex chat
 
 **Any personal information provided to or gathered by this site is controlled by Donamis Group, LLC, a Florida limited liability company, and its parent company as licensees of Donamis II, s.r.o.**
 
