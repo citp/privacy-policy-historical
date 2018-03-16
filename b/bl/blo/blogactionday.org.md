@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogactionday.org privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103064621id_/http%3A//www.blogactionday.org/about-us/privacy-and-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogactionday.org privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316233411id_/http%3A//www.blogactionday.org/about-us/privacy-and-data-policy) for the most accurate reproduction.*
 
 # Privacy and Data Policy | Blog Action Day 2015 - Raise Your Voice Oct 16, 2015
 
