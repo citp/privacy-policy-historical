@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arielrebel.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612174242id_/http%3A//www.panchodog.com/privacy.php%3Ftsite%3Darielrebel.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arielrebel.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316174110id_/http%3A//www.panchodog.com/privacy.php%3Ftsite%3Darielrebel.com) for the most accurate reproduction.*
 
 # arielrebel.com Privacy Policy
 
