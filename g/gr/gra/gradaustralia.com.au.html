@@ -1,0 +1,550 @@
+<!--The following is the downloaded HTML source of the gradaustralia.com.au privacy policy that was archived on 2018-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180316101938id_/http%3A//gradaustralia.com.au/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+  <meta name="breakpoint-medium">
+  <meta name="breakpoint-large">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="MobileOptimized" content="width">
+  <meta http-equiv="cleartype" content="on">
+<!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="https://gradaustralia.com.au/sites/gradaustralia.com.au/themes/grad_australia/favicon.ico" type="image/vnd.microsoft.icon">
+<script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "Organization",
+"url": [
+"https://gradaustralia.com.au/"
+],
+"logo": "https://gradaustralia.com.au/sites/gradaustralia.com.au/files/gradaustralia_cmyk_master.png"
+}
+</script>
+<script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "Organization",
+"name": "GradAustralia",
+"sameAs": [
+"https://www.linkedin.com/company/6392505/",
+"https://plus.google.com/+GradaustraliaAu",
+"https://twitter.com/grad_australia",
+"https://www.facebook.com/GradAustralia/",
+" https://www.instagram.com/gradaustralia/",
+"https://www.youtube.com/channel/UCXbLpGL1IigCUnxql2Pog3A"
+],
+"url": [
+"https://gradaustralia.com.au"
+]
+}
+</script>
+<meta name="description" content="GradAustralia respects the right to privacy and is committed to safeguarding the privacy of our customers and our website visitors. We adhere to the Australian Privacy Principles and other obligations contained in the Privacy Act 1988 (Cth).">
+<meta name="robots" content="noodp">
+<meta name="rights" content="GTI Media Ltd">
+<link rel="canonical" href="https://gradaustralia.com.au/privacy">
+<title>Privacy Policy - GradAustralia</title>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+for(var fonts=document.cookie.split("advaggf"),i=0;i<fonts.length;i++){var font=fonts[i].split("="),pos=font[0].indexOf("ont_");-1!==pos&&(window.document.documentElement.className+=" "+font[0].substr(4).replace(/[^a-zA-Z0-9\-]/g,""))}if(void 0!==Storage){fonts=JSON.parse(localStorage.getItem("advagg_fonts"));var current_time=(new Date).getTime();for(var key in fonts)fonts[key]>=current_time&&(window.document.documentElement.className+=" "+key.replace(/[^a-zA-Z0-9\-]/g,""))}
+//--><!]]>
+</script>
+<noscript id="advagg_loadcss_0">
+<link type="text/css" rel="stylesheet" href="/sites/gradaustralia.com.au/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.css" media="all" />
+</noscript><link type="text/css" rel="preload" href="/sites/gradaustralia.com.au/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.css" media="all" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<style type="text/css" media="all">
+/* <![CDATA[ */
+ul li.expanded,ul li.leaf{list-style-image:none;list-style-type:none}
+/* ]]> */
+</style>
+<noscript id="advagg_loadcss_2">
+<link type="text/css" rel="stylesheet" href="/sites/gradaustralia.com.au/files/advagg_css/css__MbQCSRyjVRSlfb0UZ7M4IcbrqoZ-qXAReWrFvhGq5_c__KNuCpHKRQkGGsiFonTG9PtI7j_2Mb6v979l6jSpxfDM__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.css" media="all" />
+</noscript><link type="text/css" rel="preload" href="/sites/gradaustralia.com.au/files/advagg_css/css__MbQCSRyjVRSlfb0UZ7M4IcbrqoZ-qXAReWrFvhGq5_c__KNuCpHKRQkGGsiFonTG9PtI7j_2Mb6v979l6jSpxfDM__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.css" media="all" as="style" onload="window.advagg_mod_loadcss = function() {if (window.jQuery) {if (jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(false);}} else {setTimeout(advagg_mod_loadcss, 100);}};setTimeout(advagg_mod_loadcss, 200);this.onload=null;this.rel='stylesheet'">
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/*eslint-disable */
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){function e(){t.media=a}var a=t.media||"all";t.addEventListener?t.addEventListener("load",e):t.attachEvent&&t.attachEvent("onload",e),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(e,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__SSlXbLQtuMY-Jh16MbbFQBlLDPTVb_vyqNtpG_-nw0s__MyFm8b4AOXDl-mTndwodnIvD3HQonUazektInL1IeoE__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js" defer="defer" async="async"></script>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__8eJLoCKy7AJmrM8l7wr-PJaI0RR0meOhGgjIz6fx5AY__AdhAFZ5QAk_VrKkFUOCnxJb9ANrhuWlKf15A7QHm14M__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js" defer="defer" async="async"></script>
+<script async="" type="text/javascript" src="//trackcmp.net/visit?actid=66045742&amp;e=&amp;r=&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180316101938id_%2Fhttp%253A%2F%2Fgradaustralia.com.au%2Fprivacy"></script></head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-30941 node-type-page">
+    <div class="region region-page-top">
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZ4L7D" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  </div>
+
+
+<div class="l-page l--col-2">
+  <div class="site-header">
+    <header class="l-header" role="banner">
+      <div class="l-branding">
+                  <a href="/" title="Home" rel="home" class="site-logo"><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/themes/grad_australia/logo.png" alt="GradAustralia - Graduate Jobs, Programs and Opportunities in Australia"></a>
+        
+              </div>
+
+             <button class="responsive-menu-toggle">Toggle Menu</button>
+        <div class="region region-navigation">
+    <div id="block-menu-block-main-menu-block" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-main-menu-block menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-164086"><a href="/search-jobs">Search Graduate Jobs</a></li>
+<li class="leaf menu-mlid-163845"><a href="/graduate-employers">Browse Employers</a></li>
+<li class="expanded menu-mlid-179636 mega-menu mega-menu--type-two-one"><a href="https://gradaustralia.com.au/advice">Advice</a><ul class="menu"><li class="first expanded menu-mlid-179616"><span class="nolink">Browse by sector</span><ul class="menu"><li class="first leaf menu-mlid-179626 mega-menu mega-menu--type-two-one"><a href="/accounting">Accounting and advisory</a></li>
+<li class="leaf menu-mlid-180526 mega-menu mega-menu--type-two-one"><a href="/public-service">Government &amp; public services</a></li>
+<li class="leaf menu-mlid-179631 mega-menu mega-menu--type-two-one"><a href="/banking-finance">Banking and financial services</a></li>
+<li class="leaf menu-mlid-179686 mega-menu mega-menu--type-two-one"><a href="/information-technology">IT and communications</a></li>
+<li class="leaf menu-mlid-179671 mega-menu mega-menu--type-two-one"><a href="/construction-property">Construction and property services</a></li>
+<li class="leaf menu-mlid-180521 mega-menu mega-menu--type-two-one"><a href="/law">Law</a></li>
+<li class="leaf menu-mlid-179676 mega-menu mega-menu--type-two-one"><a href="/consulting">Consulting</a></li>
+<li class="leaf menu-mlid-179691 mega-menu mega-menu--type-two-one"><a href="/transport-logistics">Transport and logistics</a></li>
+<li class="leaf menu-mlid-190266 mega-menu mega-menu--type-two-one"><a href="/creative-arts">Creative arts &amp; culture</a></li>
+<li class="leaf menu-mlid-179681 mega-menu mega-menu--type-two-one"><a href="/engineering">Engineering, R&amp;D and manufacturing</a></li>
+<li class="leaf menu-mlid-190271 mega-menu mega-menu--type-two-one"><a href="/charity-volunteering">Charity, social work and volunteering</a></li>
+<li class="last leaf menu-mlid-201431"><a href="/mining-oil-gas">Mining, oil and gas</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-179621"><span class="nolink">Browse by topic</span><ul class="menu"><li class="first leaf menu-mlid-179641 mega-menu mega-menu--type-two-one"><a href="/career-planning">Career planning</a></li>
+<li class="leaf menu-mlid-179651 mega-menu mega-menu--type-two-one"><a href="/applying">Applying</a></li>
+<li class="leaf menu-mlid-179646 mega-menu mega-menu--type-two-one"><a href="/interviews">Interviews and assessments</a></li>
+<li class="leaf menu-mlid-179656 mega-menu mega-menu--type-two-one"><a href="/on-the-job">On the job</a></li>
+<li class="leaf menu-mlid-179661 mega-menu mega-menu--type-two-one"><a href="/campus">Campus</a></li>
+<li class="leaf menu-mlid-180516 mega-menu mega-menu--type-two-one"><a href="https://gradaustralia.com.au/generationone">GenerationOne</a></li>
+<li class="last leaf menu-mlid-179666 mega-menu mega-menu--type-two-one"><a href="/news">News</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf menu-mlid-163915"><a href="/top-100-employers">Top 100</a></li>
+<li class="leaf menu-mlid-164085 button-item"><a href="/#login-form" rel="nofollow" class="button button--tertiary popup-link-login">Log in</a></li>
+<li class="last leaf menu-mlid-164084 button-item"><a href="/#popup-save" rel="nofollow" class="button button--secondary popup-link-register">Sign up</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+    </header>
+  </div>
+
+  <div class="site-above-content">
+    <div class="l-above-content">
+              <div class="l-breadcrumbs">
+          <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><div class="inline odd first last" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://gradaustralia.com.au/" itemprop="url"><span itemprop="title">Home</span></a></div></div>        </div>
+                      </div>
+  </div>
+
+  <div class="l-main">
+        <div class="l-content" role="main">
+            <a id="main-content"></a>
+                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div class="ds-1col node node-page view-mode-full clearfix">
+
+  
+  <div class="field field-name-title field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even"><h1>GradAustralia Privacy Policy</h1></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h3><strong>1. We respect privacy</strong></h3>
+
+<p class="rteindent1">1.1 GradAustralia Pty Ltd ABN 43 168 218 782 ("GradAustralia", "we" or "us") respects the right to privacy and is committed to safeguarding the privacy of our customers and our website visitors.&nbsp; We adhere to the Australian Privacy Principles and other obligations contained in the <em>Privacy Act 1988</em> (Cth). The Australian Privacy Principles may be accessed at:<a href="http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles">http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles</a>. This policy sets out how we collect and treat personal information.</p>
+
+<p class="rteindent1">1.2 "Personal information" is information we hold which is identifiable as being about an individual.</p>
+
+<p class="rteindent1">1.3 This policy covers our treatment of information, including personal information that we may gather when you access or use a GradAustralia Service (as defined in our General Terms and Conditions) and also applies to your use of our website, products, services and mobile applications (collectively, the “Services”), but not to the practices of companies we don’t own or control, or people that we don’t manage. We may gather various types of information from our users, as explained in more detail below, and we use this information for you to interact with our Services, internally in connection with our Services, including to personalize, provide, and improve our Services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfil your requests for certain products and services, and to analyse how you use the Services. In certain cases, we may also share some personal information with third parties.</p>
+
+<h3><strong>2. Collection of personal information</strong></h3>
+
+<p class="rteindent1">2.1. We will, from time to time, collect, receive and store personal information provided via the website or in the course of our services, (such as via the completion of a Workplace Survey as defined under our Advertiser Terms &amp; Conditions) from you, provided to us directly or given to us in other forms.&nbsp;</p>
+
+<p class="rteindent1">2.2. You may provide basic information such as your name, phone number, address and email address to us directly, to enable us to send information, provide updates and process a product or service. We may collect additional information at other times, including but not limited to, when you provide feedback, or when you provide information about your personal or business affairs, change content or email preferences, respond to surveys and/or promotions or provide financial or credit card information.</p>
+
+<p class="rteindent1">2.3 You may have the option of registering an account and logging into or otherwise linking to that account using a third-party account such as Facebook, Google or other account provided by a third-party site or application. If you choose to provide or log into your account using your credentials for a third-party platform we may have access to certain information from that site, such as your name, contacts or friend’s lists, account information, public profile, and email address. Consequently, if you provide your third-party account credentials, you acknowledge that the above-identified information, as well as other information for that account (collectively, “Third Party Account Information”) may be transmitted into your GradAustralia account if you authorize such transmissions. You further acknowledge that Third Party Account Information transmitted to us is governed by this Privacy Policy.</p>
+
+<h3><strong>3.&nbsp; &nbsp;What kind of personal information do we collect?</strong></h3>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1 The types of personal information we may collect include:</p>
+
+<p class="rteindent2">(a) identifying information such as name, gender, image and date of birth;</p>
+
+<p class="rteindent2">(b) contact information such as home address, home and mobile phone numbers and email address;</p>
+
+<p class="rteindent2">(c) financial information;</p>
+
+<p class="rteindent2">(d) your qualifications, grades attained, sectors of interest, job history and the details of positions for which you have applied;</p>
+
+<p class="rteindent2">(e)&nbsp; third party account credentials (such as social media and Google account information);</p>
+
+<p class="rteindent2">(f) physical location;</p>
+
+<p class="rteindent2">(g) IP addresses;</p>
+
+<p class="rteindent2">(h) nationality; and</p>
+
+<p class="rteindent2">(i)&nbsp; occupation</p>
+
+<p class="rteindent1">3.2&nbsp; You generally have the right not to identify yourself when dealing with us where it is lawful and practicable for us to allow it. However, on many occasions we will not be able to do this, and provide our Services to you.</p>
+
+<h3><strong>4.&nbsp; How do we collect personal information?</strong></h3>
+
+<p class="rteindent1">4.1 We may collect personal information in a variety of ways, including when you interact with us electronically, when you access our website or software applications and when we provide our services. We may receive personal information from third parties. If we do, we will protect it as set out in this Privacy Policy. &nbsp;We collect information that you provide directly to us or via third parties.&nbsp; For instance, during the registration process (or when you update your account) you provide us with personal information such as your first and last name, email address, telephone number, and at your option, your social media platform credentials and your Google credentials.</p>
+
+<p class="rteindent1">4.2 Additionally, there may be instances where you find it necessary to communicate directly with us or where you have provided us with the means to communicate with you. For example, if you have given us your email address, we may send promotional email offers to you, notify you of any changes to contractual terms or Services, or email you about your use of the Services. Also, we may receive data when you open an email from us or use our Services, including your contacts information. This data helps us make our communications with you more interesting and improve our Services. You are, however, free to opt out of receiving email communications from us by navigating to the settings page within the Services. Please note, however, that you may be unable to opt out of some administrative communications that are reasonably necessary to the Services, such as a confirmation or service notifications.</p>
+
+<p class="rteindent1">4.3&nbsp;We may also collect personal information from you via surveys, interviews and other voluntary submissions. Personal Information collected in this manner will be subject to this Privacy Policy.</p>
+
+<h3><strong>5. Use of personal information</strong></h3>
+
+<p class="rteindent1">5.1 We may use personal information to provide you with information, updates and our services. We may also make you aware of new and additional products, services and opportunities available to you, provided by us, partners and service providers. We may use personal information to improve our products and services and better understand individual and customer needs on a de-identified and aggregated basis.</p>
+
+<p class="rteindent1">5.2 We may use your personal information in an aggregated and anonymised form for statistical purposes, delivery of and improvements to our services, marketing, and reports to third parties.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+<p class="rteindent1">5.3 We may contact you by a variety of measures including, but not limited to telephone, email, sms or mail.&nbsp;</p>
+
+<h3><strong>6.&nbsp; Disclosure of personal information&nbsp;</strong></h3>
+
+<p class="rteindent1">6.1 We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers, customers, users or subcontractors insofar as reasonably necessary for the purposes set out in this Policy. Personal information is only supplied to a third party when it is required for the delivery of our Services, the purposes set out in any contractual arrangements we have with you or for marketing purposes.</p>
+
+<p class="rteindent1">6.2 We may from time to time need to disclose personal information to comply with a legal requirement, such as a law, regulation, court order, subpoena, warrant, in the course of a legal proceeding or in response to a law enforcement agency request.&nbsp;&nbsp;</p>
+
+<p class="rteindent1">6.3 We may also use personal information to protect our copyright, trademarks, legal rights, property or safety, and that of our customers or third parties.</p>
+
+<p class="rteindent1">6.4 Information that we collect may from time to time be stored, processed in or transferred between parties located in countries outside of Australia. It is not practicable to list all the countries in which the information we collect may be located, but these may include the United States, the Philippines, India and New Zealand.</p>
+
+<p class="rteindent1">6.5 If there is a proposed or actual change of control in our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible at law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser under an agreement to maintain confidentiality. We would seek to only disclose information in good faith and where required by any of the above circumstances.</p>
+
+<p class="rteindent1">6.6 By providing us with personal information, you consent to the terms of this Privacy Policy and the types of disclosure covered by this Policy.&nbsp; Where we disclose personal information to third parties, we will request that the third party follow this Policy regarding handling of personal information.</p>
+
+<p class="rteindent1">6.7 Please remember that any content you upload to your public user profile, along with any Personal Information or content that you voluntarily disclose online in a manner other users can view (in messages etc.) becomes publicly available, and can be collected and used by anyone.</p>
+
+<h3><strong>7.&nbsp; &nbsp;Security of personal information</strong></h3>
+
+<p style="margin-left:1.0cm;">We are committed to ensuring that personal information provided to us is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.&nbsp; Although we take measures to safeguard against unauthorised disclosures of information, we cannot provide an assurance that in all cases personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.&nbsp;</p>
+
+<h3><strong>8.&nbsp; &nbsp;Access to personal information</strong></h3>
+
+<p class="rteindent1">8.1 You may request details of personal information that we hold about you in accordance with the provisions of the <em>Privacy Act 1988</em> (Cth). A small administrative fee may be payable for the provision of information. If you are seeking a copy of the information that we hold about you or you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, you may email us at contact@gradaustralia.com.au</p>
+
+<p class="rteindent1">8.2 We reserve the right to refuse to provide you with information that we hold about them, in certain circumstances set out in the <em>Privacy Act</em>.</p>
+
+<h3><strong>9.&nbsp; Direct marketing</strong></h3>
+
+<p class="rteindent1">9.1 We will only use your information for direct marketing (advertising, special offers, updates etc) if you have given express or implied consent to receive it.</p>
+
+<p class="rteindent1">9.2 By agreeing to our General Terms &amp; Conditions you give express consent to receive these types of communications.</p>
+
+<p class="rteindent1">9.3 We will only send you direct marketing communications that are consistent with our obligations under Australian Privacy Principle 7 and the <em>Spam Act 2003</em> (Cth).</p>
+
+<p class="rteindent1">9.4 We will always make it clear and simple to opt out of these communications and will respond to an opt-out request within a reasonable period.</p>
+
+<p class="rteindent1">9.5 There are links that will allow you to opt-out of direct marketing communications on the communications themselves but if they aren't showing up, for whatever reason, please email to contact@gradaustralia.com.au to request an opt-out.</p>
+
+<h3><strong>10.</strong><strong>Complaints about privacy</strong></h3>
+
+<p class="rteindent1">10.1&nbsp;&nbsp; If you have any complaints about our privacy practices, please feel free to send in details of your complaints to us addressed to contact@gradaustralia.com.au</p>
+
+<p class="rteindent1">10.2&nbsp;&nbsp; We take complaints very seriously and will respond to any complaint within 30 days. If you are not happy with our response you can complain directly to the Office of the&nbsp; Australian Information Commissioner by following this link: http://www.oaic.gov.au/privacy/making-a-privacy-complaint</p>
+
+<h3><strong>11. Changes to Privacy Policy</strong></h3>
+
+<p style="margin-left:28.7pt;">&nbsp;Please be aware that we may change this Privacy Policy in the future. We may modify this Policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on our website. Please check back from time to time to review our Privacy Policy.</p>
+
+<h3><strong>12. Website</strong></h3>
+
+<p class="rteindent1">12.1 When a user visits our website gradaustralia.com.au we may collect certain information such as browser type, operating system, website visited immediately before coming to our site, etc. This information is used in an aggregated manner to analyse how users use our site, such that we can improve our service.&nbsp;</p>
+
+<p class="rteindent1">12.2&nbsp; We may from time to time use cookies on our website. Cookies are very small files which a website uses to identify users when a user comes back to the site and to store details about that user’s use of the site. Cookies are not malicious programs that access or damage a user’s computer. Most web browsers automatically accept cookies but a user can choose to reject cookies by changing the browser settings. However, this may prevent a user from taking full advantage of our website.</p>
+
+<p class="rteindent1">12.3&nbsp; Our website may from time to time use cookies to analyse website traffic and help us provide a better website visitor experience. In addition, cookies may be used to serve relevant advertising to website visitors through third parties.</p>
+
+<p class="rteindent1">12.4&nbsp; When you access our Services via your mobile device or computer, we may automatically collect information about your device or computer, including unique device identifiers (e.g., IMEI number, serial number, etc.), operating system, hardware model, etc.</p>
+
+<p class="rteindent1">12.5&nbsp;&nbsp; Our website may from time to time have links to other websites not owned or controlled by us. These links are meant for users’ convenience only. Links to third party websites do not constitute sponsorship, endorsement or approval of these websites. Please be aware that We are not responsible for the privacy practises of other such websites. We encourage users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personal identifiable information.&nbsp;&nbsp;</p>
+</div></div></div></div>
+
+  </div>
+</div>
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://gradaustralia.com.au",
+      "contactPoint": [
+        { "@type": "ContactPoint",
+          "telephone": "+61 2 8004 6993",
+          "email": "contact@gradaustralia.com.au",
+          "contactType": "customer service"
+        }
+      ]
+    }
+  </script>  </div>
+          </div>
+      </div>
+
+      <div class="site-above-pre-footer">
+        <div class="l-above-pre-footer">
+            <div class="region region-above-pre-footer">
+    <div id="block-core-dashboard-popup-login" class="block block-core-dashboard">
+
+    
+  <div class="content">
+    <div id="login-form" class="white-popup mfp-hide"><span class="heading-1">Log in</span><div id="block-hybridauth-hybridauth" class="block block-hybridauth">
+
+    
+  <div class="content">
+    <div class="hybridauth-widget-wrapper"><div class="item-list"><ul class="hybridauth-widget"><li class="first"><a href="/hybridauth/window/Facebook?destination=node/30941&amp;destination_error=" title="Facebook" class="hybridauth-widget-provider hybridauth-onclick-current" rel="nofollow" data-hybridauth-provider="Facebook" data-hybridauth-url="/hybridauth/window/Facebook?destination=node/30941&amp;destination_error=" data-ajax="false" data-hybridauth-width="800" data-hybridauth-height="500"><span class="hybridauth-icon facebook hybridauth-icon-social-icons-gradaus hybridauth-facebook hybridauth-facebook-social-icons-gradaus" title="Facebook"></span></a></li>
+<li class="last"><a href="/hybridauth/window/Google?destination=node/30941&amp;destination_error=" title="Google" class="hybridauth-widget-provider hybridauth-onclick-current" rel="nofollow" data-hybridauth-provider="Google" data-hybridauth-url="/hybridauth/window/Google?destination=node/30941&amp;destination_error=" data-ajax="false" data-hybridauth-width="800" data-hybridauth-height="500"><span class="hybridauth-icon google hybridauth-icon-social-icons-gradaus hybridauth-google hybridauth-google-social-icons-gradaus" title="Google"></span></a></li>
+</ul></div></div>  </div>
+</div>
+<form action="/node/30941?destination=node/30941#login" method="post" id="user-login" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">E-mail or username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="60" maxlength="60" class="form-text required">
+<div class="description">Enter your e-mail address or username.</div>
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required">
+<div class="description">Enter the password that accompanies your e-mail.</div>
+</div>
+<input type="hidden" name="form_build_id" value="form-1gxitWh5SBi3Ctpo1R0pi1hQA8MurOu4ClUx1hCJerw">
+<input type="hidden" name="form_id" value="user_login">
+<div id="edit-forgotten-password" class="form-item form-type-item">
+  <a href="/user/password" rel="nofollow">Forgot Password?</a>
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit"></div></div></form><div class="have-account">Don't have an account? <a href="#popup-save" class="popup-link-register">Sign up</a></div></div>  </div>
+</div>
+<div id="block-core-dashboard-popup-register" class="block block-core-dashboard">
+
+    
+  <div class="content">
+    <div id="register-form" class="white-popup mfp-hide"><span class="heading-1">Sign up with email</span><form class="user-info-from-cookie ds-1col" enctype="multipart/form-data" action="/node/30941?destination=node/30941#first-login" method="post" id="user-register-form" accept-charset="UTF-8"><div><div class="ds-1col ds-form clearfix">
+
+  
+  <div class="required-fields group-personal-details field-group-div"><h3><span>Personal details</span></h3><div class="field-type-text field-name-field-given-name field-widget-text-textfield form-wrapper" id="edit-field-given-name"><div id="field-given-name-add-more-wrapper"><div class="form-item form-type-textfield form-item-field-given-name-und-0-value">
+  <label for="edit-field-given-name-und-0-value">First name <span class="form-required" title="This field is required.">*</span></label>
+ <input class="text-full form-text required" type="text" id="edit-field-given-name-und-0-value" name="field_given_name[und][0][value]" value="" size="60" maxlength="255">
+</div>
+</div></div><div class="field-type-text field-name-field-family-name field-widget-text-textfield form-wrapper" id="edit-field-family-name"><div id="field-family-name-add-more-wrapper"><div class="form-item form-type-textfield form-item-field-family-name-und-0-value">
+  <label for="edit-field-family-name-und-0-value">Last name <span class="form-required" title="This field is required.">*</span></label>
+ <input class="text-full form-text required" type="text" id="edit-field-family-name-und-0-value" name="field_family_name[und][0][value]" value="" size="60" maxlength="255">
+</div>
+</div></div><div id="edit-account" class="form-wrapper"><input class="username" type="hidden" name="name" value="email_registration_PDmvPnDDPX">
+<div class="form-item form-type-textfield form-item-mail">
+  <label for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="254" class="form-text required">
+<div class="description">A valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail.</div>
+</div>
+<div class="form-item form-type-password-confirm form-item-pass">
+ <div class="form-item form-type-password form-item-pass-pass1">
+  <label for="edit-pass-pass1">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input class="password-field form-text required" type="password" id="edit-pass-pass1" name="pass[pass1]" size="25" maxlength="128">
+</div>
+<div class="form-item form-type-password form-item-pass-pass2">
+  <label for="edit-pass-pass2">Confirm password <span class="form-required" title="This field is required.">*</span></label>
+ <input class="password-confirm form-text required" type="password" id="edit-pass-pass2" name="pass[pass2]" size="25" maxlength="128">
+</div>
+
+</div>
+</div></div></div>
+
+  <input type="hidden" name="form_build_id" value="form-ukY_462HmmncemywTpmfw-E_AtWBs9dlgrYsi14eHus">
+<input type="hidden" name="form_id" value="user_register_form">
+<div id="edit-account-already" class="form-item form-type-item">
+  Already have an account? <a href="/user" rel="nofollow">Login here</a>
+</div>
+<div class="url-textfield"><div class="form-item form-type-textfield form-item-url">
+  <label for="edit-url">Leave this field blank </label>
+ <input autocomplete="off" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text">
+</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Create new account" class="form-submit"></div></div></form><div class="have-account">Already have an account? <a href="#login-form" class="popup-link-login">Log in</a></div></div>  </div>
+</div>
+<div id="block-core-dashboard-popup-save" class="block block-core-dashboard">
+
+    
+  <div class="content">
+    <div id="popup-save" class="white-popup mfp-hide"><div class="dg-two-col entity entity-bean bean-message-box view-mode-default">
+    <div class="content-main">
+                <div class="field field-name-field-message-intro field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Join us to bookmark!</div></div></div><div class="field field-name-field-prompt-message field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>You'll be able to save searches and much more if you register for free today!</p>
+</div></div></div><div class="field field-name-field-message-ctas field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://gradaustralia.com.au/hybridauth/window/Google?destination=/privacy&amp;destination_error=frontpage" class="hybridauth-icon google hybridauth-icon-social-icons-gradaus hybridauth-google hybridauth-google-social-icons-gradaus hybridauth-" rel="nofollow">Sign up with Google</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/hybridauth/window/Facebook?destination=/privacy&amp;destination_error=frontpage" class="hybridauth-icon facebook hybridauth-icon-social-icons-gradaus hybridauth-facebook hybridauth-facebook-social-icons-gradaus hybri" rel="nofollow">Sign up with Facebook</a></div><div class="field-item even"><a href="/#register-form" class="ajax-popup-link popup-link-register" rel="nofollow">Sign up with Email</a></div></div></div><div class="field field-name-field-message-botton field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Already have an account? <a class="ajax-popup-link popup-link-login" href="#login-form"><strong>Log in</strong></a></p>
+</div></div></div>      </div>
+  <div class="content-secondary">
+      <div class="field field-name-field-icon-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Why Sign Up?</div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-fc-icon-list field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="dg-default entity entity-field-collection-item field-collection-item-field-fc-icon-list view-mode-full">
+      <div class="content-header">
+      <div class="field field-name-field-list-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img data-src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Alerts.png" src="/profiles/core_platform/themes/master_base/assets/img/image_placeholder.png" width="55" height="55" class="lazyload-placeholder"><noscript><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Alerts.png" width="55" height="55" /></noscript></div></div></div><div class="field field-name-field-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Personalised alerts</div></div></div>    </div>
+    <div class="content-main">
+                <div class="field field-name-field-list-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">We’ll remind you when course or scholarship deadlines are approaching, so you’ll have time to prepare the perfect application</div></div></div>      </div>
+  </div>
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="dg-default entity entity-field-collection-item field-collection-item-field-fc-icon-list view-mode-full">
+      <div class="content-header">
+      <div class="field field-name-field-list-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img data-src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Insights_0.png" src="/profiles/core_platform/themes/master_base/assets/img/image_placeholder.png" width="55" height="55" class="lazyload-placeholder"><noscript><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Insights_0.png" width="55" height="55" /></noscript></div></div></div><div class="field field-name-field-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Open days and events</div></div></div>    </div>
+    <div class="content-main">
+                <div class="field field-name-field-list-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">We’ll keep you up-to-date with the latest information on open days and other events at institutions you’ve shown interest in.</div></div></div>      </div>
+  </div>
+</div></div><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="dg-default entity entity-field-collection-item field-collection-item-field-fc-icon-list view-mode-full">
+      <div class="content-header">
+      <div class="field field-name-field-list-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img data-src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Dashboard_0.png" src="/profiles/core_platform/themes/master_base/assets/img/image_placeholder.png" width="55" height="55" class="lazyload-placeholder"><noscript><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Dashboard_0.png" width="55" height="55" /></noscript></div></div></div><div class="field field-name-field-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Your own applications dashboard</div></div></div>    </div>
+    <div class="content-main">
+                <div class="field field-name-field-list-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Keep track of all your course applications in one place. We’ll let you know when application deadlines are approaching.</div></div></div>      </div>
+  </div>
+</div></div></div></div></div>    </div>
+  </div>
+</div>  </div>
+</div>
+<div id="block-core-dashboard-popup-login-message" class="block block-core-dashboard">
+
+    
+  <div class="content">
+    <div id="popup-login-msg" class="white-popup mfp-hide message"><div class="dg-two-col entity entity-bean bean-message-box view-mode-default">
+    <div class="content-main">
+                <div class="field field-name-field-message-intro field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Thanks for logging in</div></div></div><div class="field field-name-field-prompt-message field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Keep your profile updated so we can match you with the perfect opportunity. Some jobs are only avaliable to members with a completed profile</div></div></div><div class="field field-name-field-message-ctas field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/user" rel="nofollow">View profile</a></div></div></div><div class="field field-name-field-message-botton field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a class="mfp-close" href="#">Not now</a></p>
+</div></div></div>      </div>
+  <div class="content-secondary">
+    </div>
+  </div>
+</div>  </div>
+</div>
+<div id="block-core-dashboard-popup-signup-message" class="block block-core-dashboard">
+
+    
+  <div class="content">
+    <div id="popup-register-msg" class="white-popup mfp-hide message"><div class="dg-two-col entity entity-bean bean-message-box view-mode-default">
+    <div class="content-main">
+                <div class="field field-name-field-message-intro field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Thanks for signing up</div></div></div><div class="field field-name-field-prompt-message field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Complete your profile to help us match you with the perfect opportunity.</div></div></div><div class="field field-name-field-message-ctas field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/user" rel="nofollow">Complete your profile</a></div></div></div><div class="field field-name-field-message-botton field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a class="mfp-close" href="#">Not now</a></p>
+</div></div></div>      </div>
+  <div class="content-secondary">
+    </div>
+  </div>
+</div>  </div>
+</div>
+<div id="block-core-dashboard-popup-apply-message" class="block block-core-dashboard">
+
+    
+  <div class="content">
+    <div id="popup-apply" class="white-popup mfp-hide"><div class="dg-two-col entity entity-bean bean-message-box view-mode-default">
+    <div class="content-main">
+                <div class="field field-name-field-message-intro field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Join us to bookmark!</div></div></div><div class="field field-name-field-prompt-message field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>You'll be able to save searches and much more if you register for free today!</p>
+</div></div></div><div class="field field-name-field-message-ctas field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://gradaustralia.com.au/hybridauth/window/Google?destination=/privacy&amp;destination_error=frontpage" class="hybridauth-icon google hybridauth-icon-social-icons-gradaus hybridauth-google hybridauth-google-social-icons-gradaus hybridauth-" rel="nofollow">Sign up with Google</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/hybridauth/window/Facebook?destination=/privacy&amp;destination_error=frontpage" class="hybridauth-icon facebook hybridauth-icon-social-icons-gradaus hybridauth-facebook hybridauth-facebook-social-icons-gradaus hybri" rel="nofollow">Sign up with Facebook</a></div><div class="field-item even"><a href="/#register-form" class="ajax-popup-link popup-link-register" rel="nofollow">Sign up with Email</a></div></div></div><div class="field field-name-field-message-botton field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Already have an account? <a class="ajax-popup-link popup-link-login" href="#login-form"><strong>Log in</strong></a></p>
+</div></div></div>      </div>
+  <div class="content-secondary">
+      <div class="field field-name-field-icon-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Why Sign Up?</div></div></div><div class="field-collection-container clearfix"><div class="field field-name-field-fc-icon-list field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="dg-default entity entity-field-collection-item field-collection-item-field-fc-icon-list view-mode-full">
+      <div class="content-header">
+      <div class="field field-name-field-list-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img data-src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Alerts.png" src="/profiles/core_platform/themes/master_base/assets/img/image_placeholder.png" width="55" height="55" class="lazyload-placeholder"><noscript><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Alerts.png" width="55" height="55" /></noscript></div></div></div><div class="field field-name-field-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Personalised alerts</div></div></div>    </div>
+    <div class="content-main">
+                <div class="field field-name-field-list-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">We’ll remind you when course or scholarship deadlines are approaching, so you’ll have time to prepare the perfect application</div></div></div>      </div>
+  </div>
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="dg-default entity entity-field-collection-item field-collection-item-field-fc-icon-list view-mode-full">
+      <div class="content-header">
+      <div class="field field-name-field-list-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img data-src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Insights_0.png" src="/profiles/core_platform/themes/master_base/assets/img/image_placeholder.png" width="55" height="55" class="lazyload-placeholder"><noscript><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Insights_0.png" width="55" height="55" /></noscript></div></div></div><div class="field field-name-field-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Open days and events</div></div></div>    </div>
+    <div class="content-main">
+                <div class="field field-name-field-list-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">We’ll keep you up-to-date with the latest information on open days and other events at institutions you’ve shown interest in.</div></div></div>      </div>
+  </div>
+</div></div><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="dg-default entity entity-field-collection-item field-collection-item-field-fc-icon-list view-mode-full">
+      <div class="content-header">
+      <div class="field field-name-field-list-icon field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img data-src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Dashboard_0.png" src="/profiles/core_platform/themes/master_base/assets/img/image_placeholder.png" width="55" height="55" class="lazyload-placeholder"><noscript><img src="https://gradaustralia.com.au/sites/gradaustralia.com.au/files/Dashboard_0.png" width="55" height="55" /></noscript></div></div></div><div class="field field-name-field-list-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Your own applications dashboard</div></div></div>    </div>
+    <div class="content-main">
+                <div class="field field-name-field-list-description field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even">Keep track of all your course applications in one place. We’ll let you know when application deadlines are approaching.</div></div></div>      </div>
+  </div>
+</div></div></div></div></div>    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+        </div>
+    </div>
+  
+  <div class="site-above-footer">
+    <div class="l-above-footer">
+          </div>
+  </div>
+
+  <div class="site-seo-footer">
+    <div class="l-seo-footer">
+        <div class="region region-seo-footer">
+    <div id="block-bean-footer-seo-links" class="block block-bean">
+
+    
+  <div class="content">
+    <div class="entity entity-bean bean-footer-seo-links clearfix">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="field field-name-field-fc-footer-linksets field-type-field-collection field-label-hidden"><div class="field-items"><div class="field-item even"><div class="field-collection-view clearfix view-mode-full"><div class="ds-1col entity entity-field-collection-item field-collection-item-field-fc-footer-linksets view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-footer-linkset-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Popular Job Searches</div></div></div><div class="field field-name-field-footer-linkset-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://gradaustralia.com.au/law-legal-graduate-jobs">Law Graduate Jobs</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/graduate-jobs-in-sydney">Graduate Jobs in Sydney</a></div><div class="field-item even"><a href="https://gradaustralia.com.au/engineering-graduate-jobs">Engineering Graduate jobs</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/graduate-jobs-in-melbourne">Graduate Jobs in Melbourne</a></div><div class="field-item even"><a href="https://gradaustralia.com.au/accounting-graduate-jobs">Accounting Graduate Jobs</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/graduate-jobs-in-perth">Graduate Jobs in Perth</a></div></div></div></div>
+
+</div></div><div class="field-item odd"><div class="field-collection-view clearfix view-mode-full"><div class="ds-1col entity entity-field-collection-item field-collection-item-field-fc-footer-linksets view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-footer-linkset-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Popular Internship Searches</div></div></div><div class="field field-name-field-footer-linkset-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://gradaustralia.com.au/law-legal-internships">Law Clerkships</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/internships-in-sydney">Internships in Sydney</a></div><div class="field-item even"><a href="https://gradaustralia.com.au/engineering-internships">Engineering Internships</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/internships-in-melbourne">Internships in Melbourne</a></div><div class="field-item even"><a href="https://gradaustralia.com.au/accounting-internships">Accounting Internships</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/internships-in-perth">Internships in Perth</a></div></div></div></div>
+
+</div></div><div class="field-item even"><div class="field-collection-view clearfix view-mode-full field-collection-view-final"><div class="ds-1col entity entity-field-collection-item field-collection-item-field-fc-footer-linksets view-mode-full clearfix">
+
+  
+  <div class="field field-name-field-footer-linkset-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Popular Employers</div></div></div><div class="field field-name-field-footer-linkset-link field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://gradaustralia.com.au/graduate-employers/accenture">Accenture</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/graduate-employers/deloitte">Deloitte</a></div><div class="field-item even"><a href="https://gradaustralia.com.au/graduate-employers/anz">ANZ</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/graduate-employers/ey">EY</a></div><div class="field-item even"><a href="https://gradaustralia.com.au/graduate-employers/google-australia">Google</a></div><div class="field-item odd"><a href="https://gradaustralia.com.au/graduate-employers/bhp-billiton">BHP Billiton</a></div></div></div></div>
+
+</div></div></div></div></div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+  <div class="site-footer">
+    <footer class="l-footer" role="contentinfo">
+        <div class="region region-footer">
+    <div id="block-dg-social-dg-social-block" class="block block-dg-social">
+
+    <div class="title">Connect with GradAustralia</div>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="linkedin first" weight=""><a href="http://www.linkedin.com/company/gradaustralia" target="_blank" rel="nofollow" alt="Linkedin" title="Linkedin">Follow us on Linkedin</a></li>
+<li class="google" weight=""><a href="https://plus.google.com/101559940276498947461/about" target="_blank" rel="nofollow" alt="Google" title="Google">Follow us on Google</a></li>
+<li class="twitter" weight=""><a href="https://twitter.com/grad_australia" target="_blank" rel="nofollow" alt="Twitter" title="Twitter">Follow us on Twitter</a></li>
+<li class="facebook last" weight=""><a href="http://www.facebook.com/gradaustralia" target="_blank" rel="nofollow" alt="Facebook" title="Facebook">Follow us on Facebook</a></li>
+</ul></div>  </div>
+</div>
+<div id="block-menu-menu-footer-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/graduate-jobs">Browse Graduate Jobs</a></li>
+<li class="leaf"><a href="/internships">Browse Internships</a></li>
+<li class="leaf active-trail"><a href="/privacy" class="active-trail active">Privacy</a></li>
+<li class="leaf"><a href="/terms-and-conditions" rel="nofollow">Terms &amp; Conditions</a></li>
+<li class="leaf"><a href="/about-gradaustralia">About</a></li>
+<li class="last leaf"><a href="/contact">Contact</a></li>
+</ul>  </div>
+</div>
+  </div>
+                    <p class="copyright">Copyright 2018: GradAustralia: Graduate Jobs, Internships &amp; Programs in Australia</p>
+          </footer>
+  </div>
+</div>
+  <div class="region region-page-bottom">
+          <noscript>
+        <style type="text/css" media="all">
+          img[data-src] { display: none !important; }
+        </style>
+      </noscript>  </div>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__5IaSu7T4yRo00AjJ-4iniCpkMyhTbqiwQig41jyNEzY__LjU8W9bKbGzTtRzUwekE1RET1vi9G1g3yUQvXxN2QJ0__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js" onload="if(jQuery.isFunction(jQuery.holdReady)){jQuery.holdReady(true);}"></script>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__-wsxmOrUn3Mb7O7rLTp5Cc9LubvycRIoSkTw8op0g34__Zz8LrQAUqxrSnGES37-fJsvSbgsUFO_aavF5BLXBp6E__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js"></script>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__B68gfdIYJQAPjw0WR24kF41rWYoDVDKTJj0filoGs3E__L9sADfcCgw6arj2nO7nDPttah36jqmKxHpu3qGmYHfI__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js"></script>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__zBoKdaHtCKFBTwGo_fdcaavl7goiXOHzh47eezPmdB4__zMKxxepkm5jwvcjH58VYX8wLRfUE9qoKFGfDL-Q8KNY__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var trackcmp_email = '';var trackcmp = document.createElement('script');trackcmp.async = true;trackcmp.type = 'text/javascript';trackcmp.src = '//trackcmp.net/visit?actid=66045742&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href); var trackcmp_s = document.getElementsByTagName('script');if (trackcmp_s.length){ trackcmp_s[0].parentNode.appendChild(trackcmp); }else{ var trackcmp_h = document.getElementsByTagName('head'); trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp); }
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"grad_australia","theme_token":"7VgU6S7C4Qrwo1Ghfn1MsAAACmiZl28RRq7qI7o7Vbg"},"urlIsAjaxTrusted":{"\/node\/30941?destination=node\/30941#login":true,"\/node\/30941?destination=node\/30941#first-login":true},"password":{"strengthTitle":"Password strength:","hasWeaknesses":"To make your password stronger:","tooShort":"Make it at least 6 characters","addLowerCase":"Add lowercase letters","addUpperCase":"Add uppercase letters","addNumbers":"Add numbers","addPunctuation":"Add punctuation","sameAsUsername":"Make it different from your username","confirmSuccess":"yes","confirmFailure":"no","weak":"Weak","fair":"Fair","good":"Good","strong":"Strong","confirmTitle":"Passwords match:","username":""},"field_group":{"div":"form"},"ad":{"ServePath":"ad\/get","UserID":0},"advagg_font":[],"advagg_font_storage":1,"advagg_font_cookie":1,"advagg_font_no_fout":1,"clientsideValidation":{"forms":{"user-login":{"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"},"rules":{"name":{"required":true,"messages":{"required":"E-mail or username field is required.","maxlength":"E-mail or username field has to have maximum 60 values."},"maxlength":60},"pass":{"required":true,"messages":{"required":"Password field is required.","maxlength":"Password field has to have maximum 128 values."},"maxlength":128}}},"user-register-form":{"errorPlacement":1,"general":{"errorClass":"error","wrapper":"li","validateTabs":"","scrollTo":1,"scrollSpeed":1000,"disableHtml5Validation":1,"validateOnBlur":1,"validateOnBlurAlways":0,"validateOnKeyUp":1,"validateBeforeAjax":0,"validateOnSubmit":1,"showMessages":0,"errorElement":"label"},"rules":{"name":{"required":true,"messages":{"required":"Username field is required."}},"mail":{"required":true,"messages":{"required":"E-mail field is required.","maxlength":"E-mail field has to have maximum 254 values."},"maxlength":254},"pass":{"required":true,"messages":{"required":"pass field is required."}},"pass[pass1]":{"required":true,"messages":{"required":"Password field is required.","maxlength":"Password field has to have maximum 128 values."},"maxlength":128},"pass[pass2]":{"required":true,"messages":{"required":"Confirm password field is required.","maxlength":"Confirm password field has to have maximum 128 values."},"maxlength":128},"field_given_name[und][0][value]":{"required":true,"messages":{"required":"First name field is required.","maxlength":"First name field has to have maximum 255 values."},"maxlength":255},"field_family_name[und][0][value]":{"required":true,"messages":{"required":"Last name field is required.","maxlength":"Last name field has to have maximum 255 values."},"maxlength":255},"field_mobile[und][0][value]":{"maxlength":255,"messages":{"maxlength":"Mobile field has to have maximum 255 values."}},"field_break_end_date[und][0][value]":{"maxlength":255,"messages":{"maxlength":"Break end date field has to have maximum 255 values."}},"field_break_start_date[und][0][value]":{"maxlength":255,"messages":{"maxlength":"Break start date field has to have maximum 255 values."}},"url":{"maxlength":128,"messages":{"maxlength":"Leave this field blank field has to have maximum 128 values."}},"metatags[und][title][value]":{"maxlength":1024,"messages":{"maxlength":"Page title field has to have maximum 1024 values."}},"metatags[und][description][value]":{"maxlength":1024,"messages":{"maxlength":"Description field has to have maximum 1024 values."}},"metatags[und][abstract][value]":{"maxlength":1024,"messages":{"maxlength":"Abstract field has to have maximum 1024 values."}},"metatags[und][keywords][value]":{"maxlength":1024,"messages":{"maxlength":"Keywords field has to have maximum 1024 values."}},"metatags[und][news_keywords][value]":{"maxlength":1024,"messages":{"maxlength":"Google News Keywords field has to have maximum 1024 values."}},"metatags[und][standout][value]":{"maxlength":1024,"messages":{"maxlength":"Google Standout field has to have maximum 1024 values."}},"metatags[und][rights][value]":{"maxlength":1024,"messages":{"maxlength":"Rights field has to have maximum 1024 values."}},"metatags[und][image_src][value]":{"maxlength":1024,"messages":{"maxlength":"Image field has to have maximum 1024 values."}},"metatags[und][canonical][value]":{"maxlength":1024,"messages":{"maxlength":"Canonical URL field has to have maximum 1024 values."}},"metatags[und][shortlink][value]":{"maxlength":1024,"messages":{"maxlength":"Shortlink URL field has to have maximum 1024 values."}},"metatags[und][original-source][value]":{"maxlength":1024,"messages":{"maxlength":"Original Source field has to have maximum 1024 values."}},"metatags[und][prev][value]":{"maxlength":1024,"messages":{"maxlength":"Previous page URL field has to have maximum 1024 values."}},"metatags[und][next][value]":{"maxlength":1024,"messages":{"maxlength":"Next page URL field has to have maximum 1024 values."}},"metatags[und][content-language][value]":{"maxlength":1024,"messages":{"maxlength":"Content language field has to have maximum 1024 values."}},"metatags[und][geo.position][value]":{"maxlength":1024,"messages":{"maxlength":"Geo position field has to have maximum 1024 values."}},"metatags[und][geo.placename][value]":{"maxlength":1024,"messages":{"maxlength":"Geo place name field has to have maximum 1024 values."}},"metatags[und][geo.region][value]":{"maxlength":1024,"messages":{"maxlength":"Geo region field has to have maximum 1024 values."}},"metatags[und][icbm][value]":{"maxlength":1024,"messages":{"maxlength":"ICBM field has to have maximum 1024 values."}},"metatags[und][refresh][value]":{"maxlength":1024,"messages":{"maxlength":"Refresh field has to have maximum 1024 values."}},"metatags[und][revisit-after][value]":{"maxlength":4,"messages":{"maxlength":"Revisit After interval field has to have maximum 4 values."}},"metatags[und][pragma][value]":{"maxlength":1024,"messages":{"maxlength":"Pragma field has to have maximum 1024 values."}},"metatags[und][cache-control][value]":{"maxlength":1024,"messages":{"maxlength":"Cache-Control field has to have maximum 1024 values."}},"metatags[und][expires][value]":{"maxlength":1024,"messages":{"maxlength":"Expires field has to have maximum 1024 values."}}}}},"general":{"usexregxp":0,"months":{"January":1,"Jan":1,"February":2,"Feb":2,"March":3,"Mar":3,"April":4,"Apr":4,"May":5,"June":6,"Jun":6,"July":7,"Jul":7,"August":8,"Aug":8,"September":9,"Sep":9,"October":10,"Oct":10,"November":11,"Nov":11,"December":12,"Dec":12}},"groups":{"user-login":{},"user-register-form":{}}}});
+//--><!]]>
+</script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__v5VEptUFwgb5yeSk6TcxBIDCE0bEhFFGIh6TTKb693Y__YOa1OrQoaqmsMfFOQhKRAmTpNznD8eWXsIx7Y85yBtE__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/sites/gradaustralia.com.au/files/advagg_js/js__Z0X5uyv9hZPK8wtvgHsMaGx2YsqWr01yNg3XiXsiJZI__U1DRg4z5MB3kQGO4CEnTJbPjYrKK4ZeBzXWKb6JXVGE__MUUNM-ABHFg5fIDSsVRJGTzxaF2FdRUGXpFpfmunmQ0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function($){Drupal.behaviors.lazyloader={attach:function(context,settings){$("img[data-src]").lazyloader({distance:0,icon:""})}}}(jQuery));
+//--><!]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9d7b8d864b","applicationID":"104020100,103718985","transactionName":"ZFVaZ0QCXREEUxYNCl0feVBCClwMSl4NAABsQFlUUzxFCwBH","queueTime":0,"applicationTime":684,"atts":"SBJZEQwYTh8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
