@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetperformance.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113230747id_/http%3A//www.streetperformance.com/v3/v3controllers/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetperformance.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316045714id_/http%3A//www.streetperformance.com/v3/v3controllers/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | streetperformance.com
 
