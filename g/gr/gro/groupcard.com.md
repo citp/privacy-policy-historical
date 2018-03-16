@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupcard.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125102928id_/http%3A//www.groupcard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupcard.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316124614id_/http%3A//www.groupcard.com/privacy.php) for the most accurate reproduction.*
 
 # GroupCard - Privacy Policy
 
@@ -85,4 +85,4 @@ IGC may update this policy at any time for any reason.
 If you have questions or suggestions you can contact us at:  
 Interactive Gift Corporation, GroupCard.com
 
-[Click here to contact us](https://web.archive.org/web/20171125102928id_/http%3A//www.groupcard.com/contact) or you may even contact us through [feedback@groupcard.com](mailto:feedback@groupcard.com)
+[Click here to contact us](https://web.archive.org/web/20180316124614id_/http%3A//www.groupcard.com/contact) or you may even contact us through [feedback@groupcard.com](mailto:feedback@groupcard.com)
