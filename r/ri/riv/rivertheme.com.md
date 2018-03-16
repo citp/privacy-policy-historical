@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivertheme.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230102347id_/http%3A//www.zootemplate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivertheme.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316035050id_/http%3A//www.zootemplate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZooTemplate
 
