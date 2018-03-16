@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2xu.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113002927id_/http%3A//www.2xu.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2xu.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316051506id_/http%3A//www.2xu.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | 2XU
 
