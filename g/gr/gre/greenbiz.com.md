@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenbiz.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920214700id_/https%3A//www.greenbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbiz.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316162416id_/https%3A//www.greenbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # GreenBiz Group Privacy Policy | GreenBiz
 
