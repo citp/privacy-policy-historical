@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829230943id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316174955id_/https%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Flirt4Free
 
-## Last Updated: April 4, 2017
+## Last Updated: October 10, 2017
 
-VS Media, Inc. (the “ **Company** ”) respects your privacy and is committed to protecting it through this privacy policy (the “policy”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at [www.Flirt4Free.com](http://www.flirt4free.com/) (the “ **Website”** ) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. 
+VS Media, Inc. and FBP Media s.r.o. (collectively, the “Company”) respect your privacy and are committed to protecting it through this privacy policy (the “Policy”). This policy describes the types of information the Company may collect from you or that you may provide when you visit the website located at [www.Flirt4Free.com](https://www.flirt4free.com/) (the “Website”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information. 
 
 This policy applies to information the Company collects:
 
@@ -18,7 +18,7 @@ This policy applies to information the Company collects:
 It does not apply to information collected by:
 
   * the Company offline or through any other means, including on any other website operated by the Company or by any third party (including the Company’s affiliates and subsidiaries); or 
-  * any third party (including the Company’s affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website. 
+  * any application or content (including advertising) that may link to or be accessible from (or on) the Website. 
 
 
 
@@ -28,7 +28,7 @@ Important: Please read this policy carefully to understand the Company’s polic
 
 The Website is not intended for anyone under 18-years old. You will only access the Website or register for an account if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services. 
 
-The Company does not collect or solicit any information from anyone under 18-years old or knowingly allow people under 18-years old to register for the Website. The Website and its content are not directed at children under 18-years old. In the event that the Company learns that it has collected personal information from a child under 18-years old, the Company will delete that information as quickly as possible. If you believe that the Company might have any information from or about a child under 18-years old, please contact the Company at [legal@vsmedia.com](mailto:legal@vsmedia.com).
+The Company does not collect or solicit any information from anyone under 18-years old or knowingly allow people under 18-years old to register for the Website. The Website and its content are not directed at children under 18-years old. In the event that the Company learns that it has collected personal information from a child under 18-years old, the Company will delete that information as quickly as possible. If you believe that the Company might have any information from or about a child under 18-years old, please contact the Company at [legal@flirt4free.com](mailto:legal@flirt4free.com).
 
 Section 230 Notice: In accordance with 47 U.S.C. § 230(d), you are notified that parental control protections (including computer hardware, software, or filtering services) are commercially available that may assist in limiting access to material that is harmful to minors. You may find information about providers of these protections on the Internet by searching “parental control protection” or similar terms. If minors have access to your computer, please restrain their access to sexually explicit material by using any of the following products, which the Company provides for informational purposes only and does not endorse: [CYBERsitter™](https://www.cybersitter.com/) | [Net Nanny®](https://www.netnanny.com/) | [CyberPatrol](https://www.cyberpatrol.com/) | [ASACP](http://www.asacp.org/). 
 
@@ -36,7 +36,7 @@ Section 230 Notice: In accordance with 47 U.S.C. § 230(d), you are notified tha
 
 The Company may collect several types of information from and about users of the Website, including information:
 
-  * by which you may be personally identified, including your full name, username, email address, date of birth, or any other information that the Company collects that is defined as personal or personally identifiable information under law (“ **personal information** ”); 
+  * by which you may be personally identified, including your full name, username, email address, date of birth, or any other information that the Company collects that is defined as personal or personally identifiable information under law (“ _ **personal information**_ ”); 
   * that is about you but individually does not identify you, including your age, location, or any other optional information you provide about yourself; or 
   * about your Internet connection, the equipment you use to access the Website, and usage details. 
   * Your bank account or credit/ debit card information.
@@ -47,7 +47,6 @@ The Company collects this information:
 
   * Directly from you when you provide it to the Company.
   * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons, and other tracking technologies. 
-  * about your Internet connection, the equipment you use to access the Website, and usage details. 
   * From third parties, for example, the Company’s business partners.
 
 
@@ -56,15 +55,15 @@ _**Information You Provide to the Company**_
 
 The information the Company collects on or through the Website may include:
 
-  * Information that you provide by filing in forms on the Website. This includes information provided at the time of registering to use the Website, signing up for an account, purchasing content (if available), or requesting further services. The Company may also ask you for information when you report a problem with the Website or a service. 
-  * Records and copies of your correspondence (including email addresses), if you contact the Company. 
+  * Information that you provide by filing in forms on the Website. This includes information provided at the time of registering to use the Website, signing up for an account, purchasing content (if available), or requesting further services. The Company may also ask you for information when you report a problem with the Website or a service.
+  * Records and copies of your correspondence (including email addresses), if you contact the Company.
   * Your responses to surveys that the Company might ask you to complete for research purposes.
-  * Details of transactions you carry out through the Website and in the fulfillment of your requests. You may be required to provide financial information before placing an order through the Website. Please note that the Company itself does not process credit cards, and the Company does not collect or store complete credit card information. The Company relies on trusted third-party payment processors, providers, and gateways to process transactions for the Website. While the Company initially collects your complete credit or debit card information when you first provide it, it does not retain your complete credit card information. 
+  * Details of transactions you carry out through the Website and in the fulfillment of your requests. You may be required to provide financial information before placing an order through the Website. Please note that the Company itself does not process credit cards, and the Company does not collect or store complete credit card information. The Company relies on trusted third-party payment processors, providers, and gateways to process transactions for the Website. While the Company initially collects your complete credit or debit card information when you first provide it, it does not retain your complete credit card information. However, our third-party payment processors may store your payment credentials to facilitate your future transactions with the Company; in making future or additional transactions with the Company, you are authorizing the Company, through our payment processors, to access your stored payment credentials.
   * Your search queries on the Website.
 
 
 
-You also may provide information to be published or displayed (“ **posted** ”) in many areas of the Website (including for example, chat rooms), or transmitted to other users of the Website or third parties (collectively, (“ **user contributions** ”). Your user contributions are posted on the Website and transmitted to others at your own risk. Although you may be able to set certain privacy settings for this information by logging into your account, please be aware that no security measures are perfect or impenetrable. Additionally, the Company cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, the Company cannot and does not guarantee that your user contributions will not be viewed by unauthorized persons. You should refrain from sharing personally identifiable information on the Website. The Company does not monitor user contributions and is not responsible for the privacy of personal information you communicate in these messages. However, the Company does record and document all chat and messaging sessions (public and private) for a period of time. Users should not have any right or expectation of privacy in any information communicated in any public or private areas of the Website.
+You also may provide information to be published or displayed (“ _ **posted**_ ”) in many areas of the Website (including for example, chat rooms), or transmitted to other users of the Website or third parties (collectively, (“ _ **user contributions**_ ”). Your user contributions are posted on the Website and transmitted to others at your own risk. Although you may be able to set certain privacy settings for this information by logging into your account, please be aware that no security measures are perfect or impenetrable. Additionally, the Company cannot control the actions of other users of the Website with whom you may choose to share your user contributions. Thus, the Company cannot and does not guarantee that your user contributions will not be viewed by unauthorized persons. You should refrain from sharing personally identifiable information on the Website. The Company does not monitor user contributions and is not responsible for the privacy of personal information you communicate in these messages. However, the Company does record and document all chat and messaging sessions (public and private) for a period of time. Users should not have any right or expectation of privacy in any information communicated in any public or private areas of the Website.
 
 All communications, such as chat sessions, that take place through the Website are recorded and stored on the Company’s computers. Video of the sessions which shows the model only may be made publicly available through the Website or affiliated sites. Your face and the words you type will not be visible on these videos, but all audio of the session is included, and if your voice is audible during the session, it may be similarly audible on the video. The Company does record but does not make publicly available records of all written exchanges that occur through the Website; the Company may use those records for internal or legal purposes, such as investigating claims of fraud, abuse or inappropriate conduct. By participating in communications on the Website, you expressly agree to these terms including agreeing to the Company’s right to use your voice audible in any video recordings and you understand that you have no right or expectation of privacy in your use of the Website, even in private chat sessions.
 
@@ -84,7 +83,6 @@ The information the Company collects automatically is statistical data and does 
 
   * Estimate the Website’s audience size and usage patterns.
   * Store information about your preferences, thus allowing the Company to customize the Website according to your individual interests. 
-  * Your responses to surveys that the Company might ask you to complete for research purposes.
   * Speed up your searches.
   * Recognize you when you return to the Website.
 
@@ -93,7 +91,7 @@ The information the Company collects automatically is statistical data and does 
 The technologies the Company uses for this automatic data collection may include:
 
   * _**Cookies (or browser cookies)**_. A cookie is a small file placed on the hard drive of your computer. Your browser stores cookies in a manner associated with each website you visit. The Company uses cookies to enable its servers to recognize your browser and tells the Company how and when you visit the Website and use the services. For example, the Company uses session ID cookies, which makes it easier for you to navigate the Website. A session ID cookie expires when you close your browser. The Company also uses persistent cookies, which remain on your hard drive for an extended period. Persistent cookies may be used to store your login information and preferences. You may refuse to accept browser cookies by activating the appropriate setting on your browser. But if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser settings so that it will refuse cookies, the Company’s system will issue cookies when you direct your browser to the Website. If you want to learn more about cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
-  * **_Flash Cookies_**. Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+  * **_Flash Cookies_**.Certain features of the Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on the Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, you can access your Flash management tools from Adobe’s [website](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
   * _**Web Beacons**_. Pages of the Website (and the Company’s emails) may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages (or opened an email) and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). If you want to learn more about web beacons, please visit [www.allaboutcookies.org/web-beacons/](http://www.allaboutcookies.org/web-beacons/).
 
 
@@ -115,6 +113,7 @@ The Website may include plugins from social networks and other third parties. An
 The Company may use the information that it collects for any of the following purposes:
 
   * To provide, operate, maintain, improve, and promote the Website.
+  * To enable you to access and use the Website, including uploading, downloading, collaborating on, and sharing content. 
   * To process and complete transactions, and send you related information, including purchase confirmations and invoices. 
   * To send transactional messages, including responding to your comments, questions, and requests; providing customer service and support; and sending you technical notices, updates, security alerts, and support and administrative messages. 
   * To send promotional communications, such as providing you with information about services, features, newsletters, offers, promotions, contests, and events. 
@@ -124,9 +123,9 @@ The Company may use the information that it collects for any of the following pu
 
 
 
-The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please log into your account and adjust your email preferences at [http://www.flirt4free.com/my-account/secure/](https://web.archive.org/my-account/secure/). For more information, see _ **What choices do you have about how the Company uses and discloses your information**_. 
+The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please log into your account and adjust your email preferences at [https://www.flirt4free.com/my-account/secure/](https://web.archive.org/my-account/secure/). For more information, see _**What choices do you have about how the Company uses and discloses your information.**_
 
-The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. 
+The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria
 
 4. _ **With whom does the Company share your information**_
 
@@ -134,14 +133,15 @@ The Company may disclose aggregated information about its users, and information
 
 The Company may disclose personal information that it collects or you provide as described in this policy: 
 
-  * To the Company’s subsidiaries and affiliates.
+  * To the Company’s subsidiaries and affiliates. 
   * To contractors, service providers, and other third parties the Company uses to support its business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. 
-  * To payment-service providers to (a) process payments; (b) prevent, detect, and investigate fraud or other prohibited activities; (c) facilitate dispute resolution such as chargebacks or refunds; and (d) for other purposes associated with the acceptance of credit or debit cards. The Company may share your credit or debit card number with payment service providers or card networks to monitor card transactions at participating merchants and track redemption activity for the purposes of providing card-linked services. 
+  * To payment-service providers to (a) process payments; (b) prevent, detect, and investigate fraud or other prohibited activities; (c) facilitate dispute resolution such as chargebacks or refunds; and (d) for other purposes associated with the acceptance of
+credit or debit cards. The Company may share your credit or debit card number with payment service providers or card networks to monitor card transactions at participating merchants and track redemption activity for the purposes of providing card-linked services. 
   * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which personal information held by the Company about the Website’s users is among the assets transferred. 
-  * To third parties to market their products or services to you if you have not opted out of these disclosures. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. For more information, see _**What choices do you have about how the Company uses and discloses your information**_. 
-  * To fulfill the purpose for which you provide it.
+  * To third parties to market their products or services to you if you have not opted out of these disclosures. The Company contractually requires these third parties to keep personal information confidential and use it only for the purposes for which the Company discloses it to them. For more information, see What choices do you have about how the Company uses and discloses your information.
+  * To fulfill the purpose for which you provide it. 
   * For any other purpose disclosed by the Company when you provide the information.
-  * With your consent.
+  * With your consent. 
 
 
 
@@ -155,7 +155,9 @@ The Company may also disclose your personal information:
 
 5\. _**What choices do you have about how the Company uses and discloses your information?**_
 
-  * You may correct, update, and delete your account information.
+The Company provides you the ability to exercise certain controls and choices regarding its collection, use, and sharing of your information. In accordance with local law, your controls and choices may include: 
+
+  * You may correct, update, and delete your account information, including your stored payment credentials.
   * You may change your choices for subscriptions and newsletters.
   * You may choose whether or not to receive offers from the Company.
   * You may choose whether you received targeted advertising from the Company or its partners.
@@ -180,11 +182,11 @@ This policy is intended to cover collection of information on or through the Web
 
 9. _ **Your California Privacy Rights**_
 
-If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for direct marketing purposes, please send an email to [customerservice@vsmedia.com](mailto:customerservice@vsmedia.com). Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law. 
+If you are a California resident, you may have certain additional rights. California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. Further, if you are a California resident and would like to opt out from the disclosure of your personal information to any third party for direct marketing purposes, please send an email to [customerservice@flirt4free.com](mailto:customerservice@flirt4free.com). Please be advised that if you opt out from permitting your personal information to be shared, you may still receive selected offers directly from the Company in accordance with California law. 
 
 10\. _**Do Not Track Policy**_
 
-Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. But the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit www.allaboutdnt.com. 
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. But the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit [www.allaboutdnt.com](https://allaboutdnt.com/). 
 
 11. _ **Links to Other Websites**_
 
@@ -208,9 +210,9 @@ Although most changes are likely to be minor, the Company may change this policy
 
 To ask questions or comment about this policy and the Company’s privacy practices, you can reach the Company at: 
 
-VS Media, Inc.  
-24607 Lakeview Canyon Road, #338  
-Westlake Village, California 91361  
+VS Media Inc.  
+4607 Lakeview Canyon Rd. #338  
+Westlake Village, CA 91361 USA  
 1-800-685-9236 (USA only)  
 1-818-880-9021 (Outside USA)  
-[customerservice@vsmedia.com](mailto:customerservice@vsmedia.com)
+[customerservice@flirt4free.com](mailto:customerservice@flirt4free.com)
