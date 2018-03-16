@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coms.hk privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809123455id_/http%3A//www.coms.hk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coms.hk privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316221127id_/http%3A//www.coms.hk/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - coms.hk Free Domain Name | Domain name that belongs to Hongkonger - Powered by Cubic Host
+# Privacy Policy - coms.hk Free Domain Name Service | Stability and security domain name that belongs to Hongkonger
 
 This privacy policy is about our practices regarding data collection and use from all of our services.
 
