@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the epraise.co.uk privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909221532id_/https%3A//www.epraise.co.uk/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epraise.co.uk privacy policy that was archived on 2018-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180316173100id_/http%3A//www.epraise.co.uk/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Our privacy policy | epraise.co.uk
 
-This privacy policy explains what personal data we collect and how we process it. If you have any questions, please use the [contact form](https://web.archive.org/web/20170909221532id_/https%3A//www.epraise.co.uk/index.php?view=contact) to get in touch.
+This privacy policy explains what personal data we collect and how we process it. If you have any questions, please use the [contact form](https://web.archive.org/web/20180316173100id_/http%3A//www.epraise.co.uk/index.php?view=contact) to get in touch.
 
 This policy may be updated from time to time, and any changes will be reflected on this page. This policy was last updated on 11th April 2017.
 
@@ -31,7 +31,7 @@ This policy may be updated from time to time, and any changes will be reflected 
 ## What if the data is wrong?
 
   * Data held about students, parents or teachers is the responsibility of the schools to keep up to date. If you believe that any information we are holding on you is incorrect or incomplete, please notify the relevant school.
-  * If you believe that any other information we are holding on you is incorrect or incomplete, such as your contact details, please use the [contact form](https://web.archive.org/web/20170909221532id_/https%3A//www.epraise.co.uk/index.php?view=contact) to tell us.
+  * If you believe that any other information we are holding on you is incorrect or incomplete, such as your contact details, please use the [contact form](https://web.archive.org/web/20180316173100id_/http%3A//www.epraise.co.uk/index.php?view=contact) to tell us.
 
 
 
