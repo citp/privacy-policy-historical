@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smplayer.info privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814234839id_/http%3A//www.smplayer.info/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smplayer.info privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317082436id_/http%3A//www.smplayer.info/en/privacy-policy) for the most accurate reproduction.*
 
 # SMPlayer - Privacy Policy
 
 ## Data Controller
 
-The controller of the personal data included in the data collected and processed on this website is Ricardo Villalba, hereinafter SMPLAYER, with email ricardo@smplayer.info 
+The controller of the personal data included in the data collected and processed on this website is Ricardo Villalba, hereinafter SMPLAYER, with email [[email protected]](http://www.smplayer.info/cdn-cgi/l/email-protection)
 
 ## Data Collection
 
@@ -12,7 +12,7 @@ SMPLAYER only collects personal information that is provided through the forms o
 
 ## Uses and Purposes of the Collected Data
 
-SMPLAYER collects personal data for the purposes listed below. If you do not agree with any of them, you can contact us at the email address ricardo@smplayer.info. The intended uses and purposes are: 
+SMPLAYER collects personal data for the purposes listed below. If you do not agree with any of them, you can contact us at the email address [[email protected]](http://www.smplayer.info/cdn-cgi/l/email-protection) The intended uses and purposes are: 
 
 **User Registration and Management**   
 The information provided in the registration form will be used to manage website users. SMPLAYER will not tolerate false registrations or attempts to impersonate the identity of people or businesses. Providing false information on the registration form will automatically entail the suspension of the user. 
@@ -41,7 +41,7 @@ Our website uses cookies implantation devices which allow you to be automaticall
 
 ## Exercise of Rights
 
-At any moment, you are free to exercise your right of access, modification, cancellation and opposition by sending the corresponding request together with a copy of an official identification document (ID card, driving license or passport) to the email address ricardo@smplayer.info 
+At any moment, you are free to exercise your right of access, modification, cancellation and opposition by sending the corresponding request together with a copy of an official identification document (ID card, driving license or passport) to the email address [[email protected]](http://www.smplayer.info/cdn-cgi/l/email-protection)
 
 ## Version
 
