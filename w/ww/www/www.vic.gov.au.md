@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023083440id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317193653id_/https%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
@@ -43,7 +43,7 @@ You will know if www.vic.gov.au is collecting personal information from you beca
 
 The first exception is where someone else provides www.vic.gov.au with your personal information. www.vic.gov.au cannot prevent this. However, you are entitled to access and correct any personal information about you collected by www.vic.gov.au.
 
-The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/9748efd5425ed362ca25810f0014bb3e!OpenDocument). However, these statistics are not used to identify individual users of www.vic.gov.au.
+The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/95c43dd4eac71a68ca256dde00056e7b/3b8053afa449f189ca2582040006d545!OpenDocument). However, these statistics are not used to identify individual users of www.vic.gov.au.
 
 ## Internet Use Risk
 
@@ -53,9 +53,9 @@ You should be aware that there are risks in transmitting information across the 
 
 This website contains hyperlinks to pages contained on external government and non-government websites (third party websites). Unless otherwise indicated, www.vic.gov.au:
 
-  * does not endorse or authorise the content of any third party website;
-  * is not affiliated or associated with the owner or operator of any third party website; and
-  * assumes no responsibility or liability for the condition or content of any third party website or for the operation or function of any service or facility offered on any third party website.
+  * does not endorse or authorise the content of any third party website
+  * is not affiliated or associated with the owner or operator of any third party website
+  * assumes no responsibility or liability for the condition or content of any third party website or for the operation or function of any service or facility offered on any third party website
 
 
 
@@ -77,11 +77,11 @@ Cookies used by www.vic.gov.au are enabled by default because of their integrati
 
 Google have also provided the "[Google Analytics Opt-Out Browser Add-On](https://tools.google.com/dlpage/gaoptout)" utility for the following web browsers:
 
-  * Microsoft Internet Explorer,
-  * Google Chrome,
-  * Mozilla Firefox,
-  * Apple Safari, and
-  * Opera.
+  * Microsoft Internet Explorer
+  * Google Chrome
+  * Mozilla Firefox
+  * Apple Safari
+  * Opera
 
 
 
