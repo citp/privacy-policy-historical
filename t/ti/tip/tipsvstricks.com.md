@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsvstricks.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029011619id_/http%3A//tipsvstricks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsvstricks.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317154955id_/http%3A//tipsvstricks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tips and Tricks | Tips and Tricks
 
@@ -14,7 +14,7 @@ Mrizky also collects potentially personally-identifying information like Interne
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Mrizky websites choose to interact with Mrizky in ways that require Mrizky to gather personally-identifying information. The amount and type of information that Mrizky gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [www.tipsvstricks.com](https://web.archive.org/) to provide a username and email address. Those who engage in transactions with Mrizky are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Mrizky collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Mrizky. Mrizky does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Mrizky websites choose to interact with Mrizky in ways that require Mrizky to gather personally-identifying information. The amount and type of information that Mrizky gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [www.tipsvstricks.com](http://tipsvstricks.com/) to provide a username and email address. Those who engage in transactions with Mrizky are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Mrizky collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Mrizky. Mrizky does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
