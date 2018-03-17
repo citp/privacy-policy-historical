@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hum.tv privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920085054id_/http%3A//www.hum.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hum.tv privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317154602id_/https%3A//www.hum.tv/privacy) for the most accurate reproduction.*
 
 # Privacy | HUM TV - Watch Dramas Online
 
