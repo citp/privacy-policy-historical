@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930041414id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317134000id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | TransLink
+# Privacy | translink.com.au
 
 TransLink, a division of the Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
 
