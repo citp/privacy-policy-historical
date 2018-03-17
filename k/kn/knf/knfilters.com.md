@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504142315id_/http%3A//knfilters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knfilters.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317155847id_/https%3A//www.knfilters.com/privacy.htm) for the most accurate reproduction.*
 
 # K&N Engineering, Inc. Privacy Policy
 
@@ -6,7 +6,7 @@
 
  **Privacy Policy Overview**
 
-K&N Engineering, Inc. ("K&N," "us," or "we") knows that you care how information about you is used and shared and respects the privacy of the visitors to the [http://www.knfilters.com](https://web.archive.org/) website (this "Site"). We have created this Privacy Policy ("Privacy Policy") to demonstrate our commitment to privacy and security and supplement our [Terms of Use](https://web.archive.org/terms_of_use.aspx) . This Privacy Policy is an agreement between K&N and you, as the user of this Site ("you"). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, when this Privacy Policy is effective, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
+K&N Engineering, Inc. ("K&N," "us," or "we") knows that you care how information about you is used and shared and respects the privacy of the visitors to the [http://www.knfilters.com](https://web.archive.org/default.aspx) website (this "Site"). We have created this Privacy Policy ("Privacy Policy") to demonstrate our commitment to privacy and security and supplement our [Terms of Use](https://web.archive.org/terms_of_use.aspx) . This Privacy Policy is an agreement between K&N and you, as the user of this Site ("you"). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, when this Privacy Policy is effective, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
 
 In this Privacy Policy, "personal information" means any information by which you can be identified or contacted, such as your name (first and last), mailing address, email address, telephone number, billing information, etc.
 
