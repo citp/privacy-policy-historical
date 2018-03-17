@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazework.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114194902id_/http%3A//www.eazework.com/resources/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazework.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317223325id_/http%3A//www.eazework.com/resources/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
@@ -11,7 +11,7 @@ When you are given a user account you can create a login id and password that is
 
 ## Data Ownership
 
-As you use our application you will update information on your company, customers, processes, financial information, product information etc. All such information uploaded through your login id remains your sole and exclusive property. This information is also classified as Personal Information. Please note that the usage of EazeWork applications and services is governed by our [Terms of Service](https://web.archive.org/web/20171114194902id_/http%3A//www.eazework.com/resources/terms-of-service.aspx "Terms of Service"). 
+As you use our application you will update information on your company, customers, processes, financial information, product information etc. All such information uploaded through your login id remains your sole and exclusive property. This information is also classified as Personal Information. Please note that the usage of EazeWork applications and services is governed by our [Terms of Service](https://web.archive.org/web/20180317223325id_/http%3A//www.eazework.com/resources/terms-of-service.aspx "Terms of Service"). 
 
 ##  Cookies and Tracking Technology
 
