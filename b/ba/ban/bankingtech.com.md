@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208000321id_/http%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingtech.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317111710id_/https%3A//www.bankingtech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Banking Technology
+# Privacy Policy – FinTech Futures
 
 Informa Group (which comprises Informa plc and any and all of its subsidiaries) (“we” or “us”) are committed to protecting and respecting your privacy. This privacy policy has been created in order to demonstrate our firm commitment to your privacy.
 
