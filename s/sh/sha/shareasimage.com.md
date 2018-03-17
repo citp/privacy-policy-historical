@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareasimage.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831061351id_/https%3A//getstencil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareasimage.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317135833id_/https%3A//getstencil.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Stencil
 
@@ -64,7 +64,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://getstencil.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://getstencil.com/terms>
 
 ## Your Consent
 
