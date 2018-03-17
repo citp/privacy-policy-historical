@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwaretestingmaterial.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123094435id_/http%3A//www.softwaretestingmaterial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaretestingmaterial.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317225041id_/https%3A//www.softwaretestingmaterial.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -127,4 +127,4 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. [www.softwaretestingmaterial.com](http://www.softwaretestingmaterial.com/)
+If there are any questions regarding this privacy policy you may contact us using the information below. [www.softwaretestingmaterial.com](https://www.softwaretestingmaterial.com/)
