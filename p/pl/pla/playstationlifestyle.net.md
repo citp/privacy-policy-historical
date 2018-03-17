@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstationlifestyle.net privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114190241id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dplaystationlifestyle.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstationlifestyle.net privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317182336id_/http%3A//www.craveonline.com/privacy%3Fsite%3Dplaystationlifestyle.net) for the most accurate reproduction.*
 
 # Privacy Policy - CraveOnline
 
