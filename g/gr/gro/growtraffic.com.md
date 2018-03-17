@@ -1,80 +1,155 @@
-> *The following text is extracted and transformed from the growtraffic.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218190824id_/http%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growtraffic.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317234706id_/https%3A//growtraffic.com/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy | Growtraffic.com
 
-[Home](http://www.hugedomains.com/index.cfm) _ _ Privacy Policy
+### Information
 
-**What information do we collect?**
+THIS PRIVACY POLICY DESCRIBES WHAT KIND OF INFORMATION WE COLLECT, HOW WE USE AND STORE SUCH INFORMATION. YOU ARE STRONGLY RECOMMENDED TO READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE. YOUR FAILURE TO READ THIS POLICY DOES NOT CONTSTITUE AN ACCEPTABLE EXCUSE WHEN IT COMES TO ITS ENFORCEMENT. 
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+  
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
 
-**What do we use your information for?**
+### DEFINITIONS:
 
-Any of the information we collect from you may be used in one of the following ways: 
+Except otherwise defined in this Privacy Policy, the word, terms and expressions used will give the same meaning as assigned to them in the TOS.
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+a. Information refers to your information including, without limitation, your Private Information, Payment Information or anonymous information.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+b. Private Information refers to your unique, identifiable and contact information including, without limitation, your names, address and contact information.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+c. Payment Information refers to the payment method you use to buy our Services such as PayPal or any payment method we may notify to be acceptable. 
 
-• To process transactions
+  
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
 
-• To send periodic emails
+### PURPOSE OF INFORMATION COLLECTION:
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Growtraffic aims to offer you with efficient, secure, hassle-free, reliable and friendly user experience. To this end, your Information is essential to the sooth provision of the services including, without limitation, processing the order, running campaign, studying user trend and user preference, maintaining security, and keeping the user updated with reference to our latest offers and the Services.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+  
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**How do we protect your information?**
+### MODIFICATION: 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+Growtraffic may modify this Privacy Policy at any time. The modified Privacy Policy shall apply upon it is posted on Growtraffic.com. Growtraffic may, but not obliged to, notify our regular users to that effect.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+  
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
 
-**Do we use cookies?**
+### ELIGIBILITY:
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+Growtraffic requires the user to possess certain qualifications. You are only allowed to visit Growtraffic.com and buy our Services if you are:
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+(a) Eighteen (18) years of the age/emancipated minor under the applicable laws of your local jurisdiction.  
+(b) Not insolvent.  
+(c) Not restricted person under the applicable laws.  
+(d) Not resident of the country designated as a sanctioned country. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+  
 
-**Do we disclose any information to outside parties?**
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+### APPLICATION: 
 
-**Online Privacy Policy Only**
+The Privacy Policy governs the relationship between you and Growtraffic, directors, employees, our affiliates, contractors, service providers, agents and successors and partners.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+Growtraffic allows you to access Growtraffic.com by using desktop computer(s), smartphone, tablet or any device which supports Growtraffic.com (“Computer”). The Privacy Policy governs your act of access to Growtraffic.com via any technology. 
 
-**Terms and Conditions**
+  
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ http://www.HugeDomains.com](http://www.hugedomains.com/index.cfm)
 
-**Your Consent**
+### GOVERNING LAW: 
 
-By using our site, you consent to our web site privacy policy. 
+This Privacy Policy is governed by the applicable law of the State of California, USA.
 
-**Changes to our Privacy Policy**
+  
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 1/10/2012 
+### INFORMATION COLLECTION: 
 
-**Contacting Us**
+When Growtraffic.com is accessed, your Computer communicates with Growtraffic’s server. At this point, the server sends cookies (a small text-only file), web beacons or similar technology to collect the certain information including, without limitation, technical information about your Computer, browser, geo-location, browsing history, the Service package you may have selected to buy, data provided in the given forms and software or applications installed on your Computer (for further details please visit, at your own risk, http://www.allaboutcookies.org). 
 
-If there are any questions regarding this privacy policy you may use the [contact us](http://www.hugedomains.com/contact.cfm) form on this Web site. 
+Growtraffic may use third party website links, tools and cookies (“Third Party Content”) to optimize the user’s experience or process the order or provide you the Services. Growtraffic is not liable for any liability based, in any manner, on such Third Party Content. Growtraffic strongly recommends you to determine risks involved in the use of Third Party Content by reviewing such third party’s privacy practices and ensure that it is safe to use Third Party Content.
 
-HugeDomains.com
+While creating your user account and/or placing your order, we request you to provide us with following Information including, but not limited to;  
+(a) Private Information;  
+(b) Payment Information;  
+(c) Webpage and;  
+(d) The content of your order.
+
+  
+
+
+### STORAGE OF YOUR INFORMATION: 
+
+We may retain your Information as long as we need it and may remove or delete the same from our database at our sole discretion. Your Information is stored in the servers of our service providers located at different locations within the United States. You acknowledge that we may shift the locations of our host servers at any time without prior notification; provided that we may inform you if we intend to shift the data beyond the United States. Furthermore, the service providers are bound under the applicable law to maintain strict security and privacy of the data to the extent possible with the available technology.
+
+  
+
+
+### USE OF YOUR INFORMATION: 
+
+Growtraffic utilizes your Information for;
+
+(a) processing your order and transaction;  
+(b) maintaining security;  
+(c) enforcing the TOS and this Privacy Policy;  
+(d) checking fraudulent and malicious activities;  
+(e) customizing, improving and optimizing the Services;  
+(f) contacting you to update you about our latest offers and features;   
+(g) sharing with legitimate authorities for enforcement of the applicable law and;  
+(h) any other purpose incidental to the services. 
+
+  
+
+
+### COMMUNICATION: 
+
+You hereby agree to receive our emails relating to the order, transaction, latest offers, features or Services. If you don’t want to receive any marketing content from us, you may convey your intention to us to that effect by contacting us in the manner hereinafter provided.
+
+  
+
+
+### DISCLOSURE: 
+
+We respect your privacy and will not ordinarily disclose your information to any private entities being not our contractors, agents, employee, service provider or affiliates. Being a professional and law abiding business, we maintain our strict compliance with the applicable law and any order, request or process justified by the applicable. To comply with such law, order, requests or processes, Growtraffic may disclose your Information to official authorities of the State of California, USA or to any other authority in the cases where we consider, in good faith, that we are bound to do so under the applicable laws, or when we believe, in good faith, that such disclosure may be helpful to check, trace or stop fraudulent, illegal and criminal activities or infringement of any legal rights.
+
+  
+
+
+### SECURITY: 
+
+Growtraffic collects, uses, stores and process your Information substantially in compliance with this Privacy Policy. Growtraffic will never sell, lease or share your Information to or with any person or entity not falling within the scope Growtraffic’s contractors, employees, service providers, owner, directors, affiliates or partners. To protect your Information from the potential threats, Growtraffic employs programs, measures and technologies of current industry standards including, but not limited to, firewalls, data encryption applications, physical, administrative and technical infrastructure.
+
+DESPITE THE SAFEGAURDS IMPLEMENTED TO PROTECT YOUR INFORMATION, WE ARE UNABLE TO GUARANTEE THAT YOUR INFORMATION:
+
+(a) IS FULLY SECURE;  
+(b) CANNOT BE MISUSED BY ANY THIRD PARTY BY EMPLOYING ILLEGAL OR UNAUTHORIZED MEANS;
+
+EVERY INTERNET BASED DATABASE IS SUBJECT TO CYBER ATTACKS AND THEFT. HOWEVER, GROWTRAFFIC IS COMMITTED TO MAINTAIN SUCH SAFEGAURDS AGAINST SUCH THREATS. 
+
+  
+
+
+### MISCELLANEOUS: 
+
+**Force Majeure and accidents:** Growtraffic disclaims all liabilities arising from the disclosure or disposal of your Information not stated in this Privacy Policy and caused by the event of Force Majeure, cyber attack, accidental omission, or any event beyond our reasonable control.
+
+**User Account:**
+
+When you create your user account, Growtraffic assigns you a unique identity known as user ID and allows you to create password of your choice. The user ID and password constitute login information and is essential to use your user account. Your activities on Growtraffic.com such as order placement, payment processing etc will be associated with your user ID. You acknowledge that you will be responsible for all liabilities arising from your activities under your user account.
+
+You must maintain the confidentiality of your login information. Any omission may create your liabilities. If you find that your user account is used without your authorization, you are encouraged to contact us immediately so that, subject to our reasonable control, we restrict such access.
+
+**Prohibiting a Cookie:**
+
+You may prohibit the cookies or web beacons to access your Computer by changing privacy setting of your internet browser. We use certain cookies which are indispensable to provide you with the Services such as to process the order, transaction and provide you with the improved and customized user experience. We, therefore, recommend you to enable Growtraffic.com to send its cookies to your Computer. 
+
+  
+
+
+### CONTACT: 
+
+Please direct all email inquiries to support@growtraffic.com, and physical mail to 675 E. Santa Clara St, Ste 2612, Ventura CA 93001. You can reach us by phone at 805-765-1717.
+
+  
+
