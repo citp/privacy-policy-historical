@@ -1,66 +1,56 @@
-> *The following text is extracted and transformed from the mensfitclub.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613112707id_/http%3A//mensfitclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensfitclub.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317193659id_/https%3A//mensfitclub.com/privacy) for the most accurate reproduction.*
 
-# Men’s Fit Club Privacy Policy | Men's Fit Club
+# Privacy | Men's Fit Club
 
-This privacy policy sets out how TSI GROUP INC DBA MensFitClub (MensFitClub) uses and protects any information that you give MensFitClub when you use this website.
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Mensfitclub.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-MensFitClub is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Mensfitclub.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
 
-MensFitClub may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3/15/2010.
+### Personal Information
 
-**What we collect**
+Mensfitclub.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
-We may collect the following information:
+This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-• Name and fitness goals  
-• Contact information including email address  
-• Demographic information such as postcode, preferences, and interests  
-• Other information relevant to customer surveys and/or offers
+Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
-**What we do with the information we gather**
+### Use of Cookies and Web Beacons
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Mensfitclub.com to recall your specific information on subsequent visits.
 
-• Internal record keeping  
-• We may use the information to improve our products and services  
-• We may periodically send promotional email about new products, special offers or other information such as our MensFitClub Newsletter which we think you may find interesting using the email address which you have provided  
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.  
-• We may use the information to customize the website according to your interests  
-• We will never sell your information
+You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
-**How the company transfers data to third-party companies**
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. Our email, shopping cart, affiliate, and customer relationship management systems are through Paypal.
+We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-**How to modify, or delete your personal information or opt-out**
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-In every email we send, we have a “Manage Your Subscription” link in the footer where you can change, or update your contact settings, or opt-out from receiving our emails. We also include our address and phone number in case you have any questions, or experience any difficulty. We are accessible through our Contact Form on MensFitClub.com.
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
 
-**Security**
+### Children's Online Privacy Protection Act
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
-**How we use cookies**
+### Non-Personal Information
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+### Release of Information
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+In the case that Mensfitclub.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+### How You Can Correct or Remove Information
 
-**Links to other websites**
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us page.](https://mensfitclub.com/contact-us/)
 
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+### Updates and Effective Date
 
-**Controlling your personal information**
+Mensfitclub.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.  
+ch3>Agreeing to Terms
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+If you do not agree to Mensfitclub.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. Your use of this site indicates acceptance of this privacy policy.
 
-• Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us using our contact form.
+### Advertising
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 401 E. Las Olas Blvd. Suite 130-482 Fort Lauderdale, FL Attn: MensFitClub Support.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+"We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)."[.](https://web.archive.org/cheap-terbinafine-drug)
