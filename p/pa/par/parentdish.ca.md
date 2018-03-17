@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentdish.ca privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230070048id_/http%3A//www.huffingtonpost.ca/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentdish.ca privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317130732id_/http%3A//www.huffingtonpost.ca/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
