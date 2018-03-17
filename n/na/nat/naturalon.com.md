@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalon.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923214614id_/http%3A//naturalon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalon.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317204936id_/https%3A//naturalon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NaturalON
 
