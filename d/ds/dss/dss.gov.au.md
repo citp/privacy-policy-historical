@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710203931id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dss.gov.au privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318000049id_/https%3A//www.dss.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Department of Social Services, Australian Government
 
