@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711072948id_/https%3A//www.scripted.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripted.com privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317115513id_/https%3A//www.scripted.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Scripted
 
