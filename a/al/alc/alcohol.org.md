@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alcohol.org privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306052002id_/http%3A//alcohol.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcohol.org privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318222746id_/http%3A//www.alcohol.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Alcohol Awareness Council - Alcohol.org
-
-##  Website Privacy Policy 
+# Alcohol Awareness Council
 
 **Effective Date: 10/01/2015**
 
@@ -10,7 +8,7 @@ This Privacy Policy covers the information appearing on the website on which it 
 
 We may modify this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post those changes on our Website. We encourage you to periodically review our Privacy Policy to stay informed about how we are using the information we collect.
 
-##  Collection of Information 
+Collection of Information 
 
 **Personal Information**
 
@@ -32,38 +30,38 @@ We may use the information we collect from and about you for any of the followin
 
 If you do not wish to receive communications from us about special offers and promotions, you can opt-out of receiving these communications by emailing us at [removal@sobermediagroup.com](mailto:removal@sobermediagroup.com), or by following the instructions contained in the messages you receive.
 
-## Disclosure of Information
+Disclosure of Information
 
 We may disclose information collected from and about you as follows: (1) to select companies and organizations so that they may use it for their own marketing and promotional uses; (2) to our related companies and service providers, to perform a business, professional or technical support function for us; (3) as necessary if we believe that there has been a violation of the Website Terms of Use or of our rights or the rights of any third party; (4) to respond to legal process (such as a search warrant, subpoena or court order) and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (5) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent for other purposes not listed here. We may share aggregate, non-personally identifiable information about Website users with third parties.
 
 While Alcohol.org seeks to share personally-identifying information with companies that follow appropriate privacy policies, it does not bear any responsibility for the actions and policies of such third parties. If you prefer that we not share your information with third parties, you may “opt out” by contacting us with that request. You should be aware that any information you post on a bulletin board, forum, comment space, or “chat” room or that you otherwise specifically and knowingly disclose during the use of the Site, may be directly collected and used by third parties. As a result of disclosing such information, you may be subject to unsolicited email. You should have no expectation of privacy with respect to your communications through the forums or your profile should you choose to list this information.
 
-##  Security 
+Security 
 
 We maintain reasonable and appropriate measures designed to maintain information we collect in a secure manner. We have taken certain physical, electronic, and administrative steps to safeguard and secure the information we collect from Website visitors. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect and we cannot promise, and you should not expect, that your information will be secure in all circumstances.
 
-##  Email Policies 
+Email Policies 
 
 Alcohol.org will use reasonable means to protect the privacy of the information you send us by email. However, because of the risks outlined below, Alcohol.org cannot guarantee that email communications will be confidential. Additionally, Alcohol.org will not be liable in the event that you or anyone else inappropriately uses your email.
 
-##  Interest Based Advertising 
+Interest Based Advertising 
 
 We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time.
 
-You may visit [www.aboutads.info](https://web.archive.org/web/20170306052002id_/http%3A//alcohol.org/www.aboutads.info) to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
+You may visit [www.aboutads.info](https://web.archive.org/web/20180318222746id_/http%3A//www.alcohol.org/www.aboutads.info) to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
 
-##  Children 
+Children 
 
 We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen.
 
-##  Your California Privacy Rights 
+Your California Privacy Rights 
 
 California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us by emailing [privacy@sobermediagroup.com](mailto:privacy@sobermediagroup.com). 
 
-##  Third Party Websites 
+Third Party Websites 
 
 The Site may contain links to third-party websites which may have privacy policies that differ from our own. We are not responsible for, nor do we endorse, any of the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any external site before disclosing any personal information. Please contact those websites directly if you have any questions about their privacy policies.
 
-##  Contact Us 
+Contact Us 
 
 If you have questions or concerns about this Privacy Policy, you can contact us by emailing [contact@sobermediagroup.com](mailto:contact@sobermediagroup.com). If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
