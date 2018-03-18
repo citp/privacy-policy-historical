@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shemalejapan.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117065130id_/http%3A//www.shemalejapan.com/compliance/privacypolicy.php%3Fsite%3Dshemalejapan.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalejapan.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318155954id_/http%3A//www.shemalejapan.com/compliance/privacypolicy.php%3Fsite%3Dshemalejapan.com) for the most accurate reproduction.*
 
 # shemalejapan.com - Privacy Policy
 
-PRIVACY POLICY
+PRIVACY POLCY
 
 FOR
 
