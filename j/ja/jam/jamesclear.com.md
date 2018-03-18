@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919132530id_/http%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesclear.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318164321id_/https%3A//jamesclear.com/privacy-policy) for the most accurate reproduction.*
 
 # Earnings Disclaimer and Privacy Policy | James Clear
 
