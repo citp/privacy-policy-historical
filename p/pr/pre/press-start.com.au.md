@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the press-start.com.au privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905073512id_/https%3A//press-start.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press-start.com.au privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318040814id_/https%3A//press-start.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Press Start Australia
 
