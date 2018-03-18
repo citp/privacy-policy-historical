@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pdfwala.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230202128id_/http%3A//www.pdfwala.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfwala.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318143721id_/http%3A//www.pdfwala.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - PDF WALA
+# Privacy Policy - PDF Wala
 
 Privacy Policy for [www.pdfwala.com](http://www.pdfwala.com/) 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at v407195@gmail.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pdfwala1@gmail.com. 
 
 At [www.pdfwala.com](http://www.pdfwala.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.pdfwala.com](http://www.pdfwala.com/) and how it is used. 
 
