@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207052059id_/http%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/privacyPolicy.cdo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318163823id_/http%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/privacyPolicy.cdo) for the most accurate reproduction.*
 
 # Shopping at H.Samuel - Customer Services | H.Samuel
 
@@ -142,7 +142,7 @@ Some of our text messaging services have additional terms and conditions that wi
 
 ###  Children’s Privacy 
 
-We are committed to protecting the privacy of children. The Website is not directed to children and we do not knowingly collect any personal information from children. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian please [ contact us ](https://web.archive.org/webstore/secure/message/customer-services/show.sdo) . Please visit the FTC’s website at [ ](https://web.archive.org/web/20171207052059id_/http%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/www.ftc.gov) for tips on protecting children’s privacy online. 
+We are committed to protecting the privacy of children. The Website is not directed to children and we do not knowingly collect any personal information from children. If a child under the age of 13 has provided us with personal information online, we ask that a parent or guardian please [ contact us ](https://web.archive.org/webstore/secure/message/customer-services/show.sdo) . Please visit the FTC’s website at [ ](https://web.archive.org/web/20180318163823id_/http%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/www.ftc.gov) for tips on protecting children’s privacy online. 
 
 ###  Do Not Track Policy 
 
