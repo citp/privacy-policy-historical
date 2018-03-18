@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashbackrecorder.com privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901181136id_/https%3A//www.flashbackrecorder.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashbackrecorder.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318151056id_/https%3A//www.flashbackrecorder.com/privacypolicy) for the most accurate reproduction.*
 
 # FlashBack privacy policy
 
@@ -8,12 +8,12 @@ Blueberry Software has produced this privacy statement in order to demonstrate o
 Blueberry Software will not collect any personally-identifiable information about you (e.g. name, address, e-mail address, credit card number, expiration date) without you agreeing to provide it to us on a voluntary basis. We will collect information when you sign up for any of our services. We may store and process this information to better understand your needs and to personalise your experience as a Blueberry Software customer. We may also monitor user traffic patterns and use of our site with this information to help improve the design, layout and content.
 
  **Our use of cookies**  
-Like many websites, we use text files known as 'cookies' to gather information, which helps us to provide useful features to our customers. We can also use these cookies to save your session so you don't have to re-enter it each time you visit our site, and to record how often you visit the site and the areas you visit within it. Cookies themselves do not personally identify users, although they can identify a user's computer. You can set your browser to refuse cookies if you wish to, however, you may not be able to take full advantage of our website if you do.
+Like many websites, we use text files known as ‘cookies’ to gather information, which helps us to provide useful features to our customers. We can also use these cookies to save your session so you don’t have to re-enter it each time you visit our site, and to record how often you visit the site and the areas you visit within it. Cookies themselves do not personally identify users, although they can identify a user’s computer. You can set your browser to refuse cookies if you wish to, however, you may not be able to take full advantage of our website if you do.
 
  **Will Blueberry sell my personal information to other companies?**  
 We may pass your email address on to authorised resellers in your region.
 
-Other than authorised resellers, Blueberry Software will not give or sell your personal information to any outside organisation for that organisation's own use without your consent. We may on occasion, team up with other businesses to enable us to provide special services to you during which we will use this information but you will be given every opportunity to opt out of these beforehand.
+Other than authorised resellers, Blueberry Software will not give or sell your personal information to any outside organisation for that organisation’s own use without your consent. We may on occasion, team up with other businesses to enable us to provide special services to you during which we will use this information but you will be given every opportunity to opt out of these beforehand.
 
 Blueberry Software may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to a) conform with the law; b) protect and defend the rights or property of Blueberry, the site or the users of Blueberry sites, and c) act in circumstances where it is necessary to protect the personal safety of users of Blueberry, our sites or our users or other.
 
