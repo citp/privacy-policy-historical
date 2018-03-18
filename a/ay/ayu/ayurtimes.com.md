@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayurtimes.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929103524id_/https%3A//www.ayurtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayurtimes.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318031649id_/https%3A//www.ayurtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ayur Times
 
@@ -6,7 +6,7 @@
 
   1. [ayurtimes.com](https://www.ayurtimes.com/)
   2. [ayurtimes.in](https://www.ayurtimes.in/)
-  3. [ayurvedaclinic.org](https://www.ayurvedaclinic.org/)
+  3. ayurvedaclinic.org
 
 
 
