@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2017-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170514000513id_/http%3A//www.splashdata.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318035103id_/http%3A//www.splashdata.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | SplashData
 
@@ -59,7 +59,7 @@ Changes to this policy - Please note that this Privacy Policy may change from ti
 More information - If you have additional questions, please [contact us any time](http://support.splashdata.com/).  Or write to us at:
 
 SplashData, Inc.  
-201 Los Gatos-Saratoga Rd., #210  
+155 N Santa Cruz Ave, Suite E-210  
 Los Gatos, CA 95030
 
 ### About SplashData
