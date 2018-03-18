@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022131353id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318174426id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
