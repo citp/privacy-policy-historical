@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkwithstranger.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613200342id_/http%3A//talkwithstranger.com/Talk-To-Strangers-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkwithstranger.com privacy policy that was archived on 2018-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180318143555id_/http%3A//talkwithstranger.com/Talk-To-Strangers-Privacy-Policy.html) for the most accurate reproduction.*
 
 # TalkWithStrangers Privacy Policy - Free Random Chat Rooms With Strangers | Free Online Chat
 
@@ -33,6 +33,10 @@ You can certainly go to our contact page and contact us at any time when you hav
 ###  **Do we collect cookies?**
 
 We use cookies to: • Understand and save user's preferences for future visits. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. If users disable cookies in their browser: If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders Your last nickname won't be saved. 
+
+###  **Your Personal Information?**
+
+We never ask our users to share their personal information with us and we don't recommend them to share with others on the website. This is why we have also disabled URLs sharing in the random chat. We (TWS) will not be responsible for any information you share with other users . As we don't collect any personal information from our users. By using talkwithstranger, you are agreeing to all the terms and condition of our website. 
 
 ###  **Use of Logs?**
 
