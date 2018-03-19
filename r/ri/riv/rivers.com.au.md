@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rivers.com.au privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206000612id_/http%3A//www.rivers.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivers.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320002220id_/https%3A//www.rivers.com.au/privacy) for the most accurate reproduction.*
 
 # Rivers
 
@@ -20,6 +20,28 @@ If you provide your email address or mobile telephone number to SFG, you consent
 
 
   * We may also collect personal information when you submit content on our social media pages. By submitting content, you agree we may use this content including your name and any other personal information submitted by you, either temporarily or permanently, for testimonials, marketing or other purposes in any media without any compensation to you.
+
+The Rivers Facebook page has been created for our fans of Rivers. We treat our Facebook page as an interactive, fun and rewarding place to connect with our fans and we will seek to conduct ourselves always in an approachable and positive manner. We, of course expect Rivers to be treated with the same courtesy. Rivers welcomes you and has a few guidelines that we ask our guests to adhere to on our social networks as a condition of their participation.
+
+Rivers allows user-generated content on our Facebook page including photos, wall posts and comments, at its discretion from time to time. However, Rivers is not responsible for the content submitted and does not endorse the opinions expressed by the users of this page.
+
+By submitting content, you agree that Rivers may use this content including your name, either temporarily or permanently, for testimonial, marketing or other purposes in any media without any compensation to you. You promise that all content you submit is your original work and that submitting it does not infringe the intellectual property or other rights of any person.
+
+Rivers reserves the right to edit or remove content that violates these Terms of Use and to block your access to our page. As this page operates at our discretion, we may also take any other action we consider appropriate in relation to this page. We hope you enjoy being part of our community and look forward to your participation.
+
+You agree not to submit any content which consists of or contains any of the following: 
+
+    * Any material which breaches Facebook's Terms of Use, see them here [https://www.facebook.com/legal/terms](https://www.facebook.com/legal/terms;)
+    * Explicit, obscene, indecent or offensive language or abusive or inflammatory comments
+    * Personal attacks on Rivers employees, members or the brand itself
+    * Business information, spam, notices about contests or competitions run by others, advertising or offers to sell or buy any goods or services
+    * Any material which defames, abuses, harasses, stalks, threatens, discriminates against or otherwise violates the legal rights of others (such as rights of intellectual property, privacy and publicity)
+    * Information that is, misleading or unlawful 
+    * Any virus, Trojan or similar or anything else which is designed to incapacitate our page or breach our security 
+    * Excessively large files or multiple or repeat posts of the same or similar material
+    * Posts that are unrelated to Rivers
+    * Links to other material or websites that we consider inappropriate or unsuitable or whose content would breach these Terms of Use if contained on our page
+  
 
 
 
