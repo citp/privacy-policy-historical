@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2017-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170713134117id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319201955id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.*
 
 # 
 
-## As at 14 March 2016
+## As at 7 November 2017
 
 ### Scentre Group General Privacy Policy
 
@@ -89,7 +89,7 @@ If we receive personal information about you that we did not ask for either dire
 We may also collect the following information from you:
 
   * where devices are enabled to connect to, or are identifiable by, in-centre infrastructure (for example, in-Centre WiFi networks or blue tooth transmitter (beacon) infrastructure), we and our third party providers may automatically collect data from those devices including usage, type of device and location and proximity of your wireless device in-Centre, centre arrival and departure time, and other data which users consent to us collecting from time to time;
-  * audience measurement information which may be collected passively using various technologies that identify the demographic, age group and gender of shoppers;
+  * audience measurement information collected passively using in centre technologies such as SmartScreen Advertising Units which utilise image processing software to aggregate data such as shopper numbers and demographics. These technologies do not identify individual shoppers, or record or retain images of individual shoppers;
   * the fully qualified domain name from which you accessed our websites, or alternatively, your IP address;
   * device ID number (MAC address);
   * the date and time you accessed each page on our websites;
@@ -106,7 +106,7 @@ We are collecting this information (and may use or hold this information) for th
   * so that we can tell which web pages are the most popular and where shoppers spend most of their time;
   * to improve our website or in-Centre experience;
   * for the purposes of and incidental to your use of in-Centre Wi-Fi services (if applicable);
-  * to measure and analyse shopping behaviour in order to improve our centres and otherwise in connection with our business;
+  * to measure shopper numbers, characteristics and demographics and analyse shopper behaviour in order to continously improve our centres and for use otherwise in connection with our business;
   * to send to you special deals and discounts, surveys and other marketing materials based on your location or known web usage;
   * for other purposes to which you, either expressly or impliedly, consent to, and for the purposes set out in these terms and conditions, we may provide this information to Scentre Group’s agents, contractors, service providers, joint venture and commercial partners and regulatory authorities, and may transfer your personal information to others in countries outside Australia and New Zealand (including to those that operate our cloud servers outside of Australia and New Zealand).
 
@@ -189,7 +189,7 @@ Scentre Online Privacy Policy
 **What information we collect and why** **  
 **
 
-When you become a registered user of westfield.com.au,  [www.scentregroup.com](http://www.scentregroup.com/), [www.westfield.co.nz](http://www.westfield.co.nz/), [www.caseycentral.com.au](http://www.caseycentral.com.au/) or any associated site ( **Site** ), including when you use services offered by a Site, subscribe to Scentre's Email Newsletters service or shop with Participating Retailers, we may ask for information including:
+When you become a registered user of westfield.com.au,  [www.scentregroup.com](http://www.scentregroup.com/), [www.westfield.co.nz](http://www.westfield.co.nz/) or any associated site ( **Site** ), including when you use services offered by a Site, subscribe to Scentre's Email Newsletters service or shop with Participating Retailers, we may ask for information including:
 
   * your name;
   * your email address; and
