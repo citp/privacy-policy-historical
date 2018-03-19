@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207163148id_/http%3A//www.thecrimson.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrimson.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319063921id_/http%3A//thecrimson.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Harvard Crimson
 
 ## Privacy Policy
 
-This statement describes the online information practices of The Harvard Crimson. It covers our privacy practices in connection with _The Crimson_ newspaper and the _Harvard Crimson_ ’s digital properties (including www.thecrimson.com). By accessing this website, you agree to let us collect and use your information, including personal information, as described below. If you do not agree with the terms of our privacy policy, please do not access this website. 
+This statement describes the online information practices of The Harvard Crimson. It covers our privacy practices in connection with The Crimson newspaper and The Harvard Crimson's digital properties (including www.thecrimson.com). By accessing this website, you agree to let us collect and use your information, including personal information, as described below. If you do not agree with the terms of our privacy policy, please do not access this website. 
 
 This policy was last updated on February 8, 2016. It is subject to change, and changes will be posted to this page. If any of those changes are significant and deal with our use of personal information, we will post those changes at least 30 days before they take effect.   
 
