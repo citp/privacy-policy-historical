@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017004735id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalleader.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319064946id_/https%3A//www.environmentalleader.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Environmental Leader
+# Environmental Leader | Privacy Policy Disclosures
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy:
 
@@ -26,3 +26,5 @@ We are committed to conducting our business in accordance with these principles 
 Fort Collins, CO 80527-0627  
 970-377-9505  
 INFO@BUSINESSECTORMEDIA.COM
+
+(Visited 27 times, 27 visits today)
