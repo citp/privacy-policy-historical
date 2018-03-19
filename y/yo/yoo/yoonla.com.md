@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the yoonla.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618214129id_/http%3A//www.yoonla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoonla.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319203815id_/https%3A//www.yoonla.com/privacy) for the most accurate reproduction.*
 
-# Yoonla™ | Privacy Policy
+# Privacy Policy - Yoonla™
+
+  * [ ](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.yoonla.com%2Fprivacy%2F)
+  * [ ](https://twitter.com/intent/tweet?text=Privacy%20Policy&url=http%3A%2F%2Fwww.yoonla.com%2Fprivacy%2F)
+  * [ ](https://plus.google.com/share?url=http%3A%2F%2Fwww.yoonla.com%2Fprivacy%2F)
+  * [ ](https://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.yoonla.com%2Fprivacy%2F&description=)
+
+
 
 **Privacy Policy**
 
