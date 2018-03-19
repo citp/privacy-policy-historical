@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731064529id_/https%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319113416id_/https%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvey Norman Australia
 
@@ -30,7 +30,7 @@ This policy is intended to explain clearly and in plain language some of the key
 
 References to "our", "us" and "we" in this policy are references to The eComm Store Pty Limited A.C.N. 145 985 815 acting in its capacity as trustee of The eComm Store No 2 Trust and trading as "Harvey Norman Online" and its related entities.
 
-[www.harveynorman.com.au](http://www.harveynorman.com.au/ "Harvey Norman Website") ("Website") is owned and administered by The eComm Store Pty Ltd A.C.N. 145 985 815.
+[www.harveynorman.com.au](https://web.archive.org/web/20180319113416id_/https%3A//www.harveynorman.com.au/www.harveynorman.com.au/ "Harvey Norman Website") ("Website") is owned and administered by The eComm Store Pty Ltd A.C.N. 145 985 815.
 
 This policy gives a broad overview of our policies in relation to privacy but if you require further information, you are welcome to contact us or to read any of the privacy statements or notices that will be issued to you as and when personal information is collected.
 
