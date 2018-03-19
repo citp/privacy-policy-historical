@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realexpayments.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120000426id_/https%3A//www.realexpayments.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realexpayments.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319020605id_/https%3A//www.realexpayments.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Realex Payments
 
