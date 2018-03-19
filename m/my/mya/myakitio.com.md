@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myakitio.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113170307id_/http%3A//mycloud.myakitio.com/software_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myakitio.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319031459id_/http%3A//mycloud.myakitio.com/software_privacypolicy) for the most accurate reproduction.*
 
 # software_privacypolicy - MyAkitio Wiki
 
