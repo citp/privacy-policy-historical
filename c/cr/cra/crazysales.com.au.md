@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218062519id_/https%3A//www.crazysales.com.au/article/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319182140id_/https%3A//www.crazysales.com.au/article/PrivacyStatement) for the most accurate reproduction.*
 
 # CrazySales Privacy Statement
 
-### Effective Date: 2016-11-03
+### Effective Date: 2017-5-18
 
  
 
@@ -76,9 +76,7 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 ### Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Crazy Sales and our partners (such as bloggers, used for promotional or marketing purposes), affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users? movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies for our shopping cart, to remember users? settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Crazy Sales and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ### Behavioral Targeting / Re-Targeting
 
@@ -87,10 +85,6 @@ We partner with a third party to either display advertising on our Web site or t
 ### Log Files
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you.
-
-### Local Storage Object (HTML5)
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5  to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 ### Tell-A-Friend
 
