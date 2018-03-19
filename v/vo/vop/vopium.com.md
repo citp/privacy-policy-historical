@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123233124id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319164710id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
 
 # Vopium Privacy Policy
 
@@ -30,7 +30,7 @@ Personal Data: Any information that Vopium possesses relating to an identified o
 
 Registration Information: Any information provided when voluntarily registering on the Website, including, but not limited to, username and password;
 
-Vopium: Under this Privacy Statement, the company incorporated under the laws of Luxembourg: Vopium S.A., 6 Place de Nancy, L-2212 Luxembourg, R.C.S. Luxembourg B 141.459, VAT No. LU22791878;
+Vopium: Under this Privacy Statement, the company incorporated under the laws of Denmark: Vopium A/S Emdrupvej 28A, DK-2100 Copenhagen Ø VAT No: DK 29 52 19 80
 
 Vopium Software: Vopium software that allows you to communicate with any telephone number in the world free or at very low cost via cellular network, VoIP, 3G data, WiFi etc., send SMS, IM and other communications supported by Vopium and back-up of mobile data. The Services may be extended or altered from time to time;
 
@@ -57,7 +57,7 @@ You: You, the user of the Vopium Software and the Vopium Services, also used in 
 
 
 1\. What is Vopium and what Services does Vopium offer?  
-Vopium is a company established under the laws of Luxembourg. Through the Website, Vopium offers you Vopium Software such as the Vopium Services, which may be extended or altered from time to time.
+Vopium is a company established under the laws of Denmark. Through the Website, Vopium offers you Vopium Software such as the Vopium Services, which may be extended or altered from time to time.
 
 2\. What information does Vopium collect?  
 In order to provide the Vopium Software, Vopium gathers and processes the following information:
@@ -136,11 +136,10 @@ Vopium will retain your information for as long as is necessary to:
 
 
 
-© Vopium S.A.  
-6 Place de Nancy  
-L-2212 Luxembourg  
-R.C.S. Luxembourg B 141.459  
-VAT No. LU22791878  
+© Vopium A/S  
+Rådhusstræde 6, 1  
+DK-1466 Copenhagen K  
+VAT No: DK 29 52 19 80  
 Email: [support@vopium.com](mailto:%20support@vopium.com)
 
-Last revised: September 8th 2010 
+Last revised: December 31st 2014 
