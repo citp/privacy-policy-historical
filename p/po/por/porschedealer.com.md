@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817005102id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319024329id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Porsche Internet Privacy Policy - Porsche USA
 
@@ -158,9 +158,9 @@ By using our Online Services, you signify your acceptance of this Privacy Policy
 
 As a potential future Porsche Financial Services customer, we want you to know how Porsche Financial Services may share your personal information. The following links will direct you to their Privacy Notice, which explains how and with whom Porsche Financial Services may share your information, and the ways in which you can limit this sharing once you become a Porsche Financial Services customer.
 
-If you are a California resident, click [here](http://files3.porsche.com/filestore/download/usa/none/privacypolicy-californiaoptoutform/default/2ceba4c3-8a11-11e6-9f1b-0019999cd470/Privacy-Policy-California-Privacy-Act-Opt-Out-Form.pdf) to view or print the Privacy Notice.
+If you are a California resident, click [here](https://files3.porsche.com/filestore/download/usa/none/privacypolicy-californiaoptoutform/default/2ceba4c3-8a11-11e6-9f1b-0019999cd470/Privacy-Policy-California-Privacy-Act-Opt-Out-Form.pdf) to view or print the Privacy Notice.
 
-If you are a resident of any other state, click [here](http://files1.porsche.com/filestore/download/usa/none/privacypolicy-pfs/default/33ec1314-8a11-11e6-9f1b-0019999cd470/Privacy-Policy-Porsche-Financial-Service.pdf) to view or print the Privacy Notice.
+If you are a resident of any other state, click [here](https://files1.porsche.com/filestore/download/usa/none/privacypolicy-pfs/default/33ec1314-8a11-11e6-9f1b-0019999cd470/Privacy-Policy-Porsche-Financial-Service.pdf) to view or print the Privacy Notice.
 
 #### Changes to the Privacy Policy
 
