@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606225947id_/https%3A//www.anchor.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319182747id_/https%3A//www.anchor.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AWS Managed Services by Anchor
 
@@ -188,4 +188,4 @@ Our website includes links to other websites, applications and tools that are no
 
 **9.2.2** using the contact Us webform on Our website.
 
-**9.3** We will use Our best efforts to respond to any complaint within 5 business days of the date of receipt. We will attempt to resolve your complaint quickly and to your satisfaction. Complaints can be lodged via our contact page or by telephone or post. If you are not satisfied with how We deal with your complaint you may contact the Australian Information Commissioner, whose contact details can be found at <http://www.oaic.gov.au/> or via auDA (for domain name registrations only) on their website at: <http://www.auda.org.au/help/complaints/>
+**9.3** We will use Our best efforts to respond to any complaint within 5 business days of the date of receipt. We will attempt to resolve your complaint quickly and to your satisfaction. Complaints can be lodged via our contact page or by telephone or post. If you are not satisfied with how We deal with your complaint you may contact the Australian Information Commissioner, whose contact details can be found at [http://www.oaic.gov.au/](https://www.oaic.gov.au/) or via auDA (for domain name registrations only) on their website at: <http://www.auda.org.au/help/complaints/>
