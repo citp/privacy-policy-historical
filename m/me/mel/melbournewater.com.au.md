@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120144340id_/http%3A//www.melbournewater.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319171105id_/https%3A//www.melbournewater.com.au/privacy-website-statement) for the most accurate reproduction.*
 
-# Privacy statement - Melbourne Water
+# Privacy website statement | Melbourne Water
 
-​We respect the privacy of your personal information and are committed to collecting and handling it responsibly and in accordance with the [Privacy and Data Protection Act 2014](http://www.austlii.edu.au/au/legis/vic/num_act/padpa201460o2014317/).
+​We respect the privacy of your personal information and are committed to collecting and handling it responsibly and in accordance with Victoria's Privacy and Data Protection Act 2014.
 
 The following privacy statement applies to the entire Melbourne Water website, what personal information is collected and how it is handled. The statement does not extend beyond this website. If you visit other sites from this website you should familiarise yourself with their privacy statements.
 
-For general information about how we seek to protect your personal information, please see the:
+For general information about how we seek to protect your personal information, please see our privacy policy.
 
-  * 
+[Privacy policy64.14 KB (PDF)](https://www.melbournewater.com.au/sites/default/files/2017-10/privacy-policy.pdf)  
 
 
 ## ​What information do we collect?
@@ -47,11 +47,11 @@ If you do not wish to accept cookies you can set your browser to refuse them. Ho
 
 ## Use and disclosure of information
 
-We will only use or disclose information about you for the purpose for which you provided it – for example, to respond to a request for information. We will only use or disclose your personal information for a secondary purpose with your consent, or where the Information Privacy Act 2000 (Vic) otherwise authorises the use or disclosure.
+We will only use or disclose information about you for the purpose for which you provided it – for example, to respond to a request for information. We will only use or disclose your personal information for a secondary purpose with your consent, or where the Privacy and Data Protection Act 2014 otherwise authorises the use or disclosure.
 
 ## Access to your personal information
 
-To seek access to your personal information held by Melbourne Water, or to correct or update your personal information, contact us on 131 722 or [contact us online](https://web.archive.org/aboutus/contactus/Pages/contact-us.aspx).
+To seek access to your personal information held by Melbourne Water, or to correct or update your personal information, contact us on 131 722 or [contact us online](https://web.archive.org/about-us/contact-us).
 
 ## Security
 
@@ -69,4 +69,4 @@ If you are a registered user with Melbourne Water’s business sub-site we may, 
 
 ## Want to know more?
 
-If you require further information regarding this privacy statement, please contact us on 131 722 or [contact us online](https://web.archive.org/aboutus/contactus/Pages/contact-us.aspx).
+If you require further information regarding this privacy statement, please contact us on 131 722 or [contact us online](https://web.archive.org/about-us/contact-us).
