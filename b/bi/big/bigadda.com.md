@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117063651id_/http%3A//www.bigadda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigadda.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319161107id_/http%3A//www.bigadda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Online games | Free Cricket Games | Racing Games | Download Free Games | Best Online Games - Zapak.com
 
-Zapak is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of information collected via our website [**www.zapak.com**](https://web.archive.org/web/20171117063651id_/http%3A//www.bigadda.com/www.zapak.com) or application or affiliated site / applications owned and operated by Zapak (collectively, the "Site"), customer service operations and game service. As used in this Privacy Policy, "personal information" means information about you that is personally identifiable like your name, address, e-mail address, or phone number, and other information that is not otherwise publicly available.
+Zapak is committed to protecting your privacy and creating a strong relationship with our users. This privacy policy explains the use of information collected via our website [**www.zapak.com**](https://web.archive.org/web/20180319161107id_/http%3A//www.bigadda.com/www.zapak.com) or application or affiliated site / applications owned and operated by Zapak (collectively, the "Site"), customer service operations and game service. As used in this Privacy Policy, "personal information" means information about you that is personally identifiable like your name, address, e-mail address, or phone number, and other information that is not otherwise publicly available.
 
 **This policy does not apply to**
 
