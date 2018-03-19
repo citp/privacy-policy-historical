@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527090301id_/https%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsguide.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319084940id_/https%3A//www.carsguide.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarsGuide
 
@@ -38,7 +38,9 @@ This site uses Eyeota to capture anonymous data about our users for segmentation
 
 This site uses Nielsen/NetRatings web analytics tools to measure and analyse internet usage. The data collected does not identify a user personally. 
 
- **Information from Other Sources.   **We may supplement the information we collect with information from other sources, such as commercially available sources and data providers **,** as well as information from our business partners or related and affiliated companies in Australia or internationally.
+ **Information from Other Sources.   **We may supplement the information we collect with information from other sources, such as commercially available sources and data providers, surveys, as well as information from our business partners or related and affiliated companies in Australia or internationally.
+
+If you participate in surveys, we or a third party provider, may collect your personal information and opinions to help us improve Company services; personalization; business operations and market research.
 
  **Information in relation to other persons who deal with us.   **When you apply for a job or contract with us we may collect certain information from you or from any recruitment consultant, your previous employers and others who may be able to provide information to assist us in deciding whether or not to make you an offer of employment or engage you under a contract.  This Privacy Policy does not apply to acts and practices in relation to employee records of our current and former employees which are exempt from the Privacy Act.
 
@@ -61,7 +63,7 @@ We may also use your information to improve Company Services including through r
 
 **To contact you.**  Company may periodically send promotional materials or notifications which it believes might be of interest to you.  Promotional materials may include invitations to participate in various activities (such as customer surveys) or special offers. 
 
- **To share with our Company Affiliates**.  Company may share your information with Company's related companies, such as News Corporation Australia (and its related companies) and other companies both in and outside of Australia including in United Kingdom and United States of America.  Users who visit our related companies' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.  Where we share your information with our related companies, they may use your information in the same way as we can under this Privacy Policy. 
+ **To share with our Company Affiliates**.  Company may share your information with Company's related companies, such as Cox Automotive Australia (and its related companies) and other companies both in and outside of Australia including in United Kingdom and United States of America.  Users who visit our related companies' services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.  Where we share your information with our related companies, they may use your information in the same way as we can under this Privacy Policy. 
 
  **To share with business partners**. ** ** Where you have expressly consented to this, Company may share your information with business partners to permit them to send you marketing communications consistent with your choices. 
 
