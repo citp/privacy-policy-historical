@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworthsmoney.com.au privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221001608id_/https%3A//cards.woolworths.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworthsmoney.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319230103id_/https%3A//cards.woolworths.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Woolworths Cards
 
@@ -12,7 +12,7 @@ This is a privacy disclosure statement regarding your personal information relat
 
 **WM personal information**  means personal information collected from or about you related to Woolworths Money Products, for example as a result of your application for a Woolworths Money Product .
 
-**Woolworths**  means Woolworths Limited ABN 88 000 014 675 and its related bodies corporate.
+**Woolworths**  means Woolworths Group Limited ABN 88 000 014 675 and its related bodies corporate.
 
 **Macquarie**  means Macquarie Bank Limited ABN 46 008 583 542 AFSL and Australian credit licence number 237502 and its related bodies corporate.
 
@@ -22,9 +22,9 @@ This is a privacy disclosure statement regarding your personal information relat
 
 This statement concerns only WM personal information. Application forms for Woolworths Money Products contain terms and conditions regarding WM personal information. Because those terms and conditions provide for certain consents, if you agree to them they will impact on how Woolworths Money Providers use and disclose your personal information. You can view the application form terms and conditions on-line at, woolworthsmoney.com.au or, obtain a copy of the application form by contacting the Woolworths Money Call Centre on 1300 10 1234 or by writing to the Woolworths Money Privacy Officer at the address set out below. This statement should be read with the terms and conditions on those application forms.
 
-Woolworths Money Providers may collect personal information from or about you which is not WM personal information. For example, you may be a client of Macquarie's financial planning services, a Woolworth's lay-by customer or you may have a bank account with ANZ, and for those relationships, Macquarie, Woolworths or ANZ collects personal information from you. This statement does not relate to that other information. For privacy information about that other personal information, see the relevant provider's privacy information at its website (for example [www.woolworthslimited.com.au; ](http://www.woolworthslimited.com.au/)[www.macquarie.com.au;](http://www.macquarie.com.au/) [www.aia.com.au;](http://www.aia.com.au/) [www.anz.com.au](http://www.anz.com.au/)) or by contacting the provider directly.
+Woolworths Money Providers may collect personal information from or about you which is not WM personal information. For example, you may be a client of Macquarie's financial planning services, a Woolworth's lay-by customer or you may have a bank account with ANZ, and for those relationships, Macquarie, Woolworths or ANZ collects personal information from you. This statement does not relate to that other information. For privacy information about that other personal information, see the relevant provider's privacy information at its website (for example [www.woolworthsgroup.com.au;](https://www.woolworthsgroup.com.au/)[ ](http://www.woolworthslimited.com.au/)[www.macquarie.com.au;](http://www.macquarie.com.au/) [www.aia.com.au;](http://www.aia.com.au/) [www.anz.com.au](http://www.anz.com.au/)) or by contacting the provider directly.
 
-Australian privacy law requires Woolworths Money Providers to be open about their general practices relating to the management of personal information. They must let people know, generally, what sort of information they hold, for what purposes and how they collect, hold, use and disclose that information. Woolworths Money Providers' privacy policies are at the websites referred to above (for example [www.woolworthslimited.com.au; ](http://www.woolworthslimited.com.au/)[www.macquarie.com.au;](http://www.macquarie.com.au/) [www.aia.com.au;](http://www.aia.com.au/) [www.anz.com.au](http://www.anz.com.au/)) or by contacting the provider directly.
+Australian privacy law requires Woolworths Money Providers to be open about their general practices relating to the management of personal information. They must let people know, generally, what sort of information they hold, for what purposes and how they collect, hold, use and disclose that information. Woolworths Money Providers' privacy policies are at the websites referred to above (for example [www.woolworthsgroup.com.au](https://www.woolworthsgroup.com.au/)[; ](https://www.woolworthsgroup.com.au/)[www.macquarie.com.au;](http://www.macquarie.com.au/) [www.aia.com.au;](http://www.aia.com.au/) [www.anz.com.au](http://www.anz.com.au/)) or by contacting the provider directly.
 
 ### MATTERS OF WHICH YOU SHOULD BE AWARE REGARDING YOUR WM PERSONAL INFORMAITON
 
@@ -93,7 +93,7 @@ Or by writing to:
 
 The Privacy Officer,
 
-Woolworths Money, Woolworths Limited
+Woolworths Money, Woolworths Group Limited
 
 PO Box 8000
 
