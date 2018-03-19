@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizpacreview.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218223529id_/http%3A//www.bizpacreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizpacreview.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319092838id_/https%3A//www.bizpacreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 **[BizPacReview.com](http://www.bizpacreview.com/)**  
-**[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#650401080c0b25070c1f1504061700130c00124b060a08)**  
+**[admin@bizpacreview.com](mailto:admin@bizpacreview.com)**  
 **PO BOX 1713  
 West Palm Beach, FL 33402  
 USA**
