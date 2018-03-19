@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132740id_/http%3A//www.record-eagle.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the record-eagle.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319230039id_/http%3A//www.record-eagle.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | record-eagle.com
 
-[](http://click.oo155.com/ViewLandingPage.aspx?pubids=2594|-6|5|7&digest=fy4Tpy%2bdL5bQQVH5vvQAlg&sysid=1&mobile=0)
+[](https://visitor.r20.constantcontact.com/d.jsp?llr=t8oml49ab&p=oi&m=1128481045363&sit=m5lwgcwlb&f=0bcee991-2a82-4fca-a0c3-93bee982f8a6)
 
 **Effective**
 
-This Policy was last modified on February 10, 2012.
+This Policy was last modified on October 17, 2017.
 
  **Information Practices**
 
-Community Newspaper Holdings, Inc. and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.record-eagle.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.record-eagle.com through other means.
+CNHI LLC and its affiliates and subsidiaries (collectively "CNHI") understand that security and privacy are important issues for visitors to our web site, http://www.record-eagle.com.com (the "Site") and recognize our obligations to keep your information secure and confidential. That is why we maintain the following standards to help protect information that personally identifies you. We may modify this Privacy Policy (the "Policy") at any time and, accordingly, we urge you to frequently review the Policy. We will always apply the Policy under which your information was collected, unless we obtain your prior consent for additional disclosure, or are legally required to disclose, as noted below. Please note that the Policy applies only to information collected by us through the Site, as specified below, and unless expressly stated otherwise, does not govern or apply to any information collected or used by CNHI including, but not limited to, http://www.record-eagle.com.com through other means.
 
  **Collection of Information**
 
@@ -58,7 +58,7 @@ We have policies and procedures in place to protect the privacy and confidential
 
  **Your California Privacy Rights**
 
-Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104.
+Beginning January 1, 2005, California law permits customers who are California residents to request once in any calendar year certain information regarding our disclosure of personal information to third parties for marketing purposes. To make such a request, please contact us by e-mail at: digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104.
 
  **Access and Corrections**
 
@@ -66,13 +66,13 @@ We strive to keep your Personal Information accurate. You can access and update 
 
  **AP News Registry**
 
-This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
+This Site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at http://ap.org/company/privacy for further information.
 
  **Contacting Us**
 
-If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: Community Newspaper Holdings, Inc., Attn: Matthew I. Ipsan, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
+If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-[](http://click.oo155.com/ViewLandingPage.aspx?pubids=2594|-6|5|7&digest=fy4Tpy%2bdL5bQQVH5vvQAlg&sysid=1&mobile=0)
+[](https://visitor.r20.constantcontact.com/manage/optin?v=001nB4nx3I80XpIAn1Kro4uukTlo8dK5UAJKGlRyb3Q2-QyQ_faxXcN72E6ZhB73awuXeX0WK2VcuxSwk1U1mniCiw65UkpxQOH8BVMXIKQ3E_DobYm0UZV5zD4kWK3fdGjxaARWjIsStXzOKrpWzoi-yNR-Q0Oof6A)
 
 [](http://www.record-eagle.com/news/gt_scene/)
 
