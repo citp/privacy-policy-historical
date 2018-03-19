@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608154221id_/https%3A//www.mazda.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319111757id_/https%3A//www.mazda.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mazda Australia
 
@@ -8,7 +8,7 @@ Mazda Australia Pty Ltd (“ **Mazda** ”) is committed to protecting the priva
 
 Mazda will only collect, use or disclose personal information in accordance with the Act and this Privacy Policy.
 
-Mazda may amend this Privacy Policy at any time.  The updated version will be available by following the “Privacy Policy” link on Mazda’s website homepage, at [www.mazda.com.au](http://www.mazda.com.au/ "Mazda Australia Website").  Mazda may highlight changes to this Privacy Policy on its homepage, but you should check the Privacy Policy regularly for changes.
+Mazda may amend this Privacy Policy at any time.  The updated version will be available by following the “Privacy Policy” link on Mazda’s website homepage, at [www.mazda.com.au](https://web.archive.org/ "Mazda Australia Website").  Mazda may highlight changes to this Privacy Policy on its homepage, but you should check the Privacy Policy regularly for changes.
 
 In this Privacy Policy, “personal information” has the meaning set out in the Act.  Essentially, personal information is information or an opinion about an individual who is reasonably identifiable.  It includes, for example, your name together with your contact details.
 
@@ -86,11 +86,9 @@ We may also use your personal information:
 
   * to contact you with further information about, and to seek feedback on, our products and services and the products and services of Mazda dealers and our third party marketing partners;
   * to improve our products and services;
-  * to understand our customer base; and
+  * to understand our customer base; and to evaluate Mazda dealers.
 
 
-
-to evaluate Mazda dealers.
 
 **5\. To whom do we disclose personal information?**
 
@@ -151,7 +149,7 @@ Third party vendors, including Google, show our ads on sites on the Internet and
 
 You may opt out of Google’s use of cookies by visiting the Google advertising opt-out page – click [here](https://support.google.com/ads/answer/2662922?hl=en) for information.  Additionally, you may opt out of our use of Google Analytics by downloading a browser add-on from [Google's browser add-on page](https://tools.google.com/dlpage/gaoptout).
 
-For complete information on Google Analytics, please visit this [page](http://www.google.com/intl/en_uk/analytics/privacyoverview.html "Google Privacy Policy").
+For complete information on Google Analytics, please visit this [page](https://support.google.com/analytics/answer/6004245?hl=en "Google Privacy Policy").
 
 **10\. Links to other websites**
 
