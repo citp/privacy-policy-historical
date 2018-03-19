@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptodatejobs.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118071731id_/http%3A//uptodatejobs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptodatejobs.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319161426id_/http%3A//uptodatejobs.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -40,3 +40,7 @@ http://www.uptodatejobs.com has no access to or control over these cookies that 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.uptodatejobs.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers respective websites.
+
+#### Note:
+
+Uptodatejobs.com is website that gives information about Job Opportunities. The website is neither directly nor indirectly involved in any step of recruitment. We just share jobs available in different companies worldwide. Once you visit our website and click on the apply now button for the desired job, it will direct you to the career page of the concerned company. Once you reach that page, our job is done.
