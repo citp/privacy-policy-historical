@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repricerexpress.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706193635id_/https%3A//www.repricerexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repricerexpress.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319090834id_/https%3A//www.repricerexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RepricerExpress
 
@@ -36,7 +36,7 @@ If our advertisers use cookies it will result from a click on their advertisemen
 
 This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the RepricerExpress website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or permanently using a browser plugin.
+You can set preferences for how Google advertises to you using the Google Ad Preferences page, and if you want to you can opt out of interest-based advertising entirely by cookie settings or permanently using a browser plugin.
 
 **4.  Use of Your Information**
 
