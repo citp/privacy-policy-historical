@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplaceformom.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005145431id_/http%3A//www.aplaceformom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceformom.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319102707id_/https%3A//www.aplaceformom.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | A Place for Mom
 
