@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914012811id_/https%3A//factorymedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadcyclinguk.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319181631id_/https%3A//factorymedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Factory Media
 
