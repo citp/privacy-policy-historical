@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homedics.com privacy policy that was archived on 2017-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207013706id_/http%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homedics.com privacy policy that was archived on 2018-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180319214930id_/https%3A//www.homedics.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -20,6 +20,8 @@
 //]]>
 </script>
 <![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.homedics.com/js/prototype/windows/themes/default.css">
+<link rel="stylesheet" type="text/css" href="http://www.homedics.com/js/ebizmarts/mailchimp/popup.css">
 <link rel="stylesheet" type="text/css" href="http://www.homedics.com/skin/frontend/enterprise/homedics_2017/css/styles.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.homedics.com/skin/frontend/enterprise/default/css/widgets.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.homedics.com/skin/frontend/base/default/colorbox/css/colorbox.css" media="all">
@@ -42,10 +44,11 @@
 <script type="text/javascript" src="http://www.homedics.com/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/mage/cookies.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/ebizmarts/mailchimp/campaignCatcher.js"></script>
+<script type="text/javascript" src="http://www.homedics.com/js/prototype/window.js"></script>
+<script type="text/javascript" src="http://www.homedics.com/js/scriptaculous/scriptaculous.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/google/ga.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/jquery-1.11.1.min.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/colorbox/colorbox-min.js"></script>
-<script type="text/javascript" src="http://www.homedics.com/js/scriptaculous/scriptaculous.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/scriptaculous/sound.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/lib/jquery/noconflict.js"></script>
 <script type="text/javascript" src="http://www.homedics.com/js/prototype/validation_additional.js"></script>
@@ -96,108 +99,223 @@ Mage.Cookies.domain   = '.www.homedics.com';
 optionalZipCountries = ["HK","IE","MO","PA"];
 //]]>
 </script>
-<script type="text/javascript" src="https://chimpstatic.com/mcjs-connected/js/users/8c965bd7bf0a11bc7d4aae353/586090b5ff5f11b3bc9ceb7d6.js"></script><script type="text/javascript">
+<script type="text/javascript" src=""></script><script type="text/javascript">
 (function e(){var e=document.createElement("script");e.type="text/javascript",e.async=true,e.src="//staticw2.yotpo.com/KSbFTCsoNQ8yvDByuoXn0HIEAvKeE39XJDM0dvcA/widget.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})();
 </script><link href="https://fonts.googleapis.com/css?family=Cabin" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css"><script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><link rel="stylesheet" type="text/css" href="/skin/frontend/enterprise/default/css/homedics_usa.css">
-
-<style>
-/*Temp hide country selector*/
-#countrySelect { display: none; }
-/* Restyle cat headers for refresh */
-.category-banner-contain.center-category .text-over-image { background-color: rgba(255, 255, 255, 0.8); }
-.category-banner-contain.center-category .text-over-image h1 { color: #3b3b3b; }
-.category-banner-contain.center-category .text-over-image h2 { color: #3b3b3b; }
-.category-banner-contain.center-category .text-over-image { width: 60%; left: 20%; padding: 20px;  }
-.category-banner-contain .text-over-image h2 { font-family: inherit; font-style: normal; margin: 20px 0; font-size: 1.2em; }
-
-
-/*TEMP SLIDER FIXES 2017*/
-body.cms-home section.home-feature .content {
-    background: #fff;
+        //]]></script><style>
+/*NEEDS ADDED TO SCSS*/
+.nav_item:hover .nav_menu {
+    display: block;
+    border: 1px solid #d7dade;
+    z-index: 10;
+    border-top: 0 none;
 }
-body.cms-home .content .bx-wrapper .bx-controls a {
+/*SPORTS RECOVERY UPDATE FOR HOVER TEXT COLOR - 20180221*/
+p.price { color: #fff !important; }
+p.introText { color: #fff !important; }
+/*UPDATE TOP BAR COLOR ON CHECK OUT STEPS*/
+.opc .active .step-title {
+    background: #3b3b3b;
+}
+/*Add background color to support menu bars on product pages*/
+@media only screen and (max-width: 767px) {
+    section.product-tabs .accordion-heading { background: #3b3b3b !important; }
+}
+/*ADDED TO LOCAL ALREADY*/
+.block-account .block-content li a {
     color: #3b3b3b;
-    background: #fff;
-    text-shadow: -1px 1px #000;
+}
+@media only screen and (max-width: 767px) {
+    section.product-tabs .support-tab.accordion-heading { border-bottom: 1px solid $secondaryColor !important; }
 }
 
+/*NEWSLETTER POPUP*/
+.dialog {
+    display: block;
+    position: absolute;
+    width: 533px !important;
+    height: 419px !important;
+    left: 0 !important;
+    right: 0 !important;
+    margin: auto;
+}
+.overlay_popup {
+    background-color: #000 !important;
+    filter: alpha(opacity=80) !important;
+    -moz-opacity: 0.8 !important;
+    opacity: 0.8 !important;
+}
+#popup-heading {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: -76px;
+    background: #686868;
+    padding: 40px;
+    height: auto;
+    float: none;
+}
+#popup-heading > h2 {
+    color: #f5f5f5;
+    overflow: visible;
+    font-family: "Cabin", sans-serif;
+    font-size: 15px;
+    padding: 0 15%;
+}
+#popup-form-data {
+    margin-right: 0;
+    line-height: 45px;
+    padding: 22px 0;
+    background: #3b3b3b;
+    padding-right: 184px;
+    color: #fff;
+}
+#popup-form-data input {
+    width: 93%;
+    height: 45px;
+    background-color: #686868;
+    border: 0 none;
+    font-size: 1.6em;
+    padding-left: 10px;
+    color: #fff;
+}
+#popup-form-data input::placeholder {
+    color: #999;
+}
+#popup-form-content {
+    width: 100%;
+    text-align: center;
+}
+.popup_message {
+    position: relative;
+    max-height: 344px;
+}
+.popup_content {
+    margin: 0;
+    background: #fff;
+    height: 409px !important;
+    width: 533px !important;
+}
+.popup_buttons {
+    text-align: center;
+    width: 100%;
+    height: 45px;
+    position: relative;
+}
+.ok_button {
+    position: absolute;
+    top: -121px;
+    height: 45px;
+    right: 25px;
+    width: 148px;
+    background: #d14641;
+    border: 0 none;
+    color: #fff;
+    font-size: 16px;
+}
+.cancel_button {
+    position: absolute;
+    top: -330px;
+    right: 0;
+    border-style: none;
+    color: transparent;
+    height: 32px;
+    width: 32px;
+    background: url(http://www.homedics.com/media/email/images/xmark.png) no-repeat;
+}
+#popup-text {
+    background: url(http://marketing.homedics.com/7845/Shared/HomedicsModal/bg01.gif) center center no-repeat #ffffff;
+    height: 200px;
+    margin: 0;
+    width: 100% !important;
+}
+td#popupDialog_table_content {
+    background: transparent;
+}
+.topMessage {
+    position: absolute;
+    top: 17%;
+    width: 100%;
+    color: #3b3b3b;
+}
+.email_label {
+    display: none;
+}
+span#email_error_msg {
+    display: block;
+    position: absolute;
+    width: 100%;
+    font-weight: bold;
+    font-size: 14px;
+}
+p.introline1 {
+    font-family: "Cabin", serif;
+    font-style: italic;
+    font-size: 21px;
+    margin-bottom: 6px;
+}
+p.introline2 {
+    font-family: "Cabin", sans-serif;
+    font-size: 34px;
+    padding: 0 3%;
+    line-height: 1.2;
+}
+p.introline2 span.hightlightedRed {
+    color: #d94242;
+    font-weight: bold;
+}
 
-.nav_menu {  border: 1px solid #ccc; border-top: 0; }
-.navigation_main_list li a:hover { color: #7ac3d4; }
+@media only screen and (max-width: 820px) {
+    /*NEWSLETTER POPUP*/
+    #MDlp17 .topIcon span { padding-top: 10%; }
+    #MDlp17 .innerPadding { padding: 5% 4% 10%; }
+    .nav_item { margin: 0 21px; }
+    #MDlp17 h2 { font-size: 31px; margin: 4%; line-height: 1.3; }
+    /*END NEWSLETTER POPUP*/
+}
 
-/* Turn off top bars & restyle checkout */
-.checkout-onepage-index .utility-nav { display: none!important; }
-.checkout-onepage-index .header-container .quick-access .links { display: none!important; }
-.checkout-onepage-index .global-promos { display: none!important; }
-.checkout-onepage-index .global-promos .global-promo-header { display: none!important; }
-.checkout-onepage-index .main-navigation  { display: none!important; }
-.checkout-onepage-index #search_mini_form { display: none!important; }
-.checkout-onepage-index .header-container .quick-access #cartHeader {  border-left: 0; }
-.checkout-onepage-index .header-container .header { padding-bottom: 20px; }
-/* .block-progress [id*="progress-opcheckout"] { min-height: 170px; } */
-.block-progress dt { line-height: 1; padding: 20px 0 3px 0; }
-.block-progress dt .separator { display: none; }
+@media only screen and (max-width: 620px) {
+    /*NEWSLETTER POPUP*/
+    #MDlp17 .innerPadding { padding: 5% 4% 16%; }
+    #MDlp17 h1 { font-size: 54px; margin-bottom: 8%; }
+    /*END NEWSLETTER POPUP*/
+}
 
-#payment-progress-opcheckout p strong { font-weight: normal; }
-.block-progress #siteseal { text-align: center; }
-.opc { margin-bottom: 20px; }
-#checkout-step-review .page-title { margin-bottom: 5px; padding-top: 20px; border-top: 1px solid #d7dade; border-bottom: 0;  }
-#checkout-step-review .page-title h1 { margin-bottom: 5px; font-size: 2.25rem; }
+@media only screen and (max-width: 530px) {
+    /*NEWSLETTER POPUP*/
+    .dialog { width: 100% !important; left: 0 !important; top: 0 !important; position: fixed; }
+    .popup_message { height: 300px; }
+    .popup_content { margin:0; background-color: #686868; height: 324px !important; width: 100% !important; }
+    #popup-heading { display: block; width: 100%; position: absolute; bottom: -40px; background: #686868; padding: 10px 40px; height: auto; float: none; }
+    #popup-heading > h2 { padding: 0; }
+    #popup-text { height: 160px; }
+    #popup-form-data { margin-right: 0; line-height: 45px; padding: 12px 0; background: #3b3b3b; padding-right: 17px; color: #fff; height: 70px; }
+    #popup-form-data input { width: 68%; padding-left: 4%; float: left; margin: 0 0 0 4%; }
+    .topMessage { position: absolute; top: 12%; width: 100%; color: #3b3b3b; height: auto !important; }
+    p.introline1 { font-family: "Cabin", sans-serif; font-size: 17px; font-style: italic; margin-bottom: 6px; }
+    p.introline2 { font-family: "Cabin", sans-serif; font-size: 28px; padding: 0 3%; line-height: 1.2; }
+    .popup_buttons { position: absolute; top: 0; }
+    .ok_button { top: 186px; right: 4%; left: auto; margin: 0; width: 94px; }
+    .cancel_button { top: 24px; }
+    /*END NEWSLETTER POPUP*/
+}
 
-/* Hide fax and company fields in checkout */
-input#billing\:fax {display:none;}
-label[for=billing\:fax] {display: none;}
-input#billing\:company {display:none;}
-label[for=billing\:company] {display: none;}
+@media only screen and (max-width: 480px) {
+    button.button, .discount-banner a { padding: 12px 10px; }
+    .fTopContentRight { width: 100%; padding: 20px 0 40px; }
+    /*NEWSLETTER POPUP*/
+    #MDlp17.MDlp17Container { -webkit-border-radius: 80px; -moz-border-radius: 80px; border-radius: 80px; margin: 4% 0; }
+    #MDlp17 .topIcon span { padding-top: 24%; }
+    #MDlp17 h1 { font-size: 44px; margin-bottom: 8%; }
+    #MDlp17 .mainCta { padding-top: 63%; margin-bottom: 10%; }
+    #MDlp17 .mainText { margin-bottom: 10%; font-size: 21px; }
+    #MDlp17 h2 { font-size: 40px; margin: 4% 0 10%; line-height: 1.4; }
+    /*END NEWSLETTER POPUP*/
+}
 
-/* other updates */
-.category-banner-contain .text-over-image { top: 10.8%; }
-.products-list .price-box .price-from, .products-grid .price-box .price-from { display: none; }
-.catalog-product-view p.required { display: none; }
-</style>
-
-
-
-<!--Sports Recovery Custom Category JS-->
-<!-- jQuery Script for Slick slider -->
-<script type="text/javascript" src="/js/slickjs/slick.min.js"></script>
-<!-- jQuery Script for Slick slider -->
-<!--Sports Recovery Custom Category Video Gallery JS-->
-<script type="text/javascript" src="/js/html5gallery/html5gallery.js"></script><script type="text/javascript" src="https://web.archive.org/js/html5gallery/jquery.js"></script>
-<!--END Sports Recovery Custom Category Video Gallery JS-->
-<script type="text/javascript">
-	jQuery(document).ready(function() {
-		jQuery('.crsl-wrap').slick({
-			slidesToShow: 2,
-			slidesToScroll: 2,
-			nextArrow: '<a href="#" class="next" title="next"></a>',
-			prevArrow: '<a href="#" class="previous" title="previous"></a>',
-			dots: false,
-			centerMode: false,
-			focusOnSelect: false,
-			speed: 500,
-			responsive: [
-			{
-			  breakpoint: 600,
-			  settings: {
-				slidesToShow: 1,
-				slidesToScroll: 1
-			  }
-			},
-			{
-			  breakpoint: 320,
-			  settings: {
-				slidesToShow: 1,
-				slidesToScroll: 1
-			  }
-			}
-		  ]
-		});
-	});
-
-</script><script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+/*END NEWSLETTER POPUP CSS*/
+</style><script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
 </head>
 <body class=" cms-page-view cms-privacy-policy homedics_usa">
                 <!-- GOOGLE TAG MANAGER -->
@@ -218,34 +336,35 @@ label[for=billing\:company] {display: none;}
         
 
 <div class="wrapper">
-    <header class="header-container">
+    <a id="top" name="top"></a>
+<header class="header-container">
     <section class="utility-nav no-mobile">
         <div class="utility-inner">
             <!-- Utility Navigation ID: hr_utility_navigation -->
 <ul class="utility-nav-list">
-	<li class="partsIcon"><a href="http://www.homedics.com/parts-and-accessories.html">Parts &amp; Accessories</a></li>
-	<li class="giftIcon"><a href="http://www.homedics.com/bestsellers.html">Best Sellers</a></li>
+	<li class="partsIcon"><a href="/parts-and-accessories.html">Parts &amp; Accessories</a></li>
+	<li class="starIcon"><a href="/bestsellers.html">Best Sellers</a></li>
 </ul>
 <!-- / End Utility Navigation -->            <!-- Country Select ID: hr_country_select -->
-
+<style>
+#countrySelect li a { text-align: left; }
+#countrySelect li a:hover { color: #3b3b3b !important; }
+</style>
 <div id="countrySelect">
-	<!--<a class="countrySelectButton" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/world.png) no-repeat;" href="javascript:void(0);"></a>-->
 	<a class="countrySelectButton" href="javascript:void(0);">Choose Your Country<span class="arrow-down"></span></a>
 	<div class="countrySelectMenu">
 		<ul>
-			<li><a href="http://latinamerica.homedics.com/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/la.png) no-repeat;">Latin America <span>Español</span></a></li>
-			<li><a href="http://www.homedics.com.au/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/australia.png) no-repeat;">Australia <span>English</span></a></li>
-			<li><a href="http://www.homedics.ca/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/canada.png) no-repeat;">Canada <span>English</span></a></li>
-			<li><a href="http://www.homedics.de/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/germany.png) no-repeat;">Germany <span>Deutsch</span></a></li>
-			<li><a href="http://www.homedics.it/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/italy.png) no-repeat;">Italy <span>Italiano</span></a></li>
-		</ul>
-		<ul>
-			<li><a href="http://www.homedics.co.uk/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/uk.png) no-repeat;">United Kingdom <span>English</span></a></li>
-			<li><a href="http://www.homedics.com/" style="background:url(https://www.homedics.com/skin/frontend/enterprise/homedics_responsive/images/flags/usa.png) no-repeat;">United States <span>English</span></a></li>
+			<li><a href="http://www.homedics.com.ar" target="_blank" style="background:url(/media/flags/24x24/argentina.png) no-repeat;">Argentina <span> Español</span></a></li>
+			<li><a href="http://www.homedics.com.au" target="_blank" style="background:url(/media/flags/24x24/australia.png) no-repeat;">Australia <span> English</span></a></li>
+			<li><a href="http://www.homedics.ca" target="_blank" style="background:url(/media/flags/24x24/canada.png) no-repeat;">Canada <span> English</span></a></li>
+			<li><a href="http://www.homedics.cl" target="_blank" style="background:url(/media/flags/24x24/chile.png) no-repeat;">Chile <span> Español</span></a></li>
+			<!-- <li><a href="http://www.homedics.de" target="_blank" style="background:url(/media/flags/24x24/germany.png) no-repeat;">Germany <span> Deutsch</span></a></li>-->
+			<li><a href="http://www.homedics.it" target="_blank" style="background:url(/media/flags/24x24/italy.png) no-repeat;">Italy <span> Italiano</span></a></li>
+			<li><a href="http://www.homedics.co.uk" target="_blank" style="background:url(/media/flags/24x24/uk.png) no-repeat;">United Kingdom <span> English</span></a></li>
+			<li><a href="http://www.homedics.com" target="_blank" style="background:url(/media/flags/24x24/usa.png) no-repeat;">United States <span> English</span></a></li>
 		</ul>
 	</div>
 </div>
-
 <!-- / End Country Select -->        </div>
     </section>
     <section class="header">
@@ -302,41 +421,42 @@ label[for=billing\:company] {display: none;}
 <nav class="main-navigation">
 	<ul>
 		<li class="first nav_item massage_nav_item">
-			<h2><a href="http://www.homedics.com/massage.html">Massage</a></h2>
+			<h2><a href="/massage.html">Massage</a></h2>
 			<div class="nav_menu massage"><!-- Massage Navigation ID: hr_massage_navigation -->
 <div class="navigation_main_list">
 	<ul class="navigation_column_list">
-		<li><a href="http://www.homedics.com/massage/back-massagers.html">Back Massagers</a></li>
-		<li><a href="http://www.homedics.com/massage/neck-massagers.html">Neck Massagers</a></li>
-		<li><a href="http://www.homedics.com/massage/foot-massagers.html">Foot Massagers</a></li>
-		<li><a href="http://www.homedics.com/massage/sports-recovery-massagers.html">Sports Recovery Massagers</a></li>
-		<li><a href="http://www.homedics.com/massage/handheld-massagers.html">Handheld Massagers</a></li>
-		<li><a href="http://www.homedics.com/massage/frequently-asked-questions">Massager FAQ</a></li>
-		<li><a href="http://www.homedics.com/massage.html" class="shop-all">Shop All Massagers <span class="icon-arrow_right"></span></a></li>
+		<li><a href="/massage/back-massagers.html">Back Massagers</a></li>
+		<li><a href="/massage/neck-massagers.html">Neck Massagers</a></li>
+		<li><a href="/massage/foot-massagers.html">Foot Massagers</a></li>
+		<li><a href="/massage/sports-recovery-massagers.html">Sports Recovery Massagers</a></li>
+		<li><a href="/massage/handheld-massagers.html">Handheld Massagers</a></li>
+		<li><a href="https://www.homedicsmassagechair.com/" target="_blank">Massage Chairs</a></li>
+		<li><a href="/massage/frequently-asked-questions">Massager FAQ</a></li>
+		<li><a href="/massage.html" class="shop-all">Shop All Massagers <span class="icon-arrow_right"></span></a></li>
 	</ul>
 </div>
 <div class="navigation-feature">
-	<img src="/media/homedics/homedics-usa/responsive_refresh/navigation/top_nav_massage.jpg" class="feature-img" alt="">
+	<img src="/media/homedics/homedics-usa/responsive_refresh/navigation/top_nav_massage-massage_chair.jpg" class="feature-img" alt="Introducing HoMedics Massage Chairs">
 	<div class="feature-content">
-		<h4>Massage Cushions</h4>
-		<p>Turn any chair into a massage chair!</p>
-		<p class="callout"><a href="http://www.homedics.com/massage/back-massagers.html">Explore Now <span class="icon-arrow_right"></span></a></p>
+		<h4>Introducing</h4>
+		<p>HoMedics Massage Chairs</p>
+		<p class="callout"><a href="https://www.homedicsmassagechair.com/" target="_blank">Visit the website <span class="icon-arrow_right"></span></a></p>
 	</div>
 </div>
 <!-- / End Massage Navigation --></div>
 	       </li>
 		<li class="first nav_item spa_nav_item">
-			<h2><a href="http://www.homedics.com/spa.html">Spa &amp; Beauty</a></h2>
+			<h2><a href="/spa.html">Spa &amp; Beauty</a></h2>
 			<div class="nav_menu massage"><!-- Spa Navigation ID: hr_spa_navigation -->
 
 <div class="navigation_main_list">
 	<ul class="navigation_column_list">
-		<li><a href="http://www.homedics.com/spa/beauty.html">Beauty</a></li>
-		<li><a href="http://www.homedics.com/spa/essential-oils.html">Essential Oils</a></li>
-		<li><a href="http://www.homedics.com/spa/diffusers.html">Diffusers</a></li>
-		<li><a href="http://www.homedics.com/spa/footbaths.html">Footbaths</a></li>
-		<li><a href="http://www.homedics.com/spa/paraffin-baths.html">Paraffin Baths</a></li>
-		<li><a href="http://www.homedics.com/spa.html" class="shop-all">Shop All Spa &amp; Beauty <span class="icon-arrow_right"></span></a></li>
+		<li><a href="/spa/beauty.html">Beauty</a></li>
+		<li><a href="/spa/essential-oils.html">Essential Oils</a></li>
+		<li><a href="/spa/diffusers.html">Diffusers</a></li>
+		<li><a href="/spa/footbaths.html">Footbaths</a></li>
+		<li><a href="/spa/paraffin-baths.html">Paraffin Baths</a></li>
+		<li><a href="/spa.html" class="shop-all">Shop All Spa &amp; Beauty <span class="icon-arrow_right"></span></a></li>
 	</ul>
 </div>
 <div class="navigation-feature">
@@ -344,20 +464,20 @@ label[for=billing\:company] {display: none;}
 	<div class="feature-content">
 		<h4>Footbaths</h4>
 		<p>Create a spa environment in the comfort of your home!</p>
-		<p class="callout"><a href="http://www.homedics.com/spa/footbaths.html">Explore now <span class="icon-arrow_right"></span></a></p>
+		<p class="callout"><a href="/spa/footbaths.html">Explore now <span class="icon-arrow_right"></span></a></p>
 	</div>
 </div>
 
 <!-- / End Spa Navigation --></div>
 		</li>
 		<li class="first nav_item sound_nav_item">
-			<h2><a href="http://www.homedics.com/sound-machines.html">Sound Spas</a></h2>
+			<h2><a href="/sound-machines.html">Sound Spas</a></h2>
 			<div class="nav_menu sleep"><!-- Sound Navigation ID: hr_sound_navigation -->
 <div class="navigation_main_list">
 	<ul class="navigation_column_list">
-		<li><a href="http://www.homedics.com/sound-machines/soundspas.html">SoundSpas</a></li>
-		<li><a href="http://www.homedics.com/sound-machines/mybaby.html">MyBaby</a></li>
-		<li style="font-size: 1.4rem;"><a href="http://www.homedics.com/sound-machines.html" class="shop-all">Shop All Sound Machines <span class="icon-arrow_right"></span></a></li>
+		<li><a href="/sound-machines/soundspas.html">SoundSpas</a></li>
+		<li><a href="/sound-machines/mybaby.html">MyBaby</a></li>
+		<li style="font-size: 1.4rem;"><a href="/sound-machines.html" class="shop-all">Shop All Sound Machines <span class="icon-arrow_right"></span></a></li>
 	</ul>
 </div>
 <div class="navigation-feature">
@@ -365,42 +485,42 @@ label[for=billing\:company] {display: none;}
 	<div class="feature-content">
 		<h4>Deep Sleep</h4>
 		<p>Finally, get the good night's sleep you deserve.</p>
-		<p class="callout"><a href="{{store url=''}sound-machines.html">Explore now <span class="icon-arrow_right"></span></a></p>
+		<p class="callout"><a href="/sound-machines.html">Explore now <span class="icon-arrow_right"></span></a></p>
 	</div>
 </div>
 <!-- / End Sound Navigation --></div>
 		</li>
 		<li class="first nav_item wellnes_nav_item">
-			<h2><a href="http://www.homedics.com/health-care.html">Health &amp; Fitness</a></h2>
+			<h2><a href="/health-care.html">Health &amp; Fitness</a></h2>
 			<div class="nav_menu health"><!-- Health Navigation ID: hr_health_navigation -->
 <div class="navigation_main_list">
 	<ul class="navigation_column_list">
-		<li><a href="http://www.homedics.com/health-care/blood-pressure-monitors.html">Blood Pressure Monitors</a></li>
-		<li><a href="http://www.homedics.com/health-care/fitness-monitors.html">Fitness Aids</a></li>
-		<li><a href="http://www.homedics.com/health-care.html" class="shop-all">Shop All Health <span class="icon-arrow_right"></span></a></li>
+		<li><a href="/health-care/blood-pressure-monitors.html">Blood Pressure Monitors</a></li>
+		<li><a href="/health-care/fitness-monitors.html">Fitness Aids</a></li>
+		<li><a href="/health-care.html" class="shop-all">Shop All Health <span class="icon-arrow_right"></span></a></li>
 	</ul>
 </div>
 <div class="navigation-feature">
-<img src="/media/Health-Care-Nav_1.jpg" class="feature-img" alt="">
+<img src="/media/Health-Care-Nav_1.jpg" class="feature-img" alt="health care">
 	<div class="feature-content">
 		<h4>Health Care</h4>
 		<p>Monitor your body's health and wellness with our in-home health monitoring devices.</p>
-		<p class="callout"><a href="http://www.homedics.com/health-care.html/">Explore Now <span class="icon-arrow_right"></span></a></p>
+		<p class="callout"><a href="/health-care.html">Explore now <span class="icon-arrow_right"></span></a></p>
 	</div>
 </div>
 <!-- / End Health Navigation --></div>
 		</li>
 		<li class="first nav_item air_nav_item">
-			<h2><a href="http://www.homedics.com/air-quality.html">Air Quality</a></h2>
+			<h2><a href="/air-quality.html">Air Quality</a></h2>
 			<div class="nav_menu massage"><!-- Air Quality Navigation ID: hr_air_navigation -->
 
 <div class="navigation_main_list">
 	<ul class="navigation_column_list">
-		<li><a href="http://www.homedics.com/air-quality/air-cleaners.html">Air Purifiers</a></li>
-		<li><a href="http://www.homedics.com/air-quality/humidifiers.html">Humidifiers</a></li>
-		<li><a href="http://www.homedics.com/mychill.html">MYCHILL™</a></li>
-		<li><a href="http://www.homedics.com/air-quality/replacement-filters-and-accessories.html">Replacement Filters &amp; Accessories</a></li>
-		<li><a href="http://www.homedics.com/air-quality.html/" class="shop-all">Shop All Home Environment <span class="icon-arrow_right"></span></a></li>
+		<li><a href="/air-quality/air-cleaners.html">Air Purifiers</a></li>
+		<li><a href="/air-quality/humidifiers.html">Humidifiers</a></li>
+		<li><a href="/mychill.html">MYCHILL™</a></li>
+		<li><a href="/air-quality/replacement-filters-and-accessories.html">Replacement Filters &amp; Accessories</a></li>
+		<li><a href="/air-quality.html" class="shop-all">Shop All Home Environment <span class="icon-arrow_right"></span></a></li>
 	</ul>
 </div>
 <div class="navigation-feature">
@@ -408,15 +528,15 @@ label[for=billing\:company] {display: none;}
 	<div class="feature-content">
 		<h4>Air Purifiers</h4>
 		<p>Remove up to 99.97% of airborne contaminants and breathe easier.</p>
-		<p class="callout"><a href="http://www.homedics.com/air-quality/air-cleaners.html">Explore now <span class="icon-arrow_right"></span></a></p>
+		<p class="callout"><a href="/air-quality/air-cleaners.html">Explore now <span class="icon-arrow_right"></span></a></p>
 	</div>
 </div>
 
 <!-- / End Air Quality --></div>
 		</li>
 		<li class="first nav_item sale_nav_item">
-			<h2><a href="http://www.homedics.com/sale.html" style="color: #e44a3c">Sale</a></h2>
-			<div class="nav_menu sale" style="width: 288px;"></div>
+			<h2><a href="/sale.html" style="color: #e44a3c">Sale</a></h2>
+			<!-- <div class="nav_menu sale"  style="width: 288px;"></div> -->
 		</li>
 	</ul>
 </nav>
@@ -436,62 +556,62 @@ label[for=billing\:company] {display: none;}
                     <li>
                         <h3 class="accordion-heading">Massage</h3>
                         <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/massage/back-massagers.html">Back Massagers</a></li>
-                            <li><a href="http://www.homedics.com/massage/neck-massagers.html">Neck Massagers</a></li>
-                            <li><a href="http://www.homedics.com/massage/foot-massagers.html">Foot Massagers</a></li>
-                            <li><a href="http://www.homedics.com/massage/sports-recovery-massagers.html">Sports Recovery Massagers</a></li>
-                            <li><a href="http://www.homedics.com/massage/handheld-massagers.html">Handheld Massagers</a></li>
-                            <li><a href="http://www.homedics.com/massage/frequently-asked-questions">Massager FAQ</a></li>
-                            <li><a href="http://www.homedics.com/massage.html">Shop All Massagers</a></li>
+                            <li><a href="/massage/back-massagers.html">Back Massagers</a></li>
+                            <li><a href="/massage/neck-massagers.html">Neck Massagers</a></li>
+                            <li><a href="/massage/foot-massagers.html">Foot Massagers</a></li>
+                            <li><a href="/massage/sports-recovery-massagers.html">Sports Recovery Massagers</a></li>
+                            <li><a href="/massage/handheld-massagers.html">Handheld Massagers</a></li>
+                            <li><a href="/massage/frequently-asked-questions">Massager FAQ</a></li>
+                            <li><a href="/massage.html">Shop All Massagers</a></li>
                         </ul>
                     </li>
                      <li>
                         <h3 class="accordion-heading">Spa &amp; Beauty</h3>
                         <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/spa/beauty.html">Beauty</a></li>
-                             <li><a href="http://www.homedics.com/spa/essential-oil.html">Essential Oils</a></li>
-                            <li><a href="http://www.homedics.com/spa/diffusers.html">Diffusers</a></li>
-                           <li><a href="http://www.homedics.com/spa/footbaths.html">Footbaths</a></li>
-                            <li><a href="http://www.homedics.com/spa/paraffin-baths.html">Paraffin Baths</a></li>
-                            <li><a href="http://www.homedics.com/spa.html">Shop All Spa</a></li>
+                            <li><a href="/spa/beauty.html">Beauty</a></li>
+                            <li><a href="/spa/essential-oils.html">Essential Oils</a></li>
+                            <li><a href="/spa/diffusers.html">Diffusers</a></li>
+                            <li><a href="/spa/footbaths.html">Footbaths</a></li>
+                            <li><a href="/spa/paraffin-baths.html">Paraffin Baths</a></li>
+                            <li><a href="/spa.html">Shop All Spa</a></li>
                         </ul>
                     </li>
                     <li>
                         <h3 class="accordion-heading">SoundSpas</h3>
                         <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/sound-machines/soundspas.html">SoundSpas</a></li>
-                             <li><a href="http://www.homedics.com/sound-machines/mybaby.html">MyBaby</a></li>
-                            <li><a href="http://www.homedics.com/sound-machines.html">Shop All Sound Machines</a></li>
+                            <li><a href="/sound-machines/soundspas.html">SoundSpas</a></li>
+                             <li><a href="/sound-machines/mybaby.html">MyBaby</a></li>
+                            <li><a href="/sound-machines.html">Shop All Sound Machines</a></li>
                         </ul>
                     </li>
                     <li>
                         <h3 class="accordion-heading">Health &amp; Fitness</h3>
                         <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/health-care/blood-pressure-monitors.html">Blood Pressure Monitors</a></li>
-                            <li><a href="http://www.homedics.com/health-care/fitness-monitors.html">Fitness Aids</a></li>
-                            <li><a href="http://www.homedics.com/health-care.html">Shop All Health</a></li>
+                            <li><a href="/health-care/blood-pressure-monitors.html">Blood Pressure Monitors</a></li>
+                            <li><a href="/health-care/fitness-monitors.html">Fitness Aids</a></li>
+                            <li><a href="/health-care.html">Shop All Health</a></li>
                        </ul>
                     </li>
                     <li>
                         <h3 class="accordion-heading">Air Quality</h3>
                         <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/air-quality/air-cleaners.html">Air Cleaners</a></li>
-                            <li><a href="http://www.homedics.com/air-quality/humidifiers.html">Humidifiers</a></li>
-                            <li><a href="http://www.homedics.com/mychill.html">MYCHILL™</a></li>
-                            <li><a href="http://www.homedics.com/air-quality/replacement-filters-and-accessories.html">Replacement Filters &amp; Accessories</a></li>
-                            <li><a href="http://www.homedics.com/air-quality.html">Shop All Air Quality</a></li>
+                            <li><a href="/air-quality/air-cleaners.html">Air Cleaners</a></li>
+                            <li><a href="/air-quality/humidifiers.html">Humidifiers</a></li>
+                            <li><a href="/mychill.html">MYCHILL™</a></li>
+                            <li><a href="/air-quality/replacement-filters-and-accessories.html">Replacement Filters &amp; Accessories</a></li>
+                            <li><a href="/air-quality.html">Shop All Air Quality</a></li>
                         </ul>
                     </li>
                     <li>
                         <h3 class="accordion-heading">Sale</h3>
                          <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/sale.html">Shop All Sale Items</a></li>
+                            <li><a href="/sale.html">Shop All Sale Items</a></li>
                         </ul>
                     </li>
                     <li>
                         <h3 class="accordion-heading">Parts &amp; Accessories</h3>
                         <ul class="accordion-content">
-                            <li><a href="http://www.homedics.com/parts-and-accessories.html">Shop All Parts &amp; Accessories</a></li>
+                            <li><a href="/parts-and-accessories.html">Shop All Parts &amp; Accessories</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -500,35 +620,41 @@ label[for=billing\:company] {display: none;}
         <section class="global-promos">
         <style>
 .global-promos .global-promo-header li.promo { width: 75%; text-align: center; }
+a:hover, header.header-container a:hover { color: #1aa6b7!important;  transition: all 0.45s ease; }
 </style>
 
 <!-- Header Promo ID: hr_header_promo_bar -->
 <ul class="global-promo-header">	
-	<!-- CENTERED PROMO  
-	<li class="promo" style="text-align: center;">
-		<b>FREE shipping on orders over $50!</b> &nbsp; <a class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/">(click for details)</a>
-	</li>-->
-         <!-- FLASH SALE PROMO - turn on Dec 11-->
-         <li class="promo"> 
-		<font style="color:rgb(228,74,60)"><b>20% OFF ORDERS OVER $50, 30% OFF ORDERS OVER $100 + FREE SHIPPING!</b></font> Discount applied at checkout. <br><a style="color:black" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/"><u>Click 
-        for Details</u></a>
-	</li>
-         <!-- FLASH SALE PROMO - turn on Dec 4
-         <li class="promo"> 
-		<font style="color:rgb(228,74,60)"><b>FLASH SALE: 30% OFF ORDERS OVER $100 + FREE SHIPPING!</b></font> Dec 4 Only. Use Code: <b>FLASH30</b> <a style="color:black" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/"><u>Click 
-for Details</u></a>-->
-	
-         <!-- BLACK FRIDAY PROMO - turn on Nov 23-->
-         <!--<li class="promo"> 
-		<font style="color:rgb(228,74,60)"><b>30% OFF ORDERS OVER $50 + FREE SHIPPING!</b></font> Nov 23 - 25 Only. Use Code: <b>BLACKFRIDAY30</b> <a style="color:black" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/"><u>Click for Details</u></a>
-	</li>-->
-         <!-- CYBER MONDAY PROMO - turn on Nov 26
-	 <li class="promo" style="text-align: center;">
-               <font style="color:rgb(228,74,60)"><b>40% OFF ALL MASSAGE + FREE SHIPPING!</b></font> Nov 26 - 28 Only. Use Code: <b>CYBER40</b> <a style="color:black" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/"><u>Click for Details</u></a>
-	</li>-->
- </ul>
 
-<!-- Example for 3 promo slots -->
+<!-- Use for 1 promo slot -->
+	<!-- CENTERED PROMO  -->
+         <!-- EVERYDAY FREE SHIPPING 
+	<li class="promo" style="text-align: center;">
+		<font style="color: #e60d2a;">Free shipping on orders over $50</font> 
+		<a style="color: #3b3b3b;" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/">(<u>click for details</u>)</a>
+	</li>-->
+ 
+<!-- Use for 1 promo slot -->
+	<!-- CENTERED PROMO  -->
+         <!-- EVERYDAY FREE SHIPPING -->
+	<li class="promo" style="text-align: center;">
+		<font style="color: #e60d2a;">Spring Sale: 20% off orders over $75 + free shipping. Promo code: <b>SPRING20</b></font> 
+		<a style="color: #3b3b3b;" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/">(<u>click for details</u>)</a>
+	</li>
+
+<!-- Use for 2 promo slots -->
+	<!-- LEFT PROMO
+	<li class="promo-1" style="text-align: center; width: 45%;">
+		<font style="color: #e60d2a">Valentine's Day Sale: 20% off orders over $50 + free shipping. Promo code: <b>LOVE20</b></font>
+                <a style="color: #3b3b3b;" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/">(<u>click for details</u>)</a>
+	</li> -->
+	<!-- RIGHT PROMO
+	<li class="promo-3" style="text-align: center; width: 45%;">
+		<font style="color: #e60d2a;">Free shipping on orders over $50</font> 
+		<a style="color: #3b3b3b;" class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/">(<u>click for details</u>)</a> 
+	</li> -->
+
+<!-- Use for 3 promo slots -->
 	<!-- LEFT PROMO  
 	<li class="promo-1" style="text-align: center;">
 		<b>30% OFF</b> orders >$50 + <b>FREE shipping</b>! Nov 23-25 only. <a class="overlay" href="#" rel="http://www.homedics.com/free-shipping-hr/">(click for details)</a> 
@@ -543,7 +669,8 @@ for Details</u></a>-->
 	<li class="promo-3" style="text-align: center;">
 		Save on our latest <a href="http://www.homedics.com/sale.html?dir=desc&order=price">clearance items</a>
 	</li>-->
-    </section>
+
+</ul>    </section>
 </header>
     
 <section class="breadcrumbs">
@@ -574,7 +701,117 @@ for Details</u></a>-->
     <section class="main-content">
         <div class="main col1-layout">
             <div class="col-main">
-                <div class="std"><div class="content">
+                
+    <div id="email" style="text-align:right; display:none">
+
+
+
+        <div id="popup-heading">
+            <h2>You'll Receive offers, special discounts and be the first to know about latest products, exciting contests and much more!</h2>
+        </div>
+        <div id="popup-form-content">
+            <div id="popup-text">
+                <p></p><div class="topMessage">
+    <p class="introline1">Join the HoMedics Family!</p>
+    <p class="introline2">SIGN UP AND SAVE <span class="hightlightedRed">10% OFF</span> YOUR NEXT PURCHASE</p>
+</div><p></p>
+            </div>
+
+            <p><span id="email_error_msg" class="email_error" style="display:none">&nbsp;</span></p>
+
+            <div id="popup-form-data">
+                <p>
+                    <span class="required"></span>
+                    <span class="email_label">Email:</span>
+                    <span class="email_input"><input type="text"></span>
+                </p>
+
+                            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+                if (navigator.cookieEnabled) {
+                        document.observe('keydown', function (evt) {
+                if (evt.keyCode == 27) {
+                    win.cancelCallback();
+                }
+            });
+                        document.observe('keydown', function (evt) {
+                if (evt.keyCode == 13) {
+                    win.okCallback();
+                }
+            });
+            var cookieStored = emailCookieExists();
+            if (!cookieStored && $('popupDialog') == undefined) {
+                var popupWidth = 30*window.innerWidth/100;
+                var popupHeight = 50*window.innerHeight/100;
+                var win = Dialog.confirm($('email').innerHTML, {
+                    className: "popup",
+                    id: "popupDialog",
+                    width: popupWidth,
+
+                    zIndex: 2001,
+                    okLabel: 'Confirm',
+                                        cancelLabel: 'Close',
+                    onCancel: function (win) {
+                                                createCookie('email','none', "30");
+                                                                    },
+                                        onOk: function (win) {
+                        var inputFieldEmail = $$('.email_input input[type=text]').first();
+                        var inputFieldFName = $$('.fname_input input[type=text]').first();
+                        var inputFieldLName = $$('.lname_input input[type=text]').first();
+                        var email = inputFieldEmail.value;
+                        var fname = '';
+                        var lname = '';
+                        if(inputFieldFName) {
+                            fname = inputFieldFName.value;
+                        }
+                        if(inputFieldLName) {
+                            lname = inputFieldLName.value;
+                        }
+                        if (validateEmail(email)) {
+                            createCookie('email',email + '/' + fname + '/' + lname, 365);
+                                                        createCookie('subscribe','true', 365);
+                            location.reload();
+                                                    } else {
+                            $('email_error_msg').innerHTML = 'Not a valid e-mail address';
+                            $('email_error_msg').setStyle({color: '#F00'});
+                            $('email_error_msg').show();
+                            Windows.focusedWindow.updateHeight();
+                            new Effect.Shake(Windows.focusedWindow.getId());
+                        }
+                    }
+                });
+                                Event.observe(window, 'load', function () {
+                    $('overlay_modal').observe('click', function () {
+                        win.close();
+                        win.cancelCallback();
+                    });
+                });
+                            }
+        }
+                function validateEmail(email) {
+            var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+        function emailCookieExists() {
+            if(Mage.Cookies.get('email')) {
+                return true
+            }
+            else {
+                return false
+            }
+        }
+        function createCookie(name, value, expirationInDays) {
+            var now = new Date();
+            var expire = new Date(now.getTime() + (expirationInDays * 24 * 60) * 60000);//[(1 * 365 * 24 * 60) * 60000] == 1 year  -- (Years * Days * Hours * Minutes) * 60000
+            //document.cookie = cookie + '; expires=' + expire + '; path=/';
+            Mage.Cookies.expires = expire;
+            Mage.Cookies.set(name,value);
+        }
+    </script>
+<div class="std"><div class="content">
 <h1>Privacy Policy</h1>
 
 <p>Protecting your privacy is important to HoMedics, LLC. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the HoMedics, LLC Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.</p>
@@ -599,7 +836,7 @@ for Details</u></a>-->
         </div>
     </section>
         <footer class="footer-container">
-	<div id="back-to-top"><span class="icon-arrow_up up2 right"></span></div>
+    <a href="#top" id="b2tid" class="b2t hide" title="Back to top"><div class="b2tArrow">Back to top</div></a>
     <section class="footer-newsletter">
         <div class="newsletter-container">
             
@@ -634,14 +871,14 @@ for Details</u></a>-->
 	<h5 class="accordion-heading">Support</h5>
 	<div class="accordion-content">
 		<ul>
-			<li><a href="http://www.homedics.com/contacts/">Contact Us</a></li>
-			<li><a href="https://www.homedics.com/sales/order/history/">Order Status</a></li>
-			<li><a href="http://www.homedics.com/shipping-and-delivery/">Shipping &amp; Delivery</a></li>
-                        <li><a href="http://www.homedics.com/returns/">Returns</a></li>
-                        <li><a href="http://www.homedics.com/instructionbooks/">Instruction Books</a></li>
-			<li><a href="http://www.homedics.com/product-registration/">Product Registration</a></li>
-			<li><a href="http://www.homedics.com/bathroom-scale/">Bathroom Scale Support</a></li>
-			<!--<li><a href="http://www.homedics.com/prop-65/">Prop 65</a></li>-->
+			<li><a href="/contacts/">Contact Us</a></li>
+			<li><a href="/sales/order/history/">Order Status</a></li>
+			<li><a href="/shipping-and-delivery/">Shipping &amp; Delivery</a></li>
+                        <li><a href="/returns/">Returns</a></li>
+                        <li><a href="/instructionbooks/">Instruction Books</a></li>
+			<li><a href="/product-registration/">Product Registration</a></li>
+			<li><a href="/bathroom-scale/">Bathroom Scale Support</a></li>
+			<!--<li><a href="/prop-65">Prop 65</a></li>-->
                        <li><a class="overlay" href="#" rel="http://www.homedics.com/prop-65/">Prop 65</a></li>
 		</ul>
 	</div>
@@ -650,38 +887,53 @@ for Details</u></a>-->
 <section class="footer-column">
 	<h5 class="accordion-heading">Business to Business</h5>
 	<ul class="accordion-content">
-		<li><a href="http://www.homedics.com/corporate-sales">Corporate Sales</a></li>
-		<li><a href="http://www.homedics.com/request-for-media">Media Requests</a></li>
-		<li><a href="http://www.homedics.com/marketing-advertising">Marketing &amp; Advertising</a></li>
-		<li><a href="http://www.homedics.com/international-retail-partnerships">International Retail Partnerships</a></li>
+		<li><a href="/corporate-sales/">Corporate Sales</a></li>
+		<li><a href="/request-for-media/">Media Requests</a></li>
+		<li><a href="/marketing-advertising/">Marketing &amp; Advertising</a></li>
+		<li><a href="/international-retail-partnerships/">International Retail Partnerships</a></li>
 	</ul>
 </section>
 
 <section class="footer-column">
 	<h5 class="accordion-heading">Company</h5>
 	<ul class="accordion-content">
-		<li><a href="http://www.homedics.com/about-us">About Us</a></li>
-		<li><a href="http://www.homedics.com/careers">Careers</a></li>
-		<li><a href="http://www.homedics.com/Reviews-Yotpo">Product Reviews</a></li>
-		<li><a href="http://www.homedics.com/press-releases">Press Releases</a></li>
-		<li><a href="http://www.homedics.com/finding-a-retailer">Find a HoMedics retailer</a></li>
+		<li><a href="/about-us/">About Us</a></li>
+		<li><a href="/careers/">Careers</a></li>
+		<!-- <li><a href="/Reviews-Yotpo">Product Reviews</a></li>-->
+		<li><a href="/press-releases/">Press Releases</a></li>
+		<li><a href="/finding-a-retailer/">Find a HoMedics retailer</a></li>
 	</ul>
 </section>
 
 <section class="footer-column no-mobile">
-	<h5>Call us, we're here to help.</h5>
-	<h6 class="tel"><a href="tel://1.800.466.3342">1.800.466.3342</a></h6>
-
-	<p>3000 N. Pontiac Trail, Commerce Township, MI 48390 USA</p>
+	<h5 class="accordion-heading">Keep in touch</h5>
+	<!-- Footer Social Media ID: hr_footer_socialmedia -->
+	<ul class="socialLinks">
+		<li class="socialLink"><a href="http://www.facebook.com/homedics" target="_blank" class="icon-facebook"></a></li>
+		<li class="socialLink"><a href="http://twitter.com/#!/homedics" target="_blank" class="icon-twitter"></a></li>
+		<li class="socialLink"><a href="http://pinterest.com/stayrelaxed/" target="_blank" class="icon-pinterest"></a></li>
+		<li class="socialLink"><a href="https://instagram.com/homedics/" target="_blank" class="icon-instagram"></a></li>
+		<li class="socialLink"><a href="http://www.youtube.com/homedicsTV" target="_blank" class="icon-youtube"></a></li>
+		<li class="socialLink"><a href="https://plus.google.com/104030711541206561993/" target="_blank" class="icon-google_plus"></a></li>
+	</ul>
+	<!-- / End Footer Social Media -->
+	<address style="text-align:center;margin-top:40px;">3000 N. Pontiac Trail<br>Commerce Township, MI 48390 USA</address>
 </section>
 
+<!--
+<section class="footer-column no-mobile">
+	<h5>Call us, we're here to help.</h5>
+	<h6 class="tel"><a href="tel://1.800.466.3342">1.800.466.3342</a></h6>
+	<p>3000 N. Pontiac Trail, Commerce Township, MI 48390 USA</p>
+</section>
+-->
 <!-- / End Footer Navigation --></nav>
         </div>
     </section>
     <section class="footer-bottom">
         <div class="footerContain">
             <aside class="postFooter">
-                <div class="copyright">© 2017 HoMedics USA LLC, All rights reserved.</div>
+                <div class="copyright">© 2018 HoMedics USA LLC, All rights reserved.</div>
                 <div class="disclaimer"><!-- Footer Disclaimer ID: hr_footer_product_disclaimer -->
 
 <section class="mobile-contact mobile-only">
@@ -689,28 +941,23 @@ for Details</u></a>-->
 	<h6 class="tel"><a href="tel://1.800.466.3342">1-800-466-3342</a></h6>
 	<p>3000 N. Pontiac Trail, Commerce Township, MI 48390 USA</p>
 	<p class="find-retailer">
-		<a href="http://www.homedics.com/finding-a-retailer/">Find a HoMedics retailer</a>
+		<a href="/finding-a-retailer/">Find a HoMedics retailer</a>
 	</p>
 </section>
 <address class="copyright mobile-only"></address>
 <p id="disclaimer">Due to continuous product improvements, the images on the website may differ slightly from the actual product that you receive.</p>
 <ul class="footer-utility-nav">
-	<li>
-		<a href="http://www.homedics.com/catalog/seo_sitemap/category/">Site Map</a>
-	</li>
-		<li>
-		<a href="http://www.homedics.com/privacy-policy/">Privacy Policy</a>
-	</li>
-		<li>
-		<a href="http://www.homedics.com/terms-of-use/">Terms Of Use</a>
-	</li>
+	<li><a href="/catalog/seo_sitemap/category/">Site Map</a></li>
+	<li><a href="/privacy-policy/">Privacy Policy</a></li>
+	<li><a href="/terms-of-use/">Terms Of Use</a></li>
 </ul>
 
 <!-- / End Footer Disclaimer --></div>
             </aside>
         </div>
     </section>
-</footer>    
+</footer>
+    
 
 
 
