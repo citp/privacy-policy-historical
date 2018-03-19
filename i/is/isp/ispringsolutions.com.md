@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913045832id_/https%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispringsolutions.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319053404id_/https%3A//www.ispringsolutions.com/company/policy/privacy.html) for the most accurate reproduction.*
 
 # iSpring Privacy Policy
 
-BY VISITING THE WEBSITE [WWW.ISPRINGSOLITIONS.COM](http://www.ispringsolutions.com/), YOU ARE CONSENTING TO OUR PRIVACY POLICY 
+BY VISITING THE WEBSITE [WWW.ISPRINGSOLUTIONS.COM](https://web.archive.org/), YOU ARE CONSENTING TO OUR PRIVACY POLICY 
 
 iSpring Solutions, Inc. respects your right to privacy and we understand that, as a visitor to our corporate website and sites of our products, you prefer to control the way you share your personal information and preferences. iSpring Solutions, Inc. provides this Privacy Policy ("Policy") to inform you of our practices about the way your information is collected online and how that information is used. 
 
