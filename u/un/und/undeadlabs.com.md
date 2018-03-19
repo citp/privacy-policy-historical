@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undeadlabs.com privacy policy that was archived on 2017-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170429131744id_/https%3A//undeadlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undeadlabs.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319072258id_/https%3A//undeadlabs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
