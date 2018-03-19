@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118063834id_/http%3A//www.budk.com/Info.aspx%3Fid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budk.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319150502id_/http%3A//www.budk.com/Info.aspx%3Fid%3D1) for the most accurate reproduction.*
 
 # Privacy
 
-Updated: September 2, 2012 
+Updated: February 21, 2018 
 
 ###  Scope of this Online Privacy Statement
 
@@ -87,6 +87,8 @@ We may share your personal information with our subsidiaries and parent and sist
 
 We work closely with certain business partners and carefully selected vendors to provide you with access to their product offerings. We may share personally identifiable information about you with these business partners or selected vendors, and they may use this information to offer you products and/or services that they believe will be of interest to you. 
 
+We may from time to time contract with third party vendors to provide ads to our customers on behalf via the Internet or to send direct mail or catalogs to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a “cookie”. A cookie is a small piece of data that is sent to your browser or mobile device by websites, mobile apps, and advertisements that you access or use. This data is stored on your browser or mobile device and helps website and mobile apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail or a catalog. If you do not wish for cookies to be placed on your computer, most web browsers permit you to prevent that from taking place. However, please keep in mind that these technologies are an important part of how the website works; removing, rejecting or limiting the use of cookies or other similar technologies might affect the availability and functionality of the website. To opt-out of receiving our direct mail or catalogs, you may send us an email at [webcs@budk.com](mailto:webcs@budk.com) or call us at 1-800-630-2835. 
+
 ### Government and Legal Disclosures
 
 We may disclose the personal information we collect through BUDK.com when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the Terms of Use or other agreements that govern your use of this site; to protect the rights, property or safety of BUDK.com, our users or others; or to protect your vital interests. 
@@ -104,4 +106,4 @@ BUDK.com has industry standard measures in place to protect the security of the 
 BUDK.com is not directed at nor targeted to children We do not use this site to knowingly solicit personal information from or market to children. If you are under 18 years of age, you should not submit any personal information to us. 
 
   
-Updated: September 2, 2012 
+Updated: February 21, 2018 
