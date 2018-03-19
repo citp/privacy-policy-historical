@@ -1,14 +1,82 @@
-> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2017-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170508115113id_/http%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319200813id_/https%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Adult Match Maker
+# Privacy | Adult Match Maker
 
-* ### Personal information
+## Introduction
 
-This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form. 
+This statement includes:
 
-* ### Kinds of personal information we collect and hold
+  * our collection statement, explaining aspects of our collection and use of personal information
+  * our privacy policy, further explaining how we manage personal information.
 
-Broadly, we may collect and hold: 
+
+
+## Collection Statement
+
+### Who we are
+
+Giga Pty Ltd ABN 68 079 638 547
+
+### Our contact details
+
+  * PO BOX 1026, North Sydney, NSW 2059
+  * Email: [support@giga.com.au](mailto:support@giga.com.au "support@giga.com.au")
+
+
+
+### Collection from third party sources
+
+We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from:
+
+  * publicly available sources
+  * other companies in our group that you may have dealt with
+  * third parties like our business partners, your authorised representative/s
+  * fraud checking agencies
+  * our websites and how you use them (through the use of cookies)
+  * various parties listed under Disclosing personal information in our Privacy Policy.
+
+
+
+### Collection under law
+
+We may be required to collect personal information in order to comply with the law.
+
+### Why we collect and hold personal information
+
+We collect and hold personal information because:
+
+  * we may need to use it to operate our business
+  * we may need it to assist to facilitate and optimise your experience of using the site.
+
+
+
+The uses and disclosures we may make of personal information are detailed in our Privacy Policy.
+
+### Unavailability of personal information
+
+If we cannot collect the information we need about you, we may not be able to supply the products or services you want.
+
+### Disclosing personal information
+
+We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities, and to other parties detailed in our Privacy Policy.
+
+### Access and correction
+
+Our privacy policy contains information about how you can access and seek correction of the personal information about you that we hold.
+
+### Complaints
+
+Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.
+
+## PRIVACY POLICY
+
+### Personal information
+
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.
+
+### Kinds of personal information we collect and hold
+
+Broadly, we may collect and hold:
 
   * personal details like date of birth, gender, photographs of you, driver's licence information, passport information (and other identification) and occupation
   * contact details like email addresses and phone numbers
@@ -18,11 +86,13 @@ Broadly, we may collect and hold:
 
 
 
-In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want, or may not be able to give you the full functionality of our services. 
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want, or may not be able to give you the full functionality of our services.
 
-* ### Collecting personal information
+### Collecting personal information
 
-Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for membership of our websites, or services on our website). In other cases, we may collect personal information about you from: 
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for membership of our websites, or services on our website).
+
+In other cases, we may collect personal information about you from:
 
   * publicly available sources
   * other companies in our group that you may have dealt with
@@ -33,22 +103,22 @@ Unless it is not reasonable or practicable to do so, and in other cases allowed 
 
 
 
-* ### Holding personal information
+### Holding personal information
 
-We hold personal information in soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorisation controls. 
+We hold personal information in soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorisation controls.
 
-* ### Why we collect and hold personal information
+### Why we collect and hold personal information
 
-We collect and hold personal information because: 
+We collect and hold personal information because:
 
   * we may need to use it to operate our business
   * we may need it to assist, facilitate and optimise your experience of using the site
 
 
 
-* ### Using personal information
+### Using personal information
 
-We may use personal information: 
+We may use personal information:
 
   * to identify you and verify your age
   * to prevent fraud
@@ -68,29 +138,28 @@ We may use personal information:
 
 
 
-* ### Disclosing personal information
+### Disclosing personal information
 
-We may disclose personal information as reasonably required: 
+We may disclose personal information as reasonably required to contractors and suppliers who supply or support us in:
 
-  * to contractors and suppliers who supply or support us in: 
-    * market research, sales and marketing
-    * direct marketing – see Direct marketing for details
-    * identity and fraud checking
-    * billing
-    * legal and regulatory advice and compliance
-    * risk management
-    * otherwise providing goods and services that we use to operate our business and provide services and support to you
-    * to your authorised representative/s
-    * if you ask us to do so
-    * to our agents, and members of our corporate group
-    * to persons who invest in or acquire all or part of our business or company, or are considering doing so
-    * to Government authorities where reasonably required by law or as otherwise permitted by the Privacy Act 1988 (Cth).
-
+  * market research, sales and marketing
+  * direct marketing – see Direct marketing for details
+  * identity and fraud checking
+  * billing
+  * legal and regulatory advice and compliance
+  * risk management
+  * otherwise providing goods and services that we use to operate our business and provide services and support to you
+  * to your authorised representative/s
+  * if you ask us to do so
+  * to our agents, and members of our corporate group
+  * to persons who invest in or acquire all or part of our business or company, or are considering doing so
+  * to Government authorities where reasonably required by law or as otherwise permitted by the Privacy Act 1988 (Cth).
 
 
-* ### Direct marketing
 
-We may use and disclose personal information to direct market to you products or services offered by us, our agents, affiliates and members of our corporate group, where we think the offers will be of interest to you, using: 
+### Direct marketing
+
+We may use and disclose personal information to direct market to you products or services offered by us, our agents, affiliates and members of our corporate group, where we think the offers will be of interest to you, using:
 
   * email
   * electronic messaging
@@ -100,15 +169,15 @@ We may use and disclose personal information to direct market to you products or
 
 
 
-Direct marketing may continue until you opt-out by using our online facility or advising our customer support to do so. 
+Direct marketing may continue until you opt-out by using our online facility or advising our customer support to do so.
 
-* ### Accessing and correcting personal information
+### Accessing and correcting personal information
 
-You may access and correct your own personal information. Please contact us for these purposes using the details in Contacting us below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access. 
+You may access and correct your own personal information. Please contact us for these purposes using the details in Contacting us below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.
 
-* ### Complaints
+### Complaints
 
-If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in Contacting us below. We shall: 
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in Contacting us below. We shall:
 
   * acknowledge your complaint within a reasonable time
   * give you an estimated first response time
@@ -117,7 +186,7 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 
 
-* ### Cookies
+### Cookies
 
   * We use cookies to collect usage and preference information on our website. We also use Google Analytics (a) Display Advertising – Remarketing; and (b) Demographics and Interest Reporting. Further information about opting out is available here: https://tools.google.com/dlpage/gaoptout. Data collected by cookies is disclosed to Google Inc who is based overseas including in the USA.
   * We use Remarketing with Google Analytics to advertise online.
@@ -127,10 +196,8 @@ If you wish to complain about a breach of the Australian Privacy Principles, ple
 
 
 
-* ### Contacting us
+### Contacting us
 
 Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by “ContactUs” page on the website or email to support@giga.com.au, or by post  
 The Privacy Officer  
-PO BOX 1026  
-North Sydney  
-NSW 2059. 
+
