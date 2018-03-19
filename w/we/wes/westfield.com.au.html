@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the westfield.com.au privacy policy that was archived on 2017-07-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170713134117id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the westfield.com.au privacy policy that was archived on 2018-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180319201955id_/https%3A//www.westfield.com.au/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="" lang="en"><!--<![endif]--><head><script src="//tags.tiqcdn.com/utag/scentregroup/wfieldau/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"4853f3fcc8",applicationID:"6848325",sa:1,agent:"js-agent.newrelic.com/nr-476.min.js"}</script>
+<!DOCTYPE html><html class="" lang="en"><!--<![endif]--><head>
 
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
@@ -76,7 +76,7 @@
 
 
   
-    <link rel="stylesheet" href="https://res.cloudinary.com/wlabs/raw/upload/v1499889630/aem_centre/style_1499889630081.css" type="text/css">
+    <link rel="stylesheet" href="https://res.cloudinary.com/scentre-group-au/raw/upload/v1506576350/aem_centre/style_1506576346387.css" type="text/css">
   
   
 
@@ -171,7 +171,7 @@
 
 
 
-  <script type="text/javascript">
+  <script src="//tags.tiqcdn.com/utag/scentregroup/wfieldau/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">
     function loadTealium(a,b,c,d) {
         a='//tags.tiqcdn.com/utag/scentregroup/wfieldau/prod/utag.js';
         b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
@@ -369,7 +369,7 @@
     baseUrl:"",
     author: false,
     country: "au",
-    urls: {"national-products-detail":"/products","national-products":"/products","national-collections":"/products/collection","national-stores-detail":"/stores","national-stores":"/stores","national-all-collections":"/products/collections"},
+    urls: {"national-stores":"/stores","national-stores-detail":"/stores","national-all-collections":"/products/collections","national-collections":"/products/collection","national-products":"/products","national-products-detail":"/products"},
     pageName: "privacy-policy",
     parentPageName: "www",
     currentPath: "/content/scentre-group/au/www/privacy-policy",
@@ -614,7 +614,7 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
             
             
               
-                
+                <div class="bonusNavigation">
 
 
 
@@ -685,7 +685,8 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
     
 
   
-</ul>
+</ul></div>
+
               
             
           
@@ -859,7 +860,7 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
   
   <div class="u-hide-from-large">
     
-      
+      <div class="bonusNavigation">
 
 
 
@@ -930,7 +931,8 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
     
 
   
-</ul>
+</ul></div>
+
     
   </div>
 
@@ -960,7 +962,7 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 
     
       <div class="l-container">
-        <div class="parbase titleBar">
+        <div class="titleBar parbase">
 
 
 
@@ -1066,7 +1068,7 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 <div class="national l-container l-container--full-bleed" data-track-location="national-featured">
   <div class="u-s-mb-large">
     
-    <div class="parbase promotionalBanner image">
+    <div class="image parbase promotionalBanner">
 
 
 
@@ -1167,7 +1169,7 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 
 
 
-<div class="text parbase section">
+<div class="parbase section text">
 
 
 
@@ -1237,24 +1239,24 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 
     
     <div class="js-additional-generic-links">
-      <h2>As at 14 March 2016</h2>
+      <h2 style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">As at 7 November 2017</h2>
 
-<h3>Scentre Group General Privacy Policy</h3>
+<h3 style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Scentre Group General Privacy Policy</h3>
 
-<p><b>Your privacy is important to Scentre Group</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Your privacy is important to Scentre Group</b></p>
 
-<p><span style="line-height: 22.4px;">Scentre Group recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. &nbsp;Our policies comply with our obligations under the Australian Privacy Principles that form part of the&nbsp;Privacy Act 1988 (Cth) (Australia) and the Information Privacy Principles that form part of the Privacy Act 1993 (New Zealand), as required, and are intended to protect your privacy in respect of any personal information that you may provide to us.&nbsp;</span></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Scentre Group recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. &nbsp;Our policies comply with our obligations under the Australian Privacy Principles that form part of the&nbsp;Privacy Act 1988 (Cth) (Australia) and the Information Privacy Principles that form part of the Privacy Act 1993 (New Zealand), as required, and are intended to protect your privacy in respect of any personal information that you may provide to us.&nbsp;</span></p>
 
-<p><span style="line-height: 22.4px;">Members of the Scentre Group, comprising Scentre Group Limited ABN 66 001 671 496, Scentre Management Limited ABN 41 001 670 579 (as responsible entity of Scentre Group Trust 1 ABN: 55 191 750 378), RE1 Limited ABN 80 145 743 862 (as responsible entity of Scentre Group Trust 2 ABN 66 744 282 872) and RE2 Limited ABN 41 145 744 065 (as responsible entity of Scentre Group Trust 3 ABN 11 517 229 138) and their respective controlled entities, and the owners of the Australian and New Zealand shopping centres managed by members of the Scentre Group (referred to in these terms and conditions as Westfield shopping centres), may collect personal and other information in the circumstances set out below, either directly or through their authorised agents and subcontractors. We refer to each of these entities in this policy as "us", "we", or "Scentre".</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Members of the Scentre Group, comprising Scentre Group Limited ABN 66 001 671 496, Scentre Management Limited ABN 41 001 670 579 (as responsible entity of Scentre Group Trust 1 ABN: 55 191 750 378), RE1 Limited ABN 80 145 743 862 (as responsible entity of Scentre Group Trust 2 ABN 66 744 282 872) and RE2 Limited ABN 41 145 744 065 (as responsible entity of Scentre Group Trust 3 ABN 11 517 229 138) and their respective controlled entities, and the owners of the Australian and New Zealand shopping centres managed by members of the Scentre Group (referred to in these terms and conditions as Westfield shopping centres), may collect personal and other information in the circumstances set out below, either directly or through their authorised agents and subcontractors. We refer to each of these entities in this policy as "us", "we", or "Scentre".</span><br>
 </p>
 
-<p><b>What personal information Scentre generally collects and why:</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>What personal information Scentre generally collects and why:</b></p>
 
-<p><b><i>Customers</i></b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b><i>Customers</i></b></p>
 
-<p><span style="line-height: 22.4px;">Scentre collects information from customers in a number of different ways. These include the following:</span></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Scentre collects information from customers in a number of different ways. These include the following:</span></p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>In connection with competitions or signing up to email or mobile newsletters (either while in one of our shopping centres ("in-centre") or online), customers provide us with their contact details. Your name and address are automatically entered into Scentre’s database when you enter competitions. &nbsp;Scentre collects these details to contact competition winners, and to inform customers about events, activities and promotions, both in centre and as part of Scentre's other activities. &nbsp;Customers have the option to opt out from receiving this information.</li>
 <li>When customers hire mobility aids or other equipment from Scentre, or apply to use certain restricted spaces at Scentre managed centres, customers provide Scentre with certain information, including contact details. Scentre collects this information to ensure that there is a record of the hirer and to enable customers to be informed about upcoming events, activities and promotions, both in centre and as part of Scentre's other activities.</li>
 <li>When customers attend Scentre-managed shopping centres and car parks under video and camera surveillance. When entering Westfield shopping centres and car parks, customers' personal information, car licence plate details and images may be collected by Scentre, and Scentre may also collect customers' personal information and images from third parties (for example, the police or retailers) in connection with the management and security of Scentre-managed shopping centres. This information may be used by Scentre in connection with the management and security of the Scentre shopping centres.&nbsp; This information may be provided to law enforcement and government bodies, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time, insurers and retailers for those purposes.</li>
@@ -1264,17 +1266,17 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 <li>Where donations are made to Scentre Charity Limited as trustee for Westfield Charities Fund by cheque, contact details of customers may be collected to verify the payer details or notify payers if the cheque is not able to be processed.</li>
 </ul>
 
-<p>In addition to the purposes set out above, this information may be used by Scentre in connection with the management and security of the Westfield shopping centres generally, to obtain feedback about a customer’s experiences at a centre (including with our retailers), and may be provided to law enforcement and government bodies, insurers, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time and retailers for these purposes.&nbsp;</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">In addition to the purposes set out above, this information may be used by Scentre in connection with the management and security of the Westfield shopping centres generally, to obtain feedback about a customer’s experiences at a centre (including with our retailers), and may be provided to law enforcement and government bodies, insurers, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time and retailers for these purposes.&nbsp;</p>
 
-<p>Where you provide information to us in different ways, or we hold information about you Scentre may connect information provided to us for one purpose, with other information for use for one or more of the above purposes.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Where you provide information to us in different ways, or we hold information about you Scentre may connect information provided to us for one purpose, with other information for use for one or more of the above purposes.</p>
 
-<p>Additionally, Scentre also conducts certain online activities through the Scentre websites, and associated sites managed by members of the Scentre Group or their subcontractors. The collection of personal information through these activities and information associated with these websites is dealt with in the Scentre Online Privacy Policy, which can be found below.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Additionally, Scentre also conducts certain online activities through the Scentre websites, and associated sites managed by members of the Scentre Group or their subcontractors. The collection of personal information through these activities and information associated with these websites is dealt with in the Scentre Online Privacy Policy, which can be found below.</p>
 
-<p><b><i>Retailers</i></b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b><i>Retailers</i></b></p>
 
-<p>Scentre may collect the following types of personal information from unincorporated retailers, guarantors and other individuals related to retailers during negotiations for, and during the term of, the lease/licence for premises, kiosks and other activations at Westfield shopping centres:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Scentre may collect the following types of personal information from unincorporated retailers, guarantors and other individuals related to retailers during negotiations for, and during the term of, the lease/licence for premises, kiosks and other activations at Westfield shopping centres:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li><span style="line-height: 22.4px;">name, address and date of birth;</span></li>
 <li>contact and insurance details;</li>
 <li>ABNs;</li>
@@ -1282,50 +1284,50 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 <li>other financial and trading information.</li>
 </ul>
 
-<p><span style="line-height: 22.4px;">Scentre requires this information to evaluate whether the relevant centre owner should enter into a lease, licence or other agreement with a retailer; to assist Scentre in the preparation of that document; to manage Scentre’s relationship with retailers; in connection with the management and security of the Westfield shopping centres; and in order to monitor the performance of the shopping centre. Occasionally, the information may also be made available to others in connection with these activities, in order for those people to provide services to Scentre or as required by law, as well as to third parties in connection with any transactions involving the ownership of the centre.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Scentre requires this information to evaluate whether the relevant centre owner should enter into a lease, licence or other agreement with a retailer; to assist Scentre in the preparation of that document; to manage Scentre’s relationship with retailers; in connection with the management and security of the Westfield shopping centres; and in order to monitor the performance of the shopping centre. Occasionally, the information may also be made available to others in connection with these activities, in order for those people to provide services to Scentre or as required by law, as well as to third parties in connection with any transactions involving the ownership of the centre.</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">If the retailer provides Scentre with direct debit or direct credit details, Scentre will only disclose those details to Scentre's bank to facilitate the provision of that service.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">If the retailer provides Scentre with direct debit or direct credit details, Scentre will only disclose those details to Scentre's bank to facilitate the provision of that service.</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">Additionally, as noted above, Westfield shopping centres are under video and camera surveillance. When entering Westfield shopping centres, the personal information and images of retailers and their staff may be collected by Scentre. This information may be used by Scentre in connection with the management and security of the Westfield shopping centres and may be provided to law enforcement and government bodies, insurers, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time and other retailers for those purposes.&nbsp; This information is held securely and in a format which is access controlled, unless it is necessary to use this information for these purposes.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Additionally, as noted above, Westfield shopping centres are under video and camera surveillance. When entering Westfield shopping centres, the personal information and images of retailers and their staff may be collected by Scentre. This information may be used by Scentre in connection with the management and security of the Westfield shopping centres and may be provided to law enforcement and government bodies, insurers, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time and other retailers for those purposes.&nbsp; This information is held securely and in a format which is access controlled, unless it is necessary to use this information for these purposes.</span><br>
 </p>
 
-<p><b style="line-height: 22.4px;"><i>Securityholders</i></b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;"><i>Securityholders</i></b><br>
 </p>
 
-<p>Scentre maintains securityholder registers through an external service provider, currently Computershare Investor Services Pty Limited. &nbsp;Scentre requires Computershare to comply with the requirements of the Privacy Act 1988 (Cth) in Australia or the Privacy Act 1993 in New Zealand when performing these services.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Scentre maintains securityholder registers through an external service provider, currently Computershare Investor Services Pty Limited. &nbsp;Scentre requires Computershare to comply with the requirements of the Privacy Act 1988 (Cth) in Australia or the Privacy Act 1993 in New Zealand when performing these services.</p>
 
-<p><span style="line-height: 22.4px;">Personal information collected from securityholders (being members of the Scentre Group (ASX code: SCG) and Carindale Property Trust (ASX code: CPD) includes: contact, bank account and securityholding details and tax file numbers.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Personal information collected from securityholders (being members of the Scentre Group (ASX code: SCG) and Carindale Property Trust (ASX code: CPD) includes: contact, bank account and securityholding details and tax file numbers.</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">This information is used to carry out registry functions such as payment of distributions, sending annual and half yearly reports, notices of meetings or newsletters and notifications to the Australian Tax Office or New Zealand Inland Revenue Department (where necessary).&nbsp; More information on Computershare’s privacy policy can be found at </span><a style="line-height: 22.4px;background-color: rgb(247,247,247);" href="http://www.computershare.com/au/help/Pages/privacy-policies.aspx">www.computershare.com/au/help/Pages/privacy-policies.aspx</a><span style="line-height: 22.4px;">.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">This information is used to carry out registry functions such as payment of distributions, sending annual and half yearly reports, notices of meetings or newsletters and notifications to the Australian Tax Office or New Zealand Inland Revenue Department (where necessary).&nbsp; More information on Computershare’s privacy policy can be found at </span><a style="line-height: 22.4px;background-color: rgb(247,247,247);" href="http://www.computershare.com/au/help/Pages/privacy-policies.aspx">www.computershare.com/au/help/Pages/privacy-policies.aspx</a><span style="line-height: 22.4px;">.</span><br>
 </p>
 
-<p>In addition, contact information may be used from time to time to inform securityholders of new initiatives concerning Scentre Group.&nbsp;</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">In addition, contact information may be used from time to time to inform securityholders of new initiatives concerning Scentre Group.&nbsp;</p>
 
-<p><b><i>Suppliers</i></b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b><i>Suppliers</i></b></p>
 
-<p>If you, or a company you work for, supplies goods or services to Scentre, Scentre may collect personal information about you in connection with the provision of those goods or services, either directly from you or from that company.&nbsp; This information may include your name, date of birth, contact information, and any other information you provide, or provided on your behalf, as part of our induction and compliance processes.&nbsp; This information will be used for the purposes of managing the provision of those good or services.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">If you, or a company you work for, supplies goods or services to Scentre, Scentre may collect personal information about you in connection with the provision of those goods or services, either directly from you or from that company.&nbsp; This information may include your name, date of birth, contact information, and any other information you provide, or provided on your behalf, as part of our induction and compliance processes.&nbsp; This information will be used for the purposes of managing the provision of those good or services.</p>
 
-<p><b style="line-height: 22.4px;"><i>Employees or potential employees</i></b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;"><i>Employees or potential employees</i></b><br>
 </p>
 
-<p>If you are employed by a member of the Scentre Group, or are seeking employment with a member of the Scentre Group, Scentre may collection personal information about you in connection with your employment.&nbsp; This information may include your name, date of birth, contact information, and any other information you provide, or provided on your behalf, as part of our induction and compliance processes.&nbsp; This information will be used for the purposes of our recruitment process and, if successful, managing your employment, in accordance with the requirements of the Privacy Act 1988 (Cth) in Australia or the Privacy Act 1993 in New Zealand.&nbsp; You need to ensure this information is up to date, in accordance with Scentre’s policies and procedures.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">If you are employed by a member of the Scentre Group, or are seeking employment with a member of the Scentre Group, Scentre may collection personal information about you in connection with your employment.&nbsp; This information may include your name, date of birth, contact information, and any other information you provide, or provided on your behalf, as part of our induction and compliance processes.&nbsp; This information will be used for the purposes of our recruitment process and, if successful, managing your employment, in accordance with the requirements of the Privacy Act 1988 (Cth) in Australia or the Privacy Act 1993 in New Zealand.&nbsp; You need to ensure this information is up to date, in accordance with Scentre’s policies and procedures.</p>
 
-<p><b style="line-height: 22.4px;"><i>Unsolicited Information</i></b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;"><i>Unsolicited Information</i></b><br>
 </p>
 
-<p>If we receive personal information about you that we did not ask for either directly from you, from someone on your behalf, or through someone on our behalf, and we determine that we could have collected this information from you had we asked for it, we will take reasonable steps to notify you, as soon as practicable, that we have collected your personal information.&nbsp; If we could not have collected this personal information from you (or if you do not agree to us collecting information in this way), we will lawfully de-identify or destroy that personal information.&nbsp; Any unsolicited information provided by you, someone on your behalf or someone on our behalf, will be used for the purposes for which it was provided.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">If we receive personal information about you that we did not ask for either directly from you, from someone on your behalf, or through someone on our behalf, and we determine that we could have collected this information from you had we asked for it, we will take reasonable steps to notify you, as soon as practicable, that we have collected your personal information.&nbsp; If we could not have collected this personal information from you (or if you do not agree to us collecting information in this way), we will lawfully de-identify or destroy that personal information.&nbsp; Any unsolicited information provided by you, someone on your behalf or someone on our behalf, will be used for the purposes for which it was provided.</p>
 
-<p><b style="line-height: 22.4px;">Other information we collect</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Other information we collect</b><br>
 </p>
 
-<p>We may also collect the following information from you:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We may also collect the following information from you:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>where devices are enabled to connect to, or are identifiable by, in-centre infrastructure (for example, in-Centre WiFi networks or blue tooth transmitter (beacon) infrastructure), we and our third party providers may automatically collect data from those devices including usage, type of device and location and proximity of your wireless device in-Centre, centre arrival and departure time, and other data which users consent to us collecting from time to time;</li>
-<li>audience measurement information which may be collected passively using various technologies that identify the demographic, age group and gender of shoppers;</li>
+<li>audience measurement information collected passively using in centre technologies such as SmartScreen Advertising Units which utilise image processing software to aggregate data such as shopper numbers and demographics. These technologies do not identify individual shoppers, or record or retain images of individual shoppers;</li>
 <li>the fully qualified domain name from which you accessed our websites, or alternatively, your IP address;</li>
 <li>device ID number (MAC address);</li>
 <li>the date and time you accessed each page on our websites;</li>
@@ -1335,70 +1337,69 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 <li>the web browser that you are using and the pages you accessed.</li>
 </ul>
 
-<p><span style="line-height: 22.4px;">We are collecting this information (and may use or hold this information) for the following purposes:</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">We are collecting this information (and may use or hold this information) for the following purposes:</span><br>
 </p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>so that we can tell which web pages are the most popular and where shoppers spend most of their time;</li>
 <li>to improve our website or in-Centre experience;</li>
 <li>for the purposes of and incidental to your use of in-Centre Wi-Fi services (if applicable);</li>
-<li>to measure and analyse shopping behaviour in order to improve our centres and otherwise in connection with our business;</li>
+<li>to measure shopper numbers, characteristics and demographics and analyse shopper behaviour in order to continously improve our centres and for use otherwise in connection with our business;</li>
 <li>to send to you special deals and discounts, surveys and other marketing materials based on your location or known web usage;</li>
 <li>for other purposes to which you, either expressly or impliedly, consent to, and for the purposes set out in these terms and conditions, we may provide this information to Scentre Group’s agents, contractors, service providers, joint venture and commercial partners and regulatory authorities, and may transfer your personal information to others in countries outside Australia and New Zealand (including to those that operate our cloud servers outside of Australia and New Zealand).</li>
 </ul>
 
-<p>Scentre Group may use the anonymised data for the purposes set out above and to inform our promotional and marketing strategies, as well as research and profiling purposes including customer demographics, interests and behaviours based on personal information and other information provided to us.&nbsp; This research may be compiled and analysed on an aggregate basis, and we may share this aggregate data with our affiliates, agents and business partners. This aggregate information does not identify you personally. We may also disclose aggregated information in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Scentre Group may use the anonymised data for the purposes set out above and to inform our promotional and marketing strategies, as well as research and profiling purposes including customer demographics, interests and behaviours based on personal information and other information provided to us.&nbsp; This research may be compiled and analysed on an aggregate basis, and we may share this aggregate data with our affiliates, agents and business partners. This aggregate information does not identify you personally. We may also disclose aggregated information in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.</p>
 
-<p>Scentre Group may connect information you provide to us for one purpose with other information for use for one or more of the above purposes.&nbsp; If you access or log-in to an in-Centre Wi-Fi service, and we already hold other information (both personal or non-personal) that can be associated to you or the device on which you are accessing the Wi-Fi service (including, but not limited to a device ID number (MAC address)), then that information may be linked with personal information we hold about you as set out in this policy, and will be treated in the same manner as the personal information to which it has been linked.&nbsp;</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Scentre Group may connect information you provide to us for one purpose with other information for use for one or more of the above purposes.&nbsp; If you access or log-in to an in-Centre Wi-Fi service, and we already hold other information (both personal or non-personal) that can be associated to you or the device on which you are accessing the Wi-Fi service (including, but not limited to a device ID number (MAC address)), then that information may be linked with personal information we hold about you as set out in this policy, and will be treated in the same manner as the personal information to which it has been linked.&nbsp;</p>
 
-<p><b>Who collects the information</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Who collects the information</b></p>
 
-<p>Personal information collected about individuals (as described above) may be collected by, or on behalf of:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Personal information collected about individuals (as described above) may be collected by, or on behalf of:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>members of the Scentre Group; and</li>
 <li><span style="line-height: 22.4px;">the owners of Westfield shopping centres in Australia and New Zealand.</span><br>
 </li>
 </ul>
 
-<p>Information may also be collected by Scentre on behalf of other people as set out in notices given to individuals, or consents given by individuals, at or prior to the time the personal information is collected.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Information may also be collected by Scentre on behalf of other people as set out in notices given to individuals, or consents given by individuals, at or prior to the time the personal information is collected.</p>
 
-<p><b style="line-height: 22.4px;">How your personal information is stored and kept secure</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">How your personal information is stored and kept secure</b><br>
 </p>
 
-<p>All personal information collected by Scentre is held securely, whether on Scentre's physical files, in Scentre's computer systems or in a database (which may be hosted by Scentre or a third party on Scentre’s behalf). This information is only made available to Scentre staff on a 'need to know' basis and for the purposes outlined above or to other people as outlined in this policy who have agreed to treat that information confidentially. These databases are protected by a firewall as well as host-based security. Your personal information may be transmitted over the Internet once it has been stored in a database and may also be transferred across borders to recipients in foreign countries other than Australia and New Zealand, including the United States of America and United Kingdom, and may be stored on servers, using databases or via cloud technology in a number of countries other than Australia and New Zealand, including regions such as the Americas, the European Union and Asia, where doing so is part of Scentre’s ordinary business practices relating to the storage of data and where permitted by law.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">All personal information collected by Scentre is held securely, whether on Scentre's physical files, in Scentre's computer systems or in a database (which may be hosted by Scentre or a third party on Scentre’s behalf). This information is only made available to Scentre staff on a 'need to know' basis and for the purposes outlined above or to other people as outlined in this policy who have agreed to treat that information confidentially. These databases are protected by a firewall as well as host-based security. Your personal information may be transmitted over the Internet once it has been stored in a database and may also be transferred across borders to recipients in foreign countries other than Australia and New Zealand, including the United States of America and United Kingdom, and may be stored on servers, using databases or via cloud technology in a number of countries other than Australia and New Zealand, including regions such as the Americas, the European Union and Asia, where doing so is part of Scentre’s ordinary business practices relating to the storage of data and where permitted by law.</p>
 
-<p><span style="line-height: 22.4px;">If Scentre ever has a requirement to transmit such data over the Internet (for example, to make an off-site back up) it will be in encrypted form.&nbsp; By providing us with your personal information, you consent to these transfers.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">If Scentre ever has a requirement to transmit such data over the Internet (for example, to make an off-site back up) it will be in encrypted form.&nbsp; By providing us with your personal information, you consent to these transfers.</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">Securityholder information is held by the registry in accordance with registry arrangements which require such information to be held securely.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">Securityholder information is held by the registry in accordance with registry arrangements which require such information to be held securely.</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">We will use all reasonable endeavours to keep your personal information in a secure environment, however, this security cannot be guaranteed due to the nature of the Internet.&nbsp; These measures are designed to assist in your personal information not being accessed by unauthorised personnel, lost or misused.&nbsp; If you reasonably believe that there has been unauthorised use or disclosure of your personal information please contact us (see below).</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">We will use all reasonable endeavours to keep your personal information in a secure environment, however, this security cannot be guaranteed due to the nature of the Internet.&nbsp; These measures are designed to assist in your personal information not being accessed by unauthorised personnel, lost or misused.&nbsp; If you reasonably believe that there has been unauthorised use or disclosure of your personal information please contact us (see below).</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">All reasonable steps are taken by us to ensure that your personal information held by us is accurate, complete and up to date.&nbsp; If you believe that any of your personal information is inaccurate, please contact us (see below) and we will take all reasonable steps to correct it within a reasonable timeframe.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">All reasonable steps are taken by us to ensure that your personal information held by us is accurate, complete and up to date.&nbsp; If you believe that any of your personal information is inaccurate, please contact us (see below) and we will take all reasonable steps to correct it within a reasonable timeframe.</span><br>
 </p>
 
-<p><span style="line-height: 22.4px;">The electronic environments are monitored by Scentre Group and third party specialist security monitoring companies.&nbsp; Scentre Group reviews its security arrangements regularly, and implements improvements when necessary.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">The electronic environments are monitored by Scentre Group and third party specialist security monitoring companies.&nbsp; Scentre Group reviews its security arrangements regularly, and implements improvements when necessary.</span><br>
 </p>
 
-<p><b style="line-height: 22.4px;">Disclosing your personal information</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Disclosing your personal information</b><br>
 </p>
 
-<p>We understand how important it is to keep your personal information private, so we will disclose personal information we have about you only in certain specific circumstances, when:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We understand how important it is to keep your personal information private, so we will disclose personal information we have about you only in certain specific circumstances, when:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>you agree to the disclosure; or</li>
 <li>we use it for the purposes we collected it; or</li>
 <li>disclosure is required or authorised by law.</li>
 </ul>
 
-<p><span style="line-height: 22.4px;">To the extent permitted by law, we may also disclose information about you to:</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">To the extent permitted by law, we may also disclose information about you to:</span><br>
 </p>
 
-
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>related companies for marketing purposes;</li>
 <li>the owners of the shopping centres managed by members of the Scentre Group from time to time;</li>
 <li>third parties who provide services to Scentre from time to time;</li>
@@ -1406,37 +1407,37 @@ h3.305c1.312,0,3.512,0.369,3.512,2.89c0,1.724-1.379,2.838-3.512,2.838h-3.305V18.
 </li>
 </ul>
 
-<p><span style="line-height: 22.4px;">or as otherwise permitted by law.</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">or as otherwise permitted by law.</span><br>
 </p>
 
-<p><b style="line-height: 22.4px;">Right of access to and correction of your information</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Right of access to and correction of your information</b><br>
 </p>
 
-<p>You have rights to access, update and correct your personal information held by us. &nbsp;We will take reasonable steps to ensure that personal information is up-to-date, accurate and complete.&nbsp;<b></b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">You have rights to access, update and correct your personal information held by us. &nbsp;We will take reasonable steps to ensure that personal information is up-to-date, accurate and complete.&nbsp;<b></b></p>
 
-<p>If you wish to access, update or correct your personal information held by us, please contact our Privacy Officer, whose details appear below, or your relevant shopping centre manager.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">If you wish to access, update or correct your personal information held by us, please contact our Privacy Officer, whose details appear below, or your relevant shopping centre manager.</p>
 
-<p><b>How long do we hold your information?<br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>How long do we hold your information?<br>
  </b>We will keep your personal information for only as long as is necessary to achieve the purpose for which we collected it.&nbsp;</p>
 
-<h3><br>
+<h3 style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><br>
 Scentre Online Privacy Policy</h3>
 
-<p><b style="line-height: 22.4px;">What information we collect and why</b><b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">What information we collect and why</b><b><br>
 </b></p>
 
-<p>When you become a registered user of westfield.com.au, &nbsp;<a href="http://www.scentregroup.com/">www.scentregroup.com</a>, <a href="http://www.westfield.co.nz/">www.westfield.co.nz</a>, <a href="http://www.caseycentral.com.au/">www.caseycentral.com.au</a> or any associated site (<b>Site</b>), including when you use services offered by a Site, subscribe to Scentre's Email Newsletters service or shop with Participating Retailers, we may ask for information including:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">When you become a registered user of westfield.com.au, &nbsp;<a href="http://www.scentregroup.com/">www.scentregroup.com</a>, <a href="http://www.westfield.co.nz/">www.westfield.co.nz</a>&nbsp;or any associated site (<b>Site</b>), including when you use services offered by a Site, subscribe to Scentre's Email Newsletters service or shop with Participating Retailers, we may ask for information including:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>your name;</li>
 <li>your email address; and</li>
 <li>in certain circumstances, your telephone number, address or credit card details.</li>
 </ul>
 
-<p><span style="line-height: 22.4px;">On the Site we invite you to:</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">On the Site we invite you to:</span><br>
 </p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>view products from Participating Retailers;</li>
 <li>shop with Participating Retailers;</li>
 <li>set up a membership of the Site;</li>
@@ -1447,17 +1448,17 @@ Scentre Online Privacy Policy</h3>
 <li>tell us about any other matter by contacting us directly.</li>
 </ul>
 
-<p>We collect this information in order to facilitate your access to the Site and the functionality provided by the Site. If you do not provide us with this information, we may not be able to provide you with access to all or part of the Site or functionality offered through the Site. In addition to the purposes set out above, this information may be used by Scentre in connection with the management and security of the Westfield shopping centres and the operation of the Site generally, and may be provided to law enforcement and government bodies, insurers, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time and retailers for these purposes. If you submit your resume to us, we will keep it in a database for consideration of particular jobs that arise within Scentre.&nbsp; We also use this information to send to you special deals and discounts, surveys and other marketing materials based on your location or known web usage.&nbsp;</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We collect this information in order to facilitate your access to the Site and the functionality provided by the Site. If you do not provide us with this information, we may not be able to provide you with access to all or part of the Site or functionality offered through the Site. In addition to the purposes set out above, this information may be used by Scentre in connection with the management and security of the Westfield shopping centres and the operation of the Site generally, and may be provided to law enforcement and government bodies, insurers, Scentre staff and subcontractors, third parties who provide Scentre with services from time to time and retailers for these purposes. If you submit your resume to us, we will keep it in a database for consideration of particular jobs that arise within Scentre.&nbsp; We also use this information to send to you special deals and discounts, surveys and other marketing materials based on your location or known web usage.&nbsp;</p>
 
-<p>The Customer Service Survey that you complete will be used to help us improve our services at Westfield shopping centres, or to improve our Site.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">The Customer Service Survey that you complete will be used to help us improve our services at Westfield shopping centres, or to improve our Site.</p>
 
-<p>We update the information we hold about you, for example, your resume, when you provide or we receive new information about you. We may connect information, including personal information with other information for use for one or more of the above purposes.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We update the information we hold about you, for example, your resume, when you provide or we receive new information about you. We may connect information, including personal information with other information for use for one or more of the above purposes.</p>
 
-<p><b>Other information we collect</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Other information we collect</b></p>
 
-<p>We may also collect the following information during your visit to the Site and to the websites of Participating Retailers:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We may also collect the following information during your visit to the Site and to the websites of Participating Retailers:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>the fully qualified domain name from which you accessed our Site, or alternatively, your IP address;</li>
 <li>the date and time you accessed each page on our Site;</li>
 <li>the URL of any webpage from which you accessed our Site (the referrer);</li>
@@ -1466,57 +1467,57 @@ Scentre Online Privacy Policy</h3>
 <li>detail of the purchases you make on the websites of Participating Retailers.</li>
 </ul>
 
-<p>We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site. We may connect information you provide to us for one purpose, with other information for use for one or more of the above purposes. If this information is linked with personal information we hold about you as set out above, this information becomes personal information and will be treated in the same manner as the personal information to which it has been linked.&nbsp;<b></b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We use this information so that we can tell which pages are the most popular and where shoppers spend most of their time. We use this information to improve our site. We may connect information you provide to us for one purpose, with other information for use for one or more of the above purposes. If this information is linked with personal information we hold about you as set out above, this information becomes personal information and will be treated in the same manner as the personal information to which it has been linked.&nbsp;<b></b></p>
 
-<p><b>How your information is stored</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>How your information is stored</b></p>
 
-<p>Information held about you (for example, your E-mail Newsletter subscriptions) is held in a database. The database is protected by a firewall as well as host-based security. Your personal data may be transmitted over the Internet once it has been stored in the database and may also be transferred across borders to foreign countries, where doing so is part of Scentre’s business practices relating to the storage of data and where permitted by law. If Scentre ever has a requirement to transmit the data over the Internet (for example, to transmit your purchase through a payment gateway or to make an off-site back up) it will be in encrypted form. If you provide us with additional information to verify&nbsp;your identity, we will destroy the copies of the documents you provide to us after we have successfully verified your identity.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Information held about you (for example, your E-mail Newsletter subscriptions) is held in a database. The database is protected by a firewall as well as host-based security. Your personal data may be transmitted over the Internet once it has been stored in the database and may also be transferred across borders to foreign countries, where doing so is part of Scentre’s business practices relating to the storage of data and where permitted by law. If Scentre ever has a requirement to transmit the data over the Internet (for example, to transmit your purchase through a payment gateway or to make an off-site back up) it will be in encrypted form. If you provide us with additional information to verify&nbsp;your identity, we will destroy the copies of the documents you provide to us after we have successfully verified your identity.</p>
 
-<p><b style="line-height: 22.4px;">How you can unsubscribe from the Email Newsletters service</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">How you can unsubscribe from the Email Newsletters service</b><br>
 </p>
 
-<p>You can choose to unsubscribe from our email newsletters either by clicking the “unsubscribe” link at the bottom of any email newsletter you receive or by going to:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">You can choose to unsubscribe from our email newsletters either by clicking the “unsubscribe” link at the bottom of any email newsletter you receive or by going to:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li><a href="http://www.westfield.com.au/unsubscribe">www.westfield.com.au/unsubscribe</a> for our Westfield Australia shopping centres’ database; or</li>
 <li><a href="http://www.westfield.co.nz/unsubscribe">www.westfield.co.nz/unsubscribe</a> for our Westfield New Zealand shopping centres’ database</li>
 </ul>
 
-<p>There is no fee for this access.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">There is no fee for this access.</p>
 
-<p><b style="line-height: 22.4px;">Advertisers and Partners on Scentre Group Websites</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Advertisers and Partners on Scentre Group Websites</b><br>
 </p>
 
-<p>Scentre may allow advertising on its Site from time to time. Once you have clicked on an advertisement and have left the Site, our privacy policy no longer applies. You must read the privacy policy of the advertiser or subsequently visited site to see how your personal information will be handled on those sites. In addition, many business advertisements may be managed and placed on our Site by third-party companies. These "network advertisers" collect non-personal information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realise it is being collected. The network advertisers collect this information so that they may show you ads that are more relevant or interesting to you.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Scentre may allow advertising on its Site from time to time. Once you have clicked on an advertisement and have left the Site, our privacy policy no longer applies. You must read the privacy policy of the advertiser or subsequently visited site to see how your personal information will be handled on those sites. In addition, many business advertisements may be managed and placed on our Site by third-party companies. These "network advertisers" collect non-personal information when you click on or scan one of their banner advertisements. The information is collected using technology, so you may not realise it is being collected. The network advertisers collect this information so that they may show you ads that are more relevant or interesting to you.</p>
 
-<p>On occasion the Site may also provide content that is created by a third-party partner website. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances, the information collected is shared between Scentre and our third-party sponsors.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">On occasion the Site may also provide content that is created by a third-party partner website. In some instances the third-party sites will collect information in order to facilitate the transaction or to make the use of their content more productive and efficient. In these circumstances, the information collected is shared between Scentre and our third-party sponsors.</p>
 
-<p><b>Disclosing your information</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Disclosing your information</b></p>
 
-<p>We understand how important it is to keep your personal information private, so we will disclose personal information we have about you only in certain specific circumstances, when:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We understand how important it is to keep your personal information private, so we will disclose personal information we have about you only in certain specific circumstances, when:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>you agree to the disclosure;</li>
 <li>we use it for the purposes we collected it; or</li>
 <li>disclosure is required or authorised by law.</li>
 </ul>
 
-<p><span style="line-height: 22.4px;">We may also disclose information about you to:</span><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">We may also disclose information about you to:</span><br>
 </p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>related companies for marketing purposes;</li>
 <li>the owners of the shopping centres managed by members of the Scentre Group from time to time; where you place an order to purchase goods or services from Participating Retailers, to Participating Retailers or their agents (such as financial institutions or our courier companies);</li>
 <li>third parties who provide services to Scentre from time to time, including marketing, recruiting and survey services; and</li>
 <li>law enforcement and government agencies as required from time to time.</li>
 </ul>
 
-<p><b style="line-height: 22.4px;">Junk mail or unsolicited email</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Junk mail or unsolicited email</b><br>
 </p>
 
-<p>You will only receive emails from Scentre if:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">You will only receive emails from Scentre if:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li><b>You subscribe to our Email Newsletters service.</b>&nbsp;Our Email Newsletters will keep you informed of the latest offers, current promotions and specials at the centre(s) of your choice and also Media Releases, Annual Reports and Financial Reports from the Scentre Corporate site. If you no longer wish to receive Email Newsletters, you may unsubscribe either by clicking the “unsubscribe” link at the bottom of any email newsletter you receive or by going to the relevant unsubscribe link set out above;</li>
 <li><b>A friend nominates you to receive a page from the Westfield Site.</b>&nbsp;The email will be sent to you on behalf of your friend. You will not receive subsequent e-mails from us, because Scentre will not record your e-mail address;</li>
 <li><b>You request information about our services when you choose to contact us.</b>&nbsp;You will not be added to a mailing list of any kind and will only receive e-mail in the matter that you have contacted us about;</li>
@@ -1524,83 +1525,80 @@ Scentre Online Privacy Policy</h3>
 <li>They are otherwise relevant to the reasons for which we hold your email address, where we are permitted to do so by law.</li>
 </ul>
 
-<p><b style="line-height: 22.4px;">What is a cookie and what are they used for?</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">What is a cookie and what are they used for?</b><br>
 </p>
 
-<p>A cookie is a text file placed into the memory of your computer by our computers. A copy of this text file is sent by your computer whenever it communicates with westfield.com.au or westfield.co.nz (as applicable). Scentre uses cookies to identify you between multiple visits, to better understand how westfield.com.au or westfield.co.nz is used, and to provide you information which may be of interest to you based on your previous visits to westfield.com.au or westfield.co.nz and to&nbsp;provide targeted advertising to you (including through adservers and other third party advertisers) when you visit westfield.com.au or westfield.co.nz and certain other websites where advertising is found from time to time. We may provide the information we gather from cookies to third parties for these purposes and for other purposes connected with westfield.com.au. If cookie information is linked with personal information we hold about you as set out above, this cookie information becomes personal information and will be treated in the same manner as the personal information to which it has been linked.&nbsp; If you do not want adservers or other third party advertisers to use cookies to provide you with targeted advertising, we suggest you use an opt out mechanism which can be found on:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">A cookie is a text file placed into the memory of your computer by our computers. A copy of this text file is sent by your computer whenever it communicates with westfield.com.au or westfield.co.nz (as applicable). Scentre uses cookies to identify you between multiple visits, to better understand how westfield.com.au or westfield.co.nz is used, and to provide you information which may be of interest to you based on your previous visits to westfield.com.au or westfield.co.nz and to&nbsp;provide targeted advertising to you (including through adservers and other third party advertisers) when you visit westfield.com.au or westfield.co.nz and certain other websites where advertising is found from time to time. We may provide the information we gather from cookies to third parties for these purposes and for other purposes connected with westfield.com.au. If cookie information is linked with personal information we hold about you as set out above, this cookie information becomes personal information and will be treated in the same manner as the personal information to which it has been linked.&nbsp; If you do not want adservers or other third party advertisers to use cookies to provide you with targeted advertising, we suggest you use an opt out mechanism which can be found on:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>the Network Advertising Initiative opt-out provided; through<a href="http://www.networkadvertising.org/choices/DAA">http://www.networkadvertising.org/choices/DAA</a>;</li>
 <li>the Digital Advertising Alliance opt-out provided ;through&nbsp;<a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>; or</li>
 <li>the Interactive Advertising Bureau (EU) opt-out provided through<a href="http://www.youronlinechoices.eu/">http://www.youronlinechoices.eu</a>.</li>
 </ul>
 
-<p>You do not have to accept cookies and you can set up your browser to notify you when you receive cookies. This will give you the opportunity to decide whether or not to accept the cookies. If you choose to disable cookies, you may not be able to access certain features of the website.</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">You do not have to accept cookies and you can set up your browser to notify you when you receive cookies. This will give you the opportunity to decide whether or not to accept the cookies. If you choose to disable cookies, you may not be able to access certain features of the website.</p>
 
-<h3><br>
+<h3 style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><br>
 General</h3>
 
-<p><b>Tips on sending us information</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Tips on sending us information</b></p>
 
-<p>While we do all we can to guard your privacy, no data transfer over the Internet is 100% secure. When you share your information with us, it is at your own risk. There are ways you can help maintain the secrecy of your information:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">While we do all we can to guard your privacy, no data transfer over the Internet is 100% secure. When you share your information with us, it is at your own risk. There are ways you can help maintain the secrecy of your information:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>always close your browser when you have finished your user session; and</li>
 <li>ensure others cannot access your personal information and emails if you use a public computer.</li>
 </ul>
 
-<p><b style="line-height: 22.4px;">If something goes wrong</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">If something goes wrong</b><br>
 </p>
 
-<p>Please contact us by email or by phone, if you believe:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Please contact us by email or by phone, if you believe:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>someone has gained access to your personal information by mistake;</li>
 <li>we have breached our privacy obligations or your privacy rights in any way; or</li>
 <li>you would like to discuss any issues about our privacy policy.</li>
 </ul>
 
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email to&nbsp;<a href="mailto:privacy@scentregroup.com">privacy@scentregroup.com</a>, or phoning +61 2 9358 7000 (Australia) or +64 9 978 5050 (New Zealand).&nbsp;<b></b></p>
 
-<p>We will try to satisfy any privacy questions that you have and correct any errors on our part. If you still have concerns please contact our Privacy Officer by email to&nbsp;<a href="mailto:privacy@scentregroup.com">privacy@scentregroup.com</a>, or phoning +61 2 9358 7000 (Australia) or +64 9 978 5050 (New Zealand).&nbsp;<b></b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Changes to our privacy policy</b></p>
 
-<p><b>Changes to our privacy policy</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. &nbsp;We will notify you of any changes by publishing the latest policy from time to time at www.westfield.com.au/privacy-policy and at&nbsp;<a href="http://www.westfield.co.nz/">www.westfield.co.nz</a>.</p>
 
-
-<p>This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. &nbsp;We will notify you of any changes by publishing the latest policy from time to time at www.westfield.com.au/privacy-policy and at&nbsp;<a href="http://www.westfield.co.nz/">www.westfield.co.nz</a>.</p>
-
-<p><b style="line-height: 22.4px;">Further information regarding Privacy Legislation</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Further information regarding Privacy Legislation</b><br>
 </p>
 
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">If you would like further information relating to the Australian Privacy Legislation and the Australian Privacy Principles, please visit&nbsp;<u><a href="http://www.privacy.gov.au/">www.privacy.gov.au</a></u></p>
 
-<p>If you would like further information relating to the Australian Privacy Legislation and the Australian Privacy Principles, please visit&nbsp;<u><a href="http://www.privacy.gov.au/">www.privacy.gov.au</a></u></p>
-
-<p><span style="line-height: 22.4px;">If you would like further information relating to the New Zealand Privacy Legislation and the Information Privacy Principles, please visit&nbsp;</span><a style="line-height: 22.4px;background-color: rgb(247,247,247);" href="http://privacy.org.nz/">http://privacy.org.nz/</a><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><span style="line-height: 22.4px;">If you would like further information relating to the New Zealand Privacy Legislation and the Information Privacy Principles, please visit&nbsp;</span><a style="line-height: 22.4px;background-color: rgb(247,247,247);" href="http://privacy.org.nz/">http://privacy.org.nz/</a><br>
 </p>
 
-<p><b style="line-height: 22.4px;">Scentre Group Contact Details</b><br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b style="line-height: 22.4px;">Scentre Group Contact Details</b><br>
 </p>
 
-<p>Please contact Scentre's Privacy Officer or your centre manager if you believe:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Please contact Scentre's Privacy Officer or your centre manager if you believe:</p>
 
-<ul>
+<ul style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">
 <li>someone has gained access to your personal information by mistake;</li>
 <li>we have breached our privacy obligations or your privacy rights in any way; or</li>
 <li>you would like to discuss any issues about our privacy policy.</li>
 </ul>
 
-<p>You can contact Scentre's Privacy Officer by:</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">You can contact Scentre's Privacy Officer by:</p>
 
-<p><b>Phone:</b>&nbsp; +61 2 9358 7000 (Australia) or +64 9 978 5050 (New Zealand)</p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Phone:</b>&nbsp; +61 2 9358 7000 (Australia) or +64 9 978 5050 (New Zealand)</p>
 
-<p><b>Email:</b> &nbsp;<a href="mailto:privacy@scentregroup.com">privacy@scentregroup.com</a></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Email:</b> &nbsp;<a href="mailto:privacy@scentregroup.com">privacy@scentregroup.com</a></p>
 
-<p><b>Post:</b>&nbsp;&nbsp; Privacy Officer, Scentre Group<br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>Post:</b>&nbsp;&nbsp; Privacy Officer, Scentre Group<br>
 Level 30, 85 Castlereagh Street<br>
 Sydney, NSW 2000, Australia</p>
 
-<p><b>or</b></p>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;"><b>or</b></p>
 
-<p>Privacy Officer, Scentre Group<br>
+<p style="font-family: tahoma , arial , helvetica , sans-serif;font-size: 12.0px;">Privacy Officer, Scentre Group<br>
 P.O. Box 109-280, Newmarket<br>
 Auckland 1149, New Zealand</p>
 
@@ -1765,12 +1763,6 @@ Auckland 1149, New Zealand</p>
             </li><!--
             --><!--
                 --><li class="footer__nav-list__item">
-                    <a href="http://media.westfield.com.au" target="_self" data-track="clicked MEDIA" data-track-label="" data-test="footer__link">
-                        MEDIA
-                    </a>
-                </li><!--
-            --><!--
-                --><li class="footer__nav-list__item">
                     <a href="http://www.scentregroup.com/careers" target="_self" data-track="clicked CAREERS" data-track-label="" data-test="footer__link">
                         CAREERS
                     </a>
@@ -1809,19 +1801,10 @@ Auckland 1149, New Zealand</p>
             
             
             
-            © 2017 Scentre Group
+            © 2018 Scentre Group
           </li><!--
 
-          --><li class="westfield-labs-logo">
-            
-            Experience By
-            <a href="http://www.westfieldretailsolutions.com/" target="_blank" data-track="clicked out to westfield retail solutions">
-              <svg class="footer__labs-logo icon">
-                <use xlink:href="#icon-wrs-logo"></use>
-              </svg>
-            </a>
-            
-          </li><!--
+          --><!--
         --></ul>
         
 
@@ -1889,7 +1872,7 @@ Auckland 1149, New Zealand</p>
 <script type="text/javascript" src="/etc/clientlibs/bluegrass/jquery.min.6882326010c0d5b177618dd2c64fcb6e.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/bluegrass/foundation.min.9197618d7c7da465de04bdb40e671c2e.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/bluegrass/lazysizes.min.b40abb0a1a43433ee18fdd1e3f78a614.js"></script>
-<script type="text/javascript" src="/etc/designs/centre/clientlibs.min.493b69f7a7cb8c0ca88064b55ad017cb.js"></script>
+<script type="text/javascript" src="/etc/designs/centre/clientlibs.min.190aaa8af08c6c39aec15a5e33155b58.js"></script>
 <!--[if lte IE 9]>
 <script type="text/javascript" src="/etc/clientlibs/bluegrass/xdomainrequest.min.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/bluegrass/jquery-placeholder.min.js"></script>
@@ -1901,4 +1884,4 @@ Auckland 1149, New Zealand</p>
 
 
 
-<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
+</body></html>
