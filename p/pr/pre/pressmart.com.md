@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressmart.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118135435id_/http%3A//www.pressmart.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressmart.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320115225id_/http%3A//www.pressmart.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ePublishing Company: Electronic Publishing Software / Solutions
 
