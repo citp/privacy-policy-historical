@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baldingbeards.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610051419id_/https%3A//www.baldingbeards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baldingbeards.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320014454id_/https%3A//www.baldingbeards.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ BaldingBeards
+# Privacy Policy ⋆ Balding Beards
 
 **www.baldingbeards.com Privacy Policy:**
 
@@ -157,7 +157,7 @@ contact@baldingbeards.com
 Address:
 
 INOVEUS D.O.O.  
-Ulica Zvonimira Milosa 27  
+Ulica Zvonimira Milosa 22  
 Izola, Slovenia 6310  
 Slovenia
 
