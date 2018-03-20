@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002154813id_/https%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320091936id_/https%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chronicle
 
