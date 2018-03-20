@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127173844id_/http%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandprix.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320044334id_/https%3A//www.grandprix.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Formula 1 Australian Grand Prix
+# Privacy Policy | Formula 1® Australian Grand Prix
 
 **AUSTRALIAN GRAND PRIX CORPORATION**
 
@@ -137,29 +137,29 @@ Version 16.1
 
 Reviewed 2 November 2016
 
-  * Luckless Ricciardo ends 2017 with another DNF 
+  * Exclusive blog: Craig Lowndes shares his secrets 
 
-Luckless Daniel Ricciardo was on the wrong end of a double whammy when he was forced to retire from the season-ending Abu Dhabi Grand Prix on... 
+From sacrifice, dedication and focus, physical and mental fitness to a healthy diet, the road to motorsport glory is full of twists and turns. Just... 
 
-[Read More](https://web.archive.org/fan-zone/news/luckless-ricciardo-ends-2017-another-dnf "Read More")
+[Read More](https://web.archive.org/fan-zone/news/exclusive-blog-craig-lowndes-shares-his-secrets "Read More")
 
-  * Cool Bottas beats Hamilton in Mercedes one-two 
+  * McLaren issues 'have been addressed' ahead of F1 season opener 
 
-A cool-headed Valtteri Bottas survived intense pressure from Mercedes teammate Lewis Hamilton to claim an assured victory in Sunday’s Abu Dhabi... 
+McLaren's racing director Eric Boullier says the team have resolved the issues that blighted their pre-season testing as Formula One gears up for the... 
 
-[Read More](https://web.archive.org/fan-zone/news/cool-bottas-beats-hamilton-mercedes-one-two "Read More")
+[Read More](https://web.archive.org/fan-zone/news/mclaren-issues-have-been-addressed-ahead-f1-season-opener "Read More")
 
-  * #AusGP goes back-to-back at RACV Victorian Tourism Awards 
+  * F1 2018 pre-season report: Mercedes 
 
-The Australian Grand Prix Corporation is proud to announce the Formula 1® Australian Grand Prix has won the Major Festivals and Events category at... 
+Ahead of the opening race of the 2018 Formula One season in Australia on March 25, we take a look at how each team is shaping up for the new... 
 
-[Read More](https://web.archive.org/fan-zone/news/ausgp-goes-back-back-racv-victorian-tourism-awards "Read More")
+[Read More](https://web.archive.org/fan-zone/news/f1-2018-pre-season-report-mercedes "Read More")
 
-  * Teams push for points, positions and prize money 
+  * F1 2018: Best Opta facts ahead of the new season 
 
-Lewis Hamilton and his Mercedes team will aim to end an already-triumphant season on a high while the chasing pack scrap for points, positions and... 
+The 2018 Formula One season is just around the corner and there is plenty at stake beyond the drivers' and constructors' titles. While Lewis Hamilton... 
 
-[Read More](https://web.archive.org/fan-zone/news/teams-push-points-positions-and-prize-money "Read More")
+[Read More](https://web.archive.org/fan-zone/news/f1-2018-best-opta-facts-ahead-new-season "Read More")
 
 
 
