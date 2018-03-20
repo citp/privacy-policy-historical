@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanimescrolls.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120048id_/http%3A//theanimescrolls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanimescrolls.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320111920id_/https%3A//theanimescrolls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheAnimeScrolls
 
