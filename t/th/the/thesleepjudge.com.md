@@ -1,78 +1,70 @@
-> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421093945id_/http%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320214325id_/https%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Disclaimer
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/web/20170421093945id_/http://www.thesleepjudge.com/contact-us/).
+Effective Date: October 26, 2017
 
-At www.thesleepjudge.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.thesleepjudge.com and how we use it.
+We are committed to respecting the privacy rights of visitors and users of this website. We created this Privacy Policy (this “Policy”) to explain what information we collect from you, how we secure that information, and under what conditions we share your information with others. This Policy only applies to this website, and not other platforms you can access through the website such as social media and third party websites.
 
-The Sleep Judge does not share personal information with third-parties nor does thesleepjudge.com store information collected about your visit for use other than to analyze web site performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. The Sleep Judge is not responsible for the republishing of the content found on this blog on other web sites or media without permission.
+1\. NOTICE CONCERNING CHILDREN.
 
-**Log Files**  
-Like many other Web sites, www.thesleepjudge.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Any website “directed at children under 13” must undertake certain compliance steps pursuant to the Children’s Online Privacy Protection Act [15 U.S. Code § 6502] and COPPA Rule [16 CFR Part 312]. This website is directed at adults, not children.
 
-**Cookies and Web Beacons**  
-www.thesleepjudge.com uses cookies to store information about visitors’ preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors’ browser type or other information that the visitor sends via their browser.
+2\. PERSONAL INFORMATION COLLECTED.
 
-**DoubleClick DART Cookie**
+A. Information Collection: We may require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes the following categories of information: (1) Contact Data (such as your name and e-mail address). If you communicate with us by e-mail, or otherwise contact us, any information provided in such communication may be collected as Personal Information.
 
-→ Google, as a third party vendor, uses cookies to serve ads on www.thesleepjudge.com.  
-→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.thesleepjudge.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+B. Modification or Removal Process: You may opt-out of our email list using the provided link in any email message. You may also contact us to request we remove any content you’ve submitted to the website; a request which we will approve or deny in our sole discretion.
 
-**Our Advertising Partners**
+C. Privacy Policy Updates: If we modify or update this Policy, we will notify you by posting a notice on the website and by sending you an electronic message indicating as much if we have an email address for you. You may reject the update by discontinuing your use of the website.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
+D. Do Not Track Signals: Certain jurisdictions require that we disclose whether we acknowledge “do not track” signals issued by browsers or privacy software. We do not respond to such signals at this time.
 
-  * Google
-  * Amazon
+E. Google Tracking. We use certain Google programs to help us analyze the traffic to this website and improve our marketing efforts. Such programs may include, but are not limited to, Google Analytics Remarketing, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting,  
+and Integrated services that require Google Analytics to collect data via advertising cookies and identifiers. You may opt out of this tracking by visiting https://tools.google.com/dlpage/gaoptout/ and http://www.networkadvertising.org/choices/.
 
+F. Third Party Tracking. We allow third-party companies to collect certain anonymous information when you visit this website. These companies, including Google, may use non-personally identifiable information (e.g. ads you click versus those you don’t, the type of browser you use, etc.) in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.networkadvertising.org/choices/ which will automatically detect and opt-out of a majority of the tracking programs.
 
+G. Google Adsense. We allow third party vendors, including Google Adsense, to use cookies to serve ads based on your prior visits to this website or other websites. These companies use of advertising cookies enables them and their partners to serve ads to you based on the websites you visit online. Google will use a Double Click cookie to track your actions in this regard. You can opt out of this program by visiting https://www.google.com/settings/ads or by other third parties by visiting http://www.aboutads.info/choices/.
 
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of www.thesleepjudge.com._
+H. Amazon Affiliate. This website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.thesleepjudge.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+I. Other Affiliate Programs. This website participates in third party website programs in addition to Amazon.com from time to time. If you click a link to another site, make sure to review the privacy policy of that site to gain an understanding of how your information is collected, stored, and used.
 
-www.thesleepjudge.com has no access to or control over these cookies that are used by third-party advertisers.
+3\. COOKIES AND TRAFFIC DATA COLLECTED.
 
-The Sleep Judge is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+We automatically track and collect the following categories of information when you visit this website including: (1) IP addresses; (2) domain servers; (3) types of computers accessing the website; and (4) types of web browsers used to access the website (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for helping us improve your experience when accessing this website.
 
-All review ratings are our own.
+4\. USE OF INFORMATION COLLECTED
 
-We periodically review and adjust ratings as we review more products and research product quality. We also adjust ratings based on on-going tests over time.
+A. Our Use Of Information: We use your Personal Information to interact with and market to you as well as comply with various laws as detailed herein. Please read this Section 4 carefully.
 
-Amazon, the Amazon logo, MYHABIT, and the MYHABIT logo are trademarks of Amazon.com, Inc. or its affiliates.
+B. Sharing Personal Information: We share certain categories of information we collect from you in the ways described in this Policy. We share Contact Data with our business partners who assist us by performing core services (such as hosting, billing, email distribution, or data storage and security) related to our operation of this website. If you do not want us to share your Personal Information with any third parties, please contact us, but please understand that such a request will eliminate your ability to access certain areas of the website.
 
-Occasionally we will receive free products in exchange for reviews. However, this does not affect our review process and we only recommend products that stand above the rest in terms of quality and value.
+C. Use of Contact Data. We use your Contact Data to provide you with administrative communications. We also use your Contact Data to send you commercial emails highlighting products and services that may be of interest to you. These email communications may contain messages, advertisements, and affiliate links promoting third parties and third party products.
 
-The Sleep Judge does receive commissions from product manufactures through the use of affiliate links.
+D. Sale of Information: Should we decide to sell all or part of our core business or this website at some point in the future, your Personal Information will be included as an asset in the transfer of the business to the new owner.
 
-**Third Party Privacy Policies**
+5\. MARKETING
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thesleepjudge.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+A. Third Party Advertising Cookies. We may use certain third-party vendors, including Google, who use cookies to serve ads to you while on our website based on your prior visits to this website and other websites. You can opt out of personalized advertising by Google by visiting https://www.google.com/settings/ads or by other third parties by visiting http://www.aboutads.info/choices/.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+B. Remarketing and Retargeting. We may use Facebook or other third party remarketing or retargeting platforms to market our business. These companies use cookies to track you across the Internet including websites you visited before visiting us and after you leave. Once you leave this website, Facebook, and the other third party platforms we may use, will show you advertisements from us as appropriate. You may opt out of the remarketing and retargeting platforms we currently use or may use in the future by visiting the following links:
 
-**Children’s Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.thesleepjudge.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.thesleepjudge.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+• Facebook – [https://www.facebook.com/ads/website_custom_audiences/] • Google – [http://www.google.com/settings/ads] 
 
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+6\. INFORMATION SECURITY
 
-**California Privacy Rights**
+A. Confidentiality and Security of Personal Information: Except as otherwise provided in this Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce the legal documents applicable to the website.
 
-If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please [submit your request here](https://www.thesleepjudge.com/contact-us/).  We will respond to these requests within thirty (30) days.  Requests that come to us by other means may result in a delayed response.
+B. Security. This website has reasonable security measures in place including Secure Sockets Layer technology. Unfortunately, we make no promises about our ability to prevent any such loss or misuse of your Personal Information since preventing hacking is nearly impossible.
 
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+7\. AREAS BEYOND OUR CONTROL
 
-[](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")
+A. Public Information: We may allow you to interact with others from time to time in the comments section as well as our social media pages. Please understand that any information disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your Personal Information.
 
-**Update**  
-This Privacy Policy was last updated on:  April 5 2017.  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+B. Third Party Websites: The website contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before proceeding.
 
-**Disclaimer**
+8\. CONTACT INFORMATION
 
-The information contained on The Sleep Judge is intended for informational and educational purposes only. Any statements made on this website have not been evaluated by the FDA and any information or products discussed are not intended to diagnose, cure, treat or prevent any disease or illness. Please consult a healthcare practitioner before making changes to your diet, taking supplements that may interfere with medications. Please consult a professional before making any decisions regarding the health of your children.
+If you have any questions about this Policy or our practices related to this website, please contact us using the Contact page on the menu for the website.
