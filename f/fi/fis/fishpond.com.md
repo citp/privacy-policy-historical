@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishpond.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728195822id_/https%3A//www.fishpond.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishpond.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320020104id_/https%3A//www.fishpond.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ New Zealand
 
   1. **1.5 Access:** You can ask to see the personal information that we hold about you at any time by writing to us at the address set out in clause 1.4 above.
   2. **1.6 Editing and deleting:** You may also ask us to correct, alter or delete any personal information that we hold about you by writing to us at the address set out in clause 1.4 above.
-  3. **1.7 Opting out of electronic communications:** If you do not want to receive marketing communications from Fishpond by electronic message, you can use our [email preference centre](http://www.fishpond.com/account_newsletters.php).
+  3. **1.7 Opting out of electronic communications:** If you do not want to receive marketing communications from Fishpond by electronic message, you can use our [email preference centre](https://www.fishpond.com/account_newsletters.php).
 
 
 
