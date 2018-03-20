@@ -1,242 +1,179 @@
-> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216005016id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpango.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320142003id_/http%3A//www.xpango.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Xpango.com
+# Privacy Policy - For more information contact Support - Xpango
 
-[](https://web.archive.org/)
+PRIVACY POLICY
 
-  * [Register](https://web.archive.org/register)
-  * [Sign in](https://web.archive.org/login)
+Updated as at [27/02/2018
 
+**INTRODUCTION**
 
+  1. This site is owned and operated by Xpango Ltd (“ **the Company** ”) with its website located at ‘ _com_ _’_ (“ **the Website** ”). For the purposes of this Privacy Policy, unless otherwise specified, all references to Xpango Ltd includes the Company and the Website.
 
-3,867,959 Xpangoer's and counting...
 
-  * mobile phones
-    *     * [
+  2. The Company provides various services, including but not limited to a website platform for rewards.
 
-#### Free iPhone
 
-Free iPhone 7, iPhone 7 Plus, iPhone 6s, SE & more...
+  3. Your privacy on the Internet is of the utmost importance to us. We will never share your personal information with any third party, but because we may gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-](https://web.archive.org/free-iphone)
-    * [
 
-#### Free Samsung
+  4. The private information you provide on the Website will be used only for its intended purpose.
 
-Free Samsung Galaxy S5, Galaxy Alpha & more...
 
-](https://web.archive.org/free-samsung)
-    * [
+  5. By using the Website, you consent to the data practices described hereinafter.
 
-#### Free Nokia
 
-Free Nokia Lumia 920, Lumia 820 and more...
 
-](https://web.archive.org/free-nokia)
-    * [
+**PERSONAL INFORMATION**
 
-#### Free HTC
+  6. As a general rule, the Company does not collect personal information about you when you visit the Website, unless you choose to provide such information to us. Submitting personal information through the Website is voluntary. By doing so, you are giving the Company your permission to use the information for the stated purpose.  However, not providing certain information may result in the Company the inability to provide you with the Services (hereinafter defined in Clause 7).
 
-Free HTC One, HTC 8X, HTC 8S and more...
 
-](https://web.archive.org/free-htc)
-    * [
+  7. If you choose to provide us with personal information on the Website, through methods such as submitting information through our Website, giving the Company a call and/or sending us an email at support@xpango.com _,_ we may use that information to help us provide you with information and/or service(s) (collectively referred to as (“ **the Services** ”)).
 
-#### Free Blackberry
 
-Free Blackberry Z10, Bold 9900 and more...
+  8. We may also use the personal information to respond to any of your message(s) and/or feedback(s). The information we may receive from you varies based on what you do when visiting the
 
-](https://web.archive.org/free-blackberry)
-    * [**View all Free Mobile Phones »**](https://web.archive.org/free-mobile-phones)
-  * games consoles
-    *     * [
 
-#### Free Xbox One
 
-Free Xbox One, Xbox 360, games and more
+**COLLECTION OF PERSONAL INFORMATION**
 
-](https://web.archive.org/free-xbox-360)
-    * [
+  9. By using the Website and its functions, you may provide basic information such as, including but not limited to, your name, phone number, address and email address which allows us to send information, provide updates and/or process the type of Services you so desire.
 
-#### Free Sony PS4
 
-Free Sony PS4, PS3, PS Vita, Games and more...
+  10. If you sign up with the Company and/or purchase services through the Company, we may also collect, _inter alia,_ billing and credit card information.
 
-](https://web.archive.org/free-sony-ps3)
-    * [
 
-#### Free Nintendo Wii U
+  11. The Company encourages you to review the privacy statements of the Websites you choose to link to and from the Company so that you can understand how those Websites collect, use and share your information (“ **Third Party Website** ”). The Company is not responsible for the privacy statements or other contents on the Third Party Website outside of the Company’s
 
-Free Nintendo Wii U, Nintendo 3DS, Games and more...
 
-](https://web.archive.org/free-wii-u)
-    * [**View all Free Gaming Consoles »**](https://web.archive.org/free-gaming-consoles)
-  * mp3 players
-    *     * [
 
-#### Free Apple iPod
+**THE NATURE OF PERSONAL INFORMATION WE COLLECT**
 
-Free iPod Touch, iPod Nano and more...
+  12. Personal information we collect which you may provide to us includes, _inter alia_ :-
 
-](https://web.archive.org/free-ipod)
-    * [
 
-#### Free Beats Headphones
+  * **‘** **Identifying information** **’** (i.e. name, date and place of birth, gender, age);
 
-Free Beats Solo Headphones & more...
 
-](https://web.archive.org/free-beats-headphones)
-    * [
+  * ‘ **Contact information** ’ (i.e. home / office address, home / mobile / office phone numbers); and
 
-#### Free Sony Walkman
 
-Free Sony Walkman F Series, E Series and more...
+  * ‘ **Financial information** **’** (i.e. bank account and number, credit card number and details).
 
-](https://web.archive.org/free-sony-walkman)
-    * [**View all Free MP3 Players »**](https://web.archive.org/free-mp3-players)
-  * tablet/mac
-    *     * [
 
-#### Free Apple iPad
+  13. As a general rule, you have the right not to provide the foregoing information when dealing with the Company and/or when we provide the Services to you. However, not providing certain information may result in the, _inter alia,_ inability to provide you with the Services.
 
-Free Apple iPad Pro, iPad Air 2, iPad Mini 4 and more...
 
-](https://web.archive.org/free-ipad)
-    * [
 
-#### Free Samsung Galaxy Tab
+**AUTOMATICALLY COLLECTED INFORMATION**
 
-Free Samsung Galaxy Tab, Galaxy Tab 2 & more...
+  14. We collect and temporarily store certain information about your visit for use in site management and security purposes only. We collect and analyse this information because it helps us to better design the Website to suit your needs.  We may also automatically collect information about the web content you view in the event of a known security or virus threat.
 
-](https://web.archive.org/free-samsung-tablet)
-    * [
 
-#### Free Kindle
 
-Free Kindle, Kindle Fire and more...
+The information includes, _inter alia_ :-
 
-](https://web.archive.org/free-kindle)
-    * [
+  * The internet domain name from which you access our Website (for example, “xcompany.com” if you use a private internet access account, or “yourschool.edu” if you connect from an educational domain);
 
-#### Free Google Nexus
 
-Free Google Nexus 7, Nexus 10 and more...
+  * The internet protocol (“ **IP** ”) address (a unique number for each computer connected to the internet) from which you access our Website;
 
-](https://web.archive.org/free-google-nexus)
-    * [
 
-#### Free Microsoft Surface
+  * The type of browser used to access our Website;
 
-Free Microsoft Surface, plus keyboard and more...
 
-](https://web.archive.org/free-microsoft-surface)
-    * [**View all Free Tablet/Mac »**](https://web.archive.org/free-tablet-mac)
-  * gift cards
-    *     * [
+  * The operating system used to access our Website;
 
-#### Free iTunes Gift Cards
 
-Free Apple iTunes Gift Cards, App Store Cards and more...
+  * The date and time you access our Website;
 
-](https://web.archive.org/free-itunes-gift-card)
-    * [
 
-#### Free Amazon Gift Cards
+  * The Universal Resource Locators (“ **URLs** ”) or address of the pages you visit;
 
-Free Amazon Gift Cards, MP3 Gift Cards and more...
 
-](https://web.archive.org/free-amazon-gift-card)
-    * [**View all Free Gift Cards »**](https://web.archive.org/free-gift-cards)
+  * Your username, if it was used to log in to the Website; and
 
 
+  * If you visited this Website from another website, the URL of the forwarding site.
 
-Xpango are committed to protecting your privacy. We hope the following privacy policy ("Privacy Policy") will help you understand how we collect and protect the personal information you provide to us when registering with the Xpango.com web site (the "Site") and by Xpango Ltd. 
 
-We are committed to making your use of the Site easy and enjoyable as possible. Please take a moment to read the following Privacy Policy to determine how your personal information will be treated as you make full use of our offers. 
 
-By using the Site, or providing the information requested by the Site, or by continuing to use the Site after having an opportunity to review this Privacy Policy, you agree to accept the terms of our Privacy Policy and our use of the information we collect. If you do not agree to the terms of this Privacy Policy, please do not use the Site. 
+**INFORMATION COLLECTED FOR TRACKING AND CUSTOMIZATION (COOKIES)**
 
-Xpango Ltd reserves the right to modify this Privacy Policy at any time without giving you prior notice. Your use of the Site following any such modification constitutes your agreement to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised or modified is set forth below ("Effective Date"). 
+  15. A ‘ _cookie_ ’ is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the Website that provided it, and no other Website can request it. There are two types of cookies:
 
-I. What personally identifiable information does Xpango.com collect from me and how does Xpango.com use my information? 
 
-To create an account, we collect your name, email address, and a shipping address. We also collect a password that you create, which you may change in the 'My Account' page of our site. We will initially use this information to set up your account, to send you a registration confirmation email and to log your shipping information so that we know where to send your order. 
+  * **‘** ** _Session_** **’** **:** Session cookies last only as long as your web browser is open. Once you close your browser, the cookie is deleted. Websites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site.
 
-Referral emails that you initiate from the "Refer Friends" page of your Xpango.com account will be sent out by Xpango.com on your behalf and will either display your email address or that of "support@xpango.com" in the email "From" field. Referral email addresses are only used to deliver user-initiated communications. Xpango.com will not collect and use these referral email addresses for any other purpose or manner. 
 
-Although Xpango.com may have independently received similar information from your use of the Site, Xpango.com does not have access to any additional information that you provide on a third party hosted site (i.e. if you complete an offer such as Blockbuster.com, Xpango do not have access to the information you submit to Blockbuster). 
+  * **‘** ** _Persistent_** **’** **:** Persistent cookies are saved on a user’s hard drive in order to determine which users are new to the site or are returning.
 
-All information provided to our third party business partners is subject to the posted privacy policies of our third party business partners. 
 
-When you place an order, your shipping information is sent to a vendor who will fulfill and ship your product(s). Our suppliers will also safeguard your personal information and are contractually prohibited from disclosing your personal information to other parties for any reason. They will not have access to any referral information you provide. 
 
-II. Completing 3rd Party Offers to gain Credits with Xpango.com 
+**USE OF YOUR PERSONAL INFORMATION**
 
-Our goal is to deliver offers to customers who we believe will find them of value. Offers are developed and managed under strict conditions designed to safeguard the security and privacy of customer personal information. When you click on an offer, you will be redirected to that advertiser's site. An instruction box will appear explaining to which offer you are being redirected. Although the site may still display a Xpango.com address on the landing page, you are in fact on a third party offer provider's website, and any information you submit will be transmitted to this third party. 
+  16. The Company collects and uses your personal information to operate the Website and deliver the Services.
 
-As a member of the Site, we will be sending transactional emails for various reasons as you continue to use our site. For example, a welcome email will be sent thanking you for joining, or an email telling you an order has shipped, etc. These emails are required for logistical purposes and users cannot opt-out of these types of emails. 
 
-If you contact Xpango.com, we may keep a record of that correspondence. Wherever Xpango.com collects personal information, we make an effort to include a link to this Privacy Policy on that specified page. 
+  17. The Company does not sell, rent or lease its customer list to third parties.
 
-With your consent, Xpango.com may from time to time send commercial e-mails with additional Xpango offers and information about New gifts available from Xpango. Xpango.com is committed to ethical and responsible e-mail practices. Accordingly, Xpango.com strives to make sure that all commercial e-mails sent by Xpango.com are compliant with the Can-Spam Act of 2003. Members may opt-out of receiving promotional mailings by clicking on the opt-out link contained in the body of any commercial e-mail sent by Xpango.com or by unsubscribing from commercial e-mail by logging into your Member account on Xpango.com, clicking on the unsubscribe link and entering the e-mail address that you wish to unsubscribe from further commercial e-mail messages from Xpango.com. 
 
-Please note that we can only allow one account per household. This rule exists to protect our advertising partners, as it serves to engender high quality, unique leads. Potential users who reside in households with multiple people are recommended to share an account. 
+  18. The Company may, from time to time, contact you on behalf of, including but not limited to, third parties about a particular offering that may be of interest to you. In those cases, your personal information (i.e. email, name, address, telephone number) is transferred to the third party.
 
-Keep in mind that if you take advantage of an offer from a Xpango.com business partner and thus, become their customer, they may independently wish to send offers to you. In the event that you are not interested in receiving future offers from these affiliates, you must contact them directly to fulfill your list removal request. 
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Site. If your personally identifiable information changes, you may update it by making the necessary edits by logging into your account at Xpango.com and clicking on the 'Edit My Details' link. 
+  19. The Company may share data between/with, _inter alia,_ the third parties to help perform statistical analysis send you email, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these Services to the Company and they are required to maintain the confidentiality of your information.
 
-To deactivate an account, please contact Customer Service directly with this request. 
 
-II. What are cookies and how does Xpango.com use them? 
+  20. The Company may keep track of the Website and pages our users visit within the Company, in order to determine what the Company services are the most popular. The data is used to deliver customized content and advertising within the Company to customers whose behaviour indicates they are interested in a particular subject area.
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Xpango.com uses cookies to better understand your traffic patterns on the Site as well as keeping your login information securely stored. This information helps us improve the navigation and flow of the web site. Additionally this may allow users who choose to be remembered when they come back to the Site to be automatically logged in. We link cookies to personally identifiable information so that we may track your activities on the Site in order to credit you for completing a third party offer. Most Web browsers automatically accept cookies, but if you choose to disable the use of cookies, you will run the risk of not receiving proper credit for completing an offer. Some of our business partners (e.g., advertisers/offer providers) may use cookies on our site. We have no access to or control over these types of cookies. 
 
-III. Who is collecting information? 
 
-When you are on a Site and are asked for personal information, you are sharing that information with Xpango.com, unless it is specifically stated otherwise in this Privacy Policy or in a 3rd party offer that you may be asked to complete as part of utilizing the service. 
+**DISCLOSURE OF YOUR PERSONAL INFORMATION**
 
-Please be aware that Xpango.com partners, advertisers and web sites that have links on our site may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and web sites linked from Xpango.com are not covered by this Privacy Policy. Xpango.com has no liability or responsibility for these independent policies or the use of any personally identifiable information you independently transfer to these companies. 
+  21. The personal information you provide to us whether voluntarily or automatically as the foregoing paragraphs describes, may be used and disclosed without limitations, to our employees, staffs, insurers, professionals, agents, suppliers, subcontractors and/or other parties we deem fit for the purpose and in the manner reasonably necessary for the carrying out of the Services and for purposes set out in this Privacy Policy.
 
-IV. With whom does Xpango.com share my information? 
 
-As set forth in Section I, Xpango.com may submit your personal information to third party business partners to participate in their offer or survey. Except as otherwise set forth in this Privacy Policy, Xpango.com will **NOT** disclose any of your personally identifiable information . 
+  22. Personal information may be disclosed and/or supplied between the third parties. When personal information is disclosed and/or supplied between the third parties all terms and conditions contained herein shall have effect for the purpose of protecting your personal information.
 
-b. Other: Xpango.com may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Xpango.com's policies or may be causing injury to or interference with (either intentionally or unintentionally) Xpango.com's rights or property, other Xpango.com users, or anyone else that could be harmed by such activities. Xpango.com may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. Lastly, Xpango.com may disclose a users e-mail address as part of a suppression file or do-not-e-mail list to its partners and affiliates to make sure that a users unsubscribe requests are forwarded to the appropriate parties to ensure removal of the user from partner and affiliate databases in compliance with law, including without limitation, the Can-Spam Act of 2003. 
 
-c. Acquisitions. As Xpango.com develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Xpango.com or all of its assets are acquired, customer information, including any visitor information collected through the Site, would be one of the transferred assets. 
+  23. Compliance with legal requirements for the enforcement of law, regulations, court orders, subpoena, warrant during the course of a legal proceedings or otherwise may render our need to disclose personal information.
 
-V. What security precautions are in place to protect the loss, misuse, or alteration of my information? 
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+  24. Personal information may also be used to protect and safeguard the copyright, trademarks, legal rights, intellectual property rights or safety of the Company.
 
-Account information for Xpango.com members are password-protected so that you and only you have access to this personal information. You may edit your Xpango.com account information by logging into your Member account on Xpango.com, clicking on the 'Edit My Details' link and update your personal information. 
 
-We recommend that you do not divulge your password to anyone. Xpango.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Xpango.com account and close your browser window when you have finished your session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library. 
 
-VI. Miscellaneous Provisions. 
+**SECURITY OF YOUR PERSONAL INFORMATION**
 
-a. Disclaimer of Liability. Under no circumstances shall Xpango.com be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user's accessing the Site or use of the service provided by Xpango.com, even if Xpango.com has been advised of the possibility of such damages. 
+  25. The Company secures your personal information from unauthorized access, use or disclosure.
 
-b. Enforcement/Redress. If for some reason you believe that Xpango.com has not adhered to this Privacy Policy, please notify Customer Service and they will endeavor to respond to your concerns and, when appropriate, take steps to correct a problem. 
 
-c. Security of the Data Collected. The Site is not a secure web site. Xpango.com cannot and does not ensure or warrant the security of any information collected by use, transmitted over the Internet, or maintained in your user profile. You agree that any data transmission you make or receive through the Site is at your own risk. 
 
-VIII. Additional Information. 
+**CHILDREN UNDER THIRTEEN**
 
-If you have a question that was not addressed in this Privacy Policy, you may contact us by: 
+  26. The Company does not knowingly collect personal information from children under the age of thirteen. If you are under the age of eighteen, you must ask your parent or guardian for permission to use this Website.
 
-1\. Sending an e-mail request to support@xpango.com; or 
 
-2\. Sending a written letter to: 
 
-Xpango Ltd .  
-Customer Services  
-Hillview Business Centre  
-2 Leybourne Avenue  
-Bournemouth  
-Dorset   
-BH10 6HF  
-UK 
+**OPT-OUT & UNSUBSCRIBE **
 
-*DATE OF LAST MODIFICATION : April 10th, 2011*
+  27. The Company respects your privacy and gives you an opportunity to opt-out of receiving information in respect of the Services by contacting us at support@xpango.com.
+
+
+
+**CHANGES**
+
+  28. The terms contained in this Privacy Policy may change and subject to modification and amendments. All modifications and the time of the changes and modification will be subject to the sole direction of the Company and such changes will have immediate effect. No notice will be given to you prior to such changes and/or modifications; you are therefore advised to review our Privacy Policy from time to time.
+
+
+
+**CONTACT**
+
+  29. The Company welcomes your questions or comments regarding the foregoing Terms.
+
+
+
+Please find us at support@xpango.com.
+
+Effective as of 27/02/2018
