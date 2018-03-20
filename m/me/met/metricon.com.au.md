@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metricon.com.au privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703222043id_/https%3A//www.metricon.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metricon.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321003445id_/https%3A//www.metricon.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
