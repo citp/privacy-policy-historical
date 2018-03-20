@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfinda.com.au privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222231300id_/https%3A//www.eventfinda.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfinda.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320135349id_/https%3A//www.eventfinda.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventfinda
 
