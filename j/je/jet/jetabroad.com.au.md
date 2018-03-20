@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123185321id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320193545id_/https%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
 
 # Your privacy with Jetabroad AU
 
 **Jetabroad is committed to protecting the privacy and confidentiality of your personal information and the organisation maintains various physical, electronic and procedural safeguards to protect your personal information from loss and misuse, and from unauthorized access, modification, disclosure and interference.**
 
-Jetabroad operates in accordance with the Commonwealth privacy laws as amended by the _Privacy Amendment (Enhancing Privacy Protection) Act 2012_ (Amended Act). The _Privacy Act_ is a Commonwealth Act that regulates the collection, storage, use and disclosure of different types of personal information. This Privacy statement explains how Jetabroad (NSW Travel Agent Licence No. 2TA5737, Australian Business No. 77 115 848 363), its subsidiaries, and related bodies corporate protects the privacy of your personal information.
+Jetabroad operates in accordance with the Commonwealth privacy laws as amended by the _Privacy Amendment (Enhancing Privacy Protection) Act 2012_ (Amended Act). The _Privacy Act_ is a Commonwealth Act that regulates the collection, storage, use and disclosure of different types of personal information. This Privacy statement explains how Jetabroad (Australian Business No. 77 115 848 363), its subsidiaries, and related bodies corporate protects the privacy of your personal information.
 
 ### Why does Jetabroad collect personal information?
 
-The information we collect is for the purposes of providing travel and related services to you. You are entitled to access the information Jetabroad holds about you by contacting the privacy officer whose details are provided below. Furthermore, If at any time you have any concerns or complaints in relation to privacy, please contact the privacy officer.
+The information we collect is for the purposes of Jetabroad and our business partners providing travel and related services to you and to offer you travel-related products and services that may be of interest to you. You are entitled to access the information Jetabroad holds about you by contacting the privacy officer whose details are provided below. Furthermore, If at any time you have any concerns or complaints in relation to privacy, please contact the privacy officer.
 
 When we book products and services for you, we do so as an agent on behalf of travel service providers. This means that we collect personal information about you both for our internal purposes (e.g. to process your booking and to manage post sale changes), and on behalf of the parties for whom we act as agent, for their internal purposes (e.g. for an airline to process an eticket). In order to provide the travel and related services to you we will disclose only the information required by the service provider so that they may provide the service to you.
 
@@ -21,6 +21,7 @@ We collect the personal information for the following reasons:
   5. For our staff to contact you, where necessary
   6. Where applicable, to send you updates and/or newsletters
   7. To send you information about our products and services, that may be of interest to you
+  8. To enable our business partners to contact you with offers of their travel-related products and services that may be of interest to you
 
 
 
@@ -32,13 +33,13 @@ By providing personal information to us (or allowing another person to do so on 
 
 In general we will collect personal information directly from you when you book a flight on our website, and, or contact us by email or telephone. When booking a flight on our site Jetabroad ensures your credit card information is transmitted over secure lines. We use a mechanism to transfer sensitive data over the Internet called Secure Sockets Layer (SSL). SSL is a protocol that provides communications privacy, authentication and message integrity and prevents eavesdropping, tampering or message forgery by encrypting data.
 
-We may collect personal information about you when you enter competitions, when you register for promotions, when you subscribe to receive marketing from us (e.g. newsletters). We may also collect your personal information when you complete surveys or provide us with feedback. We will only send newsletters or other promotional materials to you if you have opted in to receive them. If you wish to stop receiving these emails, please email [customersupport@jetabroad.com](mailto:customersupport@jetabroad.com?subject=UNSUBSCRIBE) from that email address stating "UNSUBSCRIBE" in the subject line.
+We may collect personal information about you when you enter competitions, when you register for promotions, when you subscribe to receive marketing from us (e.g. newsletters). We may also collect your personal information when you complete surveys or provide us with feedback. We will only send newsletters or other promotional materials to you if you have opted in to receive them. If you wish to stop receiving these emails, please click here to unsubscribe.
 
 We will delete your personal information after a reasonable period of time and, if you have not used our services for some time, you may have to re-enter or re-supply your personal information to us.
 
-**Your personal information will be processed and stored with third party providers in the following circumstances**
+**Your personal information will be disclosed to, processed and stored with third party providers in the following circumstances**
 
-  * to travel service providers (including companies overseas) such as travel wholesalers, tour operators, airlines, hotels, car rental companies and other service providers for the purpose for which the information was collected or for a related purpose (for example to facilitate and process your travel arrangements);
+  * to travel service providers (including companies overseas) such as travel wholesalers, tour operators, airlines, hotels, car rental companies, travel insurers and other service providers for the purpose for which the information was collected or for a related purpose (for example to facilitate and process your travel arrangements);
   * to comply with our legal obligations and any applicable customs/immigration requirements relating to your travel;
   * to comply with a request from a qualified government department if we are satisfied that they have the authority to make such request;
   * where we suspect that unlawful activity has been or may be engaged in and the personal information is a necessary part of our investigation or reporting of the matter;
@@ -71,6 +72,8 @@ Jetabroad.com
 Jetabroad.com.au  
 Jetabroad.co.nz  
 Jetabroad.co.uk  
+Jetabroad.com.sg  
+Jetabroad.com.hk  
 Jetabroad.eu  
 cheapflightsonline.com.au
 
