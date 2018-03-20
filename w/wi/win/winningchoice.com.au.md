@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606051403id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320163637id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Cohort Global
 
@@ -58,7 +58,7 @@ You may opt-out of receiving any Offers and information from Cohort Digital at a
 
 We disclose personal information to our clients and advertisers, third party agents, service providers and contractors only for purposes consistent with the reasons for collecting the information set out in this Privacy Policy.
 
-Some of the recipients of the personal information, including some of our service providers, are based overseas, in a wide variety of countries (including NZ, US, EU, Philippines, India and South Africa). Before we disclose personal information to local or overseas recipients we take reasonable steps to ensure they have privacy practices that are at least as protective as the Australian Privacy Principles. You consent to the disclosure of your personal information on that basis.
+Some of the recipients of the personal information, including some of our service providers, are based overseas, in a wide variety of countries (including NZ, US, EU, Philippines, India and South Africa). Before we disclose personal information to local or overseas recipients we take reasonable steps to ensure they have privacy practices that are at least as protective as the AU Privacy Principles and the UK Data Protection Act 1998. You consent to the disclosure of your personal information on that basis.
 
 We may disclose personal information to any person or authority where we are required to by law.
 
