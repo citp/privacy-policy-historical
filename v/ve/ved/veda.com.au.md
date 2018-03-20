@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115233406id_/http%3A//www.equifax.com.au/privacy-policy-australia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320074113id_/https%3A//www.equifax.com.au/privacy-policy-australia) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Equifax Australia
 
@@ -10,7 +10,7 @@ We recognise your right to privacy and have established a number of protocols to
 
 Much of the personal information collected and held by our business in Australia is covered by the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth) (the Act). This policy documents how we manage personal information and reflects our obligations under APP 1.3 to have a policy on this aspect of our business. 
 
-In addition Equifax Australia Information Services and Solutions Pty Limited ("EISS") (formerly Veda Advantage Information Services and Solutions Pty Limited) operates a credit reporting business in Australia.  This policy document also reflects EISS’ obligation under S20B(3) of the Act to have a policy relating to credit reporting information.
+In addition Equifax Australia Information Services and Solutions Pty Limited ("EISS") (formerly Veda Advantage Information Services and Solutions Pty Limited) operates a credit reporting business in Australia.  For further information on how EISS handles credit reporting information to which Part IIIA of the Act applies, please refer to our Credit Reporting Policy which may be found at [www.equifax.com.au/credit-reporting-policy](https://web.archive.org/credit-reporting-policy).
 
 ### 2\. Who is Equifax?
 
@@ -19,12 +19,12 @@ In addition Equifax Australia Information Services and Solutions Pty Limited ("E
 | **Commercial Risk & Information Services** | **B2C and Marketing Services** | **International**  
 ---|---|---|---  
   
-  * Consumer Credit Risk (B2B) For further information refer to our [Credit Policy](https://web.archive.org/credit-reporting-policy).
+  * Consumer Credit Risk (B2B) For further information refer to our [Credit Reporting Policy](https://web.archive.org/credit-reporting-policy).
   * Fraud and Identity Solutions helps validate identities and detect fraud.
   * Decisioning and Scoring assists customers in making credit decisions based on an applicant’s risk profile.
   * Collection Services assists customers to segment and optimise debtors to improve receivables management.
   * Employment Verification (formerly Verify) provides an employee verification service for employers.  
-Mogobankconnect services provided by Equifax assist you to provide income and expenditure information to lenders.
+MOGObankconnect services provided by Equifax assist you to provide income and expenditure information to lenders.
   * Equifax as an approved Gateway Service Provider (GSP), offers businesses Identity Verification Services where businesses can access the DVS within IDMatrix. This is a reliable means for organisations to satisfy their identity verification obligations, including anti-money laundering and counter-terrorism financing (AML/CTF).
 
 | 
@@ -58,11 +58,11 @@ Equifax comprises of a number of separate businesses, including the following:
   * Secure Sentinel provides loss assistance and retrieval services to its members
   * Identity Watch provides online monitoring services to detect and alert its members if their details may be compromised
   * Equifax Australasia Workforce Solutions Pty Limited ("Employment Verification") (formerly Verify Holdings Australia Pty Limited) provides candidate background screening service to organisations and individuals for employment purposes
-  * Equifax Australia Marketing Services Pty Limited ("Data-driven Marketing") (formerly Veda Advantage Solutions Group Pty Limited T/A Inivio) offers its customers a range of products to assist them in aspects of campaign management.
-  * Equifax Australia Personal Solutions Pty Ltd (“EAPS”) provides services to communicate information and offers to individuals in relation to products and services of Equifax and its clients;
-  * Equifax Australasia Credit Ratings Pty Limited (formerly Corporate Scorecard Pty Limited) provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
+  * Equifax Australia Marketing Services Pty Limited ("Data-driven Marketing") (formerly Veda Advantage Solutions Group Pty Limited t/as Inivio) offers its customers a range of products to assist them in aspects of campaign management.
+  * Equifax Australia Personal Solutions Pty Limited (“EAPS”) provides services to communicate information and offers to individuals in relation to products and services of Equifax and its clients;
+  * Equifax Australasia Credit Ratings Pty Limited t/as Corporate Scorecard (formerly Corporate Scorecard Pty Limited) provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
   * Kingsway Financial Assessments Pty Ltd provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
-  * Equifax Australia Commercial Services and Solutions Pty Limited (formerly Veda Advantage Lending Solutions (Australia) Pty Limited) provides Mogobankconnect income and expenditure verification services.
+  * Equifax Australia Commercial Services and Solutions Pty Limited (formerly Veda Advantage Lending Solutions (Australia) Pty Limited) provides MOGObankconnect income and expenditure verification services.
 
 
 
@@ -84,7 +84,7 @@ Generally speaking Equifax collects personal information from third parties.  T
   * Market research organisations;
   * Direct marketing companies;
   * Service Providers to us;
-  * Government agencies (such as the Office of the Australian Information Commissioner);
+  * Government agencies (such as the Office of the Australian Information Commissioner and the Federal Department of Human Services);
   * External Dispute Resolution schemes; and
   * From our customers.
 
@@ -93,14 +93,14 @@ Generally speaking Equifax collects personal information from third parties.  T
 In addition, there are a number of limited circumstances in which we will collect personal information from you:
 
   * When you apply for membership or whilst you are a member of Secure Sentinel and Identity Watch.
-  * When you contact our Australian commercial or consumer credit bureau to obtain a copy of your commercial or consumer credit file or your insurance file.
-  * When you contact our Australian commercial or consumer credit bureau to request an amendment to your commercial or consumer credit file or insurance file or dispute information on your commercial or consumer credit file or your insurance file.
+  * When you contact our Australian commercial or consumer credit bureau to obtain a copy of your commercial or consumer credit file.
+  * When you contact our Australian commercial or consumer credit bureau to request an amendment to your commercial or consumer credit file or dispute information on your commercial or consumer credit file.
   * When you contact Data-driven Marketing, regarding material you have received from a Data-driven Marketing client.
   * When you contact NTD for a copy of your tenancy database file or to request an amendment to that file.
   * When you contact Employment Verification in order to provide information for background checks for employment purposes.
   * When you obtain information from us over the internet such as through the website carhistory.com.au.
   * When you opt-in to receiving offers and product information from Equifax.
-  * When you utilise the Mogobankconnect application to obtain your account information.
+  * When you utilise the MOGObankconnect application to obtain your account information and information from Centrelink about government assistance that you receive.
   * When you provide us with information, either through or websites or our representatives or otherwise.
 
 
@@ -151,7 +151,6 @@ For Identity Solutions purposes we collect:
 
   * Publicly available identity information
   * NTD identity information
-  * Insurance Reference Services (IRS) identity information
   * Electoral Roll information
 
 
@@ -189,12 +188,12 @@ Employment Verification collects information from you and then seeks to verify t
 
 
 
-For Mogobankconnect purposes we collect:
+For MOGObankconnect purposes we collect:
 
-  * Your name and email address, details of your nominated financial institution, accounts and account number from the provider to whom you wish to provide verification information.
-  * Details of accounts with the nominated financial institution in your name, including account numbers and account balances; and up to 180 days of your nominated deposit account transactional information.
+  * Your name and email address, details of your nominated institution(s), accounts from the provider to whom you wish to provide verification information.
+  * Details of your Centrelink account as they are listed on your Centrelink account statements, including your Customer Reference Number (or “CRN”), name, address, date of birth, marital status and number of dependents, Centrelink payment types, payment amounts, last date paid and the date you received the last payment
   * Technical navigation information, such as device used to complete the verification, required to diagnose data collection issues.
-  * Any additional information you may provide to us, through our website, applications, representatives, service centre or otherwise. We do not collect your passwords or login credentials.
+  * Any additional information you may provide to us, through our website, applications, representatives, service centre or otherwise. We do not collect your passwords or login credentials for financial accounts or your Centrelink Account.
 
 | 
 
@@ -226,9 +225,9 @@ As such organisations we may disclose your personal information to include:
 
 
 
-Mogobankconnect services collect personal information for the purposes of providing the Mogobankconnect income and affordability verification services to you and your provider to whom you wish to provide verification information. Personal information collected will be disclosed on your behalf to your provider to conduct income and affordability verification.
+MOGObankconnect services collect personal information for the purposes of providing the MOGObankconnect income and affordability verification services to you and your provider to whom you wish to provide verification information. Personal information collected will be disclosed on your behalf to your provider to conduct income and affordability verification.
 
-  * Your Mogobankconnect personal information will be held by us for a maximum of 30 days, after which it will be deleted or destroyed.
+  * Your MOGObankconnect personal information will be held by us for no more than 366 days, after which it will be deleted or destroyed.
 
   
   
@@ -279,7 +278,6 @@ Equifax provides a number of services to consumers, most notably:
   * Identity Watch
   * Carhistory.com.au
   * NTD
-  * Know Your Tradie
   * ReduceMyBills.com.au
   * Tenancycheck.com.au
 
@@ -311,8 +309,6 @@ In the case of Data-driven Marketing and The Prospect Shop we collect publicly 
 Information that is not publicly available is collected by Data-driven Marketing and The Prospect Shop from you or from third parties who have your consent to use and disclose your personal information or from you directly with your consent to the subsequent use and disclosure of that information.
 
 We primarily collect information directly from you when you register to receive offers from us when you answer our questionnaires, and when you enter our competitions.
-
-When you use our  **Know Your Tradie  **website and order a report we collect your first name, surname, email address and card details.
 
 **ReduceMyBills.com.au**  collects your personal information when you contact us or request that we contact you in connection with electricity & gas, phone, internet and pay TV connections.
 
@@ -364,8 +360,6 @@ For further information about the other purposes for which Data-driven Marketin
 
 For further information about the other purposes for which TPS uses and discloses personal information refer to the [TPS Privacy Policy](http://www.prospectshop.com.au/privacy.aspx)
 
-**Know Your Tradie**  collects your personal information in order to provide you with the report you ordered and so that the report can be charged to your nominated card.
-
 **TenancyCheck.com.au**  collects, uses and discloses your personal information including past tenant history, publicly available information, tenant evictions and terminations, irregular rent payment history to provider its tenancy services to landlords.  
   
 Equifax also holds an insurance database collected on behalf of Insurance Reference Services Limited, for that purpose we hold, use and disclose: 
@@ -381,7 +375,7 @@ Equifax also holds an insurance database collected on behalf of Insurance Refere
 
 
 
-This information may be used to provide insurance services to general insurers, loss assessors, loss adjusters and investigator who are members of IRS and for internal and external identity management and verification.
+This information may now be used for investigation and audit purposes only.
 
 In addition,  **as Veda Group Pty Limited was previously a public company**  listed on the Australian Stock Exchange, we collected, and hold, use and disclose your personal information as follows:
 
@@ -435,7 +429,6 @@ GPO Box 964
 NORTH SYDNEY NSW 2059  
 <https://www.equifax.com.au/understanding-your-credit-file>  
   
-**Your information held by Know Your Tradie** | Email:  [support@knowyourtradie.com](mailto:support@knowyourtradie.com)  
 **Your information held by Reduce My Bills** | On 1300 680 603  
   
 **Your tenancy information held by NTD**
@@ -498,7 +491,7 @@ Telephone: 02 9281 0299
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
-**Your Mogobankconnect personal information held by Equifax Australia Commercial Services and Solutions Pty Limited** | 
+**Your MOGObankconnect personal information held by Equifax Australia Commercial Services and Solutions Pty Limited** | 
 
 **Equifax – Public Access  
 Equifax Australia Commercial Services and Solutions Pty Limited**
@@ -551,7 +544,6 @@ NORTH SYDNEY NSW 2059
 
 Or via the **[Equifax Corrections Portal](https://veda.credagility.com/)**  
   
-**Your information held by Know Your Tradie** | Email:  [support@knowyourtradie.com](mailto:support@knowyourtradie.com)  
 **Your information held by Reduce My Bills** | On 1300 680 603  
   
 **Your tenancy information held by NTD**
@@ -582,7 +574,7 @@ NORTH SYDNEY NSW 2059
 
 Email:  [info-eev@equifax.com](mailto:info-eev@equifax.com)  
   
-**Your personal information held by Data-driven Marketing** | 
+**Your personal information held by Data-driven Marketing or information collected in connection with third party online behavioural advertising** | 
 
 **Equifax Australia Marketing Services Pty Limited**
 
@@ -603,7 +595,7 @@ Telephone: 02 9281 0299
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
-**Your Mogobankconnect personal information held by Equifax Australia Commercial Services and Solutions Pty Limited** | 
+**Your MOGObankconnect personal information held by Equifax Australia Commercial Services and Solutions Pty Limited** | 
 
 **Equifax – Public Access**
 
@@ -743,6 +735,30 @@ Only authorised employees are granted access to your personal information. We tr
 
 ### 10\. Further information about your Privacy rights
 
-For further information about the APPs of the Act please visit the Office of the Australian Information Commissioner website at [www.oaic.gov.au](http://www.veda.com.au/www.oaic.gov.au).
+For further information about the APPs of the Act please visit the Office of the Australian Information Commissioner website at [www.oaic.gov.au](https://www.oaic.gov.au/).
 
-This policy documents how we manage personal information and reflects our obligations under the APPs of the Act.  If you would like information about how we manage personal information under Part IIIA of the Act go to our [Credit Reporting Policy](https://web.archive.org/credit-reporting-policy). This document does not create any additional rights under contract, statute or equity law.  
+This policy documents how we manage personal information and reflects our obligations under the APPs of the Act.  If you would like information about how we manage personal information as a credit reporting body go to our [Credit Reporting Policy](https://web.archive.org/credit-reporting-policy). This document does not create any additional rights under contract, statute or equity.  
+
+### 11\. Do we collect any other data?
+
+We may collect data about your browsing activity on our online network of internet sites, and from other sources, including information that you voluntarily provide to us online or offline, for example in response to surveys or competitions.
+
+We will not combine this data with personal information about you for sharing with any third party, nor will we provide it to an advertiser or any other third party without your express consent, or as expressly stated in this policy. 
+
+For third party online behavioural advertising, we may disclose any data about your activities which is not personal information and does not allow you to be reasonably identifiable to a third party - for example, data associated with a cookie, pixel tag or other tracking code – and permit them to use this data for the purpose of associating that tracking code with your use of our websites, and of third party websites where we or our advertising partners have an arrangement in place to serve ads to you on those third party websites. 
+
+We may also collect and use, and permit third parties to collect and use, data from third parties about your online or offline activities, as linked by that third party to that tracking code, to facilitate display of advertisements or content to you that are selected using inferences as to your preferences or interests.  For example, we may collect information related to demographic, behavioural and usage patterns, referred to as “preference data”.  By targeting ads and content to unidentified individuals (such as you) only if you are within a particular interest or preference segment, targeted advertising and targeted content is intended to be more relevant or useful to you.
+
+You may elect to opt-out of third party online behavioural advertising by clicking **here to set an opt-out cookie on your browser.**
+
+However, opting-out means that the display advertising you see may not be tailored to your interests or preferences and may therefore be less relevant or useful to you. 
+
+If you would like to make a complaint in connection with third party online behavioural advertising, you can do so by emailing [DDM.ComplaintsAU@equifax.com](mailto:DDM.ComplaintsAU@equifax.com "Follow link"). For further information on making a complaint please refer to section 6 above.
+
+For further information about how we use cookies, please see our Cookies Policy at [www.equifax.com.au/cookies](https://web.archive.org/cookies).  You can also manage cookies on your mobile device or in your web browser privacy settings.  See your device or browser FAQs, or Your Online Choices, for more information.
+
+###  12\. Big Data and Machine Learning Activities
+
+For some of our business and analytical activities, Equifax may use big data or machine learning capabilities to gather, acquire or obtain information from various sources by lawful and fair means.  In very rare and limited circumstances these activities may lead to the creation of personal information. For example, when we bring together a large variety of non-identifying information for analysis, an individual may be identified or reasonably identifiable during the analytical process.  Similarly, the creation of insights about an identified individual using analytics may lead to the collection of new categories of personal information about that individual. 
+
+Generally our analytical activities use de-identified and/or aggregated data, but we take reasonable steps to ensure that, to the extent any data is personal information, all relevant privacy laws apply to its handling.
