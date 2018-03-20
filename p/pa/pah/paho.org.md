@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paho.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119114612id_/http%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paho.org privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320103613id_/http%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
 
 # PAHO WHO | PAHO Website Privacy Policy
 
@@ -46,7 +46,7 @@ Providing personal information on the PAHO site is optional. If you choose not t
 
 ### Opting out and changing your information
 
-At any time, you can cancel or modify your information by returning to the web page where you first provided the information and contacting the focal point for that page/PAHO department. Where contact details are not provided on the page, you can contact [here](https://web.archive.org/web/20171119114612id_/http%3A//www.paho.org/hq/index.php?option=com_contact&Itemid=137) for further information.
+At any time, you can cancel or modify your information by returning to the web page where you first provided the information and contacting the focal point for that page/PAHO department. Where contact details are not provided on the page, you can contact [here](https://web.archive.org/hq/index.php?option=com_content&view=category&layout=blog&id=2231&Itemid=137&lang=en) for further information.
 
 ## Security
 
@@ -62,7 +62,7 @@ Changes to this privacy policy will be posted on the PAHO home page at [www.paho
 
 ## [](https://web.archive.org/)Contact
 
-For questions or queries regarding this privacy policy, please contact us [here](https://web.archive.org/web/20171119114612id_/http%3A//www.paho.org/hq/index.php?option=com_contact&Itemid=137).
+For questions or queries regarding this privacy policy, please contact us [here](https://web.archive.org/hq/index.php?option=com_content&view=category&layout=blog&id=2231&Itemid=137&lang=en).
 
 * * *
 
