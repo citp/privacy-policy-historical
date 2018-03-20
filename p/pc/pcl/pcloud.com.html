@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the pcloud.com privacy policy that was archived on 2017-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170521015707id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcloud.com privacy policy that was archived on 2018-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180320134356id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 <meta charset="utf-8">
 <title>pCloud - Privacy Policy</title>
-<meta name="theme-color" content="#000">
 <meta name="msapplication-tap-highlight" content="no">
 <meta name="apple-itunes-app" content="app-id=692002098">
 <meta name="HandheldFriendly" content="true">
@@ -15,27 +14,22 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="pragma" content="no-cache">
-<meta http-equiv="last-modified" content="Fri, 19 May 2017 13:44:25 GMT">
+<meta http-equiv="last-modified" content="Mon, 19 Mar 2018 13:57:33 GMT">
 <meta name="google-site-verification" content="YkYcN4JMEPH_a4g3dnMeL1V9rOLTnAqe0NTqjOF1IVs">
-<meta property="og:image" content="//pcdn-www.pcloud.com/ZGI/images/social_img/micro.png">
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/npamdkabjncnnoaofdjcaipmnccofeem">
+<meta property="og:image" content="//pcdn-www.pcloud.com/Z49/images/social_img/micro.png">
 <link rel="alternate" href="https://www.pcloud.com/" hreflang="x-default">
 
+
 <style>
-	._user_header {
-		display: none;
-		float: right;
-		margin: 13px 15px 0 0;
-	}
-	#_logged_user {
-		float: right;
-		cursor: default;
-		height: 60px;
-	}
-	.login_area {
+	#userinfo_wrap {
 		float: right;
 		height: 60px;
-		min-width: 119px;
-		position: relative;
+		width: 147px;
+	}
+
+	body.logged_out .open-login-modal {
+		display: block;
 	}
 
 	body.logged_in .user,
@@ -77,6 +71,19 @@
 		display: table;
 	}
 
+	body.logged_in .user.table-cell,
+	body.logged_out .no_user.table-cell,
+	body.is_mobile .for_mobile.table-cell,
+	body.is_tablet .for_tablet.table-cell,
+	body.is_tablet .for_desktop.for_tablet.table-cell,
+	body.is_desktop .for_desktop.for_tablet.table-cell,
+	body.is_premium .for_premium.table-cell,
+	body.os_ios .for_ios.table-cell,
+	body.os_android .for_android.table-cell,
+	body.os_windows_phone .for_windowsphone.table-cell {
+		display: table-cell;
+	}
+
 	body.logged_in .no_user,
 	body.logged_out .user,
 	body.is_mobile .for_desktop,
@@ -96,7 +103,7 @@
 
 	@media(max-width: 767px) {
 		body .for_desktop {
-			display: none;
+			display: none !important;
 		}
 		body .for_mobile {
 			display: block;
@@ -120,30 +127,43 @@
 	var detectedMobile = detectIsMobile();
 	var detectedTablet = detectIsTablet();
 	var detectedRetina = window.devicePixelRatio > 1;
+	var myPcloudURL = "https://pcdn-my.pcloud.com/Z40/".replace('pcdn-', '').split('.com').shift() + '.com/';
 	var paypalURL = 'https://payments.pcloud.com';
+	var safeChargeURL = 'https://secure.gate2shop.com/ppp/purchase.do';
+	var safeChargeMerchantID = '161999';
+	var safeChargeEnv = 'prod';
 	var currentPageClass = 'generic';
-	var premiumPlanURL = "/payment.html?product=premium";
-	var premiumPlusPlanURL = "/payment.html?product=premium-plus";
-	var customPlanURL = "/payment.html?product=custom-plan";
-	var cryptoPlanURL = "/payment.html?product=crypto";
+	var premiumPlanURL = "/cloud-storage-pricing-plans.html?product=premium";
+	var premiumPlusPlanURL = "/cloud-storage-pricing-plans.html?product=premium-plus";
+	var customPlanURL = "/cloud-storage-pricing-plans.html?product=custom-plan";
+	var cryptoPlanURL = "/cloud-storage-pricing-plans.html?product=crypto";
 	var webview = '';
 	var upgradeText = "Upgrade";
+	var initDevAddon = function(){};
+	var thisBranch = "Branch: master/";
 	var inFBnxfo = '' != 1 ? false : true;
 	var currentBAtext = webview ? "If you need more users or storage, go to your account settings or contact owner of account." : "If you need more users or storage, go to <a href=\"https://my.pcloud.com/#page=b_account&tab-baccount=myaccount\" target=\"blank\">your account settings</a> or contact owner of account. For any other requests, please <a href=\"mailto:support@pcloud.com\">contact us</a>.";
 	var driveDLcode = {
-		'Mac': 			 'XZqTnIZfRMkJK1ocwperOrGWeEGBJwWlozX',
-		'Windows 10': 	 'XZ0PzqZ3QqlyN5RMYRQlqjCKHbBeuNOQkKk',
-		'Windows 8': 	 'XZ0PzqZ3QqlyN5RMYRQlqjCKHbBeuNOQkKk',
-		'Windows 7': 	 'XZ0PzqZ3QqlyN5RMYRQlqjCKHbBeuNOQkKk',
-		'Windows Vista': 'XZ0PzqZ3QqlyN5RMYRQlqjCKHbBeuNOQkKk',
-		'Windows XP': 	 'XZvvOXZ3cJAnzX5bdJSlz4bhl1xDu9a85XV',
-		'Windows 2000':  'XZvvOXZ3cJAnzX5bdJSlz4bhl1xDu9a85XV',
-		'Linux 32bit':   'XZFLUXZgiFvDjEWrjBd5A0yP6qRvhcw4kAk',
-		'Linux 64bit':   'XZ5LUXZnCaQsycCaLFoymzccM68XFRwXyNX',
-		'Android apk':   'XZGTDAZHnYAasyu5MHmVXJoYhCuBXrqiGh7',
-		'Electron':      'XZ1jUNZR8AFxiHSUYh7RVvI7p4dwYFYCCqV'
+		'Mac': 			  'XZh17L7ZuGLtSajtqq4mwtq021loxHYXti9X',
+		'Windows 10': 	  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
+		'Windows 8': 	  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
+		'Windows 7': 	  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
+		'Windows Vista':  'XZa17L7ZzMIC1H67HFhkJRa5p2qq3kYU4etk',
+		'Windows XP': 	  'XZvvOXZ3cJAnzX5bdJSlz4bhl1xDu9a85XV',
+		'Windows 2000':   'XZvvOXZ3cJAnzX5bdJSlz4bhl1xDu9a85XV',
+		'Linux 32bit':    'XZFLUXZgiFvDjEWrjBd5A0yP6qRvhcw4kAk',
+		'Linux 64bit':    'XZ5LUXZnCaQsycCaLFoymzccM68XFRwXyNX',
+		'Android apk':    'XZqCiR7ZD2vMaXCpqAzsKzs1mJDzI7K7XLPy',
+		'Electron':       'XZd81R7ZHSGlh6AdzfQxwIXt3oUXbLTA00HV',
+		'Electron 32bit': 'XZN81R7ZaBce0UgIJQXqbiy3WQT6upgVWzxk',
+		'Lightroom': 	  'XZXu2z7Z9rLkGvLPek5auaSWuwEwtpk8xw1X'
 	};
-		var CDN = "//pcdn-www.pcloud.com/ZGI/";
+	var addonDlLinks = {
+		'chrome': "https://chrome.google.com/webstore/detail/pcloud-save/npamdkabjncnnoaofdjcaipmnccofeem?authuser=1",
+		'firefox': "https://addons.mozilla.org/en-US/firefox/addon/pcloud-save/",
+		'opera': "https://addons.opera.com/en/extensions/details/pcloud-save/"
+	};
+		var CDN = "//pcdn-www.pcloud.com/Z49/";
 	var apiServer = "api.pcloud.com";
 	var apiUrl = "//"+apiServer+"/";
 	var detectLang = true;
@@ -166,13 +186,16 @@
 			'text': "Get it from Microsoft",
 			'link': "https://www.microsoft.com/en-us/store/p/pcloud-free-cloud-storage/9nblggh4wnqj"
 		}
-	};	var jstranslations = {"_error_2000":"Wrong username or password","email_not_valid":"Email is not valid","short_mail":"Email is too short","must_accept_terms":"You must accept Terms and Conditions","email_required":"Email is required","pass_required":"Password is required","DOWNGRADE":"Downgrade","CHANGE_SUBSCRIPTION":"Change Subscription","UPGRADE":"Upgrade","Current":"Current","PREMIUM_PLAN":"Premium Plan","PREMIUM_PLUS_PLAN":"Premium Plus Plan","PCLOUD_CRYPTO":"pCloud Crypto","for_month":" \/ month","for_year":" \/ year","ba_expired_owner_error":"Your account has expired, please contact your Account Manager %manager%","ba_expired_owner_no_acc_error":"Your account has expired, please contact our Sales Team at %sales_email%","ba_expired_user_error":"Your Business account has expired, please contact %ba_owner% for more information.","Free":"Free","product_change":"change","HOME_PREMIUM_PLAN":"Premium","HOME_PREMIUM_PLUS_PLAN":"Premium Plus","GB":"GB","TB":"TB","billed_annually":"annually","billed_monthly":"monthly","space":"space","upsale_text_for_premium":"<h1>74%<\/h1> of the users who have pCloud Crypto have also purchased premium plan!","Premium":"Premium","get_premium":"Get Premium","upsale_text_for_crypto":"<h1>74%<\/h1> of the users who have premium plan have also purchased pCloud Crypto!","get_crypto":"Get Crypto","custom_plan_description":"Make your choice","lifetime_premium":"Lifetime Premium","Business":"Business","your_current_plan_storage_traffic":"Your current plan is %plan%. You have %storage% of storage space and %traffic% of download link traffic per month.","plans_vivapcloud_current_message":"Your current plan is VIVApCloud. If you want to subscribe for pCloud Premium or Custom plan, please sign in with different email address and get more storage and download traffic now","plans_ba_current_msg_short":"If you need more users or storage, go to your account settings or contact owner of account.","your_ba_acc_settings":"your account settings","premium_plan_valid_till":"Your plan is valid till %expires_date%","SIGN_UP_NEW":"Sign Up","get_premium_plus":"Get Premium Plus","design_your_plan_btn":"Design your plan","add_storage_traffic_btn":"Add storage and traffic","go_premium_btn":"Go Premium","go_premium_plus_btn":"Go Premium Plus","header_logout":"Log out","Mobile App":"Mobile App","pCloud Drive for %os%":"pCloud Drive for %os%"};
+	};	var jstranslations = {"_error_2000":"Wrong username or password","email_not_valid":"Email is not valid","short_mail":"Email is too short","must_accept_terms":"You must accept Terms and Conditions","email_required":"Email is required","pass_required":"Password is required","DOWNGRADE":"Downgrade","CHANGE_SUBSCRIPTION":"Change Subscription","UPGRADE":"Upgrade","Current":"Current","PREMIUM_PLAN":"Premium Plan","PREMIUM_PLUS_PLAN":"Premium Plus Plan","PCLOUD_CRYPTO":"pCloud Crypto","for_month":" \/ month","for_year":" \/ year","ba_expired_owner_error":"Your account has expired, please contact your Account Manager %manager%","ba_expired_owner_no_acc_error":"Your account has expired, please contact our Sales Team at %sales_email%","ba_expired_user_error":"Your Business account has expired, please contact %ba_owner% for more information.","Free":"Free","product_change":"change","HOME_PREMIUM_PLAN":"Premium","HOME_PREMIUM_PLUS_PLAN":"Premium Plus","GB":"GB","TB":"TB","billed_annually":"annually","billed_monthly":"monthly","space":"space","upsale_text_for_premium":"<h1>74%<\/h1> of the users who have pCloud Crypto have also purchased premium plan!","Premium":"Premium","get_premium":"Get Premium","upsale_text_for_crypto":"<h1>74%<\/h1> of the users who have premium plan have also purchased pCloud Crypto!","get_crypto":"Get Crypto","custom_plan_description":"Make your choice","lifetime_premium":"Lifetime Premium","Business":"Business","your_current_plan_storage_traffic":"Your current plan is %plan%. You have %storage% of storage space and %traffic% of download link traffic per month.","plans_vivapcloud_current_message":"Your current plan is VIVApCloud. If you want to subscribe for pCloud Premium or Custom plan, please sign in with different email address and get more storage and download traffic now","plans_ba_current_msg_short":"If you need more users or storage, go to your account settings or contact owner of account.","your_ba_acc_settings":"your account settings","premium_plan_valid_till":"Your plan is valid till %expires_date%","SIGN_UP_NEW":"Sign Up","get_premium_plus":"Get Premium Plus","design_your_plan_btn":"Design your plan","add_storage_traffic_btn":"Add storage and traffic","go_premium_btn":"Go Premium","go_premium_plus_btn":"Go Premium Plus","header_logout":"Log out","Mobile App":"Mobile App","pCloud Drive for %os%":"pCloud Drive for %os%","annual_payment":"Annual"};
 	var currentLang = "en";
 	var jsTranslate = jsTranslate || {};
 	var globalLang = globalLang || {};
 	var redirecting = false;
+	var userDropdownWrap;
 	var scrollWidth;
 	var allImages;
+	var siteLogo;
+	var domBody;
 
 	function __(key, str, repl) {
 		if (jsTranslate && key in jsTranslate) {
@@ -310,55 +333,59 @@
 			}
 		}
 
-		document.body.classList.add('window_loaded');
+		domBody.classList.add('window_loaded');
 	};
 
-	function UIchanges() {
-		if (document.cookie.search('pcauth') != -1) {
-			document.body.classList.add('logged_in');
-			document.body.classList.remove('logged_out');
-/*			if (!detectedMobile && !detectedTablet) {
-				document.getElementById('main_logo').setAttribute('href', 'https://my.pcloud.com/');
-			}*/
+	function onReadyChanges() {
+		domBody = document.body;
+		siteLogo = document.getElementById('main_logo');
+		userDropdownWrap = document.getElementById('userinfo_wrap');
 
-					} else {
-			document.body.classList.add('logged_out');
-			document.body.classList.remove('logged_in');
+		if (document.cookie.search('pcauth') != -1) {
+			domBody.classList.add('logged_in');
+			domBody.classList.remove('logged_out');
+
+			if (!detectedMobile && !detectedTablet && siteLogo) {
+				siteLogo.setAttribute('href', myPcloudURL);
+			}
+		} else {
+			domBody.classList.add('logged_out');
+			domBody.classList.remove('logged_in');
 		}
 
 		var scrollDiv = document.getElementById('scroll_div');
 		scrollWidth = scrollDiv.offsetWidth - scrollDiv.clientWidth;
 		allImages = document.images;
 
-		document.body.classList.add('os_' + detectOS(false, true).replace(/ /g, '_'));
+		domBody.classList.add('os_' + detectOS(false, true).replace(/ /g, '_'));
 
 		if (detectedRetina) {
-			document.body.classList.add('is_retina');
+			domBody.classList.add('is_retina');
 		}
 
 		if (detectedMobile) {
-			document.body.classList.add('is_mobile');
+			domBody.classList.add('is_mobile');
 		}
 
 		if (detectedTablet) {
-			document.body.classList.add('is_tablet');
-			document.body.classList.remove('is_mobile');
+			domBody.classList.add('is_tablet');
+			domBody.classList.remove('is_mobile');
 		}
 
 		if (!detectedMobile && !detectedTablet) {
-			document.body.classList.remove('is_mobile', 'is_tablet');
-			document.body.classList.add('is_desktop');
+			domBody.classList.remove('is_mobile', 'is_tablet');
+			domBody.classList.add('is_desktop');
 		}
 
 		if (scrollWidth > 0) {
-			document.body.classList.add('has_scroll');
+			domBody.classList.add('has_scroll');
 		}
 
 		for (var i = 0; i < allImages.length; i++) {
 			var forceHide = allImages[i].getAttribute('data-forcehide');
 
-			if (forceHide == 'mobile' && detectedMobile) {
-				return;
+			if (forceHide == 'mobile' && detectedMobile && !detectedTablet) {
+				continue;
 			}
 
 			if (allImages[i].getAttribute('data-src-retina')) {
@@ -367,8 +394,9 @@
 		}
 	};
 
+
+	document.addEventListener('DOMContentLoaded', onReadyChanges, false);
 	window.addEventListener('load', onLoadChanges);
-	document.addEventListener('DOMContentLoaded', UIchanges, false);
 </script>
 <script type="text/javascript">
 	pageLanguage = 'en';
@@ -397,7 +425,7 @@
 	        var expires = "; expires="+date.toGMTString();
 
 	        document.cookie = name+"="+value+expires+((path) ? "; path=" + path : "")+((domain) ? "; domain=" + domain : "");
-	    }
+	    },
 	};
 
 	function setLangCookie(lang) {
@@ -405,7 +433,7 @@
 	};
 
 	function getBrowserLang() {
-	    var lang = {'bg':'bg','tr':'tr','en':'en','es':'es','ru':'ru','pt':'pt','fr':'fr','it':'it','de':'de','zh':'zh','fa':'fa'};
+	    var lang = {'bg':'bg','tr':'tr','en':'en','es':'es','ru':'ru','pt':'pt','fr':'fr','it':'it','zh':'zh','fa':'fa'};
 	    var code;
 
 	    if (typeof navigator.languages == 'undefined') {
@@ -423,6 +451,33 @@
 	    return 'en';
 	};
 
+
+	function getRefIdForReferer(referrer) {
+		if (!referrer || referrer == '') {
+			return;
+		}
+		var referrers = [
+			{ baseurl: 'cloudgratuit\.fr',  refid: 2620 },
+			{ baseurl: 'onlinecloudbackups\.net', refid: 2672 }
+		];
+		for (var i=0; i < referrers.length; i++) {
+			var r = referrers[i];
+			var refFound = new RegExp("//[^.]*\.?" + r.baseurl + "/?");
+			if (refFound.test(referrer)) {
+				return r.refid;
+			}
+		}
+	}
+
+	function setRefFromReferer(referrer) {
+		var refid = getRefIdForReferer(referrer);
+		if (refid) {
+			jsCookies.set('ref', refid, 5, '/', '.pcloud.com');
+		}
+		return refid;
+	}
+	(!jsCookies.get('ref') || jsCookies.get('ref') === "0") && setRefFromReferer(document.referrer);
+
 	function detect_language() {
 		if (!detectLang) {
 			return;
@@ -439,144 +494,109 @@
 	    	redirecting = true;
 	        window.location.replace('/'+ lang_cookie + window.location.pathname + window.location.search + window.location.hash);
 	    }
+
+	    if (pageLanguage=="de" || c=="de" || lang_cookie=="de"){
+	    	setLangCookie("en");
+	    }
 	};
 
 	detect_language();
 </script>
 
- <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/ZGI/css/site.css"> <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/ZGI/css/micro.css"><!--[if lte IE 9]>
-	<link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/ZGI/css/c_site_ie9.css" />
+ <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/Z49/css/site.css"> <link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/Z49/css/micro.css"><!--[if lte IE 9]>
+	<link type="text/css" rel="stylesheet" href="//pcdn-www.pcloud.com/Z49/css/c_site_ie9.css" />
 <![endif]-->
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;subset=cyrillic-ext,latin-ext,vietnamese" rel="stylesheet">
 
-<script src="//pcdn-www.pcloud.com/ZGI/js/jquery.min.js"></script>
-<script src="//pcdn-www.pcloud.com/ZGI/js/common.js"></script>
+<script src="//pcdn-www.pcloud.com/Z49/js/jquery.min.js"></script>
+<script src="//pcdn-www.pcloud.com/Z49/js/common.js"></script>
 
 
-<script src="//pcdn-www.pcloud.com/ZGI/js/micro-site.js"></script>
+
+<script src="//pcdn-www.pcloud.com/Z49/js/micro-site.js"></script>
 
 <!--[if lt IE 9]>
-  <script src="//pcdn-www.pcloud.com/ZGI/js/ie/html5shiv.js"></script>
-  <script src="//pcdn-www.pcloud.com/ZGI/js/ie/nwmatcher-1.2.5-min.js"></script>
-  <script src="//pcdn-www.pcloud.com/ZGI/js/ie/selectivizr-1.0.3b.js"></script>
-  <script src="//pcdn-www.pcloud.com/ZGI/js/ie/respond.min.js"></script>
+  <script src="//pcdn-www.pcloud.com/Z49/js/ie/html5shiv.js"></script>
+  <script src="//pcdn-www.pcloud.com/Z49/js/ie/nwmatcher-1.2.5-min.js"></script>
+  <script src="//pcdn-www.pcloud.com/Z49/js/ie/selectivizr-1.0.3b.js"></script>
+  <script src="//pcdn-www.pcloud.com/Z49/js/ie/respond.min.js"></script>
 <![endif]-->
 <!--[if lte IE 8]>
-	<script src="//pcdn-www.pcloud.com/ZGI/js/ie/jquery.corner.js"></script>
+	<script src="//pcdn-www.pcloud.com/Z49/js/ie/jquery.corner.js"></script>
 <![endif]-->
 
 <link href="/images/fav.ico" rel="shortcut icon" type="image/x-icon">
 
-<link rel="prefetch" href="//pcdn-www.pcloud.com/ZGI/css/plans.css">
-<link rel="prefetch" href="//pcdn-www.pcloud.com/ZGI/js/plans.js">
+<link rel="prefetch" href="//pcdn-www.pcloud.com/Z49/css/plans.css">
+<link rel="prefetch" href="//pcdn-www.pcloud.com/Z49/js/plans.js">
 <link rel="prefetch" href="/cloud-storage-pricing-plans.html">
 
 
-
-<link rel="prefetch" href="https://my.pcloud.com/">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/main.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/jscommon.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/lang/bg.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/hltip.js">
-
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/dlink.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/videojs/video.min.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/videojs/videojs-resolution-switcher.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/videojs/videojs-volume-persist.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/vendor.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/compat.js">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/pcrypto.js">
-
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/css/main.css">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/css/main-styles.css">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/css/files.css">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/css/b.css">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/css/compat.css">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/videojs/video-js.min.css">
-<link rel="prefetch" href="https://pcdn-my.pcloud.com/ZVV/js/videojs/videojs-resolution-switcher.css">
 </head>
 
 <body class="en privacypolicy generic modal_contain logged_out os_linux is_desktop window_loaded">
 	<div id="scroll_div" style="width:100px;height:100px;overflow:scroll !important;position:absolute;top:-9999px"></div>
 
 	<header class="fixed modal_contain">
-		<div class="header-bg"></div>
-		<div class="logo">
-			<a href="/" id="main_logo">pCloud Secure Cloud Storage</a>
-			<img class="lazy" width="133" src="//pcdn-www.pcloud.com/ZGI/images/logo.png" data-src="//pcdn-www.pcloud.com/ZGI/images/logo.png" data-src-retina="//pcdn-www.pcloud.com/ZGI/images/logo@2x.png" alt="pCloud.com Logo" title="pCloud - Cloud Storage">
-		</div>
-
-		<div class="login_area for_desktop">
-			<div class="no_user _user_header">
-							<a href="/cloud-storage-pricing-plans.html" class="blue_btn signup_btn">Sign Up</a>
-
-				<a href="javascript:;" class="open-login-modal" data-open="login" data-hide="tabs">Log in</a>
+		<div class="header_wrap">
+			<div class="logo">
+				<a href="/" id="main_logo">pCloud Secure Cloud Storage</a>
+				<img width="135" src="https://pcdn-my.pcloud.com/Z40/img/header/logo.png" data-src="https://pcdn-my.pcloud.com/Z40/img/header/logo.png" data-src-retina="https://pcdn-my.pcloud.com/Z40/img/header/logo@2x.png" alt="pCloud.com Logo" title="pCloud - Cloud Storage">
 			</div>
 
-			<div id="_logged_user" class="user name-box clearfix">
-				<div class="gear-ico"></div>
-				<span class="head-sep"></span>
-								<a href="https://my.pcloud.com/" class="go_to_my" data-gevent="GoToYourFiles">Access pCloud</a>
+			<div class="header_right_wrap">
+				<div class="mobile-menu-btn">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
 
-				<div class="_gear g-hidden">
-					<div class="gear_inner">
-						<ul class="gear_top nam">
-							<li class="gear_name"></li>
+				<div id="userinfo_wrap" class="for_desktop for_tablet"></div>
+
+				<nav>
+					<div class="top_nav_links_holder">
+						<div class="add_menu_shadow_wrap for_mobile">
+							<div class="add_menu_shadow"></div>
+						</div>
+
+						<ul class="mob_user_info for_mobile user">
+							<li class="_name"></li>
 						</ul>
-						<ul class="gear_top">
-							<li class="upgr_acc"><a href="/cloud-storage-pricing-plans.html" data-gevent="UpgradePremium">Upgrade Account</a></li>
+
+						<ul class="nav_links">
+														<li class="downloads">
+
+								<a href="/download-free-online-cloud-file-storage.html">Download</a>
+							</li>
+														<li class="plans">
+
+								<a href="/cloud-storage-pricing-plans.html">Premium</a>
+							</li>
+													</ul>
+
+						<ul class="mob_login for_mobile no_user">
+							<li>
+																<a href="/cloud-storage-pricing-plans.html" class="blue_btn signup_btn">Sign Up</a></li>
+															<li class="mob_login_btn"><a href="javascript:;" class="login_btn" data-open="login" data-hide="tabs">Login</a></li>
+						</ul>
+
+	 					<ul class="mob_logout for_mobile user">
+							<li class="goto_pcloud"><a href="javascript:;" onclick="window.location='https://my.pcloud.com/#authtoken='+$.cookie('pcauth');">Go to My pCloud</a></li>
+							<li class="upgr_acc"><a href="/cloud-storage-pricing-plans.html">Upgrade Account</a></li>
 							<li class="manage_subscrb for_premium"><a href="/manage-subscriptions.html">Manage Subscription</a></li>
-							<li class="gear_help"><a href="/help/general-help-center/">Help</a></li>
-						</ul>
-						<ul>
 							<li class="logout_btn"><a href="javascript:;" onclick="logoutUser();">Log out</a></li>
 						</ul>
 					</div>
-					<div class="gear_arrow"></div>
-				</div>
-			</div>
+				</nav>
+
+								<a data-ribbon="1" href="https://www.pcloud.com/christmas-2017" class="header_ribbon" target="_blank">
+					<img src="//pcdn-www.pcloud.com/Z49/images/chrst_2017.png" data-src="//pcdn-www.pcloud.com/Z49/images/chrst_2017.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/chrst_2017@2x.png" width="68">
+				</a>
+				<a data-ribbon="2" href="https://www.pcloud.com/christmas-2017" class="header_ribbon" target="_blank">
+					<img src="//pcdn-www.pcloud.com/Z49/images/chrst2_2017.png" data-src="//pcdn-www.pcloud.com/Z49/images/chrst2_2017.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/chrst2_2017@2x.png" width="68">
+				</a>
+							</div>
 		</div>
-
-		<div class="mobile-menu-btn">
-			<span></span>
-			<span></span>
-			<span></span>
-		</div>
-
-		<nav>
-			<div class="top_nav_links_holder">
-
-				<ul class="mob_user_info for_mobile user">
-					<li class="_name"></li>
-				</ul>
-
-				<ul class="nav_links">
-										<li class="downloads">
-
-
-						<a href="/download-free-online-cloud-file-storage.html">Download</a>
-					</li>
-										<li class="plans">
-
-
-						<a href="/cloud-storage-pricing-plans.html">Premium</a>
-					</li>
-									</ul>
-
-				<ul class="mob_login for_mobile no_user">
-					<li>
-												<a href="/cloud-storage-pricing-plans.html" class="blue_btn signup_btn">Sign Up</a></li>
-											<li class="mob_login_btn"><a href="javascript:;" class="login_btn" data-open="login" data-hide="tabs">Log in</a></li>
-				</ul>
-
-				<ul class="mob_logout for_mobile user">
-					<li class="goto_pcloud"><a href="javascript:;" onclick="window.location='https://my.pcloud.com/#authtoken='+$.cookie('pcauth');">Go to My pCloud</a></li>
-					<li class="upgr_acc"><a href="/cloud-storage-pricing-plans.html">Upgrade Account</a></li>
-					<li class="manage_subscrb for_premium"><a href="/manage-subscriptions.html">Manage Subscription</a></li>
-					<li class="logout_btn"><a href="javascript:;" onclick="logoutUser();">Log out</a></li>
-				</ul>
-			</div>
-		</nav>
 	</header>
 
 <div class="microheader-wrap faq">
@@ -597,32 +617,32 @@
 					<li class="mob_cat" style="display: none;">Privacy Policy <img src="/images/micro-mob-arrow.png" width="13"></li>
 									<li>
 						<a href="/terms_and_conditions.html">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
 							Terms and Conditions						</a>
 					</li>
 									<li class="selected">
 						<a href="/privacy_policy.html">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
 							Privacy Policy						</a>
 					</li>
 									<li>
 						<a href="/int_pr_policy.html">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
 							Intellectual Property Policy						</a>
 					</li>
 									<li>
 						<a href="/business_agreement.html">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
 							Business Agreement						</a>
 					</li>
 									<li>
 						<a href="/affiliate_terms.html">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-default.png" class="ina">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/left-micro/business-active.png" class="act">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-default.png" class="ina">
+							<img src="//pcdn-www.pcloud.com/Z49/images/left-micro/business-active.png" class="act">
 							Affiliate Program Terms and Conditions						</a>
 					</li>
 								</ul>
@@ -686,7 +706,7 @@ Please be aware that whenever you share information on a publicly available prof
 
 <h3>Security</h3>
 <p>
-We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other networks can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
 </p>
 
 <h3>Links To Other Web Sites</h3>
@@ -711,7 +731,7 @@ If you reside in the European Union, you have a legal right to a copy of all the
 
 <h3>Privacy Policy Changes</h3>
 <p>
-From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
+From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date, shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
 </p>
 
 <p><em>Revised: <strong>12 Aug 2016</strong></em></p>			</div>
@@ -734,162 +754,159 @@ $(document).ready(function() {
 
 	<footer>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" class="toggle">Services</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">pCloud</h4>
 				<ul>
 									<li><a class="" href="/download-free-online-cloud-file-storage.html">Download</a></li>
 									<li><a class="" href="/cloud-storage-pricing-plans.html">Premium</a></li>
-									<li><a class="" href="/crypto.html">Crypto</a></li>
+									<li><a class="" href="/encrypted-cloud-storage.html">Crypto</a></li>
 									<li><a class="" href="/cloud-storage-for-business.html">Business</a></li>
 									<li><a class="" target="_blank" href="https://transfer.pcloud.com">Transfer</a></li>
 								</ul>
 			</div>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" class="toggle">More Info</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Features</h4>
 				<ul>
-									<li><a class="" href="/affiliate.html">Affiliate</a></li>
-									<li><a class="" href="/reseller.html">Reseller</a></li>
-									<li><a class="" href="/features/file-management.html">Features</a></li>
+									<li><a class="" href="/features/file-management.html">File Management</a></li>
+									<li><a class="" href="/features/file-sharing.html">Sharing</a></li>
 									<li><a class="" href="/features/security.html">Security</a></li>
-									<li><a class="" target="_blank" href="https://blog.pcloud.com/">Blog</a></li>
-									<li><a class="" target="_blank" href="http://docs.pcloud.com/">Dev API</a></li>
+									<li><a class="" href="/features/file-versioning.html">File Versioning</a></li>
+									<li><a class="" href="/features/integrations.html">File Backup</a></li>
+								</ul>
+			</div>
+					<div class="footer-menu">
+				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Company</h4>
+				<ul>
+									<li><a class="" href="/company/about.html">About us</a></li>
+									<li><a class="" href="/company/certification.html">Certification</a></li>
+									<li><a class="" href="/company/press.html">Press Center</a></li>
+									<li><a class="" href="/testimonials.html">Testimonials</a></li>
+									<li><a class="" target="_blank" href="https://blog.pcloud.com/">The pCloud Blog</a></li>
+								</ul>
+			</div>
+					<div class="footer-menu">
+				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Help Center</h4>
+				<ul>
+									<li><a class="" href="/help/general-help-center/">F.A.Q.</a></li>
+									<li><a class="" href="/company/contactus.html">Contact Us</a></li>
+									<li><a class="" href="/request-help.html">Request Help</a></li>
 									<li><a class="" href="/release-notes/windows.html">Release Notes</a></li>
 								</ul>
 			</div>
 					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" class="toggle">Company</h4>
+				<h4><img data-lazy="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/Z49/images/newsletter-pointer.png" class="toggle">Community</h4>
 				<ul>
-									<li><a class="" href="/company/about.html">About</a></li>
-									<li><a class="" href="/company/careers.html">Careers</a></li>
-									<li><a class="" href="/company/certification.html">Certification</a></li>
-									<li><a class="" href="/company/appraisal.html">Appraisal</a></li>
-									<li><a class="" href="/company/press.html">Press</a></li>
-									<li><a class="" href="/company/contactus.html">Contact Us</a></li>
-								</ul>
-			</div>
-					<div class="footer-menu">
-				<h4><img data-lazy="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" src="//pcdn-www.pcloud.com/ZGI/images/newsletter-pointer.png" class="toggle">FAQ</h4>
-				<ul>
-									<li><a class="" href="/help/general-help-center/">General</a></li>
-									<li><a class="" href="/help/drive-help-center/">pCloud Drive</a></li>
-									<li><a class="" href="/help/ios-help-center/">iOS</a></li>
-									<li><a class="" href="/help/android-help-center/">Android</a></li>
-									<li><a class="" href="/help/windows-mobile-help-center/">Windows Mobile</a></li>
-									<li><a class="" href="/help/web-help-center/">Web</a></li>
-									<li><a class="" href="/help/how-to-encrypt-files-and-data/">pCloud Crypto</a></li>
-									<li><a class="" href="/help/business-help-center/">Business</a></li>
-									<li><a class="" href="/help/affiliate-help-center/">Affiliate</a></li>
-									<li><a class="" href="/request-help.html">Request Help</a></li>
+									<li><a class="" href="/affiliate.html">Affiliate Program</a></li>
+									<li><a class="" target="_blank" href="https://my.pcloud.com/#page=referral">Referral Program</a></li>
+									<li><a class="" href="/reseller.html">pCloud Resellers</a></li>
+									<li><a class="" target="_blank" href="https://docs.pcloud.com/">For Developers</a></li>
 								</ul>
 			</div>
 
 		<div class="footer-inputs">
-			<div class="lang">
-				<div class="inptitle">Language</div>
-				<div class="lang-box" data-hover="open">
-					<span class="chosen">English</span>
-					<span class="flag"><span class="load-bg en"></span></span>
-					<div class="other-langs">
-
-													<div class="each-lang">
-							  	<a class="set-lang" href="/bg/privacy_policy.html" data-lang="bg">
-									<span class="name">Български</span>
-									<span class="flag"><span class="load-bg bg"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/tr/privacy_policy.html" data-lang="tr">
-									<span class="name">Türkçe</span>
-									<span class="flag"><span class="load-bg tr"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/es/privacy_policy.html" data-lang="es">
-									<span class="name">Español</span>
-									<span class="flag"><span class="load-bg es"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/ru/privacy_policy.html" data-lang="ru">
-									<span class="name">Русский</span>
-									<span class="flag"><span class="load-bg ru"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/zh/privacy_policy.html" data-lang="zh">
-									<span class="name">正體中文</span>
-									<span class="flag"><span class="load-bg zh"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/de/privacy_policy.html" data-lang="de">
-									<span class="name">Deutsch</span>
-									<span class="flag"><span class="load-bg de"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/it/privacy_policy.html" data-lang="it">
-									<span class="name">Italiano</span>
-									<span class="flag"><span class="load-bg it"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/fr/privacy_policy.html" data-lang="fr">
-									<span class="name">Français</span>
-									<span class="flag"><span class="load-bg fr"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/pt/privacy_policy.html" data-lang="pt">
-									<span class="name">Português</span>
-									<span class="flag"><span class="load-bg pt"></span></span>
-								</a>
-							</div>
-													<div class="each-lang">
-							  	<a class="set-lang" href="/fa/privacy_policy.html" data-lang="fa">
-									<span class="name">فارسی</span>
-									<span class="flag"><span class="load-bg fa"></span></span>
-								</a>
-							</div>
-
-						<div class="each-lang current">
-							<span class="name">English</span>
-							<span class="flag"><span class="load-bg en"></span></span>
-						</div>
-					</div>
+			<div class="follow_wrap">
+				<div class="follow_headline">Follow Us</div>
+				<div class="follow-buttons">
+					<a href="https://www.facebook.com/pCloudapp" target="_blank">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/f.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/f@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/f.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/f-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/f-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/f-a.png" width="32">
+					</a>
+					<a href="https://plus.google.com/110291492066379393780/posts" target="_blank">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/g.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/g@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/g.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/g-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/g-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/g-a.png" width="32">
+					</a>
+					<a href="https://twitter.com/pCloudapp" target="_blank">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/t.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/t@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/t.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/t-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/t-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/t-a.png" width="32">
+					</a>
+					<a href="https://www.instagram.com/pcloud/" target="_blank">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/in.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/in@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/in.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/in-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/in-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/in-a.png" width="32">
+					</a>
+					<a href="https://www.youtube.com/channel/UCdiQK9arQfrgtxAclns9p2g" target="_blank">
+						<img class="ico-off" data-src="//pcdn-www.pcloud.com/Z49/images/footer/y.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/y@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/y.png" width="32">
+						<img class="ico-on" data-src="//pcdn-www.pcloud.com/Z49/images/footer/y-a.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/footer/y-a@2x.png" src="//pcdn-www.pcloud.com/Z49/images/footer/y-a.png" width="32">
+					</a>
 				</div>
-			</div>
-
-			<div class="clearfix"></div>
-			<div class="newsletter">
-				<div class="inptitle">Join Our Newsletter</div>
-				<div class="input-wrap">
-					<input type="text" placeholder="Enter your email address" name="subscribe-email" data-tooltip="" data-tooltip-type="error">
-					<div class="pointer load-bg" onclick="newsletterSubscribe();"></div>
-				</div>
+				<div class="follow_sep for_mobile"></div>
 			</div>
 		</div>
 	</footer>
 
-	<div class="clearfix"></div>
 
-	<div class="follow">
-		<div class="follow-title">Follow Us</div>
-		<div class="follow-line"></div>
-		<div class="follow-buttons">
-			<a href="https://www.facebook.com/pCloudapp" target="_blank">
-				<img data-lazy="//pcdn-www.pcloud.com/ZGI/images/fb.png" data-lazy-retina="//pcdn-www.pcloud.com/ZGI/images/fb@2x.png" src="//pcdn-www.pcloud.com/ZGI/images/fb.png" width="42">
-			</a>
-			<a href="https://plus.google.com/110291492066379393780/posts" target="_blank">
-				<img data-lazy="//pcdn-www.pcloud.com/ZGI/images/gp.png" data-lazy-retina="//pcdn-www.pcloud.com/ZGI/images/gp@2x.png" src="//pcdn-www.pcloud.com/ZGI/images/gp.png" width="42">
-			</a>
-			<a href="https://twitter.com/pCloudapp" target="_blank">
-				<img data-lazy="//pcdn-www.pcloud.com/ZGI/images/tw.png" data-lazy-retina="//pcdn-www.pcloud.com/ZGI/images/tw@2x.png" src="//pcdn-www.pcloud.com/ZGI/images/tw.png" width="42">
-			</a>
+	<div class="footer_bottom">
+		<div class="copyright"><span>©</span> 2018 pCloud AG</div>
+		<div class="terms_links"><a href="/terms_and_conditions.html">Terms and Conditions</a>. <a href="/privacy_policy.html">Privacy Policy</a>. <a href="/int_pr_policy.html">Intellectual Property Policy</a></div>
+		<div class="language_wrap" data-hover="open">
+ 			<div class="lang">
+				<div class="inptitle">Language:</div>
+				<div class="lang-box">
+					<span class="chosen">English</span>
+					<span class="flag"><span class="load-bg en"></span></span>
+					<div class="other-langs">
+						<div class="other-langs-wrap">
+															<div class="each-lang">
+								  	<a class="set-lang" href="/bg/privacy_policy.html" data-lang="bg">
+										<span class="name">Български</span>
+										<span class="flag"><span class="load-bg bg"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/tr/privacy_policy.html" data-lang="tr">
+										<span class="name">Türkçe</span>
+										<span class="flag"><span class="load-bg tr"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/es/privacy_policy.html" data-lang="es">
+										<span class="name">Español</span>
+										<span class="flag"><span class="load-bg es"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/ru/privacy_policy.html" data-lang="ru">
+										<span class="name">Русский</span>
+										<span class="flag"><span class="load-bg ru"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/zh/privacy_policy.html" data-lang="zh">
+										<span class="name">正體中文</span>
+										<span class="flag"><span class="load-bg zh"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/it/privacy_policy.html" data-lang="it">
+										<span class="name">Italiano</span>
+										<span class="flag"><span class="load-bg it"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/fr/privacy_policy.html" data-lang="fr">
+										<span class="name">Français</span>
+										<span class="flag"><span class="load-bg fr"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/pt/privacy_policy.html" data-lang="pt">
+										<span class="name">Português</span>
+										<span class="flag"><span class="load-bg pt"></span></span>
+									</a>
+								</div>
+															<div class="each-lang">
+								  	<a class="set-lang" href="/fa/privacy_policy.html" data-lang="fa">
+										<span class="name">فارسی</span>
+										<span class="flag"><span class="load-bg fa"></span></span>
+									</a>
+								</div>
+
+							<div class="langs-arrow-border"></div>
+							<div class="langs-arrow"></div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
-
-
-	<div class="copyright">2017 © pCloud, Switzerland. <a href="/terms_and_conditions.html">Terms and Conditions</a>, <a href="/privacy_policy.html">Privacy Policy</a>, <a href="/int_pr_policy.html">Intellectual Property Policy</a></div>
 </div>
 
 <div class="mob_menu_overlay"></div>
@@ -904,7 +921,7 @@ $(document).ready(function() {
 
 					<div class="tabs">
 						<div class="tab_wrap">
-							<div class="tab active">Log in</div>
+							<div class="tab active">Login</div>
 							<div class="tab" data-open="register">Sign Up</div>
 						</div>
 					</div>
@@ -931,7 +948,7 @@ $(document).ready(function() {
 
 					<div class="bottom">
                         <div class="btn blue" data-tooltip="" data-tooltip-type="error" onclick="loginUser();" data-gevent="Login button">
-                            Log in<img class="spinner" src="images/button_loading.png" data-lazy="images/button_loading.png">
+                            Login<img class="spinner" src="images/button_loading.png" data-lazy="images/button_loading.png">
                         </div>
 					</div>
 				</div>
@@ -950,7 +967,7 @@ $(document).ready(function() {
 
                     <div class="tabs">
                         <div class="tab_wrap">
-                            <div class="tab" data-open="login">Log in</div>
+                            <div class="tab" data-open="login">Login</div>
                             <div class="tab active">Sign Up</div>
                         </div>
                     </div>
@@ -1003,25 +1020,25 @@ $(document).ready(function() {
 				<div class="content">
 					<div class="left_box">
 						<div class="mobile mob_heading">Take your files anywhere you go!</div>
-						<img class="app_image" src="//pcdn-www.pcloud.com/ZGI/images/lazy-load.png" width="540">
+						<img class="app_image" src="//pcdn-www.pcloud.com/Z49/images/lazy-load.png" width="540">
 					</div><!--
 				 --><div class="right_box">
-						<h1>To use pCloud at it's full potential download <b>pCloud Drive</b></h1>
+						<h1>To use pCloud at its full potential download <b>pCloud Drive</b></h1>
 						<a href="javascript:;" class="btn blue_btn" data-download="drive" data-gevent="Mid Download Drive button">Download</a>
 					</div><!--
 				 --><div class="mobile button_box">
 						<a href="javascript:;" class="btn_badge">
 							<span style="left: 28%;z-index: 6;"></span>
-							<img src="//pcdn-www.pcloud.com/ZGI/images/lazy-load.png" width="193">
+							<img src="//pcdn-www.pcloud.com/Z49/images/lazy-load.png" width="193">
 						</a>
 						<a href="https://cafebazaar.ir/app/com.pcloud.pcloud/?l=fa" class="iran_playstore">
-							<img src="//pcdn-www.pcloud.com/ZGI/images/iran_playstore@2x.png" data-lazy="//pcdn-www.pcloud.com/ZGI/images/iran_playstore@2x.png" alt="">
+							<img src="//pcdn-www.pcloud.com/Z49/images/iran_playstore@2x.png" data-lazy="//pcdn-www.pcloud.com/Z49/images/iran_playstore@2x.png" alt="">
 						</a>
 						<div class="for_android dw-apk">
 							<span class="or_apk">or</span>
 							<a href="javascript:;" data-gevent="Mid Download Android button" data-download="Android apk" class="apk_badge">
 								<span style="font-size: 10px;z-index: 6;margin: 0;text-align: left;width: inherit;top: 5%;">Download</span>
-								<img src="//pcdn-www.pcloud.com/ZGI/images/p_mob/apk_badge.png" data-lazy="//pcdn-www.pcloud.com/ZGI/images/p_mob/apk_badge.png" style="margin-bottom: 0;" width="193" alt="Download pCloud.apk">
+								<img src="//pcdn-www.pcloud.com/Z49/images/p_mob/apk_badge.png" data-lazy="//pcdn-www.pcloud.com/Z49/images/p_mob/apk_badge.png" style="margin-bottom: 0;" width="193" alt="Download pCloud.apk">
 							</a>
 						</div>
 					</div>
@@ -1072,7 +1089,7 @@ $(function() {
 		}
 
 		dwAppImage.attr('width', '');
-		dwAppImageSource = '//pcdn-www.pcloud.com/ZGI/images/download_app/download_' + 'mob_' + pCloud.osShort.replace(' ', '') + '.png';
+		dwAppImageSource = '//pcdn-www.pcloud.com/Z49/images/download_app/download_' + 'mob_' + pCloud.osShort.replace(' ', '') + '.png';
 
 		storeButton.find('img').attr('src', getItOn[pCloud.osShort].image);
 		storeButton.find('span').html(getItOn[pCloud.osShort].text);
@@ -1091,7 +1108,7 @@ $(function() {
 
 		imageHeight();
 	} else {
-		dwAppImageSource = '//pcdn-www.pcloud.com/ZGI/images/download_app/download_' + pCloud.osShort + (pCloud.isRetina ? '@2x.png' : '.png');
+		dwAppImageSource = '//pcdn-www.pcloud.com/Z49/images/download_app/download_' + pCloud.osShort + (pCloud.isRetina ? '@2x.png' : '.png');
 	}
 
 	dwAppImage.attr('src', dwAppImageSource);
@@ -1106,7 +1123,7 @@ $(function() {
 
                     <div class="tabs">
                         <div class="tab_wrap">
-                            <div class="tab" data-open="login">Log in</div>
+                            <div class="tab" data-open="login">Login</div>
                             <div class="tab" data-open="register">Sign Up</div>
                         </div>
                     </div>
@@ -1120,7 +1137,7 @@ $(function() {
                         </div>
 
                         <div class="reset_success">
-                            <img src="//pcdn-www.pcloud.com/ZGI/images/check-green.png">
+                            <img src="//pcdn-www.pcloud.com/Z49/images/check-green.png">
                             Check your e-mail for further instructions.                        </div>
                     </div>
 
@@ -1178,35 +1195,205 @@ $(function() {
             </div>
         </div>
     </div>
+</div><div class="modal standart youtube">
+	<div class="modal_holder">
+		<div class="modal_wrap">
+			<div class="modal_inner">
+				<div class="content">
+					<div class="h1">pCloud Video</div>
+					<div class="inner"></div>
+					<div class="spinner"></div>
+				</div>
+				<div class="close"></div>
+				<div class="mask"></div>
+			</div>
+		</div>
+	</div>
+</div><div class="modal standart email_verify">
+    <div class="modal_holder">
+        <div class="modal_wrap">
+            <div class="modal_inner">
+                <div class="content">
+                    <div class="h1">Verify your account</div>
+
+                    <div class="inner">
+                        <div class="user_message">
+                            An email was sent to <b>%email%</b><br> <span style="color: #999;">If you don't receive an email within few minutes, check your Junk/Spam folder.</span>                        </div>
+                    </div>
+
+                    <div class="bottom">
+                        <div class="btn blue close">
+                            Close<img class="spinner" src="images/button_loading.png" data-lazy="images/button_loading.png">
+                        </div>
+                    </div>
+                </div>
+                <div class="close"></div>
+                <div class="mask"></div>
+            </div>
+        </div>
+    </div>
 </div>
+
+<div class="modal promo_lifetime">
+	<div class="modal_holder">
+		<div class="modal_wrap">
+			<div class="modal_inner">
+				<div class="content">
+					<div class="discount">
+						<img src="//pcdn-www.pcloud.com/Z49/images/p_promo/lifetime_promo_modal.png" data-src="//pcdn-www.pcloud.com/Z49/images/p_promo/lifetime_promo_modal.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/p_promo/lifetime_promo_modal@2x.png" width="640">
+					</div>
+					<div class="h1">pCloud offers a new industry first LIFETIME PLAN!</div>
+					<div class="h2">You buy it once, you keep it forever!</div>
+					<div class="bottom">
+						<a href="/cloud-storage-pricing-plans.html?product=premium" class="btn blue_btn" data-gevent="ShopNowModal">GET NOW</a>
+					</div>
+				</div>
+				<div class="close"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal black_friday">
+	<div class="modal_holder">
+		<div class="modal_wrap">
+			<div class="modal_inner">
+				<div class="content">
+					<img class="promo_img" src="//pcdn-www.pcloud.com/Z49/images/black_friday_discount.png" data-src="//pcdn-www.pcloud.com/Z49/images/black_friday_discount.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/black_friday_discount@2x.png" width="184">
+					<div class="h1">Black Friday &amp; Cyber Monday DEAL</div>
+					<div class="h2">Hurry and get 50% off your Premium + Crypto order</div>
+					<div class="bottom">
+						<a href="https://www.pcloud.com/black-friday" target="_blank" class="btn" onclick="gaAll('event','ShopNowModal','click');">Grab deal</a>
+					</div>
+					<div class="promo_note">Offer ends on 28.11.2017. Applicable for annual plans only</div>
+				</div>
+				<img class="close" src="//pcdn-www.pcloud.com/Z49/images/bf_modal_close.png" data-src="//pcdn-www.pcloud.com/Z49/images/bf_modal_close.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/bf_modal_close@2x.png" width="30">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal christmas_2017">
+	<div class="modal_holder">
+		<div class="modal_wrap">
+			<div class="modal_inner">
+				<div class="content">
+					<div class="h1">Unwrap your Christmas present early!</div>
+
+					<div class="ribbon_wrap">
+						<img class="left_rib for_desktop for_tablet" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner.png" data-src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner@2x.png" width="70">
+						<img class="left_rib for_mobile" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/left-corner-mobile.png" width="52">
+						<div class="mid_rib">
+							<b></b><b></b>
+							<span data-offer="1">50% OFF SUPER BUNDLE</span>
+							<span data-offer="2">LIFETIME SUPER BUNDLE</span>
+						</div>
+						<img class="right_rib for_desktop for_tablet" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner.png" data-src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner@2x.png" width="70">
+						<img class="right_rib for_mobile" src="//pcdn-www.pcloud.com/Z49/images/modal/christmas_2017/right-corner-mobile.png" width="52">
+					</div>
+
+					<div class="bundle_name" data-offer="1">
+						2TB Premium<div class="plus_sign"><b></b><i></i></div><!--
+					 -->Extended file history<div class="plus_sign"><b></b><i></i></div><!--
+					 -->Crypto
+					</div>
+					<div class="bundle_name" data-offer="2">
+						2TB Premium Lifetime<div class="plus_sign"><b></b><i></i></div><!--
+					 -->Crypto Lifetime
+					</div>
+					<div class="bottom">
+						<a href="https://www.pcloud.com/christmas-2017" target="_blank" class="btn" onclick="gaAll('event','ShopNowModal','click');">Get your bundle</a>
+					</div>
+				</div>
+				<img class="close for_desktop for_tablet" src="//pcdn-www.pcloud.com/Z49/images/chrs_close.png" data-src="//pcdn-www.pcloud.com/Z49/images/chrs_close.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/chrs_close@2x.png" width="30">
+				<img class="close for_mobile" src="//pcdn-www.pcloud.com/Z49/images/chrst-close-mobile.png" width="30">
+			</div>
+		</div>
+	</div>
+</div>
+<div class="notify_bar_wrap is_closed">
+	<div class="nt_inner">
+		<div class="open_text">
+			<img class="jingle" src="//pcdn-www.pcloud.com/Z49/images/notifications/bell.png" data-src="//pcdn-www.pcloud.com/Z49/images/notifications/bell.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/notifications/bell@2x.png" width="16">
+		</div>
+		<div class="notify_content">
+			<img class="close_notify" src="//pcdn-www.pcloud.com/Z49/images/notifications/bell_close.png" data-src="//pcdn-www.pcloud.com/Z49/images/notifications/bell_close.png" data-src-retina="//pcdn-www.pcloud.com/Z49/images/notifications/bell_close@2x.png" width="20">
+			<div class="notify_headline">Notifications</div>
+			<div class="notify_message">Never miss a promo or update from us! Subscribe to receive them first!</div>
+			<div class="ask_for_notify">Subscribe</div>
+		</div>
+	</div>
+</div>
+
 <script>
-    $(function() {
-		var mob_cats = '.micro-content-wrap .menu-inner ul';
+$(function() {
+	if (!pCloud.isMobile) {
+		var notifyBar = $('.notify_bar_wrap');
+		var notifyBell = $('.open_text img');
+		var openedHeight;
 
-		$('.micro-content-wrap .mob_cat').on('click', function() {
-			if ($(mob_cats).hasClass('open')) {
-				$(mob_cats).removeClass('open');
-				$('#micro_mob_menu').hide();
+		function initNotificationBoxToggle() {
+			notifyBar.on('mouseenter', function() {
+				notifyBell.removeClass('jingle');
+				toggleNotificationBox();
+			}).on('mouseleave', function() {
+				toggleNotificationBox();
+			});
+		};
+
+		function toggleNotificationBox(openCallback, closeCallback) {
+			if (notifyBar.hasClass('is_closed')) {
+				notifyBar.on(transitionEnd, function() {
+					if (typeof openCallback == 'function') {
+						openCallback();
+					}
+				}).removeClass('is_closed').addClass('is_opened').css({'height': openedHeight, 'width': 220});
 			} else {
-				$(mob_cats).addClass('open');
-				$('#micro_mob_menu').show();
+				notifyBar.on(transitionEnd, function() {
+					if (typeof closeCallback == 'function') {
+						closeCallback();
+					}
+				}).removeClass('is_opened').addClass('is_closed').css({'height': 48, 'width': 48});
 			}
+		};
+
+		initNotificationBoxToggle();
+
+		if (!$.cookie('notifications-subscribed')) {
+			notifyBar.fadeIn(300, function() {
+				openedHeight = $('.notify_content').outerHeight() + 40;
+			});
+		}
+
+		notifyBell.on(animationEnd, function() {
+			notifyBell.off(animationEnd).removeClass('jingle').addClass('finish_jingle');
 		});
 
-		$('#micro_mob_menu').on('click', function() {
-			$('#micro_mob_menu').hide();
-			$(mob_cats).removeClass('open');
+		$('.ask_for_notify').on('click', function() {
+			notifyBar.off('mouseenter mouseleave').fadeOut(150);
+			window.open("https://my.pcloud.com/notifications.html", "notifications", "width=580,height=550");
 		});
-    });
+
+		$('.close_notify').on('click', function() {
+			notifyBar.off('mouseenter mouseleave');
+
+			toggleNotificationBox(false, function() {
+				notifyBar.fadeOut(150);
+			});
+		});
+	}
+});
 </script>
+<!--DEV_HELPER_PLUGIN-->
 
 
-<script src="https://pcdn-my.pcloud.com/ZVV/js/global.js"></script>
-<script src="https://pcdn-my.pcloud.com/ZVV/js/global-lang.js"></script>
-<link rel="stylesheet" href="https://pcdn-my.pcloud.com/ZVV/css/global.css">
+
+<script src="https://pcdn-my.pcloud.com/Z40/dist/js/common.js"></script>
+<script src="https://pcdn-my.pcloud.com/Z40/dist/js/global.js"></script>
+<script src="https://pcdn-my.pcloud.com/Z40/dist/js/global-lang.js"></script>
+<link rel="stylesheet" href="https://pcdn-my.pcloud.com/Z40/dist/css/common.css">
+<link rel="stylesheet" href="https://pcdn-my.pcloud.com/Z40/dist/css/global.css">
 
 <!--[if lt IE 9]>
-<script src="//pcdn-www.pcloud.com/ZGI/js/ie/rem.js"></script>
+<script src="//pcdn-www.pcloud.com/Z49/js/ie/rem.js"></script>
 <![endif]-->
 <script>
 // Password strenght
@@ -1406,6 +1593,7 @@ if (!redirecting) {
 	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 	ga('create', 'UA-44134956-1', 'pcloud.com');
 	ga('create', 'UA-44134956-4', 'pcloud.com', { name: 'combined' });
+	ga('require', 'GTM-5PQPJLD');
 	ga('combined.require', 'displayfeatures');
 
 
