@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218182326id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321004708id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy · isubscribe.com.au
+# Privacy Policy - isubscribe.com.au
 
 isubscribe Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information isubscribe may collect and what may happen to that information. isubscribe may modify this Privacy Policy at any time.
 
