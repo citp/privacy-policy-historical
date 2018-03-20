@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcloud.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521015707id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcloud.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320134356id_/https%3A//www.pcloud.com/privacy_policy.html) for the most accurate reproduction.*
 
 # pCloud - Privacy Policy
 
@@ -41,7 +41,7 @@ Please be aware that whenever you share information on a publicly available prof
 
 ### Security
 
-We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk. 
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. However, no data transmission over the Internet or other networks can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk. 
 
 ### Links To Other Web Sites
 
@@ -61,6 +61,6 @@ If you reside in the European Union, you have a legal right to a copy of all the
 
 ### Privacy Policy Changes
 
-From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy. 
+From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will become effective on the revision date, shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy. 
 
 _Revised: **12 Aug 2016**_
