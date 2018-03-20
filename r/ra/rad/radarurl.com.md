@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radarurl.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118193243id_/http%3A//radarurl.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radarurl.com privacy policy that was archived on 2018-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180320103452id_/http%3A//radarurl.com/policy) for the most accurate reproduction.*
 
 # RadarURL - Privacy Policy
 
