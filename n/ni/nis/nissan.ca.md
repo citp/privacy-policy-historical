@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.ca privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120130449id_/http%3A//www.nissan.ca/en/privacy.html%3Fnext%3Dfooter.privacy.link) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.ca privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321214219id_/http%3A//www.nissan.ca/en/privacy.html%3Fnext%3Dfooter.privacy.link) for the most accurate reproduction.*
 
 # Nissan Privacy Policy | Nissan Canada
 
@@ -219,6 +219,6 @@ Email: [ncfcustomer.service@nissancanada.com](mailto:ncfcustomer.service@nissanc
 Nissan Canada Inc.  
 5290 Orbitor Drive  
 Mississauga, ON L4W 4Z5  
-
+Email: [privacy@nissancanada.com](mailto:privacy@nissancanada.com)
 
 Attention: Privacy Officer
