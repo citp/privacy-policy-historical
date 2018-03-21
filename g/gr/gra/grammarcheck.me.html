@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grammarcheck.me privacy policy that was archived on 2017-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171118193332id_/http%3A//www.grammarcheck.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grammarcheck.me privacy policy that was archived on 2018-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180321220235id_/http%3A//www.grammarcheck.me/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -9,16 +9,22 @@
   <link rel="stylesheet" type="text/css" media="all" href="http://cdn.grammarcheck.me/wp-content/themes/gcm/style.css?f5tyruyr5">  
 
   <script type="text/javascript" src="http://cdn.grammarcheck.me/wp-content/themes/gcm/js/tinymce/tinymce.min.js"></script> 
-  <script type="text/javascript" src="http://cdn.grammarcheck.me/wp-content/themes/gcm/js/combined.js?d6te5hdtyj"></script>
+  <script type="text/javascript" src="http://cdn.grammarcheck.me/wp-content/themes/gcm/js/combined.js?hyfrugge"></script>
   <script>
     jQuery(document).ready(function() {
       jQuery("#grammarly-banner").click(function(){
-        clicky.goal('Clicks Grammarly Banner'); 
-        clicky.pause(500);
+        if(typeof clicky !== 'undefined') {
+          console.log("got it.....")
+          clicky.goal('Clicks Grammarly Banner'); 
+          clicky.pause(500);
+        }
       });
+
       jQuery("#grammarly-popup").click(function(){
-        clicky.goal('Clicks Popup'); 
-        clicky.pause(500);
+        if(typeof clicky !== 'undefined') {
+          clicky.goal('Clicks Popup'); 
+          clicky.pause(500);
+        }
       });
     });
   </script>
@@ -143,7 +149,7 @@
       <div class="container"> 
         <div class="row">  
           <div class="col-xs-12 col-sm-6">
-             © 2017 <a href="http://www.grammarcheck.me/">GrammarCheck.me</a>
+             © 2018 <a href="http://www.grammarcheck.me/">GrammarCheck.me</a>
           </div>
           <div class="col-xs-12 col-sm-6">
 <ul id="footer-menu" class="footer-menu"><li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://www.grammarcheck.me/contact-us/">Contact</a></li>
@@ -210,4 +216,4 @@
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
- Served from: www.grammarcheck.me @ 2017-11-18 19:33:32 by W3 Total Cache --></body></html>
+ Served from: www.grammarcheck.me @ 2018-03-21 22:02:35 by W3 Total Cache --></body></html>
