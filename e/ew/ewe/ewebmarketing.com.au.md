@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ewebmarketing.com.au privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916043615id_/http%3A//www.ewebmarketing.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewebmarketing.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321154330id_/https%3A//www.ewebmarketing.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | E-Web Marketing
 
 ##### INCUMBENT
 
-This following document sets forth the Privacy Policy for E-Web Marketing’s website, http://www.ewebmarketing.com.au
+This following document sets forth the Privacy Policy for E-Web Marketing’s website, https://www.ewebmarketing.com.au
 
 E-Web Marketing Pty Ltd is bound by the Privacy Act 1988 (Cth), which sets out the Australian Privacy Principles concerning the personal information of individuals.
 
@@ -87,7 +87,7 @@ This policy was last modified on November 15, 2016.
 Contacting Us  
 E-Web Marketing Pty Ltd welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy, need to update your personal details or would would like further information, please contact us by any of the following means during business hours Monday to Friday:
 
-> [Web Agency Home](http://www.ewebmarketing.com.au/)
+> [Web Agency Home](https://www.ewebmarketing.com.au/)
 
 Level 2, 20 Chandos Street,
 
