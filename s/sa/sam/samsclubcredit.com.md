@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsclubcredit.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927181915id_/http%3A//corporate.samsclub.com/sams-club-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsclubcredit.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321050406id_/http%3A//corporate.samsclub.com/sams-club-privacy-policy) for the most accurate reproduction.*
 
 # Sam's Club Privacy Policy - Sam's Club Corporate
 
