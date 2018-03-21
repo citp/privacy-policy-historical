@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecr.co.za privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401190436id_/https%3A//www.ecr.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecr.co.za privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321081528id_/https%3A//www.ecr.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
