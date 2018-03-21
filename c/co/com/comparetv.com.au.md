@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602044433id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321121750id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompareTV
 
