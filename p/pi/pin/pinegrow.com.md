@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinegrow.com privacy policy that was archived on 2017-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170528110208id_/http%3A//docs.pinegrow.com/privacy-and-anti-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinegrow.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321021958id_/http%3A//docs.pinegrow.com/v4/getting-started/privacy-and-anti-spam-policy) for the most accurate reproduction.*
 
-# Privacy and Anti-spam policy - Pinegrow Web Editor - Documentation and Tutorials
+# Privacy and Anti-spam policy | Pinegrow 4 – Documentation and Tutorials
 
-Privacy policy Pinegrow is a desktop app, so all your data (HTML, CSS, JS code, images and so on) never leaves your computer and is never read or stored on our servers. We maintain the licensing database with emails, serial codes and information about orders. We do not have access to customer’s credit card information […]
+Pinegrow is a desktop app, so all your data (HTML, CSS, JS code, images and so on) never leaves your computer and is never read or stored on our servers.
 
 ## Privacy policy
 
@@ -28,15 +28,11 @@ Promoting Pinegrow and pinegrow.com website through unsolicited messages is stri
 
 Our conditions for our affiliates stricktly forbid sending out spam to promote Pinegrow. In case you come accross someone using spam to promote Pinegrow please let us know at info@pinegrow.com.
 
-## Contact
+## Company information
 
-Humane tehnologije d.o.o.  
-Poklukarjeva 22  
-1000 Ljubljana  
-Slovenia
+PINEGROW PTE. LTD.  
+10 ANSON ROAD #22-15  
+INTERNATIONAL PLAZA  
+SINGAPORE (079903)
 
 info@pinegrow.com
-
-Last updated on January 6, 2016 at 7:08 pm
-
-Print this article
