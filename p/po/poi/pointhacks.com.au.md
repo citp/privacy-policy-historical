@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802035856id_/https%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321201602id_/https%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Point Hacks
 
-Point Hacks ABN 76161153603 (“Point Hacks”) realises the importance of protecting your privacy. In this policy, Point Hacks, “us” or “we” refers to the owner of the website pointhacks.com.au (“Website”) and “you” refers to the user or viewer of the Website. This policy sets out how we collect personal information and how we use, maintain and store personal information. By using the Website, you consent to the collection and handling of your personal information in accordance with this policy.
+Point Hacks Australia PTY LTD, ACN 622 987 160 (“Point Hacks”) realises the importance of protecting your privacy. In this policy, Point Hacks, “us” or “we” refers to the owner of the website pointhacks.com.au (“Website”) and “you” refers to the user or viewer of the Website. This policy sets out how we collect personal information and how we use, maintain and store personal information. By using the Website, you consent to the collection and handling of your personal information in accordance with this policy.
 
 ### How and why do we collect information?
 
@@ -59,7 +59,7 @@ If you have a complaint, you also have the right to complain to the Office of th
 
 ### Website terms of use
 
-This policy is deemed to incorporate our terms of use at http://www.pointhacks.com.au/terms and by using the Website, including by registering as a member of the Point Hacks Community, you accept our terms of use.
+This policy is deemed to incorporate our terms of use at https://www.pointhacks.com.au/terms and by using the Website, including by registering as a member of the Point Hacks Community, you accept our terms of use.
 
 ### Changes to our Privacy Policy
 
