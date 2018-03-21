@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612164647id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321060300id_/https%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
@@ -30,7 +30,7 @@ This Privacy Policy applies to any personal information you provide:
 
 
 
-Your personal information will be handled appropriately according to this policy and the [terms and conditions](http://www.careerfaqs.com.au/terms-of-use/) section of our website and may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what personal information we hold, or to request that it be changed or deleted.
+Your personal information will be handled appropriately according to this policy and the [terms and conditions](https://www.careerfaqs.com.au/terms-of-use/) section of our website and may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what personal information we hold, or to request that it be changed or deleted.
 
 ##  Collecting Information
 
