@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localglamour.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173650id_/http%3A//www.localglamour.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localglamour.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321225807id_/http%3A//www.localglamour.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy — Local Glamour
 
