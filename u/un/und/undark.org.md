@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undark.org privacy policy that was archived on 2017-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170829223257id_/https%3A//undark.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undark.org privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321202104id_/https%3A//undark.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Undark
 
@@ -26,7 +26,7 @@ As is true of most websites, Undark gathers certain information automatically an
 
 Undark does not link this automatically-collected data to personally identifiable information.
 
-Undark may use a third-party tracking service called that uses cookies to track non-personally identifiable information about visitors to our site such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp. Undark uses this information to better gain an understanding about how our site is used by visitors, helping us to update and improve the web site.
+Undark may use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp. Undark uses this information to better gain an understanding about how our site is used by visitors, helping us to update and improve the web site.
 
 ##### Changes to this Statement
 
