@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jnto.org.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190203id_/https%3A//www.jnto.org.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnto.org.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321051122id_/https%3A//www.jnto.org.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Japan National Tourism Organization
+# Privacy Policy - - Japan National Tourism Organization
 
 ### Privacy Policy of Japan National Tourism Organisation (‘JNTO’)
 
@@ -61,6 +61,6 @@ Our website may also be linked to websites operated by third parties. These link
 
 If you have any questions about this privacy policy, or if you wish to make a complaint about how we have handled your personal information, please contact us using the contact details below:
 
-• By Email: travelinfo@jnto.org.au  
+• By Email: [submit an enquiry via the form](https://www.jnto.org.au/contact/)  
 • By Post: Suite 1, Level 4, 56 Clarence Street, Sydney, NSW, 2000, Australia  
 We periodically review our privacy policy, and reserve the right, at its discretion, to modify or remove portions of this policy at any time.
