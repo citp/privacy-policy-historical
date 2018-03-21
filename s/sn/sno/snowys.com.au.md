@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the snowys.com.au privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818013332id_/http%3A//www.snowys.com.au/privacy-policy.aspx%3Fpid%3D34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowys.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321052429id_/https%3A//www.snowys.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Snowys Outdoors
-
-Last Updated: 1 June 2011
 
 Thank you for visiting Snowys.com.au ("Site") operated by Snowys Outdoors Pty Ltd. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -10,7 +8,7 @@ This Privacy Policy explains how we collect, use and (under certain conditions) 
 
 **Protecting Your Privacy**
 
-At Snowys.com.au we're committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by, and will abide by, the National Privacy Principles in the Privacy Act (Cth) 1988 ("Privacy Act"). This is in addition to our existing obligations under the Privacy Act. 
+At Snowys.com.au we're committed to providing you with a high level of customer service. This includes protecting and maintaining the privacy, accuracy and security of your personal information. We are bound by, and will abide by, the National Privacy Principles in the Privacy Act (Cth) 1988 ("Privacy Act"). This is in addition to our existing obligations under the Privacy Act.
 
 **What personal information do we collect and hold?**
 
@@ -24,7 +22,7 @@ Snowys.com.au collects personal information directly from you when you submit it
 
 **How we use Cookies**
 
-At Snowys.com.au we use cookies, a small bit of text used by your browser to uniquely identify you to our web server. We use cookies to make sure that when you add something to your shopping bag it goes into your bag and not someone else's. 
+At Snowys.com.au we use cookies, a small bit of text used by your browser to uniquely identify you to our web server. We use cookies to make sure that when you add something to your shopping bag it goes into your bag and not someone else's.
 
 We also use cookies to track how many unique visitors we have daily as well as general buying trends within our site.
 
@@ -49,7 +47,7 @@ The primary use of the personal information we collect about you will be used so
   * providing you with the products and services you have asked for
   * sending you our newsletter or special offers
   * administering your account
-  * maintaining our relationship with you. 
+  * maintaining our relationship with you.
 
 
 
@@ -65,17 +63,17 @@ We may use or disclose your personal information to organisations outside Snowys
   * mailing systems which organise delivery of the products you have purchased
   * maintenance and repair services
   * market research providers
-  * our professional advisers (accountants and lawyers) 
+  * our professional advisers (accountants and lawyers)
 
 
 
-We require these organisations to adhere to strict confidentiality about your personal information and also seek to ensure that they adhere to the National Privacy Principles. These service providers may not use your personal information for their own marketing purposes. 
+We require these organisations to adhere to strict confidentiality about your personal information and also seek to ensure that they adhere to the National Privacy Principles. These service providers may not use your personal information for their own marketing purposes.
 
 **Security**
 
 Snowys.com.au takes reasonable steps to ensure that your personal information is secure. We have robust systems and procedures in place to protect your privacy whenever we collect, store, and use or disclose personal information. We are continually upgrading these systems and reviewing our procedures to ensure the highest standards of security is used to protect your personal information. As a condition of working at Snowys.com.au all our employees sign a confidentiality agreement.
 
-Further, National Australia Bank's secure payment gateway encrypts your credit card details and processes in real time, instantly sending back details if they are approved. Sensitive credit card payment details are never stored on our website or within our internal database system. 
+Further, National Australia Bank's secure payment gateway encrypts your credit card details and processes in real time, instantly sending back details if they are approved. Sensitive credit card payment details are never stored on our website or within our internal database system.
 
 **How to access and amend personal information**
 
@@ -104,6 +102,4 @@ Except for the purposes outlined in the Snowys.com.au Privacy Policy, we will ne
 
 **Updates to this Privacy Policy**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1300 914 007 or email [customerservice@snowys.com.au](mailto:customerservice@snowys.com.au). 
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.snowys.com.au&cb=51)
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1300 914 007 or email [service@snowys.com.au](mailto:service@snowys.com.au)
