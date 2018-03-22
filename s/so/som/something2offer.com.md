@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202215718id_/http%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the something2offer.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322173432id_/https%3A//something2offer.com/about/blog-privacy-policy) for the most accurate reproduction.*
 
 # Blog Privacy Policy - Something 2 Offer
 
-_This site uses affiliate links within posts, sidebar ads, and in post ads. All proceeds go to support our family._[ ](http://www.tkqlhce.com/click-8228306-12277007)
+[ ](http://www.tkqlhce.com/click-8228306-12331622)
 
 Everyone wants to know how safe their information is and what do you do with my name and email if I enter your giveaway, right? First off I am selfish and will not share your name or email with anyone besides the company that is offering the giveaway IF I have disclosed this before the sign-up. Otherwise it is safe to know that I will be in control of your emails and guard them from third-party advertisers.
 
