@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tristatefootball.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114161700id_/http%3A//tristatefootball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tristatefootball.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322014355id_/http%3A//tristatefootball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TriStateFootball.com
 
