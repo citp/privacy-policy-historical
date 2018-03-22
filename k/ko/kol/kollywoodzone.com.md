@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kollywoodzone.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119212549id_/http%3A//www.kollywoodzone.com/index.php%3Ftemplate%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kollywoodzone.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322122759id_/http%3A//www.kollywoodzone.com/index.php%3Ftemplate%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Kollywood Zone Privacy Policy
 
