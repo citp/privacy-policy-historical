@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205065614id_/https%3A//www.icf.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322110752id_/https%3A//www.icf.com/legal/privacy-statement) for the most accurate reproduction.*
 
 # Online Privacy Statement | ICF
+
+  * [Mobile Application Privacy Statement](https://web.archive.org/legal/mobile-application-privacy-statement)
+  * [Canada Privacy Statement](https://web.archive.org/legal/canada-privacy-statement)
+  * [EEA & UK Privacy Statement](https://web.archive.org/legal/eea-uk-privacy-statement)
+
+
 
 Effective Date: September 20, 2016
 
@@ -12,7 +18,7 @@ This Privacy Statement (“Privacy Statement”) applies to the webpages, intran
 
 ICF is a privacy conscious organization and your trust is paramount to us. This Privacy Statement discloses our information treatment practices, from what type of information we gather and track about Site users to how we collect, use, process, share, or transfer such information. This Privacy Statement also describes the choices available to you regarding the use of, your access to, and how to update and correct your information. This Privacy Statement does not apply to any site that does not display or link to this Privacy Statement or that has its own privacy statement. This Privacy Statement does not apply to instances where we merely process data on our client’s behalf for their benefit unless as otherwise expressed in writing. We encourage you to read this Privacy Statement for this Site, privacy statements for our other Sites where this Privacy Statement may not apply (e.g., European Economic Areas (“EEA”), etc.), or applicable privacy statement for other sites you visit or review.
 
-By accessing or continuing to use this Site, you consent to the information collection, use, and disclosure practices described in this Privacy Statement and to the content of our [Terms of Use](https://web.archive.org/terms-of-use). Unless otherwise expressly stated and to the extent permissible by law, if you reside outside the United States and continue to use our Sites, you understand and agree that your information may be processed in the United States where laws regarding processing of information may be less stringent than the laws in your country.
+By accessing or continuing to use this Site, you consent to the information collection, use, and disclosure practices described in this Privacy Statement and to the content of our [Terms of Use](https://web.archive.org/legal/terms-of-use). Unless otherwise expressly stated and to the extent permissible by law, if you reside outside the United States and continue to use our Sites, you understand and agree that your information may be processed in the United States where laws regarding processing of information may be less stringent than the laws in your country.
 
 This Privacy Statement may be supplemented or amended from time to time at our discretion. When we make such changes to this Privacy Statement, will adhere to Notification of Privacy Statement Changes’ below. We encourage you to periodically review this Privacy Statement. By accessing or continuing to use our Sites after we post any such changes, you consent to accept this Privacy Statement as modified.
 
@@ -236,6 +242,7 @@ olson1to1.com
 | balanceid | Session | This necessary cookie is automatically created by network infrastructure, which balances the load of web traffic to increase performance and load times.  
 |   |   |    
   
+  
 
   2. **Web beacons and other technologies**  
 We also may include Web beacons (including conversion pixels) or other technologies in marketing e-mail messages or our newsletters to determine whether you have opened messages, clicked links, or implemented similar actions. Web beacons do not place information on your device, but may work in conjunction with cookies to monitor website activity and the information on cookies above also applies to Web beacons and similar technologies. Conversion pixels are small codes located on a particular Web page which are triggered when someone visits a page resulting in an increase in the conversion count. 
@@ -265,9 +272,9 @@ U.S. Domestic and International Residents
 
 **General**. You may, at any time, exercise your right to decline to supply certain information while using our Sites. Please bear in mind that you, however, may not be able to access certain content or participate in some features on our Sites. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your wishes. You are entitled to know whether we hold Personal Information about you and, if we do, to have access to that Personal Information and require it to be corrected if it is inaccurate. We generally do not make decisions by purely automatic means, but if we do, you have the right to object. If we are going to use your Personal Information in a manner different from that stated at the time of collection, we will notify you, and you will have a choice as to whether or not we can use your Personal Information in such a way. 
 
-**Marketing**. You may, at any time, exercise your right to prevent us from sharing marketing materials with you by checking certain boxes on our forms, utilizing the unsubscribe or opt-opt mechanisms in the emails we send you, indicating so when we call you, or [Contacting Us](https://web.archive.org/contact-us). In such cases, we will retain minimum Personal Information to note that you opted out in order to avoid contacting you again.
+**Marketing**. You may, at any time, exercise your right to prevent us from sharing marketing materials with you by checking certain boxes on our forms, utilizing the unsubscribe or opt-opt mechanisms in the emails we send you, indicating so when we call you, or sending an email to [dataprotection@icf.com](mailto:dataprotection@icf.com). In such cases, we will retain minimum Personal Information to note that you opted out in order to avoid contacting you again.
 
-If you have subscribed to one or more of our newsletters or receive information from ICF via email or postal mail and would like to modify or cancel these mailings, please follow the instructions in the mailing, send an email to [info@icf.com](mailto:info@icf.com), or use the [Contact Us](https://web.archive.org/contact-us) form on our Sites. For best results, please forward a copy of the mailing you received from ICF. 
+If you have subscribed to one or more of our newsletters or receive information from ICF via email or postal mail and would like to modify or cancel these mailings, please follow the instructions in the mailing, send an email to [dataprotection@icf.com](mailto:dataprotection@icf.com), or use the [Contact Us](https://web.archive.org/contact-us) form on our Sites. For best results, please forward a copy of the mailing you received from ICF. 
 
 **Cookies**. If you want to remove existing cookies from your device, you can implement those steps by using your browser options. If you want to block future cookies being placed on your device, you can change your browser settings to do this. When you review your browser settings or options, you can identify the ICF cookies in the name. Unless you have adjusted your browser settings to block cookies, our system will issue cookies as soon as you visit our Sites or click a link in a targeted email we have sent you, even if you have previously deleted our cookies. Please bear in mind that deleting and blocking cookies will have an impact on your user experience as parts of the Site may no longer work. For more information on managing cookies, see [www.allaboutcookies.org/manage-cookies](http://www.allaboutcookies.org/manage-cookies "Managing Cookies").
 
@@ -289,7 +296,7 @@ You can exercise any of your rights by [Contacting Us](https://web.archive.org/c
 ICF  
 9300 Lee Highway  
 Fairfax, VA 22031-1207 USA  
-E-mail: [info@icf.com](mailto:info@icf.com)  
+E-mail: [dataprotection@icf.com](mailto:dataprotection@icf.com)  
 Please note that you may be required to prove your identity before we can fulfill your request**.
 
 If you have questions or concerns about this Privacy Statement or our Sites and email marketing practices, please use any of the above contact means.
