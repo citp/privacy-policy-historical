@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minify.mobi privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120033837id_/http%3A//minify.mobi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minify.mobi privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322170924id_/http%3A//minify.mobi/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
