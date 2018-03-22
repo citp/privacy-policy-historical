@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204125416id_/http%3A//www.altium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altium.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322142806id_/https%3A//www.altium.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Altium
 
