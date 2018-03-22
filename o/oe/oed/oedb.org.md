@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042603id_/http%3A//oedb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322180818id_/http%3A//oedb.org/privacy-policy) for the most accurate reproduction.*
 
-# OEDb.org Privacy Policy | OEDB.org
+# OEDb.org Privacy Policy - OEDB.org
 
 ## Terms of Use and Privacy Policy for Use of OEDb.org (Effective January 5, 2016)
 
