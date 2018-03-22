@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldisraelnews.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831072535id_/https%3A//worldisraelnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldisraelnews.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323005540id_/https%3A//worldisraelnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Israel News
 
