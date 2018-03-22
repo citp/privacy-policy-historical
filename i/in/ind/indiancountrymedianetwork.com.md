@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiancountrymedianetwork.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006134928id_/https%3A//indiancountrymedianetwork.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiancountrymedianetwork.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322214533id_/https%3A//indiancountrymedianetwork.com/account/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Country Media Network
 
-Welcome to IndianCountryMediaNetwork.com. This website (the “Site”) is owned and operated by **Indian Country Today Media Network, LLC** (“we”, “our” or “us”), a governmental instrumentality organized by, and existing under the laws of the Oneida Indian Nation, a sovereign Indian nation. This document describes how we will treat the personal information that you give to us. By accessing or using this Site, you agree to the terms of this privacy policy and you signify that you have read and understand the terms of this policy. If at any time you do not agree to abide by these or any future terms, do not use or access this Site. Please note that this policy does not apply to entities that we do not own or control.
+Welcome to IndianCountryMediaNetwork.com. This website (the “Site”) is owned and operated by **Indian Country Today Media Network, LLC** (“we”, “our” or “us”). This document describes how we will treat the personal information that you give to us. By accessing or using this Site, you agree to the terms of this privacy policy and you signify that you have read and understand the terms of this policy. If at any time you do not agree to abide by these or any future terms, do not use or access this Site. Please note that this policy does not apply to entities that we do not own or control.
 
 **Information Collected**
 
@@ -12,15 +12,13 @@ _Information That You Provide_
 
 _Registration_ – When you register on this Site, you provide us with certain personally identifiable information such as your name, email address, postal address, and telephone number.
 
-_Free and Paid Subscriptions_ – When you sign up for a free or paid subscription to receive our newsletters, emails, guides, reports, magazines, books or other products, we may ask for personally identifiable information which includes, without limitation, your name, email address, postal address, and telephone number. We will also collect your credit / debit card information for paid subscriptions.
-
-_Transactional Information –_ We may retain the details of transactions or payments you make on this Site. For more information on payments and security, see the section of this Privacy Policy titled “Security.”
+_Free Subscriptions_ – When you sign up for a free subscription to receive our newsletters, emails and guides, we may ask for personally identifiable information which includes, without limitation, your name, email address, postal address, and telephone number.
 
 _Site activity information_ – We may keep track of some of the actions you take on this Site, such as your comments on articles.
 
 _Other –_ On occasion we, or our service providers, may request certain information about you in order to improve the website and experience. We may make these requests through surveys or other methods. Your response to these requests is optional. While we require these service-related companies to take steps to maintain the confidentiality of any personally identifiable information they may receive from you to perform these functions, consistent with our Privacy Policy, you should also review the privacy policies of these service providers to understand how they handle this information.
 
-Certain downloadable software applications and applets that we offer (e.g. the app that allows you to read our digital magazine on your tablet) may transmit data to us. We may not make a formal disclosure if we believe our collection and use of the information is obvious for purposes of your use of such application. If we believe it is not obvious that we are collecting or using such information, we will make a disclosure to you the first time you provide the information to us so that you can decide whether you want to use that feature.
+Certain downloadable software applications and applets that we offer may transmit data to us. We may not make a formal disclosure if we believe our collection and use of the information is obvious for purposes of your use of such application. If we believe it is not obvious that we are collecting or using such information, we will make a disclosure to you the first time you provide the information to us so that you can decide whether you want to use that feature.
 
 _Information Collected Automatically_
 
@@ -71,9 +69,9 @@ We will only share information we have received about you with others as set for
 
 _Deactivating or deleting your account_ **–** If you want to stop using your account, you may delete it by contacting us (see our Frequently Asked Questions page for further information). When you ask us to delete an account, it will be permanently deleted from this Site. You should only ask to delete your account if you are certain you never want to reactivate it.
 
-_Social networking account_ **–** Other than comment functionality of the Site, we have discontinued the social media aspects of the Site. However, copies of any information you previously shared using the social media features of our Site may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to the terms of our Privacy Policy in effect at the time it was distributed, or it was copied or stored by other users. If you gave third party widgets, applications, or websites access to your information, they may retain your information to the extent permitted under their terms of service or privacy policies.  ****
+_Social networking account_ **–** Other than comment functionality of the Site, we have discontinued the social media aspects of the Site. However, copies of any information you previously shared using the social media features of our Site may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to the terms of our Privacy Policy in effect at the time it was distributed, or it was copied or stored by other users. If you gave third party widgets, applications, or websites access to your information, they may retain your information to the extent permitted under their terms of service or privacy policies.
 
- **** _Backup copies_ –Removed and deleted information may persist in backup copies, but will not be available to others. **  
+_Backup copies_ –Removed and deleted information may persist in backup copies, but will not be available to others. **  
 **
 
 **External Links**
@@ -94,7 +92,7 @@ Additionally, and in accordance with industry custom, this Site enforces commerc
 
 **Choice/Opt-Out**
 
-In order to provide service to you, we will send you communications related to your activities, security or the administration of this Site. From time to time, we and our affiliates may also wish to send you other messages or updates about our services, promotions, and other activities. If you do not wish to receive such promotional communications from us and our affiliates please refer to our Frequently Asked Questions page for further information on how you can opt-out.   You can also send an email containing your request to [customerservice@ictmn.com](mailto:customerservice@ictmn.com). Even if you opt-out, however, you may still receive account-related and non-commercial messages from us. To get placed on our “DO NOT EMAIL” list, send a request to [customerservice@ictmn.com](mailto:customerservice@ictmn.com). If your email address is added to the “DO NOT EMAIL” list, you will not receive any newsletters or other opt-in email messages.
+In order to provide service to you, we will send you communications related to your activities, security or the administration of this Site. From time to time, we and our affiliates may also wish to send you other messages or updates about our services, promotions, and other activities. If you do not wish to receive such promotional communications from us and our affiliates please refer to our Frequently Asked Questions page for further information on how you can opt-out.   You can also send an email containing your request to NCAIPress@ncai.org. Even if you opt-out, however, you may still receive account-related and non-commercial messages from us. To get placed on our “DO NOT EMAIL” list, send a request to NCAIPress@ncai.org. If your email address is added to the “DO NOT EMAIL” list, you will not receive any newsletters or other opt-in email messages.
 
 **Transmission of Information**
 
@@ -106,6 +104,4 @@ We reserve the right in our sole discretion to change, modify, add or delete por
 
 **Contacting Us**
 
-In the event that you have any questions about this Privacy Policy or if you have reason to believe that we may have failed to adhere to this Privacy Policy, you may contact Indian Country Today Media Network, LLC at [customerservice@ictmn.com](mailto:customerservice@ictmn.com). You may also contact Indian Country Today Media Network, LLC at [customerservice@ictmn.com](mailto:customerservice@ictmn.com) to request access to or correction or update of your personal information if you are registered user of this website.
-
-Revision date: May 3, 2017
+In the event that you have any questions about this Privacy Policy or if you have reason to believe that we may have failed to adhere to this Privacy Policy, you may contact us at NCAIPress@ncai.org.
