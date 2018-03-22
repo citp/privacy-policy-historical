@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reprice.us privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230080549id_/http%3A//reprice.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reprice.us privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322112953id_/http%3A//reprice.us/privacy) for the most accurate reproduction.*
 
 # Privacy « Price Comparison Widget
 
@@ -47,9 +47,9 @@ We may also share your Personal and Non-Personal Information in special cases if
 
 **User Choices**
 
-We value your privacy and control over your personal information, and therefore you may notify us that you wish to either review your Personal Information or delete it. You can notify us by sending an email to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for a period of 12 months or a longer period as reasonably and legally required.  
+We value your privacy and control over your personal information, and therefore you may notify us that you wish to either review your Personal Information or delete it. You can notify us by sending an email to: support@Reprice.com and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we may retain your Personal Information for a period of 12 months or a longer period as reasonably and legally required.  
 Further, at all times you can choose not to allow us or any third party to collect data about you, or ask to view or edit Personal Information that is stored about you. You may also choose not to accept cookies, including cookies associated with our services or third party services. However, you should take into account that many of the services or portion of them may not function properly if your cookies are disabled.  
-If you are a resident of California, United States, or of the European Union, you have the right to send us written request and ask a list of Personal Information categories that we may disclosed to third parties or to which we may give access to third parties, and the details of such third parties. To exercise such right you may contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you are a resident of California, United States, or of the European Union, you have the right to send us written request and ask a list of Personal Information categories that we may disclosed to third parties or to which we may give access to third parties, and the details of such third parties. To exercise such right you may contact us at: support@Reprice.com.
 
 **Minors**
 
@@ -58,7 +58,7 @@ To use Reprice you must be over the age of thirteen (13). The Company does not k
 **Security**
 
 We take a great care in implementing and maintaining the security of Reprice and your Personal Information. The Personal Information is hosted on Amazon Web Services which provides advanced security features. The Company employs industry standard procedures and policies to ensure the safety of its Users’ Personal Information, and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.  
-If you feel that your privacy was treated not in accordance with our Policy, please contact us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and our privacy officer shall investigate promptly.
+If you feel that your privacy was treated not in accordance with our Policy, please contact us directly at support@Reprice.com and our privacy officer shall investigate promptly.
 
 **Third Party Software/Service**
 
@@ -80,4 +80,4 @@ The Company reserves the right to change this Privacy Policy at any time and at 
 
 **Have any Questions?**
 
-If you have any questions or comments concerning this Privacy Policy, you are welcome to send us an e-mail at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make an effort to reply within a reasonable timefram
+If you have any questions or comments concerning this Privacy Policy, you are welcome to send us an e-mail at: support@reprice.us and we will make an effort to reply within a reasonable timefram
