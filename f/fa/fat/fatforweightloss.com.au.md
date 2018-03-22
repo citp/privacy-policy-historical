@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatforweightloss.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606235932id_/https%3A//www.fatforweightloss.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatforweightloss.com.au privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322030654id_/https%3A//www.fatforweightloss.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FatForWeightLoss
 
