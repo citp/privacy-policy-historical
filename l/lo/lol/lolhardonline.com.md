@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolhardonline.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217190943id_/http%3A//lolhardonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolhardonline.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322120224id_/http%3A//lolhardonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy - LOL Hard Online
 
