@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weenysoft.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208205348id_/http%3A//www.weenysoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weenysoft.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322140837id_/http%3A//www.weenysoft.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Weeny Software
 
-**Privacy Policy**
+### Privacy Policy
 
 Weeny Software is committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Weeny Software has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. For the purposes of this statement, "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home.
 
