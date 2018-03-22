@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveinmichigan.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120145638id_/http%3A//www.moveinmichigan.com/MIMPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveinmichigan.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322093357id_/http%3A//www.moveinmichigan.com/MIMPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -30,4 +30,4 @@ Realcomp is not responsible for the availability of or the business and privacy 
 Realcomp reserves the right to change or amend its Privacy Policy to address new issues of privacy and information security and to reflect changes to our Web site or business practices. Any new changes and/or amendments will be noted on our Home Page and will always be posted in this section of the MoveInMichigan Web site. If we make material changes to this policy in how we use your personal information, we will notify you here or by means of a notice on our home page. 
 
 **QUESTIONS ABOUT OUR PRIVACY POLICY:**  
-If you have any questions about this Privacy Policy or the practices of this Web site, you can send an [e-mail](https://web.archive.org/web/20171120145638id_/http%3A//www.moveinmichigan.com/Feedback.aspx), contact us at Realcomp II Ltd., 28555 Orchard Lake Road, Suite 200, Farmington Hills, MI 48334, or call us toll-free at 866-553-3003. 
+If you have any questions about this Privacy Policy or the practices of this Web site, you can send an [e-mail](https://web.archive.org/web/20180322093357id_/http%3A//www.moveinmichigan.com/Feedback.aspx), contact us at Realcomp II Ltd., 28555 Orchard Lake Road, Suite 200, Farmington Hills, MI 48334, or call us toll-free at 866-553-3003. 
