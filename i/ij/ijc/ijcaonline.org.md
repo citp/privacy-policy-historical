@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120013959id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijcaonline.org privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322090634id_/http%3A//www.ijcaonline.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D585) for the most accurate reproduction.*
 
 # IJCA - Privacy Policy
 
-Call for Paper - December 2017 Edition 
+Call for Paper - May 2018 Edition 
 
-IJCA solicits original research papers for the December 2017 Edition. Last date of manuscript submission is **November 20, 2017**. [Read More](http://www.ijcaonline.org/calls-)
+IJCA solicits original research papers for the May 2018 Edition. Last date of manuscript submission is **April 20, 2018**. [Read More](http://www.ijcaonline.org/calls-)
 
   
 
