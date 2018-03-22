@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playvids.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412005527id_/https%3A//www.playvids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playvids.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322153011id_/https%3A//www.playvids.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PlayVids
 
