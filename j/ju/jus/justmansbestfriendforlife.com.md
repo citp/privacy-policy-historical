@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justmansbestfriendforlife.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120173503id_/http%3A//justmansbestfriendforlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmansbestfriendforlife.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322224340id_/https%3A//justmansbestfriendforlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Just Man's Best Friend For Life
 
