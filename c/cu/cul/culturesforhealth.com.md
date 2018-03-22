@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220213442id_/https%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturesforhealth.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322183700id_/https%3A//www.culturesforhealth.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Cultures for Health Privacy Policy | Customer Privacy
 
-This Application collects some Personal Data from its Users. Your privacy is important to us. We will not share your information with any third party except as required by law or as necessary to complete an order placed by you with us and conduct normal business operations (see below). Please feel free to call or [email us](https://web.archive.org/cdn-cgi/l/email-protection#680b1d1b1c07050d1a1b1d1818071a1c280b1d041c1d1a0d1b0e071a000d09041c00460b0705571b1d0a020d0b1c552b1d1b1c07050d1a4d5a583b1d1818071a1c "Privacy Policy Inquiry") with any questions regarding our privacy policy.
+This Application collects some Personal Data from its Users. Your privacy is important to us. We will not share your information with any third party except as required by law or as necessary to complete an order placed by you with us and conduct normal business operations (see below). Please feel free to call or [email us](mailto:customersupport@culturesforhealth.com?subject=Customer%20Support "Privacy Policy Inquiry") with any questions regarding our privacy policy.
 
 Cultures for Health  
 200 Innovation Ave. Ste. 150  
