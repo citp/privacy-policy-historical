@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2017-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171011021002id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pedestrian.tv privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322191841id_/https%3A//www.pedestrian.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pedestrian TV
 
