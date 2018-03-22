@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the district279.org privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122231926id_/http%3A//www.district279.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district279.org privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322171407id_/http%3A//district279.org/privacy) for the most accurate reproduction.*
 
 # ISD 279 - Osseo Area Schools - Privacy
 
@@ -26,7 +26,7 @@ This notice addresses the collection, use, security of and access to information
 
 The identifiable personal information you provide through e-mail lists, Web forms and surveys, account services and other uses of the ISD 279 website is classified as public, private, or non-public data. The data may be shared with employees and agents of ISD 279 as necessary to provide the specific service requested, to track the success of programs, to complete required state and federal reports and to maintain the functioning and security of ISD 279 systems.
 
-To the extent such data is classified as educational or personnel data, the data may be classified as private data. ISD 279 may not disclose private data, except summary data, without the prior written consent of the subject of the data, or subject’s parent or guardian, except as provided in ISD 279 Policies No. 406 — Public and Private Personnel Data and No. 515 — Protection and Privacy of Education Records. Copies of these policies may be obtained from the superintendent's office (763) 391-7003 or viewed [here](http://www.district279.org/about-us/school-board/policies-and-procedures).
+To the extent such data is classified as educational or personnel data, the data may be classified as private data. ISD 279 may not disclose private data, except summary data, without the prior written consent of the subject of the data, or subject’s parent or guardian, except as provided in ISD 279 Policies No. 406 — Public and Private Personnel Data and No. 515 — Protection and Privacy of Education Records. Copies of these policies may be obtained from the superintendent's office (763) 391-7003 or viewed [here](http://district279.org/about-us/school-board/policies-and-procedures).
 
 Data that you provide that is not otherwise classified as private or non-public data pursuant to state or federal law will be public data that ISD 279 must make accessible to any member of the public upon request. For example, non-identifiable summary information is classified as public data and may be shared with third parties. Such aggregate summary data will not allow others to identify you.
 
