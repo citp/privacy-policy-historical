@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227231920id_/https%3A//hitwe.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plirt.ru privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322045207id_/https%3A//hitwe.com/privacypolicy) for the most accurate reproduction.*
 
 # Hitwe
 
@@ -152,6 +152,6 @@ Web beacons may be used to deliver or communicate with cookies, to count users w
 
 ### Contact Us
 
-Matar Trade & Invest Limited, 33 PorterRoad, P.O.Box 3169 PMB103, Road Town 1110, Tortola, British Virgin Islands [privacy@Hitwe.com](mailto:privacy@Hitwe.com)
+COMMUNITAINMENT LP, 12 South Bridge, Suite 1, Edinburg, Scotland, EH1 1DD, UK [privacy@Hitwe.com](mailto:privacy@Hitwe.com)
 
 Last Updated: 13.03.2017
