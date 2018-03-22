@@ -1,19 +1,30 @@
-> *The following text is extracted and transformed from the homegauge.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120182525id_/http%3A//www.homegauge.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegauge.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322184019id_/http%3A//www.homegauge.com/privacy.html) for the most accurate reproduction.*
 
 # HomeGauge Privacy Policy
 
 **What this Privacy Policy Covers**
 
-This Privacy Policy covers SHGI Corporation's treatment of personally identifiable information that SHGI Corporation collects when you are on the HomeGauge site, and when you use the HomeGauge service. This policy does not apply to the practices of companies that SHGI Corporation does not own or control, or to people that SHGI Corporation does not employ or manage. SHGI Corporation may amend this policy from time to time. 
+Your privacy and your customers' privacy is important to HomeGauge. We have developed a Privacy Policy that covers SHGI Corporation's (HomeGauge's legal name) treatment of information that we collect when you use software, services and websites associated with or related to HomeGauge's products.
 
-SHGI Corporation collects personally identifiable information when you register for a HomeGauge account, when you use certain HomeGauge products or services, and when you visit HomeGauge pages. When you register with HomeGauge, we ask for your name, email address, mailing address, zip code, occupation. HomeGauge also automatically receives and records information on our server logs from your browser including your IP address, cookie information and the page you requested. SHGI Corporation uses information to customize the content you see and to fulfill your requests for services. 
+**Collection, Use and Sharing of Information**
 
-**Information Sharing and Disclosure**
+HomeGauge collects personally-identifiable information when you register for a HomeGauge account, when you use certain HomeGauge products or services, and when you visit webpages hosted by SHGI related to HomeGauge. For example, when you register with HomeGauge, we ask for your name, email address, mailing address and zip code. In addition, use of the HomeGauge product provides us with information produced or collected about the home in question as part of the home inspection and inspection report production process.
 
-In addition to the information you choose to submit we gather certain anonymous data to help us better understand how our sites are being used and how we can improve them. This automatically gathered data includes your computer's address, statistics about how visitors navigate through our sites, and information provided through the use of cookies. 
+HomeGauge may send personally-identifiable information provided by you to other parties when: we have your consent to share the information; we need to share your information to provide the product or service you have requested; and when we respond to subpoenas, court orders or legal process.
 
-SHGI Corporation will not sell or rent your personally identifiable information to anyone. SHGI Corporation will send personally identifiable information about you to other companies or people only when: We have your consent to share the information; We need to share your information to provide the product or service you have requested; We respond to subpoenas, court orders or legal process. 
+We may also use personal information for internal purposes such as auditing, data analysis, research, and to improve our products, services and customer communications. Examples of such use are:
+
+  * Personal information we collect allows us to keep you posted on HomeGauge's latest product announcements, software updates and upcoming events. If you don't want to be on our mailing list, you can opt-out anytime.
+  * Personal information, as well as information collected via the inspection software, helps us create, develop, operate, deliver and improve our software and other services we provide.
+
+
+
+HomeGauge will not share personally-identifiable information, including with our Affiliates, outside of the reasons above, and we won't use your personally-identifiable information, or provide it to third parties, to market unrelated products to you unless you opt-in to receive such offers.
+
+In addition to the information you submit via HomeGauge, the Company gathers certain anonymous data to help us better understand how our sites are being used and how we can improve them. This automatically gathered data includes your computer's IP address, statistics about how visitors navigate through our sites, and information provided through the use of cookies. This information, which is automatically received by HomeGauge, is recorded on the Company's server logs and is used to customize the content you see, to fulfill your requests for services, and for research and informational purposes.
 
 **Security**
 
-Your HomeGauge Account Information is password-protected for your privacy and security. In certain areas HomeGauge uses industry-standard SSL-encryption to protect data transmissions. 
+Your HomeGauge Account Information is password-protected for your privacy and security. In certain areas HomeGauge uses industry-standard SSL-encryption to protect data transmissions.
+
+Last modified: 2017-12-14
