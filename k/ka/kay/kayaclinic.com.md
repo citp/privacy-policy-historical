@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayaclinic.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112145428id_/https%3A//www.kaya.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayaclinic.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322135533id_/https%3A//www.kaya.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy POLICY | kaya
 
