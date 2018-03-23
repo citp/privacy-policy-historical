@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertur-travel.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726082417id_/https%3A//www.fertur-travel.com/info/fertur-peru-travel-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertur-travel.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323021106id_/https%3A//www.fertur-travel.com/info/fertur-peru-travel-privacy-policy) for the most accurate reproduction.*
 
 # Fertur Peru Travel Privacy Policy
 
