@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitnamihosting.com privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923055523id_/https%3A//bitnami.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitnamihosting.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323220627id_/https%3A//bitnami.com/privacy) for the most accurate reproduction.*
 
 # Bitnami Privacy Policy
 
-BitRock, Incorporated ("BitRock") understands the importance of protecting the privacy of all information that we collect by users of our websites, subscribers to our newsletters and other information services and customers of our products and services. This Privacy Policy outlines our use and disclosure of the personal information collected by or submitted to BitRock on all BitRock-owned websites, including: [bitrock.com](http://bitrock.com/), [installbuilder.bitrock.com](http://installbuilder.bitrock.com/), [bitnami.com](https://bitnami.com/), [bitnamistudio.com](http://bitnamistudio.com/), [bitnamihosting.com](https://bitnamihosting.com/). 
+BitRock, Incorporated ("BitRock") understands the importance of protecting the privacy of all information that we collect by users of our websites, subscribers to our newsletters and other information services and customers of our products and services. This Privacy Policy outlines our use and disclosure of the personal information collected by or submitted to BitRock on all BitRock-owned websites, including: [bitrock.com](http://bitrock.com/), [installbuilder.bitrock.com](http://installbuilder.bitrock.com/), [bitnami.com](https://bitnami.com/), [bitnamistudio.com](http://bitnamistudio.com/), [bitnamihosting.com](https://bitnamihosting.com/), [hub.kubeapps.com](https://hub.kubeapps.com/). 
 
 ### What information do we collect?
 
@@ -53,8 +53,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 **BitRock Incorporated**   
-650 Mission St, 3rd floor   
-San Francisco, CA 94105-4059   
-USA   
+650 Mission Street, 3rd Floor   
+San Francisco, CA 94105   
 [info@bitnami.com](mailto:info@bitnami.com)   
 +1 866 870 2383
