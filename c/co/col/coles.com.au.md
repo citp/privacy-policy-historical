@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302075412id_/https%3A//www.coles.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coles.com.au privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323084500id_/https%3A//www.coles.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coles
 
@@ -75,8 +75,6 @@ Queries regarding privacy should be directed to the Coles Customer Care:
 **Post:**     800 Toorak Road  
              Hawthorn East  
              VIC 3123
-
-Last updated: March 2014
 
 Coles Supermarkets Australia Pty Ltd  
 ABN 45 004 189 708
