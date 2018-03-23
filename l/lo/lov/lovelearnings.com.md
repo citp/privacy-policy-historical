@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelearnings.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115000125id_/http%3A//www.lovelearnings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelearnings.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323142852id_/http%3A//www.lovelearnings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,11 +10,11 @@ LoveLearnings Media Inc (“LoveLearnings”) is committed to ensuring that your
 
 LoveLearnings may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you agree with any changes.
 
- **This policy was last revised:  July 4th, 2017**
+**This policy was last revised:  July 4th, 2017**
 
 * * *
 
-###  **Information We May Collect**
+### **Information We May Collect**
 
 We may collect the following personally identifiable information if you complete a quiz, subscribe to our newsletter or email series, download a free e-book or PDF report, submit a comment on an article or post, or fill out a contact form.
 
@@ -26,11 +26,11 @@ We may collect the following personally identifiable information if you complete
 
 
 
-###  **What Additional Information Do We Collect?**
+### **What Additional Information Do We Collect?**
 
 Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process.
 
-###  **What We May Do With the Information We Gather**
+### **What We May Do With the Information We Gather**
 
 We will not share your personal information with any third parties without your consent. If you leave our website and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others.
 
@@ -46,7 +46,7 @@ We may use the information you provide to better understand your needs and prov
 
 
 
-###  **What are “cookies” / “clear GIFs” and how do we use them?**
+### **What are “cookies” / “clear GIFs” and how do we use them?**
 
 Cookies: Like many other commercial sites, our Site utilizes standard technologies called “cookies” and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer’s hard drive (if your web browser permits) that can later be retrieved to identify you to us.
 
@@ -66,13 +66,13 @@ All of the newsletters that are sent to you include an unsubscribe link in them 
 
 You can remove yourself at any time from our mailing lists to prevent any further automated emails sent from us by clicking on the unsubscribe link. You can also contact us at [info@lovelearnings.com](mailto:info@lovelearnings.com) to change your information or unsubscribe at any time.
 
-###  **Links To Other Websites**
+### **Links To Other Websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 * * *
 
- **If you have any questions or concerns, please email[info@lovelearnings.com](mailto:info@lovelearnings.com).**
+**If you have any questions or concerns, please email[info@lovelearnings.com](mailto:info@lovelearnings.com).**
 
 LoveLearnings Media Inc  
 300-1095 McKenzie Ave  
