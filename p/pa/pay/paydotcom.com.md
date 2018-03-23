@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104165820id_/http%3A//paydotcom.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydotcom.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323190332id_/http%3A//www.paydotcom.com/privacy.php) for the most accurate reproduction.*
 
 # Sell Products Online, Sell Online, Affiliate Marketplace, Sell Products Online With Paypal, Affiliate Marketing, Merchant Accounts, Free Product Listing, Digital Products, Affiliate Network, Promote Products, Sell eBooks Online, Sell Software Online, Sell Digital Products Online, Merchant Account, Affiliates, Sell Books Online, Start your homebased business today. Paydotcom.com
 
@@ -18,7 +18,7 @@ This Privacy Policy applies to all visitors to any JVshare LLC owned website (th
 
 Subscribers to JVshare LLC-sponsored lists and/or newsletters are referred to herein as "Subscribers" and are subject to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by and through the Website, or otherwise by JVshare LLC are referred to herein as "Members" and are subject to this Privacy Policy. Individuals that order, attempt to order or receive products and/or services that are sold, advertised on or delivered from the Website, or otherwise by JVshare LLC, even at no cost, are referred to herein as "Customers" and are subject to this Privacy Policy. 
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
+If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please e-mail us at: Support@goldwares.com. Please be advised that where California residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law. 
 
 **MINORS**
 
@@ -88,7 +88,7 @@ The Website may contain third party provided banners, pop-ups, hyperlinked adver
 
 **OPT-OUT/UNSUBSCRIBE**
 
-To stop receiving future e-mail communications from JVshare LLC, please notify us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) JVshare LLC may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all JVshare LLC e-mail lists, please notify us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To stop receiving future e-mail communications from JVshare LLC, please notify us by email at helpdesk@paydotcom.com JVshare LLC may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all JVshare LLC e-mail lists, please notify us by email at helpdesk@paydotcom.com
 
 **DATA SECURITY**
 
@@ -100,7 +100,7 @@ Once we receive your transmission, we make reasonable efforts to ensure its secu
 
 If you have any questions regarding this Privacy Policy, or would like more information on our privacy practices, please contact us at: 
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+helpdesk@paydotcom.com 
 
 JVshare LLC 
 
