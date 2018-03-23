@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realchannel65.com.ng privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109025538id_/https%3A//www.realchannel65.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realchannel65.com.ng privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323235842id_/https%3A//realchannel65.ng/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 **PRIVACY POLICY**
 
-This Privacy Policy governs the manner in which REALCHANNEL65 collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://realchannel65.com.ng website (“Site”).
+This Privacy Policy governs the manner in which REALCHANNEL65 collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://realchannel65.ng website (“Site”).
 
 **Personal identification information**
 
@@ -63,6 +63,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://realchannel65.com.ng/contact-us/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://realchannel65.ng/contact-us/).
 
 This document was last updated on JULY 23RD, 2015
