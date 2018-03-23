@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetmarketingzoom.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122184807id_/http%3A//www.internetmarketingzoom.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingzoom.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323045023id_/https%3A//internetmarketingzoom.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Internet Marketing Zoom
+# Download All Master Resell Rights and PLR Products, Private Label Rights Ebooks, Articles, Videos
 
 Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.  
 
