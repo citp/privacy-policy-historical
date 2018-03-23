@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the oneshetwoshe.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220063742id_/http%3A//oneshetwoshe.com/2013/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneshetwoshe.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323064334id_/https%3A//oneshetwoshe.com/2013/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Or so she says...
 
-This post may contain affiliate links. For more information, see the [disclosure policy](http://oneshetwoshe.com/2009/09/disclosure-policy.html).
+This post may contain affiliate links. For more information, see the [disclosure policy](https://oneshetwoshe.com/2009/09/disclosure-policy.html).
 
  **Privacy Policy**
 
-**Welcome to Or so she says…**
+ **Welcome to Or so she says…**
 
-**‘** Or so she says…’ has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. ‘Or so she says…’ has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through ‘Or so she says…’ and not to information collected offline or to information you may provide to any third-party sites to which ‘Or so she says…’ may link, except as expressly provided herein.
+ **‘** Or so she says…’ has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. ‘Or so she says…’ has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through ‘Or so she says…’ and not to information collected offline or to information you may provide to any third-party sites to which ‘Or so she says…’ may link, except as expressly provided herein.
 
-**Information We Collect**
+ **Information We Collect**
 
 There are two kinds of information that ‘Or so she says…’ can obtain about you: “Anonymous Information” and “Personally Identifiable Information.”  
 “Anonymous Information” consists of non-personally-identifiable data, such as your Internet Protocol (“IP”) address or domain, or information about your usage on ‘Or so she says…’ that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users’ IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.
@@ -25,41 +25,41 @@ If you have submitted your personal information to ‘Or so she says…’ you m
 
 In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
 
-**Use of “Cookies”**
+ **Use of “Cookies”**
 
 ‘Or so she says…’ uses “cookies” – data that is transferred from ‘Or so she says…’ to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit ‘Or so she says…’ Some of the advertisements appearing on ‘Or so she says…’ are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, [please click here](http://www.google.com/intl/en/policies/). If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, [please click here](https://www.google.com/settings/ads/onweb/?hl=en=#display_optout) or [here](http://www.aboutads.info/choices/).
 
-**Disclosure of Information through Business Transfers**
+ **Disclosure of Information through Business Transfers**
 
 As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of ‘Or so she says…’ assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
 
-**Third Party Web Sites**
+ **Third Party Web Sites**
 
 ‘Or so she says…’ contains links to third-party Web sites not owned or controlled by ‘Or so she says…’ ‘Or so she says…’ is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on ‘Or so she says…’ does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between ‘Or so she says…’ and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site’s privacy policy before providing any personal information, and whenever interacting with any such Web site.
 
-**Public Forums**
+ **Public Forums**
 
 ‘Or so she says…’ may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of ‘Or so she says…’ in accordance with our Terms and Conditions, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind.
 
-**Security**
+ **Security**
 
 ‘Or so she says…’ has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, unencrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, ‘Or so she says…’ cannot ensure or warrant the security of any information you transmit to us. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.
 
-**Policy Regarding Minors**
+ **Policy Regarding Minors**
 
 Children should always ask parents before providing any personal information online. No information should be submitted to or posted on ‘Or so she says…’ by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by ‘Or so she says…’ for any marketing or promotional purposes. Minors are not eligible to participate in contests.
 
 ‘Or so she says…’ abides by the Children’s Online Privacy Protection Act. In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe that any Site has collected any information about anyone under 13, please contact the ‘Or so she says…’ Site Administrator via postal mail or email at one of the addresses listed below.
 
-**Financial Relationships**
+ **Financial Relationships**
 
 Please note that ‘Or so she says…’ may have financial relationships with some of the merchants/vendors mentioned on this website. In some instances, ‘Or so she says…’ may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for said merchant/vendor.
 
-**Limitation of Liability**
+ **Limitation of Liability**
 
 ‘OR SO SHE SAYS…’ PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT ‘OR SO SHE SAYS…’ SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH ‘OR SO SHE SAYS…’ FORUMS IS DONE AT YOUR OWN RISK, AND THAT ‘OR SO SHE SAYS…’ IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. ‘OR SO SHE SAYS…’ SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
 
-**Consent and Modifications to this Privacy Statement**
+ **Consent and Modifications to this Privacy Statement**
 
 ‘Or so she says…’ is controlled, operated and administered entirely within the United States. By using ‘Or so she says…’ and/or participating in the activities of ‘Or so she says…’ Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. ‘Or so she says…’ may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
 
