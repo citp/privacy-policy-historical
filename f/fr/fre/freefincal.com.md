@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefincal.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831013602id_/https%3A//freefincal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefincal.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323013926id_/https%3A//freefincal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,16 +18,16 @@ Revenue is earned by impressions only. That is by no of people who view the ads.
 
 2)  **Adsense by Google**. The ads will be contextual in nature, based on clicks and impressions, and is likely to depend on your browsing history. In order to preserve our integrity, all financial services ads have been disabled at the cost of significant revenue.
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/)
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). Alternatively, you can opt out of a third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/)
 
 
 
 If you have not [opted out of third-party ad serving](https://www.google.com/support/dfp_sb/bin/answer.py?hl=en&answer=94152), the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on your site, and should be disclosed in your privacy policy as well in the following manner.
 
   * The links to the appropriate vendor and ad network websites depend on your browsing history and freefincal is not aware of them.
-  * You may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+  * You may visit those websites to opt out of the use of cookies for interest-based advertising (if the vendor or ad network offers this capability). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 
 
