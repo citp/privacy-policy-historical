@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsensewithmoney.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118233432id_/http%3A//www.commonsensewithmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensewithmoney.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323153831id_/http%3A//www.commonsensewithmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Common Sense With Money
 
