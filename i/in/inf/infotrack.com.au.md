@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175646id_/https%3A//www.infotrack.com.au/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323130929id_/https%3A//www.infotrack.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | InfoTrack
 
 InfoTrack Pty Limited ABN 36 092 724 251 (“InfoTrack” or “we”, “our” or “us”) is bound by the Privacy Act 1988 (as amended) and is committed to the protection of privacy in accordance with the applicable law. This Privacy Policy sets out how we treat the personal information that we collect, use and disclose and our procedures regarding the handling of personal and sensitive information, including collection, use, disclosure and storage of information, as well as the right of individuals to access and correct that information.
 
@@ -65,7 +65,6 @@ to administer our databases for client service, marketing and financial accounti
 
 
 
-  
 We may disclose your personal information third party service providers who assist us in providing the services you request, including public authorities and providers of information services.
 
 We may also disclose your personal information to third parties who work with us in our business to promote, market or improve the services that we provide, including:
@@ -76,7 +75,6 @@ We may also disclose your personal information to third parties who work with us
 
 
 
-  
 We may also combine your personal information with information available from other sources, including the entities mentioned above, to help us provide better services to you.
 
 You may opt-out of receiving direct marketing or the disclosure your personal information for the purpose of direct marketing by contacting our privacy officer using the details set out below or by using any unsubscribe facility contained in a communication that you receive from us.
