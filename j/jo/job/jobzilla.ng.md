@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobzilla.ng privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218002352id_/http%3A//www.jobzilla.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobzilla.ng privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323111547id_/https%3A//www.jobzilla.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
