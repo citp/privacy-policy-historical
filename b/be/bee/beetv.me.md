@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beetv.me privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828213008id_/http%3A//beetv.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beetv.me privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323182049id_/http%3A//beetv.to/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Couch Tuner Free
 
@@ -27,4 +27,4 @@ A notice will be placed on our site to notify you for any changes we made to the
 
 We urge you to occasionally inquire and survey this arrangement so you generally will realize what data we gather, how we utilize it, and to whom we reveal it.
 
-© Copyright 2016 BeeTV.me - All Rights Reserved. 
+© Copyright 2017 BeeTV.to - All Rights Reserved. 
