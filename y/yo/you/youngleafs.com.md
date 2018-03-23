@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the youngleafs.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227235243id_/http%3A//www.youngleafs.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngleafs.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323220927id_/https%3A//www.youngleafs.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### PRIVACY POLICY
 
 for [youngleafs.com](http://youngleafs.com/)  
-Effective Date: December 27, 2017  
+Effective Date: March 23, 2018  
 Last Modified: 16 April, 2013 
 
   * I. **General**
