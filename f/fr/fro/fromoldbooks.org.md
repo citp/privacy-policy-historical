@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromoldbooks.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119101622id_/http%3A//www.fromoldbooks.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromoldbooks.org privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323034904id_/https%3A//www.fromoldbooks.org/privacy.html) for the most accurate reproduction.*
 
 # fromoldbooks.org | Privacy Policy
 
@@ -131,5 +131,5 @@ USA
 fromoldbooks.org 
 
 Email:  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+contact@fromoldbooks.org  
 
