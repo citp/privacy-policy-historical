@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafeqld.edu.au privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122165250id_/http%3A//tafeqld.edu.au/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafeqld.edu.au privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323181943id_/http%3A//tafeqld.edu.au/about-us/privacy.html) for the most accurate reproduction.*
 
 # Tafe Queensland Privacy Policy - TAFE Queensland
 
@@ -175,7 +175,7 @@ If you:
 
 you can write to:
 
-  * TAFE Queensland's Privacy Officer at PO Box 161 City East Qld 4002 or email [TAFE.Queensland@tafequeensland.edu.au](mailto:TAFE.Queensland@tafequeensland.edu.au);
+  * TAFE Queensland's Privacy Officer at PO Box 161 City East Qld 4002 or email [TAFE.Communication@tafeqld.edu.au](mailto:TAFE.Communication@tafeqld.edu.auu);
 
 
 
