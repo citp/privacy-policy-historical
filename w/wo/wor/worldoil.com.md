@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123173351id_/http%3A//www.worldoil.com/privacy-policy-of-world-oil-online) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324202507id_/http%3A//www.worldoil.com/privacy-policy-of-world-oil-online) for the most accurate reproduction.*
 
 # Privacy Policy | World Oil Online
 
