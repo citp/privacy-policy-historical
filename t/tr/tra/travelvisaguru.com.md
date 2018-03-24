@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelvisaguru.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120061839id_/https%3A//travelvisaguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelvisaguru.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324054136id_/https%3A//travelvisaguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelvisaguru
 
