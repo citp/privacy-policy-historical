@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reiwa.com.au privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701100755id_/https%3A//reiwa.com.au/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiwa.com.au privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324152030id_/https%3A//reiwa.com.au/Privacy-Statement) for the most accurate reproduction.*
 
 # REIWA's Privacy Policy And Internet Collection Notice - reiwa.com
 
@@ -7,7 +7,7 @@
 
 ## Privacy Policy
 
- _Last updated: 1 December 2015_
+ _Last updated: January 2018  _
 
 1\. REIWA is committed to complying with its obligations under the Privacy Act, 1988 and the associated Australian Privacy Principles (APPs). 
 
@@ -17,7 +17,7 @@
 
 3\. REIWA will not collect personal information unless it is reasonably necessary for, or directly related to, one or more of its functions or activities. 
 
-4\. Our designated Privacy Officer is: 
+4\. REIWA's designated Privacy Officer is: 
 
   * Name: Craig Bradley 
   * Email: [craig.bradley@reiwa.com.au](mailto:craig.bradley@reiwa.com.au?Subject=REIWA%20Privacy "craig.bradley@reiwa.com.au")
@@ -31,7 +31,7 @@
 
 6\. The type of personal information held by REIWA includes the following: 
 
-  * names, email addresses, other contact details, residential and business mail addresses, the content of correspondence with REIWA (including emails, facsimiles and postal mail), gender information, occupation details, nature of any enquiry details and other personal information provided by individuals to REIWA or its service providers in acquiring, using or subscribing to REIWA’s services;
+  * names, email addresses, other contact details, residential and business mail addresses, the content of correspondence with REIWA (including emails, facsimiles and postal mail), gender information, occupation details, nature of any enquiry details of properties and other personal information provided to REIWA by individuals, REIWA members or REIWA's service providers in acquiring, using or subscribing to REIWA’s services;
   
 
   * financial information such as information provided when applying for REIWA services and credit arrangements including, but not limited to, credit card/banking details;
@@ -40,7 +40,7 @@
   * information collected by REIWA from visitors to its internet sites including, but not limited to, information provided when registering to use that website and details provided as part of any competitions or surveys conducted by REIWA;
   
 
-  * databases of sales, values and rentals of properties and/or businesses constructed or maintained as part of the provision of the services of reiwa.com; 
+  * databases of sales, values, rentals and features of properties and/or businesses (including, but not limited to photographs and video images) constructed or maintained as part of the past, present or future provision of the services of reiwa.com; 
   
 
   * photographic identification of its members; 
@@ -49,19 +49,22 @@
   * details of the behaviour of users on REIWA’s internet sites including, but not limited to, IP addresses (not server addresses), previous sites visited, type of browsers used, nature of electronic devices used, internet pages accessed, cookies and location information; 
   
 
-  * information collected by REIWA from REIWA social media sites including, but not limited to, Facebook, Twitter, LinkedIn; 
+  * information collected by REIWA from REIWA social media sites including, but not limited to, Facebook, Twitter and LinkedIn; 
   
 
-  * information collected in relation to applications for REIWA membership, the continuation of membership or REIWA and/or the use of REIWA services; 
+  * information collected in relation to applications for REIWA membership, the continuation of membership of REIWA and/or the use of REIWA services; 
   
 
   * information collected from members of the public in connection with consumer enquiries relating to real estate matters, in connection with complaints and arbitrations relating to REIWA members and in connection with details relating to property transactions; 
   
 
-  * data relating to land sales, values of properties and leases obtained from third parties including, but not limited to, Landgate and members of REIWA who use REIWA’s services; personal information collected from persons attending REIWA conventions, seminars and functions; 
+  * data relating to land sales, values of properties and leases obtained from third parties including, but not limited to, Landgate and members of REIWA who use REIWA’s services;
   
 
-  * personal information collected from persons applying for or attending training courses conducted by REIWA, including via REIWA’s business, “REIWA Training”; 
+  * information collected from persons attending REIWA conventions, seminars and functions; 
+  
+
+  * information collected from persons applying for or attending training courses conducted by REIWA, including via REIWA’s business, “REIWA Training”; 
 
   
 
@@ -74,6 +77,9 @@
   
 
   * from users of REIWA’s services or, alternatively, from potential users of those services; 
+  
+
+  * from REIWA members who provide REIWA with information for the purposes of using reiwa.com and other services provided by REIWA, including information pertaining to properties and the buying, selling and leasing of those properties by individuals;
   
 
   * through REIWA’s internet and social media sites; 
@@ -132,7 +138,10 @@ In particular, REIWA holds information:
   * to provide personal information to REIWA’s contractors, who provide REIWA with services that assist REIWA with conducting its business; 
   
 
-  * to provide personal information to third party providers of services to the real estate industry; 
+  * to provide personal information (such as information relating to the sale, purchase and/or leasing of properties on reiwa.com) to users of the reiwa.com internet site for the marketing of properties and the provision of statistical data with respect to those properties; 
+  
+
+  * to provide personal information (such as information relating to the sale, purchase and/or leasing of properties) to third parties including, but not limited to, entities that provide web development and management services to real estate agents, data collection agencies such as RP Data Pty Ltd and providers of services to the real estate industry;
   
 
   * to enable REIWA to efficiently manage its business; 
@@ -144,7 +153,7 @@ In particular, REIWA holds information:
   * to enable REIWA to collate data for research and statistical purposes. 
   
 
-  * to enable REIWA to comply the statutory requirements of The Department of Training and Workforce Development (The Department) who ensure consistent and accurate capture and reporting of vocational education and training information about students. The National Centre for Vocational Education Research (NCVER) is the custodian for the collected information and may be accessed by officers of the Department and NCVER for the purpose of auditing participation and monitoring reporting of training outcomes. 
+  * to enable REIWA to comply with the statutory requirements of The Department of Training and Workforce Development (The Department) who ensure consistent and accurate capture and reporting of vocational education and training information about students. The National Centre for Vocational Education Research (NCVER) is the custodian for the collected information and may be accessed by officers of the Department and NCVER for the purpose of auditing participation and monitoring reporting of training outcomes. 
 
   
 
@@ -153,7 +162,7 @@ In particular, REIWA holds information:
 
 9\. REIWA discloses personal information to overseas recipients (eg data storage services), when that disclosure is consistent with the purpose(s) set out above. 
 
-10\. The countries associated with the overseas recipients are, potentially, as follows: United State of America, Singapore and other Asian countries. 
+10\. The countries associated with the overseas recipients are, potentially, as follows: United States of America, Singapore and other Asian countries. 
 
 ### Right to gain access to personal information held by REIWA and its complaints handling processes
 
@@ -165,7 +174,7 @@ In particular, REIWA holds information:
 
 14\. REIWA will generally provide access to information by providing to the individual concerned copies of relevant documents. Where, for reasons of volume or otherwise, providing copies of documents is not practical, REIWA will make arrangements for the individual concerned to attend at its offices to carry out a physical inspection. 
 
-15\. Wherever possible, REIWA will provide copies of documents or access to the information that we hold with respect to an individual within 14 days of the receipt of the relevant request. In the case of more complex requests REIWA will endeavour to provide access to the information within a period of 30 days. 
+15\. Wherever possible, REIWA will provide copies of documents or access to the information that it holds with respect to an individual within 14 days of the receipt of the relevant request. In the case of more complex requests REIWA will endeavour to provide access to the information within a period of 30 days. 
 
 16\. If individuals believe that information held relating to them is incorrect they are entitled to request, by contacting REIWA’s Privacy Officer, that REIWA corrects that information. 
 
@@ -185,7 +194,7 @@ In particular, REIWA holds information:
 
 (AUSTRALIAN PRIVACY PRINCIPLES COLLECTION NOTICE) 
 
-_Last updated: December 2015_
+_Last updated: January 2018  _
 
 1\. The notice is provided to you pursuant to the obligations placed upon REIWA and other organisations by the Privacy Act, 1988, and the associated Australian Privacy Principles (APPs). 
 
@@ -196,9 +205,15 @@ _Last updated: December 2015_
 3\. REIWA collects information in the following circumstances: 
 
   * from individuals, real estate and business agents and representatives (eg lawyers, settlement agents, accountants, financial advisers, banks);
-  * from users of REIWA’s services or, alternatively, from potential users of those services; through REIWA’s internet and social media sites; through publicly available information services (eg telephone white pages, internet records); 
-  * when REIWA is required to collect the information by virtue of legal or regulatory requirements; when individuals participate in competitions or surveys conducted by REIWA including, but not limited to, surveys relating to the quality of REIWA’s services provided and surveys relating to real estate matters; 
-  * from databases kept by third party providers of services to REIWA and/or its members including, but not limited to, Landgate, and from organisations and individuals who use REIWA’s services; 
+  * from REIWA members who provide REIWA with information for the purposes of using reiwa.com and other services provided by REIWA, including information pertaining to properties and the buying, selling and leasing of those properties by individuals.
+  * from users of REIWA’s services or, alternatively, from potential users of those services; 
+  * through REIWA’s internet and social media sites; 
+  * through publicly available information services (eg telephone white pages, internet records);   
+
+  * when REIWA is required to collect the information by virtue of legal or regulatory requirements; 
+  * when individuals participate in competitions or surveys conducted by REIWA including, but not limited to, surveys relating to the quality of REIWA’s services provided and surveys relating to real estate matters; 
+  * from databases kept by third party providers of services to REIWA and/or its members including, but not limited to, Landgate;
+  * from organisations and individuals who use REIWA’s services; 
   * from persons attending REIWA conventions, seminars and functions; 
   * from persons applying for or attending training courses conducted by REIWA, including via REIWA’s business, “REIWA Training”.).   
 
@@ -208,7 +223,7 @@ _Last updated: December 2015_
 
 ###  Legal requirements to collect information
 
-4\. REIWA may, from time to time, be required to collect information as a consequence of legal requirements upon us to collect information. Examples of these requirements include information that REIWA is obliged to collect under the Associations Incorporations Act 1987. 
+4\. REIWA may, from time to time, be required to collect information as a consequence of legal requirements upon it to collect information. Examples of these requirements include information that REIWA is obliged to collect under the Associations Incorporation Act, 2015. 
 
 5\. Further information regarding these obligations can be obtained by contacting our Privacy Officer at the details set out below. 
 
@@ -249,11 +264,12 @@ _Last updated: December 2015_
   * to provide seminars, conventions and educational services to REIWA’s members and the public, including via REIWA’s business, “REIWA Training”; 
   
 
-  * to enable REIWA to collate data for research and statistical purposes.
+  * to enable REIWA to collate data for research and statistical purposes;
   
 
-  * to provide personal information (such as information relating to the sale and/or leasing of properties) to third party providers of services to the real estate industry, with such third parties including, but not limited to, entities that provide web site development and management services to real estate agents.   
-
+  * to provide personal information (such as information relating to the sale and/or leasing of properties on reiwa.com) to users of the reiwa.com internet site for the marketing of properties and the provision of statistical data with respect to those properties;
+  * to provide personal information (such as information relating to the sale and/or leasing of properties on reiwa.com) to third parties including, but not limited to, entities that provide website development and management services to real estate agents, data collection agencies such as RP Data Pty Ltd, and providers of services to the real estate industry;
+  * to enable REIWA to comply with the statutory requirements of the Department of Training and Workforce Development (The Department) who ensure consistent and accurate capture and reporting of vocational education and training information about students. The National Centre for Vocational Education Research (NCVER) is the custodian for the collected information and may be accessed by officers of the Department and NCVER for the purpose of auditing participation and monitoring reporting of training outcomes. 
   
 
   
@@ -270,7 +286,8 @@ _Last updated: December 2015_
   * REIWA provides personal information to its contractors, who provide REIWA with services to assist it with conducting its business;
   
 
-  * REIWA may store information on data storage facilities provided by third parties.
+  * REIWA may store information on data storage facilities provided by third parties;
+  * REIWA may use/disclose information relating to the sale, purchase and/or leasing of properties by providing that information to data collection agencies such as RP Data Ltd. 
 
   
 
@@ -314,7 +331,7 @@ _Last updated: December 2015_
 
 18\. Any information that is stored by REIWA about an individual is stored in a reasonable state of security. Individuals have certain rights under the APPs to access information stored by an organisation about them. 
 
-19\. Should a person wish to contact REIWA to gain access to the details of the information stored by it regarding that individual, that person should make contact with REIWA’s Privacy Officer. Subject to legal obligations upon REIWA, including our rights and obligations under the Privacy Act, 1988, REIWA will provide that access. REIWA reserves the right to make a reasonable charge to cover its costs for granting that access. 
+19\. Should a person wish to contact REIWA to gain access to the details of the information stored by it regarding that individual, that person should make contact with REIWA’s Privacy Officer. Subject to legal obligations upon REIWA, including REIWA's rights and obligations under the Privacy Act, 1988, REIWA will provide that access. REIWA reserves the right to make a reasonable charge to cover its costs for granting that access. 
 
 20\. Should a person wish to make a complaint about the manner in which REIWA has dealt with any privacy issue, that person should make contact with the REIWA Privacy Officer. 
 
