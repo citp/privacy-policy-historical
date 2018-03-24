@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121090946id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324025802id_/http%3A//www.tophosts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | TopHosts
 
