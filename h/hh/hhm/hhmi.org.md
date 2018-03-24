@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123042446id_/https%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhmi.org privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324153055id_/https%3A//www.hhmi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HHMI.org
 
@@ -6,9 +6,9 @@ Thank you for visiting the website of the Howard Hughes Medical Institute (“HH
 
 This Privacy Policy is part of and incorporated into the Terms of Use for the Site (“Terms of Use”), which govern your use of the Site. Please review the Terms of Use prior to using the Site.
 
-**By using the Site or providing information to us, you are agreeing to the Terms of Use, including this Privacy Policy. If you do not agree with all of the Terms of Use for the Site, including this Privacy Policy, do not use the Site or provide information to us.** Please note that this Privacy Policy applies only to information that personally identifies you (other than publicly available information) gathered online at the Site. It does not apply to information that you may submit to us offline or to websites maintained by other companies or organizations to which we may link.
+**By using the Site or providing information to us, you are agreeing to the Terms of Use, including this Privacy Policy. If you do not agree with all of the Terms of Use for the Site, including this Privacy Policy, do not use the Site or provide information to us.  **Please note that this Privacy Policy applies only to information that personally identifies you (other than publicly available information) gathered online at the Site. It does not apply to information that you may submit to us offline or to websites maintained by other companies or organizations to which we may link.
 
-**1\. Information You May Provide Directly to HHMI**
+## **1\. Information You May Provide Directly to HHMI**
 
 It is always your choice, or the choice of anyone acting for you, whether to provide personal information, such as your name, mailing address, e-mail address or other information about yourself or data which can be reasonably linked to such information by us (“Personal Information”).However, in order to obtain certain materials and services from us and to use certain features of the Site, you will need to provide us with Personal Information about yourself, so the decision not to provide this information will limit or eliminate your ability to receive certain materials or use certain features of the Site.
 
@@ -20,11 +20,11 @@ We offer mobile applications that allow you to receive educational information a
 
 Do not supply Personal Information about others unless you are authorized by such individuals or required to do so by applicable law or contract and such individuals provide their consent to this policy and the Terms of Use.
 
-**2\. Information We Collect That You Do Not Provide**
+## **2\. Information We Collect That You Do Not Provide**
 
 We also collect some information automatically when you visit the Site, including, but not limited to, through the use of “cookies” that are used to collect traffic data. The types of information that we collect through such methods include: your domain name and host for Internet access; the Internet address of the site from which you came; the date, time and duration of your access; your computer's IP address and information about its operating system, browser and host; and the pages of the Site that you visit. We may also use cookies in certain features on the Site, so you can return to the feature and pick up where you left off if you are unable to view the entire program in one sitting. If you do not want to receive cookies, you may set your browser to reject them.  However, if you turn cookies off, you may not have access to some of the services and features of the Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you access the Site.
 
-**3\. How We Use Your Information**
+## **3\. How We Use Your Information**
 
 In general, we use information we collect on our Site to pursue our mission and operations and to engage in the activity for which the information is collected. Specifically, we may use your information to:
 
@@ -41,7 +41,7 @@ In general, we use information we collect on our Site to pursue our mission and 
 
 Subject to applicable law, we reserve the right to make all lawful, worldwide uses of collected information.
 
-**4\. Disclosure of Personal Information**
+## **4\. Disclosure of Personal Information**
 
 We will only intentionally share your Personal Information with third parties under the following circumstances:
 
@@ -56,32 +56,32 @@ We will only intentionally share your Personal Information with third parties un
 
 
 
-**5\. Your Choices and Retention of Personal Information**
+## **5\. Your Choices and Retention of Personal Information**
 
-You can review and update your account information by logging into your account at any time, and may close your HHMI account by submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). You may unsubscribe to e-mail news alerts at any time by clicking the unsubscribe link at the bottom of the emails, logging into your account and changing your e-mail alerts setting, or submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). We retain Personal Information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. Our third-party order fulfillment company also maintains a copy of contact information relating to __ order requests they have processed for us. If you have any questions about what Personal Information about you HHMI retains or would like to request that HHMI not share your information as explained in this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
+You can review and update your account information by logging into your account at any time, and may close your HHMI account by submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). You may unsubscribe to e-mail news alerts at any time by clicking the unsubscribe link at the bottom of the emails, logging into your account and changing your e-mail alerts setting, or submitting your request to the [HHMI Webmaster](https://www.hhmi.org/contact-us/). We retain Personal Information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. Our third-party order fulfillment company also maintains a copy of contact information relating to order requests they have processed for us. If you have any questions about what Personal Information about you HHMI retains or would like to request that HHMI not share your information as explained in this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
 
-**6\. Information Security**
+## **6\. Information Security**
 
 We use reasonable technical and organizational measures to protect the Personal Information received from visitors to the Site from unauthorized use or disclosure. Unfortunately, HHMI cannot guarantee the privacy of any Personal Information that you provide. If we are required to provide notice of unauthorized access to security systems, you agree that we may do so by posting notice on our Site, by email, or by regular mail, in our discretion.
 
-**7.International Transfers**
+## **7\. International Transfers**
 
 The Site is published in the United States and is subject to laws of the United States. If you are located in a country outside the United States and submit Personal Information to us, you consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and storage of that information in, the United States.
 
-**8\. Third Party Sites**
+## **8\. Third Party Sites**
 
 If you click on a hyperlink that you find on the Site, you may leave the Site or send information to a different website. This Privacy Policy does not apply to your interactions with other websites even if you find a link to them on the Site. We maintain official social media accounts on third-party websites. Your activity on those third-party sites is governed by the security and privacy policies of the third-party sites. Please read the privacy policy of the third-party website provider to see how your Personal Information will be treated on its website.
 
-**9\. Children**
+## **9\. Children**
 
 The Site is a general audience website, and we do not knowingly collect information about children under age 13 years old through the Site. Visitors who are 13 or under should get permission from a parent or legal guardian before using the Site and should not submit any Personal Information. If we learn that we have collected Personal Information from a child under age 13 other than in a manner authorized by law, we will delete that information from our database.
 
-**10\. Changes in this Privacy Policy**
+## **10\. Changes in this Privacy Policy**
 
 Although no changes in this policy are currently contemplated, the policy may change in the future. Your continued use of the Site after we make changes to this Privacy Policy is deemed to be acceptance of those changes, so check this portion of the Site for any modifications.
 
-**11\. Contact Us**
+## **11\. Contact Us**
 
-If you have questions about this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
+If you have questions about this Privacy Policy, please contact the [HHMI Webmaster](https://www.hhmi.org/contact-us/).
 
-This policy was last updated on Juy 7, 2016.
+This policy was last updated on July 7, 2016.
