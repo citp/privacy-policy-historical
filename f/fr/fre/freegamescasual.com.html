@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freegamescasual.com privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218201802id_/http%3A//freegamescasual.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freegamescasual.com privacy policy that was archived on 2018-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180324103308id_/http%3A//freegamescasual.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="en"><head>
 		<title>Privacy Policy - Free Games Casual</title>
@@ -15,8 +15,7 @@
 		<link rel="stylesheet" href="http://freegamescasual.com/templates/css/bootstrap/css/bootstrap-theme.min.css">
 		<link rel="stylesheet" href="http://freegamescasual.com/templates/css/jquery.mCustomScrollbar.css">
 		<link rel="stylesheet" href="http://freegamescasual.com/templates/css/owl.carousel.2.0.0-beta.2.4/assets/owl.carousel.css">
-		<link href="http://freegamescasual.com/templates/css/style.css" rel="stylesheet">
-		<link href="http://freegamescasual.com/templates/css/style_static.css" rel="stylesheet">
+		<link href="http://freegamescasual.com/templates/css/style.css?8" rel="stylesheet">
 
         		<script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://freegamescasual.com/templates/js/jquery-1.12.0.min.js"></script>
 		<script src="http://freegamescasual.com/templates/js/masonry/masonry_4.0.js"></script>
@@ -24,6 +23,8 @@
 		<script src="http://freegamescasual.com/templates/css/bootstrap/js/bootstrap.min.js"></script>
 		<script src="http://freegamescasual.com/templates/css/owl.carousel.2.0.0-beta.2.4/owl.carousel.js"></script>
 		<script src="http://freegamescasual.com/templates/js/scripts.js"></script>
+		<script src="http://freegamescasual.com/templates/js/ouibounce.min.js"></script>
+
         <script type="text/javascript">
 			window.google_analytics_uacct = "UA-3795986-7";
 		</script>
@@ -43,35 +44,54 @@
 				s.parentNode.insertBefore(ga, s);
 			})();
 		</script><script> 
-  
-  window.onload = function() { 
-  
-    // Delay to allow the async Google Ads to load
-    setTimeout(function() { 
-      
-      // Get the first AdSense ad unit on the page
-      var ad = document.querySelector("ins.adsbygoogle");
-      
-      // If the ads are not loaded, track the event
-      if (ad && ad.innerHTML.replace(/\s/g, "").length == 0) {
+(function () {
+                // Function called if AdBlock is not detected
+                function adBlockNotDetected() {
+                    $.post("/adblockdetector/save");
+                    _gaq.push(['_trackEvent', 'Visit', 'Yes', undefined, undefined, true]);
+                }
+                // Function called if AdBlock is detected
+                function adBlockDetected() {
+                    $.post("/adblockdetector/save", {adblock: 1});
+                    setTimeout(function(){
+			$("#adblock_popup").addClass('in');
+                    }, 500);
+                    if (typeof ga !== 'undefined') {
+                        // Log an event in Universal Analytics
+                        // but without affecting overall bounce rate
+                        ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1});
+                    } else if (typeof _gaq !== 'undefined') {
+                        // Log a non-interactive event in old Google Analytics
+                        _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
+                    }
+                    _gaq.push(['_trackEvent', 'Visit', 'Yes', undefined, undefined, true]);
+                }
 
-        if (typeof ga !== 'undefined') {
-
-            // Log an event in Universal Analytics
-            // but without affecting overall bounce rate
-            ga('send', 'event', 'Adblock', 'Yes', {'nonInteraction': 1}); 
-
-        } else if (typeof _gaq !== 'undefined') {
-
-            // Log a non-interactive event in old Google Analytics
-            _gaq.push(['_trackEvent', 'Adblock', 'Yes', undefined, undefined, true]);
-
-        }
-      }
-    }, 2000); // Run ad block detection 2 seconds after page load
-  }; 
-  
-</script>
+                // We look at whether FuckAdBlock already exists.
+                if (typeof fuckAdBlock !== 'undefined' || typeof FuckAdBlock !== 'undefined') {
+                    // If this is the case, it means that something tries to usurp are identity
+                    // So, considering that it is a detection
+                    adBlockDetected();
+                } else {
+                    // Otherwise, you import the script FuckAdBlock
+                    var importFAB = document.createElement('script');
+                    importFAB.onload = function () {
+                        // If all goes well, we configure FuckAdBlock
+                        fuckAdBlock.onDetected(adBlockDetected);
+                        fuckAdBlock.onNotDetected(adBlockNotDetected);
+                    };
+                    importFAB.onerror = function () {
+                        // If the script does not load (blocked, integrity error, ...)
+                        // Then a detection is triggered
+                        adBlockDetected();
+                    };
+                    importFAB.integrity = 'sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=';
+                    importFAB.crossOrigin = 'anonymous';
+                    importFAB.src = 'https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js';
+                    document.head.appendChild(importFAB);
+                }
+            })();
+</script><script integrity="sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=" crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js"></script>
 	</head>
 	<body class="static">
 		<div class="fgc">
@@ -311,10 +331,96 @@
 	</div>
 </div>			</div>
 		</div>
-			
+
+		<div id="adblock_popup" class="adblock_popup__wrapper">
+	<div class="adblock_popup">
+		<div class="adblock_popup__close"></div>
+		<img src="/templates/images/adblock.jpg?1" class="adblock_popup__screen" alt="">
+		<div class="adblock_popup__text">
+							<p>please<br>disable your</p>
+				<p class="adblock_popup__big_text">ad blocking app</p>
+					</div>
+	</div>
+</div>
+
+
+	<script>
+		$(".adblock_popup__close").click(function (e) {
+			e.preventDefault();
+			$("#adblock_popup").removeClass('in');
+            if (typeof _gaq !== "undefined") {
+                _gaq.push(['_trackEvent', 'Close adblock popup', 'Yes', undefined, undefined, true]);
+            }
+		});
+	</script>
+		<div id="dont-leave-us" class="dont-leave-us__wrapper">
+	<div class="dont-leave-us">
+		<div class="dont-leave-us__close"></div>
+		<div class="dont-leave-us__text">
+							<p class="dont-leave-us__bigText">Before you go,</p>
+				<p>check out<br>these games</p>
+					</div>
+		<div class="dont-leave-us__games">
+							<div class="dont-leave-us__game">
+					<a class="game-item" href="http://freegamescasual.com/Free-Online-Games/Princesses/My-Sweet-Anniversary.html" data-id="30366" data-publication="2018-03-20">
+						<div class="game-item-content">
+							<img class="game-item-img" src="http://cdn.freegamescasual.com/images/183x137/fgc_30366.gif">
+							<div class="game-item-desc">
+								<span class="game-item-title">My Sweet Anniversary</span>
+								<span class="game-item-rating">
+									
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																		</span>
+							</div>
+						</div>
+					</a>
+				</div>
+							<div class="dont-leave-us__game">
+					<a class="game-item" href="http://freegamescasual.com/Free-Online-Games/Princesses/Princesses-Spring-18-Fashion-Brands.html" data-id="31800" data-publication="2018-03-15">
+						<div class="game-item-content">
+							<img class="game-item-img" src="http://cdn.freegamescasual.com/images/183x137/fgc_31800.gif">
+							<div class="game-item-desc">
+								<span class="game-item-title">Princesses Spring 18 Fashion Brands</span>
+								<span class="game-item-rating">
+									
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																					<img src="http://freegamescasual.com/templates/images/star.png">
+																		</span>
+							</div>
+						</div>
+					</a>
+				</div>
+					</div>
+	</div>
+</div>
+
+
+	<script>
+        function getCookie(e){var o=document.cookie.match(new RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0}function setCookie(e,o,t){var i=(t=t||{}).expires;if("number"==typeof i&&i){var n=new Date;n.setTime(n.getTime()+1e3*i),i=t.expires=n}i&&i.toUTCString&&(t.expires=i.toUTCString());var r=e+"="+(o=encodeURIComponent(o));for(var c in t){r+="; "+c;var a=t[c];!0!==a&&(r+="="+a)}document.cookie=r}function deleteCookie(e){setCookie(e,"",{expires:-1})}
+
+        ouibounce(document.getElementById('dont-leave-us'), {
+            sensitivity: 50,
+            aggressive: true,
+            delay: 150,
+            callback: function() {
+                setCookie('dont_live_us_counter', +(getCookie('dont_live_us_counter') || 0) + 1, {path:'/'});
+            }
+        });
+
+        $(".dont-leave-us__close").click(function (e) {
+            e.preventDefault();
+            $("#dont-leave-us").fadeOut();
+        });
+	</script>
+
 		
 			<script>
-				function footerPositionSet() {
+               function footerPositionSet() {
 					var window_top = $(window).scrollTop();
 					var window_height = $(window).outerHeight();
 					var footer_height = $('#footer').outerHeight();
