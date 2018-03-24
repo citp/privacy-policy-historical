@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atbox.io privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119114411id_/https%3A//atbox.io/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbox.io privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325000241id_/https%3A//atbox.io/legal/privacy-policy) for the most accurate reproduction.*
 
 # Atbox - 🔒 privacy policy
 
