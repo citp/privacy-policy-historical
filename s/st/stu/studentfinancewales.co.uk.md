@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentfinancewales.co.uk privacy policy that was archived on 2017-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171122170158id_/http%3A//www.studentfinancewales.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentfinancewales.co.uk privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324054209id_/http%3A//studentfinancewales.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Student Finance Wales
 
