@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegesearchconnection.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102071834id_/http%3A//www.collegesearchconnection.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegesearchconnection.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324015752id_/http%3A//www.collegesearchconnection.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – College Search Connection
 
