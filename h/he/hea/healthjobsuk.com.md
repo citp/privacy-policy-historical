@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2017-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170918231556id_/http%3A//healthjobsuk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324215646id_/https%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -6,7 +6,7 @@
 
 ## Privacy Policy
 
-Trac Systems Limited is committed to preserving the privacy of all visitors to healthjobsuk.com. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us.
+Trac Systems Limited is committed to preserving the privacy of all visitors to www.healthjobsuk.com. Please read the following Privacy Policy to understand how we use and protect the information that you provide to us.
 
 By using, registering or submitting any information on our Site you consent to the collection, use and transfer of your information under the terms of this Privacy Policy.
 
@@ -57,7 +57,7 @@ as defined in the DPA;
 
 | 
 
-healthjobsuk.com;  
+www.healthjobsuk.com;  
   
 "we", "us" or "our"
 
