@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702054138id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmart.gov.au privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324185843id_/https%3A//www.moneysmart.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | ASIC's MoneySmart
 
