@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwellnesssummit.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208183731id_/http%3A//www.globalwellnesssummit.com/wp-content/uploads/2016/08/GWS_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwellnesssummit.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324165342id_/http%3A//www.globalwellnesssummit.com/wp-content/uploads/2016/08/GWS_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # GLOBAL WELLNESS SUMMIT PRIVACY POLICY
 
