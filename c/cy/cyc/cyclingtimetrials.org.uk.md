@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclingtimetrials.org.uk privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204091736id_/https%3A//www.cyclingtimetrials.org.uk/pages/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclingtimetrials.org.uk privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324202121id_/https%3A//www.cyclingtimetrials.org.uk/pages/terms/privacy) for the most accurate reproduction.*
 
 # Cycling Time Trials: Privacy Policy
 
