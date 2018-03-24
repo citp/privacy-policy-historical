@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119035131id_/https%3A//www.brookings.edu/about-us/brookings-institution-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookings.edu privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324065956id_/https%3A//www.brookings.edu/about-us/brookings-institution-privacy-policy) for the most accurate reproduction.*
 
 # Brookings Institution Privacy Policy
 
@@ -113,6 +113,3 @@ The Brookings Institution
 Washington, DC 20036  
 Attn: Office of General Counsel  
 [generalcounsel@brookings.edu](mailto:generalcounsel@brookings.edu)
-
-
-
