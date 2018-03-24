@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ln-cc.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223081444id_/http%3A//www.ln-cc.com/en/customer-service-privacy-security/privacy-policy/privacy-policy_ln.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ln-cc.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324210314id_/http%3A//www.ln-cc.com/en/customer-service-privacy-security/privacy-policy/privacy-policy_ln.html) for the most accurate reproduction.*
 
 # Privacy Policy | LN-CC
 
@@ -88,7 +88,7 @@ If we are under a duty to disclose or share your personal data in order to compl
 
 ## YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [ enquiries@ln-cc.com](https://web.archive.org/web/20171223081444id_/http%3A//www.ln-cc.com/en/customer-service-privacy-security/privacy-policy/enquiries@ln-cc.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [ enquiries@ln-cc.com](https://web.archive.org/web/20180324210314id_/http%3A//www.ln-cc.com/en/customer-service-privacy-security/privacy-policy/enquiries@ln-cc.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates, including but not limited to our marketing agencies, event management companies and distributors. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -102,4 +102,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [ enquiries@ln-cc.com](https://web.archive.org/web/20171223081444id_/http%3A//www.ln-cc.com/en/customer-service-privacy-security/privacy-policy/enquiries@ln-cc.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [ enquiries@ln-cc.com](https://web.archive.org/web/20180324210314id_/http%3A//www.ln-cc.com/en/customer-service-privacy-security/privacy-policy/enquiries@ln-cc.com).
