@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164216id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theloop.ca privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324222807id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy%3Flanguage%3Den) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : What is “personal” information?
 
@@ -269,7 +269,7 @@ What does “our companies” mean?
 
 When it comes to your preferences for privacy and marketing, “our companies” refers to the following companies and brands as they may exist over time:
 
-**Bell Aliant, Bell Canada, Bell ExpressVu LP (Bell TV), Bell Media, Bell Mobility, Cablevision du Nord, DMTS, KMTS, NorthernTel, Ontera, Solo Mobile and Télébec.**
+**Bell Aliant, Bell Canada, Bell ExpressVu LP (Bell TV), Bell Media, Bell Mobility, Bell MTS, Cablevision du Nord, DMTS, KMTS, NorthernTel, Ontera, Solo Mobile and Télébec.**
 
 * * *
 
@@ -281,7 +281,7 @@ Our Privacy Policy applies to all customers using our services and cannot be dec
 
 Additional questions or concerns about your privacy? 
 
-If you would like to view a copy of the previous version of our Privacy Policy, please [click here (PDF 162.71 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf)
+If you would like to view a copy of the previous version of our Privacy Policy, please [click here (PDF 78.18 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf)
 
 We'd be happy to discuss any questions or concerns you may still have about your privacy. To reach us, please visit our [contact us](http://support.bell.ca/Contact-us) section.
 
