@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the gceguide.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001135857id_/https%3A//www.gceguide.com/about-us/%23privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gceguide.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324093038id_/https%3A//www.gceguide.com/about-us/%23privacy_statement) for the most accurate reproduction.*
 
 # About us | GCE Guide
 
 ### What is GCE Guide?
 
-GCE[ ](http://www.gceguide.com/)Guide is a free, non-profit online resource which was created in December 2013\. It was founded and managed by a team of professionals and then it started to grow with an extraordinarily inspiring speed. Now GCE Guide is a leading website for all **O/IGCSE/AS/A  Levels** students and teachers worldwide.  
+GCE[ ](https://www.gceguide.com/)Guide is a free, non-profit online resource which was created in December 2013\. It was founded and managed by a team of professionals and then it started to grow with an extraordinarily inspiring speed. Now GCE Guide is a leading website for all **O/IGCSE/AS/A  Levels** students and teachers worldwide.  
 We provide a wide range of services like providing students with the best resources to cater to their needs, and helping them with a big online library so that they can have access to the e-books on the go and 24/7.  Moreover, we provide the students with latest past papers right after the end of every examination series. Our professional student counselors  (who are available at different social medias like **[facebook](https://www.facebook.com/gceguides/)**  &  **[google+](https://plus.google.com/u/0/104841658566188486656/posts/p/pub)** ) provide the students with the tricks and tips to ace the examinations.  
 This website is programmed to help the learners who keep on wandering and surfing round the internet in search of authentic resources for free or are in a need of a good guideline to set their revision plans. GCE Guide is totally free & we never ask the learners and their teachers for the money to give them the resources. We provide the best services for Cambridge International Examinations for free!
 
 ### Our Reach:
 
-GCE[ ](http://www.gceguide.com/)Guide reaches to a huge audience – actually over 200,000 unique visitors per month to be exact. Our visitors come from almost 197 countries. In addition, almost 9000+ people have liked our website and facebook page.
+GCE[ ](https://www.gceguide.com/)Guide reaches to a huge audience – actually over 200,000 unique visitors per month to be exact. Our visitors come from almost 197 countries. In addition, almost 9000+ people have liked our website and facebook page.
 
 Our project is increasing fast internationally.
 
