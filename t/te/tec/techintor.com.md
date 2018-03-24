@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techintor.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120060211id_/https%3A//www.techintor.com/at-techintor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techintor.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324182738id_/https%3A//www.techintor.com/at-techintor) for the most accurate reproduction.*
 
 # Privacy Policy
 
