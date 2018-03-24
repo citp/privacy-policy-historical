@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamescasual.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218201802id_/http%3A//freegamescasual.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamescasual.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324103308id_/http%3A//freegamescasual.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Games Casual
 
