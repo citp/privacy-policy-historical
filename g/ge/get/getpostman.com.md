@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpostman.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021144734id_/https%3A//www.getpostman.com/licenses/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpostman.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324214038id_/https%3A//www.getpostman.com/licenses/privacy) for the most accurate reproduction.*
 
 # Postman | License | Privacy policy
 
@@ -50,13 +50,13 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### Using Postman
 
-By using Postman, you consent to the terms set out in [the Postman EULA](https://web.archive.org/web/20171021144734id_/https%3A//www.getpostman.com/licenses/postman_base_app)
+By using Postman, you consent to the terms set out in [the Postman EULA](https://web.archive.org/web/20180324214038id_/https%3A//www.getpostman.com/licenses/postman_base_app)
 
-By using Jetpacks, you consent to the terms set out in [the Jetpacks Addendum](https://web.archive.org/web/20171021144734id_/https%3A//www.getpostman.com/licenses/postman_jetpacks_addendum)
+By using Jetpacks, you consent to the terms set out in [the Jetpacks Addendum](https://web.archive.org/web/20180324214038id_/https%3A//www.getpostman.com/licenses/postman_jetpacks_addendum)
 
-By using Postman's Sync feature, you consent to the terms set out in [the Sync Addendum](https://web.archive.org/web/20171021144734id_/https%3A//www.getpostman.com/licenses/postman_sync_addendum)
+By using Postman's Sync feature, you consent to the terms set out in [the Sync Addendum](https://web.archive.org/web/20180324214038id_/https%3A//www.getpostman.com/licenses/postman_sync_addendum)
 
-By using Postman Monitors, you consent to the terms set out in [the Monitors Addendum](https://web.archive.org/web/20171021144734id_/https%3A//www.getpostman.com/licenses/postman_monitors_addendum)
+By using Postman Monitors, you consent to the terms set out in [the Monitors Addendum](https://web.archive.org/web/20180324214038id_/https%3A//www.getpostman.com/licenses/postman_monitors_addendum)
 
 ### Your Consent
 
