@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustyou.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622222832id_/http%3A//www.trustyou.com/wp-content/uploads/2017/01/2017.01.19-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustyou.com privacy policy that was archived on 2018-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180324012340id_/http%3A//www.trustyou.com/wp-content/uploads/2017/01/2017.01.19-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
