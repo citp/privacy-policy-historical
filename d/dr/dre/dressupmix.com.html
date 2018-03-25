@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dressupmix.com privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220132752id_/http%3A//dressupmix.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dressupmix.com privacy policy that was archived on 2018-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180325064935id_/http%3A//dressupmix.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="en"><head>
 		<title></title>
@@ -22,7 +22,7 @@
 		
 		<link rel="stylesheet" href="http://dressupmix.com/templates/js/jquery/jquery-ui.css">
 		
-		<link href="http://dressupmix.com/templates/css/style_new.css" rel="stylesheet">
+		<link href="http://dressupmix.com/templates/css/style_new.css?7" rel="stylesheet">
         		
 		<!-- Latest compiled and minified JavaScript -->
 		
@@ -34,7 +34,7 @@
 		<script src="http://dressupmix.com/templates/js/jquery.mCustomScrollbar.concat.min.js"></script>
 		<script src="http://dressupmix.com/templates/css/bootstrap-3.3.4/js/bootstrap.min.js"></script>
 		<script src="http://dressupmix.com/templates/js/owl-carousel/owl-carousel2/owl.carousel.js"></script>
-		
+		<script src="http://dressupmix.com/templates/js/ouibounce.min.js"></script>
 		<script src="http://dressupmix.com/templates/js/scripts.js"></script>
         			<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-3795986-1"></script>
@@ -44,7 +44,43 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-3795986-1');
-</script>
+</script><script> 
+(function () {
+                // Function called if AdBlock is not detected
+                function adBlockNotDetected() {
+                }
+                // Function called if AdBlock is detected
+                function adBlockDetected() {
+                    setTimeout(function(){
+			$("#adblock_popup").addClass('in');
+                    }, 500);
+                }
+
+                // We look at whether FuckAdBlock already exists.
+                if (typeof fuckAdBlock !== 'undefined' || typeof FuckAdBlock !== 'undefined') {
+                    // If this is the case, it means that something tries to usurp are identity
+                    // So, considering that it is a detection
+                    adBlockDetected();
+                } else {
+                    // Otherwise, you import the script FuckAdBlock
+                    var importFAB = document.createElement('script');
+                    importFAB.onload = function () {
+                        // If all goes well, we configure FuckAdBlock
+                        fuckAdBlock.onDetected(adBlockDetected);
+                        fuckAdBlock.onNotDetected(adBlockNotDetected);
+                    };
+                    importFAB.onerror = function () {
+                        // If the script does not load (blocked, integrity error, ...)
+                        // Then a detection is triggered
+                        adBlockDetected();
+                    };
+                    importFAB.integrity = 'sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=';
+                    importFAB.crossOrigin = 'anonymous';
+                    importFAB.src = 'https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js';
+                    document.head.appendChild(importFAB);
+                }
+            })();
+</script><script integrity="sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=" crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js"></script>
 			</head>
 	<body>
 		
@@ -481,6 +517,74 @@ Any questions, concerns or complaints regarding this statement should be directe
 </div>				</div>
 			</div>
 		</div>
+
+        <div id="adblock_popup" class="adblock_popup__wrapper">
+	<div class="adblock_popup">
+		<div class="adblock_popup__close"></div>
+		<img src="/templates/images/adblock.jpg?1" class="adblock_popup__screen" alt="">
+		<div class="adblock_popup__text">
+							<p>please<br>disable your</p>
+				<p class="adblock_popup__big_text">ad blocking app</p>
+					</div>
+	</div>
+</div>
+
+
+<script>
+    $(".adblock_popup__close").click(function (e) {
+        e.preventDefault();
+        $("#adblock_popup").removeClass('in');
+    });
+</script>
+		<pre>
+</pre>
+
+<div id="dont-leave-us" class="dont-leave-us__wrapper">
+	<div class="dont-leave-us">
+		<div class="dont-leave-us__close"></div>
+		<div class="dont-leave-us__text">
+							<p class="dont-leave-us__bigText">Before you go,</p>
+				<p>check out<br>these games</p>
+					</div>
+		<div class="dont-leave-us__games">
+							<div class="dont-leave-us__game">
+					<a class="game-item" href="http://dressupmix.com/Free-Dressup-Games/Princess/Stars--Royals-BFFs-Kendall--Anna.html" data-id="28592" data-publication="2018-03-20">
+						<div class="game-item-content">
+							<img class="game-item-img" src="http://cdn.dressupmix.com/images/183x137/duc_28592.gif">
+							<span class="game-item-title">Stars &amp; Royals BFFs: Kendall &amp; Anna</span>
+						</div>
+					</a>
+				</div>
+							<div class="dont-leave-us__game">
+					<a class="game-item" href="http://dressupmix.com/Free-Dressup-Games/Princess/Modern-Princess-Superstar.html" data-id="26923" data-publication="2018-03-16">
+						<div class="game-item-content">
+							<img class="game-item-img" src="http://cdn.dressupmix.com/images/183x137/duc_26923.gif">
+							<span class="game-item-title">Modern Princess Superstar</span>
+						</div>
+					</a>
+				</div>
+					</div>
+	</div>
+</div>
+
+
+	<script>
+        function getCookie(e){var o=document.cookie.match(new RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0}function setCookie(e,o,t){var i=(t=t||{}).expires;if("number"==typeof i&&i){var n=new Date;n.setTime(n.getTime()+1e3*i),i=t.expires=n}i&&i.toUTCString&&(t.expires=i.toUTCString());var r=e+"="+(o=encodeURIComponent(o));for(var c in t){r+="; "+c;var a=t[c];!0!==a&&(r+="="+a)}document.cookie=r}function deleteCookie(e){setCookie(e,"",{expires:-1})}
+
+        ouibounce(document.getElementById('dont-leave-us'), {
+            sensitivity: 50,
+            aggressive: true,
+            delay: 150,
+            callback: function() {
+                setCookie('dont_live_us_counter', +(getCookie('dont_live_us_counter') || 0) + 1, {path:'/'});
+            }
+        });
+
+        $(".dont-leave-us__close").click(function (e) {
+            e.preventDefault();
+            $("#dont-leave-us").fadeOut();
+        });
+	</script>
 				
 		
 			<script>
@@ -490,7 +594,7 @@ Any questions, concerns or complaints regarding this statement should be directe
 						footer = $('.footer_links'),
 						footer_css = {
 							bottom: -1,
-							'z-index': 1
+							'z-index': 100
 						};
 
 					function FHeightSet() {
