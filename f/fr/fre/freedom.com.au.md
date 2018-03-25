@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018123338id_/https%3A//www.freedom.com.au/freedom/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedom.com.au privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325130614id_/https%3A//www.freedom.com.au/freedom/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | freedom Furniture and Homewares
+# Privacy Policy
 
 **freedom Privacy Policy**
 
@@ -157,5 +157,4 @@ We will treat your requests or complaints confidentially.  Our representative w
 Privacy Officer   
 Steinhoff Asia Pacific Limited trading as Freedom  
 Level 4, 1 Epping Road, North Ryde NSW 2113  
-Phone: 1300 135 588  
 Email: [privacy@steinhoff.com.au](mailto:privacy@steinhoff.com.au)
