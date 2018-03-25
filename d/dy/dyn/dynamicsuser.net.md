@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120005506id_/https%3A//dynamicsuser.net/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamicsuser.net privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325124723id_/http%3A//dynamicsuser.net/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy - DUG
 
@@ -84,7 +84,7 @@ Dynamics User Group is operating as a Danish registered company. And therefore 
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://dynamicsuser.net/p/terms-of-use](https://dynamicsuser.net/p/terms-of-use).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://dynamicsuser.net/p/terms-of-use>.
 
 ### Your Consent
 
@@ -98,7 +98,7 @@ This policy was last modified on April 28 2016 (minor updates). 
 
 ### Contacting Us
 
-If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact webmaster Erik P. Ernst](https://dynamicsuser.net/contact.aspx) and he will reply promptly.
+If you have any concerns or questions about our privacy policy or information collected on our sites, please [contact webmaster Erik P. Ernst](http://dynamicsuser.net/contact.aspx) and he will reply promptly.
 
 If there are any questions regarding this privacy policy you may contact us
 
