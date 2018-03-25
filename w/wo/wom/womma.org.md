@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124051703id_/http%3A//womma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325014500id_/http%3A//womma.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WOMMA
 
-#### This is the website of the Word of Mouth Marketing Association.
-
 Our postal address is:  
-200 E. Randolph St., Suite #5100  
-Chicago, IL 60601
+708 Third Avenue - 33rd Floor  
+New York, NY 10017
 
-You can reach us by telephone at 312.577.7610.
+You can reach us by telephone at 212.697.5950 or email us at [info@ana.net](mailto:info@ana.net).
 
 For each visitor to our web page, our web server automatically recognizes only the consumer's domain name (where possible), but not the email address.
 
@@ -40,7 +38,11 @@ All WOMMA materials are copyrighted and permission to reprint them must be reque
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should email their request to WOMMA's editorial team at editor@womma.org, or call 312-577-7610.
+Anyone wishing to reprint WOMMA materials should send their request to WOMMA's editorial team:   
+708 Third Avenue - 33rd Floor  
+New York, NY 10017  
+212.697.5950   
+[info@ana.net](mailto:info@ana.net)
 
 #### General Policies
 
