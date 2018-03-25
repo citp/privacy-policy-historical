@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webseobest.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923080328id_/http%3A//webseobest.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webseobest.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325200900id_/http%3A//shopnil.xyz/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy & Policy
 
-This privacy policy describes how Website Operator collects, protects and uses the personally identifiable information  User may provide on the [http://webseobest.com](http://webseobest.com/) website and any of its products or services . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+This privacy policy describes how Website Operator collects, protects and uses the personally identifiable information  User may provide on the http://Shopnil.xyz website and any of its products or services . It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
 
 ## Collection of personal information
 
