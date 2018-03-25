@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssrex.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120194527id_/http%3A//www.cssrex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssrex.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325011459id_/http%3A//www.cssrex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSSReX
 
