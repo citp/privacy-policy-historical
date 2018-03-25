@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fasttracktraffic.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124082824id_/http%3A//fasttracktraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttracktraffic.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325190504id_/http%3A//fasttracktraffic.com/privacy.php) for the most accurate reproduction.*
 
 # Fast Track Traffic
 
   
-[](http://fasttracktraffic.com/bannerclick.php?id=1689)
+[](http://fasttracktraffic.com/bannerclick.php?id=15551)
 
 Fast Track Traffic Privacy Policy
 
