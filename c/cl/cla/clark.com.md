@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the clark.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119054409id_/http%3A//www.clark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clark.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325091658id_/http%3A//www.clark.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy – clarkhoward.com | Clark Howard
+# Privacy Policy – ClarkHoward.com | Clark Howard
 
 **Online Privacy Statement**  
-Last updated August 24, 2011
+Last updated March 1, 2018  
 
-**Cox Radio respects the privacy of visitors to our site. Please read this Privacy Statement carefully so that you understand our privacy practices relating to information we gather through this website.** Other policies may apply to information we gather elsewhere.
 
-Questions regarding privacy issues should be directed to this Cox Radio, to the attention of the General Manager. Click on the web site “contact us” link to find station address and personnel information.
+**Clark Howard Inc respects the privacy of visitors to our site. Please read this Privacy Statement carefully so that you understand our privacy practices relating to information we gather through this website.**
+
+Other policies may apply to information we gather elsewhere.
+
+Questions regarding privacy issues should be directed to the attention of the General Manager, Clark Howard Incorporated. Address is found on the “contact us” link on the site.
 
 **Protecting the Privacy of Children**
 
@@ -19,17 +22,13 @@ The information gathered through this website falls into two categories: (1) inf
 
 To make use of certain features on our website (such as contests, surveys, message boards, music download functionality, customizable audio applications, and others) visitors need to register and to provide certain information as part of the registration process, and for the purpose of participating in certain contests or surveys. We may also ask visitors for certain information in connection with the purchase of products/services on our website. (We may ask, for example, for your name, email address, sex, age, zip code and credit card information, and we might request information on your interest in concerts, different types of music and the like.) The information you supply will help us to offer you more personalized features, to tailor our site to your interests, to make the site more useful to you, and to process your e-commerce transactions.
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don’t supply the information we need, we may be unable to provide you with services we make available to other visitors to our site. And we can’t send you email alerting you to a new service we’re offering, to concerts scheduled for your area, or to upcoming personal appearances by our on-air personalities if you don’t tell us what you’re interested in and give us your email address. Similarly, we can’t notify you that you’ve been lucky enough to win a prize in a promotional contest if we don’t know how to contact you.
-
-Of course, even if you want to remain completely anonymous, you’re still free to take advantage of the wealth of content available on our site without registration.
-
 **Cookies**
 
 To help make our site more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a “cookie,” to assign each visitor a unique number, a sort of user ID, if you will, that resides on your computer. The cookie doesn’t actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can’t read unrelated data off your hard drive. Our advertisers and third party service providers may also assign their own cookies to your browser, a process that we don’t control.
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, cookies help us to recognize you as a return visitor, which provides convenience for you. For example, a registered site “member” sign up for subsequent website contests or surveys using “one-click entering.” We also use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track which pages on our site are most frequently visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
 
-**Browser level information**
+**Browser-level information**
 
 Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use and your IP address. (Your IP address is a number that lets computers attached to the Internet know where to send you data — such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site.
 
@@ -43,11 +42,11 @@ To make our site more valuable to our visitors, we offer some features in conjun
 
 **Data Collected in Connection with Ad Serving and Targeting**
 
-We use third-party service providers, such as ad networks, to serve advertising to you when you visit our Site. These service providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these service providers for these purposes generally does not identify you personally (in other words, the service providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer. Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc. You can learn more about such data collection practices, and/or opt out of any use by our service providers’ of cookies to tailor advertising to your interests, by visiting [aboutads.info](http://www.aboutads.info/).
+We use third-party service providers, such as ad networks, to serve advertising to you when you visit our Site. These service providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you. The information used by these service providers for these purposes generally does not identify you personally (in other words, the service providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer. Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc. You can learn more about such data collection practices, and/or opt out of any use by our service providers’ of cookies to tailor advertising to your interests, by visiting [aboutads.info](http://www.aboutads.info/).
 
-**CMG’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising**
+**Clark Howard Inc’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising**
 
-CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit [aboutads.info](http://www.aboutads.info/).
+**Clark Howard Inc** adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance. To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit [aboutads.info](http://www.aboutads.info/).
 
 **Disclosures**
 
@@ -57,12 +56,12 @@ If you provide us your email address, from time to time we may send you emails a
 
 **Other Disclosures**
 
-We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, our customers, the public, Cox Radio, or a related company. As our business grows, we may buy or sell various assets. In the unlikely event that Cox Radio, one of its business units or radio stations, or substantially all of its assets are acquired by another company, information on visitors to our website would be among the transferred assets.
+We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our site, our customers, the public, Clark Howard Inc, or a related company. In the unlikely event that Clark Howard Inc were acquired by another company, information on visitors to our website may be among the transferred assets.
 
 **Security**
 
-Information we gather on our website is stored within Cox Radio controlled databases (or databases hosted on our behalf) on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. And, of course, any information you post to any message board or other public posting area is available to anyone with Internet access. If you don’t want people to know your email address, for example, don’t include it in any message you post publicly. In the extremely unlikely event of a breach of database security, all listeners who have provided us a valid email address will be notified of this occurrence by the radio station.
+Information we gather on our website is stored on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet. And, of course, any information you post to any message board or other public posting area is available to anyone with Internet access. If you don’t want people to know your email address, for example, don’t include it in any message you post publicly.
 
 **Changes to This Privacy Statement**
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we’ll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we’ll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.​
