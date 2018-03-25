@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the documentshub.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120134846id_/http%3A//documentshub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentshub.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325084453id_/https%3A//documentshub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DocumentsHub.Com
+# Privacy Policy | DocumentsHub.Com
 
 ## Your Privacy is Our Responsibility:
 
