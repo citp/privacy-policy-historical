@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inter.it privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228141240id_/http%3A//www.inter.it/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inter.it privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325205231id_/http%3A//www.inter.it/en/privacy) for the most accurate reproduction.*
 
-# FC Internazionale Milano - Official Website | EN PRIVACY
+# F.C. Internazionale Milano - Official Website | EN PRIVACY
 
 Open Menu Close Menu Close Menu
 
@@ -143,7 +143,7 @@ F.C. Internazionale | www.inter.it | Inter | Technical/functional | Your profile
 F.C. Internazionale | interchannel.inter.it | Inter-Piwik | Stats | Analytics  
 F.C. Internazionale | giovanili.inter.it | Doubleclick | 3rd parties | Analytics  
 F.C. Internazionale | interclub.inter.it | [Google Tag Manager](https://www.google.it/tagmanager/use-policy.html) | 3rd parties | Analytics  
-F.C. Internazionale | ccic.inter.it | [Media Math](http://www.mediamath.com/privacy-policy/) | 3rd parties | Analytics  
+F.C. Internazionale | ccic.inter.it | [Media Math](https://www.mediamath.com/privacy-policy/) | 3rd parties | Analytics  
 F.C. Internazionale | intercampus.inter.it | [Google Analytics](https://www.google.it/intl/it_it/policies/technologies/cookies/) | 3rd parties | Analytics  
 F.C. Internazionale |  | Instagram | 3rd parties | Analytics  
 F.C. Internazionale |  | YouTube | 3rd parties | Analytics  
@@ -227,14 +227,14 @@ Analytics
   
 ## How to change your cookie settings? How to block or allow a type of cookie?
 
-  * Internet Explorer: <http://support.microsoft.com/kb/278835>
-  * Internet Explorer [windows mobile]: <http://www.windowsphone.com/en-us/how-to/wp7/web/changing-privacy-and-other-browser-settings>
-  * Chrome: [http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
-  * Safari: <http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>
-  * Safari [versione mobile]: <http://support.apple.com/kb/HT1677>
-  * Firefox: <http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
-  * Blackberries: <http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>
-  * Android: [http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
-  * Opera: <http://www.opera.com/browser/tutorials/security/privacy/>
+  * Internet Explorer: <https://support.microsoft.com/kb/278835>
+  * Internet Explorer [windows mobile]: <https://www.windowsphone.com/en-us/how-to/wp7/web/changing-privacy-and-other-browser-settings>
+  * Chrome: [https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
+  * Safari: <https://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html>
+  * Safari [versione mobile]: <https://support.apple.com/kb/HT1677>
+  * Firefox: <https://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
+  * Blackberries: <https://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp>
+  * Android: [https://support.google.com/mobile/bin/answer.py?hl=en&answer=169022](https://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
+  * Opera: <https://www.opera.com/browser/tutorials/security/privacy/>
 
 
