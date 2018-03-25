@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anongroup.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222234815id_/http%3A//www.anongroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anongroup.org privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325172039id_/http%3A//www.anongroup.org/privacy) for the most accurate reproduction.*
 
 # Privacy – Anonymous
 
@@ -12,7 +12,7 @@ This policy is updated from time to time. The latest version is published on thi
 
 This website privacy policy was updated on: **01/07/2017**
 
-If you have any questions about this policy, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to:
+If you have any questions about this policy, please email anongroup.org@gmail.com or write to:
 
 Digital-media Inc  
 London PO: N41AA  
@@ -101,7 +101,7 @@ When you fill in a form or provide your details on our website, you will see one
 If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:
 
   * Sign in to our website and change your opt-in settings.
-  * Send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * Send an email to anongroup.org@gmail.com
 
 
   * Write to us at:
