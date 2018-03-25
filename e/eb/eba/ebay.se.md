@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.se privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229002445id_/https%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.se privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325201114id_/https%3A//pages.ebay.com/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
