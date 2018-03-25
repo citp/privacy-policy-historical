@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urdogs.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124204944id_/http%3A//www.urdogs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urdogs.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325190220id_/http%3A//www.urdogs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UrDogs
 
@@ -16,6 +16,6 @@ Personal data you choose to give us: We collect whatever personal data about you
 
 Urdogs.com does not disclose to any third party Private Data you have given us, except to the extent necessary for credit card processing; in such cases your Private Data is used by credit card processors only for that purpose (including guarding against credit card fraud). The only exception, obviously, is if we are forced to disclose the information as a result of a subpoena or other legal process. You may correct, amend, or delete inaccurate Private Data information you have given us, although any credit card transactions that have already taken place will be unaffected. For legal reasons we may retain backup and/or archival copies of information prior to your corrections, amendments, or deletions. We take every reasonable precaution to protect your Private Data from loss, misuse, unauthorized access, disclosure, alteration, or destruction. You are responsible for taking every reasonable precaution on your end to protect any unauthorized person from accessing your Urdogs.com  account.
 
-If you have any questions about our use of your Private Data, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f8888a918e999b81b891959f8d8ad69b9795)
+If you have any questions about our use of your Private Data, please contact us at [privacy@Urdogs.com](mailto:privacy@imgur.com)
 
 We may revise our privacy policy from time to time without notice.
