@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwarefindr.com privacy policy that was archived on 2017-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170905050132id_/https%3A//www.softwarefindr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarefindr.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325043219id_/https%3A//www.softwarefindr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SoftwareFindr
 
