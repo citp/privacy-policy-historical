@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bey3.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123031451id_/http%3A//bey3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bey3.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325102613id_/http%3A//bey3.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - bey3.com Classifieds
 
-[bey3.com](https://web.archive.org/web/20171123031451id_/http://bey3.com/) has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated from time to time. This privacy policy is subject to change, so please keep checking this page frequently
+[bey3.com](https://web.archive.org/web/20180325102613id_/http://bey3.com/) has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated from time to time. This privacy policy is subject to change, so please keep checking this page frequently
 
 **Collection**
 
-Personal information you provide on [bey3.com](https://web.archive.org/web/20171123031451id_/http://bey3.com/) are subject to our internal regulations, as follows:
+Personal information you provide on [bey3.com](https://web.archive.org/web/20180325102613id_/http://bey3.com/) are subject to our internal regulations, as follows:
 
 We collect and store the following personal information:
 
