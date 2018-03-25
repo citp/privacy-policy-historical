@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the optimalpayments.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116081615id_/https%3A//www.paysafe.com/legal-and-compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalpayments.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325125941id_/https%3A//www.paysafe.com/legal-and-compliance/privacy-policy) for the most accurate reproduction.*
 
 # Paysafe - Privacy Policy
 
-Paysafe Group plc and any of its group companies (together “ **Paysafe** ” or " **we** " or “ **our** ”) are committed to protecting and respecting your privacy.
+Paysafe Group Limited and any of its group companies (together “ **Paysafe** ” or " **we** " or “ **our** ”) are committed to protecting and respecting your privacy.
 
 This notice (together with our terms of use and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It applies to:
 
@@ -29,7 +29,7 @@ We use information we collect about you to provide you with the products we offe
 
 We will not disclose your personal data to anyone except as described in this notice.
 
-We may share your personal information with any company in the Paysafe Group plc group of companies.
+We may share your personal information with any company in the Paysafe Group Limited group of companies.
 
 We may share your personal information with third parties to provide you with the products we offer, with suppliers working on our behalf, where we have your permission, or where we are required or permitted to do so by law. We may also share your personal information with third parties to prevent crime and reduce risk, if required to do so by law, where we deem it appropriate to do so, to respond to legal process or to protect the rights or property of Paysafe, our customers or others.
 
