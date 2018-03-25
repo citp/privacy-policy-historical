@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123175316id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growace.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325110002id_/http%3A//growace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Security | Privacy Policy | GrowAce.com
 
@@ -60,4 +60,4 @@ By using our Site, you consent to the collection and use of this information in 
 
 If we decide to change our Privacy Policy in whole or in part, we will post a notice on our Site. Those changes will go into effect on the date posted in the notice and will apply to all users of our Site.
 
-Should you have any questions or concerns about our shipping policy, please [contact us](https://web.archive.org/~bikeberr/contacts).
+Should you have any questions or concerns about our shipping policy, please [contact us](http://growace.com/contacts).
