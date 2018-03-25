@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecochildsplay.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919171230id_/http%3A//ecochildsplay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecochildsplay.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325190814id_/https%3A//ecochildsplay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Eco Child's Play
+# Privacy Policy
 
 This privacy policy sets out how Eco Child’s Play uses and protects any information that you give while using [ecochildsplay.com.](http://ecochildsplay.com/)
 
@@ -45,7 +45,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 ### **Cookie Opt Out**
 
 ****You can opt out of Gourmet Ads cookies by visiting ;  
- <http://www.gourmetads.com/about/privacy-policy> and Opting Out.
+ http://www.gourmetads.com/about/privacy-policy and Opting Out.
 
 You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
 <http://www.networkadvertising.org/choices/>
@@ -72,5 +72,3 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-[](https://www.pinterest.com/pin/create/button/)
