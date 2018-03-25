@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the militarytimes.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220232353id_/https%3A//www.militarytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarytimes.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325183644id_/https%3A//www.militarytimes.com/privacy) for the most accurate reproduction.*
 
-# Military Times - Independent News About Your Military | Military Times
+# Privacy Policy
 
 **Last Updated: June 12, 2017**
 
