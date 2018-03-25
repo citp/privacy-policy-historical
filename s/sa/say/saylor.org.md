@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008082532id_/http%3A//saylor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saylor.org privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325161730id_/https%3A//www.saylor.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Saylor Academy
+# Privacy Policy | Saylor Academy | Free and open online courses for people everywhere
 
 The Constitution Foundation d/b/a the Saylor Academy and the Saylor Foundation (the “Foundation”) coll[](http://optout.networkadvertising.org/#/)ects limited personally identifiable information and non-personally identifiable information from you (“User Information”) to allow you to get the optimal benefit of our content as described in the “How We Use Your User Information” section below. We will not sell your personally identifiable information. We will not intentionally share your information with anyone you do not authorize us to and we will only share the information we collect from you as described in the section below entitled “How We Share Your User Information.”
 
