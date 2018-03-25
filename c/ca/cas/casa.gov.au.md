@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311154254id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325054927id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Civil Aviation Safety Authority
 
@@ -6,7 +6,7 @@
 
 CASA is committed to respecting your right to privacy and protecting your personal information. We are bound by the _Privacy Act 1988_ , and our staff are trained to respect your privacy in accordance with our standards, policies and procedures.
 
-For more information you can [read our privacy policy](https://web.archive.org/standard-page/civil-aviation-safety-authority-casa-privacy-policy-0). The information in this policy changes from time to time.
+For more information you can [read our privacy policy](https://web.archive.org/standard-page/civil-aviation-safety-authority-casa-privacy-policy). The information in this policy changes from time to time.
 
 This following list explains what sort of information we collect when you go to our website and how we use it.
 
@@ -51,9 +51,13 @@ The cookies we send to your computer can’t read your hard drive, gather any in
 
 We will only record your email address if you send us a message. Your address will only be used for the purpose for which you provided, and not for any other purpose. It won’t be disclosed without your consent.
 
-All correspondence and comments supplied to CASA will be stored for a period of time as set down in [CASA's record authority](http://www.naa.gov.au/records-management/agency/keep-destroy-transfer/agency-ra/authority.aspx?a=2002/05214604&).
+All correspondence and comments supplied to CASA will be stored for a period of time as set down in [CASA's record authority](http://www.naa.gov.au/information-management/information-management-standard/IM-guideline-six.aspx).
 
 ### Third party services
+
+#### Citizen Space
+
+We have an online [consultation hub](https://consultation.casa.gov.au/) and the technology behind this service (Citizen Space) and its operation is provided by [Delib](http://www.citizenspace.com/info). Please read the [CASA Consultation Hub privacy policy](https://consultation.casa.gov.au/privacy_policy/) for more information.
 
 #### Google maps
 
@@ -75,15 +79,11 @@ See [Google's privacy policy](http://www.google.com/intl/en/policies/privacy/) f
 
 #### Online Store
 
-Our online store is managed by BRN Benchmark Pty Ltd and is hosted by Shopify Inc. See the [online store's privacy statement](http://shop.casa.gov.au/pages/privacy-statement) for more information.
+Our online store is managed by BRN Benchmark Pty Ltd and is hosted by Shopify Inc. See the [online store's privacy statement](https://shop.casa.gov.au/pages/privacy-statement) for more information.
 
 #### YouTube
 
 We use YouTube, owned by Google, for the embedded display of video material and captions. The information collected about your use of the YouTube video service will be transmitted to and stored by Google on servers in the United States. Google will use this information to report on video activity, for development and improvement purposes. You may refuse to provide this information by not viewing videos presented via YouTube’s service.
-
-#### Social Strata
-
-We have a discussion forum owned by Social Strata Inc. called Infopop and hosted in the United States, to conduct electronic collaboration between CASA and the Australian aviation industry. Please read their [privacy policy](http://assets.socialstrata.com/docs/privacy_policy.php) for more information.
 
 ## How we use your information
 
@@ -139,6 +139,6 @@ You can also contact the privacy contact officer if you have any questions about
 
   * You can call us on 131 757 within Australia, or +61262171111 outside Australia.
   * You can send any queries or complaints about privacy to [privacy@casa.gov.au](mailto:privacy@casa.gov.au)
-  * Under the Privacy Act you can complain to the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/) (OAIC) about how we have handled your personal information. However, before complaining to the OAIC, you will generally need to complain to us first and allow us 30 days to respond.
+  * Under the Privacy Act you can complain to the [Office of the Australian Information Commissioner](https://www.oaic.gov.au/) (OAIC) about how we have handled your personal information. However, before complaining to the OAIC, you will generally need to complain to us first and allow us 30 days to respond.
 
 
