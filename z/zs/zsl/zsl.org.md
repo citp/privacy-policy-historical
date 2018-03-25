@@ -1,51 +1,278 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223200215id_/https%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326011033id_/https%3A//www.zsl.org/terms-and-conditions/zsl-privacy-policy) for the most accurate reproduction.*
 
 # ZSL Privacy Policy | Zoological Society of London (ZSL)
 
-This website is owned and run by the Zoological Society of London, registered charity number 208728, and its wholly owned trading company Zoo Enterprises Limited company number 01178687 (together being "ZSL"). ZSL are committed to protecting your privacy in accordance with their obligations under the Data Protection Act 1998. This privacy policy explains what information ZSL collects about you and how it will be used. When you access and use this website you agree to be legally bound by all our terms and conditions as well as our privacy policy outlined below.
+  * #### Introduction
 
-### Transactions
+  * #### What this privacy policy covers
 
-ZSL make every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the internet. When you make a booking, you enter a secure internet site (indicated by the letters https:// in the address bar and or a padlock displayed in your web browser). To protect you against credit card fraud (where someone has discovered your credit card details but do not have your card), you will be asked to enter the unique security code printed on the back of your payment card.
+  * #### Where and how we collect your information
 
-### What information do we collect?
+  * #### What information do we collect and how do we use it?
 
-ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL does not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to [editor@zsl.org](mailto:editor@zsl.org)
+  * #### How do we keep your personal information secure?
 
-ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms. ZSL may also collect internet protocol addresses to diagnose problems with our servers and for system administration, but ZSL do not link these addresses to any person's name or identity.
+  * #### Your right to your personal information
 
-Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.
+  * #### Updates to this privacy policy
 
-Please let ZSL know if you want details of the personal information we hold about you by emailing [editor@zsl.org](mailto:editor@zsl.org) .
+  * #### Raising Queries or Concerns
 
-In no circumstances will ZSL collect any data that is not directly related to the use of this website so, for example, we will not record other sites that you have visited.
 
-### Third Parties
 
-In order to process ticket bookings, an order for goods, an application for membership and/or for adopting an animal, ZSL may pass your personal information and payment details to third party providers and, where it is lawfully requested to do so, regulatory authorities. Such third party providers will only have access to the personal information needed to perform the relevant service. They may not use your personal information for any other purposes and are required to process your personal information in accordance with the Data Protection Act 1998.
 
-ZSL will not otherwise provide any of the personal information you give to us to any third party for any purpose unconnected with a transaction you initiate, except with your prior express consent.
+## Introduction
 
-### International transfer of information
+Founded in 1826, the Zoological Society of London (ZSL) is an international scientific, conservation and education charity whose mission is to promote and achieve the worldwide conservation of animals and their habitats. Our registered charity number is 208728.
 
-ZSL will retain the personal information you provide within the United Kingdom, and will not transfer it to any other country except with your prior and express consent; however the internet is global and it is possible that information you provide to ZSL will be temporarily transferred via a route outside the European Economic Area as it passes between you and this website or a third party provider.
+Our mission is realised through our ground-breaking science, our active conservation projects in more than 50 countries and our two Zoos, ZSL London Zoo and ZSL Whipsnade Zoo.
 
-### Security
+## 1\. What this privacy policy covers
 
-ZSL is committed to the security of your personal information and we have security procedures in place to protect the loss, misuse or alteration of information under our control.
+ZSL is committed to protecting your privacy in accordance with their obligations under data protection legislation. The current data protection law is found in the Data Protection Act 1998 but with effect from 25th May 2018, the main data protection law will be the General Data Protection Regulation as supplemented by the Data Protection Act 2018 and related laws.
 
-### How we collect data about your use of this website
+This privacy policy explains what information ZSL collects about you and how it will be used. 
 
-ZSL try to ensure that our website offers visitors an enjoyable experience. To help us achieve this goal ZSL and our appointed agencies may collect anonymous information about your use of this website and other digital communications from cookies and or by the use of pixel tags.
+ZSL promises to respect any personal data you share with us, or that we get from other organisations and keep it safe. We aim to be clear when we collect your data and not do anything you wouldn’t reasonably expect.
 
-Cookies are small data files that are sent to your browser and pixel tags are used to read such cookies. Most internet browsers automatically accept cookies but you can delete existing cookies from your browser and, by editing your internet browser options, choose not to receive cookies in future. Please note that if you do opt to reject cookies any personalised functionality of this website, for example the shop, will not operate correctly.
+If you have any queries regarding this privacy policy please contact the Data Protection Lead, Zoological Society of London, Regents Park, London or email [dataprotection@zsl.org](mailto:dataprotection@zsl.org) 
 
-Find out more about the cookies set by the ZSL website and how to delete and control them here: [Cookie information](https://web.archive.org/cookies-listing.html)
+## 2\. Where and how we collect your information
 
-### Analytics
+We collect information in the following ways
 
-ZSL uses Google Analytics to collect data about traffic through the ZSL website via Google advertising cookies and anonymous identifiers. In addition to data collected through a standard Google Analytics implementation,  ZSL uses the following advertising features: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations & Google Analytics Demographics and Interest Reporting
+#### Information you give us
 
-ZSL will not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless there is robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
+For example, when you make a purchase with us for Zoo tickets or animal experiences, give a donation or register for an event we will ask you for your personal information in order to for us to process your purchase or donation or help arrange your event. This information is likely to include contact information and payment information.
 
-If you wish to opt- out of Google Analytics tracking please visit and install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
+Information collected automatically through our website or apps
+
+In this privacy policy, where we talk about websites we are referring to websites owned by ZSL, including, but not limited to:
+
+  * [https://www.zsl.org/](https://web.archive.org/)
+
+  * <https://www.spott.org/>
+
+  * <https://angelsharknetwork.com/>
+
+  * [https://www.onelessbottle.org/ ](https://www.onelessbottle.org/%C2%A0)
+
+
+
+
+And when we talk about apps we are referring to the apps owned by ZSL which you would have downloaded to your mobile device, including, but not limited to: 
+
+  * ZSL London Zoo
+
+  * Instant Wild  
+
+
+
+
+##### Cookies
+
+We use ‘cookies’ to enhance your experience on our website. Cookies mean that the ZSL website will remember you for a particular purpose and for a particular length of time. [To see our cookies policy, please click here](https://web.archive.org/zsl-cookie-information).
+
+When you’re accessing our website and apps, your device may provide us with information about the device you’re using, this could include the type of device, what operating system you’re using and may report any details of a website or app crash. Your device manufacturer or operating system provider will be able to provide you with more details about the information your device makes available to us.
+
+##### Google Analytics
+
+We use Google Analytics to help us understand how visitors are using and engaging with our website and apps. This allows us to make improvements to our web services and your online experience.
+
+The Google Analytics tracking tool uses a number of cookies to collect information and report website usage statistics and does so without personally identifying individual visitors to Google or ZSL.
+
+The information generated by the cookie about your use of ZSL’s website and apps will be transmitted and stored by Google on servers in the United States.
+
+For more information about Google’s privacy policy in regards to Google Analytics, please see [www.google.com/analytics/learn/privacy.html](https://support.google.com/analytics/answer/6004245)
+
+In addition to reporting website usage statistics, we use Google Analytics in conjunction with additional advertising cookies. We use these cookies to select advertising based on what’s relevant to you, to measure interactions with the ads we display and to improve reporting on campaign performance.
+
+The additional advertising cookies we use include:
+
+  * Remarketing with Google Analytics
+
+  * Google Display Network Impression Reporting
+
+  * Google Analytics Demographics and Interest Reporting
+
+  * DoubleClick Platform integrations
+
+  * Google Optimize
+
+  * Other integrated services 
+
+
+
+
+ZSL will not merge personally-identifiable information with anonymous information gathered from these analytics systems unless there is prior notice and affirmative consent via opt-in from the user. When using any of these tracking tools ZSL does not identify users or facilitate the merging of personally identifiable information with non-personally identifiable information collected.
+
+If you wish to opt-out of Google Analytics tracking please visit and install the Google Analytics Opt-out Browser Add-on here: <https://tools.google.com/dlpage/gaoptout/>
+
+In addition to the above ZSL uses other third-party tracking tools to collect non-personal information about consumers and their online behaviour for advertising purposes. This data is used to inform ZSL about the audiences whom are most likely to be interested in our products and services so that we can deliver more relevant and targeted advertising.   
+
+ZSL also uses other third-party tracking tools to inform ZSL about how visitors use our websites and apps so that we can improve the user experience across our digital platforms. For more information on our use of cookies, [please read our cookie policy ](https://web.archive.org/cookie)
+
+#### Information we get from other organisations when you give them permission to share your details, or your information is available publically.
+
+## 3\. What information do we collect and how do we use it?
+
+The type of personal information we will collect about you will depend on the purpose of collecting the information.
+
+### 3.1 Supporters
+
+If you support us by visiting our Zoos, joining the Society by becoming a member, patron or fellow, purchasing something online, making a donation or registering for an event we will collect the following information about you
+
+  * Name
+
+  * Email address
+
+  * Address
+
+  * Postcode 
+
+  * Your bank and credit card details
+
+  * Date of birth (if applicable)
+
+
+
+
+In some circumstances we may also collect sensitive information including information relating to your health. However, we would only request this information where this is required and relevant to the reason why we are processing your data such as if you are registering to take part in a high risk challenge event.
+
+When you provide us with your personal data we will use this for the following reasons.
+
+  * Provide you with the products or services you have requested- such as sending you your Zoo tickets or registering you for an event
+
+  * Process your donation 
+
+  * Keep a record of your relationship and communication preferences with us
+
+  * To enable us to deliver more relevant content to you, through targeted communications 
+
+
+
+
+### 3.2 Direct marketing
+
+#### Email/text marketing
+
+We will only contact you by email or text message if you actively consent to this, unless we believe there is a legitimate interest to contact you. By consenting to ZSL emails or opting in to email communications, you grant us permission to use your email address to send you email marketing communication. At any stage you may choose to opt out of such communications – more information on opting out is here.
+
+#### Post/telephone marketing
+
+If you have provided us with your postal address or telephone number we may contact you by post or telephone about our work, unless you have told us that you don’t want to receive this. Before making such calls we will always screen against the Telephone Preference Service (TPS) or, where sending letters, we will always screen against the Mail Preference Service. 
+
+Where you are registered with the TPS we will only make calls to you if you have specifically consented to receiving calls from ZSL or if we need to contact you in reference to a purchase, for example if there has been a problem in processing a payment. Likewise we will only write to you if you are registered with the Mail Preference Service if you have specifically consented to receiving letters from ZSL.
+
+### 3.3 Third parties
+
+ZSL will not sell your data. We will not share your data for marketing purposes unless you have actively consented to this. However, in some circumstances we may need to share your details with a third party for processing. This could be if we run an event in partnership with another organisation and they need your details in order to fulfil your tickets or experience. For example, if you are taking part in a running event with us, we may need to share your details to be able to send your race pack to you. We may also use a third party to process your personal details if we need to send your data to a mailing house in order to fulfil a postal mailing to you, this could include sending you a letter about your membership. 
+
+### 3.4 Fundraising
+
+ZSL is an international scientific, conservation and educational charity, we rely on voluntary income to carry out our mission to promote and achieve the worldwide conservation of animals and their habitats. 
+
+This vital work is supported by individuals, trusts and foundations and companies who we work with and fundraise from. 
+
+We aim to target our fundraising activities to ensure that we contact you appropriately.  We may use simple research methods to profile supporters and to identify shared interests and connections. We may work with trusted third-party partners such as database screening companies to provide us with further information about our supporters.  All information is obtained from publicly available sources or data that you have given to us. 
+
+We use this information to understand who our supporters are and what they may be best interested in. This information aids us in making appropriate fundraising approaches to those who will be most interested and most able to support ZSL. 
+
+You can opt out of your data being used in this way by emailing [dataprotection@zsl.org](mailto:dataprotection@zsl.org)
+
+In addition, we are also registered with the Fundraising Regulator and use the Fundraising Preference Service, a service which allows people to opt out of fundraising communications from charities. We receive regular updates from the Fundraising Preference Service so if you opt out that way, we will remove you from our email, phone, text, and postal communications.
+
+### 3.5 Enhancing your supporter experience
+
+We may use profiling and screening techniques to ensure that the communications we send you are relevant to you. This allows us to provide an improved experience for our supporters.
+
+When building a profile of our supporters we may analyse geographic and demographic information, as well as your online behaviour and purchase history, to better understand your interests so we can contact you with relevant messages. An example of this would be looking at your location so we can share information about relevant events in your area. 
+
+You can opt out of your data being used in this way by emailing [dataprotection@zsl.org](mailto:dataprotection@zsl.org). 
+
+### 3.6 Your choice:
+
+You always have a choice as to whether and how you want to receive communications about our work, products and services and ways you can get involved. If you do not want us to use your contact details to contact you in the future you can opt out of this when we collect your details or at a later time. 
+
+If you ever want to change your contact preferences, or opt out of communications, you can do this at any time by completing this form. 
+
+##### Alternatively, you can:
+
+  * opt out of our email marketing at any time by clicking the unsubscribe link at the bottom of any email from us; and
+
+  * opt out of text marketing by replying to the text with the message ‘STOP’
+
+
+
+
+If you choose not to be contacted by us we will never send you personalised marketing communications, but we will keep your details on a ‘suppression list’ to ensure you aren’t contacted.
+
+### 3.7 Legal basis for processing your personal data
+
+In some circumstances we will collect and process your personal information using the legitimate interest legal processing basis. 
+
+Sometimes, we will need to process your data as it is part of a contract which you have entered into. For instance, if you have booked an event or animal experience with us, then we will need to contact you and take payment to enable us to provide the relevant services under the agreement with you.
+
+However in most circumstances, we will rely on your consent when using your personal data. An example of this would be when we request your consent to receive marketing emails from ZSL.
+
+### 3.8 Retention
+
+We hold your information for only as long as necessary for the purpose needed. For example, if you have declared gift aid, HMRC require us to store your name and address for seven years.
+
+### 3.9 Under 18s
+
+On some occasions we may collect and manage data of under 18’s. We will always aim to manage this data in a way which is appropriate to the age of the child and will only keep this data for the purpose in which it was collected. Children’s data is usually only collected if you hold a ZSL membership or a child takes part in one of our experiences. 
+
+We will always try to seek consent from the parent or guardian of the child before collecting and processing this information. 
+
+### 3.10 Job and volunteering application data
+
+If you apply to work or volunteer at ZSL, we will use the information you supply to us to process your application and to monitor recruitment statistics. 
+
+If you are unsuccessful in your application we will keep your personal information for 12 months. If you request to join our talent pool to find out about future opportunities we will keep your information for this purpose only for 12 months. 
+
+### 3.11 Image rights
+
+When you’re on site in the Zoo your photograph may be taken. We will always ask for consent to photograph or video children 
+
+If you consent to having your photo taken and used for marketing or PR purposes we will hold your name, image and age (if applicable) on file for future re-use.
+
+### 3.12 Vulnerable supporters
+
+We are committed to supporting our vulnerable supporters and will do all we can to assist our supporters in making an informed decision about the support they wish to give to ZSL. We follow the Institute of Fundraising’s Code of Practice and follow guidance provided by the Direct Marketing Association when speaking to supporters on the phone.
+
+## 4\. How do we keep your personal information secure?
+
+We always ensure that we have the necessary controls in place to protect the personal data you provide us with. 
+
+We carry out regular audits of who has access to data so that we can ensure that your information is only accessed by trained staff. 
+
+### 4.1 Your credit and debit card information
+
+ZSL makes every effort to maintain customer confidentiality when securing an online payment.  This includes ensuring the security of your credit card details and other personal information. We don’t store your card details on any ZSL system.  All of your personal information is encrypted as it travels over the internet. When you make a booking, you enter a secure internet site (indicated by the letters https:// in the address bar and or a padlock displayed in your web browser). When you make a payment you enter your card details directly into our payment provider’s secure web page. To protect you against credit card fraud (where someone has discovered your credit card details but do not have your card), you will be asked to enter the unique security code printed on the back of your payment card.
+
+Creating a new Direct Debit mandate online requires your name, address, email address, and details of your bank account. This information is used to set up a regular Direct Debit payment with your bank and is retained by us securely in order to claim monthly or annual payments from your account as per your instructions. All transactions are covered by the Direct Debit Guarantee.
+
+### 4.2 Third parties
+
+Sometimes we use external companies to collect or process your personal data on behalf of ZSL. We carry out thorough checks on any companies we work with and have a contract in place with each of these companies to ensure that they process your information in line with our expectations. 
+
+Some of our suppliers may run their operations outside the European Economic Area (EEA). Although they may not be subject to same data protection laws as companies based in the UK, we will take steps to make sure they provide an adequate level of protection in accordance with UK data protection law. By submitting your personal information to us you agree to this transfer, storing or processing at a location outside the EEA.
+
+If requested we may need to supply your information to the police, regulatory bodies or legal advisors. 
+
+We will not share your data with any other third parties unless you have given your explicit consent for us to do so. 
+
+## 5\. Your right to your personal information
+
+Under the General Data Protection Regulation you have the right to request a copy of the personal information we hold about you. You also have the right to request that we erase any personal information we hold, where ZSL has no compelling reason to continue processing this data. 
+
+If you wish to request this information please contact [dataprotection@zsl.org](mailto:dataprotection@zsl.org) or call 0344 225 1826. We will then send you a form which you will need to complete and send back to us by post. We will also require you to provide two forms of identification. Once we have received your information request and your identification we will respond within one month. 
+
+## 6\. Updates to this privacy policy
+
+We may make changes to this Privacy policy. If we do make any significant changes to the way we collect and process your personal information we will make this clear on the ZSL website, or by contacting you directly. 
+
+## 7\. Raising Queries or Concerns
+
+If you have any questions, comments, or concerns about data protection at ZSL please contact our Data Protection team on [dataprotection@zsl.org](mailto:dataprotection@zsl.org). If you are not satisfied with the response you receive from us for any reason then you may wish to contact the Information Commissioner’s Office via <https://ico.org.uk/>. 
