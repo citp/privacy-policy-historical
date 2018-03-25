@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubetraffic.in privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121191757id_/http%3A//tubetraffic.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubetraffic.in privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325024438id_/http%3A//tubetraffic.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
