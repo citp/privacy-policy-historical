@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubsado.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123153154id_/http%3A//www.dubsado.com/new-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubsado.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325055601id_/http%3A//www.dubsado.com/new-page) for the most accurate reproduction.*
 
 # Privacy Policy — Dubsado
 
@@ -158,7 +158,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 [www.dubado.com](http://www.dubado.com/)
 
-178 South Victory #108  
+100 East Tujunga Avenue #201  
 Burbank, California 91502
 
 United States
