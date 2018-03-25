@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the netbanx.com privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701082140id_/https%3A//www.paysafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbanx.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325125940id_/https%3A//www.paysafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Paysafe - Privacy Policy
 
-## PRIVACY NOTICE
-
-Paysafe Group plc and any of its group companies (together “ **Paysafe** ” or " **we** " or “ **our** ”) are committed to protecting and respecting your privacy.
+Paysafe Group Limited and any of its group companies (together “ **Paysafe** ” or " **we** " or “ **our** ”) are committed to protecting and respecting your privacy.
 
 This notice (together with our terms of use and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It applies to:
 
@@ -15,9 +13,9 @@ This notice (together with our terms of use and any other documents referred to 
 
 
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting Paysafe websites, including www.Paysafe.com, you are accepting and consenting to the practices described in this notice.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting Paysafe websites, including www.paysafe.com, you are accepting and consenting to the practices described in this notice.
 
-Paysafe takes a ‘layered approach’ to explaining its privacy practices, as recommended by regulators. This means that we endeavour to provide you with only the relevant privacy information for the Paysafe service being utilised and we will often use ‘short form’ privacy notices, such as this website privacy notice, to do so. Should you wish to view the comprehensive privacy notice, please use the contact us section or [click here](https://www.paysafe.com/privacy-policy/comprehensive-privacy-notice/). Contact us details are provided at the end of the notice, for feedback or any privacy enquiries you may have.
+Paysafe takes a ‘layered approach’ to explaining its privacy practices, as recommended by regulators. This means that we endeavour to provide you with only the relevant privacy information for the Paysafe service being utilised and we will often use ‘short form’ privacy notices, such as this website privacy notice, to do so. Should you wish to view the comprehensive privacy notice, please use the contact us section or [click here](https://web.archive.org/legal-and-compliance/privacy-policy/comprehensive-privacy-notice/). Contact us details are provided at the end of the notice, for feedback or any privacy enquiries you may have.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
@@ -31,7 +29,7 @@ We use information we collect about you to provide you with the products we offe
 
 We will not disclose your personal data to anyone except as described in this notice.
 
-We may share your personal information with any company in the Paysafe Group plc group of companies.
+We may share your personal information with any company in the Paysafe Group Limited group of companies.
 
 We may share your personal information with third parties to provide you with the products we offer, with suppliers working on our behalf, where we have your permission, or where we are required or permitted to do so by law. We may also share your personal information with third parties to prevent crime and reduce risk, if required to do so by law, where we deem it appropriate to do so, to respond to legal process or to protect the rights or property of Paysafe, our customers or others.
 
@@ -45,13 +43,13 @@ The transmission of information via the internet is not completely secure. Altho
 
 ## YOUR RIGHTS
 
-Where applicable, you may have certain rights under data protection legislation, including the right to object to direct marketing and the right to see the personal information held about you and you may ask us to make any necessary changes to ensure it is accurate and up to date. If, where applicable, you would like a copy of the personal information we hold about you, please see the Contact Us section. There is a £10 fee within the UK and, where applicable, fees for other jurisdictions are available on request. For a summary of the other rights available, please refer to the comprehensive privacy notice. 
+Where applicable, you may have certain rights under data protection legislation, including the right to object to direct marketing and the right to see the personal information held about you and you may ask us to make any necessary changes to ensure it is accurate and up to date. If, where applicable, you would like a copy of the personal information we hold about you, please see the Contact Us section. There is a £10 fee within the UK and, where applicable, fees for other jurisdictions are available on request. For a summary of the other rights available, please refer to the comprehensive privacy notice.
 
 ## COOKIES
 
 Our website uses “cookies” and other technologies, which store small amounts of information on your computer or device, to allow certain information from your web browser to be collected. Cookies are widely used on the internet and allow a website/portal to recognise a user’s device, without uniquely identifying the individual person using the computer. These technologies help to make it easier for you to log on and use the site, provide feedback to us as to which parts of the website you visit, so we can assess the effectiveness of the site and provide a better user experience or to serve Paysafe adverts to you whilst browsing other sites.
 
-For more information about cookies, including how to see what cookies have been set and how to manage, block and delete them, see www.allaboutcookies.org and our Cookies Policy, which is available on all of our websites. You may also be able to configure your browser not to accept cookies, although please bear in mind that this may affect your ability to use the services we provide.
+For more information about cookies, including how to see what cookies have been set and how to manage, block and delete them, see [www.allaboutcookies.org ](http://www.allaboutcookies.org/)and our Cookies Policy, which is available on all of our websites. You may also be able to configure your browser not to accept cookies, although please bear in mind that this may affect your ability to use the services we provide.
 
 ## CHANGES TO OUR PRIVACY NOTICE
 
@@ -59,4 +57,4 @@ Any changes we may make to our privacy notice in the future will be posted on th
 
 ## CONTACT US
 
-All comments, queries and requests relating to our use of your information are welcomed, or if you wish to exercise any of your rights, you should write to the address below, marked FAO Legal Department or contact us.
+All comments, queries and requests relating to our use of your information are welcomed, or if you wish to exercise any of your rights, you should write to the address below, marked FAO Legal Department or [contact us](mailto:Data.Privacy@Paysafe.com).
