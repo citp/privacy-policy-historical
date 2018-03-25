@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stattrek.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230222606id_/http%3A//stattrek.com/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stattrek.com privacy policy that was archived on 2018-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180325105850id_/http%3A//stattrek.com/site/privacy.aspx) for the most accurate reproduction.*
 
 # Stat Trek Privacy Policy
 
@@ -18,4 +18,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). If you would like to prevent your data from being used by Google Analytics, you can [opt out](https://tools.google.com/dlpage/gaoptout/).
 
-If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20171230222606id_/http%3A//stattrek.com/site/StatTrekContactUs.aspx).
+If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20180325105850id_/http%3A//stattrek.com/site/StatTrekContactUs.aspx).
