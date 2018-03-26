@@ -1,79 +1,121 @@
-> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923130350id_/https%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportrelief.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326142746id_/https%3A//www.sportrelief.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sport Relief
+# Privacy policy | Sport Relief
 
-#### Statement Of Intent
+### Privacy Policy 
 
-When you supply any personal information to Comic Relief, we have legal obligations under the Data Protection Act 1998 in the way we deal with that information. In particular, we must:
+We operate with openness, honesty, integrity and in compliance with law.  We are committed to protecting and respecting your privacy. Whenever you provide us with personal information we will treat your information in accordance with the law and this privacy policy. In particular, we will:
 
-  * collect the information fairly
-  * let you know how we will use it
-  * keep the information secure
-
-
-
-We are committed to protecting and respecting your privacy. Whenever you provide personal information we will treat your information in accordance with this privacy policy, and in accordance with the Data Protection Act 1998.
-
-#### Information We May Collect From You
-
-When you donate, register online, contact us, or interact with us in any other way, Comic Relief may sometimes receive personal information about you, such as your:
-
-  * name
-  * email address
-  * postal address
-  * telephone number
-  * debit or credit card details
+  * Collect information fairly
+  * Let you know how we will use it
+  * Keep information secure
 
 
 
-When you visit our site, we also sometimes use cookies, and collect information about your visit. For more details, please see the ‘Cookies’ and ‘How we use your information’ sections below.
+Any changes we make to this privacy policy will be posted on this page, so please check back from time to time.
 
-#### How We Use Your Information
+### Scope of this policy
 
-We use your information in a number of ways, such as:
+This policy applies to our websites located at [www.comicrelief.com](https://www.comicrelief.com/), [www.rednoseday.com](https://www.rednoseday.com/) and [www.sportrelief.com](https://www.sportrelief.com/) (each a “Site” and together the “Sites”) and our mobile applications for iPhone and Android (each an “App” and together the “Apps”). The Sites and Apps are collectively referred to in this policy as the “Platforms”.
 
-  * sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes, including via Facebook
-  * processing a donation that you have made
-  * processing an order from our online shop
-  * dealing with entries into competitions
-  * processing a grant or job application
-  * responding to correspondence you have sent to us
+### Information we may collect from you
+
+When you interact with us (examples of which are when you donate, register online, use our App, purchase from us or contact us - which includes applying for job with us or a grant from us), Comic Relief may receive personal information about you, such as your:
+
+  * Name
+  * Email address
+  * Postal address
+  * Telephone number
+  * Debit or credit card details
+  * Information stored on devices that use the Apps (such as technical information about your device)
+  * Location information using technology on devices that use the Apps
 
 
 
-If you have provided us with your personal details to participate in our Red Nose Day or Sport Relief campaigns (for example, to set up a Giving Page, or to order from our shop), and you tell us you wish to participate in another campaign (for example, by entering an event for Sport Relief; setting up a fundraising page for Red Nose Day; or a Giving page, for either), we will use the personal details you provided to us on that previous occasion to save you having to give them to us again.
+When you visit and use our Sites, we may also use cookies, and collect information about your visit that enables us to identify you and provide you with a more personalised service. For more details, please see the ‘Cookies’ and ‘How we use your information’ sections below.
 
-We will not contact you for marketing purposes unless you have given your express consent. If you have consented to receive marketing, you may opt out at any time. Please see the ‘Unsubscribe’ section below for more information.
+We also aggregate statistics about users of our Platforms to enable us to operate more effectively, but these statistics do not include information which can identify you. 
 
-If you have consented to receive marketing, we may occasionally contact you to ask if you would be prepared to help us with our market research, although participation is purely voluntary.
+### How we use your information
 
-When you visit our site, we sometimes collect information that enables us to identify you and provide you with a more personalised service. We also aggregate statistics about our supporters to enable us to operate more effectively, but these statistics do not include information which can identify individuals.
+We use your information in a number of ways, which include:
 
-#### Disclosure of your information
+  * Sending you information about Comic Relief, our activities (including our fund raising activities), our campaigns, supporters and beneficiaries and for marketing purposes (including via Facebook and other social media channels)
+  * Processing a donation that you have made 
+  * Processing an order from our online shop
+  * Manage and use any contributions you provide to us, whether via the site or otherwise for our campaign purpose or our activities 
+  * Dealing with entries into competitions
+  * Processing a grant or job application
+  * Responding to correspondence you have sent to us
+  * Your location information may be used for certain location-enabled parts of the App
 
-We will keep your personal information confidential, and will not supply it to any third party without your consent, unless we are obliged or permitted by law to do so. Where we work with partner organisations, we may need to refer your questions to them in order to respond fully.
 
-We sometimes use third parties to process your information on our behalf (for example, to process donations, send out mailings, or analyse data). However, we require them to keep your information secure and not to use it for their own business purposes.
 
+If you have provided us with your personal details to participate in our Red Nose Day or Sport Relief campaigns (for example, to set up a Giving Page, or to order from our shop), and you tell us you wish to participate in another campaign (for example, by entering an event for Sport Relief; setting up a fundraising page for Red Nose Day; or a Giving page, for either), we may use the personal details you provided to us on that previous occasion to save you having to give them to us again.  
+
+We will only contact you with marketing information by email if you have given your consent for us to do so. 
+
+We may send you marketing, fundraising and other materials by post on the basis of our legitimate business interests (which means the interests of our organisation in conducting and managing our activities to enable us to provide the best service and experience and which might include contacting you to ensure our marketing is relevant to you so that we may process your information to tailor our marketing to your interests and sending you materials that relate to our activities). 
+
+You may opt out of receiving marketing materials from us at any time. Please see the ‘Unsubscribe’ section below for more information.
+
+If you have consented to receive marketing, we may occasionally contact you to ask if you would be prepared to help us with our market research, for which participation is purely voluntary.
+
+### Disclosure of your information 
+
+We will never sell your personal data and we do not buy personal data about people who support other charities.
+
+We may share your information with third parties in order to provide services to you.  We may also share your personal information with: 
+
+  * any member of our group of companies;
+  * selected third parties, including:
+  * business partners, suppliers, and sub-contractors, for the performance of any contract we enter into with them; 
+  * analytics and search engine providers that assist us in the improvement and optimisation of our site and/or the provision of our services
+  * where we are under a duty to disclose or share your personal information in order to comply with any legal obligations, or in order to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of Comic Relief, our donors, beneficiaries, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction;
+  * a prospective seller or buyer of our business or assets in the event we sell or buy any such business or assets, including where Comic Relief or substantially all of its assets are acquired by a third party, in which case personal data will be one of the transferred assets;
+  * for employees, payroll agencies, HMRC, pension and insurance companies.
+
+
+
+We will keep your personal information confidential and where we provide it to other third parties we will only do so under contract, on conditions of confidentiality and security, and only for the purposes for which you have provided your information to us.
+
+Except as listed above and unless we are required by law, we won’t share financial information with third parties without your specific consent. Please note, by donating or making a purchase from our websites you are consenting to your financial and/or personal information being passed to any third party organisations necessary to process your transactions with Comic Relief, such as credit card companies, banks, and the companies that handle shipping on our behalf. We will also share your data with HMRC if you give us permission that we can claim Gift Aid on your donation  
+Please be aware that any personal information you choose to post on the public areas of the site (such as the fundraiser gallery or Giving Pages) can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to make public. In addition, we are not responsible for the content you publicly post on the site that can be found via web-based search engines  
 Some of our service providers may be located outside Europe, such as the U.S. or Canada, and by providing personal information to us, you consent to your information being processed on our behalf in these countries.
 
-By providing personal information to us, you consent that we may transfer your information within Comic Relief’s group of companies, and that your personal information may be transferred to a third party in the event of a reorganisation or merger of Comic Relief.
+### Children
 
-#### Cookies
+If you are under 16, please make sure you have your parent or guardian's permission before you provide us with any personal information. Children under 16 must not provide us with personal information without this permission.
 
-Cookies are small pieces of information (in the form of text files) which are sent from our website to your computer or mobile phone and which are stored on your device's hard drive. They help you use our site more effectively, and help us assess how our site is used.
+### Third party websites
 
-Most internet browsers (such as Internet Explorer, Mozilla Firefox or Google Chrome) give users options about cookies through their browser settings. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to and use our site.
+The Platforms may contain links to third party websites. This policy only applies to this website so if you follow a link to a third party website, please make sure you read the privacy policy on that website. We do not accept any responsibility for third party websites. 
 
-You can find out more about cookies and how to remove them from your browser at [www.aboutcookies.org](http://www.aboutcookies.org/)
+### Unsubscribe
 
-Please note that if you remove some of our cookies, you may not be able to use our site as effectively.
+You have the right to ask us to stop processing your personnel information, including for direct marketing purposes.  If you no longer wish to receive direct marketing from us, simply follow the unsubscribe links in our emails to change your preferences or alternatively (including in relation to any other personal information that we hold) you can contact us with your request:
 
-During your visits to our site you may notice some cookies that are not related to Comic Relief. You should check the third party websites for more information about these.
+**DPO  
+Comic Relief UK   
+89 Albert Embankment   
+London   
+SE1 7TP**  
+ 
 
-Here are a list of the main cookies that we use on this site, and what they do. By using this site, you agree that we can place these cookies on your device:
+**Email:[DPO@comicrelief.com](mailto:DPO@comicrelief.com)**
 
-#### Our cookies
+###   
+Who we are
+
+The Platforms are owned and operated by Comic Relief whose place of business is 89 Albert Embankment, London, SE1 7TP, UK. Comic Relief is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee registered in England with number 1806414. 
+
+### Cookies
+
+**What cookies do we use and how do we use them?**
+
+A number of our pages use the following cookies for the following purposes:
+
+**Our cookies**
 
 Cookie name
 
@@ -93,7 +135,7 @@ PHPSESSID
 
 | 
 
-This cookie helps you to navigate between different parts of the my.sportrelief.com site. It allows us to remember certain settings, like the part of the site you were using. This cookie is destroyed each time you close your browser.  
+This cookie helps you to navigate between different parts of the [my.sportrelief.com](https://my.sportrelief.com/user/login) site. It allows us to remember certain settings, like the part of the site you were using. This cookie is destroyed each time you close your browser.  
   
 SESS<32 long hash>
 
@@ -123,7 +165,7 @@ cr_cookie_banner
 
 | 
 
-This is only ever true and is used to remember whether the user has closed the cookie banner notice already so it doesn't pop up again.  
+This is used to remember whether the user has closed the cookie banner notice already so it doesn't pop up again.  
   
 respimg
 
@@ -137,9 +179,9 @@ respimg_ratio
 
 This is used when resizing the image whether to keep its ratio or not. It is set to 1 on this site.  
   
-#### Third Party cookies
+**Third party cookies**
 
- _Worldpay_  
+_Worldpay_  
   
 ---  
   
@@ -149,13 +191,15 @@ Cookie name
 
 Cookie description  
   
-JSESSIONID / machine
+JSESSIONID
 
 | 
 
-If you make a donation or payment on our site, these cookies are used by Worldpay to enable your visit to be identified between page loads, and to make sure that at the payment point only your specific computer can continue with payment. These cookies are destroyed each time you close your browser  
+If you make a donation or payment on our site, these cookies are used by Worldpay to enable your visit to be identified between page loads, and to make sure that at the payment point only your specific computer can continue with payment. These cookies are destroyed each time you close your browser.  
   
- _Google Analytics_  
+machine  
+  
+Google Analytics  
   
 ---  
   
@@ -173,9 +217,9 @@ We use a service called Google Analytics which collects information about how vi
 
 Google Analytics also provides high level visitor demographics and interests data taken from the Google Ads Display Network. This additional information helps us better understand our audience and improve the services we offer.
 
-For more information about these cookies, please visit [this link](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html) If you wish to opt out from Google Analytics, you can download an opt-out tool from Google [here](https://tools.google.com/dlpage/gaoptout/).  
+For more information about these cookies, please visit this [link](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) If you wish to opt out from Google Analytics, you can download an opt-out tool from Google  
   
- _Yieldify_  
+Yieldify  
   
 ---  
   
@@ -191,32 +235,11 @@ yieldify
 
 We use a web analytics tool called Yieldify, which takes an anonymous sample of users and records their actions on the website (e.g. mouse clicks). The service is anonymous and does not collect personal information. Yieldify helps us identify areas of the website in which we can improve the user journey.
 
-For more information, visit [this link](http://yieldify.com/gb).  
+For more information, visit this [link](https://www.yieldify.com/cookies-policy/).  
   
-#### Children
+Cookies are not used for any purpose other than those described here and will not affect the performance of your computer.
 
-If you are under 16, please make sure you have your parent or guardian's permission before you provide us with any personal information. Children under 16 must not provide us with personal information without this permission.
+### How to control cookies
 
-#### Third Party Websites
-
-This website may contain links to third party websites. This policy only applies to this website so if you follow a link to a third party site, please make sure you read the privacy policy on that site. We do not accept any responsibility for third party sites.
-
-#### Unsubscribe
-
-You can opt-out of receiving direct marketing from us at any time. Simply follow the ‘unsubscribe’ links on our emails to change your preferences, or you can email or write to us at the following address with your request:
-
-CRM Manager   
-Comic Relief UK   
-89 Albert Embankment   
-London   
-SE1 7TP
-
-Email: [info@comicrelief.com](mailto:info@comicrelief.com)
-
-Phone: 020 7820 2000
-
-#### Who We Are
-
-This site is owned and operated by Comic Relief whose place of business is 89 Albert Embankment, London, SE1 7TP, UK. Comic Relief is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee registered in England with number 1806414. Comic Relief Limited is a subsidiary of Charity Projects and a limited company registered in England with number 1967154. Our registered offices are Hanover House, 14 Hanover Square, London W1S 1HP. Our VAT number is 773865187.
-
-Any changes we make to this privacy policy will be posted on this page, so please check back from time to time.
+You can control and/or delete cookies as you wish or delete cookies installed by the site - for more details, see [aboutcookies.org](https://www.aboutcookies.org/). You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. To do so you should modify your browser settings click on the help section of your Internet browser and follow the instructions. If you do this, however, you may have to manually adjust some preferences every time you visit the site and some services and functionalities may not work.  
+ 
