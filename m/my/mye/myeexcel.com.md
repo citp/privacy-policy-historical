@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeexcel.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123192403id_/http%3A//myeexcel.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeexcel.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326083655id_/http%3A//myeexcel.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
 
 # E. EXCEL Evo
 
