@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the check4loans.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024002100id_/http%3A//check4loans.net/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the check4loans.net privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326161234id_/http%3A//check4loans.net/sample-page) for the most accurate reproduction.*
 
 # All About Financial Information – Check4Loans.net » Privacy Policy
 
