@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914150948id_/https%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326182624id_/https%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Canstar Pty Limited – Privacy Policy
 
@@ -87,7 +87,7 @@ We may share your personal information:
   * to contractors providing licensed collections services, credit card payment processing and CRM services, who comply with our privacy and security policies;
   * if we sell our business or part of it;
   * in extreme circumstances, to protect the personal safety of our customers, website users, staff or the public;
-  * to law enforcement, regulatory and government bodies, government agencies and courts, if we are required to by law to do so.
+  * to law enforcement, regulatory and government bodies, government agencies and courts, if we are required by law to do so.
 
 
 
