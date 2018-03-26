@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the movies365.in privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317103431id_/https%3A//movies365.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies365.in privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326080124id_/http%3A//movies365.co.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Movies365
+# Privacy Policy
 
-**At ‘movies365.in’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘movies365.in’, and how we safeguard your information.**
+**At ‘movies365.co.in’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘movies365.co.in’, and how we safeguard your information.**
 
 We never sell your personal information to third parties.
+
+[](http://movies365.co.in/HDDownload)
 
 We may use your IP address to help diagnose any problem with our service and to provide better services for our visitors.
 
@@ -14,6 +16,10 @@ Email Addresses – We never share your email addresses with anyone.
 
 Log Files – As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (airtel, bsnl, mtnl, tata etc…), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
+[](http://movies365.co.in/HDDownload)
+
 Cookies and Web Beacons – We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click here.
 
 **We can be reached via our contact e-mail to jppilania0003@gmail.com**
+
+[](http://movies365.co.in/HDDownload)
