@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226212140id_/https%3A//www.articlesbase.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326223341id_/https%3A//www.articlesbase.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Articlesbase.com - Free Online Articles Directory
 
