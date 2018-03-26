@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datapostingjobs.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206133131id_/http%3A//www.datapostingjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datapostingjobs.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326160052id_/http%3A//datapostingjobs.com/privacy.php) for the most accurate reproduction.*
 
 # CopyPastJobs
 
@@ -56,11 +56,6 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Neon Digital Marketing  
 http://www.datapostingjobs.com  
-Neon Digital Marketing,  
-2/159, Taj Complex,   
-Kannandhal Main Road,  
-Iyerbanglow, Madurai - 625014  
-9047054449   
 info@datapostingjobs.com
 
 This Privacy Policy was last updated on June 20, 2013
