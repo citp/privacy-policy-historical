@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farecompare.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234910id_/https%3A//www.farecompare.com/about-farecompare/privacy-at-farecompare) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farecompare.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326222713id_/https%3A//www.farecompare.com/about-farecompare/privacy-at-farecompare) for the most accurate reproduction.*
 
 # Privacy Policy - FareCompare
 
@@ -26,25 +26,25 @@ When you register, personal information we may collect includes your name, email
 
 If you visit our site from a site operated by one of our partners, and you have registered with that partner limited information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information.
 
-If you log in to our When-to-FlySM Twitter application using your Twitter credentials, we may re-publish the content you have made available on Twitter (including but limited to, tweets, handle name, following/followed stats, public profile information) (collectively, “Twitter Account Content”). To ensure we have your permission to use your Twitter Account Content as contemplated herein we require your agreement to these terms and conditions governing your access to, contribution to and use of the When-to-Fly Twitter application. You therefore grant us permission, free-of-charge, using only your then current Twitter handle as attribution to you, to obtain, publish, republish, advertise, promote and/or store a copy of your Twitter Account Content on the When-to-Fly Twitter application, our other mobile or website properties, and/or in other third party online, mobile or print advertising, marketing and media outlets.
+If you log in to our When-to-FlySM Twitter application using your Twitter credentials, we may re-publish the content you have made available on Twitter (including but limited to, tweets, handle name, following/followed stats, public profile information) (collectively, “Twitter Account Content”). To ensure we have your permission to use your Twitter Account Content as contemplated herein we require your agreement to these terms and conditions governing your access to, contribution to and use of the When-to-Fly Twitter application. You therefore grant us permission, free-of-charge, using only your then current Twitter handle as attribution to you, to obtain, publish, republish, advertise, promote and/or store a copy of your Twitter Account Content on the When-to-Fly Twitter application, or other mobile or website properties, and/or in other third-party online, mobile or print advertising, marketing and media outlets.
 
 ### How we use your information
 
 The information collected from registered and unregistered users is used to provide you with a relevant experience while visiting FareCompare, as well as to deliver relevant information to you via email and other contact points you provide to FareCompare.
 
-After registering, if you decide you do not want to receive e-mail from us you can easily unsubscribe from email by following instructions provided in each email correspondence we send.
+After registering, if you decide you do not want to receive e-mail from us you can easily unsubscribe from an email by following instructions provided in each email correspondence we send.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or unsubscribing from email from FareCompare.
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or unsubscribing from an email from FareCompare.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Third Party Advertising
 
-We allow selected third parties to advertise their goods and services on our website. These third parties may use one or more methods, including “cookies,” to collect limited information regarding your visit to our site. This limited information may included your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash® installed. The information gathered will not include your name, address, email address, or telephone number. Third parties generally use this information for geographic or preference targeting, such as showing California ads to someone in California or showing ads for particular goods or services to someone who frequents particular types of websites. If you would like more information about this practice, third party cookies, or your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We allow selected third parties to advertise their goods and services on our website. These third parties may use one or more methods, including “cookies,” to collect limited information regarding your visit to our site. This limited information may include your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash® installed. The information gathered will not include your name, address, email address, or telephone number. Third parties generally use this information for geographic or preference targeting, such as showing California ads to someone in California or showing ads for particular goods or services to someone who frequents particular types of websites. If you would like more information about this practice, third-party cookies, or your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ### Your user preferences
 
-Registered users can update your email preferences by clicking the update profile link in the footer of email we send. Registered users can also visit [//stg.farecompare.com/mytrips](https://stg.farecompare.com/mytrips) to manage advanced preferences.
+Registered users can update your email preferences by clicking the update profile link in the footer of email we send.
 
 ### How we help protect your user information
 
@@ -60,7 +60,7 @@ We reserve the right to change this policy should we deem it advisable to do so.
 
 ###  Privacy Policy Statement
 
-This is the web site of FareCompare, LP.
+This is the website of FareCompare, LP.
 
 Our postal address is
 
