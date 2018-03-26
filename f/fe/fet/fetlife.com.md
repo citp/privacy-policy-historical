@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226210932id_/https%3A//fetlife.com/legalese/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetlife.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326222204id_/https%3A//fetlife.com/legalese/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FetLife
 
@@ -14,7 +14,7 @@ When you join FetLife, we ask you to choose a nickname. If you would like to kee
 
 We also ask you for your email address, mobile number, and date of birth. We ask you for your email address so that we can send you updates and other essential information. We ask for a potential new member's mobile number so that we can verify them via a one-time text message, which has resulted in improving the overall health of the community. And we ask for your date of birth to make sure you are of legal age.
 
-We use cookies to keep you logged in and to remember your preferences. The cookies FetLife sets are essential for the operation of the site.
+We use cookies to keep you logged in, remember your preferences, and improve your experience on FetLife. Unlike most other websites, we do **not** share any information about our members with third parties. Why? Because we respect your privacy!
 
 When you write to FetLife with a question or to ask for help, we’ll keep that correspondence, and the email address, for future reference.
 
