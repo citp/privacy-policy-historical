@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftjuice.com privacy policy that was archived on 2017-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170921184535id_/http%3A//www.craftjuice.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftjuice.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326184038id_/http%3A//www.craftjuice.com/page.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
 
 # Policy | Craftjuice Handmade Social Network
 
