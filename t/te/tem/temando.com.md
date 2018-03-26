@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227001301id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temando.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326135938id_/http%3A//temando.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Temando
 
-[](https://privacy.truste.com/privacy-seal/Temando/validation?rid=97cff6d5-e7d5-470f-a5f7-e0f371c25efb "TRUSTe online privacy certification")
+[](https://www.trustarc.com/consumer-resources/dispute-resolution-2/)
 
 ## Temando LLC  
 
@@ -29,7 +29,7 @@ We use COOKIES for our shopping cart, to remember users’ settings (e.g. langua
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. We may combine this automatically collected log information with other personal information we collect about you. We do this to improve services we offer you and to improve site functionality.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and similar technologies to collect certain information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and similar technologies to collect certain information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **Surveys & Contests**
 
