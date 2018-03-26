@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superglam.com privacy policy that was archived on 2017-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170817013629id_/http%3A//www.superglam.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superglam.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326175955id_/http%3A//www.superglam.com/privacy.html) for the most accurate reproduction.*
 
 # Price Global Limited Privacy Policy
 
