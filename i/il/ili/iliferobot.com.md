@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iliferobot.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222170320id_/http%3A//www.iliferobot.com/en/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliferobot.com privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326172946id_/http%3A//www.iliferobot.com/en/policy.html) for the most accurate reproduction.*
 
 # Privacy - ILIFE Automatic Vacuums Cleaner,ILIFE Robot Vacuum Cleaner
 
