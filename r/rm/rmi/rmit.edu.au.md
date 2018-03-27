@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmit.edu.au privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120042855id_/https%3A//www.rmit.edu.au/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmit.edu.au privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328011514id_/https%3A//www.rmit.edu.au/utilities/privacy) for the most accurate reproduction.*
 
 # RMIT Privacy Policy Statement - RMIT University
 
