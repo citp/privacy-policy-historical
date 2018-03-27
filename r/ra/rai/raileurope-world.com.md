@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileurope-world.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224051745id_/http%3A//raileurope-world.com/about-rail-europe/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileurope-world.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327174010id_/http%3A//www.raileurope-world.com/about-rail-europe/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Rail Europe - Train travel in Europe
 
