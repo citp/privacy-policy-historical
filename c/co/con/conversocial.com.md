@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversocial.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224214412id_/http%3A//www.conversocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversocial.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327034228id_/http%3A//www.conversocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Conversocial - Social Customer Service | Privacy Policy
 
