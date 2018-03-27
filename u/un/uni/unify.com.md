@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124100647id_/http%3A//www.unify.com/us/Home/Internet/web/Container%2520Site/Misc/Footer-content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unify.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327181008id_/http%3A//www.unify.com/us/Home/Internet/web/Container%2520Site/Misc/Footer-content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Unify
 
 ### Personal data
 
 Through our Web sites, Unify will not collect any personal data about you (e.g. your name, address, telephone number or e-mail address), unless you voluntarily choose to provide us with it (e.g. by registration, survey), respectively, provide your consent, or unless otherwise permitted by applicable laws and regulations for the protection of your personal data.
+
+You have the right to request access, amendment or erasure of your personal data. To exercise this right, you can contact the Group Data Protection Office at [dpo-global@atos.net](mailto:dpo-global@atos.net?subject=Unify%20Website%20Personal%20Data).
 
 ### Unify Commitment to Data Privacy Protection
 
