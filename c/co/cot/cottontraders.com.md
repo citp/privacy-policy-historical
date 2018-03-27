@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottontraders.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224170715id_/http%3A//www.cottontraders.com/uk/privacy-and-cookies/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottontraders.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327184058id_/http%3A//www.cottontraders.com/uk/privacy-and-cookies/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
