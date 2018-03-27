@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009222716id_/http%3A//inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327123811id_/http%3A//inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | In the Powder Room
 
