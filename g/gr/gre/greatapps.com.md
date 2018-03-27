@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220195618id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatapps.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327111635id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.*
 
 # GreatApps.com for App Marketing and App Reviews
 
