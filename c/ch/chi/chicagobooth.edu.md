@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobooth.edu privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701161410id_/https%3A//www.chicagobooth.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobooth.edu privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327161621id_/https%3A//www.chicagobooth.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The University of Chicago Booth School of Business
 
