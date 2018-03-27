@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411023818id_/https%3A//www.recipecommunity.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327235326id_/https%3A//www.recipecommunity.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Thermomix Forum & Recipe Community
 
@@ -81,7 +81,9 @@ Your privacy is very important to us and we take the matter very seriously. If y
 **Cookies**  
 When you visit the Site or use any of our services, the Site may send one or more Cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Our servers may also record anonymous information such as the time, date and URL relating to your use of the Site. Cookies, which are industry standard and are used by most web sites, including the Site, can facilitate a user's ongoing access to and use of a website. The use of Cookies will allow us to customise the Site to your needs, remember your preferences and also assists us in improving the performance of the Site. We may engage third parties to analyse the information collected by cookies or perform statistics about usage of the Site. 
 
-Sometimes, cookies may collect and store your Personal Information. We treat such information in the same manner as other Personal Information that you provide to us. You can deactivate the cookies by resetting your web browser to refuse all cookies or to indicate when a cookie is being sent. However, the Site and our services may not function properly if you disable the cookies. 
+Sometimes, cookies may collect and store your Personal Information. We treat such information in the same manner as other Personal Information that you provide to us. You can deactivate the cookies by resetting your web browser to refuse all cookies or to indicate when a cookie is being sent. However, the Site and our services may not function properly if you disable the cookies.
+
+If you wish to oppose the tracking by cookies on the websites belonging to or managed by Vorwerk, click on this link opt-out. 
 
 **Third Party Sites**  
 From time to time we may provide links to third party websites ( **Linked Sites** ). These Linked Sites are not under our control and we do not accept responsibility or liability for the conduct of the Linked Sites or their businesses and the information available on the Linked Sites. We recommend that you refer to the privacy policy of the Linked Sites before disclosing your Personal Information to the Linked Sites. 
