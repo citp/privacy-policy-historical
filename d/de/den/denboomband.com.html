@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the denboomband.com privacy policy that was archived on 2017-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171125084240id_/http%3A//www.denboomband.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the denboomband.com privacy policy that was archived on 2018-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180327104157id_/http%3A//www.denboomband.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	    <meta charset="utf-8">
@@ -51,16 +51,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <!--<a class="navbar-brand" href="http://www.denboomband.com/"><img src="images/logo.png" width="113" height="71" alt="DenBoomband Logo"></a>-->
 		 <a class="navbar-brand" href="http://www.denboomband.com/"><img src="images/logo.png" alt="DenBoomband Logo" class="img-responsive"></a>
         </div>
-        <div class="collapse navbar-collapse">
+        <div class="collapse navbar-collapse style=" height:1px;"="">
           <ul class="nav navbar-nav navbar-right">
-          <li class="active">
+          <li class="active city-list">
               <form id="locationForm" method="post">
                   <div class="styled-select">
-                  <select name="selected_city" id="selected_city"><option value=" " selected="">Select City</option><option value="4">Gurgaon</option><option value="3">Jodhpur</option><option value="2">Kanpur</option><option value="1" selected="">New Delhi</option></select>
+                  <select name="selected_city" id="selected_city"><option value=" " selected="">Select City</option><option value="1" selected="">New Delhi</option><option value="2">Kanpur</option><option value="3">Jodhpur</option><option value="4">Gurgaon</option><option value="5">Saharanpur</option><option value="6">Udaipur</option><option value="7">Bareilly</option><option value="8">Moradabad</option><option value="9">Other</option></select>
                   </div>
-                  </form>            </li>
+                  </form>                            <div class="city-tooltip">
+              	Please select the city you would like to browse
+                <a href="javascript:void(0);" class="city-close">×</a>
+              </div>
+                          </li>
             <li><a href="http://www.denboomband.com/#choose-plan"><span><img src="images/plan.png" width="17" height="17" alt="My Den Boomband"></span>Plans</a></li>
-            <li><a href="http://cwsc.denonline.in" target="_blank"><span><img src="images/key.png" width="17" height="17" alt="My Den Boomband"></span>My DEN Boomband</a></li>
+            <li><a href="http://selfcare.denbroadband.in" target="_blank"><span><img src="images/key.png" width="17" height="17" alt="My Den Boomband"></span>My DEN Boomband</a></li>
             <li><a href="recharge"><span><img src="images/rupees.png" width="11" height="17" alt="Recharge"></span>Recharge</a>
 
                 <!-- Modal -->
@@ -121,7 +125,9 @@ $(document).ready(function(){
 		$('.toggle2').hide("fast");
 	});
 	
-	
+	$('.city-close').click(function(e) {
+        $('.loading, .city-tooltip').fadeOut();
+    });
 	
 });
 </script>
@@ -245,6 +251,8 @@ $(document).ready(function(){
     </div>
     <div class="clearfix"></div>
 
+	<br>
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /var/www/html/top-menu.php:165) in <b>/var/www/html/footer.php</b> on line <b>2</b><br>
 	<!--footer start-->
      <footer id="this-footer">
      	<div class="ftmain">
@@ -314,10 +322,7 @@ $(document).ready(function(){
                       <h4>Quick links</h4>
                       <div class="rowbox">
                             <ul>
-                                <!--li><span></span><a href="#" style="text-decoration: none;">Explore Boomband</a></li-->
                                 <li><span></span><a href="http://www.denboomband.com/#choose-plan">Choose your plan </a></li>
-                                <!--<li><span></span><a href="javascript:void(0);" id="checkAvailabilityFromFooter">Check Availability </a></li>-->
-								<!--li><span></span><a href="#" style="text-decoration: none;">Videos </a></li-->
 								<li><span></span><a href="http://www.denboomband.com/assets/Telecom_Consumers_Charter.pdf" target="_blank">Consumer Charter </a></li>
                                 <li><span></span><a href="http://www.denboomband.com/paytm-wallet">How to Recharge through PayTm on mobile</a></li>
                             </ul>
@@ -332,9 +337,7 @@ $(document).ready(function(){
                         </div>
                         <div class="rowbox">
                             <ul>
-                                <!--<li><span></span><a href="http://www.denboomband.com/offer">Offers</a></li>-->
                                 <li><span></span><a href="http://www.denboomband.com/testimonials">Testimonials</a></li>
-                                <!--<li><span></span><a href="http://www.denboomband.com/refer-neighbour">Refer A Neighbour </a></li>-->
                                 <li><span></span><a href="http://www.denboomband.com/cheque-drop-box-location">Cheque Drop Box Location</a></li>
                             </ul>
                         </div>
@@ -346,7 +349,6 @@ $(document).ready(function(){
                             </div>
                             
                             <div class="social-icons-ft">
-                              <!--<h4>Social media</h4>-->
                                 <a href="https://www.facebook.com/DENBoomband" target="_blank" class="facebook"><img src="http://www.denboomband.com/images/fb-social-icon.png" width="33" height="32" alt="facebook icon"></a>
                                 <a href="https://twitter.com/DenBoomband" target="_blank" class="twitter"><img src="http://www.denboomband.com/images/tw-social-icon.png" width="32" height="32" alt="twitter icon"></a>
                                 <a href="https://www.youtube.com/channel/UCpci4YrADQpZrUjNgACzJcg/" target="_blank" class="youtube"><img src="http://www.denboomband.com/images/youtube-social-icon.png" width="32" height="32" alt="youtube social icon"></a>
@@ -363,14 +365,10 @@ $(document).ready(function(){
      	</div>
         <div class="clearfix"></div>
       </footer>
-    <!--footer end-->
-<!-- Sliding div starts here -->
 <div class="rightFeed">
-
 <div class="request-call-back">
 	<a href="javascript:;" id="show_need"><img src="http://www.denboomband.com/images/need-help.png" alt="call-back logo"></a>
 </div>
-
 <div class="re_need_help">
              <div class="recharge-slide">
                  <div class="needhelp">
@@ -386,45 +384,24 @@ $(document).ready(function(){
                     </div>
                    </div>
              </div>
-             
              <div class="toggle2">
                     <div class="recharge-slide">
                     <div class="needhelp">
-                  <!--<h5>Den boomband</h5>-->
                     <span></span>
                     <ul>
-                        <!--<li class="phone"><i class="fa fa-user pad5"></i> Sourav R Choudhury</li>
-                        <li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:0120-6175028" target="_blank">0120- 6175028 (Mon to Sat)</a></li>
-                        <li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:nodalofficer@denonline.in">nodalofficer@denonline.in</a></li>-->
 						<hr>
-						<li class="phone"><i class="fa fa-user pad5"></i> MR. SANDEEP SHRIVASTAV </li>
+						<li class="phone"><i class="fa fa-user pad5"></i>MR. DHEERAJ SINGH BHADORIA</li>
 						<li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:011-40522161" target="_blank">0120-6175028  (Mon to Sat)</a></li>
 						<li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:nodalofficer.bb@denonline.in">nodalofficer.bb@denonline.in</a></li>
-
 						<hr>
 						<li class="phone"><i class="fa fa-user pad5"></i> MR. NEERAJ KUMAR</li>
 						<li class="phone"><i class="fa fa-phone pad5"></i><a href="tel:011-405222143" target="_blank">011-40522143  (Mon to Sat)</a></li>
 						<li class="phone"><i class="fa fa-envelope pad5"></i><a href="mailto:appellateauthority.bb@denonline.in">appellateauthority.bb@denonline.in</a></li>
-
                     </ul>
                    </div>
                     </div>
                </div>
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="slider-feedback" style="right:-342px;">
         <div onclick="open_panel()" id="sidebar"><img src="http://www.denboomband.com/images/feedback.png" width="39" height="143" alt="feedback logo">
     </div>
@@ -449,24 +426,12 @@ $(document).ready(function(){
             <button type="submit" id="sending_feedback">Send Message</button>
             <div class="feedback-logo"><img src="http://www.denboomband.com/images/logo.png" alt="feedback logo"></div>
         </form>
-
     </div>
-
 </div>
-
-<!--<div class="request-call-back">
-	<a data-toggle="modal" data-target="#callback_model" href="#"><img src="http://www.denboomband.com/images/request-call.png" alt="call-back logo"></a>
-</div>-->
+<div class="socialMedia">
+<a href="http://www.denboomband.com/#choose-plan"><img src="http://www.denboomband.com/images/choose-your-plan.jpg" alt="feedback logo"></a>
 </div>
-<!--<div class="socialMedia social-icons">
-	<ul>
-    	<li><a href="https://www.facebook.com/DENBoomband" target="_blank" ><span class="facebook">facebook</span></a></li>
-    	<li><a href="https://twitter.com/DenBoomband" target="_blank"><span class="twitter">Twitter</span></a></li>
-    	<li><a href="https://www.youtube.com/channel/UCpci4YrADQpZrUjNgACzJcg/" target="_blank"><span class="youtube">youtube</span></a></li>
-    </ul>
-</div>-->
-<!-- Sliding div ends here -->
-
+</div>
 <div class="totop" style="display:none;"><img src="http://www.denboomband.com/images/totop.png" alt="Top Icon" width="30" height="30"></div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
 <script src="js/owl.carousel.js"></script>
@@ -476,18 +441,6 @@ $(document).ready(function(){
 <script src="http://www.denboomband.com/js/theme.js"></script>
 <script>
 $(document).ready(function(){
-//	 $('#show_need').click(function() {
-//		$('.re_need_help').addClass("re_need-right");
-//		$('.toggle2').hide("fast");
-//	});
-//	
-//	
-//	$('.need_cross-tab').click(function() {
-//		$('.re_need_help').slideToggle("fast");
-//		$('.toggle2').hide("fast");
-//	});
-//	
-//	
 if ($(window).width() > 767) {
 		$('#show_need').bind('click', function () {
 			$('.re_need_help').toggleClass('active');
@@ -503,27 +456,38 @@ if ($(window).width() > 767) {
 		});
 		$('.need_cross-tab').bind('click', function () {
 			$('.re_need_help').toggleClass('active');
-		
 		});
 	}
-
-
-
 });
 </script>
-
-
+<script>
+	$(document).ready(function(){	
+	$('.loading').click(function(){
+    $('.loading, .city-tooltip').fadeOut();
+	$('nav.navbar-fixed-top').removeClass('navabs');
+	});
+	$('nav.navbar-fixed-top').addClass('navabs');
+    $(".tanku-overlay, .ok-button").click(function() {
+        $(this).fadeOut();
+		$(".thankyou_msg").fadeOut();
+    });
+ });
+  $(document).on("click",".ok-button",function(e){
+	  $(".thankyou_msg, .tanku-overlay").fadeOut();
+	
+	 })
+ </script>
 <script>
 var website_url_link = 'http://www.denboomband.com/';
 $(document).ready(function() {
-	$("#toggle1").click(function(){
+	$('nav.navbar-fixed-top').addClass('navabs');
+		$("#toggle1").click(function(){
 			$(".toggle1").slideToggle("slow");
 	});
 	$("#toggle2").click(function(){
 			$(".toggle2").slideToggle("slow");
 	});
 	$('#checkAvailabilityFromFooter').click(function(){
-		//$(location).attr('href', website_url_link);
 		if($("#floater").css("top") != "0px"){
 			$("#floater").css('top', "0px");
 			$("#main").css('top', String($("#floater")[0].scrollHeight) + "px");
@@ -539,40 +503,24 @@ $(document).ready(function() {
 	});
 
    $("#selected_city").on('change', function() {
-	 //$("#locationForm").submit();
 	 var getLocation = $("#selected_city").val();
+	  $(".styled-select").click (function(e) {		
+		$(".loading").css("display", "none");		
+	  });
 	 if(getLocation == 5)
 	 {
-		 //$(".slides-pagination").addClass("scsc");
-		 $(".slides-pagination a").removeClass("current");
-		 $(".sixthlide").css("display","block");
-		 $(".fiveslide").css("display","none");
-		 $(".secondslide").css("display","none");
-		 $(".thirdlide").css("display","none");
-		 $(".fourslide").css("display","none");		
 		 $(".slides-pagination a:last-child").addClass("current");
-		 
 	 }
 	 this.form.submit();
-	 //$("#selected_city").val("");
    });
      $(document).on('click', 'a[href^="#"]', function(e) {
-    // target element id
     var id = $(this).attr('href');
-
-    // target element
     var $id = $(id);
     if ($id.length === 0) {
         return;
     }
-
-    // prevent standard hash navigation (avoid blinking in IE)
     e.preventDefault();
-
-    // top position relative to the document
     var pos = $(id).offset().top - $("#navbar")[0].scrollHeight;
-
-    // animated top scrolling
     $('body, html').animate({scrollTop: pos});
    });
 $(".totop").on('click', function(){
@@ -585,17 +533,13 @@ $(window).scroll(function(){
 			$('.totop').fadeOut();
 		}
 	});
-
  });
-
-/* feedback form submit */
 	$('#feedbackForm').submit(function(e){
 			var postData = $(this).serializeArray();
 			$.ajax({
 				url:"send_feedback_getintuch.php",
 				type: "POST",
 				data : postData,
-				//cache: false,
 				async: false,
 				beforeSend: function(){
 					$("#sending_feedback").attr("disabled", true);
@@ -617,15 +561,12 @@ $(window).scroll(function(){
 			});
 			return false;
 		});
-/* end feedback form submit */
-/* get in touch form submit */
 	$('#getintouchForm').submit(function(e){
 			var postData = $(this).serializeArray();
 			$.ajax({
 				url:"send_feedback_getintuch.php",
 				type: "POST",
 				data : postData,
-				//cache: false,
 				async: false,
 				beforeSend: function(){
 					$("#getintouchSubmit").attr("disabled", true);
@@ -649,23 +590,43 @@ $(window).scroll(function(){
 			});
 			return false;
 		});
-/* end get in touch form submit */
-/*
-------------------------------------------------------------
-Function to activate form button to open the slider.
-------------------------------------------------------------
-*/
+	$('#getconnectionForm').submit(function(e){
+			var postData = $(this).serializeArray();
+			$.ajax({
+				url:"send_feedback_getintuch.php",
+				type: "POST",
+				data : postData,
+				async: false,
+				beforeSend: function(){
+					$("#getconnectionSubmit").attr("disabled", true);
+					$('#getconnectionSubmit').text('Sending...');
+					return true;
+				},
+				success:function(responsedata){
+					$("#getconnectionSubmit").attr("disabled", false);
+					$("#gname").val('');
+					$("#gemail").val('');
+					$("#gnumber").val('');
+					$("#guserid").val('');
+					$("#gmessage").val('');
+					$("#getconnectionSubmit").text('SUBMIT');
+					$('#getconnection_msg').html(responsedata);
+					$(".thankyou_msg").delay(200).fadeIn('slow');
+					$(".tanku-overlay").delay(170).fadeIn('slow');
+			   	},
+			   	error: function(jqXHR, textStatus, errorThrown)
+			   	{
+				   	alert('Error try again.');
+			   	}
+			});
+			return false;
+		});
 function open_panel() {
 slideIt();
 var a = document.getElementById("sidebar");
 a.setAttribute("id", "sidebar1");
 a.setAttribute("onclick", "close_panel()");
 }
-/*
-------------------------------------------------------------
-Function to slide the sidebar form (open form)
-------------------------------------------------------------
-*/
 function slideIt() {
 var slidingDiv = document.getElementById("slider-feedback");
 var stopPosition = 0;
@@ -674,22 +635,12 @@ slidingDiv.style.right = parseInt(slidingDiv.style.right) + 2 + "px";
 setTimeout(slideIt, 1);
 }
 }
-/*
-------------------------------------------------------------
-Function to activate form button to close the slider.
-------------------------------------------------------------
-*/
 function close_panel() {
 slideIn();
 a = document.getElementById("sidebar1");
 a.setAttribute("id", "sidebar");
 a.setAttribute("onclick", "open_panel()");
 }
-/*
-------------------------------------------------------------
-Function to slide the sidebar form (slide in form)
-------------------------------------------------------------
-*/
 function slideIn() {
 var slidingDiv = document.getElementById("slider-feedback");
 var stopPosition = -342;
@@ -698,7 +649,6 @@ slidingDiv.style.right = parseInt(slidingDiv.style.right) - 2 + "px";
 setTimeout(slideIn, 1);
 }
 }
-
 $(function(){
 
   $('#searchDropbox').slimScroll({
@@ -722,16 +672,10 @@ $('.offers_desktop_summary_scroll').slimScroll({
 
 });
 </script>
-
-<!-- Google Code for Remarketing Tag -->
-<!--Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup-->
 <script type="text/javascript">
-/* <![CDATA[ */
 var google_conversion_id = 956739325;
 var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
-/* ]]> */
-
 </script>
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
