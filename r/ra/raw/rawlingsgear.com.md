@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rawlingsgear.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124085814id_/http%3A//www.rawlings.com/about/about-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rawlingsgear.com privacy policy that was archived on 2018-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180327170837id_/http%3A//www.rawlings.com/about/about-privacy.html) for the most accurate reproduction.*
 
 # Rawlings Consumer Privacy Policy :: Rawlings.com
 
