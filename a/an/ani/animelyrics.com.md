@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225093134id_/https%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animelyrics.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329003841id_/https%3A//www.animelyrics.com/privacy.html) for the most accurate reproduction.*
 
 # Anime Lyrics dot Com - Privacy Policy
 
-[](https://www.animelyrics.com/target=_blank)  
+[Sign Ups are open for National Anime Song Translation Month 2018!](https://www.animeforum.com/showthread.php?133516-National-Anime-Song-Translation-Month-2018) [](https://www.animelyrics.com/target=_blank)
+
   
 Our postal address is  
 2006 Benson ave 3d  
