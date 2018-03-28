@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the midomi.com privacy policy that was archived on 2017-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171020185909id_/http%3A//midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the midomi.com privacy policy that was archived on 2018-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180328075356id_/https%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="midomi.com. Encuentre y descubra música y gente. Utilice su voz para conectar instantáneamente con su música favorita y con una comunidad de personas que comparten sus intereses musicales. Cante sus propias versiones, escuche voces, vea imágenes, puntúe a cantantes, envíe mensajes, compre música"><meta name="keywords" content="Búsqueda de música, letras, comunidad, buscar cantando, reconocimiento de voz, nombrar una canción, karaoke en línea, consultar tarareando, reconocimiento de sonido, reconocimiento de habla, cantar, midomi, melodis"><meta name="robots" content="index, follow"><title>Busque música mediante su voz cantando o tarareando, vea vídeos musicales, únase a clubes de admiradores, compártalo con sus amigos, dese a conocer y mucho más gratis - midomi.com</title><noscript>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="description" content="midomi.com trova e scopri musica e persone. Utilizza la voce per collegarti all’istante alla tua musica preferita e a una comunità di persone con i tuoi stessi interessi musicali. Canta le tue versioni, ascolta voci, guarda foto, valuta cantanti, invia messaggi, compra musica"><meta name="keywords" content="Ricerca musica, testi, comunità, ricerca cantato, riconoscimento vocale, trova l’aria, karaoke online, ricerca mediante riproduzione a bocca chiusa, riconoscimento del suono, riconoscimento parlato, canta, midomi, melodis"><meta name="robots" content="index, follow"><title>Cerca musica con la tua voce cantando o rifacendo a bocca chiusa, visualizza video musicali, entra nei fan club, condividi con amici, fatti scoprire e tanto altro gratis! - midomi.com</title><noscript>
 <META HTTP-EQUIV="Refresh" CONTENT="0;URL=http://www.midomi.com/index.php?action=main.noscript">
 </noscript>
 
@@ -14,9 +14,14 @@
   var voiceSearchResultsUtil = null;
   var flashLoader = new YAHOO.widgets.FlashLoader();
   var playlist = new YAHOO.widgets.Playlist();
-    var searchers = new YAHOO.widgets.VoiceSearchers({baseUrl:'http%3A%2F%2Fwww.midomi.com',staticUrl:'https%3A%2F%2Fstatic.midomi.com',urlPrefix:'',locale:'es_ES'});
+    var searchers = new YAHOO.widgets.VoiceSearchers({baseUrl:'http%3A%2F%2Fwww.midomi.com',staticUrl:'https%3A%2F%2Fstatic.midomi.com',urlPrefix:'',locale:'it_IT'});
   var audioPlayers = new YAHOO.widgets.AudioPlayers({baseUrl:'http://www.midomi.com', staticUrl:''});
 </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://static.midomi.com/css/midomi-audio-search.css">
+<script src="https://static.midomi.com/css/houndify-web-sdk.js"></script>
+<script src="https://static.midomi.com/css/midomi-audio-search.js"></script>
     </head>
     <body>
         <div id="doc4" class="yui-t4">
@@ -27,7 +32,7 @@
 var searchHelpToggle = new YAHOO.midomi.Toggle('searchHelpControl', 'header-search-help');
 </script>
 <div id="page-header">
-	<a id="header-home-link" href="/" alt="midomi home" title="Página de inicio de midomi"></a>
+	<a id="header-home-link" href="/" alt="midomi home" title="midomi home"></a>
     <div id="header-search">
     	<div id="search-container">
     		<div id="search-text">
@@ -36,16 +41,16 @@ var searchHelpToggle = new YAHOO.midomi.Toggle('searchHelpControl', 'header-sear
     <input type="hidden" name="action" value="main.text_search"><input type="hidden" name="type" value="text"> 
     <input type="hidden" name="from" value="main.privacy_notice">
     <div class="textSearchArea">
-      <input type="text" id="header-searchTerm" name="searchTerm" autocomplete="off" value="Artista, canción, álbum o usuario">
+      <input type="text" id="header-searchTerm" name="searchTerm" autocomplete="off" value="Artista, canzone, album, o utente">
     </div>
     <div class="textSearchButton"><input type="image" src="https://static.midomi.com/images/transparent.gif" onclick="return checkTextSearch('header-');"></div>
     <nobr class="monsterClear"></nobr>
   </div>
 <script>
-  var myTextField = new YAHOO.widgets.TextField("header-", "header-searchTerm", "Artista, canción, álbum o usuario");
+  var myTextField = new YAHOO.widgets.TextField("header-", "header-searchTerm", "Artista, canzone, album, o utente");
   function checkTextSearch(id){
     var searchTerm = YUD.get(id+"searchTerm").value;
-    if( searchTerm == "Artista, canción, álbum o usuario" || YAHOO.lang.trim(searchTerm) ==''){
+    if( searchTerm == "Artista, canzone, album, o utente" || YAHOO.lang.trim(searchTerm) ==''){
       alert(JS_MSG.translate('Please enter a song or artist to search for.'));return false;
     }
     return true;
@@ -55,41 +60,62 @@ var searchHelpToggle = new YAHOO.midomi.Toggle('searchHelpControl', 'header-sear
 
     		</div>
                     		<div id="search-sing">
-                  <div id="searchModuleheader" class="flashModule" style="width: 252px;"></div>
-<div id="searchSpaceheader" style="height:30px; width: 252px; margin: 0 0 0 6px;"></div>
-<div class="advancedPermissionsLink hidden" id="advancedPermissionsLinkheader"><a onclick="searchers.doAdvancedPermissionsCheck('searchMovieheader');">¿No desea volver a ver este cuadro?</a></div>
-<script type="text/javascript">
-searchers.load({movieId:'searchMovieheader',moduleId:'searchModuleheader',spaceId:'searchSpaceheader',advancedPermissionsLink:'advancedPermissionsLinkheader',flashObj:'midomiSmallVoiceSearch.swf',width:'252',height:'30',flashVars:{sid:'vfai2p3nc88il2t6c53racdhk7',fromAction:'main.privacy_notice'}});
-</script>
+                  <section class="midomi-audio-search is--small" id="container" style="margin: 0 auto; background: white;">
+    <div class="row">
+      <div class="col-xs-3">
+        <div class="box-row">
+          <div class="midomi-toolbar">
+            <button id="recordBtn" class="midomi-button midomi-button--record">
+              <i class="fa fa-microphone" aria-hidden="true"></i>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-9">
+        <div class="box-row midomi-canvas-wrap">
+          <canvas id="canvasElem" class="midomi-canvas">
+            Not working on Opera, Safari &amp; IE. Edge, Firefox &amp; Chrome may ask for permission to use the microphone.
+          </canvas>
+          <span class="midomi-status-text">
+            Click to search
+          </span>
+          <button id="cancelBtn" class="midomi-cancel-button">
+            <i class="fa fa-times" aria-hidden="true"></i>
+          </button>
+          <span id="textElem" class="midomi-text">Click and sing or hum.</span>
+        </div>
+      </div>
+    </div>
+  </section>
     		</div>
                     		<nobr class="monsterClear"></nobr>
 
 		    		<div id="search-footer">
-    			<div class="advanced-search-control-div"><a id="advancedSearchControl">Búsqueda por voz avanzada</a></div>
-    			<div><a id="searchHelpControl" class="italic">¿Cómo funciona esto?</a></div>
+    			<div class="advanced-search-control-div"><a id="advancedSearchControl">Ricerca vocale avanzata</a></div>
+    			<div><a id="searchHelpControl" class="italic">Come funziona?</a></div>
     		</div>
                 <div style="position:relative;z-index:3;">
 <div id="header-search-help" class="hidden">
 	<div class="titleBar">
 		<div class="titleBarClose"><a onclick="YAHOO.util.Dom.addClass('header-search-help', 'hidden')"><img src="https://static.midomi.com/images/header/search-help-close.gif"></a></div>
-		Ayuda de búsqueda	</div>
+		Aiuto di ricerca	</div>
 	<div id="help-body" class="largeLineHeight">
         <div>
-            <b>Buscar cantando</b>
-            <div class="indent-15">Puede encontrar canciones con midomi y su propia voz. ¿Ha olvidado el título de una canción? ¿Ha escuchado un fragmento de alguna por la radio? Todo lo que necesita es el micrófono de su ordenador.</div>
+            <b>Ricerca cantato</b>
+            <div class="indent-15">Puoi trovare canzoni con midomi e la tua stessa voce.  Hai dimenticato il nome di una canzone?  Ne hai sentito un pezzo alla radio?  Ti basta avere il microfono del tuo computer.</div>
             <ol>
-                <li>Haga clic en "Buscar cantando" para empezar a grabar su búsqueda.                </li><li>Realice su búsqueda cantando o tarareando. Para lograr unos resultados óptimos, mantenga la barra de volumen en la zona verde, grabe 10 segundos o más de la canción y evite el ruido de fondo.                </li><li>Haga clic en la flecha verde para ver los resultados.            </li></ol>
-            <div class="indent-15 italic"><b>Si desea obtener más información, consulte nuestra <a href="index.php?action=main.video">introducción</a>.</b><br>Si experimenta problemas, <a href="index.php?action=main.mic_check">pruebe su micrófono</a>.</div>
+                <li>Fai clic su “Ricerca cantato” per cominciare a registrare la tua ricerca.                </li><li>Canta o rifai a bocca chiusa la tua ricerca.  Per ottenere i risultati migliori, tieni la barra del volume sul verde, registra 10 secondi o più del motivo ed evita il rumore di fondo.                </li><li>Fai clic sulla freccia verde per vedere i risultati.            </li></ol>
+            <div class="indent-15 italic"><b>Per saperne di più, visita la nostra <a href="index.php?action=main.video">introduzione</a>.</b><br>Se incontri problemi <a href="index.php?action=main.mic_check">fai una prova microfono</a>.</div>
         </div>
         <div class="topline_big">
-            <b>Búsqueda por texto</b>
-            <div class="indent-15">Nuestra búsqueda de texto es una alternativa rápida para encontrar canciones y gente. Puede introducir el nombre de un grupo o cantante, el título íntegro o parcial de una canción, e incluso hallar otros usuarios de midomi. Sólo tiene que escribir el término y presionar Entrar o hacer clic en la flecha verde.</div>
+            <b>Ricerca testo</b>
+            <div class="indent-15">La nostra ricerca testi è un modo rapido di trovare canzoni e persone.  Puoi inserire il nome di un gruppo o di un cantante, il titolo di una canzone o anche solo una parte e perfino trovare altri utenti midomi.  Basta digitare la parola e premere invio o fare clic sulla freccia verde.</div>
         </div>
 	</div>
 </div>
 </div>	            	</div>
 	    	<div id="label">
-                Encontrar música:
+                Trova musica:
         </div>
 	    </div>
 </div>
@@ -97,18 +123,18 @@ searchers.load({movieId:'searchMovieheader',moduleId:'searchModuleheader',spaceI
 	<div id="nav-header-actions">
           <div id="login_password">
     <div id="login_initial">
-        <span><a class="link_text" href="index.php?action=main.register">Registrarse</a></span>
+        <span><a class="link_text" href="index.php?action=main.register">Iscrizione</a></span>
         <span class="light_separator">|</span>
-        <span id="ovl_login_link"><a class="link_text" onclick="loginFormOverlay.toggle();">Iniciar sesión</a></span>
+        <span id="ovl_login_link"><a class="link_text" onclick="loginFormOverlay.toggle();">Accesso</a></span>
     </div>
     <div id="login_form_overlay">
     <div class="right">
       <table>
           <tbody><tr>
-              <td>Correo electrónico: <input type="text" name="ovl_email" class="textbox" id="ovl_email" tabindex="1"></td>
-              <td>Contraseña: <input type="password" name="ovl_password" class="textbox" id="ovl_password" tabindex="2"></td>
+              <td>Email: <input type="text" name="ovl_email" class="textbox" id="ovl_email" tabindex="1"></td>
+              <td>Password: <input type="password" name="ovl_password" class="textbox" id="ovl_password" tabindex="2"></td>
               <td>Remember me <input type="checkbox" name="ovl_remember_me" id="ovl_remember_me" value="yes" checked="" tabindex="3"></td>
-              <td>&nbsp;<input id="ovl_login_button" type="button" value="Iniciar sesión" onclick="loginFormOverlay.submitForm();" tabindex="4"></td>
+              <td>&nbsp;<input id="ovl_login_button" type="button" value="Accesso" onclick="loginFormOverlay.submitForm();" tabindex="4"></td>
               <td><input type="button" value="Cancel" onclick="loginFormOverlay.toggle();"></td>
           </tr>
       </tbody></table>
@@ -148,32 +174,32 @@ searchers.load({movieId:'searchMovieheader',moduleId:'searchModuleheader',spaceI
           
 <table class="indent-15" height="30">
 	<tbody><tr>
-                <td><a class="navItem rollover " href="index.php?action=main.sing&amp;from=topnav" id="sing_s">Estudio</a></td>
-                              <td><a class="navItem rollover " href="index.php?action=main.charts&amp;from=topnav" id="charts_s">Stars de midomi</a></td><td><a id="charts_nav_menu" href="javascript:void(0)"></a></td>
+                <td><a class="navItem rollover " href="index.php?action=main.sing&amp;from=topnav" id="sing_s">Studio</a></td>
+                              <td><a class="navItem rollover " href="index.php?action=main.charts&amp;from=topnav" id="charts_s">Star di midomi</a></td><td><a id="charts_nav_menu" href="javascript:void(0)"></a></td>
   	                      <td><a class="navItem rollover " href="index.php?action=main.hot_artists&amp;from=topnav" id="hotartists_s">Hot Artists</a></td>
-                <td><a class="navItem rollover " href="index.php?action=main.explore&amp;from=topnav" id="explore_s">Explorar</a></td><td><a id="explore_nav_menu" href="javascript:void(0)"></a></td>			</tr>
+                <td><a class="navItem rollover " href="index.php?action=main.explore&amp;from=topnav" id="explore_s">Esplora</a></td><td><a id="explore_nav_menu" href="javascript:void(0)"></a></td>			</tr>
 </tbody></table>
 <div class="yui-skin-sam">
   <div id="chartsmenu" class="yuimenu topNavMenu"> 
     <div class="bd"> 
       <ul class="first-of-type"> 
         <li class="yuimenuitem">
-          <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_u&amp;from=topnav">Promesas</a>
+          <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_u&amp;from=topnav">In arrivo</a>
       </li> 
       <li class="yuimenuitem"> 
-        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_tr&amp;from=topnav">Grabaciones</a> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_tr&amp;from=topnav">Hit parade</a> 
       </li> 
       <li class="yuimenuitem"> 
-        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_tp&amp;from=topnav">Mejores intérpretes</a> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_tp&amp;from=topnav">Hit parade interpreti</a> 
       </li> 
       <li class="yuimenuitem"> 
-        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_mr&amp;from=topnav">Grabaciones recientes</a> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_mr&amp;from=topnav">Registrati recentemente</a> 
       </li> 
       <li class="yuimenuitem"> 
-        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_fr&amp;from=topnav">Destacado recientemente</a> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_fr&amp;from=topnav">Presentati di recente</a> 
       </li> 
       <li class="yuimenuitem"> 
-        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_rp&amp;from=topnav">En lista de reproducción recientemente</a> 
+        <a class="yuimenuitemlabel" href="index.php?action=main.charts&amp;b=b_rp&amp;from=topnav">Recentemente inserito in sequenza brani</a> 
       </li> 
     </ul>             
   </div> 
@@ -189,7 +215,7 @@ searchers.load({movieId:'searchMovieheader',moduleId:'searchModuleheader',spaceI
     YAHOO.util.Event.addListener("charts_nav_menu", "click", oMenu.show, null, oMenu);    
   });
 </script>
-<div class="yui-skin-sam"><div id="exploremenu" class="yuimenu topNavMenu"><div class="bd"><ul class="first-of-type"><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;playlist_id=4e2d7b73b9d009a6a8f0f8d74d5d45eb">Recomendado</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=6612a42c1de9276104bdde155d8d8e8b">Promesas</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=4443516c5ee5e5ec4540f9b41851d849">Grabaciones</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=d70af6bf42e4cd014945029922e1faa8">Destacado recientemente</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=4a530cd337053902e9ca547ee6b3f0cd">En lista de reproducción recientemente</a></li></ul></div></div></div><script type="text/javascript">
+<div class="yui-skin-sam"><div id="exploremenu" class="yuimenu topNavMenu"><div class="bd"><ul class="first-of-type"><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;playlist_id=4e2d7b73b9d009a6a8f0f8d74d5d45eb">Raccomandato</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=6612a42c1de9276104bdde155d8d8e8b">In arrivo</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=4443516c5ee5e5ec4540f9b41851d849">Hit parade</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=d70af6bf42e4cd014945029922e1faa8">Presentati di recente</a></li><li class="yuimenuitem"><a class="yuimenuitemlabel" href="index.php?action=main.explore&amp;from=topnav&amp;skip_rated=off&amp;skip_heard=off&amp;playlist_id=4a530cd337053902e9ca547ee6b3f0cd">Recentemente inserito in sequenza brani</a></li></ul></div></div></div><script type="text/javascript">
                 YAHOO.util.Event.onContentReady("exploremenu", function () {
                   var oMenu = new YAHOO.widget.Menu("exploremenu", { context: ["explore_s", "tl", "bl"], top: "10px", maxheight: 350, scrollincrement: 5});
                   var subMenus = oMenu.getSubmenus();
@@ -506,10 +532,10 @@ google_ad_width = 160;
 google_ad_height = 600;
 google_ad_format = "160x600_as";
 google_ad_type = "text_image";
-google_ad_channel = "7354401551+0159305101+2608876419+0038205407+8108360872";
+google_ad_channel = "7083440810+0159305101+2608876419+0038205407+8463793958";
 google_ui_features = "rc:0";
 //-->
-</script><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>                        </div>
+</script><script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>                        </div>
                     </div>
                 </div>
                 <script type="text/javascript">
@@ -523,14 +549,14 @@ pageTracker._trackPageview();
 pageTracker._trackPageLoadTime();
 </script>
 <div id="ft">
-  <div class="footer_right"><span><a href="index.php?action=main.mobile" class="link_text_light">Mobile</a> | <a href="index.php?action=main.video" class="link_text_light">Recorrido en vídeo</a> | <a href="index.php?action=main.about_us" class="link_text_light">Acerca de nosotros</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fblog.midomi.com%2F" target="_blank" class="link_text_light">Bitácora</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fforum.midomi.com%2F" target="_blank" class="link_text_light">Foro</a> | <a href="index.php?action=main.contact_us" class="link_text_light">Contacte con nosotros</a> | <a class="link_text_light" href="index.php?action=main.terms_of_use">Condiciones de uso</a> | <a class="link_text_light" href="index.php?action=main.privacy_notice">Notificación de privacidad</a> | <a class="link_text_light" href="index.php?action=main.careers">Oportunidades laborales</a> | <a href="index.php?action=main.faq" class="link_text_light">Help</a></span></div>
+  <div class="footer_right"><span><a href="index.php?action=main.mobile" class="link_text_light">Mobile</a> | <a href="index.php?action=main.video" class="link_text_light">Video Tour</a> | <a href="index.php?action=main.about_us" class="link_text_light">Chi siamo</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fblog.midomi.com%2F" target="_blank" class="link_text_light">Blog</a> | <a href="index.php?action=main.redir&amp;url=http%3A%2F%2Fforum.midomi.com%2F" target="_blank" class="link_text_light">Forum</a> | <a href="index.php?action=main.contact_us" class="link_text_light">Contattaci</a> | <a class="link_text_light" href="index.php?action=main.terms_of_use">Condizioni d’uso</a> | <a class="link_text_light" href="index.php?action=main.privacy_notice">Avviso di riservatezza</a> | <a class="link_text_light" href="index.php?action=main.careers">Lavora con noi</a> | <a href="index.php?action=main.faq" class="link_text_light">Help</a></span></div>
 </div>
 <div></div>
 
-<input type="hidden" id="post_id" value="6e5e24e0f933d3932e9d1701a4f82b60">
+<input type="hidden" id="post_id" value="64dcfccae587358c08bcb7a89dbd5124">
 <input type="hidden" id="__urlPrefix" value="">
-<input type="hidden" id="__locale" value="es_ES">
-<input type="hidden" name="login_salt" id="login_salt" value="933229286">
+<input type="hidden" id="__locale" value="it_IT">
+<input type="hidden" name="login_salt" id="login_salt" value="384284466">
             </div> 
             <div id="ft-bottom"><div></div></div>
         </div>
@@ -540,24 +566,24 @@ pageTracker._trackPageLoadTime();
 <div id="language-selection">
   <div class="lang_line">
   <span class="bold gray">midomi.com:&nbsp;</span>
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=en&amp;sid=vfai2p3nc88il2t6c53racdhk7">English</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=es&amp;sid=vfai2p3nc88il2t6c53racdhk7">Español</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=fr&amp;sid=vfai2p3nc88il2t6c53racdhk7">Français</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=it&amp;sid=vfai2p3nc88il2t6c53racdhk7">Italiano</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=de&amp;sid=vfai2p3nc88il2t6c53racdhk7">Deutsch</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=pt&amp;sid=vfai2p3nc88il2t6c53racdhk7">Português</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=pl&amp;sid=vfai2p3nc88il2t6c53racdhk7">Polski</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=zh&amp;sid=vfai2p3nc88il2t6c53racdhk7">简体中文</a>&nbsp;|&nbsp;
-  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=ko&amp;sid=vfai2p3nc88il2t6c53racdhk7">한국어</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=en&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">English</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=es&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">Español</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=fr&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">Français</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=it&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">Italiano</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=de&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">Deutsch</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=pt&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">Português</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=pl&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">Polski</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=zh&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">简体中文</a>&nbsp;|&nbsp;
+  <a href="http://www.midomi.com/index.php?action=main.set_locale&amp;locale=ko&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">한국어</a>&nbsp;|&nbsp;
   <span class="bold gray">midomi.co.jp:&nbsp;</span>
-  <a href="http://www.midomi.co.jp/index.php?action=main.set_locale&amp;locale=ja&amp;sid=vfai2p3nc88il2t6c53racdhk7">日本語</a>
+  <a href="http://www.midomi.co.jp/index.php?action=main.set_locale&amp;locale=ja&amp;sid=5buf1jop8ir16lvd9jiplnu9l2">日本語</a>
   </div>  
 </div>
         </div>
         
         <div id="purchaseModal" class="modal">
    <div class="hd"><div class="tl"></div><span>&nbsp;</span><div class="tr"></div></div>
-<div class="bd" style="border-bottom:2px solid black;">Cargando…</div>
+<div class="bd" style="border-bottom:2px solid black;">Caricamento...</div>
 </div>
 <div id="voiceSearchAdvanced" style="visibility: hidden;">
   <!-- start border -->
@@ -565,24 +591,24 @@ pageTracker._trackPageLoadTime();
   <div id="voiceSearchAdvanced_bb"><div id="voiceSearchAdvanced_blc"><div id="voiceSearchAdvanced_brc">
   <!-- start content -->
   <div id="voiceSearchAdvancedContent">
-  <h3>Búsqueda por voz avanzada</h3>
+  <h3>Ricerca vocale avanzata</h3>
   <div class="search-selector">
-      <a id="advancedLanguagesFilterToggle">Cualquier idioma</a>
+      <a id="advancedLanguagesFilterToggle">Qualunque lingua</a>
       <img src="https://static.midomi.com/images/menu-arrow-blue-off.gif" id="advancedLanguagesFilterImageToggle">
     </div>
     <div class="search-selector">
-      <a id="advancedGenresFilterToggle">Cualquier género</a>
+      <a id="advancedGenresFilterToggle">Qualunque genere</a>
       <img src="https://static.midomi.com/images/menu-arrow-blue-off.gif" id="advancedGenresFilterImageToggle">
     </div>
     <div id="keywordSearchInput">
-      <input type="text" id="voiceSearchAdvancedText" autocomplete="off" name="searchTerm" value="Artista o título">
+      <input type="text" id="voiceSearchAdvancedText" autocomplete="off" name="searchTerm" value="Artista o titolo">
     </div>
     <div id="voiceSearchAdvancedButtons1">
       <div class="lb" id="advanced_search_cancel"><img src="https://static.midomi.com/images/header/advanced-search/icon-x.gif">&nbsp;Cancel</div>
-      <div class="rb" id="advanced_search_start"><img src="https://static.midomi.com/images/header/advanced-search/icon-sound.gif">&nbsp;Iniciar</div>
+      <div class="rb" id="advanced_search_start"><img src="https://static.midomi.com/images/header/advanced-search/icon-sound.gif">&nbsp;Start</div>
     </div>
     <div id="voiceSearchAdvancedButtons2" class="hidden">
-      <div class="lb" id="advanced_search_stop"><img src="https://static.midomi.com/images/header/advanced-search/icon-x.gif">&nbsp;Detener</div>
+      <div class="lb" id="advanced_search_stop"><img src="https://static.midomi.com/images/header/advanced-search/icon-x.gif">&nbsp;Stop</div>
       <div class="rb" id="advanced_search_go"><img src="https://static.midomi.com/images/header/advanced-search/icon-arrow.gif">&nbsp;Search</div>
     </div>
   </div>
@@ -592,7 +618,7 @@ pageTracker._trackPageLoadTime();
 </div>
 <div class="yui-skin-sam"><div id="advancedLanguagesFilter" class="yuimenu exploreMenu"><div class="bd"><ul class="first-of-type">
         <li class="yuimenuitem">
-          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_4e2d7b73b9d009a6a8f0f8d74d5d45eb_Cualquier idioma">Cualquier idioma
+          <a class="yuimenuitemlabel" href="#" id="advancedLanguagesFilter_4e2d7b73b9d009a6a8f0f8d74d5d45eb_Qualunque lingua">Qualunque lingua
           </a>
         </li>
         <li class="yuimenuitem">
@@ -764,7 +790,7 @@ pageTracker._trackPageLoadTime();
           </a>
         </li></ul></div></div></div><div class="yui-skin-sam"><div id="advancedGenresFilter" class="yuimenu exploreMenu"><div class="bd"><ul class="first-of-type">
         <li class="yuimenuitem">
-          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_4e2d7b73b9d009a6a8f0f8d74d5d45eb_Cualquier género">Cualquier género
+          <a class="yuimenuitemlabel" href="#" id="advancedGenresFilter_4e2d7b73b9d009a6a8f0f8d74d5d45eb_Qualunque genere">Qualunque genere
           </a>
         </li>
         <li class="yuimenuitem">
@@ -916,6 +942,31 @@ advancedGenresFilterMenu.clickEvent.subscribe( advancedSearch.handleFilterSelect
 <script language="javascript" type="text/javascript"></script>        <div id="status_message_container">
             <div id="status_message" class="hidden"></div>
         </div>
+        
+    <script>
+    try {
+    let smallMidomiWidget = new MidomiAudioSearch({
+      container: '#container',
+      searchSelector: "#recordBtn",
+      canvasSelector: "#canvasElem",
+      textSelector: "#textElem"
+    });
+    } catch(e) {
+      console.log(e)
+    }
+    
+    try {
+      let smallMidomiWidget = new MidomiAudioSearch({
+        container: '#container2',
+        searchSelector: "#recordBtn2",
+        canvasSelector: "#canvasElem2",
+        textSelector: "#textElem2"
+      });
+    } catch(e) {
+      console.log(e)
+    }
+
+    </script>
     
 
 
