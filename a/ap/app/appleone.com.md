@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appleone.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919124438id_/http%3A//www.appleone.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleone.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328110535id_/https%3A//www.appleone.com/privacy.aspx) for the most accurate reproduction.*
 
 # AppleOne Privacy Policy
 
