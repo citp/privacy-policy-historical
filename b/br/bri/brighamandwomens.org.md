@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225052359id_/http%3A//www.brighamandwomens.org/about_BWH/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighamandwomens.org privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328080839id_/https%3A//www.brighamandwomens.org/about-bwh/privacy) for the most accurate reproduction.*
 
 # Website Consent & Privacy Policy - Brigham and Women's Hospital
 
@@ -23,11 +23,11 @@ By providing us with an e-mail address, you agree that we may use your e-mail ad
 Back to Top
 
 **2\. What circumstances require additional information from you?**  
-You may use most of [www.brighamandwomens.org](http://www.brighamandwomens.org/) and [https://brighamhealthhub.org](https://brighamhealthhub.org/) without providing any personal information. When you reply to any of our communications with a request, we may need to collect additional personal information. For example, you may be asked to provide personal information, such as demographic information, if you choose to complete any of the online forms used for class registration, special events and promotions, appointment requests, and to provide feedback. Additional questions may be included to help us improve the services we offer. It is important to remember that only designated staff within Partners HealthCare will have access on a need to know basis to the information you provide.
+You may use most of [https://www.brighamandwomens.org](https://www.brighamandwomens.org/) and [https://brighamhealthhub.org](https://brighamhealthhub.org/) without providing any personal information. When you reply to any of our communications with a request, we may need to collect additional personal information. For example, you may be asked to provide personal information, such as demographic information, if you choose to complete any of the online forms used for class registration, special events and promotions, appointment requests, and to provide feedback. Additional questions may be included to help us improve the services we offer. It is important to remember that only designated staff within Partners HealthCare will have access on a need to know basis to the information you provide.
 
 Please do not provide personal information via e-mail to the hospital unless it is through a secure channel (these will be marked, as secure online forms, for example). Remember that e-mail messages, unless encrypted while in transit, can be viewed by other Internet users. If you have individualized information to communicate, please use the appropriate secure online form or contact the necessary party using traditional means such as phone or mail.
 
-If you wish to [subscribe to our Health E-Newsletter](https://web.archive.org/newsletter/default.aspx), we collect and store first and last names and e-mail address. This information is used for distribution purposes. If you would like to unsubscribe from our e-mail newsletters, please use the link at the bottom of every e-mail communication or you can e-mail your request to [BWHweb@partners.org](mailto:BWHweb@partners.org).
+If you wish to [subscribe to our Health E-Newsletter](https://web.archive.org/newsletter/health-e-newsletters), we collect and store first and last names and e-mail address. This information is used for distribution purposes. If you would like to unsubscribe from our e-mail newsletters, please use the link at the bottom of every e-mail communication or you can e-mail your request to [BWHweb@partners.org](mailto:BWHweb@partners.org).
 
 As explained in the section below, we also collect and log the IP address (and identification number associated with your computer) when you visit the hospital’s web site.
 
@@ -57,11 +57,11 @@ Brigham and Women's Hospital is committed to protecting the privacy of the perso
 Back to Top
 
 **6. Which web pages and websites does this policy apply to?**  
-This online Privacy Policy applies only to the Brigham and Women's Hospital [www.brighamandwomens.org](http://www.brighamandwomens.org/) and the Brigham Health Hub [https://brighamhealthhub.org](https://brighamhealthhub.org/) websites. The Brigham and Women's Hospital site contains links to other sites, within and outside of Partners HealthCare. Please be aware that this online policy does not apply to those sites. We encourage you to read the Privacy Policy on any other sites before providing them with personal information.
+This online Privacy Policy applies only to the Brigham and Women's Hospital [https://www.brighamandwomens.org](https://www.brighamandwomens.org/) and the Brigham Health Hub [https://brighamhealthhub.org](https://brighamhealthhub.org/) websites. The Brigham and Women's Hospital site contains links to other sites, within and outside of Partners HealthCare. Please be aware that this online policy does not apply to those sites. We encourage you to read the Privacy Policy on any other sites before providing them with personal information.
 
 Certain interactive patient transactions may be linked to this site as a convenience for you. If you choose to utilize a specific patient application, please be sure to read the privacy policy associated with that particular transaction. [Partners Patient Gateway](https://www.patientgateway.org/), which offers patients secure electronic messaging to participating Brigham and Women's Hospital practices, is an example of such a patient application.
 
-Please note that the [Partners Privacy Notice](https://web.archive.org/Patients_Visitors/patientresources/privacynoticesall.aspx) more generally explains the Hospital’s and Partners’ commitment to protect the privacy of personal health information.
+Please note that the [Partners Privacy Notice](https://web.archive.org/patients-and-families/patients/privacy-notice) more generally explains the Hospital’s and Partners’ commitment to protect the privacy of personal health information.
 
 Back to Top
 
@@ -94,11 +94,6 @@ Charlestown, MA 02129
 
 
 
-If you have any questions or concerns about our Privacy Policy, please contact us at [https://www.brighamandwomens.org/forms/contactus.aspx.](https://www.brighamandwomens.org/forms/contactus.aspx)
+If you have any questions or concerns about our Privacy Policy, please contact us at [https://www.brighamandwomens.org/forms/contact-bwh-important-phone-numbers](https://web.archive.org/forms/contact-bwh-important-phone-numbers "important phone numbers at Brigham and Women's Hospital").
 
 Back to Top
-
-  
-
-
-This page was last modified on 12/1/2017 
