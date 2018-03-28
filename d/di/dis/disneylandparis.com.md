@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneylandparis.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124192539id_/http%3A//us-holidays.disneylandparis.com/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneylandparis.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328120312id_/http%3A//us-holidays.disneylandparis.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Disneyland Paris | Disneyland Paris
 
