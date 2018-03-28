@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philosophyforums.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127030109id_/http%3A//forums.philosophyforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philosophyforums.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329014257id_/http%3A//forums.philosophyforums.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Philosophy Forums
 
