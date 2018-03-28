@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steinberg.help privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913072816id_/https%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinberg.help privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328144221id_/https%3A//www.steinberg.net/en/extras/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Steinberg
 
@@ -13,6 +13,26 @@ In principle, you can visit our web pages without informing us who you are. When
 ## eTracker
 
 This website uses etracker technology ([www.etracker.com](http://www.etracker.com/)) to collect visitor behavior data. This data is collected anonymously to be used for marketing and optimization purposes. All visitor data is saved using an anonymous user ID and can be aggregated to a usage profile. Cookies may be used to collect and save this data, but the data remains strictly anonymous. The data will not be used to identify a visitor personally and are not aggregated with any personal data. The collection and storage of data may be [refused](https://www.etracker.de/privacy?et=bssZBV) at any time with respect to subsequent services. [](https://www.etracker.de/privacy?et=bssZBV)
+
+_We use the following technology of Google Inc. (1600 Amphitheater Parkway, Mountain View, CA 94043, USA; ‘Google’):_
+
+## Google Analytics and Conversion Tracking
+
+This website uses Google Analytics, a web analysis service provided by Google Inc. (“Google”). Google Analytics uses “cookies”; these are text files which are stored on your computer to analyse the way you use the website. 
+
+The Hamburg Commissioner for Data Protection and Freedom of Information reached an agreement with Google based on the decision of the Düsseldorf Group on data protection. According to this, a compliant use of analytical methods of reach measurement of Internet advertisements is now possible under certain conditions. Therefore, it is possible to use Google Analytics in a manner which is compliant with the law and does not raise any concerns. We do, of course, comply with these requirements. In particular, we point out that Google Analytics has been extended by the code “{ 'anonymize_ip': true }” on this website to guarantee the anonymized collection of IP addresses (so-called IP-masking). Google will first truncate your IP address in Member States of the European Union or in other state parties to the Agreement on the European Economic Area. Only in exceptional cases is the full IP address sent to and truncated on a Google server in the USA. Google uses this information on behalf of the website operator to evaluate the way you use the website, to collate reports on website activities and to provide the website operator other services related to website and Internet use. The IP address sent by your browser as part of Google Analytics is not combined with other data held by Google. 
+
+Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms/gb.html> or at <https://www.google.de/intl/en_uk/policies/>. 
+
+The information about the way you use this website created by the cookie is sent to and stored on a Google server in the USA. You can change your browser settings to prevent cookies from being stored; however, we draw your attention to the fact that, in these circumstances, you may find that you are unable to make full use of functions on the website. You can also prevent the data (including your IP address) relating to your use of the website which is captured by the cookie being sent to or processed by Google by downloading and installing the browser plug-in from the following link <https://tools.google.com/dlpage/gaoptout?hl=en>. You can refuse the use of Google Analytics by clicking on the following link. An opt-out cookie will be set on the computer, which prevents the future collection of your data when visiting this website: [Deactivate Google Analytics](http://javascript:gaOptout\(\) "Öffnet externen Link in neuem Fenster")
+
+We also use Google Conversion Tracking for Google Analytics. This allows us to capture the behavior of our website visitors. For example, we will see how many PDFs were downloaded on our website or how often the contact form was filled out. We also report how many clicks on ads from external sources (AdWords, LinkedIn, Xing, Bing) have led to our website.
+
+ _We use the following technology of Google Inc. (1600 Amphitheater Parkway, Mountain View, CA 94043, USA; ‘Google’):_
+
+## Google Tag Manager
+
+For reasons of transparency, please note that we use Google Tag Manager. Google Tag Manager does not collect personally identifiable information. The tag manager makes it easier for us to integrate and manage our tags. Tags are small code elements that are used to measure traffic and visitor behavior, capture the impact of online advertising and social channels, set up remarketing and target audience targeting, and test and optimize web pages. We use the Tag Manager for the Google Service “Google Analytics”. If you have disabled, Google Tag Manager will consider this deactivation. For more information about Google Tag Manager, see: <https://www.google.com/intl/en-uk/tagmanager/use-policy.html>
 
 ## Collection, processing and disclosure of personal data
 
