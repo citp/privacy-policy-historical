@@ -1,0 +1,456 @@
+<!--The following is the downloaded HTML source of the doogee.cc privacy policy that was archived on 2018-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180328135855id_/http%3A//store.doogee.cc/en/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head lang="en">
+<meta charset="UTF-8">
+<title>Privacy | Doogee Mobile 			
+</title>
+<link rel="shortcut icon" href="http://store.doogee.cc/favicon.ico">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="format-detection" content="telephone=no">
+<meta content="email=no" name="format-detection">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+<meta name="csrf-token" content="BxwKWJ8QbUi5iGXiMdPubpEGZGSPtcpzpCRX4Nxf">
+<link rel="stylesheet" href="http://store.doogee.cc/lib/css/bootstrap.min.css?v=1434500002">
+<link rel="stylesheet" href="http://store.doogee.cc/lib/css/font-awesome.min.css?v=1463183068">
+<link rel="stylesheet" href="http://store.doogee.cc/css/common.css?v=1511283838">
+<link rel="stylesheet" href="http://store.doogee.cc/css/index.css?v=1508517422">
+<link href="http://store.doogee.cc/css/subpage.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap-3607442650.js"></script><script src="http://store.doogee.cc/lib/js/jquery.min.js"></script>
+<script src="http://store.doogee.cc/lib/js/jquery-ui.min.js"></script>
+<script src="http://store.doogee.cc/lib/js/bootstrap.min.js"></script>
+<script>
+$(document).ready(function() {
+
+});
+</script>
+<script type="text/javascript" src="http://store.doogee.cc/js/common.js?v=1505299776"></script>
+
+<script type="text/javascript">
+    function getCart(){
+    	$.ajax({
+			type:'get',  
+			url : '/en/shopping-cart/ajax',  
+			dataType : 'json',  
+			data : {_token:'BxwKWJ8QbUi5iGXiMdPubpEGZGSPtcpzpCRX4Nxf'},
+			success  : function(response) {
+				$("#totalItems").html(response.totalItem);
+				if(response.totalItem > 0){
+    				var html = '<div class="productList" id="ShoppingCartList">';
+					$.each( response.products, function(id, item){
+					html +='<div class="item row">'+
+						'<div class="col-xs-12 col-sm-3 img">'+
+						'<a href="'+item.url+'"><img src="'+item.thumbnail+'" class="img-responsive"></a>'+
+						'</div>'+
+						'<div class="col-xs-12 col-sm-6 param">'+item.title+'<br>'+item.memory+'<br>'+item.color+'</div>'+
+						'<div class="col-xs-12 col-sm-3 price">$'+item.price2+' X '+item.qty+'</div>'+
+						'</div>';
+					})
+					
+					html +='<div class="row total">'+
+					'	<div class="col-xs-12 col-sm-7 text-right">'+
+					'		<b>Quantity: '+response.totalItem+'</b>'+
+					'	</div>'+
+					'	<div class="col-xs-12 col-sm-4 text-right">'+
+					'		<b>Total: $'+response.totalPrice+'</b>'+
+					'	</div>'+
+					'</div>';
+					
+					
+					html +='</div>'+
+					'<div class="btn">'+
+                    '	<a href="http://store.doogee.cc/en/shopping-cart">View Cart</a>'+
+                    '	<a href="http://store.doogee.cc/en/checkout">Check Out</a>'+
+                	'</div>';
+					         
+				}else{
+    				html = ''
+    			}
+    			
+				$("#shoppingCartContainer").html(html);
+				
+			},  
+			error : function() {  
+				console.log("network error");
+			}  
+		}); 
+    }
+    	    	
+    $(function() {
+    	getCart();
+    })
+</script>
+</head>
+<body class="en">
+<header id="header" style="max-width:100%">
+    <nav class="clearfix">
+        <div class="logo">
+            <a class="logo-wrap" href="http://www.doogee.cc" target="_blank">
+                <img class="img-responsive" src="/img/common/logo.svg" alt="logo">
+            </a>
+        </div>
+
+        <div class="s-box">
+            <div class="s-box-wrap">
+                
+                <!-- login -->
+                    				<a class="login" href="/en/user/login"><i class="fa fa-user" aria-hidden="true" style="display:inline-block"></i><span></span> </a>
+    			
+                <!-- shop-cart icon link -->
+                <a class="shop-cart shopping-cart" href="javascript:" target="_self">
+                    <i class="fa fa-cart-plus fa-1x" aria-hidden="true"></i>
+                    <sup class="badge" id="totalItems"></sup>
+                </a>
+
+                <!-- language -->
+                <div class="btn-group language">
+                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                        <i class="fa fa-globe"></i>
+                        English
+                        <span class="caret"></span>
+                    </button>
+
+                    <ul class="dropdown-menu" role="menu">
+                        <li><a href="/en">EN</a></li>
+                        <li><a href="/ru">RU</a></li>
+                                            </ul>
+                </div>
+
+                <!-- shopping car floor show in nav -->
+                <section class="shopCart" style="display: none; ">
+                    <div class="wrap">
+                        <h2>Shopping Cart</h2>
+                        <section id="shoppingCartContainer"></section>
+                    </div>
+                </section>
+            </div>
+        </div>
+		
+		
+
+       <!-- the button of menu while showing in mobile client -->
+        <button id="menu-btn" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#menu">
+            <i class="fa fa-bars fa-2x"></i>
+        </button>
+
+        <!-- nav main menu -->
+        <div id="menu" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="active"><a href="/en" target="_self">Store</a></li>
+                <li class="nav-submenu-li">
+                    <a href="http://store.doogee.cc/en/product/category/smartphone" target="_self">Mobile<span class="caret"></span></a>
+                    <div class="nav-submenu">
+                        <div class="sub-wrap">
+                            <div class="clearfix item-wrap">
+                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/ip68_rugged_smartphone_s60">
+                                        <div class="img">
+                                            <img src="/uploads/products/S60/product_shelves/S60_gloden.png" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">DOOGEE S60</p>
+                                            <p class="product-price">$329.99</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/ip68_rugged_smartphone_S30">
+                                        <div class="img">
+                                            <img src="/uploads/products/S30/product_shelves/S30_golden.png" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">DOOGEE S30</p>
+                                            <p class="product-price">$129.99</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/mix-lite_series_bezel_less_smartphone">
+                                        <div class="img">
+                                            <img src="/uploads/products/MIX_lite/product_shelves/MIX_lite_black.png" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">DOOGEE MIX Lite</p>
+                                            <p class="product-price">$109.99</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/mix_series_bezel-less_silver_smartphone">
+                                        <div class="img">
+                                            <img src="/uploads/products/MIX_Silver/product_shelves/MIX_Sliver.png" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">DOOGEE MIX Silver</p>
+                                            <p class="product-price">$223.52</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/mix_series_bezel-less_smartphone">
+                                        <div class="img">
+                                            <img src="/uploads/products/MIX/mix.jpg" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">DOOGEE MIX</p>
+                                            <p class="product-price">$179.99</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/professional_shooting_smartphone_x30">
+                                        <div class="img">
+                                            <img src="/uploads/products/X30/show/x30_black.png" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">X30</p>
+                                            <p class="product-price">$104.99</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                <div class="item">
+                                    <a href="http://store.doogee.cc/en/buy/big_battery_smartphone_bl7000">
+                                        <div class="img">
+                                            <img src="/uploads/products/bl7000/product_shelves/BL7000.black.png" class="img-responsive" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p class="product-name">BL7000</p>
+                                            <p class="product-price">$169.99</p>
+                                        </div>
+                                    </a>
+                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </div>
+                        </div>
+                    </div>
+                </li>
+                
+                <li><a href="http://store.doogee.cc/en/product/category/accessory" target="_self">Accessory</a></li>    
+                
+                                
+                                
+                <li><a href="http://community.doogee.cc/portal.php" target="_blank">Community</a></li>
+                <li><a href="http://store.doogee.cc/en/support/where-to-buy" target="_self">OFF-LINE STORE</a></li>
+            </ul>
+        </div>
+
+        <!-- the nav submenu background -->
+        <div id="submenuBg"></div>
+    </nav>
+</header>
+
+<section id="mContainer" class="m-container fqa">
+	<div class="m-container-wrap">
+
+		<!-- Breadcrumbs -->
+		<div class="part-1">
+			<ol class="breadcrumb">
+				<li><a href="http://store.doogee.cc/en">Home</a></li>
+                <li class="active">Privacy</li>
+			</ol>
+		</div>
+		
+		<div class="fqa-box">
+			<h1>Privacy</h1>
+
+<p align="left">&nbsp;</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left">DOOGEE&nbsp;is committed to protecting the privacy of our users. We do not use, store or disclose your information in ways other than those outlined in this Privacy Policy. To better serve you, we may collect information that can be used to identify you. We will not use that information in ways other than laid out in this document.&nbsp;DOOGEE&nbsp;reserves the right to change or modify this document at any time. Please let us know if you have any questions.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>The information we collect and how it is used</strong></p>
+
+<p align="left">In order to better serve you, we collect both personal and non-personal information. The information we collect may include your name, email address, postal address and phone number. Your information may be used in the following ways:</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left">When you visit our website, your IP address' geolocation data is used to present you with the most relevant currency and shipping options.</p>
+
+<p align="left">When you subscribe to the&nbsp;DOOGEE&nbsp;newsletter, we collect your email to send you news and promotions.</p>
+
+<p align="left">When you create&nbsp;a DOOGEE&nbsp;Account, we collect your name and email to validate your account and send you notifications.</p>
+
+<p align="left">When you participate in our promotions or order products from the&nbsp;DOOGEE&nbsp;website, we collect your postal address and telephone number for logistical purposes.</p>
+
+<p align="left">When we ship your order, your postal address will be given to our logistics partners to facilitate delivery.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Managing your personal information</strong></p>
+
+<p align="left">We may occasionally send you news on our products and promotions. If you wish to unsubscribe you may do so in your&nbsp;DOOGEE Account. You may also modify your information by updating your profile or by sending us a request to&nbsp;<a href="http://mailto:sales-support@doogee.cc">sales-support@doogee.cc</a></p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Disclosure to third parties</strong></p>
+
+<p align="left">We share relevant information with various third-party businesses so that they may provide us with services such as email, website analytics, targeted promotions, payment processing, order processing and delivery. Third party partners are also obligated to protect your privacy and never receive your full account information.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left">In order to optimize your user experience, DOOGEE uses third-party service providers that offer certain analytics and user interaction services in connection with our website. These services include the collection and tracking of certain data and information regarding the characteristics and activities of visitors to this site. We may disclose Visitor data, including Personally Identifiable Information, to certain such providers in order to obtain these services.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Cookies</strong></p>
+
+<p align="left">Cookies are small pieces of data sent from web servers that are stored on your device. We use cookies to remember your preferences and facilitate online shopping. You may disable cookies in your browser if you do not wish to accept them.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Children's privacy</strong></p>
+
+<p align="left">In accordance with the Children's Online Privacy Protection Act of 1998 (COPPA), we do not knowingly collect information from children under 13.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Location-based Services</strong></p>
+
+<p align="left">In order to better provide recommendations, navigation, weather and other related services, DOOGEE may collect, use and share with partners relevant information regarding the real-time location of your&nbsp;DOOGEE&nbsp;device or online login. This information will be collected anonymously.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Information security</strong></p>
+
+<p align="left">We use&nbsp;industry standard&nbsp;security measures to ensure your personal information is safe. Payments on DOOGEE.net are handled by PayPal and transmitted using the Secure Sockets Layer protocol (SSL) with 2048-bit encryption.&nbsp;DOOGEE&nbsp;does not store or have access to your payment details. Your credit/debit card information is retained via PayPal’s or Yandex’s servers.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Third Party Policies</strong></p>
+
+<p align="left">DOOGEE’ website and devices may contain links and services offered by third parties. For example, online purchases are handled via PayPal. Android also uses a suite of applications provided by Google. Information collected by such third parties is governed by their own privacy and legal policies.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Commitment to Privacy</strong></p>
+
+<p align="left">At&nbsp;DOOGEE, we take your privacy very seriously. If you have any questions regarding privacy or would like to make a complaint regarding a privacy breach, please feel free to contact us. We may periodically update our Privacy Policy. When we update our Privacy Policy, we will post the most recent date on which the policy was updated.</p>
+
+<p align="left">&nbsp;</p>
+
+<p align="left"><strong>Email:&nbsp;</strong><a href="http://mailto:sales-support@doogee.cc">sales-support@doogee.cc</a></p>
+
+<p>&nbsp;</p>
+        </div>
+
+	</div>
+</section>
+
+<footer id="footer">
+    <div class="footer-wrap">
+
+        <div class="clearfix box">
+            <div class="clearfix page-link">
+                <div class="item">
+                    <h4>About Us</h4>
+                    <div>
+                        <a href="http://community.doogee.cc/portal.php" target="_blank">News</a>
+                        <a href="http://store.doogee.cc/en/about">Doogee Info</a>
+                        <a href="http://store.doogee.cc/en/contact">Contact Us</a>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <h4>Community</h4>
+                    <div>
+                        <a href="https://www.youtube.com/doogee" target="_blank">Youtube</a>
+                        <a href="http://community.doogee.cc/" target="_blank">Community</a>
+                        <a href="http://doogee.cc/bbs/viewforum.php?f=32&amp;sid=c85bd6ccefa04dea5f58eb135212ffdb" target="_blank">Blog</a>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <h4>Terms</h4>
+                                        <a href="http://store.doogee.cc/en/payment">Payment</a>                    
+                    <a href="http://store.doogee.cc/en/support/faq">FAQ</a>                    
+                    <a href="http://store.doogee.cc/en/privacy">Privacy</a>
+                    <a href="http://store.doogee.cc/en/terms-of-use">Terms of Use</a>
+                    <a href="http://store.doogee.cc/en/return">Dlivery &amp; Return</a>
+                    <a href="http://store.doogee.cc/en/warranty">Warranty Policy</a>
+                </div>
+                <div class="item">
+                <h4>Payment</h4>
+                <div class="text-left"><img src="/img/paypal.jpg"></div>
+                <div class="text-left" style="margin-top:10px;margin-bottom:10px;"><img src="/img/visa-master.png"></div>
+                <div class="text-left"><img src="/img/norton.png"></div>
+                </div>
+            </div>
+            <div class="subscribe">
+                <h4>Newsletter Subscription</h4>
+                <form id="subscribeForm" class="subscribe-form">
+                    <input type="hidden" name="_token" value="">
+                    <input type="email" name="email" placeholder="Subscribe to our newsletter">
+                    <input name="submit" type="button" value="Subscribe" id="subscribeBtn">
+                </form>
+                <p id="subscribeMsg" class="text-left" style="color:red;font-size:14px;"></p>
+                
+                
+            </div>
+        </div>
+
+        <div id="toTop" style="display: none;">
+            <i class="fa fa-angle-up" aria-hidden="true"></i>
+        </div>
+
+        <div class="copyright">
+            © Doogee. &nbsp; All rights reserved.
+        </div>
+
+    </div>
+</footer>
+<script>
+$(document).ready(function(){
+	$("#subscribeBtn").click(function(){
+		var email = $('#subscribeForm input[name="email"]').val();
+		var Regex = /^(?:\w+\.?)*\w+@(?:\w+\.)*\w+$/;
+        if (Regex.test(email)){
+        	$.ajax({
+				type:'post',  
+				url : 'http://store.doogee.cc/en/subscriber/create',  
+				dataType : 'json',  
+				data : {email:email, _token:'BxwKWJ8QbUi5iGXiMdPubpEGZGSPtcpzpCRX4Nxf'},
+				success  : function(response) {
+					$("#subscribeMsg").html(response.message);
+					$("#subscribeMsg").show();
+				},  
+				error : function() {  
+					alert("network error");
+				}  
+			}); 
+        }else{
+            if (email == "") {
+            	$("#subscribeMsg").text("Please enter your email address!");
+            	return false;
+            }else{
+            	$("#subscribeMsg").text("You enter email is not correct.");
+            	return false;
+            }
+        }
+	})
+})
+</script>
+<script src="/en/statistics?q=eyJpcCI6IjU0LjE2NS45MC4yMDMiLCJhZ2VudHMiOiJpYV9hcmNoaXZlciIsInVybCI6IlwvZW5cL3ByaXZhY3kifQ=="></script>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-110172074-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110172074-1');
+</script>
+
+<script type="text/javascript">
+    window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+      heap.load("3607442650");
+</script>
+
+</body></html>
