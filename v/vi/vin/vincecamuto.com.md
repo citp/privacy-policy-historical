@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincecamuto.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125180338id_/http%3A//www.vincecamuto.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincecamuto.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328164847id_/https%3A//www.vincecamuto.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
