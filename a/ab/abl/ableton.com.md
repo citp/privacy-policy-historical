@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003214052id_/https%3A//www.ableton.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableton.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328145005id_/https%3A//www.ableton.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Ableton Privacy Policy | Ableton
-
-This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. [Find out more here](https://web.archive.org/en/privacy-policy/#cookies)
 
 Ableton handles all customers’ personal data with the utmost discretion. Data will only be collected within the scope of what is technically necessary. On no account, data shall be transferred to third parties for invalid reasons.
 
@@ -105,6 +103,10 @@ If the “Usage Report“ function has been activated in the Software settings, 
 
 This data is used to develop the Software further, and to adapt it to user requirements, and to optimize it. Personal user profiles shall not be created.
 
+ **3.4 Saving aliased usage data as part of the online Software activation**
+
+In the event that you activate the Software online, aliased authentication information will be stored on your hardware device for the purpose of connecting the Software to your User Account, enabling the Software to obtain the information pertaining to your license(s) that is/are stored in your User Account.
+
 ## 4\. User entries on the website
 
  **4.1 Newsletter**
@@ -127,15 +129,19 @@ Insofar as there are factual indications of fraudulent acquisition or other ille
 
 For certain activities in connection with our website and our e-mail communication we commissioned external service providers (e.g., data processing centers). These service providers process data exclusively in accordance with our instructions, they are also bound by these privacy policy terms and are subject to our control. These service providers must not, under any circumstances, use data which they collected or processed on our behalf for their own purposes.
 
-## 6\. Criminal prosecution
+## 6. Children's Online Privacy Protection Act ("COPPA")
+
+Ableton does not knowingly collect or use personal information from children under 13 years without containing verifiable consent from their parents. We encourage parents and legal guardians to monitor their children’s internet usage and to help enforce this privacy policy by instructing their children never to provide personal information without their permission.
+
+## 7\. Criminal prosecution
 
 In a given case, the obligation to provide information about inventory data for purposes of criminal prosecution, warding off danger and/or for use by the police authorities of the German Länder and other authorities can arise.
 
-## 7\. Right to access
+## 8\. Right to access
 
 You have the right to be informed at any time and without cost about the personal data recorded about you, as well as a right to the correction, blocking, and/or erasure of the data, as applicable.
 
-## 8\. Contact for data protection and privacy
+## 9\. Contact for data protection and privacy
 
 If you have any questions regarding the collection, processing, or use of your personal data, in case of requests for information, correction, blocking, and/or erasure of the data, as well for the revocation of any consent given please contact:
 
