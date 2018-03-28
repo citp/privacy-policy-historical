@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momspective.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116164548id_/http%3A//www.momspective.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momspective.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328040809id_/http%3A//www.momspective.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Momspective
 
@@ -51,6 +51,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Momspective](http://www.momspective.com/contact/ "Pause The Moment") | notyourtypicalmommyblog[at]gmail[dot]com
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [Momspective](http://www.momspective.com/contact/ "Momspective")
 
-_This document was last updated on May  19, 2016_
+_This document was last updated on Jan 17, 2018_
