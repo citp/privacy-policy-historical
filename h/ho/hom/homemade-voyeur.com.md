@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemade-voyeur.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128011905id_/http%3A//www.yourvoyeurvideos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-voyeur.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329013314id_/http%3A//www.yourvoyeurvideos.com/privacy) for the most accurate reproduction.*
 
 # 
 
