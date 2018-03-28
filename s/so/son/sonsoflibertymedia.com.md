@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonsoflibertymedia.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126163025id_/http%3A//sonsoflibertymedia.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonsoflibertymedia.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329004525id_/http%3A//sonsoflibertymedia.com/privacy-policy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions » Sons of Liberty Media
 
