@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 99pallets.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124085011id_/http%3A//www.99pallets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99pallets.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328105901id_/http%3A//www.99pallets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – 99 Pallets
 
 At www.99pallets.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.99pallets.com and how it is used.
 
