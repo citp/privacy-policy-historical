@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zotac-cn.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923195554id_/http%3A//www.zotac-cn.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zotac-cn.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328020334id_/http%3A//www.zotac-cn.com/page/privacy-policy) for the most accurate reproduction.*
 
 # ZOTAC - Mini PCs and GeForce GTX Gaming Graphics Cards | ZOTAC
 
