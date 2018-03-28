@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the squawkfox.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126100257id_/http%3A//www.squawkfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawkfox.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328170112id_/http%3A//www.squawkfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Squawkfox - Squawkfox
+
+Privacy Policy for Squawkfox  2016-10-12T20:25:46+00:00 
 
 The privacy of our visitors to Squawkfox is important to us.
 
