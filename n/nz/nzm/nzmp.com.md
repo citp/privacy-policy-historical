@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzmp.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001161434id_/https%3A//www.fonterra.com/nz/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzmp.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328232400id_/https%3A//www.fonterra.com/nz/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
