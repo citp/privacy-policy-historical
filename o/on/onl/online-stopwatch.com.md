@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the online-stopwatch.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003233220id_/http%3A//www.online-stopwatch.com/online-stopwatch/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-stopwatch.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329143834id_/https%3A//www.online-stopwatch.com/online-stopwatch/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Online Stopwatch
 
 **Privacy Policy for www.online-stopwatch.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](http://www.online-stopwatch.com/online-stopwatch/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [email](https://www.online-stopwatch.com/online-stopwatch/).
 
 At www.online-stopwatch.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.online-stopwatch.com and how it is used. 
 
@@ -17,7 +17,7 @@ www.online-stopwatch.com does use cookies to store information about visitors pr
 **DoubleClick DART Cookie**   
 .:: Google, as a third party vendor, uses cookies to serve ads on www.online-stopwatch.com.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.online-stopwatch.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - https://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 Google Adsense
