@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freead1.net privacy policy that was archived on 2017-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170901191525id_/http%3A//freead1.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freead1.net privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329042617id_/http%3A//freead1.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,6 @@ Personal information provided to Freead1.net may be requested for deletion at an
 
 ### \- Responsible authority
 
-Questions regarding data privacy and protection should be addressed to [contact form](https://web.archive.org/web/20170901191525id_/http%3A//freead1.net/contact "Contact").
+Questions regarding data privacy and protection should be addressed to [contact form](https://web.archive.org/web/20180329042617id_/http%3A//freead1.net/contact "Contact").
 
-Copyright © 2009 - 2017 Freead1.net. All rights reserved.
+Copyright © 2009 - 2018 Freead1.net. All rights reserved.
