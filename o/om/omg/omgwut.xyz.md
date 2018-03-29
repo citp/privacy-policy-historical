@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgwut.xyz privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226235431id_/http%3A//omgwut.xyz/tos-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgwut.xyz privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329022939id_/http%3A//omgwut.xyz/tos-privacy-policy) for the most accurate reproduction.*
 
 # TOS & Privacy Policy | OMGWUT?
 
