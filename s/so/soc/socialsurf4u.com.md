@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125003508id_/http%3A//www.socialsurf4u.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsurf4u.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329144049id_/http%3A//www.socialsurf4u.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SocialSurf4U.com | Privacy Policy
 
@@ -31,6 +31,6 @@ Our website may contain links to other websites of interest. However, once you h
 A member, at any time, may go to their account information and update their information.
 
 **Contact Information**  
-If you have any questions, concerns or comments about our privacy policy you can contact us by opening a support ticket here: https://www.barrylangdon.com/support/ 
+If you have any questions, concerns or comments about our privacy policy you can contact us by opening a support ticket here: https://www.barrylangdon.com/contact.php 
 
 _Last Updated: June 26th 2016_
