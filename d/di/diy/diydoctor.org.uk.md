@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126215650id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329021312id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
 
-# DIY Doctor Privacy Policy
+# DIY Doctor Privacy Policy | DIY Doctor
 
 ## Introduction
 
@@ -46,7 +46,7 @@ In order to provide you with the best possible service, we may collect and proce
 
 **IP Addresses**
 
-2.9 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to check aggregate information provided to us by our suppliers. To the extent required we may provide this information to third parties. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
+2.9 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to check aggregate information provided to us by our suppliers. To the extent required we may provide this information to third parties. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
 **Information You Provide on Third Party Websites**
 
@@ -54,7 +54,7 @@ In order to provide you with the best possible service, we may collect and proce
 
 ## Cookies
 
-3.1 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. Some of the cookies we use are essential for the Website to operate.
+3.1 We may obtain information about your general internet usage by using a cookie file which is stored on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve the Website and to deliver a better and more personalised service. Some of the cookies we use are essential for the Website to operate.
 
 3.2 If you use the Website, you agree to our use of cookies.
 
