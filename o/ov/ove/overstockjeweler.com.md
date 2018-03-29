@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416145330id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overstockjeweler.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329110404id_/https%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # Privacy Policy - Find Out Which Information We Collect & for What Purposes
 
