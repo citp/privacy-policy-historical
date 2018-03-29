@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photosofthedays.com privacy policy that was archived on 2015-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151106174839id_/http%3A//appdiscoveryengine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photosofthedays.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329225052id_/http%3A//s3-us-west-1.amazonaws.com/fb-poster/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
