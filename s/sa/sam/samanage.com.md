@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915010849id_/https%3A//www.samanage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samanage.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329195930id_/https%3A//www.samanage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Samanage
 
-_Effective date: April  24, 2017_
+_Effective date: March 5, 2018_
 
 ## Purpose
 
@@ -17,7 +17,9 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 Samanage collects information under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes. If you are a user of one of our customers and would no longer like to be contacted by one of our customers that use our service, please contact the customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
-Samanage acknowledges that you have the right to access your personal information. Samanage has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct the query to the Samanage customer (the data controller). If the customer requests Samanage to remove the data, we will respond to their request within 30 days.
+Samanage acknowledges that you have the right to access your personal information. 
+
+Samanage has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct the query to the Samanage customer (the data controller). If the customer requests Samanage to remove the data, we will respond to their request within 30 days.
 
 We will retain personal data we process on behalf of our customers for as long as needed to provide services to our customer. Samanage will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -114,22 +116,6 @@ Samanage will update this policy promptly if and when any of the policies descri
 ## EU-US Privacy Shield Principles and Privacy Complaints
 
 Samanage complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Samanage has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/).
-
-In compliance with the US-EU and Swiss-US Privacy Shield Principles, Samanage commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Samanage at:
-
-Email: [privacy@samanage.com](mailto:privacy@samanage.com)  
-Physical Address:  
-Attn: Samanage Privacy Office  
-Samanage  
-117 Edinburgh South,  
-Suite 100  
-Cary, NC 27511
-
-Samanage has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
-
-## Swiss-US Privacy Shield Framework Principles and Privacy Complaints
-
-Samanage complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Samanage has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
 In compliance with the US-EU and Swiss-US Privacy Shield Principles, Samanage commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Samanage at:
 
