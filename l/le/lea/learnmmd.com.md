@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnmmd.com privacy policy that was archived on 2016-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160215061636id_/http%3A//learnmmd.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnmmd.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329233136id_/https%3A//learnmmd.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LearnMMD.com
 
@@ -14,7 +14,7 @@ LearnMMD also collects potentially personally-identifying information like Inter
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to LearnMMD.com's websites choose to interact with LearnMMD in ways that require LearnMMD to gather personally-identifying information. The amount and type of information that LearnMMD gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [LearnMMD.com](http://learnmmd.com/) to provide a username and email address. Those who engage in transactions with LearnMMD are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, LearnMMD collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with LearnMMD. LearnMMD does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to LearnMMD.com's websites choose to interact with LearnMMD in ways that require LearnMMD to gather personally-identifying information. The amount and type of information that LearnMMD gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [LearnMMD.com](https://learnmmd.com/) to provide a username and email address. Those who engage in transactions with LearnMMD are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, LearnMMD collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with LearnMMD. LearnMMD does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
