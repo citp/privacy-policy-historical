@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeconfidential.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228195313id_/http%3A//auth.collegeconfidential.com/module.php/hobsonspolicies/policy.php%3Fpolicy%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeconfidential.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329054713id_/https%3A//auth.collegeconfidential.com/module.php/hobsonspolicies/policy.php%3Fpolicy%3Dprivacy) for the most accurate reproduction.*
 
 # College Confidential
 
