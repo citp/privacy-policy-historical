@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sayerlack.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119171950id_/http%3A//privacy.sherwin-williams.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayerlack.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329135611id_/https%3A//privacy.sherwin-williams.com/privacy-highlights) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,4 +45,4 @@ Enterprise Risk Management
 
 Cleveland, OH 44115
 
-E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=test)
+E-mail: [Global Privacy Portal](https://sherwinwilliams.ethicspointvp.com/custom/sherwinwilliams/web/dp/form_data.asp?SourceName=$$$Referrer$$$)
