@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigapaper.com privacy policy that was archived on 2017-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170825000857id_/http%3A//ww43.gigapaper.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapaper.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329031823id_/http%3A//ww43.gigapaper.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
