@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hankooktire.com privacy policy that was archived on 2017-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171127022431id_/http%3A//www.hankooktire.com/us/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hankooktire.com privacy policy that was archived on 2018-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180329065916id_/http%3A//www.hankooktire.com/us/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="cufon-active cufon-ready"><head>
 
@@ -104,18 +104,48 @@ $.ajax({
     <div id="wrapTire">
         <span class="hide" id="top"></span>
         
- 
 
 
 
+
+
+	
+
+
+
+<!--ePrivacy-->
+<div class="top_ep_wrap">
+    <div class="top_ep">
+        <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.
+            <a href="/us/privacy-policy.html#a5" class="on">Find out more here</a>
+        </p>
+        <a href="#" class="btn_close" onclick="setAgree(); return false;">close</a>
+    </div>
+</div>
+<!--//ePrivacy-->
+
+<script type="text/javascript">
+function setAgree(){
+	jQuery.ajax({
+		type:"POST",
+		url:"/content/hankooktire/us/privacy-policy/_jcr_content.implicit_session.implicit_session.json",
+		success : function() {
+			$('.top_ep_wrap').css('display', 'none');
+		},
+		error : function() {
+			alert("error");
+		}
+	});
+}
+</script>
 
     <div id="header">
         <div class="top_area">
-            <a href="/us/" class="logo"><img src="/common/images/header/h1_logo.jpg" alt="Hankkook driving emotion"></a> 
+            <a href="/us/" class="logo"><img src="/common/images/header/h1_logo.jpg" alt="Hankkook driving emotion"></a>
             <div class="utill_ms_wrap">
                 <a href="/us/tire-finder/passenger-cars.html" class="utill_finder">Tire Finder</a>
                 <a href="/us/services-tips/find-a-dealer.html" class="utill_dealer">Dealer Locator</a>
-                
+                <a href="/us/event/ongoing.html" class="utill_event">Event</a>
                 <!--a href="/content/hankooktire/us/motorsports.html" class="utill_ms">Motorsports</a-->
                 <div class="ms_more">
                     <ul>
@@ -132,7 +162,7 @@ $.ajax({
                 </div>
                 <a href="/us/hankook-universe.html" class="utill_la">HANKOOK UNIVERSE
                     <img src="/common/images/flag/hankook-tire-flag-usa.gif" alt="us">
-                </a>                       
+                </a>
             </div>
         </div>
         
@@ -163,7 +193,7 @@ $.ajax({
                             <ul class="depth2">
 
                                        <li>
-                                           <h2><a href="/us/truck-bus/tires/all-tires.html">Tires</a></h2>
+                                           <span><a href="/us/truck-bus/tires/all-tires.html">Tires</a></span>
 
                                             <ul>
 
@@ -176,7 +206,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/truck-bus/supports/technical-manual.html">Support</a></h2>
+                                           <span><a href="/us/truck-bus/supports/technical-manual.html">Support</a></span>
 
                                             <ul>
 
@@ -196,7 +226,7 @@ $.ajax({
                             <ul class="depth2">
 
                                        <li>
-                                           <h2><a href="/us/services-tips/find-a-dealer/view-all.html">Dealer Locator</a></h2>
+                                           <span><a href="/us/services-tips/find-a-dealer/view-all.html">Dealer Locator</a></span>
 
                                             <ul>
 
@@ -209,17 +239,17 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/services-tips/test-result.html">Test Results</a></h2>
+                                           <span><a href="/us/services-tips/test-result.html">Test Results</a></span>
 
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/services-tips/quality-guarantee.html">Quality Guarantee</a></h2>
+                                           <span><a href="/us/services-tips/quality-guarantee.html">Quality Guarantee</a></span>
 
                                    </li>
 
                                        <li class="dtit_kar">
-                                           <h2><a href="/us/services-tips/tire-warranty/replacement-warranty/passenger-light-truck.html">Tire Warranty</a></h2>
+                                           <span><a href="/us/services-tips/tire-warranty/replacement-warranty/passenger-light-truck.html">Tire Warranty</a></span>
 
                                             <ul>
 
@@ -232,7 +262,7 @@ $.ajax({
                                    </li>
 
                                        <li class="dtit_midea">
-                                           <h2><a href="/us/services-tips/tire-guide/evolution.html">Tire Guide</a></h2>
+                                           <span><a href="/us/services-tips/tire-guide/evolution.html">Tire Guide</a></span>
 
                                             <ul>
 
@@ -255,7 +285,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/services-tips/care-guide/pressure.html">Care Guide</a></h2>
+                                           <span><a href="/us/services-tips/care-guide/pressure.html">Care Guide</a></span>
 
                                             <ul>
 
@@ -278,7 +308,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/services-tips/safety-driving-tips/eco-driving.html">Driving Tips</a></h2>
+                                           <span><a href="/us/services-tips/safety-driving-tips/eco-driving.html">Driving Tips</a></span>
 
                                             <ul>
 
@@ -293,7 +323,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/services-tips/technical-support/technical-bulletin.html">Technical Support</a></h2>
+                                           <span><a href="/us/services-tips/technical-support/technical-bulletin.html">Technical Support</a></span>
 
                                             <ul>
 
@@ -313,7 +343,7 @@ $.ajax({
                             <ul class="depth2">
 
                                        <li>
-                                           <h2><a href="/us/about-hankook-tire/company/corporate-overview.html">Company</a></h2>
+                                           <span><a href="/us/about-hankook-tire/company/corporate-overview.html">Company</a></span>
 
                                             <ul>
 
@@ -338,7 +368,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/about-hankook-tire/strategy/driving-emotion-beyond-mobility.html">Strategy</a></h2>
+                                           <span><a href="/us/about-hankook-tire/strategy/driving-emotion-beyond-mobility.html">Strategy</a></span>
 
                                             <ul>
 
@@ -357,7 +387,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/about-hankook-tire/brand/driving-emotion.html">Brand</a></h2>
+                                           <span><a href="/us/about-hankook-tire/brand/driving-emotion.html">Brand</a></span>
 
                                             <ul>
 
@@ -371,7 +401,7 @@ $.ajax({
 
                                                     <li><a href="/us/about-hankook-tire/brand/real-madrid-cf-sponsorship.html">Sponsorship with Real Madrid C.F.</a></li>
 
-                                                    <li><a href="/us/about-hankook-tire/brand/the-uefa-europa-league-sponsorship.html">The UEFA Europa League Sponsorship</a></li>
+                                                    <li><a href="/us/about-hankook-tire/brand/the-uefa-europa-league-sponsorship.html">Official partner of the UEFA Europa League</a></li>
 
                                                     <li><a href="/us/about-hankook-tire/brand/dtm-official-partnership.html">DTM Official Partnership</a></li>
 
@@ -380,7 +410,7 @@ $.ajax({
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/about-hankook-tire/technology/kontrol-technology/overview.html">Technology</a></h2>
+                                           <span><a href="/us/about-hankook-tire/technology/kontrol-technology/overview.html">Technology</a></span>
 
                                             <ul>
 
@@ -397,23 +427,23 @@ $.ajax({
                                    </li>
 
                                        <li class="dtit_kar">
-                                           <h2><a href="http://www.hankooktire.com/global/sustainability.html" target="_blank">Sustainability</a></h2>
+                                           <span><a href="http://www.hankooktire.com/global/sustainability.html" target="_blank">Sustainability</a></span>
 
                                    </li>
 
                                        <li class="dtit_midea">
-                                           <h2><a href="/us/about-hankook-tire/careers/careers.html">Careers</a></h2>
+                                           <span><a href="/us/about-hankook-tire/careers/careers.html">Careers</a></span>
 
                                             <ul>
 
-                                                    <li><a href="/us/about-hankook-tire/careers/careers.html">Careers</a></li>
+                                                    <li><a href="/us/about-hankook-tire/careers/careers.html">Job Announcements</a></li>
 
                                             </ul>
 
                                    </li>
 
                                        <li>
-                                           <h2><a href="/us/about-hankook-tire/media-center/press-room.html">Media Center</a></h2>
+                                           <span><a href="/us/about-hankook-tire/media-center/press-room.html">Media Center</a></span>
 
                                             <ul>
 
@@ -434,15 +464,12 @@ $.ajax({
 
                         </li>
 
-                        <li id="cate20" class="depth1"><a href="/us/hankook-universe.html" class="texthide">HANKOOK UNIVERSE</a>
 
-                        </li>
 
         </ul>
     </div>
 </div>
-<div class="shadow"></div>
-</div>
+<div class="shadow"></div></div>
 
         
 
@@ -556,248 +583,296 @@ $.ajax({
 
 
 	<ol class="breadcrumb-trail" vocab="http://schema.org/" typeof="BreadcrumbList">
-    	<li class="bread-home" property="itemListElement" typeof="ListItem">
-    		<a property="item" typeof="WebPage" href="http://www.hankooktire.com/us/">
-        		<span property="name">Home</span>
-        	</a>
+		<li class="bread-home" property="itemListElement" typeof="ListItem">
+			<a property="item" typeof="WebPage" href="http://www.hankooktire.com/us/">
+				<span property="name">Home</span>
+			</a>
 			<meta property="position" content="1">
-        </li>
+		</li>
 
-			<li class="bread-line" property="itemListElement" typeof="ListItem">
-				<a property="item" typeof="WebPage" href="/us/privacy-policy.html">
-					<strong><span property="name">Privacy Policy</span></strong>
-				</a>
-				<meta property="position" content="2">
-			</li>
+		<li class="bread-line" property="itemListElement" typeof="ListItem">
+			<a property="item" typeof="WebPage" href="/us/privacy-policy.html">
+				<strong><span property="name">Privacy Policy</span></strong>
+			</a>
+			<meta property="position" content="2">
+		</li>
 
-         </ol>
+	</ol>
+	<div class="r_zone">
+	    <span class="email"><a href="#mail_form" onclick="layerOpen('mail_form'); return false;">E-mail</a></span>
+	    <span class="print"><a href="javascript:window.print()">Print</a></span>
 
-<div class="r_zone">
-    <span class="email"><a href="#mail_form" onclick="layerOpen('mail_form'); return false;">E-mail</a></span>
-    <span class="print"><a href="javascript:window.print()">Print</a></span>
-    
-	<a class="f_book" href="javascript:void(window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=HanKookTire&amp;p[summary]=&amp;p[url]=' + location.href + '&amp;&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325'));"><span class="hide">FACEBOOK</span></a>
-	
-</div>
+		<a class="f_book" href="javascript:void(window.open('http://www.facebook.com/sharer.php?s=100&amp;p[title]=HanKookTire&amp;p[summary]=&amp;p[url]=' + location.href + '&amp;&amp;p[images][0]=','sharer','toolbar=0,status=0,width=548,height=325'));"><span class="hide">FACEBOOK</span></a>
 
-<div id="mail_form" class="mw" style="display: none;">
-<div class="bg"></div>
-<div class="fg" style="margin: -300px 0 0 -375px;">
-
-<h4><strong>E-mail</strong></h4>
-<div class="email_pop">
-    <p>Share this page to my friends.</p>
-<h5>Your Information</h5>
-<div class="w660_row_type1">
-    <table cellpadding="0" cellspacing="0" border="1" summary="Your Information">
-<caption>Your Information</caption>
-<colgroup>
-    <col width="20%">
-    <col width="">
-</colgroup>
-<tbody>
-    <tr>
-        <th class="bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>Name</th>
-        <td>
-            <label for="nm1">First Name</label><input type="text" id="nm1" class="inp_base" style="width:141px;margin-left:7px;" value="">&nbsp;&nbsp;
-          <label for="fnm1">Last Name</label><input type="text" id="fnm1" class="inp_base" style="width:127px;margin-left:7px;" value="">
-      </td>
-  </tr>
-  <tr>
-      <th class="last bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>E-mail Address</th>
-      <td class="last">
-          <input type="text" title="e-mail ID" id="emailId1" class="inp_base" style="width:112px" value=""> @ <input type="text" title="e-mail address" id="emailAddress1" class="inp_base" style="width:152px" value="">&nbsp;&nbsp;&nbsp;ex) admin@hankooktire.com
-            </td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-
-<h5>Recipient's Information</h5>
-<div class="w660_row_type1">
-    <table cellpadding="0" cellspacing="0" border="1" summary="Your Information">
-<caption>Your Information</caption>
-<colgroup>
-    <col width="20%">
-    <col width="">
-</colgroup>
-<tbody>
-    <tr>
-        <th class="bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>Name</th>
-        <td>
-            <label for="nm2">First Name</label><input type="text" id="nm2" class="inp_base" style="width:141px;margin-left:7px;" value="">&nbsp;&nbsp;
-          <label for="fnm2">Last Name</label><input type="text" id="fnm2" class="inp_base" style="width:127px;margin-left:7px;" value="">
-      </td>
-  </tr>
-  <tr>
-      <th class="last bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>E-mail Address</th>
-      <td class="last">
-          <input type="text" title="e-mail ID" id="emailId2" class="inp_base" style="width:112px" value=""> @ <input type="text" title="e-mail address" id="emailAddress2" class="inp_base" style="width:152px" value="">&nbsp;&nbsp;&nbsp;ex) admin@hankooktire.com
-            </td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-
-<h5>Message Information (optional)</h5>
-<div class="w660_row_type1">
-    <table cellpadding="0" cellspacing="0" border="1" summary="Your Information">
-<caption>Your Information</caption>
-<colgroup>
-    <col width="20%">
-    <col width="">
-</colgroup>
-<tbody>
-    <tr>
-        <th class="last bdr_d8" scope="row">Message</th>
-      <td class="last">
-          <input type="text" title="Message" id="message" class="inp_base" maxlength="100" style="width:92%" value=""></td>
-        </tr>
-    </tbody>
-    </table>
-</div>
-<p class="mgt10"><span class="error_message">* Required Fields.</span></p>
-<div class="btn_area right mgt20">
-    <span class="button btn_gray" onclick="javascript:clearFields()"><a href="#">Clear Fields</a></span><span class="button btn_orange"><input type="submit" value="Send" onclick="javascript:sendEmail();"></span>
-    </div>
-</div>
-<span class="closebtn">
-    <a href="#" onclick="layerClose('mail_form');return false;"></a>
-        </span>
-
-    </div>
-</div>
+	</div>
+	<div id="mail_form" class="mw" style="display: none;">
+		<div class="bg"></div>
+		<div class="fg" style="margin: -300px 0 0 -375px;">
+			<span>E-mail</span>
+			<div class="email_pop">
+				<p>Share this page to my friends.</p>
+				<span>Your Information</span>
+				<div class="w660_row_type1">
+					<table cellpadding="0" cellspacing="0" border="1" summary="Your Information">
+						<caption>Your Information</caption>
+						<colgroup>
+							<col width="20%">
+							<col width="">
+						</colgroup>
+						<tbody>
+							<tr>
+								<th class="bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>Name</th>
+								<td>
+									<label for="nm1">First Name</label><input type="text" id="nm1" class="inp_base" style="width:141px;margin-left:7px;" value="">&nbsp;&nbsp;
+									<label for="fnm1">Last Name</label><input type="text" id="fnm1" class="inp_base" style="width:127px;margin-left:7px;" value="">
+								</td>
+							</tr>
+							<tr>
+								<th class="last bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>E-mail Address</th>
+								<td class="last">
+									<input type="text" title="e-mail ID" id="emailId1" class="inp_base" style="width:112px" value=""> @ <input type="text" title="e-mail address" id="emailAddress1" class="inp_base" style="width:152px" value="">&nbsp;&nbsp;&nbsp;ex) admin@hankooktire.com
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<span>Recipient's Information</span>
+				<div class="w660_row_type1">
+					<table cellpadding="0" cellspacing="0" border="1" summary="Your Information">
+						<caption>Your Information</caption>
+						<colgroup>
+							<col width="20%">
+							<col width="">
+						</colgroup>
+						<tbody>
+	    					<tr>
+								<th class="bdr_d8" scope="row">
+									<span class="mandatory_field" title="Mandatory field">*</span>Name
+								</th>
+								<td>
+									<label for="nm2">First Name</label><input type="text" id="nm2" class="inp_base" style="width:141px;margin-left:7px;" value="">&nbsp;&nbsp;
+									<label for="fnm2">Last Name</label><input type="text" id="fnm2" class="inp_base" style="width:127px;margin-left:7px;" value="">
+								</td>
+							</tr>
+							<tr>
+								<th class="last bdr_d8" scope="row"><span class="mandatory_field" title="Mandatory field">*</span>E-mail Address</th>
+								<td class="last">
+									<input type="text" title="e-mail ID" id="emailId2" class="inp_base" style="width:112px" value=""> @ <input type="text" title="e-mail address" id="emailAddress2" class="inp_base" style="width:152px" value="">&nbsp;&nbsp;&nbsp;ex) admin@hankooktire.com
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<span>Message Information (optional)</span>
+				<div class="w660_row_type1">
+					<table cellpadding="0" cellspacing="0" border="1" summary="Your Information">
+						<caption>Your Information</caption>
+						<colgroup>
+							<col width="20%">
+							<col width="">
+						</colgroup>
+						<tbody>
+							<tr>
+								<th class="last bdr_d8" scope="row">Message</th>
+								<td class="last">
+									<input type="text" title="Message" id="message" class="inp_base" maxlength="100" style="width:92%" value=""></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<p class="mgt10"><span class="error_message">* Required Fields.</span></p>
+				<div class="btn_area right mgt20">
+					<span class="button btn_gray" onclick="javascript:clearFields()">
+						<a href="#">Clear Fields</a>
+					</span>
+					<span class="button btn_orange">
+						<input type="submit" value="Send" onclick="javascript:sendEmail();">
+					</span>
+				</div>
+			</div>
+			<span class="closebtn">
+				<a href="#" onclick="layerClose('mail_form');return false;"></a>
+			</span>
+		</div>
+	</div>
 
 <script type="text/javascript">
 function sendEmail() {
-    var fromName         = "";
-    var fromFamilyName   = "";
-    var fromEmailId      = "";
-    var fromEmailAddress = "";
 
-    var toName         = "";
-    var toFamilyName   = "";
-    var toEmailId      = "";
-    var toEmailAddress = "";
+	var fromName         = "";
+	var fromFamilyName   = "";
+	var fromEmailId      = "";
+	var fromEmailAddress = "";
 
-    var message     = "";
-    var pageLinkURL = "";
+	var toName         = "";
+	var toFamilyName   = "";
+	var toEmailId      = "";
+	var toEmailAddress = "";
 
-    fromName         = checkText($("#nm1").attr("value"));
-    fromFamilyName   = checkText($("#fnm1").attr("value"));
-    fromEmailId      = $("#emailId1").attr("value");
-    fromEmailAddress = $("#emailAddress1").attr("value");
+	var message     = "";
+	var pageLinkURL = "";
 
-    toName         = checkText($("#nm2").attr("value"));
-    toFamilyName   = checkText($("#fnm2").attr("value"));
-    toEmailId      = $("#emailId2").attr("value");
-    toEmailAddress = $("#emailAddress2").attr("value");
+	fromName         = checkText($("#nm1").attr("value"));
+	fromFamilyName   = checkText($("#fnm1").attr("value"));
+	fromEmailId      = $("#emailId1").attr("value");
+	fromEmailAddress = $("#emailAddress1").attr("value");
 
-    message     = checkText($("#message").attr("value"));
-    pageLinkURL = location.href;
+	toName         = checkText($("#nm2").attr("value"));
+	toFamilyName   = checkText($("#fnm2").attr("value"));
+	toEmailId      = $("#emailId2").attr("value");
+	toEmailAddress = $("#emailAddress2").attr("value");
 
-    if (fromName == "") {
-        alert("Name is a required field.");
-    $("#nm1").focus();
-    return;
-}
-if (fromFamilyName == "") {
-    alert("Last Name is a required field.");
-    $("#fnm1").focus();
-    return;
-}
-if (!checkEmailID(fromEmailId)) {
-    alert("Please enter a valid email ID");
-    $("#emailId1").focus();
-    return;
-}
-if (!checkEmailAddr(fromEmailAddress)) {
-    alert("Please enter a valid e-mail");
-    $("#emailAddress1").focus();
-    return;
-}
-if (toName == "") {
-    alert("Name is a required field.");
-    $("#nm2").focus();
-    return;
-}
-if (toFamilyName == "") {
-    alert("Last Name is a required field.");
-    $("#fnm2").focus();
-    return;
-}
-if (!checkEmailID(toEmailId)) {
-    alert("Please enter a valid email ID");
-    $("#emailId2").focus();
-    return;
-}
-if (!checkEmailAddr(toEmailAddress)) {
-    alert("Please enter a valid e-mail");
-    $("#emailAddress2").focus();
-    return;
-}
+	message     = checkText($("#message").attr("value"));
+	pageLinkURL = location.href;
 
-var currentUrl = location.href.replace(/(\.html?)$/g, "").replace(/\/$/g, "");
-//console.log(">>>>> currentUrl is: " + currentUrl);
+	if (checkSpace(fromName)) {
 
-$.ajax({
-    type: "GET",
-    url: currentUrl + ".jsonShareEmailPostREST.html",
-    data:{
-        "fromName"         : fromName,
-        "fromFamilyName"   : fromFamilyName,
-        "fromEmailId"      : fromEmailId,
-        "fromEmailAddress" : fromEmailAddress,
-        "toName" 		   : toName,
-        "toFamilyName"     : toFamilyName,
-        "toEmailId"        : toEmailId,
-        "toEmailAddress"   : toEmailAddress,
-        "message"          : message,
-        "pageLinkURL"      : pageLinkURL
-	},
-    dataType:"json",
-    success: function(result) {
-    	alert('The email has been sent.' + "\n\n" + 'Note: Hankook will not use information collected here for marketing or promotional purposes beyond the scope of this transaction.');
-    // alert("The email has been sent.<br /><br />Note: Hankook Tire will not use information collected here for marketing or promotional purposes beyond the scope of this transaction.".replace("<br /><br />","\n\n"));
-            layerClose('mail_form');
-        },
-        error: function(rlt) {
-        }
-    });
+		alert("Name is a required field.");
+		$("#nm1").focus();
+		return;
+
+	}
+
+	if (checkSpace(fromFamilyName)) {
+
+		alert("Last Name is a required field.");
+		$("#fnm1").focus();
+		return;
+
+	}
+
+	if (!checkEmailID(fromEmailId)) {
+
+		alert("Please enter a valid email ID");
+		$("#emailId1").focus();
+		return;
+
+	}
+
+	if (!checkEmailAddr(fromEmailAddress)) {
+
+		alert("Please enter a valid e-mail");
+		$("#emailAddress1").focus();
+		return;
+
+	}
+
+	if (checkSpace(toName)) {
+
+		alert("Name is a required field.");
+		$("#nm2").focus();
+		return;
+
+	}
+
+	if (checkSpace(toFamilyName)) {
+
+		alert("Last Name is a required field.");
+		$("#fnm2").focus();
+		return;
+
+	}
+
+	if (!checkEmailID(toEmailId)) {
+
+		alert("Please enter a valid email ID");
+		$("#emailId2").focus();
+		return;
+
+	}
+
+	if (!checkEmailAddr(toEmailAddress)) {
+
+		alert("Please enter a valid e-mail");
+		$("#emailAddress2").focus();
+		return;
+
+	}
+
+	var currentUrl = location.href.replace(/(\.html?)$/g, "").replace(/\/$/g, "");
+	//console.log(">>>>> currentUrl is: " + currentUrl);
+
+	$.ajax({
+
+		type: "GET",
+		url: currentUrl + ".jsonShareEmailPostREST.html",
+		data:{
+			"fromName"         : fromName,
+			"fromFamilyName"   : fromFamilyName,
+			"fromEmailId"      : fromEmailId,
+			"fromEmailAddress" : fromEmailAddress,
+			"toName" 		   : toName,
+			"toFamilyName"     : toFamilyName,
+			"toEmailId"        : toEmailId,
+			"toEmailAddress"   : toEmailAddress,
+			"message"          : message,
+			"pageLinkURL"      : pageLinkURL
+		},
+		dataType:"json",
+		success: function(result) {
+
+			alert('The email has been sent.' + "\n\n" + 'Note: Hankook will not use information collected here for marketing or promotional purposes beyond the scope of this transaction.');
+			// alert("The email has been sent.<br /><br />Note: Hankook Tire will not use information collected here for marketing or promotional purposes beyond the scope of this transaction.".replace("<br /><br />","\n\n"));
+			layerClose('mail_form');
+
+		},
+		error: function(rlt) {
+
+		}
+
+	});
+
 }
 
 function clearFields() {
-    $("#nm1").attr("value", "");
-    $("#fnm1").attr("value", "");
-    $("#emailId1").attr("value", "");
-    $("#emailAddress1").attr("value", "");
 
-    $("#nm2").attr("value", "");
-    $("#fnm2").attr("value", "");
-    $("#emailId2").attr("value", "");
-    $("#emailAddress2").attr("value", "");
+	$("#nm1").attr("value", "");
+	$("#fnm1").attr("value", "");
+	$("#emailId1").attr("value", "");
+	$("#emailAddress1").attr("value", "");
 
-    $("#message").attr("value", "");
+	$("#nm2").attr("value", "");
+	$("#fnm2").attr("value", "");
+	$("#emailId2").attr("value", "");
+	$("#emailAddress2").attr("value", "");
 
-    $("#nm1").focus();
+	$("#message").attr("value", "");
+	$("#nm1").focus();
+
+}
+
+function checkSpace(str){
+	if(str.length <= 0 ){
+		return true;;
+	}else if(str.search(/\s/) != -1){
+		return true;
+	}else{
+		return false;
+	}
 }
 
 function checkEmailID(emailID) {
-    var regexp = /^[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*$/;
-    var test = regexp.test(emailID);
-    return test;
+
+	var regexp = /^[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*$/;
+	var test = regexp.test(emailID);
+	return test;
+
 }
 
 function checkEmailAddr(emailAddr) {
-    var regexp = /^(?:[\w\-]{2,}\.)+[a-zA-Z]{2,}$/;
-    var test = regexp.test(emailAddr);
-    return test;
+
+	var regexp = /^(?:[\w\-]{2,}\.)+[a-zA-Z]{2,}$/;
+	var test = regexp.test(emailAddr);
+	return test;
+
 }
 
 function checkText(text) {
-    text = text.replace("<", "&lt;");
-    text = text.replace(">", "&gt;");
-    return text;
+
+	text = text.replace("<", "&lt;");
+	text = text.replace(">", "&gt;");
+	return text;
+
 }
 </script></div>
 
@@ -989,7 +1064,7 @@ function checkText(text) {
 
 
 
-					<div class="list ">
+					<div class="list">
 						<a href="/us/customer-center/faq.html" target="_self">
                             
                            	<p><span>FAQ</span></p>
@@ -1007,7 +1082,7 @@ function checkText(text) {
 
 
 
-					<div class="list ">
+					<div class="list">
 						<a href="/us/customer-center/qna.html" target="_self">
                             
                            	<p><span>Q&amp;A</span></p>
@@ -1040,23 +1115,22 @@ function checkText(text) {
 
 
 <div id="footer_wrap">
-	<h2 class="hide"> Bottom Menu en </h2>
 	
 	<div class="footer_top">
 
 		<ul class="f_menu">
 
 			<li>
-				<h3><a href="/us/passenger-cars.html">PASSENGER</a></h3>
+				<span><a href="/us/passenger-cars.html">PASSENGER</a></span>
 
-				<h3><a href="/us/suv.html">SUV/CUV</a></h3>
+				<span><a href="/us/suv.html">SUV/CUV</a></span>
 
-				<h3><a href="/us/transporter.html">LIGHT TRUCK</a></h3>
+				<span><a href="/us/transporter.html">LIGHT TRUCK</a></span>
 
 			</li>
 
 			<li>
-				<h3><a href="/us/truck-bus/tires/all-tires.html">TRUCK/BUS</a></h3>
+				<span><a href="/us/truck-bus/tires/all-tires.html">TRUCK/BUS</a></span>
 
 					<ul>
 
@@ -1069,7 +1143,7 @@ function checkText(text) {
 			</li>
 
 			<li>
-				<h3><a href="/us/services-tips.html">SERVICE/SUPPORT</a></h3>
+				<span><a href="/us/services-tips.html">SERVICE/SUPPORT</a></span>
 
 					<ul>
 
@@ -1094,7 +1168,7 @@ function checkText(text) {
 			</li>
 
 			<li>
-				<h3><a href="/us/about-hankook-tire.html">ABOUT HANKOOK</a></h3>
+				<span><a href="/us/about-hankook-tire.html">ABOUT HANKOOK</a></span>
 
 					<ul>
 
@@ -1117,7 +1191,7 @@ function checkText(text) {
 			</li>
 
 			<li>
-				<h3><a href="/us/motorsports.html">MOTORSPORTS</a></h3>
+				<span><a href="/us/motorsports.html">MOTORSPORTS</a></span>
 
 					<ul>
 
@@ -1127,17 +1201,13 @@ function checkText(text) {
 
 						</li><li><a href="/us/motorsports/competition-cars.html">Competition Tires</a>
 
-						</li><li><a href="/us/motorsports/formula-drift/introduction.html">Formula Drift</a>
-
 						</li><li><a href="/us/motorsports/dtm/introduction.html">DTM</a>
 
 						</li><li><a href="/us/motorsports/fia-f3-european-championship/introduction.html">FIA F3 European Championship</a>
 
 						</li><li><a href="/us/motorsports/audi-sport-tt-cup/introduction.html">Audi Sport TT Cup</a>
 
-						</li><li><a href="/us/motorsports/24h-series/introduction.html">24H SERIES</a>
-
-						</li><li><a href="/us/motorsports/pikes-peak/introduction.html">Pikes Peak International Hill Climb</a>
+						</li><li><a href="/us/motorsports/24h-series/introduction.html">24H GT Series</a>
 
 						</li><li><a href="/us/motorsports/supercar-challenge/introduction.html">Supercar Challenge</a>
 
@@ -1169,14 +1239,14 @@ function checkText(text) {
 			<a href="/us/contact.html">Contact</a>
 			<a href="/us/about-hankook-tire/careers.html">Careers</a>
 			<a href="/us/customer-center/faq.html">Customer Center</a>
-			<a href="/us/register-your-tires.html"><strong>Register Your Tires</strong></a>
-			<a href="/us/tire-recalls.html"><strong>Tire Recalls</strong></a>
+			<a href="/us/register-your-tires.html"><span>Register Your Tires</span></a>
+			<a href="/us/tire-recalls.html"><span>Tire Recalls</span></a>
 			<a href="/us/privacy-policy.html">Privacy Policy</a>
 			<a href="/us/sitemap.html">Sitemap</a>
 		</div>
 		<div class="f_link">
-			<a href="http://order.hankooktireusa.com:8080/" target="_blank"><strong>Web Order</strong></a>
-			<a href="http://www.hankookempowerment.com/" target="_blank"><strong>Empowerment</strong></a>
+			<a href="http://order.hankooktireusa.com:8080/" target="_blank"><span>Web Order</span></a>
+			<a href="http://www.hankookempowerment.com/" target="_blank"><span>Empowerment</span></a>
 			<a href="/us/about-hankook-tire/brand/the-uefa-europa-league-sponsorship.html">The Europa League Sponsorship</a>
 			<a href="/us/about-hankook-tire/brand/dtm-official-partnership.html">DTM Official Partnership</a>
 		</div>
@@ -1186,7 +1256,7 @@ function checkText(text) {
 				<li><a href="https://twitter.com/HankookUSA" class="twitter" target="_blank" title="Twitter"><img src="/common/images/footer/logo_twitter.png" alt="Twitter"></a></li>
 				<li><a href="https://www.facebook.com/HankookUSA" class="facebook" target="_blank" title="Facebook"><img src="/common/images/footer/logo_facebook.png" alt="Facebook"></a></li>
 				<li><a href="https://www.youtube.com/user/HankookUSARacing" class="youtube" target="_blank" title="You Tube"><img src="/common/images/footer/logo_youtube.png" alt="You Tube"></a></li>
-				<li><a href="https://www.instagram.com/hankookusaracing/" class="instagram" target="_blank" title="Instagram"><img src="/common/images/footer/logo_instagram.png" alt="Instagram"></a></li>
+				<li><a href="https://www.instagram.com/hankookamerica/" class="instagram" target="_blank" title="Instagram"><img src="/common/images/footer/logo_instagram.png" alt="Instagram"></a></li>
 			</ul>
 		</div>
 	</div>
@@ -1242,7 +1312,6 @@ function checkText(text) {
     	})(window,document,'script','dataLayer','GTM-W2NQNW');
     </script>
     <!-- End Google Tag Manager -->
-
 
 
 
