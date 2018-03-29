@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hamer4u.com privacy policy that was archived on 2017-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171010170357id_/http%3A//www.hamer4u.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamer4u.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329175320id_/http%3A//www.hamer4u.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hamer4u
+# Privacy Policy – Hamer4u | Hamer Ginseng & Coffee Candy 汗马精力糖 | Wholesale & Retail
 
 This Privacy Policy was last modified on 26/07/2017.
 
