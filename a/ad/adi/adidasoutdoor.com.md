@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adidasoutdoor.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126155651id_/http%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidasoutdoor.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329124832id_/http%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Adidas Five Ten | Privacy Policy
 
 agron, inc., Official Licencee for adidas, is the exclusive distributor for adidas outdoor in the United States of America. ("adidasoutdoor.com") adidasoutdoor.com. ("adidas outdoor" "adidas" or "we", "us", or "our") is strongly committed to protecting the privacy of your personal information collected at or in connection with the adidasourdoor.com website. This Online Privacy Policy (the "Policy") applies also to those adidas websites that display or link to this Policy (including adidas.com/us, miadidas.com/us, and adidas.com and referred to in this Policy as the "Website"). This Policy applies to data collected by adidas through its Websites and services that display these terms. It does not apply to those adidas sites, services and products that do not display or link to this Policy or that have their own privacy policies. This Policy describes the information we collect and how we use it. By visiting our Website, you are accepting the practices described in this Policy. If you do not agree to the terms of this Policy, please do not use the Website.
 
@@ -50,7 +50,7 @@ We provide you with an opportunity to opt-out of receiving our promotional commu
 
 ### How do I contact you about privacy-related questions?
 
-If you have questions or comments about our privacy practices, please contact us by e-mail [privacy.policy@adidasoutdoorusa.com](https://web.archive.org/web/20171126155651id_/http%3A//www.adidasoutdoor.com/%7Bmailto:privacy.policy@adidasoutdoorusa.com%7D) or by mail at the following address:  
+If you have questions or comments about our privacy practices, please contact us by e-mail [privacy.policy@adidasoutdoorusa.com](https://web.archive.org/web/20180329124832id_/http%3A//www.adidasoutdoor.com/%7Bmailto:privacy.policy@adidasoutdoorusa.com%7D) or by mail at the following address:  
 adidas outdoor  
 Attn: Legal Privacy Policy  
 2440 S. Sepulveda Blvd. #201  
@@ -60,7 +60,7 @@ If you have a question regarding a product or service, please contact Customer S
 
 ### What is the Secure Shopping Guarantee?
 
-We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. We've established a Secure Shopping Guarantee for every transaction that you make with www.adidas.com. Should any unauthorized charges appear on your credit card as a result of shopping with www.adidas.com, you must notify your credit card provider in accordance with its reporting rules and procedures. If you have more questions regarding our policy, you can call one of our Customer Service representatives at 1-866.639.7916. Or send us an e-mail at: [customerservice@adidasoutdoor.com](https://web.archive.org/web/20171126155651id_/http%3A//www.adidasoutdoor.com/%7Bmailto:customerservice@adidasoutdoor.com%7D).
+We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. We've established a Secure Shopping Guarantee for every transaction that you make with www.adidas.com. Should any unauthorized charges appear on your credit card as a result of shopping with www.adidas.com, you must notify your credit card provider in accordance with its reporting rules and procedures. If you have more questions regarding our policy, you can call one of our Customer Service representatives at 1-866.639.7916. Or send us an e-mail at: [customerservice@adidasoutdoor.com](https://web.archive.org/web/20180329124832id_/http%3A//www.adidasoutdoor.com/%7Bmailto:customerservice@adidasoutdoor.com%7D).
 
 ### Applicable Law and Jurisdiction
 
