@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ucweb.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128011622id_/http%3A//www.ucweb.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucweb.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329082620id_/http%3A//www.ucweb.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement of UCWeb - UC Browser
 
-Last update: July 28th, 2014
+Last update: Jan 26th, 2018
 
-UCWeb offers a variety of measures to protect user privacy when they are using UCWeb Services [including UCWeb Sites, UCWeb Applications (“apps”), and/or other UCWeb Services]. To provide best web experience, we may collect information from you for lawful purposes, but we will not ask for personally identifiable information from you. This Privacy Policy is to describe what information we collect and how we process and protect them. By using UCWeb Services, you agree to be bound by all of the terms of this Privacy Policy.
+UCWeb offers a variety of measures to protect user privacy when they are using UCWeb Services [including UCWeb Sites, UCWeb Applications (“apps”), and/or other UCWeb Services]. To provide best user experience, we may collect information from you for lawful purposes, but we will not ask for personally identifiable information from you.
+
+UCWeb has created this Policy to explain our privacy practices so you will understand what information about you is collected, and how it is used and disclosed. We collect information from you in order to provide corresponding service and better user experience. By using UCWeb Services, you agree to be bound by all of the terms of this Privacy Policy. With your consent of this Privacy Policy, your usage, statistics, input while using UCWeb Services also will be collected.
 
   
 
@@ -26,14 +28,14 @@ Whether you are new to UCWeb or a long-time user, please do take the time to get
 
 ## 1\. The information collected by UCWeb
 
-You do not need to provide any Personal Information in order to download and use UCWeb Services. When you download the Application or use the Application, Website or the Services, we receive only standard Non-Personal Information that web browsers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. The purpose of collecting Non-Personal Information is to better understand how UCWeb visitors use UCWeb Services. From time to time, UCWeb may release Non-Personally Information in the aggregate, e.g., by publishing a report on its Website usage trends.
+You do not need to provide any Personal Information in order to download and use UCWeb Services. When you download the Application or use the Application, Website or the Services, we receive only standard Non-Personal Information that web browsers typically make available, such as the browser type, language preference, referring site, and the date, time and speed of each visitor request. The purpose of collecting Non-Personal Information is to better understand how UCWeb visitors use UCWeb Services. You agree that UCWeb may release aggregated Non-Personally Information, e.g., publish a report on its Website usage trends.
 
   
 
 
 ## Manually provided information
 
-You may provide your Personal Information to us, such as your username and email addresses, when you access certain Services offered via the application, for instance, when you create an account on UCWeb Services. It is your choice whether to send personal information to us. 
+You may provide your Personal Information to us, such as your username and email addresses, when you access certain Services offered via the application, for instance,when you create an account on UCWeb Services (including login with other third party accounts). It is your choice whether to send personal information to us.
 
 If you give us feedback or contact us via e-mail, we will collect your name and email address, as well as any other content included in the email, in order to send you a reply.
 
@@ -69,7 +71,7 @@ When you provide personal information to us, you agree to provide accurate infor
 
 ## 2\. Information Protection
 
-UCWeb is committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. UCWeb has strict restrictions on access to user data. Only a limited number of UCWeb employees have access. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while UCWeb uses reasonable efforts to protect your Personal Information, UCWeb cannot guarantee its absolute security.
+UCWeb is committed to protecting the security of your Personal Information. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. UCWeb has strict restrictions on access to user data. Yet, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while UCWeb uses reasonable efforts to protect your Personal Information, UCWeb cannot guarantee its absolute security.
 
   
 
@@ -96,24 +98,28 @@ In general, Personal Information you submit to us is used either to respond to r
 
 As a general matter, we use the information we collect, to provide UCWeb Services to you. We will also try to enhance and personalize your use of the UCWeb Services based on this information.
 
-In addition, UCWeb wants to keep you informed of developments of the UCWeb Services and of any promotional actions by UCWeb. We may ask you to participate in surveys in order to help us enhance the Services.
+In addition, UCWeb wants to keep you informed of developments of the UCWeb Services and of any promotional actions by UCWeb. We may ask you to participate in surveys in order to help us enhance the Services, or introduce you the most updated UCWeb news.
 
-UCWeb uses the information it collects for statistical purposes and for reporting. This allows us for example to monitor performance and detect technical problems. All analysis is done in an anonymous, aggregate manner, such that none of the data can be traced back to individual users.
+UCWeb uses the information it collects for statistical purposes and for reporting. This allows us for example to monitor performance and detect technical problems. All analysis is done in an anonymous, aggregate manner.
 
   
 
 
 ## Use by third parties
 
-We do not share your personal information with others except as indicated below.
+We do not share your personal information with others except as indicated below, or otherwise agreed by you.
 
 **Normal site operation**
 
 When you use UCWeb Services, UCWeb will have access to information you post to UCWeb including, but not limited to, threads and comments you post in forums.
 
+**Login with UC Account**
+
+When you choose to login third party website / services with UC Account, you agree to share your UC Account information with third party, including but not limited to your user name, your name, your alias, your profile picture and your contact information. Such third party websites / services are not controlled by us. When you visit such website or services you do so at your own risk. These website or services may have their own privacy policies in place, which we recommend you review if you visit any such. We do not assume any responsibility or liability for such website or services, the content of such website or services and their privacy practices, nor do we endorse them. We encourage you to familiarize yourself with the privacy statements provided by such website or services prior to providing them with information about you or entering into any transactions on them.
+
 **Service providers**
 
-We may share your personal information , which may include your name and contact information (including email address) with third parties that perform certain services on our behalf. These services may include providing support, performing data analysis, and providing and supporting Site functionality and features. To the extent we provide access to your personal information to a service provider, they are not permitted to share or use the information for any purpose other than providing services to us. 
+We may share your personal information, which may include your name and contact information (including email address) with third parties that perform certain services on our behalf. These services may include providing support, performing data analysis, and providing and supporting Site functionality and features. To the extent we provide access to your personal information to a service provider, they are not permitted to share or use the information for any purpose other than providing services to us.
 
 **Other situations**
 
@@ -141,7 +147,7 @@ For technical reasons, it may be impossible for us to determine whether you have
 
 ## 5\. Applicationon
 
-Our Privacy Policy applies to all of the services offered by UCWeb. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+Our Privacy Policy applies to all of the services offered by UCWeb, and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you through the browser, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
 
