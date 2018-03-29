@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplt20.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204210621id_/http%3A//www.iplt20.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplt20.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329221831id_/http%3A//www.iplt20.com/about/privacy-policy) for the most accurate reproduction.*
 
 # IPLT20.com - Indian Premier League Official Website
 
