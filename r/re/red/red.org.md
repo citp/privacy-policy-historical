@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red.org privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316181700id_/https%3A//red.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.org privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329093101id_/https%3A//www.red.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - (RED)
 
@@ -26,7 +26,7 @@ Personal Information supplied by you during the registration process or during a
 
 **Children**
 
-This Site is a general audience Site. (RED) does not knowingly collect Personal Information from children under the age of thirteen (13), unless we receive verifiable consent from a parent or guardian. If (RED) becomes aware that a child under the age of thirteen (13) has provided us with Personal Information without the proper consent, that information will be deleted from our databases. Parents who have questions about Personal Information that may have been submitted by a child under the age of thirteen (13) should e-mail us at hello@red.org.
+This Site is a general audience Site. (RED) does not knowingly collect Personal Information from children under the age of thirteen (13), unless we receive verifiable consent from a parent or guardian. If (RED) becomes aware that a child under the age of thirteen (13) has provided us with Personal Information without the proper consent, that information will be deleted from our databases. Parents who have questions about Personal Information that may have been submitted by a child under the age of thirteen (13) should e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Security**
 
