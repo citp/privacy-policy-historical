@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xray-mag.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125180428id_/http%3A//www.xray-mag.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xray-mag.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329142650id_/http%3A//www.xray-mag.com/Privacy) for the most accurate reproduction.*
 
 # Privacy matters | X-Ray Mag
 
