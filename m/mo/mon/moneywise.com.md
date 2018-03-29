@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneywise.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116175337id_/http%3A//moneywise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneywise.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329030436id_/http%3A//moneywise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -160,7 +160,7 @@ If you have any queries about our processing or use of your Personal Information
 
 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-PO Box 43516 Leaside, Toronto, Ontario, M4G 4G8, Canada
+1300-350 Bay Street, Toronto, ON M5H 2S6
 
 ## 11\. Privacy Commissioner of Canada
 
