@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613224919id_/https%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329110404id_/https%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # Privacy Policy - Find Out Which Information We Collect & for What Purposes
 
