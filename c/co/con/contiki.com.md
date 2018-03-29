@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contiki.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223223220id_/http%3A//www.contiki.com/pages/257-legal-stuff-how-your-information-is-used) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contiki.com privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329182219id_/http%3A//www.contiki.com/pages/257-legal-stuff-how-your-information-is-used) for the most accurate reproduction.*
 
 # Legal Stuff - How your information is used - Contiki
 
