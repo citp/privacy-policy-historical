@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hitfilm.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129085757id_/http%3A//hitfilm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitfilm.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330200529id_/http%3A//hitfilm.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - HitFilm.com
+# Privacy Policy - hitfilm.com
 
 **FXHOME Limited** of Suites 4 and 5 St Giles House, 27 St Giles Street, Norwich NR2 1JN ("We") are committed to protecting and respecting your privacy.
 
