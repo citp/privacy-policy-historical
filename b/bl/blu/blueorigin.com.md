@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueorigin.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120072230id_/https%3A//www.blueorigin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueorigin.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330070911id_/https%3A//www.blueorigin.com/privacy-policy) for the most accurate reproduction.*
 
 # Blue Origin | Privacy policy
 
@@ -52,7 +52,7 @@ As used in this Policy, “Blue Origin” refers to the Blue Origin family of af
 
   10. #### Contact Us
 
-If you have any questions, comments or concerns about this Policy or about Blue Origin’s privacy practices, please send an email message to [Privacy@BlueOrigin.com](mailto:Privacy@BlueOrigin.com).
+If you have any questions, comments or concerns about this Policy or about Blue Origin’s privacy practices, please send an email message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#28785a415e494b51686a445d4d675a414f4146064b4745).
 
 
 
