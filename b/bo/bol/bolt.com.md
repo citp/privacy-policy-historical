@@ -1,68 +1,167 @@
-> *The following text is extracted and transformed from the bolt.com privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626132452id_/http%3A//www.bolt.com/siteinfo/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolt.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330074713id_/http%3A//bolt.com/privacy) for the most accurate reproduction.*
 
-# Members
+# Bolt
 
-**Policy Overview**
+__
 
-This Privacy Policy pertains to the use of the Bolt web site at http://www.bolt.com. Safeguarding your privacy is serious business. That's why Bolt's privacy policy is simple: : Bolt will not disclose, sell or rent any personally identifiable information without the user's proper consent except as provided in this statement. The Bolt user is given final word on whether or not to share such information with Bolt. Please use discretion, because Bolt cannot be held accountable for the use, collection or distribution of personal information freely provided by members with any of our tools, including profiles, message boards, chats and notes. Be aware that information provided spontaneously by the user in such ways is not under the control of Bolt and might be observed, collected or utilized by third-party agencies and organizations. If a member were to post a phone number in their profile (as an example) we cannot be held accountable for the consequences. For questions or concerns about Bolt's information practices, contact the Bolt [Policy Manager](mailto:policy@boltinc.com) as provided at the end of this policy.
+Privacy Policy
 
-**Age Policy**
+Wednesday April 19, 2017
 
-Bolt is intended for users age 13 or older. Bolt's registration process is intentionally designed for such an audience and we will not knowingly collect any information from children under 13. Because of this age limit, this privacy policy makes no provision for children's use of Bolt. If you are a parent or become aware of a child registered under the age of 13 please notify Bolt's [Policy Manager](mailto:policy@boltinc.com) as provided at the end of this policy.
+This Privacy Policy (the “Policy”) applies to your access to, and use of, all or any part of any website or mobile application, payment and other products and services (collectively, the “Services” or “Bolt Services”) of Bolt Financial, Inc. or its affiliated companies (collectively, “Bolt”, “us”, “we”, “our”), including bolt.com, bolt.com, and all associated sites, frames, or web services (collectively, the “Site” and the Site, together with our underlying service offerings, the “Services”). The words “you” and “your” refer to the users of the Services, and to any successor in interest of any such user, including individual users of the service who access the service through a merchant who has executed our Merchant Terms of Service (a “Bolt Merchant”) and the Bolt Merchant itself. This Policy does not apply to websites and services that are owned and operated by third parties. This Policy does not apply to, and does not contemplate, any uses of information collected, stored, or shared by a Bolt Merchant. You should consult the privacy policy of the applicable Bolt Merchant if you have questions about their collection or handling of your information.
 
-**Note to Parents**
+_Information We Collect_
 
-If your child is under 13 and has become a Bolt member using a false age, please notify the [Policy Manager](mailto:policy@boltinc.com) who will immediately close the account and nullify all personally identifiable information provided by them. If your child is under the age of 18 and you would like to know more about our site, information practices, stored information on your child, or how to close your child's account, contact Bolt's [Policy Manager](mailto:policy@boltinc.com).
+As you use our Services, we collect certain information about you and the Services you use. The information we collect falls into three different categories: (1) information you give us; (2) information we collect from you automatically when you use our services; and (3) information we collect from other sources.
 
-**Information Retention**
+_**Information You Give Us**_
 
-To preserve the integrity of website databases Bolt's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Bolt you are consenting to store that information indefinitely. If required by law, such as the Children's Online Privacy Protection Act (COPPA,) Bolt will scramble and/or encrypt that information to make it unrecognizable. Bolt will also respond to written member requests to scramble account information. If you wish to make such a request, which will require you to verify your identity, contact the Bolt [Policy Manager](mailto:policy@boltinc.com). 
+We collect information you give us when you use our Services. Some examples of using our Services are when you visit one of our websites, create an account, purchase goods or services using Bolt’s checkout service, or participate in a survey or promotion. The information you give us may include end-user behaviors on a merchant site, products they add to a cart and/or purchase, and other cart details, and any other information you choose to give us through a merchant’s checkout that uses Bolt technology.
 
-**Information Collection and Use**
+_**Information We Collect When You Use Our Services**_
 
-Bolt will only require personally identifiable information at the time of registration. This might include email address, gender, birth date, zip or postal code and the country of residence. This information is used to identify you as a unique user within Bolt and will not be shared with any other party without your consent and notification. Please be aware that your age, birth date and country will be visible in your profile. 
+When you use our Services, we may collect information about the services you use and how you use them. This information includes:
 
-Information about members that is not personally identifiable may be used anonymously for purposes of advertising, demographic collection, market research data, anonymous reporting and to better tailor Bolt's content to the user's needs. This type of information will not include any data that identifies members as an individual, such as email address, home address or telephone number. If the user provides such information as part of an optional promotion, contest, survey or similar program they are subject to the separate privacy rules and expectations of each individual program. 
+  * > Purchasing Information – We may collect information about the products you buy, including where you buy products, how frequently you buy products, and the rewards earned due to a purchase.
 
-In addition to on-site advertising, Bolt may advertise products, companies and events that we think might interest you through the email address you provide if you choose to receive such solicitations. The user is always able to ask Bolt not to contact them with such information again. The user will not be included in promotions, contests, submission opportunities, solicitations or other programs unless they opt-in. If you receive unsolicited email from a Bolt domain, please contact Bolt's [Policy Manager](mailto:policy@boltinc.com), as Bolt does not wish to provide users with unwanted information. 
 
-Please note that Bolt may be required to share information with relevant authorities in order to investigate, prevent or enforce suspected or confirmed illegal activities, including with no limitation: fraud, threat or potential threat to the physical safety of any person, violation of Bolt's Terms of Service and/or User Agreement or as otherwise permitted or required by law. Bolt may also be required to disclose such information in order to comply with subpoenas, warrants, court orders or legal process or to establish or exercise Bolt's legal rights or defend against legal claims. 
 
-**Cookies and Tracking**
+  * > Device and Website Use Information – When you use a computer, tablet, smartphone or other device to access our websites or purchase products or services via our online properties, we may collect information about the device and how you use it. This information may include the type of device, your operating system, your browser (for example, whether you used Internet Explorer, Firefox, Safari, Chrome or another browser), versions of the same, your internet service provider, your domain name or the domain name or identity of the Bolt Merchant with whom you transacted using the Services, your internet protocol (IP) address, your device identifier (or UDID), the date and time that you accessed our Service, the website that referred you to our website, the web pages you visited, and the date and time of those requests. To collect this information, we use cookies, web beacons and similar technologies. Read more about cookies, web beacons and similar technologies below. We may also collect such information through a third party web analytics tool.
 
-Cookies are pieces of data stored by your web browser containing information related to your usage of Bolt. They are most often used to quickly and easily connect you with your Bolt account information and do not contain personally identifiable information. They may also be used to estimate Bolt's audience size for advertisers, to track the number of entries in Bolt promotions, sweepstakes and contests, to identify the areas of the site you visit, to hold session information and to track your user preferences. 
+  * > Location Information – When you use a smartphone or other mobile device to access our Services or use a computer to access the Site, we may collect information about your physical location. We may combine this information with other location-based information, such as your IP address and billing or postal code in our records. We share your location information only with companies that help us provide you with Services and help us understand how the Services are being used, such as an analytics provider.
 
-In addition, Bolt allows third-party advertisers on our site to place or recognize cookies on your browser. Such cookies are subject to that organization's Privacy Policy and are not covered by Bolt's Policy. For privacy information related to this usage consult the website and privacy policies of the advertiser in question. 
 
-Using browser settings you can accept all cookies, reject all cookies, or request to be notified when a website attempts to place a cookie. Please be aware that automatically rejecting all cookies may compromise the ease and convenience of your Bolt experience. 
 
-We use a third party ad-serving technology to deliver ads on this website. Information about your visit to this site, such as the number of times you have viewed an ad (but not your name, address, or other personal information), is used to determine what ads to show you. In the course of serving advertisements to this site, the third-party ad serving technology may place or recognize a unique cookie on your browser. For more information about our third-party ad server, cookies, and how to "opt out,"   
-please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/). 
 
-Bolt employs a software technology called clear gifs to help better manage the content of html emails. Clear gifs are small graphics with a unique identifier which serve a similar function to cookies. Clear gifs are invisible on the page and very small but allow Bolt to track which emails are opened by recipients. This allows Bolt to guage the effectiveness of marketing campaigns. The clear gifs are not used in conjunction with other user information that is stored by Bolt. 
+_Information We Collect From Other Sources_
 
-**IP Addresses**
+We also collect information that is publicly available. For example, we may collect information you submit to a blog, a chat room, or a social network like Facebook, Twitter or Google+. We may also collect information about you from other companies and organizations. We use this information primarily for security and fraud detection purposes.
 
-Your web browser automatically reports your current IP address each time you access a web page. Your IP address may be stored in Bolt's database when you register. Bolt may use your IP address to quickly address tech and usage concerns reported by our members, to tailor our advertising to specific geographic areas, to estimate the number of visitors from geographic areas and to uniquely identify Bolt visitors to aid in enforcement of our conduct policies.
+_How We Use the Information We Collect_
 
-**Logging of User Information**
+We may use the information we collect about you in a variety of ways, including:
 
-Your browser automatically transmits information to the web sites you visit, including Bolt. Such information may include referral data (what webpage sent you to Bolt) IP addresses and your browser version. Bolt collects this information to help us improve our services and moderate the site. All information automatically submitted by your browser is anonymous. Bolt also logs the information you submit through registration, forms for optional programs, surveys and other entries, cookie data and communications transmitted through Bolt applications. Only authorized Bolt staff members have access to your information in its entirety. Other Bolt staff may have access to portions of this information as required by their duties.
+  * > to process your purchases of products and services;
 
-**Information Security, Editing and Deletion**
+  * > to communicate with you about orders, purchases, services, accounts, programs, and offers;
 
-Bolt members may change their account and profile information at any time, with the exception of Birth Dates, which must be verified by staff members to comply with our age policy. When appropriate, users' transmissions to Bolt may be encrypted to provide information security. Please note that while users may delete any information in their accounts, that information and the account itself may be kept intact on Bolt's servers for an indefinite period to ensure database integrity. 
+  * > to respond to your customer service inquiries and requests for information;
 
-**Notification of Changes**
+  * > to inform you about our brands, products, or events;
 
-Bolt's security and privacy policy are periodically reviewed and enhanced as necessary. In the event that this Privacy Policy is updated, Bolt will post notification if there is any material change in its privacy practices. Users are encouraged to review the Policy periodically. 
+  * > to maintain and improve our sites and the products and services we offer;
 
-**Staff Contact**
+  * > to detect, prevent, or investigate security breaches or fraud; and
 
-For technical questions, problems or other issues relating to your use of Bolt, please visit the Help section. 
+  * > to maintain appropriate records for internal administrative purposes.
 
-Bolt's [Policy Manager](mailto:policy@boltinc.com) will respond to all requests sent through mail or email from members and parents interested in knowing more about what personal information is stored on the Bolt database, or if they want their personal information nullified, or have additional questions regarding privacy. 
 
-Bolt Inc. Attn: Policy Manager, 304 Hudson Street, New York, NY 10013 OR [policy@boltinc.com](mailto:policy@boltinc.com)
 
-UPDATED FEBRUARY 10, 2006
+
+_How We Share the Information We Collect_
+
+We may share your information in the following circumstances:
+
+  * > With Your Merchant – We share the information you input at Checkout to complete your purchase with the merchant whose products or services you have purchased to facilitate and support the transaction you’ve requested.
+
+  * > When You Give Consent – We may share information about you with other companies if you give us permission or direct us to share the information.
+
+  * > When the Information Does Not Identify You – We may share your information in a way that does not identify you. For example, we may combine information about you with information about other people on an aggregate, anonymous basis and share the combined information in a way that does not link your information to you.
+
+  * > When We Work Together – We may share the collected information between Bolt, its subsidiaries, and affiliated companies for proper management and analysis and decision making, including decisions regarding the expansion and promotion of our product and service offering, order or customer request fulfillment, and for use by those companies for the other purposes described in this Policy.
+
+  * > When We Work with Service Providers – We may share your information with service providers that provide us with support services, such as credit card processing, website hosting, email delivery, location mapping, postal mail processing and delivery, and analytics services. We require the companies to refrain from collecting, using and disclosing your information except when they are performing work for us or when the disclosure of your information is required by law.
+
+  * > When We Work on Business Transactions – If we become involved with a merger or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
+
+  * > When Sharing Helps Us Protect Lawful Interests – We may disclose your information if we believe that the disclosure is required by law, if we believe that the disclosure is necessary to enforce our agreements or policies, or if we believe that the disclosure will help us protect the rights, property, or safety of Bolt or our customers or partners.
+
+
+
+
+_How We May Allow Others to Collect Your Information_
+
+We allow third parties to collect this information on our websites for the following purposes:
+
+  * > To Collect Information on How Our Websites and Services Are Used – We allow certain service providers to use the information collected on our websites and services to help us learn about our audience and how people use our websites. The companies that use this information for this purpose do not match the information to individual users. In other words, statistical information collected by third parties regarding website usage or performance is not matched or linked to you. We use such information and these third party services to maintain and improve our Services offerings to you and to other users.
+
+  * > Bolt Merchants may have access to your information on their Merchant dashboard or through our Application Programming Interface so that they can properly provide their own services to you.
+
+  * > Bolt reserves the right to inform end users about certain third party products and services, and to share your information with such third parties if you express an interest in buying their products or services. As of the date of this policy we do not share user data with third parties other than those who help us provide our services.
+
+
+
+
+_Cookies, Web Beacons and Similar Technologies_
+
+We and others may use a variety of technologies to collect information about your device and use of our services. These technologies include cookies and web beacons.
+
+Cookies are small data files that are sent from a website’s server and are stored on your device’s hard drive either for only the duration of your visit ("session cookies") or for a fixed period of time ("persistent cookies"). Cookies contain information that can later be read by a web server. Most web browsers automatically accept cookies, but you can change your browser settings to give you the choice to accept a cookie or reject cookies altogether.
+
+We mainly use cookies for the following purposes:
+
+  *   * > Website Functionality – Some cookies (considered "strictly necessary") are required to allow you to access and use our websites. Without these cookies, our websites do not work properly.
+
+  * > Performance Monitoring – Some cookies (considered "performance" cookies) help us analyze and estimate traffic on our website. They show us how visitors interact with our website, whether there are any errors, which pages are not used often, which pages take a long time to load, which pages users tend to visit and in what order. These cookies do not collect any information that could identify you and are only used to help us improve how our website works and understand user interests.
+
+  * > User Convenience – Some cookies (considered "functionality" cookies) remember information to save you the trouble of entering information every time you visit or use a particular website. For example, a cookie may remember your username to save you time when you log in to your account.
+
+  * > Web Beacons are small, transparent images that are embedded in web pages, applications, and emails that are sometimes called "clear gifs," "single pixel gifs", "page tags" or "web bugs." We use web beacons to track the web pages you visit, to test the effectiveness of our marketing, and to find out if an email has been opened and acted on.
+
+
+
+
+_Your Choices: Promotional Communications_
+
+You can opt out of receiving promotional emails, text messages, telephone calls, and mailings by informing us of your preference at the time you sign up for an account, modifying your promotional preferences online in your account’s profile management section, or adjusting your text and notification preferences in your mobile device's settings or by following the opt-out instructions in the promotional emails we send you.
+
+Alternatively, you may let us know that you do not wish to receive some or all of these promotional communications by emailing us at support@bolt.com, calling us at 800-265-8053 or by writing to us at Bolt Financial, Inc., 77 Van Ness Avenue Suite 101, San Francisco, CA 94102.
+
+Please note that if you opt out of receiving promotional communications from us, we may still send you non-promotional communications, including important emails about your accounts or purchases.
+
+.
+
+_Your Choices: Information Collection_
+
+You can also make choices about the information we collect about you:
+
+  * > Location Information – When you use a smartphone or other mobile device to access our Site, we may collect information about your physical location only if (a) "location services" for the mobile application is enabled; or (b) the permissions in the mobile device allow communication of this information. If you do not want us to collect your location information, you can opt out of sharing this information by changing the relevant preferences and permissions in your mobile device.
+
+  * > Cookies – If you want to reject cookies, you must take action to select the appropriate settings in your browser. If you choose to remove or reject cookies, it will affect many features or services on our websites. Each browser’s cookie control is a little different, but the most common browsers (Internet Explorer, Chrome, Firefox, and Safari) have a preference or option you can select so the browser notifies you if a site wants to set a cookie and typically provides an option to accept or reject the cookie before the cookie is set. If you want to learn the correct way to modify your cookie settings, please use the Help menu in your browser. For additional information about cookies, including how to refuse cookies, please visit www.allaboutcookies.org.
+
+  * > "Do Not Track" Technology – Some newer web browsers have a "Do Not Track" preference that transmits a "Do Not Track" header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser "Do Not Track" signals.
+
+
+
+
+_Changing Your Information or Deleting Your Account_
+
+At present, individual users do not have Bolt accounts where information can be updated or deleted. You should contact the merchant with whom you have transacted if you would like to change or delete your information regarding a transaction, but please note this may not be possible given accounting, tax, and other financial regulations.
+
+_How We Protect Your Information_
+
+Bolt protects your information using technical, physical, and administrative security measures to reduce the risk of loss, misuse, unauthorized access, disclosure or modification of your information. Some of our safeguards include firewalls, data encryption, physical access controls, and administrative informational controls. While we have employed security technologies and procedures to assist safeguarding your personal information, no system or network tutilizing the Internet can be guaranteed to be 100% secure. When you transmit highly sensitive information (such as a credit card number) through our website or in one of our mobile applications, we encrypt the transmission of that information using the Secure Socket Layer (SSL) protocol.
+
+_Use by Minors_
+
+We do not intend for our websites or online services to be used by anyone under the age of 14. If you are a parent or guardian and believe we may have collected information about a child, please contact us as described in the "Contact Us" section below and we will immediately delete any such information.
+
+_California Residents_
+
+If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Bolt Support, 1235D Howard Street, San Francisco, CA 94103. We will make every effort to promptly respond to your request.
+
+_Changes to This Privacy Policy_
+
+This Policy went into effect on the date noted at the top of this web page. We may update this Policy from time to time. If we make material changes, we will post the updated Policy on this page and change the date at the top of this web page. We encourage you to look for updates and changes to this Policy by checking this date at the top of this web page. We will notify you of any modifications to this Policy that might materially affect the way we use or disclose your personal information prior to the change becoming effective by means of a message on this website.
+
+_Contact Us_
+
+Please feel free to contact us with any comments, questions or suggestions you might have regarding the information described in the Sites.
+
+You may contact us at:
+
+Bolt Financial, Inc., 77 Van Ness Avenue Suite 101, San Francisco, CA 94102
+
+Telephone: +1 800-265-8053 (1-800-BOLT-053)
+
+Email: support@bolt.com
