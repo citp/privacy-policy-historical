@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripfactory.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128002513id_/http%3A//www.tripfactory.com/gen/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripfactory.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330153049id_/http%3A//tripfactory.com/gen/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TripFactory.com
 
