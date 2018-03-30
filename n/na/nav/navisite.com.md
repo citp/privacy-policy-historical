@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navisite.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129142504id_/http%3A//www.navisite.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navisite.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331005343id_/http%3A//www.navisite.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spectrum Enterprise | Navisite
 
@@ -31,6 +31,14 @@ Navisite shares your personal information in order to investigate, prevent or ta
 Navisite also shares your personal information in the event that Navisite, or any affiliated entity, or substantially all of its assets related to a particular geographical region, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, user information may be one of the transferred assets.
 
 Aggregate data and information that otherwise is not personally identifiable to you may be disclosed to others.
+
+## GDPR
+
+The EU General Data Protection Regulation 2016/679, more commonly known as the “GDPR”, is a new European data protection law that will replace existing European data protection rules from 25 May 2018. The GDPR aims to strengthen and harmonize the data protection regime across the EU, and brings about some key changes to the existing requirements. We have been actively reviewing and assessing our services against these new requirements, and are working to ensure that they will comply with the GDPR.
+
+The GDPR may also impose new requirements on our customers, including in relation to their use of our services. Please note that our compliance with the GDPR does not necessarily mean that our customers automatically comply with the GDPR. We are committed to helping our customers with their compliance efforts, and are preparing tools designed to assist them in meeting their obligations when they use our services. However, we strongly encourage our customers to review their own collection and use of personal data, including in relation to their use of our services.
+
+If you have any questions, please do not hesitate to get in touch with us. You can also find out more about the GDPR on [the official EU website](https://ec.europa.eu/info/law/law-topic/data-protection_en).
 
 ## Information Related to Personal Data Collected Through Cloud and Messaging Services
 
