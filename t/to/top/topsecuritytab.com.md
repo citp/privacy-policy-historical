@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsecuritytab.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129010623id_/http%3A//topsecuritytab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsecuritytab.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330191055id_/http%3A//topsecuritytab.com/privacy) for the most accurate reproduction.*
 
 # Topsecuritytab | Privacy Policy
 
@@ -88,15 +88,15 @@ We provide you with the ability to exercise certain choices and controls in conn
 
 
 
-We value your privacy and control over your Personal Information, and therefore you may, at any time, make such request (to access, change, update or remove your Personal Information) by contacting us at: supportimali.media. In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply. 
+We value your privacy and control over your Personal Information, and therefore you may, at any time, make such request (to access, change, update or remove your Personal Information) by contacting us at: support(at)imali.media. In the event you make such request, note that we may require certain information from you in order to verify your identity and locate your data and that the process of locating and deleting the data may take reasonable time and effort. Data privacy and related laws in your jurisdiction may provide you with different or additional rights related to the data we collect from you, which may also apply. 
 
 ## HOW DO WE SAFEGUARD AND TRANSFER YOUR INFORMATION?
 
-We take great care in implementing and maintaining the security of the Browsing Products and your information. We employ industry standard procedures and policies to ensure the safety of our users’ information, and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Browsing Products, and we make no warranty, express, implied or otherwise, that we will prevent such access. We may adopt what we believe is appropriate data collection, storage and processing practices and security measures to protect against unauthorized access to such data. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse our Browsing Products or acted in an inappropriate manner, please contact us directly at supportimali.media. 
+We take great care in implementing and maintaining the security of the Browsing Products and your information. We employ industry standard procedures and policies to ensure the safety of our users’ information, and prevent unauthorized use of any such information. Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse our Browsing Products, and we make no warranty, express, implied or otherwise, that we will prevent such access. We may adopt what we believe is appropriate data collection, storage and processing practices and security measures to protect against unauthorized access to such data. If you feel that your privacy was treated not in accordance with our policy, or if any person attempted to abuse our Browsing Products or acted in an inappropriate manner, please contact us directly at support(at)imali.media. 
 
 ## MINORS
 
-You represent and warrant that you are at least 13 years of age and of legal competence to enter into these Agreement. If you are under 18, please be sure to read the Agreement with your parents or legal guardians. We do not use the Product to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide Personal Information through our services. If you become aware or have any reason to believe that a child under the age of 13 has shared any information with us, please contact us at: supportimali.media and we take reasonable steps to ensure that such information is deleted from our files. 
+You represent and warrant that you are at least 13 years of age and of legal competence to enter into these Agreement. If you are under 18, please be sure to read the Agreement with your parents or legal guardians. We do not use the Product to knowingly solicit data from or market to children under the age of thirteen (13). We request that such individuals do not provide Personal Information through our services. If you become aware or have any reason to believe that a child under the age of 13 has shared any information with us, please contact us at: support(at)imali.media and we take reasonable steps to ensure that such information is deleted from our files. 
 
 ## TRANSFER OF DATA
 
@@ -112,4 +112,4 @@ We reserve the right to periodically amend or revise the Privacy Policy from tim
 
 ## HOW TO CONTACT US
 
-If you have any general questions about the Browsing Products or the information that we collect about you and how we use it, please contact us at: supportimali.media. 
+If you have any general questions about the Browsing Products or the information that we collect about you and how we use it, please contact us at: support(at)imali.media. 
