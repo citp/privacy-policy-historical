@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the avention.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223065032id_/https%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avention.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330223755id_/http%3A//www.hoovers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Dun & Bradstreet Privacy Notice - D&B Hoovers
 
 ### Dun & Bradstreet Privacy Notice
 
-Dun & Bradstreet is the world’s leading source of business information and insight.  Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions.  Our global business database contains more than 280 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
+Dun & Bradstreet is the world’s leading source of business information and insight.  Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions.  Our global business database contains more than 285 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
 
 This privacy notice explains how we collect, share and protect business information.
 
