@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705134857id_/https%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330052809id_/https%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
@@ -6,7 +6,7 @@
 
 Public Transport Victoria (PTV) will collect, use, store and disclose personal information and health information in accordance with Information Privacy Principles (IPPs) set out in the _Privacy and Data Protection Act 2000_ (Vic) (PDP Act) and the Health Privacy Principles (HPPs) and the _Health Records Act 2001_ (Vic).
 
-This policy outlines how PTV manages Personal Information and Health Information, and is designed to assist people to understand how Personal Information and Health Information is managed by PTV. Information is also provided about how people can seek assurance that their Personal Information and/or Health Information is maintained in accordance with the _Information Privacy Act 2000_ and the _Health Records Act 2001_.
+This policy outlines how PTV manages Personal Information and Health Information, and is designed to assist people to understand how Personal Information and Health Information is managed by PTV. Information is also provided about how people can seek assurance that their Personal Information and/or Health Information is maintained in accordance with the _Privacy and Data Protection Act 2014_ and the _Health Records Act 2001_.
 
 This policy applies to all employees of PTV when dealing with Personal Information or Health Information. Where PTV enters into a contract with another organisation for the provision of goods or services relevant to the functions and powers of PTV, those organisations will be required to manage all Personal Information and Health Information in accordance with the PDP Act and _Health Records Act 2001_ too, but may have their own relevant privacy policies.
 
@@ -40,11 +40,11 @@ Reasons that PTV may collect Personal Information or Health Information from a p
   * request to be placed on a mailing list maintained by PTV;
   * contact PTV directly, or contact the Victorian Government about a matter relevant to PTV’s function or services;
   * are provided with products or services by PTV; or
-  * make a request for access to documents under the _Freedom of Information Act 1982_ (Vic).
+  * make a request for access to documents under the _Freedom of Information Act 1982 (Vic)_.
 
 
 
-### Collection statements / notices
+### Collection statements/notices
 
 At or before the time PTV collects any Personal Information or Health Information from a person (or if that is not practicable, as soon as practicable afterwards), PTV will take reasonable steps to ensure that they are given a collection statement setting out the purpose for collecting the information, how the information will be used and the consequences, if any, for not providing the information requested.
 
@@ -54,7 +54,7 @@ Whenever it is lawful and practical, PTV will provide people with the option of 
 
 #### Correspondence
 
-Correspondence (including email) or complaints addressed to Victorian Government Ministers or agencies, or queries made through PTV’s call centre regarding matters related to the functions of, or service provided by, PTV may be referred to PTV for advice and response. Such correspondence, as well as correspondence addressed directly to PTV may include Personal Information or Health Information, and may be accessed by PTV staff, subject to operational need.
+Correspondence (including email) or complaints addressed to Victorian Government Ministers or agencies, or queries made through the [public transport call centre](https://www.ptv.vic.gov.au/customer-service/public-transport-call-centre/ "Link to Public transport call centre page") regarding matters related to the functions of, or service provided by, PTV may be referred to PTV for advice and response. Such correspondence, as well as correspondence addressed directly to PTV may include Personal Information or Health Information, and may be accessed by PTV staff, subject to operational need.
 
 Copies of correspondence, applicable responses and details pertaining to correspondence received by PTV which contains Personal Information or Health Information may be retained by PTV for certain periods of time, in accordance with the _Public Records Act 1973_ and other applicable legislation.
 
@@ -100,17 +100,15 @@ People are entitled to contact the PTV Information Privacy Officer (contact deta
 
 If a person’s Personal Information or Health Information is associated with information relating to an event, commercial activities or in some way affects the privacy of another individual, they may need to make a formal Freedom of Information request pursuant to section 17 of the _Freedom of Information Act 1982_ (Vic). Your Freedom of Information application should be made to:
 
-PTV Freedom of Information Officer
+### PTV Freedom of Information Officer
 
-PO Box 4724
-
-Melbourne  VIC  3000
+PO Box 4724, Melbourne  VIC  3000
 
 Telephone: [1800 800 007](https://www.ptv.vic.gov.au/customer-service/public-transport-call-centre/ "Link to the PTV call centre page")
 
-Facsimile: 03 9027 4074
+Fax: 03 9027 4074
 
-Email: [ptvfoi@ptv.vic.gov.au](mailto:ptvfoi@ptv.vic.gov.au?subject=Freedom%20of%20Information%20request "Email the PTV Freedom of Information Officer")
+Email: [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#43333735252c2a033337356d352a206d242c356d22367c303621292620377e05312626272c2e6671732c256671730a2d252c312e22372a2c2d66717331263236263037 "Email the PTV Freedom of Information Officer")
 
 ## Unique identifiers
 
@@ -126,44 +124,22 @@ PTV will not:
 
 ## Privacy complaints
 
-If a person believes that their Personal or Health Information has been used by PTV in a manner contrary to the _Information Privacy Act 2000_ (Vic) or _Health Records Act 2001_ (Vic), they may contact the PTV Privacy Officer.
+If a person believes that their Personal or Health Information has been used by PTV in a manner contrary to the _Privacy and Data Protection Act 2014_ (Vic) or _Health Records Act 2001_ (Vic), they may contact the PTV Privacy Officer.
 
 ### PTV Privacy Officer
 
 PO Box 4724, Melbourne VIC 3000
 
-Telephone: 1800 800 007
+Telephone: [1800 800 007](https://www.ptv.vic.gov.au/customer-service/public-transport-call-centre/ "Link to the PTV call centre page")
 
-Facsimile: (03) 9027 4074
+Fax: (03) 9027 4074
 
-Email: [ptvprivacy@ptv.vic.gov.au](mailto:ptvprivacy@ptv.vic.gov.au "Email the PTV Information Privacy Officer")
+Email: [[email protected]](https://www.ptv.vic.gov.au/cdn-cgi/l/email-protection#a7d7d3d1d7d5ced1c6c4dee7d7d3d189d1cec489c0c8d189c6d2 "Email the PTV Information Privacy Officer")
 
-Complaints about any use of a person’s Health Information which is believed to be contrary to the _Health Records Act 2001 (Vic)_ can be made with the Health Services Commissioner. Information for submitting complaints in respect of Health Information is available at [www.health.vic.gov.au/hsc](http://www.health.vic.gov.au/hsc "Link to the Department of Health website").
+### Health Complaints Commisssioner
 
-### Health Services Commissioner contact
-
-570 Bourke Street, Melbourne VIC 3000
-
-Telephone: 1300 582 113
-
-Facsimile: (03) 9032 3111
-
-Email: [hsc@health.vic.gov.au](mailto:hsc@health.vic.gov.au "Email the Health Services Commissioner")
-
-People can also contact the Commissioner for Privacy and Data Protection for more information or to raise certain complaints about privacy matters and regulation in Victoria.
+Complaints about any use of a person’s Health Information which is believed to be contrary to the _Health Records Act 2001_ (Vic), or requests for further information _ _ can be made with the [Health Complaints Commissioner](https://hcc.vic.gov.au/ "Link to Health Complaints Commissioner website").
 
 ### Commissioner for Privacy and Data Protection
 
-Level 6, 121 Exhibition Street
-
-Melbourne VIC 3000
-
-GPO Box 24014
-
-Melbourne VIC 3001
-
-Telephone: 1300 666 444
-
-Facsimile: 1300 666 445
-
-Email: [enquiries@privacy.vic.gov.au](mailto:enquiries@privacy.vic.gov.au "Email to Privacy and Data Protection Victoria")
+People can also contact the [Commissioner for Privacy and Data Protection](https://www.cpdp.vic.gov.au/ "Link to the Commissioner for Privacy and Data Protection website") for more information or to raise certain complaints about privacy matters and regulation in Victoria.
