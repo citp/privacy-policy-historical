@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the drama-cool.cc privacy policy that was archived on 2017-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170908172808id_/http%3A//drama-cool.cc/page-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drama-cool.cc privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330194822id_/http%3A//dramacool.pink/page-privacy-policy) for the most accurate reproduction.*
 
-# Drama-cool.cc - Watch And Download Asian Drama
+# DramaCool - Watch And Download Asian Drama
 
 This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you accept the practices described here.  
 **Advertising**  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
 **Collection of Information**  
 We collect personally identifiable information, like names, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request, unless you give us permission to use it in another manner, for example, to add you to one of our mailing lists.  
 **Cookie/Tracking Technology**  
