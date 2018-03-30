@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125133502id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330124919id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | hellokpop
 
@@ -22,19 +22,19 @@ We will not sell, share, or otherwise distribute your personal data to third par
 
 **Security and Confidentiality  
 **  
-To ensure the security and confidentiality of personal data that hellokpop collects on-line, hellokpop uses data networks protected, inter- alias, by industry standard firewall and password protection. If an internal employee breaches our policies and procedures, he/she will be disciplined accordingly. Staff compliance with our policies and procedures is regularly reviewed. While we cannot guarantee against any loss, misuse or alteration to data, we try to prevent such unfortunate occurrences to the best of our ability at all times.
+To ensure the security and confidentiality of personal data that we collect online, we use data networks protected, inter- alias, by industry standard firewall and password protection. If an internal employee breaches our policies and procedures, he/she will be disciplined accordingly. Staff compliance with our policies and procedures is regularly reviewed. While we cannot guarantee against any loss, misuse or alteration to data, we try to prevent such unfortunate occurrences to the best of our ability at all times.
 
 **Gathering of Anonymous Data  
 **  
-Most of the information that hellokpop collects from its Website is anonymous information, such as the pages you visit and searches you perform. When you visit our Website we do not collect any personal data from you. Anonymous information is processed by hellokpop to help improve the contents of the Website and to compile aggregate statistics about individuals using our site for internal analysis purposes only.
+Most of the information that www.hellokpop.com collects from its Website is anonymous information, such as the pages you visit and searches you perform. When you visit our Website, we do not collect any personal data from you. Anonymous information is processed by us to help improve the contents of the Website and to compile aggregate statistics about individuals using our site for internal analysis purposes only.
 
 **Spamming**
 
-hellokpop does not condone “spamming”. Spamming is defined as sending unsolicited e-mails, usually of a commercial nature, in large numbers and repeatedly to individuals with whom the sender has had no previous contact or who have declined to receive such communications. We also have user comment moderation policies in place to prevent user spamming.
+We do not condone “spamming”. Spamming is defined as sending unsolicited e-mails, usually of a commercial nature, in large numbers and repeatedly to individuals with whom the sender has had no previous contact or who have declined to receive such communications. We also have user comment moderation policies in place to prevent user spamming.
 
 **Links to Other Sites  
 **  
-This Privacy Policy applies only to hellokpop.com to the exclusion of third party websites. hellokpop may provide links to other/or partner websites which we believe may be of interest to our visitors. We aim to ensure that such websites are of the highest standard. However, due to the nature of the World Wide Web, hellokpop cannot guarantee the standards of every website link it provides or be responsible for the contents of non-hellokpop.com sites.
+This Privacy Policy applies only to www.hellokpop.com to the exclusion of third party websites. We may provide links to other/or partner websites which we believe may be of interest to our visitors. We aim to ensure that such websites are of the highest standard. However, due to the nature of the World Wide Web, we cannot guarantee the standards of every website link it provides or be responsible for the contents of external sites.
 
 **Contact hellokpop**
 
