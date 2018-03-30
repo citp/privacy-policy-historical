@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jukeboxprint.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129025539id_/http%3A//www.jukeboxprint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukeboxprint.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330143756id_/http%3A//www.jukeboxprint.com/privacy.php) for the most accurate reproduction.*
 
 # Online Privacy | JukeBoxPrint.com
 
 JUKEBOXPRINT.COM Online Privacy
 
-When you place an order with JUKEBOXPRINT.COM you can be certain that we have implemented comprehensive security practices when placing your order. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at [www.jukeboxprint.com](https://web.archive.org/web/20171129025539id_/http%3A//www.jukeboxprint.com/redir.aspx?C=d709aa58d5114016a090d7038e0b2bab&URL=http%3a%2f%2fwww.jukeboxprint.com) (the "Site") 
+When you place an order with JUKEBOXPRINT.COM you can be certain that we have implemented comprehensive security practices when placing your order. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at [www.jukeboxprint.com](https://web.archive.org/web/20180330143756id_/http%3A//www.jukeboxprint.com/redir.aspx?C=d709aa58d5114016a090d7038e0b2bab&URL=http%3a%2f%2fwww.jukeboxprint.com) (the "Site") 
 
 What information do we collect?
 
@@ -46,7 +46,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at: [](https://web.archive.org/web/20171129025539id_/http%3A//www.jukeboxprint.com/redir.aspx?C=d709aa58d5114016a090d7038e0b2bab&URL=http%3a%2f%2fwww.jukeboxprint.com%2fterms_and_conditions.php)<http://www.jukeboxprint.com/terms_and_conditions.php>. 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at: [](https://web.archive.org/web/20180330143756id_/http%3A//www.jukeboxprint.com/redir.aspx?C=d709aa58d5114016a090d7038e0b2bab&URL=http%3a%2f%2fwww.jukeboxprint.com%2fterms_and_conditions.php)<http://www.jukeboxprint.com/terms_and_conditions.php>. 
 
 Your Consent
 
@@ -70,6 +70,6 @@ Vancouver, British Columbia V5Y 1G4
 
 Canada
 
-[contact@jukeboxprint.com](https://web.archive.org/web/20171129025539id_/http%3A//www.jukeboxprint.com/redir.aspx?C=d709aa58d5114016a090d7038e0b2bab&URL=mailto%3acontact%40jukeboxprint.com)
+[contact@jukeboxprint.com](https://web.archive.org/web/20180330143756id_/http%3A//www.jukeboxprint.com/redir.aspx?C=d709aa58d5114016a090d7038e0b2bab&URL=mailto%3acontact%40jukeboxprint.com)
 
 888 667 0067
