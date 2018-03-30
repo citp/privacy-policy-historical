@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109001935id_/https%3A//www.formula1.com/en/toolbar/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formula1.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330214911id_/https%3A//www.formula1.com/en/toolbar/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
