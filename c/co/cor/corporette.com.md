@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporette.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128045238id_/http%3A//corporette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporette.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330060714id_/http%3A//corporette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Corporette.com
 
