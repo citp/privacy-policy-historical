@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220231933id_/http%3A//www.kuoni.co.uk/help-and-support/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330103837id_/http%3A//www.kuoni.co.uk/help-and-support/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kuoni Travel
 
-The copyright in the material on this web site rests with Kuoni Travel Ltd and its suppliers.
+The copyright in the material on this web site rests with Der Touristik UK Ltd and its suppliers.
 
 Your access to it does not imply a licence to reproduce and/or distribute this information. This means that you cannot reproduce or distribute this information. 
 
