@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mensa.org.uk privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226233842id_/http%3A//www.mensa.org.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensa.org.uk privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330231749id_/http%3A//www.mensa.org.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | British Mensa
 
