@@ -1,32 +1,28 @@
-> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016180454id_/https%3A//mixpanel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixpanel.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330235851id_/https%3A//mixpanel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile & Web Analytics | Mixpanel
 
-## Last updated September 30, 2016
+## Last updated October 26, 2017
 
-Mixpanel and its subsidiaries and affiliated companies (“ **Mixpanel** ”, “ **we** ”, “ **our** ”, and “ **us** ”) is committed to protecting your privacy. This Privacy Policy (“ **Policy** ”) explains our privacy practices regarding personal information (as defined below) that we collect, use, share and secure from users on [https://mixpanel.com](https://mixpanel.com/), and emails sent from [console.datadrivenemail.com](http://console.datadrivenemail.com/) (each, a “ **Site** ” and collectively, the “ **Sites** “), our mobile application (“ **Application(s)** ”) and online services (“ **Services** ”). It also describes your choices regarding use, access and correction of your personal information. This Policy does not apply to websites, applications or services that display or link to different privacy statements. This Policy also does not apply to information we collect on behalf of our business customers through their use and implementation of our analytics platform. For further information about the data we collect on behalf of customers who use our analytics platform, please visit our terms of use at <https://mixpanel.com/terms> (“ **Terms** “).
+Mixpanel and its subsidiaries and affiliated companies (“ ** _Mixpanel_** ”, “ ** _we_** ”, “ ** _our_** ”, and “ ** _us_** ”) is committed to protecting your privacy. This Privacy Policy (“ ** _Policy_** ”) explains our privacy practices regarding personal information (as defined below) that we collect, use, share and secure from users on [https://mixpanel.com](https://mixpanel.com/), and emails sent from [console.datadrivenemail.com](http://console.datadrivenemail.com/) (each, a “ ** _Site_** ” and collectively, the “ ** _Sites_** “), our mobile application (“ ** _Application(s)_** ”) and online services (“ ** _Services_** ”). It also describes your choices regarding use, access and correction of your personal information. The use of information collected through our data analytics platform shall be limited to the purpose of providing the service for which the Customer has engaged Mixpanel. This Policy does not apply to websites, applications or services that display or link to different privacy statements. This Policy also does not apply to information we collect on behalf of our business customers through their use and implementation of our analytics platform. For further information about the data we collect on behalf of customers who use our analytics platform, please visit our terms of use at <https://mixpanel.com/terms> (“ ** _Terms_** “).
 
-### EU-U.S. Privacy Shield
+### EU-U.S. Privacy Shield  **and Swiss-U.S. Privacy Shield**
 
-Mixpanel participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Mixpanel is committed to subjecting all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
+Mixpanel participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-US Privacy Shield Framework. Mixpanel is committed to subjecting all personal information received from European Union (EU) member countries, and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>.
 
-Mixpanel is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Mixpanel complies with the Privacy Shield Principles for all onward transfers of personal information from the EU, including the onward transfer liability provisions.
+Mixpanel is responsible for the processing of personal information it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Mixpanel complies with the Privacy Shield Principles for all onward transfers of personal information from the EU and Switzerland, including the onward transfer liability provisions.
 
 With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Mixpanel is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Mixpanel may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-### U.S. – Swiss Safe Harbor Framework
-
-Mixpanel complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. Mixpanel has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Mixpanel’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
 ## INFORMATION WE COLLECT
 
 We collect information, including personal, information in various ways when you use our Sites, Application(s) and Services. As used in this Policy, “personal information” means any information which, either alone or in combination with other information, identifies you as an individual, such as your name, mailing address, and email address.
 
-### Information You Provide Us
+**Information You Provide Us**
 
 We collect information, including personal information, you provide us voluntarily. For example:
 
-  * We collect your first and last name, email address, and password when you create an account to log in to our network (“ **Account** ”).
+  * We collect your first and last name, email address, and password when you create an account to log in to our network (“ ** _Account_** ”).
   * We may retain information on your behalf that you store using your Account, including postal address, phone number, fax number, company name and credit card payment information.
   * If you use our Services on your mobile device, including through our Application(s), we may collect your mobile carrier and the unique device id number.
   * If you tell us where you are (e.g., by allowing your mobile device to send us your location), we may store and use that information for internal analytics purposes.
@@ -34,7 +30,7 @@ We collect information, including personal information, you provide us voluntari
 
 
 
-### Information Collected Via Technology
+**Information Collected Via Technology**
 
 We automatically collect certain information via technology:
 
@@ -67,17 +63,17 @@ _User Feedback_. We often receive feedback and comments from users who have had 
 
 _Creation of Anonymous Data_. We may create anonymous data records from personal information by excluding information (such as your name) that makes the data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance the content of our Services and improve Application(s) and Site navigation. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion.
 
-## SHARING OF PERSONAL INFORMATION
+## **SHARING OF PERSONAL INFORMATION**
 
-### Information You Share
+**Information You Share**
 
 Our Policy does not cover any third party services. To learn about those third parties’ privacy practices, please read their privacy policies.
 
-### Information We Share
+**Information We Share**
 
 We do not share your personal information with third parties without your consent other than:
 
-  * _Third Party Service Providers_. With third parties who work on our behalf, provided that such third parties subscribe to the Principles or provide at least the same level of privacy protection as required by the Principles;
+  * _Third Party Service Providers_. With third parties who work on our behalf, provided that such third parties subscribe to the Principles or provide at least the same level of privacy protection as required by the Principles. These companies are authorized to use your personal information only as necessary to provide these services to you. These services may include providing cloud computing infrastructure, website crash reporting, and providing customer support or account administration;
   * _Lawful Requests_. To comply with laws or to respond to lawful requests and legal process (provided that Mixpanel will endeavor to notify you if Mixpanel has received a lawful request for your information);
   * _Protection of Rights and Property_. To protect the rights and property of Mixpanel, our agents, customers and others including to enforce our agreements, policies and Terms (as defined below);
   * _Emergency_. In an emergency, including to protect the personal safety of any person; and
@@ -85,23 +81,23 @@ We do not share your personal information with third parties without your consen
 
 
 
-## ANALYTICS PLATFORM ACTIVITIES
+## **ANALYTICS PLATFORM ACTIVITIES**
 
 With respect to our analytics platform, Mixpanel collects information under the direction of its customers (the data controller), and has no direct relationship with the individuals whose personal information it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customers that use our service, please contact the customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
-Mixpanel has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the Mixpanel’s customer (the data controller). If requested to remove data we will respond within a reasonable timeframe.
+Mixpanel acknowledges that you have the right to access your personal information. Mixpanel has no direct relationship with the individuals whose personal information it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to the Mixpanel’s customer (the data controller). If requested to remove data we will respond within a reasonable timeframe.
 
 We will retain personal information we process on behalf of our customer for as long as needed to provide services to our customer. Mixpanel will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## PERSONAL INFORMATION SECURITY
+## **PERSONAL INFORMATION SECURITY**
 
 Mixpanel maintains commercially reasonable administrative, technical, and physical safeguards to help protect your personal information in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration and destruction. However, no transmission over the internet is 100% secure. It is your responsibility to protect your user names and passwords to help prevent anyone from accessing or abusing your accounts and services. You should not use or reuse the same passwords you use with other accounts as your password for our services.
 
-## CHILDREN
+## **CHILDREN**
 
 We do not intentionally gather personal information from visitors who are under the age of 13. If you are under the age of 13, you are not permitted to submit any personal information to us. If we learn that a child under 13 submits personal information to Mixpanel we will attempt to delete the information as soon as possible. If you believe that we might have any personal information from a child under 13, please contact us at: [support@mixpanel.com](mailto:support@mixpanel.com).
 
-## YOUR INFORMATION CHOICES AND CHANGES
+## **YOUR INFORMATION CHOICES AND CHANGES**
 
 _Email Communications_. You may opt out of receiving promotional emails from Mixpanel by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your Mixpanel projects or our ongoing business relationship.
 
@@ -111,31 +107,25 @@ _Applications_. You can stop all collection of information by an Application(s) 
 
 _Do Not Track Signals_. Some web browsers may transmit “do not track” signals to the websites and other online services with which your web browser communications. There is no standard that governs what, if anything, websites should do if they receive these signals. Mixpanel currently does not respond to “Do Not Track” browser signals or similar mechanisms. If and when a standard is established, we may revise our policy on responding to these signals. Third parties may collect personal information about your online activities over time and across sites when you visit the Sites or use the Mixpanel Service.
 
-### Social Media Widgets
+**Social Media Widgets**
 
 Our website may include social media features, such as the Facebook and LinkedIn button or interactive mini-programs that run on our website. These features may collect your IP address, which page you are visiting on our website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
 
-## CHANGES TO THIS POLICY
+## **CHANGES TO THIS POLICY**
 
-Mixpanel may change this Policy from time to time. If we make any changes to this Policy, we will change the “Last Updated” date above. You agree that your continued use of our Sites, Application(s) or Services after such changes have been published to our Policy will constitute your acceptance of such revised Policy.
+Mixpanel may change this Policy from time to time. If we make any changes to this Policy, we will change the “Last Updated” date above. If we make any material changes we will notify you by email (sent to the email address specified on your account or ordering document) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. You agree that your continued use of our Sites, Application(s) or Services after such changes have been published to our Policy will constitute your acceptance of such revised Policy.
 
-### Contacting Mixpanel and Dispute Resolution
+**Contacting Mixpanel and Dispute Resolution**
 
 Mixpanel provides periodic training for its employees involved in the collection and dissemination of customer information. In addition, Mixpanel’s internal policies and procedures provide for disciplinary action if our employees fail to follow this Privacy Policy. We periodically self-assess and review these internal policies and procedures to review compliance.
 
 In compliance with the Principles, Mixpanel commits to resolve any complaints about your privacy and our collection, use, or disclosure of your personal information. If you have any inquiries or complaints regarding this Policy or our compliance with Privacy Shield, you should first contact Mixpanel at:
 
-  1. Email: [legal@mixpanel.com](mailto:legal@mixpanel.com)
-  2. Postal mail: Mixpanel, Inc., 405 Howard St., 2nd Floor, San Francisco, CA 94105
+  * Email: [legal@mixpanel.com](mailto:legal@mixpanel.com)
+  * Postal mail: Mixpanel, Inc., 405 Howard St., 2nd Floor, San Francisco, CA 94105
 
 
 
 Individuals who submit an inquiry or complaint to Mixpanel but do not receive acknowledgement from us or think the complaint or concern has not been satisfactorily addressed please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. You must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company.
 
 Under certain conditions, more fully described [here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. In addition, the United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against Mixpanel regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy.
-
-In addition, the United States Federal Trade Commission is the statutory body that has jurisdiction to hear any claims against Mixpanel regarding possible unfair or deceptive practices and violations of laws or regulations governing privacy.
-
-## QUESTIONS
-
-If you have any questions about this Policy, please contact us at [legal@mixpanel.com](mailto:legal@mixpanel.com).
