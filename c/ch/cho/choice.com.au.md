@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302071237id_/https%3A//www.choice.com.au/policies-terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choice.com.au privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330125930id_/https%3A//www.choice.com.au/policies-terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # CHOICE privacy statement
 
@@ -23,7 +23,7 @@ We limit the information we collect to only what we consider is necessary. This 
 
 
 
-Aside from obvious places, we may also collect this information in our customer surveys, user reviews and opinions, and when you engageme with our Sites (for example Voice Your Choice and CHOICE.community), whether logged on or not. 
+Aside from obvious places, we may also collect this information in our customer surveys, user reviews and opinions, and when you engage with our Sites (for example Voice Your Choice and CHOICE.community), whether logged on or not. 
 
 While we may be small, we're involved in a lot of consumer projects and advocacy, which means we need to work with key partners from time to time and use their external platforms. That means we may also collect your personal details from another sites like Engaging Networks if you've signed one of our petitions or supported our advocacy work.
 
@@ -53,23 +53,29 @@ While we hope you stick around for quite a while, you can unsubscribe or opt-out
 
 We share non-identifiable data with third parties such as Google, Facebook, AB Tasty and others. Our main technology service providers are Crazy Egg, DoubleClick (including DoubleClick Floodlight & DoubleClick Spotlight), Google Adwords Conversion, Google Analytics, Adobe Media Optimizer, Facebook Social Plugins, Google +1, ShareThis, BazaarVoice, Flashtalking, Rocketfuel, Sociomantics, Feedbackify, Loop11, 5th Dimension and Zopim.
 
-<><>
-
 Information submitted through a Site is shared with a third-party service provider who operates that platform for us. Our service providers have all passed strict organisational and technical security standards set up with your privacy in mind. 
 
 We don't share your identifiable details with these third parties for marketing purposes. But we may release your information when we believe that it's appropriate to comply with the law; to enforce our site policies; or protect our or others' rights, property, or safety. We may also share non-personally identifiable visitor information with other parties for marketing, advertising, or other uses.
 
 At all times we use our best endeavours to ensure that any recipients of your information will not be in breach of this privacy statement, and that your privacy is protected.
 
-Please note that CHOICE has a statutory requirement to maintain a register of Voting Members. This document isn't published, but is publicly accessible on request. Any person nominating for voting membership should be aware that upon acceptance of their nomination by the board of CHOICE, their name, address and email address will be added to this register.
+Please note that CHOICE has a statutory requirement to maintain a register of voting members. This document isn't published, but is publicly accessible on request. Any person nominating for voting membership should be aware that upon acceptance of their nomination by the board of CHOICE, their name, address and email address will be added to this register.
 
 ### Security and keeping your personal details safe
 
-We know this is big deal. That's why we've put in place physical, electronic and managerial procedures to secure any information collected online from misuse, interference or loss. We do this by design and use our best endeavours to prevent unauthorised access, modification or disclosure of that information. And, we continuously monitor new technologies to do our best to anticipate and block hackers.
+We know this is big deal. That's why we've put in place physical, electronic and managerial procedures to secure any information collected online from misuse, interference or loss. We do this by design and do our best to prevent unauthorised access, modification or disclosure of that information. And, we continuously monitor new technologies to do our best to anticipate and block hackers.
+
+#### Credit card security
+
+Here are the steps we take to protect your details: 
+
+If we send you a renewal notice most, but not all, of the numbers on your credit card will be masked. This masking of details is consistent with a worldwide payment card industry data security standard. To ensure security, your credit card details aren’t held by us, but stored securely by our bank.
+
+All details, including credit card information, submitted through the Sites pass through our secure server, which offers 128-bit encryption.
 
 ### In the box – our servers
 
-Our main servers are located in Australia. Our suppliers have servers based in Australia and overseas including the USA, Canada and Singapore. As part of doing business in the online world, your information may be accessible to the owners of these servers, but not in an identifiable format. Your information is stored on third party servers for the purposes of storage only. Nevertheless, we have used our best endeavours to ensure that any recipients of your information will not be in breach of this Statement. 
+Our main servers are located in Australia. Our suppliers have servers based in Australia and overseas including the USA, Canada and Singapore. As part of doing business in the online world, your information may be accessible to the owners of these servers, but not in an identifiable format. Your information is stored on third party servers for the purposes of storage only. Nevertheless, we do our best to ensure that any recipients of your information will not be in breach of this Statement. 
 
 ### Information in the cloud
 
@@ -113,7 +119,7 @@ If you've previously agreed to us using your personal information for direct mar
 
 We will not sell or lease your personal information to third parties, except for CHOICE's direct marketing purposes, where we have your permission, or where we're required by law to do so. We may send you promotional information about third parties which we think you may find interesting. But again, you can also tell us you don't want this to happen. 
 
-For example, if we wanted to arrange for CHOICE members to obtain member benefits from an organisation other than our own, we might, as a third party, compare our address or email database against that of the other organisation. We'd do that to minimise the chance you'll receive the same offer from both organisations. We will never disclose your name to the other organisation, or share your personal information without your consent. You can opt out of this process by writing to the Privacy Officer at CHOICE at 57 Carrington Road, Marrickville, NSW, 2204 Australia, or emailing the Privacy Officer at [privacy@choice.com.au](mailto:privacy@choice.com.au) __ with the subject heading "Opt out of compare data". There is no charge for this correction. 
+For example, if we wanted to arrange for CHOICE members to obtain member benefits from an organisation other than our own, we might, as a third party, compare our address or email database against that of the other organisation. We'd do that to minimise the chance you'll receive the same offer from both organisations. We'll never disclose your name to the other organisation, or share your personal information without your consent. You can opt out of this process by writing to the Privacy Officer at CHOICE at 57 Carrington Road, Marrickville, NSW, 2204 Australia, or emailing the Privacy Officer at [privacy@choice.com.au](mailto:privacy@choice.com.au) __ with the subject heading "Opt out of compare data". There is no charge for this correction. 
 
 We take all reasonable steps to ensure your information is accurate and up to date. If you think any information we're holding about you is incorrect or incomplete, please write to the Privacy Officer at CHOICE at 57 Carrington Road, Marrickville, NSW, 2204 Australia or email [privacy@choice.com.au](mailto:privacy@choice.com.au) _ _ with the subject heading "Details Correction". We will promptly correct any information found to be incorrect. There is no charge for this correction.
 
@@ -125,7 +131,7 @@ CHOICE Sites and our products and services are intended for people who are at le
 
 ### If you're unhappy
 
-We hope you're not, but if you believe any of our services breach the Australian Privacy Principles, or a relevant code, please write to the Privacy Officer at CHOICE at 57 Carrington Road, Marrickville, NSW, 2204 Australia or email us at [privacy@choice.com.au](mailto:privacy@choice.com.au) with the subject heading "Privacy Complaint". There is no charge for this correction.
+We hope you're not, but if you believe any of our services breach the Australian Privacy Principles, or a relevant code, please write to the Privacy Officer at CHOICE at 57 Carrington Road, Marrickville, NSW, 2204 Australia, or email us at [privacy@choice.com.au](mailto:privacy@choice.com.au) with the subject heading "Privacy Complaint". There's no charge for this correction.
 
 We'll reply to your complaint as soon as possible, no later than 30 calendar days. If you think we haven't adequately addressed your complaint, or you receive no response after 30 calendar days, you can make a complaint to the Office of the Australian Information Commissioner (OAIC). Please see their [guide](https://www.oaic.gov.au/agencies-and-organisations/guides/) for more details. If you have general questions that aren't connected to privacy, please contact the site you're using directly.
 
