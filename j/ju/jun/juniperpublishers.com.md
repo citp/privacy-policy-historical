@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniperpublishers.com privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128152456id_/http%3A//juniperpublishers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniperpublishers.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330111555id_/http%3A//juniperpublishers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Scientific Research Journals with High Impact Articles | Juniper Publishers
 
