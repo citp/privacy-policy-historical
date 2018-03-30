@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatthegmat.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126170554id_/http%3A//www.beatthegmat.com/mba/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthegmat.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330131621id_/https%3A//www.beatthegmat.com/mba/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
