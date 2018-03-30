@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120104317id_/http%3A//www.preloved.co.uk/privacy%3Fref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preloved.co.uk privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330070358id_/http%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | Preloved
 
 You are here: 
 
-  1. [__**Home**](http://www.preloved.co.uk/ "Home page")
+  1. [__**Home**](https://www.preloved.co.uk/ "Home page")
   2. Privacy And Cookies Policy
 
 
@@ -25,7 +25,7 @@ Moo Limited trading as "Preloved" and "Preloved Classifieds" ("we" "our" "us") a
 
 This policy together with our terms of use ( <http://www.preloved.co.uk/terms> ) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Moo Limited of Meridian House, Gadbrook Park, Gadbrook Way, Rudheath, Northwich, CW9 7RA, registration number PZ8708167. 
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Moo Limited of 5th Floor, Voyager House, Chicago Avenue, Manchester Airport, M90 3DQ, registration number PZ8708167. 
 
 ###  Contents 
 
