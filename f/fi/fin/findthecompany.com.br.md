@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findthecompany.com.br privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113185523id_/https%3A//www.graphiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findthecompany.com.br privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330154816id_/https%3A//www.graphiq.com/privacy-policy) for the most accurate reproduction.*
 
 # Graphiq | Privacy Policy
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 EFFECTIVE DATE: May 10, 2017
 
-This Privacy Policy explains how Graphiq Inc. (referred to in this Privacy Policy as Provider, we, us and our) collects, uses and discloses information we collect from you when you access, use or visit this website (the Website) and any other websites owned or operated by us. By accessing, visiting or using this Website, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy.   Please note that if you disagree with anything in this Privacy Policy, you must not use this Website.  This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Use located at https://www.graphiq.com/terms-and-conditions.
+This Privacy Policy explains how Graphiq LLC (referred to in this Privacy Policy as Provider, we, us and our) collects, uses and discloses information we collect from you when you access, use or visit this website (the Website) and any other websites owned or operated by us. By accessing, visiting or using this Website, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy.   Please note that if you disagree with anything in this Privacy Policy, you must not use this Website.  This Privacy Policy is part of, and is governed by, the terms and conditions set forth in our Terms of Use located at https://www.graphiq.com/terms-and-conditions.
 
 1.              _Information Collected through this Website_.
 
