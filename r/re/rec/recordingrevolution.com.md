@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordingrevolution.com privacy policy that was archived on 2017-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170913195206id_/https%3A//www.recordingrevolution.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordingrevolution.com privacy policy that was archived on 2018-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180330160810id_/https%3A//www.recordingrevolution.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Recording Revolution
 
