@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112004825id_/http%3A//www.tmzhosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzhosting.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331062523id_/http%3A//www.tmzhosting.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TMZHosting
 
@@ -29,4 +29,4 @@ TmzHosting may disclose any subscriber information to law enforcement agencies w
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
 
 **Contact Us**  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please [contact us here](https://web.archive.org/web/20171112004825id_/http%3A//www.tmzhosting.com/contact.html).  You can also correct any factual errors in that information or require us to remove your details form any list under our control. 
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please [contact us here](https://web.archive.org/web/20180331062523id_/http%3A//www.tmzhosting.com/contact.html).  You can also correct any factual errors in that information or require us to remove your details form any list under our control. 
