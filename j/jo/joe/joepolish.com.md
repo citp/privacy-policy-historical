@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joepolish.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129223255id_/http%3A//joepolish.com/company/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joepolish.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331094338id_/http%3A//joepolish.com/company/privacypolicy.php) for the most accurate reproduction.*
 
 # privacy policy
 
