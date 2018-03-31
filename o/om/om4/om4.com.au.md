@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174929id_/https%3A//om4.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331071745id_/https%3A//om4.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OM4
 
@@ -6,7 +6,7 @@ Your privacy is important to us. As we are using the WordPress software platform
 
 Our privacy principles are:
 
-  * We don’t ask you for personal information unless we truly need it. 
+  * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law or protect our rights
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services
   * In our website and blogging products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
@@ -42,4 +42,4 @@ Privacy Policy Changes
 
 Although most changes are likely to be minor, OM4 may change its Privacy Policy from time to time, and in OM4’s sole discretion. OM4 encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have an OM4 community account, you should also check your site’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Thank you [Automattic](http://automattic.com/privacy) for sharing your Privacy Policy wording. 
+Thank you [Automattic](http://automattic.com/privacy) for sharing your Privacy Policy wording.
