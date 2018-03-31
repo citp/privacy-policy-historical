@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usidentify.com privacy policy that was archived on 2017-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170716095742id_/http%3A//www.usidentify.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usidentify.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331174451id_/http%3A//www.usidentify.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,7 +116,7 @@ If for any reason you are concerned that the Personal Information or Billing Inf
 
 **IV. CHOICE AND OPT OUT**
 
-Upon request we can block the records we have control over in our database from being shown on USIdentify.com. Unless otherwise required by law, we will only accept opt-out requests directly from the individual whose information is being opted-out and we reserve the right to require verification of identity and reject opt-out requests in our sole discretion. Of course we are unable to remove any information about you from databases operated by third parties. If you would like us to remove your records from USIdentify.com, please mail us a request with your full name, date of birth and current city and state to: 1821 Q Street Sacramento, CA 95811. Please note that changes you request may not be effective immediately. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. 
+Upon request we can block the records we have control over in our database from being shown on USIdentify.com. Unless otherwise required by law, we will only accept opt-out requests directly from the individual whose information is being opted-out and we reserve the right to require verification of identity and reject opt-out requests in our sole discretion. Of course we are unable to remove any information about you from databases operated by third parties. If you would like us to remove your records from USIdentify.com, please mail us a request with your full name, date of birth and current city and state to: US Identify, 9450 SW Gemini Drive Suite # 29296, Beaverton, OR 97008-7105. Please note that changes you request may not be effective immediately. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. 
 
 We are not obligated by law to block the records we have control over in our database from being shown on USIdentify.com. Despite this, we will endeavor to comply with any such requests to block the records we have control over as described above. Please note, we have no control over public records, and do not guarantee or warrant that a request for removal of or change to personally identifiable information as described above will result in removal of or change to all of your information from USIdentify.com. Further, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
 
@@ -136,12 +136,6 @@ We are not obligated by law to block the records we have control over in our dat
 
 **No Rights of Third Parties.** This Privacy Policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Site.
 
-**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the US Identify Applications and Community Services, please e-mail us by using our contact form located at [http://www.USIdentify.com/company/contact.html](http://www.usidentify.com/company/contact.html) or write to us at:
+**Contacting Us.** If you have any questions about this Privacy Policy, or the practices of the US Identify Applications and Community Services, please e-mail us by using our contact form located at [http://www.USIdentify.com/company/contact.html](http://www.usidentify.com/company/contact.html)
 
-USIdentify.com  
-Customer Service  
-1821 Q Street  
-Sacramento, CA 95811   
-
-
-Copyright ©2013 US Identify, Inc. All rights reserved. 
+Copyright ©2018 US Identify, Inc. All rights reserved. 
