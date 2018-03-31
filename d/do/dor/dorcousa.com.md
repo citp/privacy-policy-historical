@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dorcousa.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124021536id_/http%3A//www.dorcousa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorcousa.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331194449id_/http%3A//www.dorcousa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Dorco USA – Privacy Policy
 
 Dorco® USA understands that your privacy is important to you. We sincerely appreciate your trust in us to keep your information safe. The main goal in collecting your personal information is to provide an efficient and accurate ecommerce experience.
 
