@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onetrust.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129223727id_/https%3A//onetrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetrust.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331090757id_/https%3A//onetrust.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OneTrust
 
-We at OneTrust LLC and OneTrust Technology Limited (collectively, “OneTrust,” “we” and “us”) know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about how we collect, store, use and disclose information about you when you interact or use any of the following websites: [www.onetrust.com](http://www.onetrust.com/), [www.cookielaw.org](http://www.cookielaw.org/), [www.optanon.com](http://www.optanon.com/), [www.governor.co.uk](http://www.governor.co.uk/), and <https://cookiepedia.co.uk/> (collectively the “Websites”) or any related events, trade shows, sales or marketing, and/or if you use any of our products, services or applications (including any trial) (collectively the “Services”) in any manner.
+We at OneTrust LLC and OneTrust Technology Limited (collectively, “OneTrust,” “we” and “us”) know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about how we collect, store, use and disclose information about you when you interact or use our websites (collectively the “Websites”) or any related events, trade shows, sales or marketing, and/or if you use any of our products, services or applications (including any trial) (collectively the “Services”) in any manner.
 
 * * *
 
@@ -58,7 +58,7 @@ We do not rent or sell your Personal Information to anyone. We may share and dis
 
 _Vendors, consultants and other service providers:_   We may share your information with third party vendors, consultants and other service providers who we employ to perform tasks on our behalf. These companies include (for example) our payment processing providers, website analytics companies (e.g., [Google Analytics](https://www.google.com/policies/privacy/partners/)), product feedback or help desk software providers (e.g. ZenDesk), CRM service providers (e.g., Salesforce), email service providers (e.g., Sendgrid) and others.
 
-If OneTrust has received your Personal Information in the United States and subsequently transfers that information to a third party agent or service provider for processing, OneTrust shall remain responsible for ensuring that such third party agent or service provider processes your Personal Information to the standard required by our Privacy Shield commitments (see the section below headed “Additional Information for European Users”). Unless we tell you differently and you consent, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
+If OneTrust has received your Personal Information in the United States and subsequently transfers that information to a third party agent or service provider for processing, OneTrust shall remain responsible for ensuring that such third party agent or service provider processes your Personal Information to the standard required by our Privacy Shield commitments (see the sections below headed “Additional Information for Users in the European Economic Area (“EEA”)” and “International Data Transfers”). Unless we tell you differently and you consent, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
 
 _Business Transfers:_  We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
 
@@ -79,9 +79,11 @@ Our Websites and some of our Services use cookies (small text files containing a
   * Assisting you in navigation;
   * Assisting in registration, login, and your ability to provide feedback;
   * Analyzing your use of our products, services or applications; and
-  * Assisting with our promotional and marketing efforts;
+  * Assisting with our promotional and marketing efforts (including behavioral advertising).
 
 
+
+Please consult our [Cookie Policy](https://onetrust.com/cookie-policy/) for more information about the type of cookies and tracking technologies that we use on this Website and why, and how to accept and reject them.
 
 We also may use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. This information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make our Services and Websites better for our users.
 
@@ -95,23 +97,33 @@ You can always opt not to disclose information to us, but keep in mind some info
 
 ### Cookies
 
-You can set or amend your web browser controls to accept or reject cookies. If you choose to reject cookies, you may still use our Websites and Services, however your access to some functionality and areas of our Websites or Services may be severely restricted.
+You can accept or reject cookies through our Privacy Preference Centre, accessible by clicking the “cookie settings” button in our [cookie policy](https://onetrust.com/cookie-policy/). You can also do so by adjusting your web browser controls. Please consult our [Cookie Policy](https://onetrust.com/cookie-policy/) for more information about our use of cookies and how to accept and reject them.
 
 ### Marketing Communications
 
-You can opt-out of receiving certain promotional or marketing communications from us at any time, by using the unsubscribe link in the emails communications we send or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0c7f797c7c637e784c636269787e797f78226f6361) with the word “UNSUBSCRIBE” in the subject field of the email.  If you have any account for our Services, we will still send you non-promotional communications, like service related emails.
+You can opt-out of receiving certain promotional or marketing communications from us at any time, by using the unsubscribe link in the emails communications we send, click the “Exercise your Rights” link available on the top left of our Privacy Policy, or fill out this [Web Form](https://app.onetrust.com/app/#/webform/241fc711-30a3-4bd4-9d5b-f78055003fb3) directly. 
 
-### How can I update and access my information?
+If you have any account for our Services, we will still send you non-promotional communications, like service related emails.
 
-We provide individuals with the opportunity to access, review, update, and delete any Personal Information we hold about them. You can send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#60131510100f1214200f0e0514121513144e030f0d) for this purpose.
+### How can I update and access my information (Exercise my Data Subject Rights)?
 
-If you ask us to delete your information, we will use our best efforts to promptly delete all of your Personal Information and cease any use thereof, provided that nothing in this Privacy Policy shall prevent us from using any aggregated and de-identified Personal Information that does not identify any individual. Please note that we may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If you would like to access, review, update, rectify, and delete any Personal Information we hold about you, or exercise any other data subject right available to you under the EU General Data Protection Regulation (GDPR), you can either click the “Exercise your Rights” link available on the top left of our Privacy Policy, or fill out this [Web Form](https://app.onetrust.com/app/#/webform/241fc711-30a3-4bd4-9d5b-f78055003fb3) directly.
 
-California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f4c4a4f4f504d4b7f50515a4b4d4a4c4b115c5052)
+Our Privacy team will examine your request and respond to you as quickly as possible!
 
-If you are resident in the European Economic Area, please see the section below headed “Additional Information for users in the European Economic Area” for further information about your privacy rights.
+Please note that we may still use any aggregated and de-identified Personal Information that does not identify any individual, and may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-## Additional information for users in the European Economic Area (“EEA”)
+**California residents** are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [support@onetrust.com](mailto:support@onetrust.com)
+
+If you are a **resident of the European Economic Area,** please see the section below headed “Additional Information for users in the European Economic Area” for further information about your privacy rights.
+
+## International Data Transfers
+
+Personal Information you submit on the Websites or through the Services is sent to the United States and will be primarily processed by us in the United States and potentially in other countries, on our servers or on our hosted service providers’ cloud servers on our behalf. These countries may not have similar data protection laws to those in your country of residence. However, we will always protect your information in accordance with this Privacy Policy wherever it is processed. Some of our product offerings include the ability to host your data in servers located in the EU or other countries. To request this capability, contact support@onetrust.com.
+
+## International Data Transfers – Additional information for users in the European Economic Area (“EEA”)
+
+### OneTrust is self-certified to the EU-US Privacy Shield Framework
 
 This section sets out the privacy principles we follow with respect to transfers of Personal Information from the EEA to the United States, including Personal Information we receive from individuals residing in the EEA who visits our Websites and/or who may use of our Services or otherwise interact with us.
 
@@ -125,7 +137,7 @@ In compliance with the EU-U.S. Privacy Shield Principles, we commit to resolve c
 
 **Andrew Clearwater**  
 Director of Privacy  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#86e7e5eae3e7f4f1e7f2e3f4c6e9e8e3f2f4f3f5f2a8e5e9eb)
+[aclearwater@onetrust.com](mailto:aclearwater@onetrust.com)
 
 We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of personal data within 45 days of receiving your complaint. OneTrust LLC has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
@@ -135,7 +147,7 @@ OneTrust LLC is subject to the jurisdiction of the U.S. Federal Trade Commission
 
 Please note that OneTrust LLC is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-## Swiss-U.S. Privacy Shield
+## OneTrust is self-certified to the Swiss-U.S. Privacy Shield Framework
 
 We comply with the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
@@ -143,15 +155,11 @@ In compliance with the Swiss-US Privacy Shield Principles, we commit to resolve 
 
 **Andrew Clearwater**  
 Director of Privacy  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b2d3d1ded7d3c0c5d3c6d7c0f2dddcd7c6c0c7c1c69cd1dddf)
+[aclearwater@onetrust.com](mailto:aclearwater@onetrust.com)
 
-OneTrust has further committed to refer unresolved privacy complaints under the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information and to file a complaint.
+OneTrust has further committed to refer unresolved privacy complaints under the Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
 Under certain limited circumstances, individuals in Switzerland may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution (discussed above) have been unsuccessful. To learn more about this method of resolution and its availability to you, please visit <https://www.privacyshield.gov/>.
-
-## International Data Transfers
-
-Personal Information you submit on the Websites or through the Services is sent to the United States and will be primarily processed by us in the United States and potentially in other countries, on our servers or on our hosted service providers’ cloud servers on our behalf.  These countries may not have similar data protection laws to those in your country of residence. However, we will always protect your information in accordance with this Privacy Policy wherever it is processed. Some of our product offerings include the ability to host your data in servers located in the EU or other countries. To request this capability, contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a494f4a4a55484e7a55545f4e484f494e14595557).
 
 ## California and Delaware “Do Not Track” Disclosures
 
@@ -163,7 +171,7 @@ For your convenience, hyperlinks may be posted on the Websites that link to othe
 
 ## Children
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#46353336362934320629282332343335326825292b).
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at [support@onetrust.com](mailto:support@onetrust.com).
 
 ## Will OneTrust ever change this Privacy Policy?
 
@@ -171,4 +179,4 @@ We’re constantly trying to improve our Websites and Services, so we may need t
 
 ## What if I have questions about this policy?
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d2a1a7a2a2bda0a692bdbcb7a6a0a7a1a6fcb1bdbf), and we will try to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@onetrust.com](mailto:support@onetrust.com), and we will try to resolve your concerns.
