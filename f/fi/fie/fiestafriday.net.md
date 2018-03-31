@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiestafriday.net privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129044804id_/http%3A//fiestafriday.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiestafriday.net privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331160445id_/http%3A//fiestafriday.net/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Fiesta Friday
 
@@ -7,6 +7,9 @@ This privacy policy sets out how Fiesta Friday uses and protects any information
 Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 _Fiesta Friday may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1/17/2016._
+
+  
+
 
 **_What we collect_**  
 We may collect the following information:
@@ -56,3 +59,6 @@ You may choose to restrict the collection or use of your personal information in
 
 **_Opt Out_**  
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>. If you believe that any information we are holding on you is incorrect or incomplete, please [contact](http://fiestafriday.net/contact/) us.
+
+  
+
