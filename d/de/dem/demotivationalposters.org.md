@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demotivationalposters.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611032526id_/http%3A//www.demotivationalposters.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotivationalposters.org privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331034945id_/http%3A//www.demotivationalposters.org/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -24,4 +24,4 @@ Email Address We collect the e-mail addresses of visitors who register an accoun
 
 External Links By visiting the external links shown in Link page of this site, visitors are stipulated with the Privacy Policy and Terms of Services of respective web sites they visits. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@motinetwork.net. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@motinetwork.net.
