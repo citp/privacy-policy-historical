@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebsugar.com privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124212027id_/http%3A//celebsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsugar.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331150924id_/http%3A//celebsugar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CelebSugar
 
