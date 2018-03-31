@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118233653id_/https%3A//www.alzheimers.org.uk/info/20004/about_us/639/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alzheimers.org.uk privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331033243id_/https%3A//www.alzheimers.org.uk/info/20004/about_us/639/privacy_and_security) for the most accurate reproduction.*
 
 # Privacy and Security - Privacy and security - Alzheimer's Society
 
