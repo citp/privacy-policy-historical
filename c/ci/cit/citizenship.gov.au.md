@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219213435id_/http%3A//www.border.gov.au/website/web-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331055703id_/https%3A//www.homeaffairs.gov.au/website/web-privacy-statement) for the most accurate reproduction.*
 
 # Web privacy statement
 
