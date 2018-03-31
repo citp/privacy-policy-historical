@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2017-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170824132921id_/http%3A//www.domainehome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331201604id_/https%3A//www.mydomaine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WhoWhatWear
+# Privacy Policy | MyDomaine
 
 **NEW PRIVACY POLICY**
 
@@ -8,7 +8,7 @@ Effective Date: This Privacy Policy was last revised on May 8, 2017.
 
 **Introduction**
 
-Welcome!  You have arrived at a web site that is provided by Clique Media, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.mydomaine.com](http://www.mydomaine.com/ "www.domainehome.com") and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
+Welcome!  You have arrived at a web site that is provided by Clique Brands, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.mydomaine.com](http://www.mydomaine.com/ "www.domainehome.com") and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
 
 **To the extent we provide you notice on our Site of different or additional privacy policies or practices ( _e.g._ , at the point of our collection), those additional terms shall govern such data collection and use.**
 
@@ -242,7 +242,7 @@ The Site may permit you to submit ideas, photographs, user profiles, writings, m
 
 ****(b) Name and Likeness****
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20170824132921id_/http%3A/terms-conditions "Terms and Conditions of Service").
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20180331201604id_/https%3A/terms-conditions "Terms and Conditions of Service").
 
 ****5. Ads and Information About You****
 
@@ -304,6 +304,6 @@ Nielsen | Advertising |  http://www.nielsen.com/au/en/privacy-policy.html | Yes.
   
 **PLEASE NOTE:  We are not responsible for third-party policies or practices.  We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate.  Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
-Previous Privacy Policy can be found [here](http://www.whowhatwear.com/rm/terms/2191570)
+Previous Privacy Policy can be found [here](http://www.mydomaine.com/rm/terms/2191571)
 
 **
