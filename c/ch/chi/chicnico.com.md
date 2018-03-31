@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicnico.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930005618id_/https%3A//www.chicnico.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicnico.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331045236id_/https%3A//www.chicnico.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CHICNICO
 
