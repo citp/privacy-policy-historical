@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todayslifestyle.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126162639id_/http%3A//todayslifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayslifestyle.com privacy policy that was archived on 2018-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180331083518id_/http%3A//todayslifestyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Today's Lifestyle
 
@@ -40,7 +40,7 @@ We use non-personally identifiable data collected from users and website visitor
 
 8)      To provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.
 
-9)      To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+9)      To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to unsubscribe@todayslifestyle.com
 
 10)  To provide you with Email marketing offers, reader surveys and other promotional material.
 
@@ -98,7 +98,7 @@ Please also refer to Digital Millennium Copyright Act in our [Terms of Use](http
 
 **Opt-out**
 
-To opt-out from any of our direct promotions, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+To opt-out from any of our direct promotions, please email unsubscribe@todayslifestyle.com
 
 ******Changes to Policy**
 
