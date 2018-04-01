@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyatanyage.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220104100id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyatanyage.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401191506id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Gundry MD Supplements and Skincare Products
 
@@ -18,7 +18,7 @@ When you provide us with personal information to complete a transaction, verify 
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.  
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [support@gundrymd.com](mailto:support@gundrymd.com) or mailing us at: Gundry MD™, 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d2e282d2d322f291d3a2833392f243039733e3230) or mailing us at: Gundry MD™, 9465 Wilshire Boulevard, Suite 300, Beverly Hills, CA, 90212, United States
 
 #### SECTION 3 – DISCLOSURE
 
@@ -26,13 +26,13 @@ We may disclose your personal information if we are required by law to do so or 
 
 #### SECTION 4 – E-COMMERCE
 
-Our store is hosted on http://gundrymd.com/. Providing you with the online e-commerce platform that allows us to sell our products and services to you.
+Our store is hosted on https://gundrymd.com/. Providing you with the online e-commerce platform that allows us to sell our products and services to you.
 
-Your data is stored through http://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.
+Your data is stored through https://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.
 
 Payment:
 
-If you choose a direct payment gateway to complete your purchase, then http://gundrymd.com/ stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+If you choose a direct payment gateway to complete your purchase, then https://gundrymd.com/ stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
 All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
@@ -74,7 +74,7 @@ If our store is acquired or merged with another company, your information may be
 
 Many browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are not uniform, so we are not currently set up to respond to those signals.
 
-Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests may be submitted to us by email at [support@gundrymd.com](mailto:support@gundrymd.com) or at the following mailing address: Gundry MD™; Re: Privacy Compliance Officer; 9465 Wilshire Boulevard, Suite 300; Beverly Hills, CA, 90212, United States.
+Individuals who reside in California and have provided their personal information may request information regarding disclosures of this information to third parties for direct marketing purposes. Such requests may be submitted to us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a5d6d0d5d5cad7d1e5c2d0cbc1d7dcc8c18bc6cac8) or at the following mailing address: Gundry MD™; Re: Privacy Compliance Officer; 9465 Wilshire Boulevard, Suite 300; Beverly Hills, CA, 90212, United States.
 
 Please outline in your letter or email that you are making a “California Shine the Light” inquiry. We will respond to your inquiry within 30 days.
 
@@ -84,7 +84,7 @@ This Website is not directed to children under the age of thirteen (13) and we d
 
 #### QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@gundrymd.com](mailto:support@gundrymd.com) or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ec9f999c9c839e98ac8b9982889e958188c28f8381) or by mail at:
 
 Gundry MD™  
 Re: Privacy Compliance Officer  
