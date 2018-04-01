@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326065829id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.qld.gov.au privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401180014id_/https%3A//www.business.qld.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Business Queensland
 
-The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_ (PDF, 850KB)](https://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf).
+The Queensland Government manages personal information in line with the [_Information Privacy Act 2009_](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-014).
 
 We collect and manage your personal information as described on this page, unless stated otherwise. 'Personal information' has a broad definition and may include, but is not limited to, your name, address, phone number, email address - basically any information from which you can be identified.
 
@@ -50,7 +50,7 @@ Please note that a planned update of this site will include capacity for automat
 
 ## Use and disclosure of personal information
 
-To meet your needs or answer your questions, we may share your personal information with other government agencies who are also bound by the [_Information Privacy Act 2009_ (PDF, 850KB)](https://www.legislation.qld.gov.au/LEGISLTN/CURRENT/I/InfoPrivA09.pdf). Sharing of your information will be based on your needs and we will only disclose your personal information in order to meet your requested service requirements.
+To meet your needs or answer your questions, we may share your personal information with other government agencies who are also bound by the [_Information Privacy Act 2009_](https://www.legislation.qld.gov.au/view/html/inforce/current/act-2009-014). Sharing of your information will be based on your needs and we will only disclose your personal information in order to meet your requested service requirements.
 
 Information stored in the CRM may also be used for service analysis and to communicate to you relevant and related government services (e.g. workshops, seminars, grant programs, etc). You will be able to opt out of receiving any optional services at any time.
 
@@ -78,7 +78,7 @@ We use Google Analytics on our website to gather anonymous information about vis
 
 We use this data to analyse the pages that are visited to improve your experience and make sure our website is useful.
 
-You can read more about [how Google uses data](https://www.google.com/policies/privacy/partners/). You can choose not to allow Google to collect your information by [opting out of Google Analytics]().
+You can read more about [how Google uses data](https://www.google.com/policies/privacy/partners/). You can choose not to allow Google to collect your information by [opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
 
 ## Security
 
