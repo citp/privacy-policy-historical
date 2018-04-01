@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinjar.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321032437id_/https%3A//www.coinjar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinjar.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401023528id_/https%3A//www.coinjar.com/privacy) for the most accurate reproduction.*
 
 # CoinJar - Terms of Service
 
