@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arcademics.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225113944id_/http%3A//www.arcademics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcademics.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401132957id_/http%3A//www.arcademics.com/privacy) for the most accurate reproduction.*
 
-# Arcademic Skill Builders - Privacy Policy
+# Privacy Policy - Arcademic Skill Builders
 
 Your privacy is important to Arcademics. This privacy policy covers how we collect, use, disclose, and store your information. By using Arcademics, you agree to the terms and conditions of this privacy policy. Please [contact us](https://web.archive.org/contact) if you have any questions concerning our privacy practices.
 
