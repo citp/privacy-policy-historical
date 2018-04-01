@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gundrymd.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220104100id_/http%3A//gundrymd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gundrymd.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401191506id_/https%3A//gundrymd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Gundry MD Supplements and Skincare Products
 
@@ -26,13 +26,13 @@ We may disclose your personal information if we are required by law to do so or 
 
 #### SECTION 4 – E-COMMERCE
 
-Our store is hosted on http://gundrymd.com/. Providing you with the online e-commerce platform that allows us to sell our products and services to you.
+Our store is hosted on https://gundrymd.com/. Providing you with the online e-commerce platform that allows us to sell our products and services to you.
 
-Your data is stored through http://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.
+Your data is stored through https://gundrymd.com/ data storage, databases and the general e-commerce application. We store your data on a secure server behind a firewall.
 
 Payment:
 
-If you choose a direct payment gateway to complete your purchase, then http://gundrymd.com/ stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+If you choose a direct payment gateway to complete your purchase, then https://gundrymd.com/ stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
 All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
