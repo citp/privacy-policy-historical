@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201180300id_/https%3A//www.vultr.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vultr.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401200436id_/https%3A//www.vultr.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vultr.com
 
 ## I. General
 
-  1. The operative parties referred to in this policy are Vultr Holdings LLC and you, the user of this site. 
-    1. Vultr Holdings LLC, is the publisher and operator of the web site [http://www.vultr.com](http://www.vultr.com/). Hereinafter referred to as “vultr.com”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Vultr Holdings LLC. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [http://www.vultr.com](http://www.vultr.com/).
+  1. The operative parties referred to in this policy are Vultr Holdings Corporation and you, the user of this site. 
+    1. Vultr Holdings Corporation, is the publisher and operator of the web site [http://www.vultr.com](http://www.vultr.com/). Hereinafter referred to as “vultr.com”. When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to Vultr Holdings Corporation. Additionally, when the terms “The SITE” or “SITE” are used, these terms refer to [http://www.vultr.com](http://www.vultr.com/).
     2. **You, the User** – As the user of this site, this policy will refer to the user as “you” or through any second-person pronouns, such as “yours,” etc. Hereinafter, the user of the site shall be referred to in applicable second-person pronouns.
   2. This Privacy Policy describes how we use information received about you when you visit our SITE or when you subscribe to, or otherwise use our online services. This Policy does not cover any information that we may receive from or about you through channels other than through the use of the SITE.
 
