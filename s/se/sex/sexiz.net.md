@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexiz.net privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212011908id_/http%3A//sexiz.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexiz.net privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401035416id_/http%3A//sexiz.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Free Full HD 1080p Porn Videos Online
 
@@ -35,7 +35,12 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Incoming search terms:
 
+  * free hd 1080p porn sites
+  * free hd 1080p porn web site nsme
+  * porn art full videos 1080p
   * porn HD policy
+  * porn video hd 1080p full video
+  * porn videos in 1080p 0nline
   * sexiz net free site
 
 
