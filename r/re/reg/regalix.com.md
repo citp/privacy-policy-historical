@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regalix.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129113159id_/http%3A//www.regalix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalix.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401160605id_/https%3A//www.regalix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Regalix
+# Privacy Policy – Regalix
 
 This privacy policy sets out how Regalix, Inc. (Regalix) uses and protects any information that you give Regalix when you use this website.Regalix is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
