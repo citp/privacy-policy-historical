@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemileatatime.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606073354id_/http%3A//onemileatatime.boardingarea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemileatatime.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401232046id_/http%3A//onemileatatime.boardingarea.com/privacy-policy) for the most accurate reproduction.*
 
 # One Mile at a Time Privacy Policy - One Mile at a Time
 
