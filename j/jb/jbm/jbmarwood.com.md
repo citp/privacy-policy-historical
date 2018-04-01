@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbmarwood.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201004012id_/http%3A//jbmarwood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbmarwood.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401142737id_/http%3A//jbmarwood.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy • JB Marwood
 
@@ -36,7 +36,7 @@ After a transaction, your private information (credit cards, social security num
 
 **Do we use cookies?**
 
-We do not use cookies.
+We may use cookies from time to time for the purpose of tracking readership.
 
 **Do we disclose any information to outside parties?**
 
