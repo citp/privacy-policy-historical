@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930092250id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapier.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401081450id_/https%3A//zapier.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Zapier
+# Privacy Policy | Zapier
 
 ## Plain-English Privacy Policy
 
 Welcome to Zapier! Here on the left you'll find our plain-english privacy policy and the corresponding legal policy on the right.
 
-We last updated this policy on June 2, 2017.
+We last updated this policy on January 22, 2018.
 
 Onward!
 
 ## Legal Privacy Policy
 
-Date of Last Revision: June 2, 2017
+Date of Last Revision: January 22, 2018
 
 Welcome to the web site (the "Site") of Zapier, Inc. ( "Zapier", "we", "us" and/or "our"). This Site is operated by Zapier and has been created to provide information about our company and its content and data linking platform and related services (together with the Site, the "Service(s)") to our Service visitors ("you", "your"). This Privacy Policy sets forth Zapier's policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from visitors to the Site and Services.
 
@@ -38,7 +38,7 @@ We use a third party payment processor to process payments made to us. In connec
 
 We ask for certain information like your name, email address, timezone, and account credentials to use Zapier. We use this information to run Zapier and other things mentioned in this Privacy policy (like logging and analytics).
 
-For your convienence, we use cookies so you don't have to log in every time you visit our website.
+For your convenience, we use cookies so you don't have to log in every time you visit our website.
 
 When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
 
@@ -76,7 +76,7 @@ Zapier is not in the business of selling your information. We consider this info
 
 Zapier is EU-U.S. & Swiss-U.S. Privacy Shield compliant.
 
-Zapier complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Zapier has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+Zapier complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Zapier has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. Zapier is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
 
 In compliance with the Privacy Shield Principles, Zapier commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Zapier at: [contact@zapier.com](mailto:contact@zapier.com).
 
@@ -88,9 +88,11 @@ In cases of onward transfer of personal information to third parties of data of 
 
 ## Exclusions
 
-This privacy policy only applies to private information we collect. If you post information in a public place, like our support forums, this is public information and can be shared and reproduced.
+This privacy policy only applies to private information we collect. If you post information in a public place, like our support forums, this is public information and can be shared and reproduced. Similarly, if you join a Zapier team account, certain of your personal information may be available to the team account holder and other team members.
 
 This Privacy Policy does not apply to any Personal Data collected by Zapier other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to Zapier through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Zapier shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+
+If you are invited to join a Zapier team account, and you accept the invitation, you are agreeing that certain of your information will be shared with the team account holder and other team members. In particular, the team account holder will have access to your name, email address, avatar (if any) and task usage, and other team members will have access to your name, email address and avatar (if any). Any information you share via a team account, including Zaps you create or Third-Party Services you link to, will be available to all team members of the team account you have joined. You are solely responsible for any information you share via a team account, which is posted at your own risk.
 
 ## Children
 
