@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doorsteps.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129143135id_/http%3A//www.doorsteps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doorsteps.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401043422id_/http%3A//www.doorsteps.com/privacy) for the most accurate reproduction.*
 
 # Doorsteps Rent Privacy Statement
 
@@ -17,6 +17,8 @@ In conjunction with this Privacy Policy, you should also review our Terms of Use
  _Automatic Collection of Information:_ Like many Web sites or media on or using the Internet, we automatically track certain information about you as you visit and use our Sites to help us (i) better understand, offer, operate, improve and modify the Sites, (ii) better understand how the Sites are used and experienced and (iii) enhance, or better understand how we can enhance, your or others overall experience on one or more of the Sites, including providing advertising and other information that is relevant to you. This tracked or automatically gathered information may include, among other things, your computer’s IP address (Internet Protocol address), identification number or location, the URLs and Site pages you’ve visited, sections of or content on Site pages on which you click or in which you are interested, the number of times you visit each Site page, what downloads and/or search queries you have made, how long you spent on particular sections of each Site and on each Site generally, and information about your computer, browser or operating system type. This automatically gathered data includes information provided through the use of "cookies” (which is described in more detail below).
 
  _Information from Cookies:_ Cookies are small files that we send to and store on your computer so that we can recognize it as a unique machine the next time you visit the Sites. You are always free to decline any cookies we use if your browser permits. Some of our advertisers and third-party service providers may also utilize their own cookies. In addition, we and our service providers sometimes use "clear GIFs” in connection with cookies and other website functions. Clear GIFs perform administrative functions without detracting from your online experience. They may be used to perform statistical and administrative tasks including measuring site and page traffic, verifying advertising avenues and positioning images on the web. Clear GIFs are not designed to collect Personal Information.
+
+## Information Sharing Disclosure – How Is Information About Me Used and Shared?
 
 The use of information about you depends on the context in which it is collected. Therefore, pay special attention to the categories below that relate to the features of the Sites that you wish to utilize.
 
@@ -97,6 +99,8 @@ Sometimes ads might appear on the Sites that are delivered to you based on OBA m
 ## Effective Date and Modifications
 
 This Privacy Policy is effective as of the date first written above and may be updated and modified from time to time by us in our sole discretion. If we choose to update or modify this Privacy Policy, such updated or modified policy shall become effective five (5) business days after its posting on the applicable Site(s). Accordingly, we encourage you to periodically review this Privacy Policy and the Sites in order to keep apprised of our current privacy practices. If you do not agree to any provision of this Privacy Policy, or any update or modification of it, please do not use the Sites.
+
+## Contacting Us
 
 If you have concerns about this Privacy Policy or our privacy practices in general, contact us at:
 
