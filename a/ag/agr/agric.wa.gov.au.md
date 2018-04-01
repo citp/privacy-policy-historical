@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711000230id_/https%3A//www.agric.wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agric.wa.gov.au privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402005703id_/https%3A//www.agric.wa.gov.au/privacy) for the most accurate reproduction.*
 
-# Privacy | Department of Agriculture and Food
+# Privacy | Agriculture and Food
 
 The Department of Agriculture and Food, Western Australia records your visit and logs the following information for statistical purposes:
 
