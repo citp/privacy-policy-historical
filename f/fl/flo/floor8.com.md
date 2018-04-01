@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floor8.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220175645id_/http%3A//www.floor8.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floor8.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401051428id_/http%3A//www.floor8.com/privacy) for the most accurate reproduction.*
 
 # Floor8 - Privacy Policy
 
