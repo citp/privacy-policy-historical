@@ -1,161 +1,129 @@
-> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420010820id_/https%3A//homesales.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesales.com.au privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401140856id_/https%3A//homesales.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Homesales Services Pty Ltd ACN 613 063 586 (homesales) is committed to the protection of your personal information in accordance with the Privacy Act 1988 (Cth). 
+Homesales Services Pty Ltd ACN 613 063 586 (Homesales) complies with the _Privacy Act 1988_ (Cth). 
 
-This Privacy Policy describes the manner in which homesales collects, holds, and uses personal information. If you wish to make any inquiries regarding this Privacy Policy, you should contact homesales’ Privacy Officer by email at the following address: support@homesales.com.au 
+This policy sets out how we handle your personal information, including the collection, use and disclosure of your personal information, as well as how you can access and change your information, provide us with feedback or make a complaint. 
 
-Homesales may, from time to time, review and update this Privacy Policy to take account of new laws and technology. All personal information held by homesales will be governed by its most recent policy, posted on this website. 
+Homesales is a website that contains information about properties available for rent or sale. Real Estate Agents, Developers or vendors can upload details of available properties and users of the website can access this information and make enquiries about the property and any related services they may need to secure that property. 
 
-**1\. What personal information homesales collects**
+You can also access the PropCalc app through Homesales. PropCalc enables you to provide details about a property you may want to purchase and gives you information about your cash flow. 
 
-Personal information collected by homesales may include: 
+We may, from time to time, review and update this Privacy Policy. 
 
-• Contact information such as name, email and telephone number; 
+**What personal information do we collect?**
 
-• Business information such as ABN and licence number; 
+We collect the following personal information: 
 
-• Records and content of communications with homesales or other persons submitted through the homesales website; and 
+• Contact information such as your name, email and telephone number 
 
-• Services provided to you, such as saved listings and searches and email alerts. 
+• Financial information including your income and expenses 
 
-**2.How homesales collects personal information**
+• Business information such as a real estate agent's ABN and licence number 
 
-homesales collects personal information directly from its website users and customers when they provide information in person, by phone or in writing (whether electronic or otherwise) for example, when a user submits an enquiry on our website, or an agent signs up for our advertising service. homesales may also collect information from its customers sent by a third party at the customer’s request. 
+• Communications you have with us or third parties through our website 
 
-**3\. How homesales uses the personal information it collects about you**
+• Services provided to you, such as saved listings and searches and email alerts 
 
-a) homesales uses the personal information it collects about you to: 
+**How do we collect personal information?**
 
-(i)  provide you with products or services you have requested; 
+We collect personal information directly from you unless it's unreasonable or impracticable to do so. Some ways we collect personal information include: 
 
-(ii)  personalise and customise your experiences with this website; 
+• When you access our website or apps including when you sign up to become a member of Homesales 
 
-(iii)  help homesales research the needs of its users and to market its products and services with a better understanding of your needs and the needs of users generally; 
+• When you call us to make an enquiry 
 
-(iv)  communicate with you; 
+• When you make an enquiry to an advertised property 
 
-(v)  provide de-identified data about homesales customers to advertisers or merchants to assist advertisers and merchants to provide the most relevant products to homesales website users; 
+• When you download the PropCalc app and sign up to become a member 
 
-(vi)  provide de-identified data about homesales customers to advertisers and merchants to sell advertising space on the homesales website; and 
+• When a real estate agent signs up for our advertising service 
 
-(vii)  provide de-identified data about a property listing to the individual that listed the property on this website. 
+• We may also collect personal information from customers sent by a third party at the customer's request, for example, a real estate agent may provide your details to us after you've made an enquiry to them 
 
-b) Other personal information provided voluntarily by you is used to better understand homesales’ users and to help improve and promote its services. 
+_Cookies_
 
-c) Any personal financial information (including credit card details) provided by you to homesales via the website is protected by 128 bit SSL encryption technology. 
+In some cases we may collect your personal information through 'cookies'. A cookie is a small file that stays on your computer until it expires (this may be as little as 30 days or up 2 years, or longer in some cases). 
 
-d) If you contact homesales by email for assistance with or information on the operation of the website, you authorise homesales to contact you by telephone (if you have provided this) in order to service your enquiry/problem. 
+These cookies will record things when you visit our website such as your IP address, time, date, referring url, and other referral information, device information and location, carrier, site interactions such as your access to website features, pages accessed, content, searching activities, lead submission, files accessed and downloaded, type of browser and operating system. 
 
-e) If you choose not to provide your personal information to homesales for the purposes set out in this Privacy Policy, the only consequence for you will be that we will not be able to provide you with the requested service.   
+We may use cookies to provide you with the full range of services we offer and to remember your preferences as well as to measure and analyse usage of the website and for security. Some cookies may be used to identify the parts of the website you visit and to personalise the advertising that you see when you make future visits to that site. 
 
-**4\. To whom homesales discloses your personal information**
+You may adjust your internet browser settings to disable cookies. 
 
-a) homesales discloses the de-identified information about its website users, customers and potential customers to current and potential advertisers and merchants on the homesales website to enable them to connect users with relevant products which match the users' needs and wants. 
+_Click Stream Data_
 
-b) homesales may also disclose your Personal Information to our website host in certain limited circumstances, for example when our website experiences a technical problem, to ensure that it operates in an effective and secure manner. 
+When you visit and browse our website, our website host will collect information such as the number of users visiting the website or a property listing and the number of pages viewed, the date, time and duration of a visit, your physical location or the path taken through this website. 
 
-c) homesales may disclose your personal information to third parties as required for your use of the homesales website or any of its services, for example homesales may disclose your information to a vendor or their agent if you submit a query regarding a property, or to real estate agents if you use the Agent Quote Finder service.  
+This information will not be used to identify you. It is used for statistical, marketing, reporting and maintenance purposes including to administer and improve the performance of this website and to provide de-identified generic data to people who have listed their property on this website. 
 
-d) If you choose to become a customer of the homesales website, the information accessible to other website users is limited to the following: 
+**How do we use your personal information?**
 
-(i) your name; 
+We use the personal information we collect to: 
 
-(ii) the address of the property listed by you for sale; 
+• Communicate with you by mail, phone, text message or email 
 
-(iii) your property photo(s) (if provided by you); 
+• Personalise and customise your experience with the website and app 
 
-(iv) your email address; and 
+• Improve and promote our services to you 
 
-(v) your telephone number (if provided by you). 
+• Provide you with access to products or services including but not limited to tax depreciation, insurance, finance and other property related services 
 
- e) Your personal information may be disclosed to homesales staff, or staff of other Homesales Services Pty Ltd business divisions.  In addition, your information may be disclosed to third parties (with your consent) and to outsourced service providers who assist homesales to provide its services including information technology providers, marketing and market research providers, security advisers and professional advisers. 
+• Research the needs of users in order to market products and services with a better understanding of your needs and the needs of users generally 
 
-f) homesales may provide your personal information upon request of a government or regulatory authority, to assist police or as required by law, for example pursuant to a subpoena or in accordance with unclaimed money legislation. 
+**What happens if you do not provide your personal information to us?**
 
-**5\. Transfer of personal information outside of Australia**
+If you choose not to provide your personal information to us we may not be able to provide you with: 
 
-Some of homesales’ service providers are located outside of Australia, including in the United States of America and Canada.  It may be necessary to disclose your personal information to those service providers for some of the purposes listed above.  By providing homesales with your personal information, you consent to the disclosure / transfer of your personal information outside of Australia as set out in this privacy policy.  
+• our products and services 
 
-In addition, if you choose to engage in the international services provided by homesales, for example submit an enquiry on a property located in another country or choose to be involved in an international program, your information will be disclosed to the relevant entity in the appropriate country to provide you with the service. 
+• information about other products and services that may be relevant or of interest to you, or 
 
-**6\. Marketing**
+• a personalised experience of our website or app. 
 
-homesales may use your personal information to provide you with promotional material about homesales or status reports on your property or on any of the services offered by homesales whether you are a seller, a buyer or a member. If you do not wish to receive this type of promotional material, you can contact homesales’ Privacy Officer by email at the following address: support@homesales.com.au at any stage in the future so that we can remove your name from our marketing lists. If you choose not to receive this type of promotional material, you may limit some of the services you receive from homesales. 
+**How do we disclose your personal information?**
 
-**7\. Finding out what personal information homesales holds about you**
+We may disclose your personal information to: 
 
-a) You are entitled to access personal information that homesales holds about you. If you request access to your personal information, we will grant your request unless it falls within the limited exceptions provided by law. If homesales refuses your request to access your Personal Information, it will provide you with reasons for the refusal. 
+• Other users if you become a customer of our website and advertise a property. The information available will include your name, the address of the property listed by you for sale, property photo (if provided by you), your email address and your telephone number (if provided by you). 
 
-b) A request for access can be done in any of the following ways: 
+• Third parties to enable functionality of the website or any of its services, for example to a vendor or their agent if you submit a query regarding a property. 
 
-email: support@homesales.com.au 
+• To third parties for the purpose of providing you with direct marketing materials regarding property related services. 
 
-write to:  GPO Box 131, Sydney NSW 2001. 
+• External service providers to ensure the safe and efficient operation of our website and App including, but not limited to payment processors, IT system providers and web hosting providers. 
 
-Please provide as much detail as you can to assist us to find the information you are requesting.  There is no charge for this service, however you may be required to verify your identity before any information is released to you. 
+• Third parties who assist us to provide services including marketing and market research providers, security advisers and professional advisers. 
 
-**8\. Updating, storage and security of personal information held by homesales**
+• To government or regulatory authorities or as otherwise required or permitted by law. 
 
-a) homesales aims to keep your personal information secure and up to date. Any personal information or financial information that is collected via this website or which is held on homesales’ computer systems is protected by safeguards including physical, technical and procedural methods. 
+**Disclosing personal information outside of Australia**
 
-b) homesales does not collect sensitive information about its users via its website. 
+We may send your personal information to recipients overseas as required. The countries to which we send your personal information varies depending on the circumstances. 
 
-c) Personal information and financial information that is held by homesales in hard copy is stored securely on its premises and is only disclosed or used for the purposes described in this Privacy Policy. 
+**Direct Marketing**
 
-d) You can update your contact and profile information at any time by logging into your account if you have one, or by contacting our Privacy Officer on the details above. homesales requests that you contact it if your details change so as to keep our records up to date.  To update your details, please email: support@homesales.com.au. 
+We may use your personal information to provide you with direct marketing materials that we may think are of interest to you. We will not use your personal information for direct marketing purposes unless you have provided express consent or your consent can reasonably be implied from the circumstances in which we collected the information. 
 
-**9\. Information collected via this website**
+In relation to direct marketing via electronic means, such as email, we comply with the _Spam Act 2003_ and in relation to telephone marketing we comply with the _Do Not Call Register Act 2006._
 
-a) homesales will not collect any Personal Information about visitors to this website except when they knowingly provide it or as otherwise described in this Privacy Policy. 
+If you receive marketing material we will ensure you can 'opt-out' of receiving any further materials. Alternatively, you can contact us at any time using the details below to 'opt-out'. 
 
-Click Stream Data 
+**Accessing and updating your information**
 
-b) When you visit and browse this website, the homesales website host will collect personal information for statistical, marketing, reporting and maintenance purposes. 
+You may request access to any information we hold about you. However, by law we may refuse to allow you access to information in certain circumstances. If we refuse to allow you access to your personal information held by us, we will explain why. 
 
-c) This information will not be used to identify you and may include: 
+You can update your contact and profile information at any time by logging into your account if you have one, or by contacting our Privacy Officer on the details below. 
 
-• the number of users visiting this website or a property listing and the number of pages viewed; 
+**Storage and security of your personal information**
 
-• the date, time and duration of a visit; 
+We take all reasonable steps to store your personal information securely whether it is held physically or electronically 
 
-• your physical location; or 
+**Contacting us or accessing your information**
 
-• the path taken through this website. 
+If you want to access your personal information held by us, request a correction be made to your personal information or make a complaint about how we have handled your personal information, please contact our Privacy Officer in one of the following ways: 
 
-d) homesales’ website host uses this information to administer and improve the performance of this website and to provide de-identified generic data to people who have listed their property on this website. 
+by email: [support@homesales.com.au](mailto:support@homesales.com.au)
 
-Cookies es 
-
-e) When you visit the homesales website, homesales may records anonymous information such as IP address, time, date, referring url, and other referral information, device information and location, carrier, site interactions such as your access to website features, pages accessed, content, searching activities, lead submission, and files accessed and downloaded, type of browser and operating system. 
-
-f) homesales uses “cookies” and other methods to collect and store the information set out above. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (this may be as little as 30 days or up 2 years, or longer in some cases). Cookies may be used by homesales or by service providers engaged by Homesales Services Pty Ltd to provide you with the full range of services it offers, remember your preferences, measure and analyse usage of the website and for security. Persistent cookies may be used to identify the homesales sites you visit and to personalise the advertising that you see when you make future visits to that site or other sites. You may adjust your Internet browser settings to disable cookies.  If cookies are disabled homesales may not be able to provide you with the full range of services. 
-
-g) The homesales website may include links to third party web sites, co-branded web sites and applications and advertising served to the homesales website by third parties (Linked Sites). The operators of Linked Sites may collect personal information through the use of cookies and otherwise. Homesales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information. 
-
-Web Beacons 
-
-h) Web beacons are images that originate from a third party site to track visitor activities. homesales may use web beacons to track the visiting patterns of individuals accessing this website. 
-
-**10\. Dealing with homesales anonymously**
-
-You may deal with homesales anonymously by using a pseudonym, unless homesales is required or authorised by law to deal only with an identified person, or it is impracticable for us to respond to you if you have not identified yourself. Please contact homesales as set out below if you have any queries about dealing with homesales anonymously.  
-
-**11\. What to do if you have a question, problem or complaint about our use of your Personal Information**
-
-If you feel that your privacy has not been respected or that homesales has conducted itself inconsistently with this Privacy Policy in respect of your personal information, please contact our Privacy Officer in any of the following ways: 
-
-email: support@homesales.com.au 
-
-write to:  GPO Box 131, Sydney NSW 2001. 
-
-Homesales treats complaints relating to privacy extremely seriously.  If you submit a concern or complaint, we will endeavour to deal with it comprehensively and reach an outcome with which all parties are satisfied. 
-
-If you would like further information about privacy in Australia, please review the  [ Officer of the Australian Information Commissioner ](http://www.oaic.gov.au/) ’s website. 
-
-**12\. Privacy Disclaimer**
-
-This Privacy Policy is subject to the relevant legislation set out above. To the extent that this Policy provides for greater privacy protection than required by law, homesales will not be liable for any loss, liability, cost, expenses or damage arising as a result of it failing to meet that increased standard of privacy protection from under this Privacy Policy. 
-
-_ Updated June 2016 (Version 3)  _
+by post: GPO Box 131, Sydney NSW 2001. 
