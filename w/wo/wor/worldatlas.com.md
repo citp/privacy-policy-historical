@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212041654id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402172908id_/https%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # Worldatlas.com and Graphic Maps Privacy Policy
 
@@ -59,41 +59,41 @@ The Most Dangerous Cities in the World
 The Largest Countries in the World
 
 ](https://web.archive.org/articles/the-largest-countries-in-the-world-the-biggest-nations-as-determined-by-total-land-area.html)
+  * [ ](https://web.archive.org/articles/the-10-largest-cities-in-the-world.html) [
+
+The 10 Largest Cities in the World
+
+](https://web.archive.org/articles/the-10-largest-cities-in-the-world.html)
   * [ ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html) [
 
 The 10 Smallest Countries In The World
 
 ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html)
-  * [ ](https://web.archive.org/articles/the-coldest-capital-cities-in-the-world.html) [
-
-The Coldest Capital Cities In The World
-
-](https://web.archive.org/articles/the-coldest-capital-cities-in-the-world.html)
-  * [ ](https://web.archive.org/articles/the-richest-countries-in-the-world.html) [
-
-The Richest Countries In The World
-
-](https://web.archive.org/articles/the-richest-countries-in-the-world.html)
   * [ ](https://web.archive.org/articles/29-largest-armies-in-the-world.html) [
 
 29 Largest Armies In The World
 
 ](https://web.archive.org/articles/29-largest-armies-in-the-world.html)
+  * [ ](https://web.archive.org/articles/the-poorest-countries-in-the-world.html) [
+
+The Poorest Countries In The World
+
+](https://web.archive.org/articles/the-poorest-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/most-dangerous-countries-in-the-world.html) [
+
+Most Dangerous Countries in the World
+
+](https://web.archive.org/articles/most-dangerous-countries-in-the-world.html)
   * [ ](https://web.archive.org/articles/us-states-with-the-largest-relative-african-american-populations.html) [
 
 10 States With The Largest African-American Populations
 
 ](https://web.archive.org/articles/us-states-with-the-largest-relative-african-american-populations.html)
-  * [ ](https://web.archive.org/articles/the-richest-countries-in-africa.html) [
+  * [ ](https://web.archive.org/articles/the-richest-countries-in-the-world.html) [
 
-The Richest Countries In Africa
+The Richest Countries In The World
 
-](https://web.archive.org/articles/the-richest-countries-in-africa.html)
-  * [ ](https://web.archive.org/articles/least-populated-country-in-the-world.html) [
-
-30 Least Populated Countries In The World
-
-](https://web.archive.org/articles/least-populated-country-in-the-world.html)
+](https://web.archive.org/articles/the-richest-countries-in-the-world.html)
 
 
 
