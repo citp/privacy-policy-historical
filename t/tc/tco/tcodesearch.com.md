@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tcodesearch.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022353id_/http%3A//www.tcodesearch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcodesearch.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402160915id_/http%3A//www.tcodesearch.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 ### Privacy Policy for www.tcodesearch.com 
 
