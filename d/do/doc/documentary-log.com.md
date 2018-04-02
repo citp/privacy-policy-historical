@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the documentary-log.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129203940id_/http%3A//www.documentary-log.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentary-log.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402061656id_/http%3A//www.documentary-log.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch Online For Free | Documentary-Log.com
+# Privacy Policy - Watch Online For Free | Documentary-Log.com
 
 **Acceptance of Terms.**  
 Please read this policy carefully since by visiting this website (“Website”) and/or sharing information with us, you agree to be bound by this Privacy Policy. The Privacy Policy may be revised or updated at any time by us.
