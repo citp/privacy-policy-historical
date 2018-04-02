@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosupps.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930062919id_/http%3A//gosupps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosupps.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402022245id_/http%3A//gosupps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
