@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002212104id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402221931id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
 
-# Privacy – Museum Of Applied Arts And Sciences
+# Privacy – Museum of Applied Arts and Sciences
 
 Museum of Applied Arts and Sciences is committed to protecting your privacy, including throughout and as a result of your interaction/s with our websites. These include:
 
