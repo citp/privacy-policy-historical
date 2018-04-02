@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925095313id_/https%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402130206id_/https%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
