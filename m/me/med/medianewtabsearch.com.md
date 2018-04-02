@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medianewtabsearch.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705143007id_/http%3A//medianewtabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianewtabsearch.com privacy policy that was archived on 2018-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180402062022id_/http%3A//www.medianewtabsearch.com/privacy.php%23privacy-ancor) for the most accurate reproduction.*
 
 # MediaNewTab | Privacy Policy
 
