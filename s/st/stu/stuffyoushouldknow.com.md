@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the stuffyoushouldknow.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003051634id_/https%3A//www.howstuffworks.com/privacy-stuff-media.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffyoushouldknow.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403030737id_/https%3A//www.howstuffworks.com/privacy-stuff-media.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Stuff Media | HowStuffWorks
 
-This privacy policy applies to the websites that are owned and operated by HowStuffWorks, a division of InfoSpace Holdings LLC ("HSW," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
+This privacy policy applies to the websites that are owned and operated by Stuff Media LLC ("Stuff Media," "we" or "us") where this privacy policy is posted (collectively, the "Sites"). This privacy policy does not pertain to information that is collected offline. BY USING THE SITES, YOU CONSENT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND TO OUR PROCESSING OF PERSONAL INFORMATION FOR THE PURPOSES STATED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, PLEASE DO NOT USE THE SITES.
 
 **A. Information Collected**
 
-This privacy policy applies only to information collected on the Sites and does not apply to information collected by HSW through any other means. For details on the information collected and used from children under the age of 13, see Section D below. We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
+This privacy policy applies only to information collected on the Sites and does not apply to information collected by Stuff Media through any other means. For details on the information collected and used from children under the age of 13, see Section D below. We collect two types of information from visitors to the Sites: (1) Personally Identifiable Information; and (2) Non-Personally Identifiable Information, such as your IP address or cookies.
 
 **(1) Personally Identifiable Information**
 
-"Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name. HSW collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
+"Personally Identifiable Information" is information that identifies you personally, such as your name, address, telephone number, email address, or company name. Stuff Media collects and stores the personally identifiable information that you have provided to us. Here are some examples of manners in which we may collect your personally identifiable information on the Sites:
 
 · We may collect your email address, first and last name and zip code if you sign up for an online newsletter;
 
@@ -18,7 +18,7 @@ This privacy policy applies only to information collected on the Sites and does 
 
 · We may collect your first and last name, date of birth and email address if you choose to participate in a contest or sweepstakes.
 
-The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want HSW to collect your personally identifiable information, please do not provide it to us.
+The above list provides an example of the personally identifiable information that may be collected on the Sites. If you do not want Stuff Media to collect your personally identifiable information, please do not provide it to us
 
 **(2) Non-Personally Identifiable Information**
 
@@ -32,7 +32,7 @@ The above list provides an example of the personally identifiable information th
 
 · Demographic Information -- "Demographic Information" may be your gender, age, zip code and interests, which you voluntarily provide to us on the Sites. We use this information to provide you with personalized services and to analyze trends to ensure the information provided by the Sites meets your needs. Please note that we also consider aggregated information, which is not personally identifiable, to be non-personally identifiable information. The above list provides an example of the non-personally identifiable information that is collected via the Sites.
 
-We collect the above non-personally identifiable information from all visitors to our Sites. If you do not want HSW to have access to this information, please do not visit our Sites.
+We collect the above non-personally identifiable information from all visitors to our Sites. If you do not want Stuff Media to have access to this information, please do not visit our Sites.
 
 **B. Use of Information Collected Via the Sites**
 
@@ -72,9 +72,9 @@ We may share or disclose your personally identifiable information in the followi
 
 (ii) To affiliates, strategic partners, agents, third party marketers or other unaffiliated parties who are offering products or services that we believe may be of interest to you or who require your personally identifiable information for research, administrative and/or internal business purposes. These parties may use your personally identifiable information to contact you with an offer or advertisement related to a product or service, or they may use such information for their own research, administration or business purposes. If you do not want us to share your personally identifiable information in this manner, please do not provide us with this information.
 
-(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on HSW's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
+(iii) To unaffiliated third-party service providers, agents or independent contractors who help us maintain our Sites and provide other administrative services to us (including, but not limited to, order processing and fulfillment, providing customer service, maintaining and analyzing data, sending customer communications on Stuff Media's behalf, and entry collection, winner selection and prize fulfillment for contests, sweepstakes and other promotions). We seek to ensure that these unaffiliated third parties will not use the personally identifiable information for any other purpose than to provide the administrative services for which they are responsible. Because such unaffiliated third-party service providers that help us administer our Sites will have access to users' personally identifiable information, if you do not wish for our unaffiliated third-party service providers to have access to your information, please do not register or submit any personally identifiable information to us.
 
-(iv) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of HSW and its family of Sites or act in urgent circumstances to protect the personal safety of our end users.
+(iv) To comply with the law or in the good faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on us, protect and defend our rights or property, including the rights and property of Stuff Media and its family of Sites or act in urgent circumstances to protect the personal safety of our end users.
 
 (v) To third parties as part of any corporate reorganization process including, but not limited to, mergers, acquisitions, and sales of all or substantially all of our assets.
 
@@ -96,17 +96,17 @@ It is possible that we may receive information given to us or pertaining to chil
 
 Questions regarding privacy, including children's privacy should be directed to:
 
-InfoSpace Holdings LLC
+Stuff Media LLC
 
-10900 NE 8th Street, Suite 800
+675 Ponce De Leon Ave.
 
-Bellevue, WA 98004
+Suite 4500
 
-Email: [hsw_privacy@infospace.com](mailto:hsw_privacy@infospace.com)
+Atlanta, GA 30308
 
 **E. International Transfer of Information**
 
-If you choose to provide us with personally identifiable information, HSW may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
+If you choose to provide us with personally identifiable information, Stuff Media may transfer that information to its affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personally identifiable information to the United States which does not have the same data protection laws as the EU and by providing your personally identifiable information you consent to:
 
 · the use of your personally identifiable information for the uses identified above in accordance with this privacy policy; and
 
@@ -146,34 +146,34 @@ In the event that all or part of our assets or sold or acquired by another party
 
 We reserve the right to change this privacy policy from time to time. When we do, we will also revise the "last update" date at the bottom of this privacy policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Sites.
 
-We will also notify parents if we change the kinds of information that we collect from kids and materially alter our practices of sharing and using this information. We will not collect, use or share the information without parental consent.
+We will also notify parents if we change the kinds of information that we collect from kids and materially alter our practices of sharing and using this information. We will not collect, use or share the information without parental consent. 
 
 **M. Security**
 
-No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to HSW is done at your own risk.
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you understand that any information that you transfer to Stuff Media is done at your own risk.
 
 Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
-If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+If we learn of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using these Sites or providing personally identifiable information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of these Sites. We may post a notice on our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. 
 
 **N. Age Screening**
 
 Some parts of the Sites require that personally identifiable information be submitted in order to participate. For example, if you want to receive one of our newsletters, you must give us your email address. Some parts of the Sites will have an age-screening mechanism to prevent kids from registering. We won't knowingly allow anyone under the age of thirteen to register with any of our Sites, or to access those features that require registration, except as explicitly disclosed herein. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen other than in a legally permissible situation, we will delete the information from our records as soon as we discover it.
 
-**O. Contacting HSW**
+**O. Contacting Stuff Media**
 
-If you have any questions about this privacy policy or our privacy practices, please contact us at InfoSpace Holdings LLC, 10900 NE 8th Street, Suite 800, Bellevue, WA 98004. All information you provide in any written communication will also be covered by this policy.
+If you have any questions about this privacy policy or our privacy practices, please contact us at Stuff Media LLC, 675 Ponce De Leon Ave. Suite 4500, Atlanta, GA 30308. All information you provide in any written communication will also be covered by this policy.
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-HSW does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding HSW's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
+Stuff Media does not support Do Not Track browser settings and does not currently participate in any "Do Not Track" frameworks that would allow us to respond to signals or other mechanisms from you regarding the collection of your Personally Identifiable Information or Non Personally Identifiable Information. Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding Stuff Media's disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us:
 
-InfoSpace Holdings LLC
+Stuff Media LLC
 
-10900 NE 8th Street, Suite 800
+675 Ponce De Leon Ave. 
 
-Bellevue, WA 98004
+Suite 4500 
 
-Email: [hsw_privacy@infospace.com](mailto:hsw_privacy@infospace.com)
+Atlanta, GA 30308
 
-Last Updated On: 08/10/2016
+Last Updated On: 10/03/2017
