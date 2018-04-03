@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202143439id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teefury.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403114623id_/http%3A//www.teefury.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TeeFury
 
@@ -175,23 +175,35 @@ Your privacy is important to us, and for this reason we will never share or sell
 
 
 
-  * 10.
+    * 10.
 
 Waiver of Liability
 
-  * 10.1
+    * 10.1
 
 Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. Nevertheless, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Accordingly, Tee Fury assumes no liability for any disclosure of data due to errors in transmission, unauthorized third party access, or other acts of third parties, or acts or omissions beyond our reasonable control.
 
-  * 10.2
+    * 10.2
 
 The content that you store, post, or transmit on or through the Tee Fury website, such as forum postings and t-shirt designs, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your personal information to other users that you know to be trustworthy. You should not assume that your content will be kept private.
 
+    * 11.
 
+Cookies Used
 
-  * Conclusion
+    * 11.1
 
-  * If you have any other comments or queries about our privacy policy or the way we collect and use your information please ask.
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.  
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).  
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits  
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.  
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.  
+_secure_session_id, unique token, sessional  
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+          * Conclusion
+
+          * If you have any other comments or queries about our privacy policy or the way we collect and use your information please ask.
 
 
 
