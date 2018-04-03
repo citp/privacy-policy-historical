@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rootmygalaxy.net privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130104156id_/http%3A//rootmygalaxy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootmygalaxy.net privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403040700id_/http%3A//rootmygalaxy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
