@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonews.co privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910101046id_/http%3A//www.anonews.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonews.co privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403120719id_/http%3A//www.anonews.co/privacy) for the most accurate reproduction.*
 
 # Privacy – Anonymous
 
