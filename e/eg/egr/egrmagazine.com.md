@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egrmagazine.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202082205id_/http%3A//egr.global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egrmagazine.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403181919id_/http%3A//egr.global/privacy) for the most accurate reproduction.*
 
 # Privacy | EGR | The online gaming industry’s leading information and networking group
 
