@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930194925id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realself.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403040827id_/https%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Guidelines & Policies
 
@@ -58,7 +58,7 @@ We do not share your personal information (such as name or email address) with o
 
 We do share non-personally-identifiable information (such as anonymous aggregated usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Site or App.
 
-If you submit your name, email address, telephone number, treatment desired and questions or comments through a form on a specific health care provider’s profile page, then RealSelf will disclose this information to the health care provider identified on the form. In addition, if you submit your mobile phone number through this form, then you understand and consent to RealSelf sending you text messages. You understand that standard text messaging fees and data rates may apply. The information you provide through this form is not used by RealSelf for any other purpose.
+If you submit your name, email address, telephone number, treatment desired and questions or comments through a form on a specific health care provider’s profile page, then RealSelf will disclose this information to the health care provider identified on the form. In addition, if you submit your mobile phone number through this form, then you understand and consent to RealSelf and/or the health care provider sending you text messages. You understand that standard text messaging fees and data rates may apply. The information you provide through this form is not used by RealSelf for any other purpose.
 
 **Third-party Advertisers, Links to Other Sites.** RealSelf may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Site or App. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens.
 
@@ -127,4 +127,4 @@ Please contact RealSelf with any questions or comments about this Privacy Policy
 > 83 South King Street, Ste. 800  
 > Seattle, WA 98104
 
-**Date Last Modified:** This Privacy Policy was last modified on **August 9, 2017**.
+**Date Last Modified:** This Privacy Policy was last modified on **February 2, 2018**.
