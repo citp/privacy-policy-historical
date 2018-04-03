@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201757id_/http%3A//www.adairs.com.au/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403212851id_/http%3A//www.adairs.com.au/privacy-security-policy) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# Privacy Policy
 
-**Introduction**  
-At Adairs, we recognise the importance of protecting your personal information. We are also subject to a range of laws including the Privacy Act, which imposes regulations for the collection, use and disclosure of personal information, plus other matters including data quality and security, openness, access and correction. This document sets out our policy on the handling of personal information.
+**Introduction**
+
+At Adairs, we recognise the importance of protecting your personal information. This is why we comply to a number of laws, including the Privacy Act (and Notifiable Data Breaches scheme under Part IIC of the Privacy Act 1988), this imposes regulations for the collection, use and disclosure of personal information, plus other matters including data quality and security, openness, access and correction. This document sets out our policy on the handling of personal information.
 
 **Why do we collect personal information?**  
 We are a specialist retailer of manchester and homewares, with stores around Australia and brands such as Adairs and Urban Home Republic.  
@@ -39,7 +40,7 @@ It is your right under privacy law to ask for access to or updating of any of yo
 You can also contact us with any queries about privacy.   
 Contact: Privacy Officer   
 Phone: +61 (0) 3 8888 4500  
-Mail: 2 International Court, Caribbean Business Park, Scoresby, VIC 3179
+Mail: 2 International Court, Caribbean Business Park, Scoresby, VIC Australia 3179
 
 If you raise any concerns about how we have handled your personal information, we may request additional details from you, and may need to engage or consult with other parties in order to investigate and deal with your issue. We will keep records of your request and any resolution.
 
@@ -47,4 +48,4 @@ For further information regarding the Privacy Act, visit the Office of the Austr
 
 Adairs Limited ABN 50 147 375 451  
 Adairs Retail Group Pty Ltd ABN 29 128 287 776  
-Last updated: 20 May 2015
+Last updated: 23/02/2018
