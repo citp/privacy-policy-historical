@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetris.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803184628id_/https%3A//tetris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetris.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403145615id_/http%3A//tetris.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tetris
 
@@ -23,7 +23,7 @@ The information we collect is used:
 
 
 
-When you supply us with personal information, and indicate your consent to receive promotional information, the information you provide will be added to our customer file. You may receive periodic mailings from us. If you do not want to receive such mailings from us, then please use our [Contact Us](https://web.archive.org/web/20170803184628id_/https%3A//contact-us/) form to contact us to remove yourself from our contact list. We may send you e-mails with information on new products. If you do not wish to receive such e-mails in the future, you can unsubscribe by clicking the “unsubscribe” link at the bottom of the email.  Alternatively, you may also use our [Contact Us](https://web.archive.org/web/20170803184628id_/https%3A//contact-us/) form to contact us to remove yourself from our e-mail list. Please note that when you provide us with your e-mail address in order to make a purchase, we will send you confirmation of your order via e-mail even if you have chosen not to receive future e-mail from us about our products and services. We may also contact you by email, mail or telephone if we have questions about your order.
+When you supply us with personal information, and indicate your consent to receive promotional information, the information you provide will be added to our customer file. You may receive periodic mailings from us. If you do not want to receive such mailings from us, then please use our [Contact Us](https://web.archive.org/web/20180403145615id_/http%3A//contact-us/) form to contact us to remove yourself from our contact list. We may send you e-mails with information on new products. If you do not wish to receive such e-mails in the future, you can unsubscribe by clicking the “unsubscribe” link at the bottom of the email.  Alternatively, you may also use our [Contact Us](https://web.archive.org/web/20180403145615id_/http%3A//contact-us/) form to contact us to remove yourself from our e-mail list. Please note that when you provide us with your e-mail address in order to make a purchase, we will send you confirmation of your order via e-mail even if you have chosen not to receive future e-mail from us about our products and services. We may also contact you by email, mail or telephone if we have questions about your order.
 
 **Who do we share your information with?**
 
@@ -61,7 +61,7 @@ For more information, you may also want to read Shopify’s Terms of Service loc
 
 **How can you update your information?**
 
-You can update your information by sending us an e-mail via our [Contact Us](https://web.archive.org/web/20170803184628id_/https%3A//contact-us/) form. We will evaluate your request and reply in an appropriate manner and form of communication that ensures the security of the information you have requested. If applicable, you may also log into your account to update your contact information.
+You can update your information by sending us an e-mail via our [Contact Us](https://web.archive.org/web/20180403145615id_/http%3A//contact-us/) form. We will evaluate your request and reply in an appropriate manner and form of communication that ensures the security of the information you have requested. If applicable, you may also log into your account to update your contact information.
 
 **How do you know your information is secure?**
 
@@ -77,4 +77,4 @@ From time to time, we may use the information you provide us for new, unanticipa
 
 **Contact Us**
 
-To contact us for any reason, including a request to be added or taken off a list, or if you have any concerns or questions about this Privacy Policy, please use our [Contact Us](https://web.archive.org/web/20170803184628id_/https%3A//contact-us/) form to contact us.
+To contact us for any reason, including a request to be added or taken off a list, or if you have any concerns or questions about this Privacy Policy, please use our [Contact Us](https://web.archive.org/web/20180403145615id_/http%3A//contact-us/) form to contact us.
