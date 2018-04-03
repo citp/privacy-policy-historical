@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cag.gov.in privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201134027id_/http%3A//cag.gov.in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cag.gov.in privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403125844id_/http%3A//www.cag.gov.in/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comptroller And Auditor General - CAG
 
