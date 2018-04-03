@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradomesa.edu privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016232655id_/http%3A//www.coloradomesa.edu/webmaster/documents/privacy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradomesa.edu privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403235010id_/http%3A//www.coloradomesa.edu/marketing/documents/privacy_statement.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
