@@ -1,57 +1,15 @@
-> *The following text is extracted and transformed from the webbyplanet.com privacy policy that was archived on 2012-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120913231955id_/http%3A//www.webbyplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webbyplanet.com privacy policy that was archived on 2018-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180403175707id_/http%3A//www.webbyplanet.com/privacy.html) for the most accurate reproduction.*
 
-# Discount Code, coupons online COUPON CODE. Webbyplanet
+# Privacy - WebbyPlanet.com
 
-## Privacy
+**This document explains how we collect, use, and protect your privacy at webbyplanet.com.**
 
-### Our Commitment to Privacy
+Information we collectOther aggregate information may be collected by Google's Analytics software ("Google Analytics"). This includes Demographic information (such as age, gender and interests) which may be used to help breakdown and understand related Google Analytics data. When this Demographic information is collected, it will be used only in aggregate form to help improve our website and products, as well as support whitepapers or other related industry case studies which we may take part in from time to time.
 
-Webbyplanet.com (http://www.webbyplanet.com) is committed to protecting and respecting your privacy. This Privacy Statement sets out our privacy policy and explains what we do with the personal information that we collect from our users.
+CookiesWebbyplanet.com also uses "cookies" and web server logs to collect information about how our site is used by our visitors. Cookies are a feature of your browser that contains bits of information that help personalize your web experience. We use cookies mainly to help identify codes you’ve flagged as not working, as well as for some personalization settings. You have the option to turn off cookie collection within your own web browser at any time by adjusting your settings. Cookies and web logs may track the time of visit, time spent at our site, which pages were viewed, and the sites visited just before and just after our site. This information does not contain any personal information about you and is collected on an aggregate basis.
 
-### What Information Do We Collect?
+Content RemovalIf you wish to have data you have posted through our site ? Posted directly is showing up on our website, removed from our site, please file a request by using the contact form.
 
-When you visit our site you may provide us with two types of information: personal information you actively choose to disclose ("Active Information") and use information collected, in a way not visible to you, on an aggregate anonymous basis as you and others browse our site ("Passive Information").
+Business RelationshipOur site contains links to other websites. We are not responsible for the practices, policies, or content of such sites and encourage our users to review the individual policies therein.
 
-### Our Commitment To Children's Privacy
-
-We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
-### Active Information You Choose to Provide
-
-In order to receive coupons via email (become a "user"), we require you to disclose the following information: 
-
-* Your name 
-
-* Your email address
-
-### Passive Information Collected 
-
-Our site utilizes a standard technology called "cookies" to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Passive Information is collected on an aggregate basis without any association to your personal information so that you remain anonymous. If you do not wish to transmit "cookie" information about yourself, you may turn off the cookie function in your web browser
-
-### How Does WEBBYPLANETt.com Use Your Personal Information? 
-
-Webbyplanet.com collects personal information to provide you, the user, with the best and most personalized Web experience possible. We use that information to send you email newsletters and deal alerts. All emails, newsletters etc. will include special instructions in them to unsubscribe.
-
-### What do I do if a coupon does not work?
-
-If a coupon on our website is not working, please contact us using the link at the bottom of each page. After we receive your email, we will check the offer to verify if there was an error with the coupon code or if it has in fact expired. If the coupon has expired, keep checking our site. We update our site daily and as soon as we find another deal for that merchant, we will post it on our site.
-
-### Your Information In Relation to Others We Link To
-
-You are be able to access other websites through Webbyplanet.com. When you do so you are doing so subject to their policies regarding privacy and data collection and you should read those sites' privacy policies to make sure you agree to them before using such sites. When you choose to shop at such sites, you should read their privacy policies to make sure you agree to them before making purchases.
-
-### Sharing Information with Advertisers or Other Third Parties
-
-We may disclose anonymous information about user habits, characteristics and user patterns, based on aggregate user statistics to advertisers on our site.
-
-### Sharing Information with the Government or As Otherwise Required by Law
-
-We may be required by law or government agency to disclose both Active and Passive Information you have provided to us.
-
-### Who has access to your information?
-
-No one has access to your information given to Webbyplanet except you and webbyplanet.com. No outside contractors or agent of Webbyplanet will ever have access to your information. All your information is password protected and cannot be accessed by anyone but you or webbyplanet.com.
-
-### How To Contact Us
-
-Should you have other questions or concerns about these privacy policies, please send us an [email](http://www.webbyplanet.com/contact-us/).
+Policy Change NotificationIf we change any portion of our policy in the ongoing development of our Web site, these changes will be posted at this page and the date the policy has been updated will be reflected at the bottom of the page. Under the circumstance that any change is made to the collection or distribution of personal information, we will attempt notify you via email if it has been collected.
