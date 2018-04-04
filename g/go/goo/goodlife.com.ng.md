@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlife.com.ng privacy policy that was archived on 2017-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170819102649id_/http%3A//goodlife.com.ng/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlife.com.ng privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404200757id_/http%3A//www.goodlife.com.ng/privacy_policy.php) for the most accurate reproduction.*
 
 # Goodlife: Business Directory Nigeria, Best Hotels in Lagos, Online Jobs Search Lagos Nigeria
 
