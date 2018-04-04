@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogmasoft.in privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231073301id_/http%3A//dogmasoft.in/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogmasoft.in privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404054743id_/http%3A//dogmasoft.in/Policy) for the most accurate reproduction.*
 
 # Dogmasoft
 
