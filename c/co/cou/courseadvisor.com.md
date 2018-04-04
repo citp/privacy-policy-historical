@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930184704id_/http%3A//www.courseadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404124432id_/http%3A//courseadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # CourseAdvisor - Avenue100 Media Solutions
 
 ##### Effective Date: June 9, 2009
-
-This CourseAdvisor privacy statement (this “Policy”) covers the website www.courseadvisor.com (the “Site”) and is applicable to all information about you (“you”) collected through the Site (“Information”).
-
-CourseAdvisor, Inc. (“CourseAdvisor,” “we,” “us,” or “our”) discloses the Information collection and usage practices applicable to the Site in this Policy. This Policy describes the types of information that CourseAdvisor gathers from you and the other people who visit the Site (the “Users”) and how we may use that Information. By providing any information, you agree to our use of that information consistent with this Policy.
-
-Please read this Policy carefully before providing us with any Information.
 
 ##### Personally Identifiable Information 
 
@@ -106,4 +100,4 @@ To express or ask questions regarding privacy concerns: send an email to privacy
 
  **Phone:** 781.683.3300
 
- **Mailing address:** CourseAdvisor Inc.1601 Trapelo Road; Suite 202Waltham, MA 02451
+ **Mailing address:** CourseAdvisor c/o Avenue100 Media Solutions LLCPO Box 600229Newtonville, MA 02460
