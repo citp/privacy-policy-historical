@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9en.us privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220051407id_/http%3A//9en.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9en.us privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404134536id_/http%3A//9en.us/privacy.php) for the most accurate reproduction.*
 
 # 9en.US
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20171220051407id_/http%3A//9en.us/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20180404134536id_/http%3A//9en.us/contact.php). 
