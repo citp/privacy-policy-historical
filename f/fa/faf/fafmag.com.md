@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafmag.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203165605id_/http%3A//www.fafmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafmag.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404102302id_/http%3A//www.fafmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FAF Magazine
 
@@ -52,6 +52,6 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 FAFmag  
 www.fafmag.com  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+operations@fafmag.com
 
 This document was last updated on February 2nd, 2015
