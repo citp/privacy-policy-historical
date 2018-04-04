@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codingdojo.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116094553id_/http%3A//www.codingdojo.com/files/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codingdojo.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404102919id_/http%3A//www.codingdojo.com/files/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # COLLECTION OF INFORMATION
 
