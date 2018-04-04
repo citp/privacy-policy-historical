@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the udchalo.com privacy policy that was archived on 2013-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130108001612id_/http%3A//www.udchalo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udchalo.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404091009id_/http%3A//udchalo.com/Privacy.html) for the most accurate reproduction.*
 
-# UdChalo
+# udChalo: Privacy Policy
 
-By accessing this Site, certain information about you, such as Internet protocol (IP) addresses, navigation through the Site, the systems and programs used and the time spent, along with other similar information, may be stored on our servers. 
+By accessing this Site, certain information about you, such as Internet protocol(IP) addresses, navigation through the Site, the systems and programs used and the time spent, along with other similar information, may be stored on our servers. Such stored information may not specifically identify you. Please be informed that the same may be used by us for web site traffic analysis or for such other purposes as we may deem appropriate. If you provide unique identifying information, such as name, address, train PNR and other information to us, such information may be used for statistical and/or other purposes. 
 
-Such stored information may not specifically identify you. Please be informed that the same may be used by us for web site traffic analysis or for such other purposes as we may deem appropriate. 
-
-If you provide unique identifying information, such as name, address and other information to us, such information may be used for statistical and/or other purposes. 
-
-Any personally identifiable information you submit while booking with UdChalo will ONLY be disclosed to travel suppliers who are linked to your bookings. We will not disclose, sell, share or in any way reveal your information to any other third party. 
-
-We want you to feel confident about using UdChalo.com to plan and purchase your air tickets, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. 
+Any personally identifiable information you submit while booking with UdChalo will ONLY be disclosed to travel suppliers who are linked to your bookings. We will not disclose, sell, share or in any way reveal your information to any other third party. We want you to feel confident about using UdChalo.com to plan and purchase your air tickets, so we are committed to protecting the information we collect. While no Web site can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we will employ reasonable and current Internet security methods and technologies. 
