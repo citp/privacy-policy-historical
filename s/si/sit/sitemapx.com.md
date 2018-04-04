@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemapx.com privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024064951id_/http%3A//www.sitemapx.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemapx.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404110341id_/http%3A//www.sitemapx.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Sitemap X Privacy Policy
 
