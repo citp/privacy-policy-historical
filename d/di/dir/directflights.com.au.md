@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2017-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171103202713id_/https%3A//www.directflights.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404225824id_/https%3A//www.directflights.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Online Cheap Flights, Hotels, Car Hire & Holiday Booking Australia - Privacy Policy
 
