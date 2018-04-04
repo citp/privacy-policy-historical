@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the permadi.com privacy policy that was archived on 2017-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170927014454id_/http%3A//permadi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permadi.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404131515id_/http%3A//permadi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | permadi.com
+# Privacy Policy – permadi.com
 
 I. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at permadi@permadi.com.
 
