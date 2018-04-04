@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollarbeardclub.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202005703id_/http%3A//thebeardclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollarbeardclub.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404065106id_/http%3A//thebeardclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Beard Club
 
