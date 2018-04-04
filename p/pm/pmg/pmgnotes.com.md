@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmgnotes.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711102338id_/https%3A//www.pmgnotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmgnotes.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405010257id_/https%3A//www.pmgnotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PMG
 
@@ -10,6 +10,7 @@ This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, r
   * Paper Money Guaranty (PMG): [www.pmgnotes.com](https://www.pmgnotes.com/), [www.pmgnotes.cn](https://www.pmgnotes.cn/), [www.pmgnotes.hk](https://www.pmgnotes.hk/), [www.pmgnotes.kr](https://www.pmgnotes.kr/) and [www.pmgnotes.tw](https://www.pmgnotes.tw/)
   * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/)
   * Classic Collectible Services (CCS): [www.ccspaper.com](http://www.ccspaper.com/)
+  * Authenticated Stamp Guaranty (ASG): [www.asgstamps.com](http://www.asgstamps.com/), [www.asgstamps.cn](http://www.asgstamps.cn/), [www.asgstamps.hk](http://www.asgstamps.hk/)
   * Certified Collectibles Group (CCG): [www.collectiblesgroup.com](https://www.collectiblesgroup.com/) and [www.collectors-society.com](http://www.collectors-society.com/)
 
 
@@ -20,7 +21,7 @@ Personal Information includes information about you that is personally identifyi
 
 **By using the Site and by providing information to the Site, you accept and hereby expressly consent to our collection, use, retention, processing, disclosure and transfer, including cross-border transfer, of your Personal Information in accordance with the terms of this Privacy Policy.**
 
-This Privacy Policy may change from time to time, so please check back periodically to check the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Site, our products or services after any changes signifies your express consent to any such changes. If you do not agree to such changes, you must immediately stop using the Site. This Privacy Policy was last modified on May 27, 2016.
+This Privacy Policy may change from time to time, so please check back periodically to check the most recent modification date to ensure that you are aware of any changes in our processing of your Personal Information. Your continued use of the Site, our products or services after any changes signifies your express consent to any such changes. If you do not agree to such changes, you must immediately stop using the Site. This Privacy Policy was last modified on October 24, 2017.
 
 ### Information Collection and Use; Choice and Consent
 
@@ -61,7 +62,9 @@ The Web Site uses Google Analytics. For more information about Google analytic c
 
 
 
-Google have developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout/).
+Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout/).
+
+To learn more about our cookies, see our Cookie Statement at [ngccoin.com/cookies](https://web.archive.org/cookies).
 
 ### Protection of Your Information
 
