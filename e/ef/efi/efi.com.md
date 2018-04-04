@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efi.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201184422id_/http%3A//www.efi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efi.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404233110id_/http%3A//www.efi.com/legal/privacy) for the most accurate reproduction.*
 
 # EFI - Privacy Policy
 
