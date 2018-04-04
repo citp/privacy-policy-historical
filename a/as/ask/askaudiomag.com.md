@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the askaudiomag.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001013128id_/https%3A//ask.audio/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaudiomag.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404112422id_/http%3A//www.askaudiomag.com/privacy-policy) for the most accurate reproduction.*
 
-# Ask.Audio
+# Privacy Policy
 
-  1. **Your email address is secure.**  
-We will never share your contact information with anyone, period.
-  2. **We do not store any credit card information.**  
-All commerce is through [PayPal](http://paypal.com/).
-  3. **Personal information is stored on our secure server.**  
-Our SSL encryption is provided by [Thawte](http://thawte.com/), the industry leader in Internet Security. This certificate ensures that your information is sent securely, and encrypted, to our secure database server.
-  4. **Cookies are set to track your shopping cart only.**  
-Our cookies delete themselves as soon as you finish your session, or after 30 minutes of inactivity. No traces are left on your computer.
+Your privacy is important to us.
 
+It is Ask Audio Magazine’’s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.  
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.  
+We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.  
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.  
+We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.  
+We will make readily available to customers information about our policies and practices relating to the management of personal information.  
+We will only retain personal information for as long as necessary for the fulfillment of those purposes.
 
-Do you have a question about our Privacy Policy? Let us know by clicking [here](https://web.archive.org/contact).
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Ask Audio Magazine’ may change this privacy policy from time to time at Ask Audio Magazine’s sole discretion.
+
+**Contact US**
+
+If there are any questions regarding this privacy policy, you may contact us using the form linked below.
+
+[Click here to contact us.](http://www.askaudiomag.com/contact/)
