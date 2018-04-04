@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilewithprices.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114195439id_/https%3A//www.mobilewithprices.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilewithprices.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404184803id_/https%3A//www.mobilewithprices.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mobile with Prices
 
