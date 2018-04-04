@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efestivals.co.uk privacy policy that was archived on 2017-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171124230307id_/http%3A//www.efestivals.co.uk/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efestivals.co.uk privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404212053id_/http%3A//www.efestivals.co.uk/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - eFestivals.co.uk
 
