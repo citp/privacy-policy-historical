@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2017-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171204034903id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2018-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180404123030id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -94,7 +94,7 @@
 </style>
         <link rel="stylesheet" href="http://cdn.our.com/css/main.min.css">
         <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/sdk.js"></script><script src="http://cdn.our.com/js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="http://cdn.our.com/js/main.min.js"></script> <!-- general functions -->
         
 <script>var pathcdn='http://cdn.our.com/';</script>
@@ -208,7 +208,7 @@
                                 _loginFormUserError(true, data);
                             } else {
                                 // login ok
-                                location.href = 'http://www.our.com/play/';
+                                location.href = 'https://www.our.com/play/';
                             }
                         });
                         
@@ -234,7 +234,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:1361, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:2199, sessionKeyVarName:sessionVarName} ,function(data) {
                              _loginFormRememberSended(true, data);
                         });
                     }
@@ -486,7 +486,7 @@
                         var fbId_param = '';
                         var fbImage_param = '';
                         var vinculateIdUser_param = '';
-                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:6051, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
+                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:4024, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
                             if (data.indexOf('yes') == -1 && isNaN(data)) {
                                 // Registration failed !!!!
                                 messageError("There was an error registering user");
@@ -538,7 +538,7 @@
                                 _RegisterLoginFormUserError(true, data);
                             } else {
                                 // login ok
-                                location.href = 'http://www.our.com/play/';
+                                location.href = 'https://www.our.com/play/';
                             }
                         });
                     }
@@ -563,7 +563,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey2';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:4687, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:8803, sessionKeyVarName:sessionVarName} ,function(data) {
                              _RegisterLoginFormRememberSended(true, data);
                         });
                     }
@@ -572,7 +572,7 @@
             // uiConfirmRegisterForm
             
             var mode = 'register'; // 'register' / 'vinculation' / 'fbregister'
-            var vinculation_destination = 'http://www.our.com/play/';
+            var vinculation_destination = 'https://www.our.com/play/';
             var fbregister_destination = 'http://www.our.com/fb_registration.php';
             var id_new_user = 0;
             var email_new_user = '';
@@ -671,7 +671,7 @@
                 
                 $('#resendEmail').click(function() {
                     if (id_new_user > 0) {
-                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:633} ,function(data) {
+                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:9401} ,function(data) {
                             if (data == 'yes') {
                                 // Email sended
                                 $('#responsenolocate2').html(message_email_sended + ' ' + email_new_user);
@@ -835,7 +835,8 @@
                             <div><label class="labelField" for="registerEmail">email</label><input type="text" name="registerEmail" id="registerEmail" value=""><div id="registerEmailCondition" class="condition"></div></div>
                             <div class="birthdayFields">
                                 <div class="selectYear"><select name="registerBirthYear" id="registerBirthYear">
-                                    <option value="2003">2003</option>
+                                    <option value="2004">2004</option>
+<option value="2003">2003</option>
 <option value="2002">2002</option>
 <option value="2001">2001</option>
 <option value="2000">2000</option>
@@ -901,7 +902,6 @@
 <option value="1940">1940</option>
 <option value="1939">1939</option>
 <option value="1938">1938</option>
-<option value="1937">1937</option>
 
                                 </select></div>
                                 <div class="selectMonth"><select name="registerBirthMonth" id="registerBirthMonth">
