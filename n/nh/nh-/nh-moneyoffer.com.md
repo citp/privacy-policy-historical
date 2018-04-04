@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nh-moneyoffer.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201182436id_/http%3A//nh-moneyoffer.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh-moneyoffer.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404224656id_/http%3A//nh-moneyoffer.com/home/privacy) for the most accurate reproduction.*
 
-# NHOFFER
+# NHOFFERS
 
 Privacy
 
@@ -16,7 +16,7 @@ We only hold information in order to allow users to log into and run their accou
 
 Users may request to see any information that we hold on them. This may include transaction information, account totals, contact details and other information. Users may request this information from our support ticket page. 
 
-If you feel Nam Huyen is not following its stated information policy, then they may inform us through our support ticket page. 
+If you feel NAM PHUNG is not following its stated information policy, then they may inform us through our support ticket page. 
 
 Cookies  
 We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions. 
