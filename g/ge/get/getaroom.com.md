@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212232430id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404053122id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotels - Cheap Hotel Rates - Rooms & Reservations
 
@@ -37,6 +37,8 @@ We also gather certain information automatically and store it in log files. This
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.  
 If you have chosen to receive marketing messages from us about our products and services, we may use information from our log files, cookies or pixel tags to help us make those communications more useful to you.
+
+This website uses the first-party Google Analytics cookie only to track your return visits but not to identify you personally by name, email, or any other data. This site also uses the third-party DoubleClick cookie to enable reporting on demographics and interests information (such as age, gender, and favored product categories), but, again, not in any way that is associated with personally identifiable information.
 
 We also get information from your transactions with us, our affiliates or non affiliated third parties such as account activity and your purchase information. We also use information from third parties, including public information, such as verification services and consumer reporting agencies (to comply with regulatory requirements, ensure the accurate data and prevent fraud, for example), or from other sources. We use this information to develop, offer and deliver our products and services, to process transactions in your accounts, and to obey legal and regulatory requirements. We limit the collection and use of customer information to the minimum we require to deliver great service to our customers (including telling our customers about our hotel reservation services, deals, and other opportunities through email) and to run our business.
 
