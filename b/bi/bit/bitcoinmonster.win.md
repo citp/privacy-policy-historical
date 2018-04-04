@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinmonster.win privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130172100id_/http%3A//bitcoinmonster.win/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinmonster.win privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404163224id_/http%3A//bitcoinmonster.win/%3Fp%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Bitcoin Monster
 
