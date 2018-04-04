@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowbrowser.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226190608id_/http%3A//www.yellowbrowser.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbrowser.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404095032id_/http%3A//www.yellowbrowser.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Yellowbrowser .com
 
@@ -95,4 +95,4 @@ Our Privacy Policy is regularly reviewed and revised to make sure we continue to
 
 #### Contacting Us: Questions, Comments, & Concerns:
 
-Yellowbrowser .com will happily address any concerns about its online privacy practices and policies; please e-mail us at [here](https://web.archive.org/web/20171226190608id_/http%3A//www.yellowbrowser.com/contact.php).
+Yellowbrowser .com will happily address any concerns about its online privacy practices and policies; please e-mail us at [here](https://web.archive.org/web/20180404095032id_/http%3A//www.yellowbrowser.com/contact.php).
