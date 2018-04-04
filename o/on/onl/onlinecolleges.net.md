@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecolleges.net privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204053557id_/http%3A//www.onlinecolleges.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecolleges.net privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404134136id_/http%3A//www.onlinecolleges.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OnlineColleges.net
 
