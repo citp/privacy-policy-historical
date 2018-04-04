@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rancher.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118193656id_/http%3A//rancher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rancher.com privacy policy that was archived on 2018-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180404174132id_/https%3A//rancher.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rancher Labs
 
