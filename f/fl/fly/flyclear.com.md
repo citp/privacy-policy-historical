@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206011725id_/http%3A//www.flyclear.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyclear.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405034036id_/http%3A//flyclear.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for flyclear.com
 
@@ -16,13 +16,12 @@ flyclear.com may use the information collected from you when you register, make 
 
 
 
-flyclear.com does not use an SSL certificate. flyclear.com only provides articles and information.
-
 Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, flyclear.com uses cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.
 
 flyclear.com uses cookies to:
 
   * Understand and save user's preferences for future visits.
+  * Keep track of advertisements.
 
 
 
@@ -48,8 +47,8 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 To be in accordance with CANSPAM flyclear.com agrees to the following:
 
+  * NOT use false or misleading subjects or email addresses.
   * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
   * Monitor third-party email marketing services for compliance, if one is used.
   * Honor opt-out/unsubscribe requests quickly.
   * Allow users to unsubscribe by using the link at the bottom of each email.
