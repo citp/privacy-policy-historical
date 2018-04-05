@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the millerwelds.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006001715id_/https%3A//www.millerwelds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millerwelds.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405200517id_/http%3A//www.millerwelds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MillerWelds
 
 #### Privacy Policy
 
-Miller Electric Mfg. Co. ("Miller Electric," “we,” or “us”) respects your personal privacy and is committed to adhering to all applicable U.S. and Canadian laws and industry guidelines relating to privacy and the protection of personal information. This privacy policy ("Privacy Policy") describes how we handle the personal information that you provide to us on this website (the "Web Site"). This Privacy Policy applies only to the Web Site, not to any other ITW or third party web sites that may be accessible from here. After reading this Privacy Policy, which is incorporated into and is a part of the Web Site's Terms of Use, you will know:
+Miller Electric Mfg. LLC ("Miller Electric," “we,” or “us”) respects your personal privacy and is committed to adhering to all applicable U.S. and Canadian laws and industry guidelines relating to privacy and the protection of personal information. This privacy policy ("Privacy Policy") describes how we handle the personal information that you provide to us on this website (the "Web Site"). This Privacy Policy applies only to the Web Site, not to any other ITW or third party web sites that may be accessible from here. After reading this Privacy Policy, which is incorporated into and is a part of the Web Site's Terms of Use, you will know:
 
   * Information Miller Electric collects from you
   * How Miller Electric uses your information
