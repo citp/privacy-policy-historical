@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thewoksoflife.com privacy policy that was archived on 2017-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171113215518id_/http%3A//thewoksoflife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewoksoflife.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405032822id_/http%3A//thewoksoflife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Woks of Life
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fthewoksoflife.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fthewoksoflife.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
 This privacy policy sets out how _The Woks of Life LLC_  uses and protects any information that you give while using www.thewoksoflife.com
 
@@ -69,4 +69,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 Disclaimer: We have affiliate links throughout our website where we deem appropriate and we will earn a commission if you purchase products through those links. We use many of the products and recommend them but we certainly don’t own and have not used all of the products. Please let us know if you have any questions about any products or affiliate links you encounter on our site.
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fthewoksoflife.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fthewoksoflife.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
