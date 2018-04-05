@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116215723id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405144742id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SeatAdvisor
 
 SeatAdvisor, Inc. respects your privacy and is committed to protecting it at all times. This Internet Privacy Statement explains how we collect, use, and safeguard information on this website. Please click here for more information about SeatAdvisor, Inc. All information collected online by SeatAdvisor, Inc. will be governed by the SeatAdvisor, Inc. Internet Privacy Statement.
 
-Effective Date: 11/8/05
+Effective Date: 11/9/2017
 
 ###### Definition of terms
 
@@ -163,4 +163,4 @@ Attn: Rory O’Donnell
 Suite 470  
 San Diego, CA 92108
 
-SeatAdvisor Inc has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacyshield/](http://www.bbb.org/EU-privacyshield/) for-eu-consumers for more information and to file a complaint. It is possible, under certain conditions, for the individual to invoke binding arbitration. 
+SeatAdvisor Inc has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [https://www.bbb.org/EU-privacy-shield/](https://www.bbb.org/EU-privacy-shield/) for-eu-consumers for more information and to file a complaint. It is possible, under certain conditions, for the individual to invoke binding arbitration. 
