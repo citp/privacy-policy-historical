@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vcs.co.za privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205045708id_/http%3A//website.vcs.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcs.co.za privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405034443id_/http%3A//website.vcs.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Secure Online Payments | Payment Gateway
 
