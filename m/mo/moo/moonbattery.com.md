@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2017-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171125140204id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonbattery.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405083730id_/http%3A//www.moonbattery.com/links/Privacy-Statement.html) for the most accurate reproduction.*
 
 # Moonbattery
 
 [](http://www.moonbattery.com/)
 
 Moonbattery collects the name, IP address, and email address (if provided; email addresses are not displayed) of readers who leave comments. When commenters leave a URL, their names will be hyperlinked to it when the comment is displayed, and the URL will be stored.
-
-When a reader comments, Movable Type leaves a cookie on the reader's computer to facilitate commenting in the future.
 
 Any information posted in the body of a comment will be visible to other readers and preserved in the Moonbattery archives.
 
@@ -16,7 +14,7 @@ No information is collected by Moonbattery on readers who do not leave comments 
 
 Advertisers may leave cookies on the computers of any users whose browsers are set to allow it (see below).
 
-Site Meter records the domain name, city, and IP address of visitors, but this information is not retained by Moonbattery, although IP addresses are also recorded on server logs, as with all websites.
+StatCounter records the domain name, city, and IP address of visitors, but this information is not retained by Moonbattery, although IP addresses are also recorded on server logs, as with all websites.
 
 Moonbattery will not disclose the private information of readers to any third party except if required to do so by law, or to protect the rights, property, or safety of Moonbattery readers or the public. Moonbattery takes all reasonable care in handling personal information to ensure its security both offline and online.
 
