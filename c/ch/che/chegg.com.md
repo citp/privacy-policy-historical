@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213133035id_/https%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405083356id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
 
-# Chegg.com
+# Chegg.com Privacy Policy
 
 We at Chegg, Inc. (collectively with any subsidiaries, "Chegg") have created this Privacy Policy to describe our practices regarding information we collect through our web sites, mobile features, applications and any other interactive features or services owned or controlled by Chegg that post a link to this Privacy Policy (each, a "Service" and collectively, the "Services"), as well as any information we collect offline and combine in our databases. Certain features discussed in this Privacy Policy may not be offered on each Service at any particular time. Note that we combine the information we collect from you through all of our web sites, mobile applications, and other Services. 
 
@@ -39,7 +39,6 @@ Please read this Privacy Policy to learn more about:
   * CONSENT TO TRANSFER
   * CHANGES TO THIS PRIVACY POLICY
   * QUESTIONS OR COMMENTS
-  * RESOLVING PRIVACY DISPUTES
   * CALIFORNIA RESIDENTS - YOUR CA PRIVACY RIGHTS
 
 
@@ -201,10 +200,6 @@ Attn: Privacy Policy Issues
 3990 Freedom Circle  
 Santa Clara, CA 95054  
 
-
-RESOLVING PRIVACY DISPUTES
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 CALIFORNIA RESIDENTS - YOUR CA PRIVACY RIGHTS
 
