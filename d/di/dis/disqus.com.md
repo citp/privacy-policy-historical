@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disqus.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230221706id_/https%3A//help.disqus.com/customer/portal/articles/466259-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disqus.com privacy policy that was archived on 2018-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180405171814id_/https%3A//help.disqus.com/customer/portal/articles/466259-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Disqus
+# Disqus Privacy Policy · Disqus
 
 Disqus, Inc. ("Disqus," "we," or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, disclosure and protection of information that apply to our Service (as defined below), as well as your choices regarding the collection and use of information.
 
@@ -41,7 +41,19 @@ We may receive and collect information from Partner Sites or other third parties
 
 ## Targeted Ads and Analytics Services.
 
-We may, and we may engage third parties who may, place advertisements on our behalf onto other websites, perform tracking and reporting functions for those sites and our advertisements, and place third party advertisements on the Service. Information that may be collected includes, but may not be limited to, information about the websites you've viewed and advertisements you've interacted with, along with your IP address, date and time of interaction, your ISP and the browser you use to visit or use the Service. Such information may be combined with Personally Identifiable Information like your name or email address or other information that could be used to identify you, which may be used, among other things, to deliver advertising, including by email, from us and from other companies targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites, and to better understand your interactions with the Service, Partner Sites and other websites and advertisements observed by these advertising companies. To learn more about this type of targeted advertising (also called interest-based advertising), analytics services and your choices, including how to opt-out of some third party ads, advertising networks and ad servers, you may wish to visit the [DAA Consumer Opt-Out Page](http://optout.aboutads.info/#!/) , [NAI Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) and [Google's information page.](https://www.google.com/settings/ads)
+We may, and we may engage third parties who may, collect information, by using technologies such as cookies and web beacons, across various websites and devices, for the purpose of delivering more relevant advertisements on our behalf, or on the behalf of third parties, to you on the Service or third party websites, and to perform tracking and reporting functions for our Service, Partner Sites, or other third party websites, and the advertisements you view or click on. Information that may be collected includes, but may not be limited to, information about the websites you’ve viewed and advertisements you’ve interacted with, your IP address, date and time of interaction, your ISP and browser type, device ID, unique cookie recognized on your browser (“Cookie ID”), and the information associated with such Cookie ID. We, or third parties we engage, may combine this with Personally Identifiable Information like your name or email address or other information that could be used to identify you, which may be used, among other things, to deliver advertising, including by email, targeted to your preferences and interests derived from your interaction with the Service, Partner Sites or other third party websites, and to better understand your interactions with the Service, Partner Sites and other websites. To learn more about this type of targeted advertising (also called interest-based advertising), analytics services and your choices, including how to opt-out of some interest based advertising, advertising networks and ad servers, please visit [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) or <http://youronlinechoices.eu/>, [DAA Consumer Opt-Out Page](http://optout.aboutads.info/#!/), [NAI Consumer Opt-Out Page](http://www.networkadvertising.org/choices/) and [Google’s information page](https://www.google.com/settings/ads).
+
+You can also refuse or disable cookies already stored cookies via the settings of your browser as follows:
+
+For Edge, [click here](https://answers.microsoft.com/en-us/insider/forum/insider_internet-insider_spartan-insiderplat_pc/how-to-view-and-manage-cookies-in-microsoft-edge/67b3a495-554e-4f1d-995e-93d0ea6882a6)
+
+For Internet Explorer, [click here](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorer)
+
+For Mozilla Firefox, [click here](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+
+For Google Chrome, [click here](https://support.google.com/chrome/answer/95647)
+
+For Safari, [click here](https://support.apple.com/en-us/HT201265)
 
 ## How We May Use the Information We Collect.
 
@@ -70,7 +82,7 @@ Disqus reserves the right, but has no obligation, to monitor the User Content yo
   * **Your Account**. All registered users may review, update or correct the Personally Identifiable Information provided in their registration or account profile by changing their "user preferences" in their account. To delete your account entirely, please follow [these steps](https://help.disqus.com/customer/portal/articles/472013-deleting-your-account) . However, you understand and agree that we are not able to remove your Personally Identifiable Information from the records of any third party who has previously been provided with your information . 
   * **Opting Out of Targeted Advertising**. We strive to make the Disqus experience as personalized and relevant as possible for all users. In doing so, we may deliver you targeted ads based on information collected on the Service, Partner Sites or other third party sites (as described above). 
     * **_Targeted Ads Opt-Out_.** If you prefer to opt out of targeted advertising (also called interest based advertising) by Disqus, you may do so by clicking on the "opt-out page" link here: [opt out page](https://help.disqus.com/customer/portal/articles/1657951) . Our opt-out mechanism is managed through cookies, if you delete cookies from your browser or use a different browser, you will need to opt-out again. Please note that even if you choose to opt-out of targeted advertising from Disqus, you will still see ads from us, they just won't be targeted to you based on the information derived from your interaction with the Service,Partner Sites or third party sites. The ads you continue to see from us may be selected for you based on information such as your age or gender or other demographic information. Also note, you will still see targeted ads (interest based ads) from third parties. You can opt-out from targeted advertising from third parties in general if they are members of the Network Advertising Initiative (NAI), or Participate in the Digital Advertising Alliance's Ad Choices Tool (DAA) by visiting the respective opt-out pages on the NAI or DAA websites (you may also link to these opt-out pages from the Targeted Ads and Analytics Services section above). 
-  * **Opting Out of Our Promotional Emails**. You may opt-out of receiving targeted and other marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as "unsubscribe"), or by submitting your request to [privacy@disqus.com](mailto:privacy@disqus.com). Please allow 10 business days for us to process your opt-out request.
+  * **Opting Out of Our Promotional Emails**. Opting Out of Our Promotional Emails. You may opt-out of receiving targeted and other marketing and promotional emails from us at any time by using the opt-out mechanism contained in such emails (also referred to as "unsubscribe"). You may also unsubscribe or manage your email subscription by clicking this link: [Manage My Disqus Email Settings](https://help.disqus.com/customer/portal/articles/1255134#email-notifications). Please note, unsubscribing from Disqus emails will unsubscribe your from Disqus notification emails and Disqus digest emails. You will still receive transactional emails necessary for the Disqus service to function, these include, but may not be limited to, emails confirming you created a new account, emails helping you reset your password etc.
   * **Declining Cookies.** If you do not want to accept our cookies, you can adjust your browser settings to decline cookies. You should note, however, that certain areas of the Site may not operate properly if you decide not to accept cookies.
   * **Do Not Track**. This site does not respond to "do not track" or similar signals. 
 
@@ -102,17 +114,15 @@ Disqus' accountability for personal data that it receives under the Privacy Shie
 
 If you are located in the EU, you have the right to access, correct, or have removed from our systems any of your EU Personal Information that Disqus may store. If you would like to may such a request you can do so by emailing us at [privacy@disqus.com](mailto:privacy@disqus.com), or by postal mail to one of the addresses listed below and we will promptly respond to your requests.
 
-We encourage you tocontact us using the information provided below should you have a Privacy Shield-related (or general privacy-related) complaint. For any complaints that cannot be resolved with Disqus directly. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Disqus subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+We encourage you to contact us using the information provided below should you have a Privacy Shield-related (or general privacy-related) complaint. For any complaints that cannot be resolved with Disqus directly. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Disqus subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 ## Dispute Resolution
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request> .
-
-Disqus has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please email us at [privacy@disqus.com](mailto:privacy@disqus.com), or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
+If you have any questions about this Disqus Privacy Policy, please email us at [privacy@disqus.com](mailto:privacy@disqus.com), or contact us by mail at 717 Market Street, Suite 700, San Francisco, CA 94103.
 
 ## Changes to Privacy Policy
 
