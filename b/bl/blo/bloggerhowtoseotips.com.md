@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggerhowtoseotips.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206110135id_/http%3A//www.bloggerhowtoseotips.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerhowtoseotips.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407014641id_/http%3A//www.bloggerhowtoseotips.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
