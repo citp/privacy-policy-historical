@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altmetric.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710194616id_/https%3A//www.altmetric.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altmetric.com privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406230450id_/https%3A//www.altmetric.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Altmetric
 
