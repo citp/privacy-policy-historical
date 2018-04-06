@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hope.dating privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108211513id_/http%3A//www.hope.dating/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hope.dating privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406133546id_/http%3A//www.hope.dating/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
