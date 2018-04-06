@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackersonlineclub.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231132623id_/http%3A//hackersonlineclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackersonlineclub.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407011253id_/https%3A//hackersonlineclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HackersOnlineClub
 
-**If you require any more information or have any questions about our privacy policy,  please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+**If you require any more information or have any questions about our privacy policy,  please feel free to contact us by email at info@hackersonlineclub.com.**
 
 At hackersonlineclub.com the privacy of our visitors is of extreme importance to us.
 
