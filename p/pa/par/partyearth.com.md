@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205232850id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyearth.com privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406055707id_/http%3A//www.partyearth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Party Earth
 
@@ -10,7 +10,7 @@ Party Earth has created this privacy policy to demonstrate our commitment to you
 
 We have adopted a set of information management guidelines that serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please read this privacy policy to understand how your personal information will be treated as you use PartyEarth.com.
 
-If you have questions or concerns regarding this statement, please e-mail us at privacy@partyearth.com.
+If you have questions or concerns regarding this statement, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **The Information We Collect**
 
@@ -22,7 +22,7 @@ Registration on PartyEarth.com is strictly voluntary. To register on PartyEarth.
 
 **Email Communications**
 
-When you sign up for a Party Earth account, we opt you in to receive emails and communications from Party Earth, its affiliates, and business partners. You can manage your email preferences and opt out of emails via your user profile or by contacting customer service at service@partyearth.com. Note that you cannot opt out of receiving required administrative or legal notices.
+When you sign up for a Party Earth account, we opt you in to receive emails and communications from Party Earth, its affiliates, and business partners. You can manage your email preferences and opt out of emails via your user profile or by contacting customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Note that you cannot opt out of receiving required administrative or legal notices.
 
 **Credit Card Policy**
 
@@ -46,7 +46,7 @@ We use your e-mail address to send you updates and newsletters periodically abou
 
 **With Whom We Share Information**
 
-We share your personally identifiable information with intermediaries. These intermediaries use your information in connection with processing payments for online purchases and with delivery of e-mail to our registered users. We do not permit these intermediaries to use, store or retain this information for secondary purposes, unless they indicate otherwise in communications to you. From time to time we may allow some of our select partners to send you special promotional offers that we believe may be of special interest to you. You may choose not to receive these communications from our partners by so indicating in response to any of these communications, each of which will clearly explain how to opt out of future communications. You may also opt out of having your personal information shared with these third parties by sending a request to service@partyearth.com to deactivate your PartyEarth.com user account. If you do so, however, you will not be able to take advantage of many of our features, including the right to purchase items from our store; and your account may even be deactivated. We do retain the right to share and transfer all user information with a purchaser of our company or all or substantially all of our assets if that purchaser agrees to abide by the terms of this Policy.
+We share your personally identifiable information with intermediaries. These intermediaries use your information in connection with processing payments for online purchases and with delivery of e-mail to our registered users. We do not permit these intermediaries to use, store or retain this information for secondary purposes, unless they indicate otherwise in communications to you. From time to time we may allow some of our select partners to send you special promotional offers that we believe may be of special interest to you. You may choose not to receive these communications from our partners by so indicating in response to any of these communications, each of which will clearly explain how to opt out of future communications. You may also opt out of having your personal information shared with these third parties by sending a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to deactivate your PartyEarth.com user account. If you do so, however, you will not be able to take advantage of many of our features, including the right to purchase items from our store; and your account may even be deactivated. We do retain the right to share and transfer all user information with a purchaser of our company or all or substantially all of our assets if that purchaser agrees to abide by the terms of this Policy.
 
 **Legal Disclaimer**
 
@@ -56,7 +56,7 @@ We may disclose personal information if required to do so by law or in the good 
 
 PartyEarth.com has security measures in place to help protect the loss, misuse and alteration of the information under our control. All information is stored in a secure operating environment. When sending sensitive information across the Internet - including purchasing information such as credit cards - we use Secure Socket Layer (SSL) encryption via Authorize.net. Internally, all customer information is protected with multiple security checks. Employee access to the system is limited to the functionality necessary for each person's job. Relevant employees are informed of our security policies and their access to applications and data on our network.
 
-If you still do not feel comfortable about leaving your credit card information on our secured Web site, please contact our customer service department at service@partyearth.com and we'll be happy to help you with your order.
+If you still do not feel comfortable about leaving your credit card information on our secured Web site, please contact our customer service department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we'll be happy to help you with your order.
 
 **Links**
 
@@ -64,11 +64,11 @@ We may provide links to third party Web sites as a service to our users. Please 
 
 **How You Can Access or Correct Your Information**
 
-If you are a registered PartyEarth.com user you can make changes to your personal information at any time by clicking on your user profile, or by e-mailing us at service@partyearth.com. At any time you can also review your personal information in your user profile.
+If you are a registered PartyEarth.com user you can make changes to your personal information at any time by clicking on your user profile, or by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) At any time you can also review your personal information in your user profile.
 
 **Questions**
 
-Protecting your privacy is one of our highest priorities. If you have any questions about our privacy policy, you may e-mail us at privacy@partyearth.com.
+Protecting your privacy is one of our highest priorities. If you have any questions about our privacy policy, you may e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Consent and Opting-Out**
 
@@ -80,7 +80,7 @@ Upon request, PartyEarth.com will:
 
 
 
-To request a correction or cancellation, send us a message through the Contact Us form on the Site, or e-mail us at service@partyearth.com.
+To request a correction or cancellation, send us a message through the Contact Us form on the Site, or e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **Notification of Changes**
 
