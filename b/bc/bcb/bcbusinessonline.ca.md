@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114233642id_/http%3A//www.canadawide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406043639id_/http%3A//www.canadawide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Canada Wide Media
 
