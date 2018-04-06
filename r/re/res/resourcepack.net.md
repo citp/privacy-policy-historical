@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215081151id_/http%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2018-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180406121948id_/http%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Resource Packs
 
-This privacy policy sets out how resourcepack.net uses and protects any information that you give resourcepack.net when you use this website.
+This privacy policy sets out how resourcepack.net uses and protects any information that you give resourcepack.net when you use this website.
 
-ResourcePack.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+ResourcePack.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-ResourcePack.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2013/07/27.
+ResourcePack.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2013/02/17.
 
 **What we collect**
 
@@ -23,6 +23,24 @@ We require this information to understand your needs and provide you with a bett
 
   * Internal record keeping.
   * We may use the information to improve our reviews.
+
+
+
+**Ad Networks**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies
+
+We use the following ad networks:
+
+  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
+
+
+
+**Especially Google Adsense Privacy Policy**
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 
 
