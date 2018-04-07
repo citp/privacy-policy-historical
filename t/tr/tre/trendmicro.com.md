@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119120104id_/https%3A//www.trendmicro.com/en_us/about/legal/privacy-policy-web.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmicro.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407021752id_/https%3A//www.trendmicro.com/en_us/about/legal/privacy-policy-web.html) for the most accurate reproduction.*
 
 # Notice Concerning Change in Largest Shareholder (Principal Shareholders)
 
