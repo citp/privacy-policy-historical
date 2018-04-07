@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2017-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171117142121id_/http%3A//www.familylife.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylife.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407040519id_/http%3A//www.familylife.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
