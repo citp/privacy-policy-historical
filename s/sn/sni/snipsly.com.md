@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snipsly.com privacy policy that was archived on 2017-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171129031031id_/http%3A//snipsly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snipsly.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407115845id_/http%3A//snipsly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Snipsly
 
