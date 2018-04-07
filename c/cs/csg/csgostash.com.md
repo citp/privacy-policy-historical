@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgostash.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218133241id_/https%3A//csgostash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgostash.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407035453id_/https%3A//csgostash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CS:GO Stash
 
