@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mxfastmoney.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628092844id_/http%3A//mxfastmoney.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mxfastmoney.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408015856id_/http%3A//mxfastmoney.com/privacy) for the most accurate reproduction.*
 
 # MX Fast Money Success System - MX Fast Money Privacy Policies
 
