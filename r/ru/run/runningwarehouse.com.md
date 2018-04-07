@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningwarehouse.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203051035id_/http%3A//www.runningwarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningwarehouse.com privacy policy that was archived on 2018-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180407134852id_/http%3A//www.runningwarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Running Warehouse
 
@@ -133,7 +133,7 @@ If you are a California resident and would like a copy of this notice, please su
 
 ### California Do Not Track Disclosures
 
-California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. We do not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](https://web.archive.org/web/20171203051035id_/http%3A//www.runningwarehouse.com/www.allaboutdnt.org).
+California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how a website operator responds to "Do Not Track" (DNT) browser settings. DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies. We do not currently take actions to respond to DNT signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a DNT standard once one is created. For information about DNT, please visit: [www.allaboutdnt.org](https://web.archive.org/web/20180407134852id_/http%3A//www.runningwarehouse.com/www.allaboutdnt.org).
 
 ## Contact Us
 
