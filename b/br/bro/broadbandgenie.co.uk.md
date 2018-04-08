@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the broadbandgenie.co.uk privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211105226id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandgenie.co.uk privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408094222id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Broadband Genie
 
 ### Personal data, email policy and cookies
 
-##### _Updated July 31st 2015_
+##### _Updated November 28th  2017_
 
 Broadband Genie is committed to respecting the privacy of its visitors. We do not collect any personal data when you visit the site and you can access and browse our website without disclosing any personal data. We use cookies which collect anonymous information about the pages visited to allow us to monitor the performance of the website.
 
@@ -19,6 +19,10 @@ We use third-party advertising companies to serve ads when you visit our website
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
 
 
+
+We use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/privacy).
+
+  You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link.](https://www.hotjar.com/opt-out) ​
 
 By entering your email address on the Broadband Genie site, including submitting a form or entering a competition, you will be subscribed to our email mailing list about our products, news and promotions. 
 
