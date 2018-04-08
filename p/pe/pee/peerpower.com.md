@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peerpower.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012012743id_/http%3A//www.peerpower.com/user_links.php%3Fshow%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerpower.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408070738id_/http%3A//www.peerpower.com/user_links.php%3Fshow%3DPrivacy) for the most accurate reproduction.*
 
 # :: PeerPower : Contacts ::
 
