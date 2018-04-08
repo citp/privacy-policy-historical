@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebodybuilding.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219174201id_/http%3A//www.rebodybuilding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebodybuilding.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408034819id_/http%3A//www.rebodybuilding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReBodyBuilding
 
@@ -8,7 +8,7 @@ We are committed to protecting the privacy and security of the users of our site
 
 This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
-If you have any questions or concerns about our privacy policy, please send us an e-mail to: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any questions or concerns about our privacy policy, please send us an e-mail to: info@rebodybuilding.com.
 
 ## Scope Of Privacy Policy
 
@@ -118,7 +118,7 @@ To exercise your DMCA rights, you must send your Proper DMCA Notice to the follo
 
 Address: Friesenwall 29, Koeln, 50672 GERMANY
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: info@rebodybuilding.com
 
 ## What We Do When We Receive A Proper DMCA Notice
 
@@ -155,7 +155,7 @@ To exercise your DMCA rights, you must send your Counter-notification to the Ã�
 
 Address: Friesenwall 29, Koeln, 50672 GERMANY
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Email: info@rebodybuilding.com
 
 ## Repeat Infringers
 
