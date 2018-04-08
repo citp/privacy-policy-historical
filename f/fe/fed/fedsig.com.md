@@ -1,32 +1,33 @@
-> *The following text is extracted and transformed from the fedsig.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616062208id_/http%3A//www.fedsig.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedsig.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408090914id_/https%3A//www.fedsig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Signal
 
-## What information do we collect? How do we use it?
+Federal Signal Corporation cares about providing you with the tools and information to manage and protect your online privacy. We have therefore developed a policy to inform you about the types of information this website collects, who may receive that information, and what we may do with the information.
 
-  * When you browse the website, we may ask you for your name, e-mail address and other personal information.
-  * We personalize your visit to the website by using your personal information to shape our recommendations about the products that might be of interest to you. We also monitor customer traffic patterns and the site usage to help us develop the design and layout of the website.
-  * We may also use the information we collect to occasionally notify you about important functionality changes to the website, new Federal Signal services, and special offers we think you'll find valuable.
+ While we have made every attempt to make this policy as clear as possible, if you have any questions about this policy, contact us at: Federal Signal Corporation  
+1415 W. 22nd St.  
+Oak Brook, IL 60523  
+Phone: (630) 954-2000  
+E-mail: [info@federalsignal.com](mailto:info@federalsignal.com)
+
+#### Cookies
+
+Cookies are small files that contain information a Web site uses for tracking purposes. This web site uses cookies to facilitate the visitor experience and/or to enhance site content by compiling aggregate information about which specific sections and pagers visitors use.
+
+#### Information collection
+
+  * Federal Signal collects the following types of information:
+  * Traditional contact information such as mailing addresses, phone and fax numbers.  Internet contact information such as email addresses.
+  * Information about the visitor's computer system, such as the web browser type, IP address and operating system.
+  * The number of web pages visited, click stream data, and other navigation information.
+  * Non-financial identification information, such as user name and password combinations.
 
 
 
-### How does Federal Signal protect customer information?
+Compiling this information helps us to better understand site usage patterns, and which types of content are of greatest interest to the visitors of our site. In addition, this information allows us to notify visitors of updates to our site, and to contact them with information about Federal Signal's portfolio of security and well-being solutions.
 
-When you give us personal information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
+#### Information sharing
 
-### What about "cookies"?
+The information we collect is not shared with e-mail advertisers or other parties. Only Federal Signal's employees who need access to the information in order to do their jobs have access to it. These employees are fully committed to our privacy and security policies.
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide certain features. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features on our website.
-
-### Does Federal Signal disclose the information it collects to outside parties?
-
-No, Federal Signal Corporation does not sell, trade, rent, or otherwise share your personal information with others. Federal Signal may share aggregate statistics collected from our Web sites for the purpose of improving our products and services, but these statistics will include no personally identifying information.
-
-### Your consent
-
-By using our website, you consent to the collection and use of this information by Federal Signal. If we decide to change our Privacy Policy, we will post those changes on this page and will send a notice to your email address if you have provided us with one so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-### Tell us what you think
-
-Federal Signal welcomes your questions and comments about privacy.  
-Please send your e-mail to [info@fedsig.com](mailto:info@fedsig.com).
+ If you believe we are not handling your information in accordance with our privacy policy, please e-mail us at [info@federalsignal.com](mailto:info@federalsignal.com).
