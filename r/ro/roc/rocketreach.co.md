@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rocketreach.co privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227015707id_/https%3A//rocketreach.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketreach.co privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408095135id_/https%3A//rocketreach.co/privacy) for the most accurate reproduction.*
 
-# None
+# RocketReach's Privacy Policy
 
 ## Privacy Policy
 
