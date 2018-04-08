@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205054641id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408172133id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Cochrane
 
