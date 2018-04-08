@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barefootstudent.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119161237id_/https%3A//www.barefootstudent.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefootstudent.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408140929id_/https%3A//www.barefootstudent.com/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
