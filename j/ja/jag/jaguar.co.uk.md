@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2017-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170917154441id_/https%3A//www.jaguar.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaguar.co.uk privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408153854id_/https%3A//www.jaguar.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy | Jaguar UK
 
@@ -41,7 +41,7 @@ If you have allowed us to use your personal information for the purposes above, 
 
 **OTHER INFORMATION COLLECTED DURING YOUR VISIT TO OUR SITE**
 
-Whenever you browse the [www.jaguar.co.uk](http://www.jaguar.co.uk/) website, read pages, or download information, our computers automatically record certain information about your visit from the computer you use to access our site. 
+Whenever you browse the [www.jaguar.co.uk](https://www.jaguar.co.uk/) website, read pages, or download information, our computers automatically record certain information about your visit from the computer you use to access our site. 
 
 The information includes the following: 
 
@@ -49,9 +49,9 @@ This information does not identify you personally. It just tells us how many vis
 
   1. The date and time you access our site.
   2. How many and which pages you visit during a 'session' on our site and how long you were on the site.
-  3. Your Internet domain name (this might be your internet service provider such as aol.com or your place of work) and the 'IP' address (this is a number assigned to your computer whenever you are surfing the web) which allows you to access our website.
-  4. The Internet browser you use (e.g. Microsoft Explorer or Netscape) and your computer's operating system (e.g. Windows 98).
-  5. The site you were on before you linked to [jaguar.co.uk](http://jaguar.co.uk/) (e.g. Yahoo if you found us from a search engine).
+  3. Your Internet domain name (this might be your internet service provider such as BT, Sky, TalkTalk or your place of work) and the 'IP' address (this is a number assigned to your computer whenever you are surfing the web) which allows you to access our website.
+  4. The Internet browser you use (e.g. Google Chrome, Microsoft Edge, Mozilla Firefox) and your computer's operating system (e.g. Windows 10, macOS).
+  5. The site you were on before you linked to jaguar.co.uk (e.g. Google or Bing if you found us from a search engine).
 
 
 
@@ -67,7 +67,7 @@ We may use "pixel tags," which are small graphic files that allow us to monitor 
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary. You also have the right to ask us to not use your information for marketing purposes by choosing not to give your consent on the registration form. 
 
-If you have any specific questions that are not covered in this section, or want to know what information we currently store on you, please [contact us](http://www.jaguar.co.uk/contact-us/index.html). 
+If you have any specific questions that are not covered in this section, or want to know what information we currently store on you, please [contact us](https://www.jaguar.co.uk/contact-us/index.html). 
 
 If you have a specific data protection concern or complaint, you can address it to our Data Protection & Privacy Team at [DPOffice@jaguarlandrover.com](mailto:DPOffice@jaguarlandrover.com)
 
@@ -101,21 +101,14 @@ Persistent Cookies are used:
 
 
 
+To learn more about cookies in general and how to manage them, visit [aboutcookies.org](http://aboutcookies.org/)   
 Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies on the next tab. 
 
 Cookie Name | Cookie Purpose  
 ---|---  
 JLR_cookies | Hides cookie banner once it has been closed.  
 JLR_IgniteBar | So the Ignite bar knows if the items have changed from the previous page. So it can animate out any new items.  
-90401137_login |   
-  
-90401137_reset |   
-  
-TestSess3 | Holds the dealer name if the user visits Dealer.jaguar.com  
-gs_u_GSN-065099-V,   
-gs_u_GSN-657216-Q | Go Squared Analytics cookie, used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing gs_u_GSN cookie exists. The cookie is updated every time data is sent to GoSquared.  
 psyma_participation | Stores users preference in participation of the Psyma research survey  
-Media Innovation Group Appnexus | These various online ad tracking cookies help us show you online adverts relevant to you. They track the adverts you have seen, those you have clicked on, and the pages you have visited on our site afterwards.  
   
 **Third Party Cookies**
 
@@ -131,36 +124,41 @@ These are used for the following purposes:
 
 
 
-Cookie | Cookie Name | Cookie Purpose  
----|---|---  
-Psyma | psyma_participation | Stores users preference in participation of the Psyma research survey.  
-Addthis | __atuvc | These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.  
+Cookie | Cookie Purpose  
+---|---  
+__cfduid | Enables SiteImprove web analytics and site monitoring.  
+dc | Utilised in enabling A/B testing within the website  
+matchgoogle | Regulates synchronisation of user identification and exchange of user data between various ad services.  
+mc | Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted advertising.  
+siteimproveses | Enables SiteImprove web analytics and site monitoring.  
+visitorID | Utilised in enabling A/B testing within the website  
+SCOGID | Utilised in Real User Monitoring  
+id, u2, lidid | These cookies are placed for Media and advertising tracking. This information enables us to make our marketing activity more relevant.  
+wfivefivec | These cookies are placed for Media and advertising tracking by DataXU. This information enables us to make our marketing activity more relevant.  
+SCOSID | Utilised in Real User Monitoring  
+ActivityInfo2, IDE, OT2, OT_6695, MC | These cookies are placed for Media and advertising tracking. This information enables us to make our marketing activity more relevant.  
+_atuvc, _atuvs, bt, um, uit, uid, loc, dt, bt2, di2 | These cookies are used in recording user sharing and social activity and to help publishers know approximately where people sharing information are located.  
+psyma_participation | Stores users preference in participation of the Psyma research survey.  
+Media Innovation Group Appnexus | These various online ad tracking cookies help us show you online adverts relevant to you. They track the adverts you have seen, those you have clicked on, and the pages you have visited on our site afterwards.  
+cmTPSet | Enables web analytics tracking through IBM Digital Analytics  
+x_axis_main | These cookies are placed for Media and advertising tracking through Xasis. This information enables us to make our marketing activity more relevant.  
+ABTasty, ABTastySession | Utilised in enabling A/B testing within the website  
+nmstat | Enables SiteImprove web analytics and site monitoring.  
   
-| __atuvs | For more information you can visit:[www.addthis.com/](http://www.addthis.com/)  
-  
-| bt |   
-  
-  
-| um |   
-  
-  
-| uit |   
-  
-  
-| uid |   
-  
-  
-| loc |   
-  
-  
-| dt |   
-  
-  
-| bt2 |   
-  
-  
-| di2 |   
-  
+| Enables web analytics tracking through IBM Digital Analytics  
+_ceg.s, _ceg.u | Enables web analytics tracking through CrazyEgg  
+_ga, _gid | Enables web analytics tracking through Google Analytics  
+cmTPSet | Enables web analytics tracking through IBM Digital Analytics  
+_ceg.s, _ceg.u | Enables web analytics tracking through CrazyEgg  
+_ga, _gid | Enables web analytics tracking through Google Analytics  
+s3optout  | Used to store the opt-outs from sophus3 services  
+TCSess | Enables web analytics tracking through sophus3  
+TCID | Enables web analytics tracking through sophus3  
+_pk_uid | Enables web analytics tracking through sophus3  
+_s3_ref.* | Enables web analytics tracking through sophus3  
+_s3_cvar.* | Enables web analytics tracking through sophus3  
+_s3_id.* | Enables web analytics tracking through sophus3  
+_s3_ses.* | Enables web analytics tracking through sophus3  
   
 **Web Beacons**
 
@@ -168,61 +166,17 @@ Some of our Web pages may contain electronic images known as Web Beacons (someti
 
 **Managing Cookies**
 
-Disabling and Enabling Cookies 
+Disabling, Enabling & Deleting Cookies 
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. Guideline instructions on how to check cookies are enabled follow below: 
 
-How to check cookies are enabled for PC’s 
+How to set and customise your cookie settings for the browser you are using 
 
-**Google Chrome**
+[How to manage cookies in Internet Explorer ](http://support.microsoft.com/en-us/help/260971/description-of-cookies)   
+Cookie settings in most versions of Internet Explorer can be found by clicking the tools option and then the privacy tab. 
 
-  1. Click on 'Tools' at the top of your browser window and select Options
-  2. Click the 'Under the Hood' tab, locate the 'Privacy' section, and select the 'Content settings' button
-  3. Now select 'Allow local data to be set'
-
-
-
-**Microsoft Internet Explorer 6.0, 7.0, 8.0**
-
-  1. Click on 'Tools' at the top of your browser window and select 'Internet options' , then click on the 'Privacy' tab
-  2. Ensure that your Privacy level is set to Medium or below, which will enable cookies in your browser
-  3. Settings above Medium will disable cookies
-
-
-
-**Mozilla Firefox**
-
-  1. Click on 'Tools' at the top of your browser window and select Options
-  2. Then select the Privacy icon
-  3. Click on Cookies, then select 'allow sites to set cookies'
-
-
-
-**Safari**
-
-  1. Click on the Cog icon at the top of your browser window and select the 'Preferences' option
-  2. Click on 'Security', check the option that says 'Block third-party and advertising cookies'
-  3. Click 'Save'
-
-
-
-How to check cookies are enabled for Macs 
-
-**Microsoft Internet Explorer 5.0 on OSX**
-
-  1. Click on 'Explorer' at the top of your browser window and select 'Preferences' options
-  2. Scroll down until you see 'Cookies' under Receiving Files
-  3. Select the 'Never Ask' option
-
-
-
-**Safari on OSX**
-
-  1. Click on 'Safari' at the top of your browser window and select the 'Preferences' option
-  2. Click on 'Security' then 'Accept cookies'
-  3. Select the 'Only from site you navigate to'
-
-
+[How to manage cookies in Microsoft Edge](http://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)   
+Cookie settings in Microsoft Edge can be found by clicking the More option and then the Settings icon. 
 
 **Mozilla and Netscape on OSX**
 
