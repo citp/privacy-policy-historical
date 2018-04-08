@@ -1,71 +1,229 @@
-> *The following text is extracted and transformed from the websiteplanet.com privacy policy that was archived on 2017-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171021163303id_/http%3A//websiteplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteplanet.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408201154id_/https%3A//www.websiteplanet.com/blog/make-privacy-policy-gdpr-compliant) for the most accurate reproduction.*
 
-# Privacy Policy – Website Planet
+# Make Your Privacy Policy GDPR Compliant - Website Planet
 
-## Websiteplanet.com Privacy Policy
+If you are like me, you may have noticed privacy and cookie policies popping up all over the internet. Where they used to be hidden way at the bottom of a website’s page, now they are front and center and in your face. Read on to find out why this is the case, what GDPR is, and how to make your website’s privacy policy GDPR compliant. The end of the article includes a sample privacy policy that you are free to use.
 
-Please read the following to learn more about our privacy policy, the types of personal information we gather and the steps we take to safeguard it when you use the Web sites, applications and services provided by us (the “Services”).  
-This site is provided by websiteplanet.com. and its affiliates (“Websiteplanet,” “we” or “us”). This policy covers how we treat personal information that we collect and use on or through the Services and other related websites where this policy is posted on the footer of the Web page.  
-You agree that this Privacy Policy is part of our Terms of Use, which you can review at http://www.websiteplanet.com/terms-of-use/. By accessing or using the Services, you agree to be bound by all of our terms and conditions.
+## What is GDPR?
 
-### Information Collection and Use
+The General Data Protection Regulation (GDPR) is a set of laws that was created to protect the personal data of European Union (EU) citizens. The Council of the European Union, European Parliament, and European Commission joined forces to help people have better control over their personal data.
 
-When you use the Services, you provide information to us. Websiteplanet collects two types of information: (1) information that you provide to us that lets us know who you are (“Personally Identifiable Information”) and (2) information that does not by itself identify a specific individual (“Non-personally Identifiable Information”).
+Officially approved by European Parliament in 2016, the EU allowed a two-year grace period for companies and organizations to comply with the new regulations. Therefore, as of May 25, 2018, any business not complying with the new GDPR laws will be breaking the law.
 
-### Personally Identifiable Information
+## Who Is Affected by the GDPR?
 
-You can browse the Services’ Websites without telling Websiteplanet who you are or revealing any personal information about yourself. However, when you transact with us or register to open an account with Websiteplanet, we ask for information about yourself, such as your name, email address, and zip code, which we collect and use as disclosed in this Privacy Policy. Once you submit information about yourself to us, you are not anonymous to us. We may also collect additional information about you when you engage in certain activities on the Services, such as: (a) when you sign up for special offers; (b) when you visit the Services’ Web pages or the pages of certain Websiteplanet partners ; (c) when you interact with offers and advertisements; (d) when you log into the Services with your account; (e) when you complete a survey; (f) when you post content or provide us with feedback; or (g) when you enter promotions or sweepstakes. Websiteplanet might also receive information about you from other sources and add it to your account information. Providing information is purely optional on your part; however, not all features and services (such as, responding to your inquiries) would be available to you if you elect not to provide information. If you choose to provide us with personal information, you consent to the transfer and storage of that information by us.
+Any business operating within the EU and any company that does business, or hopes to do business, with citizens of the European Union must comply with the new laws. Even companies outside the EU are affected if they offer goods or services to citizens of the EU, and anyone who holds personal data of EU citizens can be penalized as of May 25, 2018.
 
-### Non-Personally Identifiable Information
+## What Sort of Data Falls under the GDPR?
 
-We automatically receive and collect Non-personally Identifiable Information on our server logs from your browser, including your IP address, the Uniform Resource Locator (“URL”) that you just came from, which URL you next go to, browser type, browser language, date and time of your query, Websiteplanet cookie information, and the pages you request. This information is complied and analyzed on both a personal and an aggregated basis. We may use third-party analytics services to collect, monitor and analyze the information collected as described above.
+Any information classified as personal details that can be used to identify a citizen of the EU is protected by the GDPR and includes, but is not exclusive to, the following data:
 
-### Use of Information
+  * Name
+  * Photo
+  * Email address
+  * Social media posts
+  * Personal medical information
+  * IP addresses
+  * Bank details
 
-We primarily will use Personally Identifiable Information for the following purposes: (a) to provide the Services to you; (b) to customize the advertising and content you see ; (c) fulfill any transactions, including, your requests for products and services ; (d) improve our services and offerings to you; (e) conduct research ; (f) provide you with support; (g) provide you with updates and notices about the Services, our Privacy Policy and terms and conditions; (h) contact you under certain circumstances; (i) provide you with offers from us, our affiliates and from third parties that may be of interest to you, and (j) provide anonymous reporting for internal and external clients. In addition, Websiteplanet will use your email address to contact you under the following circumstances: to respond to your support questions, to notify you of material changes to our policies or website, to request your participation in user surveys, and to deliver products, services and marketing communications that you request.  
-We will use Non-personally Identifiable Information to diagnose problems with our servers and software, to administer the Services, and to gather demographic information. Our third-party advertising networks and servers will also provide us reports that will tell us how many ads were presented and clicked upon on Websiteplanet in a manner that does not identify personally any individual.
 
-### Cookies
 
-Websiteplanet may set and access Websiteplanet cookies on your computer. Upon your first visit to the Services, a cookie is sent to your computer that uniquely identifies your browser. A “cookie” is a small file containing a string of characters that is sent to your computer and stored on your hard drive when you visit a website; many major Web services use them to provide useful features for their users. Each web site can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however if you reject cookies, you will not be able to sign in to the Services or take full advantage of our Services. Websiteplanet uses cookies for the following general purposes: (a) to track your preferences, such as the address or local zip code you enter; (b) to access your information when you sign in so we can provide you with your personalized content ; (c) to display the most appropriate advertisements, based on your interests and activity on our web site; and (d) and to help us analyze and estimate our traffic and use of features on the Services.  
-We may also use “pixel tags,” which are small graphic files that allow us to monitor the use of the Services. A pixel tag can collect information such as the IP address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time (and length of time) the page containing the pixel tag was viewed; the type of browser that retrieved the pixel tag; and the identification number of any cookie previously placed by that server on your computer. We may use pixel tags, either provided by us or by our third party advertisers and ad networks, to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and Services and use them in combination with our cookies to provide offers and information of interest to you.  
-We also may allow certain analytic services and providers of applications used on the Services (e.g. sharing buttons) to collect Non-Personally Identifiable information by placing cookies on the Services that will track certain performance of our Services, such as, web traffic, click-throughs, etc., in order to assist us and our service providers in better understanding the interests of our users and to better serve those interests.
+Minors cannot legally grant consent to use their personal data; therefore, parents or guardians of children ages 16 and under must be asked for permission before a company can use the minor’s data.
 
-### Advertising
+## Why Should Companies Comply with the GDPR?
 
-We may use other companies under agreements with us to serve advertisements when you visit and use the Services. These companies may collect and use [Non-Personally Identifiable Information] (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to the Services and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie, a third party web beacon and/or pixel tags to collect this information. To learn more about this behavioral advertising practice in general and the options that you have, including your option or to opt-out of this type of advertising, you can visit www.networkadvertising.org. These cookies, web beacons and pixel tags do not collect any personal information from your computer, such as your e-mail address. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Websiteplanet’s cookies.
+Any business that does not comply with the GDPR by May 25 will be subjected to steep fines by the EU to the tune of up to 4% or 20 million Euro of global revenue, whichever is highest. And there are more penalties where that came from, depending on the infraction.
 
-### Targeted Advertising By Websiteplanet
+Perhaps more importantly, companies that do not conform to the new laws will face the loss of credibility in the marketplace. In other words, complying with the laws of GDPR helps instill confidence in the company’s customers and visitors to its website. Once people feel safe, they are more willing to do business with the organization. Complying with GDPR is not just the law – it is good business.
 
-In order to serve offers and advertisements that may be interest to our users, we may display targeted advertisements on the Services based on Personally Identifiable Information provided by our users, including zip code and profile. We do not provide this Personally Identifiable Information to our advertisers when you interact with such an advertisement. However, please note that the advertisers (including ad serving companies) may determine based on their own analysis that a user who interacts with an advertisement targeted by Websiteplanet may fit into a certain demographical category; for example, an advertiser may determine that men ages 25-34 are interacting with a certain advertisement on Websiteplanet from a particular geographic area. You acknowledge that any information collected by such advertisers or advertising networks – and any options that you have with the use of such information – would be handled in accordance with the disclosures provided above in the “Advertising” section.
+## What Happens If There Is a Data Breach?
 
-### Information Sharing and Disclosure
+If there is a data breach, which is when an outsider gains access to an individual’s data without permission, the GDPR requires companies to notify the appropriate data protection authorities within 72 hours. The company must also inform the affected individuals as quickly as possible. It is important to note that the GDPR’s main goal is to protect users’ private information.
 
-Websiteplanet does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:  
-We provide the information to trusted partners who work on behalf of or with Websiteplanet under confidentiality agreements. These trusted partners include companies with which Websiteplanet may operate co-branded websites or web-pages to expand their services using Websiteplanet’s Services. These trusted partners may use your personal information to provide services to you on our behalf, evaluate the effectiveness of the services, and to help Websiteplanet communicate with you about offers from Websiteplanet and our marketing partners. However, these companies do not have any independent right to share this information. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.  
-We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Websiteplanet’s terms of use, or as otherwise required by law. We may transfer information about you if Websiteplanet is acquired by or merged with another company. In this event, Websiteplanet will post a notice on its website before information about you is transferred and becomes subject to a different privacy policy.  
-The sites displayed as search results or linked to by the Services are developed by people over whom Websiteplanet exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information. Websiteplanet may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of Websiteplanet’s search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+## What Will the New Privacy Policies Look Like?
 
-### Confidentiality and Security
+Now that you understand the reasoning for the laws and some of the basics of the laws themselves, here are some guidelines for how to write your privacy policy in a GDPR-compliant way:
 
-We limit access to personal information about you to our employees and agents who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use many tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
+  1.  **Make sure the policy is short and concise.** The privacy policy must have three basic elements: it must be concise and easily accessible; it must be written clearly in plain language that even a child could understand; and it must be free of charge.
+  2.  **Explain your use of the data.** Describe what you are going to do with the data once you collect it. For example, state whether you will use it for marketing purposes or to sell to third parties.
+  3.  **Explain your use of cookies.** If you use cookies for online behavioral advertising, which tracks visitors’ interests and online habits, you will need to let your website visitors know.
+  4.  **Be transparent about sharing data with third parties.** Clearly state with whom you will be sharing data you collect and for what purpose. While it is within the law to share information about individuals with auditors, social networks, and customer service vendors, to name a few, it is unlawful not to inform your website visitors.
+  5.  **Explain the rights of the individual.** You are required to explain what privacy rights your visitors have. Their rights include the following:
 
-### Third Parties
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you. This policy does not apply to the practices of companies that Websiteplanet does not own or control or to people that Websiteplanet does not employ or manage. The Services may include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein; Websiteplanet accepts no responsibility for said activities. Websiteplanet does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. For more information about each such third party, please refer to the third party’s privacy policy.
+  * They can request that their data be deleted or corrected
+  * They can access the data a company has about them
+  * They can request that their data be transferred to another party
+  * They must give consent for their data to be used
 
-### Changes to this Privacy Policy
 
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 7 days after they are initially posted on the Services, unless that amendment states otherwise. In addition, we will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Websiteplanet account or by placing a prominent notice on our site. If you do not agree to the changes, you may terminate your account by requesting an account deletion via email to info@Websiteplanet.com. You must provide us with the email address of the registered account.  
-Websiteplanet is intended for general audiences. Websiteplanet does not collect or maintain information from those that Websiteplanet knows are under 13, and no part of the Websiteplanet Services are targeted to attract anyone under 13.
 
-### California Users
+## Privacy Policy Sample
 
-If you are a California resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties, for the third parties’ direct marketing purposes. California law provides that you have the right to submit a request to us at the designated address and receive the following information: the categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year, the names and addresses of third parties that received such information, and if the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.  
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is info@Websiteplanet.com.
+At **WebsitePlanet.com** we want to help you get started – **and hopefully save you some money on legal fees** – so we have prepared the following sample privacy policy. You are free to download it, modify it, use it on your website, and share it with your friends and colleagues.
 
-### Request for Information
+ **Be sure to modify the portions that appear in braces   { … }  where you must modify the sample to reflect the specifics of your website.**
 
-If you have questions, concerns or suggestions, please feel free to send an email to: info@websiteplanet.com.
+ **WE ARE NICE GUYS, BUT WE ARE NOT LAWYERS AND THIS IS NOT LEGAL ADVICE. THIS SAMPLE PRIVACY POLICY IS A STARTING POINT AND FRAMEWORK FOR YOU TO USE TOGETHER WITH THE ADVICE AND MODIFICATIONS OF QUALIFIED AND EXPERIENCED LEGAL ADVISORS.**
 
-Last Update: 3 May 2013
+The following is a sample privacy policy template that you can modify and use to suit your company’s specific needs – be sure to consult with experienced legal advisors:
+
+ **A. Introduction**
+
+  1. The privacy of our website visitors is very important to us, and we are committed to safeguarding it. This policy explains what we will do with your personal information.
+  2. Consenting to our use of cookies in accordance with the terms of this policy when you first visit our website permits us to use cookies every time you visit our website.
+
+
+
+ **B. Credit**  
+This document was created using a template from SEQ Legal (seqlegal.com)  
+and modified by Website Planet ([www.websiteplanet.com](https://www.websiteplanet.com/))
+
+ **C. Collecting personal information**
+
+The following types of personal information may be collected, stored, and used:
+
+  1. information about your computer including your IP address, geographical location, browser type and version, and operating system;
+  2. information about your visits to and use of this website including the referral source, length of visit, page views, and website navigation paths;
+  3. information, such as your email address, that you enter when you register with our website;
+  4. information that you enter when you create a profile on our website—for example, your name, profile pictures, gender, birthday, relationship status, interests and hobbies, educational details, and employment details;
+  5. information, such as your name and email address, that you enter in order to set up subscriptions to our emails and/or newsletters;
+  6. information that you enter while using the services on our website;
+  7. information that is generated while using our website, including when, how often, and under what circumstances you use it;
+  8. information relating to anything you purchase, services you use, or transactions you make through our website, which includes your name, address, telephone number, email address, and credit card details;
+  9. information that you post to our website with the intention of publishing it on the internet, which includes your username, profile pictures, and the content of your posts;
+  10. information contained in any communications that you send to us by email or through our website, including its communication content and metadata;
+  11. any other personal information that you send to us.
+
+
+
+Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy
+
+ **D. Using your personal information**
+
+Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website. We may use your personal information for the following:
+
+  1. administering our website and business;
+  2. personalizing our website for you;
+  3. enabling your use of the services available on our website;
+  4. sending you goods purchased through our website;
+  5. supplying services purchased through our website;
+  6. sending statements, invoices, and payment reminders to you, and collecting payments from you;
+  7. sending you non-marketing commercial communications;
+  8. sending you email notifications that you have specifically requested;
+  9. sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter);
+  10. sending you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+  11. providing third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information);
+  12. dealing with inquiries and complaints made by or about you relating to our website;
+  13. keeping our website secure and prevent fraud;
+  14. verifying compliance with the terms and conditions governing the use of our website (including monitoring private messages sent through our website private messaging service); and
+  15. other uses.
+
+
+
+If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
+
+Your privacy settings can be used to limit the publication of your information on our website and can be adjusted using privacy controls on the website.
+
+We will not, without your express consent, supply your personal information to any third party for their or any other third party’s direct marketing.
+
+ **E. Disclosing personal information**
+
+We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers, or subcontractors as reasonably necessary for the purposes set out in this policy.
+
+We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) as reasonably necessary for the purposes set out in this policy.
+
+We may disclose your personal information:
+
+  1. to the extent that we are required to do so by law;
+  2. in connection with any ongoing or prospective legal proceedings;
+  3. in order to establish, exercise, or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+  4. to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and
+  5. to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+
+
+
+Except as provided in this policy, we will not provide your personal information to third parties.
+
+ **F. International data transfers**
+
+  1. Information that we collect may be stored, processed in, and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
+  2. Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the European Economic Area: the United States of America, Russia, Japan, China, and India.
+  3. Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+  4. You expressly agree to the transfers of personal information described in this Section F.
+
+
+
+ **G. Retaining personal information**
+
+  1. This Section G sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations regarding the retention and deletion of personal information.
+  2. Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+  3. Without prejudice to article G-2, we will usually delete personal data falling within the categories set out below at the date/time set out below:
+    1. personal data type will be deleted {ENTER DATE/TIME}; and
+    2. {ENTER ADDITIONAL DATES/TIMES}.
+  4. Notwithstanding the other provisions of this Section G, we will retain documents (including electronic documents) containing personal data:
+    1. to the extent that we are required to do so by law;
+    2. if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
+    3. in order to establish, exercise, or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
+
+
+
+ **H. Security of your personal information**
+
+  1. We will take reasonable technical and organizational precautions to prevent the loss, misuse, or alteration of your personal information.
+  2. We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+  3. All electronic financial transactions entered into through our website will be protected by encryption technology.
+  4. You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+  5. You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
+
+
+
+ **I. Amendments**
+
+We may update this policy from time to time by publishing a new version on our website. You should check this page occasionally to ensure you understand any changes to this policy. We may notify you of changes to this policy by email or through the private messaging system on our website.
+
+ **J. Your rights**
+
+You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to the following:
+
+  1. the payment of a fee {ENTER FEE IF RELEVANT}; and
+  2. the supply of appropriate evidence of your identity ({ADJUST TEXT TO REFLECT YOUR POLICY for this purpose, we will usually accept a photocopy of your passport certified by a notary plus an original copy of a utility bill showing your current address}).
+
+
+
+We may withhold personal information that you request to the extent permitted by law.
+
+You may instruct us at any time not to process your personal information for marketing purposes.
+
+In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
+
+ **K. Third party websites**
+
+Our website includes hyperlinks to, and details of, third party websites. We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+
+ **L. Updating information**
+
+Please let us know if the personal information that we hold about you needs to be corrected or updated.
+
+ **M. Cookies**
+
+Our website uses cookies. A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. {SELECT ACCURATE PHRASING We use only session cookies / only persistent cookies / both session and persistent cookies on our website.}
+
+  1. The names of the cookies that we use on our website, and the purposes for which they are used, are set out below:
+    1. we use Google Analytics and Adwords on our website to recognize a computer when a user {INCLUDE ALL USES THAT COOKIES ARE USED FOR ON YOUR SITE visits the website / track users as they navigate the website / enable the use of a shopping cart on the website / improve the website’s usability / analyze the use of the website / administer the website / prevent fraud and improve the security of the website / personalize the website for each user / target advertisements which may be of particular interest to specific users / describe purpose(s)};
+  2. Most browsers allow you to refuse to accept cookies—for example:
+    1. in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking “Tools,” “Internet Options,” “Privacy,” and then “Advanced”;
+    2. in Firefox (version 24) you can block all cookies by clicking “Tools,” “Options,” “Privacy,” selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and
+    3. in Chrome (version 29), you can block all cookies by accessing the “Customize and control” menu, and clicking “Settings,” “Show advanced settings,” and “Content settings,” and then selecting “Block sites from setting any data” under the “Cookies” heading.
+
+
+
+Blocking all cookies will have a negative impact upon the usability of many websites. If you block cookies, you will not be able to use all the features on our website.
+
+  3. You can delete cookies already stored on your computer—for example:
+    1. in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at <http://support.microsoft.com/kb/278835> );
+    2. in Firefox (version 24), you can delete cookies by clicking “Tools,” “Options,” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies,” and then clicking “Remove All Cookies”; and
+    3. in Chrome (version 29), you can delete all cookies by accessing the “Customize and control” menu, and clicking “Settings,” “Show advanced settings,” and “Clear browsing data,” and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data.”
+  4. Deleting cookies will have a negative impact on the usability of many websites.
+
+
