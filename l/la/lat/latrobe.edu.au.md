@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207233031id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latrobe.edu.au privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408183141id_/http%3A//www.latrobe.edu.au/statements/privacy) for the most accurate reproduction.*
 
 # Website privacy statement, Statements, La Trobe University
 
@@ -7,7 +7,7 @@
 
 
 
-La Trobe University respects the privacy of your personal information by adhering to privacy laws. The La Trobe web site privacy statement outlines how the University will manage personal information collected through the use of its web site. This statement does not extend to external web sites that have been linked from the University web site. It is suggested that you refer to the privacy statements of these sites.
+La Trobe University respects the privacy of your personal information by adhering to privacy laws. The La Trobe web site privacy statement outlines how the University will manage personal information collected through the use of its web site. This statement does not extend to external web sites that have been linked from the University web site. It is suggested that you refer to the privacy statements of these sites for details..
 
 The La Trobe web site privacy statement will be periodically updated to reflect web site and privacy compliance development and planning at La Trobe University.
 
@@ -19,11 +19,11 @@ In regard to personal information collected from the University web site, La Tro
 
 ### Cookies
 
-Users of the La Trobe University web site may receive a persistent cookie to their device's memory. A cookie is a small data structure sent from a web server to the internet browser and saved on your device. Most web browsers are set to accept cookies. When you access the La Trobe University web site a cookie may be stored on your device. If you do not wish to receive cookies you can disable this function in your web browser although doing so may restrict access to some web pages.​
+Users of the La Trobe University web site may receive a persistent cookie to their device's memory. A cookie is a small data structure sent from a web server to your internet browser and saved on your device. Most web browsers are set to accept cookies. When you access the La Trobe University web site, a cookie may be stored on your device. If you do not wish to receive cookies you can disable this function in your web browser.
 
-Cookies store non-personal information such as (but not limited to) your server address, your top level domain name, the date and the time of your visit to the site, the pages you accessed and downloaded, the address of the last site you visited, and the type of browser you are using. We use this information for monitoring our web site use to facilitate web site management, development and planning.
+Cookies store non-personal information such as (but not limited to) the server address and domain name of your internet service provider, the date and the time of your visit to the site, which pages you accessed on the La Trobe site and the files you downloaded, the address of the last site you visited, and the type of browser you are using. We use this information to facilitate general web site management, development and planning. We also use anonymous information about your website behaviours in order to show you relevant content on return visits to the site.
 
-If you have used your staff or student login details to access the La Trobe University web site (whether on your personal device through the La Trobe University network or on a La Trobe University device) or accessed an email sent to you from La Trobe University, the cookie information may also be linked to your individual user profile. This information may be used to monitor, customize, and improve La Trobe University's services. Note: La Trobe University will only use your personal information for the purposes for which it has been collected and in accordance with applicable privacy laws.​
+If you have used staff or student login details to access the La Trobe University web site (whether on your personal device through the La Trobe University network or on a La Trobe University device) or accessed an email sent to you from La Trobe University, the cookie information may also be linked to your individual user profile. This information may be used to monitor, customize, and improve La Trobe University's services. Note: La Trobe University will only use your personal information for the purposes for which it has been collected and in accordance with applicable privacy laws.
 
 ### Online forms
 
