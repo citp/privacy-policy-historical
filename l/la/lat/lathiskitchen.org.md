@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lathiskitchen.org privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206065929id_/http%3A//www.lathiskitchen.org/privacy-copyright-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lathiskitchen.org privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408071026id_/http%3A//www.lathiskitchen.org/privacy-copyright-policy) for the most accurate reproduction.*
 
 # Privacy and Copyright Policy - Cooking with Smile
 
