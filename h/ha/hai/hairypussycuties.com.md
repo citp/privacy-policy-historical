@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairypussycuties.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116121441id_/http%3A//www.hairypussycuties.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairypussycuties.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408172541id_/http%3A//www.hairypussycuties.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
