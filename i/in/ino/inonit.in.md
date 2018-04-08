@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inonit.in privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206120615id_/http%3A//www.inonit.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inonit.in privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408075146id_/http%3A//www.inonit.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Inonit.in
 
