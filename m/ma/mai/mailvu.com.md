@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailvu.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207191229id_/http%3A//www.mailvu.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailvu.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408100745id_/http%3A//mailvu.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # mailVU - mail you can view
 
