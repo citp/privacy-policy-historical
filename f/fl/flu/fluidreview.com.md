@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluidreview.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130171014id_/https%3A//www.surveymonkey.com/mp/policy/surveymonkey-apply-fluidreview-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidreview.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408063726id_/https%3A//www.surveymonkey.com/mp/policy/surveymonkey-apply-fluidreview-privacy-policy) for the most accurate reproduction.*
 
 # SurveyMonkey Apply/FluidReview Privacy Policy | SurveyMonkey
 
