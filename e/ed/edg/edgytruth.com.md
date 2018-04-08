@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the edgytruth.com privacy policy that was archived on 2017-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170718020010id_/http%3A//cognitivetruths.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgytruth.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408130334id_/http%3A//cognitivetruths.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cognitive Truths
-
-## Privacy Policy:
 
 Cognitive Truths (" **Cognitive Truths** ") operates CognitiveTruths.com and may operate other websites. It is Cognitive Truths policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -39,7 +37,3 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Cognitive Truths may change its Privacy Policy from time to time, and in Cognitive Truths sole discretion. Cognitive Truths encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a CognitiveTruths.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-### Cognitive Truth To Your Inbox
-
-Enter your email to get the latest articles we post 1st without having to check your social media accounts.
