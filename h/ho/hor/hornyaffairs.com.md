@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornyaffairs.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201101259id_/http%3A//www.hornyaffairs.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornyaffairs.com privacy policy that was archived on 2018-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180408231234id_/http%3A//www.hornyaffairs.com/site/privacy) for the most accurate reproduction.*
 
 # Hornyaffairs - Find people, socialize, hookup and chat.
 
@@ -83,7 +83,7 @@ We have security measures in place to protect and prevent the loss, misuse, and 
 
 You have the following choices to modify or delete your profile information from our database:
 
-  * Send an email to [Customer Service](mailto:);
+  * Send an email to [Customer Service](mailto:support@hornyaffairs.com);
   * Log in with your password and modify your profile;
 
 
