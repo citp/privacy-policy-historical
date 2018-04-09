@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the desitvbox.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001063107id_/https%3A//www.desitvbox.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitvbox.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409192901id_/http%3A//www.desitvbox.tv/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - DesiTVBox.info
+# Privacy Policy - DesiTVBox.tv
 
 ### Introduction
 
-The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s [Terms of Service](http://www.desitvbox.info/terms-of-service/).
+The site editor takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as “data” below) that may be collected by this site. This policy does not apply to other entities that are not owned or controlled by the site editor, nor does it apply to persons that are not employees or agents of the site editor, or that are not under the site editor’s control. Please take time to read this site’s [Terms of Service](http://www.desitvbox.tv/terms-of-service/).
 
 ### 1\. Collection of data
 
@@ -24,7 +24,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 ### 5\. Editing or deleting your account information
 
-You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator _**desitvbox [at] yahoo [dot] com**_. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor’s discretion, even after your user account is deleted. Please see the site’s [Terms of use](http://www.desitvbox.info/terms-of-service/) for more information.
+You are provided with the ability to edit the information stored for your user account information during registration, by visiting your user account control panel. You can request that your user account be deleted; to do so, please contact the site administrator _**desitvbox [at] yahoo [dot] com**_. Content or other data that you may have provided, and that is not stored within your user account, such as articles published, may continue to remain on the site at the site editor’s discretion, even after your user account is deleted. Please see the site’s [Terms of use](http://www.desitvbox.tv/terms-of-service/) for more information.
 
 ### 6\. Changes to this privacy policy
 
