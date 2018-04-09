@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventsair.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206124713id_/http%3A//www.eventsair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventsair.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410012916id_/http%3A//eventsair.com/privacy-policy) for the most accurate reproduction.*
 
 # Centium Software Privacy Policy
 
@@ -55,7 +55,7 @@ We may also release your information when we believe release is appropriate to c
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.centiumsoftware.com
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.centiumsoftware.com
 
 **Your Consent**
 
