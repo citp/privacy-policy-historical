@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctoroz.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201015757id_/http%3A//www.doctoroz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctoroz.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409173250id_/http%3A//www.doctoroz.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | The Dr. Oz Show
 
