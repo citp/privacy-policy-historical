@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thiscaller.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207233941id_/http%3A//www.thiscaller.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiscaller.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409061639id_/http%3A//www.thiscaller.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -18,7 +18,7 @@ ThisCaller.com may revise this Privacy Policy at any time without further notice
 
 ThisCaller.com collects information about Your use of ThisCaller.com. This may include information about any IP address used to access ThisCaller.com and Your activity on ThisCaller.com - content of your comment, name and surname under which the comment was provided, time of entering the comment. ThisCaller.com uses cookies, or small text files stored on Your computer, to store data about Your visits.
 
-Please be informed that you have the right to access your personal data, the right to request rectification of incorrect, incomplete and inaccurate personal data and other data subject's rights established in applicable data protection laws. Please refer to [Contact Page](http://www.thiscaller.com/contact) in order to implement your rights.
+Please be informed that you have the right to access your personal data, the right to request rectification of incorrect, incomplete and inaccurate personal data and other data subject's rights established in applicable data protection laws. Please refer to [Contact Page](https://www.thiscaller.com/contact) in order to implement your rights.
 
 #### Do we use cookies?
 
@@ -40,8 +40,8 @@ ThisCaller.com is not intended for children under the age of 18 and we do not kn
 
 #### Removing your Personal Information from ThisCaller.com
 
-You may remove your information from the ThisCaller.com phone directory, please contact us via [Contact Page](http://www.thiscaller.com/contact), your information will be removed from our system as soon as is reasonably possible, however, no longer than 14 working days. For any suggestions and comments regarding ThisCaller.com or our Privacy Policy, please contact us via [Contact Page](http://www.thiscaller.com/contact). If you feel this Website does not comply with any of the above stated Privacy Policy terms or if you have any questions you can [Contact Us](http://www.thiscaller.com/contact).
+You may remove your information from the ThisCaller.com phone directory, please contact us via [Contact Page](https://www.thiscaller.com/contact), your information will be removed from our system as soon as is reasonably possible, however, no longer than 14 working days. For any suggestions and comments regarding ThisCaller.com or our Privacy Policy, please contact us via [Contact Page](https://www.thiscaller.com/contact). If you feel this Website does not comply with any of the above stated Privacy Policy terms or if you have any questions you can [Contact Us](https://www.thiscaller.com/contact).
 
 #### Changes to our Privacy Policy
 
-If we decide to change our Privacy Policy, we will post those changes on this page. The rules on changing the Privacy Policy are the same as the rules on changing [Terms and Conditions of Service](http://www.thiscaller.com/terms).
+If we decide to change our Privacy Policy, we will post those changes on this page. The rules on changing the Privacy Policy are the same as the rules on changing [Terms and Conditions of Service](https://www.thiscaller.com/terms).
