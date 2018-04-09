@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2015-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150503075151id_/http%3A//www.foe.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foe.org privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409164406id_/https%3A//foe.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy • Friends of the Earth - Friends of the Earth
+
+We are committed to protecting your privacy.
 
 To make your experience on this website and our email lists more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information.
 
@@ -9,6 +11,8 @@ To make your experience on this website and our email lists more convenient, we 
 We collect personal information from visitors when they register to join our organization, subscribe to a newsletter or email list, or take action on an issue using our service. The personal information we collect is always voluntarily submitted by you. This information is used by us to communicate with you in the future, and to understand your interests and activities. We keep confidential all personal information entered during registration. If you would like to review any personal information we have collected or request corrections, please [contact us](https://web.archive.org/about-us/contact "Contact Us").
 
 If, for any reason, you would like to be removed from any or all of our email lists, you can unsubscribe by simply visiting the subscription management page on our website and clicking the unsubscribe button, or you can opt out of future emails by simply stating this desire in a reply to any email we send you.
+
+When you provide us with your mobile number, you can expect to receive recurring text alerts from Friends of the Earth on breaking news, important events, and key issues where your voice can make a critical difference for the planet. Text STOP to opt out. Text HELP for info. Standard message and data rates from your carrier apply to sending and/or receiving text messages. Check with your carrier if you have questions about your plan and costs. No purchase necessary.
 
 We may also monitor and track information such as visitor usage patterns of our website. We compile this information into a statistical aggregate that we use for internal purposes including improving our web service and our client service.
 
@@ -20,15 +24,15 @@ We may provide personal information to third parties on a completely confidentia
 
 ### Data Security
 
-The data we gather from our supporters is stored on servers at a third-party site, Salsa Labs. Salsa's servers utilize industry-standard methods to protect the confidentiality and integrity of personal information. Access to Friends of the Earth’s data is restricted within the company, and all employees are aware that this data is private. If you have any further questions about privacy or security, please contact Salsa by sending an email to: info@salsalabs.com. You can also read its privacy policy [here](https://www.salsalabs.com/privacy-policy).
+The data we gather from our supporters is stored on servers at a third-party site, Salsa Labs. Salsa’s servers utilize industry-standard methods to protect the confidentiality and integrity of personal information. Access to Friends of the Earth’s data is restricted within the company, and all employees are aware that this data is private. If you have any further questions about privacy or security, please contact Salsa by sending an email to: info@salsalabs.com. You can also read its privacy policy [here](https://www.salsalabs.com/privacy-policy).
 
 ### Donor Privacy Policy
 
-Friends of the Earth will never share donor giving information with other organizations. However, like many other groups, Friends of the Earth may exchange or rent its donor mailing list with like-minded organizations -- many of which we work with in our environmental advocacy work. If you do not want your name and address shared with other organizations, please [contact us](https://web.archive.org/about-us/contact "Contact Us") and we will remove you from any shared lists.
+Friends of the Earth will never share donor giving information with other organizations. However, like many other groups, Friends of the Earth may exchange or rent its donor mailing list with like-minded organizations — many of which we work with in our environmental advocacy work. If you do not want your name and address shared with other organizations, please [contact us](https://web.archive.org/about-us/contact "Contact Us") and we will remove you from any shared lists.
 
 ### Use of Cookies
 
-Cookies are pieces of information that are stored on your computer and that can be used to help identify you when you visit our website. We use cookies to make visiting and using our website easier -- first, so that you don't have to continually re-enter information and second, so that we can tailor your visit to your expressed preferences.
+Cookies are pieces of information that are stored on your computer and that can be used to help identify you when you visit our website. We use cookies to make visiting and using our website easier — first, so that you don’t have to continually re-enter information and second, so that we can tailor your visit to your expressed preferences.
 
 ### Links to Other Sites
 
