@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207224230id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409090137id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.*
 
 # Populi - Privacy Policy
 
 ## Populi Privacy Policy
 
-Date of Last Revision: October 9, 2013 
+Date of Last Revision: January 4, 2018 
 
 Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use, and disclosure of information that we receive when you use the Services (as defined in our [Terms of Service](https://web.archive.org/legal/terms/) and [Acceptable Use Policy](https://web.archive.org/legal/aup/)). This Privacy Policy applies only to those websites, services, and applications included within the “Services” and doesn’t apply to any other third-party websites, services, or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
 
@@ -121,6 +121,10 @@ It is our policy to protect you from having your privacy violated through abuse 
   * To prevent or stop activity we consider to be illegal or unethical or in violation of our Terms of Service 
 
 
+
+#####  4.5 Family Educational Rights and Privacy Act (FERPA) 
+
+When handling student education records as defined by the Family Educational Rights and Privacy Act (FERPA), Populi will abide by the limitations and requirements imposed by 34 CFR 99.33(a). Populi will disclose student education records as directed by school officials, or in order to comply with a court order, subpoena, or other legitimate demand by government authorities. 
 
 ####  Section 5: The Security of Your Information 
 
