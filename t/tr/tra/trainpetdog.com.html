@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2017-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171125074037id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainpetdog.com privacy policy that was archived on 2018-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180409141533id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <!-- Facebook Pixel Code -->
@@ -1278,21 +1278,6 @@ function trackerSetCookie (cookieName1, value, domain) {
     <td><a href="http://www.trainpetdog.com/pet-affiliate-program.html" class="ss">Dog 
       Affiliate Program</a></td>
   </tr>
-  <tr> 
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Breeder Award"></td>
-    <td><a href="http://www.trainpetdog.com/breeder-form.php" class="ss">Dog Breeder 
-      Award</a></td>
-  </tr>
-  <tr> 
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Rescue Award"></td>
-    <td><a href="http://www.trainpetdog.com/rescue-form.php" class="ss">Dog Rescue 
-      Award</a></td>
-  </tr>
-  <tr> 
-    <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="Dog Website Award"></td>
-    <td><a href="http://www.trainpetdog.com/dog_website_award.php" class="ss">Dog 
-      Website Award</a></td>
-  </tr>
   <!-- <tr>
     <td align="left"><img src="http://www.trainpetdog.com/images2/dogicon.jpg" width="30" height="40" alt="For Dog Experts"></td>
     <td><a href="http://www.trainpetdog.com/dog_experts.php" class="ss">For Dog Experts</a></td>
@@ -1426,14 +1411,32 @@ function trackerSetCookie (cookieName1, value, domain) {
             <p align="center"><img src="http://www.trainpetdog.com/images2/Dogs-training.jpg" width="125" height="175"></p>
             <p style="font-size:11px;"><strong>Regular Price:</strong> <s>$97</s><br>
               <strong>Current Special Price:</strong> $37</p>
-            <div style="float:right;"><a href="https://www.securewebbilling.net/order_dogmatt_first_traincmnmnew1302.php?optid=75&amp;aff=&amp;page_from=main&amp;id=Dogs&amp;targetdom=http://trainpetdog.com/Dogs&amp;mid=&amp;cmversion=4&amp;cmphase=1111&amp;tracker=membership"><img src="http://www.trainpetdog.com/images2/buy-now-button.png" width="75" height="24" border="0"></a><br>
+            <div style="float:right;">
+              <span id="buy_btn"><a href="https://www.securewebbilling.net/order_dogmatt_first_traincmnmnew1302.php?optid=75&amp;aff=&amp;page_from=main&amp;id=Dogs&amp;targetdom=http://trainpetdog.com/Dogs&amp;mid=&amp;cmversion=4&amp;cmphase=1111&amp;tracker=membership"><img src="http://www.trainpetdog.com/images2/buy-now-button.png" width="75" height="24" border="0"></a></span>
+              <br>
             </div>
             <div style="float:left;"> 
-              <script>
-						  var segment;
-var checksegment=getcookie2(segment);
-						  var version;
-						  var urm="http://www.trainpetdog.com/Dogs/index1.php?page=members";
+              <script type="text/javascript">
+                function getAffiliateId() {
+                    var cookievalue = "";
+                    if (document.cookie.length > 0) {
+                        cookievaluec = document.cookie.split("jcoo=");
+                        if (cookievaluec.length > 1) {
+                            cookievalue = cookievaluec[1].split(";");
+                            return cookievalue[0];
+                        } else {
+                            return cookievalue;
+                        }
+                    } else {
+                        return cookievalue;
+                    }
+                }
+                document.getElementById('buy_btn').innerHTML = '<a href="https://www.securewebbilling.net/order_dogmatt_first_traincmnmnew1302.php?optid=75&aff='+getAffiliateId()+'&page_from=main&id=Dogs&targetdom=http://trainpetdog.com/Dogs&mid=&cmversion=4&cmphase=1111&tracker=membership"><img src="http://www.trainpetdog.com/images2/buy-now-button.png" width="75" height="24" border="0"></a>';
+
+                var segment;
+                var checksegment=getcookie2(segment);
+                var version;
+                var urm="http://www.trainpetdog.com/Dogs/index1.php?page=members";
 						  
 						  
 document.write('<a href="'+urm+'&src=tpm"><b>Click Here<br>to learn more:</b></a>');
