@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the populiweb.com privacy policy that was archived on 2017-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171207224230id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the populiweb.com privacy policy that was archived on 2018-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180409090137id_/http%3A//www.populiweb.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>
@@ -13,12 +13,10 @@
         <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon.png">
         <link rel="mask-icon" href="/images/favicon.svg" color="#3b5998">  
 
-        <link rel="stylesheet" href="/includes/css/screen.css?version=29" type="text/css" media="screen, projection">    
+        <link rel="stylesheet" href="/includes/css/screen.css?version=34" type="text/css" media="screen, projection">    
         <link rel="stylesheet" href="/includes/css/print.css?version=11" type="text/css" media="print">    
         <link rel="stylesheet" type="text/css" href="/includes/javascript/fancybox/jquery.fancybox.css" media="screen">
         
-        <script type="text/javascript" src="//use.typekit.net/dxj1uhu.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
         <script type="text/javascript" src="/includes/javascript/javascript.js?version=2"></script>
         <script type="text/javascript" src="/includes/javascript/jquery-1.7.2.min.js"></script>
         <script type="text/javascript" src="/includes/javascript/jquery.placeholder.min.js"></script>
@@ -35,6 +33,15 @@
                 });
                 
                 $('input, textarea').placeholder();
+
+                $(document).scroll(function() {
+                    if($(document).scrollTop() > 100){
+                        $('.cta-ftr').addClass('cta-ftr--show');
+                    }
+                    else{
+                        $('.cta-ftr').removeClass('cta-ftr--show');
+                    }
+                });
             });
         </script>
     </head>
@@ -45,11 +52,9 @@
                     <a href="/">Populi</a>
                 </h1>
                 <ul class="primarynav">
-                    <li><a href="/about">About</a></li>
                     <li><a href="/tour">Tour</a></li>
                     <li><a href="/pricing">Pricing</a></li>
-                    <li><a href="/contact">Contact</a></li>
-                    <li><a href="/blog">Blog</a></li>                    
+                    <li><a class="button signup-button" href="/contact/signup.php">Try Populi</a></li>
                 </ul>
             </div>
         </div>
@@ -67,7 +72,7 @@
                 <h2>Populi Privacy Policy</h2>
 
 <p>
-    Date of Last Revision: October 9, 2013
+    Date of Last Revision: January 4, 2018
 </p>
 <p>
     Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding
@@ -304,7 +309,12 @@
         To prevent or stop activity we consider to be illegal or unethical or in violation of our Terms of Service
     </li>
 </ul>
-
+<h5>
+    4.5 Family Educational Rights and Privacy Act (FERPA)
+</h5>
+<p>
+    When handling student education records as defined by the Family Educational Rights and Privacy Act (FERPA), Populi will abide by the limitations and requirements imposed by 34 CFR 99.33(a). Populi will disclose student education records as directed by school officials, or in order to comply with a court order, subpoena, or other legitimate demand by government authorities.
+</p>
 <h4>
     Section 5: The Security of Your Information
 </h4>
@@ -393,7 +403,7 @@
 </p>            </div>
                             </div><!-- /end #content -->
         </div><!-- /end #content_wrapper -->
-        <div class="footer">
+        <div class="footer" style="padding-bottom:4rem;">
             <div class="block_inner">
                 <div class="newsletter">
                     <form action="#" onsubmit="return false" id="newsletter_form" autocomplete="off">
@@ -408,28 +418,46 @@
                         There was a problem adding you to the list. Please try again later.
                     </p>
                 </div>
-                <div class="social">
-                    <a href="http://twitter.com/Populi" class="twitter"><span class="icon_twitter"></span>@Populi</a>
-                    <span class="bullet"></span>
-                    <a href="http://www.facebook.com/populiweb" class="facebook"><span class="icon_facebook"></span>Facebook</a>
+                <div class="footer_link_list">
+                    <strong style="font-weight:600;">Learn more<span class="mobile-hide">:</span></strong>
+                    <br class="mobile-br">
+                    <a href="/about">About Populi</a><span class="mobile-hide">,</span>
+                    <br class="mobile-br">
+                    <a href="/blog">Populi Blog</a>
                 </div>
-                <div class="legal">
-                    <a href="/legal/">Terms of Service</a>
-                    <span class="bullet"></span>
+                <div class="footer_link_list">
+                    <strong style="font-weight:600;">Keep in touch<span class="mobile-hide">:</span></strong>
                     <br class="mobile-br">
-                    <a href="/legal/aup">Acceptable Use Policy</a>
-                    <span class="bullet"></span>
+                    <a href="/contact">Contact Us</a><span class="mobile-hide">,</span>
                     <br class="mobile-br">
-                    <a href="/legal/privacy">Privacy Policy</a>
-                    <span class="bullet"></span>
+                    <a href="http://twitter.com/Populi">Twitter</a><span class="mobile-hide">,</span>
+                    <br class="mobile-br">
+                    <a href="http://www.facebook.com/populiweb">Facebook</a><span class="mobile-hide">,</span>
+                    <br class="mobile-br">
+                    <a href="https://www.instagram.com/populico/">Instagram</a>
+                </div>
+                <div class="footer_link_list">
+                    <strong style="font-weight:600;">Legal stuff<span class="mobile-hide">:</span></strong>
+                    <br class="mobile-br">
+                    <a href="/legal/">Terms of Service</a><span class="mobile-hide">,</span>
+                    <br class="mobile-br">
+                    <a href="/legal/aup">Acceptable Use Policy</a><span class="mobile-hide">,</span>
+                    <br class="mobile-br">
+                    <a href="/legal/privacy">Privacy Policy</a><span class="mobile-hide">,</span>
                     <br class="mobile-br">
                     <a href="/legal/copyright">Copyright Policy</a>
                 </div>
                 <div class="copyright">    
-                    © 2010 - 2017 Populi
+                    © 2010 - 2018 Populi
                 </div>
             </div>
         </div>
+        <a href="/contact/signup.php" class="cta-ftr">
+            <div class="cta-ftr-copy"> 
+                Ready to take a closer look at Populi?
+            </div>
+            <span class="button signup-button mobile-hide" href="/contact/signup.php">Try Populi</span>
+        </a>
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
