@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilkey.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209013636id_/http%3A//www.tamilkey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilkey.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409025512id_/http%3A//www.tamilkey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tamilkey.com
 
@@ -46,4 +46,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 For questions concerning the product or your account, please. For more information about our privacy practices, write to us at:
 
-**[contact@tamilkey.com](https://web.archive.org/web/20171209013636id_/http%3A//www.tamilkey.com/contact@tamilkey.com)�And�[tamilkeyinfo@gmail.com](https://web.archive.org/web/20171209013636id_/http%3A//www.tamilkey.com/tamilkeyinfo@gmail.com)**
+**[contact@tamilkey.com](https://web.archive.org/web/20180409025512id_/http%3A//www.tamilkey.com/contact@tamilkey.com)�And�[tamilkeyinfo@gmail.com](https://web.archive.org/web/20180409025512id_/http%3A//www.tamilkey.com/tamilkeyinfo@gmail.com)**
