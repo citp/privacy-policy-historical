@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uanservices.org privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204213236id_/http%3A//www.uanservices.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uanservices.org privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409062031id_/http%3A//www.uanservices.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – UAN Info
 
