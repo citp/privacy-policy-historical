@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathopolis.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203055133id_/http%3A//www.mathopolis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathopolis.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409102922id_/http%3A//www.mathopolis.com/privacy.php) for the most accurate reproduction.*
 
 # Mathopolis
 
@@ -13,7 +13,7 @@ _1\. What personally identifiable information of yours or third party personally
 7\. How you can correct any inaccuracies in the information. _
 
   
-**_If you feel that we are not abiding by our privacy policy,[contact us](https://web.archive.org/web/20171203055133id_/http%3A//www.mathopolis.com/contact.php) _**
+**_If you feel that we are not abiding by our privacy policy,[contact us](https://web.archive.org/web/20180409102922id_/http%3A//www.mathopolis.com/contact.php) _**
 
 **Information Collection and Use**
 
