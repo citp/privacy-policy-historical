@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmion.blogspot.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209023358id_/http%3A//www.bmion.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmion.blogspot.com privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409212346id_/http%3A//www.bmion.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
