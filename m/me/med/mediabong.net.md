@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediabong.net privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009180344id_/http%3A//vuble.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabong.net privacy policy that was archived on 2018-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180409063651id_/http%3A//vuble.tv/privacy) for the most accurate reproduction.*
 
 # Vuble - Privacy
 
-Last update: Nov. 2016
+Last update: Oct. 2017
 
 ##  “Privacy Policy” objective
 
@@ -79,9 +79,11 @@ Vuble is an active member of IAB (Internet Advertising Bureau). Through this Pri
 
 ##  Request more info
 
-For any further questions or comments regarding Vuble’s Privacy and Cookie Policy, you can contact us at the following address: contact arobase Vuble.com
+For any further questions or comments regarding Vuble’s Privacy and Cookie Policy, you can contact us at the following address: contact arobase Vuble.tv  
+
 
   * For Europe: Vuble - 34 rue de Clery, 75002 PARIS, France 
-  * For America: Vuble Inc – 1133 Broadway – suite 418, New York City, 10010 NEW YORK, USA 
+  * For America: Vuble Inc – 1123 Broadway – suite 8O7, New York City, 10010 NEW YORK, USA  
+
 
 
