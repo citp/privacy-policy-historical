@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mominloveforever.com privacy policy that was archived on 2017-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170530001653id_/http%3A//www.mominloveforever.com/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mominloveforever.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410070555id_/http%3A//www.mominloveforever.com/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom In Love Forever
 
