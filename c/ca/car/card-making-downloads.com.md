@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the card-making-downloads.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208011919id_/http%3A//www.card-making-downloads.com/index.php%3Fmain_page%3Dpage%26id%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the card-making-downloads.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410120940id_/http%3A//www.card-making-downloads.com/index.php%3Fmain_page%3Dpage%26id%3D56) for the most accurate reproduction.*
 
 # Privacy Notice : Instant Card Making Downloads
 
