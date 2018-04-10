@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berrylook.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206094219id_/http%3A//www.berrylook.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berrylook.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410163506id_/http%3A//www.berrylook.com/en/privacy-policy-i-14.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy of Berrylook.com
 
@@ -38,7 +38,7 @@ To serve you better, we may combine Personal Information you give us online, via
 
 6\. Security, BerryLook.com takes every precaution to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs) encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. However, security systems are not infallible, including encryption systems. While we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about the security at our website, please send us an e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) for more info. 
+If you have any questions about the security at our website, please send us an e-mail at service@BerryLook.com for more info. 
 
 7\. Supplementation of Information,In order for www. BerryLook.com to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources such as our affiliated websites. For example, we will combine information about the purchasing habits of users with similar information from our affiliated sites. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences. 
 
