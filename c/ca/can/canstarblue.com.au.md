@@ -1,24 +1,28 @@
-> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2017-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170509180130id_/http%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstarblue.com.au privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410223117id_/https%3A//www.canstarblue.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Canstar Blue Privacy Policy - Canstar Blue
+# Canstar Blue Privacy Policy | Canstar Blue
 
-Version: 21 February 2017
+Version: 2 June 2017
 
-Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.  
+**Canstar Blue Pty Limited A.C.N. 142 285 434 (“Canstar Blue”) recognises the importance of protecting your privacy and abides by the Australian Privacy Principles contained in the (amended) Privacy Act 1988.**  
 This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.
 
 This privacy policy does not apply to parties that may be linked or associated with our website and to whom you disclose personal information. Those website owners are responsible for the privacy of the information they collect and should be contacted directly for details of their privacy policies.
 
 **What information do we collect?**
 
+Because we strive to provide our website users with personalised services showing the information most relevant to them, from time to time we request and store some private information about you.  We will only use that information in accordance with this policy.
+
 The types of information we keep on record will depend on the type of product or service requested by you.
 
 Generally, we keep a record of the following types of information about you:
 
-  * information that identifies you, such as your name and address and other information voluntarily provided by you;
+  * personal information that you give us when you use the website or interact on our social media pages, such as your name, address and postcode;
   * if you use a forum, feedback/rating tool, calculator, online survey or other tool (“Website Tool”) on our website, the information that you enter into the Website Tool;
-  * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet.
-  * other personal information that you give to us when you visit the Canstar Blue office, such as photographs we take of you with your permission, and physical or digital signatures.
+  * your IP address for your interaction with various parts of our website. Your IP address is the identifier for your computer when you are using the internet;
+  * other information voluntarily provided by you;
+  * any other information we need to enable us to deliver services to you;
+  * personal information that you give to us when you visit the Canstar Blue office, such as photographs we take of you with your permission, and physical or digital signatures.
 
 
 
@@ -50,7 +54,7 @@ We use your personal information to:
   * deal with complaints or issues you may have in relation to our services;
   * review your dealings with us, including the products and services you use, your potential needs, and new products that might be of interest to you or other customers;
   * ensure our internal business operations are running smoothly which may include fulfilling legal requirements and conducting confidential systems maintenance and testing; and
-  * help preserve the personal safety and security of our customers, website users, staff and the public.
+  * help preserve the personal safety and security of our premises, customers, website users, staff and the public.
 
 
 
@@ -116,7 +120,7 @@ Canstar Blue will never send you emails requesting bank account details.
 
 Please be aware that if you receive a call from someone claiming to be from Canstar Blue offering to sell you a product or service, these calls are fraudulent. These scams are also known as ‘cold calling’, with scammers sometimes pretending to be a sales team member.
 
-Scammers also send ‘phishing’ emails asking consumers to ‘verify’ and ‘record’ personal financial details by clicking on a link. These links often lead to fake websites. Do not reply to these types of emails and do not click on any links.
+Scammers also send ‘phishing’ emails asking consumers to ‘verify’ and ‘record’ personal financial details or to view a document by clicking on a link. These links often lead to fake websites. Do not reply to these types of emails and do not click on any links.
 
 Please do not provide any information in response to unsolicited phone calls or phishing emails. If you’ve received a telephone call or an email of this type, please contact [enquiries@canstarblue.com.au](mailto:enquiries@canstarblue.com.au) or call 07 3837 4160 immediately.
 
