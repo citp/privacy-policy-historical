@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028212740id_/https%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410221958id_/https%3A//acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
@@ -32,7 +32,7 @@ The key activities undertaken by the ACMA under these laws are:
 
 3\. **[Planning and management of radiofrequency spectrum](https://web.archive.org/Industry/Spectrum/Spectrum-planning/About-spectrum-planning)**
 
-4\. **Licensing** —including the issuing and renewal of [carrier](https://web.archive.org/Industry/Telco/Carriers-and-service-providers/Licensing), [television, radio](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge), [spectrum](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing) and [apparatus](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing) licences. 
+4\. **Licensing** —including the issuing and renewal of [carrier](https://web.archive.org/Industry/Telco/Carriers-and-service-providers/Licensing), [television, radio](https://web.archive.org/Industry/Broadcast/Television/Licence-fees-and-charges), [spectrum](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing) and [apparatus](https://web.archive.org/Industry/Spectrum/Radiocomms-licensing) licences. 
 
 5\. **[Revenue collection](https://web.archive.org/theACMA/About/Making-payments)** —including the collection of licence fees, taxes and charges. 
 
@@ -168,7 +168,7 @@ If a submitter wishes to make a submission anonymously or through use a pseudony
 
 If you register for access to an online or subscription service we will collect and store all the details you provide in the course of registering, for example, your name, your organisation, your contact details and communication preferences. This information is collected and held to enable the ACMA to manage user access and to provide the service requested.  
 
-The ACMA’s ePort security statement is available [here](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge/broadcasting-licence-fees-blf-eport-account-i-acma). 
+The ACMA’s ePort security statement is available [here](https://web.archive.org/Industry/Broadcast/Television/Licence-fees-and-charges/broadcasting-licence-fees-licence-fees-acma). 
 
 The ACMA also has an online payment system to assist people with making a payment to the ACMA, for example, payment of licence fees. The ACMA uses the secure online credit card processing facility ANZ eGate®, which is operated by the ANZ Bank. The ACMA does not collect or hold any of your credit card details. More information about ANZ eGate® is available [here](http://www.anz.com/corporate/products-services/transaction-services/electronic-banking/anz-egate/).  
 
@@ -259,7 +259,7 @@ The ACMA has a range of measures in place to protect the personal information we
 
 All information collected by the ACMA is secured and managed in accordance with the Australian Government’s Protective [Security Policy Framework](https://www.protectivesecurity.gov.au/), [_Information Security Manual_](http://www.asd.gov.au/infosec/ism/)  and the [Archives Act](http://www.comlaw.gov.au/Series/C2004A02796%20) (and see also the [pages of the National Archives of Australia website regarding Commonwealth records management](http://www.naa.gov.au/records-management/)).  
 
-The ACMA’s ePort security statement is available [here](https://web.archive.org/theACMA/About/Making-payments/Broadcasting-licence-fees-and-datacasting-charge/broadcasting-licence-fees-blf-eport-account-i-acma). 
+The ACMA’s ePort security statement is available [here](https://web.archive.org/Industry/Broadcast/Television/Licence-fees-and-charges/broadcasting-licence-fees-licence-fees-acma). 
 
 ### Making a complaint
 
