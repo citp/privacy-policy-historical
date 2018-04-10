@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoiplookup.net privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208144456id_/http%3A//geoiplookup.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoiplookup.net privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410031117id_/http%3A//geoiplookup.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Geo IP Lookup
 
