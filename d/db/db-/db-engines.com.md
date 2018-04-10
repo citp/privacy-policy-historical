@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904030610id_/https%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the db-engines.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410051139id_/https%3A//db-engines.com/en/privacy) for the most accurate reproduction.*
 
 # DB-Engines - Privacy Policy
 
@@ -12,7 +12,7 @@ solid-IT only collects data that is not personally identifiable by us, unless ex
 
 We do employ cookies to identify users after sign-up and login. A cookie is a small text file that our web server places on a user's computer hard drive to store some information. The site can be used without accepting cookies, but some functionalities cannot be accessed in that case.
 
-We use Google Adsense and other advertising partners. These partners use cookies and similar techniques to collect data in the ad serving process. However, advertising partners have no access to private data you provide on this site. Advertising partners may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+We use Google Adsense and other advertising partners. These partners use cookies and similar techniques to collect data in the ad serving process. However, advertising partners have no access to private data you provide on this site. Advertising partners may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://www.networkadvertising.org/).
 
 ## Information Usage
 
