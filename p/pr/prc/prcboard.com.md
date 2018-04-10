@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prcboard.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206012542id_/http%3A//www.prcboard.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prcboard.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410201025id_/http%3A//www.prcboard.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PRCBoard.com
 
