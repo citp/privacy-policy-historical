@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnnet.com.au privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903123630id_/https%3A//www.arnnet.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnnet.com.au privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410150355id_/https%3A//www.arnnet.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ARN
 
