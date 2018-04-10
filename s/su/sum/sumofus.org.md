@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumofus.org privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709055843id_/http%3A//sumofus.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumofus.org privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410215103id_/https%3A//www.sumofus.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SumOfUs - Fighting for people over profits
+# SumOfUs - Fighting for people over profits
 
 This privacy policy to explains how SumOfUs (or “we”) use information that we collect from you while you visit the SumOfUs website, currently located at www.sumofus.org (the “Site”). SumOfUs may modify this policy from time to time so we encourage you to check this page when revisiting the Site. The date of the most recent revision is listed below.
 
