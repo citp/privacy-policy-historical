@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crictime.ac privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028233945id_/http%3A//crictime.ac/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictime.ac privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410080309id_/http%3A//crictime.tv/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
