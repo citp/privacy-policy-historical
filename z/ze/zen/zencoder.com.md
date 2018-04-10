@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zencoder.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224121044id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zencoder.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410231134id_/https%3A//www.brightcove.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightcove
 
