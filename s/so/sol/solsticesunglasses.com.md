@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solsticesunglasses.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006163220id_/https%3A//www.solsticesunglasses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solsticesunglasses.com privacy policy that was archived on 2018-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180410163111id_/https%3A//www.solsticesunglasses.com/privacy-policy) for the most accurate reproduction.*
 
 # Solstice Sunglasses
 
