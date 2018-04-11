@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeupera.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208185844id_/http%3A//www.makeupera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeupera.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411071005id_/http%3A//www.makeupera.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - MakeupEra
 
