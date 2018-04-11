@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evvnt.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206031223id_/http%3A//blog.evvnt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evvnt.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411222348id_/http%3A//blog.evvnt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
