@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114200139id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411071604id_/http%3A//www.jordans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement for jordans.com
 
@@ -91,7 +91,7 @@ The forms of communication are as follows:
 
   * Phone Calls
   * Emails
-  * Text Messages (Message and data rates may apply) 
+  * Text Messages (Message and data rates may apply)
     * Reply **STOP** to 63041 to cancel
     * Reply **HELP** to 63041 for help
     * Reply **START** to 63041 to receive Jordan’s Furniture Alerts
@@ -100,7 +100,7 @@ The forms of communication are as follows:
 
 If you have any questions please call 866-856-7326.
 
-T-Mobile is not liable for delayed or undelivered messages 
+**Jordan's Furniture is not liable for delayed or undelivered messages.**
 
 ### How We Share Your Information Outside Jordan's Furniture
 
@@ -128,9 +128,7 @@ In the unlikely event that Jordan's Furniture or substantially all of its assets
 
 We want to communicate with you in ways you find useful. Examples are special offers and new product announcements. We use the following standards for marketing communications: 
 
-  * By providing Jordan's Furniture with your email address, you are giving us permission to send you electronic communications. We will not rent, sell or give away your email address at any time. You may opt out of receiving our emails by following the unsubscribe instructions at the bottom of any correspondence we send. 
-
-
+By providing Jordan's Furniture with your email address, you are giving us permission to send you electronic communications. We will not rent, sell or give away your email address at any time. You may opt out of receiving our emails by following the unsubscribe instructions at the bottom of any correspondence we send. 
 
 You can update or change your marketing preferences by [logging into your account](http://www.jordans.com/user/login) or [opt out directly here](http://www.jordans.com/direct-mail-opt-out-form). Please note that it may take up to 10 days to process your email request and 30 days for your postal mail request. 
 
@@ -168,7 +166,7 @@ Please check our privacy policy periodically for changes. We will also notify yo
 
 ### Contact Us
 
-Please feel free to contact us with any questions or comments about this policy or about the ways your information is handled. You can contact us via the address below: 
+Please feel free to contact us with any questions or comments about this policy or about the ways your information is handled. You can [contact us online](http://www.jordans.com/contact-us) or via the address below: 
 
 **
 
