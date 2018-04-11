@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listavail.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210000604id_/http%3A//www.listavail.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listavail.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411215649id_/http%3A//www.listavail.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ListAvail.com | Privacy Policy
 
@@ -28,4 +28,4 @@ Our website may contain links to other websites of interest. However, once you h
 A member, at any time, may go to their account information and update their information.
 
 **Contact Information**  
-If you have any questions, concerns or comments about our privacy policy you can contact me by opening a [support ticket](https://www.barrylangdon.com/support/).
+If you have any questions, concerns or comments about our privacy policy you can contact me by opening a [support ticket](https://www.barrylangdon.com/contact.php).
