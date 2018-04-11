@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the womanista.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108034143id_/http%3A//womanista.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womanista.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411105402id_/http%3A//popculture.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Last modified: 6/9/2015
+## Last modified: 1/8/2018
 
 ### Introduction
 
-FHT Media Holding, LLC d/b/a Womanista (the "Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.
+Comicbook.com, LLC (the "Company" or "We") respects your privacy and is committed to protecting it through our compliance with this policy.
 
-This policy describes the types of information we may collect through the websites, services and applications we make available to you, including Womanista (the "Website"), and our practices for collecting, using, maintaining, protecting and disclosing that information.
+This policy describes the types of information we may collect through the websites, services and applications we make available to you, including Comicbook.com (the "Website"), and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 This policy applies to information we collect:
 
@@ -37,7 +37,7 @@ We do use persistent identifiers to monitor Website traffic and usage patterns i
 
 Parents can review or have deleted their child's Personal Information and refuse to permit further collection or use of their child's information. If you believe we might have any information from or about a child under 13 and/or wish to exercise the rights of parents described in the previous sentence, please contact us at:
 
-Womanista
+Comicbook.com, LLC
 
 12 Cadillac Drive, Suite 230
 
@@ -45,7 +45,7 @@ Brentwood, TN 37027
 
 Phone: **615-879-3796**
 
-Email [support@womanista.com](mailto:support@comicbook.com).
+Email [support@comicbook.com](mailto:support@comicbook.com).
 
 Information We Collect About You and How We Collect It
 
@@ -94,6 +94,14 @@ Third-Party Advertiser Use of Cookies and Other Tracking Technologies.
 
 Some advertisements on the Website are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this Website and other websites to provide them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. For information about how you can opt out of receiving targeted advertising from many providers, see "Choices About How We Use and Disclose Your Information" below.
 
+Third-Party Payment Gateway
+
+ComicBook.com uses a secure third-party gateway to process credit card transactions on the ComicBook.com Marketplace, which are solely limited to approved transactions with the Shops. ComicBook.com or its agent’s Client Relationship Managers (CRM) will have limited access to transactions that have occurred on the website. This access does not include credit card information.
+
+  * By buying goods or services through the ComicBook.com marketplace you agree to be bound by the Payment Provider's Privacy Policy which is located at [https://stripe.com/us/privacy](https://stripe.com/us/privacy) and hereby consent and authorize ComicBook.com and the Payment Provider to share any information and payments instructions you provide with one another and, to the extent required to complete your transaction, with any other third party service provider(s).
+
+
+
 How We Use Your Information
 
 We use information that we collect about you or that you provide to us, including any Personal Information:
@@ -130,12 +138,12 @@ We may disclose Personal Information that we collect or you provide as described
 
 
 
-For the purposes here of, "Preferred ContentProviders" are as follow: CBS Sports, Inc. (dba [CBSSports.com](http://cbssports.com/)), CBT Sports, LLC ([247Sports](http://247sports.com/)),  Facebook [(Facebook)](http://facebook.com/); and ComicBook.com
+For the purposes here of, "Preferred ContentProviders" are as follow: CBS Sports, Inc. (dba [CBSSports.com](http://cbssports.com/)), CBT Sports, LLC ([247Sports](http://247sports.com/)), and Facebook [(Facebook)](http://facebook.com/)
 
 We may also disclose your Personal Information:
 
   * to comply with any court order, law or legal process, including to respond to any government or regulatory request;
-  * to enforce or apply our Terms of Use and other agreements, including for billing and collection purposes; and/or
+  * to enforce or apply our [Terms of Use](http://comicbook.com/page/termsofservice) and other agreements, including for billing and collection purposes; and/or
   * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers or others.
 
 
@@ -147,25 +155,25 @@ Choices About How We Use and Disclose Your Information
 We strive to provide you with choices regarding the Personal Information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form or other opt-out methods. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@womanista.com](mailto:support@comicbook.com) .
-  * Promotional Offers from the Company. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form)/OTHER OPT-OUT METHOD or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@womanista.com](mailto:support@comicbook.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
-  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form). You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@womanista.com](mailto:support@comicbook.com) . For this opt-out to function, you must have your browser set to accept browser cookies.
+  * Disclosure of Your Information for Third-Party Advertising. If you do not want us to share your Personal Information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form or other opt-out methods. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@comicbook.com](mailto:support@comicbook.com) .
+  * Promotional Offers from the Company. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form)/OTHER OPT-OUT METHOD or at any other time by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@comicbook.com](mailto:support@comicbook.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * Targeted Advertising. If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers' target-audience preferences, you can opt-out by checking the relevant box located on the form on which we collect your data (the order form/registration form). You can also always adjust your user advertising preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [support@comicbook.com](mailto:support@comicbook.com) . For this opt-out to function, you must have your browser set to accept browser cookies.
 
 
 
-We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative ("NAI") on the NAI's website.
+We do not control third parties' collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. The NAI offers the ability for you to opt-out of the behavioral advertising programs of their members by going to http://www.networkadvertising.org/choices/ or http://www.aboutads.info/choices/.
 
 Accessing and Correcting Your Information
 
 You can review and change your Personal Information by logging into the Website and visiting your account profile page.
 
-You may also send us an e-mail at [support@womanista.com](mailto:support@comicbook.com) to request access to, correct or delete any Personal Information that you have provided to us. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may also send us an e-mail at [support@comicbook.com](mailto:support@comicbook.com) to request access to, correct or delete any Personal Information that you have provided to us. We cannot delete your Personal Information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Information that you disclose in any User Contributions is public information, with no expectation of privacy or confidentiality. You should be aware that any Personal Information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not and will not be responsible for the dissemination of any Personal Information contained in any User Contributions. Proper access and use of information provided on the Website, including User Contributions, is governed by our terms of use.
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Information that you disclose in any User Contributions is public information, with no expectation of privacy or confidentiality. You should be aware that any Personal Information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not and will not be responsible for the dissemination of any Personal Information contained in any User Contributions. Proper access and use of information provided on the Website, including User Contributions, is governed by our [terms of use](http://comicbook.com/page/termsofservice).
 
 Your California Privacy Rights
 
-California Civil Code Section Â§ 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@womanista.com](mailto:support@comicbook.com).
+California Civil Code Section Â§ 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [support@comicbook.com](mailto:support@comicbook.com).
 
 Data Security
 
@@ -181,4 +189,4 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 Contact Information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at [support@womanista.com](mailto:support@comicbook.com) .
+To ask questions or comment about this privacy policy and our privacy practices, contact us at [support@comicbook.com](mailto:support@comicbook.com) .
