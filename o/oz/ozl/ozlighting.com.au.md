@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozlighting.com.au privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611060237id_/http%3A//www.ozlighting.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlighting.com.au privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411044033id_/https%3A//www.ozlighting.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,6 @@ This website contains links to other websites.
 
 ### **Contact Ozlighting.com.au**
 
-If you would like to contact us regarding any of the information provided above, please [visit our Contacts page](http://www.ozlighting.com.au/contacts/) for all of our contact details
+If you would like to contact us regarding any of the information provided above, please [visit our Contacts page](https://www.ozlighting.com.au/contacts/) for all of our contact details
 
 _This privacy statement was last updated on 26/08/2014_
