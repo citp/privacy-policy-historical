@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collarspace.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210212603id_/http%3A//collarspace.com/personals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarspace.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411120521id_/http%3A//www.collarspace.com/personals/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -69,7 +69,7 @@ When using our SITE, you will register by creating an account or a member profil
 
 **IV. How we collect information from you**
 
-A. **Where we collect information** – We collect information on the Birth Date VerifierTM page, through which you must pass in order to gain access to our SITE. We also collect information on the following pages:
+A. **Where we collect information** – We collect information on the following pages:
 
 1\. Registration pages
 
@@ -127,7 +127,7 @@ We offer our Members the opportunity to access or modify information provided du
 
 If you have any questions about this Privacy Policy or the practices described herein, you may contact us using the "Support" link at the bottom of this page. 
 
-This policy was prepared by Weston, Garrou, DeWitt & Walters, . 
+This policy was prepared by Derek Brett, Burnside Law Group. 
 
   
 
