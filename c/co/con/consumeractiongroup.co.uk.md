@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203224556id_/https%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411172044id_/https%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
