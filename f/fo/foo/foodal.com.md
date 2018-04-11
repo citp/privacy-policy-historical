@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodal.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609230511id_/http%3A//foodal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodal.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411195115id_/http%3A//foodal.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Foodal
 
