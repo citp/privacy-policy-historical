@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingpanda.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007123835id_/http%3A//www.cookingpanda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingpanda.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411032724id_/http%3A//www.cookingpanda.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
