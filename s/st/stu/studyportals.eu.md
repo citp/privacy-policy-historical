@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the studyportals.eu privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711235513id_/https%3A//www.studyportals.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyportals.eu privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411222400id_/https%3A//www.studyportals.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy statement | StudyPortals
+# Privacy statement | Studyportals
 
 _In this policy, you can find direct information about how, whether, and why we collect and use your personal information on all of our StudyPortals B.V. websites (collectively, `the Website´). This privacy and cookies policy applies to any personal information that is extracted when you use our services, visit our Website, or otherwise interact with us. We have divided this privacy policy into different sections. Please go to the relevant section below for further information. The processing of your personal data complies with the “Wet Bescherming Persoonsgegevens”, the Dutch Data Protection Act._
 
@@ -39,24 +39,24 @@ You may also choose to share information with us. For example when you leave a c
 
 ## **Cookies and similar technologies**
 
-When you use our Website for the first time, a cookie notice is shown. When you continue using the website you allow cookies to be placed on or tracked by our Website. StudyPortals uses the information collected through cookies strictly for the purposes stated in this Privacy and Cookie Policy.
+When you use our Website for the first time, a cookie notice is shown. When you continue using the website you allow cookies to be placed on or tracked by our Website. Studyportals uses the information collected through cookies strictly for the purposes stated in this Privacy and Cookie Policy.
 
-**StudyPortals uses three types of cookies**
+**Studyportals uses three types of cookies**
 
 **Functional cookies**  
-These are cookies which enable users to: view StudyPortals’s Website, use specific functions on the Webiste, and gain access to secured features. If you do not enable or permit of this type of cookie, however, your user experience may be affected in the following ways:
+These are cookies which enable users to: view Studyportals’s Website, use specific functions on the Webiste, and gain access to secured features. If you do not enable or permit of this type of cookie, however, your user experience may be affected in the following ways:
 
-  * Certain features of StudyPortals’s Website will become or unavailable;
-  * StudyPortals can provide less support to users;
-  * StudyPortals will be unable to remember your preferences with regard to using or displaying a specific function.
+  * Certain features of Studyportals’s Website will become or unavailable;
+  * Studyportals can provide less support to users;
+  * Studyportals will be unable to remember your preferences with regard to using or displaying a specific function.
 
 
 
 **Analytic cookies**  
-StudyPortals uses cookies to make Website improvements. The cookies collect information about how visitors use, access, and interact with the Website. WebAnalytics cookies are one example of this type of cookie.
+Studyportals uses cookies to make Website improvements. The cookies collect information about how visitors use, access, and interact with the Website. WebAnalytics cookies are one example of this type of cookie.
 
 **Marketing and other cookies**  
-Marketing cookies are what advertising networks typically placed on Website. These networks are act as intermediaries between StudyPortals and advertisers. They are used to:
+Marketing cookies are what advertising networks typically placed on Website. These networks are act as intermediaries between Studyportals and advertisers. They are used to:
 
   * show relevant, personalised advertisements or offers through every type of medium (such as e-mail, social media, and banner ads) based on your visit and click behavior;
   * limit the number of times each advertisement is displayed;
@@ -65,7 +65,7 @@ Marketing cookies are what advertising networks typically placed on Website. The
 
 
 
-Below you can find the full list of cookies StudyPortals uses.
+Below you can find the full list of cookies Studyportals uses.
 
 **Functional Cookies**  
 ---  
@@ -78,7 +78,7 @@ __cfduid | Cloudflare
 Name | What is it for  
 _sp_ses.08a0 | Behavior Tracking  
 _sp_id.08a0 | Behavior Tracking  
-StudyPortals-trck | Behavior Tracking  
+Studyportals-trck | Behavior Tracking  
 _vwo_uuid | Visual Website Optimizer  
 _ga | Google analytics  
 _gid | Google analytics  
@@ -94,7 +94,7 @@ You can disable these cookies through your browser. For examples and more data o
 
 ## **How we collect your data**
 
-StudyPortals collects personal data in a number of ways. Information is obtained, for example, when you visit our Website, register on our Website, communicate with us via social media, or subscribe to our newsletter.
+Studyportals collects personal data in a number of ways. Information is obtained, for example, when you visit our Website, register on our Website, communicate with us via social media, or subscribe to our newsletter.
 
 We may also receive personal information from associated educational institutions, subsidiaries, partners, or other service providers.
 
@@ -143,7 +143,7 @@ We reserve the right to release personal information without your consent or wit
 
 You can contact education institutes through our Website, by means of an electronic form. The details in your inquiry will then be shared with the institute you are trying to contact.
 
-We may share personally identifiable information (such as name and email address) with carefully selected Higher Education Institutions, to verify the status of your application or enrolment, evaluate and manage the performance of our business agreements or initiate new agreements. . Some of these institutions may also have access to your information so that they may consider further marketing campaigns or recruitment measures. We will inform the Higher Education Institutions that they are not allowed to use your personal information for any reason other than mentioned above.  Users should note however that, how these educational institutions use this data is not governed by our privacy and cookie policy. Therefore, we cannot be held responsible for how the data is utilized once it is shared with them . Educational institutions have separate policy practices for which StudyPortals has no responsibility or liability. For further information on how such institutions use your information, please visit the applicable privacy policy of that institution.
+We may share personally identifiable information (such as name and email address) with carefully selected Higher Education Institutions, to verify the status of your application or enrolment, evaluate and manage the performance of our business agreements or initiate new agreements. . Some of these institutions may also have access to your information so that they may consider further marketing campaigns or recruitment measures. We will inform the Higher Education Institutions that they are not allowed to use your personal information for any reason other than mentioned above.  Users should note however that, how these educational institutions use this data is not governed by our privacy and cookie policy. Therefore, we cannot be held responsible for how the data is utilized once it is shared with them . Educational institutions have separate policy practices for which Studyportals has no responsibility or liability. For further information on how such institutions use your information, please visit the applicable privacy policy of that institution.
 
 **Third party websites**
 
@@ -151,11 +151,11 @@ Our website contains links to third-party websites. If you follow these links, y
 
 **Other countries**
 
-StudyPortals may transfer your personal data to countries outside of your country of residence. This might occur in the course of sharing information with Education Institutions or our subsidiaries.  Some of these countries may not require an adequate level of personal data protection compared to the level of protection provided in your own country.
+Studyportals may transfer your personal data to countries outside of your country of residence. This might occur in the course of sharing information with Education Institutions or our subsidiaries.  Some of these countries may not require an adequate level of personal data protection compared to the level of protection provided in your own country.
 
 ## **Security and retention**
 
-StudyPortals will take appropriate technical and organizational measures to protect your personal data against loss or unlawful use.
+Studyportals will take appropriate technical and organizational measures to protect your personal data against loss or unlawful use.
 
 Your personal data will be retained for as long as required for the purposes described in this privacy policy, or insofar as is necessary to comply with our contractual or statuary obligations, and to solve any disputes.
 
