@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popculture.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206060046id_/http%3A//popculture.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popculture.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411105402id_/http%3A//popculture.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-## Last modified: 5/23/2014
+## Last modified: 1/8/2018
 
 ### Introduction
 
