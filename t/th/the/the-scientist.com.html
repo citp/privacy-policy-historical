@@ -1,27 +1,27 @@
-<!--The following is the downloaded HTML source of the the-scientist.com privacy policy that was archived on 2017-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171108163812id_/http%3A//www.the-scientist.com%3Fhome.privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the the-scientist.com privacy policy that was archived on 2018-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180411121736id_/https%3A//www.the-scientist.com%3Fhome.privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml"><head>
-        <title>The Scientist Magazine® - Privacy Policy</title>
+		<title>The Scientist Magazine® - Privacy Policy</title>
 		<meta name="content-type" content="text/html; charset=iso-8859-1">
 		    <link rel="icon" type="image/png" href="/favicon.ico"> 
 		 
 		<meta property="og:title" content="The Scientist Magazine® - Privacy Policy">
 		<meta property="og:type" content="website">
-		<meta property="og:image" content="http://www.the-scientist.com/images/fbImage.png">
+		<meta property="og:image" content="https://www.the-scientist.com/images/fbImage.png">
 		<meta property="og:site_name" content="The Scientist">
 		<meta property="og:description" content="">
-        <meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:title" content="The Scientist Magazine® - Privacy Policy">
-        <meta name="twitter:image" content="http://www.the-scientist.com/images/fbImage.png">
-        
+		<meta name="twitter:image" content="https://www.the-scientist.com/images/fbImage.png">
+		
 		<meta name="twitter:description" content="">
 		<meta property="fb:admins" content="507842148">
-    <meta property="og:url" content="http://www.the-scientist.com/?home.privacy-policy">
-    <meta property="canonical" href="http://www.the-scientist.com/?home.privacy-policy">
+	<meta property="og:url" content="https://www.the-scientist.com/?home.privacy-policy">
+	<meta property="canonical" href="https://www.the-scientist.com/?home.privacy-policy">
 
 	
-			<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.the-scientist.com/pages/privacy-policy">
+			<link rel="alternate" media="only screen and (max-width: 640px)" href="https://mobile.the-scientist.com/pages/privacy-policy">
 		
 			<meta name="p:domain_verify" content="621985b2247a5b60a3ffcc7d132eb9e1">
 		
@@ -34,11 +34,11 @@
 				<link media="print" type="text/css" href="/core/css/NewsGlobal_Print.css" rel="stylesheet">
 				
 			
-				<style>@import url('/css/home.css?1510062086');</style>
+				<style>@import url('/css/home.css?1521118258');</style>
 			
-				<style>@import url('/css/theScientist.css?1510062086');</style>
+				<style>@import url('/css/theScientist.css?1521118258');</style>
 			
-				<style>@import url('/core/css/MyFontsWebfontsOrderM2957328.css?1510062086');</style>
+				<style>@import url('/core/css/MyFontsWebfontsOrderM2957328.css?1521118258');</style>
 			
 	<!--Tracking Code-->
 	<script type="text/javascript" id="GA">
@@ -62,54 +62,134 @@
 
 	<script type="text/javascript" id="GATagsDFP">
 		googletag.cmd.push(function() {
-            googletag.pubads().addEventListener('slotRenderEnded', function(event) {
- 					var slot = event.slot.getSlotElementId();
- 					var viewPortHeight = $( window ).height();
- 					if (/^ts_web_ros_scrolling-footer_null_1000x60-a/gi.test(slot)) {
- 						if (!event.isEmpty) {
-                            var adHeigth = event.size[1];
-                         	$("#siteContainer").css({"position": "absolute","margin" :"0 auto", "overflow-y":"scroll", "width" : "100%", "height" : viewPortHeight - adHeigth});
-                    	    $(".bottom_sticky").css({"background-color" : "#FFFFFF"});
- 						}
- 					}
- 				});
+			googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+				var slot = event.slot.getSlotElementId();
+				if (/^ts_web_ros_scrolling-footer_null_1000x60-a/gi.test(slot)) {
+					if (!event.isEmpty) {
+						adjustSiteContainerHeight();
+						$(".bottom_sticky").css({"background-color" : "#FFFFFF"});
+					}
+				}
+				if (/^ts_web_ros_dropdown_leaderboard_null_728x90/gi.test(slot)) {
+					var thisAdBlock = document.getElementById(event.slot.getSlotElementId())//$();
+					var altText = "Sponsord Content";
+					var minutesBetweenForcedOpens = 30;
+					var autoCloseTimeout = null;
+
+					if (event.isEmpty) {
+						thisAdBlock.parentElement.remove();
+					} else {
+						var _now = +new Date();
+						var lastUsed = sessionStorage.getItem('pulldown_last_toggled');
+						if (
+							!lastUsed ||
+							(lastUsed < (_now - (minutesBetweenForcedOpens*60*1000)))
+						) {
+							sessionStorage.setItem('pulldown_last_toggled', _now);
+							thisAdBlock.parentElement.classList.remove("closed");
+							autoCloseTimeout = setTimeout(function() {
+								thisAdBlock.parentElement.classList.add("closed");
+								setTimeout(function() {
+									adjustSiteContainerHeight();
+								}, 800);
+							}, 30000);
+						}
+
+						try {
+							altText = thisAdBlock.querySelector("iframe").contentWindow.document.body.querySelector("img.img_ad").alt;
+							thisAdBlock.querySelector("iframe").style.position = "static";
+						} catch(error) {
+							console.error(error);
+						}
+						try {
+							setTimeout(function() {
+								thisAdBlock.parentElement.querySelector(".alt").innerHTML = altText;
+								thisAdBlock.parentElement.querySelector(".alt").addEventListener("click", function( event ) {
+									event.preventDefault();
+									event.stopPropagation();
+
+									event.srcElement.parentElement.classList.toggle("closed");
+									sessionStorage.setItem('pulldown_last_toggled', +new Date());
+									if (autoCloseTimeout) {
+										clearTimeout(autoCloseTimeout);
+									}
+									setTimeout(function() {
+										adjustSiteContainerHeight();
+									}, 800);
+								});
+							}, 250);
+						} catch(error) {
+							console.error(error);
+						}
+
+						setTimeout(function() {
+							adjustSiteContainerHeight();
+						}, 200);
+					}
+				}
+			});
+			googletag.defineSlot('/57835087/TS_WEB_ROS_DROPDOWN_LEADERBOARD_NULL_728X90', [728, 90], 'ts_web_ros_dropdown_leaderboard_null_728x90').addService(googletag.pubads());
 			googletag.defineSlot('/57835087/TS_WEB_ROS_LEADERBOARD_NULL_728X90', [728, 90], 'ts_web_ros_leaderboard_null_728x90-a').addService(googletag.pubads());
 			googletag.defineSlot('/57835087/TS_WEB_ROS_MEDIUM-RECTANGLE_TOP_300X250', [300, 250], 'ts_web_ros_medium-rectangle_top_300x250-a').addService(googletag.pubads());
-            /*var refCount = 30000;*/
+			/*var refCount = 30000;*/
 			googletag.defineSlot('/57835087/TS_WEB_ROS_MEDIUM-RECTANGLE_MIDDLE_300X250', [300, 250], 'ts_web_ros_medium-rectangle_middle_300x250-a').addService(googletag.pubads());
 			googletag.defineSlot('/57835087/TS_WEB_ROS_MEDIUM-RECTANGLE_BOTTOM_300X250', [300, 250], 'ts_web_ros_medium-rectangle_bottom_300x250-a').addService(googletag.pubads());
 			googletag.defineSlot('/57835087/TS_WEB_ROS_SCROLLING-FOOTER_NULL_1000X60', [[1000, 60], [960, 45]], 'ts_web_ros_scrolling-footer_null_1000x60-a').addService(googletag.pubads());
-            
+			
 			googletag.pubads().enableSingleRequest();
-            googletag.pubads().enableSyncRendering();
+			googletag.pubads().enableSyncRendering();
 			googletag.pubads().collapseEmptyDivs();
 			googletag.enableServices();
-            /*var interval = setInterval(function(){googletag.pubads().refresh([boom]);}, refCount);
-            setTimeout(function( ) { clearInterval( interval ); }, refCount * 5);*/
+			/*var interval = setInterval(function(){googletag.pubads().refresh([boom]);}, refCount);
+			setTimeout(function( ) { clearInterval( interval ); }, refCount * 5);*/
+		});
+
+		Element.prototype.remove = function() { this.parentElement.removeChild(this); };
+		NodeList.prototype.remove = HTMLCollection.prototype.remove = function() {
+			for (var i = this.length - 1; i >= 0; i--) {
+				if (this[i] && this[i].parentElement) {
+					this[i].parentElement.removeChild(this[i]);
+				}
+			}
+		};
+
+		var adjustSiteContainerHeight = function() {
+			var viewPortHeight = $( window ).height();
+
+			var fixedHeight = viewPortHeight - $("#PullDown").outerHeight(true) - $("#ts_web_ros_scrolling-footer_null_1000x60-a").outerHeight();
+
+			$("#siteContainer").css({"position": "absolute","margin" :"0 auto", "overflow-y":"scroll", "width" : "100%", "height" : fixedHeight});
+		}; // close adjustSiteContainerHeight()
+
+		$( window ).on("resize", function() {
+			adjustSiteContainerHeight();
 		});
 	</script>
 
 	
-
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "WebSite",
-			"url": "http://www.the-scientist.com/",
-			"potentialAction": {
-				"@type": "SearchAction",
-				"target": "http://www.the-scientist.com/?articles.search/searchTerm/
-				{search_term}
-
-				",
-				"query-input": "required name=search_term"
-				}
-		}
-	</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsMediaOrganization",
+        "name": "The Scientist Magazine",
+        "alternateName": "The Scientist",
+        "url": "https://www.the-scientist.com/",
+        "logo": "https://www.the-scientist.com/images/TheScientistLogo_white.gif"
+    }
+</script>
 
 	</head>
 	<body>
 		
+		<div id="PullDown" class="closed">
+			<div id="ts_web_ros_dropdown_leaderboard_null_728x90" class="dfp">
+				<script type="text/javascript">
+					googletag.cmd.push(function() { googletag.display('ts_web_ros_dropdown_leaderboard_null_728x90'); });
+				</script>
+			</div>
+			<a href="#" class="alt">Loading...</a>
+		</div>
+	
 	<div id="siteContainer">
 		
 			<div id="siteHeader">
@@ -268,54 +348,54 @@
             <ol>
                 
                     <li>
-                        <a href="/?articles.view/articleNo/50868/title/Professor-Sues-PNAS-Over-Paper-Criticisms/" class="article-image">
-                            <img src="http://photos.the-scientist.com/articleImages/50000/50868-1-m.jpg" alt="Professor Sues <em>PNAS</em> Over Paper Criticisms">
+                        <a href="/?articles.view/articleNo/52230/title/Abundant-Neurogenesis-Found-in-Adult-Humans--Hippocampi/" class="article-image">
+                            <img src="https://photos.the-scientist.com/articleImages/52000/52230-1-m.jpg" alt="Abundant Neurogenesis Found in Adult Humans’ Hippocampi">
                         </a>
                         <article>
-                            <small class="category-name">The Nutshell</small>
-                            <a href="/?articles.view/articleNo/50868/title/Professor-Sues-PNAS-Over-Paper-Criticisms/" class="article-title">
-                                Professor Sues <em>PNAS</em> Over Paper Criticisms
+                            <small class="category-name">Daily News</small>
+                            <a href="/?articles.view/articleNo/52230/title/Abundant-Neurogenesis-Found-in-Adult-Humans--Hippocampi/" class="article-title">
+                                Abundant Neurogenesis Found in Adult Humans’ Hippocampi
                             </a>
-                            <p class="article-summary">Stanford’s Mark Jacobson is asking for $10 million in damages after the journal published a critique of his work on renewable energy.</p>
+                            <p class="article-summary">Researchers identified thousands of immature neurons in the brain region, countering a recent result showing little, if any, signs of neurogenesis.</p>
                         </article>
                     </li>
                 
                     <li>
-                        <a href="/?articles.view/articleNo/50875/title/Equivocal-Findings-of-Alzheimer-s-Trial-Using-Young-Blood/" class="article-image">
-                            <img src="http://photos.the-scientist.com/articleImages/50000/50875-1-m.jpg" alt="Equivocal Findings of Alzheimer’s Trial Using Young Blood">
+                        <a href="/?articles.view/articleNo/52229/title/Hundreds-of-Inherited-Gene-Variants-Contribute-to-Cancer/" class="article-image">
+                            <img src="https://photos.the-scientist.com/articleImages/52000/52229-1-m.jpg" alt="Hundreds of Inherited Gene Variants Contribute to Cancer">
                         </a>
                         <article>
-                            <small class="category-name">The Nutshell</small>
-                            <a href="/?articles.view/articleNo/50875/title/Equivocal-Findings-of-Alzheimer-s-Trial-Using-Young-Blood/" class="article-title">
-                                Equivocal Findings of Alzheimer’s Trial Using Young Blood
+                            <small class="category-name">Daily News</small>
+                            <a href="/?articles.view/articleNo/52229/title/Hundreds-of-Inherited-Gene-Variants-Contribute-to-Cancer/" class="article-title">
+                                Hundreds of Inherited Gene Variants Contribute to Cancer
                             </a>
-                            <p class="article-summary">A team of Stanford University researchers say that administering young people’s blood plasma to Alzheimer’s patients could improve cognitive function, but the results have been criticized.</p>
+                            <p class="article-summary">In the largest study of its kind to date, researchers find more than 850 rare, heritable genetic alterations that can predispose humans to cancer.</p>
                         </article>
                     </li>
                 
                     <li>
-                        <a href="/?articles.view/articleNo/50701/title/2017-Life-Science-Salary-Survey/" class="article-image">
-                            <img src="http://photos.the-scientist.com/articleImages/50000/50701-1-m.jpg" alt="2017 Life Science Salary Survey">
+                        <a href="/?articles.view/articleNo/52208/title/French-Universities-Cancel-Subscriptions-to-Springer-Journals/" class="article-image">
+                            <img src="https://photos.the-scientist.com/articleImages/52000/52208-1-m.jpg" alt="French Universities Cancel Subscriptions to Springer Journals">
                         </a>
                         <article>
-                            <small class="category-name">Features</small>
-                            <a href="/?articles.view/articleNo/50701/title/2017-Life-Science-Salary-Survey/" class="article-title">
-                                2017 Life Science Salary Survey
+                            <small class="category-name">Daily News</small>
+                            <a href="/?articles.view/articleNo/52208/title/French-Universities-Cancel-Subscriptions-to-Springer-Journals/" class="article-title">
+                                French Universities Cancel Subscriptions to Springer Journals
                             </a>
-                            <p class="article-summary">Industry professionals make more than academic researchers, but for professors, it may not be about the money.</p>
+                            <p class="article-summary">Negotiations between the publisher and a national consortium of academic institutions have reached a stalemate.</p>
                         </article>
                     </li>
                 
                     <li>
-                        <a href="/?articles.view/articleNo/50806/title/Three-Dartmouth-Scientists-Being-Investigated-for-Sexual-Misconduct/" class="article-image">
-                            <img src="http://photos.the-scientist.com/articleImages/50000/50806-1-m.jpg" alt="Three Dartmouth Scientists Being Investigated for Sexual Misconduct">
+                        <a href="/?articles.view/articleNo/52241/title/Missing-CDC-Researcher-Found-Dead/" class="article-image">
+                            <img src="https://photos.the-scientist.com/articleImages/52000/52241-1-m.jpg" alt="Missing CDC Researcher Found Dead">
                         </a>
                         <article>
                             <small class="category-name">The Nutshell</small>
-                            <a href="/?articles.view/articleNo/50806/title/Three-Dartmouth-Scientists-Being-Investigated-for-Sexual-Misconduct/" class="article-title">
-                                Three Dartmouth Scientists Being Investigated for Sexual Misconduct
+                            <a href="/?articles.view/articleNo/52241/title/Missing-CDC-Researcher-Found-Dead/" class="article-title">
+                                Missing CDC Researcher Found Dead
                             </a>
-                            <p class="article-summary">The professors, all faculty members in the college’s department of psychology and brain sciences, have been placed on paid leave.&nbsp;</p>
+                            <p class="article-summary">The body of Timothy Cunningham, who disappeared in February, was recovered from the Chattahoochee River earlier this week.</p>
                         </article>
                     </li>
                 
@@ -418,6 +498,13 @@
                     </a>
                 </li>
             
+                <li>
+                    <a href="https://www.facebook.com/TheNeuroScientist/" target="_blank">
+                        
+                        The NeuroScientist
+                    </a>
+                </li>
+            
         </ul>
     </div>
 
@@ -436,7 +523,7 @@
         <h3>Current Issue</h3>
         <div id="coverImage">
         	<p>
-	<a href="http://www.the-scientist.com/?magazines.view/magazineIssueNo/1704/title/The-Mosaic-Brain"><img alt="" src="/November2017/TS-currentissue_Nov2017.jpg" style="width: 300px; height: 284px;"></a><a href="http://www.the-scientist.com/?magazines.view/magazineIssueNo/1704/title/The-Mosaic-Brain">View the November 2017 contents.</a></p>
+	<a href="https://www.the-scientist.com/?magazines.view/magazineIssueNo/1709/title/Neuron-Nets/"><img alt="" src="/April2018/AprilTS-currentissue.jpg" style="width: 300px; height: 284px;"></a><a href="https://www.the-scientist.com/?magazines.view/magazineIssueNo/1709/title/Neuron-Nets/">View the April 2018 contents.</a></p>
         </div>
     </div>
 
@@ -486,7 +573,7 @@
 					
 
 	<ul class="navigation">
-		<li class="withSubMenu"><a href="/?articles.list/categoryNo/2901">News</a>
+		<li class="withSubMenu"><a href="/?articles.list/categoryNo/2901/category/News---Opinion/">News</a>
 			
 				<ul>
 					
@@ -573,9 +660,10 @@
 					
 						<li><a href="/?articles.list/categoryNo/3109/category/Sponsored-Infographics/">Sponsored Infographics </a></li>
 					
+						<li><a style="text-transform:none" href="/?articles.list/categoryNo/3163/category/Sponsored-eBooks/">Sponsored eBooks </a></li>
+					
                     <li><hr></li>
                     <li><a href="https://www.thescientistexpo.com/">TS Expo</a></li>
-                    <li><a href="https://www.thescientistconnect.com/">TS Connect</a></li>
 				</ul>
 			
 		</li>
@@ -657,7 +745,7 @@
 				<div class="innerContainer">
 					
 <div class="follow">
-	<p id="copyright">© 1986-2017 <a title="" href="http://the-scientist.com/">The Scientist</a></p>
+	<p id="copyright">© 1986-2018 <a title="" href="https://the-scientist.com/">The Scientist</a></p>
 </div>
 <div id="footerTextContainer">
 	<div id="logo">
@@ -694,8 +782,7 @@
 
 	</div>
 
-<div id="dogEar" class="advertisment"><div class="adGroup" data-zoneno="48" data-adsno="18878" data-categoryno="" data-pagefa="home.privacy-policy"><div class="adLabel"></div><script language="javascript" type="text/javascript"> $(document).ready( function() { $('a#internalDogEar').hover( function() { $(this).children('img').attr('src','https://www.labx.com/web/banners/originals/RayBiotech-500x500%20oct.png'); }, function() { $(this).children('img').attr('src','https://www.labx.com/web/banners/originals/RayBiotech-100x100%20oct.gif'); } ); }); </script>
-<a href="http://www.the-scientist.com/?go.ad/adScheduleNo/18878" id="internalDogEar" title=""> <img src="https://www.labx.com/web/banners/originals/RayBiotech-100x100%20oct.gif" alt="RayBiotech" border="0"> </a> </div></div><!-- Close .advertisment -->
+
 <!-- /57835087/TS_WEB_ROS_PEELBACK_TOP-RIGHT_NULL -->
 
 <!-- /57835087/TS_WEB_ROS_SCROLLING-FOOTER_NULL_1000X60 -->
