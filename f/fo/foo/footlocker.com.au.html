@@ -1,450 +1,13 @@
-<!--The following is the downloaded HTML source of the footlocker.com.au privacy policy that was archived on 2017-08-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170804032318id_/https%3A//www.footlocker.com.au/en/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footlocker.com.au privacy policy that was archived on 2018-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180411060202id_/https%3A//www.footlocker.com.au/en/content/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head class="at-element-marker"> 
- 
- 
 <meta charset="utf-8"> 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><meta name="robots" content="index,follow"> 
-<meta name="title" content="Privacy Policy"><meta name="description" content="Privacy Policy"><meta name="keywords" content="Privacy Policy"><title>Privacy Policy</title> 
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,700"><link rel="stylesheet" href="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/bundles/css/base.min.css?lastModified=1501757577000"><link rel="stylesheet" type="text/css" href="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific-Footlocker_AU/en_AU/css/custom.css"><script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/javascript/_vendor/jquery-3.1.1.min.js"></script><script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific-Footlocker_AU/en_AU/js/custom.js"></script><style id="at-mbox-default-style">.mboxDefault {visibility:hidden;}</style><style>.at-element-marker {visibility:visible;}</style><script type="text/javascript">
-	var SYNCHRONIZER_TOKEN_NAME = 'SynchronizerToken';
-	var SYNCHRONIZER_TOKEN_VALUE = '2fb1a40d8cd58386fc3acbc085f9869aeff1ca32f7505d15e9ae1c4ce00613d7';
-</script> 
-<script type="text/javascript">
-/**
-* Based on OWASP CSRFGuard 3.0.0.503. See https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project.
-*/
-/**
-* The OWASP CSRFGuard Project, BSD License
-* Eric Sheridan (eric.sheridan@owasp.org), Copyright (c) 2011 
-* All rights reserved.
-* 
-* Redistribution and use in source and binary forms, with or without
-* modification, are permitted provided that the following conditions are met:
-*
-* 1. Redistributions of source code must retain the above copyright notice,
-* this list of conditions and the following disclaimer.
-* 2. Redistributions in binary form must reproduce the above copyright
-* notice, this list of conditions and the following disclaimer in the
-* documentation and/or other materials provided with the distribution.
-* 3. Neither the name of OWASP nor the names of its contributors may be used
-* to endorse or promote products derived from this software without specific
-* prior written permission.
-*
-* THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-* AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-* IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
-* ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-* FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-* (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-* LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-* ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-* (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-* SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-*/
-var CSRFGuard = (function() { 
-var TOKEN_NAME = "SynchronizerToken";
-/** string utility functions * */
-String.prototype.startsWith = function(prefix) {
-return this.indexOf(prefix) === 0;
-}
-String.prototype.endsWith = function(suffix) {
-return this.match(suffix+"$") === suffix;
-};
-/** hook using standards based prototype * */
-function hijackStandard() {
-XMLHttpRequest.prototype._open = XMLHttpRequest.prototype.open;
-XMLHttpRequest.prototype.open = function(method, url, async, user, pass) {
-this.url = url;
-this._open.apply(this, arguments);
-}
-XMLHttpRequest.prototype._send = XMLHttpRequest.prototype.send;
-XMLHttpRequest.prototype.send = function(data) {
-if(this.onsend != null) {
-this.onsend.apply(this, arguments);
-}
-this._send.apply(this, arguments);
-}
-}
-/** ie does not properly support prototype - wrap completely * */
-function hijackExplorer() {
-var _XMLHttpRequest = window.XMLHttpRequest;
-function alloc_XMLHttpRequest() {
-this.base = _XMLHttpRequest ? new _XMLHttpRequest : new window.ActiveXObject("Microsoft.XMLHTTP");
-}
-function init_XMLHttpRequest() {
-return new alloc_XMLHttpRequest;
-}
-init_XMLHttpRequest.prototype = alloc_XMLHttpRequest.prototype;
-/** constants * */
-init_XMLHttpRequest.UNSENT = 0;
-init_XMLHttpRequest.OPENED = 1;
-init_XMLHttpRequest.HEADERS_RECEIVED = 2;
-init_XMLHttpRequest.LOADING = 3;
-init_XMLHttpRequest.DONE = 4;
-/** properties * */
-init_XMLHttpRequest.prototype.status = 0;
-init_XMLHttpRequest.prototype.statusText = "";
-init_XMLHttpRequest.prototype.readyState = init_XMLHttpRequest.UNSENT;
-init_XMLHttpRequest.prototype.responseText = "";
-init_XMLHttpRequest.prototype.responseXML = null;
-init_XMLHttpRequest.prototype.onsend = null;
-init_XMLHttpRequest.url = null;
-init_XMLHttpRequest.onreadystatechange = null;
-/** methods * */
-init_XMLHttpRequest.prototype.open = function(method, url, async, user, pass) {
-var self = this;
-this.url = url;
-this.base.open(method, url, async, user, pass);
-this.base.onreadystatechange = function() {
-try { self.status = self.base.status; } catch (e) { }
-try { self.statusText = self.base.statusText; } catch (e) { }
-try { self.readyState = self.base.readyState; } catch (e) { }
-try { self.responseText = self.base.responseText; } catch(e) { }
-try { self.responseXML = self.base.responseXML; } catch(e) { }
-if(self.onreadystatechange != null) {
-self.onreadystatechange.apply(this, arguments);
-}
-}
-}
-init_XMLHttpRequest.prototype.send = function(data) {
-if(this.onsend != null) {
-this.onsend.apply(this, arguments);
-}
-this.base.send(data);
-}
-init_XMLHttpRequest.prototype.abort = function() {
-this.base.abort();
-}
-init_XMLHttpRequest.prototype.getAllResponseHeaders = function() {
-return this.base.getAllResponseHeaders();
-}
-init_XMLHttpRequest.prototype.getResponseHeader = function(name) {
-return this.base.getResponseHeader(name);
-}
-init_XMLHttpRequest.prototype.setRequestHeader = function(name, value) {
-return this.base.setRequestHeader(name, value);
-}
-/** hook * */
-window.XMLHttpRequest = init_XMLHttpRequest;
-}
-/** check if valid domain based on domainStrict * */
-function isValidDomain(current, target) {
-var result = false;
-/** check exact or subdomain match * */
-if(current === target) {
-result = true;
-} else /* if(%DOMAIN_STRICT% === false) */ {
-if(target.charAt(0) === '.') {
-result = current.endsWith(target);
-} else {
-result = current.endsWith('.' + target);
-}
-}
-return result;
-}
-/** determine if uri/url points to valid domain * */
-function isValidUrl(src) {
-var result = false;
-/** parse out domain to make sure it points to our own * */
-if(src.substring(0, 7) === "http://" || src.substring(0, 8) === "https://") {
-var token = "://";
-var index = src.indexOf(token);
-var part = src.substring(index + token.length);
-var domain = "";
-/** parse up to end, first slash, or anchor * */
-for(i=0; i<part.length; i++) {
-var character = part.charAt(i);
-if(character === '/' || character === ':' || character === '#') {
-break;
-} else {
-domain += character;
-}
-}
-result = isValidDomain(document.domain, domain);
-/** explicitly skip anchors * */
-} else if(src.charAt(0) === '#') {
-result = false;
-/** ensure it is a local resource without a protocol * */
-} else if(!src.startsWith("//") && (src.charAt(0) === '/' || src.indexOf(':') === -1)) {
-result = true;
-}
-return result;
-}
-/** parse uri from url * */
-function parseUri(url) {
-var uri = "";
-var token = "://";
-var index = url.indexOf(token);
-var part = "";
-/**
-* ensure to skip protocol and prepend context path for non-qualified
-* resources (ex: "protect.html" vs
-* "/Owasp.CsrfGuard.Test/protect.html").
-*/
-if(index > 0) {
-part = url.substring(index + token.length);
-/* } else if(url.charAt(0) != '/') {
-part = "%CONTEXT_PATH%/" + url;*/
-} else {
-part = url;
-}
-/** parse up to end or query string * */
-var uriContext = (index === -1);
-for(var i=0; i<part.length; i++) {
-var character = part.charAt(i);
-if(character === '/') {
-uriContext = true;
-} else if(uriContext === true && (character === '?' || character === '#')) {
-uriContext = false;
-break;
-}
-if(uriContext === true) {
-uri += character;
-}
-}
-return uri;
-}
-/** inject tokens as hidden fields into forms * */
-function injectTokenForm(form, tokenName, tokenValue) 
-{
-var synchronizerTokenOptions = form.getAttribute("data-synchronizer-token");
-if ('undefined' != typeof synchronizerTokenOptions && 'no-token' == synchronizerTokenOptions)
-{
-return; 
-}
-var action = form.getAttribute("action");
-if(action != null && isValidUrl(action)) {
-var uri = parseUri(action);
-var hidden = document.createElement("input");
-hidden.setAttribute("type", "hidden");
-hidden.setAttribute("name", tokenName);
-hidden.setAttribute("value", tokenValue);
-form.insertBefore(hidden, form.firstChild);
-if (typeof console != "undefined") {
-console.log("CSRFGuard: Injected synchronizer token into form ", form, " (name: ",
-form.getAttribute("name"), ")");
-}
-}
-}
-/** Inject CSRF synchronizer tokens throughout scope or if no scope is given throughout
-* the document. **/
-function injectTokens(tokenName, tokenValue, scope) { 
-/** iterate over all elements and injection token * */
-var forms; 
-if (scope) {
-if (scope.tagName.toLowerCase() === 'form') {
-// scope is a form itself and since forms may not be nested, this is the only form
-forms = [scope];
-} else {
-forms = scope.getElementsByTagName('form');
-}
-} else {
-forms = document.getElementsByTagName('form'); 
-}
-var len = forms.length;
-for(var i=0; i<len; i++) { 
-injectTokenForm(forms[i], tokenName, tokenValue); 
-}
-}
-/**
-* Only inject the tokens if the JavaScript was referenced from HTML that
-* was served by us. Otherwise, the code was referenced from malicious HTML
-* which may be trying to steal tokens using JavaScript hijacking
-* techniques.
-*/
-//if(isValidDomain(document.domain, "%DOMAIN_ORIGIN%")) {
-/** optionally include Ajax support * */
-if(navigator.appName === "Microsoft Internet Explorer") {
-hijackExplorer();
-} else {
-hijackStandard();
-}
-XMLHttpRequest.prototype.onsend = function(data) {
-if(isValidUrl(this.url)) { 
-this.setRequestHeader(TOKEN_NAME, SYNCHRONIZER_TOKEN_VALUE);
-}
-};
-/** update nodes in DOM after load **/
-var ready = (function() {
-var called = false;
-return function() {
-// ready() should only be called once
-if (called) return;
-called = true;
-if (typeof console != "undefined") {
-console.log("CSRFGuard: Injecting synchronizer tokens upon page load.");
-}
-injectTokens(TOKEN_NAME, SYNCHRONIZER_TOKEN_VALUE);
-if (typeof console != "undefined") {
-console.log("CSRFGuard: Finished injecting synchronizer tokens upon page load.");
-}
-if (typeof jQuery != 'undefined') {
-/** hook into jQuery html function to inject tokens in dynamically added code **/
-var proxied = jQuery.fn.html;
-jQuery.fn.html = function() { 
-if (arguments.length === 0) {
-// do not inject tokens if the function is used for getting the HTML content
-return proxied.apply(this, arguments);
-}
-var result = proxied.apply(this, arguments);
-this.each(function(index, value) { 
-injectTokens(TOKEN_NAME, SYNCHRONIZER_TOKEN_VALUE, value);
-});
-return result; 
-};
-}
-};
-})();
-// detach event listeners, run ready()
-var DOMContentLoaded = function() {
-if (document.addEventListener) {
-document.removeEventListener('DOMContentLoaded', DOMContentLoaded, false);
-ready();
-} else if (document.readyState === 'complete') {
-document.detachEvent('onreadystatechange', DOMContentLoaded);
-ready();
-}
-};
-// attach event listeners
-if (document.readyState === 'complete') {
-window.setTimeout(ready, 1);
-} else if (document.addEventListener) {
-document.addEventListener('DOMContentLoaded', DOMContentLoaded, false);
-window.addEventListener('load', ready, false);
-} else {
-document.attachEvent('onreadystatechange', DOMContentLoaded);
-window.attachEvent('onload', ready);
-}
-//}
-/**
-* Submits a POST request based on the href-attribute of a link. The POST
-* request includes the synchronizer token.
-* This can be used to turn links (GET-requests) that cannot carry the
-* synchronizer token to forms (POST-requests) with a valid synchronizer token.
-*/
-function triggerLinkAsPostRequestWithToken(tokenName, tokenValue, link) {
-var form = document.createElement("form");
-form.setAttribute("method", "post");
-form.setAttribute("action", link.href); 
-injectTokenForm(form, tokenName, tokenValue); 
-document.body.appendChild(form);
-form.submit();
-}
-// expose public functions
-return {
-'injectTokens': function(scope) {
-injectTokens(TOKEN_NAME, SYNCHRONIZER_TOKEN_VALUE, scope);
-},
-'triggerLinkAsPostRequestWithToken': function(link) {
-triggerLinkAsPostRequestWithToken(TOKEN_NAME, SYNCHRONIZER_TOKEN_VALUE, link);
-}
-};
-}) ();
-</script><script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/bundles/js/modernizr.min.js?lastModified=1501757577000"></script><script async="" src="//tdn.r42tag.com/lib/1073-v1.js"></script><script type="text/javascript"> 
-(function(a,d,e,b,f,c,s){
-a[b] = a[b]||function()
-{ 
-a[b].q.push(arguments);
-};
-a[b].q = [];
-c = d.createElement('script');
-c.async = 1; 
-c.src = "//tdn.r42tag.com/lib/" + f + ".js";
-var elements = d.getElementsByTagName(e);
-s = elements[elements.length - 1];
-s.parentNode.insertBefore(c,s); 
-})(window, document, "script", "_st", "1073-v1");
-var relay42Category = null;
-function doRelay42Track(category, eventName, data)
-{ 
-_st('publishEvent', category, eventName, data); 
-};
-var relay42CategoryProducts = null;
-function doRelay42SetProducts(products)
-{
-relay42CategoryProducts = products;
-}
-function doRelay42AddProducts(products)
-{
-if ('undefined' != typeof relay42CategoryProducts && null != relay42CategoryProducts)
-{
-for (var i = 0; i < products.length; i++)
-{
-relay42CategoryProducts.push(products[i]);
-}
-}
-else
-{
-doRelay42SetProducts(products);
-}
-}
-function doRelay42GetProduct(id, listType)
-{
-if (null != relay42CategoryProducts && null != relay42Category)
-{
-for (var i = 0; i < relay42CategoryProducts.length; i++)
-{
-var product = relay42CategoryProducts[i];
-if ((null == listType || listType == product.list))
-{
-var match = id == product.basesku;
-if (typeof window['relay42MatchProductId'] === "function")
-{
-match = relay42MatchProductId(product.basesku, id);
-}
-if (match)
-{
-if (null == listType)
-{
-listType = product.list;
-}
-var productData = 
-{
-'id' : product.id,
-'name' : product.name,
-'category' : product.category,
-'brand' : product.brand,
-'variant' : product.variant,
-'position' : product.position,
-'list' : listType,
-'price' : product.price,
-'gender' : product.gender,
-'size' : product.size
-};
-return productData;
-}
-}
-}
-}
-return null;
-}
-function doRelay42ProductClick(id, category, listType)
-{
-if ('undefined' == typeof category || null == category)
-{
-category = relay42Category;
-}
-var productData = doRelay42GetProduct(id, listType);
-if (null != productData)
-{
-doRelay42Track(category, 'clickProduct', [productData]);
-}
-}
-function doRelay42ProductAdd(id, listType, quantity)
-{
-var productData = doRelay42GetProduct(id, listType);
-if (null != productData)
-{
-productData.quantity = quantity;
-doRelay42Track(relay42Category, 'AddProduct', [productData]);
-}
-}
-</script> 
-<link rel="icon" href="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/icons/favicon/favicon.ico" type="image/x-icon"><script type="text/javascript">
-var countryLanguageSettings = {"notificationEnabled":true,"userLanguage":"en","countryCookieEnabled":true,"applicationCountryCode":"AU","redirectUrl":"https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewCountryRedirect-Pagelet?PageletEntryPointID=privacy-policy"};
+<meta name="title" content="Privacy Policy"><meta name="description" content="Privacy Policy"><meta name="keywords" content="Privacy Policy"><title>Privacy Policy</title><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,700" data-font="Roboto"><link rel="stylesheet" href="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/bundles/css/base.min.css?lastModified=1523382747000"><link rel="stylesheet" type="text/css" href="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific-Footlocker_AU/en_AU/css/custom.css"><meta data-type="pagedata" data-key="caching" data-value="true" data-content="boolean"><meta data-type="pagedata" data-key="r42id" data-value="1073-v1"><script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/bundles/js/core.min.js?lastModified=1523382747000#"></script><script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific-Footlocker_AU/en_AU/js/custom.js"></script><style id="at-mbox-default-style">.mboxDefault {visibility:hidden;}</style><style>.at-element-marker {visibility:visible;}</style><link rel="icon" href="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/icons/favicon/favicon.ico" type="image/x-icon">
+<link rel="manifest" href="https://www.footlocker.com.au/en/manifest.json"><script type="text/javascript">
+var countryLanguageSettings = {"notificationEnabled":true,"applicationCountryCode":"AU","redirectUrl":"https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewCountryRedirect-Pagelet?PageletEntryPointID=privacy-policy","userLanguage":"en","countryCookieEnabled":true};
 countryLanguageSettings['userCountryCodeUrl'] = "https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewCountryRedirect-GetUserCountryCode"
 </script></head>
 <body> 
@@ -452,17 +15,18 @@ countryLanguageSettings['userCountryCodeUrl'] = "https://www.footlocker.com.au/I
  
  
   
+ 
  <div data-svg-sprite="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/icons/svg-sprite.svg"></div>
 <div data-scroll-to-target="top"></div>
 <div class="fl-cookie-notice" data-cookie-notice-container="" data-toggle-container="" data-offcanvas-shift="" data-testid="fl-cookie-notice">
 <div class="fl-cookie-notice--container">
 <div class="fl-cookie-notice--container--inner">
 <p class="fl-cookie-notice--message" data-testid="fl-cookie-notice-message">We use cookies to give you the best experience on our website. If you continue without changing your cookie settings, we assume that you consent to our use of cookies on this device.</p>
-<span class="fl-cookie-notice--close" data-cookie-notice-closure="" data-toggle-container-close="" data-testid="fl-cookie-notice-close">
+<button class="fl-cookie-notice--close" data-cookie-notice-closure="" data-toggle-container-close="" data-testid="fl-cookie-notice-close">
 <span class="fl-icon fl-icon__standalone fl-icon__close">
 <span class="fl-icon--shape">x</span>
 </span>
-</span>
+</button>
 </div>
 </div>
 </div> <header class="fl-header fl-header__full" data-sticky-header="default" data-testid="fl-header-full" id="flcomponentheaderfull">
@@ -481,14 +45,14 @@ x
 </span>
 </span>
 </button>
-<a href="https://www.footlocker.com.au/en/homepage" class="fl-header--logo" data-offcanvas-shift-module="" data-testid="fl-header-logo"><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/brand/logo-320.png" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/brand/logo-1440.png" media="(max-width: 1139px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/brand/logo-1440.png" alt="&quot;Brand Logo&quot;"></picture></a><span class="fl-header--mini-cart__loading fl-load-animation" data-lazyloading="" data-lazyloading-content-handler="miniCartLazyLoadingJSONContentHandler" data-request="https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewMiniCart-Lazyload" data-testid="fl-header-mini-cart-loading-container"><div class="fl-header--mini-cart fl-minicart" data-scroll-to-target="minicart" data-testid="fl-header--mini-cart" data-offcanvas-shift-module="">
+<a href="https://www.footlocker.com.au/en/homepage" class="fl-header--logo" data-offcanvas-shift-module="" data-testid="fl-header-logo"><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/brand/logo-320.png" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/brand/logo-1440.png" media="(max-width: 1339px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/images/brand/logo-1440.png" alt="&quot;Brand Logo&quot;"></picture></a><span class="fl-header--mini-cart__loading fl-load-animation" data-lazyloading="" data-lazyloading-content-handler="miniCartLazyLoadingJSONContentHandler" data-request="https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewMiniCart-Lazyload" data-testid="fl-header-mini-cart-loading-container"><div class="fl-header--mini-cart fl-minicart" data-scroll-to-target="minicart" data-testid="fl-header--mini-cart" data-offcanvas-shift-module="">
 <div class="fl-header--mini-cart--trigger" data-ajaxcontent-target="minicart-button" data-ajaxcontent-source="minicart-button" data-ajaxcontent="minicart-button" data-minicart-trigger="" data-toggle-target="minicart" data-toggle-sticky-header="true" data-toggle="" data-toggle-callback-before="toggleTriggerButtonAuto" data-testid="fl-mini-cart-trigger"></div>
 <div class="fl-minicart--outer fl-hide" data-minicart="" data-toggle-container="minicart">
 <div class="fl-minicart--wrapper">
 <div class="fl-minicart--header">
-<div class="fl-minicart--navigation__close">
-<span class="fl-icon fl-icon__standalone fl-icon__close" data-toggle-container-close="" data-toggle-target="minicart" data-toggle-callback-before="toggleTriggerButtonAuto" data-testid="minicart_btn_close"><span class="fl-icon--shape">x</span></span>
-</div><div data-ajaxcontent="minicart-add-message" data-ajaxcontent-source="minicart-add-message"></div><div class="fl-load-animation__no-lazyloading fl-hide" data-minicart-loader="" data-ajaxcontent-loader="minicart-loader"></div><div data-ajaxcontent="minicart-arrow-up" data-ajaxcontent-source="minicart-arrow-up"></div></div>
+<button type="button" class="fl-minicart--navigation__close" data-toggle-target-close="minicart" data-toggle-callback-before="toggleTriggerButtonAuto" data-testid="minicart_btn_close">
+<span class="fl-icon fl-icon__standalone fl-icon__close"><span class="fl-icon--shape">x</span></span>
+</button><div data-ajaxcontent="minicart-add-message" data-ajaxcontent-source="minicart-add-message"></div><div class="fl-load-animation__no-lazyloading fl-hide" data-minicart-loader="" data-ajaxcontent-loader="minicart-loader"></div><div data-ajaxcontent="minicart-arrow-up" data-ajaxcontent-source="minicart-arrow-up"></div></div>
 <div class="fl-minicart--productlist" data-minicart-scrollbox="">
 <div class="fl-minicart--productlist__scrollbox" data-minicart-scrollbox-wrapper="">
 <ul class="fl-minicart--productlist__list" id="data-minicart-scrollbox-container" data-minicart-scrollbox-container="" data-ajaxcontent="minicart-products" data-ajaxcontent-source="minicart-products"></ul>
@@ -589,7 +153,7 @@ fl-navigation__pushdown
 " data-navigation-section="0" data-navigation-auto-height="true"><ul class="" data-navigation-container="click" data-navigation-css-prefix="fl-navigation">
 <li class="fl-navigation--container hidden-md hidden-lg">
 <span class="fl-navigation--title" data-navigation-current="">Main Menu</span>
-</li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="j0CsFf0S1z8AAAFd6rwJw6sb" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/" data-testid="fl_navitem_CsasFf0S10EAAAFd6rwJw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="eZSsFf0UVVAAAAFiJPeCtrNL" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/" data-testid="fl_navitem_PlKsFf0UHvIAAAFiJfeCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Men</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-9">
@@ -598,13 +162,13 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Men</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/" data-testid="fl_navitem_CsasFf0S10EAAAFd6rwJw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/" data-testid="fl_navitem_PlKsFf0UHvIAAAFiJfeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="6FysFf0S2s4AAAFd7bwJw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/" data-testid="fl_navitem_ZkysFf0S2tAAAAFd7bwJw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="xR2sFf0UZrwAAAFiKeCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/" data-testid="fl_navitem_DjCsFf0UvncAAAFiLPeCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Shoes</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -613,19 +177,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Shoes</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/" data-testid="fl_navitem_ZkysFf0S2tAAAAFd7bwJw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/" data-testid="fl_navitem_DjCsFf0UvncAAAFiLPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/running/" data-testid="fl_navitem_FlsFf0SMPMAAAFd77wJw6sb">Running</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/basketball/" data-testid="fl_navitem_l3msFf0STnoAAAFd8bwJw6sb">Basketball</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/court/" data-testid="fl_navitem_u4WsFf0Sfs4AAAFd8rwJw6sb">Court</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/canvasskate/" data-testid="fl_navitem_0VysFf0SmJQAAAFd9LwJw6sb">Skate &amp; Canvas</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/outdoor/" data-testid="fl_navitem_ypasFf0SsP0AAAFd9bwJw6sb">Outdoor</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/?campaign=flap-latest-releases" data-testid="fl_navitem_48msFf0SCOYAAAFd97wJw6sb">Latest Releases</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/" data-testid="fl_navitem_ZkysFf0S2tAAAAFd7bwJw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/running/" data-testid="fl_navitem_e5isFf0UXloAAAFiNPeCtrNL">Running</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/basketball/" data-testid="fl_navitem_O2GsFf0U9PgAAAFiNeCtrNL">Basketball</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/court/" data-testid="fl_navitem_znOsFf0UwvYAAAFiOeCtrNL">Court</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/canvasskate/" data-testid="fl_navitem_zNWsFf0UUAQAAAFiPeCtrNL">Skate &amp; Canvas</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/?campaign=flap-slides" data-testid="fl_navitem_QMasFf0UVXQAAAFiQveCtrNL">Slides</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/?campaign=flap-latest-releases" data-testid="fl_navitem_58sFf0UfTQAAAFiRveCtrNL">Latest Releases</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/" data-testid="fl_navitem_DjCsFf0UvncAAAFiLPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="khmsFf0SqPEAAAFdbwJw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/" data-testid="fl_navitem_6xSsFf0SNkAAAAFdrwJw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="Qz6sFf0UxAAAAFiSeCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/" data-testid="fl_navitem_1QGsFf0UEi0AAAFiTPeCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Clothing</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -634,19 +198,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Clothing</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/" data-testid="fl_navitem_6xSsFf0SNkAAAAFdrwJw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/" data-testid="fl_navitem_1QGsFf0UEi0AAAFiTPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/jackets/" data-testid="fl_navitem_glasFf0S8tEAAAFdLwJw6sb">Jackets</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/hoodies/" data-testid="fl_navitem_LqqsFf0SILIAAAFdrwJw6sb">Hoodies</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/tracktops/" data-testid="fl_navitem_WR6sFf0SOy8AAAFd7wJw6sb">Track Tops</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/tshirt/" data-testid="fl_navitem_kysFf0SfGwAAAFdAL0Jw6sb">T-Shirts</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/pants/" data-testid="fl_navitem_rFqsFf0S0xsAAAFdAr0Jw6sb">Pants</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/shorts/" data-testid="fl_navitem_DC6sFf0SfC0AAAFdA70Jw6sb">Shorts</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/fl_1417/" data-testid="fl_navitem_moasFf0SiBEAAAFdBb0Jw6sb">Basketball </a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/" data-testid="fl_navitem_6xSsFf0SNkAAAAFdrwJw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/jackets/" data-testid="fl_navitem_yOWsFf0ULcAAAFiUeCtrNL">Jackets</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/hoodies/" data-testid="fl_navitem_r7msFf0U0KIAAAFiVveCtrNL">Hoodies</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/tracktops/" data-testid="fl_navitem_UYmsFf0UXckAAAFiWveCtrNL">Track Tops</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/tshirt/" data-testid="fl_navitem_CqisFf0UtOIAAAFiXveCtrNL">T-Shirts</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/pants/" data-testid="fl_navitem_5ZCsFf0Uj54AAAFiYfeCtrNL">Pants</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/shorts/" data-testid="fl_navitem_u9asFf0UmY0AAAFiZfeCtrNL">Shorts</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/jerseysreplicas/" data-testid="fl_navitem_WeusFf0UV7oAAAFiafeCtrNL">Jerseys</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/fl_1417/" data-testid="fl_navitem_p2SsFf0U28MAAAFibPeCtrNL">Basketball </a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/" data-testid="fl_navitem_1QGsFf0UEi0AAAFiTPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="4isFf0SaB0AAAFdB70Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_YDCsFf0SfwIAAAFdCL0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="KtGsFf0UH88AAAFiceCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_qoesFf0Ube4AAAFidPeCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Accessories</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -655,35 +219,35 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Accessories</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_YDCsFf0SfwIAAAFdCL0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_qoesFf0Ube4AAAFidPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/bags/" data-testid="fl_navitem_NNWsFf0S9RAAAAFdCr0Jw6sb">Bags</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/capshats/" data-testid="fl_navitem_LK6sFf0SLioAAAFdDL0Jw6sb">Caps &amp; Hats</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/socks/" data-testid="fl_navitem_SBsFf0SYzIAAAFdDb0Jw6sb">Socks</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/sportequipment/" data-testid="fl_navitem_m2WsFf0SMB4AAAFdDr0Jw6sb">Sports Equipment</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_YDCsFf0SfwIAAAFdCL0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/bags/" data-testid="fl_navitem_leKsFf0U8qwAAAFiefeCtrNL">Bags</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/capshats/" data-testid="fl_navitem_Mo6sFf0URLQAAAFiffeCtrNL">Caps &amp; Hats</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/socks/" data-testid="fl_navitem_BQ2sFf0UavsAAAFigPeCtrNL">Socks</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/sportequipment/" data-testid="fl_navitem_2xisFf0UogAAAFihPeCtrNL">Sports Equipment</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_qoesFf0Ube4AAAFidPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="RIqsFf0S0wQAAAFdEb0Jw6sb" data-navigation-has-sub=""><div class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title=""><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="acKsFf0UlT4AAAFiifeCtrNL" data-navigation-has-sub=""><div class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title=""><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Icons</div><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
 <ul class="row" data-navigation-container="">
 <li class="fl-navigation--container hidden-md hidden-lg">
 <span class="fl-navigation--title" data-navigation-current="">Icons</span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_tuned" data-testid="fl_navitem_bWSsFf0SSWkAAAFdEr0Jw6sb">Nike Tuned</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_huarache" data-testid="fl_navitem_xausFf0S4cAAAFdE70Jw6sb">Nike Huarache</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_nmd" data-testid="fl_navitem_mHesFf0SDIAAAFdFb0Jw6sb">adidas NMD</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_superstar" data-testid="fl_navitem_iM6sFf0SxGAAAAFdFr0Jw6sb">adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_air-max-90" data-testid="fl_navitem_odmsFf0S9pUAAAFdGL0Jw6sb">Nike Air Max</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_air-force" data-testid="fl_navitem_6oGsFf0SsjsAAAFdGb0Jw6sb">Nike Air Force 1</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_tubular" data-testid="fl_navitem_yN2sFf0S6BEAAAFdGr0Jw6sb">adidas Tubular</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_eqt" data-testid="fl_navitem_m1msFf0SmJkAAAFdHL0Jw6sb">adidas EQT</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li></ul>
-</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/" data-testid="fl_navitem_RIqsFf0S0wQAAAFdEb0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_tuned" data-testid="fl_navitem_ngmsFf0U28AAAFijPeCtrNL">Nike Tuned</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_huarache" data-testid="fl_navitem_QXqsFf0U0Y8AAAFikPeCtrNL">Nike Huarache</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_nmd" data-testid="fl_navitem_WCWsFf0UYoAAAFikeCtrNL">adidas NMD</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_superstar" data-testid="fl_navitem_wfOsFf0UdbMAAAFileCtrNL">adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_air-max-90" data-testid="fl_navitem_QUCsFf0UumUAAAFimeCtrNL">Nike Air Max</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/nike_air-force" data-testid="fl_navitem_MNesFf0Ud4YAAAFinveCtrNL">Nike Air Force 1</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_tubular" data-testid="fl_navitem_XnGsFf0Uv4kAAAFiofeCtrNL">adidas Tubular</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/adidas_eqt" data-testid="fl_navitem_fhysFf0UdGwAAAFipfeCtrNL">adidas EQT</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li></ul>
+</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/" data-testid="fl_navitem_acKsFf0UlT4AAAFiifeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
 </div><div class="col-md-3">
-<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavigationMenMarketingCIjanw4"><a href="https://www.footlocker.com.au/en/all/adidas_tubular" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/08%20Aug/tubular_shadow_espot-assets/tubular_shadow_espot_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/08%20Aug/tubular_shadow_espot-assets/tubular_shadow_espot_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/08%20Aug/tubular_shadow_espot-assets/tubular_shadow_espot_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/08%20Aug/tubular_shadow_espot-assets/tubular_shadow_espot_XL.jpg" media="(max-width: 1139px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/08%20Aug/tubular_shadow_espot-assets/tubular_shadow_espot_XL.jpg" alt="Tubular"></picture></a></div></li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="k8SsFf0SgeIAAAFdIL0Jw6sb" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/women/" data-testid="fl_navitem_qCGsFf0SgeQAAAFdIL0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavigationMenMarketingCIjanw4"><a href="https://www.footlocker.com.au/en/men/shoes/running/adidas_x-plr" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_S.jpg.webp" media="(max-width: 319px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_M.jpg.webp" media="(max-width: 767px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_L.jpg.webp" media="(max-width: 1023px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_XL.jpg.webp" media="(max-width: 1339px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_XL.jpg" media="(max-width: 1339px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_XL.jpg.webp" type="image/webp"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_xplr-assets/adidas_xplr_espot_XL.jpg" alt="adidas X_PLR"></picture></a></div></li></ul>
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="gjmsFf0USP8AAAFirfeCtrNL" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/women/" data-testid="fl_navitem_yzCsFf0UKXYAAAFirveCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Women</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-9">
@@ -692,13 +256,13 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Women</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/women/" data-testid="fl_navitem_qCGsFf0SgeQAAAFdIL0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/women/" data-testid="fl_navitem_yzCsFf0UKXYAAAFirveCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="iqsFf0SIvAAAAFdIr0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/" data-testid="fl_navitem_wVisFf0SfNoAAAFdI70Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="f9KsFf0UnS8AAAFiseCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/" data-testid="fl_navitem_bSsFf0UokIAAAFitPeCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Shoes</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -707,19 +271,40 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Shoes</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/" data-testid="fl_navitem_wVisFf0SfNoAAAFdI70Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/" data-testid="fl_navitem_bSsFf0UokIAAAFitPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/running/" data-testid="fl_navitem_vjasFf0S1VcAAAFdJb0Jw6sb">Running</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/training/" data-testid="fl_navitem_16ysFf0SbCcAAAFdJ70Jw6sb">Training</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/casual/" data-testid="fl_navitem_jDqsFf0S9MoAAAFdKL0Jw6sb">Casual</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/court/" data-testid="fl_navitem_kWusFf0SMvAAAAFdKb0Jw6sb">Court</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/?campaign=flap-latest-releases" data-testid="fl_navitem_fK2sFf0SydoAAAFdK70Jw6sb">Latest Releases</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/" data-testid="fl_navitem_wVisFf0SfNoAAAFdI70Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/running/" data-testid="fl_navitem_PxmsFf0UHuUAAAFiufeCtrNL">Running</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/training/" data-testid="fl_navitem_IGSsFf0UHwEAAAFivfeCtrNL">Training</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/casual/" data-testid="fl_navitem_EWWsFf0UDQkAAAFiwPeCtrNL">Casual</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/court/" data-testid="fl_navitem_FnGsFf0UcjsAAAFiweCtrNL">Court</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/flipflopsandsandals/" data-testid="fl_navitem_xnqsFf0UEyMAAAFixeCtrNL">Slides</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/?campaign=flap-latest-releases" data-testid="fl_navitem_IeasFf0UWLAAAAFiyveCtrNL">Latest Releases</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/" data-testid="fl_navitem_bSsFf0UokIAAAFitPeCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="wzusFf0SasAAAFdLb0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_s3usFf0SWpgAAAFdLr0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="6R2sFf0UT0gAAAFizeCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/women/clothing/" data-testid="fl_navitem_RlqsFf0UQdMAAAFi0PeCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>Clothing</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
+<ul class="row" data-navigation-container="">
+<li class="fl-navigation--container hidden-md hidden-lg">
+<span class="fl-navigation--title" data-navigation-current="">Clothing</span>
+</li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
+<span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/women/clothing/" data-testid="fl_navitem_RlqsFf0UQdMAAAFi0PeCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</span>
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/clothing/tshirt/" data-testid="fl_navitem_QiisFf0U1twAAAFi1veCtrNL">T-Shirts</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/clothing/hoodies/" data-testid="fl_navitem_a6SsFf0UJtEAAAFi2feCtrNL">Hoodies</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/clothing/pants/" data-testid="fl_navitem_TX6sFf0Uq1oAAAFi3PeCtrNL">Pants</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/women/clothing/" data-testid="fl_navitem_RlqsFf0UQdMAAAFi0PeCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</li></ul>
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="eTOsFf0UpfIAAAFi4veCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_mfSsFf0UkKoAAAFi4eCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Accessories</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -728,35 +313,35 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Accessories</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_s3usFf0SWpgAAAFdLr0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_mfSsFf0UkKoAAAFi4eCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/bags/" data-testid="fl_navitem_exysFf0StAEAAAFdML0Jw6sb">Bags</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/capshats/" data-testid="fl_navitem_KsusFf0SkYAAAFdMr0Jw6sb">Caps &amp; Hats</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/socks/" data-testid="fl_navitem_pY2sFf0Sa5wAAAFdM70Jw6sb">Socks</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_s3usFf0SWpgAAAFdLr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/bags/" data-testid="fl_navitem_G1isFf0UoKYAAAFi6feCtrNL">Bags</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/capshats/" data-testid="fl_navitem_QxasFf0U6sAAAFi7PeCtrNL">Caps &amp; Hats</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/socks/" data-testid="fl_navitem_pdsFf0UDx0AAAFi8PeCtrNL">Socks</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/" data-testid="fl_navitem_mfSsFf0UkKoAAAFi4eCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="DKasFf0SNoIAAAFdNr0Jw6sb" data-navigation-has-sub=""><div class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title=""><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="x0KsFf0UOCQAAAFi9feCtrNL" data-navigation-has-sub=""><div class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title=""><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Icons</div><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
 <ul class="row" data-navigation-container="">
 <li class="fl-navigation--container hidden-md hidden-lg">
 <span class="fl-navigation--title" data-navigation-current="">Icons</span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/adidas_nmd" data-testid="fl_navitem_N3OsFf0SOrAAAAFdN70Jw6sb">adidas NMD</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/adidas_superstar" data-testid="fl_navitem_pgSsFf0Sa0AAAFdOL0Jw6sb">adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/nike_huarache" data-testid="fl_navitem_rxysFf0S8NsAAAFdOr0Jw6sb">Nike Huarache</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/nike_air-max-thea" data-testid="fl_navitem_NDOsFf0SUzMAAAFdO70Jw6sb">Nike Air Max Thea</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li></ul>
-</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/women/" data-testid="fl_navitem_DKasFf0SNoIAAAFdNr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/adidas_nmd" data-testid="fl_navitem_t1CsFf0UYoAAAAFiPeCtrNL">adidas NMD</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/adidas_superstar" data-testid="fl_navitem_eTasFf0U20AAAFieCtrNL">adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/nike_huarache" data-testid="fl_navitem_PJmsFf0UFA4AAAFiveCtrNL">Nike Huarache</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/nike_air-max-thea" data-testid="fl_navitem_WfasFf0UE0IAAAFiAviCtrNL">Nike Air Max Thea</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li></ul>
+</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/women/" data-testid="fl_navitem_x0KsFf0UOCQAAAFi9feCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
 </div><div class="col-md-3">
-<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavigationWomenMarketingCIjanw4"><a href="https://www.footlocker.com.au/en/women/nike_huarache" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/womens_huarache_espot-assets/womens_huarache_espot_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/womens_huarache_espot-assets/womens_huarache_espot_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/womens_huarache_espot-assets/womens_huarache_espot_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/womens_huarache_espot-assets/womens_huarache_espot_XL.jpg" media="(max-width: 1139px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/womens_huarache_espot-assets/womens_huarache_espot_XL.jpg" alt="TN1"></picture></a></div></li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="BvGsFf0S7ugAAAFdP70Jw6sb" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/" data-testid="fl_navitem_7QisFf0SToIAAAFdQL0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavigationWomenMarketingCIjanw4"><a href="https://www.footlocker.com.au/en/all/adidas_deerupt" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_S.jpg.webp" media="(max-width: 319px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_M.jpg.webp" media="(max-width: 767px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_L.jpg.webp" media="(max-width: 1023px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_XL.jpg.webp" media="(max-width: 1339px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_XL.jpg" media="(max-width: 1339px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_XL.jpg.webp" type="image/webp"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/adidas_womens_deerupt-assets/adidas_womens_deerupt_espot_XL.jpg" alt="Adidas deerupt"></picture></a></div></li></ul>
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="gqsFf0Uy68AAAFiDiCtrNL" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/" data-testid="fl_navitem_kRqsFf0UIOAAAAFiEPiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Kids</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-9">
@@ -765,13 +350,13 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Kids</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/" data-testid="fl_navitem_7QisFf0SToIAAAFdQL0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/" data-testid="fl_navitem_kRqsFf0UIOAAAAFiEPiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="cfasFf0SDPoAAAFdQr0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/" data-testid="fl_navitem_casFf0SDPwAAAFdQr0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="qu6sFf0UT2gAAAFiFviCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/" data-testid="fl_navitem_9bKsFf0UF70AAAFiFiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Up to 4 Years</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -780,19 +365,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Up to 4 Years</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/" data-testid="fl_navitem_casFf0SDPwAAAFdQr0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/" data-testid="fl_navitem_9bKsFf0UF70AAAFiFiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/shoes/" data-testid="fl_navitem_X72sFf0SV54AAAFdRb0Jw6sb">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/clothing/suits/" data-testid="fl_navitem_MpSsFf0SJY4AAAFdRr0Jw6sb">Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/" data-testid="fl_navitem_casFf0SDPwAAAFdQr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/shoes/" data-testid="fl_navitem_4O2sFf0UqjoAAAFiHPiCtrNL">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/clothing/suits/" data-testid="fl_navitem_3cmsFf0UBzkAAAFiIPiCtrNL">All Clothing</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/" data-testid="fl_navitem_9bKsFf0UF70AAAFiFiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="NjCsFf0S1P0AAAFdSL0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/" data-testid="fl_navitem_1SKsFf0SFikAAAFdSb0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="rCGsFf0UXCcAAAFiJPiCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/" data-testid="fl_navitem_AuSsFf0UjzIAAAFiJfiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>4 to 6 years</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -801,19 +386,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">4 to 6 years</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/" data-testid="fl_navitem_1SKsFf0SFikAAAFdSb0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/" data-testid="fl_navitem_AuSsFf0UjzIAAAFiJfiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/shoes/" data-testid="fl_navitem_SvmsFf0SFnIAAAFdS70Jw6sb">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/" data-testid="fl_navitem_1SKsFf0SFikAAAFdSb0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/shoes/" data-testid="fl_navitem_xbSsFf0UW7MAAAFiKiCtrNL">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/clothing/" data-testid="fl_navitem_h96sFf0U3xkAAAFiLviCtrNL">All Clothing</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/clothing/suits/" data-testid="fl_navitem_M3SsFf0U2oEAAAFiMfiCtrNL">Suits</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/clothing/tshirts/" data-testid="fl_navitem_7pisFf0U12EAAAFiNPiCtrNL">T-Shirt</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/" data-testid="fl_navitem_AuSsFf0UjzIAAAFiJfiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="giKsFf0SlOMAAAFdTb0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/" data-testid="fl_navitem_89esFf0Sz4cAAAFdTr0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="0qsFf0UdSQAAAFiOviCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/" data-testid="fl_navitem_kyGsFf0UdScAAAFiOviCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>6+ years</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -822,50 +407,50 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">6+ years</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/" data-testid="fl_navitem_89esFf0Sz4cAAAFdTr0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/" data-testid="fl_navitem_kyGsFf0UdScAAAFiOviCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/shoes/" data-testid="fl_navitem_4wGsFf0SfWAAAAFdUL0Jw6sb">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/" data-testid="fl_navitem_89esFf0Sz4cAAAFdTr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/shoes/" data-testid="fl_navitem_ZMSsFf0Ulb8AAAFiQPiCtrNL">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/clothing/" data-testid="fl_navitem_9u2sFf0Umr0AAAFiQiCtrNL">All Clothing</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/clothing/tshirts/" data-testid="fl_navitem_2VSsFf0UzPwAAAFiRviCtrNL">T-Shirts</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/clothing/tracktops/" data-testid="fl_navitem_YMasFf0UEOgAAAFiSfiCtrNL">Track Tops</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/" data-testid="fl_navitem_kyGsFf0UdScAAAFiOviCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-3" data-navigation-category-id="VkOsFf0StQoAAAFdUr0Jw6sb" data-navigation-has-sub=""><div class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title=""><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-3" data-navigation-category-id="6vsFf0UXFIAAAFiTiCtrNL" data-navigation-has-sub=""><div class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title=""><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Icons</div><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
 <ul class="row" data-navigation-container="">
 <li class="fl-navigation--container hidden-md hidden-lg">
 <span class="fl-navigation--title" data-navigation-current="">Icons</span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/nike_tuned" data-testid="fl_navitem_cPCsFf0S2gEAAAFdU70Jw6sb">Nike Tuned </a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/adidas_superstar" data-testid="fl_navitem_ttusFf0SuEwAAAFdVL0Jw6sb">Adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/nike_air-max-90" data-testid="fl_navitem_U1SsFf0SaXYAAAFdVr0Jw6sb">Nike Air Max</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/nike_free" data-testid="fl_navitem_BfusFf0Skg4AAAFdV70Jw6sb">Nike Free</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li></ul>
-</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/" data-testid="fl_navitem_VkOsFf0StQoAAAFdUr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/nike_tuned" data-testid="fl_navitem_ousFf0UbU0AAAFiUfiCtrNL">Nike Tuned </a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/adidas_superstar" data-testid="fl_navitem_OoSsFf0UDZMAAAFiVfiCtrNL">Adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/nike_air-max-90" data-testid="fl_navitem_1iGsFf0UGKoAAAFiWPiCtrNL">Nike Air Max</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/nike_free" data-testid="fl_navitem_SWsFf0U4eAAAAFiWiCtrNL">Nike Free</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li></ul>
+</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/" data-testid="fl_navitem_6vsFf0UXFIAAAFiTiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
 </div><div class="col-md-3">
-<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavKidsEspot"><a href="https://www.footlocker.com.au/en/all/?campaign=flap-kids-accessories" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/kids_nsw_accessories-assets/kids_nsw_accessories_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/kids_nsw_accessories-assets/kids_nsw_accessories_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/kids_nsw_accessories-assets/kids_nsw_accessories_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/kids_nsw_accessories-assets/kids_nsw_accessories_XL.jpg" media="(max-width: 1139px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2017/07%20July/kids_nsw_accessories-assets/kids_nsw_accessories_XL.jpg"></picture></a></div></li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="OhesFf0SysQAAAFdW70Jw6sb" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_d0qsFf0SysYAAAFdW70Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavKidsEspot"><a href="https://www.footlocker.com.au/en/all/?campaign=flap-kids-accessories" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/01%20Jan/jordan_1_Blk_Red_crib-assets/jordan_1_Blk_Red_crib_espot_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/01%20Jan/jordan_1_Blk_Red_crib-assets/jordan_1_Blk_Red_crib_espot_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/01%20Jan/jordan_1_Blk_Red_crib-assets/jordan_1_Blk_Red_crib_espot_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/01%20Jan/jordan_1_Blk_Red_crib-assets/jordan_1_Blk_Red_crib_espot_XL.jpg" media="(max-width: 1339px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/01%20Jan/jordan_1_Blk_Red_crib-assets/jordan_1_Blk_Red_crib_espot_XL.jpg"></picture></a></div></li></ul>
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="THqsFf0U4b8AAAFiZviCtrNL" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_QVusFf0U4awAAAFiZiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
-</span>Brands</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
+</span>Brands</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-9">
 <ul class="row" data-navigation-container="">
 <li class="fl-navigation--container hidden-md hidden-lg">
 <span class="fl-navigation--title" data-navigation-current="">Brands</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_d0qsFf0SysYAAAFdW70Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_QVusFf0U4awAAAFiZiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="7aGsFf0Sh4QAAAFdXb0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_experience_at_foot_locker" data-testid="fl_navitem_GMesFf0SKSIAAAFdXr0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="x3WsFf0UFDIAAAFiaviCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_experience_test_2016" data-testid="fl_navitem_77qsFf0UYlQAAAFiaiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Nike</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -874,19 +459,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Nike</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_experience_at_foot_locker" data-testid="fl_navitem_GMesFf0SKSIAAAFdXr0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_experience_test_2016" data-testid="fl_navitem_77qsFf0UYlQAAAFiaiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_tuned" data-testid="fl_navitem_4HesFf0SrbwAAAFdYL0Jw6sb">Nike Tuned</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_vapormax" data-testid="fl_navitem_8BasFf0SnD0AAAFdYb0Jw6sb">Nike Air Vapormax</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_air-max" data-testid="fl_navitem_cgSsFf0SxFEAAAFdYr0Jw6sb">Nike Air Max</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_air-force" data-testid="fl_navitem_eGSsFf0Swx8AAAFdY70Jw6sb">Nike Air Force</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_air-max-thea" data-testid="fl_navitem_MlisFf0SSrcAAAFdZb0Jw6sb">Nike Air Max Thea</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_huarache" data-testid="fl_navitem_MIisFf0Sl0YAAAFdZr0Jw6sb">Nike Huarache</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_presto" data-testid="fl_navitem_nuysFf0Sh1QAAAFdaL0Jw6sb">Nike Presto</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/clothing/nike" data-testid="fl_navitem_986sFf0SxBcAAAFdab0Jw6sb">Nike Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_experience_at_foot_locker" data-testid="fl_navitem_GMesFf0SKSIAAAFdXr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_tuned" data-testid="fl_navitem_Ol6sFf0UC8UAAAFibviCtrNL">Nike Tuned</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_vapormax" data-testid="fl_navitem_jasFf0UM8kAAAFicfiCtrNL">Nike Air Vapormax</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_air-max" data-testid="fl_navitem_SiesFf0UosAAAFiciCtrNL">Nike Air Max</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_air-force" data-testid="fl_navitem_uTCsFf0UezcAAAFidviCtrNL">Nike Air Force</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_air-max-thea" data-testid="fl_navitem_UHCsFf0UZoAAAAFieviCtrNL">Nike Air Max Thea</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_huarache" data-testid="fl_navitem_o86sFf0UKUAAAAFiffiCtrNL">Nike Huarache</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/nike_presto" data-testid="fl_navitem_XvOsFf0UYzwAAAFigfiCtrNL">Nike Presto</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/clothing/nike" data-testid="fl_navitem_ISCsFf0USvUAAAFihPiCtrNL">Nike Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/nike_experience_test_2016" data-testid="fl_navitem_77qsFf0UYlQAAAFiaiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="lwusFf0SDSEAAAFda70Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/jordan" data-testid="fl_navitem_dMOsFf0SDSMAAAFda70Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="B3esFf0UhdEAAAFiiPiCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/jordan" data-testid="fl_navitem_ZQesFf0UXiUAAAFiifiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>Jordan</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -895,19 +480,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">Jordan</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/jordan" data-testid="fl_navitem_dMOsFf0SDSMAAAFda70Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/jordan" data-testid="fl_navitem_ZQesFf0UXiUAAAFiifiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_eclipse" data-testid="fl_navitem_qcqsFf0SxAAAAFdbb0Jw6sb">Jordan Eclipse</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_retro" data-testid="fl_navitem_F4ysFf0SekUAAAFdbr0Jw6sb">Jordan Retro</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_trainer" data-testid="fl_navitem_8rGsFf0Sz1YAAAFdcL0Jw6sb">Jordan Trainer</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_horizon" data-testid="fl_navitem_XVsFf0STZgAAAFdcb0Jw6sb">Jordan Horizon</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_b-fly" data-testid="fl_navitem_ikmsFf0S2qAAAAFdc70Jw6sb">Jordan B.Fly</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/clothing/jordan" data-testid="fl_navitem_4fesFf0SL8kAAAFddL0Jw6sb">Jordan Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/jordan" data-testid="fl_navitem_dMOsFf0SDSMAAAFda70Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_eclipse" data-testid="fl_navitem_81sFf0UouUAAAFijPiCtrNL">Jordan Eclipse</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_retro" data-testid="fl_navitem_b32sFf0UHo8AAAFijiCtrNL">Jordan Retro</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_trainer" data-testid="fl_navitem_IvesFf0UgdgAAAFikviCtrNL">Jordan Trainer</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_horizon" data-testid="fl_navitem_XZqsFf0UU0oAAAFilfiCtrNL">Jordan Horizon</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/jordan_b-fly" data-testid="fl_navitem_gesFf0UFUYAAAFimPiCtrNL">Jordan B.Fly</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/clothing/jordan" data-testid="fl_navitem_4qsFf0Ut2AAAAFimiCtrNL">Jordan Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/jordan" data-testid="fl_navitem_ZQesFf0UXiUAAAFiifiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="KEasFf0Sgq4AAAFddr0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/adidas_portal" data-testid="fl_navitem_c4msFf0SgrAAAAFddr0Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="WgOsFf0UpVYAAAFiniCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/adidas_portal" data-testid="fl_navitem_FYusFf0UK6EAAAFioPiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>adidas</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -916,19 +501,19 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">adidas</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/adidas_portal" data-testid="fl_navitem_c4msFf0SgrAAAAFddr0Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/adidas_portal" data-testid="fl_navitem_FYusFf0UK6EAAAFioPiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_pure-boost.ultra-boost?multiple=yes" data-testid="fl_navitem_vISsFf0SpeoAAAFdeL0Jw6sb">adidas Boost</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_eqt" data-testid="fl_navitem_bB6sFf0SAlIAAAFder0Jw6sb">adidas EQT</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_nmd" data-testid="fl_navitem_i6asFf0S8ucAAAFde70Jw6sb">adidas NMD</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_stan-smith" data-testid="fl_navitem_X0KsFf0SqaAAAAFdfL0Jw6sb">adidas Stan Smith</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_superstar" data-testid="fl_navitem_IsWsFf0SM9wAAAFdfr0Jw6sb">adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_tubular" data-testid="fl_navitem_1ousFf0SELkAAAFdf70Jw6sb">adidas Tubular</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/clothing/adidas" data-testid="fl_navitem_HXSsFf0Si5wAAAFdgb0Jw6sb">adidas Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/adidas_portal" data-testid="fl_navitem_c4msFf0SgrAAAAFddr0Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_pure-boost.ultra-boost?multiple=yes" data-testid="fl_navitem_dZGsFf0UxdwAAAFioiCtrNL">adidas Boost</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_eqt" data-testid="fl_navitem_YcsFf0UloAAAFipviCtrNL">adidas EQT</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_nmd" data-testid="fl_navitem_ykisFf0UejMAAAFiqfiCtrNL">adidas NMD</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_stan-smith" data-testid="fl_navitem_xDmsFf0UY7QAAAFirfiCtrNL">adidas Stan Smith</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_superstar" data-testid="fl_navitem_J6sFf0U0jAAAAFisPiCtrNL">adidas Superstar</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/adidas_tubular" data-testid="fl_navitem_IJusFf0USE0AAAFisiCtrNL">adidas Tubular</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/clothing/adidas" data-testid="fl_navitem_cd6sFf0UJXwAAAFitviCtrNL">adidas Apparel</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/adidas_portal" data-testid="fl_navitem_FYusFf0UK6EAAAFioPiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="3iesFf0SAyAAAAFdgr0Jw6sb" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_gIsFf0SnUcAAAFdg70Jw6sb"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="iL6sFf0UNg8AAAFiuviCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_IOisFf0UkqEAAAFivPiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>More Brands</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
@@ -937,26 +522,112 @@ fl-navigation__pushdown
 <span class="fl-navigation--title" data-navigation-current="">More Brands</span>
 </li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
 <span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
-<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_gIsFf0SnUcAAAFdg70Jw6sb">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_IOisFf0UkqEAAAFivPiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </span>
-</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/puma" data-testid="fl_navitem_vYSsFf0SiQAAAFdhb0Jw6sb">Puma</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/asics" data-testid="fl_navitem_DXOsFf0SFlcAAAFdhr0Jw6sb">Asics</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/converse" data-testid="fl_navitem_b2esFf0S5TMAAAFdh70Jw6sb">Converse</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/new-balance" data-testid="fl_navitem_jtOsFf0S0NcAAAFdib0Jw6sb">New Balance</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/lacoste" data-testid="fl_navitem_b6esFf0SfNcAAAFdir0Jw6sb">Lacoste</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/new-era" data-testid="fl_navitem_PYWsFf0SykAAAFdi70Jw6sb">New Era</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_gIsFf0SnUcAAAFdg70Jw6sb">
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/puma" data-testid="fl_navitem_bIOsFf0UzikAAAFivviCtrNL">Puma</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/asics" data-testid="fl_navitem_Y4WsFf0UAgsAAAFiwviCtrNL">Asics</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/converse" data-testid="fl_navitem_lLesFf0UbsUAAAFixfiCtrNL">Converse</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/new-balance" data-testid="fl_navitem_VGGsFf0UWBoAAAFiyfiCtrNL">New Balance</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/lacoste" data-testid="fl_navitem_ISusFf0Uy3sAAAFizPiCtrNL">Lacoste</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/new-era" data-testid="fl_navitem_qaesFf0UQwAAAFiziCtrNL">New Era</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_IOisFf0UkqEAAAFivPiCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_3iesFf0SAyAAAAFdgr0Jw6sb">
+</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/content/brands_category_page_pv" data-testid="fl_navitem_iL6sFf0UNg8AAAFiuviCtrNL">
 <span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
 <svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
 <span class="fl-icon--fallback"></span>
 </span>See all</a>
 </li></ul>
-</div></div></li><li class="fl-navigation--container"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/?sale=banner-only" data-testid="fl_navitem_ZS2sFf0Sp9oAAAFdjr0Jw6sb">Exclusive items</a></li><li class="fl-navigation--container"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/content/releaseCalendarTemp" data-testid="fl_navitem_8qasFf0S4YkAAAFdj70Jw6sb">Release Calendar</a></li><li class="fl-navigation--container"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_KyysFf0S0KQAAAFdkL0Jw6sb">Sale</a></li></ul><div class="fl-navigation__meta">
-<ul class="fl-navigation__meta__account" data-navigation-container=""><li class="fl-navigation--container"><a class="fl-navigation--title" href="#" data-ajaxcontent-event="click" data-ajaxcontent-url="https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewUserAccount-ShowLoginJSON?Ajax=1" data-ajaxcontent-target="fl-login-pw-container" data-ajaxcontent-content-handler="ajaxJSONContentHandler" data-ajaxcontent-success-handler="passwordRulesValidatorInit" data-testid="fl-navigation-link-login-register" data-toggle="" data-toggle-target="fl-containerLoginRegister" data-toggle-sticky-header="true" data-toggle-callback-before="closeNavigationsVar2">Login / Register</a></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="1rasFf0SYg4AAAFdkb0Jw6sb" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title" href="#" data-ajaxcontent-event="click" data-ajaxcontent-url="https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewUserAccount-ShowLoginJSON?Ajax=1" data-ajaxcontent-target="fl-login-pw-container" data-ajaxcontent-content-handler="ajaxJSONContentHandler" data-testid="fl-header-your-profile-link" data-toggle="" data-toggle-target="fl-containerLoginRegister" data-toggle-sticky-header="true" data-toggle-callback-before="closeNavigationsVar2">Your Profile</a></li></ul>
+</div><div class="col-md-3">
+<ul class="fl-navigation--marketing"><li> <div class="fl-comp-image" data-test-id="fl-comp-image" id="FLHeaderNavigationBrandsMarketing"><a href="https://www.footlocker.com.au/en/all/reebok" class="fl-comp-image--link" target="_self" title="" data-test-id="fl-comp-image--link" data-link-scope=""><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_S.jpg.webp" media="(max-width: 319px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_S.jpg" media="(max-width: 319px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_M.jpg.webp" media="(max-width: 767px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_M.jpg" media="(max-width: 767px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_L.jpg.webp" media="(max-width: 1023px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_L.jpg" media="(max-width: 1023px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_XL.jpg.webp" media="(max-width: 1339px)" type="image/webp"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_XL.jpg" media="(max-width: 1339px)"><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/webp/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_XL.jpg.webp" type="image/webp"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/01_Foot_Locker_AUS/Homepage/Espots/2018/04%20Apr/womens_reebok-assets/womens_reebok_espot_XL.jpg" alt="reebok"></picture></a></div></li></ul>
+</div></div></li><li class="fl-navigation--container"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/?sale=banner-only" data-testid="fl_navitem_ctisFf0U3vcAAAFi2fiCtrNL">Exclusive items</a></li><li class="fl-navigation--container"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/content/releaseCalendarTemp" data-testid="fl_navitem_Lj2sFf0UFJ8AAAFi3PiCtrNL">Release Calendar</a></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="ImsFf0U8PsAAAFi3viCtrNL" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/all/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_CQ6sFf0U8P0AAAFi3viCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>Sale</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
+<ul class="row" data-navigation-container="">
+<li class="fl-navigation--container hidden-md hidden-lg">
+<span class="fl-navigation--title" data-navigation-current="">Sale</span>
+</li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
+<span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/all/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_CQ6sFf0U8P0AAAFi3viCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</span>
+</li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="Y6OsFf0UcnIAAAFi4iCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/men/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_IEasFf0UoP8AAAFi5PiCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>Mens Sale</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
+<ul class="row" data-navigation-container="">
+<li class="fl-navigation--container hidden-md hidden-lg">
+<span class="fl-navigation--title" data-navigation-current="">Mens Sale</span>
+</li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
+<span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/men/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_IEasFf0UoP8AAAFi5PiCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</span>
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/shoes/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_zmmsFf0UqxUAAAFi6viCtrNL">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/men/clothing/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_OsFf0UJBoAAAFi7fiCtrNL">Clothes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_0KmsFf0UfYAAAFi8fiCtrNL">Accessories</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/men/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_IEasFf0UoP8AAAFi5PiCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</li></ul>
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="FHWsFf0UNH4AAAFi9viCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/women/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_LQSsFf0UH1UAAAFi9iCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>Womens Sale</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
+<ul class="row" data-navigation-container="">
+<li class="fl-navigation--container hidden-md hidden-lg">
+<span class="fl-navigation--title" data-navigation-current="">Womens Sale</span>
+</li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
+<span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/women/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_LQSsFf0UH1UAAAFi9iCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</span>
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/women/shoes/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_H7GsFf0UqHsAAAFiPiCtrNL">Shoes</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/all/accessories/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_oNsFf0U53sAAAFiiCtrNL">Accessories</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/women/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_LQSsFf0UH1UAAAFi9iCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</li></ul>
+</div></div></li><li class="fl-navigation--container fl-navigation--container__has-sub  col-md-2" data-navigation-category-id="5jysFf0UVykAAAFiBfmCtrNL" data-navigation-has-sub=""><a class="fl-navigation--title fl-navigation--title-category fl-navigation--title-category__with-sub" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_nw6sFf0UVysAAAFiBfmCtrNL"><span class="fl-icon fl-icon__standalone fl-icon__arrow visible-xs visible-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>Kids Sale</a><div class="fl-navigation--dropdown fl-navigation--dropdown__with-sub" data-navigation-big-row=""><div class="col-md-12">
+<ul class="row" data-navigation-container="">
+<li class="fl-navigation--container hidden-md hidden-lg">
+<span class="fl-navigation--title" data-navigation-current="">Kids Sale</span>
+</li><li class="fl-navigation--container hidden-xs hidden-sm col-md-12">
+<span class="fl-navigation--title fl-navigation--title-all__big" data-navigation-current="">
+<a class="fl-navigation--title" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_nw6sFf0UVysAAAFiBfmCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use></svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</span>
+</li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/infants/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_FoGsFf0UNMMAAAFiCmCtrNL">Up to 4 years</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/preschool/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_0ymsFf0UnywAAAFiDvmCtrNL">4 to 6 years</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container  col-xs-12"><a class="fl-navigation--title fl-navigation--title-category " data-navigation-title="" href="https://www.footlocker.com.au/en/kids/gradeschool/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_x0asFf0UOwMAAAFiEvmCtrNL">6+ years</a></li><li data-navigation-column-break="" class="clearfix visible-md visible-lg"></li><li class="fl-navigation--container col-xs-12"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/kids/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_nw6sFf0UVysAAAFiBfmCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</li></ul>
+</div></div></li><li class="fl-navigation--container col-md-12 visible-xs-block visible-sm-block"><a class="fl-navigation--title fl-navigation--title-all" data-navigation-title="" href="https://www.footlocker.com.au/en/all/?sale=sale&amp;sortingattribute=Scoring-desc" data-testid="fl_navitem_5jysFf0UVykAAAFiBfmCtrNL">
+<span class="fl-icon fl-icon__standalone fl-icon__arrow hidden-xs hidden-sm">
+<svg class="fl-icon--shape"><use xlink:href="#fl-shape-arrow"></use>s</svg>
+<span class="fl-icon--fallback"></span>
+</span>See all</a>
+</li></ul>
+</div></div></li></ul><div class="fl-navigation__meta">
+<ul class="fl-navigation__meta__account" data-navigation-container=""><li class="fl-navigation--container"><a class="fl-navigation--title" href="#" data-ajaxcontent-event="click" data-ajaxcontent-url="https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewUserAccount-ShowLoginJSON?Ajax=1" data-ajaxcontent-target="fl-login-pw-container" data-ajaxcontent-content-handler="ajaxJSONContentHandler" data-ajaxcontent-success-handler="passwordRulesValidatorInit" data-testid="fl-navigation-link-login-register" data-toggle="" data-toggle-target="fl-containerLoginRegister" data-toggle-sticky-header="true" data-toggle-callback-before="closeNavigationsVar2">Login / Register</a></li><li class="fl-navigation--container fl-navigation--container__has-sub" data-navigation-category-id="moOsFf0UTsIAAAFiGfmCtrNL" data-navigation-has-sub="" data-navigation-level="1"><a class="fl-navigation--title" href="#" data-ajaxcontent-event="click" data-ajaxcontent-url="https://www.footlocker.com.au/INTERSHOP/web/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/en_AU/-/AUD/ViewUserAccount-ShowLoginJSON?Ajax=1" data-ajaxcontent-target="fl-login-pw-container" data-ajaxcontent-content-handler="ajaxJSONContentHandler" data-testid="fl-header-your-profile-link" data-toggle="" data-toggle-target="fl-containerLoginRegister" data-toggle-sticky-header="true" data-toggle-callback-before="closeNavigationsVar2">Your Profile</a></li></ul>
 <ul class="fl-navigation__meta__content" data-navigation-container=""><li class="fl-navigation--container">  
 <a class="fl-comp-link fl-comp-link__basic__dark" href="https://www.footlocker.com.au/en/store-locator" data-testid="fl-comp-link__basic__dark" data-link-scope="" id="flcomponentheadermetalinkstorelocator" target="_self">Store Locator</a></li><li class="fl-navigation--container">  
 <a class="fl-comp-link fl-comp-link__basic__dark" href="https://www.footlocker.com.au/en/content/customer_care_overview" data-testid="fl-comp-link__basic__dark" data-link-scope="" id="flcomponentheadermetalinkcustomerservice" target="_self">Customer Service</a></li></ul>
@@ -972,6 +643,7 @@ fl-navigation__pushdown
  
  
   
+ 
  </div>
 </header>
 <div class="fl-header__is-sticky--placeholder" data-sticky-header-placeholder=""></div>
@@ -1177,8 +849,9 @@ You <strong>acknowledge</strong> and agree that Foot Locker is not responsible f
  
  
   
+ 
   <footer class="fl-footer fl-frame-container" data-offcanvas-shift="" id="flcomponentfooterfull">
-<div class="container-fluid"> 
+<div class="container-fluid">
 <div class="fl-footer--section fl-footer--section__primary"> <div class="row" id="flcomponentfooterfullrow1"> <div class="fl-comp-container col-xs-12 col-sm-6 col-md-4 col-lg-4" id="flcomponentfooterfullrow1col1">
 <div class="fl-comp-container--inner">
 <div class="fl-comp-container--content"> <div class="fl-comp-html" id="flfooterfullrow1col1html1"><h4><strong>Customer Service  1800 953 330</strong></h4>
@@ -1244,7 +917,7 @@ You <strong>acknowledge</strong> and agree that Foot Locker is not responsible f
 </div> <div class="fl-comp-container col-xs-12 col-md-3 col-lg-3" id="flcomponentfooterfullrow2col5">
 <div class="fl-comp-container--inner">
 <div class="fl-comp-container--content">  
-<div class="fl-comp-list fl-comp-list__payment-methods fl-comp-list__inline" data-testid="fl-comp-list" id="cmp20150507152836"><a class="fl-comp-list--headline" href="https://www.footlocker.com.au/en/content/customer_care_payments" data-testid="fl-comp-list--headline-link">PAYMENT METHODS</a><ul class="fl-comp-list--list" data-testid="fl-comp-list--list"><li class="fl-comp-list--list--item " data-testid="fl-comp-list--list--item"> <div class="fl-comp-image" data-test-id="fl-comp-image" id="cartpagepaymentmethodsvisa"><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/visa.png" media="(max-width: 1139px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/visa.png"></picture></div></li><li class="fl-comp-list--list--item " data-testid="fl-comp-list--list--item"> <div class="fl-comp-image" data-test-id="fl-comp-image" id="cartpagepaymentmethodsmastercard"><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/mastercardNew.png" media="(max-width: 1139px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/mastercardNew.png"></picture></div></li></ul></div></div>
+<div class="fl-comp-list fl-comp-list__payment-methods fl-comp-list__inline" data-testid="fl-comp-list" id="cmp20150507152836"><a class="fl-comp-list--headline" href="https://www.footlocker.com.au/en/content/customer_care_payments" data-testid="fl-comp-list--headline-link">PAYMENT METHODS</a><ul class="fl-comp-list--list" data-testid="fl-comp-list--list"><li class="fl-comp-list--list--item " data-testid="fl-comp-list--list--item"> <div class="fl-comp-image" data-test-id="fl-comp-image" id="cartpagepaymentmethodsvisa"><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/visa.png" media="(max-width: 1339px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/visa.png"></picture></div></li><li class="fl-comp-list--list--item " data-testid="fl-comp-list--list--item"> <div class="fl-comp-image" data-test-id="fl-comp-image" id="cartpagepaymentmethodsmastercard"><picture class="fl-picture"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/mastercardNew.png" media="(max-width: 1339px)"><!--[if IE 9]></video><![endif]--><img class="fl-picture--img" srcset="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/FootlockerAustraliaPacific/en_AU/GENERAL_SITE_Elements/Miscellaneous/payment%20icons/padded/mastercardNew.png"></picture></div></li></ul></div></div>
 </div>
 </div></div></div>
 <div class="row">
@@ -1252,20 +925,19 @@ You <strong>acknowledge</strong> and agree that Foot Locker is not responsible f
 <div class="fl-footnotes">
 <small class="fl-footnotes--item">* Required Fields</small>
 <small class="fl-footnotes--item">** Original Price</small>
-<small class="fl-footnotes--item"></small>
 </div>
 </div>
 </div>
 <div class="row">
 <div class="col-xs-12">
-<div class="fl-footer--section fl-footer--section__secondary"><small class="fl-copyright">© 2017 Foot Locker. All rights reserved.</small>
+<div class="fl-footer--section fl-footer--section__secondary"><small class="fl-copyright">© 2018 Foot Locker. All rights reserved.</small>
 </div>
 </div>
 </div>
 </div>
 </footer> 
  
-<script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/bundles/js/footlocker.min.js?lastModified=1501757578000#"></script><script type="text/javascript">
+<script src="/INTERSHOP/static/WFS/FootlockerAustraliaPacific-Footlocker_AU-Site/-/-/en_AU/bundles/js/base.min.js?lastModified=1523382749000"></script><script type="text/javascript">
 // tracking function exists
 if (typeof window['_st'] === "function")
 {
