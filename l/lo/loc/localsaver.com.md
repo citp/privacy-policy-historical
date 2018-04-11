@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210024948id_/http%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsaver.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411022102id_/https%3A//www.localsaver.com%3Fp%3DLocalSaverAbout%26content%3Dprivacypolicy%26fullpage%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last updated: September 18, 2013
 
-This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of the LocalSaver™ website located at <http://www.localsaver.com/> (the "Site") operated by Sinclair Digital Agency, Inc. ("Sinclair", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
+This privacy policy ("Policy") explains how personal information is collected, used, and disclosed with respect to your use of the LocalSaver™ website located at <https://www.localsaver.com/> (the "Site") operated by Sinclair Digital Agency, Inc. ("Sinclair", "we" or "us") so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices. We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
 ### What is personal information
 
