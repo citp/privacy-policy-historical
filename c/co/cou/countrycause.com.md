@@ -1,45 +1,93 @@
-> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023045019id_/http%3A//countrycause.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycause.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411170037id_/http%3A//countrycause.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# CountryCause - Online Fundraising Platform | More Than Just Crowdfunding
 
-**Your Privacy Rights**
+We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and User information privacy. Please read the following statement to learn about our information gathering and dissemination practices. The following Privacy Policy should be read along with the CountryCause – Terms of Use for a full understanding of CountryCause's practices as well as the Users responsibilities when interacting with the site [www.countrycause.com](http://countrycause.com/)
 
-**Corporate**  
-This Privacy Policy applies to CountryCause hosted Web sites or Web sites hosted by third parties on behalf of CountryCause, which are branded to appear like CountryCause. Please visit [CountryCause.com](http://countrycause.com/index.html) for more information.
+#### Note:
 
-**1.0 Personal Information**  
-As a leader in online fundraising technology, CountryCause understands your desire to protect personal information. We intend to inform you of how your personal information will be gathered, tracked or used, and to give you choices.
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-**What Information We Gather and Track**  
-We request personal information when you correspond with us or engage in certain other activities on our Web site. For example, if you request technical support online, we will ask you for information necessary to complete the transaction, such as your confirmation number and information about your computer hardware, software and the nature of the problem you are experiencing. You make the decision whether to proceed with any activity that requests personal information. If you do not wish to provide the requested information, however, you may not be able to complete the transaction.
+By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy and the Terms of Use of the Webiste. If you do not agree please do not use or access the Website.
 
-**How We Use the Information We Gather and Track**  
-We use personally identifiable information in the following ways:  
-1\. To provide you with information about product upgrades and renewal information every 12 months.  
-2\. To assist us in creating better products and services to meet your needs.
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
-**With Whom We May Share Your Information**  
-CountryCause may retain the services of outside contractors to provide services for us. They may be used to provide technical support or handle order processing. We require that these contractors keep the personal information of customers secure and confidential. We also require that these contractors use personal information only on behalf of CountryCause. Please be advised that in certain instances, it may be necessary for CountryCause to disclose your personal information to government officials or otherwise as required by our legal obligations.
+#### 1\. Collection of Personally Identifiable Information and other Information
 
-**Refer-A-Friend**  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. CountryCause does not store your friend's name and email address after sending the one-time email.
+When you use our Website, we collect and store your personal information, which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
 
-**1.1 Security and Quality of Personal Information**  
-We have taken security measures, consistent with international information practices, to protect your personal information. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration or destruction. Credit card information is transmitted using secure socket layer (SSL) encryption. We make a sincere effort to respond to your requests to update or correct your personal information. If you believe that CountryCause does not have your current personal information, you can update it at www.CountryCause.com.
+In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, either by signing up through our portal or signing in through an associate API such as Google or Facebook, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
 
-**1.2 Links to Business Partner**  
-At the CountryCause Web site, there are a number of links to companies with whom we have a relationship. CountryCause is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.  
-Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of CodeFuel at http://www.codefuel.com/legal/end_user_privacy_policy and Bing at http://go.microsoft.com/fwlink/?LinkId=521839, both as updated from time to time and at any successor locations.
+We use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie".
 
-**1.3 Other Privacy Considerations**  
-Please remember that information you submit in a discussion group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
+We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits. At this time, all features of the Website will work even if you disable cookies. However, in the future and in the event that we add certain new or improvised features and services to the Website, the Website or some parts of it may not be accessible if cookies are disabled. You may also be required to re-enter your password more frequently during a session.
 
-**1.4 Policy Changes**  
-In the event that there is a major change to CountryCause's privacy practices, a prominent notice will be posted on our Web site. If the change involves the use of your personally identifiable information, the notice will contain instructions on how you can opt-out of such use.
+Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
 
-**1.5 CountryCause Contact Information**  
-CountryCause has designated a Privacy Officer who is accountable for CountryCause's compliance with the privacy practices described in this policy. If you have any questions or comments concerning this policy, or if you would like to change your communication preferences, update or review the personal information we have about you, or withdraw your consent for the collection, use or disclosure of your personal information, please contact us using one of the options below:
+If you choose to donate or contribute on or through the Website, we collect information about your donations patterns and generally your usage behavior.
 
-[CountryCause.com](http://countrycause.com/index.html)
+If you transact with us (through making donations / contributions), we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.
 
-Email: countrycause@hotmail.com
+If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide User support and troubleshoot problems as permitted by law.
+
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
+
+We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up an account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as making a donation / contribution) do require registration. We do use your contact information to send you information such as receipts, certificates, upcoming events, newsletters, etc. We also provide certain data to the Campaigner to interact with you and send you information of the type aforementioned as well as to complete certain transactions and fulfill commitments such as rewards, updates and the like.
+
+#### 2\. Use of Demographic / Profile Data / Your Information
+
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money either by us or through an authorized payment gateway facility; measure User interests in Fundraisers hosted on our site, inform you about updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+
+In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our Website.
+
+We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
+
+#### 3\. Sharing of personal information
+
+The following is information that we will not share with any third parties or disclose to any person other than as required by law; Sensitive Personal Data or Information of any person being the password, financial information such as Bank account or credit card or debit card or other payment instrument details, sexual orientation or any other sensitive personal information not essential for the continued use of the Website.
+
+We may share personal information with our other corporate and /or associate entities and affiliates to help detect and prevent identity theft, fraud and other potentially illegal acts and cyber security incidents; correlate related or multiple accounts to prevent abuse of our services; and to facilitate joint or co-branded services that you request where such services are provided by more than one associate entity. Those entities and affiliates may not market to you as a result of such sharing unless you explicitly opt-in.
+
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to summons, courtorders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith and belief that such disclosure is reasonably necessary to: enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+
+We and our affiliates will share, part with and allow any other business entity to use the personal information provided by the User to CountryCause, in the event we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+
+#### 4\. Links to Other Sites
+
+Our Website links to other websites that may collect personally identifiable information about you. CountryCause is not responsible for the privacy practices or the content of those linked websites.
+
+#### 5\. Security Precautions / Security Breach
+
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access. Our web hosts, transaction affiliates etc, all use industry grade and standardized methods to protect your information from any misuse.
+
+If any User has sufficient reason to believe their Data as regarded as that which we do not share with third parties, has been compromised or there has been a breach of security due to a cyber security incident, you may write to us immediately at the contact details mentioned below so that we may take suitable measures to either rectify such a breach and inform the concerned authorities of a cyber security incident.
+
+To report an abuse on the Website, not being a cyber security incident, a User may click on the Report Abuse tab found at the bottom of the page and provide details of the abuse. Upon receiving such information CountryCause will examine the abuse and take suitable and necessary steps to remedy it.
+
+#### 6\. Review of Information / Account Deactivation / Removal of Information
+
+If at any time a User wishes to review the information provided to CountryCause at the time of registering with CountryCause or at any time thereafter, you may do so by signing into your account and amending the same.
+
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our Campaigner, and from us in general, after setting up an account. All Users are also given the option of cancelling their User accounts and bringing to our attention their desire to discontinue the use of our services.
+
+If you want to deactivate your account or remove your contact information from all countrycause.com's lists and newsletters, please write to us at [info@countrycause.com](mailto:info@countrycause.com)
+
+#### 7\. Advertisements on countrycause.com
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, emailaddress, or telephone number and generally other information which may identify you personally) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+#### 8\. Web Search
+
+Some of the web search services provided herein are provided by providers of third party web search services. For information on the web search services data collection, please visit the end user privacy statements of our 3rd party web search services providers by clicking here and Bing at http://go.microsoft.com/fwlink/?LinkId=521839, both as updated from time to time and at any successor locations.
+
+#### 9\. Your Consent
+
+By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
+
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+The donors/contributors hereby permit CountryCause to share their personal information such as name, email address, contact information to the respective Campaigner and beneficiaries of the donations made by the donors via [countrycause.com](http://countrycause.com/)
+
+#### 10\. Retention of Information
+
+Information provided by you to CountryCause is processed, stored and retained through our servers and web hosts being Amazon Web Services. Our web hosts and agency managing your information are compliant with **IS/ISO/IEC27001** or an equivalent in standards of Security Techniques and Information Security Management System Requirements.
