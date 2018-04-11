@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colts.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208143834id_/http%3A//www.colts.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colts.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411113127id_/http%3A//www.colts.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Colts.com | Privacy Policy
 
@@ -6,11 +6,11 @@
 
 ##### Indianapolis Colts Website Privacy Policy
 
-**Last Updated on 12/04/2017**
+**Last Updated on 3/14/2018**
 
 Indianapolis Colts Website Privacy Policy
 
-**Last Updated on 8/15/2017**
+**Last Updated on 3/14/2018**
 
 **This Website Privacy Policy (“Privacy Policy”) applies to the Indianapolis Colts, Inc.’s websites,**[www.colts.com](http://www.colts.com/), [www.forums.colts.com](http://www.forums.colts.com/) and [www.coltsroundup.com](http://www.coltsroundup.com/) **(collectively, “Websites”), and the mobile applications that link to or post this Privacy Policy (collectively, “Services”).   The purpose of this Privacy Policy is to disclose to you what information the Colts may collect, how the Colts may collect it, with whom the Colts may share it, and certain other matters related to such information, including the choices you have regarding the Colts’ collection of information and the Colts’ use and disclosure to other parties of information the Colts may have collected from you.  Please note that this Privacy Policy does not apply to any information that is collected or obtained through sites or services that do not link to this Privacy Policy (including the Team Pro Shop) or information collected by the National Football League (“NFL”) or the other NFL Member Clubs.** 
 
@@ -60,9 +60,9 @@ The Colts collect your location-based information for the purpose of identifying
 
 **Mobile Analytics:  **The Colts use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within mobile applications.
 
-**Email Communications:**  When you open emails from the Colts, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
+**Email Communications:** When you open emails from the Colts, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you, what emails you send us, and what emails you may be receiving from our subsidiaries and affiliates, together with personal information contained in the emails. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
-**Information from Other Sources:**  The Colts may receive information about you from other sources and add it to the personal information we have collected. For example, we receive magazine subscription lists from the NFL. Data may also be collected from tools such as Formstack, ExactTarget, or social media platforms.
+**Information from Other Sources:** The Colts may receive information about you from other sources and add it to the personal information we have collected. For example, we receive magazine subscription lists from the NFL. Data may also be collected from tools such as Formstack, ExactTarget, DonationXchange, or social media platforms.
 
 2\. How Information May Be Collected
 
@@ -136,7 +136,7 @@ In certain situations, the Colts may be required to disclose personal informatio
 
 We may also disclose your personal information, as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-**Agents:**  We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes (like sending you marketing offers about their products).  Those businesses include, but are not limited to: eSports Partners, [www.indianapoliscoltsproshop.com](http://www.indianapoliscoltsproshop.com/), MBNA America Bank NA., [www.nflextrapoints.com](http://www.nflextrapoints.com/), [www.applyonlinenow.com](http://www.applyonlinenow.com/), and others. You are submitting your personal information directly to some of these agents even though the pages have the look and the feel of the Colts’ Websites, and their privacy policy may apply. For example, embedded forms for occasional sponsored content/promotions, proshop pages, nflextrapoints pages, all connect directly with our agents.  In addition, several NFL services, including Fantasy, Game Pass, and rewind, are handled directly by the NFL and framed into our Websites.
+**Agents:**  We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes (like sending you marketing offers about their products).  Those businesses include, but are not limited to: eSports Partners, [www.indianapoliscoltsproshop.com](http://www.indianapoliscoltsproshop.com/), MBNA America Bank NA., [www.nflextrapoints.com](http://www.nflextrapoints.com/), [www.applyonlinenow.com](http://www.applyonlinenow.com/), DonationXchange, and others. You are submitting your personal information directly to some of these agents even though the pages have the look and the feel of the Colts’ Websites, and their privacy policy may apply. For example, embedded forms for occasional sponsored content/promotions, proshop pages, nflextrapoints pages, all connect directly with our agents.  In addition, several NFL services, including Fantasy, Game Pass, and rewind, are handled directly by the NFL and framed into our Websites.
 
 **Aggregate Information:**  We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information
 
