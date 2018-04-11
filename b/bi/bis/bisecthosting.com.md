@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bisecthosting.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405021503id_/https%3A//www.bisecthosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bisecthosting.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411143217id_/https%3A//www.bisecthosting.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BisectHosting - Quality Minecraft Server Hosting
 
@@ -134,8 +134,6 @@
     If there are any questions regarding this privacy policy you may contact us using the information below.
     
     www.bisecthosting.com
-    Cleveland
-    Ohio
     P.O. Box 24523
     Cleveland
     44124
