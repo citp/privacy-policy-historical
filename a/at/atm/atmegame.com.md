@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the atmegame.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201113142id_/http%3A//www.atmegame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atmegame.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411161604id_/http%3A//www.atmegame.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Polcity - Atmegame.com
+
+  * * * *
+
+
+
 
 ## PRIVACY POLICY
 
