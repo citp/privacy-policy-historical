@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfweek.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207151929id_/http%3A//golfweek.com/privacy-notice-your-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfweek.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412092105id_/http%3A//golfweek.com/privacy-notice-your-california-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Notice / Your California Privacy Rights | Golfweek
 
