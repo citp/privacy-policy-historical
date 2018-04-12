@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harveynorman.co.nz privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207192917id_/http%3A//www.harveynorman.co.nz/corporate-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.co.nz privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412162801id_/http%3A//www.harveynorman.co.nz/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
 # Harvey Norman Website Privacy Policy | Harvey Norman New Zealand
 
