@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212173818id_/http%3A//www.myfax.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfax.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412233826id_/http%3A//www.myfax.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # MyFax - Privacy Policy
 
