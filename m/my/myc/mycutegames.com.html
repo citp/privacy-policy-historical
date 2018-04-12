@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycutegames.com privacy policy that was archived on 2017-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171227104008id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycutegames.com privacy policy that was archived on 2018-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180412194312id_/http%3A//mycutegames.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -16,7 +16,7 @@
 		 <title>PrivacyPolicy - My Cute Games</title>
 		
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="http://mycutegames.com/templates/css/bootstrap/css/bootstrap.css">
+		<link rel="stylesheet" href="http://mycutegames.com/templates/css/bootstrap/css/bootstrap.min.css?1">
 
 		<!-- Optional theme -->
 		<link rel="stylesheet" href="http://mycutegames.com/templates/css/bootstrap/css/bootstrap-theme.min.css">
@@ -25,7 +25,7 @@
 		
 		<link rel="stylesheet" href="http://mycutegames.com/templates/js/jquery-ui-1.11.2/jquery-ui.css">
 		
-		<link href="http://mycutegames.com/templates/css/style_new.css" rel="stylesheet">
+		<link href="http://mycutegames.com/templates/css/style_new.css?13" rel="stylesheet">
 		
 		<!-- Latest compiled and minified JavaScript -->
 		
@@ -36,7 +36,7 @@
 		<script type="text/javascript" src="http://mycutegames.com/templates/js/jquery-ui-1.11.2/jquery-ui.min.js"></script>
 		<script src="http://mycutegames.com/templates/js/jquery.mCustomScrollbar.concat.min.js"></script>
 		<script src="http://mycutegames.com/templates/css/bootstrap/js/bootstrap.min.js"></script>
-		
+		<script src="http://mycutegames.com/templates/js/ouibounce.min.js"></script>
 		<script src="http://mycutegames.com/templates/js/owl-carousel/owl.carousel.js"></script>
         <script src="http://mycutegames.com/templates/js/scripts.js"></script>
 		<script src="http://mycutegames.com/templates/js/ufo.js"></script>
@@ -65,7 +65,7 @@
   })();
 
 </script>
-	</head>
+	<script integrity="sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=" crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js"></script></head>
 	<body class="girls-page" alpha2="US">
 		<div class="mcg">
 			<div class="container ">
@@ -233,5 +233,106 @@
 	<span><a href="/submit/">Submit game</a> | <a href="/freegames/">Free games</a> | <a href="/privacy.html">PrivacyPolicy</a> | <a href="/contacts/">Contacts</a> | <a href="/sitemap/">Sitemap</a></span>
 </footer>			</div>
 		</div>
+		<div id="adblock_popup" class="adblock_popup__wrapper">
+	<div class="adblock_popup">
+		<div class="adblock_popup__close"></div>
+		<div class="adblock_popup__text">
+						<p>Please switch off</p>
+			<p class="adblock_popup__big_text">Ad Block</p>
+			<p>to play our games</p>
+					</div>
+	</div>
+</div>
+
+
+	<script>
+        (function () {
+            // Function called if AdBlock is not detected
+            function adBlockNotDetected() {
+            }
+            // Function called if AdBlock is detected
+            function adBlockDetected() {
+                /*setTimeout(function(){
+                    $("#adblock_popup").addClass('in');
+                }, 500);*/
+            }
+            // We look at whether FuckAdBlock already exists.
+            if (typeof fuckAdBlock !== 'undefined' || typeof FuckAdBlock !== 'undefined') {
+                // If this is the case, it means that something tries to usurp are identity
+                // So, considering that it is a detection
+                adBlockDetected();
+            } else {
+                // Otherwise, you import the script FuckAdBlock
+                var importFAB = document.createElement('script');
+                importFAB.onload = function () {
+                    // If all goes well, we configure FuckAdBlock
+                    fuckAdBlock.onDetected(adBlockDetected);
+                    fuckAdBlock.onNotDetected(adBlockNotDetected);
+                };
+                importFAB.onerror = function () {
+                    // If the script does not load (blocked, integrity error, ...)
+                    // Then a detection is triggered
+                    adBlockDetected();
+                };
+                importFAB.integrity = 'sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=';
+                importFAB.crossOrigin = 'anonymous';
+                importFAB.src = 'https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js';
+                document.head.appendChild(importFAB);
+            }
+        })();
+
+        $(".adblock_popup__close").click(function (e) {
+			e.preventDefault();
+			$("#adblock_popup").removeClass('in');
+		});
+	</script>
+		<div id="dont-leave-us" class="dont-leave-us__wrapper" style="display: none">
+	<div class="dont-leave-us">
+		<div class="dont-leave-us__close"></div>
+		<div class="dont-leave-us__text">
+			<p class="dont-leave-us__bigText">Are you sure<br>you want to leave?</p>
+			<p>Try our hottest<br>games first!</p>
+		</div>
+		<div class="dont-leave-us__games">
+							<div class="game-item ">
+					<a href="http://mycutegames.com/Games/Princess/Princesses-Sweet-Quinceanera-Party.html" class="clickA">
+						<img class="br_all_10 game-item-img" alt="Princesses Sweet Quinceanera Party" src="/upload/thumbs/330/mcg_8737.gif">
+						<span class="game-item-title">Princesses Sweet Quinceanera Party</span>
+					</a>
+				</div>
+							<div class="game-item ">
+					<a href="http://mycutegames.com/Games/Princess/Princesses-Skipping-School.html" class="clickA">
+						<img class="br_all_10 game-item-img" alt="Princesses Skipping School" src="/upload/thumbs/330/mcg_9034.gif">
+						<span class="game-item-title">Princesses Skipping School</span>
+					</a>
+				</div>
+							<div class="game-item ">
+					<a href="http://mycutegames.com/Games/Princess/Hollywood-Movie-Part-for-Princess.html" class="clickA">
+						<img class="br_all_10 game-item-img" alt="Hollywood Movie Part for Princess" src="/upload/thumbs/330/6981.gif">
+						<span class="game-item-title">Hollywood Movie Part for Princess</span>
+					</a>
+				</div>
+					</div>
+	</div>
+</div>
+
+
+	<script>
+        function getCookie(e){var o=document.cookie.match(new RegExp("(?:^|; )"+e.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g,"\\$1")+"=([^;]*)"));return o?decodeURIComponent(o[1]):void 0}function setCookie(e,o,t){var i=(t=t||{}).expires;if("number"==typeof i&&i){var n=new Date;n.setTime(n.getTime()+1e3*i),i=t.expires=n}i&&i.toUTCString&&(t.expires=i.toUTCString());var r=e+"="+(o=encodeURIComponent(o));for(var c in t){r+="; "+c;var a=t[c];!0!==a&&(r+="="+a)}document.cookie=r}function deleteCookie(e){setCookie(e,"",{expires:-1})}
+
+        ouibounce(document.getElementById('dont-leave-us'), {
+            sensitivity: 50,
+            aggressive: true,
+            delay: 150,
+            callback: function() {
+                setCookie('dont_live_us_counter', +(getCookie('dont_live_us_counter') || 0) + 1, {path:'/'});
+            }
+        });
+
+        $(".dont-leave-us__close").click(function (e) {
+            e.preventDefault();
+            $("#dont-leave-us").fadeOut();
+        });
+	</script>
 	
 </body></html>
