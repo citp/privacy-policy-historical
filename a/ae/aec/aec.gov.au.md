@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216145127id_/http%3A//aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412102027id_/http%3A//www.aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Electoral Commission
 
@@ -288,7 +288,7 @@ Personal information
 Privacy Act
     means the [_Privacy Act 1988_](http://www.comlaw.gov.au/Series/C2004A03712)
 Privacy Contact Officer
-    refers to the officer whose contact details are listed under [Contact Details](https://web.archive.org/web/20171216145127id_/http%3A//aec.gov.au/footer/privacy.htm#contact)
+    refers to the officer whose contact details are listed under [Contact Details](https://web.archive.org/web/20180412102027id_/http%3A//www.aec.gov.au/footer/privacy.htm#contact)
 Sensitive information
     is defined by the [Privacy Act](http://www.comlaw.gov.au/Series/C2004A03712) (see section 6). It means information or an opinion about an individual’s:  
 
