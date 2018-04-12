@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2015-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150811044448id_/http%3A//www.tva.com/abouttva/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tva.gov privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412193112id_/https%3A//www.tva.com/Information/TVA-Privacy-Policy) for the most accurate reproduction.*
 
-# TVA Privacy Policy
+# TVA - TVA Privacy Policy
 
-## Overview of Privacy
-
-The privacy of visitors to our site is important to us. This statement informs you of how we use personal information that may be collected, used, and stored when you visit TVA on the Web. Our Privacy Policy is subject to change and updates, so you are encouraged to review the policy from time to time.
+Last updated 3:30 p.m. March 14, 2017
 
 ## TVA Web sites
 
@@ -14,29 +12,31 @@ TVA uses several websites to interact with the public and customers. 
 
 [TVA Kids](http://www.tvakids.com/) provides educational materials and games to children and teachers.
 
-[TVA Economic Development](http://www.tvaed.com/) provides information about TVA’s development programs.  [The Valley Works](http://thevalleyworks.org/) is TVA Economic Development’s blog.
+[TVA Economic Development](http://www.tvaed.com/) provides information about TVA’s development programs. [The Valley Works](http://thevalleyworks.org/) is TVA Economic Development’s blog.
 
-[TVA Sites](http://www.tvasites.com/home.aspx) allows interested parties to search available buildings and sites in the TVA region for the best match for their needs. 
+[TVA Fuel Solutions](http://www.tvafuelsolutions.com/) is a site to learn more about electricity as a transportation fuel.
+
+[TVA Sites](http://www.tvasites.com/home.aspx) allows interested parties to search available buildings and sites in the TVA region for the best match for their needs.
 
 [EnergyRight](http://www.energyright.com/) provides information about energy efficiency and renewable energy to individuals, businesses, and industries.
 
-[TVA’s EnergyRight Solutions Advertising e-Notebook](http://www.tvaadnotebook.com/2/index.php) allows distributors to view, choose, and order marketing materials.
+[TVA’s EnergyRight Solutions Advertising e-Notebook](https://energyright.com/Ad-Notebook) allows distributors to view, choose, and order marketing materials.
 
-[TVA Supplier Connections](https://supplier.tva.gov/) allows individuals and companies interested in providing services or products to TVA to register with TVA.  It also provides information prospective or current TVA vendors.
+[TVA Supplier Connections](https://supplier.tva.gov/) allows individuals and companies interested in providing services or products to TVA to register with TVA. It also provides information prospective or current TVA vendors.
 
-[TVA Online Connection](https://connections.tva.com/) is a service for TVA power customers; Valley municipal cooperatives, and public power associations; and trade and business groups that work directly with TVA business units.  The site provides a personalized, single entry point to online applications, news and events, production information, and the TVA eMarketplace.
+[TVA Online Connection](https://connections.tva.com/) is a service for TVA power customers; Valley municipal cooperatives, and public power associations; and trade and business groups that work directly with TVA business units. The site provides a personalized, single entry point to online applications, news and events, production information and the TVA eMarketplace.
 
-TVA also maintains official accounts on several social media outlets. 
+TVA also maintains official accounts on several [social media](http://www.tva.com/abouttva/privacy.htm#social) outlets.
 
 ## Automatic Collection of Information
 
-When you visit our Web site, we automatically collect some general, anonymous information about your visit to help us improve navigation on our site or investigate disruption of service attacks. This information includes: the date and time of your visit; an Internet Protocol (IP) address; the browser software and operating system used for your visit; and the content of any sent or received cookie(s). This information is technical in nature, is not used to identify who you are, and is collected in the aggregate for statistical purposes. 
+When you visit our Web site, we automatically collect some general, anonymous information about your visit to help us improve navigation on our site or investigate disruption of service attacks. This information includes: the date and time of your visit; an Internet Protocol (IP) address; the browser software and operating system used for your visit; and the content of any sent or received cookie(s). This information is technical in nature, is not used to identify who you are and is collected in the aggregate for statistical purposes.
 
 ## Personal Information That You Voluntarily Provide
 
-You are not required to provide any personal information to us to access information on tva.gov, tvakids.gov, TVAed, EnergyRight, EnergyRight Advertising e-Notebook, or TVAsites. If you choose to provide us with personal information, such as by sending a message to an e-mail address on this website, ordering marketing materials, submitting a blog post to The Valley Works, or by filling out a form and submitting it through our website, we will use that information to respond to your message or to fulfill the stated purpose of the communication.
+You are not required to provide any personal information to us to access information on tva.gov, tvakids.gov, tvasites.com, EnergyRight, EnergyRight Advertising e-Notebook or TVAsites. If you choose to provide us with personal information, such as by sending a message to an e-mail address on this website, ordering marketing materials, submitting a blog post to The Valley Works, or by filling out a form and submitting it through our website, we will use that information to respond to your message or to fulfill the stated purpose of the communication.
 
-TVA business partners who use TVA Supplier Connections or TVA Online Connection must create accounts in order to make use of those resources.  The information collected in order to create the account will be used to manage the account, confirm the user’s identity, and to provide related services. 
+TVA business partners who use TVA Supplier Connections or TVA Online Connection must create accounts in order to make use of those resources.  The information collected in order to create the account will be used to manage the account, confirm the user’s identity and to provide related services.
 
 ## How the Information is Used
 
@@ -44,32 +44,32 @@ We may store non-personally identifiable information we collect indefinitely to 
 
 ## Service Providers
 
-We use third-party vendors to support our websites and online services (such as a printer, e-mail, analytics providers, forms and questionnaires, web hosting providers, payment processors, web applications, or data enhancement provider) and to help us market our products and services. These companies may need to collect information about you in order to perform their functions. 
+We use third-party vendors to support our websites and online services (such as a printer, e-mail, analytics providers, forms and questionnaires, web hosting providers, payment processors, web applications or data enhancement provider) and to help us market our products and services. These companies may need to collect information about you in order to perform their functions.
 
 ## Cookie Use and Traffic Data
 
-Website measurement and customization technologies (commonly called “cookies") are small bits of text that are downloaded to your internet browser when you visit a website. The Office of Management and Budget Memorandum M-10-22, [Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) defines conditions under which Federal agencies may use session and persistent cookies. TVA Web sites and third-party service providers may use cookies to collect information about your visit to our sites. ; however, cookies set by or on behalf of TVA do not collect personal information about you, but only about your browser "session." This non-personal information is not disclosed to third parties and may be retained by TVA for Web site improvement and customization purposes, in compliance with TVA's policies for privacy and data safeguarding.  
-We collect this information in accordance with the [Digital Government Strategy](https://cio.gov/innovate/digital-strategy/).  In order to help agencies meet the milestones laid out in the Digital Government Strategy, the General Services Administration (GSA) procured a custom Google Analytics solution. This solution is utilized on TVA Web sites. Please refer to the following policies on Google’s website for more information:
+Website measurement and customization technologies (commonly called “cookies") are small bits of text that are downloaded to your internet browser when you visit a website. The Office of Management and Budget Memorandum M-10-22, [Guidance for Online Use of Web Measurement and Customization Technologies](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf) defines conditions under which Federal agencies may use session and persistent cookies. TVA Web sites and third-party service providers may use cookies to collect information about your visit to our sites; however, cookies set by or on behalf of TVA do not collect personal information about you, but only about your browser "session." This non-personal information is not disclosed to third parties and may be retained by TVA for Web site improvement and customization purposes, in compliance with TVA's policies for privacy and data safeguarding.  
+We collect this information in accordance with the [Digital Government Strategy](https://www.state.gov/digitalstrategy/). In order to help agencies meet the milestones laid out in the Digital Government Strategy, the General Services Administration (GSA) procured a custom Google Analytics solution. This solution is utilized on TVA Web sites. Please refer to the following policies on Google’s website for more information:
 
-Other service providers may use cookies in order to collect data about how our sites are used, to optimize your experience, and to provide additional services to visitors to our site.  These services may use cookies in order to provide their services for TVA or website visitors and to collect information about the use and performance of their services.  The information collected may include information about your device and your use of the website. 
+Other service providers may use cookies in order to collect data about how our sites are used, to optimize your experience, and to provide additional services to visitors to our site. These services may use cookies in order to provide their services for TVA or website visitors and to collect information about the use and performance of their services. The information collected may include information about your device and your use of the website.
 
 You can set your computer to reject (i.e. "opt out" of) cookies, and you will still be able to access all of the informational resources provided on our sites. However, some of the customized and dynamic features may not function properly or as efficiently. To learn more about how to opt out of cookies, please click here: <http://www.usa.gov/optout_instructions.shtml>.
 
 ## Individuals’ Access to their Data
 
-The Privacy Act of 1974 protects the personal information the federal government keeps on individuals in Systems of Records (SOR). Please note that the Privacy Act does not cover all information collected online. More detailed information concerning the Privacy Act, including a listing of TVA Systems of Records Notices (SORNs), can be found at: [http://www.tva.com/foia/sysofrecords.htm](https://web.archive.org/foia/sysofrecords.htm).
+The Privacy Act of 1974 protects the personal information the federal government keeps on individuals in Systems of Records (SOR). Please note that the Privacy Act does not cover all information collected online. More detailed information concerning the Privacy Act, including a listing of TVA Systems of Records Notices (SORNs), can be found at: [www.tva.com/Information/Freedom-of-Information/Privacy-Act-Regulation](https://www.tva.com/Information/Freedom-of-Information/Privacy-Act-Regulation).
 
 ## Social Networking
 
-In order to encourage greater public participation, collaboration, and transparency, TVA currently maintains official Corporation accounts on commercial social networks sites, including YouTube, LinkedIn, Flickr, Facebook and Twitter. TVA does not collect, maintain, or disseminate information posted by visitors to these sites. Additionally, the Corporation does not endorse or control the comments or opinions provided by visitors to these sites. Please note that the TVA Privacy Policy does not extend to, or have authority over, the privacy policy of any commercial social networking sites you may visit. Therefore, if you choose to interact with the TVA on a commercial third-party site, please review carefully the privacy policy of the third party. Click on the following to view the privacy policies of [YouTube](http://www.youtube.com/t/privacy), [LinkedIn](http://www.linkedin.com/static?key=privacy_policy), [Flickr](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html), [Facebook](http://www.facebook.com/policy.php) , and [Twitter](http://twitter.com/privacy).
+In order to encourage greater public participation, collaboration, and transparency, TVA currently maintains official Corporation accounts on commercial social networks sites, including YouTube, LinkedIn, Flickr, Facebook and Twitter. TVA does not collect, maintain or disseminate information posted by visitors to these sites. Additionally, the Corporation does not endorse or control the comments or opinions provided by visitors to these sites. Please note that the TVA Privacy Policy does not extend to, or have authority over, the privacy policy of any commercial social networking sites you may visit. Therefore, if you choose to interact with the TVA on a commercial third-party site, please review carefully the privacy policy of the third party. Click on the following to view the privacy policies of [YouTube](http://www.youtube.com/t/privacy), [LinkedIn](http://www.linkedin.com/static?key=privacy_policy), [Flickr](http://info.yahoo.com/privacy/us/yahoo/flickr/details.html), [Facebook](http://www.facebook.com/policy.php), [Instagram](https://help.instagram.com/155833707900388) and [Twitter](http://twitter.com/privacy).
 
 ## Children Online
 
-TVA recognizes the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy. We do not knowingly collect personally identifiable information online from children under the age of 13. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please use the Contact Information below to submit a request to delete theinformation.
+TVA recognizes the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy. We do not knowingly collect personally identifiable information online from children under the age of 13. If we determine that a child under 13 has provided personal information in violation of this policy, we will delete that information as soon as practical. If you become aware that such information has been provided by a child under 13, please use the Contact Information below to submit a request to delete the information.
 
 ## Links to Other Sites
 
-Our website has links to websites of other federal agencies and to private organizations. You will be notified when you access one of these links, warning you that you are leaving the official TVA web site. Once you access another site through a link that we provide, you are subject to the privacy policy of the new site. For more information, please visit TVA’s [External Link Policy](https://web.archive.org/abouttva/link_policy.htm).
+Our website has links to websites of other federal agencies and to private organizations. You will be notified when you access one of these links, warning you that you are leaving the official TVA web site. Once you access another site through a link that we provide, you are subject to the privacy policy of the new site. For more information, please visit TVA’s [External Link Policy](https://web.archive.org/Information/TVA-External-Links-Policy).
 
 ## Security
 
@@ -83,9 +83,9 @@ For additional information about EINSTEIN capabilities, please see the EINSTEIN 
 
 The Program is based on the Privacy Act of 1974, as implemented by Office of Management and Budget Circular A-130, the E-Government Act of 2002, and Agency policies. The objective of the Program is to balance the information requirements and operational needs of TVA against the privacy interests of the individual.
 
-The Senior Privacy Program Manager performs multiple functions, to include: 
+The Senior Privacy Program Manager performs multiple functions, to include:
 
-  * Developing and implementing policy and serving as the TVA focal point for privacy matters, 
+  * Developing and implementing policy and serving as the TVA focal point for privacy matters,
   * Providing policy guidance and assistance to the agency in implementation and execution of their privacy responsibilities,
   * Reviewing new and existing laws, regulations and policies which impact on privacy,
   * Coordinating and submitting for publication in the Federal Register Privacy Act system of record notices and Privacy Act rulemaking,
@@ -96,7 +96,7 @@ The Senior Privacy Program Manager performs multiple functions, to include:
 
 
 
-[Read more information on the TVA Privacy Program](https://web.archive.org/abouttva/privacy_more.htm)
+[Read more information on the TVA Privacy Program.](https://web.archive.org/Information/About-the-TVA-Privacy-Program)
 
 ## Contact Info
 
