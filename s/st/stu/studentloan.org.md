@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the studentloan.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612220208id_/http%3A//www.studentloan.org/Online-Policies/Privacy/Aspire-Servicing-Center-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentloan.org privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412021353id_/http%3A//www.studentloan.org/Online-Policies/Privacy/Aspire-Servicing-Center-Privacy.aspx) for the most accurate reproduction.*
 
 # Aspire Servicing Center Privacy - Privacy - Online Policies - Aspire Servicing Center
 
-Your privacy and security are very important to us. View our lenders' [Customer Privacy Notices](https://web.archive.org/web/20170612220208id_/http%3A//www.studentloan.org/Online-Policies/Privacy/Lenders-Customer-Privacy-Notices.aspx) and our [Online Privacy Statement](https://web.archive.org/web/20170612220208id_/http%3A//www.studentloan.org/Online-Policies/Privacy/Aspire-Servicing-Center-Online-Privacy-Statement.aspx) to learn more about how we collect, use, disclose and secure information about you.
+Your privacy and security are very important to us. View our lenders' [Customer Privacy Notices](https://web.archive.org/web/20180412021353id_/http%3A//www.studentloan.org/Online-Policies/Privacy/Lenders-Customer-Privacy-Notices.aspx) and our [Online Privacy Statement](https://web.archive.org/web/20180412021353id_/http%3A//www.studentloan.org/Online-Policies/Privacy/Aspire-Servicing-Center-Online-Privacy-Statement.aspx) to learn more about how we collect, use, disclose and secure information about you.
 
 ## Customer Awareness Information
 
@@ -14,7 +14,7 @@ If Aspire Servicing Center needs to contact you, it will be done in a manner tha
 
 ## For More Information
 
-Visit Aspire Servicing Center's [Identity Theft and Online Fraud](https://web.archive.org/web/20170612220208id_/http%3A//www.studentloan.org/Online-Policies/Identity-Theft-And-Online-Fraud.aspx) page to learn more about how to protect yourself from these risks and what to do if you suspect you are a victim.
+Visit Aspire Servicing Center's [Identity Theft and Online Fraud](https://web.archive.org/web/20180412021353id_/http%3A//www.studentloan.org/Online-Policies/Identity-Theft-And-Online-Fraud.aspx) page to learn more about how to protect yourself from these risks and what to do if you suspect you are a victim.
 
 If you have questions about this privacy and customer awareness information, please contact:
 
