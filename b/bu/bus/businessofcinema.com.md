@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessofcinema.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227234918id_/http%3A//businessofcinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofcinema.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412072347id_/https%3A//businessofcinema.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Businessofcinema.com
 
