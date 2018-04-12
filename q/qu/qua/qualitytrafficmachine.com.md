@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitytrafficmachine.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909191505id_/http%3A//qualitytrafficmachine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitytrafficmachine.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412041720id_/http%3A//qualitytrafficmachine.com/privacy-policy) for the most accurate reproduction.*
 
 # Quality Traffic Machine | Privacy Policy
 
