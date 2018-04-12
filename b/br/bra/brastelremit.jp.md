@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brastelremit.jp privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210012232id_/http%3A//brastelremit.jp/web/WIMS/Manager.aspx%3FStyle%3D1%26Service%3D1%26acr%3D4%26xslFile%3Dfooter_privacy_policy.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brastelremit.jp privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412215432id_/http%3A//brastelremit.jp/web/WIMS/Manager.aspx%3FStyle%3D1%26Service%3D1%26acr%3D4%26xslFile%3Dfooter_privacy_policy.xsl) for the most accurate reproduction.*
 
 # Legal information - Brastel Remit Remittance Service
 
