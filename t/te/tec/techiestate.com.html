@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the techiestate.com privacy policy that was archived on 2017-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171120051344id_/http%3A//www.techiestate.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the techiestate.com privacy policy that was archived on 2018-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180412084826id_/http%3A//www.techiestate.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js" lang="en-US" prefix="og: http://ogp.me/ns#"><head itemscope="" itemtype="http://schema.org/WebSite">
 	<meta charset="UTF-8">
@@ -24,7 +24,7 @@
                     	<link rel="pingback" href="http://www.techiestate.com/xmlrpc.php">
 	<title>Privacy Policy - Techiestate</title>
 <script id="bloglovin-sdk" src="https://www.bloglovin.com/widget/js/loader.js?v=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script>
-<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v7.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://www.techiestate.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -34,18 +34,19 @@
 <meta property="og:site_name" content="Techiestate">
 <meta property="article:author" content="https://www.facebook.com/kalpana.sirangi">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Our Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Google Adsense and the DoubleClick DART Cookie Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are ">
+<meta name="twitter:description" content="Our Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. Google Adsense and the DoubleClick DART Cookie Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are">
 <meta name="twitter:title" content="Privacy Policy - Techiestate">
 <meta name="twitter:creator" content="@sirangikalpana">
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.techiestate.com\/","name":"http:\/\/www.techiestate.com\/","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.techiestate.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Techiestate » Feed" href="http://www.techiestate.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Techiestate » Comments Feed" href="http://www.techiestate.com/comments/feed/">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-32727842-1';
+	var mi_track_user = true;
+	
+	var disableStr = 'ga-disable-UA-32727842-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -62,19 +63,65 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-32727842-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-32727842-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.techiestate.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.techiestate.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://www.techiestate.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
@@ -91,8 +138,6 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="wp_review-style-css" href="http://www.techiestate.com/wp-content/plugins/wp-review/assets/css/wp-review.css" type="text/css" media="all">
-<link rel="stylesheet" id="tipsy-css" href="http://www.techiestate.com/wp-content/plugins/wp-shortcode/css/tipsy.css" type="text/css" media="all">
-<link rel="stylesheet" id="mts_wpshortcodes-css" href="http://www.techiestate.com/wp-content/plugins/wp-shortcode/css/wp-shortcode.css" type="text/css" media="all">
 <link rel="stylesheet" id="best-stylesheet-css" href="http://www.techiestate.com/wp-content/themes/mts_best/style.css" type="text/css" media="all">
 <style id="best-stylesheet-inline-css" type="text/css">
 
@@ -127,7 +172,7 @@ img.emoji {
 <script type="text/javascript" src="http://www.techiestate.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var cl_settings = {"name":"author","url":"url","comment":"comment","email":"email","infopanel":"on","default_on":"on","default_on_admin":"on","cl_version":"2.94.7","images":"http:\/\/www.techiestate.com\/wp-content\/plugins\/commentluv\/images\/","api_url":"http:\/\/www.techiestate.com\/wp-admin\/admin-ajax.php","_fetch":"4ccabe1fe1","_info":"0fb7b67f54","infoback":"white","infotext":"black","template_insert":"","logged_in":"","refer":"http:\/\/www.techiestate.com\/privacy-policy\/","no_url_message":"Please enter a URL and then click the CommentLuv checkbox if you want to add your last blog post","no_http_message":"Please use http:\/\/ in front of your url","no_url_logged_in_message":"You need to visit your profile in the dashboard and update your details with your site URL","no_info_message":"No info was available or an error occured"};
+var cl_settings = {"name":"author","url":"url","comment":"comment","email":"email","infopanel":"on","default_on":"on","default_on_admin":"on","cl_version":"2.94.7","images":"http:\/\/www.techiestate.com\/wp-content\/plugins\/commentluv\/images\/","api_url":"http:\/\/www.techiestate.com\/wp-admin\/admin-ajax.php","_fetch":"0f976c048b","_info":"9a15062f94","infoback":"white","infotext":"black","template_insert":"","logged_in":"","refer":"http:\/\/www.techiestate.com\/privacy-policy\/","no_url_message":"Please enter a URL and then click the CommentLuv checkbox if you want to add your last blog post","no_http_message":"Please use http:\/\/ in front of your url","no_url_logged_in_message":"You need to visit your profile in the dashboard and update your details with your site URL","no_info_message":"No info was available or an error occured"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.techiestate.com/wp-content/plugins/commentluv/js/commentluv.js"></script>
@@ -144,12 +189,10 @@ var mts_customscript = {"responsive":"1","nav_menu":"secondary"};
 /* ]]> */
 </script>
 <script type="text/javascript" async="async" src="http://www.techiestate.com/wp-content/themes/mts_best/js/customscript.js"></script>
-<script type="text/javascript" src="http://www.techiestate.com/wp-content/plugins/wp-shortcode/js/jquery.tipsy.js"></script>
-<script type="text/javascript" src="http://www.techiestate.com/wp-content/plugins/wp-shortcode/js/wp-shortcode.js"></script>
 <link rel="https://api.w.org/" href="http://www.techiestate.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.techiestate.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.techiestate.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9">
+<meta name="generator" content="WordPress 4.9.5">
 <link rel="shortlink" href="http://www.techiestate.com/?p=3346">
 <link rel="alternate" type="application/json+oembed" href="http://www.techiestate.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.techiestate.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.techiestate.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.techiestate.com%2Fprivacy-policy%2F&amp;format=xml">
@@ -298,24 +341,23 @@ h6 { font-family: 'Roboto'; font-weight: 700; font-size: 13px; color: #444444;te
 </form>
 </div>		<div id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
 											<li>
-					<a href="http://www.techiestate.com/read-text-messages-using-mspy-sms-tracker-methods/">How to Read Text Messages Using an mSpy SMS Tracker and Other Methods</a>
+					<a href="http://www.techiestate.com/top-5-android-apps-for-dentists/">Top 5 Android Apps for Dentists</a>
 									</li>
 											<li>
-					<a href="http://www.techiestate.com/how-to-make-money-online-in-college/">How to Make Money Online in College</a>
+					<a href="http://www.techiestate.com/download-whatsapp-plus-apk-for-android/">Download WhatsApp Plus APK for Android</a>
 									</li>
 											<li>
-					<a href="http://www.techiestate.com/stay-anonymous-protect-privacy-online/">How To Stay Anonymous And Protect Your Privacy Online</a>
+					<a href="http://www.techiestate.com/how-to-sell-products-online-right-from-your-own-home/">How To Sell Products Online Right From Your Own Home</a>
 									</li>
 											<li>
-					<a href="http://www.techiestate.com/ccna-security-scope-ccna-security-certification/">What is CCNA security &amp; scope of CCNA security certification?</a>
+					<a href="http://www.techiestate.com/bitcoin-is-here-to-stay-for-long-so-why-it-still-being-misinterpreted-by-few/">Bitcoin is here to stay for Long; so Why it still being misinterpreted by Few?</a>
 									</li>
 											<li>
-					<a href="http://www.techiestate.com/airtel-ussd-codes/">Airtel USSD codes to check data, offers and balance</a>
+					<a href="http://www.techiestate.com/how-to-use-cmms-for-equipment-management/">How to use CMMS for Equipment Management</a>
 									</li>
 					</ul>
 		</div><div id="text-18" class="widget widget_text">			<div class="textwidget"><a class="blsdk-follow" href="https://www.bloglovin.com/blogs/techiestate-3994026" target="_blank" data-blsdk-type="button">Follow</a><script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s);js.id = id;js.src = "https://www.bloglovin.com/widget/js/loader.js?v=1";fjs.parentNode.insertBefore(js, fjs);}(document, "script", "bloglovin-sdk"))</script></div>
 		</div><div id="facebook-like-widget-2" class="widget facebook_like"><h3 class="widget-title">Find us on Facebook</h3>			<div class="fb-page" data-href="https://www.facebook.com/Techiestate" data-width="292" data-hide-cover="true" data-show-facepile="true" data-show-posts="false"></div>
-		</div><div id="text-17" class="widget widget_text"><h3 class="widget-title">Alexa Widget</h3>			<div class="textwidget"><a href="http://www.alexa.com/siteinfo/techiestate.com" target="_blank"><script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/s/a?url=techiestate.com"></script></a></div>
 		</div></aside><!--#sidebar-->
         </div><!--#page-->
     </div><!--.main-container-->
@@ -329,169 +371,169 @@ h6 { font-family: 'Roboto'; font-weight: 700; font-size: 13px; color: #444444;te
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/read-text-messages-using-mspy-sms-tracker-methods/" class="title post-title" title="How to Read Text Messages Using an mSpy SMS Tracker and Other Methods">How to Read Text Messages Using an mSpy SMS Tracker and Other Methods</a>
+                                            <a href="http://www.techiestate.com/top-5-android-apps-for-dentists/" class="title post-title" title="Top 5 Android Apps for Dentists">Top 5 Android Apps for Dentists</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 17, 2017</span>    
+                                                    <span class="thetime updated">April 11, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/read-text-messages-using-mspy-sms-tracker-methods/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/735680_3-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/735680_3-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/735680_3-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/top-5-android-apps-for-dentists/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/apps-blog-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/apps-blog-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/apps-blog-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/how-to-make-money-online-in-college/" class="title post-title" title="How to Make Money Online in College">How to Make Money Online in College</a>
+                                            <a href="http://www.techiestate.com/download-whatsapp-plus-apk-for-android/" class="title post-title" title="Download WhatsApp Plus APK for Android">Download WhatsApp Plus APK for Android</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 16, 2017</span>    
+                                                    <span class="thetime updated">April 8, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/how-to-make-money-online-in-college/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/Freelance-Writing-Online-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/Freelance-Writing-Online-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/Freelance-Writing-Online-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/download-whatsapp-plus-apk-for-android/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/WhatsApp-Plus-APK-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/WhatsApp-Plus-APK-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/WhatsApp-Plus-APK-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/stay-anonymous-protect-privacy-online/" class="title post-title" title="How To Stay Anonymous And Protect Your Privacy Online">How To Stay Anonymous And Protect Your Privacy Online</a>
+                                            <a href="http://www.techiestate.com/how-to-sell-products-online-right-from-your-own-home/" class="title post-title" title="How To Sell Products Online Right From Your Own Home">How To Sell Products Online Right From Your Own Home</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 15, 2017</span>    
+                                                    <span class="thetime updated">April 7, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/stay-anonymous-protect-privacy-online/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/VPN-solution-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/VPN-solution-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/VPN-solution-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/how-to-sell-products-online-right-from-your-own-home/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/30007993_423285444787725_721543986_n-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/30007993_423285444787725_721543986_n-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2018/04/30007993_423285444787725_721543986_n-150x150.png 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/ccna-security-scope-ccna-security-certification/" class="title post-title" title="What is CCNA security &amp; scope of CCNA security certification?">What is CCNA security &amp; scope of CCNA security certification?</a>
+                                            <a href="http://www.techiestate.com/bitcoin-is-here-to-stay-for-long-so-why-it-still-being-misinterpreted-by-few/" class="title post-title" title="Bitcoin is here to stay for Long; so Why it still being misinterpreted by Few?">Bitcoin is here to stay for Long; so Why it still being misinterpreted by Few?</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 14, 2017</span>    
+                                                    <span class="thetime updated">April 6, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/ccna-security-scope-ccna-security-certification/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/CCNA-security-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/CCNA-security-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2017/11/CCNA-security-150x150.png 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/bitcoin-is-here-to-stay-for-long-so-why-it-still-being-misinterpreted-by-few/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/bitcoin-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/bitcoin-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2018/04/bitcoin-150x150.png 150w, http://www.techiestate.com/wp-content/uploads/2018/04/bitcoin-300x300.png 300w, http://www.techiestate.com/wp-content/uploads/2018/04/bitcoin.png 720w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/airtel-ussd-codes/" class="title post-title" title="Airtel USSD codes to check data, offers and balance">Airtel USSD codes to check data, offers and balance</a>
+                                            <a href="http://www.techiestate.com/how-to-use-cmms-for-equipment-management/" class="title post-title" title="How to use CMMS for Equipment Management">How to use CMMS for Equipment Management</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 14, 2017</span>    
+                                                    <span class="thetime updated">April 5, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/airtel-ussd-codes/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/Airtel-USSD-Codes-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="Airtel USSD Codes List" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/Airtel-USSD-Codes-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/Airtel-USSD-Codes-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/how-to-use-cmms-for-equipment-management/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/Equipment-Management-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/Equipment-Management-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/Equipment-Management-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/aomei-partition-assistant-6-5-review/" class="title post-title" title="AOMEI Partition Assistant 6.5 Review">AOMEI Partition Assistant 6.5 Review</a>
+                                            <a href="http://www.techiestate.com/5-ways-artificial-intelligence-boosts-employee-productivity/" class="title post-title" title="5 Ways Artificial Intelligence Boosts Employee Productivity">5 Ways Artificial Intelligence Boosts Employee Productivity</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 11, 2017</span>    
+                                                    <span class="thetime updated">April 4, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/aomei-partition-assistant-6-5-review/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/AOMEI-Partition-Assistant-6.5-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/AOMEI-Partition-Assistant-6.5-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2017/11/AOMEI-Partition-Assistant-6.5-150x150.png 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/5-ways-artificial-intelligence-boosts-employee-productivity/">
+                                    <img src="http://www.techiestate.com/wp-content/themes/mts_best/images/nothumb-best-widgetthumb.png" class="attachment-best-widgetthumb wp-post-image" alt="5 Ways Artificial Intelligence Boosts Employee Productivity">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/company-build-app-clients-use/" class="title post-title" title="Should Your Company Build an App for Clients to Use?">Should Your Company Build an App for Clients to Use?</a>
+                                            <a href="http://www.techiestate.com/10-mistakes-to-avoid-before-selling-your-old-android-phone/" class="title post-title" title="10 Mistakes to Avoid Before Selling Your Old Android Phone">10 Mistakes to Avoid Before Selling Your Old Android Phone</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 8, 2017</span>    
+                                                    <span class="thetime updated">April 3, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/company-build-app-clients-use/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/pexels-photo-225232-115x115.jpeg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/pexels-photo-225232-115x115.jpeg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/pexels-photo-225232-150x150.jpeg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/10-mistakes-to-avoid-before-selling-your-old-android-phone/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/feature2-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/feature2-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2018/04/feature2-150x150.png 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/selecting-cdn-take-assistance-service-provider/" class="title post-title" title="Selecting a CDN–Take assistance from your service provider">Selecting a CDN–Take assistance from your service provider</a>
+                                            <a href="http://www.techiestate.com/viable-tips-to-create-an-online-presence-for-your-startup/" class="title post-title" title="Viable Tips to Create an Online Presence for Your Startup">Viable Tips to Create an Online Presence for Your Startup</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 8, 2017</span>    
+                                                    <span class="thetime updated">April 2, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/selecting-cdn-take-assistance-service-provider/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/start-cdn-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/start-cdn-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2017/11/start-cdn-150x150.png 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/viable-tips-to-create-an-online-presence-for-your-startup/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/Startup-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/Startup-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/Startup-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/boost-wifi-signal-wireless-ip-camera/" class="title post-title" title="How to Boost WIFI Signal for Your Wireless IP camera">How to Boost WIFI Signal for Your Wireless IP camera</a>
+                                            <a href="http://www.techiestate.com/is-deep-web-browsing-safe/" class="title post-title" title="Is Deep Web Browsing Safe?">Is Deep Web Browsing Safe?</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 7, 2017</span>    
+                                                    <span class="thetime updated">April 1, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/boost-wifi-signal-wireless-ip-camera/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/cctv-2417559_960_720-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/cctv-2417559_960_720-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/cctv-2417559_960_720-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/is-deep-web-browsing-safe/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/Deep-Web-Browsing-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/Deep-Web-Browsing-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/Deep-Web-Browsing-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/android-mobiles-30k/" class="title post-title" title="Top 5 Android Mobiles Under 30K">Top 5 Android Mobiles Under 30K</a>
+                                            <a href="http://www.techiestate.com/setting-up-a-virtual-office-in-new-york-city/" class="title post-title" title="Setting Up A Virtual Office In New York City">Setting Up A Virtual Office In New York City</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 7, 2017</span>    
+                                                    <span class="thetime updated">March 31, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/android-mobiles-30k/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/Android-Mobiles-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/Android-Mobiles-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/Android-Mobiles-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/setting-up-a-virtual-office-in-new-york-city/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/03/Hire-a-Virtual-Assistant-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/03/Hire-a-Virtual-Assistant-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/03/Hire-a-Virtual-Assistant-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/oneplus-5t-189-display-spotted-gfxbench/" class="title post-title" title="OnePlus 5T with 18:9 display spotted on GFXBench">OnePlus 5T with 18:9 display spotted on GFXBench</a>
+                                            <a href="http://www.techiestate.com/5-day-to-day-ways-businesses-rely-on-the-internet/" class="title post-title" title="5 Day-To-Day Ways Businesses Rely On The Internet">5 Day-To-Day Ways Businesses Rely On The Internet</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 4, 2017</span>    
+                                                    <span class="thetime updated">March 31, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/oneplus-5t-189-display-spotted-gfxbench/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/oneplus-5t-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/oneplus-5t-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/oneplus-5t-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/5-day-to-day-ways-businesses-rely-on-the-internet/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/03/Digital-Marketing-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/03/Digital-Marketing-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/03/Digital-Marketing-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                         <div class="footer-carousel-item">
                                 <div class="dark-style post-box">
                                     <div class="post-data">
                                         <header>
-                                            <a href="http://www.techiestate.com/free-data-recovery-software/" class="title post-title" title="Free Data Recovery Software">Free Data Recovery Software</a>
+                                            <a href="http://www.techiestate.com/5-security-tips-to-protect-your-website-from-hackers/" class="title post-title" title="5 Security Tips to Protect Your Website from Hackers">5 Security Tips to Protect Your Website from Hackers</a>
                                                 <div class="post-info">  
-                                                    <span class="thetime updated">November 1, 2017</span>    
+                                                    <span class="thetime updated">March 30, 2018</span>    
                                                 </div>
                                         </header>
                                     </div>
                                 </div>
-                                <a href="http://www.techiestate.com/free-data-recovery-software/">
-                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/easeus-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/easeus-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/easeus-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
+                                <a href="http://www.techiestate.com/5-security-tips-to-protect-your-website-from-hackers/">
+                                    <img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/03/Secure-our-Website-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/03/Secure-our-Website-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/03/Secure-our-Website-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">                                </a>
                             </div>
                                                     </div>
                     </div>
@@ -503,46 +545,46 @@ h6 { font-family: 'Roboto'; font-weight: 700; font-size: 13px; color: #444444;te
                             <div class="footer-widgets top-footer-widgets widgets-num-3">
                                     <div class="f-widget f-widget-1">
                         <div id="mts_recent_posts_widget-2" class="widget widget_mts_recent_posts_widget horizontal-small"><h3 class="widget-title">Recent Posts</h3><ul class="advanced-recent-posts">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a href="http://www.techiestate.com/read-text-messages-using-mspy-sms-tracker-methods/" title="How to Read Text Messages Using an mSpy SMS Tracker and Other Methods">
-													<img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/735680_3-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/735680_3-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/735680_3-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">											</a>
+					<a href="http://www.techiestate.com/top-5-android-apps-for-dentists/" title="Top 5 Android Apps for Dentists">
+													<img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/apps-blog-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/apps-blog-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/apps-blog-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">											</a>
 				</div>
 								<div class="post-data">
 					<div class="post-data-container">
 						<div class="post-title">
-							<a href="http://www.techiestate.com/read-text-messages-using-mspy-sms-tracker-methods/" title="How to Read Text Messages Using an mSpy SMS Tracker and Other Methods">How to Read Text Messages Using an&nbsp;…</a>
+							<a href="http://www.techiestate.com/top-5-android-apps-for-dentists/" title="Top 5 Android Apps for Dentists">Top 5 Android Apps for Dentists</a>
 						</div>
 												<div class="post-info">
-														<span class="thetime updated"><i class="fa fa-clock-o"></i> Nov 17, 2017</span>
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> Apr 11, 2018</span>
 																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
 													</div> <!--.post-info-->
 																	</div>
 				</div>
 			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a href="http://www.techiestate.com/how-to-make-money-online-in-college/" title="How to Make Money Online in College">
-													<img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/Freelance-Writing-Online-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/Freelance-Writing-Online-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/Freelance-Writing-Online-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">											</a>
+					<a href="http://www.techiestate.com/download-whatsapp-plus-apk-for-android/" title="Download WhatsApp Plus APK for Android">
+													<img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/WhatsApp-Plus-APK-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/WhatsApp-Plus-APK-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2018/04/WhatsApp-Plus-APK-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">											</a>
 				</div>
 								<div class="post-data">
 					<div class="post-data-container">
 						<div class="post-title">
-							<a href="http://www.techiestate.com/how-to-make-money-online-in-college/" title="How to Make Money Online in College">How to Make Money Online in College</a>
+							<a href="http://www.techiestate.com/download-whatsapp-plus-apk-for-android/" title="Download WhatsApp Plus APK for Android">Download WhatsApp Plus APK for Android</a>
 						</div>
 												<div class="post-info">
-														<span class="thetime updated"><i class="fa fa-clock-o"></i> Nov 16, 2017</span>
-																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> Apr 8, 2018</span>
+																					<span class="thecomment"><i class="fa fa-comments"></i> 1</span>
 													</div> <!--.post-info-->
 																	</div>
 				</div>
 			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
-					<a href="http://www.techiestate.com/stay-anonymous-protect-privacy-online/" title="How To Stay Anonymous And Protect Your Privacy Online">
-													<img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2017/11/VPN-solution-115x115.jpg" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2017/11/VPN-solution-115x115.jpg 115w, http://www.techiestate.com/wp-content/uploads/2017/11/VPN-solution-150x150.jpg 150w" sizes="(max-width: 115px) 100vw, 115px">											</a>
+					<a href="http://www.techiestate.com/how-to-sell-products-online-right-from-your-own-home/" title="How To Sell Products Online Right From Your Own Home">
+													<img width="115" height="115" src="http://www.techiestate.com/wp-content/uploads/2018/04/30007993_423285444787725_721543986_n-115x115.png" class="attachment-best-widgetthumb size-best-widgetthumb wp-post-image" alt="" title="" srcset="http://www.techiestate.com/wp-content/uploads/2018/04/30007993_423285444787725_721543986_n-115x115.png 115w, http://www.techiestate.com/wp-content/uploads/2018/04/30007993_423285444787725_721543986_n-150x150.png 150w" sizes="(max-width: 115px) 100vw, 115px">											</a>
 				</div>
 								<div class="post-data">
 					<div class="post-data-container">
 						<div class="post-title">
-							<a href="http://www.techiestate.com/stay-anonymous-protect-privacy-online/" title="How To Stay Anonymous And Protect Your Privacy Online">How To Stay Anonymous And Protect Your&nbsp;…</a>
+							<a href="http://www.techiestate.com/how-to-sell-products-online-right-from-your-own-home/" title="How To Sell Products Online Right From Your Own Home">How To Sell Products Online Right From&nbsp;…</a>
 						</div>
 												<div class="post-info">
-														<span class="thetime updated"><i class="fa fa-clock-o"></i> Nov 15, 2017</span>
+														<span class="thetime updated"><i class="fa fa-clock-o"></i> Apr 7, 2018</span>
 																					<span class="thecomment"><i class="fa fa-comments"></i> 0</span>
 													</div> <!--.post-info-->
 																	</div>
@@ -567,7 +609,7 @@ h6 { font-family: 'Roboto'; font-weight: 700; font-size: 13px; color: #444444;te
             <div class="container">
                 <!--start copyrights-->
 <div id="copyright-note">
-<span><a href="http://www.techiestate.com/" title="Android Tips and Trick, Mobiles, Education, Tech Updates" rel="nofollow">Techiestate</a> Copyright © 2017.</span>
+<span><a href="http://www.techiestate.com/" title="Android Tips and Trick, Mobiles, Education, Tech Updates" rel="nofollow">Techiestate</a> Copyright © 2018.</span>
 <div class="right"></div>
 </div>
 <!--end copyrights-->
