@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606190214id_/http%3A//www.ford.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.com.au privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412150200id_/https%3A//www.ford.com.au/privacy.html) for the most accurate reproduction.*
 
 # Ford Australia - Privacy
 
@@ -217,7 +217,7 @@ Back to Top
 
 14.3 Ford will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
-14.4 If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner (click [here](https://web.archive.org/forms/privacy-complaints.html) for information).
+14.4 If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner (click [here](https://www.ford.com.au/forms/privacy-complaints.html) for information).
 
 Back to Top
 
@@ -453,7 +453,7 @@ Back to Top
 
 14.3 Ford will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
-14.4 If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner (click [here](https://web.archive.org/forms/privacy-complaints.html) for information).
+14.4 If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner (click [here](https://www.ford.com.au/forms/privacy-complaints.html) for information).
 
 Back to Top
 
