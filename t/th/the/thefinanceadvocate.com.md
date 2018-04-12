@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefinanceadvocate.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227123155id_/http%3A//thefinanceadvocate.com/us/show/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefinanceadvocate.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412194937id_/http%3A//thefinanceadvocate.com/us/show/page/privacypolicy) for the most accurate reproduction.*
 
 # The Finance Advocate
 
@@ -14,7 +14,7 @@ A4D, Inc.
 Attn: A4D Legal Department – The Finance Advocate   
 6965 El Camino Real, Suite 105-441  
 Carlsbad, CA, 92009  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+info@thefinanceadvocate.com  
 
 
 ### Types of Information Collected
@@ -49,6 +49,6 @@ The information stored on A4D’s servers and systems use industry standard secu
 
 We reserve the right to add to, change, update, or modify this Privacy Policy. Any such change, update, or modification will be effective immediately upon posting on the Site. If any modification is unacceptable, your only recourse is not to use our Services and the Site.
 
-If you have questions about this Privacy Policy or want to contact us, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to us at: A4D, Inc., Attn: A4D Legal Department- Finance Advocate, 6965 El Camino Real No. 105-441, Carlsbad, CA 92009.
+If you have questions about this Privacy Policy or want to contact us, please send an email to info@thefinanceadvocate.com or write to us at: A4D, Inc., Attn: A4D Legal Department- Finance Advocate, 6965 El Camino Real No. 105-441, Carlsbad, CA 92009.
 
 Effective Date: November 19, 2015
