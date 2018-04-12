@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digi.com.my privacy policy that was archived on 2017-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171121192135id_/http%3A//new.digi.com.my/cs/Satellite/Page/tnc/default/tnc_privacy_statement_en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com.my privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413005417id_/http%3A//new.digi.com.my/cs/Satellite/Page/tnc/default/tnc_privacy_statement_en) for the most accurate reproduction.*
 
 # Privacy Notice (EN) | Digi - Let's Inspire
 
