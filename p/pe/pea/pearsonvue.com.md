@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105085729id_/https%3A//home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx%23cookies-and-web-beacons) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonvue.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412182608id_/https%3A//home.pearsonvue.com/Legal/Privacy-and-cookies-policy.aspx%23cookies-and-web-beacons) for the most accurate reproduction.*
 
 # Privacy and cookies policy :: Pearson VUE
 
@@ -8,30 +8,30 @@ The rights and responsibilities described in our Privacy Policy do not cover thi
 
 This Privacy Policy explains:
 
-  * [YOUR RIGHTS AND RESPONSIBILITIES](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#your-rights-and-responsibilities)
-  * [OUR RIGHTS AND RESPONSIBILITIES](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#our-rights-and-responsibilities)
-  * [COMPLIANCE WITH THE PRIVACY SHIELD FRAMEWORK PRINCIPLES AND THE U.S.-SWISS SAFE HARBOR FRAMEWORK PRINICIPLES](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#safe-harbor-and-data-colection-in-the-eu)
-  * [CERTIFICATION, LICENSURE, AND ACADEMIC ADMISSION TEST SERVICES](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#certification-licensure-and-academic-admission-test-services)
-  * [REMOTE PROCTORING TEST SERVICES](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#remote-proctoring-test-services)
-  * [NCS PEARSON, INC AS A TEST SPONSOR](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#ncs-pearson-as-a-test-sponsor)
-    * [PTE Professional](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#e-pro)
-    * [IC3](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#ic3)
-  * [INFORMATION POLICY RELATING TO TEST CENTER APPLICATIONS](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#information-policy-relating-to-test-center-applications)
-  * [INFORMATION POLICY RELATING TO BUSINESS DEVELOPMENT SUBMISSION FORMS](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#information-policy-relating-to-business-information-submission)
-  * [E-COMMERCE](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#e-commerce)
-  * [CREDENTIALING SERVICES](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#credentialing-services)
-  * [THIRD PARTY WEBSITES AND SOCIAL MEDIA](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#third-party-websites-and-social-media)
-  * [INFORMATION RECEIVED FROM INTERNET SERVICE PROVIDERS THROUGH THIS SITE](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#information-received-from-internet-service-providers-through-this-site)
-  * [DISCLOSURE AND TRANSFER OF INFORMATION](https://web.archive.org/web/20171105085729id_/https%3A//home.pearsonvue.com/Legal/transfer-of-information)
-  * [INFORMATION FROM CHILDREN](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#information-from-children)
-  * [AGGREGATION OF NON-PERSON-SPECIFIC DATA](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#aggregation-of-non-person-specific-data)
-  * [EMAIL NEWSLETTERS](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#email-newsletters)
-  * [INFORMATION ACCESS AND CORRECTIONS](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#information-access-and-corrections)
-  * [PROTECTION OF CREDIT CARD INFORMATION](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#protection-of-credit-card-information)
-  * [RESOLUTION OF CONCERNS](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#resolution-of-concerns)
-  * [COOKIES AND WEB BEACONS](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#cookies-and-web-beacons)
-  * [UPDATES TO THIS PRIVACY POLICY](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#changes-to-this-privacy-policy)
-  * [HOW TO CONTACT US](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#how-to-contact-us)
+  * YOUR RIGHTS AND RESPONSIBILITIES
+  * OUR RIGHTS AND RESPONSIBILITIES
+  * COMPLIANCE WITH THE EU-U.S. AND SWISS-U.S. PRIVACY SHIELD FRAMEWORKS
+  * CERTIFICATION, LICENSURE, AND ACADEMIC ADMISSION TEST SERVICES
+  * REMOTE PROCTORING TEST SERVICES
+  * NCS PEARSON, INC AS A TEST SPONSOR
+    * PTE Professional
+    * IC3
+  * INFORMATION POLICY RELATING TO TEST CENTER APPLICATIONS
+  * INFORMATION POLICY RELATING TO BUSINESS DEVELOPMENT SUBMISSION FORMS
+  * E-COMMERCE
+  * CREDENTIALING SERVICES
+  * THIRD PARTY WEBSITES AND SOCIAL MEDIA
+  * INFORMATION RECEIVED FROM INTERNET SERVICE PROVIDERS THROUGH THIS SITE
+  * DISCLOSURE AND TRANSFER OF INFORMATION
+  * INFORMATION FROM CHILDREN
+  * AGGREGATION OF NON-PERSON-SPECIFIC DATA
+  * EMAIL NEWSLETTERS
+  * INFORMATION ACCESS AND CORRECTIONS
+  * PROTECTION OF CREDIT CARD INFORMATION
+  * RESOLUTION OF CONCERNS
+  * COOKIES AND WEB BEACONS
+  * UPDATES TO THIS PRIVACY POLICY
+  * HOW TO CONTACT US
 
 
 
@@ -43,9 +43,9 @@ You are never required to provide us with your personal information. If you do n
 
 You agree that we may collect or receive, use, process, disclose, transfer and retain your personal information as described herein. This Privacy Policy governs your use of any and all of our Sites our testing services, and in purchasing our products and services in general. We will use your personal information only for the purposes set forth herein.
 
-As the subject of the personal information collected, you have a right to know what personal information we hold about you. You may access and correct the personal information you have submitted by contacting a Pearson VUE customer service representative. To determine the correct Pearson VUE customer representative click on this link [Pearson VUE Start here: select your program](https://web.archive.org/test-taker.aspx) and search for the testing program’s name. We will respond to access requests within a reasonable amount of time in accordance with state and national laws and requirements.
+As the subject of the personal information collected, you have a right to know what personal information we hold about you. You may access and correct the personal information you have submitted by contacting a Pearson VUE customer service representative. To determine the correct Pearson VUE customer representative click on this link [Pearson VUE Start here: select your program](https://home.pearsonvue.com/test-taker.aspx) and search for the testing program’s name. We will respond to access requests within a reasonable amount of time in accordance with state and national laws and requirements.
 
-If you have concerns with these Rights and Responsibilities or our compliance with them, click on [HOW TO CONTACT US](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#how-to-contact-us), for more information.
+If you have concerns with these Rights and Responsibilities or our compliance with them, click on HOW TO CONTACT US, for more information.
 
 ## OUR RIGHTS & RESPONSIBILITIES
 
@@ -57,15 +57,15 @@ We encourage you to periodically review this Privacy Policy to learn more about 
 
 ### EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
 
-Consistent with our commitment to protect personal information worldwide we are dedicated to providing privacy protection as defined by the European community and Swiss laws for the handling of personal information received from individuals in the European Union member states (including Iceland, Liechtenstein and Norway) (collectively the “EU member states” or the “EU”) and Switzerland. The Pearson VUE Business Group complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU member states and Switzerland to the United States. The Pearson VUE Business Group has certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles”). To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+Consistent with our commitment to protect personal information worldwide we are dedicated to providing privacy protection as defined by the European community and Swiss laws for the handling of personal information received from individuals in the European Union member states (including Iceland, Liechtenstein and Norway) (collectively the “EU member states” or the “EU”) and Switzerland. The Pearson VUE Business Group complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU member states and Switzerland to the United States. The Pearson VUE Business Group has certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability (the “Privacy Shield Principles”). To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 The Pearson VUE Business Group is responsible for the processing of personal information it receives, under each Privacy Shield Framework, and subsequently transfers to other companies and individuals to perform functions or services on our behalf.
 
 We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU member states and Switzerland.
 
-The Pearson VUE Business Group has further committed to cooperate with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU or Switzerland. Click on [Resolution of Concerns](https://web.archive.org/Legal/Privacy-and-cookies-policy.aspx#resolution-of-concerns) for more detailed information.
+The Pearson VUE Business Group has further committed to cooperate with the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU or Switzerland. Click on Resolution of Concerns for more detailed information.
 
-Additionally, the Pearson VUE Business Group is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.  As further explained on the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/), as a last resort and in limited situations, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Additionally, the Pearson VUE Business Group is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. As further explained on the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/), as a last resort and in limited situations, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 ## CERTIFICATION, LICENSURE, AND ACADEMIC ADMISSION TEST SERVICES
 
@@ -83,7 +83,7 @@ In the event that you submit a request for an accommodation for your certificati
 
 ### Independent Testing Centers
 
-Certain certification, credentialing, licensure, and academic admission tests are administered through independent authorized testing centers. These authorized testing centers are required to use any data collected in compliance with this Privacy Policy. If you have unaddressed concerns about an independent testing center relating to certification, credentialing, licensure, or academic admission services provided by the Pearson VUE Business Group please contact us at [PearsonVUE Contracts@pearson.com](mailto:PearsonVUE%20Contracts@pearson.com) or you may call us at 1 (952) 681-3918.
+Certain certification, credentialing, licensure, and academic admission tests are administered through independent authorized testing centers. These authorized testing centers are required to use any data collected in compliance with this Privacy Policy. If you have unaddressed concerns about an independent testing center relating to certification, credentialing, licensure, or academic admission services provided by the Pearson VUE Business Group please contact us at [PearsonVUE Contracts@pearson.com](mailto:PearsonVUE%20Contracts@pearson.com) or you may call us at 1 (952) 681-3918.
 
 ## REMOTE PROCTORING TEST SERVICES
 
@@ -96,8 +96,6 @@ The video and audio recordings are standard test procedures for all test sponsor
 ### Personal Information Collected for Remote Proctoring Test Services
 
 All of the same personal information that we collect or receive as described above applies to you when you register to take a test sponsor’s remote proctored test. Prior to the start of your remote proctored test you may be required to hold up your ID documentation, (for example your driver license, passport or other approved ID that the sponsor designates), to be recorded on the video for the purpose of identity verification. The collection of such data is optional, but necessary if you choose to use the remote proctoring function. You understand that the audio- and video-tapes of your testing session will be supplied to the relevant test sponsor and any of their appointed agents to assist with their management of your test.
-
-## NCS PEARSON, INC. AS A TEST SPONSOR
 
 ### PTE Professional
 
@@ -157,11 +155,11 @@ We may disclose and transfer to third parties the information supplied in a Test
 
 ### Information Access and Corrections
 
-To access and correct any information supplied in a Test Center Application, please contact us at [PVAmericasChannelSales@pearson.com](mailto:PVAmericasChannelSales@pearson.com) or call (800) 247-8719 or +1 (952) 681-3000 (toll number).
+To access and correct any information supplied in a Test Center Application, please contact us at [PVAmericasChannelSales@pearson.com](mailto:PVAmericasChannelSales@pearson.com) or call (800) 247-8719 or +1 (952) 681-3000 (toll number).
 
 ### Questions
 
-If you have any questions or concerns about your Test Center Application or how we handle the data supplied in a Test Center Application, please contact us at [PVAmericasChannelSales@pearson.com](mailto:PVAmericasChannelSales@pearson.com).
+If you have any questions or concerns about your Test Center Application or how we handle the data supplied in a Test Center Application, please contact us at [PVAmericasChannelSales@pearson.com](mailto:PVAmericasChannelSales@pearson.com).
 
 ## INFORMATION POLICY RELATING TO BUSINESS DEVELOPMENT SUBMISSION FORMS
 
@@ -169,7 +167,7 @@ Through the “Contact Business Development” form on this site, you may provid
 
 ### Information Access and Corrections
 
-To access and correct any information supplied in the Contact Business Development form, please contact us at [pvamericassales@pearson.com](mailto:pvamericassales@pearson.com) or call (888)-627-7357.
+To access and correct any information supplied in the Contact Business Development form, please contact us at [pvamericassales@pearson.com](mailto:pvamericassales@pearson.com) or call (888)-627-7357.
 
 ## E-COMMERCE
 
@@ -196,8 +194,6 @@ We provide credentialing services as a service provider on behalf of credentiali
 ### Personal Information Collected for Credentialing Services
 
 The personal information that we collect or receive in registering you for credentialing services include: name, address, email address, phone number, fax number, credit/debit card information, company and title. We may also collect or receive the following additional information at registration or in the testing process, as necessary or appropriate, including but not limited to: language, date of birth, social security number, sponsor identification number, employment information, testing history, education information, and source of financing for your tests. For candidate verification and identification purposes, we may collect all or part of a government-issued identification number and mother’s maiden name.
-
-## THIRD PARTY WEBSITES AND SOCIAL MEDIA
 
 We may also collect information via third party websites such as Google, or via social media such as Twitter and Facebook. This information may include your name, address, username, email address, website visited, content posted, IP address, nationality, language, and other publicly available demographics. This information is used to improve the products and services that we offer, to identify and resolve customer service issues, and to provide the information and services you request.
 
@@ -229,7 +225,7 @@ We do not provide your personal information to any parties who at not connected 
 
 ## INFORMATION FROM CHILDREN
 
-We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA) and similar laws and regulations. Except in the case of the IC3 Exam, we do not knowingly collect personal information from children under the age of 13. If a child under the age of 13 has provided us with personal information, we ask that a parent or guardian contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at 1 (952) 681-3918. If you are under 18, please be sure to read this Privacy Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand.
+We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA) and similar laws and regulations. Except in the case of the IC3 Exam, we do not knowingly collect personal information from children under the age of 13. If a child under the age of 13 has provided us with personal information, we ask that a parent or guardian contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at 1 (952) 681-3918. If you are under 18, please be sure to read this Privacy Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand.
 
 ## AGGREGATION OF NON-PERSON-SPECIFIC DATA
 
@@ -237,11 +233,11 @@ We may statistically aggregate in non-person-specific form test responses and ot
 
 ## EMAIL NEWSLETTERS
 
-We may use your email address to send you email newsletters about certification, credentialing, licensure, or academic admission testing. You may opt out of receiving the newsletter at any time by notifying us by email at [PVMarketing@pearson.com](mailto:PVMarketing@pearson.com) or following the opt-out instructions provided in the email newsletter.
+We may use your email address to send you email newsletters about certification, credentialing, licensure, or academic admission testing. You may opt out of receiving the newsletter at any time by notifying us by email at [PVMarketing@pearson.com](mailto:PVMarketing@pearson.com) or following the opt-out instructions provided in the email newsletter.
 
 ## INFORMATION ACCESS AND CORRECTIONS
 
-To access and correct the personal information that we have collected under this Privacy Policy, please contact our Call Center or send us an email at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making alterations.
+To access and correct the personal information that we have collected under this Privacy Policy, please contact our Call Center or send us an email at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making alterations.
 
 ## PROTECTION OF CREDIT CARD INFORMATION
 
@@ -249,34 +245,34 @@ Individuals who make online purchases will be asked to provide credit/debit card
 
 ## RESOLUTION OF CONCERNS
 
-The Pearson VUE Business Group commits to resolve complaints about your privacy and our collection, use, transfer, or processing of your personal information. Individuals with inquires or concerns regarding this Privacy Policy should first contact the Pearson VUE Business Group at  [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at 1 (952) 681-3918.
+The Pearson VUE Business Group commits to resolve complaints about your privacy and our collection, use, transfer, or processing of your personal information. Individuals with inquires or concerns regarding this Privacy Policy should first contact the Pearson VUE Business Group at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or you may call us at 1 (952) 681-3918.
 
-Privacy Shield organizations commit to responding within 45 days of receiving an inquiry or complaint. If you believe you have not received a timely acknowledgement of your inquiry or concern, or if you believe your inquiry or concern was not satisfactorily addressed by the Pearson VUE Business Group you should contact (at no charge) your state or national data protection authority. A list of National Data Protection Authorities can be found by clicking on [National Data Protection Authorities](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). The Pearson VUE Business Group has committed to cooperate with the Data Protection Authorities and will comply with the information and advice provided to it by the panel of DPAs in relation to such unresolved complaints.
+Privacy Shield organizations commit to responding within 45 days of receiving an inquiry or complaint. If you believe you have not received a timely acknowledgement of your inquiry or concern, or if you believe your inquiry or concern was not satisfactorily addressed by the Pearson VUE Business Group you should contact (at no charge) your state or national data protection authority. A list of National Data Protection Authorities can be found by clicking on [National Data Protection Authorities](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). The Pearson VUE Business Group has committed to cooperate with the Data Protection Authorities and will comply with the information and advice provided to it by the panel of DPAs in relation to such unresolved complaints.
 
-As further explained on the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/), as a last resort and in limited situations, you may invoke binding arbitration when other dispute resolution processes have been exhausted.
+As further explained on the Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/), as a last resort and in limited situations, you may invoke binding arbitration when other dispute resolution processes have been exhausted.
 
 ## COOKIES AND WEB BEACONS
 
-_**Cookies.**_  Cookies are small text files that a web server places on your computer or mobile device. Cookies contain information that can later be read by the web server that originally placed the cookie on your computer or mobile device.
+_**Cookies.**_ Cookies are small text files that a web server places on your computer or mobile device. Cookies contain information that can later be read by the web server that originally placed the cookie on your computer or mobile device.
 
 Below is a list of the main types of cookies we use and what we use them for:
 
   * _**Strictly Necessary Cookies**_ : These cookies are essential in order to enable you to move around the Site and use its features, such as accessing secure areas of this Site. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
-  * _Performance Cookies:_  These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. Some of the performance cookies are analytics cookies using third party web analytics software, which allow us to understand more about how our Site is used. For example, like many companies we use Google Analytics, which may use performance cookies. We use Google Analytics to obtain web trend information about user interaction with this Site. We use this information for system administration purposes and to identify problems and improve service. While Google Analytics collects and reports information on an anonymous basis, Google Analytics uses cookies and collects IP addresses to gather web trend information. For more information about Google Analytics, and for links to Google’s Privacy Policy and an opt-out tool for Google Analytics, go to [www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html). Performance cookies are not used to collect information that identifies a visitor. All information these performance cookies collect is aggregated and therefore anonymous. The aggregated data is only used by us to improve how our Site works. We might also use performance cookies to highlight our products or services which we think will be of interest to you based on your use of our Site. By using this Site you agree we may place these types of cookies on your device.
-  * _**Functionality Cookies:**_  These cookies allow the Site to remember choices you make (such as your user name, language or the region you are located in) and provide enhanced, more personal features. For instance, these cookies can be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies is not used to track your browsing activity on other websites. These cookies are known as “functionality cookies” and help to improve a user’s experience of a website by providing a more personalized service. By using this Site you agree we may place these types of cookies on your device.
-  * _**Targeting or advertising cookies:**_  These cookies are used to deliver advertising materials relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization. Most of our Sites do not use targeting cookies. By using this Site you agree we may place these types of cookies on your device.
+  * _Performance Cookies:_ These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. Some of the performance cookies are analytics cookies using third party web analytics software, which allow us to understand more about how our Site is used. For example, like many companies we use Google Analytics, which may use performance cookies. We use Google Analytics to obtain web trend information about user interaction with this Site. We use this information for system administration purposes and to identify problems and improve service. While Google Analytics collects and reports information on an anonymous basis, Google Analytics uses cookies and collects IP addresses to gather web trend information. For more information about Google Analytics, and for links to Google’s Privacy Policy and an opt-out tool for Google Analytics, go to the [Google Privacy link](http://www.google.com/intl/en/analytics/privacyoverview.html). Performance cookies are not used to collect information that identifies a visitor. All information these performance cookies collect is aggregated and therefore anonymous. The aggregated data is only used by us to improve how our Site works. We might also use performance cookies to highlight our products or services which we think will be of interest to you based on your use of our Site. By using this Site you agree we may place these types of cookies on your device.
+  * _**Functionality Cookies:**_ These cookies allow the Site to remember choices you make (such as your user name, language or the region you are located in) and provide enhanced, more personal features. For instance, these cookies can be used to remember changes you have made to text size, fonts and other parts of web pages that you can customize. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies is not used to track your browsing activity on other websites. These cookies are known as “functionality cookies” and help to improve a user’s experience of a website by providing a more personalized service. By using this Site you agree we may place these types of cookies on your device.
+  * _**Targeting or advertising cookies:**_ These cookies are used to deliver advertising materials relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization. Most of our Sites do not use targeting cookies. By using this Site you agree we may place these types of cookies on your device.
 
 
 
-_**3rd Party Cookies and Social Networks.**_  If you click on a hyperlink from this Site to any third party websites (for example, if you 'share' content from our Site with friends or colleagues through social networks) or use third party services together with this Site, you may be acquire cookies from these third party websites. Third party websites will have their own privacy and cookie policies which we do not and cannot control. Please check the third-party websites for more information about their cookies and how to manage them. You should always review these third-party websites privacy policies.
+_**3rd Party Cookies and Social Networks.**_ If you click on a hyperlink from this Site to any third party websites (for example, if you 'share' content from our Site with friends or colleagues through social networks) or use third party services together with this Site, you may be acquire cookies from these third party websites. Third party websites will have their own privacy and cookie policies which we do not and cannot control. Please check the third-party websites for more information about their cookies and how to manage them. You should always review these third-party websites privacy policies.
 
 ### How to manage cookies
 
 If you block cookies or cookies are not enabled on your computer, it will mean that your browsing or shopping experience on our websites will be limited. Some active content, movies and online shopping baskets, for example, may not work correctly.
 
-To turn cookies on or off for all of our websites via your web browser, you can follow the instructions provided by the UK Information Commission Office at [ico.org.uk/for-the-public/online/cookies](https://ico.org.uk/for-the-public/online/cookies/).
+To turn cookies on or off for all of our websites via your web browser, you can follow the instructions provided by the UK Information Commission Office at [ico.org.uk/for-the-public/online/cookies](https://ico.org.uk/for-the-public/online/cookies/).
 
-_**Web Beacons.**_  Web Beacons are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data. For example, when you visit a page on this Site, the code for the page being visited may be transferred to us. The information transmitted to us is only used internally by us and is not shared with any third parties, except as provided in this Privacy Policy. We use this information for the following purposes:
+_**Web Beacons.**_ Web Beacons are small strings of code that provide a method for delivering a graphic image on a web page for the purpose of transferring data. For example, when you visit a page on this Site, the code for the page being visited may be transferred to us. The information transmitted to us is only used internally by us and is not shared with any third parties, except as provided in this Privacy Policy. We use this information for the following purposes:
 
   * To allow us to better understand the traffic patterns within our websites and, subsequently, to adjust our content to better respond to our visitors interests; and
   * To use the information we obtain to suggest materials and resources that may be of interest to you based on your use of our Site.
@@ -285,7 +281,7 @@ _**Web Beacons.**_  Web Beacons are small strings of code that provide a method
 
 By using this Site, you agree to the our use of the cookies as described above and to our use of web beacons for the collection of information in order to provide the products or services you have requested and for improvements, as we deem appropriate in our sole discretion, related to our products and services.
 
-_**Do Not Track Signals.**_  This Site does not respond to web browser “do not track” signals or comparable signals or mechanisms.
+_**Do Not Track Signals.**_ This Site does not respond to web browser “do not track” signals or comparable signals or mechanisms.
 
 ## UPDATES TO THIS PRIVACY POLICY
 
@@ -293,11 +289,11 @@ We reserve the right to update the terms of this Privacy Policy from time to tim
 
 By continuing to use our website after we post any such changes or updates you accept the privacy notice as modified.
 
-## HOW TO CONTACT US
-
-  * If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us at +1 (952) 681-3918.
-  * To contact a Pearson VUE customer service representative go to [home.pearsonvue.com/Test-taker/Customer-service.aspx](https://web.archive.org/Test-taker/Customer-service.aspx), search for your testing program’s name.
+  * If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us at +1 (952) 681-3918.
+  * To contact a [Pearson VUE customer service representative](https://home.pearsonvue.com/Test-taker/Customer-service.aspx). On this page, search for your testing program’s name.
 
 
 
 Revision Date October 31, 2017
+
+Close window
