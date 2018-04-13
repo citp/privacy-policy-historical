@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the prestigeconstructions.com privacy policy that was archived on 2017-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171211102952id_/http%3A//www.prestigeconstructions.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prestigeconstructions.com privacy policy that was archived on 2018-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180413154426id_/https%3A//www.prestigeconstructions.com/privacy) for the most accurate reproduction.-->
 
-<html lang="en-US" class="no-js"><head><style type="text/css">
+<html lang="en-US" class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head><style type="text/css">
 
 .read-more-2 {
     color: #a87c2c;
@@ -21,77 +21,745 @@
 
 </style>
 
-<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script>var arrTimes = [];
-var i = 0; // start
-var timesToTest = 5;
-var tThreshold = 600; //ms
-var testImage = "https://www.google.com/images/phd/px.gif"; // small image in your server
-var dummyImage = new Image();
-var isConnectedFast = false;
+<script>
+    var arrTimes = [];
+    var i = 0; // start
+    var timesToTest = 5;
+    var tThreshold = 600; //ms
+    var testImage = "https://www.google.com/images/phd/px.gif"; // small image in your server
+    var dummyImage = new Image();
+    var isConnectedFast = false;
 
-testLatency(function(avg){
-    isConnectedFast = (avg <= tThreshold);
-    if(isConnectedFast){
+    testLatency(function (avg) {
+        isConnectedFast = (avg <= tThreshold);
+        if (isConnectedFast) {
 
-    } else { 
-       document.getElementById("preloader2").style.display = "flex";
-       setTimeout(function(){ 
-            document.getElementById("preloader2").style.display = "none";
-        }, 60000);
+        } else {
+            document.getElementById("preloader2").style.display = "flex";
+            setTimeout(function () {
+                document.getElementById("preloader2").style.display = "none";
+            }, 60000);
 
+        }
+    });
+
+    /** test and average time took to download image from server, called recursively timesToTest times */
+    function testLatency(cb) {
+        var tStart = new Date().getTime();
+        if (i < timesToTest - 1) {
+            dummyImage.src = testImage + '?t=' + tStart;
+            dummyImage.onload = function () {
+                var tEnd = new Date().getTime();
+                var tTimeTook = tEnd - tStart;
+                arrTimes[i] = tTimeTook;
+                testLatency(cb);
+                i++;
+            };
+        } else {
+            /** calculate average of array items then callback */
+            var sum = arrTimes.reduce(function (a, b) {
+                return a + b;
+            });
+            var avg = sum / arrTimes.length;
+            cb(avg);
+        }
     }
-});
+</script>
+<script src="http://www.prestigeconstructions.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8.1" type="text/javascript" defer=""></script></head><body class="page-template page-template-Desclimer page-template-Desclimer-php page page-id-6261"><div id="preloader2" style="display:none;width: 100%;    height: 100%; position: fixed;    z-index: 999;    background: #000000">
+    <div class="preloader-tezt">
+        <p>
+            It appears that you are on a slow network, and as such request your patience while the site displays
+            herself!</p>
+        <p>If you do value your time, and for a better browsing experience, we strongly recommend upgrading your current
+            internet plan. Trust us on this, you will love the internet even more with high speeds! :)
+        </p>
+        <p style="
+    background: #000000 url(//www.prestigeconstructions.com/wp-content/uploads/2017/07/loading.svg) no-repeat center;
+    height:  50px;"></p>
+    </div>
+</div>
 
-/** test and average time took to download image from server, called recursively timesToTest times */
-function testLatency(cb) {
-    var tStart = new Date().getTime();
-    if (i<timesToTest-1) {
-        dummyImage.src = testImage + '?t=' + tStart;
-        dummyImage.onload = function() {
-            var tEnd = new Date().getTime();
-            var tTimeTook = tEnd-tStart;
-            arrTimes[i] = tTimeTook;
-            testLatency(cb);
-            i++;
-        };
-    } else {
-        /** calculate average of array items then callback */
-        var sum = arrTimes.reduce(function(a, b) { return a + b; });
-        var avg = sum / arrTimes.length;
-        cb(avg);
-    }
-}</script> </head><body class="page-template page-template-Desclimer page-template-Desclimer-php page page-id-6261"><div id="preloader2" style="display:none;width: 100%;    height: 100%; position: fixed;    z-index: 999;    background: #000000"><div class="preloader-tezt"><p> It appears that you are on a slower than normal connection, and as such request your patience while the site displays herself!</p><p>If you do value your time, and for a better browsing experience, we strongly recommend upgrading your current internet plan. Trust us on this, you will love the internet with high speeds! :)</p><p style="background: #000000 url(/wp-content/uploads/2017/07/loading.svg) no-repeat center;height:  50px;"></p></div></div><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"><link rel="profile" href="//gmpg.org/xfn/11"><link rel="shortcut icon" href="/images/fave-icon.ico"><link rel="shortcut icon" href="/images/fave-icon.png"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.0.1/css/intlTelInput.css"><title>Prestige</title><meta name="description" content=""><meta name="keywords" content=""> <script async="async" src="https://www.google.com/recaptcha/api.js?render=explicit"></script> <script async="async" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxF5ApeEwIGWbPSpr8icfox1Jl9SllY4A&amp;v=3&amp;libraries=places"></script> <link rel="dns-prefetch" href="//cdnjs.cloudflare.com"><link rel="dns-prefetch" href="//cdn.prestigeconstructions.com"><link rel="dns-prefetch" href="//cdn.jsdelivr.net"><link rel="dns-prefetch" href="//flaviusmatis.github.io"><link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com"><link rel="dns-prefetch" href="//code.ionicframework.com"><link rel="dns-prefetch" href="//s.w.org"><style class="custom-scrollbar" type="text/css">.mCustomScrollbar { overflow-y: hidden; overflow-x: hidden;}</style><link rel="stylesheet" id="popup-maker-site-css" href="/wp-content/plugins/popup-maker/assets/css/site.min.css" type="text/css" media="all"><link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="/wp-content/plugins/taxonomy-images/css/style.css" type="text/css" media="screen"><link rel="stylesheet" id="malihu-custom-scrollbar-css-css" href="/wp-content/plugins/custom-scrollbar//asset/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css" type="text/css" media="all"><link rel="stylesheet" id="default-01-css" href="/wp-content/themes/test/style.css" type="text/css" media="all"><link rel="stylesheet" id="default-02-css" href="/wp-content/themes/test/assets/css/main.php" type="text/css" media="all"><link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" media="all"><link rel="stylesheet" id="ionic-awesome-css" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" type="text/css" media="all"><link rel="stylesheet" id="fancybox-css" href="/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.css" type="text/css" media="screen"> <script type="text/javascript" src="/wp-includes/js/jquery/jquery.js"></script> <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js"></script> <script type="text/javascript" src="/wp-content/plugins/itro-popup/scripts/itro-scripts.js"></script> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tools/1.2.7/jquery.tools.min.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/social.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/custom.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/slider.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/newsclip-home.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/sdmenu.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/colorbox.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.opacityrollover-awards.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.galleriffic-awards.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/jquery.mCustomScrollbar.concat.min.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/ddaccordion.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/zoome.min.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.mmenu.min.all.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.lightSlider.js"></script> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js"></script> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js"></script> <script type="text/javascript" src="https://cdn.jsdelivr.net/toastr/2.1.3/toastr.min.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/intlTelInput.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/utils.js"></script> <script type="text/javascript" src="/wp-content/themes/test/assets/js/app.js"></script> <link rel="https://api.w.org/" href="/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 4.8.1"><link rel="canonical" href="/privacy/"><link rel="shortlink" href="/?p=6261"><link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fprivacy%2F"><link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fprivacy%2F&amp;format=xml"><style type="text/css" id="wp-custom-css">/* You can add your own CSS here. Click the help icon above to learn more. */ .high-item{ background: #b58531; padding: 7px; } .high-item:hover{ color:white !important; }</style><!-- Easy FancyBox 1.6 using FancyBox 1.3.8 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) --> <script type="text/javascript">/*  */
-var fb_timeout = null;
-var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : false, 'overlayOpacity' : 0.9, 'overlayColor' : '#000', 'showCloseButton' : true, 'padding' : 8, 'margin' : 20, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
-var easy_fancybox_handler = function(){
-	/* IMG */
-	var fb_IMG_select = 'a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpg"]:not(.nolightbox), a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpeg"]:not(.nolightbox), a[href*=".png"]:not(.nolightbox,li.nolightbox>a), area[href*=".png"]:not(.nolightbox), a[href*=".webp"]:not(.nolightbox,li.nolightbox>a), area[href*=".webp"]:not(.nolightbox)';
-	jQuery(fb_IMG_select).addClass('fancybox image');
-	jQuery('a.fancybox, area.fancybox, li.fancybox a').fancybox( jQuery.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : true, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : true }) );
-	/* Inline */
-	jQuery('a.fancybox-inline, area.fancybox-inline, li.fancybox-inline a').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'inline', 'autoDimensions' : true, 'scrolling' : 'no', 'easingIn' : 'easeOutBack', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false }) );
+
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <link rel="profile" href="//gmpg.org/xfn/11">
+    <link rel="shortcut icon" href="//www.prestigeconstructions.com/images/fave-icon.ico">
+    <link rel="shortcut icon" href="//www.prestigeconstructions.com/images/fave-icon.png">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.0.1/css/intlTelInput.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="https://thdoan.github.io/magnify/css/magnify.css">
+
+
+    <title>Prestige</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+    <script async="async" src="https://www.google.com/recaptcha/api.js?render=explicit"></script>
+
+    <script async="async" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBxF5ApeEwIGWbPSpr8icfox1Jl9SllY4A&amp;v=3&amp;libraries=places"></script>
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//cdn.prestigeconstructions.com">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//flaviusmatis.github.io">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//code.ionicframework.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.prestigeconstructions.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.1"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
 }
-var easy_fancybox_auto = function(){
-	/* Auto-click */
-	setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);
+</style>
+<style class="custom-scrollbar" type="text/css">.mCustomScrollbar { overflow-y: hidden; overflow-x: hidden;}</style><link rel="stylesheet" id="popup-maker-site-css" href="http://www.prestigeconstructions.com/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.6.6" type="text/css" media="all">
+<link rel="stylesheet" id="taxonomy-image-plugin-public-css" href="http://www.prestigeconstructions.com/wp-content/plugins/taxonomy-images/css/style.css?ver=0.9.6" type="text/css" media="screen">
+<link rel="stylesheet" id="malihu-custom-scrollbar-css-css" href="http://www.prestigeconstructions.com/wp-content/plugins/custom-scrollbar//asset/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css?ver=4.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="default-01-css" href="http://www.prestigeconstructions.com/wp-content/themes/test/style.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="default-02-css" href="http://www.prestigeconstructions.com/wp-content/themes/test/assets/css/main.php?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=1" type="text/css" media="all">
+<link rel="stylesheet" id="ionic-awesome-css" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css?ver=1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="//www.prestigeconstructions.com/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=4.8.1#asyncload"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-tools/1.2.7/jquery.tools.min.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/social.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/custom.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/slider.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/newsclip-home.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/sdmenu.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/colorbox.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.opacityrollover-awards.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.galleriffic-awards.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/scripts/jquery.mCustomScrollbar.concat.min.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/ddaccordion.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/zoome.min.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.mmenu.min.all.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.lightSlider.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/jquery.validate.min.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.15.0/additional-methods.min.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/toastr/2.1.3/toastr.min.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/intlTelInput.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/utils.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-content/themes/test/assets/js/app.js?ver=1#asyncload"></script>
+<link rel="https://api.w.org/" href="https://www.prestigeconstructions.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.prestigeconstructions.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.prestigeconstructions.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8.1">
+<link rel="canonical" href="https://www.prestigeconstructions.com/privacy/">
+<link rel="shortlink" href="https://www.prestigeconstructions.com/?p=6261">
+<link rel="alternate" type="application/json+oembed" href="https://www.prestigeconstructions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.prestigeconstructions.com%2Fprivacy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.prestigeconstructions.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.prestigeconstructions.com%2Fprivacy%2F&amp;format=xml">
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.high-item{
+background: #b58531;
+    padding: 7px;
 }
-/*  */</script> <style type="text/css">#fancybox-content{border-color:#1a1a1a}#fancybox-outer{background-color:#1a1a1a} #fancybox-title,#fancybox-title-float-main{color:#fff}</style><!--[if IE 8]><style type="text/css">.fancybox-ie #fancybox-title-over{background-image:url(/wp-content/plugins/easy-fancybox/fancybox/fancy_title_over.png); } .fancybox-bg{position:absolute;padding:0;margin:0;border:0;width:20px;height:20px;z-index:111001;} #fancybox-bg-n{top:-20px;left:0;width: 100%;}#fancybox-bg-ne{top:-20px;right:-20px;}#fancybox-bg-e{top:0;right:-20px;height:100%;}#fancybox-bg-se{bottom:-20px;right:-20px;}#fancybox-bg-s{bottom:-20px;left:0;width:100%;}#fancybox-bg-sw{bottom:-20px;left:-20px;}#fancybox-bg-w{top:0;left:-20px;height:100%;}#fancybox-bg-nw {top:-20px;left:-20px;} .fancybox-ie .fancybox-bg{background:transparent !important;} .fancybox-ie #fancybox-bg-n{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_n.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-ne{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_ne.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-e{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_e.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-se{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_se.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-s{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_s.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-sw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_sw.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-w{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_w.png", sizingMethod="scale");} .fancybox-ie #fancybox-bg-nw{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/wp-content/plugins/easy-fancybox/fancybox/fancy_shadow_nw.png", sizingMethod="scale");}</style><![endif]--><style id="pum-styles" type="text/css" media="all">/* Popup Google Fonts */ @import url('//fonts.googleapis.com/css?family=Acme|Montserrat'); /* Popup Theme 555429: Framed Border */ .pum-theme-555429, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } .pum-theme-555429 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } .pum-theme-555429 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } .pum-theme-555429 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } .pum-theme-555429 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } /* Popup Theme 555428: Cutting Edge */ .pum-theme-555428, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } .pum-theme-555428 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } .pum-theme-555428 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } .pum-theme-555428 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } .pum-theme-555428 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } /* Popup Theme 555427: Hello Box */ .pum-theme-555427, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } .pum-theme-555427 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } .pum-theme-555427 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } .pum-theme-555427 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } .pum-theme-555427 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } /* Popup Theme 555426: Enterprise Blue */ .pum-theme-555426, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } .pum-theme-555426 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } .pum-theme-555426 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } .pum-theme-555426 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } .pum-theme-555426 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } /* Popup Theme 555425: Light Box */ .pum-theme-555425, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } .pum-theme-555425 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } .pum-theme-555425 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } .pum-theme-555425 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } .pum-theme-555425 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } /* Popup Theme 555424: Default Theme */ .pum-theme-555424, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } .pum-theme-555424 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } .pum-theme-555424 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } .pum-theme-555424 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } .pum-theme-555424 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) }</style><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css"><style type="text/css">@media only screen and (max-width: 767px) and (orientation: landscape) { div#mm-0 { display: none; } #warning-message { display: flex !important; position: absolute; align-items: center; justify-content: center; z-index: 99999; width: 100%; height: 90vh; font-family: 'Playfair Display', serif; color: #FFF; font-size: 25px; text-transform: uppercase; background: rgba(0, 0, 0, 0.7); } .video_logo{ text-align: center; top: auto; } .video_logo p{ font-family: 'Playfair Display', serif; color: #fff; margin: 10px; } div#warning-message { display: block; } } @media only screen and (orientation: portrait) { #warning-message { display: none; } } .main-nav li .current-page-ancestor { color: #d2aa56; } .error { clear: both; font-size: 11px; font-family: 'AvantGarde Bk BT'; margin-left: 0px; margin-bottom: 00px; color: #a87c2c; } .sweet-alert h2 { color: #A87C2C !important; font-size: 30px; text-align: center; font-weight: 600; text-transform: none; position: relative; margin: 25px 0; padding: 0; line-height: 40px; display: block; } .sweet-alert { background-color: #060606; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; width: 478px; color: #bf8f27; padding: 17px; border-radius: 0px !important; text-align: center; position: fixed; left: 50%; top: 50%; margin-left: -256px; margin-top: -200px; overflow: hidden; display: none; z-index: 99999; border: 1px solid; } .sweet-alert button { background-color: #A87C2C !important; color: white; border: 0; box-shadow: none; font-size: 17px; font-weight: 500; -webkit-border-radius: 4px; border-radius: 0px; padding: 10px 32px; margin: 26px 5px 0 5px; cursor: pointer; } .sweet-alert { background-color: #0f0f0f; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; width: 478px; padding: 17px; border-radius: 5px; text-align: center; position: fixed; left: 50%; top: 50%; margin-left: -256px; margin-top: -200px; overflow: hidden; display: none; z-index: 99999; } .allinone_bannerRotator{ cursor: pointer !important; } #header_sticky{ display: none; }</style> <!--<div id="warning-message" style="disply:none">--> <!--<div class="video_logo">--> <!--          <a href="/"><img src="/wp-content/uploads/2017/01/prestige-group-logo.png" alt="Trousseau Week"></a>--> <!--<p>This website is best viewed in portrait mode.</p>--> <!--</div>--> <!--</div>--><div id="header_sticky"> <img id="sticky_close_btn" src="/wp-content/uploads/2017/08/close-bt.png"><p style="font-family: AvantGarde Bk BT">We are in the process of revising our website in accordance with the Real Estate (Regulation &amp; Development) Act, 2016 and the Rules made thereunder ("RERA"), which have been brought into effect from 1st May, 2017.</p><p style="font-family: AvantGarde Bk BT">As a result of this, we have updated our disclaimer policy, which can be found <a href="/disclaimer" style="text-decoration: underline;" target="_blank">here</a>. By continuing the use of our website, you are agreeing to these updated policies.</p></div><!--header_sticky--><div id="top-wrapper"><div class="top-section"><div class="logo"><div style="height:auto;"> <a href="/"><img src="/wp-content/uploads/2017/01/prestige-group-logo.png" alt="Prestige Group" title="Prestige Group"></a></div><div id="socialicons"> <a id="social_facebook" class="social_active" href="http://www.facebook.com/Prestige.group" target="_blank"><span></span></a> <a id="social_twitter" class="social_active" href="http://www.twitter.com/prestigegroup" target="_blank"><span></span></a> <a id="social_youtube" class="social_active" href="http://www.youtube.com/user/prestigegroupindia" target="_blank"><span></span></a> <a id="social_linkedin" class="social_active" href="http://www.linkedin.com/company/prestige-group-bangalore" target="_blank"><span></span></a></div></div><div class="main-menu"><div class="main-nav"><ul><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" href="/">Home</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/whats-new/just-launched/">What’s New</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/about-us/overview">About</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/investors/overview">Investors</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/nris/overview">NRIs</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/careers/overview">Careers</a></li><li><a class="menu-item menu-item-type-custom menu-item-object-custom" target="_blank" href="http://app.prestigeconstructions.com/">App</a></li><li><a class="high-item menu-item menu-item-type-custom menu-item-object-custom" target="_blank" href="/offers/">Offers</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/contact/offices/corporate">Contact</a></li></ul></div></ul></div><div class="contact-button"><div class="phone-button"> <img src="/wp-content/themes/test/assets/images/phone-icon.jpg" width="29" height="27" alt="phone" class="contact-form"></div><div class="search-button" style="display:block;"><div class="sbutton"><img src="/wp-content/themes/test/assets/images/search-icon.jpg" width="29" height="27" alt="phone" class="contact-form-2"></div></div></div></div><div class="contact-box"><div id="contact-form"><i class="close ion-android-close"></i><p> Toll Free No: <!-- 18003130080--> <a href="tel:18003130080">1800 313 0080</a><br> Tel No: <a href="tel:+918025591080">+91 80 2559 1080</a><br> Fax No: +91 80 2559 1945<br> Email: <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a></p></div></div><div class="contact-box-2"><div id="contact-form-2"><i class="close-2 ion-android-close"></i><div class="stext"><p>Please enter your search query below...</p><form method="get" action="/"> <input type="text" size="30" value="" name="s" id="inputString" class="text-box-popup" autocomplete="off"></form></div><div id="suggestions2"></div></div></div></div><div class="banner"><div class="callbacks_container"> <!-- IMAGES --><ul class="rslides"><li> <img src="/wp-content/uploads/2017/01/falcon-2.jpg" alt=""><p class="caption"><br> <span></span></p></li></ul></div></div></div> <!-- 1 --> <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script> <script type="text/javascript">(function ($) {
-		        jQuery("#countOfAwards").html("209 Awards of National & International Repute won over <br> the last 10 Years Stand testimony to the <br> quality and luxury of prestige group");
+.high-item:hover{
+color:white !important;
+}		</style>
+		<style id="pum-styles" type="text/css" media="all">
+	/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
+
+/* Popup Theme 555429: Framed Border */
+.pum-theme-555429, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-555429 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-555429 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-555429 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-555429 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+/* Popup Theme 555428: Cutting Edge */
+.pum-theme-555428, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-555428 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-555428 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-555428 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-555428 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 555427: Hello Box */
+.pum-theme-555427, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-555427 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-555427 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-555427 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-555427 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+/* Popup Theme 555426: Enterprise Blue */
+.pum-theme-555426, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-555426 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-555426 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-555426 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-555426 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 555425: Light Box */
+.pum-theme-555425, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
+.pum-theme-555425 .pum-container, .pum-theme-lightbox .pum-container { padding: 18px; border-radius: 3px; border: 8px solid #000000; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-555425 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-555425 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-555425 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { height: 30px; width: 30px; left: auto; right: -24px; bottom: auto; top: -24px; padding: 0px; color: #ffffff; font-family: inherit; font-size: 24px; line-height: 26px; border: 2px solid #ffffff; border-radius: 30px; box-shadow: 0px 0px 15px 1px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 1.00 ) } 
+
+/* Popup Theme 555424: Default Theme */
+.pum-theme-555424, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-555424 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-555424 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-555424 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.pum-theme-555424 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+
+	
+		</style>    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css">
+    <style type="text/css">
+
         
-    })(jQuery)</script> <noscript><div id="loading"><p class="j-enable">It appears that the Javascript on your browser is disabled, <br/>kindly enable it for best
-use of this website!</p></div> </noscript><div class="popup-menu"><div style="float:left; width:100%; background-color:#000;"><div class="menu-top"><div class="popup-menu-inner"><div class="m" onclick="getSubProjectlocation(this)">Residential</div><div class="m" onclick="getSubProjectlocation(this)">Commercial</div><div class="m" onclick="getSubProjectlocation(this)">Hospitality</div><div class="m" onclick="getSubProjectlocation(this)">Retail</div><div class="m" onclick="getSubProjectlocation(this)">Rentals</div><div class="m5" onclick="getSubProjectlocation(this)">Ready to Move In</div><div class="n"><div id="im" style="display:none;"><div class="close-menu"><img src="/images/close-button.png" width="18" height="18" alt="Close"></div><div id="left" style="margin-top:29px;"><ul id="location_sub"></ul></div><div id="right"><div class="r1"><div id="content_1" class="content"><div class="content-wrapper"><ul id="project_container"><li style="display:none;"></li></ul></div></div></div></div></div></div></div></div></div> <br class="clear"></div><div class="black-line"><div class="black-line-inner"><div class="black-line-inner-left">LATEST NEWS</div><div id="quote_wrap" style="height: 40px;"><blockquote><p>Markets Sell Off - Valuations in some segments reached bubble zones...<a href="/wp-content/uploads/2-news-4-dec-2017.pdf" target="_blank">Click to
-read more</a></p></blockquote><blockquote><p>Re 1 Note Turns 100 - Celebrate the note's centenary in all its avatars since 1917, when it was first...<a href="/wp-content/uploads/1-news-1-dec-2017.pdf" target="_blank">Click to
-read more</a></p></blockquote><blockquote><p>Market Drops Sharply on Broadbased Sell-off - Key benchmark indices dropped sharply on last trading day...<a href="/wp-content/uploads/2-news-1-dec-2017.pdf" target="_blank">Click to
-read more</a></p></blockquote><blockquote><p>Strong Market Breadth - Stocks hovered in negative zone in morning trade on negative Asian stocks...<a href="/wp-content/uploads/5-news-27-nov-2017.pdf" target="_blank">Click to
-read more</a></p></blockquote><blockquote><p>Ready Apartments are Top Picks for Homebuyers as Builder Delays Rise - Builders too are focusing on...<a href="/wp-content/uploads/1-news-25-nov-2017.pdf" target="_blank">Click to
-read more</a></p></blockquote></div></div></div><div class="home-content mobile-content"><div class="main-content"><div class="right-content1"><div class="privacy-content"><div class="heading">Privacy Policy</div><h5>This policy was last modified on 1st January 2014.</h5><h5>Statutory Message</h5><p>The information found on this website is conceptual and not a legal offering. The promoter reserves the right to change, alter, add or delete any of the specifications mentioned herein without prior permission or notice.</p><h5>What information do we collect?</h5><p>We collect information from you when you register on our site or fill out a form.</p><p>Any data we request that is not required will be specified as voluntary or optional.</p><p>When filling out a form on our site, for any of the above-mentioned reasons, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.</p><p>Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.</p><div id="show1" class="read-more-2">READ MORE</div><div class="subclass"><h5>What do we use your information for?</h5><p>Any of the information we collect from you may be used in one of the following ways:</p><ul><li>To personalize your experience (your information helps us to better respond to your individual needs)</li><li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)</li><li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)</li><li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer)</li><li>To send periodic emails</li></ul><p>The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.</p><p><strong>Note: </strong>If at any time you would like to unsubscribe from receiving future emails from us, simply respond to the email received letting us know the same &amp; we will have you taken off from our database.</p><h5>How do we protect your information?</h5><p>We implement a variety of security measures to maintain the safety of your personal information when you submit a request or enter, submit, or access your personal information.</p><p>These security measures include: password protected directories and databases to safeguard your information.</p><h5>Do we use cookies?</h5><p>Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser [if you allow] that enables the sites or service providers systems to recognize your browser and capture and remember certain information).</p><div id="show2" class="read-more-2">READ MORE</div></div><div class="sub2class"><h5>Do we disclose any information to outside parties?</h5><p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p><h5>Third-party links</h5><p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p><h5>California Online Privacy Protection Act Compliance</h5><p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p><h5>Children’s Online Privacy Protection Act Compliance</h5><p>We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p><h5>Online Privacy Policy Only</h5><p>This online Privacy Policy applies only to information collected through our website and not to information collected offline.</p><h5>Terms and Conditions</h5><p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a style="color: #a87c2c;" href="/terms" target="_blank" rel="noopener noreferrer">/terms</a>.</p><div id="show3" class="read-more-2">READ MORE</div></div><div class="sub3class"><h5>Your Consent</h5><p>By using our site, you consent to our Privacy Policy.</p><h5>Changes to our Privacy Policy</h5><p>If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date at the top of this page. Policy changes will apply only to information collected after the date of the change.</p><h5>Privacy Policy Customer Pledge</h5><p>We pledge to you, our customer, that we have made a dedicated effort to bring our Privacy Policy in line with the following important privacy laws and initiatives:</p><ul><li>Federal Trade Commission’s Fair</li><li>California Online Privacy Protection Act</li><li>Children’s Online Privacy Protection Act</li><li>Privacy Alliance</li><li>Trust Guard Privacy Requirements</li></ul><h5>Contact Information</h5><p>If there are any questions regarding this Privacy Policy you may contact us using the information below.</p><p><a style="color: #a87c2c;" href="/" target="_blank" rel="noopener noreferrer">Prestige Estates Projects Limited</a><br> The Falcon House,<br> #1, Main Guard Cross Road<br> Bangalore, Karnataka – 560001<br> India</p><p>+91 80 2559 1080<br> <a style="color: #a87c2c;" href="mailto:thecollection@prestigeconstructions.com" target="_blank" rel="noopener noreferrer">thecollection@prestigeconstructions.com</a></p></div></div><div class="socal-media-left"><div class="corporate-borchure"><div class="corporate-borchure-img"> <a href="https://www.facebook.com/Prestige.group"> <img src="/wp-content/uploads/2017/01/facebook1.png" width="40" height="40" alt="corporate"> </a></div><div class="corporate-borchure-text"> <a href="https://www.facebook.com/Prestige.group"> LIKE US ON FACEBOOK </a></div></div><div class="corporate-borchure"><div class="corporate-borchure-img"> <a href="https://twitter.com/prestigegroup"> <img src="/wp-content/uploads/2017/01/twitter1.png" width="40" height="40" alt="corporate"> </a></div><div class="corporate-borchure-text"> <a href="https://twitter.com/prestigegroup"> FOLLOW US ON TWITTER </a></div></div><div class="corporate-borchure"><div class="corporate-borchure-img"> <a href="https://www.youtube.com/user/prestigegroupindia"> <img src="/wp-content/uploads/2017/01/youtube1.png" width="40" height="40" alt="corporate"> </a></div><div class="corporate-borchure-text"> <a href="https://www.youtube.com/user/prestigegroupindia"> SUBSCRIBE TO US ON YOUTUBE </a></div></div><div class="corporate-borchure"><div class="corporate-borchure-img"> <a href="https://www.linkedin.com/company/prestige-group-bangalore"> <img src="/wp-content/uploads/2017/01/linkedin1.png" width="40" height="40" alt="corporate"> </a></div><div class="corporate-borchure-text"> <a href="https://www.linkedin.com/company/prestige-group-bangalore"> KEEP UP WITH US ON LINKEDIN </a></div></div><div class="corporate-borchure"><div class="corporate-borchure-img"> <a href="https://en.wikipedia.org/wiki/Prestige_Group"> <img src="/wp-content/uploads/2017/01/wikipedia.png" width="40" height="40" alt="corporate"> </a></div><div class="corporate-borchure-text"> <a href="https://en.wikipedia.org/wiki/Prestige_Group"> READ ABOUT US ON WIKIPEDIA </a></div></div></div></div></div><br class="clear"><div class="bottom-bg-main"></div> <script type="text/javascript">(function($){
+@media only screen and (max-width: 767px) {
+.temp_mob_img {
+    display: none !important;
+}
+}
+
+        @media only screen and (max-width: 767px) and (orientation: landscape) {
+            div#mm-0 {
+                display: none;
+            }
+
+            #warning-message {
+                display: flex !important;
+                position: absolute;
+                align-items: center;
+                justify-content: center;
+                z-index: 99999;
+                width: 100%;
+                height: 90vh;
+                font-family: 'Playfair Display', serif;
+                color: #FFF;
+                font-size: 25px;
+                text-transform: uppercase;
+                background: rgba(0, 0, 0, 0.7);
+            }
+
+            .video_logo {
+                text-align: center;
+                top: auto;
+            }
+
+            .video_logo p {
+                font-family: 'Playfair Display', serif;
+                color: #fff;
+                margin: 10px;
+            }
+
+            div#warning-message {
+                display: block;
+            }
+        }
+
+        @media only screen and (orientation: portrait) {
+            #warning-message {
+                display: none;
+            }
+        }
+
+        .main-nav li .current-page-ancestor {
+            color: #d2aa56;
+        }
+
+        .error {
+            clear: both;
+            font-size: 11px;
+            font-family: 'AvantGarde Bk BT';
+            margin-left: 0px;
+            margin-bottom: 00px;
+            color: #a87c2c;
+        }
+
+        .sweet-alert h2 {
+            color: #A87C2C !important;
+            font-size: 30px;
+            text-align: center;
+            font-weight: 600;
+            text-transform: none;
+            position: relative;
+            margin: 25px 0;
+            padding: 0;
+            line-height: 40px;
+            display: block;
+        }
+
+        .sweet-alert {
+            background-color: #060606;
+            font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            width: 478px;
+            color: #bf8f27;
+            padding: 17px;
+            border-radius: 0px !important;
+            text-align: center;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            margin-left: -256px;
+            margin-top: -200px;
+            overflow: hidden;
+            display: none;
+            z-index: 99999;
+            border: 1px solid;
+        }
+
+        .sweet-alert button {
+            background-color: #A87C2C !important;
+            color: white;
+            border: 0;
+            box-shadow: none;
+            font-size: 17px;
+            font-weight: 500;
+            -webkit-border-radius: 4px;
+            border-radius: 0px;
+            padding: 10px 32px;
+            margin: 26px 5px 0 5px;
+            cursor: pointer;
+        }
+
+        .sweet-alert {
+            background-color: #0f0f0f;
+            font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            width: 478px;
+            padding: 17px;
+            border-radius: 5px;
+            text-align: center;
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            margin-left: -256px;
+            margin-top: -200px;
+            overflow: hidden;
+            display: none;
+            z-index: 99999;
+        }
+
+        .allinone_bannerRotator {
+            cursor: pointer !important;
+        }
+
+        #header_sticky {
+            display: none;
+        }
+
+
+    </style>
+        <meta property="og:title" content="Prestige">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.prestigeconstructions.com/">
+    <meta property="og:image" content="https://www.prestigeconstructions.com/prestige-logo.jpg">
+    <meta property="og:site_name" content="Prestige Group">
+    <meta property="og:description" content="">
+
+
+<!--<div id="warning-message" style="disply:none">-->
+<!--  <div class="video_logo">-->
+<!--          <a href="/"><img src="//www.prestigeconstructions.com/wp-content/uploads/2017/01/prestige-group-logo.png" alt="Trousseau Week"></a>-->
+<!--    <p>This website is best viewed in portrait mode.</p>-->
+<!--  </div>-->
+<!--</div>-->
+
+
+
+
+
+<div id="header_sticky">
+    <img id="sticky_close_btn" src="//www.prestigeconstructions.com/wp-content/uploads/2017/08/close-bt.png">
+    <p style="font-family: AvantGarde Bk BT">We are in the process of revising our website in accordance with the Real
+        Estate (Regulation &amp; Development) Act, 2016 and the Rules made thereunder ("RERA"), which have been brought
+        into effect from 1st May, 2017.</p>
+    <p style="font-family: AvantGarde Bk BT">As a result of this, we have updated our disclaimer policy, which can be
+        found <a href="/disclaimer" style="text-decoration: underline;" target="_blank">here</a>. By continuing the use
+        of our website, you are agreeing to these updated policies.</p>
+</div><!--header_sticky-->
+
+
+<div id="top-wrapper">
+    <div class="top-section">
+        <div class="logo">
+            <div style="height:auto;">
+                <a href="http://www.prestigeconstructions.com"><img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/prestige-group-logo.png" alt="Prestige Group" title="Prestige Group"></a></div>
+            <div id="socialicons">
+                <a id="social_facebook" class="social_active" href="http://www.facebook.com/Prestige.group" target="_blank"><span></span></a>
+                <a id="social_twitter" class="social_active" href="http://www.twitter.com/prestigegroup" target="_blank"><span></span></a>
+                <a id="social_youtube" class="social_active" href="http://www.youtube.com/user/prestigegroupindia" target="_blank"><span></span></a>
+                <a id="social_linkedin" class="social_active" href="http://www.linkedin.com/company/prestige-group-bangalore" target="_blank"><span></span></a>
+            </div>
+        </div>
+        <div class="main-menu">
+            <div class="main-nav">
+                <ul>
+                    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li><a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" href="https://www.prestigeconstructions.com/">Home</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/whats-new/just-launched/">What’s New</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/about-us/overview">About</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/investors/overview">Investors</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/nris/overview">NRIs</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/careers/overview">Careers</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/awards/2018/">Awards</a></li><li><a class="menu-item menu-item-type-custom menu-item-object-custom" href="http://falcon-blog.prestigeconstructions.com">Blog</a></li><li><a class="menu-item menu-item-type-custom menu-item-object-custom" target="_blank" href="http://app.prestigeconstructions.com">App</a></li><li><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/contact/offices/corporate">Contact</a></li></ul></div>                </ul>
+            </div>
+            <div class="contact-button">
+                <div class="phone-button">
+                    <img src="http://www.prestigeconstructions.com/wp-content/themes/test/assets/images/phone-icon.jpg" width="29" height="27" alt="phone" class="contact-form">
+                </div>
+                <div class="search-button" style="display:block;">
+                    <div class="sbutton"><img src="http://www.prestigeconstructions.com/wp-content/themes/test/assets/images/search-icon.jpg" width="29" height="27" alt="phone" class="contact-form-2"></div>
+                </div>
+            </div>
+        </div>
+        <div class="contact-box">
+            <div id="contact-form"><i class="close ion-android-close"></i>
+                <p>
+                    Toll Free No:
+                    <!-- 18003130080-->                    <a href="tel:18003130080">1800 313 0080</a><br>
+                    Tel No: <a href="tel:+918025591080">+91 80 2559 1080</a><br>
+                    Fax No: +91 80 2559 1945<br>
+                    Email: <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a>
+                </p>
+            </div>
+        </div>
+        <div class="contact-box-2">
+            <div id="contact-form-2"><i class="close-2 ion-android-close"></i>
+                <div class="stext">
+                    <p>Please enter your search query below...</p>
+                    <form method="get" action="http://www.prestigeconstructions.com">
+                        <input type="text" size="30" value="" name="s" id="inputString" class="text-box-popup" autocomplete="off">
+                    </form>
+                </div>
+                <div id="suggestions2"></div>
+            </div>
+        </div>
+            </div>
+
+
+    <div class="banner">
+
+
+        
+        
+        
+
+            <div class="callbacks_container">
+                <!-- IMAGES -->
+                <ul class="rslides">
+
+
+                                            <li>
+                                                            <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/falcon-2.jpg" alt="">
+                                <p class="caption"><br>
+                                    <span></span>
+                                </p>
+                                                        </li>
+                                                                                
+                </ul>
+
+
+            </div>
+
+
+            </div>
+
+</div>
+
+<!-- 1 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+<script type="text/javascript">
+    (function ($) {
+                jQuery("#countOfAwards").html("218 Awards of National & International Repute won over <br> the last 11 Years Stand testimony to the <br> quality and luxury of prestige group");
+
+    })(jQuery)
+</script>
+<noscript>
+    <div id="loading">
+        <p class="j-enable">It appears that the Javascript on your browser is disabled, <br/>kindly enable it for best
+            use of this website!</p>
+    </div>
+</noscript>
+<div class="popup-menu">
+    <div style="float:left; width:100%; background-color:#000;">
+                <div class="menu-top">
+  <div class="popup-menu-inner">
+    
+    <div class="m" onclick="getSubProjectlocation(this)">Residential</div>
+    <div class="m" onclick="getSubProjectlocation(this)">Commercial</div>
+    <div class="m" onclick="getSubProjectlocation(this)">Hospitality</div>
+    <div class="m" onclick="getSubProjectlocation(this)">Retail</div>
+    <div class="m" onclick="getSubProjectlocation(this)">Rentals</div>
+    <div class="m5" onclick="getSubProjectlocation(this)">Ready to Move In</div>
+    <div class="n">
+ 
+      <div id="im" style="display:none;">
+       <div class="close-menu"><img src="//www.prestigeconstructions.com/images/close-button.png" width="18" height="18" alt="Close"> </div>  
+       
+        <div id="left" style="margin-top:29px;">
+          <ul id="location_sub">
+          </ul>
+        </div>
+        <div id="right">
+          <div class="r1">
+            <div id="content_1" class="content">
+              <div class="content-wrapper">
+                <ul id="project_container">
+               
+                  <li style="display:none;"></li>
+                  
+                  
+                </ul>
+                
+                
+              </div>
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+      
+      
+      
+    </div>
+  </div>
+  
+</div>    </div>
+    <br class="clear">
+</div>
+    <div class="black-line">
+        <div class="black-line-inner">
+                        <div class="black-line-inner-left">LATEST NEWS</div>
+            <div id="quote_wrap" style="height: 40px;">
+                                                            <blockquote><p>Realty Report Card gives Cheer, Sales Surge 15-20% in Last Quarter - It's a quarterly report card that Hyderabad's realty sector...<a href="https://www.prestigeconstructions.com/wp-content/uploads/1-news-27-mar-2018.pdf" target="_blank">Click to
+                                    read more</a></p></blockquote>
+                                            <blockquote><p>Real Estate: Regaining Lost Ground - The growth in the commercial space may continue, while the residential segment...<a href="https://www.prestigeconstructions.com/wp-content/uploads/1-news-26-mar-2018.pdf" target="_blank">Click to
+                                    read more</a></p></blockquote>
+                                            <blockquote><p>More Downs than Ups for Realty - The real estate sector went through a couple of downward cycles in the past 10 years...<a href="https://www.prestigeconstructions.com/wp-content/uploads/1-news-25-mar-2018.pdf" target="_blank">Click to
+                                    read more</a></p></blockquote>
+                                            <blockquote><p>Prestige Launches Residential Project - Real estate developer Prestige Group recently launched its new residential...<a href="https://www.prestigeconstructions.com/wp-content/uploads/1-news-23-mar-2018.pdf" target="_blank">Click to
+                                    read more</a></p></blockquote>
+                                            <blockquote><p>Markets Off Day's High in Late Trades - Markets off day's high in late trades as indices fail to hold on to intraday gains.<a href="https://www.prestigeconstructions.com/wp-content/uploads/3-news-23-mar-2018.pdf" target="_blank">Click to
+                                    read more</a></p></blockquote>
+                                                </div>
+        </div>
+            </div>
+
+<div class="home-content mobile-content">
+<div class="main-content">
+    <div class="right-content1">
+
+
+        <div class="privacy-content">
+                <div class="heading">Privacy Policy</div>
+                <h5>This policy was last modified on 1st January 2014.</h5>
+<h5>Statutory Message</h5>
+<p>The information found on this website is conceptual and not a legal offering. The promoter reserves the right to change, alter, add or delete any of the specifications mentioned herein without prior permission or notice.</p>
+<h5>What information do we collect?</h5>
+<p>We collect information from you when you register on our site or fill out a form.</p>
+<p>Any data we request that is not required will be specified as voluntary or optional.</p>
+<p>When filling out a form on our site, for any of the above-mentioned reasons, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.</p>
+<p>Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.</p>
+<div id="show1" class="read-more-2">READ MORE</div>
+<div class="subclass">
+<h5>What do we use your information for?</h5>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<ul>
+<li>To personalize your experience (your information helps us to better respond to your individual needs)</li>
+<li>To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)</li>
+<li>To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)</li>
+<li>To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer)</li>
+<li>To send periodic emails</li>
+</ul>
+<p>The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.</p>
+<p><strong>Note: </strong>If at any time you would like to unsubscribe from receiving future emails from us, simply respond to the email received letting us know the same &amp; we will have you taken off from our database.</p>
+<h5>How do we protect your information?</h5>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you submit a request or enter, submit, or access your personal information.</p>
+<p>These security measures include: password protected directories and databases to safeguard your information.</p>
+<h5>Do we use cookies?</h5>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser [if you allow] that enables the sites or service providers systems to recognize your browser and capture and remember certain information).</p>
+<div id="show2" class="read-more-2">READ MORE</div>
+</div>
+<div class="sub2class">
+<h5>Do we disclose any information to outside parties?</h5>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<h5>Third-party links</h5>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<h5>California Online Privacy Protection Act Compliance</h5>
+<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+<h5>Children’s Online Privacy Protection Act Compliance</h5>
+<p>We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<h5>Online Privacy Policy Only</h5>
+<p>This online Privacy Policy applies only to information collected through our website and not to information collected offline.</p>
+<h5>Terms and Conditions</h5>
+<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a style="color: #a87c2c;" href="http://www.prestigeconstructions.com/terms" target="_blank" rel="noopener noreferrer">http://www.prestigeconstructions.com/terms</a>.</p>
+<div id="show3" class="read-more-2">READ MORE</div>
+</div>
+<div class="sub3class">
+<h5>Your Consent</h5>
+<p>By using our site, you consent to our Privacy Policy.</p>
+<h5>Changes to our Privacy Policy</h5>
+<p>If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date at the top of this page. Policy changes will apply only to information collected after the date of the change.</p>
+<h5>Privacy Policy Customer Pledge</h5>
+<p>We pledge to you, our customer, that we have made a dedicated effort to bring our Privacy Policy in line with the following important privacy laws and initiatives:</p>
+<ul>
+<li>Federal Trade Commission’s Fair</li>
+<li>California Online Privacy Protection Act</li>
+<li>Children’s Online Privacy Protection Act</li>
+<li>Privacy Alliance</li>
+<li>Trust Guard Privacy Requirements</li>
+</ul>
+<h5>Contact Information</h5>
+<p>If there are any questions regarding this Privacy Policy you may contact us using the information below.</p>
+<p><a style="color: #a87c2c;" href="http://www.prestigeconstructions.com" target="_blank" rel="noopener noreferrer">Prestige Estates Projects Limited</a><br>
+The Falcon House,<br>
+#1, Main Guard Cross Road<br>
+Bangalore, Karnataka – 560001<br>
+India</p>
+<p>+91 80 2559 1080<br>
+<a style="color: #a87c2c;" href="mailto:thecollection@prestigeconstructions.com" target="_blank" rel="noopener noreferrer">thecollection@prestigeconstructions.com</a></p>
+</div>
+
+        </div>
+
+      <div class="socal-media-left">
+            <div class="corporate-borchure">
+        <div class="corporate-borchure-img"> <a href="https://www.facebook.com/Prestige.group"> <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/facebook1.png" width="40" height="40" alt="corporate"> </a> </div>
+        <div class="corporate-borchure-text"> <a href="https://www.facebook.com/Prestige.group"> LIKE US ON FACEBOOK </a> </div>
+      </div>
+            <div class="corporate-borchure">
+        <div class="corporate-borchure-img"> <a href="https://twitter.com/prestigegroup"> <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/twitter1.png" width="40" height="40" alt="corporate"> </a> </div>
+        <div class="corporate-borchure-text"> <a href="https://twitter.com/prestigegroup"> FOLLOW US ON TWITTER </a> </div>
+      </div>
+            <div class="corporate-borchure">
+        <div class="corporate-borchure-img"> <a href="https://www.youtube.com/user/prestigegroupindia"> <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/youtube1.png" width="40" height="40" alt="corporate"> </a> </div>
+        <div class="corporate-borchure-text"> <a href="https://www.youtube.com/user/prestigegroupindia"> SUBSCRIBE TO US ON YOUTUBE </a> </div>
+      </div>
+            <div class="corporate-borchure">
+        <div class="corporate-borchure-img"> <a href="https://www.linkedin.com/company/prestige-group-bangalore"> <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/linkedin1.png" width="40" height="40" alt="corporate"> </a> </div>
+        <div class="corporate-borchure-text"> <a href="https://www.linkedin.com/company/prestige-group-bangalore"> KEEP UP WITH US ON LINKEDIN </a> </div>
+      </div>
+            <div class="corporate-borchure">
+        <div class="corporate-borchure-img"> <a href="https://en.wikipedia.org/wiki/Prestige_Group"> <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/wikipedia.png" width="40" height="40" alt="corporate"> </a> </div>
+        <div class="corporate-borchure-text"> <a href="https://en.wikipedia.org/wiki/Prestige_Group"> READ ABOUT US ON WIKIPEDIA </a> </div>
+      </div>
+                </div>
+
+
+    </div>
+</div>
+
+<br class="clear">
+<div class="bottom-bg-main"></div>
+  <script type="text/javascript">
+(function($){
       $(window).load(function(){
 
-var AwardsCount = 209;
+var AwardsCount = 218;
 
 });
 
-    })(jQuery);</script> </div><style>#contactform{ margin-top: -15px; } .black-footer>.carousel>.jCarouselLitetop>ul>li{ overflow: hidden; }</style><div style="position:relative;" class="" id="ei-form-footer"><div class="home-popup" id="social-float"><p class="">Express Interest</p></div><div class="home-popup1" style="display: none;"><div class="troon"><form id="contactform"><p style="display: none;">Express Interest</p><div class="ctextbox"> <input type="text" name="_name" class="input-cus" placeholder="Name" onkeyup="this.value = this.value.replace(/[^a-zA-Z-. ]/g,'');" pattern="\s?(\S+\s?)*"></div><div class="ctextbox"> <input type="text" name="_Mobile" id="_Mobile" class="input-cus" placeholder="Mobile" maxlength="10" onkeyup="this.value = this.value.replace (/[^0-9]/g,'');"></div><div class="ctextbox"> <input type="text" name="_Email" class="input-cus" placeholder="Email" onkeyup="this.value = this.value.replace(/[^a-zA-Z0-9.@_]/g,'');"></div><div class="ctextbox"> <input type="text" name="_Message" class="input-cus" placeholder="Project Name"></div><div class="ctextbox-last"> <input type="submit" class="submit-button-footer" value="Submit" id="cformsub"></div></form> <img src="/images/pop-close-image.jpg" width="44" height="72" class="pop-close" alt="Close" id="close1"></div></div></div> <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script> <!-- Google Recaptcha --> <button id="myBtn" style="display:none;">Open Modal</button><div id="myModal" class="modal" ng-hide="formDone"><div class="modal-content popup-width" id="btntfollowForm" style="width:30%;padding-left: 12px;padding-right: 12px;padding-top: 10px;padding-bottom: 1%;box-shadow: 0px 1px 18px 5px #000000; background-color: #0a0a0a"><div class="heading-des" style="font-family: 'AvantGarde Bk BT'">Please confirm you are not a robot</div><div id="capt"></div></div></div> <!-- Google Recaptcha --><div class="quick-link" style="position:relative;"> <!--<div id="up">QUICK&nbsp;LINKS</div>--><div id="down">QUICK LINKS</div> <br></div><div id="quick-link"><div class="quick-link-inner"><div class="investors"><h3><a href="javascript:;">Investors</a></h3><ul style="float:left" class="quicklink"><div class="menu-investor-container"><ul id="menu-investor" class="menu"><li id="menu-item-24064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24064"><a href="/investors/overview">Investor Facts</a></li><li id="menu-item-24063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24063"><a href="/investors/get-quote/">Get Quote</a></li><li id="menu-item-24062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24062"><a href="/investors/financial-performance/balance-sheet/">Balance Sheet</a></li><li id="menu-item-24065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24065"><a href="/investors/interim-results/">Interim Results</a></li></ul></div></ul><ul style="float:left; margin-left:30px;" class="quicklink"><div class="menu-investor2-container"><ul id="menu-investor2" class="menu"><li id="menu-item-24070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24070"><a href="/investors/financial-performance/">Financial Performance</a></li><li id="menu-item-24071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24071"><a href="/investors/downloads/operational-performance/">Operational Performance</a></li><li id="menu-item-24069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24069"><a href="/investors/code-of-conduct/">Code of Conduct</a></li><li id="menu-item-24072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24072"><a href="/investors/share-holding-pattern/">Share Holding Pattern</a></li></ul></div></ul> <br class="clear"></div><div class="buyer-tools"><h3>Buyer Tools</h3><ul class="quicklink2"><div class="menu-tools-container"><ul id="menu-tools" class="menu"><li id="menu-item-24073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24073"><a href="/buyer-tools/emi-calculator/">EMI Calculator</a></li><li id="menu-item-24074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24074"><a href="/contact/make-an-enquiry/">Make an Enquiry</a></li><li id="menu-item-24075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24075"><a target="_blank" href="http://www.morph.prestigeconstructions.com/">Interior Design</a></li></ul></div></ul></div> <script src="/scripts/slider-new.js?ver=1"></script> <script>jQuery(function() {
+    })(jQuery);
+</script>
+</div>
+<style>
+    #contactform{
+        margin-top: -15px;
+    }
+
+    .black-footer>.carousel>.jCarouselLitetop>ul>li{
+        overflow: hidden;
+    }
+</style>
+<div style="position:relative;" class="" id="ei-form-footer">
+    <div class="home-popup" id="social-float">
+        <p class="">Express Interest</p>
+    </div>
+    <div class="home-popup1" style="display: none;">
+        <div class="troon">
+            <form id="contactform">
+                <p style="display: none;">Express Interest</p>
+                <div class="ctextbox">
+                    <input type="text" name="_name" class="input-cus" placeholder="Name" onkeyup="this.value = this.value.replace(/[^a-zA-Z-. ]/g,'');" pattern="\s?(\S+\s?)*">
+                </div>
+                <div class="ctextbox">
+                    <input type="text" name="_Mobile" id="_Mobile" class="input-cus" placeholder="Mobile" maxlength="10" onkeyup="this.value = this.value.replace (/[^0-9]/g,'');">
+                </div>
+                <div class="ctextbox">
+                    <input type="text" name="_Email" class="input-cus" placeholder="Email" onkeyup="this.value = this.value.replace(/[^a-zA-Z0-9.@_]/g,'');">
+                </div>
+                <div class="ctextbox">
+                    <input type="text" name="_Message" class="input-cus" placeholder="Project Name">
+                </div>
+                <div class="ctextbox-last">
+                    <input type="submit" class="submit-button-footer" value="Submit" id="cformsub">
+                </div>
+            </form>
+            <img src="//www.prestigeconstructions.com/images/pop-close-image.jpg" width="44" height="72" class="pop-close" alt="Close" id="close1">
+        </div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+
+<!-- Google Recaptcha -->
+<button id="myBtn" style="display:none;">Open Modal</button>
+<div id="myModal" class="modal" ng-hide="formDone">
+    <div class="modal-content popup-width" id="btntfollowForm" style="width:30%;padding-left: 12px;padding-right: 12px;padding-top: 10px;padding-bottom: 1%;box-shadow: 0px 1px 18px 5px #000000; background-color: #0a0a0a">
+        <div class="heading-des" style="font-family: 'AvantGarde Bk BT'">Please confirm you are not a robot</div>
+        <div id="capt">
+        </div>
+    </div>
+</div>
+<!-- Google Recaptcha -->
+
+
+
+
+<div class="quick-link" style="position:relative;">
+    <!--<div id="up">QUICK&nbsp;LINKS</div>-->
+    <div id="down">QUICK LINKS</div>
+    <br>
+</div>
+<div id="quick-link">
+    <div class="quick-link-inner">
+        <div class="investors">
+            <h3><a href="javascript:;">Investors</a></h3>
+            <ul style="float:left" class="quicklink">
+                <div class="menu-investor-container"><ul id="menu-investor" class="menu"><li id="menu-item-24064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24064"><a href="https://www.prestigeconstructions.com/investors/overview">Investor Facts</a></li>
+<li id="menu-item-24063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24063"><a href="https://www.prestigeconstructions.com/investors/get-quote/">Get Quote</a></li>
+<li id="menu-item-24062" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24062"><a href="https://www.prestigeconstructions.com/investors/financial-performance/balance-sheet/">Balance Sheet</a></li>
+<li id="menu-item-24065" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24065"><a href="https://www.prestigeconstructions.com/investors/interim-results/">Interim Results</a></li>
+</ul></div>            </ul>
+            <ul style="float:left; margin-left:30px;" class="quicklink">
+                <div class="menu-investor2-container"><ul id="menu-investor2" class="menu"><li id="menu-item-24070" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24070"><a href="https://www.prestigeconstructions.com/investors/financial-performance/">Financial Performance</a></li>
+<li id="menu-item-24071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24071"><a href="https://www.prestigeconstructions.com/investors/downloads/operational-performance/">Operational Performance</a></li>
+<li id="menu-item-24069" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24069"><a href="https://www.prestigeconstructions.com/investors/code-of-conduct/">Code of Conduct</a></li>
+<li id="menu-item-24072" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24072"><a href="https://www.prestigeconstructions.com/investors/share-holding-pattern/">Share Holding Pattern</a></li>
+</ul></div>            </ul>
+            <br class="clear">
+        </div>
+        <div class="buyer-tools">
+            <h3>Buyer Tools</h3>
+            <ul class="quicklink2">
+                <div class="menu-tools-container"><ul id="menu-tools" class="menu"><li id="menu-item-24073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24073"><a href="https://www.prestigeconstructions.com/buyer-tools/emi-calculator/">EMI Calculator</a></li>
+<li id="menu-item-24074" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24074"><a href="https://www.prestigeconstructions.com/contact/make-an-enquiry/">Make an Enquiry</a></li>
+<li id="menu-item-24075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24075"><a target="_blank" href="http://www.morph.prestigeconstructions.com/">Interior Design</a></li>
+</ul></div>            </ul>
+        </div>
+        <script src="//www.prestigeconstructions.com/scripts/slider-new.js?ver=1"></script>
+        <script>
+            jQuery(function() {
                 jQuery('body').on('keydown', 'input', function(e) {
                     console.log(this.value);
                     if (e.which === 32 &&  e.target.selectionStart === 0) {
@@ -101,7 +769,7 @@ var AwardsCount = 209;
             });
 
             if (jQuery('.corporate-top .corporate-heading2').text() == 'FALCON NEWS') {
-                jQuery('.corporate-borchure3 p a').attr('href', '/falcon-news/')
+                jQuery('.corporate-borchure3 p a').attr('href', '//www.prestigeconstructions.com/falcon-news/')
             }
             jQuery(document).keyup(function (e) {
                 if (e.keyCode === 27) {
@@ -121,7 +789,7 @@ var AwardsCount = 209;
                 if (inputString.length == 0) {
                     jQuery('#suggestions').fadeOut(); // Hide the suggestions box
                 } else {
-                    jQuery.post("/pageajax/?type=queryString", {
+                    jQuery.post("http://www.prestigeconstructions.com/pageajax/?type=queryString", {
                         queryString: "" + inputString + ""
                     }, function (data) { // Do an AJAX call
                         jQuery('#suggestions').fadeIn(); // Show the suggestions box
@@ -134,7 +802,7 @@ var AwardsCount = 209;
                 if (inputString.length == 0) {
                     jQuery('#suggestions2').fadeOut(); // Hide the suggestions box
                 } else {
-                    jQuery.post("/pageajax/?type=queryString&queryString=" + inputString, {
+                    jQuery.post("http://www.prestigeconstructions.com/pageajax/?type=queryString&queryString=" + inputString, {
                         queryString: "" + inputString + ""
                     }, function (data) { // Do an AJAX call
                         if (data != "") {
@@ -156,7 +824,10 @@ var AwardsCount = 209;
                 jQuery(".jCarouselLitetop").jCarouselLitetop({
                     btnNext: ".next",
                     btnPrev: ".prev",
-                    circular: false
+                    circular: false,
+                    auto: 800,
+                    speed: 1000,
+                    circular: true
                 });
                 jQuery('#menu-main-menu > li:last-child').addClass('last');
                 jQuery(".home-popup").click(function () {
@@ -239,7 +910,7 @@ var AwardsCount = 209;
                             
                             if (jQuery(window).width() < 767) {
                                 jQuery.ajax({
-                                url: "/wp-content/themes/test/forms/express_interest_email-mob.php",
+                                url: "http://www.prestigeconstructions.com/wp-content/themes/test/forms/express_interest_email-mob.php",
                                 type: "post",
                                 data: serializedData,
                                 success: function (e) {
@@ -253,7 +924,7 @@ var AwardsCount = 209;
                             });
                             } else{
                                 jQuery.ajax({
-                                url: "/wp-content/themes/test/forms/express_interest_email.php",
+                                url: "http://www.prestigeconstructions.com/wp-content/themes/test/forms/express_interest_email.php",
                                 type: "post",
                                 data: serializedData,
                                 success: function (e) {
@@ -276,27 +947,372 @@ var AwardsCount = 209;
                 } else {
                 }
                 //walkthrough video ends
-            });</script> <div class="social-media-footer"><h3>Social Media</h3><ul class="quicklink1"><li class="facebook"> <a href="http://www.facebook.com/Prestige.group" target="_blank">Facebook</a></li><li class="twitter"> <a href="http://www.twitter.com/prestigegroup" target="_blank">Twitter</a></li><li class="youtube"> <a href="http://www.youtube.com/user/prestigegroupindia" target="_blank">YouTube</a></li><li class="linkedin"> <a href="http://www.linkedin.com/company/prestige-group-bangalore" target="_blank">LinkedIn</a></li></ul></div><div class="estates-projects"><h3 style="text-align:left;"> <a href="/">Prestige Estates Projects Ltd</a>.</h3><p>The Falcon House,<br> No. 1, Main Guard Cross Road,<br> Bangalore - 560 001, Karnataka, India.<br> Tel:
-+91 80 2559
-1080 Fax: +91 80 2559 1945<br> <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a><br> Bangalore |
-Chennai | Hyderabad | Kochi | Mangalore | Mysore</p></div></div></div><div class="black-footer"><div class="carousel"> <a class="prev">&nbsp;</a><div class="jCarouselLitetop"><ul><li> <a href="http://www.24techhotel.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/twenty-four-tech-hotel.png" alt="" title="" border="0"></a></li><li> <a href="http://www.aloftbengalurucessnapark.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/aloft-hotel.png" alt="" title="" border="0"></a></li><li> <a href="http://www.angsana.prestigeconstructions.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/angsana.png" alt="" title="" border="0"></a></li><li> <a href="http://www.artbengaluru.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/art-bengaluru.png" alt="" title="" border="0"></a></li><li> <a href="http://www.cpmc.co.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/city-properties.png" alt="" title="" border="0"></a></li><li> <a href="http://forummalls.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/forum-mall-1.png" alt="" title="" border="0"></a></li><li> <a href="http://www.golfshire.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/golfshire.png" alt="" title="" border="0"></a></li><li> <a href="/nris/north-american-representative-indehaus-llc/" target="_blank"> <img src="/wp-content/uploads/2017/01/indehaus.png" alt="" title="" border="0"></a></li><li> <a href="http://www.inventureacademy.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/inventure-academy.png" alt="" title="" border="0"></a></li><li> <a href="http://www.morph.prestigeconstructions.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/morph.png" alt="" title="" border="0"></a></li><li> <a href="http://www.oakwood-ub-city.prestigeconstructions.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/oakwood-premier-bangalore.png" alt="" title="" border="0"></a></li><li> <a href="http://www.oakwood-whitefield.prestigeconstructions.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/oakwood-residence-whitefield.png" alt="" title="" border="0"></a></li><li> <a href="http://www.ppms.prestigeconstructions.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/ppms.png" alt="" title="" border="0"></a></li><li> <a href="http://www.interiors.prestigeconstructions.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/prestige-interiors.png" alt="" title="" border="0"></a></li><li> <a href="http://www.prestigeliving.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/prestige-living.png" alt="" title="" border="0"></a></li><li> <a href="http://www.prestigethemanstore.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/prestige-the-man-store.png" alt="" title="" border="0"></a></li><li> <a href="http://www.sublimegalleria.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/sublime.png" alt="" title="" border="0"></a></li><li> <a href="http://www.sublimehouseoftea.com/" target="_blank"> <img src="/wp-content/uploads/2017/06/sublime-house-tea.png" alt="" title="" border="0"></a></li><li> <a href="http://www.theluxurycollection.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/tlc.png" alt="" title="" border="0"></a></li><li> <a href="http://www.tqsc.co.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/tqsc.png" alt="" title="" border="0"></a></li><li> <a href="http://www.ubcitybangalore.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/ub-city.png" alt="" title="" border="0"></a></li><li> <a href="http://www.springgreen.in/" target="_blank"> <img src="/wp-content/uploads/2017/06/spring.png" alt="" title="" border="0"></a></li></ul></div> <a class="next">&nbsp;</a><div class="clear"></div></div></div><div class="footer-bg" id="footer"><div class="footer"><div class="footer-left"><div class="footer_menu_links"> <a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" href="/">Home</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/gallery/residential-projects/">Gallery</a><a class="menu-item menu-item-type-custom menu-item-object-custom" href="/awards/2017">Awards</a><a class="menu-item menu-item-type-custom menu-item-object-custom" target="_blank" href="http://falcon-blog.prestigeconstructions.com/">Blog</a><a class="menu-item menu-item-type-custom menu-item-object-custom" href="/pageajax/?getCurrentNews=check">News</a><a class="menu-item menu-item-type-custom menu-item-object-custom" href="http://videos.prestigeconstructions.com/">Videos</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/contact/offices/corporate">Contact Us</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/terms/">Terms of Use</a><a class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6261 current_page_item active" href="/privacy/">Privacy Policy</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="/disclaimer/">Disclaimer</a></div> ©
-2017 <a href="/">Official Website of Prestige Estates Projects Ltd.</a> <span>All rights reserved.</span></div><div class="footer-right"><div id="socialicons-1"> <a id="social_facebook-1" class="social_active" href="http://www.facebook.com/Prestige.group" target="_blank"> <span></span> </a> <a id="social_twitter-1" class="social_active" href="http://www.twitter.com/prestigegroup" target="_blank"> <span></span> </a> <a id="social_youtube-1" class="social_active" href="http://www.youtube.com/user/prestigegroupindia" target="_blank"> <span></span> </a> <a id="social_linkedin-1" class="social_active" href="http://www.linkedin.com/company/prestige-group-bangalore" target="_blank"> <span></span> </a></div> <br class="clear"> Concept, Design &amp; Development - <span><a href="//www.marchingantsllp.com/" target="_blank" class="m-ants">Marching Ants</a> </span></div><div class="clear"></div></div></div> <script type="text/javascript" src="//www.matchthemes.com/demowp/atrium/wp-content/themes/atrium/js/jquery.isotope.min.js"></script> <script type="text/javascript" src="//www.matchthemes.com/demowp/atrium/wp-content/themes/atrium/js/prettyphoto/js/jquery.prettyPhoto.js"></script> <style>/* POP-UP */ #age_button_area { padding-top:10px; position: relative; width: 100%; bottom: 5px; padding-top:5px; } #ageEnterButton { border-color:; background:; color: ; } #ageLeaveButton { border-color:; background:; color: ; } #popup_content { overflow-y:hidden; overflow-x: auto; height: 100%; width:100%; } #itro_popup { visibility: hidden; opacity: 0; position: fixed; background-image: ; background-repeat: no-repeat; background-position: center center; margin: 0 auto; left:1px; right:1px; z-index: 2147483647 !important; padding:10px !important; border: solid;border-color:#A87C2C; border-radius: 0px; border-width: 1px; width: 1000px; height: auto; background-color: #000000; } #close_cross { cursor:pointer; width:20px; position:absolute; top:-22px; right:-22px; } #popup_countdown { color: ; width: 100%; padding-top: 0px ; padding-bottom:0px ; background-color: #A87C2C; height: 0px ; overflow: hidden; position:absolute; bottom:0px; left:0px; border-bottom-left:0px; border-bottom-right:0px; } #itro_opaco{ display: none; position:fixed; background-color: #000000; font-size: 10px; font-family: Verdana; top: 100px; width: 100%; height: 100%; z-index: 2147483646 !important; left: 0px ; right: 0px; top: 0px; bottom: 0px; opacity: 0.90 ; filter:alpha(opacity = 90); /* For IE8 and earlier */ } /* label under the popup used to close it for mobile devices */ #ipp_mobile_close_tab{ display: none; border:none; position: absolute; padding: 5px; width: 80px; text-align: center; left: 1px; right: 1px; margin: auto; background-color: #A87C2C } #ipp_mobile_close_txt{ font-weight: bold; cursor: pointer; } /* RESPONSIVE CSS */ @media screen and (max-width: 780px) { #itro_popup{ max-width: 470px; position: absolute; top: 50px } #close_cross{ display: none; } #ipp_mobile_close_tab{ display: block; } } @media screen and (max-width: 480px){ #itro_popup{ max-width: 300px } }</style><div id="itro_popup" style="top: 151px; opacity: 1; visibility: visible;"> <img id="close_cross" src="/wp-content/uploads/2017/08/close-bt.png" alt="CLOSE" title="CLOSE" onclick="itro_exit_anim();"><div id="popup_content"><h4>Disclaimer</h4><p>Thank you for visiting The Prestige Group website.</p><p>We are currently in the process of revising our website in accordance with the Real Estate (Regulation and Development) Act, 2016 and the Rules made thereunder ("RERA"), which have been brought into effect from 1st May, 2017.</p><p>No information given on this Website creates a warranty or expands the scope of any warranty that cannot be disclaimed under applicable law. Your use of the Website is solely at your own risk.</p><p>Until our Website is duly revised and updated, none of the images, material, stock photography, projections, details, descriptions and other information that are currently available and/or displayed on the website including details of the projects/developments undertaken by the company including depictions by banners/posters of the project, should be deemed to be or constitute advertisements, solicitations, marketing, offer for sale, invitation to offer, invitation to acquire, including within the purview of the RERA.</p><p>You are therefore requested to directly verify all details and aspects of any proposed booking/acquisition of units/premises, directly with our authorised sales team. Please do not rely on the information contained on this website, until our revision and update is complete.</p><p>Please note, that we will not be accepting any bookings or allotments based on the images, material, stock photography, projections, details, descriptions that are currently available and/or displayed on the Website. We advise you to contact our Sales Team for further information.</p><p>We thank you for your patience and understanding.</p><button type="button" id="formClose2" onclick="itro_exit_anim();" class="desc-close">I Agree</button></div><div id="ipp_mobile_close_tab"> <span id="ipp_mobile_close_txt" onclick="itro_exit_anim();" style="color: rgb(87, 131, 211);">CLOSE</span></div></div><div id="itro_opaco" style="display: block;"></div> <script type="text/javascript">/* init var */
+            });
+        </script>
+        <div class="social-media-footer">
+            <h3>Social Media</h3>
+            <ul class="quicklink1">
+                <li class="facebook">
+                    <a href="http://www.facebook.com/Prestige.group" target="_blank">Facebook</a>
+                </li>
+                <li class="twitter">
+                    <a href="http://www.twitter.com/prestigegroup" target="_blank">Twitter</a>
+                </li>
+                <li class="youtube">
+                    <a href="http://www.youtube.com/user/prestigegroupindia" target="_blank">YouTube</a>
+                </li>
+                <li class="linkedin">
+                    <a href="http://www.linkedin.com/company/prestige-group-bangalore" target="_blank">LinkedIn</a>
+                </li>
+            </ul>
+        </div>
+        <div class="estates-projects">
+            <h3 style="text-align:left;">
+                <a href="http://www.prestigeconstructions.com">Prestige Estates Projects Ltd</a>.
+            </h3>
+            <p>The Falcon House,<br> No. 1, Main Guard Cross Road,<br> Bangalore - 560 001, Karnataka, India.<br> Tel:
+                +91 80 2559
+                1080 Fax: +91 80 2559 1945<br>
+                <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a><br>
+                Bangalore |
+                Chennai | Hyderabad | Kochi | Mangalore | Mysore</p>
+        </div>
+    </div>
+</div>
+<div class="black-footer">
+    <div class="carousel">
+        <a class="prev">&nbsp;</a>
+        <div class="jCarouselLitetop">
+            <ul>
+                                        <li>
+                            <a href="http://www.24techhotel.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/twenty-four-tech-hotel.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.aloftbengalurucessnapark.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/aloft-hotel.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="https://www.angsana.prestigeconstructions.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/angsana.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.artbengaluru.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/art-bengaluru.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.cpmc.co.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/city-properties.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://forummalls.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/forum-mall-1.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.golfshire.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/golfshire.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.prestigeconstructions.com/nris/north-american-representative-indehaus-llc/" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/01/indehaus.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.inventureacademy.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/inventure-academy.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="https://www.morph.prestigeconstructions.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/morph.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="https://www.oakwood-ub-city.prestigeconstructions.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/oakwood-premier-bangalore.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="https://www.oakwood-whitefield.prestigeconstructions.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/oakwood-residence-whitefield.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="https://www.ppms.prestigeconstructions.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/ppms.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="https://www.interiors.prestigeconstructions.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/prestige-interiors.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.prestigeliving.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/prestige-living.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.prestigethemanstore.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/prestige-the-man-store.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.sublimegalleria.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/sublime.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.sublimehouseoftea.com" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/sublime-house-tea.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.theluxurycollection.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/tlc.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.tqsc.co.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/tqsc.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.ubcitybangalore.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/ub-city.png" alt="" title="" border="0"></a>
+                        </li>
+                                            <li>
+                            <a href="http://www.springgreen.in" target="_blank">
+                                <img src="https://www.prestigeconstructions.com/wp-content/uploads/2017/06/spring.png" alt="" title="" border="0"></a>
+                        </li>
+                    
+                            </ul>
+        </div>
+        <a class="next">&nbsp;</a>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="footer-bg" id="footer">
+    <div class="footer">
+        <div class="footer-left">
+            <div class="footer_menu_links">
+                <a class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home" href="https://www.prestigeconstructions.com/">Home</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/gallery/residential-projects/">Gallery</a><a class="menu-item menu-item-type-custom menu-item-object-custom" href="https://www.prestigeconstructions.com/pageajax/?getCurrentNews=check">News</a><a class="menu-item menu-item-type-custom menu-item-object-custom" href="https://videos.prestigeconstructions.com">Videos</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/contact/offices/corporate">Contact Us</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/terms/">Terms of Use</a><a class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6261 current_page_item active" href="https://www.prestigeconstructions.com/privacy/">Privacy Policy</a><a class="menu-item menu-item-type-post_type menu-item-object-page" href="https://www.prestigeconstructions.com/disclaimer/">Disclaimer</a>            </div>
+            ©
+            2018            <a href="http://www.prestigeconstructions.com">Official Website of Prestige Estates Projects Ltd.</a> <span>All rights reserved.</span>
+        </div>
+        <div class="footer-right">
+            <div id="socialicons-1">
+                <a id="social_facebook-1" class="social_active" href="http://www.facebook.com/Prestige.group" target="_blank">
+                    <span></span>
+                </a>
+                <a id="social_twitter-1" class="social_active" href="http://www.twitter.com/prestigegroup" target="_blank">
+                    <span></span>
+                </a>
+                <a id="social_youtube-1" class="social_active" href="http://www.youtube.com/user/prestigegroupindia" target="_blank">
+                    <span></span>
+                </a>
+                <a id="social_linkedin-1" class="social_active" href="http://www.linkedin.com/company/prestige-group-bangalore" target="_blank">
+                    <span></span>
+                </a>
+            </div>
+            <br class="clear"> Concept, Design &amp; Development -
+            <span><a href="//www.marchingantsllp.com/" target="_blank" class="m-ants">Marching Ants</a>
+                    </span>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/prettyPhoto/3.1.6/js/jquery.prettyPhoto.min.js"></script>
+        
+
+    <style>
+        /* POP-UP */
+        #age_button_area
+        {
+    	padding-top:10px;
+    	position: relative;
+    	width: 100%;
+    	bottom: 5px;
+    	padding-top:5px;
+        }
+
+        #ageEnterButton
+        {
+    	border-color:;
+    	background:;
+    	color: ;
+        }
+
+        #ageLeaveButton
+        {
+    	border-color:;
+    	background:;
+    	color: ;
+        }
+
+        #popup_content
+        {
+	    overflow-y:hidden;    	overflow-x: auto;
+    	height: 100%;
+    	width:100%;
+        }
+
+        #itro_popup
+        {
+    	visibility: hidden;
+    	opacity: 0;
+    	position: fixed;
+    	background-image: ;
+    	background-repeat: no-repeat;
+    	background-position: center center;
+    	margin: 0 auto;
+    	left:1px;
+    	right:1px;
+    	z-index: 2147483647 !important;
+	    padding:10px !important;	    border: solid;border-color:#A87C2C;    	border-radius: 0px;
+    	border-width: 1px;
+    	width: 1000px;
+    	height: auto;
+    	background-color: #000000;
+	            }
+
+        #close_cross
+        {
+    	cursor:pointer; 
+    	width:20px; 
+    	position:absolute; 
+    	top:-22px; 
+    	right:-22px;
+        }
+
+        #popup_countdown 
+        {
+    	color: ;
+    	width: 100%;
+    	padding-top: 0px ;
+    	padding-bottom:0px ;
+    	background-color: #A87C2C;
+    	height: 0px ;
+    	overflow: hidden;
+    	position:absolute;
+    	bottom:0px;
+    	left:0px;
+    	border-bottom-left:0px;
+    	border-bottom-right:0px;
+        }
+
+        #itro_opaco{
+    	display: none;
+    	position:fixed;
+    	background-color:  #000000;
+    	font-size: 10px;
+    	font-family: Verdana;
+    	top: 100px;    
+    	width: 100%;
+    	height: 100%;
+    	z-index: 2147483646 !important;
+    	left: 0px ;
+    	right: 0px;
+    	top: 0px;
+    	bottom: 0px;
+    	opacity: 0.90 ;
+    	filter:alpha(opacity = 90); /* For IE8 and earlier */
+        }
+
+        /* label under the popup used to close it for mobile devices */
+        #ipp_mobile_close_tab{
+    	display: none;
+    	border:none;
+    	position: absolute;
+    	padding: 5px;
+    	width: 80px;
+    	text-align: center;
+    	left: 1px;
+    	right: 1px;
+    	margin: auto;
+    	background-color: #A87C2C        }
+        #ipp_mobile_close_txt{
+    	font-weight: bold;
+    	cursor: pointer;
+        }
+
+        /* RESPONSIVE CSS */
+        @media screen and (max-width: 780px)
+        {
+    	#itro_popup{
+    	    max-width: 470px;
+		position: absolute; top: 50px    	}
+    	#close_cross{
+    	    display: none;
+    	}
+    	#ipp_mobile_close_tab{
+    	    display: block;
+    	}
+        }
+        @media screen and (max-width: 480px){
+    	#itro_popup{
+    	    max-width: 300px
+    	}
+        }
+
+	    </style>
+    	<div id="itro_popup">
+	<img id="close_cross" src="https://www.prestigeconstructions.com/wp-content/uploads/2017/08/close-bt.png" alt="CLOSE" title="CLOSE" onclick="itro_exit_anim();">		<div id="popup_content"><h4>Disclaimer</h4><p>Thank you for visiting The Prestige Group website.</p><p>We are currently in the process of revising our website in accordance with the Real Estate (Regulation and Development) Act, 2016 and the Rules made thereunder ("RERA"), which have been brought into effect from 1st May, 2017.</p><p>No information given on this Website creates a warranty or expands the scope of any warranty that cannot be disclaimed under applicable law. Your use of the Website is solely at your own risk.</p><p>Until our Website is duly revised and updated, none of the images, material, stock photography, projections, details, descriptions and other information that are currently available and/or displayed on the website including details of the projects/developments undertaken by the company including depictions by banners/posters of the project, should be deemed to be or constitute advertisements, solicitations, marketing, offer for sale, invitation to offer, invitation to acquire, including within the purview of the RERA.</p><p>You are therefore requested to directly verify all details and aspects of any proposed booking/acquisition of units/premises, directly with our authorised sales team. Please do not rely on the information contained on this website, until our revision and update is complete.</p><p>Please note, that we will not be accepting any bookings or allotments based on the images, material, stock photography, projections, details, descriptions that are currently available and/or displayed on the Website. We advise you to contact our Sales Team for further information.</p><p>We thank you for your patience and understanding.</p><button type="button" id="formClose2" onclick="itro_exit_anim();" class="desc-close">I Agree</button>		</div>
+				<div id="ipp_mobile_close_tab">
+			<span id="ipp_mobile_close_txt" onclick="itro_exit_anim();">CLOSE</span>
+		</div> 
+			</div>
+	<div id="itro_opaco"></div>
+	<script type="text/javascript">
+	/* init var */
 	itro_cookie_expiration = 24;
 	itro_is_preview = false;/* pass true if is the preview page. used for cookie control via js due W3 total cache or similar */
 	auto_margin = "yes";
 	
 	/* invert the color of the mobile close tab label text */
 	jQuery('#ipp_mobile_close_txt').css({color: itro_invert_color(itro_rgb2hex(jQuery('#itro_popup').css('border-bottom-color'))) });
-	itro_age_restriction = false;				itro_enter_anim(auto_margin);</script> <script type="text/javascript" src="/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.hoverIntent.minified.js"></script> <script type="text/javascript" src="/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.cookie.js"></script> <script type="text/javascript" src="/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.dcjqaccordion.2.9.js"></script> <script type="text/javascript" src="/wp-content/plugins/custom-scrollbar//asset/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script> <script type="text/javascript">/*  */
+	itro_age_restriction = false;				itro_enter_anim(auto_margin);
+				</script>
+<script type="text/javascript" src="https://www.prestigeconstructions.com/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.hoverIntent.minified.js?ver=1"></script>
+<script type="text/javascript" src="https://www.prestigeconstructions.com/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.cookie.js?ver=1"></script>
+<script type="text/javascript" src="https://www.prestigeconstructions.com/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.dcjqaccordion.2.9.js?ver=1"></script>
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-content/plugins/custom-scrollbar//asset/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js?ver=4.8.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
 var custom_scrollbar_enabler = {"scrollbars":[{"name":"Horizontal Scrollbar","status":true,"selector":".mCustomScrollbar","height":{"size":"","unit":"px"},"width":{"size":"","unit":"px"},"position":"inside","inline_css":[{"property":"","value":""}],"theme":"light","mouseWheel":{"enable":true,"scrollAmount":"auto"},"keyboard":{"enable":true,"scrollAmount":"auto"},"scrollButtons":{"enable":false,"scrollAmount":"auto","scrollType":"stepped"},"mCSB_draggerContainer":"","mCSB_dragger":"","mCSB_dragger_bar":"","mCSB_draggerRail":"","mCSB_scrollTools":"","initialize_on_ajax_load":false,"responsive":{"enable":false,"screen_width_range":[[1,0]]}}]};
-/*  */</script> <script type="text/javascript" src="/wp-content/plugins/custom-scrollbar//asset/js/custom-scrollbar-enabler.min.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.easing.1.3.js"></script> <script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/gb.js"></script> <script type="text/javascript" src="//flaviusmatis.github.io/simplePagination.js/jquery.simplePagination.js"></script> <script type="text/javascript" src="/wp-includes/js/wp-embed.min.js"></script> <script type="text/javascript" src="/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js"></script> <script type="text/javascript" src="/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js"></script> <script type="text/javascript" src="/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js"></script> <script type="text/javascript">jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create/button"]').addClass('nolightbox'); });
-jQuery(document).on('ready post-load',easy_fancybox_handler);
-jQuery(document).on('ready',easy_fancybox_auto);</script> <div style="float:left; width:80%; position:absolute;"> <nav id="menu" class="mm-menu mm-effect-slide-menu mm-pageshadow mm-offcanvas mm-hasnavbar-top-2 mm-hasnavbar-bottom-1 mm-current"><ul><li><a href="/about-us"><span><img src="/images/mobile/icons/about.png" alt="About Prestige"></span>About
-Prestige</a></li><li><a href="/prestige-awards"><span><img src="/images/mobile/icons/awards.png" alt="Awards"></span>Awards</a></li><li><a href="/offers/"><span><img src="/images/mobile/icons/about.png" alt="Offers"></span>Offers</a></li><li><a href="/pageajax/?getCurrentNews=check"><span><img src="/images/mobile/icons/news.png" alt="News"></span>News</a></li><li><a href="/contact/make-an-enquiry/"><span><img src="/images/mobile/icons/awards.png" alt="Contact Us"></span>Contact Us</a></li><li><a onclick="show_social('master-plan-1')" href="javascript:void(0)" id="mobile_menu_social_media"><span><img src="/images/mobile/icons/social-media.png" alt="Social Media"></span>Social Media</a></li><li><a href="/terms"><span><img src="/images/mobile/icons/terms.png" alt="Terms of Use"></span>Terms of Use</a></li><li><a href="/privacy"><span><img src="/images/mobile/icons/terms.png" alt="Privacy Policy"></span>Privacy
-Policy</a></li><li><a href="/disclaimer/"><span><img src="/images/mobile/icons/terms.png" alt="Disclaimer"></span>Disclaimer</a></li><div class="m-contact-home"><span>Contact Information</span><p>The Falcon House<br> No. 1, Main Guard Cross Road,<br> Bangalore - 560 001. Karnataka, India<br> Tel:
-+ 91 80 2559 1080<br> <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a></p></div><div class="m-social"> <a href="//www.facebook.com/Prestige.group" target="_blank"><img src="/images/mobile/icons/facebook.png" alt="facebook"></a> <a href="//twitter.com/prestigegroup" target="_blank"><img src="/images/mobile/icons/twitter.png" alt="twitter"></a> <a href="//www.youtube.com/user/prestigegroupindia" target="_blank"><img src="/images/mobile/icons/youtube.png" alt="YouTube"></a> <a href="//www.linkedin.com/company/prestige-group-bangalore" target="_blank"><img src="/images/mobile/icons/linkedin.png" alt="linkedIn"></a></div><p style="display: flex;">Designed &amp; Developed for Prestige by Marching Ants</p></ul> </nav></div> <input type="hidden" id="port-id" value="6261"> <script type="text/javascript">jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create/button"]').addClass('nolightbox'); });
-jQuery(document).on('ready post-load',easy_fancybox_handler);
-jQuery(document).on('ready',easy_fancybox_auto);</script> <script>jQuery(window).on('load', function () {
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-content/plugins/custom-scrollbar//asset/js/custom-scrollbar-enabler.min.js?ver=4.8.1"></script>
+<script type="text/javascript" src="https://cdn.prestigeconstructions.com/assets/js/jquery.easing.1.3.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-content/themes/test/assets/js/gb.js?ver=192#asyncload"></script>
+<script type="text/javascript" src="//flaviusmatis.github.io/simplePagination.js/jquery.simplePagination.js?ver=1#asyncload"></script>
+<script type="text/javascript" src="http://www.prestigeconstructions.com/wp-includes/js/wp-embed.min.js?ver=4.8.1"></script>
+
+<div style="float:left; width:80%; position:absolute;">
+    <nav id="menu" class="mm-menu mm-effect-slide-menu mm-pageshadow mm-offcanvas mm-hasnavbar-top-2 mm-hasnavbar-bottom-1 mm-current">
+        <ul>
+            <li><a href="/about-us"><span><img src="/images/mobile/icons/about.png" alt="About Prestige"></span>About
+                    Prestige</a></li>
+            <li><a href="http://www.prestigeconstructions.com/prestige-awards"><span><img src="/images/mobile/icons/awards.png" alt="Awards"></span>Awards</a></li>
+            <li><a href="https://www.prestigeconstructions.com/offers/"><span><img src="/images/mobile/icons/about.png" alt="Offers"></span>Offers</a></li>
+            <li><a href="https://www.prestigeconstructions.com/pageajax/?getCurrentNews=check"><span><img src="/images/mobile/icons/news.png" alt="News"></span>News</a></li>
+            <li><a href="//www.prestigeconstructions.com/contact/make-an-enquiry/"><span><img src="/images/mobile/icons/awards.png" alt="Contact Us"></span>Contact Us</a></li>
+            <li><a onclick="show_social('master-plan-1')" href="javascript:void(0)" id="mobile_menu_social_media"><span><img src="/images/mobile/icons/social-media.png" alt="Social Media"></span>Social Media</a>
+            </li>
+            <li><a href="/terms"><span><img src="/images/mobile/icons/terms.png" alt="Terms of Use"></span>Terms of Use</a>
+            </li>
+            <li><a href="/privacy"><span><img src="/images/mobile/icons/terms.png" alt="Privacy Policy"></span>Privacy
+                    Policy</a></li>
+            <li><a href="/disclaimer/"><span><img src="/images/mobile/icons/terms.png" alt="Disclaimer"></span>Disclaimer</a>
+            </li>
+            <div class="m-contact-home"><span>Contact Information</span>
+                <p>The Falcon House<br> No. 1, Main Guard Cross Road,<br> Bangalore - 560 001. Karnataka, India<br> Tel:
+                    + 91 80 2559 1080<br>
+                    <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a></p>
+            </div>
+            <div class="m-social">
+                <a href="//www.facebook.com/Prestige.group" target="_blank"><img src="/images/mobile/icons/facebook.png" alt="facebook"></a>
+                <a href="//twitter.com/prestigegroup" target="_blank"><img src="/images/mobile/icons/twitter.png" alt="twitter"></a>
+                <a href="//www.youtube.com/user/prestigegroupindia" target="_blank"><img src="/images/mobile/icons/youtube.png" alt="YouTube"></a>
+                <a href="//www.linkedin.com/company/prestige-group-bangalore" target="_blank"><img src="/images/mobile/icons/linkedin.png" alt="linkedIn"></a>
+            </div>
+            <p style="display: flex;">Designed &amp; Developed for Prestige by Marching Ants</p>
+        </ul>
+    </nav>
+</div>
+<input type="hidden" id="port-id" value="6261">
+<script>
+
+jQuery(window).on('load', function () {
 
     if(jQuery('body').hasClass('page-template-awards_test')){
         var a = jQuery('.footer_menu_links').children();
@@ -422,11 +1438,11 @@ jQuery(document).on('ready',easy_fancybox_auto);</script> <script>jQuery(window)
                 }
             });
         }, 500);
-        if (jQuery('.heading1:contains("ï¿½")')) {
-            // jQuery('.heading1').text(function(){ return jQuery('.heading1').text().replace('ï¿½','-')})
+        if (jQuery('.heading1:contains("�")')) {
+            // jQuery('.heading1').text(function(){ return jQuery('.heading1').text().replace('�','-')})
         }
         if (jQuery('.heading').length > 0) {
-            // jQuery('.heading').text(function(){ return jQuery('.heading').text().replace('ï¿½','-')})
+            // jQuery('.heading').text(function(){ return jQuery('.heading').text().replace('�','-')})
         }
         jQuery('.award_yr').click(function () {
             jQuery('#menu-main-menu li:eq(7) a').addClass('active');
@@ -500,7 +1516,13 @@ jQuery(document).on('ready',easy_fancybox_auto);</script> <script>jQuery(window)
         jQuery('.mobile-content').fadeOut();
         jQuery('.m-property').fadeOut();
         jQuery("#" + social_id).fadeIn();
-    }</script> <script type="text/javascript">/*! //responsiveslides.com v1.54 by @viljamis */
+    }
+</script>
+        
+<script type="text/javascript">
+
+
+/*! //responsiveslides.com v1.54 by @viljamis */
 (function(c, I, B) {
     c.fn.responsiveSlides = function(l) {
         var a = c.extend({
@@ -712,12 +1734,31 @@ jQuery(function() {
         b.async = true;
         b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
         s.parentNode.insertBefore(b, s);
-    })();</script> <noscript> <img height="1" width="1" style="display:none;" alt=""
-src="https://dc.ads.linkedin.com/collect/?pid=61913&fmt=gif"/> </noscript><!-- Global Site Tag (gtag.js) - Google Analytics --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-22357082-2"></script> <script type="text/javascript">window.dataLayer = window.dataLayer || [];
+    })();
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none;" alt=""
+         src="https://dc.ads.linkedin.com/collect/?pid=61913&fmt=gif"/>
+</noscript>
+
+
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-22357082-2"></script>
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments)};
   gtag('js', new Date());
  
-  gtag('config', 'UA-22357082-2');</script> <!-- Google Code for All Project Leads Conversion Page In your html page, add the snippet and call goog_report_conversion when someone clicks on the chosen link or button. --> <script type="text/javascript">/*  */
+  gtag('config', 'UA-22357082-2');
+
+    
+</script>
+  
+<!-- Google Code for All Project Leads Conversion Page In your html page, add the snippet and call goog_report_conversion when someone clicks on the chosen link or button. --> 
+<script type="text/javascript">
+
+   /* <![CDATA[ */
 
    goog_snippet_vars = function() {
 
@@ -761,7 +1802,16 @@ src="https://dc.ads.linkedin.com/collect/?pid=61913&fmt=gif"/> </noscript><!-- G
 
 }
 
-/*  */</script> <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js"></script> <script type="text/javascript">window.onbeforeunload = function () {
+/* ]]> */
+
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
+
+</script>
+<script type="text/javascript">
+
+            window.onbeforeunload = function () {
                 window.scrollTo(0, 0);
             }
 
@@ -775,7 +1825,71 @@ src="https://dc.ads.linkedin.com/collect/?pid=61913&fmt=gif"/> </noscript><!-- G
 
             jQuery(document).scroll(function () {
                 checkOffset();
-            });</script> <nav style="z-index:9999;" id="menu" class="mm-menu mm-effect-slide-menu mm-pageshadow mm-offcanvas mm-hasnavbar-top-2 mm-hasnavbar-bottom-1"><div class="mm-navbar mm-navbar-bottom mm-navbar-bottom-1 mm-navbar-size-1"><a href="//mmenu.frebsite.nl/wordpress-plugin.html" target="_blank">WordPress plugin</a></div><div class="mm-navbar mm-navbar-top mm-navbar-top-2 mm-navbar-size-1 mm-hasbtns"><a class="mm-prev mm-btn mm-hidden"></a><a class="mm-title">Prestige Estates Projects Ltd.</a><a class="mm-close mm-btn" href="#mm-0"></a></div><div class="mm-navbar mm-navbar-top mm-navbar-top-1 mm-navbar-size-1"><div class="mm-search"><input placeholder="Search" type="text" autocomplete="off"></div></div><div class="mm-panels"><div class="mm-panel mm-opened mm-current" id="mm-1"><div class="mm-navbar"><a class="mm-title">Prestige Estates Projects Ltd.</a></div><ul class="mm-listview"><li><a href="/about-us"><span><img src="/images/mobile/icons/about.png" alt="About Prestige"></span>About
-Prestige</a></li><li><a href="/prestige-awards"><span><img src="/images/mobile/icons/awards.png" alt="Awards"></span>Awards</a></li><li><a href="/offers/" style="background: #9d7328;"><span><img src="/images/mobile/icons/awards.png" alt="Awards"></span>Offers</a></li><li><a href="/contact/make-an-enquiry/"><span><img src="/images/mobile/icons/awards.png" alt="Contact Us"></span>Contact Us</a></li><li><a class="loki_social_tap mm-close mm-btn" onclick="show_social('master-plan-1')" href="javascript:void(0)" id="mobile_menu_social_media"><span><img src="/images/mobile/icons/social-media.png" alt="Social Media"></span>Social Media</a></li><li><a href="/terms"><span><img src="/images/mobile/icons/terms.png" alt="Terms of Use"></span>Terms of Use</a></li><li><a href="/privacy"><span><img src="/images/mobile/icons/terms.png" alt="Privacy Policy"></span>Privacy
-Policy</a></li><li><a href="/disclaimer/"><span><img src="/images/mobile/icons/terms.png" alt="Disclaimer"></span>Disclaimer</a></li><div class="m-contact-home"><span>Contact Information</span><p>The Falcon House<br> No. 1, Main Guard Cross Road,<br> Bangalore - 560 001. Karnataka, India<br> Tel:
-+ 91 80 2559 1080<br> <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a></p></div><div class="m-social"> <a href="//www.facebook.com/Prestige.group" target="_blank"><img src="/images/mobile/icons/facebook.png" alt="facebook"></a> <a href="//twitter.com/prestigegroup" target="_blank"><img src="/images/mobile/icons/twitter.png" alt="twitter"></a> <a href="//www.youtube.com/user/prestigegroupindia" target="_blank"><img src="/images/mobile/icons/youtube.png" alt="YouTube"></a> <a href="//www.linkedin.com/company/prestige-group-bangalore" target="_blank"><img src="/images/mobile/icons/linkedin.png" alt="linkedIn"></a></div><div class="m-contact-home"> <a href="https://www.marchingantsllp.com/" target="_blank"><p style="display: flex;color: #91671b;padding-top: 10px;">Designed &amp; Developed by Marching Ants</p></a></div></ul><div class="mm-noresultsmsg">No results found.</div></div></div></nav><div id="warning-message"> This website is best viewed in portrait mode.</div></body></html>
+            });
+</script>
+
+<nav style="z-index:9999;" id="menu" class="mm-menu mm-effect-slide-menu mm-pageshadow mm-offcanvas mm-hasnavbar-top-2 mm-hasnavbar-bottom-1 ">
+    <div class="mm-navbar mm-navbar-bottom mm-navbar-bottom-1 mm-navbar-size-1"><a href="//mmenu.frebsite.nl/wordpress-plugin.html" target="_blank">WordPress plugin</a></div><div class="mm-navbar mm-navbar-top mm-navbar-top-2 mm-navbar-size-1 mm-hasbtns"><a class="mm-prev mm-btn mm-hidden"></a><a class="mm-title">Prestige Estates Projects Ltd.</a><a class="mm-close mm-btn" href="#mm-0"></a></div><div class="mm-navbar mm-navbar-top mm-navbar-top-1 mm-navbar-size-1"><div class="mm-search"><input placeholder="Search" type="text" autocomplete="off"></div></div><div class="mm-panels"><div class="mm-panel mm-opened mm-current" id="mm-1"><div class="mm-navbar"><a class="mm-title">Prestige Estates Projects Ltd.</a></div><ul class="mm-listview">
+                <li><a href="/about-us"><span><img src="/images/mobile/icons/about.png" alt="About Prestige"></span>About
+                        Prestige</a></li>
+                <li><a href="//www.prestigeconstructions.com/prestige-awards"><span><img src="/images/mobile/icons/awards.png" alt="Awards"></span>Awards</a></li>
+                <li><a href="//www.prestigeconstructions.com/contact/make-an-enquiry/"><span><img src="/images/mobile/icons/awards.png" alt="Contact Us"></span>Contact Us</a></li>
+                <li><a class="loki_social_tap mm-close mm-btn" onclick="show_social('master-plan-1')" href="javascript:void(0)" id="mobile_menu_social_media"><span><img src="/images/mobile/icons/social-media.png" alt="Social Media"></span>Social Media</a>
+                </li>
+                <li><a href="/terms"><span><img src="/images/mobile/icons/terms.png" alt="Terms of Use"></span>Terms of Use</a>
+                </li>
+                <li><a href="/privacy"><span><img src="/images/mobile/icons/terms.png" alt="Privacy Policy"></span>Privacy
+                        Policy</a></li>
+                <li><a href="/disclaimer/"><span><img src="/images/mobile/icons/terms.png" alt="Disclaimer"></span>Disclaimer</a>
+                </li>
+                <div class="m-contact-home"><span>Contact Information</span>
+                    <p>The Falcon House<br> No. 1, Main Guard Cross Road,<br> Bangalore - 560 001. Karnataka, India<br> Tel:
+                        + 91 80 2559 1080<br>
+                        <a href="mailto:properties@prestigeconstructions.com">properties@prestigeconstructions.com</a></p>
+                </div>
+                <div class="m-social">
+                    <a href="//www.facebook.com/Prestige.group" target="_blank"><img src="/images/mobile/icons/facebook.png" alt="facebook"></a>
+                    <a href="//twitter.com/prestigegroup" target="_blank"><img src="/images/mobile/icons/twitter.png" alt="twitter"></a>
+                    <a href="//www.youtube.com/user/prestigegroupindia" target="_blank"><img src="/images/mobile/icons/youtube.png" alt="YouTube"></a>
+                    <a href="//www.linkedin.com/company/prestige-group-bangalore" target="_blank"><img src="/images/mobile/icons/linkedin.png" alt="linkedIn"></a>
+                </div>
+                <div class="m-contact-home">
+                    <a href="https://www.marchingantsllp.com" target="_blank"><p style="display: flex;color: #91671b;padding-top: 10px;">Designed &amp; Developed by Marching Ants</p></a>
+                </div>
+            </ul><div class="mm-noresultsmsg">No results found.</div></div></div></nav>
+
+<div id="warning-message">
+    This website is best viewed in portrait mode.
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js"></script>
+<script src="//redopop.com/loupe/jquery.loupe.min.js"></script>
+<script src="https://thdoan.github.io/magnify/js/jquery.magnify.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function(){
+        setTimeout(function () {
+        jQuery(".fancybox").fancybox({
+        
+        });
+          var prestigegeturl = window.location.href; // returns the full URL
+          if(window.location.href.indexOf("/floor-plans") > -1) {
+                 jQuery('.mask, .fancybox-next, .fancybox-prev').click(function(){
+            setTimeout(function () {
+                setInterval(function(){
+            jQuery('.fancybox-image').addClass('zoom');
+            $imgsrc=jQuery('.fancybox-image').attr('src');
+            jQuery('.fancybox-image').attr('data-magnify-src',$imgsrc);
+            jQuery('.zoom').magnify({
+                speed: 200,
+            });
+            }, 500);
+        }, 1000);
+        });
+        }
+        }, 1000);
+    })
+</script>
+
+
+
+</body></html>
