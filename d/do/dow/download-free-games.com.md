@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212055614id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414012145id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy – Download Free Games – Download Free Games
+# Privacy Policy - Download Free Games - Download Free Games
 
-[Home](http://www.download-free-games.com/) » Privacy Policy – Download Free Games
+[Home](https://www.download-free-games.com/) » Privacy Policy – Download Free Games 
+
+## Privacy Policy – Download Free Games
 
 * * *
 
@@ -41,9 +43,9 @@ In order to receive email correspondence from us in the form of newsletters or g
 
   1. You enter your email address in our online form and submit it
   2. Your email is sent to a third part email hosting service (i.e. Aweber) and they send a confirmation request to your email address.
-  3. You must then open the confirmation request email and click a link to confirm your desire to be a part of our newsletter, game alerts, or similar programs.
+  3. You must then open the confirmation request email and click a link to confirm your desire to be a part of our newsletter, game alerts, or similar programs. 
   4. If you do not click the link in the confirmation email, you will not be added to our service.
-  5. Instructions for unsubscribing are found in every email and can be done quickly and automatically without fear of further email sent to you other than a confirmation of unsubscribing.
+  5. Instructions for unsubscribing are found in every email and can be done quickly and automatically without fear of further email sent to you other than a confirmation of unsubscribing. 
 
 
 
@@ -90,4 +92,4 @@ Google Adsense Privacy Policy Information – <http://www.google.com/privacy.htm
 
 Any changes made to this privacy policy will appear publicly on our site at
 
-http://www.download-free-games.com/privacy
+https://www.download-free-games.com/privacy
