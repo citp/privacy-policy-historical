@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205160911id_/http%3A//www.agacistore.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413024040id_/http%3A//www.agacistore.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
