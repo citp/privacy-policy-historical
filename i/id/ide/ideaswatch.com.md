@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideaswatch.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208131216id_/http%3A//www.ideaswatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideaswatch.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413185713id_/http%3A//www.ideaswatch.com/privacy-policy) for the most accurate reproduction.*
 
 # IdeasWatch: Privacy policy
 
@@ -22,7 +22,7 @@ We send out emails regarding the status of your ideas or ideas you are watching.
 
 ###  Name/Nickname
 
-Your name or nickname is publicly available via [ Inspirers Chart](https://web.archive.org/web/20171208131216id_/http%3A//www.ideaswatch.com/inspirers.aspx) along with statistics of your ideas.
+Your name or nickname is publicly available via [ Inspirers Chart](https://web.archive.org/web/20180413185713id_/http%3A//www.ideaswatch.com/inspirers.aspx) along with statistics of your ideas.
 
 ##  Information Collected from Facebook
 
