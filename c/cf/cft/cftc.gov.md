@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222161633id_/http%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm) for the most accurate reproduction.*
 
-# Web Site Privacy Policy - CFTC
+# Web Site Privacy Policy | U.S. COMMODITY FUTURES TRADING COMMISSION
 
-Font Size: AAA // Print // 
+The privacy of visitors to our websites, [www.cftc.gov](https://web.archive.org/), [www.SmartCheck.gov](https://smartcheck.cftc.gov/), and [www.WhistleBlower.gov](https://www.whistleblower.gov/), is of the utmost importance to the CFTC. You are not required to give us any personal information to visit our websites. While we automatically collect certain data for statistical purposes, that data does not include your name, mailing or email address.
 
-Bookmark
-
-  * The privacy of visitors to our websites, [www.cftc.gov](https://www.cftc.gov/), [www.SmartCheck.gov](https://smartcheck.cftc.gov/), and [www.WhistleBlower.gov](https://www.whistleblower.gov/), is of the utmost importance to the CFTC. You are not required to give us any personal information to visit our websites. While we automatically collect certain data for statistical purposes, that data does not include your name, mailing or email address.
-
-Information Collected and Stored Automatically  
-Cookies  
-If You Choose to Send Us Personal Information  
-Sharing of Your Information  
-Linking to Other Websites  
-Use of Social Media Sites  
-Security  
-Intrusion Detection Monitoring and US-CERT EINSTEIN Program  
-Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments  
-Questions About Privacy
+[Information Collected and Stored Automatically](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#infocollected)  
+[Cookies](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#cookies)  
+[If You Choose to Send Us Personal Information](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#personalinfo)  
+[Sharing of Your Information](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#sharinginfo)  
+[Linking to Other Websites](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#linking)  
+[Use of Social Media Sites](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#socialmedia)  
+[Security](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#security)  
+[Intrusion Detection Monitoring and US-CERT EINSTEIN Program](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#intrusion)  
+[Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#otherinfo)  
+[Questions About Privacy](https://web.archive.org/web/20180413194520id_/https%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/index.htm#privacyquestions)
 
 ### Information Collected and Stored Automatically
 
 If you visit the CFTC websites to read or download information, such as press releases or publications, we will collect and store certain technical information about your visit. We do not collect your name, email, mailing address or similar identifying information. We only collect the following:
 
-    * on your end, the name of the domain (the machine or website) from which you access the Internet (for example, aol.com if you are connecting from an America Online account) and/or the name and Internet Protocol (IP) address of the server you are using to access the CFTC website (the IP address is a series of numbers that identifies a server or computer connected to the Internet);
-    * the name and version of the web browser used to access a CFTC web page (for example, Microsoft Explorer or Firefox);
-    * on our side, the name and IP address of the CFTC server that received and logged the request;
-    * the date and time the request was received, and
-    * the information you are accessing (for example, which page or image you choose to read or download).
+  * on your end, the name of the domain (the machine or website) from which you access the Internet (for example, aol.com if you are connecting from an America Online account) and/or the name and Internet Protocol (IP) address of the server you are using to access the CFTC website (the IP address is a series of numbers that identifies a server or computer connected to the Internet);
+  * the name and version of the web browser used to access a CFTC web page (for example, Microsoft Explorer or Firefox);
+  * on our side, the name and IP address of the CFTC server that received and logged the request;
+  * the date and time the request was received, and
+  * the information you are accessing (for example, which page or image you choose to read or download).
+
+
 
 We use this information to measure the number of visitors to the different sections of our websites, assess system performance and to help us make the websites more useful to our visitors. In the event of a suspected cybersecurity threat or potential computer security incident, such data may be manually analyzed to allow computer security specialists to identify Internet service providers and, in extreme cases, to attempt to identify the specific computer and individual involved in an attack on the CFTC’s sites. The information below on “Intrusion Detection Monitoring and US-CERT EINSTEIN Program” further explains this.
 
@@ -41,14 +39,16 @@ The CFTC does not use “persistent cookies,” which are small bits of text sav
 
 You may choose to provide CFTC personnel information which personally identifies you. For example, you may complete an on-line form, request materials, send a complaint concerning a regulated person or entity, report suspicious activity, send a comment or input on a proposed rule, or email the CFTC through our websites. Such information is used to respond to your request and to help us get you the information you have requested. We also use the information for the specific purposes identified on each form or on the web page requesting information.
 
-For example, if you send us a comment letter on a proposed rule, that letter becomes part of the CFTC’s comment file and generally is available to the public. The comments help the CFTC and other members of the public evaluate proposed Commission actions. If you register on [www.cftc.gov](https://web.archive.org/index.htm) and submit large trader data through the Position Entry for Reportable Traders application (PERT Online), this data will be used by the Commission for market oversight, e.g., oversight of trader activities and enforcement of speculative position limits.
+For example, if you send us a comment letter on a proposed rule, that letter becomes part of the CFTC’s comment file and generally is available to the public. The comments help the CFTC and other members of the public evaluate proposed Commission actions. If you register on [www.cftc.gov](https://web.archive.org/) and submit large trader data through the Position Entry for Reportable Traders application (PERT Online), this data will be used by the Commission for market oversight, e.g., oversight of trader activities and enforcement of speculative position limits.
 
 ### Sharing of Your Information
 
 If you choose to provide personal information, you are consenting to the CFTC’s use of that information and allowing the information to be shared with CFTC employees and contractors to conduct official business. Such employees and contractors are subject to confidentiality restrictions to protect your personal information. The information may also be shared by the CFTC with third parties to advance the purpose for which you provide the information, including law enforcement, foreign government authorities, and other federal or state government agencies. Your information will only be used to perform official business for which it was collected and for other uses compatible with the purposes for which it was collected. For example:
 
-    1. If you report suspicious activity that suggests a violation of the Commodity Exchange Act, the information you have provided may be shared with law enforcement, foreign government authorities, and other federal or state agencies. In this situation, the primary use of your PII would be to enable the government to contact you in the event we have questions regarding the information you have reported.
-    2. If you populate a Tip, Complaint or Referral (TCR) form to be considered as a whistleblower under the Dodd-Frank Act, the information you have provided may be disclosed to the Whistleblower Award Determination Panel, and depending on whether you have requested anonymity and the extent of the investigation into your allegations, to law enforcement, foreign government authorities and other federal or state agencies, in accordance with the Commodity Exchange Act. In this situation, the primary use of your PII would be to:
+  1. If you report suspicious activity that suggests a violation of the Commodity Exchange Act, the information you have provided may be shared with law enforcement, foreign government authorities, and other federal or state agencies. In this situation, the primary use of your PII would be to enable the government to contact you in the event we have questions regarding the information you have reported.
+  2. If you populate a Tip, Complaint or Referral (TCR) form to be considered as a whistleblower under the Dodd-Frank Act, the information you have provided may be disclosed to the Whistleblower Award Determination Panel, and depending on whether you have requested anonymity and the extent of the investigation into your allegations, to law enforcement, foreign government authorities and other federal or state agencies, in accordance with the Commodity Exchange Act. In this situation, the primary use of your PII would be to:
+
+
 
 a. Evaluate the merit of an award;  
 b. Allow for the payment of monetary awards to eligible whistleblowers;  
@@ -57,7 +57,7 @@ d. Provide anti-retaliation protections for whistleblowers that share informatio
 
 Under certain circumstances, the CFTC may be required by law to disclose information you submit to other authorities for official purposes, for example, to respond to a Congressional inquiry or subpoena.
 
-When you choose to provide information to the CFTC by email, voicemail, through the CFTC websites or other means, you are consenting to the CFTC using the information provided therein, including PII, in accordance with this notice and [the applicable Privacy Act of 1974 system of records notices](https://web.archive.org/Transparency/PrivacyOffice/SORN/index.htm).
+When you choose to provide information to the CFTC by email, voicemail, through the CFTC websites or other means, you are consenting to the CFTC using the information provided therein, including PII, in accordance with this notice and [the applicable Privacy Act of 1974 system of records notices](https://web.archive.org/SORN/index.htm).
 
 Your personal information will be protected from misuse while in the possession of the CFTC. Management, operational and technical controls are in place with the goal of ensuring the confidentiality, availability, and integrity of the PII. If a potential incident or incident is suspected or confirmed involving the loss or unauthorized disclosure of sensitive personal information and would likely result in substantial harm to individuals, CFTC will endeavor to contact all affected parties in a timely manner, unless doing so would pose risks to the investigation of the potential incident or incident. The CFTC will work to ensure that swift and appropriate action is taken to mitigate risks.
 
@@ -75,7 +75,7 @@ Using these media, the CFTC will only collect, maintain, or disseminate personal
 
 One, for Public Affairs purposes, comments about the CFTC on SMS pages may be reviewed internally, and for newsworthy posts, included in internally-circulated daily news clips with the author's name and affiliated organization if publicly-available. Two, for enforcement purposes, when necessary for an investigation or enforcement proceedings (such as suspected violations of the Commodity Exchange Act or a threat of violence against the Commission), information obtained from the Internet may be collected and preserved. The information collected is offered to the Commission with consent or is from publicly-available sources on the Internet, except that in limited enforcement situations, when other investigative avenues are limited, a specifically approved Commission staff member may act as a member of the public by using a username and profile not affiliated with the CFTC to seek information about business opportunities that may violate the Act, simulating the day-to-day customer experience.
 
-Information collected for investigative purposes and to which the Privacy Act of 1974 applies is maintained in the Commission’s investigatory or enforcement system of records and is used, disclosed and retained in accordance with the applicable Privacy Act of 1974 system of records notice. See CFTC System of Record Notice (“SORN”) CFTC-10, Investigatory Records (Exempted), and CFTC-16, Enforcement Case Files, at Federal Register, [76 Fed. Reg. 5973-6002 (2011)](https://web.archive.org/web/20171222161633id_/http%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/ssLINK/2011-2133a), as may be amended. The Commission follows a structured process to minimize privacy risks and collects only the PII necessary and relevant to the investigation or enforcement action.  Only CFTC users with a legitimate business “need to know” have access to  information used for investigations and enforcement actions and these users have received specific training concerning the sensitivity of this type of information. The CFTC may share information with foreign government officials, other federal officials and state officials as stated in the system of records notices. The CFTC provides public notice through this privacy policy, a Privacy Impact Assessment, and when feasible, a privacy notice on certain specific social media sites. See, e.g., [Internet and Social Media Use Privacy Impact Assessment](https://web.archive.org/web/20171222161633id_/http%3A//www.cftc.gov/Transparency/PrivacyOffice/WebSitePrivacyPolicy/ssLINK/piasocialmedia) for details.
+Information collected for investigative purposes and to which the Privacy Act of 1974 applies is maintained in the Commission’s investigatory or enforcement system of records and is used, disclosed and retained in accordance with the applicable Privacy Act of 1974 system of records notice. See CFTC System of Record Notice (“SORN”) CFTC-10, Investigatory Records (Exempted), and CFTC-16, Enforcement Case Files, at Federal Register, [76 Fed. Reg. 5973-6002 (2011)](https://web.archive.org/idc/groups/public/@lrfederalregister/documents/file/2011-2133a.pdf), as may be amended. The Commission follows a structured process to minimize privacy risks and collects only the PII necessary and relevant to the investigation or enforcement action.  Only CFTC users with a legitimate business “need to know” have access to  information used for investigations and enforcement actions and these users have received specific training concerning the sensitivity of this type of information. The CFTC may share information with foreign government officials, other federal officials and state officials as stated in the system of records notices. The CFTC provides public notice through this privacy policy, a Privacy Impact Assessment, and when feasible, a privacy notice on certain specific social media sites. See, e.g., [Internet and Social Media Use Privacy Impact Assessment](https://web.archive.org/idc/groups/public/@privacyoffice/documents/file/piasocialmedia.pdf) for details.
 
 ### Security
 
@@ -89,7 +89,7 @@ The CFTC’s information systems also are protected by EINSTEIN cybersecurity ca
 
 ### Other Privacy Information: Systems of Records Notices and Privacy Impact Assessments
 
-The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Notices](https://web.archive.org/LawRegulation/FederalRegister/PrivacyActSystemsofRecordsCompilation/index.htm).
+The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Notices](https://comments.cftc.gov/FederalRegister/Privacy.aspx).
 
 **[CFTC Privacy Impact Assessments](https://web.archive.org/Transparency/PrivacyOffice/cftcpia/index.htm)**
 
@@ -106,6 +106,3 @@ Fax: 202-418-5532
 
   
 Updated 8 December 2015
-
-
-
