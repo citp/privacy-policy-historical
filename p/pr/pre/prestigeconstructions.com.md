@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211102952id_/http%3A//www.prestigeconstructions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413154426id_/https%3A//www.prestigeconstructions.com/privacy) for the most accurate reproduction.*
 
 # Prestige
 
@@ -36,7 +36,7 @@ Any of the information we collect from you may be used in one of the following w
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
- **Note:** If at any time you would like to unsubscribe from receiving future emails from us, simply respond to the email received letting us know the same & we will have you taken off from our database.
+**Note:** If at any time you would like to unsubscribe from receiving future emails from us, simply respond to the email received letting us know the same & we will have you taken off from our database.
 
 ##### How do we protect your information?
 
@@ -72,7 +72,7 @@ This online Privacy Policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [/terms](https://web.archive.org/terms).
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.prestigeconstructions.com/terms>.
 
 READ MORE
 
@@ -100,7 +100,7 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 If there are any questions regarding this Privacy Policy you may contact us using the information below.
 
-[Prestige Estates Projects Limited](https://web.archive.org/)  
+[Prestige Estates Projects Limited](http://www.prestigeconstructions.com/)  
 The Falcon House,  
 #1, Main Guard Cross Road  
 Bangalore, Karnataka – 560001  
