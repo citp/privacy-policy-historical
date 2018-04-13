@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the blockadblock.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127114022id_/http%3A//blockadblock.com/adblocking/blockadblock-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockadblock.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414015552id_/http%3A//blockadblock.com/adblocking/blockadblock-com-privacy-policy) for the most accurate reproduction.*
 
 # BlockAdblock.com Privacy Policy - BlockAdblock
 
 _Last updated: Oct 28, 2016_
 
-This privacy policy discloses the privacy practices for blockadblock.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
+This privacy policy discloses the privacy practices for?blockadblock.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
   1. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.
 
@@ -18,16 +18,16 @@ This privacy policy discloses the privacy practices for blockadblock.com. This 
 
 
 **Information Collection, Use, and Sharing**   
-**No personally identifiable information is  collected by this website, with the exception of your email address data _which is supplied optionally._**
+**No personally identifiable information is?collected by this website, with the exception of your email address data _which is supplied optionally._**
 
-Entering your email address on the website constitutes agreement for blockadblock.com to send periodic email updates.  Your email data is stored using a third-party email list management service.
+Entering your email address on the website constitutes agreement for blockadblock.com to send periodic email updates. ?Your email data is stored using a third-party email list management service.
 
-We do not share email mailing list data with unaffiliated third parties.  
+We do not share email mailing list data with unaffiliated third parties.??
 
 Affiliated parties shall include BlockAdBlock and any other entity that, directly or indirectly through one or more intermediaries, controls or is controlled by BlockAdBlock, or any successor corporation or other legal entity which succeeds as a going concern to all business presently conducted by BlockAdBlock pursuant to a merger, consolidation or sale of all or substantially all of its assets. 
 
 **Your Access to and Control Over Information**   
-You may opt out of any future contacts from us at any time. You can do the following at any time by using the unsusbscribe or remove from mailing list feature.
+You may opt out of any future contacts from us at any time. You can do the following at any time by?using the unsusbscribe or remove from mailing list feature.
 
   * Cancel your subscription.
   * Change/correct your mailing list subscription data.
@@ -40,7 +40,7 @@ You may also use the contact form to:
 
 
 
-**Security**  
+**Security**?
 
 We do not collect sensitive data such as credit card data. No user data or site data is stored on our server.
 
