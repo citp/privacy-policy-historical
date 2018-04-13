@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221073004id_/https%3A//www.skrill.com/en/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybookers.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413143908id_/https%3A//www.skrill.com/en/footer/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Skrill
+# Privacy Notice | Skrill
 
-**PRIVACY NOTICE**
-
-Paysafe Group plc and any of its group companies (together “ **Paysafe** ” or " **we** " or “ **our** ”) are committed to protecting and respecting your privacy.
+Paysafe Group Limited and any of its group companies (together “ **Paysafe** ” or " **we** " or “ **our** ”) are committed to protecting and respecting your privacy.
 
 This notice (together with our terms of use and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. It applies to: 
 
@@ -17,7 +15,7 @@ This notice (together with our terms of use and any other documents referred to 
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting Paysafe websites, including www.Paysafe.com, you are accepting and consenting to the practices described in this notice.
 
-Paysafe takes a ‘layered approach’ to explaining its privacy practices, as recommended by regulators. This means that we endeavour to provide you with only the relevant privacy information for the Paysafe service being utilised and we will often use ‘short form’ privacy notices, such as this website privacy notice, to do so. Should you wish to view the comprehensive privacy notice, please use the contact us section or [click here](https://www.skrill.com/en/nc/footer/comprehensiveprivacypolicy/ "Opens external link in new window"). Contact us details are provided at the end of the notice, for feedback or any privacy enquiries you may have.
+Paysafe takes a ‘layered approach’ to explaining its privacy practices, as recommended by regulators. This means that we endeavour to provide you with only the relevant privacy information for the Paysafe service being utilised and we will often use ‘short form’ privacy notices, such as this website privacy notice, to do so. Should you wish to view the comprehensive privacy notice, please use the contact us section or [click here](https://www.skrill.com/en/footer/comprehensiveprivacypolicy/ "Opens external link in new window"). Contact us details are provided at the end of the notice, for feedback or any privacy enquiries you may have.
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
@@ -31,7 +29,7 @@ We use information we collect about you to provide you with the products we offe
 
 We will not disclose your personal data to anyone except as described in this notice.
 
-We may share your personal information with any company in the Paysafe Group plc group of companies.
+We may share your personal information with any company in the Paysafe Group Limited group of companies.
 
 We may share your personal information with third parties to provide you with the products we offer, with suppliers working on our behalf, where we have your permission, or where we are required or permitted to do so by law. We may also share your personal information with third parties to prevent crime and reduce risk, if required to do so by law, where we deem it appropriate to do so, to respond to legal process or to protect the rights or property of Paysafe, our customers or others.
 
@@ -51,7 +49,7 @@ Where applicable, you may have certain rights under data protection legislation,
 
 Our website uses “cookies” and other technologies, which store small amounts of information on your computer or device, to allow certain information from your web browser to be collected. Cookies are widely used on the internet and allow a website/portal to recognise a user’s device, without uniquely identifying the individual person using the computer. These technologies help to make it easier for you to log on and use the site, provide feedback to us as to which parts of the website you visit, so we can assess the effectiveness of the site and provide a better user experience or to serve Paysafe adverts to you whilst browsing other sites.
 
-For more information about cookies, including how to see what cookies have been set and how to manage, block and delete them, see www.allaboutcookies.org and our Cookies Policy, which is available on all of our websites. You may also be able to configure your browser not to accept cookies, although please bear in mind that this may affect your ability to use the services we provide.
+For more information about cookies, including how to see what cookies have been set and how to manage, block and delete them, see [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Opens external link in new window") and our Cookies Policy, which is available on all of our websites. You may also be able to configure your browser not to accept cookies, although please bear in mind that this may affect your ability to use the services we provide.
 
 **CHANGES TO OUR PRIVACY NOTICE**
 
