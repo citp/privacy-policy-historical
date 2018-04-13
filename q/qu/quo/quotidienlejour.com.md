@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quotidienlejour.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023112221id_/http%3A//www.quotidienlejour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotidienlejour.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413194853id_/http%3A//www.quotidienlejour.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Quotidien Lejour
+# Privacy Policy - Quotidien Lejour
 
   * ## Privacy Policy:
 
