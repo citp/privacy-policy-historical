@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentferret.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208095417id_/http%3A//www.contentferret.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentferret.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413184125id_/http%3A//contentferret.com%3Faction%3Dlegal-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
