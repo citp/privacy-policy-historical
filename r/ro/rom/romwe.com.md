@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728024805id_/http%3A//romwe.com/Privacy-Security-Policy-a-488.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romwe.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413040756id_/https%3A//www.romwe.com/Privacy-Security-Policy-a-488.html) for the most accurate reproduction.*
 
 # 
 
-  * [Home](http://romwe.com/)
+  * [Home](http://us.romwe.com/)
   * Privacy&Security Policy 
 
 
