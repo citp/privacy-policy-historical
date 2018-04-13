@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synthego.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211141432id_/http%3A//www.synthego.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthego.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413104938id_/http%3A//www.synthego.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Synthetic Guide RNA for CRISPR Genome Editing | Synthego
 
