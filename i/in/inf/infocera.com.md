@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2017-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171026163852id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413154139id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
