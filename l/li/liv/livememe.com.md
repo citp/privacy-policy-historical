@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livememe.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120005406id_/http%3A//www.livememe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livememe.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413232834id_/http%3A//livememe.com/privacy.php) for the most accurate reproduction.*
 
 # livememe.com - Privacy Policy
 
@@ -10,7 +10,7 @@ We store the captions you enter, as well as the background image you select. We 
 
 We may use cookies, web beacons, or other anonymous tracking information to improve our server's interaction with your computer. Third party vendors, including Google, also use cookies to serve ads to you based on your visit to this site and/or other sites on the Internet. 
 
-You may opt out of the use of Google's ad-related cookies by visiting their [ad settings](http://www.google.com/ads/preferences/). 
+You may opt out of the use of Google's ad-related cookies by visiting their [ad settings](https://www.google.com/ads/preferences/). 
 
 For more information regarding opting out of a third party vendor's use of cookies, you can visit aboutads.info. 
 
