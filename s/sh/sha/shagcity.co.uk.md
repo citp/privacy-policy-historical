@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the shagcity.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041221id_/http%3A//www.shagcity.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagcity.co.uk privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413173436id_/http%3A//www.shagcity.co.uk/privacy) for the most accurate reproduction.*
 
-# Mature Dating for adults - Find your mature match today at Shagcity.co.uk
+# Mature flirting for adults - Find your mature match today at Shagcity.co.uk
 
 ### Privacy Policy
 
-Pondering Geeks B.V. ("We"), have adopted this Privacy Policy to protect personal information of our users and to let our users know how we might use it. Our Privacy Policy only applies to activities you perform on our Website and not on third parties such as payment providers. This Privacy Policy was implemented on July 1st, 2016 and may change from time to time without notification. Please return to this page periodically to ensure familiarity with the most current version of our Privacy Policy. 
+Midsummer Online B.V. ("We"), have adopted this Privacy Policy to protect personal information of our users and to let our users know how we might use it. Our Privacy Policy only applies to activities you perform on our Website and not on third parties such as payment providers. This Privacy Policy was implemented on July 1st, 2016 and may change from time to time without notification. Please return to this page periodically to ensure familiarity with the most current version of our Privacy Policy. 
 
 We will continue to have the right to change our privacy policy and practices. 
 
@@ -22,13 +22,13 @@ On the Website, we may place links to other Websites operated by other parties. 
 
 ### Personal information
 
-Pondering Geeks B.V. is committed to treating your personal information with a high degree of care. Your personal information will never be shared or sold to third parties. 
+Midsummer Online B.V. is committed to treating your personal information with a high degree of care. Your personal information will never be shared or sold to third parties. 
 
 Your Account is for your individual and personal use only. You may not authorize others to use your Account for any purpose. 
 
 You are responsible for maintaining the confidentiality of, and restricting access to, your Account and password, and you agree to accept sole responsibility for all activities that occur under your Account or password. 
 
-You confirm that all content and intellectual property rights sent to or trough our Service will be transferred to us. Pondering Geeks B.V. thus has the right to use these contributions for commercial purposes. 
+You confirm that all content and intellectual property rights sent to or trough our Service will be transferred to us. Midsummer Online B.V. thus has the right to use these contributions for commercial purposes. 
 
 ### Fraudulent activities
 
@@ -50,7 +50,7 @@ By agreeing to our Privacy Policy, you agree to only upload photographs of adult
 
 ### Marketing
 
-By sharing your personal information with Pondering Geeks B.V. you give us the permission to process this data and use it for the following purposes:   
+By sharing your personal information with Midsummer Online B.V. you give us the permission to process this data and use it for the following purposes:   
 \- Sending newsletters, similar services and moderated e-mails to enhance the adult entertainment experience by our related entities or us.   
 \- Transactional e-mails including but limited to messages, likes and sign up confirmation.   
 \- Other marketing communications such as related offers, related   
@@ -71,4 +71,4 @@ You have the right to access information, which is held about you if exercised i
 Learn more about the Data protection Act 1998  
 https://www.gov.uk/data-protection/the-data-protection-act 
 
-Pondering Geeks B.V. has copyright over this Privacy Policy. It is not allowed to use or copy this Privacy Policy. We may take legal action against you if you copy and use our Privacy Policy without our written permission.
+Midsummer Online B.V. has copyright over this Privacy Policy. It is not allowed to use or copy this Privacy Policy. We may take legal action against you if you copy and use our Privacy Policy without our written permission.
