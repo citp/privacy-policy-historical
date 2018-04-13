@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706064559id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagborroworsteal.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413193318id_/http%3A//www.bagborroworsteal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ Further details are provided below.
 
 **What personal information we collect.**
 
-When you register on one of our Sites you are required to provide us your username/email address and password. In order to rent or purchase any item or service on our Sites you must also provide us with your full legal name, valid credit card information, and a full street address including city, state and zip code, and telephone number. To protect ourselves and our customers from fraud, we may also collect additional information about our registered users from credit bureaus and other consumer information services.
+When you register on one of our Sites you are required to provide us your username/email address and password. In order to rent or purchase any item or service on our Sites you must also provide us with your full legal name, valid payment method information, and a full street address including city, state and zip code, and telephone number. To protect ourselves and our customers from fraud, we may also collect additional information about our registered users from credit bureaus and other consumer information services.
 
 Every time you use our service, we collect information about your usage. For example, we collect information regarding the products you browse and the orders you place on our Sites.
 
@@ -92,6 +92,6 @@ Certain personal information in your Bag Borrow or Steal account is password-pro
 We want you to enjoy your use of our Sites. If you have any questions about this privacy policy or our practices, or believe that a violation of this policy may have occurred, please let us know by contacting us at customerservice@BagBorrowOrSteal.com.
 
 Updated February 6, 2012  
-©Copyright 2006-2017 Bag Borrow or Steal, Inc. All Rights Reserved  
+©Copyright 2006-2018 Bag Borrow or Steal, Inc. All Rights Reserved  
   
 ---|---
