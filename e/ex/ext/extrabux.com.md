@@ -1,74 +1,94 @@
-> *The following text is extracted and transformed from the extrabux.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323122139id_/https%3A//www.extrabux.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrabux.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413100814id_/http%3A//www.extrabux.com/help/privacy) for the most accurate reproduction.*
 
 # Extrabux.com Privacy Policy
 
-Effective Date: September 5, 2014
+Effective Date: April 2, 2018
 
-We at Extrabux.com are committed to safeguarding your personal information, and have designed our business practices to safeguard your privacy. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or to people we do not employ. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices. By using this site, you agree to the terms of this privacy policy.
+We at Extrabux.com are committed to safeguarding your personal information, and have designed our business practices to protect your privacy. This privacy policy applies to [https://www.extrabux.com](https://www.extrabux.com/) owned and operated by Extrabux Inc. This privacy policy describes how we collect, use, share, and secure your personal information and other shopping information. It also describes the choices available to you regarding our use of this information and how you can access and update this information. If you have a question about this privacy policy, you can contact our Chief Privacy Officer by email at [privacy@extrabux.com](mailto:privacy@extrabux.com).
 
-This site contains links to other sites. This includes links to third-party sites that sell consumer products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. Extrabux.com is not responsible for the privacy practices or the content of other websites that you may visit.
+[](https://privacy.truste.com/privacy-seal/validation?rid=6b25acce-c1f5-4194-b740-be5e1f150071)
 
-## BROWSING THE SITE
+## Information We Collect and How We Use It
 
-If you browse through the site without entering any personal data, we may gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we may collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website, as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, to gather geographic related information and to administer the site.
+Our vision is to maximize your rewards and to provide you with as many member benefits as possible. The key way in which we provide value is to share with you the commissions we receive from our merchant partners in the form of Cash Back. We strive to confirm and pay your Cash Back quickly and reliably, and to improve your experience on our site and in our applications – these are the main reasons we collect information.
 
-## INFORMATION COLLECTED
+When you become a member of Extrabux.com, we collect your name, email address, and physical address ("Personal Information"). We use your Personal Information to track and send you Cash Back payments and generally to improve and personalize our services. We also collect non-personal information pertaining to our merchant partners you visit, the purchases you make, and the offers you view ("Transaction Information"). We use Transaction Information to process your Cash Back faster and more reliably, as well as to provide more relevant offers for you when you visit us or use our applications and services.
 
-There will be times, such as when you communicate with us by e-mail, submit an application for membership, purchase a product, etc., when we will need to obtain personally identifiable information about you. Such personally identifiable information may include your name, home address, e-mail address, telephone number, etc. Consumers who submit an application expressly authorize us to collect information regarding purchases so that their rebates can be recorded. Extrabux DOES NOT collect any of your credit card information.
+## Social Media
 
-The information we receive about you may be used by us or shared by us with our corporate affiliates, agents, vendors and other third parties to help process your request or complete a transaction; to comply with any law, regulation, audit or court order; to help improve our website or the products or services we offer; for research; to better understand our customers' needs; to develop new offerings; and to alert you to new products and services in which you may be interested. We may also combine information you provide us with information about you that is available to us internally or from other sources. We believe that knowing more about you can enable us to serve you better.
+Our website includes social media features a share button. These features may collect your IP address and the page you are visiting on our site, and may set a cookie to enable the feature to function properly. These social media features may be hosted by us or a third party. Your interactions with social media features hosted by third parties are governed by the privacy policies of the companies providing them.
 
-We may also aggregate your personal information with other member's information and prepare reports on site usage, purchase history or other factors for sale or distribution to third parties. However, these reports are aggregated and will not include any personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at privacy@ebates.com. Similarly, if you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20inquiry%20regarding%20Extrabux.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to Extrabux.com, as well as to facilitate, complete or confirm any transaction that you may enter into or responding to your inquiry or request.
+## Third Party Log-In Services
 
-We collect nonpublic personal information about you from the following sources:
+We allow you to log in to Extrabux.com using Facebook Connect. This service authenticates your identity and provide you the option to share certain personal information with us such as your name and email address in order to pre-populate our sign up form. The service allows you to share information about your activities on Extrabux.com with others in your network. We may integrate with, and make available to you, other third-party log-in services in the future.
 
-  * Information we receive from you on applications on our website or other forms;
-  * Information about your transactions with us, our affiliates, or others; and
-  * Information about you we may receive from external data providers.
+## Email Account Connection
 
+We allow you to connect your personal email account to your Extrabux account in order to view your purchase confirmations on Extrabux.com. We share this Transaction Information as needed with our affiliate network partners and merchant partners in order to confirm your Cash Back faster and more reliably, and we use it to provide you more relevant and interesting offers. A connection between your email account and your Extrabux account is not required for you to be a member of Extrabux and earn Cash Back.
 
+## Who Sees Your Personal Information
 
-All information provided by consumers in any of the above-listed ways or otherwise may be used and disclosed as permitted in this Policy. We may also disclose non-public personal information about you to non-affiliated third parties as permitted by law.
+We share your Personal Information with third parties only in the ways that are described in this privacy policy. We do not sell your Personal Information to third parties.
 
-We may share data with Extrabux affiliates, and, in case of a sale, merger, corporate restructuring or transfer of assets involving Extrabux or its affiliates, your information may be transferred, on condition that the recipient is obliged continue to comply with this policy.  
- 
+Only a very limited number of our employees ever have access to your Personal Information, which they use only to track and send the Cash Back payments you earn.
 
-## WHO SEES YOUR PERSONAL INFORMATION
+We may use contractors or vendors to help us provide some of the services on Extrabux.com, some of whom may be our corporate affiliates (for instance, payment fulfillment or marketing services). If we need to disclose Personal Information for them to provide such services, it is with the requirement that such Personal Information will be kept confidential and will be used only for those services.
 
-We will share your personal information with third parties only in the ways that are described in this privacy notice. We do not sell your personal information to third parties.
+We reserve the right to disclose information we collect (including Personal Information) as required by law, such as to comply with a subpoena, bankruptcy proceedings, or other lawful requests by public authorities, and when we believe that disclosure is necessary to protect our rights or to comply with a judicial proceeding, court order, or legal process served on us or our corporate affiliates, or to protect us, our corporate affiliates, or our members from losses.
 
-Only a very limited number of our employees ever have access to your personal information. We may use third-party contractors or vendors to help us provide some of our services. If we need to disclose personal information for them to provide the services, it is with the requirement that the information will be kept confidential and used only to provide those services. In addition, our affiliates, subsidiaries, service providers, and other entities may collect personal information about your browsing habits over time and across different Web sites when you use our website.
+## How We Keep Your Information Secure
 
-We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on us or to protect us and our members from losses.
+The security of your Personal Information is important to Extrabux. We use a secure, encrypted connection (called an SSL connection) on all pages where you access or transmit Personal Information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-While browsers allow you to disable the usage of cookies, we do not change our practices in response to a “Do Not Track” signal in the http header from your browser or mobile application.
+## Your Privacy With Extrabux
 
-## COOKIES
+Extrabux will never ask for your email address, username, password or any other Personal Information in an unsolicited phone call, email or letter. Further, any contact with Extrabux customer service in which Personal Information is exchanged with a customer service representative will be used only for the purpose of satisfying your request. Any Personal Information you provide will not be recorded or used for any reason beyond that of the stated request.
 
-We may place "cookies" on your personal computer. "Cookies" are small identifiers, sent from a web server and stored on your computer's hard drive, that help us to recognize you if you visit our website again. Extrabux uses these cookies to determine whether or not you made a purchase at one of our retailer sites. Also, our site uses cookies to track how you found our site. Cookies are not used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, Extrabux cannot track your purchase and you will not earn cash back. It is also possible that some web pages may not properly load, your access to certain information might be denied, or you might have to enter information about yourself more than once.
+## Referrals
 
-## SECURITY
+If you choose to use our referral programs to refer a friend to Extrabux, we will ask you for your friend's name and email address. We will automatically send your friend email inviting them to visit Extrabux. We store this information for the sole purpose of sending this email and tracking the success of our referral program. Your friend may contact us at [service@extrabux.com](mailto:service@extrabux.com) or [privacy@extrabux.com](mailto:privacy@extrabux.com) to request that we remove this information from our database.
 
-We safeguard your personal data during electronic transmission from you to us using known encryption, security standards and procedures. We restrict access to non-public personal information about you only to those employees who need to know that information in order to provide products or services to you. We maintain physical, electronic and other procedural safeguards to comply with applicable privacy laws to guard your nonpublic personal information. We also assess new technology for protecting sensitive customer information on an ongoing basis. However, if your information is forwarded to a third party provider, your information will be transmitted according to the security and privacy policies of that third party provider whose privacy practices may differ from ours. Your information as shared with outside providers will become subject to those different privacy policies.
+## Changes to This Privacy Policy
 
-Due to federal and state regulations, we are required to keep a copy of your information for a period of three (3) years. Over this period, we will maintain all such data in a confidential and secure area that third parties will not be allowed to access.
+If we materially modify this privacy policy, we will post a change notice in a prominent place on our site or by notifying you by email (sent to the email address specified in your account. We reserve the right to modify this privacy policy at any time, so please review it regularly.
 
-## EXTRABUX SHOPPING CART FEATURE
+## Links to Third Party Websites
 
-You will be able to purchase certain products from certain participating affiliate stores (“Affiliate Stores”) using the Extrabux shopping cart service, a free express online checkout service provided by an Extrabux affiliate, to enhance your overall shopping experience. By using the Extrabux shopping cart service, you will be asked to provide additional personal information, including, but not limited to, purchase information, payment information, billing and shipping addresses, in order to complete transactions with Affiliate Stores (the “Shopping Cart Information”). You authorize Extrabux to use such Shopping Cart Information to process and complete payment transactions on your behalf and to share such Shopping Cart Information with the relevant Affiliate Stores, or as required by law. You also authorize Extrabux’ affiliate providing the Extrabux shopping cart service to store such Shopping Cart Information including, without limitation, your credit card information (which will be encrypted) for future purchases using the Extrabux shopping cart service.
+This includes links to third-party sites that sell consumer products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. Extrabux.com is not responsible for the privacy practices or the content of other websites that you may visit. Each of these websites should have its own privacy policy that may differ materially from this privacy policy. If you wish to receive special offers directly from a merchant partner, neither this privacy policy nor our opt-out policy applies to those communications. Instead, please refer to the relevant merchant partner’s privacy and opt-out policy. back to top
 
-## THIRD PARTY ADVERTISING
+## Our Policies on Email
 
-We may use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad, to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+Extrabux sends two types of emails to members: customer service emails required to maintain the Extrabux program (such as cash back credits and payment notifications) and promotional emails containing offers. You may choose not to receive promotional emails at any time by clicking the "unsubscribe" link in any promotional email or by modifying your subscription preferences in the "My Account Settings" section of Extrabux.com.
 
-In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
+We prohibit spamming by our members via our refer-a-friend capability. If you would like to report an incident of spamming using this functionality, please contact us at [privacy@extrabux.com](mailto:privacy@extrabux.com). We will investigate and take suitable action.
 
-## TRADEMARK AND COPYRIGHT INFORMATION
+## Cookies and Other Technologies
 
-Everything on our website is copyrighted (unless otherwise noted) and may not be used except with our express written consent. Use of these images by you or other third parties is prohibited and may violate the copyright laws, trademark laws, privacy laws and other laws and regulations. Nothing contained on this site may be construed as granting any license or right to use any of our trademarks or service marks without our prior written consent.
+We, Extrabux, Inc., and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
-## CONTACTING THE WEB SITE
+We use cookies for authentication, website personalization, and order tracking. Users can control the use of cookies at the individual browser level. If you reject cookies, you will no longer be able to earn Cash Back.
 
-Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
+## Other Information We Collect
 
-If you have any questions about our Privacy Policy or privacy policies, please feel free to e-mail your questions to us at [privacy@ebates.com](mailto:privacy@ebates.com?subject=Privacy%20inquiry%20regarding%20Extrabux.com)
+As is true of most web sites, we gather and store certain information automatically. This information may include, but is not necessarily limited to, internet protocol (IP) addresses, browser type, internet service provider, referring/exit pages, operating system, date/time stamp, and clickstream data to analyze trends. We link this automatically collected data to other information we collect about users in order to improve our services and to guard against malicious activity.
+
+## Behavioral Targeting
+
+We use one or more vendors to manage our advertising on other sites. Our vendors may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+## Your Choices and Responsibilities
+
+It is your responsibility to update and maintain accurate contact information in your Extrabux account. You can make changes by visiting your account page and entering corrections. Upon request, we will provide you with the information about whether we hold any of your personal information. We will respond to your request within a reasonable timeframe. The email and street address that you enter into your personal profile page is the information that will be used for all contact with you, including for sending your Cash Back. Extrabux is not responsible for payments sent to an incorrect addresses provided by you.
+
+We will retain your information for as long as your account is active or as long as you have a balance greater than zero in your account. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Please feel free to contact us at [privacy@extrabux.com](mailto:privacy@extrabux.com) if you have any questions about our Privacy policy or our privacy and personal information practices.
+
+## Dispute Resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Extrabux, Inc.   
+3500 South DuPont Highway, Suite OO-101  
+Dover DE, 19901  
+(626-650-7269)
