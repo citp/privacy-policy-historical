@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailyworldbuzz.com privacy policy that was archived on 2017-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171213085712id_/http%3A//dailyworldbuzz.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailyworldbuzz.com privacy policy that was archived on 2018-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180415003908id_/http%3A//dailyworldbuzz.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -7,7 +7,7 @@
 		<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://dailyworldbuzz.com/xmlrpc.php">
 	<title>Privacy Policy • Daily Guides &amp; Reviews</title>
-<!-- Performance scores of this site is tuned by WP Performance Score Booster plugin v1.8 - http://wordpress.org/plugins/wp-performance-score-booster -->
+<!-- Speed of this site is optimised by WP Performance Score Booster plugin v1.9 - https://dipakgajjar.com/wp-performance-score-booster/ -->
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
 function createCookie(a,d,b){if(b){var c=new Date;c.setTime(c.getTime()+864E5*b);b="; expires="+c.toGMTString()}else b="";document.cookie=a+"="+d+b+"; path=/"}function readCookie(a){a+="=";for(var d=document.cookie.split(";"),b=0;b<d.length;b++){for(var c=d[b];" "==c.charAt(0);)c=c.substring(1,c.length);if(0==c.indexOf(a))return c.substring(a.length,c.length)}return null}function eraseCookie(a){createCookie(a,"",-1)}
 function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=readCookie("testing")&&(a=!0,eraseCookie("testing"));return a}(function(a){var d=readCookie("devicePixelRatio"),b=void 0===a.devicePixelRatio?1:a.devicePixelRatio;areCookiesEnabled()&&null==d&&(createCookie("devicePixelRatio",b,7),1!=b&&a.location.reload(!0))})(window);
@@ -30,9 +30,11 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Daily Guides &amp; Reviews » Feed" href="http://dailyworldbuzz.com/feed">
 <link rel="alternate" type="application/rss+xml" title="Daily Guides &amp; Reviews » Comments Feed" href="http://dailyworldbuzz.com/comments/feed">
-<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.5 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-98136520-1';
+	var mi_track_user = true;
+	
+	var disableStr = 'ga-disable-UA-116837545-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -49,21 +51,67 @@ function areCookiesEnabled(){var a=!1;createCookie("testing","Hello",1);null!=re
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-98136520-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('require', 'displayfeatures');
-	__gaTracker('require', 'linkid', 'linkid.js');
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-116837545-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
 </script>
 <!-- / Google Analytics by MonsterInsights -->
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/dailyworldbuzz.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/dailyworldbuzz.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script><script src="http://dailyworldbuzz.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
@@ -84,7 +132,7 @@ img.emoji {
 <link rel="stylesheet" id="contact-form-7-css" href="http://dailyworldbuzz.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
 <link rel="stylesheet" id="toc-screen-css" href="http://dailyworldbuzz.com/wp-content/plugins/table-of-contents-plus/screen.min.css" type="text/css" media="all">
 <link rel="stylesheet" id="tablepress-default-css" href="http://dailyworldbuzz.com/wp-content/plugins/tablepress/css/default.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C600%2C700%7CRaleway%3A400%2C600%2C700%7CAbril+Fatface%3A400%2C600%2C700&amp;ver=ee55232a3ca68e88ebcda46d2d062997" type="text/css" media="all">
+<link rel="stylesheet" id="dt-web-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C500%2C600%2C700%7CRaleway%3A400%2C600%2C700%7CAbril+Fatface%3A400%2C600%2C700&amp;ver=644a70db19ed2c2133dac8fc1079187a" type="text/css" media="all">
 <link rel="stylesheet" id="dt-main-css" href="http://dailyworldbuzz.com/wp-content/themes/dt-the7/css/main.min.css" type="text/css" media="all">
 <style id="dt-main-inline-css" type="text/css">
 body #load {
@@ -174,7 +222,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <script type="text/javascript" src="http://dailyworldbuzz.com/wp-content/plugins/legal-pages/js/jquery.cookie.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var dtLocal = {"themeUrl":"http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"1906","ajaxurl":"http:\/\/dailyworldbuzz.com\/wp-admin\/admin-ajax.php","contactNonce":"62784b2bac","contactMessages":{"required":"One or more fields have an error. Please check and try again."},"ajaxNonce":"66a388ba7c","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#2cd3b4"},"floatingHeader":{"showAfter":240,"showMenu":true,"height":60,"logo":{"showLogo":false,"html":"<img class=\" preload-me\" src=\"http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png\" srcset=\"http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png 44w, http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-hd.png 88w\" width=\"44\" height=\"44\"   sizes=\"44px\" alt=\"Daily Guides &amp; Reviews\" \/>","url":"http:\/\/dailyworldbuzz.com\/"}},"mobileHeader":{"firstSwitchPoint":1100,"secondSwitchPoint":778},"content":{"textColor":"#85868c","headerColor":"#333333"},"stripes":{"stripe1":{"textColor":"#7e7e7e","headerColor":"#3a3a3a"},"stripe2":{"textColor":"#999d9f","headerColor":"#ffffff"},"stripe3":{"textColor":"#3a3a3a","headerColor":"#3a3a3a"}}}};
+var dtLocal = {"themeUrl":"http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"1906","ajaxurl":"http:\/\/dailyworldbuzz.com\/wp-admin\/admin-ajax.php","contactNonce":"9db9567f2b","contactMessages":{"required":"One or more fields have an error. Please check and try again."},"ajaxNonce":"2253d4c934","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#2cd3b4"},"floatingHeader":{"showAfter":240,"showMenu":true,"height":60,"logo":{"showLogo":false,"html":"<img class=\" preload-me\" src=\"http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png\" srcset=\"http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png 44w, http:\/\/dailyworldbuzz.com\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-hd.png 88w\" width=\"44\" height=\"44\"   sizes=\"44px\" alt=\"Daily Guides &amp; Reviews\" \/>","url":"http:\/\/dailyworldbuzz.com\/"}},"mobileHeader":{"firstSwitchPoint":1100,"secondSwitchPoint":778},"content":{"textColor":"#85868c","headerColor":"#333333"},"stripes":{"stripe1":{"textColor":"#7e7e7e","headerColor":"#3a3a3a"},"stripe2":{"textColor":"#999d9f","headerColor":"#ffffff"},"stripe3":{"textColor":"#3a3a3a","headerColor":"#3a3a3a"}}}};
 var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp","google":"Share on Google Plus","download":"Download image"},"overlayOpacity":"85"};
 /* ]]> */
 </script>
@@ -186,7 +234,13 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <link rel="shortlink" href="http://dailyworldbuzz.com/?p=1906">
 <link rel="alternate" type="application/json+oembed" href="http://dailyworldbuzz.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdailyworldbuzz.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="http://dailyworldbuzz.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdailyworldbuzz.com%2Fprivacy-policy&amp;format=xml">
-            <style type="text/css">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6243699700618436",
+    enable_page_level_ads: true
+  });
+</script>            <style type="text/css">
 				ul.legalfooter li{
 					list-style:none;
 					float:left;
@@ -234,7 +288,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//dailyworldbuzz.com/?wordfence_lh=1&hid=25E453B731A3CFBD21C86F3E2035E787');
+})('//dailyworldbuzz.com/?wordfence_lh=1&hid=FFACB2B066676E0B225B98A8577B8D56');
 </script><style type="text/css">.aawp .aawp-tb__row--highlight{background-color:#256aaf;}.aawp .aawp-tb__row--highlight{color:#fff;}.aawp .aawp-tb__row--highlight a{color:#fff;}</style><script type="text/javascript">
 document.addEventListener("DOMContentLoaded", function(event) { 
 	var $load = document.getElementById("load");
@@ -269,14 +323,14 @@ document.addEventListener("DOMContentLoaded", function(event) {
 					
 					
 				</div>
-		<ul id="primary-menu" class="main-nav underline-decoration upwards-line" role="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1896 first"><a href="http://dailyworldbuzz.com/for-home" data-level="1"><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1894"><a href="http://dailyworldbuzz.com/kitchen" data-level="1"><span class="menu-item-text"><span class="menu-text">Kitchen</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1902"><a href="http://dailyworldbuzz.com/office" data-level="1"><span class="menu-item-text"><span class="menu-text">Office</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1895"><a href="http://dailyworldbuzz.com/tech" data-level="1"><span class="menu-item-text"><span class="menu-text">Tech</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1899"><a href="http://dailyworldbuzz.com/baby-stuff" data-level="1"><span class="menu-item-text"><span class="menu-text">Baby</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1900"><a href="http://dailyworldbuzz.com/fitness" data-level="1"><span class="menu-item-text"><span class="menu-text">Fitness</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6412"><a href="http://dailyworldbuzz.com/health" data-level="1"><span class="menu-item-text"><span class="menu-text">Health</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1901"><a href="http://dailyworldbuzz.com/fashion" data-level="1"><span class="menu-item-text"><span class="menu-text">Fashion</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1903"><a href="http://dailyworldbuzz.com/hobby" data-level="1"><span class="menu-item-text"><span class="menu-text">Hobby</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1935"><a href="http://dailyworldbuzz.com/beauty" data-level="1"><span class="menu-item-text"><span class="menu-text">Beauty</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1936"><a href="http://dailyworldbuzz.com/for-men" data-level="1"><span class="menu-item-text"><span class="menu-text">Men</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1937"><a href="http://dailyworldbuzz.com/games" data-level="1"><span class="menu-item-text"><span class="menu-text">Games</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2435"><a href="http://dailyworldbuzz.com/toys" data-level="1"><span class="menu-item-text"><span class="menu-text">Toys</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6413"><a href="http://dailyworldbuzz.com/pets" data-level="1"><span class="menu-item-text"><span class="menu-text">Pets</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1898"><a href="http://dailyworldbuzz.com/outdoors" data-level="1"><span class="menu-item-text"><span class="menu-text">Outdoors</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1897"><a href="http://dailyworldbuzz.com/fun" data-level="1"><span class="menu-item-text"><span class="menu-text">Fun</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6410"><a href="http://dailyworldbuzz.com/facts" data-level="1"><span class="menu-item-text"><span class="menu-text">Facts</span></span></a></li> </ul>
+		<ul id="primary-menu" class="main-nav underline-decoration upwards-line" role="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10943 first"><a href="http://dailyworldbuzz.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">DailyWorldBuzz</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1909"><a href="http://dailyworldbuzz.com/amazon-affiliate" data-level="1"><span class="menu-item-text"><span class="menu-text">Amazon Affiliate</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1910"><a href="http://dailyworldbuzz.com/earnings-disclaimer" data-level="1"><span class="menu-item-text"><span class="menu-text">Earnings Disclaimer</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1906 current_page_item menu-item-1911 act"><a href="http://dailyworldbuzz.com/privacy-policy" data-level="1"><span class="menu-item-text"><span class="menu-text">Privacy Policy</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1912"><a href="http://dailyworldbuzz.com/terms-of-use" data-level="1"><span class="menu-item-text"><span class="menu-text">Terms of Use</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="http://dailyworldbuzz.com/contact-us" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10941"><a href="http://dailyworldbuzz.com/scholarship" data-level="1"><span class="menu-item-text"><span class="menu-text">A Better Self Scholarship Program</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10942"><a href="http://dailyworldbuzz.com/write-for-us" data-level="1"><span class="menu-item-text"><span class="menu-text">Write For Us</span></span></a></li> </ul>
 		
 	</header>
 
 </div><div class="dt-close-mobile-menu-icon"><span></span></div>
 <div class="dt-mobile-header">
 	<ul id="mobile-menu" class="mobile-main-nav" role="menu">
-		<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1896 first"><a href="http://dailyworldbuzz.com/for-home" data-level="1"><span class="menu-item-text"><span class="menu-text">Home</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1894"><a href="http://dailyworldbuzz.com/kitchen" data-level="1"><span class="menu-item-text"><span class="menu-text">Kitchen</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1902"><a href="http://dailyworldbuzz.com/office" data-level="1"><span class="menu-item-text"><span class="menu-text">Office</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1895"><a href="http://dailyworldbuzz.com/tech" data-level="1"><span class="menu-item-text"><span class="menu-text">Tech</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1899"><a href="http://dailyworldbuzz.com/baby-stuff" data-level="1"><span class="menu-item-text"><span class="menu-text">Baby</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1900"><a href="http://dailyworldbuzz.com/fitness" data-level="1"><span class="menu-item-text"><span class="menu-text">Fitness</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6412"><a href="http://dailyworldbuzz.com/health" data-level="1"><span class="menu-item-text"><span class="menu-text">Health</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1901"><a href="http://dailyworldbuzz.com/fashion" data-level="1"><span class="menu-item-text"><span class="menu-text">Fashion</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1903"><a href="http://dailyworldbuzz.com/hobby" data-level="1"><span class="menu-item-text"><span class="menu-text">Hobby</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1935"><a href="http://dailyworldbuzz.com/beauty" data-level="1"><span class="menu-item-text"><span class="menu-text">Beauty</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1936"><a href="http://dailyworldbuzz.com/for-men" data-level="1"><span class="menu-item-text"><span class="menu-text">Men</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1937"><a href="http://dailyworldbuzz.com/games" data-level="1"><span class="menu-item-text"><span class="menu-text">Games</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2435"><a href="http://dailyworldbuzz.com/toys" data-level="1"><span class="menu-item-text"><span class="menu-text">Toys</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6413"><a href="http://dailyworldbuzz.com/pets" data-level="1"><span class="menu-item-text"><span class="menu-text">Pets</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1898"><a href="http://dailyworldbuzz.com/outdoors" data-level="1"><span class="menu-item-text"><span class="menu-text">Outdoors</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1897"><a href="http://dailyworldbuzz.com/fun" data-level="1"><span class="menu-item-text"><span class="menu-text">Fun</span></span></a></li> <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6410"><a href="http://dailyworldbuzz.com/facts" data-level="1"><span class="menu-item-text"><span class="menu-text">Facts</span></span></a></li> 	</ul>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-10943 first"><a href="http://dailyworldbuzz.com/" data-level="1"><span class="menu-item-text"><span class="menu-text">DailyWorldBuzz</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1909"><a href="http://dailyworldbuzz.com/amazon-affiliate" data-level="1"><span class="menu-item-text"><span class="menu-text">Amazon Affiliate</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1910"><a href="http://dailyworldbuzz.com/earnings-disclaimer" data-level="1"><span class="menu-item-text"><span class="menu-text">Earnings Disclaimer</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1906 current_page_item menu-item-1911 act"><a href="http://dailyworldbuzz.com/privacy-policy" data-level="1"><span class="menu-item-text"><span class="menu-text">Privacy Policy</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1912"><a href="http://dailyworldbuzz.com/terms-of-use" data-level="1"><span class="menu-item-text"><span class="menu-text">Terms of Use</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="http://dailyworldbuzz.com/contact-us" data-level="1"><span class="menu-item-text"><span class="menu-text">Contact Us</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10941"><a href="http://dailyworldbuzz.com/scholarship" data-level="1"><span class="menu-item-text"><span class="menu-text">A Better Self Scholarship Program</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10942"><a href="http://dailyworldbuzz.com/write-for-us" data-level="1"><span class="menu-item-text"><span class="menu-text">Write For Us</span></span></a></li> 	</ul>
 	<div class="mobile-mini-widgets-in-menu"></div>
 </div>
 			<div class="page-title title-center solid-bg page-title-responsive-enabled">
@@ -350,51 +404,53 @@ document.addEventListener("DOMContentLoaded", function(event) {
 			
 				<aside id="sidebar" class="sidebar bg-under-widget">
 					<div class="sidebar-content widget-divider-off">
-						<section id="presscore-blog-categories-2" class="widget widget_presscore-blog-categories"><ul class="custom-categories">	<li class="first cat-item cat-item-25"><a href="http://dailyworldbuzz.com/automotive" title="View all posts filed under Automotive"><span class="item-name">Automotive</span><span class="item-num">(8)</span></a>
+						<section id="categories-3" class="widget widget_categories"><div class="widget-title">Categories</div>		<ul>
+	<li class="cat-item cat-item-25"><a href="http://dailyworldbuzz.com/automotive">Automotive</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="http://dailyworldbuzz.com/baby-stuff" title="View all posts filed under Baby Stuff"><span class="item-name">Baby Stuff</span><span class="item-num">(13)</span></a>
+	<li class="cat-item cat-item-4"><a href="http://dailyworldbuzz.com/baby-stuff">Baby Stuff</a>
 </li>
-	<li class="cat-item cat-item-10"><a href="http://dailyworldbuzz.com/beauty" title="View all posts filed under Beauty"><span class="item-name">Beauty</span><span class="item-num">(7)</span></a>
+	<li class="cat-item cat-item-10"><a href="http://dailyworldbuzz.com/beauty">Beauty</a>
 </li>
-	<li class="cat-item cat-item-1"><a href="http://dailyworldbuzz.com/facts" title="View all posts filed under Facts"><span class="item-name">Facts</span><span class="item-num">(26)</span></a>
+	<li class="cat-item cat-item-1"><a href="http://dailyworldbuzz.com/facts">Facts</a>
 </li>
-	<li class="cat-item cat-item-15"><a href="http://dailyworldbuzz.com/fashion" title="View all posts filed under Fashion"><span class="item-name">Fashion</span><span class="item-num">(7)</span></a>
+	<li class="cat-item cat-item-15"><a href="http://dailyworldbuzz.com/fashion">Fashion</a>
 </li>
-	<li class="cat-item cat-item-7"><a href="http://dailyworldbuzz.com/fitness" title="View all posts filed under Fitness"><span class="item-name">Fitness</span><span class="item-num">(13)</span></a>
+	<li class="cat-item cat-item-7"><a href="http://dailyworldbuzz.com/fitness">Fitness</a>
 </li>
-	<li class="cat-item cat-item-8"><a href="http://dailyworldbuzz.com/for-home" title="View all posts filed under For Home"><span class="item-name">For Home</span><span class="item-num">(28)</span></a>
+	<li class="cat-item cat-item-8"><a href="http://dailyworldbuzz.com/for-home">For Home</a>
 </li>
-	<li class="cat-item cat-item-6"><a href="http://dailyworldbuzz.com/for-men" title="View all posts filed under For Men"><span class="item-name">For Men</span><span class="item-num">(7)</span></a>
+	<li class="cat-item cat-item-6"><a href="http://dailyworldbuzz.com/for-men">For Men</a>
 </li>
-	<li class="cat-item cat-item-17"><a href="http://dailyworldbuzz.com/games" title="View all posts filed under Games"><span class="item-name">Games</span><span class="item-num">(6)</span></a>
+	<li class="cat-item cat-item-17"><a href="http://dailyworldbuzz.com/games">Games</a>
 </li>
-	<li class="cat-item cat-item-20"><a href="http://dailyworldbuzz.com/gifts" title="View all posts filed under Gifts"><span class="item-name">Gifts</span><span class="item-num">(2)</span></a>
+	<li class="cat-item cat-item-20"><a href="http://dailyworldbuzz.com/gifts">Gifts</a>
 </li>
-	<li class="cat-item cat-item-26"><a href="http://dailyworldbuzz.com/guides" title="View all posts filed under Guides"><span class="item-name">Guides</span><span class="item-num">(118)</span></a>
+	<li class="cat-item cat-item-26"><a href="http://dailyworldbuzz.com/guides">Guides</a>
 </li>
-	<li class="cat-item cat-item-24"><a href="http://dailyworldbuzz.com/health" title="View all posts filed under Health"><span class="item-name">Health</span><span class="item-num">(5)</span></a>
+	<li class="cat-item cat-item-24"><a href="http://dailyworldbuzz.com/health">Health</a>
 </li>
-	<li class="cat-item cat-item-13"><a href="http://dailyworldbuzz.com/hobby" title="View all posts filed under Hobby"><span class="item-name">Hobby</span><span class="item-num">(6)</span></a>
+	<li class="cat-item cat-item-13"><a href="http://dailyworldbuzz.com/hobby">Hobby</a>
 </li>
-	<li class="cat-item cat-item-5"><a href="http://dailyworldbuzz.com/kitchen" title="View all posts filed under Kitchen"><span class="item-name">Kitchen</span><span class="item-num">(30)</span></a>
+	<li class="cat-item cat-item-5"><a href="http://dailyworldbuzz.com/kitchen">Kitchen</a>
 </li>
-	<li class="cat-item cat-item-12"><a href="http://dailyworldbuzz.com/office" title="View all posts filed under Office"><span class="item-name">Office</span><span class="item-num">(1)</span></a>
+	<li class="cat-item cat-item-12"><a href="http://dailyworldbuzz.com/office">Office</a>
 </li>
-	<li class="cat-item cat-item-9"><a href="http://dailyworldbuzz.com/outdoors" title="View all posts filed under Outdoors"><span class="item-name">Outdoors</span><span class="item-num">(29)</span></a>
+	<li class="cat-item cat-item-9"><a href="http://dailyworldbuzz.com/outdoors">Outdoors</a>
 </li>
-	<li class="cat-item cat-item-16"><a href="http://dailyworldbuzz.com/pets" title="View all posts filed under Pets"><span class="item-name">Pets</span><span class="item-num">(1)</span></a>
+	<li class="cat-item cat-item-16"><a href="http://dailyworldbuzz.com/pets">Pets</a>
 </li>
-	<li class="cat-item cat-item-14"><a href="http://dailyworldbuzz.com/tech" title="View all posts filed under Tech"><span class="item-name">Tech</span><span class="item-num">(3)</span></a>
+	<li class="cat-item cat-item-14"><a href="http://dailyworldbuzz.com/tech">Tech</a>
 </li>
-	<li class="cat-item cat-item-3"><a href="http://dailyworldbuzz.com/tools" title="View all posts filed under Tools"><span class="item-name">Tools</span><span class="item-num">(18)</span></a>
+	<li class="cat-item cat-item-3"><a href="http://dailyworldbuzz.com/tools">Tools</a>
 </li>
-	<li class="cat-item cat-item-23"><a href="http://dailyworldbuzz.com/toys" title="View all posts filed under Toys"><span class="item-name">Toys</span><span class="item-num">(64)</span></a>
+	<li class="cat-item cat-item-23"><a href="http://dailyworldbuzz.com/toys">Toys</a>
 </li>
-	<li class="cat-item cat-item-2"><a href="http://dailyworldbuzz.com/vacuum-cleaners" title="View all posts filed under Vacuum Cleaners"><span class="item-name">Vacuum Cleaners</span><span class="item-num">(2)</span></a>
+	<li class="cat-item cat-item-2"><a href="http://dailyworldbuzz.com/vacuum-cleaners">Vacuum Cleaners</a>
 </li>
-	<li class="cat-item cat-item-11"><a href="http://dailyworldbuzz.com/watches" title="View all posts filed under Watches"><span class="item-name">Watches</span><span class="item-num">(1)</span></a>
+	<li class="cat-item cat-item-11"><a href="http://dailyworldbuzz.com/watches">Watches</a>
 </li>
-</ul></section><section id="presscore-blog-posts-2" class="widget widget_presscore-blog-posts"><ul class="recent-posts round-images"><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-electric-egg-cooker" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-electric-egg-cooker">Best Electric Egg Cooker</a><p class="text-small">The worst part of making hard-boiled eggs is that if the heat isn’t just right, peeling them is always a pain in the butt. With these egg cookers you can rest assured that the job of peeling these eggs for consumption will be made so much easier for you. So how do you choose the…</p><time class="text-secondary" datetime="2017-11-27T22:35:26+00:00">November 27, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-garden-cart" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-garden-cart">Best Garden Cart</a><p class="text-small">Gardening is a very interesting activity, with numerous benefits to the environment. You can also do it as a hobby, pastime activity or a form of exercise. Whether you do gardening for its monetary benefits or any other reason and want to have the best experience when doing it, you will need certain essential gardening…</p><time class="text-secondary" datetime="2017-11-27T21:11:39+00:00">November 27, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-food-storage-container" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-food-storage-container">Best Food Storage Container</a><p class="text-small">Food storage containers are very essential items that can be used for different purposes. Whether you want to keep your produce fresh, store leftover’s or carry your lunch to work or school, a food storage container can help you to achieve this. Unfortunately, some products can leak or allow your food to spoil much quickly.…</p><time class="text-secondary" datetime="2017-11-26T22:00:20+00:00">November 26, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-wok-stir-fry-pan" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-wok-stir-fry-pan">Best Wok &amp; Stir-Fry Pan</a><p class="text-small">The equipment you use for cooking can make all the difference between an okay stir-fry and an excellent stir-fry. Here are our top ten woks and stir-fry pans: Quick Content NavigationT-fal A80789 Specialty Nonstick PFOA-Free Jumbo Wok CookwareWeber 7422 Gourmet BBQ System WoAmore Kitchenware Flamekiss 12″ Red Ceramic Coated Nonstick Wok w/ Glass LidCalphalon Triply…</p><time class="text-secondary" datetime="2017-11-26T21:54:06+00:00">November 26, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-massage-oil" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-massage-oil">Best Massage Oil</a><p class="text-small">Relaxation is something that sounds much easier to do than it really can be. With full body massages and spa treatments costing hundreds of dollars, finding ways to destress at home can be a lot easier on your budget. For you and your partner to invest in some massage oils can help provide that financial…</p><time class="text-secondary" datetime="2017-11-25T22:44:44+00:00">November 25, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-electric-hand-dryer" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-electric-hand-dryer">Best Electric Hand Dryer</a><p class="text-small">Hand washing is an important hygienic routine that each one is expected to observe after visiting the washroom. Electric hand dryers are extremely important bathroom accessories that are used to dry hands after washing them. These dryers are extremely fast, easy to use, cost-effective and energy efficient. Moreover they are reliable and more hygienic as…</p><time class="text-secondary" datetime="2017-11-25T17:41:08+00:00">November 25, 2017</time></div></article></li></ul></section>					</div>
+		</ul>
+</section>					</div>
 				</aside><!-- #sidebar -->
 
 
@@ -405,40 +461,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	</div><!-- #main -->
 
 	
-	<!-- !Footer -->
-	<footer id="footer" class="footer solid-bg">
-
-		
-			<div class="wf-wrap">
-				<div class="wf-container-footer">
-					<div class="wf-container">
-
-						<section id="text-2" class="widget widget_text wf-cell wf-1-4"><div class="widget-title">Amazon Associate Disclaimer</div>			<div class="textwidget"><p>We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</p>
-</div>
-		</section><section id="pages-3" class="widget widget_pages wf-cell wf-1-4"><div class="widget-title">Pages</div>		<ul>
-			<li class="page_item page-item-10936"><a href="http://dailyworldbuzz.com/scholarship">A Better Self Scholarship Program</a></li>
-<li class="page_item page-item-1908"><a href="http://dailyworldbuzz.com/amazon-affiliate">Amazon Affiliate</a></li>
-<li class="page_item page-item-406"><a href="http://dailyworldbuzz.com/contact-us">Contact Us</a></li>
-<li class="page_item page-item-2432"><a href="http://dailyworldbuzz.com/">DailyWorldBuzz</a></li>
-<li class="page_item page-item-1907"><a href="http://dailyworldbuzz.com/earnings-disclaimer">Earnings Disclaimer</a></li>
-<li class="page_item page-item-1906 current_page_item"><a href="http://dailyworldbuzz.com/privacy-policy">Privacy Policy</a></li>
-<li class="page_item page-item-1905"><a href="http://dailyworldbuzz.com/terms-of-use">Terms of Use</a></li>
-<li class="page_item page-item-10929"><a href="http://dailyworldbuzz.com/write-for-us">Write For Us</a></li>
-		</ul>
-		</section><section id="presscore-blog-posts-3" class="widget widget_presscore-blog-posts wf-cell wf-1-4"><ul class="recent-posts round-images"><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover no-avatar" href="http://dailyworldbuzz.com/best-nose-hair-trimmer" style="width:40px; height: 40px;"></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-nose-hair-trimmer">Best Nose Hair Trimmer</a><br><time class="text-secondary" datetime="2017-11-17T09:12:58+00:00">November 17, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://dailyworldbuzz.com/how-to-choosethe-best-furnace-filters"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2040%2040'%2F%3E" data-src="http://dailyworldbuzz.com/wp-content/uploads/2017/01/ChooseThe-Best-Furnace-Filters-40x40.jpg" data-srcset="http://dailyworldbuzz.com/wp-content/uploads/2017/01/ChooseThe-Best-Furnace-Filters-40x40.jpg 40w, http://dailyworldbuzz.com/wp-content/uploads/2017/01/ChooseThe-Best-Furnace-Filters-80x80.jpg 80w" width="40" height="40" alt=""></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/how-to-choosethe-best-furnace-filters">How To ChooseThe Best Furnace Filters</a><br><time class="text-secondary" datetime="2017-04-18T12:49:48+00:00">April 18, 2017</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://dailyworldbuzz.com/best-electric-can-openers-reviews"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2040%2040'%2F%3E" data-src="http://dailyworldbuzz.com/wp-content/uploads/2016/01/Black-Decker-CO100B-Spacemaker-40x40.jpg" data-srcset="http://dailyworldbuzz.com/wp-content/uploads/2016/01/Black-Decker-CO100B-Spacemaker-40x40.jpg 40w, http://dailyworldbuzz.com/wp-content/uploads/2016/01/Black-Decker-CO100B-Spacemaker-80x80.jpg 80w" width="40" height="40" alt=""></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-electric-can-openers-reviews">Best Electric Can Openers Reviews</a><br><time class="text-secondary" datetime="2016-01-30T09:52:52+00:00">January 30, 2016</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://dailyworldbuzz.com/best-board-games-reviews"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2040%2040'%2F%3E" data-src="http://dailyworldbuzz.com/wp-content/uploads/2016/05/Best-Board-Games-40x40.jpg" data-srcset="http://dailyworldbuzz.com/wp-content/uploads/2016/05/Best-Board-Games-40x40.jpg 40w, http://dailyworldbuzz.com/wp-content/uploads/2016/05/Best-Board-Games-80x80.jpg 80w" width="40" height="40" alt=""></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-board-games-reviews">Best Board Games Reviews</a><br><time class="text-secondary" datetime="2016-05-23T13:15:30+00:00">May 23, 2016</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://dailyworldbuzz.com/all-about-carbon-steel-knife-blades"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2040%2040'%2F%3E" data-src="http://dailyworldbuzz.com/wp-content/uploads/2016/12/Carbon-Steel-Knife-Blades-40x40.jpg" data-srcset="http://dailyworldbuzz.com/wp-content/uploads/2016/12/Carbon-Steel-Knife-Blades-40x40.jpg 40w, http://dailyworldbuzz.com/wp-content/uploads/2016/12/Carbon-Steel-Knife-Blades-80x80.jpg 80w" width="40" height="40" alt=""></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/all-about-carbon-steel-knife-blades">All About Carbon Steel Knife Blades</a><br><time class="text-secondary" datetime="2016-12-13T19:57:27+00:00">December 13, 2016</time></div></article></li><li><article class="post-format-standard"><div class="wf-td"><a class="alignleft post-rollover layzr-bg" href="http://dailyworldbuzz.com/best-garden-tiller-reviews"><img class="lazy-load preload-me" src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2040%2040'%2F%3E" data-src="http://dailyworldbuzz.com/wp-content/uploads/2016/11/Best-Garden-Tiller-40x40.jpg" data-srcset="http://dailyworldbuzz.com/wp-content/uploads/2016/11/Best-Garden-Tiller-40x40.jpg 40w, http://dailyworldbuzz.com/wp-content/uploads/2016/11/Best-Garden-Tiller-80x80.jpg 80w" width="40" height="40" alt=""></a></div><div class="post-content"><a href="http://dailyworldbuzz.com/best-garden-tiller-reviews">Best Garden Tiller Reviews</a><br><time class="text-secondary" datetime="2016-11-30T03:51:46+00:00">November 30, 2016</time></div></article></li></ul></section><section id="search-4" class="widget widget_search wf-cell wf-1-4">	<form class="searchform" role="search" method="get" action="http://dailyworldbuzz.com/">
-		<label for="search" class="screen-reader-text">Search:</label>
-		<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …">
-		<input type="submit" class="assistive-text searchsubmit" value="Go!">
-		<a href="#go" class="submit"></a>
-	</form></section>
-					</div><!-- .wf-container -->
-				</div><!-- .wf-container-footer -->
-			</div><!-- .wf-wrap -->
-
-		
-	</footer><!-- #footer -->
-
-
 
 	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
 
@@ -448,7 +470,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 <script type="text/javascript" src="http://dailyworldbuzz.com/wp-content/plugins/ultimate-tables/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/dailyworldbuzz.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+var wpcf7 = {"apiSettings":{"root":"http:\/\/dailyworldbuzz.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://dailyworldbuzz.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
@@ -500,4 +522,5 @@ var tocplus = {"smooth_scroll":"1","visibility_show":"show","visibility_hide":"h
     </div>
 </div>
 
-</body></html>
+
+<!-- Page generated by LiteSpeed Cache 2.1.2 on 2018-04-14 03:25:53 --></body></html>
