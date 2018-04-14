@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogardenclub.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023040312id_/http%3A//gogardenclub.com/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogardenclub.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414044200id_/http%3A//gogardenclub.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | EducationalGardens
 
