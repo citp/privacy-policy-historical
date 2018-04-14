@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128023119id_/https%3A//www.e2save.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414173244id_/http%3A//www.e2save.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
