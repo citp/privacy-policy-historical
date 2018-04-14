@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226235301id_/http%3A//www.smartlifeweekly.com/uncategorised/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlifeweekly.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414112004id_/http%3A//smartlifeweekly.com/uncategorised/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@
 This privacy policy (Privacy Policy) herein contains information intended to inform you of our practices and policies regarding the collection, use, and disclosure of information that you (End User, User, Website User, You, or Your) submit to Smart Life Weekly (referred to as the Company, we, or us) through our website www.smartlifeweekly.com, the mobile and touch versions and any individual sites or merchant-specific, city-specific, or other area-specific websites we have now or in the future. The website and links contained within or otherwise available through external hyperlinks within our website will be collectively referred to as (the Site) in this Privacy Policy.
 
  **End User Consent**  
-By accessing the Site, you acknowledge that you have read, understood, and agree to adhere to all of the terms of this Privacy Policy as well as the Site’s <http://www.smartlifeweekly.com/terms-and-conditions> Please refrain from using this Site if you do not agree to all of these terms and exit the Site. Do not access the Site again unless you fully agree to the terms set herein.
+By accessing the Site, you acknowledge that you have read, understood, and agree to adhere to all of the terms of this Privacy Policy as well as the Site’s [http://www.smartlifeweekly.com/terms-and-conditions](http://smartlifeweekly.com/terms-and-conditions) Please refrain from using this Site if you do not agree to all of these terms and exit the Site. Do not access the Site again unless you fully agree to the terms set herein.
 
  **Collection of Information**
 
