@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2017-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171207143816id_/http%3A//www.big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414091438id_/https%3A//www.big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Big 5 Sporting Goods
 
@@ -17,7 +17,7 @@ Our primary goals in collecting information are to provide and improve our Servi
 
 We may also collect certain information that is not PII because it cannot be used by itself to identify you, such as your date of birth and shopping interests (e.g., whether your interests are with camping & hiking, hunting & fishing, and/or fitness, etc.).
 
-**E-Team Program.** If you agree to receive email or “special offers” from us when you sign up for an Account, sign up for our E-Team, or otherwise consent to receiving email from us, we may, from time to time, send you emails regarding our products and services. Only Big 5, or third parties working on our behalf, will send you these emails. If you do not want to receive these emails anymore you can unsubscribe by following the unsubscribe option in the email. If you encounter difficulties unsubscribing, please contact "Feedback" at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#80e6e5e5e4e2e1e3ebc0e2e9e7b5e3eff2f0aee3efedbff3f5e2eae5e3f4bdc6e5e5e4e2e1e3eba0e6f2efeda0e2e9e7b5f3f0eff2f4e9eee7e7efefe4f3aee3efedbff3f5e2eae5e3f4baa0c6e5e5e4e2e1e3eba0e1f4a0e2e9e7b5f3f0eff2f4e9eee7e7efefe4f3aee3efeda0ada0d0e8e9f3e8e9eee7).
+**E-Team Program.** If you agree to receive email or “special offers” from us when you sign up for an Account, sign up for our E-Team, or otherwise consent to receiving email from us, we may, from time to time, send you emails regarding our products and services. Only Big 5, or third parties working on our behalf, will send you these emails. If you do not want to receive these emails anymore you can unsubscribe by following the unsubscribe option in the email. If you encounter difficulties unsubscribing, please contact "Feedback" at [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com?subject:%20Feedback%20at%20big5sportinggoods.com%20-%20Phishing).
 
 **Purchase History.** If you create an Account, in addition to collecting and storing Log Data (defined below), we may also store certain information that you provided in connection with completing your purchase via the Services (e.g., your purchase history and certain billing information). We reserve the right to keep such information as long as we have a legal use for the same, subject to the terms of our retention policy.
 
@@ -53,7 +53,7 @@ We take reasonable measures to protect the information that we collect from or a
 
 While we try to protect the information that we collect, you should also take measures to protect your information. This includes ensuring that your password and computer is protected against unauthorized access. You must also select a strong password, and never divulge your username or password to anyone. For additional security, you may want to change your password periodically. When using a shared computer, be sure to sign-off when finished and delete any stored personal information on the shared computer.
 
-Note: “Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from us asking for your personal information, do not respond. We would not and will not request your password, user name, credit card information, or other personal information through e-mail. Please report all “ phishing” attempts to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9bfbcbcbdbbb8bab299bbb0beecbab6aba9f7bab6b4e6aaacbbb3bcbaade49fbcbcbdbbb8bab2f9bfabb6b4f9bbb0beecaaa9b6abadb0b7bebeb6b6bdaaf7bab6b4e6aaacbbb3bcbaade3f99fbcbcbdbbb8bab2f9b8adf9bbb0beecaaa9b6abadb0b7bebeb6b6bdaaf7bab6b4f9f4f989b1b0aab1b0b7be).
+Note: “Phishing” is a scam designed to steal your personal information. If you receive an e-mail that looks like it might be from us asking for your personal information, do not respond. We would not and will not request your password, user name, credit card information, or other personal information through e-mail. Please report all “ phishing” attempts to [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com?subject:%20Feedback%20at%20big5sportinggoods.com%20-%20Phishing).
 
 ###  Links to Other Sites
 
@@ -61,7 +61,7 @@ Our Services may contain links to other websites and services. Any information t
 
 ###  Modifying Your Information
 
-You can access and modify the PII associated with your Account by signing in to your Account and following the instructions for making such modifications via the Services. You may change most of your PII (but not, for example, change your username) associated with your online account. If you are unable to access and/or change your Personally Identifiable Information, please contact "Feedback" at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#27414242434546444c67454e4012444855570944484a185452454d4244531a614242434546444c074155484a07454e401254574855534e494040484843540944484a).
+You can access and modify the PII associated with your Account by signing in to your Account and following the instructions for making such modifications via the Services. You may change most of your PII (but not, for example, change your username) associated with your online account. If you are unable to access and/or change your Personally Identifiable Information, please contact "Feedback" at [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com).
 
 ###  International Transfer
 
@@ -69,7 +69,7 @@ Your PII may be transferred to, and maintained on, computers located outside of 
 
 ###  Our Policy Toward Children
 
-Our Services are not directed to people under 18 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII from a child under 13 we will take steps to delete such information from our files as soon as possible. If you are a parent or guardian who knows or has discovered that your child under the age of 18 has submitted his or her Personally Identifiable Information or other information without your consent, permission or authorization, please notify us by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6e080b0b0a0c0f0d052e0c07095b0d011c1e400d0103511d1b0c040b0d1a53280b0b0a0c0f0d054e081c01034e0c07095b1d1e011c1a0700090901010a1d400d0103) or a letter to:
+Our Services are not directed to people under 18 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII from a child under 13 we will take steps to delete such information from our files as soon as possible. If you are a parent or guardian who knows or has discovered that your child under the age of 18 has submitted his or her Personally Identifiable Information or other information without your consent, permission or authorization, please notify us by sending an e-mail to [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com) or a letter to:
 
 Big 5 Sporting Goods  
 Attn: Web Support  
@@ -84,7 +84,7 @@ Any information that we collect is subject to the privacy policy in effect at th
 
 ###  Questions?
 
-Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e98f8c8c8d8b888a82a98b808edc8a869b99c78a8684d69a9c8b838c8a9dd4af8c8c8d8b888a82c98f9b8684c98b808edc9a99869b9d80878e8e86868d9ac78a8684) if you have any questions about our Privacy Policy.
+Please contact us at [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com) if you have any questions about our Privacy Policy.
 
 ###  California Do Not Track Disclosures
 
@@ -92,7 +92,7 @@ For information on “ **Your California Privacy Rights** ” please see below:
 
 Under California’s "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family, or household use are entitled to request and obtain from us (once a calendar year) certain information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g., requests made in 2014 will receive information regarding 2013 sharing activities).
 
-To obtain this information on behalf of Big 5 Corp. please send an email message to Customer Service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4f292a2a2b2d2e2c240f2d26287a2c203d3f612c2022703c3a2d252a2c3b72092a2a2b2d2e2c246f293d20226f2d26287a3c3f203d3b2621282820202b3c612c2022) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+To obtain this information on behalf of Big 5 Corp. please send an email message to Customer Service at [feedback@big5corp.com](mailto:feedback@big5corp.com?subject=Feedback%20from%20big5sportinggoods.com) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
 
 Alternatively, you may request the above information by sending a letter to:
 
