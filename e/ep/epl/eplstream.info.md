@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplstream.info privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202021512id_/http%3A//eplstream.info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplstream.info privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414053229id_/http%3A//eplstream.info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Privacy Policy – EPLstream
 
@@ -58,4 +58,4 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us by using our contact us form
 
-[Contact Us](https://web.archive.org/web/20171202021512id_/http%3A//eplstream.info/contact-us.html "Contact Us")
+[Contact Us](https://web.archive.org/web/20180414053229id_/http%3A//eplstream.info/contact-us.html "Contact Us")
