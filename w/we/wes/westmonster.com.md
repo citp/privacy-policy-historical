@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the westmonster.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214115630id_/http%3A//www.westmonster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westmonster.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414124544id_/https%3A//www.westmonster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Westmonster
+# Privacy Policy - Westmonster
 
 Westmonster Limited. (“We”) are committed to protecting and respecting your privacy.
 
