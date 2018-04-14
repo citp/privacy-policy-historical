@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tryootech.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205002938id_/http%3A//tryootech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryootech.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414174429id_/http%3A//tryootech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tryootech
 
