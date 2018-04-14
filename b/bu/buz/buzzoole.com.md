@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzoole.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202185437id_/http%3A//buzzoole.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzoole.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414035848id_/http%3A//buzzoole.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Buzzoole, Influencer Marketing Platform | Buzzoole
 
@@ -35,6 +35,35 @@ If you are aged 18 or under, please get your parent/guardian's permission before
 **Access to data that Buzzoole hold**
 
 Under the Data Protection Act You have the right to request a copy of the personal information the Buzzoole holds about You and to have any inaccuracies corrected. We will use reasonable efforts consistent with our legal duty to supply, correct or delete personal information about You on our files. For any doubt please address requests and questions about this to Buzzoole sending an email to customercare@buzzoole.com.
+
+ **Use of Influencer data associated to Google services**  
+With your consent, the Buzzoole application uses some data from the Google services you use. Below is a list of the authorisations we require and their purpose.
+
+Linking your **YouTube** channel with Buzzoole:
+
+  * <https://www.googleapis.com/auth/userinfo.email>;[ ](https://www.googleapis.com/auth/userinfo.profile)<https://www.googleapis.com/auth/userinfo.profile>: required to integrate the main information of your user profile.
+  * <https://www.googleapis.com/auth/youtube.readonly>: required to measure your influence and your audience on YouTube.
+
+
+
+Linking your **Google+** channel with Buzzoole:
+
+  * <https://www.googleapis.com/auth/userinfo.email>;[ ](https://www.googleapis.com/auth/userinfo.profile)<https://www.googleapis.com/auth/userinfo.profile>: required to integrate the main information of your user profile.
+  * <https://www.googleapis.com/auth/plus.login>;[ ](https://www.googleapis.com/auth/plus.me)<https://www.googleapis.com/auth/plus.me>: required to measure your influence and your audience on Google+.
+
+
+
+Linking your **Gmail** account with Buzzoole:
+
+  * <https://www.googleapis.com/auth/gmail.compose>;[ ](https://www.googleapis.com/auth/contacts.readonly)<https://www.googleapis.com/auth/contacts.readonly>: required to allow you to invite all your Gmail address book contacts for participation to the Referral programme.
+
+
+
+Linking your **Analytics** account with Buzzoole:
+
+  * <https://www.googleapis.com/auth/analytics.readonly>: the data for accessing the contents of your blogs will be used to calculate the level of influence you have on your audience and to assess the visibility and performance of the posts you produce in the Buzzoole campaigns.
+
+
 
 **By clicking Register, you're saying you and your parent or guardian accept the[Terms and Conditions](http://buzzoole.com/page/terms), [Privacy Policy](http://buzzoole.com/page/privacy) and [Cookie Policy](http://buzzoole.com/page/privacy).**
 
