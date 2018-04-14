@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everestonline.edu privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220131822id_/http%3A//www.everestonline.edu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everestonline.edu privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414144935id_/http%3A//www.everestonline.edu/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -141,6 +141,7 @@ If you have any questions or suggestions regarding our Privacy Policy, please co
 
 Zenith Education Group, Inc.  
 Attn: Corporate Compliance  
-1 Imation Place, Bldg 2  
-Oakdale, MN 55128  
+111 Washington Avenue S, Suite 1400  
+Minneapolis, MN 55401  
+866.786.2765  
 [privacy@zenith.org](mailto:privacy@zenith.org)
