@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215112544id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416001334id_/https%3A//queensnake.com/privacy) for the most accurate reproduction.*
 
 # Queensnake.com - Privacy
 
