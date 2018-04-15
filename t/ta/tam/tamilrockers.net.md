@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilrockers.net privacy policy that was archived on 2017-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171018031304id_/http%3A//tamilrockers.re/index.php/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilrockers.net privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415112912id_/http%3A//tamilrockers.gr/index.php/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TamilRockers.com
 
@@ -13,6 +13,6 @@ Protecting the privacy of the very young is especially important. For that reaso
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
   1.  
-  2. [Privacy Policy](http://tamilrockers.re/index.php/privacypolicy/)
+  2. [Privacy Policy](http://tamilrockers.gr/index.php/privacypolicy/)
 
 
