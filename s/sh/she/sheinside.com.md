@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110232649id_/http%3A//us.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415024425id_/http%3A//us.shein.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
-# Privacy&Security Policy | SHEIN
-
-Privacy&Security Policy
+# 
 
 For users logging on to the site to be personally identifiable, the following information is collected and stored.
 
