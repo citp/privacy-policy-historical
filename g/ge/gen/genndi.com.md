@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genndi.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214090158id_/http%3A//genndi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genndi.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416000651id_/http%3A//genndi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Genndi
 
