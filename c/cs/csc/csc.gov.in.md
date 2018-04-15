@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csc.gov.in privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215103450id_/http%3A//csc.gov.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csc.gov.in privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415101904id_/http%3A//www.csc.gov.in/privacypolicy) for the most accurate reproduction.*
 
 # Welcome to CSC E-Governance Services India Limited
 
