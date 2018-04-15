@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704051402id_/https%3A//harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrypotterfanfiction.com privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415120055id_/https%3A//www.harrypotterfanfiction.com/getinfo.php%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
-# HarryPotterFanfiction.com :: Over 80,000 Harry potter stories
+# HarryPotterFanfiction.com :: Harry potter stories. Read, write, review.
 
 _Privacy Policy_
 
