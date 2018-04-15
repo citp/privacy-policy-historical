@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharp-station.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211011709id_/http%3A//csharp-station.com/csharp-station-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharp-station.com privacy policy that was archived on 2018-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180415070118id_/http%3A//csharp-station.com/csharp-station-privacy-policy) for the most accurate reproduction.*
 
 # CSharp Station Privacy Policy – C# Station
 
@@ -26,3 +26,9 @@ Although most changes are likely to be minor, CSharp Station may change its Priv
 ## Third Party Advertising
 
 Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
+
+**NAI/IAB**
+
+We are compliant with the policies of several industry groups that focus on effective communication, best practices, and policy review in the field of Online Behavioral Advertising (OBA). These organizations include the [Network Advertising Initiative](http://www.networkadvertising.org/) ([NAI](http://optout.networkadvertising.org/)), the Digital Advertising Alliance (DAA), and the [Interactive Advertising Bureau](http://www.iab.net/) (IAB). We are compliant with both the NAI and DAA self-regulatory codes. We believe that delivering targeted and relevant advertising enhances your internet experience.  [Opt-Out](http://optout.networkadvertising.org/).
+
+Recommended from our users: **Dynamic Network Monitoring from WhatsUp Gold from IPSwitch**. [**Free Download**](http://shareasale.com/r.cfm?b=1080234&u=1121089&m=75001&urllink=&afftrack=)
