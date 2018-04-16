@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2017-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171105195415id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century-group.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416215702id_/http%3A//www.century-group.com/privacy) for the most accurate reproduction.*
 
-# CenturyGroup
+# Privacy
 
 Welcome to www.century-group.com (the “Site”). This website privacy policy (“Policy”) describes how Century Group International and its subsidiaries (“We”, “we”, or “Century Group”) may use and disclose personally identifiable information that we may collect about you through the Site (“Personal Information”).
 
@@ -10,10 +10,9 @@ We use Personal Information and other data collected through the Site to registe
 
 Disclosures of Personal Information As described in Section 4 of the Terms of Use, Century Group may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances:
 
-  1. We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
-  2. We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of Century Group or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.
+We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.
 
-
+We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of Century Group or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public.
 
 ### Revisions to the Policy
 
@@ -22,3 +21,5 @@ If we change this privacy policy we will post any updates here for your review. 
 This Policy is effective as of October 31, 2013. If you have any questions about our website privacy policies, please contact us at:
 
 Mailing Address: The Webmaster Century Group International 222 N. Sepulveda Blvd., Suite 2150 El Segundo, CA 90245 Email Address: [webmaster@century-group.com](mailto:webmaster@century-group.com)
+
+Privacy02.16.2018
