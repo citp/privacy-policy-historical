@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210015559id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416080028id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
 # Brother International - Privacy Statement
 
 **Privacy Policy**
 
-**(Last Updated: July 6, 2017)**
+**(Last Updated: January 25, 2018)**
 
 Brother International Corporation, and its subsidiaries ("Company," "Brother", "we," or "us"), are committed to respecting and protecting your privacy. We know that the privacy of personal information is an important concern to our customers. 
 
-This policy covers information that is collected through Brother websites, including [www.brother-usa.com](http://www.brother-usa.com/), [www.brothermall.com](http://www.brothermall.com/), [www.brothercloud.com](http://www.brothercloud.com/), and [www.ibroidery.com](http://www.ibroidery.com/), to which it is linked ("Site") and to the use of our products and/or services ("Services"). This Privacy Policy is a part of, and is incorporated into, any Terms of Service between you and Company which are applicable to our products and/or services. This Privacy Policy and such applicable Terms of Service (together, the "Agreement") comprise the entire agreement and understanding between you and Company with respect to your access to and use of the Site and Services. 
+This policy covers information that is collected through Brother websites, including [www.brother-usa.com](http://www.brother-usa.com/), [www.brothermall.com](http://www.brothermall.com/), [www.brothercloud.com](http://www.brothercloud.com/), [https://v7.omnijoin.com](http://v7.omnijoin.com/), [www.brothermobilesolutions.com](http://www.brothermobilesolutions.com/), [www.brotherthinkoptimize.com](http://www.brotherthinkoptimize.com/), and [www.ibroidery.com](http://www.ibroidery.com/), to which it is linked ("Site") and to the use of our products and/or services ("Services"). This Privacy Policy is a part of, and is incorporated into, any Terms of Service between you and Company which are applicable to our products and/or services. This Privacy Policy and such applicable Terms of Service (together, the "Agreement") comprise the entire agreement and understanding between you and Company with respect to your access to and use of the Site and Services. 
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=ec0be97b-12d7-465d-8d62-a4423cb6a3fc "TRUSTe Privacy Certification")
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=ec0be97b-12d7-465d-8d62-a4423cb6a3fc)
 
 Brother International Corporation (and its subsidiary companies Brother Industries (U.S.A.), Inc. and Brother Mobile Solutions, Inc.) participate in and have certified their compliance with the EU-U.S. and the Swiss-US Privacy Shield Framework. Brother International Corporation is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at <https://www.privacyshield.gov/list>. 
 
@@ -41,6 +41,10 @@ We also display personal testimonials of satisfied customers on our site in addi
 
 If you receive newsletters or promotional e-mails from us, we may collect additional information about you through the use of customized links or similar technologies to determine whether the e-mail was opened and which links were utilized by you in order to provide you more focused e-mail communications or other information. 
 
+We collect your location-based information for the purpose of providing you with information (such as job postings) specific to your location. We will only share this information with our mapping provider for the sole purpose of providing you this service. 
+
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at [privacy@brother.com](mailto:privacy@brother.com). 
+
 For OmniJoin Users: 
 
 When you invite attendee(s) to use our Service, we will collect information from them such as their name and email address. We will automatically send your attendee(s) a one-time email inviting them to your event. Company stores this information for the purpose of sending this one-time email and providing the service to your attendees. If you would like to request that it be removed from our database, please contact us at [omnijoinsupport@brother.com](mailto:omnijoinsupport@brother.com). 
@@ -68,6 +72,7 @@ Company may disclose Personal Information if we determine that disclosure is req
   3. to act in urgent circumstances to protect the personal safety of any officer, director, employee, consultant, agent or representative of Company, any user of Company products or services including without limitation the Site and the Services, or any member of the public; or
   4. for reasons of national security, law enforcement or other issues of public importance.
   5. In the event Company goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+  6. We may also disclose your personal information to any other third party with your prior consent.
 
 
 
@@ -89,7 +94,7 @@ We will retain your information for as long as your account is active or as need
 
 We are committed to protecting the security of your Personal Information. We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. For example, we store the Personal Information you provide to us on computer servers with limited access. When we transmit sensitive Personal Information (such as a credit card number) over the Internet, we transmit it through the use of Secure Socket Layer (SSL) encryption or other technologies. 
 
-The Personal Information that you provide to Company in connection with registering as a user of the Site or the Services (such as your name and e-mail address) is protected in several ways. For example, your access to your registration information is available through a password and a unique customer ID which is a valid e-mail address provided by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your registration information resides on secure servers accessible to only selected Company personnel. Company encrypts your Personal Information and strives to prevent unauthorized parties from viewing such information when it is transmitted to Company. We utilize security data security methods appropriate to the risks presented. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@brother.com](mailto:privacy@brother.com). 
+The Personal Information that you provide to Company in connection with registering as a user of the Site or the Services (such as your name and e-mail address) is protected in several ways. For example, your access to your registration information is available through a password and a unique customer ID which is a valid e-mail address provided by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your registration information resides on secure servers accessible to only selected Company personnel. Company encrypts your Personal Information and strives to prevent unauthorized parties from viewing such information when it is transmitted to Company. We utilize security data security methods appropriate to the risks presented. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us [privacy@brother.com](mailto:privacy@brother.com). 
 
 For OmniJoin Users: 
 
