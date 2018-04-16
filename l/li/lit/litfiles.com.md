@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litfiles.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215114608id_/http%3A//litfiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litfiles.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416151606id_/http%3A//litfiles.com/privacy) for the most accurate reproduction.*
 
 # LitFiles.com - Mirror your files in one click
 
