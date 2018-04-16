@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carseek.com privacy policy that was archived on 2017-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171023114638id_/http%3A//www.carseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carseek.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416162320id_/http%3A//www.carseek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Carseek.com
 
