@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davinadiaries.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903084406id_/https%3A//www.davinadiaries.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davinadiaries.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416125517id_/https%3A//www.davinadiaries.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Davina Diaries
 
