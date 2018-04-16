@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mileageplusupdates.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107224846id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileageplusupdates.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416170745id_/http%3A//www.united.com/web/en-US/content/privacy.aspx) for the most accurate reproduction.*
 
 # Customer Data Privacy Policy | United Airlines
 
