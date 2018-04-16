@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiancamppro.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210110646id_/http%3A//christiancamppro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiancamppro.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416030358id_/http%3A//christiancamppro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Camp Pro
 
