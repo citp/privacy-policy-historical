@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcinema.com.au privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422015809id_/https%3A//www.digitalcinema.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcinema.com.au privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416205517id_/https%3A//www.digitalcinema.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Cinema
 
