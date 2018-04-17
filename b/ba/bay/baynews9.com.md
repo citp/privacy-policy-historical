@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211133243id_/http%3A//www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/bn9/2017/4/7/bn9_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baynews9.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417080155id_/http%3A//www.baynews9.com/content/news/baynews9/news/article.html/content/news/articles/bn9/2017/4/7/bn9_privacy_policy.html) for the most accurate reproduction.*
 
 # Spectrum-BHN Privacy Policy
 
