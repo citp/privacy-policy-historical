@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2017-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170505031919id_/http%3A//www.amnestyusa.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417192849id_/https%3A//www.amnestyusa.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Amnesty International USA
-
-##  Privacy Notice for the Amnesty International USA Web site
+# Privacy Policy – Amnesty International USA
 
 This is the Web site for Amnesty International USA. Amnesty International USA has created this privacy notice to demonstrate our firm commitment to internet privacy. The following discloses our information gathering and dissemination practices for this Web site. The type and amount of information received depends on how you use the site.
 
