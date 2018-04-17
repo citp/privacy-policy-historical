@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wufoo.eu privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042402id_/https%3A//www.wufoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.eu privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417165424id_/https%3A//www.wufoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Wufoo
 
 Last updated: September 14, 2016
-
-* * *
 
 Wufoo is an online form builder that strives to provide the easiest way for you to collect information over the internet. Wufoo is used by people who are interested in creating forms to collect information or perform a variety of other tasks (" **Form Creators** "), and by people who fill out these forms (" **Form Respondents** "). Wufoo is a service provided by SurveyMonkey Inc.'s subsidiaries and affiliates. 
 
@@ -16,15 +14,15 @@ When SurveyMonkey receives personal information under the Privacy Shield and the
 
 Please contact SurveyMonkey as described in the "Questions?" section below if you have any concerns or complaints of any nature.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
-Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 **U.S. – Swiss Safe Harbor.  ** SurveyMonkey Inc. (and its subsidiary company, Infinity Box Inc.) complies with the  [US-Swiss Safe Harbor Framework](https://safeharbor.export.gov/swisslist.aspx)  developed by the U.S. Department of Commerce regarding the collection, use and retention of personal information received in the U.S. from Switzerland.  SurveyMonkey Inc. has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles with respect to such information. SurveyMonkey may process some data from individuals or companies in Switzerland via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. To learn more about the Safe Harbor program, and to view ourcertification, please visit <https://safeharbor.export.gov/swisslist.aspx>. 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=923f19c3-37fc-49b9-871b-caae4c6840b3 "TRUSTe Privacy Certification")
 
-This privacy statement is split into two sections: one for **Form Creators** , and one for **Form Respondents**.
+This privacy statement is split into two sections: one for **Form Creators** , and one for **Form Respondents**. 
 
-### PRIVACY FOR FORM CREATORS
+### privacy for form creators
 
 **1\. What information does SurveyMonkey collect?**
 
@@ -66,7 +64,7 @@ You can:
 
 
 
-### PRIVACY FOR FORM RESPONDENTS
+### privacy for form respondents
 
 **1\. What information does SurveyMonkey collect?**
 
@@ -98,10 +96,16 @@ See section 5 of the "Privacy for Form Creators" section above.
 
 If you have any questions or concerns regarding this privacy statement, the practices of this site or your dealings with this site, please contact us at the address below or using [this form](http://help.wufoo.com/contact). 
 
-Infinity Box Inc., 101 Lytton Avenue, Palo Alto, CA 94301, USA, Attn: Privacy Department.
+Infinity Box Inc., 3050 South Delaware Street, San Mateo, CA, 94403, USA, Attn: Privacy Department.
 
-SurveyMonkey Europe, 2 Shelbourne Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland Attn: Privacy Department.
+SurveyMonkey Europe UC, 2 Shelbourne Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland Attn: Privacy Department.
 
-* * *
+**You can view current and archived versions here:**
 
-### You can view current and archived versions here:
+  * [Current](https://web.archive.org/privacy/)
+  * [2016-01-18](https://web.archive.org/privacy/2016-01-18/)
+  * [2014-03-18](https://web.archive.org/privacy/2014-03-18/)
+
+
+
+Want to know why Wufoo is the best web form builder? When you design a web form with Wufoo, it automatically builds the database, backend, and scripts needed to make collecting and understanding your data easy, fast, and fun. Because we host everything, all you need is a browser, an Internet connection, and a few minutes to build a web form and start using it right away. At Wufoo, we believe web forms are the starting point for building anything useful on the web. Basically, they’re the most efficient mechanisms for collecting data from people. The problem is sometimes using a web form builder isn’t very efficient. The process of building a web form and all the database structures and scripts necessary to make it work (not to mention useful) is a really tedious process that makes what should be a simple task (collecting and understanding information) not really worth the time, effort, or cost of the endeavor. The entire process could take you or your IT person days, if not weeks. With Wufoo, you can skip all the hard stuff (because it does it all for you) and start getting things done. 
