@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001114004id_/http%3A//trade.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417171647id_/https%3A//www.trade.gov/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,7 @@ These technologies fall into two categories, based on the length of time they re
 
 
 
-ITA websites use the following web measurement and customization technologies (defined and organized per the Office of Management and Budget’s “Guidance for Online Use of Web Measurement and Customization Technologies” ([OMB M-10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf))):
+ITA websites use the following web measurement and customization technologies (defined and organized per the Office of Management and Budget’s “Guidance for Online Use of Web Measurement and Customization Technologies” ([OMB M-10-22](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf))):
 
   * Session cookies are used for technical purposes, such as enabling better navigation through the site, facilitating the use of user accounts, and generating aggregated statistics about how the website is used. Under the framework of OMB M-10-22, this qualifies as a Tier 1 use. 
   * ITA websites may set persistent cookies to measure website metrics, such as which pages are popular and how often people visit the website. These cookies do not collect personal identifying information.  Under the framework of OMB M-10-22, this qualifies as a Tier 2 use. 
@@ -96,7 +96,7 @@ Before collecting personally identifiable information, we will prominently discl
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage to the information on our websites. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
 
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html).
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration General Schedule 20.
 
 The International Trade Administration may share information received from its websites with other Federal agencies. For example, if a breach of our IT security protections were to occur, the information collected by our servers and staff could be shared with appropriate law enforcement and Homeland Security officials.
 
