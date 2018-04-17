@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2017-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171017084926id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417084712id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MPP
 
@@ -52,7 +52,7 @@ We use third-party advertising companies to serve advertisements when you visit 
 
 We are dedicated to providing privacy on the internet. In addition to developing our privacy policy, we have provided you the opportunity to opt out of future third-party advertising cookies.
 
-These terms do not cover the collection methods or use of the information collected by these vendors. These vendors have their own privacy policies and may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) (“NAI”).  To remove yourself from some or all NAI member advertising programs, please visit the [NAI Opt-Out Page](http://www.networkadvertising.org/managing/opt_out.asp) and follow the relevant instructions.  Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or internet browser, you may need to renew your opt-out choice.
+These terms do not cover the collection methods or use of the information collected by these vendors. These vendors have their own privacy policies and may be members of the [Network Advertising Initiative](https://www.networkadvertising.org/) (“NAI”).  To remove yourself from some or all NAI member advertising programs, please visit the [NAI Opt-Out Page](https://www.networkadvertising.org/managing/opt_out.asp) and follow the relevant instructions.  Please note that if you delete, block, or otherwise restrict cookies, or if you use a different computer or internet browser, you may need to renew your opt-out choice.
 
 **CREDIT CARD INFORMATION**
 
