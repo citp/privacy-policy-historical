@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the champ.aero privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215230711id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the champ.aero privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418012757id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.*
 
 # Privacy
 
