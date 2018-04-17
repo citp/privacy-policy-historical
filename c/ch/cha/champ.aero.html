@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the champ.aero privacy policy that was archived on 2017-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171215230711id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the champ.aero privacy policy that was archived on 2018-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180418012757id_/http%3A//www.champ.aero/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><head>
 
@@ -12,6 +12,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/all.css">
+    <link rel="stylesheet" href="/css/subscribe.css">
 	<!-- adhock css used on newly developed pages -->
 	<link href="/css/adhock_css.css" media="screen" rel="stylesheet" type="text/css">
 	<!--content slider carousel used on careers page -->
@@ -243,6 +244,77 @@
     </div>
 </div>
 
+    
+
+
+<div id="subscribe-embed">
+<h2>Newsletter Signup</h2>
+<!-- Start of signup -->
+<script language="javascript">
+<!--
+function validate_signup(frm) {
+	var emailAddress = frm.Email.value;
+	var errorString = '';
+	if (emailAddress == '' || emailAddress.indexOf('@') == -1) {
+		errorString = 'Please enter your email address';
+	}
+
+    
+var els = frm.getElementsByTagName('input');
+for (var i = 0; i < els.length; i++)
+{
+    if (els[i].className == 'text' || els[i].className == 'date' || els[i].className == 'number')
+    {
+        if (els[i].value == '')
+            errorString = 'Please complete all required fields.';
+    }
+    else if (els[i].className == 'radio')
+    {
+        var toCheck = document.getElementsByName(els[i].name);
+        var radioChecked = false;
+        for (var j = 0; j < toCheck.length; j++)
+        {
+            if (toCheck[j].name == els[i].name && toCheck[j].checked)
+                radioChecked = true;
+        }
+        if (!radioChecked)
+            errorString = 'Please complete all required fields.';
+    }
+}
+
+
+
+	var isError = false;
+    if (errorString.length > 0)
+        isError = true;
+
+    if (isError)
+        alert(errorString);
+	return !isError;
+}
+
+
+//-->
+</script>
+	<form name="signup" id="signup" action="http://dmtrk.net/signup.ashx" method="post" onsubmit="return validate_signup(this)">
+	<input type="hidden" name="addressbookid" value="36680135">
+	<!-- UserID - required field, do not remove -->
+	<input type="hidden" name="userid" value="86650">
+	<!-- ReturnURL - when the user hits submit, they'll get sent here -->
+	<input type="hidden" name="ReturnURL" value="http://www.champ.aero/thank-you">
+	<!-- Email - the user's email address -->
+
+
+	<input class="text" type="text" name="cd_FULLNAME" placeholder="Your name">
+	<input type="text" name="Email" placeholder="Your email">
+	<input type="Submit" name="Submit" value="Submit">
+
+
+	</form>
+
+
+<!-- End of signup -->
+</div>
     <div class="slice slice--darkgrey footer">
         <div class="wrapper">
             <div class="grid">
@@ -251,10 +323,10 @@
                         <h3>Industries</h3>
                         <ul>
 
-                                <li><a href="/industries/airlines/">Airlines</a></li>
-                                <li><a href="/industries/forwarders/">Forwarders</a></li>
-                                <li><a href="/industries/ghas/">GHAs</a></li>
-                                <li><a href="/industries/gsas/">GSAs</a></li>
+                                <li><a href="/community/sales/">Sales</a></li>
+                                <li><a href="/community/operations/">Operations</a></li>
+                                <li><a href="/community/community/">Community</a></li>
+                                <li><a href="/community/revenue/">Revenue</a></li>
 
                         </ul>
                     </div>
@@ -313,27 +385,19 @@
             <div class="row copyright">
                 <div class="col l-6 l-push-6 pad-btm">
                     <ul class="footer-partner-logos">
-                    	<li><a href="http://www.iata.org/" target="_blank"><img src="/images/partner-logo-iata.png" alt="IATA"></a></li>
-                        <li><a href="http://www.tiaca.org/" target="_blank"><img src="/images/partner-logo-tiaca.png" alt="TIACA"></a></li>
-                        <li><a href="http://www.iata.org/whatwedo/cargo/cargoiq/Pages/index.aspx" target="_blank"><img src="/images/partner-logo-cargo-2000.png" alt="CargoiQ"></a></li>
-                        <li><a href="http://www.sita.aero/" target="_blank"><img src="/images/partner-logo-sita.png" alt="SITA"></a></li>
-                        <li style="width:auto; text-align:left;"><a href="/news-events/awards-certificates/"><img style="max-width:50px;" src="/media/7830/footer_lux.png" alt="Made in LUX"></a></li>                       
-                        <!--
-                        <li><a href="/news-events/awards-certificates/"><img src="/media/7827/footer_lux.png" alt="Made in LUX"></a></li>
-                        <li><a href="http://www.iata.org/whatwedo/cargo/cargoiq/Pages/index.aspx"><img src="/images/partner-logo-cargo-2000.png" alt="CargoiQ"></a></li>
+                        <li><a href="http://www.iata.org/whatwedo/cargo/cargoiq/Pages/index.aspx"><img src="/images/partner-logo-cargo-2000.png" alt="Cargo 2000"></a></li>
                         <li><a href="http://www.iata.org/"><img src="/images/partner-logo-iata.png" alt="IATA"></a></li>
                         <li><a href="http://www.sita.aero/"><img src="/images/partner-logo-sita.png" alt="SITA"></a></li>
                         <li><a href="http://www.tiaca.org/"><img src="/images/partner-logo-tiaca.png" alt="TIACA"></a></li>
-                        -->
                     </ul>
                 </div>
                 <div class="col l-6 l-pull-6 copyright">
-                    © Copyright 2017
+                    © Copyright 2018
                 </div>
             </div>
         </div>
     </div>
-<style>.traxon { font-family: 'ITC Franklin GothicLTW01DmCnIt';	text-transform: uppercase; }</style>
+
 <script src="/scripts/plugins.js"></script>
 <script src="/scripts/ui.js"></script>
 <!-- adhock js used on newly developed pages -->
