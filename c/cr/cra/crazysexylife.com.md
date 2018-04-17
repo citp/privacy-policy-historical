@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazysexylife.com privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630161820id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysexylife.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417114333id_/http%3A//kriscarr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KrisCarr.com
 
@@ -58,7 +58,7 @@ By using the Sites, you assume the risk of an unauthorized security beach. Even 
 
 ## Opt-Out
 
-We include detailed unsubscribe/opt-out instructions as appropriate. If you need further assistance with unsubscribing or opting-out of any of the Services, email customer service at [info@kriscarr.com](mailto:info@kriscarr.com) for assistance. Upon request and to the extent practicable, we will make reasonable efforts to remove your information from our databases. However, be aware we may be unable to remove your information from the records of any third party who have received with your information in accordance with this Privacy Policy.
+We include detailed unsubscribe/opt-out instructions as appropriate. If you need further assistance with unsubscribing or opting-out of any of the Services, email customer service at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1c8cfc7cee1cad3c8d2c2c0d3d38fc2cecc) for assistance. Upon request and to the extent practicable, we will make reasonable efforts to remove your information from our databases. However, be aware we may be unable to remove your information from the records of any third party who have received with your information in accordance with this Privacy Policy.
 
 At our discretion, we may determine that your lack of engagement in the Services indicates your desire to opt-out of the Services. For example, you may be removed from our email list if you have not opened an email from us for a certain period of time. You may opt-in again at any time.
 
