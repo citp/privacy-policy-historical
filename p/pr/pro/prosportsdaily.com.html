@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prosportsdaily.com privacy policy that was archived on 2017-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171214113224id_/http%3A//www.prosportsdaily.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prosportsdaily.com privacy policy that was archived on 2018-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180418015720id_/http%3A//www.prosportsdaily.com/Home/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy Policy</title>
@@ -12,13 +12,14 @@
     <link href="/Content/css/prosportsdaily.css" rel="stylesheet" media="screen">
     <link href="/Content/css/yamm.css" rel="stylesheet" media="screen">
 
-    <script type="text/javascript" async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KRHNDQ"></script><script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KRHNDQ"></script><script async="" src="//web.archive.org/web/20180330124906/http://c.amazon-adsystem.com/aax2/apstag.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-latest.js"></script>
     <script async="" src="//js-sec.indexww.com/ht/p/185563-74069975176602.js"></script>
     <script type="text/javascript" src="//wurfl.io/wurfl.js"></script>
     <script>googletag = window.googletag || { cmd: [] };</script>
     <script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
     <script type="text/javascript" src="/Scripts/PsdGptTag.js"></script>
-    
+    <script type="text/javascript" src="/Scripts/uam.js"></script>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -85,23 +86,39 @@
                       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-
-
-
-
 <div id="div-gpt-ad-PSD1x1HighImpact">
 
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             //Load the top ad as soon as possible, no lazy loading here.
-            googletag.cmd.push(function () {
+            googletag.cmd.push(function() {
                 googletag.display('div-gpt-ad-PSD1x1HighImpact');
                 if (JSON.parse('True'.toLowerCase())) {
-                    googletag.pubads().refresh([PSD1x1HighImpact]);
+
+
+                    if (JSON.parse('False'.toLowerCase())) {
+                        apstag.fetchBids({
+                                slots: getApstagSlots('PSD1x1HighImpact'),
+
+
+                                timeout: 2e3
+                            },
+                            function(bids) {
+                                // set apstag targeting on googletag, then trigger the the refresh call to dfp
+                                googletag.cmd.push(function() {
+                                    apstag.setDisplayBids();
+                                    googletag.pubads().refresh([PSD1x1HighImpact]);
+                                });
+                            });
+                    }
+
+                    if (!JSON.parse('False'.toLowerCase())) {
+                        googletag.pubads().refresh([PSD1x1HighImpact]);
+                    }
                 }
             });
-        })
-    
+        });
+
     </script>
 
 </div>
@@ -116,18 +133,7 @@
 <div class="row header">
 
     
-    <script type="text/javascript">
-        //<![CDATA[
-        (function () {
-            window.gravityInsightsParams = {
-                'type': 'content',
-                'action': '',
-                'site_guid': '3ea40f35a96e7144c4eef485c504a9bc'
-            };
-            var b, c; b = "https:" === document.location.protocol ? "https://b-ssl.grvcdn.com/moth-min.js" : "http://b.grvcdn.com/moth-min.js"; window.grvMakeScript = function (d) { var a; a = document.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = d; return a }; c = document.getElementsByTagName("script")[0]; b && c.parentNode.insertBefore(window.grvMakeScript(b), c);
-        })();
-        //]]>
-    </script>
+    
     
     
     
@@ -137,7 +143,7 @@
     <div class="span9">
         
 
-<iframe id="scoreboard" frameborder="0" scrolling="no" allowtransparency="true" src="http://prosportsdaily.sportsdirectinc.com/sports-scores/score-carousel.aspx?Leagues=NFL;MLB;NBA;NHL;NCAAF;PREM;LIGA;BUND;ITA;LIG1;MLS&amp;numVisible=6">Live Scores</iframe>
+<iframe id="scoreboard" frameborder="0" scrolling="no" allowtransparency="true" src="http://prosportsdaily.sportsdirectinc.com/sports-scores/score-carousel.aspx?Leagues=NBA;MLB;NHL;NCAAB;MLS;PREM;LIGA;BUND;ITA;LIG1&amp;numVisible=6">Live Scores</iframe>
 
     </div>
 </div>
@@ -1261,23 +1267,39 @@
 
 <div class="row">
     <div class="ad-header">
-         
-
-
-
-<div id="div-gpt-ad-PSDLeaderboardTop">
+         <div id="div-gpt-ad-PSDLeaderboardTop">
 
     <script>
-        $(document).ready(function () {
+        $(document).ready(function() {
             //Load the top ad as soon as possible, no lazy loading here.
-            googletag.cmd.push(function () {
+            googletag.cmd.push(function() {
                 googletag.display('div-gpt-ad-PSDLeaderboardTop');
                 if (JSON.parse('True'.toLowerCase())) {
-                    googletag.pubads().refresh([PSDLeaderboardTop]);
+
+
+                    if (JSON.parse('True'.toLowerCase())) {
+                        apstag.fetchBids({
+                                slots: getApstagSlots('PSDLeaderboardTop'),
+
+
+                                timeout: 2e3
+                            },
+                            function(bids) {
+                                // set apstag targeting on googletag, then trigger the the refresh call to dfp
+                                googletag.cmd.push(function() {
+                                    apstag.setDisplayBids();
+                                    googletag.pubads().refresh([PSDLeaderboardTop]);
+                                });
+                            });
+                    }
+
+                    if (!JSON.parse('True'.toLowerCase())) {
+                        googletag.pubads().refresh([PSDLeaderboardTop]);
+                    }
                 }
             });
-        })
-    
+        });
+
     </script>
 
 </div>
@@ -1300,7 +1322,7 @@
                 <a href="/nba/nba-rumors.html">NBA Rumors &amp; News</a>
             </li>
                 <li>
-                    <a href="/Prospects/League/NBA">NBA Prospects</a>
+                    <a href="/articles/bulls-derrick-roses-comeback-more-lowkey-this-time-around-304660.html/Headlines/Prospects/League/NBA">NBA Prospects</a>
                 </li>
             <li>
                 <a href="http://forums.prosportsdaily.com/forumdisplay.php?forumid=41">NBA Forum</a>
@@ -1311,7 +1333,7 @@
                 <a href="/nfl/nfl-rumors.html">NFL Rumors &amp; News</a>
             </li>
                 <li>
-                    <a href="/Prospects/League/NFL">NFL Prospects</a>
+                    <a href="/articles/bulls-derrick-roses-comeback-more-lowkey-this-time-around-304660.html/Headlines/Prospects/League/NFL">NFL Prospects</a>
                 </li>
             <li>
                 <a href="http://forums.prosportsdaily.com/forumdisplay.php?forumid=75">NFL Forum</a>
@@ -1322,7 +1344,7 @@
                 <a href="/mlb/mlb-rumors.html">MLB Rumors &amp; News</a>
             </li>
                 <li>
-                    <a href="/Prospects/League/MLB">MLB Prospects</a>
+                    <a href="/articles/bulls-derrick-roses-comeback-more-lowkey-this-time-around-304660.html/Headlines/Prospects/League/MLB">MLB Prospects</a>
                 </li>
             <li>
                 <a href="http://forums.prosportsdaily.com/forumdisplay.php?forumid=7">MLB Forum</a>
@@ -1333,7 +1355,7 @@
                 <a href="/nhl/nhl-rumors.html">NHL Rumors &amp; News</a>
             </li>
                 <li>
-                    <a href="/Prospects/League/NHL">NHL Prospects</a>
+                    <a href="/articles/bulls-derrick-roses-comeback-more-lowkey-this-time-around-304660.html/Headlines/Prospects/League/NHL">NHL Prospects</a>
                 </li>
             <li>
                 <a href="http://forums.prosportsdaily.com/forumdisplay.php?forumid=115">NHL Forum</a>
@@ -1584,11 +1606,11 @@ Canada
         | <a href="/Home/ContactUs">Contact Us</a> 
         | <a href="/Home/PrivacyPolicy">Privacy</a>
         | <a href="/Home/TermsOfService">Terms of Service</a>
-        | <a href="/MediaKit">Advertising</a>
+        | <a target="_blank" href="https://www.covers.com/advertising">Advertising</a>
         <br>
     </span>
     <span class="footer-title">
-        Copyright © 1995-2017
+        Copyright © 1995-2018
         <a href="http://www.covers.com">Covers Media Group</a>
     </span>
     All Rights Reserved. A Covers Media Group Site. <br>
