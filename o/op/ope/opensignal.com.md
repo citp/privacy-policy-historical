@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensignal.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126124327id_/https%3A//opensignal.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensignal.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417190200id_/https%3A//opensignal.com/privacypolicy) for the most accurate reproduction.*
 
-# Crowdsourced Coverage Maps - About Us - OpenSignal
+# Privacy Policy - OpenSignal
 
 Legal Notice
 
