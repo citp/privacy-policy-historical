@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wackyowl.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130223539id_/http%3A//www.wackyowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wackyowl.com privacy policy that was archived on 2018-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180417025056id_/http%3A//www.wackyowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
