@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223075018id_/https%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418211234id_/https%3A//www.binglee.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buy Online with Bing Lee
 
@@ -126,7 +126,7 @@ Bing Lee stores Your personal information on its systems and with its Agents. Bi
 
 #### OPT-OUT IN RESPECT OF MARKETING MATERIALS
 
-Bing Lee acknowledges and respects its customers' choice to "opt-out" of direct marketing communication activities undertaken by Bing Lee. If You do not wish to receive direct marketing or other promotional material from Bing Lee, please contact Bing Lee's privacy officer by email at [privacy@binglee.com.au](mailto:privacy@binglee.com.au) or by telephone on (02) 9781 3000 and indicate the particular marketing or promotional material You do not wish to receive.
+Bing Lee acknowledges and respects its customers' choice to "opt-out" of direct marketing communication activities undertaken by Bing Lee. If You do not wish to receive direct marketing from Bing Lee, please contact Bing Lee's privacy officer by email at [privacy@binglee.com.au](mailto:privacy@binglee.com.au) or by telephone on (02) 9781 3000 and indicate the particular marketing or promotional material You do not wish to receive.
 
 #### MAINTAINING YOUR PERSONAL INFORMATION
 
