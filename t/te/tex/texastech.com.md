@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texastech.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212214824id_/https%3A//sidearmsports.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastech.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418044612id_/https%3A//sidearmsports.com/privacypolicy) for the most accurate reproduction.*
 
 # SIDEARM Sports Privacy Policy | SIDEARM Sports – The #1 Provider of College Athletics Websites
 
