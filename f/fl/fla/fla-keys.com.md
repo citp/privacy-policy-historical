@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127033323id_/http%3A//www.fla-keys.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fla-keys.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418211752id_/http%3A//www.fla-keys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TDC Monroe County Florida Keys Official Tourism Website
 
@@ -10,7 +10,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) to send periodic emails. The email address you provide for order processing will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Any of the information we collect from you may be used in one of the following ways: To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) to send periodic e-mails. The e-mail address you provide for order processing will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future e-mails, we include detailed unsubscribe instructions at the bottom of each e-mail.
 
 **How do we protect your information?**
 
@@ -28,7 +28,7 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-As a County tourism promotion agency, we consider the personal information you provide, including your email address, to be exempt from s. 119.07(1) and from s. 24(a), Art. I of the State Constitution pursuant to F.S. 125.0104(9)(d).
+As a County tourism promotion agency, we consider the personal information you provide, including your e-mail address, to be exempt from s. 119.07(1) and from s. 24(a), Art. I of the State Constitution pursuant to F.S. 125.0104(9)(d).
 
 **Third party links**
 
