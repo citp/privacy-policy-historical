@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmia.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202125221id_/http%3A//fashionmia.com/privacy-policy-i-14.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmia.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419003551id_/http%3A//www.fashionmia.com/privacy-policy-i-14.html) for the most accurate reproduction.*
 
 # Privacy Policy - Be more stylish with Fashionmia.com
 
@@ -24,9 +24,6 @@ On rare occasions it is necessary to send out a strictly service related announc
 www.fashionmia.com takes every precaution to protect our users' information. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the Secure Socket Layers (SSLs) encryption software. While on a secure page, such as our order form, a lock icon appears on the bottom of your Web browser. When you are not on a secure page, no lock icon will appear. In addition, the servers that we store personally identifiable information on are kept in a secure environment under restricted access. **However, security systems are not infallible, including encryption systems. While we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security.**
 
 If you have any questions about the security at our website, send us an e-mail at _service@fashionmia.com_ for more info.
-
-**Supplementation of Information**  
-In order for **www.fashionmia.com** to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from third party sources such as our affiliated websites. For example, in order for Ebay.com to enhance our ability to tailor the site to an individual's preference, we combine information about the purchasing habits of users with similar information from our affiliated sites. When a user makes a purchase from any of these companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
 
 **Special Offers**  
 Established members will occasionally receive information on products, services, special offers and a newsletter. Out of respect for the privacy of our users, we present the option to not receive these types of communications. Please see our choice and opt-out below.
