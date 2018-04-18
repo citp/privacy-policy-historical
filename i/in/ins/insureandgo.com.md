@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insureandgo.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615125341id_/https%3A//www.insureandgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureandgo.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418033959id_/http%3A//www.insureandgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - InsureandGo UK
 
@@ -61,42 +61,50 @@ A unique identifier assigned to each visitor to our website. This cookie is reta
 
 We use a number of third-party services that need to place cookies on your computer to function properly. Here is a list of the services we use, the cookies they create and a brief description of what we use each service for:
 
-#### Bing  
+#### Bing
+
 Cookie name: MR, MUID
 
-We use Bing to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who’ve visited our website and then gone to another website without buying a policy. For information about the data Bing’s cookies contain, [click here](http://ads.bingads.microsoft.com/en-uk/privacy-policy).
+We use Bing to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who’ve visited our website and then gone to another website without buying a policy. For information about the data Bing’s cookies contain, [click here](https://advertise.bingads.microsoft.com/en-gb/resources/policies/microsoft-bing-ads-privacy-policy).
 
-#### Disqus  
+#### Disqus
+
 Cookie name: __jid, disqus_unique
 
 We use Disqus to enable readers of the InsureandGo blog to leave comments on our posts. For information about the data Disqus's cookies contain, [click here](http://help.disqus.com/customer/portal/articles/466235-enabling-cookies).
 
-#### DoubleClick (Google)  
+#### DoubleClick (Google)
+
 Cookie name: id
 
 We use DoubleClick to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who've visited our website and then gone to another website without buying a policy. For information about the data DoubleClick's cookies contain, [click here](http://www.google.com/intl/en/policies/privacy/)
 
-#### Google Analytics  
+#### Google Analytics
+
 Cookie name: ND, _dc_gtm_UA-41509584-1, _dc_gtm_UA-9347930-3, _gat_UA-9347930-3, _ga, __utma, __utmc, __utmz, __utmt, __utmb
 
 We use Google Analytics to help us understand how people find and use our website. For information about the data Google Analytics' cookies contain, [click here](http://www.google.com/analytics/learn/privacy.html).
 
-#### LivePerson  
+#### LivePerson
+
 Cookie name: LivePersonID, 22725166-SKEY, HumanClickSiteContainerID_22725166, 22725166-VID, HumanClickKEY
 
 We use LivePerson to enable people to chat to members of our customer services team. For information about the data LivePerson's cookies contain, [click here](http://www.liveperson.com/policies/privacy).
 
-#### Pinterest  
-Cookie name: Cookie name: _pinterest_cm
+#### Pinterest
+
+Cookie name: _pinterest_cm
 
 We use Pinterest to allow visitors to our blog to share photos with their followers. For information about the data Pinterest's cookies contain, [click here](http://about.pinterest.com/en/privacy-policy).
 
-#### Twitter  
+#### Twitter
+
 Cookie name: pid
 
 We use Twitter to enable people to follow InsureandGo with the click of a button. For information about the data Twitter's cookies contain, [click here](https://twitter.com/privacy).
 
-#### Yahoo!  
+#### Yahoo!
+
 Cookie name: B
 
 We use Yahoo! to help us monitor the performance of our online advertisements and for the purpose of retargeted advertising. This enables us to display adverts to people who’ve visited our website and then gone to another website without buying a policy. For information about the data Bing’s cookies contain, [click here](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm).
