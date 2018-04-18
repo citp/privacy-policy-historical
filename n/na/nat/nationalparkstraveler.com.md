@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalparkstraveler.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831225606id_/http%3A//www.nationalparkstraveler.com/item/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalparkstraveler.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418170058id_/http%3A//www.nationalparkstraveler.com/item/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Parks Traveler
 
