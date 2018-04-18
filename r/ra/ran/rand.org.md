@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216180326id_/https%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418190048id_/https%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RAND
 
@@ -73,7 +73,7 @@ This site contains links to other sites. RAND will take every reasonable step to
 
 ### What about cookies and non-personally identifiable information?
 
-When visitors come to our site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor. Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Netscape Navigator or Internet Explorer), and Internet Service Providers (e.g., AOL or Verizon) used by each visitor to the site. Although such information is not personally identifiable, it can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet.
+When visitors come to our site, we collect and aggregate information indicating, among other things, which web pages were visited, the order in which they were visited, and which hyperlinks, if any, were "clicked" by the visitor. Collecting such information involves the logging of IP addresses, operating system (e.g., Windows or Macintosh), type of browser software (e.g., Google Chrome, Firefox, Safari, or Internet Explorer), and Internet Service Providers (e.g., Time Warner, AT&T, Comcast, or Verizon) used by each visitor to the site. Although such information is not personally identifiable, it can be used to determine the IP address of the visitor's Internet Service Provider and the geographic location of his or her point of connectivity to the Internet.
 
 Cookies are small bits of information that our site places on the hard drive of your computer. The site may require you to enable cookies to utilize all of our services. The cookie itself does not contain any personally identifiable information about a visitor, and RAND does not use cookies in order to obtain such information. RAND will never save credit card information in cookies. Cookies are used by most major sites of the Internet.
 
@@ -87,4 +87,4 @@ If you have any questions about this privacy statement, the practices of RAND, o
 
 [About This Site](https://web.archive.org/site_info.html) [About RAND](https://web.archive.org/about.html)
 
- _Revised February 5, 2013_
+ _Revised March 29, 2018_
