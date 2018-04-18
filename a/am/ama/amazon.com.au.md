@@ -1,6 +1,26 @@
-> *The following text is extracted and transformed from the amazon.com.au privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208015111id_/https%3A//www.amazon.com.au/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.com.au privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418195237id_/https%3A//www.amazon.com.au/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D468496) for the most accurate reproduction.*
 
 # Amazon.com.au Help: Amazon.com.au Privacy Notice
+
+**Last updated: 5 December, 2017**. To see what has changed, [click here](https://web.archive.org/gp/help/customer/display.html?nodeId=202206800).
+
+Amazon knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice applies to information collected by Amazon Commercial Services Pty Limited or its affiliates ("Amazon") in connection with amazon.com.au and other sites and services operated by Amazon as we disclose to you.
+
+  
+
+
+  1. What Personal Information About Customers Does Amazon Gather?
+  2. What About Cookies?
+  3. Does Amazon Share the Information It Receives?
+  4. How Secure Is Information About Me?
+  5. What About Third-Party Advertisers and Links to Other Websites?
+  6. Which Information Can I Access?
+  7. What Choices Do I Have?
+  8. Are Children Allowed to Use Amazon.com.au?
+  9. Conditions of Use, Complaints, Notices, and Revisions
+  10. Examples of Information Collected
+
+
 
 ##  **What Personal Information About Customers Does Amazon Gather?**
 
@@ -18,6 +38,68 @@ Here are the types of information we gather.
   5. **Information from Other Sources:** We might receive information about you from other sources and add it to our account information. Click here to see examples of the information we receive.
 
 
+
+##  **What About Cookies?**
+
+  
+
+
+  1. Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features such as [1-Click](https://www.amazon.com.au/gp/help/customer/display.html/ref=hp_bc_nav?ie=UTF8&nodeId=201889200) purchasing, [product recommendations](https://www.amazon.com.au/gp/yourstore/recs/ref=sv_ys_1), personalized advertisements on other websites (e.g., Amazon Associates may use content served by Amazon.com.au) and storage of items in your Shopping Cart between visits.
+  2. The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com.au's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com.au products and services that require you to Sign in.
+
+
+
+##  **Does Amazon Share the Information It Receives?**
+
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. These Amazon entities may be located in other countries.
+
+  
+
+
+  1. **Third-Party Businesses We Do Not Control:** We work closely with other businesses. In some cases, such as third-party sellers, these businesses operate stores at Amazon.com.au or sell offerings to you at Amazon.com.au. When you place an order from a third-party seller, information related to the order will be provided to the seller, and such information will be subject to the seller's privacy policy. In other cases, we operate stores, provide services, or sell or market product lines jointly with these businesses or make available third party features or services you may choose to use on Amazon.com.au. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party. These third parties may be located in other countries.
+  2. **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. These service providers may be located in other countries.
+  3. **Marketing Communications:** Sometimes and with the required consent we send communications to selected groups of Amazon customers on behalf of other businesses. When we do this, we do not give that business your name and address. You can manage the types of communications you receive, and opt out of certain communications, by adjusting your [Customer Communication Preferences](https://www.amazon.com.au/gp/gss/ccp?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&)
+  4. **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+  5. **Protection of Amazon and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://www.amazon.com.au/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909000) and other agreements; or protect the rights, property, or safety of Amazon, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  6. **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+
+
+
+##  **How Secure Is Information About Me?**
+
+  
+
+
+  1. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+  2. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  3. It is important for you to protect against unauthorized access to your password and to your device. Be sure to [sign off](https://www.amazon.com.au/gp/help/customer/display.html?nodeId=201945460) when finished using a shared device.
+
+
+
+##  **What About Third-Party Advertisers and Links to Other Websites?**
+
+Our sites may include third-party advertising and links to other websites. For more information about third-party advertising at Amazon.com.au, including personalized or interest-based ads, please read our [Cookies and Internet Advertising policy](https://www.amazon.com.au/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201380490).
+
+##  **Which Information Can I Access?**
+
+Amazon gives you access to a broad range of information about your account and your interactions with Amazon for the limited purpose of viewing and, in certain cases, updating that information. Click here to see some examples, the list of which will change as our sites evolve.
+
+##  **What Choices Do I Have?**
+
+  
+
+
+  1. As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon features as [Your Profile](https://www.amazon.com.au/gp/profile/) and [Customer Reviews](https://www.amazon.com.au/gp/help/customer/display.html?nodeId=201929880).
+  2. You can add or update certain information on pages such as those referenced in the Which Information Can I Access? section. When you update information, we usually keep a copy of the prior version for our records.
+  3. You can manage the types of communications you receive from us, and opt out of certain communications, by adjusting your [Customer Communication Preferences](https://www.amazon.com.au/gp/gss/ccp?ie=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&). You consent to receiving communications in accordance with these preferences. (If you do not want to receive [Conditions of Use](https://www.amazon.com.au/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909000) and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.com.au, and it is your responsibility to review them for changes.)
+  4. If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, please adjust your [Advertising Preferences](https://www.amazon.com.au/adprefs).
+  5. The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. Because cookies allow you to take advantage of some of Amazon.com.au's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Amazon.com.au products and services that require you to Sign in.
+
+
+
+##  **Are Children Allowed to Use Amazon.com.au ?**
+
+Amazon.com.au does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.com.au only with the involvement of a parent or guardian.
 
 ##  **Complaints, Contact Information and Changes**
 
@@ -48,7 +130,7 @@ Most mobile devices provide users with the ability to disable location services.
 
 **Information from Other Sources**
 
-Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; search term and search result information from some searches conducted through the web search features offered by our affiliate, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain services to some customers.
+Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfilment, advertising, or other services; search term and search result information from some searches conducted through the web search features offered by our affiliate, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain services to some customers.
 
 **Co-branded and Joint Offerings**
 
