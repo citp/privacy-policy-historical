@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zteusa.com privacy policy that was archived on 2017-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170703040914id_/https%3A//www.zteusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zteusa.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418220747id_/https%3A//www.zteusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZTE USA
 
@@ -80,9 +80,9 @@ Or via regular mail to:
 
 ZTE USA Inc.
 
-2425 N. Central Expressway, Suite 323 Richardson
+2425 N. Central Expressway, Suite 800 
 
-TX 75080
+Richardson, TX 75080
 
 Or via Phone: (972) 671-8885
 
