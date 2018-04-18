@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217182832id_/http%3A//www.greatrun.org/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatrun.org privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418205755id_/http%3A//www.greatrun.org/privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Greatrun.org website privacy and cookies policies
 
