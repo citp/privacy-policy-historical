@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the javacodegeeks.com privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903112746id_/http%3A//www.javacodegeeks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javacodegeeks.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418125521id_/http%3A//www.javacodegeeks.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Java Code Geeks - 2017
+# Privacy Policy | Java Code Geeks - 2018
 
 Exelixis Media P.C. (holding company of Java Code Geeks) is committed to protecting your privacy. The following privacy policy describes the ways in which Exelixis Media P.C. gathers and shares your personal information as well as how you can access and update this information. Exelixis Media P.C. reserves the right to update this privacy policy at any time. Any modifications to our privacy policy will be reflected on Java Code Geeks (Site).
 
