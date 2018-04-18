@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwitness.org privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014213645id_/https%3A//www.globalwitness.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwitness.org privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418124715id_/https%3A//www.globalwitness.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Witness
 
