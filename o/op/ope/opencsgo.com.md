@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opencsgo.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120080059id_/https%3A//opencsgo.com/lua) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opencsgo.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419034233id_/http%3A//opencsgo.com/lua) for the most accurate reproduction.*
 
-# Random PUBG, Dota 2, H1Z1 and CS GO skins shop. Buy online & open profitable cases
+# Privacy Policy - OpenCSGO.com
 
-This Privacy Policy governs the manner in which opencsgo.com collects, uses, maintains and discloses information collected from users (each, a "User") of the opencsgo.com website ("Site") in accordance with United Kingdom legislation.
+This Privacy Policy governs the manner in which opencsgo.dev collects, uses, maintains and discloses information collected from users (each, a "User") of the opencsgo.dev website ("Site") in accordance with United Kingdom legislation.
 
 ###### Personal identification information
 
@@ -24,7 +24,7 @@ Our Site may use "cookies" to enhance User experience. For example, we use a coo
 
 ###### How we use collected information
 
-opencsgo.com may collect and use Users personal (Steam) information for the following purposes:
+opencsgo.dev may collect and use Users personal (Steam) information for the following purposes:
 
   * To run and operate our Site 
   * We may need your information display content on the Site correctly. 
@@ -59,7 +59,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ###### Changes to this privacy policy
 
-opencsgo.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+opencsgo.dev has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ###### Your acceptance of these terms
 
@@ -67,6 +67,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ###### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [support@opencsgo.com](mailto:support@opencsgo.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at [support@opencsgo.dev](mailto:support@opencsgo.dev)
 
 Revised January 30, 2017
