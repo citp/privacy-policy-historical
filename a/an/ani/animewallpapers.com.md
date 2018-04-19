@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2017-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170714142546id_/https%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animewallpapers.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419164245id_/https%3A//www.animewallpapers.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (Anime Wallpapers.com)
 
@@ -9,7 +9,7 @@
 Our postal address is  
 2006 Benson ave 3d  
 Brooklyn, NY 11214  
-We can be reached via e-mail at webmaster@animeglobe.com
+We can be reached via e-mail at [[email protected]](https://www.animewallpapers.com/cdn-cgi/l/email-protection)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
