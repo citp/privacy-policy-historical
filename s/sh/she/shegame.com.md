@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shegame.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215225849id_/http%3A//www.shegame.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shegame.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419232748id_/http%3A//www.shegame.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Play free game online at SheGame.com.
 
@@ -78,9 +78,9 @@ The information that our Websites collect includes (among others) the following:
 
 5.2    Users with a personal profile on the Websites may review, update, or delete personal data collected by us by clicking on the appropriate link in the personal profile. 
 
-5.3    In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to SheGame,detailing your request and the data you have provided to us along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [info@SheGame.com](mailto:info@SheGame.com). 
+5.3    In general, if you wish to have access to your personal data to correct or delete the information that we have collected about you, please send a written request to SheGame,detailing your request and the data you have provided to us along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2f464149406f7c474a684e424a014c4042). 
 
-5.4    _Parents of users under the age of 16_ : If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to SheGame, detailing your request along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [info@shegame.com](mailto:info@shegame.com). 
+5.4    _Parents of users under the age of 16_ : If you wish to have access to your child's personal data to view, correct, or delete the information that we have collected about your child, please send a written request to SheGame, detailing your request along with a copy of your passport (to prevent misuse of requests for information), or send an email with all such information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5dcdbd3daf5c6ddd0d2d4d8d09bd6dad8). 
 
 **6.   ** **Security**
 
@@ -108,6 +108,6 @@ The information that our Websites collect includes (among others) the following:
 
 8.6    This Privacy Policy shall be governed by the laws of the United States and submitted to the exclusive jurisdiction of the courts in the United States. 
 
-If you have any additional questions or requests, you may send an email to [info@shegame.com](mailto:info@shegame.com). 
+If you have any additional questions or requests, you may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#167f78707956657e7371777b733875797b). 
 
 SheGame.com
