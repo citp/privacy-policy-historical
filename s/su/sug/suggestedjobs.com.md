@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the suggestedjobs.com privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208153556id_/http%3A//suggestedjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suggestedjobs.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419055732id_/https%3A//suggestedjobs.com/privacy) for the most accurate reproduction.*
 
 # Suggested Jobs | Privacy
 
 Enter your personal details to create an account
 
-### Updated May 5, 2015
+### Updated January 19, 2018
 
 Welcome to SuggestedJobs.com ("Suggested Jobs"). We respect the privacy of our users who access and/or use Suggested Jobs and are committed to protecting the personally identifiable information we collect about you.
 
@@ -67,6 +67,10 @@ Never provide your social security number, credit card information, bank account
 "Cookies" are small pieces of information that are stored by your browser on your computers hard drive. Suggested Jobs may use cookies to keep track of your session and advertising delivery. Suggested Jobs or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. You can learn more [here](http://www.google.com/policies/technologies/ads/). You can opt-out of this type of advertising [here](https://web.archive.org/unsubscribe).
 
 LiveRamp may place or recognize a unique cookie on your browser or a unique ID for your mobile device. To opt-out of LiveRamp cookies, please go [here](http://liveramp.com/opt_out/).
+
+### SMS
+
+By opting in to receive SMS communications from Suggested Jobs, you agree to receive a maximum of two messages per day. Message and data rates apply. Carriers are not liable for undelivered messages. Reply HELP for help and STOP if you no longer wish to receive SMS messages.
 
 ### Links to Third Party Sites
 
