@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gif-vif.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218232844id_/http%3A//www.gif-vif.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gif-vif.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419234910id_/http%3A//www.gif-vif.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.Gif-Vif.com
 
