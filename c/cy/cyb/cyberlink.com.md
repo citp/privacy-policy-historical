@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223150118id_/https%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberlink.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419061331id_/https%3A//www.cyberlink.com/stat/company/enu/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | CyberLink
 
