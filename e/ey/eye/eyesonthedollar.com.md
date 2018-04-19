@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyesonthedollar.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217025310id_/http%3A//eyesonthedollar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyesonthedollar.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419183344id_/http%3A//eyesonthedollar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eyes on the Dollar
 
