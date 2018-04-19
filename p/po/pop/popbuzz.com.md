@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217040404id_/http%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419160725id_/http%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PopBuzz
 
