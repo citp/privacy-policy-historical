@@ -1,30 +1,58 @@
-> *The following text is extracted and transformed from the triumphmotorcycles.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102234824id_/http%3A//www.triumphmotorcycles.com/the-triumph-company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphmotorcycles.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419060141id_/http%3A//www.triumphmotorcycles.com/global-content/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy | Triumph Motorcycles
+# Privacy and Cookie Policy | For the Ride
 
-**Privacy Policy for Triumph Motorcycles Limited**
+Created: 4 November 2015 Last updated: 03 january 2018. This privacy notice outlines the way Triumph Motorcycles (Triumph Motorcycles Limited, Ashby Road, Measham, Swadlincote, Derbyshire. DE12 7JP) collects, uses and looks after your personal information. 
 
-Triumph Motorcycles Limited takes the confidentiality of personal data seriously. This policy explains how we use any personal information we collect about you.
+### Information Collected
 
-What information do we collect about you?
+We collect information about you when you use our online services and, in some cases, on paper (e.g. when you fill in a form at a dealer or when you visit one of our stands at a show). We will collect information such as your name, address and contact details. We may also collect other personal information about you if it is relevant to the service you have requested (e.g. we might ask you for your age if you are requesting a test ride). Website usage information will be collected through the use of cookies (see the cookie section below for more details). On occasion we may send you invitations to complete research surveys.
 
-We collect information about you when you register an interest, or purchase, our products. We also collect information when you voluntarily complete surveys or supply feedback. Website usage information is collected using cookies.
+We will also collect information about you for articles we publish. This will only happen where you have sent us the information yourself or you have consented to its use.
 
-How do we use the information about you?
+For our online services which are hosted in the UK we will comply with the Data Protection Act 1998 when processing your personal data. Where information is physically collected in a country outside the UK, we will endeavour to meet the legal requirements of that country.
 
-The Triumph customer database is used by Triumph (and business partners acting on its behalf) for client administration and marketing related purposes. 
+#### Please Note:
 
-We use information collected from the website to personalise your repeat visits to our website, and to provide you with the services you have requested.
+Personal data collected through the American site, TriumphMotorcycles.com, is collected and stored in the USA. If you complete a form or provide personal data in any other way on this part of our site, your data will be processed in accordance with privacy laws in the USA.
 
-We will not pass your information to any other parties unless this is made clear to you at the time you supplied it.
+### How we use your information
 
-Marketing
+We use your information in the following ways:
 
-We would like to send you information about products, services and events of ours which may be of interest to you. If you have consented to receive marketing you may opt out at a later date.
+• To provide you with the services you have requested
 
-You have the right at any time to stop us from contacting you for marketing purposes.
+• We will use your feedback to help improve our services and products
 
-If you no longer wish to be contacted for marketing purposes please write to:
+• If you have provided us with your consent, we will store your data and communicate Triumph marketing messages to you.
+
+• We may use your data to personalise your visit to our online services
+
+• We may use your data to contact you about research
+
+• We may ask you to complete a satisfaction survey when you buy a product or service from us
+
+### Who we share your information with
+
+We may share your information with the following:
+
+• Third party marketing agencies to carry out marketing activities on our behalf
+
+• Third party research agencies to carry out research on our behalf
+
+• Third party data processors who we appoint to carry out work on our behalf 
+
+• Our authorised dealers and distributors (when booking a test ride for example)
+
+• Other Triumph companies or subsidiaries (including all companies under common control or ownership)
+
+We also use a third party e-mail service provided by Survey Gizmo. We use the service to help conduct market research –their privacy policy is available at http://www.surveygizmo.com/privacy/ (includes cookie information). The privacy policy covers Triumph as users of the system and you as someone responding to our surveys.
+
+We do not allow other companies to collect your personally identifiable data through our online services unless it is needed to provide a service you have requested.
+
+### Marketing
+
+We will make efforts to ensure we only contact you for marketing purposes if you have asked us to. We will ask for your consent to send you marketing material. You will also be given the opportunity to opt-out of marketing when we do contact you. If we do make a mistake and you want to tell us, please write to:
 
 Marketing Department,
 
@@ -40,32 +68,72 @@ LE10 3BZ
 
 United Kingdom
 
-Access to your information and correction
+### How you can access your data and change it if it’s wrong
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of your personal information, please write to the above address. We may make a small charge for this.
+You have the right to request a copy of the information we hold about you. We also want to make sure your information is up-to-date and accurate, you can ask us to correct or remove information you think is incorrect.
 
-We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
+Some of our online services allow you to logon so you can see the data we hold about you and make appropriate changes. As an alternative you can contact us using the above address.
 
-Cookies
+### Other rights
 
-Cookies are small text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website, to deliver a webpage tailored to a particular user and to compile statistical reports on website activity.
+You also have the right:
 
-For further independent information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+• to ask us where we got your data
 
-You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However some of our website features will not function as a result.
+• to ask us how we process your data
 
-For a list of cookies used on the website please 
+• to ask us to stop processing your data if it is causing you distress
 
-[click here](http://assets1.triumphmotorcycles.com/files/content/en-us/cookies_triumph.pdf)
+### Other websites
 
-Other websites
+Our website and online services may contain links to other websites. This privacy policy applies only to official Triumph online services and events. When you visit other websites please make sure you read their privacy policy. 
 
-Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+### Please Note:
 
-Email Communications
+This privacy policy does not cover the Triumph Motorcycles Repair and Maintenance Information (RMI) site, it has its own privacy policy.
 
-Triumph also uses cookies in its email communications to personalise the email and track whether the mail has been opened or read and whether the recipient has used any website links contained in the email communication. This allows us to monitor and improve our email communications and website.
+### Cookies and other tracking technology
 
-Changes to our privacy policy
+### Cookies
 
-We keep our privacy policy under regular review and we will place any updates on this webpage. This privacy policy was last updated on 21st May 2012.
+Cookies are small files which are stored on a user’s computer. They are designed to hold a modest amount of data specific to a particular client and website, and can be accessed either by the web server or the client computer. This allows the server to deliver a page tailored to a particular user, or the page itself can contain some script which is aware of the data in the cookie and so is able to carry information from one visit to the website (or related site) to the next.
+
+Triumph will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by Triumph websites you can do this through your browser settings. The ‘Help’ function within your browser should tell you how.
+
+Alternatively, you may wish to visit www.aboutcookies.org which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+
+Restricting cookies may impact on the functionality of our online services.
+
+Please note that each online service that uses cookies should have its own cookie notice. Cookie lists:
+
+• Triumph Motorcycles websites http://www.triumphmotorcycles.co.uk/global-content/website-cookies-used
+
+• For The Ride Blog http://fortheride.com/privacy-cookie-policy/
+
+### Pixel Tags
+
+We may use pixel tags as part of our online services. Pixel Tags (also called clear GIFs, web beacons, or pixels) are small blocks of code on a webpage that can collect information such as:
+
+• the IP (Internet Protocol) address of the device that accessed the page containing the tag
+
+• the URL (Uniform Resource Locator) of the page on which the pixel tag appears
+
+• the time the page containing the pixel tag was viewed
+
+• the type of browser that fetched the pixel tag, and
+
+• the identification number of any cookie on the computer previously placed by that server.
+
+### E-mail tracking
+
+When corresponding with you via HTML capable e-mail, we may use 'format sensing' technology, which allows pixel tags to let us know whether you received and opened our e-mail.
+
+We may use unique hyperlinks in e-mails we send to you; this is to see if e-mails have been opened and responded to.
+
+### Do not Track (browser setting)
+
+Our online services do not currently recognise ‘do not track’ signals.
+
+### Changes to our privacy policy
+
+We may review this privacy policy. Any changes will be included in an updated policy and published to this page.
