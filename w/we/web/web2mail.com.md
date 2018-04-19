@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217121835id_/http%3A//www.web2mail.com/privacy/policy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419154818id_/http%3A//web2mail.com/privacy/policy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
 
 # Web2Mail - Privacy policy
 
