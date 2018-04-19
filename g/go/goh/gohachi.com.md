@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohachi.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130164648id_/http%3A//www.gohachi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohachi.com privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419050955id_/http%3A//www.gohachi.com/privacy) for the most accurate reproduction.*
 
 # HACHI | privacy
 
