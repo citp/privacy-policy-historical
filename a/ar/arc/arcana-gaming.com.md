@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcana-gaming.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210064429id_/http%3A//www.arcana-gaming.com/en/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcana-gaming.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420000910id_/http%3A//www.arcana-gaming.com/en/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Arcana Gaming
 
