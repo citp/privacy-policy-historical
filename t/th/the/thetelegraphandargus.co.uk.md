@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetelegraphandargus.co.uk privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219014434id_/http%3A//www.thetelegraphandargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetelegraphandargus.co.uk privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419092729id_/http%3A//www.thetelegraphandargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
