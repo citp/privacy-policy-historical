@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217194925id_/http%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2018-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180419131959id_/https%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Roar
 
@@ -165,9 +165,11 @@ The Roar uses the Standard Terms and Conditions set forth by the Internet Advert
 **Analytics Services**  
 In addition, The Roar uses third party analytics providers and products to obtain, compile and analyse Information (that may include Personally Identifying Information) about how users are using and interacting with The Roar. The Roar may provide Information (including Personally Identifying Information) to these analytics providers for the purpose of obtaining statistics and other information about how users are using and interacting with The Roar. These analytics providers may use tracking techniques other than HTTP cookies to recognise your computer or device and/or to collect or compile this information. These techniques may be used directly on The Roar. The Roar has no responsibility for the technologies, tools or practices of the third parties that providing analytics products and services to The Roar. Please also keep in mind that your web browser may not permit you to block the use of these techniques, and that browser settings that block conventional cookies may have no effect on such techniques.
 
-The Roar may from time to time use the Nielsen Online Measurement service and other products offered by Nielsen. You may review their Privacy policy [here](http://vizu.com/w3c/policy.htm) or [here](http://nielsen-online.com/about_privacy.jsp).
+**Nielsen Services**  
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at [www.nielsen.com/digitalprivacy](https://www.nielsen.com/digitalprivacy).
 
-**Security and Protection of Personally Identifying Information**  
+**Security and Protection of Personally Identifying Information**
+
 We have implemented reasonable security measures and practices in an effort to protect the confidentiality of your Personally Identifying Information (other than Personally Identifying Information that you have elected to disclose to others). However, no security system is impenetrable. It may be possible for third parties to intercept or access information you provide to The Roar. The Roar cannot guarantee the security of your Personally Identifying Information, nor can we guarantee that information you supply will not be intercepted while being transmitted to The Roar. It is important for you to protect against unauthorised access to your password(s) and computer or device, and to log off when using any shared computer.
 
 **Email or Text Message Communications**  
