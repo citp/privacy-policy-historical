@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the samharris.org privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119112401id_/https%3A//www.samharris.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samharris.org privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420163350id_/https%3A//samharris.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Sam Harris
+# Privacy Policy | Sam Harris
 
 Last Updated: July 15, 2016
 
@@ -8,17 +8,17 @@ Four Elephants Media (“the Organization,” or “we,” “us,” “our”) 
 
 This Policy describes the types of information we collect through the Services, how that information may be used and/or with whom it may be shared; and how you can reach us to get answers to questions you may have about our privacy practices on these Services. Please read this Policy carefully, because by using the Services you are acknowledging that you understand and agree to the terms of this Policy. In addition, please review our Terms of Service, which governs your use of the Services and any content you submit to the Services.
 
-### 1\. What is Personal Information?
+### **1\. WHAT IS PERSONAL INFORMATION?**
 
 As used herein, the term “Personal Information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or photograph), or information about that individual that is directly linked to personally identifiable information. Personal Information does not include “aggregate information”, which is data we collect about the use of the Services or about a group or category of services or users from which individual identities or other Personal Information has been removed. Personal Information also does not include Usage Information (as defined below) or Device Identifier (as defined below) that is not connected to Personal Information. This Policy in no way restricts or limits our collection and use of aggregate or Usage Information that is not connected to Personal Information.
 
-### 2\. Information Collected on Our Services
+**2\. INFORMATION COLLECTED ON OUR SERVICES**
 
-Information You Provide To Us
+Information You Provide To Us:
 
 You may choose to provide Personal Information through the Services. The Organization will collect Personal Information when you contact us through the Services or otherwise communicate or interact with us.  In addition, you may submit Personal Information about other people. The Organization will use any information that we collect from you about another person to carry out your request. If you do not want your Personal Information collected, please do not submit it.
 
-Information Collected by Automated Means
+Information Collected by Automated Means:
 
 Whenever you visit or interact with the Services, the Organization, as well as any third-party advertisers and/or service providers, may use a variety of technologies that automatically or passively collect information about how the Services are accessed and used (“Usage Information”). Usage Information may include, in part, browser type, operating system, the page served, the time, how many users visited the Services, and the preceding page views. This statistical data provides us with information about the use of the Services, such as how many visitors visit a specific page on the Services, how long they stay on that page, and which hyperlinks, if any, they “click” on. This information helps us to keep the Services fresh and interesting to our visitors and to tailor content to a visitor’s interests. Usage Information is generally non-identifying, but if the Organization associates it with you as a specific and identifiable person, the Organization treats it as Personal Information.
 
@@ -32,25 +32,21 @@ Web Beacons. Certain pages on the Services may contain “web beacons” (also k
 
 Contacts.  You also may grant us access to your contacts.  If you do, we may collect the name, email address, and phone number of all your individual contacts.
 
-### 3\. How We Use the Information Collected
+**3\. HOW WE USE THE INFORMATION COLLECTED**
 
 We use Personal Information we collect through the Services for the purposes described in this Policy or elsewhere on the Services. For example, we may use Personal Information and other information we collect:
 
-• to provide the services or information you request;
+  * to provide the services or information you request;
+  * to request feedback and to otherwise contact you about your use of the Services;
+  * to communicate with you and respond to your emails, submissions, questions, inquiries, comments, requests, and complaints;
+  * to monitor and analyze Services usage and trends and otherwise measure the effectiveness of the Services;
+  * to send you confirmations, updates, security alerts, and support and administrative messages, to detect and prevent fraud, and to otherwise facilitate your use of, and our administration and operation of, the Services;
+  * to notify you about important changes to our Services; and
+  * for any other purpose for which the information was collected.
 
-• to request feedback and to otherwise contact you about your use of the Services;
 
-• to communicate with you and respond to your emails, submissions, questions, inquiries, comments, requests, and complaints;
 
-• to monitor and analyze Services usage and trends and otherwise measure the effectiveness of the Services;
-
-• to send you confirmations, updates, security alerts, and support and administrative messages, to detect and prevent fraud, and to otherwise facilitate your use of, and our administration and operation of, the Services;
-
-• to notify you about important changes to our Services; and
-
-• for any other purpose for which the information was collected.
-
-### 4\. What Personal Information do we share with third parties?
+### **4\. WHAT PERSONAL INFORMATION DO WE SHARE WITH THIRD PARTIES?**
 
 We will not share the Personal Information we collect from you through the Services with third parties, except as described in this Policy or in the Services. We may share non-Personal Information, such as aggregate user statistics, demographic information, and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Policy, and in the following circumstances:
 
@@ -60,36 +56,36 @@ Business Transfers. Your Personal Information may also be used by us or shared w
 
 Legal Disclosure. We may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Service or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Services or the public.
 
-### 5\. Your California Privacy Rights
+### **5\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
 We do not share your Personal Information with third parties for their marketing purposes.
 
-### 6\. Your Access and Choices 
+### **6\. YOUR ACCESS AND CHOICES**
 
-You may always direct us not to use your Personal Information to provide you with information or offers, or not to send you e-mails or other communications by sending us an e-mail at [info@samharris.org](mailto:info@samharris.org). Your opt-out request will be processed within 30 days of the date on which we receive it.
+You may always direct us not to use your Personal Information to provide you with information or offers, or not to send you e-mails or other communications by sending us an e-mail at [info@samharris.org](mailto:info@samharris.org). Your opt-out request will be processed within 30 days of the date on which we receive it.
 
 In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Services. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-### 7\. Links to Other Sites 
+### **7\. LINKS TO OTHER SITES**
 
 The Services may provide links to other websites that we do not own or operate. This includes links from partners who may use our logo(s) as part of a co-branding agreement. To the extent that any linked websites are not part of the Services, we do not control, recommend or endorse and are not responsible for these websites or their content, products, services or privacy policies or practices. These other websites may send their own cookies to your Device, they may independently collect data or solicit Personal Information and may or may not have their own privacy notices or policies. You should also independently assess the authenticity of any website which appears or claims that it is one of our Services (including those linked to through an email or social networking page).
 
-### 8\. How We Protect Personal Information
+### **8\. HOW WE PROTECT PERSONAL INFORMATION**
 
 We maintain certain administrative, technical and physical safeguards to help protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of your Personal Information. However, no electronic data transmission or storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure or warrant the security of any information you transmit to us, and you use the Services and provide us with your information at your own risk.
 
-### 9\. Consent to Processing and Transfer of Information.
+### **9\. CONSENT TO PROCESSING AND TRANSFER OF INFORMATION.**
 
 The Services are operated in the United States. Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States. By using the Services, or providing us with any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to, those in the country where you reside and/or are a citizen.
 
-### 10\. Children
+### **10\. CHILDREN**
 
 The Services are not directed to children under 13. We do not knowingly collect personally identifiable information from anyone under 13 years of age. If we determine upon collection that a use is under this age, we will not use or maintain his/her Personal Information without the parent/guardian consent.
 
-### 11\. Updates to Our Privacy Policy 
+### **11\. UPDATES TO OUR PRIVACY POLICY**
 
 This Policy and other information on the Services may be updated periodically and without prior notice to you, and any changes will be effective immediately upon the posting of the revised Policy on the Services. However, we will use your Personal Information in a manner consistent with the Policy in effect at the time you submitted the information, unless you consent to the new or revised notice. We will post a prominent notice on the Services to notify you of any significant changes to our Policy and indicate at the top of the notice when it was most recently updated.
 
-### 12\. How to Contact Us 
+### **12\. HOW TO CONTACT US**
 
-If you have any questions or comments about this Policy, please contact us at [info@samharris.org](mailto:info@samharris.org).
+If you have any questions or comments about this Policy, please contact us at [info@samharris.org](mailto:info@samharris.org).
