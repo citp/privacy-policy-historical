@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brokelyn.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902092359id_/http%3A//brokelyn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokelyn.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420181449id_/https%3A//brokelyn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brokelyn
+# Privacy Policy - Brokelyn
 
 Your privacy is important to us at Brokelyn (“we”, or “our”). Accordingly, we have established and implemented information handling practices for [Brokelyn](https://web.archive.org/) (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in our [Terms of Use](https://web.archive.org/terms-of-use/).
 
@@ -26,7 +26,7 @@ In order to submit comments or questions to the site, you will have to register 
 
 ### Cookies and Pixel Tags
 
-We, or a third-party advertiser acting on our behalf, may place a “cookie” or “pixel tag” on your personal computer when you come to the Site or visit a site on which we advertise. These devices are small computer files that our computer sends to your computer and that your computer sends back to us each time you visit the Site. We may use these devices to collect data to help us personalize and improve your experiences on the Site. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, your ability to use some features on the Site may be impaired. 
+We, or a third-party advertiser acting on our behalf, may place a “cookie” or “pixel tag” on your personal computer when you come to the Site or visit a site on which we advertise. These devices are small computer files that our computer sends to your computer and that your computer sends back to us each time you visit the Site. We may use these devices to collect data to help us personalize and improve your experiences on the Site. Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, your ability to use some features on the Site may be impaired.
 
 ### Third-Party Advertisers
 
@@ -44,8 +44,8 @@ Pursuant to California Civil Code §1798.83, a California resident who has provi
 
 We reserve the right to change the terms, conditions, and notices in this Privacy Policy at any time for any reason.
 
-If you have questions about this Privacy Policy, please contact us at [brokelyn at gmail.com](mailto:brokelyn@gmail.com)
+If you have questions about this Privacy Policy, please contact us at [julia at brokelyn dot com](https://web.archive.org/cdn-cgi/l/email-protection#11317b647d78705173637e7a747d687f3f727e7c).
 
-_Last updated as of January 4, 2012._
+ _Last updated as of January 4, 2012._
 
-© 2012 
+© 2012
