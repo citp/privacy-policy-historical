@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyfytv.in privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210025041id_/http%3A//hyfytv.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyfytv.in privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421000056id_/http%3A//hyfytv.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HYFYTV
 
@@ -61,4 +61,4 @@ We will notify the users via email
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us through our [Contact Us](http://hyfytv.in/contact/) page or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If there are any questions regarding this privacy policy you may contact us through our [Contact Us](http://hyfytv.in/contact/) page or hyfytv@gmail.com
