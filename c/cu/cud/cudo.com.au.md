@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606044122id_/http%3A//cudo.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cudo.com.au privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420070355id_/http%3A//cudo.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Cudo - Privacy Policy
 
