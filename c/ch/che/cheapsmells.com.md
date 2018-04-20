@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheapsmells.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225223632id_/http%3A//www.allbeauty.com/us/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsmells.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420060351id_/http%3A//www.allbeauty.com/fr/en/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-If you have any questions regarding our privacy policy, we’ll be happy to help. Please feel free to [contact us here](https://www.allbeauty.com/us/en/contact), or call +44 (0) 1446 688111.
+If you have any questions regarding our privacy policy, we’ll be happy to help. Please feel free to [contact us here](https://www.allbeauty.com/fr/en/contact), or call +44 (0) 1446 688111.
 
 ## Privacy
 
@@ -10,9 +10,9 @@ allbeauty respects your privacy and only collects the information necessary to f
 
 ## Tracking and advertising based on your visit
 
-allbeauty works with a company called Doubleclick to display adverts as you browse the web, based on your behaviour on our website. We try to ensure you see only information that is relevant and helpful to your buying experience. If you would like to tailor how these ads are targeted you can do so [here](http://www.google.com/settings/ads/onweb/). If you would rather opt out of having your data collected for this purpose, install [this free plugin](http://www.google.com/settings/ads/plugin/).
+allbeauty works with a company called Doubleclick to display adverts as you browse the web, based on your behaviour on our website. We try to ensure you see only information that is relevant and helpful to your buying experience. If you would like to tailor how these ads are targeted you can do so [here](https://adssettings.google.com/). If you would rather opt out of having your data collected for this purpose, install [this free plugin](http://www.google.com/settings/ads/plugin/).
 
-We also work with a company called Triggered Messaging so that we can make recommendations to you based on your activity on our site. If you would not like this data to be collected you can [contact us](https://www.allbeauty.com/us/en/contact) at any time and we’ll be happy to remove you.
+We also work with a company called Triggered Messaging so that we can make recommendations to you based on your activity on our site. If you would not like this data to be collected you can [contact us](https://www.allbeauty.com/fr/en/contact) at any time and we’ll be happy to remove you.
 
 ### Our security measures
 
@@ -28,7 +28,7 @@ We collect contact and delivery information (e.g. name, billing address, deliver
 
 ### Cookies
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. allbeauty utilises cookies to enable our systems to recognise your browser and to provide personalised features. You can read more about our [cookie policy here](http://www.allbeauty.com/us/en/cookie).
+A cookie is a piece of data stored on the user's hard drive containing information about the user. allbeauty utilises cookies to enable our systems to recognise your browser and to provide personalised features. You can read more about our [cookie policy here](http://www.allbeauty.com/fr/en/cookie).
 
 ### Our right to amend
 
