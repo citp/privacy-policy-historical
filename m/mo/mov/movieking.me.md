@@ -1,26 +1,5 @@
-> *The following text is extracted and transformed from the movieking.me privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728013206id_/https%3A//torrentking.eu/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieking.me privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420135653id_/https%3A//torrentking.eu/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Message From Admin
-
-Protect your PrivacyYour ISP, Goverment and other parties track your online activities, protect your privacy and take your Online activity seriously!
-
-Your privacy is important to us.
-
-It is TorrentKing's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
-
-  
-
-
-  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
-  * We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.
-  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-  * We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
-  * We will only retain personal information for as long as necessary for the fulfilment of those purposes.
-
-
-
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. TorrentKing may change this privacy policy from time to time at TorrentKing's sole discretion.
+Your Privacy We respect your privacy and we are committed to protect it. We don't sell, share, and show your personal information without your prior permission or written consent or unless required by law. We never collect any information about you except those specifically provided by you or limited information that the browser made available when you visited our site, for example, the IP address while you are on the site, visiting time, the link clicked, the browser type, and cookies. Third Party Websites We cooperate with third-party companies even when you visit our site. We need these companies to provide us with some site audience and visits details, and they may see and use information about your visits. It bears no relation to your personal data, such as your name, email address or telephone number. Third Party Cookies We currently dont use cookies to store your choices and preferences. Privacy Policy Changes We have all rights to change, alter or modify our privacy policy at any time without prior notice. We will immediately post changes on this page and let you get acquainted with them. 
