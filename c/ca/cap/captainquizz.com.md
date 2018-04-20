@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captainquizz.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116033231id_/http%3A//www.captainquizz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captainquizz.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420064710id_/http%3A//www.captainquizz.com/privacy.php) for the most accurate reproduction.*
 
 # Captain Quizz Privacy Policy
 
