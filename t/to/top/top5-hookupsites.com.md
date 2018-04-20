@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top5-hookupsites.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218004747id_/http%3A//www.top5-hookupsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5-hookupsites.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420110701id_/http%3A//www.top5-hookupsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 5 Hookup sites
 
@@ -52,7 +52,7 @@ The Website or our Services does not respond to Do Not Track signals. For more i
 
 **_Contact Us_**
 
-If you have any questions in relation to this Privacy Policy or you wish to exercise any of your rights, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc919d8e97998895929bbc8b9586999f90959f97d29f9391)
+If you have any questions in relation to this Privacy Policy or you wish to exercise any of your rights, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e737f6c757b6a7770795e6977647b7d72777d75307d7173)
 
 Wiseclicks technologies LTD  
 Merchants Court,  
