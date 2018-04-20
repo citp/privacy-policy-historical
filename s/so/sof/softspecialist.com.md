@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softspecialist.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219214521id_/http%3A//www.softspecialist.com/p/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softspecialist.com privacy policy that was archived on 2018-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180420224847id_/http%3A//www.softspecialist.com/p/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
