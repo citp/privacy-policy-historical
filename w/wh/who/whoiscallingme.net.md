@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoiscallingme.net privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221122148id_/http%3A//whoiscallingme.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoiscallingme.net privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421074314id_/http%3A//www.whoiscallingme.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
