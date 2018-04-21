@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapeworld.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702221454id_/https%3A//www.vapeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapeworld.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421100058id_/https%3A//www.vapeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VapeWorld
 
@@ -50,7 +50,7 @@ Like we have stated we will use the information gathered to make a better shoppi
 
 ### How do we Protect You and your Information?
 
-The shopping cart information, including any credit card or address information is transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. This secure layer provides up to 256 bit encryption for the most secure way of transmitting information on the internet. vWe do not transmit financial information by email. If you use our web form, your financial information is encrypted so that not even employees have access to your credit / debit / charge / e-check account number. Order information is stored in a password-protected area, only accessible by authorized personal. Please [contact us](https://www.vapeworld.com/contacts) if you have any questions or concerns. 
+The shopping cart information, including any credit card or address information is transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. This secure layer provides up to 256 bit encryption for the most secure way of transmitting information on the internet. vWe do not transmit financial information by email. If you use our web form, your financial information is encrypted so that not even employees have access to your credit / debit / charge / e-check account number. Order information is stored in a password-protected area, only accessible by authorized personal. Please [contact us](https://web.archive.org/contacts) if you have any questions or concerns. 
 
   
 
@@ -78,6 +78,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### Contact Us
 
-If you have any questions regarding this Privacy Policy, our website VapeWorld.com, or your order with us, please [contact us](https://www.vapeworld.com/contacts). 
+If you have any questions regarding this Privacy Policy, our website VapeWorld.com, or your order with us, please [contact us](https://web.archive.org/contacts). 
 
 VapeWorld.com reserves the right to amend this Privacy Policy at any time by direct electronic notification to you or by posting the amended terms on this page. All amended terms shall automatically be effective for new users or new purchases immediately on posting and, in all other cases, 30 days after they are initially posted and dated, unless otherwise specified in a notice to you. 
