@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the rankmarket.org privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220041202id_/http%3A//rankmarket.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankmarket.org privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421063552id_/http%3A//rankmarket.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – RankMarket
+# Privacy Policy - RankMarket
 
-Welcome to our website (the “RankMarket”).
+Welcome to our website (the “IMRocker”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.
 
 This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by DesignoPro (collectively, “Services”) (“Authorized Customers”).
 
- **“Personally Identifiable Information”** refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+ **“Personally Identifiable Information”  **refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
 
  **What Personally Identifiable Information is collected?**
 
@@ -66,8 +66,8 @@ We provide Visitors and Authorized Customers with a mechanism to delete Personal
 
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure.
 
- **Links:** This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+ **Links:  **This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-Copyright © 2017 RankMarket All Rights Reserved
+Copyright © 2017 **IMRocker** All Rights Reserved
 
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.
