@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926193838id_/http%3A//www.teamunify.com/swim-team-management-software/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421025130id_/https%3A//www.teamunify.com/swim-team-management-software/privacy-policy) for the most accurate reproduction.*
 
 # TeamUnify Privacy Policy
 
