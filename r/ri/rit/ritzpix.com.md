@@ -1,58 +1,82 @@
-> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207170111id_/https%3A//www.ritzpix.com/help/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ritzpix.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421205150id_/https%3A//www.ritzpix.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Privacy Terms | RitzPix
 
-* * *
+RitzPix.com recognizes and respects your privacy. This Privacy Policy describes exactly how RitzPix.com uses identifiable information regarding RitzPix.com customers, such as name, address, email address, or credit card number (“ **Customer Information** “). Primarily, we collect such information for the purpose of providing you with an outstanding experience on the RitzPix.com website.
 
-We at RitzPix are firmly committed to safeguarding your privacy and making sure you know how we gather and use your private information. We hope you’ll take the time to read the following, but rest assured that if it’s too long for you, or if you have any questions or concerns, please email us at customerserv@ritzpix.com and we will try our best to answer them. One more thing: throughout this statement, "we" or "us" means RitzPix, while “you” means you, the Customer. Deep, eh?
+By using the RitzPix.com website, you consent to the collection and use of information in the manner described below. If we decide to change our privacy practice, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Changes to our policy will be prospective only. Please check this page from time to time for changes to make sure you are aware of our latest privacy practices.
 
-**Your photos, generally**  
-The most important thing you should take away from this statement is that your photos are safe with us and no one else can see them unless you choose to share them. Now, if you do decide share your photos with other people (by clicking "Share" on the photo or album), RitzPix will send a message to your invitees with a link to your album. That link _could_ be forwarded by those people (you do know) to other people (who you may not know). So be judicious about whom you are sharing your photos with.
+In this Privacy Policy, you will find the answers to the following questions:
 
-**Your Personal Information**  
-RitzPix only uses your personal information to manage and print your photos. Let’s be clear here: We will not rent, share or sell your personal information. That said, like every rule, there are a few limited exceptions. For example, if you give us your express permission to do so, if the law requires it, or if we need to protect the rights or property of RitzPix or others, then we may have to share your pictures. But these are exceedingly rare cases (none has ever occurred in our history) and we will try to keep it that way.  
-We protect you another way too. While we may need to change this Privacy Policy from time to time (with or without notice), we will NOT make any changes that diminishes these protections unless you give us permission.
+### __  What Customer Information does RitzPix.com collect?
 
-**Information We Collect and How We Use It**  
- _Information You Explicitly Provide_  
-In order to create your account or place any print orders, you’re going to have to give us certain pieces of personal information to us, such as your name, mailing and email address, phone number, and a credit card number and expiration date. We’ll use that information to process and communicate with you concerning your order. We may also ask you for similar information if you request a newsletter, enter a contest, fill out a customer survey or participate in a program.
+Customer Information is requested whenever you choose to use RitzPix.com services. The type of Customer Information we request has to do specifically with the type of service you are using. For example:
 
-This type of information is valuable to us so we can improve RitzPix and customize your experience. For that reason, we occasionally share this information with our hosting companies, engineers, consultants as needed, all to improve the service and market products to you. But remember that all of these folks are also required to keep your information confidential, just like we are.
+> • When you want to share your pictures with others (“Invitees”), we will ask for email addresses of friends and family you choose to share with.  
+>  • When you complete an online purchase, we will ask you to provide shipping and billing information so that we can fulfill your request.
 
-We also use aggregate non-personal information (i.e. information that does not include personally identifiable data) for statistical analysis of user behavior, product development, content improvement and marketing, promotional and advertising purposes. We may also make that aggregate non-personal information available to select third party partners, but there is no way for these third parties to know who you are individually.
+You also give information when you answer survey questions and organize your photos on the RitzPix.com website with titles, captions, categories, etc.
 
-**Information We Automatically Collect**  
- _Cookies and Invisible Gifs (also known as "Clear Gifs," "Web Bugs" and "Tracker Gifs")_  
-Generally speaking, we use cookies and invisible gifs to track users of the Service (including our newsletter service) and RitzPix's Web site, including photo albums and the shopping areas. For example, when you visit our site, we assign you a unique User ID and store it on your computer in the form of a cookie (unless your browser's cookie support has been disabled). Through the use of cookies, User IDs, and invisible gifs, we are able to optimize the performance and functionality of our site, and to personalize our site for you and present you with content and offers specific to your interests.
+### __  How does RitzPix.com use Customer Information?
 
-_Disabling Cookies_  
-If you don’t like the idea of your information being stored in cookies, we suggest you disable cookie support in your browser, though this will limit RitzPix's performance and functionality. Your browser documentation will tell you how to disable cookie support.
+Our primary goal in collecting your Customer Information is to provide you with a personalized, relevant, user-friendly experience on the RitzPix.com website. Here are the ways we use Customer Information to enhance this experience:
 
-_IP Address_  
-We analyze IP addresses in the aggregate for system administration purposes and to gather broad demographic information. We do not link IP addresses to your computer's User ID, with the following exception: when you place an order using our online checkout process we record your computer's IP address with your order to help us identify fraudulent credit card use. We may share this information with the financial institution that issued the credit card with which an order was placed, or with law enforcement authorities if we determine, or are notified, that the use of the credit card was fraudulent.
+_Customer Communication:_ **We use Customer Information to communicate with you and we consider this communication to be an integral part of the RitzPix.com service.** We use your email and mailing address to inform you of site improvements, feature announcements, promotional offers and occasional third-party offers that may be of interest to you. If you do not wish to receive these offers, you may always unsubscribe by clicking the “unsubscribe” link at the bottom of an email or by writing [service@ritzpix.com](mailto:service@ritzpix.com).
 
-_Affiliate Site ID_  
-If you entered RitzPix's Web site by clicking a link or promotion on another Web site (including another co-branded partner Web site), or if you used a site that provides universal registration services to sign up for our site, we will store the ID of that affiliate site in our database along with your computer's User ID. We do this to ensure that the affiliate site receives proper credit for any subsequent order you might place. We may also use this information in conjunction with your activities on our site to help us identify what offers and services may be of interest to you.
+_Customer Satisfaction:_ **We use Customer Information to make your online experience enjoyable.** For example, because we know who you are after you log in, we can present you with the right set of albums in your password-protected account. We also know where to email you to let you know your photos are ready for viewing online.
 
-_Third Party Service Providers_  
-We may share your personally identifiable information with those companies that assist us in providing the Service to you. Following are some examples of our use of third party service providers: We may share your credit card information with a financial institution to effect your purchase of our products using your credit card. We may share personally identifiable information (not including credit card information) with third parties that assist us with the administration of our newsletters or contests or that help us understand what our customers want and need from our service, including analysis of the results of particular surveys we may perform. We also engage third parties to assist us by tracking the number of visitors to our Web site, including visitors that have "clicked-through" from specified promotions on third party Web sites and those visitors' activities on the site. We may also choose to offer certain third party products, such as Custom Printed Cards or PrePaid Cards through the Service and may disclose certain portions of your personally identifiable information (not including credit card information) to allow those product producers to fulfill your product order.
+_Customer Convenience:_ **We use Customer Information to provide you with the convenience of easy access to the services you request.** When you choose to use the RitzPix.com website for digitization of your photos, or for purchasing photo merchandise, we will ask for payment information and for your email address, so we can send you a notification that your photos are available online and create an account for you on the RitzPix.com website. For a merchandise purchase, we will ask for final confirmation before charging your credit card. We may also collect information during the shopping experience to make purchasing an easier and better experience for you. For example, if you give us permission to keep your billing information, you won’t have to fill out the shipping and billing address each and every time you make an online purchase.
 
-_Your Copyrights_  
-RitzPix respects others’ intellectual property rights. We claim no ownership rights in any image contained in any of your photos and will not share your images unless you tell us to or if we believe we are legally required to. Please note that when you share a photo album, you allow the recipients of that album to share and make photographic prints from the images contained in that album.
+### __  With whom does RitzPix.com share Customer Information?
 
-_Choice/Opt-Out_  
-We give you the right to opt-out of receiving our newsletters and other promotional communications. Your Account settings allow you to stop getting these communications. RitzPix will continue to send you non-promotional, service emails concerning your account and the management or notifications of orders, confirmation of orders, or expiration of albums or images within your account. You can also review or change any information you previously provided to us, please go to the “Account" section of the site. However, if you want to de-activate your RitzPix account, you must email us, noting that any service will be billed/refunded as agreed when you signed up. Your account will be de-activated and you will no longer receive communications from us; however, we will keep your account information in our database for record-keeping purposes only.
+RitzPix.com shares Customer Information with third party intermediaries (for example, credit card authorization companies, merchandise distributors, vendors processing our outbound email communication, etc.) who help us run the RitzPix.com website. Your Customer Information is provided to these third parties solely for the purpose of providing you the services you request at the time that you request them.
 
-_Security_  
-We have security measures in place to protect the loss, misuse and alteration of the information that we control. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Except as otherwise stated in this Privacy Statement, access to that data is limited to authorized RitzPix staff members and our hosting company only and is further restricted by password protection mechanisms. By default, all orders placed on our site are done on a secure server that encrypts all financial information through SSL. We will not store your credit card information in our database unless you explicitly instruct us to do so.
+From time to time, we will also provide Customer Information to outside companies we select so they can let you know about those of their products or services we think might be of interest to you. If you do not want us to share your Customer Information with outside companies, you always have the option of telling us not to share it by sending an email to [service@ritzpix.com](mailto:service@ritzpix.com). We will make every effort to respect this choice as soon as practicably possible after receiving your communication.
 
-_Other Sites; Contact Information_  
- _Links to Other Sites_  
-Remember that when we provide you links to other sites, we cannot be responsible for their privacy practices or the content.
+RitzPix.com will also share Customer Information if required by law (or to protect its rights or property).
 
-_Contact information on privacy_  
-If you have any questions about this privacy statement, the practices of the Service, or your dealings with us, you can email your questions to customerserv@ritzpix.com
+### __  Who sees your photos after they have been posted online?
 
-###
+You, your Invitees and their Invitees can see your albums online. An Invitee is defined as anyone who is invited to the site to see an album. Anyone who is invited to see an album online must provide an email address and a password to access the site and view a shared album. When you choose to share your online images with Invitees, those individuals will be able to view your album. However, as with any email, your Invitees could forward the email invitation to others, who will then be able to click on the link to the album within the email, and see the pictures too.
 
-Last Revised May 19, 2016
+RitzPix.com employees or employees of partner companies that provide services to RitzPix.com may see your photos while they are developed, scanned or printed. In addition, your photos or personal account information may be seen by RitzPix.com employees, or employees of partner companies, in order to evaluate, validate, or correct problems with your account.
+
+### __  Does RitzPix.com use “IP Addresses” and cookies?
+
+RitzPix.com uses IP Addresses and Cookies in limited ways, as follows:  
+IP Addresses: An IP address is literally your computer’s address and is a unique identifier, allowing online information to be sent to the right place. We use IP addresses to better understand the customer database. We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information such as geographic distribution of our members. We do not intentionally link your IP address to your personally identifiable information.
+
+_RitzPix.com Cookies:_ Contrary to popular belief, cookies do not extract private or personal information from your computer’s memory. The job of a cookie is to record only information you volunteer to us upon registering or visiting the site. Cookies are tiny files placed onto the hard drive of your computer the first time you visit our Web site that enable our server to recognize or “remember” who you are next time you come back. RitzPix.com cookies are not tied to personally identifiable information. Currently, we intend to make only limited use of cookies for the purpose of delivering content and ads specific to your interests. For instance cookies may be used to retain your personal preferences, hold session information for a “shopping cart” or save your password so it doesn’t have to be re-entered each time you log in.
+
+_Advertiser Cookies:_ RitzPix.com does post third party advertising banners. These ads may contain cookies used primarily to provide data to the advertiser about where visitors are coming from. While we do use cookies in other parts of our Web site as explained above, cookies received with banner ads may or may not be collected or controlled by our company. When you click on a banner ad, you should be aware that the advertiser might be collecting information without the permission of RitzPix.com. RitzPix.com works with, both third party ad serving services, to help serve ads for this site. RitzPix.com does not control the privacy practices of these services. To find out more about how they manage privacy of information in conjunction with serving ads on this site, please review their privacy policies.
+
+_Advice on Limiting Cookies:_ You always have a choice with respect to cookies. By modifying your browser preferences, you can accept all cookies, be notified when a cookie is set or reject all cookies. If you choose to reject all cookies, you may be unable to use certain RitzPix.com services. Please consult your browser instructions for information on how to modify your choices about cookies.
+
+### __  Does RitzPix.com use Clear Gifs (Web Beacons/Web Bugs)?
+
+We use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) to help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier that are used to track the online movements of Web users. Clear gifs are not tied to users’ personally identifiable information.
+
+_HTML Newsletters_  
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section.
+
+### __  What are the safeguards and security procedures in place to protect your information from loss, misuse, or alteration?
+
+Your Customer Information on our Service is password-protected. We strongly recommend that you do not give your password to anyone and that you change it every 3 months. You may edit your account information by using your member name and password.
+
+If you are using a public computer (public library, school computer, etc.) or a shared computer (family computer, roommate’s computer, etc.), we strongly recommend that you sign out of your RitzPix.com account and close your browser before getting up and moving away from the computer. This will prevent others from accessing your account and personal information.
+
+RitzPix.com employs SSL – a specialized encryption and security technology — to protect your Customer Information. We understand that this is especially important when there is an exchange of credit card, billing and password information. In addition, we limit access of Customer Information to only those employees who need it to carry out their jobs.
+
+**RitzPix.com will never ask you for your password in an unsolicited phone call or in an unsolicited email.** You will only be asked for your name and password when you initiate the contact and only if the name and password are necessary to correct a service problem.
+
+### __  How can you update or correct Customer Information?
+
+Customer Information that you provide during purchase is available in your online account. To edit your Customer Information, you must enter your email address and password to access your account. You may edit your account information at any time.
+
+You can also cancel your account by [contacting us](https://web.archive.org/support/open.php). If you request cancellation of your account, we may (but are not required to) remove any and all content (photos) or other personal information from the RitzPix.com website, and your photos may not be accessible to you even if you choose to rejoin or reactivate your account at a later date. Information necessary for the purposes of maintaining business records regarding a cancelled account, including records of credit transactions and account ownership, will be retained in accordance with applicable law.
+
+### __  Other information about privacy
+
+_Links from the RitzPix.com website:_ If you click away from the RitzPix.com website to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. As described above, RitzPix.com has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
+
+_Contacting RitzPix.com:_ If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, you can contact us. [CLICK HERE](https://web.archive.org/support/open.php).
