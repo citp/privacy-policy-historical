@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tally-weijl.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227163445id_/https%3A//www.tally-weijl.com/en_COM/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tally-weijl.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421055830id_/http%3A//www.tally-weijl.com/en_COM/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | TALLY WEiJL
 
@@ -99,7 +99,7 @@ More information on data acquisition and use of data by Facebook, Twitter and In
 
 ## Online Application
 
-Personal data made available to us in connection with job applications shall only be used for purposes of recruitment and later in the event of employment for the execution of the employment contract. These data shall be accessible to persons of the Recruitment und Human Resources department working for Tally Weijl and/or the department leaders involved in the recruitment process. Tally Weijl does not use e-recruitment as such with databases of applicants. Instead, an application is directly forwarded by e-mail to the persons responsible for recruitment where applicable.
+Personal data made available to us in connection with job applications shall only be used for purposes of recruitment and later in the event of employment for the execution of the employment contract. These data shall be accessible to persons of the Recruitment and Human Resources department working for Tally Weijl and/or the department leaders involved in the recruitment process. Tally Weijl does not use e-recruitment as such with databases of applicants. Instead, an application is directly forwarded by e-mail to the persons responsible for recruitment where applicable.
 
 ## Debt Collection
 
