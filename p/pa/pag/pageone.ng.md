@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageone.ng privacy policy that was archived on 2017-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171015095229id_/http%3A//pageone.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageone.ng privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421111225id_/http%3A//pageone.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PageOne.ng
 
