@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ceeol.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705175150id_/https%3A//www.ceeol.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceeol.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421070212id_/https%3A//ceeol.com/help/privacy-policy) for the most accurate reproduction.*
 
 # CEEOL - Privacy Policy
 
 CEEOL is committed to protecting the privacy of the users of its website. To better inform you of our policy concerning user privacy, we have adopted the following guidelines. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information. Please also note that these guidelines are subject to change, and any such changes will be included on this page. 
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [privacy@ceeol.com](mailto:privacy@ceeol.com).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [info@ceeol.com](mailto:info@ceeol.com).
 
 ##### **The Information CEEOL collects**
 
@@ -62,11 +62,11 @@ If you want CEEOL to stop using your personal information, see the “Opting Out
 
 ##### **Data Security**
 
-We have appropriate physical, electronic, and managerial measures in place to prevent unauthorized access to the information we collect online. We nonetheless recognize that third parties may obtain access to information through unlawful actions, and thus do not promise that your information always will remain private, despite our efforts and the importance we place on maintaining your privacy. In addition, we do not claim any responsibility for information collected by or from websites linking to or from [www.ceeol.com](http://ceeol.com/). In the event that we discover or are notified of a security breach where personal information is at risk, we will notify you electronically if we have your email address. If you do not wish to be notified via email in the event of a breach, please contact us at [privacy@ceeol.com](mailto:privacy@ceeol.com).
+We have appropriate physical, electronic, and managerial measures in place to prevent unauthorized access to the information we collect online. We nonetheless recognize that third parties may obtain access to information through unlawful actions, and thus do not promise that your information always will remain private, despite our efforts and the importance we place on maintaining your privacy. In addition, we do not claim any responsibility for information collected by or from websites linking to or from [www.ceeol.com](http://ceeol.com/). In the event that we discover or are notified of a security breach where personal information is at risk, we will notify you electronically if we have your email address. If you do not wish to be notified via email in the event of a breach, please contact us at [info@ceeol.com](mailto:info@ceeol.com).
 
 ##### **Sharing Information**
 
-Except in special circumstances, outlined below in compliance with legal proceedings, CEEOL does not share personal information about individual users. CEEOL does share general usage data in aggregated form so that no personal information is identifiable to participating libraries, publishers, and the general public. CEEOL will provide you all of your personal information provided at registration (where applicable) on request. To request copies of all your collected personal information, please email us ([privacy@ceeol.com](mailto:privacy@ceeol.com)). 
+Except in special circumstances, outlined below in compliance with legal proceedings, CEEOL does not share personal information about individual users. CEEOL does share general usage data in aggregated form so that no personal information is identifiable to participating libraries, publishers, and the general public. CEEOL will provide you all of your personal information provided at registration (where applicable) on request. To request copies of all your collected personal information, please email us ([info@ceeol.com](mailto:info@ceeol.com)). 
 
 ##### **Disclosure of your personal information**
 
@@ -85,19 +85,19 @@ CEEOL provides COUNTER-enabled statistics to institutional customers. These stat
 
 ##### **Access to your Information and Accuracy**
 
-CEEOL may allow registered users to access their account information and make corrections or updates upon log in at any time. The accuracy of such information is solely the responsibility of the user. You may also request access to other personal information about you that may be held ([privacy@ceeol.com](mailto:privacy@ceeol.com)). 
+CEEOL may allow registered users to access their account information and make corrections or updates upon log in at any time. The accuracy of such information is solely the responsibility of the user. You may also request access to other personal information about you that may be held ([info@ceeol.com](mailto:info@ceeol.com)). 
 
 ##### **Data Retention, Opting Out**
 
-We will retain your information for as long as your account is active or as needed to provide you services. CEEOL will remove you and your personal information from our database on request. Please note that this may cancel your access to the CEEOL archive. To remove your personal information, please email to [privacy@ceeol.com](mailto:privacy@ceeol.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. CEEOL will remove you and your personal information from our database on request. Please note that this may cancel your access to the CEEOL archive. To remove your personal information, please email to [info@ceeol.com](mailto:info@ceeol.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##### **Contact Us**
 
 If you have any inquiries about CEEOL's privacy policy or its implementation, please contact us:  
 Central and Eastern European Online Library GmbH  
-Offenbacher Landstrasse 368  
-D-60599 Frankfurt am Main  
+Basaltstrasse 9  
+60487 Frankfurt am Main  
 Germany  
-Phone: +49 (0)69-686025-0  
-Fax: +49 (0)69-686025-29   
-[privacy@ceeol.com](mailto:privacy@ceeol.com). 
+Phone: +49 (0)69-20026820  
+Fax: +49 (0)69-20026819   
+[info@ceeol.com](mailto:info@ceeol.com). 
