@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thieme.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201141749id_/http%3A//www.thieme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thieme.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421150157id_/https%3A//www.thieme.com/privacy-policy) for the most accurate reproduction.*
 
 # Thieme Medical Publishers - Privacy Policy
 
@@ -8,7 +8,7 @@ We are committed to protecting your privacy We collect the minimum amount of inf
 
 **Google AdWords**
 
-Thieme Publishers uses all features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit our website. Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing.
+Thieme Publishers uses all features of Google Analytics for Display Advertisers. That includes obtaining specific visitor cookie data, such as the source, medium and keyword used to visit [our website](http://fr-meds.net/). Google Analytics does not store any visitor specific data and we will not use visitor specific data in any way related to Google Analytics, Google Adwords, and Remarketing.
 
 Thieme Publishers uses remarketing with Google Adwords and analytics to display content specific advertisements to visitors that have previously visited our site when those visitors go to other websites that have the Google Display Network implemented.
 
