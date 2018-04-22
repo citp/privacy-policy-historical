@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancrate.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127044522id_/http%3A//www.japancrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancrate.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423005509id_/http%3A//www.japancrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Japan Crate - Japanese Candy Delivered Monthly
 
