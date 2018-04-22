@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveroms.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915210611id_/https%3A//www.loveroms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveroms.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422023505id_/http%3A//www.loveroms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,23 +6,22 @@ We strongly respect your privacy. All information collected at LoveROMs will be 
 
 ### Information We Collect
 
-During the use of the Site and/or installation process, you might be asked to log in to your account (it can be Google or Facebook account) in order to generate your user identifier in the Site’s systems and to personalize your experience while using the Site. We may collect your name, email address, country of origin, and, if you choose, your nickname, telephone number, website, company, and title. Demographic information may be correlated to web usage information collected during your use of the service. In addition, you might provide us with personal identifying information, such as mobile telephone number, when you communicate with us by phone, e-mail or otherwise, or complete a questionnaire, subscription form or a contest entry form. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing and improving our services, delivering targeted content and advertisements that may be of interest to you, and communicating with you. We may also give you the opportunity to sync the names, phone numbers and emails from the address book on your mobile device with the computer device on which you chose to utilize our Site. If you chose to use the mobile book address synchronization service, then this information will be considered as part of your personal information We collects. This information will be restored on our servers and every change you make in your address book will reflected automatically on our servers. We disclaim any responsibility for people you are texting them and it is your responsibility to inform these factors that their text messages will be restored in our servers. We give you the opportunity to contact us in case one of these factors want to be removed from our servers and we will remove these text messages within 30 days of receipt of your email. When you use our Desktop to call or to send Text massage to identified people, a call event or Text message event will be sent to our servers and our servers will display to you the information that we have on our servers on the specific person you called or text. The call/Text event includes certain information about the call, such as the number you call, the time of the call etc. 
+If you decide to become a member of this website, we will collect your email and country listed on your account. Your email is used for account notifications and future newsletters if they become available. Your country is used to help us better serve other users in a similar country. 
 
 ### Information Sharing
 
-We do not sell your personal information to third parties. However, we may disclose your personal information: 
+We do not sell your personal information to third parties. However, we may disclose your information: 
 
   * As required by law such as to comply with a subpoena, or similar legal process.
   * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-  * If We are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via e-mail and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via e-mail and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
   * To any other third party with your prior consent to do so.
-  * We do not record any calls that you make using our Site and/or products.
 
 
 
 ### Use Of Information
 
-We may use information (whether personal identifying information or not) that we collect about you to: Manage your relationship with us and provide you with customer support. Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others. Communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties. Cooperate with legal, criminal or regulatory investigations or proceedings. Manage our business. 
+We may use information (whether personal identifying information or not) that we collect about you to: Manage your relationship with us and provide you with customer support. Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others. Communicate with you by e-mail and/or mobile devices about products or services that may be of interest to you either from us or third parties. Cooperate with legal, criminal or regulatory investigations or proceedings. Manage our business. 
 
 ### Linked Content
 
