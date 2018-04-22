@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download3k.com privacy policy that was archived on 2017-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170920164357id_/http%3A//www.download3k.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3k.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422235712id_/https%3A//www.download3k.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Download3K
 
@@ -20,17 +20,28 @@ We also use other third-party advertising companies to serve ads when you visit 
 
 #### Security
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [http://www.ssl.com](http://www.ssl.com/). 
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL/TLS. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL/TLS, follow this link <https://en.wikipedia.org/wiki/Transport_Layer_Security>. 
 
 #### Links
 
 This web site contains links to other sites. Please be aware that we Download3k.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
+#### Privacy info for the Online File Converter at [https://converter.download3k.com](https://converter.download3k.com/)
+
+  * All transfers (uploads and downloads) are carried over HTTPS, encrypted with a TLS/SSL certificate, and therefore are kept safe from third parties.
+  * All transfers and conversions are performed automatically, with no manual interaction.
+  * We do not look into your files, we do not make copies, we do not share your files.
+  * After 24 hours, all the uploaded files and the resulting conversion files are automatically deleted from our servers - we make no backups.
+  * Our statistics log collects the following data automatically: 1) the number of uploaded and downloaded files; 2) the file extensions of your uploads and downloads, 3) the size of the uploaded and downloaded files.
+  * We log your IP address to prevent abuse of the service but we do not link it to any personally identifiable information.
+
+
+
 * * *
 
 #### Related info:
 
-  * [Download3K Help / Troubleshooting](https://web.archive.org/web/20170920164357id_/http%3A//www.download3k.com/help.php)
-  * [Download3K Terms of use](https://web.archive.org/web/20170920164357id_/http%3A//www.download3k.com/terms.php)
+  * [Download3K Help / Troubleshooting](https://web.archive.org/web/20180422235712id_/https%3A//www.download3k.com/help.php)
+  * [Download3K Terms of use](https://web.archive.org/web/20180422235712id_/https%3A//www.download3k.com/terms.php)
 
 
