@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228115750id_/https%3A//www.lowyinstitute.org/privacy-policy-lowy-institute-international-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422133633id_/https%3A//www.lowyinstitute.org/privacy-policy-lowy-institute-international-policy) for the most accurate reproduction.*
 
 # Privacy Policy- Lowy Institute for International Policy
 
-The Lowy Institute for International Policy (“Lowy Institute”) is committed to protecting your privacy in accordance with its obligations under the Privacy Act 1988 (Cth) and the Australian Privacy Principles. This Privacy Policy explains our procedures relating to the collection, management and use of your personal information. Personal information means information or an opinion about an identified individual, or an individual who is reasonably identifiable (whether true or not or recorded in a material form or not). By using our products or services or providing personal information to us, you agree to the terms of this Privacy Policy.  
+The Lowy Institute is committed to protecting your privacy in accordance with its obligations under the Privacy Act 1988 (Cth) and the Australian Privacy Principles. This Privacy Policy explains our procedures relating to the collection, management and use of your personal information. Personal information means information or an opinion about an identified individual, or an individual who is reasonably identifiable (whether true or not or recorded in a material form or not). By using our products or services or providing personal information to us, you agree to the terms of this Privacy Policy.  
 
 ### What information do we collect and how do we collect it?
 
