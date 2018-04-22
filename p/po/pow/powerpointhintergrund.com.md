@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerpointhintergrund.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228021810id_/http%3A//www.powerpointhintergrund.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerpointhintergrund.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422124134id_/http%3A//www.powerpointhintergrund.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free PowerPoint Background Images
+# Privacy Policy - Powerpointhintergrund
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info (at) powerpointhintergrund.com
 
