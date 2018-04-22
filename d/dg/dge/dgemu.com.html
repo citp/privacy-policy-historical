@@ -1,34 +1,422 @@
-<!--The following is the downloaded HTML source of the dgemu.com privacy policy that was archived on 2017-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171229073534id_/http%3A//privacypolicy.news/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dgemu.com privacy policy that was archived on 2018-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180422023505id_/https%3A//www.loveroms.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Legal</title>
-<style type="text/css">
-body {margin:30px 75px;font-size:1em;font-family:helvetica,arial,sans-serif;line-height:1.4em;color:#444;}
-h1 {font-size:2em;font-weight:normal;}
-hr {border:1px solid #ccc;border-width:1px 0 0;height:1px;}
-ol li,
-ul li {color:#336633;line-height:2em;font-size:.9em;}
-.contact {font-style:italic;color:#336699;}    
-</style>  
+<html><head>
+<title>Privacy Policy</title>
+
+<link rel="preload" href="/assets/css/bootstrap.min.css" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/assets/css/bootstrap.min.css"></noscript>
+<link rel="preload" href="//fonts.googleapis.com/css?family=Open+Sans:400,700,300" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,700,300"></noscript>
+<link rel="preload" href="/assets/css/theme.css" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/assets/css/theme.css"></noscript>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    /*! loadCSS: load a CSS file asynchronously. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT */
+    (function(w){
+      "use strict";
+      /* exported loadCSS */
+      var loadCSS = function( href, before, media ){
+        // Arguments explained:
+        // `href` [REQUIRED] is the URL for your CSS file.
+        // `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+          // By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+        // `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+        var doc = w.document;
+        var ss = doc.createElement( "link" );
+        var ref;
+        if( before ){
+          ref = before;
+        }
+        else {
+          var refs = ( doc.body || doc.getElementsByTagName( "head" )[ 0 ] ).childNodes;
+          ref = refs[ refs.length - 1];
+        }
+
+        var sheets = doc.styleSheets;
+        ss.rel = "stylesheet";
+        ss.href = href;
+        // temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+        ss.media = "only x";
+
+        // wait until body is defined before injecting link. This ensures a non-blocking load in IE11.
+        function ready( cb ){
+          if( doc.body ){
+            return cb();
+          }
+          setTimeout(function(){
+            ready( cb );
+          });
+        }
+        // Inject link
+          // Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+          // Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+        ready( function(){
+          ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+        });
+        // A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
+        var onloadcssdefined = function( cb ){
+          var resolvedHref = ss.href;
+          var i = sheets.length;
+          while( i-- ){
+            if( sheets[ i ].href === resolvedHref ){
+              return cb();
+            }
+          }
+          setTimeout(function() {
+            onloadcssdefined( cb );
+          });
+        };
+
+        function loadCB(){
+          if( ss.addEventListener ){
+            ss.removeEventListener( "load", loadCB );
+          }
+          ss.media = media || "all";
+        }
+
+        // once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+        if( ss.addEventListener ){
+          ss.addEventListener( "load", loadCB);
+        }
+        ss.onloadcssdefined = onloadcssdefined;
+        onloadcssdefined( loadCB );
+        return ss;
+      };
+      // commonjs
+      if( typeof exports !== "undefined" ){
+        exports.loadCSS = loadCSS;
+      }
+      else {
+        w.loadCSS = loadCSS;
+      }
+    }( typeof global !== "undefined" ? global : this ));
+
+    /* CSS rel=preload polyfill (from src/cssrelpreload.js) */
+    /* CSS rel=preload polyfill. Depends on loadCSS function */
+    (function( w ){
+      // rel=preload support test
+      if( !w.loadCSS ){
+        return;
+      }
+      var rp = loadCSS.relpreload = {};
+      rp.support = function(){
+        try {
+          return w.document.createElement("link").relList.supports( "preload" );
+        } catch (e) {}
+      };
+
+      // loop preload links and fetch using loadCSS
+      rp.poly = function(){
+        var links = w.document.getElementsByTagName( "link" );
+        for( var i = 0; i < links.length; i++ ){
+          var link = links[ i ];
+          if( link.rel === "preload" && link.getAttribute( "as" ) === "style" ){
+            w.loadCSS( link.href, link );
+            link.rel = null;
+          }
+        }
+      };
+
+      // if link[rel=preload] is not supported, we must fetch the CSS manually using loadCSS
+      if( !rp.support() ){
+        rp.poly();
+        var run = w.setInterval( rp.poly, 300 );
+        if( w.addEventListener ){
+          w.addEventListener( "load", function(){
+            w.clearInterval( run );
+          } )
+        }
+      }
+    }( this ));
+
+    </script>
+<script></script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/assets/js/theme.js"></script>
+
+<!--[if lt IE 9]>
+    <script async src="/assets/js/html5shim.js"></script>
+    <![endif]-->
+<script>
+      // Google Analytics
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-19209410-13', 'auto');
+      ga('send', 'pageview');
+    </script>
 </head>
 <body>
+<div id="top-bar" class="hidden-sm hidden-xs">
+<div class="container">
+<div class="pull-left">
+<i class="fa fa-commenting"></i> <a href="https://discord.gg/PFzGZJe" target="_blank">Chat While You Play Via Discord</a>
+</div>
+<div class="pull-right">
+<div class="pull-left padding-right-20">Translate To:</div>
+<div id="google_translate_element"></div>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+</div>
+</div>
 
-<!-- Start: Privacy Policy -->
-<h1>Website Privacy Policy</h1>
-<hr>
-<p><strong>Cookies.</strong> Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:</p>
-<ul>
-    <li>the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;</li>
-    <li>the date and time you access the website and pages you visit;</li>
-    <li>your computer's IP address and information about its operating system, platform and the web browser type and version you use;</li>
-    <li>demographic and other non-personally identifiable profile information about you; and</li>
-    <li>information to combat fraud or misuse</li>
+<div class="mp-pusher" id="mp-pusher">
+<header class="navbar">
+<div class="container">
+<div class="toggle pull-left visible-sm visible-xs">
+<a href="#" id="trigger" class="menu-trigger"></a>
+</div>
+<div class="branding pull-left">
+<a class="navbar-brand" href="https://www.loveroms.com"><div class="logo"></div></a> </div>
+<div class="search-expand hidden-sm hidden-xs">
+<form class="search-form" action="https://www.loveroms.com/roms/" method="get" onsubmit="$('[name=q]').val(
+                       $('[name=q]').val().
+                       replace(/\`|\~|\!|\@|\$|\%|\^|\*|\(|\)|\+|\=|\[|\{|\]|\}|\||\\|\<|\>|\?|\/|\" "|\;|\|\s="" ,="" '')="" );"="">
+<div class="form-group has-feedback">
+<label for="search" class="sr-only">Search</label>
+<input type="search" class="form-control" name="q" id="search" placeholder="Search For ROMs">
+<span class="fa fa-search form-control-feedback"></span>
+</div>
+</form>
+</div>
+<ul class="nav navbar-nav navbar-right hidden-sm hidden-xs">
+<li><a href="https://www.loveroms.com"><div class="menu_home"></div> Home</a></li>
+<li class="dropdown"><a href="/roms/listall" class="dropdown-toggle"> <div class="menu_roms"></div> Roms <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/roms/dreamcast">Dreamcast</a></li>
+<li><a href="/roms/gamecube">GameCube</a></li>
+<li><a href="/roms/game-gear">Game Gear</a></li>
+<li><a href="/roms/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/roms/gameboy-color">Gameboy Color</a></li>
+<li><a href="/roms/mame">MAME</a></li>
+<li><a href="/roms/nintendo">Nintendo</a></li>
+<li><a href="/roms/nintendo-64">Nintendo 64</a></li>
+<li><a href="/roms/nintendo-ds">Nintendo DS</a></li>
+<li><a href="/roms/nintendo-wii">Nintendo Wii</a></li>
+<li><a href="/roms/playstation">Playstation</a></li>
+<li><a href="/roms/playstation-2">Playstation 2</a></li>
+<li><a href="/roms/playstation-portable">Playstation Portable</a></li>
+<li><a href="/roms/sega-genesis">Sega Genesis</a></li>
+<li><a href="/roms/super-nintendo">Super Nintendo</a></li>
+<li><a style="background:#0081C2" href="/roms/listall">View All</a></li>
 </ul>
-<p><strong>Collection of Information by Third Parties.</strong> This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: <a href="http://optout.networkadvertising.org" class="contact">http://optout.networkadvertising.org</a>.</p>
-<!-- End: Privacy Policy -->
+</li>
+<li class="dropdown"><a href="/emulators/listall" class="dropdown-toggle"> <div class="menu_emulators"></div> Emulators <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/emulators/dreamcast">Dreamcast</a></li>
+<li><a href="/emulators/gamecube">GameCube</a></li>
+<li><a href="/emulators/game-gear">Game Gear</a></li>
+<li><a href="/emulators/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/emulators/gameboy-color">Gameboy Color</a></li>
+<li><a href="/emulators/mame">MAME</a></li>
+<li><a href="/emulators/nintendo">Nintendo</a></li>
+<li><a href="/emulators/nintendo-64">Nintendo 64</a></li>
+<li><a href="/emulators/nintendo-ds">Nintendo DS</a></li>
+<li><a href="/emulators/nintendo-wii">Nintendo Wii</a></li>
+<li><a href="/emulators/playstation">Playstation</a></li>
+<li><a href="/emulators/playstation-2">Playstation 2</a></li>
+<li><a href="/emulators/playstation-portable">Playstation Portable</a></li>
+<li><a href="/emulators/sega-genesis">Sega Genesis</a></li>
+<li><a href="/emulators/super-nintendo">Super Nintendo</a></li>
+<li><a style="background:#0081C2" href="/emulators/listall">View All</a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="/help/" class="dropdown-toggle"> <div class="menu_help"></div> Help <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/help/#tab1">Windows / PC</a></li>
+<li><a href="/help/#tab2">Android</a></li>
+<li><a href="/help/#tab3">BlackBerry</a></li>
+<li><a href="https://discord.gg/PFzGZJe" target="_blank" rel="external">Discord Server</a></li>
+</ul>
+</li>
+<li class="blue dropdown"><a href="/extras/" class="dropdown-toggle"> <div class="menu_chest"></div> Extras <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/extras">BIOS Files</a></li>
+<li><a href="/manuals/listall">Game Manuals</a></li>
+<li><a href="/magazines">Game Magazines</a></li>
+<li><a href="/music/listall">Game Music</a></li>
+</ul>
+</li>
+<li class="blue dropdown"><a href="/games/" class="dropdown-toggle"> <div class="menu_play"></div> Play Online <b class="caret"></b></a>
+<ul class="dropdown-menu">
+<li><a href="/games/atari-lynx">Atari Lynx</a></li>
+<li><a href="/games/atari-2600">Atari 2600</a></li>
+<li><a href="/games/capcom-play-system-1">Capcom Play System 1</a></li>
+<li><a href="/games/capcom-play-system-2">Capcom Play System 2</a></li>
+<li><a href="/games/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/games/gameboy-color">Gameboy Color</a></li>
+<li><a href="/games/game-gear">Game Gear</a></li>
+<li><a href="/games/neo-geo">Neo Geo</a></li>
+<li><a href="/games/neo-geo-pocket-color">Neo Geo Pocket Color</a></li>
+<li><a href="/games/nintendo">Nintendo</a></li>
+<li><a href="/games/nintendo-64">Nintendo 64</a></li>
+<li><a href="/games/nintendo-ds">Nintendo DS</a></li>
+<li><a href="/games/sega-genesis">Sega Genesis</a></li>
+<li><a href="/games/super-nintendo">Super Nintendo</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</header>
 
+<nav id="mp-menu" class="mp-menu visible-sm visible-xs">
+<div class="mp-level">
+<ul>
+<li><a href="//www.loveroms.com/"><i class="fa fa-home"></i>Home</a></li>
+<li class="fa clear-fa fa-angle-left">
+<a href="#"><i class="fa fa-gamepad"></i> ROMs</a>
+<div class="mp-level">
+<h2>ROMs</h2>
+<a class="mp-back" href="#">back</a>
+<ul>
+<li><a href="/roms/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/roms/gameboy-color">Gameboy Color</a></li>
+<li><a href="/roms/nintendo">Nintendo</a></li>
+<li><a href="/roms/nintendo-64">Nintendo 64</a></li>
+<li><a href="/roms/playstation">Playstation</a></li>
+<li><a href="/roms/playstation-portable">PSP</a></li>
+<li><a href="/roms/sega-genesis">Sega Genesis</a></li>
+<li><a style="background:#0081C2" href="/roms/listall">View All</a></li>
+</ul>
+</div>
+</li>
+<li class="fa clear-fa fa-angle-left">
+<a href="#"><i class="fa fa-cogs"></i> Emulators</a>
+<div class="mp-level">
+<h2>Emulators</h2>
+<a class="mp-back" href="#">back</a>
+<ul>
+<li><a href="/emulators/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/emulators/gameboy-color">Gameboy Color</a></li>
+<li><a href="/emulators/nintendo">Nintendo</a></li>
+<li><a href="/emulators/nintendo-64">Nintendo 64</a></li>
+<li><a href="/emulators/playstation">Playstation</a></li>
+<li><a href="/emulators/playstation-portable">PSP</a></li>
+<li><a href="/emulators/sega-genesis">Sega Genesis</a></li>
+<li><a style="background:#0081C2" href="/emulators/listall">View All</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/help/"><i class="fa fa-info-circle"></i> Help Docs</a>
+</li>
+<li class="fa clear-fa fa-angle-left">
+<a href="#"><i class="fa fa-database"></i> Extras</a>
+<div class="mp-level">
+<h2>Extras</h2>
+<a class="mp-back" href="#">back</a>
+<ul>
+<li><a href="/extras">BIOS Files</a></li>
+<li><a href="/manuals/listall">Game Manuals</a></li>
+<li><a href="/magazines">Game Magazines</a></li>
+<li><a href="/music/listall">Game Music</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</nav>
+
+<div id="wrap">
+<div class="container">
+<div class="breadcrumb">
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a class="nopad" href="//www.loveroms.com" itemprop="url"><span itemprop="title">Home</span></a></li>
+<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title">Privacy Policy</span></li>
+</div>
+<h1>Privacy Policy</h1>
+We strongly respect your privacy. All information collected at LoveROMs will be kept strictly confidential and will not be sold, re-used, or rented in any way. Any information we collect, such as operating systems, screen resolution and browser types are used to help make your visit more enjoyable.
+<h3>Information We Collect</h3>
+If you decide to become a member of this website, we will collect your email and country listed on your account. Your email is used for account notifications and future newsletters if they become available. Your country is used to help us better serve other users in a similar country.
+<h3>Information Sharing</h3>
+We do not sell your personal information to third parties. However, we may disclose your information:
+<ul>
+<li>As required by law such as to comply with a subpoena, or similar legal process.</li>
+<li>When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.</li>
+<li>If we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via e-mail and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li>
+<li>To any other third party with your prior consent to do so.</li>
+</ul>
+<h3>Use Of Information</h3>
+We may use information (whether personal identifying information or not) that we collect about you to: Manage your relationship with us and provide you with customer support. Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others. Communicate with you by e-mail and/or mobile devices about products or services that may be of interest to you either from us or third parties. Cooperate with legal, criminal or regulatory investigations or proceedings. Manage our business.
+<h3>Linked Content</h3>
+Certain sections of the Site may involve sites which belongs to third parties. We will not and shall not be responsible for that, and any use by the user of the sites belonging to third parties is in his sole responsibility. Therefore, We will not be responsible for actions that occurred at sites belonging to third parties. Moreover, We warn you from sites belonging to third parties and offers the user to read carefully the terms of use of those sites.
+<h3>Security</h3>
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us.
+<h3> Notification of Privacy Statement Changes</h3>
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+<h3>Contact Information</h3>
+You can contact us about this privacy statement by emailing us at:&nbsp;support [at] loveroms.com
+</div>
+<footer>
+<div class="footer-bot">
+<div class="container">
+<div class="row">
+<div class="col-md-3 text-center-sm margin-top-40">
+<a href="/"><img src="https:/assets/img/logo-short.png" alt="LoveROMs"></a><br><br>
+<span class="font-color-white">For Retro Gaming News, visit:</span><br>
+<a href="http://www.loveretro.co" target="_blank" rel="nofollow"><img src="/assets/img/logo-short-retro.png" alt="LoveRetro - Retro Video Gaming News"></a>
+</div>
+<div class="col-md-3">
+<h3>ROMS</h3>
+<ul>
+<li><a href="/roms/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/roms/gameboy-color">Gameboy Color</a></li>
+<li><a href="/roms/nintendo">Nintendo</a></li>
+<li><a href="/roms/nintendo-64">Nintendo 64</a></li>
+<li><a href="/roms/playstation">Playstation</a></li>
+<li><a href="/roms/playstation-portable">PSP</a></li>
+<li><a href="/roms/sega-genesis">Sega Genesis</a></li>
+<li><a href="/roms/listall">» View All</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h3>Emulators</h3>
+<ul>
+<li><a href="/emulators/gameboy-advance">Gameboy Advance</a></li>
+<li><a href="/emulators/gameboy-color">Gameboy Color</a></li>
+<li><a href="/emulators/nintendo">Nintendo</a></li>
+<li><a href="/emulators/nintendo-64">Nintendo 64</a></li>
+<li><a href="/emulators/playstation">Playstation</a></li>
+<li><a href="/emulators/playstation-portable">PSP</a></li>
+<li><a href="/emulators/sega-genesis">Sega Genesis</a></li>
+<li><a href="/emulators/listall">» View All</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h3>Extras</h3>
+<ul>
+<li><a href="/extras">BIOS Files</a></li>
+<li><a href="/manuals">Game Manuals</a></li>
+<li><a href="/extras/manuals/listall.php">Game Magazines</a></li>
+</ul>
+<span class="social">
+<h3>Follow Us</h3>
+<a target="_blank" href="//www.facebook.com/pages/LoveRoms/304477189700662" class="bblue"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="https://plus.google.com/+loveroms1" class="bred" rel="publisher"><i class="fa fa-google-plus"></i></a>
+<a target="_blank" href="https://twitter.com/lovemyroms" class="blightblue"><i class="fa fa-twitter"></i></a>
+</span></div>
+<div class="clearfix"></div>
+<div class="col-sm-12 text-center margin-top-40">
+<div class="copy">
+<p>Copyright © <a href="/">LoveRoms.com</a> - <a href="/">Home</a> | <a href="/roms/listall">ROMs</a> | <a href="/contact-us.php">Contact Us</a> | <a href="/affiliates.php">Affiliates</a> | <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy.php">Privacy Policy</a> | <a href="/terms.php">Terms &amp; Conditions</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up"></i></a>
+
+<script defer="" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script defer="" src="/assets/js/jquery.flexverticalcenter.js"></script>
+<script>
+  new mlPushMenu( document.getElementById( 'mp-menu' ), document.getElementById( 'trigger' ) );
+</script>
 
 
 </body></html>
