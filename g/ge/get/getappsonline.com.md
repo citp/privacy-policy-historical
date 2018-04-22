@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getappsonline.com privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114001101id_/https%3A//www.getappsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getappsonline.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422130343id_/https%3A//www.getappsonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - getAppsOnline
 
