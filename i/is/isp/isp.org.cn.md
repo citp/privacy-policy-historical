@@ -1,23 +1,19 @@
-> *The following text is extracted and transformed from the isp.org.cn privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720200103id_/http%3A//www.isp.org.cn/static/privacy_policy-73.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isp.org.cn privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422060844id_/http%3A//www.isp.org.cn/static/privacy_policy-1926.html) for the most accurate reproduction.*
 
-# Privacy Policy - Isp.org.cn
+# Privacy Policy of Our Site - About Us
 
-Welcome to Isp.org.cn,This is our policy to protect your own privacy. By using this site, you may be clear with how your personal information is used and the process of our work. This policy may change without notice, so please check back periodically.
+This privacy statement is the commitment to your privacy when you visit our web site. As the changes in the scope of our service, our privacy statement will be changed from time to time.If you have any comments or Suggestions, please contact us.The following is our website for your information collection and use.
 
-**A. Information** **a.**  Registration Information  
-When you register as a Isp.org.cn member we collect all the information you enter. This includes your own name, company name,contact ways etc. Membership statistics are derived from members' registration information, however no specific member is named or referred to in the resultant statistical reports. Statistics are generally used to classify our members by, for example, industry and country. This information may be used to target our registered members for new services and promotions. Your e-mail address may be used to contact you regarding new services and products in which you may be interested.  
-**b.**  Publishing Information  
-We have the right to disclose your information when we think it's necessary to identify, contact or bring legal action against someone who may be infringing or threatening or who may otherwise be causing injury to or interference with (either intentionally or unintentionally) our title, rights, interests or property or those of other website users or of anyone else who could be harmed by such activities.   
-We also have the rights to disclose, without notice to you, personal information when we believe in good faith that such disclosure is required by any law, regulation or listing requirement or by any stock/securities exchange, governmental or regulatory authority.  
-**c.**  Payment Information  
-We think necessary thaat if you establish a credit account with us or our providers or if you purchase a product or service from our site or a vendor available through Isp.org.cn, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders.
+ **Username and Password**
 
-**B.Cookies** **a.**  We may set and access cookies on your computer.   
-We allow other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to our cookies.   
-We use web beacons to access our cookies within and outside our network of web sites and in connection with Isp.org.cn products and services.  
-**b.**  Security Meastures  
-All your information including account information and profile is protected.No data transmission over the Internet can be guaranteed to be perfectly secured. however,we try our best to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us and you do so at your own risk.  
-**c.**  Attention  
-We may change the information of it from time to time.If there is anything wrong or what you think have brought you some hurt, Please contact with us as soon as possible.  
-**d.  **Feedback  
-Welcome to leave your word.Or you can contact us by sending e-mail to [ **isp@maoyt.com**](mailto:isp@maoyt.com).
+Some services only members are entitled. When you sign up for membership, you should choose a user name and password, and the need to provide a valid e-mail, so that after you lost your password we can tell your password. Account only by password to use, if the password is compromised, your personal information may be diffused, and there may be legal action against you. If your password by security impact, please contact us.
+
+ **Registration Message**
+
+When registered as a member, you need to fill in a registration form. Be sure to fill in your real name, address, telephone number and e-mail address. In addition, if you are a representative of an organization, then you need to provide your organization (eg company) address, telephone number and a brief description of the organization's services and products. Required information is outside some ancillary information.You can choose to provide information for the subsidiary. This information may include your company's provinces and cities, zip code, fax number, your position and the like. We use registration information to obtain statistics for this member. We will use these statistics to give our members classification, such as age, industry and jobs, in order to provide you with targeted new services and opportunities. We will notify you of these new services and opportunities through your e-mail address.
+
+ **Use of Personal & Business Information**
+
+Our site's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of sites. This includes personalized services, interactive communication and other services, most of which are completely free and remaining are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user. 
+
+We record buying and browsing activities of our users including but not limited to their client's contact details and profiles and uses the same to provide value-added services to our users.
