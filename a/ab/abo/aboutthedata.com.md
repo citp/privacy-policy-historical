@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutthedata.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911213839id_/https%3A//aboutthedata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutthedata.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423001017id_/https%3A//aboutthedata.com/privacy) for the most accurate reproduction.*
 
 # AboutTheData.com | Privacy
 
@@ -42,7 +42,7 @@ Do Not Track Signals: This website does not recognize browser “do-not-track”
 
 ### YOUR CHOICES AND HOW TO CONTACT US
 
-Acxiom also gives consumers the opportunity to learn about all of our data products at our corporate website [www.acxiom.com](http://www.acxiom.com/). Consumers who wish to opt-out of all Acxiom marketing data products, and Acxiom's use of third party data products we offer, may complete and submit an opt-out request form by clicking [here](https://isapps.acxiom.com/optout/optout.aspx). To opt out of just our online cookie based advertising products, click [here](http://acxiom.com/about-acxiom/privacy/online-advertising-products-optout/). Access to information about you in our directory and our fraud detection and prevention products is provided in the form of a US Reference Information Report that is available for a processing fee of $5. You may complete and submit a request form for your US Reference Information Report by clicking [here](http://acxiom.com/about-acxiom/privacy/us-reference-info-report/). 
+Acxiom also gives consumers the opportunity to learn about all of our data products at our corporate website [www.acxiom.com](http://www.acxiom.com/). Consumers who wish to opt-out of all Acxiom marketing data products, and Acxiom's use of third party data products we offer, may complete and submit an opt-out request form by clicking [here](https://isapps.acxiom.com/optout/optout.aspx). To opt out of just our online cookie based advertising products, click [here](https://liveramp.com/opt_out/). Access to information about you in our directory and our fraud detection and prevention products is provided in the form of a US Reference Information Report that is available for a processing fee of $5. You may complete and submit a request form for your US Reference Information Report by clicking [here](http://acxiom.com/about-acxiom/privacy/us-reference-info-report/). 
 
 You may opt-out of receiving email marketing from us by clicking the unsubscribe link contained in the email.
 
