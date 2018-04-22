@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218034812id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protonmail.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422195849id_/https%3A//protonmail.com/privacy-policy) for the most accurate reproduction.*
 
 # ProtonMail - Privacy Policy
 
