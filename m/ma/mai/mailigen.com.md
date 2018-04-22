@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailigen.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217004750id_/https%3A//www.mailigen.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailigen.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422173132id_/https%3A//www.mailigen.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Mailigen Privacy Policy
 
@@ -113,6 +113,6 @@ Mailigen Limited
 14A, Unionway Commercial Centre,  
 283 Queen's Road Central,  
 Hong Kong SAR  
-We can be reached via email at [ info (at) mailigen.com ](https://www.mailigen.com/info@mailigen.com) or you can reach us by telephone at +852 580 83721
+We can be reached via email at [ info (at) mailigen.com ](mailto:info@mailigen.com) or you can reach us by telephone at +852 580 83721
 
 * * *
