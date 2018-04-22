@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyscienceforkids.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008134934id_/http%3A//easyscienceforkids.com/legal/our-website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyscienceforkids.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422035303id_/http%3A//easyscienceforkids.com/legal/our-website-privacy-policy) for the most accurate reproduction.*
 
 # Our Website Privacy Policy - Easy Science For Kids
 
