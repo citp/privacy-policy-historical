@@ -1,42 +1,102 @@
-> *The following text is extracted and transformed from the manexa.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324152335id_/http%3A//inreachce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manexa.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422204637id_/http%3A//inreachce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InReach Continuing Education Management System
 
-**InReach Privacy Statement**
+Gary Jonas Computing Ltd. and its worldwide subsidiaries and affiliates that comprise the Jonas Family of Companies (“Jonas,” “we,” “us,” ”our”) are committed to protecting your privacy. There are various ways that you might interact with Jonas, and the information you provide when doing so allows us to improve our services. By using this website and our related websites (collectively, the “Site”) and by supplying your details to Jonas, you consent to Jonas collecting and processing your information.
 
-InReach has created this privacy statement (“Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the InReach web site (the “Site”) is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.
+Our privacy policy explains:
 
-**Collected Information:**  
-We require customers who register to use the services offered on our Site (collectively, the “Service”) to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within the System Administrative Tab. Customers can view their updated profile to confirm their edits have been made.
+  * What information we collect, and why we collect it;
+  * How we use that information;
+  * How we protect that information;
+  * How you can control your information, including accessing, updating and deleting what we store; and
+  * How we share information collected.
 
-InReach uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. All Customers must designate an administrator of the site and provide an email address for that person to[admin@InReachCE.com ](mailto:admin@InReachCE.com)Customer email addresses and any personal customer information will not be distributed or shared with third parties. We may also email information regarding updates to the Service or company. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing [admin@InReachCE.com](mailto:admin@InReachCE.com) at the time it is distributed.
 
-Except as we explicitly state at the time we request information, or as provided for in the Master Subscription Agreement, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by InReach for marketing or promotional purposes. InReach uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does InReach share user information with these parties.
 
-All financial and billing information that we collect through the Site is used solely to complete the transaction for which it was provided. This billing information is not used by InReach for marketing or promotional purposes. InReach uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does InReach share user information with these parties.
+## Compliance
 
-Customers of the Service will be using the Site to host data and information (“Data”). InReach will not review, share, distribute, print, or reference any such Data except as provided in the InReach Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+Jonas adheres to Canadian and international statutes and regulations which govern the protection of personal information. In Canada Jonas adheres to the Personal Information and Protection of Electronic Documents Act (“PIPEDA”). In the United States, Jonas adheres to statutes of general application and statutes of specific application such as the Health Insurance Portability and Accountability Act (“HIPPA”) where applicable. In Australia, Jonas complies with the Privacy Act, 1988, a federal statute as well as with State and Territory laws pertaining to protection of personal information, including the Health Records Act 2001(VIC) where applicable. In New Zealand, Jonas follows the Privacy Act, 1993. In Europe, Jonas adheres to the Data Protection Act, 1998, the European Union (“EU”) Data Protection (95/46/EC) and ePrivacy (2002/58/ED) Directives (as transposed into national law), the EU Privacy Directive dated May 26, 2012 (regarding cookies and other matters) and registers annually with the Information Commissioner’s Office.
 
-InReach may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties. If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. InReach will automatically send the friend a one-time email inviting them to visit the site. InReach does not store this information.
+## Information We Collect & Share
 
-**Cookies:  **  
-When you interact with the InReach Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to tell us whether customers and visitors have visited the Site previously.
+We may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) which you voluntarily provide through forms on our Site, through electronic mail you send to us, or through other means of communication between you and us.
 
-Standing alone, cookies do not identify you personally. They merely recognize your browser. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you’ve closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
+We only collect personal information of a more sensitive nature (e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. We may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site. We recognize and have controls in place to ensure that the privacy of personal information about an identifiable individual used in the course of commercial activity is protected and managed.
 
-InReach uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows InReach to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you’ve logged in and are required in order to use the InReach application. InReach uses persistent cookies that only InReach can read and use, to identify the fact that you are a InReach customer or prior InReach Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers’ ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service.
+We also collect, use, and disclose identifiable information about individual contacts for our customers (“Business Contact Information”) in the ordinary course of our business for managing and maintaining customer relationships. In particular, we may obtain the following types of Business Contact Information: name, address, invoice information including bank account information, and order information. Unless otherwise specified or prohibited, we may share information with affiliates, business partners, service providers, subsidiaries or contractors who are required to provide you with services which you have requested from us.
 
-**Third Party Cookies:**  
-We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of InReach is used only to provide us with information on site usage and is not shared with any other third parties.
+We may also post links to third party websites as a service to you. These third party websites are operated by companies that are outside of our control, and your activities at those third party websites will be governed by the policies and practices of those third parties. We encourage you to review the privacy policies of these third parties before disclosing any information, as we are not responsible for the privacy policies of those websites.
 
-**Third-Party Sites:**  
-The Site contains links to other web sites. InReach is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+## How We Use Information
 
-**Security:**  
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Netscape Navigator, or Microsoft Internet Explorer versions 5.5 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. InReach also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, InReach provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+We use the information we collect to provide you with services which you request and to improve our existing services and the content of our Site. When you contact us, we may keep a record of your communication to help solve any issues that you might be facing. Your information may be retained for a reasonable time for use in future contact with you, or for future improvements to our services. You have the option to opt-out or opt-in for further communications from us.
 
-**Correcting & Updating Your Information:**  
-If customers need to update or change registration information they may do so by editing the user or organization record. To update a User Profile, log on to InReach and select the Sys Admin Tab to add or update information. To update Organization’s data, log on to InReach and select the Sys Admin Tab and then select Organization Setup. To update billing information please email [billing@InReachCE.com](mailto:billing@InReachCE.com) or call 888-892-7676. InReach will respond to your correction or update request within at most 30 days from the date of your request.
+We may also use or disclose your personal information when we believe, in good faith, that such use or disclosure is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect our rights, property or safety, or the rights, property or safety of our users, or others. We reserve the right to transfer and disclose your information if we become involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of our business.
 
-**Additional Information:**  
-Questions regarding this Statement or the practices of this Site should be directed to InReach’s Security Administrator by e-mailing such questions to [security@InReachCE.com](mailto:security@InReachCE.com) or by regular mail addressed to InReach, Attn: Security Administrator, 5700 South Mopac, Suite C310, Austin, TX 78749.
+In certain cases, we also operate as an information processor for our business customers. Our business customers remain the information controllers with respect to any customer information that they provide to us for our provision of services. We therefore act in accordance with the instructions of such customers regarding the collection, processing, storage, deletion and transfer of customer information, as well as other matters such as the provision of access to and rectification of customer information.
+
+We do not sell our services to children. As such, our Sites are designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13.
+
+## Web User Tracking – Use of Cookies, IP Addresses and Aggregate Information
+
+Cookies are a technology that can be used to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable us to assess the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information such as pages viewed by you, your domain names and similar information. Our Site makes use of anonymous cookies for the purposes of:
+
+  * Completion and support of Site activity;
+  * Site and system administration;
+  * Research and development; and
+  * Anonymous user analysis, user profiling, and decision-making.
+
+
+
+An Internet Protocol (“IP”) address is associated with your computer’s connection to the internet. We may use your IP address to help diagnose problems with our server, to administer the Site and to maintain contact with you as you navigate through the Site. Your computer’s IP address also may be used to provide you with information based upon your navigation through the Site.
+
+Aggregate information is used to measure the visitors’ interest in, and use of, various areas of the Site and the various programs that we administer. We will rely upon aggregate information, which is information that does not identify you, such as statistical and navigational information. With this aggregate information, we may undertake statistical and other summary analyses of the visitors’ behaviors and characteristics. Although we may share this aggregate information with third parties, none of this information will allow anyone to identify you, or to determine anything else personal about you.
+
+## Collection and Use of Employee Personal Information
+
+We also collect personal information from our employees and from job applicants (human resource data) in connection with administration of our human resources programs and functions. These programs and functions include, but are not limited to: job applications and hiring programs, compensation and benefit programs, performance appraisals, training, access to our facilities and computer networks, employee profiles, employee directories, human resource recordkeeping, and other employment related purposes. It is our policy to keep all past and present employee information private from disclosure to third parties. There are certain business related exceptions and they are:
+
+  * To comply with municipal, regional, provincial or federal agency requests;
+  * Inquiries from third parties with a signed authorization from the employee to release the information, except in situations where limited verbal verifications are acceptable (see below);
+  * Third parties with which we have contractual agreements to assist in administration of company sponsored benefits.
+
+
+
+Prospective employers, government agencies, financial institutions, and residential property managers routinely contact us requesting information on a former or current employee’s work history and salary. All such requests of this type shall be referred to and completed on a confidential basis by the human resources department or payroll department. For written verification of employment requests, information will be provided on the form only when it is accompanied by an employee’s signed authorization to release information. The form will be returned directly to the requesting party and filed as part of the human resources or payroll department’s confidential records.
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
+
+We use reasonable measures to safeguard personally identifiable information, which measures are appropriate to the type of information maintained, and follows applicable laws regarding the safeguarding of any such information under our control. In addition, in some areas of our Sites, we may use encryption technology to enhance information privacy and help prevent loss, misuse, or alteration of the information under our control. We also employ industry-standard measures and processes for detecting and responding to inappropriate attempts to breach our systems.
+
+No method of transmission over the Internet, or method of electronic storage, can be 100% secure. Therefore, we cannot guarantee the absolute security of your information. The Internet by its nature is a public forum, and we encourage you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
+
+## Monitoring and Enforcement
+
+We regularly review our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly.
+
+## Accessing and Updating Your Personal Information
+
+If you have provided us with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. We will make a reasonable effort to comply with such requests except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to the Privacy Contact identified below to review any personal information held about you.
+
+## Social Media and Online Engagement
+
+We occasionally use a variety of new technologies and social media options to communicate and interact with customers, potential customers, employees and potential employees. These sites and applications include popular social networking and media sites, open source software communities and more. To better engage the public in ongoing dialog, certain of our businesses use certain third-party platforms including, but not limited to, Facebook, Twitter and LinkedIn. Third-Party Websites and Applications (TPWA) are Web-based technologies that are not exclusively operated or controlled by us. When interacting on those websites, you may reveal certain personal information to us or to third parties. Other than when used by our employees for the purpose of responding to a specific message or request, we will not use, share, or retain your personal information.
+
+  * The Facebook privacy policy is available at <http://www.facebook.com/policy.php>.
+  * The Twitter privacy policy is available at <http://twitter.com/privacy>.
+  * The LinkedIn privacy policy is available at <http://www.linkedin.com/static?key=privacy_policy>.
+
+
+
+## Changes to this Privacy Policy
+
+We may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the “Privacy Policy” link on the Site’s home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read “Newly Revised Privacy Policy.” Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law. This privacy policy was last updated on the date set out at the end of the policy.
+
+## Contacting Us
+
+Questions regarding this privacy policy should be directed to [info@inreachce.com](mailto:info@inreachce.com) or at 888.892.7676.
+
+LAST UPDATED: January, 2015
