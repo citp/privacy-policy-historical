@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adswale.in privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218022133id_/http%3A//www.adswale.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswale.in privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423234121id_/http%3A//www.adswale.in/privacy) for the most accurate reproduction.*
 
-# Post Classified in Jaipur - Search and Post Free Classified Ads in Jaipur. Property, Cars in Jaipur, Rentals, For Sale in Jaipur - AdsWale.in
+# Post Classified in Mumbai - Search and Post Free Classified Ads in Mumbai. Property, Cars in Mumbai, Rentals, For Sale in Mumbai - AdsWale.in
 
 **Adswale.in** values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our website or information that you may give us, such as your name, address, email address or telephone number, to any outside sources.
 
