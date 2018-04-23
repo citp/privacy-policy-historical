@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the flyordie.com privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218224657id_/http%3A//www.flyordie.com/privacy.html%23cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flyordie.com privacy policy that was archived on 2018-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180423051618id_/http%3A//www.flyordie.com/privacy.html%23cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
 <link rel="stylesheet" type="text/css" href="flyordie.css">
-<title>Privacy Statment - FlyOrDie.com</title>
+<title>Privacy Statement - FlyOrDie.com</title>
 <script>
 function mto(u,d) {
 u+=String.fromCharCode(64)+d;
@@ -16,6 +16,7 @@ function openLink(name, url, description){
 document.write('<a href="' + url + '" target=_blank>' + name + '</a>');
 }
 function highlightanchor() {
+	onhashchange=highlightanchor;
 	var a=location.hash;
 	if(!a||a.length<=1)
 		return;
@@ -24,7 +25,8 @@ function highlightanchor() {
 	for(var i=0;i<aa.length;i++)
 		if(aa[i].name==a) {
 			aa[i].style.backgroundColor='#026196';
-			break;
+			onhashchange=null;
+			return;
 		}
 }
 function init() {
@@ -105,7 +107,7 @@ This privacy statement applies solely to information collected by this Web site.
 </p>
 <p class="small">Last updated: Dec 11, 2013
 </p>
-<span class="copyright">Copyright © 2001-2017 FlyOrDie Free Games Online. 
+<span class="copyright">Copyright © 2001-2018 FlyOrDie Free Games Online. 
 FlyOrDie® is a registered trademark of <a href="http://www.solware.com/" target="_blank">Solware Ltd.</a></span>
 </div>
 
