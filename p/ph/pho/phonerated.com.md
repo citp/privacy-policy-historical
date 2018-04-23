@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonerated.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226193507id_/http%3A//www.phonerated.com/a-mobile-phonerated-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonerated.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423200436id_/https%3A//www.phonerated.com/a-mobile-phonerated-privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Phonerated's Privacy Policy - Phonerated.com
 
