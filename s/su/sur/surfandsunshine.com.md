@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surfandsunshine.com privacy policy that was archived on 2017-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171203051051id_/http%3A//www.surfandsunshine.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfandsunshine.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423113510id_/http%3A//www.surfandsunshine.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure and Privacy Policy -
+# Disclosure and Privacy Policy - Surf and Sunshine
 
 This policy is valid from 01 January 2012
 
