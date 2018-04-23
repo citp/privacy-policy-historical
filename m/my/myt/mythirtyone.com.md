@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythirtyone.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902120132id_/https%3A//www.mythirtyone.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythirtyone.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423222118id_/https%3A//www.mythirtyone.com/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Thirty-One Gifts
 
