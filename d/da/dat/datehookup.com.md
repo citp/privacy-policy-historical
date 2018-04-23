@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218220851id_/http%3A//www.datehookup.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423045119id_/https%3A//www.datehookup.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
 
