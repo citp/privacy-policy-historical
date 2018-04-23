@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107205044id_/https%3A//www.nhtsa.gov/about-nhtsa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhtsa.gov privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423190201id_/https%3A//www.nhtsa.gov/about-nhtsa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NHTSA
 
