@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201221134id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423200748id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Home : Digital Home
 
