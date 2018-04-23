@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 9jabaze.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221161156id_/http%3A//songbaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9jabaze.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423203723id_/http%3A//songbaze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 9jabaze | Songbaze.Com
+
+9jabaze now know as Songbaze.com we are upgrading...
 
 »If you require any more information or have any questions about our privacy policy, please feel free to  
 contact us by email at admin@songbaze.com Or use the Contact us page. At songBaze.com, the privacy of our visitors is of extreme importance to us.  
