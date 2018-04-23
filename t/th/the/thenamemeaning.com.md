@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenamemeaning.com privacy policy that was archived on 2017-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171217023148id_/http%3A//www.thenamemeaning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenamemeaning.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423071527id_/http%3A//www.thenamemeaning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - The Name Meaning
 
