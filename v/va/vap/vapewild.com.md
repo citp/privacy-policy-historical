@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapewild.com privacy policy that was archived on 2017-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170909121213id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapewild.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423144106id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.*
 
 # VapeWild's Payment and Privacy Policies
 
