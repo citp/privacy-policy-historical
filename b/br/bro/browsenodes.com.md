@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsenodes.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220063612id_/http%3A//www.browsenodes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsenodes.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423102058id_/http%3A//www.browsenodes.com/privacy.html) for the most accurate reproduction.*
 
 # Download Browse Nodes for Amazon.com AWS
 
