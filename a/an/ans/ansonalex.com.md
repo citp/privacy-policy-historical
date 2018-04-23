@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansonalex.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220045836id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansonalex.com privacy policy that was archived on 2018-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180423082641id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AnsonAlex.com
 
