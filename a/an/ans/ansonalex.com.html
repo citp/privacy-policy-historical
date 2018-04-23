@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ansonalex.com privacy policy that was archived on 2017-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171220045836id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ansonalex.com privacy policy that was archived on 2018-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180423082641id_/http%3A//ansonalex.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 <link rel="pingback" href="http://ansonalex.com/xmlrpc.php">
 <title>Privacy Policy - AnsonAlex.com</title>
 
-
+<!-- This site is optimized with the Yoast SEO plugin v7.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://ansonalex.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
@@ -22,8 +22,8 @@
 <meta name="twitter:title" content="Privacy Policy - AnsonAlex.com">
 <meta name="twitter:site" content="@ansonalex">
 <meta name="twitter:creator" content="@ansonalex">
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/ansonalex.com\/","name":"AnsonAlex.com","potentialAction":{"@type":"SearchAction","target":"http:\/\/ansonalex.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/ansonalex.com\/privacy-policy\/","sameAs":["https:\/\/www.facebook.com\/AnsonAlex\/","https:\/\/www.linkedin.com\/in\/ansonalexander","https:\/\/www.youtube.com\/user\/AnsonA4","https:\/\/twitter.com\/ansonalex"],"@id":"#organization","name":"AnsonAlex.com","logo":"http:\/\/ansonalex.com\/wp-content\/uploads\/2017\/03\/9_2560x1440_w.jpg"}</script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"http:\/\/ansonalex.com\/","sameAs":["https:\/\/www.facebook.com\/AnsonAlex\/","https:\/\/www.linkedin.com\/in\/ansonalexander","https:\/\/www.youtube.com\/user\/AnsonA4","https:\/\/twitter.com\/ansonalex"],"@id":"#organization","name":"AnsonAlex.com","logo":"http:\/\/ansonalex.com\/wp-content\/uploads\/2017\/03\/9_2560x1440_w.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s.gravatar.com">
@@ -31,9 +31,10 @@
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="AnsonAlex.com » Feed" href="http://ansonalex.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="AnsonAlex.com » Comments Feed" href="http://ansonalex.com/comments/feed/">
-
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.0.4 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
-		var disableStr = 'ga-disable-UA-20683396-1';
+	var mi_track_user = true;
+	var disableStr = 'ga-disable-UA-20683396-1';
 
 	/* Function to detect opted out users */
 	function __gaTrackerIsOptedOut() {
@@ -50,23 +51,69 @@
 	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 	  window[disableStr] = true;
 	}
+	
+	if ( mi_track_user ) {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
 
-	__gaTracker('create', 'UA-20683396-1', 'auto');
-	__gaTracker('set', 'forceSSL', true);
-	__gaTracker('require', 'displayfeatures');
-	__gaTracker('require', 'linkid', 'linkid.js');
-	__gaTracker('send','pageview');
+		__gaTracker('create', 'UA-20683396-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you\'re not being tracked. ");
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+		})();
+		}
 </script>
-
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ansonalex.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=2a63571d010b6d570b8a747feaf93e55"}};
-			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://ansonalex.com/wp-includes/js/wp-emoji-release.min.js?ver=2a63571d010b6d570b8a747feaf93e55" type="text/javascript" defer=""></script>
-<style type="text/css">
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.4\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ansonalex.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=32cf331b8e924f5e1030d2a5a4e7177e"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56692,8205,9792,65039],[55357,56692,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://ansonalex.com/wp-includes/js/wp-emoji-release.min.js?ver=32cf331b8e924f5e1030d2a5a4e7177e" type="text/javascript" defer=""></script>
+		<style type="text/css">
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -81,17 +128,17 @@ img.emoji {
 }
 </style>
 <link rel="stylesheet" id="bbp-default-css" href="http://ansonalex.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684" type="text/css" media="screen">
-<link rel="stylesheet" id="social_comments_rtl-css" href="http://ansonalex.com/wp-content/plugins/social-comments/assets/css/social_comments.css?ver=2a63571d010b6d570b8a747feaf93e55" type="text/css" media="all">
-<link rel="stylesheet" id="vlog-main-css" href="http://ansonalex.com/wp-content/themes/vlog/assets/css/min.css?ver=1.7" type="text/css" media="all">
+<link rel="stylesheet" id="social_comments_rtl-css" href="http://ansonalex.com/wp-content/plugins/social-comments/assets/css/social_comments.css?ver=32cf331b8e924f5e1030d2a5a4e7177e" type="text/css" media="all">
+<link rel="stylesheet" id="vlog-main-css" href="http://ansonalex.com/wp-content/themes/vlog/assets/css/min.css?ver=1.9" type="text/css" media="all">
 <style id="vlog-main-inline-css" type="text/css">
-body,#cancel-comment-reply-link,.vlog-wl-action .vlog-button {color: #111111;font-family: 'Lato';font-weight: 400;}.vlog-body-box{background-color:#ffffff;}h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6,blockquote,.vlog-comments .url,.comment-author b,.vlog-site-header .site-title a,.entry-content thead td,#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink {font-family: 'Montserrat';font-weight: 700;}.vlog-site-header a,.dl-menuwrapper li a{font-family: 'Montserrat';font-weight: 400;}.vlog-top-bar,.vlog-top-bar .sub-menu{background-color: #34495e;}.vlog-top-bar ul li a,.vlog-site-date{color: #8b97a3;}.vlog-top-bar ul li:hover > a{color: #ffffff;}.vlog-header-middle{height: 80px;}.vlog-header-middle .site-title img{max-height: 80px;}.vlog-site-header,.vlog-header-shadow .vlog-header-wrapper,.vlog-site-header .vlog-main-nav .sub-menu,.vlog-actions-button .sub-menu,.vlog-site-header .vlog-main-nav > li:hover > a,.vlog-actions-button:hover > span,.vlog-action-search.active.vlog-actions-button > span,.vlog-actions-search input[type=text]:focus,.vlog-responsive-header,.dl-menuwrapper .dl-menu{background-color: #ffffff;}.vlog-site-header,.vlog-site-header .entry-title a,.vlog-site-header a,.dl-menuwrapper li a,.vlog-site-header .vlog-search-form input[type=text],.vlog-responsive-header,.vlog-responsive-header a.vlog-responsive-header .entry-title a,.dl-menuwrapper button,.vlog-remove-wl{color: #111111;}.vlog-main-nav .sub-menu li:hover > a,.vlog-main-nav > .current_page_item > a,.vlog-main-nav .current-menu-item > a,.vlog-main-nav li:not(.menu-item-has-children):hover > a,.vlog-actions-button.vlog-action-search:hover span,.vlog-actions-button.vlog-cart-icon:hover a,.dl-menuwrapper li a:focus,.dl-menuwrapper li a:hover,.dl-menuwrapper button:hover{color: #9b59b6;}.vlog-site-header .vlog-search-form input[type=text]::-webkit-input-placeholder { color: #111111;}.vlog-site-header .vlog-search-form input[type=text]::-moz-placeholder {color: #111111;}.vlog-site-header .vlog-search-form input[type=text]:-ms-input-placeholder {color: #111111;}.vlog-header-bottom{background: #f6f6f6;}.vlog-header-bottom,.vlog-header-bottom .entry-title a,.vlog-header-bottom a,.vlog-header-bottom .vlog-search-form input[type=text]{color: #111111;}.vlog-header-bottom .vlog-main-nav .sub-menu li:hover > a, .vlog-header-bottom .vlog-main-nav > .current_page_item > a, .vlog-header-bottom .vlog-main-nav .current-menu-item > a, .vlog-header-bottom .vlog-main-nav li:not(.menu-item-has-children):hover > a, .vlog-header-bottom .vlog-actions-button.vlog-action-search:hover span,.vlog-header-bottom .entry-title a:hover,.vlog-header-bottom .vlog-remove-wl:hover{color: #9b59b6;}.vlog-header-bottom .vlog-search-form input[type=text]::-webkit-input-placeholder { color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]::-moz-placeholder {color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]:-ms-input-placeholder {color: #111111;}.vlog-sticky-header.vlog-site-header,.vlog-sticky-header.vlog-site-header .vlog-main-nav .sub-menu,.vlog-sticky-header .vlog-actions-button .sub-menu,.vlog-sticky-header.vlog-site-header .vlog-main-nav > li:hover > a,.vlog-sticky-header .vlog-actions-button:hover > span,.vlog-sticky-header .vlog-action-search.active.vlog-actions-button > span,.vlog-sticky-header .vlog-actions-search input[type=text]:focus{background-color: #ffffff;}.vlog-sticky-header,.vlog-sticky-header .entry-title a,.vlog-sticky-header a,.vlog-sticky-header .vlog-search-form input[type=text],.vlog-sticky-header.vlog-site-header a{color: #111111;}.vlog-sticky-header .vlog-main-nav .sub-menu li:hover > a,.vlog-sticky-header .vlog-main-nav > .current_page_item > a,.vlog-sticky-header .vlog-main-nav li:not(.menu-item-has-children):hover > a,.vlog-sticky-header .vlog-actions-button.vlog-action-search:hover span,.vlog-sticky-header.vlog-header-bottom .vlog-main-nav .current-menu-item > a,.vlog-sticky-header.vlog-header-bottom .entry-title a:hover,.vlog-sticky-header.vlog-header-bottom.vlog-remove-wl:hover {color: #9b59b6;}.vlog-header-bottom .vlog-search-form input[type=text]::-webkit-input-placeholder { color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]::-moz-placeholder {color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]:-ms-input-placeholder {color: #111111;}a{color: #04a3f8; }.meta-item,.meta-icon,.meta-comments a,.vlog-prev-next-nav .vlog-pn-ico,.comment-metadata a,.widget_calendar table caption,.widget_archive li,.widget_recent_comments li,.rss-date,.widget_rss cite,.widget_tag_cloud a:after,.widget_recent_entries li .post-date,.meta-tags a:after,.bbp-forums .bbp-forum-freshness a{color: #999999; }.vlog-pagination .dots:hover, .vlog-pagination a, .vlog-post .entry-category a:hover,a.meta-icon:hover,.meta-comments:hover,.meta-comments:hover a,.vlog-prev-next-nav a,.widget_tag_cloud a,.widget_calendar table tfoot tr td a,.vlog-button-search,.meta-tags a,.vlog-all-link:hover,.vlog-sl-item:hover,.entry-content-single .meta-tags a:hover,#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink{color: #111111; }.vlog-count,.vlog-button,.vlog-pagination .vlog-button,.vlog-pagination .vlog-button:hover,.vlog-watch-later-count,.vlog-listen-later-count,.vlog-cart-icon a .vlog-cart-count,a.page-numbers:hover,.widget_calendar table tbody td a,.vlog-load-more a,.vlog-next a,.vlog-prev a,.vlog-pagination .next,.vlog-pagination .prev,.mks_author_link,.mks_read_more a,.vlog-wl-action .vlog-button,body .mejs-controls .mejs-time-rail .mejs-time-current,.vlog-link-pages a{background-color: #04a3f8;}.vlog-pagination .uil-ripple-css div:nth-of-type(1),.vlog-pagination .uil-ripple-css div:nth-of-type(2),blockquote{border-color: #04a3f8;}.entry-content-single a,#bbpress-forums .bbp-forum-title:hover, #bbpress-forums .bbp-topic-permalink:hover{color: #04a3f8;}.entry-content-single a:hover{color: #111111;}.vlog-site-content,.vlog-content .entry-content-single a.vlog-popup-img { background: #ffffff;}.vlog-content .entry-content-single a.vlog-popup-img{color: #ffffff;}h1,h2,h3,h4,h5,h6,.h1, .h2, .h3, .h4, .h5, .h6,.entry-title a,.vlog-comments .url,.rsswidget:hover{ color: #111111;}.widget ul li a{color: #111111;}.widget ul li a:hover,.entry-title a:hover,.widget .vlog-search-form .vlog-button-search:hover,.bypostauthor .comment-body .fn:before,.vlog-comments .url:hover,#cancel-comment-reply-link,.widget_tag_cloud a:hover,.meta-tags a:hover,.vlog-remove-wl:hover{color: #04a3f8;}.entry-content p{color: #111111;}.widget_calendar #today:after{background: rgba(17,17,17,0.1)}.vlog-button,.vlog-button a,.vlog-pagination .vlog-button,.vlog-pagination .next,.vlog-pagination .prev,a.page-numbers:hover,.widget_calendar table tbody td a,.vlog-featured-info-2 .entry-title a,.vlog-load-more a,.vlog-next a,.vlog-prev a,.mks_author_link,.mks_read_more a,.vlog-wl-action .vlog-button,.vlog-link-pages a,.vlog-link-pages a:hover{color: #FFF;}#cancel-comment-reply-link, .comment-reply-link, .vlog-rm,.vlog-mod-actions .vlog-all-link,.vlog-slider-controls .owl-next, .vlog-slider-controls .owl-prev {color: #04a3f8; border-color: rgba(4,163,248,0.7)}.vlog-mod-actions .vlog-all-link:hover,.vlog-slider-controls .owl-next:hover, .vlog-slider-controls .owl-prev:hover {color: #111111; border-color: rgba(17,17,17,0.7)}.comment-reply-link:hover,.vlog-rm:hover,#cancel-comment-reply-link:hover{color: #111111;border-color: #111111;}.vlog-highlight .entry-category,.vlog-highlight .entry-category a,.vlog-highlight .meta-item a,.vlog-highlight .meta-item span,.vlog-highlight .meta-item,.vlog-highlight.widget_tag_cloud a:hover{color: rgba(255,255,255,0.5);}.vlog-highlight {background: #34495e;color: #ffffff;border: none;}.vlog-highlight .widget-title{border-bottom-color: rgba(255,255,255,0.1);}.vlog-highlight .entry-title,.vlog-highlight .entry-category a:hover,.vlog-highlight .action-item,.vlog-highlight .meta-item a:hover,.vlog-highlight .widget-title span,.vlog-highlight .entry-title a,.widget.vlog-highlight ul li a,.vlog-highlight.widget_calendar table tfoot tr td a,.vlog-highlight .widget_tag_cloud a{color: #ffffff;}.vlog-highlight .widget_calendar #today:after{ background: rgba(255,255,255,0.1);}.widget.vlog-highlightinput[type=number], .widget.vlog-highlight input[type=text], .widget.vlog-highlight input[type=email], .widget.vlog-highlight input[type=url], .widget.vlog-highlight input[type=tel], .widget.vlog-highlight input[type=date], .widget.vlog-highlight input[type=password], .widget.vlog-highlight select, .widget.vlog-highlight textarea{background: #FFF;color: #111;border-color: rgba(255,255,255,0.1);}.vlog-highlight .vlog-button-search{color:#111;}.vlog-bg-box,.author .vlog-mod-desc,.vlog-bg{background: rgba(17,17,17,0.05);}.vlog-pagination .current{background: rgba(17,17,17,0.1);}.vlog-site-footer{background: #34495e;color: #ffffff;}.vlog-site-footer .widget-title,.vlog-site-footer .widget_calendar table tbody td a,.vlog-site-footer .widget_calendar table tfoot tr td a,.vlog-site-footer .widget.mks_author_widget h3,.vlog-site-footer.mks_author_link,.vlog-site-footer .vlog-button:hover,.vlog-site-footer .meta-item a:hover,.vlog-site-footer .entry-category a:hover {color: #ffffff;}.vlog-site-footer a,.vlog-site-footer ul li a,.vlog-site-footer .widget_calendar table tbody td a:hover,.vlog-site-footer .widget_calendar table tfoot tr td a:hover{color: rgba(255,255,255,0.8);}.vlog-site-footer .meta-item a,.vlog-site-footer .meta-item .meta-icon,.vlog-site-footer .widget_recent_entries li .post-date,.vlog-site-footer .meta-item{color: rgba(255,255,255,0.5);}.vlog-site-footer .meta-comments:hover,.vlog-site-footer ul li a:hover,.vlog-site-footer a:hover{color: #ffffff;}.vlog-site-footer .widget .vlog-count,.vlog-site-footer .widget_calendar table tbody td a,.vlog-site-footer a.mks_author_link,.vlog-site-footer a.mks_author_link:hover,.vlog-site-footer .widget_calendar table tbody td a:hover{color: #34495e;background: #ffffff;}.vlog-site-footer .widget .vlog-search-form input[type=text],.vlog-site-footer select{ background: #FFF; color: #111; border:#ffffff;}.vlog-site-footer .widget .vlog-search-form .vlog-button-search{color: #111;}.vlog-site-footer .vlog-mod-actions .vlog-all-link, .vlog-site-footer .vlog-slider-controls .owl-next, .vlog-site-footer .vlog-slider-controls .owl-prev{ color: rgba(255,255,255,0.8); border-color:rgba(255,255,255,0.8);}.vlog-site-footer .vlog-mod-actions .vlog-all-link:hover, .vlog-site-footer .vlog-slider-controls .owl-next:hover, .vlog-site-footer .vlog-slider-controls .owl-prev:hover{ color: rgba(255,255,255,1); border-color:rgba(255,255,255,1);}.entry-content-single ul > li:before,.vlog-comments .comment-content ul > li:before{color: #04a3f8;}input[type=number], input[type=text], input[type=email], input[type=url], input[type=tel], input[type=date], input[type=password], select, textarea,.widget,.vlog-comments,.comment-list,.comment .comment-respond,.widget .vlog-search-form input[type=text],.vlog-content .vlog-prev-next-nav,.vlog-wl-action,.vlog-mod-desc .vlog-search-form,.entry-content table,.entry-content td, .entry-content th,.entry-content-single table,.entry-content-single td, .entry-content-single th,.vlog-comments table,.vlog-comments td, .vlog-comments th{border-color: rgba(17,17,17,0.1);}input[type=number]:focus, input[type=text]:focus, input[type=email]:focus, input[type=url]:focus, input[type=tel]:focus, input[type=date]:focus, input[type=password]:focus, select:focus, textarea:focus{border-color: rgba(17,17,17,0.3);}input[type=number], input[type=text], input[type=email], input[type=url], input[type=tel], input[type=date], input[type=password], select, textarea{background-color: rgba(17,17,17,0.03);}.vlog-button,input[type="submit"],.wpcf7-submit,input[type="button"]{background-color: #04a3f8;}.vlog-comments .comment-content{color: rgba(17,17,17,0.8);}li.bypostauthor > .comment-body,.vlog-rm {border-color: #04a3f8;}.vlog-ripple-circle{stroke: #04a3f8;}.vlog-cover-bg,.vlog-featured-2 .vlog-featured-item,.vlog-featured-3 .vlog-featured-item,.vlog-featured-4 .owl-item,.vlog-featured-5{height: 400px;}.vlog-fa-5-wrapper{height: 328px;}.vlog-fa-5-wrapper .fa-item{height: 128px;}div.bbp-submit-wrapper button, #bbpress-forums #bbp-your-profile fieldset.submit button{color:#FFF;background-color: #04a3f8;}.vlog-breadcrumbs a:hover{color: #111111;}.vlog-breadcrumbs{ border-bottom: 1px solid rgba(17,17,17,0.1);}.vlog-special-tag-label{background-color: rgba(4,163,248,0.5);}.vlog-special-tag-label{background-color: rgba(4,163,248,0.5);}.entry-image:hover .vlog-special-tag-label{background-color: rgba(4,163,248,0.8);}.site-title{text-transform: uppercase;}.site-description{text-transform: uppercase;}.vlog-site-header{text-transform: uppercase;}.vlog-top-bar{text-transform: uppercase;}.entry-title{text-transform: none;}.entry-category a{text-transform: uppercase;}.vlog-mod-title, comment-author .fn{text-transform: none;}.widget-title{text-transform: uppercase;}
+body,#cancel-comment-reply-link,.vlog-wl-action .vlog-button,.vlog-actions-menu .vlog-action-login a {color: #111111;font-family: 'Lato';font-weight: 400;}.vlog-body-box{background-color:#ffffff;}h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6,blockquote,.vlog-comments .url,.comment-author b,.vlog-site-header .site-title a,.entry-content thead td,#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink {font-family: 'Montserrat';font-weight: 700;}.vlog-site-header a,.dl-menuwrapper li a{font-family: 'Montserrat';font-weight: 400;}body{font-size: 1.6rem;}.entry-headline.h4{font-size: 1.8rem;}.vlog-site-header .vlog-main-nav li a{font-size: 1.3rem;}.vlog-sidebar, .vlog-site-footer p, .vlog-lay-b .entry-content p, .vlog-lay-c .entry-content p, .vlog-lay-d .entry-content p, .vlog-lay-e .entry-content p{font-size: 1.4rem;}.widget .widget-title{font-size: 1.6rem;}.vlog-mod-head .vlog-mod-title h4{font-size: 1.8rem;}h1, .h1 {font-size: 2.8rem;}h2, .h2 {font-size: 2.4rem;}h3, .h3 {font-size: 2rem;}h4, .h4, .vlog-no-sid .vlog-lay-d .h5, .vlog-no-sid .vlog-lay-e .h5, .vlog-no-sid .vlog-lay-f .h5 {font-size: 1.8rem;}h5, .h5, .vlog-no-sid .vlog-lay-g .h6 {font-size: 1.6rem;}h6, .h6 {font-size: 1.4rem;}.h7{font-size: 1.3rem;}.entry-headline h4{font-size: rem;}.meta-item{font-size: 1.2rem;}.vlog-top-bar,.vlog-top-bar .sub-menu{background-color: #34495e;}.vlog-top-bar ul li a,.vlog-site-date{color: #8b97a3;}.vlog-top-bar ul li:hover > a{color: #ffffff;}.vlog-header-middle{height: 80px;}.vlog-header-middle .site-title img{max-height: 80px;}.vlog-site-header,.vlog-header-shadow .vlog-header-wrapper,.vlog-site-header .vlog-main-nav .sub-menu,.vlog-actions-button .sub-menu,.vlog-site-header .vlog-main-nav > li:hover > a,.vlog-actions-button:hover > span,.vlog-action-search.active.vlog-actions-button > span,.vlog-actions-search input[type=text]:focus,.vlog-responsive-header,.dl-menuwrapper .dl-menu{background-color: #ffffff;}.vlog-site-header,.vlog-site-header .entry-title a,.vlog-site-header a,.dl-menuwrapper li a,.vlog-site-header .vlog-search-form input[type=text],.vlog-responsive-header,.vlog-responsive-header a.vlog-responsive-header .entry-title a,.dl-menuwrapper button,.vlog-remove-wl{color: #111111;}.vlog-main-nav .sub-menu li:hover > a,.vlog-main-nav > .current_page_item > a,.vlog-main-nav .current-menu-item > a,.vlog-main-nav li:not(.menu-item-has-children):hover > a,.vlog-actions-button.vlog-action-search:hover span,.vlog-actions-button.vlog-cart-icon:hover a,.dl-menuwrapper li a:focus,.dl-menuwrapper li a:hover,.dl-menuwrapper button:hover,.vlog-main-nav .vlog-mega-menu .entry-title a:hover,.vlog-menu-posts .entry-title a:hover,.vlog-menu-posts .vlog-remove-wl:hover{color: #9b59b6;}.vlog-site-header .vlog-search-form input[type=text]::-webkit-input-placeholder { color: #111111;}.vlog-site-header .vlog-search-form input[type=text]::-moz-placeholder {color: #111111;}.vlog-site-header .vlog-search-form input[type=text]:-ms-input-placeholder {color: #111111;}.vlog-watch-later-count{background-color: #9b59b6;}.pulse{-webkit-box-shadow: 0 0 0 0 #f0f0f0, 0 0 0 0 rgba(155,89,182,0.7);box-shadow: 0 0 0 0 #f0f0f0, 0 0 0 0 rgba(155,89,182,0.7);}.vlog-header-bottom{background: #f6f6f6;}.vlog-header-bottom,.vlog-header-bottom .entry-title a,.vlog-header-bottom a,.vlog-header-bottom .vlog-search-form input[type=text]{color: #111111;}.vlog-header-bottom .vlog-main-nav .sub-menu li:hover > a, .vlog-header-bottom .vlog-main-nav > .current_page_item > a, .vlog-header-bottom .vlog-main-nav .current-menu-item > a, .vlog-header-bottom .vlog-main-nav li:not(.menu-item-has-children):hover > a, .vlog-header-bottom .vlog-actions-button.vlog-action-search:hover span,.vlog-header-bottom .entry-title a:hover,.vlog-header-bottom .vlog-remove-wl:hover,.vlog-header-bottom .vlog-mega-menu .entry-title a:hover{color: #9b59b6;}.vlog-header-bottom .vlog-search-form input[type=text]::-webkit-input-placeholder { color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]::-moz-placeholder {color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]:-ms-input-placeholder {color: #111111;}.vlog-header-bottom .vlog-watch-later-count{background-color: #9b59b6;}.vlog-header-bottom .pulse{-webkit-box-shadow: 0 0 0 0 #f0f0f0, 0 0 0 0 rgba(155,89,182,0.7);box-shadow: 0 0 0 0 #f0f0f0, 0 0 0 0 rgba(155,89,182,0.7);}.vlog-sticky-header.vlog-site-header,.vlog-sticky-header.vlog-site-header .vlog-main-nav .sub-menu,.vlog-sticky-header .vlog-actions-button .sub-menu,.vlog-sticky-header.vlog-site-header .vlog-main-nav > li:hover > a,.vlog-sticky-header .vlog-actions-button:hover > span,.vlog-sticky-header .vlog-action-search.active.vlog-actions-button > span,.vlog-sticky-header .vlog-actions-search input[type=text]:focus{background-color: #ffffff;}.vlog-sticky-header,.vlog-sticky-header .entry-title a,.vlog-sticky-header a,.vlog-sticky-header .vlog-search-form input[type=text],.vlog-sticky-header.vlog-site-header a{color: #111111;}.vlog-sticky-header .vlog-main-nav .sub-menu li:hover > a,.vlog-sticky-header .vlog-main-nav > .current_page_item > a,.vlog-sticky-header .vlog-main-nav li:not(.menu-item-has-children):hover > a,.vlog-sticky-header .vlog-actions-button.vlog-action-search:hover span,.vlog-sticky-header.vlog-header-bottom .vlog-main-nav .current-menu-item > a,.vlog-sticky-header.vlog-header-bottom .entry-title a:hover,.vlog-sticky-header.vlog-header-bottom.vlog-remove-wl:hover,.vlog-sticky-header .vlog-main-nav .vlog-mega-menu .entry-title a:hover,.vlog-sticky-header .vlog-menu-posts .entry-title a:hover,.vlog-sticky-header .vlog-menu-posts .vlog-remove-wl:hover {color: #9b59b6;}.vlog-header-bottom .vlog-search-form input[type=text]::-webkit-input-placeholder { color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]::-moz-placeholder {color: #111111;}.vlog-header-bottom .vlog-search-form input[type=text]:-ms-input-placeholder {color: #111111;}.vlog-sticky-header .vlog-watch-later-count{background-color: #9b59b6;}.vlog-sticky-header .pulse{-webkit-box-shadow: 0 0 0 0 #f0f0f0, 0 0 0 0 rgba(155,89,182,0.7);box-shadow: 0 0 0 0 #f0f0f0, 0 0 0 0 rgba(155,89,182,0.7);}a{color: #04a3f8; }.meta-item,.meta-icon,.meta-comments a,.vlog-prev-next-nav .vlog-pn-ico,.comment-metadata a,.widget_calendar table caption,.widget_archive li,.widget_recent_comments li,.rss-date,.widget_rss cite,.widget_tag_cloud a:after,.widget_recent_entries li .post-date,.meta-tags a:after,.bbp-forums .bbp-forum-freshness a,#vlog-video-sticky-close{color: #999999; }.vlog-pagination .dots:hover, .vlog-pagination a, .vlog-post .entry-category a:hover,a.meta-icon:hover,.meta-comments:hover,.meta-comments:hover a,.vlog-prev-next-nav a,.widget_tag_cloud a,.widget_calendar table tfoot tr td a,.vlog-button-search,.meta-tags a,.vlog-all-link:hover,.vlog-sl-item:hover,.entry-content-single .meta-tags a:hover,#bbpress-forums .bbp-forum-title, #bbpress-forums .bbp-topic-permalink{color: #111111; }.vlog-count,.vlog-button,.vlog-pagination .vlog-button,.vlog-pagination .vlog-button:hover,.vlog-listen-later-count,.vlog-cart-icon a .vlog-cart-count,a.page-numbers:hover,.widget_calendar table tbody td a,.vlog-load-more a,.vlog-next a,.vlog-prev a,.vlog-pagination .next,.vlog-pagination .prev,.mks_author_link,.mks_read_more a,.vlog-wl-action .vlog-button,body .mejs-controls .mejs-time-rail .mejs-time-current,.vlog-link-pages a{background-color: #04a3f8;}.vlog-pagination .uil-ripple-css div:nth-of-type(1),.vlog-pagination .uil-ripple-css div:nth-of-type(2),blockquote{border-color: #04a3f8;}.entry-content-single a,#bbpress-forums .bbp-forum-title:hover, #bbpress-forums .bbp-topic-permalink:hover{color: #04a3f8;}.entry-content-single a:hover{color: #111111;}.vlog-site-content,.vlog-content .entry-content-single a.vlog-popup-img { background: #ffffff;}.vlog-content .entry-content-single a.vlog-popup-img{color: #ffffff;}h1,h2,h3,h4,h5,h6,.h1, .h2, .h3, .h4, .h5, .h6,.entry-title a,.vlog-comments .url,.rsswidget:hover,.vlog-format-inplay .entry-category a:hover,.vlog-format-inplay .meta-comments a:hover,.vlog-format-inplay .action-item,.vlog-format-inplay .entry-title a,.vlog-format-inplay .entry-title a:hover { color: #111111;}.widget ul li a{color: #111111;}.widget ul li a:hover,.entry-title a:hover,.widget .vlog-search-form .vlog-button-search:hover,.bypostauthor .comment-body .fn:before,.vlog-comments .url:hover,#cancel-comment-reply-link,.widget_tag_cloud a:hover,.meta-tags a:hover,.vlog-remove-wl:hover{color: #04a3f8;}.entry-content p{color: #111111;}.widget_calendar #today:after{background: rgba(17,17,17,0.1)}.vlog-button,.vlog-button a,.vlog-pagination .vlog-button,.vlog-pagination .next,.vlog-pagination .prev,a.page-numbers:hover,.widget_calendar table tbody td a,.vlog-featured-info-2 .entry-title a,.vlog-load-more a,.vlog-next a,.vlog-prev a,.mks_author_link,.mks_read_more a,.vlog-wl-action .vlog-button,.vlog-link-pages a,.vlog-link-pages a:hover{color: #FFF;}#cancel-comment-reply-link, .comment-reply-link, .vlog-rm,.vlog-mod-actions .vlog-all-link,.vlog-slider-controls .owl-next, .vlog-slider-controls .owl-prev {color: #04a3f8; border-color: rgba(4,163,248,0.7)}.vlog-mod-actions .vlog-all-link:hover,.vlog-slider-controls .owl-next:hover, .vlog-slider-controls .owl-prev:hover {color: #111111; border-color: rgba(17,17,17,0.7)}.comment-reply-link:hover,.vlog-rm:hover,#cancel-comment-reply-link:hover{color: #111111;border-color: #111111;}.vlog-highlight .entry-category,.vlog-highlight .entry-category a,.vlog-highlight .meta-item a,.vlog-highlight .meta-item span,.vlog-highlight .meta-item,.vlog-highlight.widget_tag_cloud a:hover{color: rgba(255,255,255,0.5);}.vlog-highlight {background: #34495e;color: #ffffff;border: none;}.vlog-highlight .widget-title{border-bottom-color: rgba(255,255,255,0.1);}.vlog-highlight .entry-title,.vlog-highlight .entry-category a:hover,.vlog-highlight .action-item,.vlog-highlight .meta-item a:hover,.vlog-highlight .widget-title span,.vlog-highlight .entry-title a,.widget.vlog-highlight ul li a,.vlog-highlight.widget_calendar table tfoot tr td a,.vlog-highlight .widget_tag_cloud a{color: #ffffff;}.vlog-highlight .widget_calendar #today:after{ background: rgba(255,255,255,0.1);}.widget.vlog-highlightinput[type=number], .widget.vlog-highlight input[type=text], .widget.vlog-highlight input[type=email], .widget.vlog-highlight input[type=url], .widget.vlog-highlight input[type=tel], .widget.vlog-highlight input[type=date], .widget.vlog-highlight input[type=password], .widget.vlog-highlight select, .widget.vlog-highlight textarea{background: #FFF;color: #111;border-color: rgba(255,255,255,0.1);}.vlog-highlight .vlog-button-search{color:#111;}.vlog-bg-box,.author .vlog-mod-desc,.vlog-bg{background: rgba(17,17,17,0.05);}.vlog-pagination .current{background: rgba(17,17,17,0.1);}.vlog-site-footer{background: #34495e;color: #ffffff;}.vlog-site-footer .widget-title,.vlog-site-footer .widget_calendar table tbody td a,.vlog-site-footer .widget_calendar table tfoot tr td a,.vlog-site-footer .widget.mks_author_widget h3,.vlog-site-footer.mks_author_link,.vlog-site-footer .vlog-button:hover,.vlog-site-footer .meta-item a:hover,.vlog-site-footer .entry-category a:hover {color: #ffffff;}.vlog-site-footer a,.vlog-site-footer ul li a,.vlog-site-footer .widget_calendar table tbody td a:hover,.vlog-site-footer .widget_calendar table tfoot tr td a:hover{color: rgba(255,255,255,0.8);}.vlog-site-footer .meta-item a,.vlog-site-footer .meta-item .meta-icon,.vlog-site-footer .widget_recent_entries li .post-date,.vlog-site-footer .meta-item{color: rgba(255,255,255,0.5);}.vlog-site-footer .meta-comments:hover,.vlog-site-footer ul li a:hover,.vlog-site-footer a:hover{color: #ffffff;}.vlog-site-footer .widget .vlog-count,.vlog-site-footer .widget_calendar table tbody td a,.vlog-site-footer a.mks_author_link,.vlog-site-footer a.mks_author_link:hover,.vlog-site-footer .widget_calendar table tbody td a:hover{color: #34495e;background: #ffffff;}.vlog-site-footer .widget .vlog-search-form input[type=text],.vlog-site-footer select{ background: #FFF; color: #111; border:#ffffff;}.vlog-site-footer .widget .vlog-search-form .vlog-button-search{color: #111;}.vlog-site-footer .vlog-mod-actions .vlog-all-link, .vlog-site-footer .vlog-slider-controls .owl-next, .vlog-site-footer .vlog-slider-controls .owl-prev{ color: rgba(255,255,255,0.8); border-color:rgba(255,255,255,0.8);}.vlog-site-footer .vlog-mod-actions .vlog-all-link:hover, .vlog-site-footer .vlog-slider-controls .owl-next:hover, .vlog-site-footer .vlog-slider-controls .owl-prev:hover{ color: rgba(255,255,255,1); border-color:rgba(255,255,255,1);}.entry-content-single ul > li:before,.vlog-comments .comment-content ul > li:before{color: #04a3f8;}input[type=number], input[type=text], input[type=email], input[type=url], input[type=tel], input[type=date], input[type=password], select, textarea,.widget,.vlog-comments,.comment-list,.comment .comment-respond,.widget .vlog-search-form input[type=text],.vlog-content .vlog-prev-next-nav,.vlog-wl-action,.vlog-mod-desc .vlog-search-form,.entry-content table,.entry-content td, .entry-content th,.entry-content-single table,.entry-content-single td, .entry-content-single th,.vlog-comments table,.vlog-comments td, .vlog-comments th{border-color: rgba(17,17,17,0.1);}input[type=number]:focus, input[type=text]:focus, input[type=email]:focus, input[type=url]:focus, input[type=tel]:focus, input[type=date]:focus, input[type=password]:focus, select:focus, textarea:focus{border-color: rgba(17,17,17,0.3);}input[type=number], input[type=text], input[type=email], input[type=url], input[type=tel], input[type=date], input[type=password], select, textarea{background-color: rgba(17,17,17,0.03);}.vlog-button,input[type="submit"],.wpcf7-submit,input[type="button"]{background-color: #04a3f8;}.vlog-comments .comment-content{color: rgba(17,17,17,0.8);}li.bypostauthor > .comment-body,.vlog-rm {border-color: #04a3f8;}.vlog-ripple-circle{stroke: #04a3f8;}.vlog-cover-bg,.vlog-featured-2 .vlog-featured-item,.vlog-featured-3 .vlog-featured-item,.vlog-featured-4 .owl-item,.vlog-featured-5{height: 400px;}.vlog-fa-5-wrapper{height: 328px;}.vlog-fa-5-wrapper .fa-item{height: 128px;}div.bbp-submit-wrapper button, #bbpress-forums #bbp-your-profile fieldset.submit button{color:#FFF;background-color: #04a3f8;}.vlog-breadcrumbs a:hover{color: #111111;}.vlog-breadcrumbs{ border-bottom: 1px solid rgba(17,17,17,0.1);}.vlog-special-tag-label{background-color: rgba(4,163,248,0.5);}.vlog-special-tag-label{background-color: rgba(4,163,248,0.5);}.entry-image:hover .vlog-special-tag-label{background-color: rgba(4,163,248,0.8);}.vlog-format-inplay .entry-category a,.vlog-format-inplay .action-item:hover,.vlog-featured .vlog-format-inplay .meta-icon,.vlog-featured .vlog-format-inplay .meta-item,.vlog-format-inplay .meta-comments a,.vlog-featured-2 .vlog-format-inplay .entry-category a,.vlog-featured-2 .vlog-format-inplay .action-item:hover,.vlog-featured-2 .vlog-format-inplay .meta-icon,.vlog-featured-2 .vlog-format-inplay .meta-item,.vlog-featured-2 .vlog-format-inplay .meta-comments a{color: rgba(17,17,17,0.7);}.site-title{text-transform: uppercase;}.site-description{text-transform: uppercase;}.vlog-site-header{text-transform: uppercase;}.vlog-top-bar{text-transform: uppercase;}.entry-title{text-transform: none;}.entry-category a{text-transform: uppercase;}.vlog-mod-title, comment-author .fn{text-transform: none;}.widget-title{text-transform: uppercase;}
 </style>
-<link rel="stylesheet" id="vlog-bbpress-css" href="http://ansonalex.com/wp-content/themes/vlog/assets/css/vlog-bbpress.css?ver=1.7" type="text/css" media="all">
+<link rel="stylesheet" id="vlog-bbpress-css" href="http://ansonalex.com/wp-content/themes/vlog/assets/css/vlog-bbpress.css?ver=1.9" type="text/css" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="http://ansonalex.com/wp-content/themes/vlog-child02/style.css?ver=1.5.1491833418" type="text/css" media="all">
-<link rel="stylesheet" id="vlog-fonts-css" href="http://fonts.googleapis.com/css?family=Lato%3A400%7CMontserrat%3A400%2C700&amp;subset=latin%2Clatin-ext&amp;ver=1.7" type="text/css" media="all">
+<link rel="stylesheet" id="vlog-fonts-css" href="http://fonts.googleapis.com/css?family=Lato%3A400%7CMontserrat%3A400%2C700&amp;subset=latin%2Clatin-ext&amp;ver=1.9" type="text/css" media="all">
 <link rel="stylesheet" id="meks-author-widget-css" href="http://ansonalex.com/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="meks-social-widget-css" href="http://ansonalex.com/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.3.3" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://ansonalex.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.4" type="text/css" media="all">
+<link rel="stylesheet" id="meks-social-widget-css" href="http://ansonalex.com/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.3.4" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://ansonalex.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.9" type="text/css" media="all">
 <script type="text/javascript" src="http://ansonalex.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://ansonalex.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript">
@@ -99,11 +146,12 @@ body,#cancel-comment-reply-link,.vlog-wl-action .vlog-button {color: #111111;fon
 var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/ansonalex.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.4"></script>
+<script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.4"></script>
 <link rel="https://api.w.org/" href="http://ansonalex.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ansonalex.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ansonalex.com/wp-includes/wlwmanifest.xml">
-<link rel="shortlink" href="http://wp.me/P1K8iH-i0">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ansonalex.com/wp-includes/wlwmanifest.xml"> 
+
+<link rel="shortlink" href="https://wp.me/P1K8iH-i0">
 <link rel="alternate" type="application/json+oembed" href="http://ansonalex.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fansonalex.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://ansonalex.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fansonalex.com%2Fprivacy-policy%2F&amp;format=xml">
 <script type="text/javascript">
@@ -137,7 +185,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 	for (var i = 0; i < evts.length; i++) {
 		addEvent(evts[i], logHuman);
 	}
-})('//ansonalex.com/?wordfence_lh=1&hid=14177A83DB161FC6A030C09F84280276');
+})('//ansonalex.com/?wordfence_lh=1&hid=050F97A4C00CE91898EB960EBE327C46');
 </script>
 <link rel="dns-prefetch" href="//v0.wordpress.com">
 <link rel="dns-prefetch" href="//i0.wp.com">
@@ -148,8 +196,8 @@ var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"fal
 <link rel="dns-prefetch" href="//0.gravatar.com">
 <link rel="dns-prefetch" href="//1.gravatar.com">
 <link rel="dns-prefetch" href="//2.gravatar.com">
-<style type="text/css">img#wpstats{display:none}</style><script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1513745916"></script>
-
+<style type="text/css">img#wpstats{display:none}</style><script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1524472001"></script>
+<!-- begin SI CAPTCHA Anti-Spam - login/register form style -->
 <style type="text/css">
 .si_captcha_small { width:175px; height:45px; padding-top:10px; padding-bottom:10px; }
 .si_captcha_large { width:250px; height:60px; padding-top:10px; padding-bottom:10px; }
@@ -167,7 +215,7 @@ input#si_captcha_code_input { width:65px; }
 p#si_captcha_code_p { clear: left; padding-top:10px; }
 .si-captcha-jetpack-error { color:#DC3232; }
 </style>
-
+<!-- end SI CAPTCHA Anti-Spam - login/register form style -->
 <style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
 }</style><link rel="icon" href="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/03/cropped-AnsonAlex_Favicon.png?fit=32%2C32" sizes="32x32">
@@ -175,145 +223,192 @@ p#si_captcha_code_p { clear: left; padding-top:10px; }
 <link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/03/cropped-AnsonAlex_Favicon.png?fit=180%2C180">
 <meta name="msapplication-TileImage" content="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/03/cropped-AnsonAlex_Favicon.png?fit=270%2C270">
 </head>
+
 <body class="page-template-default page page-id-1116 unknown">
-<div class="vlog-top-bar">
-<div class="container">
-<div class="row">
-<div class="col-lg-12 col-md-12">
-<div class="vlog-slot-c">
-<nav class="secondary-navigation">
-<ul id="menu-pages" class="menu"><li id="menu-item-14683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14683"><a href="http://ansonalex.com/about/">About</a></li>
+
+	
+			<div class="vlog-top-bar">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12">
+
+				
+									<div class="vlog-slot-c">
+						<nav class="secondary-navigation">	
+		<ul id="menu-pages" class="menu"><li id="menu-item-14683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14683"><a href="http://ansonalex.com/about/">About</a></li>
 <li id="menu-item-14682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14682"><a href="http://ansonalex.com/services/">Services</a></li>
 <li id="menu-item-14684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14684"><a href="http://ansonalex.com/advertise/">Advertise</a></li>
 <li id="menu-item-16707" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16707"><a href="http://ansonalex.com/category/press-releases/">Press Releases</a></li>
 <li id="menu-item-15791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15791"><a href="http://ansonalex.com/contact/">Contact</a></li>
 <li id="menu-item-14685" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1116 current_page_item menu-item-14685"><a href="http://ansonalex.com/privacy-policy/">Privacy Policy</a></li>
 </ul></nav>
-</div>
-<div class="vlog-slot-r">
-
-<ul id="menu-vlog-social" class="vlog-soc-menu vlog-actions-social-list"><li id="menu-item-13968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13968"><a href="https://www.facebook.com/ansonalex"><span class="vlog-social-name">Facebook</span></a></li>
+ 
+					</div>
+				
+									<div class="vlog-slot-r">
+						
+		<ul id="menu-vlog-social" class="vlog-soc-menu vlog-actions-social-list"><li id="menu-item-13968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13968"><a href="https://www.facebook.com/ansonalex"><span class="vlog-social-name">Facebook</span></a></li>
 <li id="menu-item-13969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13969"><a href="https://twitter.com/ansonalex"><span class="vlog-social-name">Twitter</span></a></li>
 <li id="menu-item-13982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13982"><a href="https://www.youtube.com/user/AnsonA4"><span class="vlog-social-name">YouTube</span></a></li>
 <li id="menu-item-13970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13970"><a href="https://plus.google.com/+AnsonAlexander"><span class="vlog-social-name">Google+</span></a></li>
 </ul>
-
-</div>
-</div>
-</div>
-</div>
-</div>
-<header id="header" class="vlog-site-header vlog-header-shadow hidden-xs hidden-sm">
-<div class="vlog-header-3">
-<div class="vlog-header-wrapper">
-<div class="container vlog-header-middle">
-<div class="vlog-slot-c">
-
+ 
+					</div>
+								
+			</div>
+		</div>
+	</div>
+</div>	
+		
+	<header id="header" class="vlog-site-header vlog-header-shadow hidden-xs hidden-sm">
+		
+		<div class="vlog-header-3">
+	<div class="vlog-header-wrapper">
+		<div class="container vlog-header-middle">
+			<div class="vlog-slot-c">
+				
 <div class="vlog-site-branding vlog-logo-only">
- <span class="site-title h1"><a href="http://ansonalex.com/" rel="home"><img class="vlog-logo" src="http://ansonalex.com/wp-content/uploads/2017/04/AnsonAlex_Header-345x60.png" alt="AnsonAlex.com"></a></span>
-</div>
-</div>
-</div>
-</div>
-<div class="vlog-header-bottom">
-<div class="container">
-<div class="vlog-slot-l">
-<nav class="vlog-main-navigation">
 
-<ul id="menu-ansonalex-header" class="vlog-main-nav vlog-menu"><li id="menu-item-14686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14686"><a href="http://ansonalex.com/">Home</a></li><li id="menu-item-14190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14190"><a href="http://ansonalex.com/category/tutorials/">Tutorials</a>
+			<span class="site-title h1"><a href="http://ansonalex.com/" rel="home"><img class="vlog-logo" src="http://ansonalex.com/wp-content/uploads/2017/04/AnsonAlex_Header-345x60.png" alt="AnsonAlex.com"></a></span>
+	
+	</div>
+
+			</div>
+		</div>
+	</div>
+
+	<div class="vlog-header-bottom">
+		<div class="container">
+			<div class="vlog-slot-l">
+				<nav class="vlog-main-navigation">	
+				<ul id="menu-ansonalex-header" class="vlog-main-nav vlog-menu"><li id="menu-item-14686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14686"><a href="http://ansonalex.com/">Home</a></li><li id="menu-item-14190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14190"><a href="http://ansonalex.com/category/tutorials/">Tutorials</a>
 <ul class="sub-menu">
-<li id="menu-item-14194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14194"><a href="http://ansonalex.com/category/tutorials/productivity-software/">Productivity Software</a> </li><li id="menu-item-14389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14389"><a href="http://ansonalex.com/category/tutorials/utility-software/">Utility Software</a> </li><li id="menu-item-14390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14390"><a href="http://ansonalex.com/category/tutorials/mac-os-x/">Mac OS X</a> </li><li id="menu-item-14676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14676"><a href="http://ansonalex.com/category/tutorials/windows/">Windows</a> </li><li id="menu-item-14225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14225"><a href="http://ansonalex.com/category/tutorials/ios/">iOS</a> </li><li id="menu-item-14193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14193"><a href="http://ansonalex.com/category/tutorials/mobile-apps/">Mobile Apps</a> </li><li id="menu-item-14391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14391"><a href="http://ansonalex.com/category/tutorials/social-media/">Social Media</a> </li><li id="menu-item-15849" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15849"><a href="http://ansonalex.com/category/tutorials/multimedia/">Multimedia</a> </li><li id="menu-item-14192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14192"><a href="http://ansonalex.com/category/tutorials/hardware/">Hardware</a> </li><li id="menu-item-15850" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15850"><a href="http://ansonalex.com/category/tutorials/seo/">SEO</a> </li><li id="menu-item-15814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15814"><a href="http://ansonalex.com/category/tutorials/">All Tutorials</a></li></ul>
+	<li id="menu-item-14194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14194"><a href="http://ansonalex.com/category/tutorials/productivity-software/">Productivity Software</a>	</li><li id="menu-item-14389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14389"><a href="http://ansonalex.com/category/tutorials/utility-software/">Utility Software</a>	</li><li id="menu-item-14390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14390"><a href="http://ansonalex.com/category/tutorials/mac-os-x/">Mac OS X</a>	</li><li id="menu-item-14676" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14676"><a href="http://ansonalex.com/category/tutorials/windows/">Windows</a>	</li><li id="menu-item-14225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14225"><a href="http://ansonalex.com/category/tutorials/ios/">iOS</a>	</li><li id="menu-item-14193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14193"><a href="http://ansonalex.com/category/tutorials/mobile-apps/">Mobile Apps</a>	</li><li id="menu-item-14391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14391"><a href="http://ansonalex.com/category/tutorials/social-media/">Social Media</a>	</li><li id="menu-item-15849" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15849"><a href="http://ansonalex.com/category/tutorials/multimedia/">Multimedia</a>	</li><li id="menu-item-14192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14192"><a href="http://ansonalex.com/category/tutorials/hardware/">Hardware</a>	</li><li id="menu-item-15850" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15850"><a href="http://ansonalex.com/category/tutorials/seo/">SEO</a>	</li><li id="menu-item-15814" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15814"><a href="http://ansonalex.com/category/tutorials/">All Tutorials</a></li></ul>
 </li><li id="menu-item-15846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15846"><a href="http://ansonalex.com/playlists/">Topics</a>
 <ul class="sub-menu">
-<li id="menu-item-16839" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16839"><a href="http://ansonalex.com/series/osx-tutorials/">Mac OS X</a> </li><li id="menu-item-16845" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16845"><a href="http://ansonalex.com/series/google-calendar-tutorials/">Google Calendar</a> </li><li id="menu-item-16841" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16841"><a href="http://ansonalex.com/series/google-drive-tutorials/">Google Drive</a> </li><li id="menu-item-16840" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16840"><a href="http://ansonalex.com/series/gmail-tutorials/">Gmail</a> </li><li id="menu-item-16842" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16842"><a href="http://ansonalex.com/series/facebook-tutorials/">Facebook</a> </li><li id="menu-item-16844" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16844"><a href="http://ansonalex.com/series/google-tutorials/">Google+</a> </li><li id="menu-item-16848" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16848"><a href="http://ansonalex.com/series/linkedin-tutorials/">LinkedIn</a> </li><li id="menu-item-16846" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16846"><a href="http://ansonalex.com/series/twitter-tutorials/">Twitter</a> </li><li id="menu-item-16847" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16847"><a href="http://ansonalex.com/series/seo-tutorials/">SEO</a> </li><li id="menu-item-16849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16849"><a href="http://ansonalex.com/playlists/">View All Topics</a></li></ul>
-</li><li id="menu-item-14677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14677"><a href="http://ansonalex.com/category/tech-news/">Tech News</a></li><li id="menu-item-14678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14678"><a href="http://ansonalex.com/category/reviews/">Reviews</a></li><li id="menu-item-14245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14245"><a href="http://ansonalex.com/forums/">Forums</a></li></ul> </nav> </div>
-<div class="vlog-slot-r">
- <div class="vlog-actions-menu">
-<ul class="vlog-menu">
-<li class="vlog-actions-button vlog-action-search">
-<span>
-<i class="fv fv-search"></i>
-</span>
-<ul class="sub-menu">
-<form class="vlog-search-form" action="http://ansonalex.com/" method="get"><input name="s" type="text" value="" placeholder="Type here to search..."><button type="submit" class="vlog-button-search"><i class="fv fv-search"></i></button>
-</form> </ul>
-</li> <li class="vlog-actions-button vlog-watch-later">
-<span>
-<i class="fv fv-watch-later"></i>
-<span class="vlog-watch-later-count pulse" style="display:none;">0</span>
-</span>
-<ul class="sub-menu">
-<li class="vlog-menu-posts">
-</li>
-<li class="vlog-wl-empty" style="">
-<p class="text-center"><i class="fv fv-watch-later"></i> No videos yet!</p>
-<p class="text-center vlog-small-border">Click on "Watch later" to put videos here</p>
-</li>
-</ul>
-</li> </ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</header>
-<div id="vlog-responsive-header" class="vlog-responsive-header hidden-lg hidden-md">
-<div class="container">
+	<li id="menu-item-16839" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16839"><a href="http://ansonalex.com/series/osx-tutorials/">Mac OS X</a>	</li><li id="menu-item-16845" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16845"><a href="http://ansonalex.com/series/google-calendar-tutorials/">Google Calendar</a>	</li><li id="menu-item-16841" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16841"><a href="http://ansonalex.com/series/google-drive-tutorials/">Google Drive</a>	</li><li id="menu-item-16840" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16840"><a href="http://ansonalex.com/series/gmail-tutorials/">Gmail</a>	</li><li id="menu-item-16842" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16842"><a href="http://ansonalex.com/series/facebook-tutorials/">Facebook</a>	</li><li id="menu-item-16844" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16844"><a href="http://ansonalex.com/series/google-tutorials/">Google+</a>	</li><li id="menu-item-16848" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16848"><a href="http://ansonalex.com/series/linkedin-tutorials/">LinkedIn</a>	</li><li id="menu-item-16846" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16846"><a href="http://ansonalex.com/series/twitter-tutorials/">Twitter</a>	</li><li id="menu-item-16847" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16847"><a href="http://ansonalex.com/series/seo-tutorials/">SEO</a>	</li><li id="menu-item-16849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16849"><a href="http://ansonalex.com/playlists/">View All Topics</a></li></ul>
+</li><li id="menu-item-14677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14677"><a href="http://ansonalex.com/category/tech-news/">Tech News</a></li><li id="menu-item-14678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14678"><a href="http://ansonalex.com/category/reviews/">Reviews</a></li><li id="menu-item-14245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14245"><a href="http://ansonalex.com/forums/">Forums</a></li></ul>	</nav>			</div>
+			<div class="vlog-slot-r">
+					<div class="vlog-actions-menu">
+	<ul class="vlog-menu">
+					<li class="vlog-actions-button vlog-action-search">
+	<span>
+		<i class="fv fv-search"></i>
+	</span>
+	<ul class="sub-menu">
+		<form class="vlog-search-form" action="http://ansonalex.com/" method="get"><input name="s" type="text" value="" placeholder="Type here to search..."><button type="submit" class="vlog-button-search"><i class="fv fv-search"></i></button>
+</form>	</ul>
+</li>					<li class="vlog-actions-button vlog-watch-later">
+	
+			
+		<span>
+			<i class="fv fv-watch-later"></i>
+						<span class="vlog-watch-later-count pulse" style="display:none;">0</span>
+		</span>
 
+		<ul class="sub-menu">
+
+			<li class="vlog-menu-posts">
+							</li>
+
+			<li class="vlog-wl-empty" style="">
+				<p class="text-center"><i class="fv fv-watch-later"></i> No videos yet!</p>
+				<p class="text-center vlog-small-border">Click on "Watch later" to put videos here</p>
+			</li>
+
+		</ul>
+
+		
+		</li>			</ul>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</header>
+
+	
+	<div id="vlog-responsive-header" class="vlog-responsive-header hidden-lg hidden-md">
+	<div class="container">
+				
 <div class="vlog-site-branding vlog-logo-only">
- <span class="site-title h1"><a href="http://ansonalex.com/" rel="home"><img class="vlog-logo" src="http://ansonalex.com/wp-content/uploads/2017/04/AnsonAlex_Header-345x60.png" alt="AnsonAlex.com"></a></span>
-</div>
 
-<ul>
-<li class="vlog-actions-button vlog-action-search">
-<span>
-<i class="fv fv-search"></i>
-</span>
+			<span class="site-title h1"><a href="http://ansonalex.com/" rel="home"><img class="vlog-logo" src="http://ansonalex.com/wp-content/uploads/2017/04/AnsonAlex_Header-345x60.png" alt="AnsonAlex.com"></a></span>
+	
+	</div>
+
+		
+		<ul>
+																	<li class="vlog-actions-button vlog-action-search">
+	<span>
+		<i class="fv fv-search"></i>
+	</span>
+	<ul class="sub-menu">
+		<form class="vlog-search-form" action="http://ansonalex.com/" method="get"><input name="s" type="text" value="" placeholder="Type here to search..."><button type="submit" class="vlog-button-search"><i class="fv fv-search"></i></button>
+</form>	</ul>
+</li>											<li class="vlog-actions-button vlog-watch-later">
+	
+			
+		<span>
+			<i class="fv fv-watch-later"></i>
+						<span class="vlog-watch-later-count pulse" style="display:none;">0</span>
+		</span>
+
+		<ul class="sub-menu">
+
+			<li class="vlog-menu-posts">
+							</li>
+
+			<li class="vlog-wl-empty" style="">
+				<p class="text-center"><i class="fv fv-watch-later"></i> No videos yet!</p>
+				<p class="text-center vlog-small-border">Click on "Watch later" to put videos here</p>
+			</li>
+
+		</ul>
+
+		
+		</li>										</ul>
+	</div>
+
+	<div id="dl-menu" class="dl-menuwrapper">
+		<button class="dl-trigger"><i class="fa fa-bars"></i></button>	
+
+						<ul id="menu-ansonalex-header-1" class="vlog-mob-nav dl-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14686"><a href="http://ansonalex.com/">Home</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14190"><a href="http://ansonalex.com/category/tutorials/">Tutorials</a>
 <ul class="sub-menu">
-<form class="vlog-search-form" action="http://ansonalex.com/" method="get"><input name="s" type="text" value="" placeholder="Type here to search..."><button type="submit" class="vlog-button-search"><i class="fv fv-search"></i></button>
-</form> </ul>
-</li> <li class="vlog-actions-button vlog-watch-later">
-<span>
-<i class="fv fv-watch-later"></i>
-<span class="vlog-watch-later-count pulse" style="display:none;">0</span>
-</span>
-<ul class="sub-menu">
-<li class="vlog-menu-posts">
-</li>
-<li class="vlog-wl-empty" style="">
-<p class="text-center"><i class="fv fv-watch-later"></i> No videos yet!</p>
-<p class="text-center vlog-small-border">Click on "Watch later" to put videos here</p>
-</li>
-</ul>
-</li> </ul>
-</div>
-<div id="dl-menu" class="dl-menuwrapper">
-<button class="dl-trigger"><i class="fa fa-bars"></i></button>
-<ul id="menu-ansonalex-header-1" class="vlog-mob-nav dl-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14686"><a href="http://ansonalex.com/">Home</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14190"><a href="http://ansonalex.com/category/tutorials/">Tutorials</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14194"><a href="http://ansonalex.com/category/tutorials/productivity-software/">Productivity Software</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14389"><a href="http://ansonalex.com/category/tutorials/utility-software/">Utility Software</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14390"><a href="http://ansonalex.com/category/tutorials/mac-os-x/">Mac OS X</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14676"><a href="http://ansonalex.com/category/tutorials/windows/">Windows</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14225"><a href="http://ansonalex.com/category/tutorials/ios/">iOS</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14193"><a href="http://ansonalex.com/category/tutorials/mobile-apps/">Mobile Apps</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14391"><a href="http://ansonalex.com/category/tutorials/social-media/">Social Media</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15849"><a href="http://ansonalex.com/category/tutorials/multimedia/">Multimedia</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14192"><a href="http://ansonalex.com/category/tutorials/hardware/">Hardware</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15850"><a href="http://ansonalex.com/category/tutorials/seo/">SEO</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15814"><a href="http://ansonalex.com/category/tutorials/">All Tutorials</a></li></ul>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14194"><a href="http://ansonalex.com/category/tutorials/productivity-software/">Productivity Software</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14389"><a href="http://ansonalex.com/category/tutorials/utility-software/">Utility Software</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14390"><a href="http://ansonalex.com/category/tutorials/mac-os-x/">Mac OS X</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14676"><a href="http://ansonalex.com/category/tutorials/windows/">Windows</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14225"><a href="http://ansonalex.com/category/tutorials/ios/">iOS</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14193"><a href="http://ansonalex.com/category/tutorials/mobile-apps/">Mobile Apps</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14391"><a href="http://ansonalex.com/category/tutorials/social-media/">Social Media</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15849"><a href="http://ansonalex.com/category/tutorials/multimedia/">Multimedia</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14192"><a href="http://ansonalex.com/category/tutorials/hardware/">Hardware</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15850"><a href="http://ansonalex.com/category/tutorials/seo/">SEO</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15814"><a href="http://ansonalex.com/category/tutorials/">All Tutorials</a></li></ul>
 </li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15846"><a href="http://ansonalex.com/playlists/">Topics</a>
 <ul class="sub-menu">
-<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16839"><a href="http://ansonalex.com/series/osx-tutorials/">Mac OS X</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16845"><a href="http://ansonalex.com/series/google-calendar-tutorials/">Google Calendar</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16841"><a href="http://ansonalex.com/series/google-drive-tutorials/">Google Drive</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16840"><a href="http://ansonalex.com/series/gmail-tutorials/">Gmail</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16842"><a href="http://ansonalex.com/series/facebook-tutorials/">Facebook</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16844"><a href="http://ansonalex.com/series/google-tutorials/">Google+</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16848"><a href="http://ansonalex.com/series/linkedin-tutorials/">LinkedIn</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16846"><a href="http://ansonalex.com/series/twitter-tutorials/">Twitter</a> </li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16847"><a href="http://ansonalex.com/series/seo-tutorials/">SEO</a> </li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16849"><a href="http://ansonalex.com/playlists/">View All Topics</a></li></ul>
-</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14677"><a href="http://ansonalex.com/category/tech-news/">Tech News</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14678"><a href="http://ansonalex.com/category/reviews/">Reviews</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14245"><a href="http://ansonalex.com/forums/">Forums</a></li></ul>
-</div>
-</div>
-<div id="content" class="vlog-site-content">
-<div class="vlog-ad"><div><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16839"><a href="http://ansonalex.com/series/osx-tutorials/">Mac OS X</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16845"><a href="http://ansonalex.com/series/google-calendar-tutorials/">Google Calendar</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16841"><a href="http://ansonalex.com/series/google-drive-tutorials/">Google Drive</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16840"><a href="http://ansonalex.com/series/gmail-tutorials/">Gmail</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16842"><a href="http://ansonalex.com/series/facebook-tutorials/">Facebook</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16844"><a href="http://ansonalex.com/series/google-tutorials/">Google+</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16848"><a href="http://ansonalex.com/series/linkedin-tutorials/">LinkedIn</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16846"><a href="http://ansonalex.com/series/twitter-tutorials/">Twitter</a>	</li><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-16847"><a href="http://ansonalex.com/series/seo-tutorials/">SEO</a>	</li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16849"><a href="http://ansonalex.com/playlists/">View All Topics</a></li></ul>
+</li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14677"><a href="http://ansonalex.com/category/tech-news/">Tech News</a></li><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14678"><a href="http://ansonalex.com/category/reviews/">Reviews</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14245"><a href="http://ansonalex.com/forums/">Forums</a></li></ul>				
+	</div>
 
+</div>
+
+	<div id="content" class="vlog-site-content">
+	<div class="vlog-ad"><div><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AnsonAlex Header -->
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5189398384318508" data-ad-slot="9584827254" data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></div></div>
+
+
 <div class="vlog-section ">
-<div class="container">
-<div class="vlog-content">
 
+	<div class="container">
 
-<article id="post-1116" class="post-1116 page type-page status-publish hentry">
-<h1 class="entry-title vlog-page-title">Privacy Policy</h1>
-<div class="entry-content entry-content-single">
-<p><strong>Privacy Policy</strong></p>
+			
+			<div class="vlog-content">
+
+								
+				
+					<article id="post-1116" class="post-1116 page type-page status-publish hentry">		
+						
+						
+
+						<h1 class="entry-title vlog-page-title">Privacy Policy</h1>
+						<div class="entry-content entry-content-single">
+							<p><strong>Privacy Policy</strong></p>
 <p>We take your privacy seriously. This policy describes what personal information we collect and how we use it. This privacy policy is applicable to websites falling under the primary holder, AnsonAlex.com.</p>
 <p><strong>Routine Information Collection</strong></p>
 <p>All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.</p>
@@ -331,186 +426,279 @@ Google may use the data collected to customize, contextualize and personalize th
 <p>About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>
 <p><strong>Contact Information</strong></p>
 <p>Concerns or questions about this privacy policy can be directed to <a href="mailto:webmaster@ansonalex.com">webmaster@ansonalex.com</a> for further clarification.</p>
-</div>
-</article>
-</div>
-<div class="vlog-sidebar vlog-sidebar-right">
-<div id="text-5" class="widget widget_text"> <div class="textwidget"><script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script src="https://apis.google.com/js/platform.js"></script>
+						</div>
+
+						
+					</article>
+
+					
+				
+			</div>
+
+								
+
+	<div class="vlog-sidebar vlog-sidebar-right">
+
+						<div id="text-5" class="widget widget_text">			<div class="textwidget"><script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script src="https://apis.google.com/js/platform.js"></script>
+
 <div class="g-ytsubscribe" data-channel="ansona4" data-layout="full" data-count="default"></div>
 
+<!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
 
+<!-- Place this tag where you want the widget to render. -->
 <div class="g-person" data-width="220" data-href="//plus.google.com/u/0/113551191017950459231" data-rel="author"></div></div>
-</div><div id="vlog_adsense_widget-2" class="widget vlog_adsense_widget vlog-widget-expand"> <div class="vlog-adsense-wrapper">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+		</div><div id="vlog_adsense_widget-2" class="widget vlog_adsense_widget vlog-widget-expand">		<div class="vlog-adsense-wrapper">
+			<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- AnsonAlex Right Sidebar -->
 <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5189398384318508" data-ad-slot="4875426059" data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script> </div>
-</div>
+</script>		</div>
+	
+		</div>		
+		
+	</div>
+
+			
+	</div>
 
 </div>
-</div>
-</div>
 
 
+
 </div>
-<footer id="footer" class="vlog-site-footer">
-<div class="container">
-<div class="row">
-<div class="col-lg-4 col-md-4">
- <div id="text-1" class="widget widget_text"> <div class="textwidget"><p>AnsonAlex.com is a technology education website that specializes in providing text and video training tutorials on various software and hardware solutions.</p>
-<p>Anson Alexander is the primary author. He has been publishing technology education content since 2011. Anson has also authored more than a dozen courses for Lynda.com on various topics.</p>
+    <footer id="footer" class="vlog-site-footer">
+
+    	
+	        <div class="container">
+	            <div class="row">
+	                
+											<div class="col-lg-4 col-md-4">
+															<div id="text-1" class="widget widget_text">			<div class="textwidget"><p>AnsonAlex.com is a technology education website that specializes in providing text and video training tutorials on various software and hardware solutions.</p>
+
+<p>Anson Alexander is the primary author.  He has been publishing technology education content since 2011.  Anson has also authored more than a dozen courses for Lynda.com on various topics.</p>
+
 <p>The goal of AnsonAlex.com is to help educate and improve the skills of anyone interested in technology.</p></div>
-</div> </div>
-<div class="col-lg-4 col-md-4">
- <div id="vlog_posts_widget-5" class="widget vlog_posts_widget"><h4 class="widget-title h5"><span>Most Viewed</span></h4>
-<div class="row ">
+		</div>													</div>
+											<div class="col-lg-4 col-md-4">
+															<div id="vlog_posts_widget-5" class="widget vlog_posts_widget"><h4 class="widget-title h5"><span>Most Viewed</span></h4>
+				
+		<div class="row ">
 
-<div>
-<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-16934 post type-post status-publish format-video has-post-thumbnail hentry category-games category-reviews tag-mac-os-x tag-nvidia post_format-post-format-video">
-<div class="row">
-<div class="col-lg-5 col-xs-6">
- <div class="entry-image">
-<a href="http://ansonalex.com/reviews/nvidias-geforce-now-mac-beta-review/" title="Nvidia’s GeForce NOW for Mac Beta Review">
-<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/nvidias-geforce-now-for-mac-beta.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px"> </a>
-</div>
-</div>
-<div class="col-lg-7 col-xs-6 no-left-padding">
-<div class="entry-header">
-<h2 class="entry-title h7"><a href="http://ansonalex.com/reviews/nvidias-geforce-now-mac-beta-review/">Nvidia’s GeForce NOW for Mac Beta Review</a></h2>
-</div>
-</div>
-</div>
-</article>
+							
+								
+				<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-17010 post type-post status-publish format-video has-post-thumbnail hentry category-cryptocurrency-tutorials category-tutorials tag-bitcoin tag-ethereum tag-tradingview post_format-post-format-video">
+    <div class="row">
 
-<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-16927 post type-post status-publish format-video has-post-thumbnail hentry category-tutorials category-utility-software tag-google-chrome post_format-post-format-video series-google-chrome">
-<div class="row">
-<div class="col-lg-5 col-xs-6">
- <div class="entry-image">
-<a href="http://ansonalex.com/tutorials/view-manage-saved-passwords-google-chrome/" title="How to View and Manage Saved Passwords in Google Chrome">
-<img width="125" height="83" src="https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="View saved passwords in Google Chrome" srcset="https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?resize=76%2C50 76w, https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?resize=123%2C82 123w, https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?resize=83%2C55 83w, https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?resize=125%2C83 125w, https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?zoom=2&amp;resize=125%2C83 250w, https://i2.wp.com/ansonalex.com/wp-content/uploads/chrome-view-saved-passwords.png?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px"> </a>
-</div>
-</div>
-<div class="col-lg-7 col-xs-6 no-left-padding">
-<div class="entry-header">
-<h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/view-manage-saved-passwords-google-chrome/">How to View and Manage Saved Passwords in Google Chrome</a></h2>
-</div>
-</div>
-</div>
-</article>
+        <div class="col-lg-5 col-xs-6">
+                            <div class="entry-image">
+                <a href="http://ansonalex.com/tutorials/tradingview-charts-tutorial-2018/" title="TradingView Charts Tutorial 2018">
+                   	<img width="125" height="83" src="https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="Trading View Charts Tutorial 2018" srcset="https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?resize=76%2C50 76w, https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?resize=123%2C82 123w, https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?resize=83%2C55 83w, https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?resize=125%2C83 125w, https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?zoom=2&amp;resize=125%2C83 250w, https://i1.wp.com/ansonalex.com/wp-content/uploads/trading-view-charts-tutorial.png?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px">                </a>
+                </div>
+                    </div>
 
-<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-10042 post type-post status-publish format-video has-post-thumbnail hentry category-social-media category-tutorials tag-facebook post_format-post-format-video series-facebook-tutorials">
-<div class="row">
-<div class="col-lg-5 col-xs-6">
- <div class="entry-image">
-<a href="http://ansonalex.com/tutorials/how-to-hide-personal-information-on-facebook-timeline-profiles-video/" title="How to Hide Personal Information on Facebook Profiles [Video]">
-<img width="125" height="83" src="https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="hide personal info facebook" srcset="https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?resize=76%2C50 76w, https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?resize=123%2C82 123w, https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?resize=83%2C55 83w, https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?resize=125%2C83 125w, https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?zoom=2&amp;resize=125%2C83 250w, https://i1.wp.com/ansonalex.com/wp-content/uploads/hide-personal-info-facebook.png?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px"> </a>
-</div>
-</div>
-<div class="col-lg-7 col-xs-6 no-left-padding">
-<div class="entry-header">
-<h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/how-to-hide-personal-information-on-facebook-timeline-profiles-video/">How to Hide Personal Information on Facebook Profiles [Video]</a></h2>
-</div>
-</div>
-</div>
-</article>
-</div>
-</div>
+        <div class="col-lg-7 col-xs-6 no-left-padding">
+            
+            <div class="entry-header">
 
-</div> </div>
-<div class="col-lg-4 col-md-4">
- <div id="vlog_posts_widget-6" class="widget vlog_posts_widget"><h4 class="widget-title h5"><span>Most Discussed</span></h4>
-<div class="row ">
+                
+                <h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/tradingview-charts-tutorial-2018/">TradingView Charts Tutorial 2018</a></h2>
+            </div>
 
-<div>
-<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-195 post type-post status-publish format-video has-post-thumbnail hentry category-productivity-software category-tutorials tag-google-calendar post_format-post-format-video series-google-calendar-tutorials">
-<div class="row">
-<div class="col-lg-5 col-xs-6">
- <div class="entry-image">
-<a href="http://ansonalex.com/tutorials/bill-pay-reminder-video/" title="Bill Pay Reminder with Google Calendar [Video Tutorial]">
-<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px"> </a>
-</div>
-</div>
-<div class="col-lg-7 col-xs-6 no-left-padding">
-<div class="entry-header">
-<h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/bill-pay-reminder-video/">Bill Pay Reminder with Google Calendar [Video Tutorial]</a></h2>
-</div>
+            
 
-</div>
-</div>
-</article>
+        </div>
+    </div>
+</article>				
+				
+							
+								
+				<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-16673 post type-post status-publish format-video has-post-thumbnail hentry category-productivity-software category-tutorials tag-google-calendar post_format-post-format-video series-google-calendar-tutorials">
+    <div class="row">
 
-<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-8468 post type-post status-publish format-video has-post-thumbnail hentry category-seo category-tutorials tag-semrush post_format-post-format-video">
-<div class="row">
-<div class="col-lg-5 col-xs-6">
- <div class="entry-image">
-<a href="http://ansonalex.com/tutorials/semrush-overview-tutorial-video/" title="SEMRush Overview Tutorial [Video]">
-<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px"> </a>
-</div>
-</div>
-<div class="col-lg-7 col-xs-6 no-left-padding">
-<div class="entry-header">
-<h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/semrush-overview-tutorial-video/">SEMRush Overview Tutorial [Video]</a></h2>
-</div>
+        <div class="col-lg-5 col-xs-6">
+                            <div class="entry-image">
+                <a href="http://ansonalex.com/tutorials/google-calendar-tutorial-2016-quick-start/" title="Google Calendar Tutorial 2018 – Quick Start">
+                   	<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="Google Calendar Tutorial 2018" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/google-calendar-2018.png?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px">                </a>
+                </div>
+                    </div>
 
-</div>
-</div>
-</article>
+        <div class="col-lg-7 col-xs-6 no-left-padding">
+            
+            <div class="entry-header">
 
-<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-10626 post type-post status-publish format-video has-post-thumbnail hentry category-ios category-tutorials tag-ios post_format-post-format-video series-ios-7-tutorials">
-<div class="row">
-<div class="col-lg-5 col-xs-6">
- <div class="entry-image">
-<a href="http://ansonalex.com/tutorials/siri-tips-for-using-siri-on-the-iphone-5-and-ios-6-video/" title="Siri – Tips for Using Siri on the iPhone 5 and iOS 6 [Video]">
-<img width="125" height="83" src="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=76%2C50 76w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=123%2C82 123w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=83%2C55 83w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=125%2C83 125w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?zoom=2&amp;resize=125%2C83 250w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px"> </a>
-</div>
-</div>
-<div class="col-lg-7 col-xs-6 no-left-padding">
-<div class="entry-header">
-<h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/siri-tips-for-using-siri-on-the-iphone-5-and-ios-6-video/">Siri – Tips for Using Siri on the iPhone 5 and iOS 6 [Video]</a></h2>
-</div>
+                
+                <h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/google-calendar-tutorial-2016-quick-start/">Google Calendar Tutorial 2018 – Quick Start</a></h2>
+            </div>
 
-</div>
-</div>
-</article>
-</div>
-</div>
+            
 
-</div> </div>
-</div>
-</div>
+        </div>
+    </div>
+</article>				
+				
+							
+								
+				<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-13947 post type-post status-publish format-video has-post-thumbnail hentry category-productivity-software category-tutorials tag-gmail post_format-post-format-video series-gmail-tutorials">
+    <div class="row">
 
-<div class="vlog-copyright">
-<div class="container">
-<p style="text-align: center">Copyright © 2017 AnsonAlex.com</p> </div>
-</div>
-</footer>
- <div style="display:none">
-</div>
-<script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
+        <div class="col-lg-5 col-xs-6">
+                            <div class="entry-image">
+                <a href="http://ansonalex.com/tutorials/gmail-tutorial-beginners-2016/" title="Gmail Tutorial For Beginners 2018 [Video]">
+                   	<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="Gmail Tutorial 2018" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/gmail-tutorial-2018.png?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px">                </a>
+                </div>
+                    </div>
+
+        <div class="col-lg-7 col-xs-6 no-left-padding">
+            
+            <div class="entry-header">
+
+                
+                <h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/gmail-tutorial-beginners-2016/">Gmail Tutorial For Beginners 2018 [Video]</a></h2>
+            </div>
+
+            
+
+        </div>
+    </div>
+</article>				
+				
+			
+		</div>
+
+		
+		
+		</div>													</div>
+											<div class="col-lg-4 col-md-4">
+															<div id="vlog_posts_widget-6" class="widget vlog_posts_widget"><h4 class="widget-title h5"><span>Most Discussed</span></h4>
+				
+		<div class="row ">
+
+							
+								
+				<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-195 post type-post status-publish format-video has-post-thumbnail hentry category-productivity-software category-tutorials tag-google-calendar post_format-post-format-video series-google-calendar-tutorials">
+    <div class="row">
+
+        <div class="col-lg-5 col-xs-6">
+                            <div class="entry-image">
+                <a href="http://ansonalex.com/tutorials/bill-pay-reminder-video/" title="Bill Pay Reminder with Google Calendar [Video Tutorial]">
+                   	<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/bill-pay-reminder-with-google-ca.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px">                </a>
+                </div>
+                    </div>
+
+        <div class="col-lg-7 col-xs-6 no-left-padding">
+            
+            <div class="entry-header">
+
+                
+                <h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/bill-pay-reminder-video/">Bill Pay Reminder with Google Calendar [Video Tutorial]</a></h2>
+            </div>
+
+            
+
+        </div>
+    </div>
+</article>				
+				
+							
+								
+				<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-8468 post type-post status-publish format-video has-post-thumbnail hentry category-seo category-tutorials tag-semrush post_format-post-format-video">
+    <div class="row">
+
+        <div class="col-lg-5 col-xs-6">
+                            <div class="entry-image">
+                <a href="http://ansonalex.com/tutorials/semrush-overview-tutorial-video/" title="SEMRush Overview Tutorial [Video]">
+                   	<img width="125" height="83" src="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=76%2C50 76w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=123%2C82 123w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=83%2C55 83w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?resize=125%2C83 125w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?zoom=2&amp;resize=125%2C83 250w, https://i0.wp.com/ansonalex.com/wp-content/uploads/2017/04/semrush-overview-tutorial-video.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px">                </a>
+                </div>
+                    </div>
+
+        <div class="col-lg-7 col-xs-6 no-left-padding">
+            
+            <div class="entry-header">
+
+                
+                <h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/semrush-overview-tutorial-video/">SEMRush Overview Tutorial [Video]</a></h2>
+            </div>
+
+            
+
+        </div>
+    </div>
+</article>				
+				
+							
+								
+				<article class="vlog-lay-h lay-horizontal vlog-post col-lg-12 col-md-12 col-sm-12 col-xs-12 post-10626 post type-post status-publish format-video has-post-thumbnail hentry category-ios category-tutorials tag-ios post_format-post-format-video series-ios-7-tutorials">
+    <div class="row">
+
+        <div class="col-lg-5 col-xs-6">
+                            <div class="entry-image">
+                <a href="http://ansonalex.com/tutorials/siri-tips-for-using-siri-on-the-iphone-5-and-ios-6-video/" title="Siri – Tips for Using Siri on the iPhone 5 and iOS 6 [Video]">
+                   	<img width="125" height="83" src="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=125%2C83" class="attachment-vlog-lay-h-full size-vlog-lay-h-full wp-post-image" alt="" srcset="https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=76%2C50 76w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=123%2C82 123w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=83%2C55 83w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?resize=125%2C83 125w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?zoom=2&amp;resize=125%2C83 250w, https://i1.wp.com/ansonalex.com/wp-content/uploads/2017/04/siri-tips-for-using-siri-on-the.jpg?zoom=3&amp;resize=125%2C83 375w" sizes="(max-width: 125px) 100vw, 125px">                </a>
+                </div>
+                    </div>
+
+        <div class="col-lg-7 col-xs-6 no-left-padding">
+            
+            <div class="entry-header">
+
+                
+                <h2 class="entry-title h7"><a href="http://ansonalex.com/tutorials/siri-tips-for-using-siri-on-the-iphone-5-and-ios-6-video/">Siri – Tips for Using Siri on the iPhone 5 and iOS 6 [Video]</a></h2>
+            </div>
+
+            
+
+        </div>
+    </div>
+</article>				
+				
+			
+		</div>
+
+		
+		
+		</div>													</div>
+					
+	            </div>
+	        </div>
+
+	    
+            
+	        <div class="vlog-copyright">
+	            <div class="container">
+	                <p style="text-align: center">Copyright © 2017 AnsonAlex.com</p>	            </div>
+	        </div>
+
+    	
+    </footer>
+
+
+	<div style="display:none">
+	</div>
+<script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122"></script>
 <script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.14-6684"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201751"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2017Decaa"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201817"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2018Apraa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=2a63571d010b6d570b8a747feaf93e55"></script>
+<script type="text/javascript" src="http://ansonalex.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=32cf331b8e924f5e1030d2a5a4e7177e"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var vlog_js_settings = {"ajax_url":"http:\/\/ansonalex.com\/wp-admin\/admin-ajax.php","rtl_mode":"false","header_sticky":"","header_sticky_offset":"600","header_sticky_up":"","single_sticky_bar":"","logo":"http:\/\/ansonalex.com\/wp-content\/uploads\/2017\/04\/AnsonAlex_Header-345x60.png","logo_retina":"http:\/\/ansonalex.com\/wp-content\/uploads\/AnsonAlex_Header-687x120.png","logo_mini":"","logo_mini_retina":"","cover_inplay":"","cover_inplay_audio":"","watch_later_ajax":"","listen_later_ajax":"","cover_autoplay":"1","cover_autoplay_time":"5","video_disable_related":""};
+var vlog_js_settings = {"ajax_url":"http:\/\/ansonalex.com\/wp-admin\/admin-ajax.php","ajax_wpml_current_lang":null,"rtl_mode":"false","header_sticky":"","header_sticky_offset":"600","header_sticky_up":"","single_sticky_bar":"","logo":"http:\/\/ansonalex.com\/wp-content\/uploads\/2017\/04\/AnsonAlex_Header-345x60.png","logo_retina":"http:\/\/ansonalex.com\/wp-content\/uploads\/AnsonAlex_Header-687x120.png","logo_mini":"","logo_mini_retina":"","cover_inplay":"","cover_inplay_audio":"","watch_later_ajax":"","listen_later_ajax":"","cover_autoplay":"1","cover_autoplay_time":"5","video_disable_related":"","rensponsive_secondary_nav":"","responsive_more_link":"","responsive_social_nav":"","video_display_sticky":"","video_sticky_title":"Currently playing"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://ansonalex.com/wp-content/themes/vlog/assets/js/min.js?ver=1.7"></script>
-<script type="text/javascript" src="http://ansonalex.com/wp-includes/js/wp-embed.min.js?ver=2a63571d010b6d570b8a747feaf93e55"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-201751.js" async="" defer=""></script>
+<script type="text/javascript" src="http://ansonalex.com/wp-content/themes/vlog/assets/js/min.js?ver=1.9"></script>
+<script type="text/javascript" src="http://ansonalex.com/wp-includes/js/wp-embed.min.js?ver=32cf331b8e924f5e1030d2a5a4e7177e"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201817.js" async="async" defer="defer"></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:5.4',blog:'25771335',post:'1116',tz:'-8',srv:'ansonalex.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.9',blog:'25771335',post:'1116',tz:'-7',srv:'ansonalex.com'} ]);
 	_stq.push([ 'clickTrackerInit', '25771335', '1116' ]);
 </script>
+
 
 </body></html>
