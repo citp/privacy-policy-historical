@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223033415id_/http%3A//www.gunslot.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424110610id_/http%3A//www.gunslot.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
