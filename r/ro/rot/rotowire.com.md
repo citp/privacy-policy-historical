@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119232135id_/https%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424174708id_/https%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
