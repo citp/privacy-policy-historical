@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadhaarcarduid.org privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222165903id_/http%3A//aadhaarcarduid.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadhaarcarduid.org privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425013325id_/http%3A//aadhaarcarduid.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aadhaar Card Information Portal
 
