@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkpress.co.uk privacy policy that was archived on 2017-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171208224003id_/http%3A//www.yorkpress.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkpress.co.uk privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424121014id_/http%3A//www.yorkpress.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
