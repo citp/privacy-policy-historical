@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223192654id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecellresearch.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424090103id_/http%3A//livecellresearch.com/privacy.php) for the most accurate reproduction.*
 
 # Live Cell Research | Privacy Policy
 
