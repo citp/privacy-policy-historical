@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bringinghumanityback.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182826id_/https%3A//bringinghumanityback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bringinghumanityback.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424062724id_/http%3A//bringinghumanityback.com/privacy-policy) for the most accurate reproduction.*
 
 # Varun pruthi bringing humanity back | Bringing Humanity back
 
