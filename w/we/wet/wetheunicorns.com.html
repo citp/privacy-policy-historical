@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wetheunicorns.com privacy policy that was archived on 2017-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171218185126id_/http%3A//www.wetheunicorns.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetheunicorns.com privacy policy that was archived on 2018-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180424033751id_/http%3A//www.wetheunicorns.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -19,7 +19,8 @@
         <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.wetheunicorns.com/assets_v4r/wtu/img/apple-touch-icon-152x152.png">
 
         
-        <link rel="canonical" href="//www.wetheunicorns.com/privacy-policy/">
+        
+        <link rel="canonical" href="http://www.wetheunicorns.com/privacy-policy/">
         
 
         
@@ -53,14 +54,25 @@
 <meta content="privacy-policy" name="sailthru.tags">
         
 
+        
+
+
+
+	
+		<link rel="stylesheet" href="https://static.wetheunicorns.com/assets_v4r/dist/combined/css/page_e22ce2.min.css">
+	
+
+
+
+
         <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N7KJ77"></script><script>
             var gusto = window.gusto || {};
             gusto.MAIN_CONTENT_TYPE = "article";
             gusto.SITE_NAME = "We the Unicorns";
             gusto.STATIC_URL = "https://static.wetheunicorns.com/assets_v4r/";
             gusto.STATIC_BRAND_URL = "https://static.wetheunicorns.com/assets_v4r/wtu/";
-            gusto.TIMESTAMP = "1513619897.33";
-            gusto.PLAYER_INFO = {"localise_url": "/localise/", "is_localised": false, "player_url": "http://ukrp.musicradio.com/wetheunicorns/london/live", "streaming_endpoint_tmpl": {"rtmp": "rtmp://cdn-sov-2.musicradio.com:80/LiveAudio/<%= end_point %>/mp4:<%= end_point %>", "icecast": "http://ice-sov.musicradio.com/<%= end_point %>"}, "localisation_light_enabled": false, "localisations_enabled": false, "player_url_template": "http://ukrp.musicradio.com/wetheunicorns/<%= slug %>/live"};
+            gusto.TIMESTAMP = "1524215517.37";
+            gusto.PLAYER_INFO = {"localise_url": "/localise/", "is_localised": false, "player_url": "http://ukrp.musicradio.com/wetheunicorns/london/live", "localisation_light_enabled": false, "localisations_enabled": false, "player_url_template": "http://ukrp.musicradio.com/wetheunicorns/<%= slug %>/live"};
             gusto.DEBUG = false;
             gusto.SETTINGS = {
                 'COOKIE_STATION_MAX_AGE_SECONDS': 63072000
@@ -112,27 +124,15 @@
             gusto.ooyala_player_ad_tag = "https://adserver.adtech.de/?advideo/3.0/646.1/0/0//alias=We The Unicorns_ROS_Pre-Roll;cc=2;vidAS=pre_roll;cors=yes;VidRT=VAST;VidRTV=2.0";
         </script>
 
-        <!--[if IE 8]>
-        <script src="https://static.wetheunicorns.com/gusto/a/common/js/modernizr-2.5.3-custom.js"></script>
-        <![endif]-->
-
         
+        <script src="https://player.ooyala.com/core/8130b86adf764d928ef27d25eaa1bf7f" defer=""></script>
         
-
-
-
-	
-		<link rel="stylesheet" href="https://static.wetheunicorns.com/assets_v4r/dist/combined/css/page_06991d.min.css">
-	
-
-
-
 
         <script type="text/javascript">
 //    get the urlencoded string to pass in the streaming request
 //    first build_streaming_params is a fallback in case the second one contains a syntax error
 gusto.build_streaming_params = function() {
-    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1513623086;");
+    return encodeURIComponent('amsparams=' + "playerid:UKRP;skey:1524537471;");
 };
 //    this comes from app settings for ukrp
 gusto.streaming_params_cookie_name = 'ukrp_streamparams';
@@ -183,7 +183,7 @@ gusto.build_streaming_params = function() {
         
     
         try {
-            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1513623086;"));
+            params.push('amsparams=' + stitch('', "playerid:UKRP;skey:1524537471;"));
         } catch(e) {
             param_error('amsparams');
         }
@@ -205,48 +205,43 @@ gusto.build_streaming_params = function() {
         
             <!-- DAC -->
             <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dt/common/DAC.js"></script>
-            <script type="text/javascript" src="http://aka-cdn-ns.adtech.de/dac/646.1/w1235962.js"></script>
+            <script type="text/javascript" src="https://aka-cdn-ns.adtech.de/dac/646.1/w1235962.js"></script>
+        
+
         
     </head>
     <body class="js">
-        <!-- START krux interchange tag -->
+        
+            <!-- START Nielsen interchange script -->
 <script type="text/javascript">
-// code for retrieving the Krux user id and segments from either local storage or a cookie
-window.Krux || ((Krux = function() {Krux.q.push(arguments);}).q = []);
-
-(function() {
-	function retrieveKruxValue(key) {
-		var ret = "";
-		// check for value in local storage
-		if (window.localStorage) {
-			ret = window.localStorage.getItem(key);
-		}
-		if (ret != undefined && ret != "") {
-			return ret;
-		}
-		// check for value in cookie
-		if (navigator.cookieEnabled) {
-			ret = document.cookie.match(key + '=([^;]*)');
-			ret = (ret && unescape(ret[1])) || "";
-		}
-		return ret;
-	}
-	var kruxUserId = "";
-	// there are two possible variables that hold the krux user id - try them both
-	kruxUserId = retrieveKruxValue('kxuser');
-	if (kruxUserId == undefined || kruxUserId == "") {
-		kruxUserId = retrieveKruxValue('kxkuid');
-	}
-	Krux.user = kruxUserId;
-	Krux.segments = retrieveKruxValue('kxsegs') && retrieveKruxValue('kxsegs').split(',') || [];
-
-})();
-
-// used in _ad_tech.html
-window.krux_adtech_param = ';kvkrx=' + window.Krux.segments.join(":");
+    window.gusto.nielsen = {
+        userId: null,
+        segments: [],
+        callbacks: [],
+        init: function() {
+            if (window.localStorage) {
+                window.gusto.nielsen.userId = window.localStorage.getItem('nmcUserId') || null;
+                window.gusto.nielsen.segments = window.localStorage.getItem('nmcSegments') || "";
+            }
+        },
+        receive: function(data) {
+            window.gusto.nielsen.userId = data.user.uid;
+            window.gusto.nielsen.segments = data.user.segments;
+            for(var index=0; index < window.gusto.nielsen.callbacks.length; index++) {
+                var callback = window.gusto.nielsen.callbacks[index];
+                callback.call();
+            }
+            if (window.localStorage) {
+                window.localStorage.setItem('nmcUserId', window.gusto.nielsen.userId);
+                window.localStorage.setItem('nmcSegments', window.gusto.nielsen.segments);
+            }
+        }
+    };
+    window.gusto.nielsen.init();
 </script>
-<!-- END krux interchange tag -->
+<!-- END Nielsen interchange script -->
 
+        
         
 
 
@@ -340,6 +335,14 @@ var GLOBALADVERTISING = (function(){
     }
     catch(err) {}
 
+    // Read and add callback for populating Nielsen segments
+    if(window.gusto.nielsen) {
+        var nmc_segments = window.gusto.nielsen.segments.split(',').join(":");
+        window.gusto.nielsen.callbacks.push(function(){
+            window.GLOBALADVERTISING.nmc = window.gusto.nielsen.segments.split(',').join(":");
+        });
+    }
+
     // Set page count from cookie
     var pageCount = 1;
     var pageCountCookie = readCookie('pagecount');
@@ -368,6 +371,8 @@ var GLOBALADVERTISING = (function(){
         'contenttype': "article",
         'adtest': adtest,
         'sensitive': "false",
+        'newslink': "false",
+        'nmc': nmc_segments
     };
 
     if(log_ads) {
@@ -386,14 +391,45 @@ var GLOBALADVERTISING = (function(){
 
         <div id="fb-root"></div>
 
+        <div id="wtu_home_overlay" class="dac__overlay"></div>
+<script>
+    if (window.ADTECH) {
+        window.ADTECH.config.placements["wtu_home_overlay"] = {
+            kv: {
+                pos: '1',
+                adunit: 'overlay'
+            }
+        };
+
+        var ua_string = window.navigator.userAgent;
+        var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
+        var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
+
+        if(!disable_ads) {
+            
+                
+                    if(log_ads){console.log('Queuing an ad', 'wtu_home_overlay');}
+                    window.ADTECH.enqueueAd('wtu_home_overlay');
+                
+            
+        }
+    }
+</script>
+
+
         
-            <div class="dac__banner__wrapper dac__banner__wrapper--sticky">
-                <div id="wtu_home_banner_large-up" class="dac__banner"></div>
+
+<header class="header  header--with-substations" id="header">
+
+    <!-- BLOCK:0 ADS SECTION -->
+    
+    <div class="dac__banner__wrapper dac__banner__wrapper--sticky">
+        <div id="wtu_home_banner_large-up" class="dac__banner"></div>
 <script>
     if (window.ADTECH) {
         window.ADTECH.config.placements["wtu_home_banner"] = {
             kv: {
-                pos: '1',
+                pos: '2',
                 adunit: 'banner'
             }
         };
@@ -420,48 +456,15 @@ var GLOBALADVERTISING = (function(){
     }
 </script>
 
-            </div>
-        
+    </div>
+    
 
-        <div id="wtu_home_overlay" class="dac__overlay"></div>
-<script>
-    if (window.ADTECH) {
-        window.ADTECH.config.placements["wtu_home_overlay"] = {
-            kv: {
-                pos: '2',
-                adunit: 'overlay'
-            }
-        };
-
-        var ua_string = window.navigator.userAgent;
-        var disable_ads = ua_string.indexOf('NOGUSTOADS') > -1;
-        var log_ads = ua_string.indexOf('LOGGUSTOADS') > -1;
-
-        if(!disable_ads) {
+    <!-- BLOCK:1 USER STATUS HEADER -->
+    <div class="header__section header__section--primary-bg header__user-status">
+        <div class="header__container">
             
                 
-                    if(log_ads){console.log('Queuing an ad', 'wtu_home_overlay');}
-                    window.ADTECH.enqueueAd('wtu_home_overlay');
                 
-            
-        }
-    }
-</script>
-
-
-        <header class="header  header--with-substations" id="header">
-           
-            <div class="header__section--primary-bg
-                
-                    
-                
-            ">
-            
-                <div class="header__container">
-                
-                    
-                    
-                        
 
 
 <ul id="user_status" class="header-user-status">
@@ -505,10 +508,8 @@ if (window.GLOBALADVERTISING){
 
 </script>
 
-                    
-                
-
-                
+            
+            
     <div class="substations">
         <div id="substations_button" class="substations__label">PopBuzz Network</div>
         <ul class="substations__list">
@@ -526,80 +527,88 @@ if (window.GLOBALADVERTISING){
         </ul>
     </div>
 
-                </div>
+        </div>
+    </div>
+
+    <!-- BLOCK:2 HEADER MAIN -->
+    <div class="header__section header__main js-header-main">
+        <div class="header__container">
+            <a href="#primary" class="skip-nav js-skip-nav"><span>skip to navigation</span></a>
+
             
-            </div>
+                <p class="header__logo ">
+                    <a class="header__logo__link" href="/">We The Unicorns</a>
+                </p>
+            
+            
+                <h2 class="header__secondary-logo">
+                    <a class="header__secondary-logo__link" href="http://www.popbuzz.com/">PopBuzz</a>
+                </h2>
+            
 
-            <div id="header_main" class="header__section header-main">
-                <div class="header__container">
-                    <a href="#primary" id="skip_nav"><span>skip to navigation</span></a>
+            
+        </div>
+    </div>
 
+    <!-- BLOCK:3 PRIMARY NAV -->
+    <div class="header__section" id="nav_wrapper">
+        <nav id="primary" class="header__container standard">
+            <ul>
+                
+                <li class="nav-home ">
+    
                     
-                        <p class="header-logo "><a class="header-logo__link" href="/">We The Unicorns</a></p>
+                    <a href="/">Home</a>
                     
-
+                </li>
+                
+                <li class="nav-news " data-id="71">
+    
                     
-    <h2 class="header-popbuzz-logo"><a class="header-popbuzz-logo__link" href="http://www.popbuzz.com/">Popbuzz</a></h2>
-
-                </div>
-            </div>
-
-            <div id="nav_wrapper" class="header__section">
-                <nav id="primary" class="header__container standard">
-                    <ul>
-                        
-                        
-                        <li class="nav-home">
-                            
-                            <a href="/">Home</a>
-                            
-                        </li>
-                        
-                        <li class="nav-news" data-id="71">
-                            
-                            <a href="/news/">News</a>
-                            
-                        </li>
-                        
-                        <li class="nav-youtubers" data-id="72">
-                            
-                            <a href="/youtubers/">YouTubers</a>
-                            
-                        </li>
-                        
-                        <li class="nav-quizzes" data-id="73">
-                            
-                            <a href="/quizzes/">Quizzes</a>
-                            
-                        </li>
-                        
-                        <li class="nav-features" data-id="74">
-                            
-                            <a href="/features/">Features</a>
-                            
-                        </li>
-                        
-                        <li class="nav-video" data-id="75">
-                            
-                            <a href="/video/">Video</a>
-                            
-                        </li>
-                        
-                        
-
-                        
-                            
-                            
-                                
+                    <a href="/news/">News</a>
+                    
+                </li>
+                
+                <li class="nav-youtubers " data-id="72">
+    
+                    
+                    <a href="/youtubers/">YouTubers</a>
+                    
+                </li>
+                
+                <li class="nav-quizzes " data-id="73">
+    
+                    
+                    <a href="/quizzes/">Quizzes</a>
+                    
+                </li>
+                
+                <li class="nav-features " data-id="74">
+    
+                    
+                    <a href="/features/">Features</a>
+                    
+                </li>
+                
+                <li class="nav-video " data-id="75">
+    
+                    
+                    <a href="/video/">Video</a>
+                    
+                </li>
+                
+        
+                
+                    
+                    
 
     <li><a class="user_login no-desktop" rel="nofollow" href="/members/login/?redirect_url=/privacy-policy/">Sign in / Register</a></li>
 
 
 
-                            
-                        
-
-                        
+                
+        
+                
 
 
     <li class="social-links util--hidden-on-desktop">
@@ -628,40 +637,36 @@ if (window.GLOBALADVERTISING){
  </div>
     </li>
 
-                    </ul>
-                </nav>
-            </div>
+            </ul>
+        </nav>        
+    </div>
 
-            
-
-            
-            <div id="contextual_nav_wrapper" class="
-            
-                
-            
-            
-            ">
-                <div id="contextual">
+    <!-- BLOCK:4 TRENDING BAR/CONTEXT NAV -->
+    <div class="header__section">
+        
+            <div class="contextual-nav__wrapper ">
+                <div class="contextual-nav js-contextual-nav">
                     
+            
                     
-
-                    
-
+            
                     
                 </div>
             </div>
-            
+        
+    </div>
 
-            
+    <!-- BLOCK:5 MOBILE NOW PLAYING -->
+    
+</header>
 
-        </header>
 
         
-        <script src="https://cdns.gigya.com/js/gigya.js?apiKey=3_AT7qoBUdoFgJ6IRkZnp8IVTlTYJdB44BOquKIHx7_CNdXg508n_x33XXHmAeugbH"></script>
+        <script src="https://cdns.gigya.com/js/gigya.js?apiKey=3_AT7qoBUdoFgJ6IRkZnp8IVTlTYJdB44BOquKIHx7_CNdXg508n_x33XXHmAeugbH" defer=""></script>
         
 
         <section role="main">
-            <div class="dac__banner__wrapper dac__banner__wrapper--sticky">
+            <div class="dac__banner__wrapper">
                 
             </div>
             
@@ -862,7 +867,8 @@ gusto.article = {
 
 
     
-        <div id="wtu_home_instream" class="dac__instream"></div>
+        
+            <div id="wtu_home_instream" class="dac__instream"></div>
 <script>
     if (window.ADTECH) {
         window.ADTECH.config.placements["wtu_home_instream"] = {
@@ -887,8 +893,9 @@ gusto.article = {
     }
 </script>
 
-    
-    
+        
+        
+            
         
     
 
@@ -920,7 +927,35 @@ gusto.article = {
     <ul class="footer-hot-links">
         
             <li class="footer-hot-links__item">
-                <a href="/news/jack-maynard-in-im-a-celebrity/" class="footer-hot-links__link">Jack Maynard I'm A Celeb</a>
+                <a href="/youtubers/jacksepticeye/" class="footer-hot-links__link">JackSepticEye</a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/youtuber-snapchat-username-account/" class="footer-hot-links__link">YouTuber Snapchat accounts</a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/jeffree-star" class="footer-hot-links__link">Jeffree Star</a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/jake-paul/" class="footer-hot-links__link">Jake Paul</a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/logan-paul/" class="footer-hot-links__link">Logan Paul</a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/ksi/" class="footer-hot-links__link">KSI </a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/tana-mongeau/" class="footer-hot-links__link">Tana Mongeau</a>
+            </li>
+        
+            <li class="footer-hot-links__item">
+                <a href="/youtubers/jacksepticeye/" class="footer-hot-links__link">Jacksepticeye</a>
             </li>
         
             <li class="footer-hot-links__item">
@@ -932,31 +967,11 @@ gusto.article = {
             </li>
         
             <li class="footer-hot-links__item">
-                <a href="/features/when-is-pinof-9-coming-out/" class="footer-hot-links__link">PINOF 9 Release Date</a>
-            </li>
-        
-            <li class="footer-hot-links__item">
-                <a href="/news/year-of-youtube-plan-youtube-videos/" class="footer-hot-links__link">My Year Of YouTube Planner</a>
-            </li>
-        
-            <li class="footer-hot-links__item">
-                <a href="/news/vlogging-101-become-a-youtuber/" class="footer-hot-links__link">Vlogging 101</a>
-            </li>
-        
-            <li class="footer-hot-links__item">
                 <a href="/youtubers/pewdiepie/" class="footer-hot-links__link">PewDiePie</a>
             </li>
         
             <li class="footer-hot-links__item">
                 <a href="/quizzes/" class="footer-hot-links__link">YouTuber Quizzes</a>
-            </li>
-        
-            <li class="footer-hot-links__item">
-                <a href="/news/hello-world-live-statement-backlash/" class="footer-hot-links__link">Hello World</a>
-            </li>
-        
-            <li class="footer-hot-links__item">
-                <a href="/news/joe-sugg-caspar-lee-left-gleam/" class="footer-hot-links__link">Gleam</a>
             </li>
         
             <li class="footer-hot-links__item">
@@ -1016,12 +1031,10 @@ gusto.article = {
             <div class="grid-row__col--1">
                 <h3 class="footer__heading">Latest From Twitter</h3>
                 <ul class="twitter-tweets">
-<p class="twitter-tweets__user">We The Unicorns 🎄 ‐ <a href="http://twitter.com/wetheunicorns/" class="twitter-tweets__link" target="_blank">@wetheunicorns</a></p>
+<p class="twitter-tweets__user">We The Unicorns ‐ <a href="http://twitter.com/wetheunicorns/" class="twitter-tweets__link" target="_blank">@wetheunicorns</a></p>
 
     <li class="twitter-tweets__item">
-    	<p class="twitter-tweets__tweet">The perfect Christmas gifts for any lover of YouTube 🎄
-
-<a href="http://popbuzz.co/f6qmxc" class="twitter-tweets__link" target="_blank">popbuzz.co/f6qmxc</a></p>
+    	<p class="twitter-tweets__tweet">A veritable feast of YouTuber babes have just been added to the <a href="http://twitter.com/SummerInTheCity" class="twitter-tweets__link" target="_blank">@SummerInTheCity</a> lineup, including the legendary… <a href="https://twitter.com/i/web/status/988358972515201024" class="twitter-tweets__link" target="_blank">twitter.com/i/web/status/9…</a></p>
     </li>
 
 </ul>
@@ -1057,9 +1070,12 @@ gusto.article = {
     </div>
 
     <div class="footer__section">
-        <div class="grid-row">
-            <div class="grid-row__col--3 footer-copyright-notice">
-                © Global 2017
+        <div class="grid-row" itemscope="" itemtype="http://schema.org/Organization">
+            <div class="grid-row__col--3 footer-footnote-section">
+                © <span itemprop="legalName">Global</span> 2018
+            </div>
+            <div class="grid-row__col--3 footer-footnote-section footer-footnote-section--end" itemprop="address">
+                30 Leicester Square, London, WC2H 7LA
             </div>
         </div>
     </div>
@@ -1081,7 +1097,7 @@ gusto.article = {
 
     
         
-            <script src="https://static.wetheunicorns.com/assets_v4r/dist/combined/js/page_9c0c63.min.js"></script>
+            <script src="https://static.wetheunicorns.com/assets_v4r/dist/combined/js/page_d430d7.min.js" defer=""></script>
         
     
 
