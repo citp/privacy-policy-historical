@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710085630id_/https%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameskinny.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425001103id_/https%3A//www.gameskinny.com/375/privacy-policy-375) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,12 +6,7 @@
 
 When accessing our Website, Launch Media Network will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
-If you visit our site to read or download information on our pages, we collect and store only the following information about you:
-
-1\. The name of the domain from which you access the Internet  
-2\. The date and time you access our site  
-3\. The Internet address of the website you used to link directly to our site.  
-4\. email, first name, last name
+When you visit our Website, we may automatically collect certain non-identifying information about you, such as your movement about the Website, time and date of accessing the site, the pages on the Website you visit most frequently, the type of browser or computer operating system you use, or the domain name of the website from which you linked to us (“Non-identifying Information”).  In addition, we may store small files on your computer’s hard drive, such as a “cookie” or similar type of file to track and target your interests.  We use this Non-identifying Information internally to help us enhance the efficiency and usefulness of the Website, for advertising purposes, and to improve customer service.  If you object to this practice, please consult your browser’s documentation for instructions on erasing or blocking cookies.
 
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
@@ -21,7 +16,9 @@ For site security purposes and to ensure that this service remains available to 
 
 Launch Media Network will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Cookies or similar type of file to track and target your interests may also be used. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/choices>.
+
+This Website may contain links to other Websites owned and operated by third parties. Please note that these websites’ privacy policies may differ from that of Launch Media Network. Launch Media Network is not responsible for the privacy practices of those third parties and does not control the use of information provided through such third party websites. We encourage you to read the privacy policy of any website you may visit.
 
 
 
