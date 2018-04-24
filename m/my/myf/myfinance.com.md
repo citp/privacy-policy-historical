@@ -1,160 +1,152 @@
-> *The following text is extracted and transformed from the myfinance.com privacy policy that was archived on 2015-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150911113207id_/http%3A//www.eversure.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfinance.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424191822id_/https%3A//www.myfinance.com/privacy-policy) for the most accurate reproduction.*
 
-# Eversure Insurance - Privacy Policy
+# Privacy Policy | MyFinance
 
-Our privacy policy is important and it is therefore essential that you read this. You will be deemed to have read and accepted this privacy policy if you continue to use our website. If you do not wish to be bound by our privacy policy then you should immediately leave our website. We reserve the right to change these terms from time to time and you should therefore check these terms regularly.
+## _Your Privacy Rights_
 
-Eversure Insurance is owned and operated by MyFinance.com Limited, a company registered in England and Wales under company number 6751893, whose registered address is Bury House, 1-3 Bury St, Guildford, Surrey, GU2 4AW, United Kingdom. Authorised and regulated by the Financial Conduct Authority, register number 501311. You can check this on the Financial Services Register by visiting the FCA’s website [http://www.fsa.gov.uk/register/home.do](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fwww.fsa.gov.uk%2fregister%2fhome.do&q=-1&e=-1&c=11) or by contacting the FCA on 0800 111 6768.
+Last Updated: February 10, 2016
 
-In this privacy policy, "we", "our" and "us" means MyFinance.com Limited, trading as Eversure Insurance and "you" and "your" means any person who accesses and uses this website.
+This website is owned and operated by MyFinance, Inc. (collectively, "MyFinance Businesses") please see "MyFinance Businesses" below. We want you to understand what information we gather about you, how we use it and the safeguards we have in place to protect it. This Privacy Policy applies to information collected through this website and otherwise.  By using this website and our services, MyFinance Account, or through an advertisement or linking from a third party site, you consent to this Policy, including your consent to our use and disclosure of information about you as required under current Federal, State, and/or local law, as well as in the manner described below in this Policy.  
 
-We are committed to protecting the privacy of our customers as described by the Data Protection Act 1998. This policy explains how we handle personal information collected from customers of:
+Any disputes arising from use of this site and/or MyFinance services, is subject to this Privacy Policy as well as the website’s 
 
-> **MyFinance.com Limited  
->  Bury House, 1-3 Bury St  
->  Guildford  
->  Surrey  
->  GU2 4AW  
->  United Kingdom **
+ _Terms Of Use_
 
-MyFinance.com Limited is a registered data controller under the Data Protection Act 1998 in relation to the processing of any personal data in connection with our services. If you have any questions relating to our use of your personal data or any other data protection questions, please contact our Data Protection Officer at dpo@myfinance.com. MyFinance.com Limited is registered with the Information Commissioner's Office under registration no Z2760497.
+ and all of its dispute resolution provisions, including arbitration, limitation on damages and choice of law.
 
-### Links
+This website is a general audience site and we do not knowingly collect personal information from children under the age of 13.  For more information about the Children's Online Privacy Protection Act (COPPA), view the FTC website at [www.ftc.gov](https://www.wellsfargo.com/exit/e?id=115158222).
 
-Our website may contain links to a number of third party websites that are not subject to our privacy policy. We are not responsible for the availability or content of any third party website, and any links from our website do not amount to any endorsement of that website by us and any use of that website by you is at your own risk.
+**1\. Information We Collect**
 
-### General Data Collection
+We collect personally identifiable information that can identify you such as your name, address, telephone number, mobile number, e-mail address and Social Security Number ("Personally Identifiable Information" or "PII"). We also collect information such as demographic data and data about your online activity on our website that does not identify you ("Non-Personally Identifiable Information" or "Non-PII"). PII and Non-PII are known together as "Information". We may also collect and store Information that you provide to us about other people (such as co-borrowers), including their name, address, telephone number, mobile devices, email address and Social Security Number.
 
-When you browse one of our websites we record standard details of your visit in our administration databases and our web server log files. This information is held for statistical and administration purposes only and is collected in a way which does not identify you. We do this to find out things such as the number of visitors to the various parts of our website. We will not associate any data gathered from this site with any personally identifying information from any source. The data collected includes:
+**2\. How We Collect Information You Provide:**
 
-  * your IP (Internet Protocol) address;
-  * the pages you access and any documents downloaded from our website;
-  * where applicable and available, the previous website you visited and the search query you used to reach our website;
-  * the type of browser being used;
-  * the type of operating system being used.
+**Automatic Collection, Cookies and Other Internet Technologies**. We use cookies, web beacons and other standard internet technologies to collect information  from your computer and about your activities on our website. We automatically collect Non-PII from your browser when you visit our website. This information includes, but is not necessarily limited to, your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us and the referring website address.
 
+A cookie is a small text file that is stored on a user’s computer for record keeping purposes.  When you visit our website, we may assign your computer one or more cookies to facilitate access to our website, personalize your online experience and record information about your visit. Through the use of a cookie, we also may automatically collect information about your online activity on our website, such as the web pages you visit, the links or advertisements you click on and other actions you take while on our website. The cookies do not store any PII about you. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that some of the features and services of our website may not function properly.  We also use cookies for purposes such as maintaining continuity during an online session; gathering data about the use of our site; monitoring online promotions; and anti-fraud and information security purposes.
 
+We may allow third-parties, advertising companies and ad networks ("Advertisers") to display advertisements on our website. Advertisers may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any PII to these Advertisers, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they delivered, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect directly from you. The collection and use of that personal information is subject to the particular Advertiser’s privacy policy. Some of these Advertisers may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers a single location to opt out of ad targeting from member companies. For a list of Advertisers we typically use, click the link above.
 
-### Telephone Calls
+**Other Technologies**. We may use web beacons and other standard Internet technologies to track your use on our websites. Web beacons (also known as clear gifs, pixel tags, targeting and re-targeting pixels, third party pixels or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon.
 
-Telephone calls may be recorded for training and security purposes.
+**Third Parties:  **Additionally, we use third parties to gather data from financial institutions. By using our service, you grant our third-party provider the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution according to terms of our third-party provider’s privacy policy.
 
-### Personal Information
+3.        **How We Use Information.**
 
-We may collect and store personal information that you choose to give us via online forms, by telephone or by email. For example if you:
+a.     **In General**. We may use Information to:
 
-  * request to join one of our email lists
-  * request to join a discussion forum
-  * subscribe to one of our newsletters
-  * participate in an online survey / opinion poll
-  * participate in a quiz or competition
-  * complete a contact request form
+  * Deliver the products and services you requested;
+  * Manage your customer relationship and provide you with customer support;
+  * Research and analyze your use of, or interest in, our products, services and content and the products, services and content offered by others;
+  * Communicate with you via e-mail, telephone, postal mail and/or mobile devices about products or services that may be of interest to you;
+  * Develop and display content and services tailored to your interests on our website and other websites;
+  * Develop and deliver targeted advertisements;
+  * Measure the overall effectiveness of our online advertising, content, programming and other activities;
+  * Verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
+  * Manage our business; and
+  * Perform functions as described to you at the time of collection.
 
 
 
-If we receive your email address because you send us a message, your email address will only be used or disclosed for the purpose for which it has been provided and it will not be added to a mailing list or used or disclosed for any other purpose without the your consent.
+b.     **Financial Information**. Depending on the service requested, we may use financial information to: match you with financial service providers as well as to verify your identity, protect against or identify possible fraudulent transactions, or otherwise as needed to manage our business.
 
-If you give us personal information about another person, in doing so you confirm that they have given you permission to provide it to us, and that you have told them who we are and what we will use their data for, as set out in this privacy policy. We only use personal information collected via our websites for the purposes for which it was given to us.
-
-### Making a Purchase
-
-If you decide to purchase insurance from us, we will request and store information relevant to the purchase, such as your name, address, postcode, date of birth, email address, telephone numbers, gender and any other relevant details. This information will only be used for the purposes of arranging your insurance cover - e.g. we would only use the telephone number to communicate or discuss a problem with arranging the policy or providing cover. 
-
-_Please note: For online purchases we do not collect or store any debit or credit card details. Such information is taken and processed by our payment service provider and we therefore take no responsibility for such information. For offline purchases, any debit or credit card details taken will be destroyed immediately after use._
-
-### Electronic Data Storage and Security
-
-By submitting your personal information, you agree that when necessary we may disclose your information to our insurance providers and their agents and service providers, some of which may be located outside the European Economic Area in countries providing less protection for personal data than the UK.
-
-Whilst we take every reasonable precaution to keep your personal information secure, you should be aware that any communications over the internet, such as e-mails, are not secure unless they have been encrypted. Any personal information submitted to us may route through a number of countries before being delivered - this is the nature of the internet. We cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
-
-Any personal information provided to us will be stored on password protected databases. Calls may be recorded for training and security purposes and any recordings will be stored on password protected databases.
-
-Staff members associated with the maintenance of this website will have access to administration files and databases which are password protected. Our website server, hosted by our internet service provider, is also password protected.
-
-We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date and stored in a secure environment protected from unauthorised access, modification or disclosure.
-
-### Non-Electronic Data Storage and Security
-
-Any personal data that is collected by us which is not stored electronically will be either immediately destroyed after use, or stored in a secure location protected from unauthorised access, modification or disclosure.
-
-### Information used for Marketing Purposes
-
-When relevant we may use your contact information to send out promotional material relating to our products and to send out information about our company. We may also use your email address to contact you on the same date each year to offer a new quotation, based on the information that you have already submitted to us. We may also occasionally notify you about important functionality changes to this website, new services and special offers by mail, telephone, SMS, or email to provide information that we think you will find valuable. You may opt-out of receiving future notifications by emailing us, or sending a message on our Contact Us form. Occasionally, we may also allow other very carefully selected companies to offer related products or services to you by mail, telephone, SMS, or email. If you do not wish to receive information of this kind you can opt-out of marketing when completing a purchase, by sending us an email, or via our 'Contact Us' page.
-
-### Information used for Customer Feedback
-
-All customers who either purchase insurance from us or subsequently contact our customer services department may receive an automated email from our feedback system services provider feeefo.com. Customer feedback is an important tool for us to understand how we are performing. The feedback service is integral to the operation of our website and it is not possible to opt-out of this service when you make a purchase. If you do not agree to this you should not continue with your purchase. After you have purchased you may opt out of receiving emails from feefo.com by using the feefo opt out link at the bottom of their email, by sending us an email, or via our 'Contact Us' page. 
-
-### Disclosure of Personal Information
-
-We may share any personal information supplied to us if one or more of the following applies:
-
-  * you have consented
-  * if required to do so by any court, the Financial Conduct Authority, the Office of Fair Trading or any other applicable quasi-governmental law enforcement organisation or quasi-autonomous non-governmental law enforcement organisation ; and/or
-  * if required or permitted to do so by a law enforcement agency; and/or
-  * if required in connection with legal proceedings or potential legal proceedings; and/or
-  * if ownership of the website is transferred in part or full, in which case any new owner would only be permitted to use that information in a way prescribed by this Privacy Policy.
-  * it will prevent or lessen a serious and imminent threat to somebody's life or health
-
-
-
-### Information Exchange
-
-We exchange information with other approved organisations, such as insurance providers, for underwriting, claims and fraud prevention purposes. Your insurance provider may also need to share your information for the administration and management of your policy. In addition, in the course of using information in normal business practices such as data backup, banking and professional advisers, we may disclose information to other parties where this is required or permitted by law and by any relevant data protection legislation.
-
-Insurance providers may exchange information through a number of different databases, including the Claims and Underwriting Exchange (CUE), which holds a record of incidents reported to insurers by policyholders and third party claimants. This exchange of information enables the insurers to validate the information you provide, both about yourself and any other named person within the application, and aims to reduce insurance fraud.
-
-If you are a Smartgo Promotional Code user you agree to Eversure Insurance passing your name, email address and your name of organisation to Go Travel Solutions Limited (‘Smartgo’) in order that your entitlement to the promotion may be validated. This information will be used for no other purposes.
-
-### Data Access and Correction
-
-We will maintain and update personal information collected from our websites as necessary or when we are advised by users that their personal information has changed. In order to comply with data protection legislation, it is our policy to only deal with the person named on our database. Unless you instruct us otherwise, we will not deal with any other party, other than in extreme and exceptional circumstances.
-
-### Viewing Your Data
-
-A full copy of all of the data that we hold about you in our database can be obtained by you but you must make the request in writing to: The Data Protection Officer, MyFinance.com Limited, Bury House, 1-3 Bury St, Guildford, Surrey, GU2 4AW, United Kingdom. We reserve the right to charge an administration fee for providing this service.
-
-### Cookies
-
-'Cookies' are small pieces of data that a web server can store on and later retrieve from your computer. Our websites store temporary and persistent cookies, which will either remain stored on your computer (until such time as they expire or they are deleted) or will be deleted when the browser window is closed. More information about cookies can be found at: [http://www.allaboutcookies.org](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fwww.allaboutcookies.org&q=-1&e=-1&c=11).
-
-We may also allow very carefully selected third parties to place cookies when you visit our site. Third party cookies may be left by these selected companies who participate with us in marketing programmes. These cookies enable us to monitor which adverts you see and click.
-
-The information from the use of cookies may be aggregated to provide anonymous statistical information about the site in order that we may improve our service.
-
-The cookies used on our websites are based on the International Chamber of Commerce guide for cookie categories, being either strictly necessary, performance, functionality or targeting:
-
-**'Strictly Necessary'** cookies let you move around the website and use essential features like secure areas, quotation forms and online purchasing. These cookies don't gather any personal information that could be used for marketing or remembering where you've been on the internet.
-
-**'Performance'** cookies collect information about how you use the website, such as the pages you visit and any errors. These cookies don't collect any information that could identify you, the information collected is anonymous and is used to help improve website layout and functionality, understand which parts of the website our customers find the most useful and improve the overall effectiveness of our websites.
-
-Using our site indicates that you accept the use of 'Strictly Necessary' and 'Performance' cookies. Accepting these cookies is a condition of using the website, so if you prevent them we cannot guarantee how our site will perform for you.
-
-### Cookies used on our website:
-
-Cookie type | Name | Set by | Purpose  
----|---|---|---  
-Strictly Necessary | ASP.NET_SessionId | Eversure  
-[More information on ASP.NET_SessionId](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fsupport.microsoft.com%2fkb%2f899918&q=-1&e=-1&c=11) | This cookie is essential for the operation of many features on our site. It is set automatically when you arrive on the website. This cookie is deleted when you close your browser.  
-Performance |  _utma, _utmb, _utmc, _utmz  |  Google Analytics  
-[More information on Cookies & Google Analytics](http://www.eversure.com/cpalink.aspx?r=https%3a%2f%2fdevelopers.google.com%2fanalytics%2fresources%2fconcepts%2fgaConceptsCookies&q=-1&e=-1&c=11) | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, the pages they visit, and if they have visited the website before.  
-is_returning,  |  Crazy Egg  
-[Crazy Egg's Privacy Policy](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fwww.crazyegg.com%2fprivacy&q=-1&e=-1&c=11)  
-EsClickLogId, EsKwId, RefererId, SearchKw  |  Eversure   
   
-### How to Control Cookies
+**4.     With Whom do we Share Your Information**
 
-If you wish to block Google Analytics cookies, Google offers an [opt-out browser add-on](http://www.eversure.com/cpalink.aspx?r=https%3a%2f%2ftools.google.com%2fdlpage%2fgaoptout%2f&q=-1&e=-1&c=11) for most modern web browsers.
+a.      **MyFinance  Businesses**. We may share your Information with MyFinance Businesses. All MyFinance Businesses adhere to this Privacy Policy. Except as described in this policy, we will not disclose your PII to others outside of the MyFinance Businesses.
 
-Alternatively, cookies can be disabled directly within your browser (Firefox, Internet Explorer, Google Chrome, Opera, Safari etc.)
+  b.       **Referrals**. When you express interest in other products, services, promotions that we offer (by, for example, completing an inquiry for such services), we will share your request or expression of interest with the businesses with which we partner to offer you those products, services and promotions, and, as applicable, with their affiliates and third party finder or marketing companies (collectively, "Business Providers"). When you choose to participate in a particular offer or program, you authorize us to provide PII to those Business Providers. Be aware the Business Providers with whom we share your Information may retain or use your Information whether or not you use their services and you should contact these parties directly concerning their privacy and information sharing practices which may differ from ours.
 
-For popular browers, further information can be obtained via the following links:
+  
+c.       **Services Providers**. We may share your personal information with our authorized service providers that perform certain services on our behalf including, but not limited to service providers that perform services on our behalf in connection with your request for a loan or the funding, sale and/or servicing of your loan. These third parties include, without limitation credit bureaus, title companies, flood or other insurance companies, appraisal companies, escrow companies, closing agents, marketing and customer services firms, credit card, or entities that provide business analysis or website support. These third parties may have access to PII needed to perform their functions.
 
-  * [Firefox](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fsupport.mozilla.org%2fen-US%2fkb%2fCookies&q=-1&e=-1&c=11)
-  * [Internet Explorer](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fsupport.microsoft.com%2fkb%2f196955&q=-1&e=-1&c=11)
-  * [Google Chrome](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fsupport.google.com%2fchrome%2fbin%2fanswer.py%3fhl%3den%26answer%3d95647&q=-1&e=-1&c=11)
-  * [Safari](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fsupport.apple.com%2fkb%2fPH6547&q=-1&e=-1&c=11)
-  * [Opera](http://www.eversure.com/cpalink.aspx?r=http%3a%2f%2fwww.opera.com%2fbrowser%2ftutorials%2fsecurity%2fprivacy%2f&q=-1&e=-1&c=11)
+  
+5.         **Other Situations**. We also may disclose your information at our sole discretion:
+
+  * In response to a subpoena or similar investigative demand, a court order or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as we reasonably believe is required by law. In such cases, we may raise or waive any legal objection or right available to us.
+  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent or take other action regarding actual or suspected illegal activity or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees or others; or to enforce our websites' terms and conditions or other agreements or policies.
+  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, asset sale or in the unlikely event of bankruptcy.
 
 
+
+6.       **Subscriptions/Unsubscribe**. When you "submit" information, register for a service, or create an account through MyFinance and its Companies website or otherwise, MyFinance and/or its' companies may send your information to its lenders and associated third parties as provided in the Terms Of Use If at any time you do not wish to continue to receive communications from MyFinance and/or its' companies, lenders or its associated third parties' communications, you may modify your preferences by through your My MyFinance Account. In addition, you agree to notify MyFinance Customer Care by emailing help@myfinance.com.
+
+  
+**7.       Considerations.** For certain products and services available through MyFinance's Website, we will not share your email address or phone number with the Business Provider or Lender with whom you are matched. Where this feature is available for a product or service, it will be noted on the web page for that product or service. Nevertheless these Business Providers and Lender will still receive other PII about you and they may retain or use your PII whether or not you use their services and you should contact these Providers or Lenders directly concerning their privacy and information sharing practices, which may differ from ours.
+
+**8.        Non-Personally Identifiable Information.** We may share Non-PII with third parties in our discretion.
+
+**9.        Third Party Links and Policies.** Our website contains links to other websites owned and operated by third parties. These third parties and their servers may be located in the United States or in other countries. We do not control, and are not responsible for, the privacy and security practices of these third parties. We recommend that you review the privacy and security policies of these third parties to determine how they handle Information they may collect about you
+
+**10.      Special Notice to California Residents.** If you are a resident of California, in addition to the rights set forth in this Privacy Policy:
+
+**You have the right to control whether we share some of your personal information. Please read the following information carefully before you make your choices below.**
+
+We are required by the California Financial Information Privacy Act to provide this notice to you annually. We will also send you an additional notice each year that tells you about your privacy rights under federal law.
+
+This Privacy Notice applies to MyFinance, Inc and its subsidiaries.
+
+**YOUR RIGHTS**
+
+You have the following rights to restrict the sharing of personal and financial information with our affiliates (companies we own or control) and outside companies that we do business with. Nothing in this form prohibits the sharing of information necessary for us to follow the law, as permitted by law, or to give you the best service on your accounts with us. This includes sending you information about some other products or services.
+
+**YOUR CHOICES**
+
+**Restrict Information Sharing With Companies We Own or Control (Affiliates):  **Unless you say "No," we may share personal and financial information about you with our affiliated companies or subsidiaries.
+
+[ ] NO, please do not share personal and financial information with your affiliated companies or subsidiaries.
+
+**Restrict Information Sharing With Other Companies We Do Business With To Provide Financial Products And Services:**  Unless you say "No," we may share personal and financial information about you with outside companies we contract with to provide financial products and services.
+
+[ ] NO, please do not share personal and financial information with outside companies you contract with to provide financial products and services.
+
+**TIME SENSITIVE REPLY**
+
+You may make your privacy choice(s) at any time. Your choice(s) will remain unless you state otherwise. However, if we do not hear from you we may share some of your information with affiliated companies and other companies with whom we have contracts to provide products and services.
+
+To exercise your choices do one of the following:  
+ 
+
+**Please note that in order for us to process your request, the address you provide below must be a California address you've given to us in relation to your account**.  
+ 
+
+Last name (please print):________________________________
+
+First name:___________________________________________
+
+Street address:_______________________________________
+
+City:___________________State:____________ZIP:_________
+
+Mailing Address (if different than the street address):
+
+City:__________________State:_____________ZIP:_________
+
+Signature:_______________________________Date:_________
+
+We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [help@myfinance.com](mailto:help@myfinance.com)
+
+**11.       Special Notice to Vermont Residents.** We will not share any personal information about you with other Businesses to the extent prohibited by applicable Vermont law or to the extent your prior consent to share is required by applicable Vermont law. For purposes of compliance with the Vermont Consumer Protection Act, if you are a resident of the State of Vermont and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please contact us at help@myfinance.com.
+
+**12.        Choices about Collection and Use of Your Information. **
+
+a.     You can choose not to provide us with certain information, but that may result in the inability to use certain features of our websites or receive certain products or services. Public forums are not intended for the disclosure of PII. To the extent you provide PII in any public forum, it is at your own risk.  
+b.      Federal and state regulations require that we store completed loan requests for various periods of time. In order to comply with these requirements, we may be unable to delete your information from our database until the expiration of the applicable period.
+
+**13.       How we Protect your PII.** We take industry standard security measures (including physical, electronic and procedural measures) to help safeguard your PII from unauthorized access and disclosure. In addition to the restrictions outlined above, we require employees to comply with information security safeguards, we use encryption in the transmission of your PII between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your PII.
+
+No system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your PII, searches or other communications will always remain secure. Users should also take care with how they handle and disclose their PII. Please refer to the Federal Trade Commission’s website for information about how to protect yourself against identity theft.
+
+**14.      Changes to this Privacy Policy.** We may update or modify this Privacy Policy to reflect changes to how we will collect, use and/or share Information. Our Privacy Policy will reflect the date it was last updated. If we make material changes to this Privacy Policy, we will notify you either by prominently posting a notice of such changes before implementing them or by sending you electronic notification of the changes. Please check this Privacy Policy each time you use our websites to ensure you are aware of any changes in our practices. Your continued use of our websites will signify your acceptance of the changes to the Privacy Policy.
+
+**15.       Visiting our Websites From Outside the United States.** This Privacy Policy is intended to cover collection of information on our websites from residents of the United States. If you are visiting our websites from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+**16.      No Rights of Third Parties**. This Privacy Policy does not create rights enforceable by third parties or require disclosure of any PII relating to users of our websites.
+
+**17.       How to Contact Us.** If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows: [help@myfinance.com](mailto:help@myfinance.com)
+
+**18.      MyFinance Businesses.** For purposes of this Agreement, "You" or "Your" means the person(s) using the Websites, and/or the goods, facilities or services of MyFinance, Inc. (“Site” and/or “Services”) and its companies offered through alternative methods, including persons that allow others to provide information about themselves to MyFinance, Inc. (as defined below), the banks, lenders, financial institutions, providers, real estate companies, and brokers on MyFinance's network ("Lenders"), Providers (as defined in section 5), auto dealers (as defined in section xx), partners (as defined in section xx), or real estate companies (as defined in section 6). "MyFinance", "us" or "we" means, but is not limited to the following entities:  
+·         MyFinance, Inc.
+
+**MyFinance may change, remove or add a Business in our discretion without notice to you.**
