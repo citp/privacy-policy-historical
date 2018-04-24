@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119065930id_/http%3A//internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetretailing.net privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425004332id_/http%3A//internetretailing.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Internet Retailing Privacy Policy - InternetRetailing
 
@@ -36,7 +36,7 @@
 
 ## 4\. Accessing and amending your personal information
 
-We will process your personal data for the purposes set out in clause 3 above. If, however, you have any queries or requests in relation to Data Protection/GDPR please notify our Data Protection Compliance Officer at: Internet Retailing Media Services Ltd, 52-54 Gracechurch Street, EC3V 0EH or [](mailto:dataprotection@internetretailing.net)[dataprotection@internetretailing.net](mailto:%64%61ta%70r%6f%74%65cti%6fn@i%6et%65%72netre%74%61iling.ne%74).
+We will process your personal data for the purposes set out in clause 3 above. If, however, you have any queries or requests in relation to Data Protection/GDPR please notify our Data Protection Compliance Officer at: Internet Retailing Media Services Ltd, 52-54 Gracechurch Street, EC3V 0EH or [](mailto:dataprotection@internetretailing.net)[dataprotection@internetretailing.net](mailto:%64%61t%61%70%72o%74ec%74io%6e%40i%6eter%6eetr%65ta%69ling%2ene%74).
 
 ## 5\. Disclosure to Third Parties
 
