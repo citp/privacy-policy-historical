@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizsheet.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222154719id_/http%3A//www.bizsheet.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizsheet.com privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424180824id_/http%3A//www.bizsheet.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business Listings for Businesses of all types
 
