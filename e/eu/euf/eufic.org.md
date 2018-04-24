@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eufic.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128033724id_/http%3A//www.eufic.org/en/using-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eufic.org privacy policy that was archived on 2018-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180424140440id_/http%3A//www.eufic.org/en/using-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy: (EUFIC)
 
