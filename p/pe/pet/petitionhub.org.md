@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324191147id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitionhub.org privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425181355id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | PetitionHub.org
+# Privacy Policy
 
 ## Introduction
 
@@ -60,6 +60,10 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 ## Google Adsense
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+
+## Facebook Ads
+
+Some of the ads may be served by Facebook Audience Network. You may opt out of the use of targeting for this ads by visiting: [AD Choices](https://m.facebook.com/ads/ad_choices)
 
 ## Changes to this privacy policy
 
