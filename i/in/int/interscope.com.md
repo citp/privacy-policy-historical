@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interscope.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230062749id_/https%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interscope.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425174347id_/https%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
 
 # UMG Privacy Policy
 
