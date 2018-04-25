@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711214440id_/http%3A//www.educause.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425093205id_/https%3A//www.educause.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EDUCAUSE
 
@@ -83,7 +83,7 @@ Balanced with our goal of sharing information with our constituents is our commi
 
 ### Changing mailing and directory listing preferences
 
-Log into your [EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your
+Log into your [EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your
 
   * promotional mailing preferences
   * ECAR research notification preferences
@@ -93,7 +93,7 @@ Log into your [EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fid
 
 
 
-If you do not have one, you can [create a personal EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false).
+If you do not have one, you can [create a personal EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false).
 
 If you would like to change any preferences listed above but do not wish to create an EDUCAUSE profile, please e-mail your request to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu) or call them at 303-449-4430.
 
@@ -111,7 +111,7 @@ If you wish not to receive any communications from EDUCAUSE (including newslette
 
 ## How Can You Update Your Personal Information?
 
-  * Log into your [EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your:
+  * Log into your [EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your:
   * basic personal information
   * biographic information
   * emergency contact information
@@ -121,7 +121,7 @@ If you wish not to receive any communications from EDUCAUSE (including newslette
 
 
 
-If you do not have one, you can [create a personal EDUCAUSE profile](http://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false).
+If you do not have one, you can [create a personal EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false).
 
 If you would like to change any information listed above but do not wish to create an EDUCAUSE profile, please e-mail your request to EDUCAUSE Member Services at [info@educause.edu](mailto:info@educause.edu) or call them at 303-449-4430.
 
