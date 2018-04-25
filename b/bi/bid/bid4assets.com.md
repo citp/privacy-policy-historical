@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2017-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170504062008id_/https%3A//secure.bid4assets.com/Help/index.cfm%3FfuseAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425040957id_/https%3A//secure.bid4assets.com/mvc/public/content/b4a/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
 
 Bid4Assets is committed to protecting your online privacy while providing you with the most useful and enjoyable online auction experience possible. While you can use many features of Bid4Assets anonymously, you are required to provide personal information to gain access to some services and to access due diligence. 
 
-Bid4Assets will never sell or rent your personal information to third parties without your consent.  Please carefully read the following information to understand how your personal information is used and protected by Bid4Assets.  If you have any questions please contact our Customer Service department at [service@bid4assets.com](mailto:service@bid4assets.com)
+Bid4Assets will never sell or rent your personal information to third parties without your consent.  Please carefully read the following information to understand how your personal information is used and protected by Bid4Assets.  If you have any questions please contact our Customer Service department at [Service@Bid4Assets.com](mailto:service@bid4assets.com)
 
  **Table of Contents:**
 
@@ -32,7 +32,7 @@ Some of our sellers and service affiliates use "cookies".  Because we do not co
 
  **Personal Information** (top)
 
-Our site's rsign up form may require you to give us contact information (such as your name, email address, and credit card). This information helps us customize your experience, tailor email alerts and notifications and qualify you to sell and/or bid on the site. You may opt out of receiving future e-mails by sending an email to [service@bid4assets.com](mailto:service@bid4assets.com)
+Our site's rsign up form may require you to give us contact information (such as your name, email address, and credit card). This information helps us customize your experience, tailor email alerts and notifications and qualify you to sell and/or bid on the site. You may opt out of receiving future e-mails by sending an email to [service@Bid4Assets.com](mailto:service@bid4assets.com)
 
 **Survey Information Use** (top)
 
@@ -50,7 +50,7 @@ Bid4Assets gives high priority to protecting the privacy of your personal inform
 
 Certain browsers and computers have the ability to communicate securely by scrambling (or encrypting) the information as it passes across the Internet. This method of communication is called SSL, or Secure Socket Layer. We require the use of a secure browser before a connection can be made to the sign up system.
 
-We recommend that you use one of the two most popular browsers for your online sessions. If you are not currently using the most up-to-date versions of Microsoft Internet Explorer or Mozilla Firefox, we urge you to upgrade now. If you need to update your browser please click [here](https://web.archive.org/web/20170509042551id_/https://secure.bid4assets.com/mvc/public/content/b4a/index.cfm?fuseAction=downloads) .
+We recommend that you use one of the two most popular browsers for your online sessions. If you are not currently using the most up-to-date versions of Microsoft Internet Explorer or Mozilla Firefox, we urge you to upgrade now. If you need to update your browser please click [here](https://web.archive.org/web/20180425040957id_/https%3A//secure.bid4assets.com/mvc/public/content/b4a/index.cfm?fuseAction=downloads) .
 
 Security breaches may occur whenever you communicate over the Internet even with the most secure sites, and use of our site is at your own risk. By using Bid4Assets, you acknowledge that you are aware of security and privacy limitations, including but not limited to: (1) the limitation of security, privacy and authentication measures and features in this system; (2) that data or information on the service may be subject to eavesdropping, sniffing, spoofing, forgery, spamming, "impostering," tampering, breaking passwords, harassment, fraud, electronic trespassing, hacking, nuking, system contamination (including, without limitation, viruses, worms and Trojan horses) causing unauthorized, damaging or harmful access and/or retrieval of information and data on your computer, as well as other security or privacy hazards; and (3) that data may not reach its destination or may reach an erroneous address or recipient, and agree to hold harmless Bid4Assets for any actual or consequential loss or damages related to the aforementioned privacy and security limitations or breach thereof.
 
@@ -70,7 +70,7 @@ We recommend the following guidelines for creating a password. DO NOT make your 
 
  **Opting Out** (top)
 
-Bid4Assets does not sell trade or rent your personal information to others. Under limited circumstances, we may provide trustworthy third parties with information, but only after giving prior notice.  To opt out of having personal information used by this site for any secondary purposes or disclosed to third parties, please send an email to [service@bid4assets.com](mailto:service@bid4assets.com). To opt out of receiving site updates and other email, please update your profile. [Click here](http://www.bid4assets.com/index.cfm?fuseaction=loginLarge&returnPath=%2FMyB4A) to update your member information profile.
+Bid4Assets does not sell trade or rent your personal information to others. Under limited circumstances, we may provide trustworthy third parties with information, but only after giving prior notice.  To opt out of having personal information used by this site for any secondary purposes or disclosed to third parties, please send an email to [service@Bid4Assets.com](mailto:service@bid4assets.com). To opt out of receiving site updates and other email, please update your profile. [Click here](http://www.bid4assets.com/index.cfm?fuseaction=loginLarge&returnPath=%2FMyB4A) to update your member information profile.
 
  **Notification of Changes** (top)  
 If at some point in the future, there is a change to our information usage practices that affects your personal information, we will provide notification of the changes on our Web site. You should also check this posted privacy statement for changes.
@@ -83,7 +83,7 @@ As we continue to develop our business, Bid4Assets may engage in the acquisition
 
  **Contact Us**
 
-This site gives you the option to change and modify the information you have previously provided us. To do so send an email to: [service@bid4assets.com](mailto:service@bid4assets.com) or call (301) 650-9193.
+This site gives you the option to change and modify the information you have previously provided us. To do so send an email to: [Service@Bid4Assets.com](mailto:service@bid4assets.com) or call (301) 650-9193.
 
 Bid4Assets welcomes your questions and comments about our privacy policy. 
 
@@ -93,4 +93,4 @@ If you need to speak to a client services professional about this privacy statem
 Bid4Assets  
 8757 Georgia Avenue, Suite 520  
 Silver Spring, MD 20910  
-[service@bid4assets.com](mailto:service@bid4assets.com)
+[Service@Bid4Assets.com](mailto:service@bid4assets.com)
