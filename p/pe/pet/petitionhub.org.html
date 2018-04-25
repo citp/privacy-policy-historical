@@ -1,7 +1,14 @@
-<!--The following is the downloaded HTML source of the petitionhub.org privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324191147id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petitionhub.org privacy policy that was archived on 2018-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180425181355id_/http%3A//www.petitionhub.org/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+<!-- Chrome, Firefox OS, Opera and Vivaldi -->
+<meta name="theme-color" content="#30a5d0">
+<!-- Windows Phone -->
+<meta name="msapplication-navbutton-color" content="#30a5d0">
+<!-- iOS Safari -->
+<meta name="apple-mobile-web-app-status-bar-style" content="#30a5d0">
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
   <meta name="description" content="Privacy Policy of the PetitionHub.org website.">
@@ -26,7 +33,9 @@
   <link rel="icon" type="image/x-icon" href="../favicon.ico">
  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <meta property="og:title" content="Privacy Policy | PetitionHub.org">
+<meta property="fb:pages" content="1472143233032127">
+
+  <meta property="og:title" content="Privacy Policy">
   <meta property="og:description" content="Privacy Policy of the PetitionHub.org website.">
   
   
@@ -36,7 +45,7 @@
     
 <!--  <meta property="og:type" content="website"/>-->
   <meta property="og:image" content="https://www.petitionhub.org/images/logo.png">  
-  <title>Privacy Policy | PetitionHub.org</title>
+  <title>Privacy Policy</title>
    
 <!--minifiy css-->
 <link href="../min?f=style.css,css/jstwitter.css" rel="stylesheet" type="text/css"> 
@@ -44,7 +53,7 @@
 <link href="https://fonts.googleapis.com/css?family=News+Cycle:400,700" rel="stylesheet" type="text/css">
 
 
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=456600004475668"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> 
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&amp;version=v2.5&amp;appId=456600004475668"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> 
 
 <!--minifiy js-->
 <script language="JavaScript" async="" src="../min?f=gen_validatorv31.js" type="text/javascript"></script>
@@ -100,13 +109,29 @@ function addLink() {
   ga('create', 'UA-52834149-1', 'auto');
   ga('send', 'pageview');
 
-</script><script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=456600004475668";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script><!-- start header -->
+</script><script>
+      window.fbAsyncInit = function() {
+        FB.Event.subscribe(
+          'ad.loaded',
+          function(placementId) {
+            console.log('Audience Network ad loaded');
+          }
+        );
+        FB.Event.subscribe(
+          'ad.error',
+          function(errorCode, errorMessage, placementId) {
+            console.log('Audience Network error (' + errorCode + ') ' + errorMessage);
+          }
+        );
+      };
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk/xfbml.ad.js#xfbml=1&version=v2.5&appId=456600004475668";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script><!-- start header -->
  
 <div class="header" style="top:0px;width:100%;min-height:40px;height:auto;background-color:#f1f1f1;
 
@@ -127,13 +152,6 @@ function addLink() {
 
 </div>
 
-<div class="headerinclude" style="padding:2px;">
-
-<div style="float:left;margin-left:10px;">
-<a href="https://www.facebook.com/groups/PetitionsAnimalsLives/" target="_blank" title="Petitions And Animal Lives"><img src="../images/fbjgroup.jpg" style="border:2px solid #F00;"></a>
-
-</div>
-</div>
 
 <div class="headerfloatright">
 
@@ -171,7 +189,7 @@ function addLink() {
 <form name="fbloginmenu" action="sign-in-facebook.php" method="POST" style="display:none;">
              <input type="hidden" name="fbredirect" value="http://www.petitionhub.org/privacy-policy.php">
         	 </form><div style="float:left;padding:5px;margin-top:5px;">
-			<a href="#" onclick="document.fbloginmenu.submit();" rel="nofollow" title="Login with Facebook">
+			<a href="javascript:void(0);" onclick="document.fbloginmenu.submit();" rel="nofollow" title="Login with Facebook">
 			<img src="../images/facebook_small.png">
 			</a>
 			</div></div>
@@ -262,6 +280,11 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 <div style="clear:both;">&nbsp;</div>
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <a href="http://www.google.com/privacy_ads.html" target="_blank" rel="nofollow">http://www.google.com/privacy_ads.html</a><br><br>
 
+<h2>Facebook Ads</h2>
+<div style="width:100%;border-top:1px solid #ccc;"></div>
+<div style="clear:both;">&nbsp;</div>
+Some of the ads may be served by Facebook Audience Network.  You may opt out of the use of targeting for this ads by visiting: <a href=" https://m.facebook.com/ads/ad_choices " target="_blank" rel="nofollow">AD Choices</a><br><br>
+
 <h2>Changes to this privacy policy</h2>
 <div style="width:100%;border-top:1px solid #ccc;"></div>
 <div style="clear:both;">&nbsp;</div>
@@ -299,26 +322,6 @@ This document was last updated on March 20, 2016<br><br>
 <div class="content" style="min-height:0px;">
 <div style="clear:both;">&nbsp;</div>
 
-<div class="threeleft" style="border:none;">
-<div style="float:left;width:300px;height:292px;"> 
-    <div class="fb-like-box" data-href="https://www.facebook.com/AnimalPetitionsPage/" data-width="300" data-height="292" data-show-faces="true" data-stream="false" data-header="true"></div>
-</div> 
-</div>
-
-<div class="threemiddle" style="border:none;">
-
-<b>Follow <a href="https://www.facebook.com/nigel.cameron.against.animal.abuse" target="_blank">Nigel Cameron - The Animal Rights Activist</a> on Facebook:</b>
-<div style="clear:both;">&nbsp;</div>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fnigel.cameron.against.animal.abuse&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=300&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:60px;float:left;" allowtransparency="true"></iframe>
-
-<div style="clear:both;">&nbsp;</div>
-
-
-<a href="https://twitter.com/PetitionHub" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @PetitionHub</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-</div>
-
 <div class="threeright" style="border:none;">
 
 
@@ -332,11 +335,11 @@ This document was last updated on March 20, 2016<br><br>
 
 
 <div class="footerinclude" style="padding:10px;text-align:center;margin:0 auto;">
-Copyright © 2016 PetitionHub.org <br>
+Copyright © 2018 PetitionHub.org <br>
 </div>
 
 <div class="footerinclude" style="padding:10px;text-align:center;margin:0 auto;">
-</div>
+  <a href="switchssl.php?usesslmode=yes" rel="nofollow">View PetitionHub.org in Secure - HTTPS / SSL Mode</a></div>
 
 </div>
 <!--social-->
@@ -347,27 +350,6 @@ Copyright © 2016 PetitionHub.org <br>
 
 
 
-<!-- float -->
-<div class="socialFooterWrap">
-	<div class="social-links">
-    
-    <div style="float:left;color:#fff; font-size:20px;margin-left:10px;">
-     <img src="../images/fblike.png">
-    </div>
-        <div style="float:left;color:#fff; font-size:20px;margin-left:10px;">
-    
-    </div>
-   
-		<div class="socialClose"></div>
-         <div style="float:left;color:#fff; font-size:20px;margin-left:20px;width:200px;">
-		
-<div class="fb-like" data-href="https://www.facebook.com/No-More-Cruelty-Towards-Animals-1008150382584351/" data-width="150" data-layout="standard" data-action="like" data-show-faces="false" data-share="false"></div>
-         
-         </div>
-
-	</div>
-</div>
-<!-- float -->
 
 
 
