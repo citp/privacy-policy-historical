@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lancashiretelegraph.co.uk privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126130949id_/http%3A//www.lancashiretelegraph.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lancashiretelegraph.co.uk privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425025518id_/http%3A//www.lancashiretelegraph.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
