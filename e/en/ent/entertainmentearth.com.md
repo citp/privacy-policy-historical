@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109073612id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425093626id_/https%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](https://www.entertainmentearth.com/) |  |  [ ](https://www.entertainmentearth.com/hitlist.asp?collect=Pop%21+Vinyl+Figures&instockCheck=on)  
+|  [ ](https://www.entertainmentearth.com/) |  |  [ ](https://web.archive.org/web/20180425093626id_/https%3A//www.entertainmentearth.com/help/enesco-promo.asp)  
 ---|---|---  
   
 |    |  |     
@@ -18,10 +18,6 @@ Order by Phone:
 
 Monday - Friday:  
 7:00am - 6:00pm   
-Saturdays:  
-Nov. 18 and 25  
-Dec. 2, 9, and 16  
-10:00am - 2:00pm  
 Pacific Time
 
 Client Services:  
@@ -36,7 +32,7 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.news.entertainmentearth.com/experience)
+[](https://www.entertainmentearth.com/hitlist.asp?spotlight=5899)
 
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
