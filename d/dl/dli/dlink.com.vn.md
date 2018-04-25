@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlink.com.vn privacy policy that was archived on 2017-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171223011035id_/http%3A//www.dlink.com.vn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.com.vn privacy policy that was archived on 2018-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180425153337id_/http%3A//www.dlink.com.vn/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - D-Link Vietnam
 
