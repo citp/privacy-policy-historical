@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001235242id_/https%3A//www.thevideoink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevideoink.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426152135id_/https%3A//thevideoink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VideoInk
 
