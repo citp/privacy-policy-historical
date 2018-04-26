@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thecbdistillery.com privacy policy that was archived on 2017-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170915185541id_/https%3A//www.thecbdistillery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecbdistillery.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426104610id_/https%3A//www.thecbdistillery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The CBDistillery | We Protect Your Privacy
-
-Your cart is currently empty.
 
 PRIVACY STATEMENT
 
@@ -27,16 +25,9 @@ SECTION 3 – DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-SECTION 4 – SHOPIFY
+SECTION 4 – WOOCOMMERCE & WORDPRESS
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
-
-Payment:  
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
-For more insight, you may also want to read Shopify’s Terms of Service (https://www.shopify.com/legal/terms) or Privacy Statement (https://www.shopify.com/legal/privacy).
+Our store is hosted on a WordPress & Woocommerce. They provide us with the online e-commerce platform that allows us to sell our products and services to you. We store your data on a secure server behind a firewall with updated security, and encrypt your connection via SSL.
 
 SECTION 5 – THIRD-PARTY SERVICES
 
