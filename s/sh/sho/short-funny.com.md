@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-funny.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224061932id_/http%3A//www.short-funny.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426080312id_/http%3A//www.short-funny.com/terms.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,7 +38,7 @@ We use "cookies" to collect information. You can instruct your browser to refuse
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [ Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
 **Service Providers**
 
@@ -84,7 +84,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20171224061932id_/http%3A//www.short-funny.com/legal-notice.php)
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20180426080312id_/http%3A//www.short-funny.com/legal-notice.php)
 
 **
 
