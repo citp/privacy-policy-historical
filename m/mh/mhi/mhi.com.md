@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhi.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222142842id_/http%3A//www.mhi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhi.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426064320id_/http%3A//www.mhi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mitsubishi Heavy Industries, Ltd. Global Website
 
@@ -128,9 +128,18 @@ In obtaining the personal information of an MHI customer from the Website, MHI u
 
 ### (2) Collection of Browsing History
 
-The Website may use technologies such as access logs or cookies to acquire your browsing history for your more convenient use of the Website. The collected historical information is used only for the purposes of higher convenience of use, monitoring the use conditions of the Website and statistic use such as sum-up and analysis for service planning and better service.  
-Access logs include records of user IP addresses and part of the operating environment, but they cannot identify users.  
-You can reject to receive cookies or indicate a warning when you receive cookies by setting the browser accordingly. If you reject receiving cookies, you can use the MHI Website, but not all parts of the service.
+The Website collects information from your device in order to improve our services and provide a better user experience. The information collected is for example server access logs including system information and IP address, cookies and web beacons.  
+The collected information is anonymous and it is not possible to identify any specific individual or user.  
+You can reject cookies or get a warning when receiving a cookie by setting your browser accordingly. If you reject all cookies, you can still use the website, however some parts might not function properly. Contact the manufacturer or provider of your browser for details on how to change the settings.
+
+*Google Analytics  
+The Website uses Google Analytics provided by Google Inc. for collecting, recording, and analyzing browsing patterns. Google Analytics uses cookies to collect information, but does not collect any data that would enable individual users to be identified. To disable Google Analytics, download and install the “Google Analytics Opt-out Add-on” from the Google Analytics Opt-out Add-on download page, and change your browser’s add-on settings. The information collected is managed based on Google’s privacy policy.
+
+  * [Google Analytics Terms of Service](http://www.google.com/analytics/terms/us.html)
+  * [Google Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+  * [Google Analytics Opt-out Add-on](https://tools.google.com/dlpage/gaoptout?hl=en)
+
+
 
 ### (3) Others
 
