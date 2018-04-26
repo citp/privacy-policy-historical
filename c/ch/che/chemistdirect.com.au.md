@@ -1,94 +1,45 @@
-> *The following text is extracted and transformed from the chemistdirect.com.au privacy policy that was archived on 2014-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141123022803id_/http%3A//www.chemistdirect.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistdirect.com.au privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426210234id_/https%3A//www.chemistdirect.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ChemistDirect.com.au
+# Privacy Policy
 
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
+By using the website, you consent to the collection and use by us of any personal and other information you provide whilst using the website in accordance our Privacy Policy. If you do not agree to the Privacy Policy, please do not use the website.
 
-This privacy policy sets out how uses and protects any information that you give when you use this website. is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+What sort of information do we collect?
 
-## What we collect
+We collect personal information in accordance with the relevant privacy laws in Australia. Personal information is collected about you only on registration or when you visit certain parts of a website where you are invited to provide content, submissions and suggestions or participate in interactive online activities (i.e. community postings, voting, chat, games, or bulletin boards). Personal information can include your name, e-mail address, credit card details, demographic information about you (such as your postcode and age) and any other information of a personal nature which you provide. While we strive to protect our user's personal information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk.
 
-We may collect the following information:
+We also collect non-personal information such as your IP address and use 'cookies' on the website. The information it obtains from collecting IP addresses and using 'cookies' is not personal information about you. For more information, please read the section on IP addresses and cookies below.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+How do we use and disclose personal information?
 
+We use personal information to fulfil orders and for feedback purposes (to the extent that is explained when users provide the information), to process e-commerce transactions or to contact you about products or services or send you information that may be of interest to you.
 
+A user's email address will not be posted by us on our website. If we plan to post your personal information on the website, you will be given prior notification of such posting and given the option of preventing such posting.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section. 
+Please note, if you provide your credit card information to us in order to conduct an e-commerce transaction on the website, we will provide your information to participating merchants in order to process that transaction. We are not responsible for how that information may be used by participating merchants. From time to time we may make our mailing list available to carefully selected companies whose products or services may be of interest to you. If you would prefer not to receive offers from these other companies please let us know at the time of ordering by phone or mail to:
 
-## What we do with the information we gather
+Chemist Direct Privacy Officer  
+99 Spring St   
+Bondi Junction NSW 2022
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+Please note that financial information and any information you have provided regarding your health will never be shared.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+We will not transfer personal information about you to an organisation outside Australia without your consent. If at any we are required by law or legal process to release personal information about you, we must cooperate fully.
 
+You must be 18 years of age or over to use this site.
 
+How do we keep your personal information secure?
 
-## Security
+We cannot guarantee, in every circumstance, the security of the personal information you provide on the website. All incoming encrypted information is routed through our firewall, which serves as a gatekeeper for our system. Only data containing the correct authorisation is permitted past the firewall. Attempts to pass the firewall are constantly monitored for suspicious activity.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+How do we use IP Addresses and 'Cookies'?
 
-## How we use cookies
+We collect IP addresses for the purposes of system administration and usage analysis of the website and to report aggregated information to its advertisers. We use 'cookies' to track how and when customers use this website. 'Cookies' are used to see which areas are popular and which are not. Many improvements and updates are made to the website based on data collected by 'cookies' such as total number of visitors and pages viewed. This information is most easily tracked with cookies. If you accept the first tracking cookie from the website, you won't be offered as many afterwards. If you'd prefer, you can set your web browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the website, such as the shopping, contest, and game areas, will not function properly if you do so.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+We also use aggregated information (which is information recorded in any form about more than one individual) where the identity of the individual is not known and cannot be inferred from the information. We may use aggregated information to describe our User base to current or potential partners, investors and advertisers; after a survey, to understand and respond to market needs and preferences; or to make recommendations to other Users of our Website.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+We work with third parties to serve ads on sites owned or operated by other companies. Our ad servers, and those of our partners, use Cookies and Pixel Tags in order to anonymously identify your browser. Some third-party ad companies, such as ad networks, may combine anonymous information obtained in connection with activity on our Website with information obtained from other sources and/or sites. We do not use or share any personal information with any of our ad server partners, media partners or ad networks without your authorization.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+Changes to Privacy Policy
 
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@chemistdirect.com.au 
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to . 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+We reserve the right to modify this privacy statement at any time, so please review it frequently.
