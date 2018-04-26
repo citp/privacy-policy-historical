@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022054446id_/http%3A//scanerrors.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanerrors.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426160129id_/http%3A//www.scanerrors.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,14 +43,12 @@ ScanErrors.com may occasionally update this Privacy Policy. Any changes will be 
 
 **6\. CONTACT INFORMATION**
 
-For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20171022054446id_/http%3A//scanerrors.com/contact.php).
+For questions regarding this Privacy Policy please [contact us](https://web.archive.org/web/20180426160129id_/http%3A//www.scanerrors.com/contact.php).
 
 **7\. OPT OUT INSTRUCTIONS**
 
-To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20171022054446id_/http%3A//scanerrors.com/contact.php).
+To opt out of any communications from this website, please send an email through our [contact form](https://web.archive.org/web/20180426160129id_/http%3A//www.scanerrors.com/contact.php).
 
 Copyright © ScanErrors.com. All Rights Reserved.
-
-[istanbul escort](http://www.kurkderi.com/ "istanbul escort") [avcilar escort](http://www.rydis-robot.com/ "avcilar escort") [mecidiyekoy escort](http://www.4gsohbet.com/ "mecidiyekoy escort")
 
 Trademarks: Microsoft and Windows are registered trademarks of Microsoft Corporation. Other registered trademarks are trademarks oftheir respective owners. Disclaimer: ScanErrors.com is not affiliated with Microsoft Corporation, nor claim any such implied or direct affiliation. The information contained on this site is for informational purposes only. The owners of this site are compensated by relationships with the recommended software products.
