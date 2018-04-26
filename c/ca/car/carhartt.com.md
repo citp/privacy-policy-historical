@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carhartt.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225002346id_/http%3A//www.carhartt.com/content/carhartt-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhartt.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427003406id_/http%3A//www.carhartt.com/content/carhartt-privacy-policy) for the most accurate reproduction.*
 
 # Carhartt Privacy Policy
 
