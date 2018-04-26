@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntpc.co.in privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225193552id_/http%3A//www.ntpc.co.in/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntpc.co.in privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427004239id_/http%3A//www.ntpc.co.in/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NTPC
 
