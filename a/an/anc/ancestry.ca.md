@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115080452id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426023533id_/https%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Centre
 
@@ -28,7 +28,7 @@ You have the choice to make your tree private, which means other users cannot vi
 
 We use data from trees along with information in our archives and from other users to further enhance genealogy research and improve or develop new products and services for our users, and we use de-identified information from public trees, which does not include common identifying information, in external research with third-party collaborators.
 
-For more information, see [Privacy For Your Family Tree](http://www.ancestry.ca/cs/legal/PrivacyForYourFamilyTree) or see our [Privacy Statement](http://www.ancestry.ca/cs/legal/privacystatement).
+For more information, see [Privacy For Your Family Tree](https://www.ancestry.ca/cs/legal/PrivacyForYourFamilyTree) or see our [Privacy Statement](https://www.ancestry.ca/cs/legal/privacystatement).
 
 ### DNA and Health Data
 
@@ -52,7 +52,7 @@ We use a variety of cookies, beacons, and other similar technologies to optimise
 
 These technologies record limited information when you visit our sites, such as IP address, operating system, device ID, date and time of access, and the web pages visited. This collected information helps us to, for example, save your search results, remember your password, store your shopping cart, and provide you with relevant ads. We also use mobile analytics software to allow us to deliver and better understand the functionality of our websites.
 
-You can disable cookies at any time by changing your browser settings. [Learn more about how we use cookies](http://www.ancestry.ca/cs/legal/AboutCookies).
+You can disable cookies at any time by changing your browser settings. [Learn more about how we use cookies](https://www.ancestry.ca/cs/legal/AboutCookies).
 
 ## Frequently asked questions
 
@@ -71,7 +71,7 @@ Ancestry primarily uses information about you to provide and improve our service
 Does Ancestry share information about me? 
     
 
-Ancestry shares information as you direct us to, for example, if you make your family tree public, share your DNA results, or consent to participate in our Research Project. To be clear, we do not share common identifying information linked to your genetic or health data with third parties unless we obtain your explicit consent or are required to do so. Otherwise, we share information as described in our Privacy Statements, such as with our affiliated companies, other users, our service providers, our advertising partners, and in other limited scenarios, such as in response [to valid legal process](http://www.ancestry.ca/cs/legal/lawenforcement) or as appropriate to protect the rights, property, safety, confidentiality, or reputation of Ancestry, our affiliates, and our users.
+Ancestry shares information as you direct us to, for example, if you make your family tree public, share your DNA results, or consent to participate in our Research Project. To be clear, we do not share common identifying information linked to your genetic or health data with third parties unless we obtain your explicit consent or are required to do so. Otherwise, we share information as described in our Privacy Statements, such as with our affiliated companies, other users, our service providers, our advertising partners, and in other limited scenarios, such as in response [to valid legal process](https://www.ancestry.ca/cs/legal/lawenforcement) or as appropriate to protect the rights, property, safety, confidentiality, or reputation of Ancestry, our affiliates, and our users.
 
 You can read the Privacy Statement for the particular website(s) or service(s) you are using for more details about how Ancestry shares your data and your choices related to that sharing.
 
@@ -87,7 +87,7 @@ If you have questions about how to review, update or delete information, you sho
 Does Ancestry respond to law enforcement requests? 
     
 
-For all requests, Ancestry requires valid legal process in writing before producing any personal information about our users. We publish an annual [transparency report](http://www.ancestry.ca/cs/transparency) describing requests we received. When we receive a request, our team reviews it for compliance with legal requirements and our policies. If we believe a request is overly broad, we will seek to narrow it. We notify users prior to turning over any information in order to give them an opportunity to challenge the request unless it would be counterproductive or we are legally prevented from doing so.
+For all requests, Ancestry requires valid legal process in writing before producing any personal information about our users. We publish an annual [transparency report](https://www.ancestry.ca/cs/transparency) describing requests we received. When we receive a request, our team reviews it for compliance with legal requirements and our policies. If we believe a request is overly broad, we will seek to narrow it. We notify users prior to turning over any information in order to give them an opportunity to challenge the request unless it would be counterproductive or we are legally prevented from doing so.
 
 How does Ancestry use data about me in scientific research? 
     
@@ -103,4 +103,4 @@ Ancestry may market to you online, via email, or through other methods, dependin
 
 We may deliver “targeted” or “interest-based” advertising on our websites and elsewhere on the internet, based on your interests and activities on the internet. Please visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices/#completed) or the [Digital Advertising Alliance](http://www.aboutads.info/choices/#completed) for additional information about interest-based ads.
 
-Targeted ads placed on our behalf contain information on or near them about the third-party delivering the ads and how to opt out of receiving similar ads from that party. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising and generic ads will still appear on our websites. For more information about opting out of targeted ads from other advertisers, such as Facebook, please see [Cookies and Advertising](http://www.ancestry.ca/cs/legal/AboutCookies).
+Targeted ads placed on our behalf contain information on or near them about the third-party delivering the ads and how to opt out of receiving similar ads from that party. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising and generic ads will still appear on our websites. For more information about opting out of targeted ads from other advertisers, such as Facebook, please see [Cookies and Advertising](https://www.ancestry.ca/cs/legal/AboutCookies).
