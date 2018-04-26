@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114015044id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426165849id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ A "cookie" is a piece of software which can stick to a computer's hard drive and
 
 **9\. Third party advertising companies**
 
-Newsquest uses third-party advertising companies such as Google to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, click [here](http://www.networkadvertising.org/).
+Newsquest uses third-party advertising companies such as Google to serve ads when you visit our websites. Newsquest also uses third party technologies, including Doubleclick, to deliver efficient media buying. The companies that facilitate these services may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
 **10\. Data protection**
 
