@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amaltv.net privacy policy that was archived on 2017-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170627164309id_/http%3A//www.amaltv.net/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amaltv.net privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427005535id_/http%3A//www.amaltv.net/info/privacy) for the most accurate reproduction.*
 
 # AmalTV :: Info » Privacy Policy
 
