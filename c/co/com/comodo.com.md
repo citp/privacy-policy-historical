@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230171126id_/https%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comodo.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428004947id_/https%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
 # Policies and Practices of the Comodo Companies
 
@@ -12,7 +12,7 @@ If you are located in California, IP addresses are considered personally identif
 
 In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply.  Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
 
-For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20171230171126id_/https%3A//www.comodo.com/repository/css-information-collection.php)
+For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20180428004947id_/https%3A//www.comodo.com/repository/css-information-collection.php)
 
 **Children’s Online Privacy Protection Act Statement**
 
@@ -34,7 +34,7 @@ Comodo's websites use Google Analytics, a web analytics service provided by Goog
 
 **Re-Targeting**
 
-Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising](http://www.networkadvertising.com/?key5sk1=399) .org/managing/opt_out.asp and allows the consumer to opt-out of such retargeting programs.
+Comodo permits the operation of a retargeting consumer marketing program, including, but not limited to, the provision of anonymous consumer information to a third-party provider of such a program. A link to the Network Advertising Initiative’s consumer opt-out page is located at [www.networkadvertising](http://www.networkadvertising.com/) .org/managing/opt_out.asp and allows the consumer to opt-out of such retargeting programs.
 
 **Log Files**
 
@@ -58,7 +58,7 @@ Comodo provides the ability to send emails to your email contacts. You can use t
 
 **Security**
 
-Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using [Secure Sockets Layer (SSL)](http://www.instantssl.com/?key5sk1=399). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
+Comodo protects information both online and off-line. The transmission of information, including any payment information, is encrypted and protected using [Secure Sockets Layer (SSL)](http://www.instantssl.com/). Stored customer information is kept in a secure environment where access is restricted to employees who need the information to perform a specific job (for example billing administration or the development team). Employees are required to use password-protected screen-savers and keep their computers up-to-date.
 
 **Permissions**
 
