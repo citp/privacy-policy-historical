@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225210219id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipwire.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427215802id_/http%3A//www.shipwire.com/w/support/privacy) for the most accurate reproduction.*
 
 # Corporate site - Privacy Statement
 
 ## Ingram Micro Privacy Statement
+
+_(_ _a_ _s of Dec. 8, 2017_ _)_
 
 ### Purpose and Scope
 
