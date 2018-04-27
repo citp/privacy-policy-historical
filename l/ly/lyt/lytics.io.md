@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lytics.io privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221094732id_/http%3A//www.getlytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lytics.io privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427032623id_/https%3A//www.lytics.com/privacy) for the most accurate reproduction.*
 
 # Personalized Marketing and Customer Data Platform | Lytics
 
@@ -33,7 +33,7 @@ As we develop our businesses, we might sell or buy businesses or assets. In the 
 
 ## Behavioral Targeting
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by notifying us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#50232520203f2224103c29243933237e393f). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by notifying us at [support@lytics.io](mailto:support@lytics.io). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 The Lytics Privacy Policy does not apply to, and we cannot control the activities of, third-party ad servers and ad networks. Please contact or consult the respective privacy policies of such ad servers or ad networks for more information.
 
@@ -53,7 +53,7 @@ Please understand, however, that no security system is impenetrable. We cannot g
 
 Lytics complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Lytics has certified that it adheres to the Privacy Shield Principles. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
-In compliance with the Privacy Shield Principles, Lytics commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Lytics at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9ceceef5eafdffe5dcf0e5e8f5ffefb2f5f3)
+In compliance with the Privacy Shield Principles, Lytics commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Lytics at: [privacy@lytics.io](mailto:privacy@lytics.io)
 
 Lytics has further committed to refer unresolved privacy complaints under the Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
@@ -97,7 +97,7 @@ Lytics will offer individuals the opportunity to choose (opt-out) whether their 
 
 For sensitive personal information, Lytics will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
 
-Lytics will provide individuals with reasonable mechanisms to exercise their choices. Please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3343415a4552504a735f4a475a50401d5a5c) for more information.
+Lytics will provide individuals with reasonable mechanisms to exercise their choices. Please contact [privacy@lytics.io](mailto:privacy@lytics.io) for more information.
 
 ### Data Integrity
 
@@ -111,7 +111,7 @@ In cases of onward transfer to third parties of data of EU or Swiss individuals 
 
 ### Access and Correction
 
-Lytics provides individuals the right to access personal information that it holds about them. In addition, Lytics will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7f0f0d16091e1c063f13060b161c0c511610). If requested to remove data, we will respond within a reasonable timeframe.
+Lytics provides individuals the right to access personal information that it holds about them. In addition, Lytics will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query [privacy@lytics.io](mailto:privacy@lytics.io). If requested to remove data, we will respond within a reasonable timeframe.
 
 ### Security
 
@@ -133,7 +133,7 @@ Lytics
 1000 SW Broadway, Suite 1800  
 Portland, Oregon 97205
 
-Or by e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d6d6f746b7c7e645d716469747e6e337472)
+Or by e-mail to [privacy@lytics.io](mailto:privacy@lytics.io)
 
 ### Changes to Privacy Policy
 
@@ -141,7 +141,7 @@ This Policy may be amended from time to time, consistent with the requirements o
 
 ## Protecting the privacy of young children is important.
 
-For that reason, Lytics does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to access or use the Service or to provide any personal information to Lytics. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f2818782829d8086b29e8b869b9181dc9b9d).
+For that reason, Lytics does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to access or use the Service or to provide any personal information to Lytics. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@lytics.io](mailto:support@lytics.io).
 
 ## Notification Procedures
 
@@ -161,4 +161,4 @@ This Privacy Policy is effective as of the date stated at the top of this Privac
 
 ## How to Contact Us
 
-If you have questions about this Privacy Policy, please contact Lytics via e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85f6f0f5f5eaf7f1c5e9fcf1ece6f6abecea) with “PRIVACY POLICY” in the subject line or at the contact information on our Contact Us page.
+If you have questions about this Privacy Policy, please contact Lytics via e-mail at [support@lytics.io](mailto:support@lytics.io) with “PRIVACY POLICY” in the subject line or at the contact information on our Contact Us page.
