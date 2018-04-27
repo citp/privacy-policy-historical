@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the man.ac.uk privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127015315id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the man.ac.uk privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427123841id_/http%3A//www.manchester.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy notice | The University of Manchester
 
@@ -96,4 +96,8 @@ We utilise tools and resources to help us understand our stakeholders, staff, st
 
 ## Statement
 
-This privacy statement applies to all University websites that link to this page. Please note that some sites related to the University may collect and use data differently. These sites will have a local privacy policy explaining these practices. If the user leaves a University website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information that users provide when visiting such third party websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
+This privacy statement applies to all University websites that link to this page. Please note that some sites related to the University may collect and use data differently. These sites will have a local privacy policy explaining these practices. If the user leaves a University website and visits a website operated by a third party, The University of Manchester cannot be held responsible for the protection and privacy of any information that users provide when visiting such third-party websites. Accordingly, users should exercise caution and review the privacy statement applicable to the website in question.
+
+## Public Twitter data
+
+The University of Manchester uses publicly available information, such as Twitter handles, URLs mentioned in tweets and hashtag usage, to target tweets promoting the University’s research to Twitter users who have indicated an interest in topics relevant to our research activities. This data is collected manually and through third-party analytics platforms that search for links and references to published research on Twitter.
