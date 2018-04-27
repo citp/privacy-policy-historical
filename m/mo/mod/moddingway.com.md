@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220102615id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddingway.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427122525id_/http%3A//www.moddingway.com/page/privacy.html) for the most accurate reproduction.*
 
 # ModdingWay - FIFA 18, NBA 2K18, PES 2018, FIFA 17, NBA 2K17, PES 2017, FIFA 16,FIFA 14, NBA 2K14 Video Games | Mods, Patches, Updates, Downloads
 
