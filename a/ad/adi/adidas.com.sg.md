@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.com.sg privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701113249id_/http%3A//www.adidas.com.sg/help-topics-privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.com.sg privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427211121id_/http%3A//www.adidas.com.sg/help-topics-privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
