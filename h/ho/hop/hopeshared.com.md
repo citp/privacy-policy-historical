@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hopeshared.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618224729id_/http%3A//hopeshared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopeshared.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427115331id_/http%3A//hopeshared.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hope Shared
+# Privacy Policy
 
 This privacy policy sets out how HopeShared.com uses and protects any information that you give HopeShared.com when you use this website.
 
