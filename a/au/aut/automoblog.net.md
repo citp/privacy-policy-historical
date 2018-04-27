@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127001130id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automoblog.net privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427044654id_/http%3A//www.automoblog.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
