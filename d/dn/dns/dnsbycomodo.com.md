@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnsbycomodo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230171126id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsbycomodo.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428004947id_/http%3A//www.comodo.com/repository/privacy-policy.php) for the most accurate reproduction.*
 
 # Policies and Practices of the Comodo Companies
 
@@ -12,7 +12,7 @@ If you are located in California, IP addresses are considered personally identif
 
 In the event that third party features and functionalities are incorporated in or made available in or through Comodo products, then the policies of those third parties apply.  Please visit each third party’s license agreement and privacy policy to better understand their terms of use and data collection practices.
 
-For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20171230171126id_/http%3A//www.comodo.com/repository/css-information-collection.php)
+For Comodo Security Solutions, Inc. products and services, additional information collection is described in the policy at [CSS Information Collection.](https://web.archive.org/web/20180428004947id_/http%3A//www.comodo.com/repository/css-information-collection.php)
 
 **Children’s Online Privacy Protection Act Statement**
 
