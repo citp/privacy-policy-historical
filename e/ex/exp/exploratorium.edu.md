@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2017-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170709211609id_/https%3A//www.exploratorium.edu/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427050705id_/https%3A//www.exploratorium.edu/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Exploratorium
 
-####  Last updated: 10-14-2014
+####  Last updated: 01-16-2018
 
 Your privacy is important to us at the Exploratorium. In this privacy policy, we explain how we collect information from visitors, including any personal information, and what we do with that information. We also describe how we protect any personal information you provide, and how you can opt out from different types of data collection.  
 
@@ -100,7 +100,7 @@ If you do not want to receive a particular e-mail newsletter subscription from u
 
 ####  Opting Out of Specific Uses of Cookies (Including Cookies Used for Behavioral Ad Tracking)
 
-You can customize how our website sets cookies in your browser by using our Cookie Preferences tool, accessible via the “Cookie Preferences” link on our website. This feature allows you to opt out of non-required cookies used for website functionality and for cookies which allow delivery of ads based on your browsing behavior, by setting specific opt-out cookies for third-party services used on our website, if available. To use the Cookie Preferences tool, you must enable third-party cookies in your browser. If you delete or clear your browser's cookies, you can return to the Cookie Preferences tool and re-enable your cookie settings.
+You can customize how our website sets cookies in your browser by using our Cookie Preferences tool, accessible via the “Cookie Preferences” link on our website. This feature allows you to opt out of non-required cookies used for website functionality and for cookies which allow delivery of ads based on your browsing behavior, by setting specific opt-out cookies for third-party services used on our website, if available. To use the Cookie Preferences tool, you must use a [compatible web browser](https://web.archive.org/about/cookie-preference-browser-requirements) (and a [supported mobile operating system](https://web.archive.org/about/cookie-preference-browser-requirements) if using a mobile device) and you must enable third-party cookies in your browser. If you delete or clear your browser's cookies, you can return to the Cookie Preferences tool and re-enable your cookie settings.
 
 ####  Opting Out of Analytics
 
