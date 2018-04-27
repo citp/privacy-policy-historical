@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softorama.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227014900id_/https%3A//www.softorama.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softorama.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427174021id_/https%3A//www.softorama.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Softorama
 
