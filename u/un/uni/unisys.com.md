@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623052753id_/http%3A//www.unisys.com/unisys-legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisys.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427140638id_/http%3A//www.unisys.com/unisys-legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,14 +9,14 @@ We developed this ​privacy statement to provide information you need to make s
   * **What Personal Data We Collect and Process** through our websites and business activities, including client data.
   * **How We Use Your Personal Data**
   * **How We Protect Your Personal Data**
-  * **With Whom We Share Your Personal Data**, including information about how we may transfer your personal data internationally and our self-certification to EU-US Privacy Shield and the Swiss-US Safe Harbor.
+  * **With Whom We Share Your Personal Data**, including information about how we may transfer your personal data internationally and our self-certification to EU-US Privacy Shield and the Swiss-US Privacy Shield.
   * **How We Respect Your Privacy in Marketing**, including information about our use of cookies and data tools that we use to tailor your Unisys experience and improve our interaction with you.
   * **How To Request Access To Your Personal Data**
   * **How To Contact Us** ​
 
 
 
-​For​ information describing how we treat personal data you provide for recruiting and hiring purposes, please review our [Recruiting](http://www.unisys.com/unisys-legal/recruiting) Privacy Statement. Please note that neither this Privacy Statement nor the Recruiting Privacy Statement cover the handling of our associate personal data. We cover the collection and processing of associate personal data through internal policies, processes and notices.
+​For​ information describing how we treat personal data you provide for recruiting and hiring purposes, please review our [Recruiting](https://web.archive.org/unisys-legal/recruiting) Privacy Statement. Please note that neither this Privacy Statement nor the Recruiting Privacy Statement cover the handling of our associate personal data. We cover the collection and processing of associate personal data through internal policies, processes and notices.
 
 **What Personal Data We Collect and Process​​**
 
@@ -60,9 +60,9 @@ As an IT and security services company, Unisys has implemented global privacy pr
 
 If you reside outside of the EU or Switzerland, by providing your personal data, you consent to the sharing of your personal data as described above and any resulting cross-border transfers.
 
-With respect to personal data coming from the EU or Switzerland, Unisys complies with the [EU-US Privacy Shield Framework](https://www.privacyshield.gov/) set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from individuals in the European Union member countries and the [Swiss-US Safe Harbor Framework](https://safeharbor.export.gov/swisslist.aspx) for personal data from Switzerland.
+With respect to personal data coming from the EU or Switzerland, Unisys complies with the [EU-US and Swiss-US Privacy Shield Frameworks](https://www.privacyshield.gov/) set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from individuals in the European Union member countries and Switzerland.
 
-Unisys has certified that it adheres to the Privacy Shield/Safe Harbor Privacy Principles and agrees that if there is any conflict between the principles in this Privacy Statement and the Privacy Shield/Safe Harbor Privacy Principles, the Privacy Shield/Safe Harbor Privacy Principles shall govern. To learn more about the Privacy Shield program, and to view our self-certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). For more information about the Swiss-US Safe Harbor program and to view our self-certification, please visit <https://safeharbor.export.gov/swisslist.aspx>. The US Federal Trade Commission has jurisdiction over Unisys’ compliance with the Privacy Shield and Safe Harbor Frameworks.
+Unisys has certified that it adheres to the Privacy Shield Privacy Principles and agrees that if there is any conflict between the principles in this Privacy Statement and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall govern. To learn more about the Privacy Shield program, and to view our self-certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). ​The US Federal Trade Commission has jurisdiction over Unisys’ compliance with the Privacy Shield.
 
 **How We Respect Your Privacy in Marketing**
 
@@ -96,13 +96,13 @@ If you need to correct or update the personal data you provided to us, in many c
 
 **How To Contact Us​**
 
-If you have any questions or comments regarding this statement or our privacy practices, or any concerns regarding a possible violation of this statement, our practices or any applicable privacy law, or a concern or complaint about our practices related to the Privacy Shield and Safe Harbor, please contact the [Unisys Corporate Compliance Office](http://outreach.unisys.com/LP=914) or our [Unisys Compliance Helpline, www.unisyscompliance.com](http://www.unisyscompliance.com/) and we will promptly respond.
+If you have any questions or comments regarding this statement or our privacy practices, or any concerns regarding a possible violation of this statement, our practices or any applicable privacy law, or a concern or complaint about our practices related to the Privacy Shield, please contact the [Unisys Corporate Compliance Office](http://outreach.unisys.com/LP=914) or our [Unisys Compliance Helpline, www.unisyscompliance.com](http://www.unisyscompliance.com/) and we will promptly respond.
 
-For any Privacy Shield or Safe Harbor complaints that cannot be resolved with us directly, EU/Swiss individuals may bring a complaint through the JAMS alternative dispute resolution process. Information about how to file a complaint with JAMS can be found at: <https://www.jamsadr.com/eu-us-privacy-shield>. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+For any Privacy Shield ​complaints that cannot be resolved with us directly, EU/Swiss individuals may bring a complaint through the JAMS alternative dispute resolution process. Information about how to file a complaint with JAMS can be found at: <https://www.jamsadr.com/eu-us-privacy-shield>. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
 
 **W​ebsite Terms of Use/Links To Other Websites​**
 
-We have Terms of Use for users of our websites. For more information, please see our [Terms of Use](http://www.unisys.com/unisys-legal/terms-of-use).
+We have Terms of Use for users of our websites. For more information, please see our [Terms of Use](https://web.archive.org/unisys-legal/terms-of-use).
 
 Please note that as a convenience to our website visitors, we sometimes provide links to other websites. These linked sites are not under the control of Unisys and we are not responsible for their content.
 
@@ -110,7 +110,7 @@ Please note that as a convenience to our website visitors, we sometimes provide 
 
 We may update, amend or remove this Privacy Statement from time to time without notice. When we update or amend this statement, we will also update the date at the bottom. Only the current statement is effective, so please review it periodically.​
 
-Effective September 28, 2016​
+Effective July 20, 2017​
 
 ​[Unisys Corporate Co​mpliance Office](http://outreach.unisys.com/LP=914)
 
