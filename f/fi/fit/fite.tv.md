@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fite.tv privacy policy that was archived on 2017-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170903093159id_/https%3A//www.fite.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fite.tv privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428223043id_/https%3A//www.fite.tv/p/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FITE
+# Privacy Policy - FITE
 
 When you use the FITE mobile application, the FITE website and the content feeds and services provided to you on or through the FITE mobile application (“Service”), we may ask you to provide us with certain personal information that can be used to contact or identify you for use of the Service. Personal information may include your name, phone number and email address. We will use your personal information mainly to provide the Service to you and process your support requests.
 
