@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228025115id_/https%3A//rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428140520id_/https%3A//rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer > Privacy & User Policies
 
