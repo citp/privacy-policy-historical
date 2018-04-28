@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manageflitter.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065637id_/https%3A//manageflitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageflitter.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428160347id_/https%3A//manageflitter.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ManageFlitter
 
