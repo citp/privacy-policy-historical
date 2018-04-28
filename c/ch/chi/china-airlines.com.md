@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the china-airlines.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011153143id_/https%3A//www.china-airlines.com/tw/en/terms-and-conditions/information-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the china-airlines.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428195119id_/https%3A//www.china-airlines.com/tw/en/terms-and-conditions/information-security) for the most accurate reproduction.*
 
 # Information Security Policy | China Airlines
 
