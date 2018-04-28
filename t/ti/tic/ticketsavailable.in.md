@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketsavailable.in privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222105945id_/http%3A//ticketsavailable.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsavailable.in privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428151957id_/http%3A//ticketsavailable.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tickets Available ~All India Events Ticket Booking Portal
+# Privacy Policy – India Vs West Indies 2 Test 5 ODI & 3 T20 Tickets 2018 ~Schedule
 
 This Privacy Policy governs the manner in which **ticketsavailable** collects, uses, maintains and discloses information collected from users of the **www.ticketsavailable.in** website. This privacy policy applies to the Site and all products and services offered by ticketsavailable.
 
