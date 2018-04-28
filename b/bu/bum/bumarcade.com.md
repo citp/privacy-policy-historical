@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumarcade.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911142525id_/http%3A//bumarcade.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumarcade.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428095251id_/http%3A//bumarcade.com/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fun Games
 
