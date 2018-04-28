@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khvdo.com privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919012640id_/http%3A//www.video4khmer16.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khvdo.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428072224id_/http%3A//www.video4khmer33.info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
