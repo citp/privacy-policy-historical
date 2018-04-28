@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gadgetsay.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033133id_/http%3A//www.gadgetsay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetsay.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428172211id_/https%3A//gadgetsay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Gadgetsay collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.gadgetsay.com website (“Site”).
+This Privacy Policy governs the manner in which Gadgetsay collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.gadgetsay.com website (“Site”).
 
 ### Personal identification information
 
@@ -42,7 +42,11 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 
 ### Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
+
+Gadgetsay.com can contract with any site but if any faulty charges found on another site the contract will be canceled, if the payment is already made to Gadgetsay then they will pay back the same amount to the contractor. And the contract becomes void.
+
+In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 ### Advertising
 
@@ -68,4 +72,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
-This document was last updated on June 06, 2016
+This document was last updated on June 06, 2017, We change our Privacy Policy, Contact us, Advertising Page and Terms and Condition after every 6 Months if Necessary.
