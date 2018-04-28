@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606065343id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428155603id_/https%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
 # CIC News - Privacy Policy
 
 CICNews.com is part of the Campbell Cohen Immigration Network (henceforth referred to as the CCIN or “our” or “we”) which is a division of The Campbell Cohen Law Firm. This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada.
 
-The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), [Canadaworkvisa.ca](http://www.canadaworkvisa.ca/), [Canadavisa.com](http://www.canadavisa.com/).
+The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), [Canadavisa.com](http://www.canadavisa.com/), and [Canadastudynews.com](http://www.canadastudynews.com/).
 
 **Our postal address is: 1980 Sherbrooke Street West, Suite 800,  
 Montreal, Quebec, Canada  
