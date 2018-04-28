@@ -1,97 +1,73 @@
-> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202061121id_/http%3A//civitasmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428235811id_/http%3A//www.limaohio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Civitas Media - civitasmedia.com
+# Privacy Policy - The Lima News
 
-**CIVITAS MEDIA, LLC**
+This is the Privacy Policy for all Web sites owned or operated by Aim Media Midwest  (“Aim” “we” or “our”), including, without limitation the Web sites listed (collectively, the “Site”). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to this Site.
 
-**PRIVACY POLICY**
+**Managing Information Preferences**
 
-**Last Updated: 03/15/2016**
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at:
 
-_**Privacy Policy Overview**_
+2980 N. National Road, Suite A
 
-Civitas Media, LLC (“Civitas,” “us,” or “we”) knows that you care how information about you is used and shared and respects the privacy of the visitors to the [www.www.civitasmedia.com](http://www.www.civitasmedia.com/) website (this “Site”). We have created this Privacy Policy (“Privacy Policy”) to demonstrate our commitment to privacy and security and supplement our [Terms of Service](http://www.www.civitasmedia.com/terms) (“Terms of Service”) for the Site. This Privacy Policy is an agreement between Civitas and you, as the user of this Site (“you”). It explains what information of yours will be collected by us when you use this Site, how the information will be used, how you can control the collection, how we may change this Privacy Policy, and the steps we take to ensure that your personal information is protected. We request that you read this Privacy Policy carefully.
+Columbus, IN 47201
 
-In this Privacy Policy, “personal information” means any information by which you can be identified or contacted, including but not limited to, your name (first and last), mailing address, email address, telephone number, billing information, etc.
+E-mail: webstaff@aimmediaindiana.com
 
-All activities which you engage in on this Site are voluntary. You are not required to provide any personal information to us unless you choose to access features or services on the Site which require the information. If you do not agree with the terms of this Privacy Policy or the Terms of Service posted on this Site, then you should immediately exit this Site and discontinue using the Site. By your use of this Site, you signify your agreement to the terms of this Privacy Policy as well as to our Terms of Service. The Terms of Service of this Site are expressly incorporated herein by reference and made a part of this Privacy Policy. This Privacy Policy applies only to information collected through this Site and does not apply to any information we may collect from you at any place other than this Site.
+If you would like to correct, update, or change your personal information with us please contact us the same way.
 
-_**Information We Collect**_
+**What Types Of Information Do We Collect?**
 
-**User-Provided Information** **:** In order to access certain interactive features of our website we may collect personal information, such as your name, email address, street address, age and gender identification or photographs, when, for example, you register for or subscribe to certain forums, products or services or [contact customer service](mailto:CIVHR@www.www.civitasmedia.com).
+We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
 
-**Cookies Information:** When you visit the Site, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the Site. A cookie does not collect personal information about you. We use both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site or services may not function properly if the ability to accept cookies is disabled.
+We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
 
-**Log File Information:** Log file information is automatically reported by your browser each time you access a web page. When you register with or view our Site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) addresses or other device identifiers, browser information, Internet Service Provider (“ISP”), operating system, location, date/time stamp, clickstream data, referring/exit pages and URLs, domain names, landing pages, pages viewed, and other such information.
+We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving.
 
-_**How We Use Your Information**_
+**How Do We Use The Information We Collect?**
 
-Certain features of our Site require that you provide personal information in order to access circulation tools, e-mail blasts, e-ditions, and provide user comments. Therefore, we may use personal information to provide you access to such content or features. For example, if you choose to post a comment on the Site, subscribe to an e-mail blast, or register for a contest, we may use your personal information to create a user profile. These are just a few examples and do not represent all of the ways in which Civitas may use your personal information. 
+We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
 
-Any personal information or content you voluntarily disclose for posting to the Site (for instance, any user content you post) becomes available to the public via the Site and our business partners. User content includes, but is not limited to, reviews, testimonials, comments, photos, videos, biographical information, blog posts, social media posts, etc. If you remove user content, copies may remain viewable in cached and archived pages or if other users have copied or stored your user content.
+We use personal information and non-personal information for internal purposes, including:
 
-By providing Civitas your email address, you consent to our using the email address provided to send you Site and service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages including, but not limited to account status, legal updates, changes to features of the Site or services, special offers or promotions, or other account information. 
+  * enhancing your experience at the Site;
+  * performing administration and technical support for the Site;
+  * enabling you to enter sweepstakes, contests and other promotions;
+  * enabling you to use certain services and features available on or through the Site;
+  * creating aggregate information about demographics and usage patterns;
+  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and
+  * enabling purchases of goods and services.
 
-_**Third-Party Disclosure & Analytics**_
 
-Civitas utilizes certain third-parties for purposes of data collection, and these third parties may have access to user information provided to Civitas. By continuing to utilize interactive services on our Site you consent to your information possibly becoming available to such third parties. These third parties may include [Google Analytics](https://www.google.com/intl/en/policies/privacy/) and [Quantcast](https://www.quantcast.com/privacy/), which may provide incidental information to social media cites, such as but not limited to [Facebook](https://www.facebook.com/policy.php), [Twitter](https://twitter.com/privacy?lang=en), [Google+](https://www.google.com/policies/privacy/). 
 
-Civitas may use certain information about you and/or your user content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Site is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions. 
+We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address.
 
-Civitas reserves the right, but has no obligation, to monitor the user content you post on the Site. Civitas has the right to remove any such information or material for any reason or no reason including, without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Service, or to protect or defend Civitas’s rights or property or those of any third party. Civitas also reserves the right to remove information upon the request of any third party.
+We also may share personal information with entities controlling, controlled by, or under common control with AIM. In the event that AIM is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our Site and services; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure.
 
-_**How We Share Your Information**_
+We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to “opt-out” of the collection of information from such cookies, please click here [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp%3E).
 
-**Personally Identifiable Information:** Civitas will not rent or sell your personal information to others. We disclose potentially personally-identifying and personally-identifying information to those of our employees, contractors (including website operators), affiliated organizations, service providers and other third parties that provide support services to us or help us market our products and services, administer our programs and operations, fulfill your requests, administer surveys, or process any other information on our behalf to provide services available at our Site.
+Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to AIM or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission.
 
-Except as otherwise described in this Privacy Policy, Civitas will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Service, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our Site; and (c) to exercise or protect the rights, property, or personal safety of Civitas, our users or others.
+**Security**
 
-We fully cooperate with law enforcement agencies in identifying those who use our Site or services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful, as determined in our sole discretion. Release of your personal information for security purposes, as described in this Privacy Policy to any person or entity under any circumstances shall be based on a determination made solely by us, exercising our own discretion, permission for which is expressly granted by you to us in accordance with this Privacy Policy.
+We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
 
-**Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain services.
+**Links To Third-Party Web Sites**
 
-_**How We Protect Your Information**_
+The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
 
-Civitas utilizes commercially reasonable physical, managerial, and technical safeguards in line with industry standards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Civitas or the Site and you do so at your own risk. Once we receive your transmission of information, Civitas makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. While we strive to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online.
+**Discussion Board, Forums and Other User Generated Content**
 
-_**User Choices About Your Information**_
+Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
 
-When using our Site you have the choice to update certain aspects of your personal information that you provide. For example, you may be able to update personal information such as your e-mail address when you post comments to our Site. However, if you have posted or submitted a news story to our Site under a former e-mail address prior to any updates, the previous e-mail address may remain.
+**Children’s Privacy Statement**
 
-**Do Not Track Disclosure:** Some browsers or other tools include “Do Not Track” (DNT) features which, when turned on, send a signal to websites you visit indicating that you do not wish to be tracked across websites over time. The Worldwide Web Consortium (W3C) has been working with industry groups and regulators to develop a DNT browser technology standard to provide a common understanding as to how to interpret the DNT signals, but to date no standard has been adopted. Since there is no standard at this time, Civitas does not currently respond to DNT signals. Civitas will follow the progress of the W3C in developing the standard.
+We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
 
-_**Children’s Privacy (COPPA)**_
+**Policy Changes**
 
-Civitas does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 should provide any personal information to or on this Site. In the event we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information promptly. If you believe that we might have any information from or about a child under 13, please [contact us](http://www.www.civitasmedia.com/contact). We encourage parents and guardians of children under 18 to regularly check and monitor their children’s use of email and other activities online.
+If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
 
-_**Links to Other Websites**_
-
-We are not responsible for the practices employed by websites linked to or from our Site or the information or content contained therein. Civitas may provide links to other websites to you solely as a convenience, and the inclusion of linked sites does not imply endorsement by Civitas of any of the linked sites. Please remember that when you use a link to go from our Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our Site, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding. We do not ensure the security of your personal information if you visit websites not belonging to Civitas.
-
-_**California Online Privacy Protection Act of 2003 (CalOPPA)**_
-
-The California Online Privacy Protection Act, or CalOPPA, is the first state law in the United States to require commercial websites and online services to post a privacy policy. 
-
-See more at [https://oag.ca.gov/privacy/privacy-laws](https://oag.ca.gov/privacy/privacy-laws)
-
-In accordance with CalOPPA, we agree to the following:
-
-You can visit our Site anonymously, though this may limit the content you may see. We will provide a link to this Privacy Policy at all times on the first significant page upon entering our Site. This link will appear in a prominent location and include the word “Privacy” so that it may be easily found.
-
-_**Changes to Our Privacy Policy**_
-
-We reserve the right to change this Privacy Policy at any time. If we change our privacy policies and procedures, we will post those changes on our Site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes, modifications, additions, or deletions to this Privacy Policy will be effective immediately on their posting to this Site. Your continued use of the Site after we post any such modifications will constitute your acknowledgment of the modified policy and your agreement to abide and be bound by the modified policy. We will revise the “Last Updated” date found at the beginning of this Privacy Policy when it is updated.
-
-_**Contact Us**_
-
-If you have any questions about this Privacy Policy, the practices of this Site, your dealings with this Site, or wish to update us with your preferences, you may contact us via the [Contacting Us link](http://www.www.civitasmedia.com/contact) or by phone by calling (704) 897-6020.  You may also write to us at:
-
-Civitas Media, LLC
-
-130 Harbour Place Drive Suite 300
-
-Davidson, NC 28036
-
-We ask that you not disclose any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) when contacting us.
+Effective Date 01/11/2018
