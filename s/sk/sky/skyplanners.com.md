@@ -1,78 +1,88 @@
-> *The following text is extracted and transformed from the skyplanners.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320181619id_/http%3A//www.skyplanners.com/cms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyplanners.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428081726id_/http%3A//www.skyplanners.com/privacy-policy) for the most accurate reproduction.*
 
-# Sky Planners
+# Security & Privacy Policy | Sky planners
 
-  
-The SkyPlanners.com is committed to protecting your privacy and safe online experience. This statement of privacy policy applies to the SkyPlanners.com website and governs data collection and usage.
+Skyplanners respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. Skyplanners would like to assure you that we follow appropriate standards when it comes to protecting your privacy on our websites.
 
-**COLLECTION OF YOUR PERSONAL INFORMATION:  **
+In general, you can visit Skyplanners website without telling us who you are or revealing any personal information about yourself. We track the Internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous.
 
-  * The SkyPlanners.com collects personally identifiable information, such as your e-mail id, address, name, home, or work address or telephone number, etc so as to ensure a valid transaction between you and supplier.
-  * Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy. Therefore, you are advised to periodically review this page to make sure you have the latest version.
-  * Any material changes in the way SkyPlanners.com uses personal information will be described in future versions of this Privacy Policy. 
+Some of our web pages use "cookies" so that we can better serve you with customized information when you return to our site. Cookies are identifiers which web sites send to the browser on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyze is used to improve our service to you.
 
+With specific reference to third party NPII advertising, we use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a 'pixel tag', which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. Such third parties do not know your name, phone number, address, email address, or any personally identifying information. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click here
 
+With specific reference to booking/e-commerce transactions, Skyplanners collects the following personal sensitive information from you while transacting through Skyplanners:
 
-**USE OF YOUR PERSONAL INFORMATION:**
+• Name and Sex  
+• Phone Number  
+• Address  
+• Credit Card details  
+• Date of birth in case of a child
 
-SkyPlanners.com uses the personal information for following purposes,
+Skyplanners does not sell or trade upon any of the above foregoing information without the consent of the user or customer. 
 
-**Registration Information:**
+The foregoing information collected from the users/customers/travellers is put to the following use:
 
-You are required to provide your personal details like your name, address, and contact details etc. at the time of registration for SkyPlanners.com services.       The registration information provided by you at the time of registration is maintained confidential and is not disclosed to any third party except as under law.
+• Customer name, address, phone number, traveller's name and age are shared with applicable service providers like the airlines, hotels, etc., for the purpose of reservation and booking the services for the customer/traveller.
 
-  1. If you choose to become a registered member of SkyPlanners.com Site, you must provide your name, address, telephone number, e-mail address, a unique login name, password and password validation. This information is collected on the registration form for several reasons including but not limited to: 
-    1. Personal identification
-    2. To complete air, hotel, car, and other reservations
-    3. To allow us to contact you for customer service purposes, if necessary
-    4. To customize the content of our site to strive to meet your specific needs  
- 
-  2. You agree to provide authentic and true information. SkyPlanners.com reserves the right to confirm and validate the information and other details provided by you at any point of time. When you sign up for SkyPlanners.com services you will be sent a confirmation mail with your password. Your account will be activated when you access the account with your password provided by SkyPlanners.com. You are responsible for use of your account and password. SkyPlanners.com does not share your account details with any third party without your consent.
+• Information like Credit Card Details and Net Banking Details are usually collected directly by the payment gateways and banks and not by Skyplanners, but if ever stored or retained by us, remain internal and is never shared, except that they may be shared with third party private/government security agencies to screen for fraudulent activities. These details are also shared with certain third parties only for the purpose of processing 'Cash Back & Discounts' and Charge Backs, if applicable.
 
+• Information like Mobile no, e-mail address and postal address may be used for promotional purposes, unless the customer/user "opts-out" of such use. If you choose not to share this information, you can still visit the Skyplanners website, but you may be unable to access certain options, offers and services.
 
+Skyplanners takes appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. Please contact us on care@Skyplanners.com to obtain names and addresses of the specific entites that shall have access to your personal information in a given transaction.
 
-**Booking of Offer/Deal:**
+Skyplanners will continue to enhance its security procedures as new technology becomes available, and ensures that its serurity procedures are compliant with current applicable regulations.
 
-In order to book an offer/deal, and/or other services through our site, you must provide us with certain personal information such as your name, credit card number and expiration date, credit card billing address, telephone number, e-mail address and the name or names of the person(s) traveling (if not you). We may also ask you for other personal information, such as your frequent traveler numbers. We require this information to process, fulfill and confirm your reservations and transactions and keep you informed of each transaction's status. If you are making a reservation for one or more travelers other than yourself, you must confirm that each of these other travelers has agreed, in advance, that you may disclose their personal information to us.
+If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies.
 
-  * When you make a booking through SkyPlanners.com, we are required to provide some of your personal information to the airline, hotel, car-rental agency, travel agency or other involved third party to enable the successful fulfillment of your travel arrangements. However, we do not sell or rent individual customer names or other personal information to third parties.
+**Android App Permissions required to use various features in our app:**
 
+In order to have a better experience and to use all features in the app, we need below permissions to be used in our android app:
 
+**\- Account Identity & Contacts:**
 
-**SHARING AND DISCLOSURE OF PERSONAL INFORMATION**
+We use it to enable you to do login using facebook account.  
+We also pre-fill your information by showing auto-suggestion so that you type less.   
+It also enables to do social sharing of the app with your friends by inviting them to download the app using your unique referral link.   
+By doing this we map user's email id with the device and provide rewards on successful referral. We will store this information in the servers so as to run refer & earn program and map all user’s interactions.
 
-From time to time, we may disclose your Personal Information as follows:
+**\- Device & App history: **
 
-  * To those travel service providers with which you make arrangements through our Site, for example, airlines, car rental, hotel, ground transportation, theatere, attraction, or travel insurance. We provide them with the Personal Information needed to make and complete the booking or reservation.
-  * To organizations/companies that perform services for or on behalf of SkyPlanners.com, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a visitor, or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in other countries. Your personal information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to SkyPlanners.com, and under the instructions of SkyPlanners.com, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy.
-  * We may collaborate with other companies to offer you additional Products or Services, for example, through promotions. We will share Personal Information that is necessary for these other companies to provide the products or services that you have requested.
-  * You agree to provide correct and valid credit card information for the purpose of valid booking transactions on SkyPlanners.com. Your credit card detail is collected by way of secured servers  to ensure protection of your credit card information and security of transaction. Your credit card information shall not be disclosed to any third party except when required under law and shall not be used apart from the financial transaction made by you at SkyPlanners.com. Please refer to our security policy for more details.
+We need your device permission to get information about your device, like OS (operating system) name, OS version, mobile network, hardware model, unique device identifier etc.We also need it to detect critical crashes and recover the app state.
 
+**\- Location:**
 
+To provide location specific functionality like airport near you or hotels near you or cabs available near your current location.
 
-**SUBSCRIPTION INFORMATION:**
+**\- SMS:**
 
-  * You can avail Newsletter services for Top deals of SkyPlanners.com or alerts on deals of your choice by subscribing to newsletters or alerts by way of your email address. Your email address is used for subscription purpose only and is not disclosed or used for any other purpose than the service subscribed.
+We need send and receive SMS permission, so as to read your SMS and auto- populate One Time password received on your mobile number for authentication of payments while making a transaction.
 
+**\- Calendar:**
 
+This permission enables us to put your booking details in your calendar.
 
-**COOKIES POLICY:**
+**\- Phone:**
 
-  * What is a cookie?
+We require access to make phone calls through app. You can call us or airlines,hotels etc directly through the app.
 
+**-Photo/ Media/ Files:**
 
-  1. A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your devices hard drive.
-  2. Each website can send its own cookie to your browser if your browser preferences allow it, but to protect your privacy.
-  3. Your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other websites
-  4. Cookies record information about your online preferences and allow us to tailor the websites to your interests. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued or not to receive cookies at any time. The last of these means that certain personalized services cannot then provide to that user and accordingly you may not be able to take full advantage of all of the SkyPlanners.com features. Each browser is different, so check the "help" menu of your browser to learn how to change your cookie preferences.
-  5. During the course of any visit to SkyPlanners.com, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether device and (probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, he cookie left here on the last visit.
+We allow you to install our app on your SD card and save your device memory. This permission is also required by the Google Maps service, to cache map data in hotels. This provides you a seamless Map based Hotel selection experience, even on low bandwidth network.
 
+**\- Storage:**
 
-  * How does the SkyPlanners.com use cookies:
+By using this permission, we allow you to install our app on your SD card and save your phone device memory.
 
+**\- Wi-Fi connection information:**
 
-  1. The SkyPlanners.com use of cookies is similar to that of such other sites and reputed online companies
-  2. you can rest assured that no personal information about you (e.g. name, address etc) is gathered or stored in the cookie placed by the SkyPlanners.com site, as a result, none can be passed on to any third parties.
-  3. A cookie may also be placed by our advertising server. Such cookies are used only for purposes of tracking the effectiveness of advertising served by us on our site and no personal identification is gathered from you by the use of these cookies.
+By using Wi-Fi connection details, we provide you a seamless experience depending upon your network such as image loading process. We try to use this information to optimise the app's performance on slow networks.
 
+**\- Device ID & Call information:**
 
+This permission is used to detect your Android ID using which we uniquely identify every user and map user related activities. Using your details using which we pre-populate your email id to ensure a seamless experience.
+
+**\- Prevent phone from sleeping:**
+
+We use this so as to keep your device awake while we perform any operation to get data from servers. This ensures to have a smoother experience as device does not get locked automatically.
+
+**Thank you for using Skyplanners**
