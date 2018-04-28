@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestcolleges.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614183337id_/http%3A//www.thebestcolleges.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestcolleges.org privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428211402id_/http%3A//www.thebestcolleges.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Best Colleges
 
