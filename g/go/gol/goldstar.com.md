@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029170932id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429174355id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | Goldstar
 
-This privacy policy ("Privacy Policy") is effective on March 29th, 2017.
+This privacy policy ("Privacy Policy") is effective on April 20, 2018.
 
 ### Overview
 
@@ -40,13 +40,9 @@ We use your IP address to help diagnose problems with our servers and to adminis
 
 ### Cookies and Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Goldstar Events Inc. and our partners (e.g. analytics and advertising partners), affiliates, or analytics or service providers (e.g. advertising, analytics, and monitoring partners). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as cookies or similar technologies are used by Goldstar Events Inc. and our partners (e.g. analytics and advertising partners), affiliates, or analytics or service providers (e.g. advertising, analytics, and monitoring partners). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 We use cookies for authentication and tracking. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-### Local Storage (HTML5)
-
-We use Local Storage such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Log Files
 
@@ -148,3 +144,7 @@ In certain situations, Goldstar may be required to disclose personal data in res
 If you have any questions or concerns about this Privacy Policy, Goldstar's practices, or your dealings with the Site, please [contact us online](https://web.archive.org/help/contact_us) or write to Goldstar Events, Inc., PO Box 277, Altadena, CA 91003. Our physical address is 141 S. Lake Avenue, Suite 200, Pasadena, CA 91101.
 
 [help@goldstar.com](mailto:help@goldstar.com)
+
+### SMS Service
+
+This website, http://www.goldstar.com/ may make available a service either directly or through third parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
