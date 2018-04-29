@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220205028id_/http%3A//www.gomlab.com/policy.gom%3Flanguage%3Deng) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429164508id_/http%3A//www.gomlab.com/policy.gom%3Flanguage%3Deng) for the most accurate reproduction.*
 
 # The Official website for All GOM & Company Software
 
