@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodinsight.org privacy policy that was archived on 2017-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171128033744id_/http%3A//www.foodinsight.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodinsight.org privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430005222id_/http%3A//foodinsight.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IFIC Foundation - Your Nutrition and Food Safety Resource
 
@@ -12,4 +12,4 @@ You do not have to be a registered user to browse the website’s content. We wi
 
   The IFIC Foundation also collects the following information regarding visitors to our website for purposes of security and website performance monitoring: domain name from which the visitor came; information regarding which pages on our website are accessed. This information is collected anonymously, and we do not correlate this information with data about individual users, nor do we share this information or sell it to any third party.
 
-If you have any concerns about how your data have been used, you may contact us at [webmaster@ific.org](mailto:webmaster@ific.org).
+If you have any concerns about how your data have been used, you may contact us at [info@foodinsight.org](mailto:info@foodinsight.org).
