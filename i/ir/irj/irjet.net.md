@@ -1,94 +1,28 @@
-> *The following text is extracted and transformed from the irjet.net privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530232900id_/http%3A//www.irjet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irjet.net privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430002315id_/https%3A//irjet.net/irjet-privacy-policy) for the most accurate reproduction.*
 
 # IRJET-Privacy Policy
 
-IRJET is committed to maintaining your confidence and trust with respect to the privacy of the personally identifiable information we collect from you. This privacy policy sets forth our practices regarding collection, use and disclosure of information collected through or in connection with the IRJET corporate website and all other IRJET websites that post a link to this privacy policy (each a "Site").
+**Introduction:**  
+IRJET is an academic Online open access journal which means that all content is freely available without charge to the user or his/her institution. Users are allowed to read, download, copy, distribute, print, search, or link to the full texts of the articles in this journal without asking prior permission from the publisher or the author.
 
-**Collection and Registration of Personal Information**
+ **Paper Submission:**  
+IRJET is receiving Engineering,scientific and research articles. After receiving article, articles are mailed to the reviewers. Review process may take maximum 02 days. If submitted paper is accepted by the reviewers then acceptance letter and review report is send to respective authors. Authors have to send us Copyright Form, Payment Form, Camera Ready Paper, and Payment Details in within given time. Camera Ready Paper must be prepared as per Journal Template. All published journal papers are refereed by the International competent researchers and scientists. Therefore, a full double - blind international refereeing process is used in which:
 
-  
-We may request users of this Site to provide personal information. The information collected directly from a user may include contact information such as the user's name, e-mail address, and postal address.
+• Papers are sent to reviewers for their peer review process.  
+• The reviewer’s recommendations determine whether a paper will be accepted / accepted/ subject  to change / subject to resubmission with significant changes / rejected.  
+• For papers which require changes, the same reviewers will be used to ensure that the quality of the revised paper is acceptable.  
+• All papers are refereed, and the Editor-in-Chief reserves the right to refuse any type script, whether on invitation or otherwise, and to make suggestions and/or modifications before publication.
 
-  
-In order to access certain content and to make use of the full functionality and advanced personalization features of the Site we ask you to register by completing and submitting a registration form, which may request additional information, such as work setting or principal professional field.
+ **Paper Registration:**  
+Author has to complete all the formalities on or before last date given in acceptance letter. After registration, paper/article may be published in respective volume/ issue within given time. In case of any delay author have to inform it to editor ([editor@irjet.net](mailto:editor@irjet.net) )   Any one author can pay publication fee. There is no need to pay publication fee by all authors for the same paper. Similarly, any one author can sign all supported documents. IRJET has power to store all the author information/ scientific & computed research value in their digital database once article is registered. Nobody can use any research article/ information (partial or full) for commercial purpose or resell to third party. It is property of IRJET
 
-**Automatic Collection of Information**
+  **Information Collected:**  
+Personal Information like name, address, telephone number, email address, types of service provided, payment history, manner of payment, amount of payments, date of payments, paper title name, paper id, and deposited amount details are collect (if required) by IRJET. The financial information will be transferred only be used to bill you for the publication and processing fee purpose. If you pay publication fee or processing fee by credit card/ debit card, this information may be forwarded to your credit card/ debit card provider. All sensitive information is collected on a secure server and data is transferred. When transferring personal information a security icon will appear in your browser. This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers’ needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorized access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details. This information is used for billing and to provide service and support to our customers. We may also study this information to determine our customers’ needs and provide support for our customers. All reasonable precautions are taken to prevent unauthorized access to this information.
 
-  
-This Site automatically collects certain information from your web browser regarding your use of the Site. Examples of information collected automatically from all users include the Internet Protocol ("IP") address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and full Uniform Resource Locator ("URL") click stream data, including date and time, and content you viewed or searched for on the Site.
+ **Policy of Screening for plagiarism**
 
-  
-This Site also collects information through the use of "cookies" or similar technologies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website's computers and stored on your computer's hard drive. The type of information collected as a result of a cookie being stored on your computer is specific to your computer. "Session" cookies collect information about your use of the Site (e.g., whether you are logged in) and to give you a more personalized browsing experience and help you navigate the Site more efficiently from page to page. These cookies are temporary and are deleted when you close your browser. "Persistent" cookies gather statistical information about repeat usage from your computer or workstation. In general, cookies do not contain personally identifiable information, but when you furnish your personal information through the Site, this information may be linked to the non-personally identifiable data stored in cookies sent to your browser from the Site.
+Papers submitted to IRJET  will be screened for plagiarism using Plagiarism detection tools. IRJET will immediately reject the papers leading to plagiarism of self-plagiarism.
 
-  
-We and our affiliated group companies and service providers may use cookies, "web beacons" or clear .gifs, or similar technologies to collect and use this information for the purposes of usage analysis (including for the purposes of reporting and paying royalties and license fees to third-party providers, such as authors, societies and other copyright holders and content distributors as well as tracking and analyzing user preferences and trends), delivery and management of our advertising, promotions and surveys, quality control and administering, customizing and improving the Site.
+ **Paper Withdrawn/ Cancellation:**
 
-  
-You can prevent your browser from accepting certain cookies, have the browser require your consent before a new cookie is placed in your browser, or block cookies altogether by accessing your browser's privacy preferences menu. However, if you block cookies altogether, you may not be able to register, login to the Site, or make use of the full features and functionality of the Site.
-
-**How Personal Information Is Used**
-
-  
-We use the personal information that you provide for such purposes as:
-
-  * Completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services, processing or fulfilling an order, or responding to your requests or inquiries;
-  * Website and system administration, such as for the technical support of the Site and its computer system, including processing computer account information, information used in the course of securing and maintaining the Site, and verification of Site activity by the Site or its agents;
-  * Tailoring or customizing content or design of the Site during a single visit to the Site and individualized personalization of the Site on repeat visits;
-  * Research and development to enhance, evaluate and improve the Site and our products and services;
-  * Pseudonymous analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting; and
-  * Communicating with you about changes or updates to the Site and our products and services and special offers, promotions or market research surveys.
-
-
-
-We may on occasion also match or combine the personal information that you provide with information that we obtain from other sources or that is already in our records, whether collected online or offline or by predecessor or affiliated group companies, for such purposes.
-
-**Disclosure of Personal Information to Third Parties**
-
-  
-Access to your personal information is restricted to our employees, agents, representatives, service providers, and entities for which we are acting as an agent, licensee or publisher, such as societies, for the purposes set forth above. Your personal information may be used by all of our trading names and affiliated group companies and transferred to other countries for processing. These countries may not have similar data privacy laws, but if we transfer your information in this way, we will take steps to ensure that your information continues to be protected.
-
-We also may share your personal information with our affiliated group companies worldwide and/or with non-affiliated third parties that wish to send you information about their products and services that may be of interest to you. We will not pass your personal information to such third parties if you indicate that you do not wish us to do so.
-
-If this site offers an online content database or learning service ("Service") and you access the Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management, and testing and remediation. If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
-
-  
-**We will not otherwise disclose any personal information without your consent except under the following circumstances:**
-
-  * in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims;
-  * if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law; and
-  * if IRJET, this Site, or a related asset or line of business is acquired by, transferred to or merged with another company.
-
-
-
-**Access and Changes to Your Registration Information and Preferences**
-
-  
-Registered users may access their identified contact information and other registration information and correct any discrepancies or update information upon log in at any time. The accuracy of such information is solely the responsibility of the user. No access is given to other data that may have been collected about users.
-
-  
-If you wish to receive alerts, newsletters, special offers or promotions from us, please indicate your preferences when you register or amend your preferences upon log in at any time. If you wish to cease receiving any of this information, amend your preferences either upon log in or by using the "opt-out" or unsubscribe option or other means provided within the communications you receive. We reserve the right to notify you of changes or updates to the Site whenever necessary.
-
-**Third-Party Advertisers**
-
-  
-We may contract with third-party advertisers or their agents or service providers that post on the Site banner advertisements, which may link to other websites not under our control. or that use cookies, "web beacons" or clear .gifs, or similar technologies to collect and use user data to measure the effectiveness of their ads or deliver relevant marketing messages and advertisements. Use of these technologies by these third parties is subject to their own privacy policies, which may differ from this privacy policy. We are not responsible or liable for any content, advertising, products or other materials offered from such third parties.
-
-**Retention of Personal Information**
-
-  
-We retain the personal information we collect from you for as long as the information is relevant to our business purposes or until you request that we remove the data.
-
-**Our Commitment to Data Security**
-
-  
-We endeavor to keep your personal information confidential and protected against unauthorized access, loss, misuse or alteration through the use of appropriate administrative, physical and technical safeguards. The personal and demographic information about each user is stored on systems that are subject to appropriate physical and electronic security measures, and we limit employee access to and use of such information.
-
-**About This Privacy Policy**
-
-  
-The foregoing is the current privacy policy of the Site. We reserve the right to change this policy at any time without notice. Any changes to this policy will be posted on this web page.
-
-This Site may contain links to other websites that are beyond our control. Other websites to which you link may contain privacy policies that are different from this privacy policy. This privacy policy will not apply to data collected by or provided to other websites.
-
-If you have any Questions, Complaints, and Dispute Resolution then contact us at [editor@irjet.net](mailto:editor@irjet.net) **[This email address is being protected from spambots. You need JavaScript enabled to view it.](mailto:%3Cspan%20id=)[">  
-](mailto:%3Cspan%20id=)**
+Authors please noted that paper/article cannot be withdrawn at any condition once it is accepted.
