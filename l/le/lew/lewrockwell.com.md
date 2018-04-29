@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lewrockwell.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221154953id_/https%3A//www.lewrockwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewrockwell.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429142530id_/https%3A//www.lewrockwell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LewRockwell
 
