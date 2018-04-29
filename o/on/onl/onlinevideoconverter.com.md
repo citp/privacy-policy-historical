@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinevideoconverter.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405232223id_/https%3A//www.onlinevideoconverter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevideoconverter.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429060445id_/https%3A//www.onlinevideoconverter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OnlineVideoConverter.com
 
