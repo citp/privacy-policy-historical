@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowshops.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228201706id_/http%3A//www.rainbowshops.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowshops.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429062522id_/http%3A//www.rainbowshops.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Rainbow
 
@@ -159,32 +159,6 @@ Visit these additional resources:
 
 Rainbow and its third party service providers may process or store your personal information outside of the United States or Canada and other countries. In accordance with the laws of those countries, in certain circumstances your personal information may be accessible by foreign law enforcement, regulatory bodies or other authorities. For more information of our use of foreign service providers please contact us as described below.
 
-**International Customer Privacy**
-
-Protecting the privacy and security of Rainbow customer information is a top priority for Rainbow. In some cases, Rainbow partners with outside vendors to help facilitate transactions. When that is the case, we work closely with the vendor to ensure that the transaction is appropriately handled and all the information you provide is treated with the utmost care. 
-
-To sell and fulfill online purchases that customers choose to ship internationally, Rainbow partners with Borderfree, Inc. ("Borderfree"). We have contracted with Borderfree to assure that they will carefully process your personal information, with at least the same level of privacy protection set forth in the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission. Borderfree also agrees not to sell, transfer, or otherwise use your information other than for executing international shipping orders. When you identify your Rainbowshops.com order as being shipped internationally, Rainbow will facilitate your secure Checkout transaction with Borderfree. On the Checkout page you will be required to submit credit card and personal information (name, billing address, shipping address, email address and phone number) to Borderfree to complete your order. Once you place your order, you will be prompted to confirm whether you would like to receive future marketing communication from Rainbow. 
-
-Upon completion of your order, Borderfree will notify Rainbow of the approval of your order, and Rainbow will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions to which you must agree in order to receive the product(s) you ordered. 
-
-Once you have agreed that Borderfree may share your data collected from their page with Rainbow, that data is protected by the Rainbow Privacy Policy. Any personal information you provide directly to Rainbow while on Rainbowshops.com is controlled and processed by Rainbow, 1000 Pennsylvania Ave, Brooklyn, NY11207. Any personal information provided at Checkout is controlled and processed by Borderfree, 55 West 39th Street, 18th Floor, New York, New York 10018. 
-
-If you choose to provide Rainbow with personal information, you consent to the transfer and storage of that information on our servers located in the United States. Rainbow adheres to the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission and the Swiss Federal Data Protection Authority. We conduct an annual self-assessment to verify that we are in compliance with the Safe Harbor Privacy Principles in addition to our own Rainbow privacy program assessments. Rainbow has certified to the U.S. Department of Commerce and the European Union that our processing of personal data is in compliance with the Safe Harbor Privacy Principles, as has Borderfree. For more information about the Safe Harbor, visit the Department of Commerce's Safe Harbor website. While the Safe Harbor Principles are designed to protect personal information originating in the European Economic area and Switzerland, our policy is to protect all international customer information in accordance with these Principles. 
-
-Customers shipping internationally who wish to inquire about or update personal information or change marketing preferences, or anyone who wants to receive information about our international privacy program should contact us directly using one of the following methods:
-
-  * Send an email to customerservice@rainbowshops.com, or 
-  * Write us at Rainbow International Privacy, 1000 Pennsylvania Ave, Brooklyn, NY 11207
-
-
-
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, Rainbow commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Rainbow using one of the following methods:
-
-  * Send an email to customerservice@rainbowshops.com, or 
-  * Write us at Rainbow International Privacy, 1000 Pennsylvania Ave, Brooklyn, NY 11207
-
-
-
 **Business Transitions**
 
 As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that Rainbow or substantially all of its assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this Privacy Policy.
@@ -209,4 +183,4 @@ From time to time, we may update this Privacy Statement to reflect new or differ
 
 The examples contained in this Privacy Policy are illustrations only, and are not intended to be exhaustive. 
 
-Effective Date: 6/21/2016
+Effective Date: 4/14/2018
