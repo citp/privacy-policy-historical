@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228154925id_/http%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasdaq.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429151936id_/https%3A//www.nasdaq.com/sitespecific/privacy.aspx) for the most accurate reproduction.*
 
 # NASDAQ, Inc. Privacy Statement
 
@@ -82,7 +82,7 @@ We also use your information for compliance with our company policies and proced
 
 From time to time, we may share your information with our affiliates, subsidiaries, business partners, customers (subject to any confidentiality restrictions on providing one customer’s information to another), third party service providers and authorities in the following circumstances:
 
-  * _NASDAQ Business Units, Affiliates, Subsidiaries, Business Partners and Customers._ We may share your information with our business units, affiliates, subsidiaries, business partners, and customers in the US and worldwide for purposes identified above. A list of Nasdaq’s offices by country is posted at: <http://business.nasdaq.com/discover/contact-us/index.html>. By visiting or using our Sites or otherwise providing us with your information, you consent to this sharing of your information. To opt-out of such sharing, please contact us via email at [privacy@nasdaq.com](mailto:privacy@nasdaq.com) or at the location in the Contact Us section below.
+  * _NASDAQ Business Units, Affiliates, Subsidiaries, Business Partners and Customers._ We may share your information with our business units, affiliates, subsidiaries, business partners, and customers in the US and worldwide for purposes identified above. A list of Nasdaq’s offices by country is posted at: <https://business.nasdaq.com/discover/contact-us/index.html>. By visiting or using our Sites or otherwise providing us with your information, you consent to this sharing of your information. To opt-out of such sharing, please contact us via email at [privacy@nasdaq.com](mailto:privacy@nasdaq.com) or at the location in the Contact Us section below.
   * _Service Providers._ We may share your information with third parties who perform functions on our behalf (e.g., hosting or operating our Sites, processing credit card payments, sending email marketing communications, processing job applications, or data analysis). We do not authorize these third parties to use your information for purposes other than for which it has been provided, and do not authorize these third parties to disclose that information to unauthorized parties. We require these third parties to maintain appropriate security to protect your information from unauthorized access or processing.
   * _As Required or Appropriate by Law._ We may disclose your information to regulatory authorities, courts, and government agencies where we believe that doing so would be in accordance with or permitted or required by any applicable law, regulation or legal process, to defend the interests, rights, and/or property of NASDAQ or others, or to respond to emergencies.
   * _Business Transfers._ We may transfer your information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, brands, affiliates, subsidiaries or other assets.
@@ -122,7 +122,7 @@ We take reasonable technical, administrative and physical security measures to p
 
 ## International Transfers
 
-Some of the parties with which we may share your information, as detailed in “How We Share Your Information”, may be located in countries that do not provide an equivalent level of protection as your home country. Where required, NASDAQ has implemented appropriate cross-border transfer solutions to provide adequate protection for transfers of certain personal information, including, but not limited to, the European Commission’s Standard Contractual Clauses (http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm). By using our Sites, and providing us information about you, you consent to the international transfer of information about you to the above parties.
+Some of the parties with which we may share your information, as detailed in “How We Share Your Information”, may be located in countries that do not provide an equivalent level of protection as your home country. Where required, NASDAQ has implemented appropriate cross-border transfer solutions to provide adequate protection for transfers of certain personal information, including, but not limited to, the European Commission’s Standard Contractual Clauses (https://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm). By using our Sites, and providing us information about you, you consent to the international transfer of information about you to the above parties.
 
 ## Tell-a-friend
 
@@ -161,10 +161,10 @@ You can set your device or browser to accept or reject most cookies, or to notif
 
 We may place or recognize technology on your browser or device when you visit our Sites for purposes of serving you targeted advertising (also referred to as “online behavioral advertising”). We also work with third party advertising companies who place their own cookies or similar technology on your browser or device when you visit our Sites and other websites to serve customized advertisements to you as you browse the Internet. As noted above, you can set your device or browser to accept or reject most cookies, or at least notify you in most situations that the technology is offered. As an additional step, these advertising companies may participate in one of the following advertising industry self-regulatory programs for online behavioral advertising, with corresponding user opt-outs:
 
-  * Networking Advertising Initiative (<http://www.networkadvertising.org/choices/>) **(US Only)**
-  * Digital Advertising Alliance (<http://www.aboutads.info/choices/>) **(US Only)**
-  * European Interactive Digital Advertising Alliance (<http://www.youronlinechoices.eu/>) **(EU Only)**
-  * Digital Advertising Alliance - Canada (<http://youradchoices.ca/choices>) **(Canada Only)**
+  * Networking Advertising Initiative (<https://www.networkadvertising.org/choices/>) **(US Only)**
+  * Digital Advertising Alliance (<https://www.aboutads.info/choices/>) **(US Only)**
+  * European Interactive Digital Advertising Alliance (<https://www.youronlinechoices.eu/>) **(EU Only)**
+  * Digital Advertising Alliance - Canada (<https://youradchoices.ca/choices>) **(Canada Only)**
   * DAA App Choices Mobile App **(Mobile Devices Only)** \- For mobile devices (e.g., smartphone, tablets), you may consider downloading the DAA AppChoices Mobile App to manage such technology. 
 
 
