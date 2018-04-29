@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the royalnumerology.com privacy policy that was archived on 2017-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171226114811id_/https%3A//www.royalnumerology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalnumerology.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429212054id_/https%3A//www.royalnumerology.com/privacy.php) for the most accurate reproduction.*
 
-# 
-
-iv class="cntct_container">
+# Privacy Policy
 
 Disclosure Regarding Collection and Use of Personal Information  
 Last Updated September 10, 2013.
@@ -79,14 +77,14 @@ If you are visiting RoyalNumerology.com from a location outside of the United St
 
 ### How You Can Access or Correct Your Personal Information.
 
-For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please [contact us here through email](https://web.archive.org/web/20171226114811id_/https%3A//www.royalnumerology.com/contactus)
+For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please [contact us here through email](https://web.archive.org/web/20180429212054id_/https%3A//www.royalnumerology.com/contactus)
 
 To protect your privacy and security, we may take reasonable steps to help verify your identity before granting access or making corrections.  
 
 
 ### Special Note for Parents.
 
-RoyalNumerology.com services may not be used by anyone under the age of 18. If you have concerns about this site or its services, wish to find out if your child is a member or has registered for one our services, please [contact us here through email](https://web.archive.org/web/20171226114811id_/https%3A//www.royalnumerology.com/contactus). If you believe that your child under 18 has gained access to our site without your permission, you may [contact us here through email](https://www.royalnumerology.com/contactus.php)  
+RoyalNumerology.com services may not be used by anyone under the age of 18. If you have concerns about this site or its services, wish to find out if your child is a member or has registered for one our services, please [contact us here through email](https://web.archive.org/web/20180429212054id_/https%3A//www.royalnumerology.com/contactus). If you believe that your child under 18 has gained access to our site without your permission, you may [contact us here through email](https://www.royalnumerology.com/contactus.php)  
 
 
 ### How to Contact Us.
