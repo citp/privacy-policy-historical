@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itworks.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130123100id_/http%3A//www.itworks.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworks.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429231612id_/http%3A//www.itworks.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | It Works
 
@@ -67,7 +67,7 @@ Our Service may contain links to websites operated by other companies. If you us
 
 **6\. Questions or comments**
 
-If you have any questions regarding your data or want to have any data deleted or changed, please email us at [privacy@itworksglobal.com](mailto:privacy@itworksglobal.com). You are entitled to receive any information about your data we have stored. 
+If you have any questions regarding your data or want to have any data deleted or changed, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98e8eaf1eef9fbe1d8f1eceff7eaf3ebfff4f7faf9f4b6fbf7f5). You are entitled to receive any information about your data we have stored. 
 
 **7\. Changes to Our Privacy Policy  **
 
