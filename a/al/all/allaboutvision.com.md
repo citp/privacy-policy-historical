@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120140027id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429071538id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
@@ -16,7 +16,7 @@ We automatically use electronic records to compile statistics about how collecti
 
 On certain pages, you may have the opportunity to provide personally identifiable information. **When you voluntarily provide us with information about yourself, you consent to our use of it in accordance with this policy**.
 
-We use the personally identifiable information only for clearly stated purposes. For example, we may use your email address to respond to a question you have sent us. We never add email addresses to lists for purposes of additional communication, unless you have asked us to. **Your personally identifiable information will be provided to third parties only at your request**. Examples of this include but are not limited to: (1) We may provide your medical question to an [eye doctor](http://www.allaboutvision.com/eye-doctor/) for a response; (2) If you use a feedback form in an advertising section, the information will be sent to the advertiser; (3) If you provide your personal information for purposes of a product rebate or value-added service, it will be provided to a third party for fulfillment.
+We use the personally identifiable information only for clearly stated purposes. For example, we may use your email address to respond to a question you have sent us. We never add email addresses to lists for purposes of additional communication, unless you have asked us to. **Your personally identifiable information will be provided to third parties only at your request**. Examples of this include but are not limited to: (1) We may provide your medical question to an [eye doctor](https://locator.allaboutvision.com/) for a response; (2) If you use a feedback form in an advertising section, the information will be sent to the advertiser; (3) If you provide your personal information for purposes of a product rebate or value-added service, it will be provided to a third party for fulfillment.
 
 We may share this information in aggregate form with our advertisers, but we never supply without your permission personal information such as "Jen Jones wears [contact lenses](http://www.allaboutvision.com/contacts/)" or "Sue Smith has [astigmatism](http://www.allaboutvision.com/conditions/astigmatism.htm)."
 
@@ -37,18 +37,18 @@ Information submitted or provided to us by a website user or any person or entit
 
 ## Google Analytics
 
-We have enabled Google Analytics Demographics and Interest Reporting. This allows us to see aggregated demographic information about our visitors, which we may report to customers and other interested parties. This does not provide information to us that can be associated with individuals. You have the opportunity to opt out of this reporting; please see [Google Analytics' currently available opt-outs.  __](https://tools.google.com/dlpage/gaoptout/)
+We have enabled Google Analytics Demographics and Interest Reporting. This allows us to see aggregated demographic information about our visitors, which we may report to customers and other interested parties. This does not provide information to us that can be associated with individuals. You have the opportunity to opt out of this reporting; please see [Google Analytics' currently available opt-outs. __](https://tools.google.com/dlpage/gaoptout/)
 
 ## Third Party Advertising
 
-Some ads on our site are served by third-party advertising companies. These companies may use information about your visits to this and other websites in order to provide advertisements on other sites and other interactive media about goods and services that may be of interest to you. [This page  __](http://optout.networkadvertising.org/#/)has more information about that practice and your choices relative to targeted advertising, inlcuding your ability to opt out of online behavioral advertising.
+Some ads on our site are served by third-party advertising companies. These companies may use information about your visits to this and other websites in order to provide advertisements on other sites and other interactive media about goods and services that may be of interest to you. [This page __](http://optout.networkadvertising.org/#/)has more information about that practice and your choices relative to targeted advertising, inlcuding your ability to opt out of online behavioral advertising.
 
 ## Other Websites
 
 You have the opportunity to access other sites from AllAboutVision.com, by clicking either on a site's link or on an advertisement. Please be aware that these sites are outside the control of AllAboutVision.com and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
 
-Back to top ⤴
+Back to top
 
-[Home](http://www.allaboutvision.com/) » AllAboutVision.com Privacy Information
+Page updated February 2018
 
-[Page updated December 2016]
+[ __](https://www.facebook.com/allaboutvision) [ __](https://plus.google.com/+Allaboutvision) [ __](https://twitter.com/allaboutvision) [ __](https://www.pinterest.com/allaboutvision/) Join Us!
