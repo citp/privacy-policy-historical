@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the toshiba.eu privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501091056id_/http%3A//www.toshiba.eu/generic/privacy-policy-nep) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba.eu privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429171200id_/http%3A//www.toshiba.eu/generic/privacy-policy-nep) for the most accurate reproduction.*
 
 # Toshiba
-
-We use cookies to ensure that we give you the best experience on our website. If you continue to browse without changing your settings, we’ll assume that you’re happy to receive all the cookies on this Toshiba website. You can also click the “Continue” button to accept our policy in your browser so this message does not appear in the future. You can, of course, change your cookie preferences at any time via your browser settings. Details of our cookies and cookie policy are accessible under the link “Find out more”.
 
 Toshiba places great importance on respecting the personal rights of all visitors to its websites and users of online communication services. 
 
