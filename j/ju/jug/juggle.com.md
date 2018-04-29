@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2017-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171108193227id_/http%3A//www.juggle.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juggle.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429151318id_/http%3A//www.juggle.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Juggle.com
 
