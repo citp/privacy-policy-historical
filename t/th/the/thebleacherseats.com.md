@@ -1,42 +1,47 @@
-> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221191151id_/http%3A//www.thebleacherseats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebleacherseats.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429222813id_/http%3A//www.metrodaycare.com/pages/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy - TheBleacherSeats
+# Child Day Care Centers, Home daycare & family child care, Find child care, home daycare and child day care centers.
 
-## Privacy Policy
+This is the web site of **MetroDayCare.com**
 
-This privacy policy sets out how TheBleacherSeats uses and protects any information that you give us when you use this website.  
-TheBleacherSeats  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-TheBleacherSeats may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 18, 2014.
+Our postal address is   
+**MetroDaycare.com  
+6895 N. Glen Dr.  
+Cumming, GA 30028**
 
-**What we collect**  
-We may ask to collect the following information:
+We can be reached via e-mail by filling out our [Contact Us Form](http://www.metrodaycare.com/pages/contactus.asp)  
+or you can reach us by telephone toll-free at 1-888-227-3303 
 
-  * e-mail address (for use to send you the dailyTheBleacherSeats newsletter, which you can unsubscribe from at any time)  
-**  
-**
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
+We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
 
-**Security**
+With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
 
-**How we use cookies**  
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, writing to us at the above address.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
 
-**Third Party Vendors**
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
-  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to TheBleacherSeats and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, writing us at the above address.
 
+Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-**Links to other websites**  
-Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Consumers can have this information corrected by filling out our [Contact Us Form](http://www.metrodaycare.com/pages/contactus.asp), writing to us at the above address.
+
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+
+[](http://www.safesurf.com/) [](http://www.icra.org/labelv02.html)
