@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220161247id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429113541id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
-# Win free prizes and competitions online | OfferX
+# OfferX : Today's prize. Win prizes daily - OfferX
 
-###  Privacy Policy 
-
-Last updated: October 2017 
+Last updated: February 2018 
 
 1\. **Marketing Punch Ltd** (United Kingdom)(“we”,”us”) is the registered owner of these prize draw service websites and owns all rights, including the sites’ respective IP, copyrights and trademarks. We are registered with the ICO office (The Information Commissioner's Office in the United Kingdom) as a Data Controller and Data Processor under the Trading Name Marketing Punch Ltd, with Registration Number Z1503626. 
 
 2\. This privacy policy applies to the following websites owned and operated by us (collectively to be called “the sites”:   
 www.offerx.co.uk   
 www.offerx.co.uk/gettestkeep  
-www.adailyquiz.co.uk  
 www.yourfreebiestyle.co.uk  
-www.freecashpotlottery.co.uk 
-
+www.freecashpotlottery.co.uk   
+www.activeyou.co.uk   
+www.nationalconsumerreview.co.uk  
 3\. We are committed to protecting the security of the data that you provide us with and we will seek to ensure that your personal data, along with your consent usage permissions are handled and maintained in a secure and data-protection compliant environment at all times. 
 
 4\. We seek to fully comply with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 and the Electronic EU Regulations 2011 as well with the forthcoming EU GDPR regulations expected to be in force in 2018. If you wish to find out more, please visit https://ico.org.uk/. 
@@ -81,7 +79,7 @@ Retail  |  • Online retail
 • Home furnishings   
 • Home improvement   
 • Fashion and clothing   
-• Telecoms and utilities (including Scottish Power)   
+• Telecoms and utilities (including Scottish Power and Neptis Media)   
 Finance  |  • Pensions   
 • Loans, credit cards and mortgages   
 • Investments & savings   
@@ -148,13 +146,12 @@ All prize draws on the Site will be clearly marked as either being sponsored by 
 **Opting In / Opting Out**
 
 34\. We believe that you should be in control of the use of your data, that is why at all stages we offer you the option of Opting In or Out of receiving marketing communications from ourselves and our various partners.   
-35\. 35. At registration stage you have the option to: “Agree to receive offers and updates by email, telephone and post from selected third party companies which we believe will be of interest. These companies are within these sectors - Retail, Finance,Insurance, Travel, Gambling or Lifestyle in accordance with the [Privacy Policy](http://www.offerx.co.uk/documents/privacy) and [Data Categories List](http://www.offerx.co.uk/documents/privacy#data-collection-notice) . Click the sectors to view the companies.  
-You can also unsubscribe in one click from these emails if they are not of interest.”  
-and  
-“I agree that OfferX registration page sponsors – Listed here – may contact me with more interesting offers by post, email, telephone and SMS. To enter without receiving offers click here”  
-These opt-ins are optional and only when you put a tick in the box will you consent to receive additional marketing communication. 
+35\. At registration stage you have the option to:   
+\- Agree to receive offers by email from selected companies, that we believe will be of interest to you. These  companies  are within the following categories: Automotive, Retail, Finance, Gambling, Insurance, Travel, Lifestyle or General. Click companies to view the specific companies.   
+\- Agree to OfferX partners may contact you with more interesting offers by telephone within these categories: Retail, Finance, Insurance, Travel and General. Click partners to view the specific companies.   
+**These opt-ins are optional and only when you put a tick in the box will you consent to receive additional marketing communication.**
 
-36\. By selecting 100% Free register box “By registering and entering you agree to the terms and conditions of the [privacy statement](http://www.offerx.co.uk/documents/privacy) that govern how your information will be processed. You also consent to Marketing Punch owned sites www.offerx.co.uk, www.offerx.co.uk/gettestkeep, www.adailyquiz.co.uk, www.yourfreebiestyle.co.uk, www.freecashpotlottery.co.uk sending you emails updating you on offers and prizes. Our brand partners who run surveys on our sites, may wish to contact you by telephone, email, post and SMS subject to your opt-in and consent.”   
+36\. By selecting 100% Free register box “By registering and entering you agree to the terms and conditions of the [privacy statement](https://web.archive.org/documents/privacy) that govern how your information will be processed. You also consent to Marketing Punch owned sites www.offerx.co.uk, www.offerx.co.uk/gettestkeep, www.nationalconsumerreview.co.uk, www.yourfreebiestyle.co.uk, www.freecashpotlottery.co.uk, www.activeyou.co.uk sending you emails updating you on offers and prizes. Our brand partners who run surveys on our sites, may wish to contact you by telephone, email, post and SMS subject to your opt-in and consent.”   
 37\. You may change your preferences at any time via the “How to Unsubscribe” pages once you are registered.   
 38\. Third-party providers are able to send you communications via email, post or telephone only until such time as you exercise your right to opt out of receiving such communications. However please be aware that marketing campaigns are often planned well in advance, so your changes will be accepted immediately, but may not be effective immediately.   
 39\. In addition, Website Sponsors have their own privacy policies and some have their own opt-in statements. It is strongly recommended that you read and understand this information. 
@@ -166,7 +163,7 @@ These opt-ins are optional and only when you put a tick in the box will you cons
 
 * **Opting Out – Postal Contact**
 
-You can withdraw your consent for postal marketing from anyone by adding your details to the Mail Preference Service. For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20171220161247id_/http%3A//www.offerx.co.uk/documents/www.mpsonline.org.uk)
+You can withdraw your consent for postal marketing from anyone by adding your details to the Mail Preference Service. For more details please go to [www.mpsonline.org.uk](https://web.archive.org/web/20180429113541id_/http%3A//www.offerx.co.uk/documents/www.mpsonline.org.uk)
 
 *  **Opting Out – E-mail or SMS (text message) Contact**
 
@@ -259,45 +256,3 @@ Tel: 01453 707400
 **Changes to this Policy**
 
 51\. We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 4th May 2017 and will be revised as needed to fully comply with updated technologies and legislation. 
-
-###  Today's Daily Prize
-
-The next prize will be won in: 
-
-####  Win £30 Amazon vouchers 
-
-[ Enter Prize Draw](https://web.archive.org/daily-prize)
-
-###  Free Prize Draws
-
-#### Motor & Travel Prize Draws
-
-#####  Win £20,000 to buy the Holiday of a Lifetime
-
-Are you dreaming of a holiday of a lifetime? 
-
-[Enter Prize Draw](https://web.archive.org/in/registration/holiday-of-a-lifetime)
-
-#### Home & Lifestyle Prize Draws
-
-##### Win £500 to spend at River Island
-
-Treat yourself to a brand wardrobe with &pound;500. 
-
-[Enter Prize Draw](https://web.archive.org/in/registration/500-to-spend-at-river-island)
-
-#### Money Prize Draws
-
-##### Win £300 worth of vouchers
-
-We know that every little helps which is why we're giving you the chance to win &pound;300 worth of shopping vouchers to spend. 
-
-[Enter Prize Draw](https://web.archive.org/in/registration/300-supermarket-vouchers)
-
-#### Electronic & Gadgets Prize Draws
-
-##### Win a £200 GHD Bundle
-
-<span style="font-family: verdana, arial, helvetica, sans-serif;">Bag yourself some GHDs for a guaranteed Good Hair Day! 
-
-[Enter Prize Draw](https://web.archive.org/in/registration/200-ghd-bundle)
