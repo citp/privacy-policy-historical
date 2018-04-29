@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toshiba-europe.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229224033id_/http%3A//www.toshiba.eu/generic/privacy-policy-nep) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toshiba-europe.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429171200id_/http%3A//www.toshiba.eu/generic/privacy-policy-nep) for the most accurate reproduction.*
 
 # Toshiba
 
