@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708150933id_/https%3A//hothardware.com/pages/privacyterms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hothardware.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429122045id_/https%3A//hothardware.com/pages/privacyterms) for the most accurate reproduction.*
 
 # Privacy, Terms, Conditions and Copyright | HotHardware
 
