@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentpalace.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227192144id_/http%3A//parentpalace.com/pr-advertising/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentpalace.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429135132id_/http%3A//parentpalace.com/pr-advertising/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
