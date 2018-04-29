@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byrdie.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215105136id_/http%3A//www.byrdie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byrdie.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430015803id_/http%3A//byrdie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Byrdie
 
@@ -242,7 +242,7 @@ The Site may permit you to submit ideas, photographs, user profiles, writings, m
 
 ****(b) Name and Likeness****
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20171215105136id_/http%3A/terms-conditions "Terms and Conditions of Service").
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20180430015803id_/http%3A/terms-conditions "Terms and Conditions of Service").
 
 ****5. Ads and Information About You****
 
