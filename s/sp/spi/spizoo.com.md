@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119123933id_/http%3A//www.spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spizoo.com privacy policy that was archived on 2018-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180429135619id_/http%3A//www.spizoo.com/pages.php%3Fid%3Dprivacy-policy%26nats%3DMC4wLjEyLjI4LjAuMC4wLjAuMA) for the most accurate reproduction.*
 
-# Spizoo World Class Adult Entertainment
+# Spizoo
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on this site and other sites part or our network. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.
 
