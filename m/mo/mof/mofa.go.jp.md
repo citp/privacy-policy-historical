@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119062015id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofa.go.jp privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430133407id_/http%3A//www.mofa.go.jp/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy ｜ Ministry of Foreign Affairs of Japan
 
 ### Official Website of the Ministry of Foreign Affairs of Japan
 
-March 31, 2009 
+April 4, 2018   
+[Japanese](https://web.archive.org/mofaj/annai/policy/index.html)
 
 ## 1\. Basic premise
 
@@ -38,4 +39,4 @@ We do not collect names, birth dates and other information able to identify indi
 
 ## 7\. Scope of application
 
-This privacy policy applies only to the Site.
+This privacy policy applies only to the Site.Responsibility for the handling of the information of other ministries and agencies lies with the respective organizations. For third-party services, including social media, used by this website, please review the privacy policies on the websites of these third-party providers.
