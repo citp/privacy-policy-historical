@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the savingmorethanme.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113155557id_/http%3A//savingmorethanme.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmorethanme.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430225158id_/https%3A//winterandsparrow.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy - Saving More Than Me
-
-  
-
 
 ## Disclosure Policy
 
@@ -11,7 +8,7 @@ _This disclosure policy is valid from May 23rd,  2011, to present day. _
 
 _This blog is a collaborative blog written by a group of individuals.  For questions about this blog, please contact the owner and editor: _
 
-_Kimberly Dickerson — smtm-pr{at}live{dot}com_
+_Kimberly Dickerson — winterandsparrow(at)outlook(dot)com_
 
 _This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation._
 
@@ -25,11 +22,11 @@ _This blog does not contain any content which might present a conflict of intere
 
 ## Privacy Policy
 
-_This privacy policy sets out how **Saving More Than Me** uses and protects any information that you give while using savingmorethanme.com_
+_This privacy policy sets out how **Winter and Sparrow** uses and protects any information that you give while using [winterandsparrow.com](https://winterandsparrow.com/)._
 
 _Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement._
 
-_**Saving More Than Me** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 23, 2011._
+_**Winter and Sparrow** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 23, 2011._
 
 **_What we collect_**
 
@@ -47,19 +44,19 @@ _We require this information to understand your needs and provide you with a bet
 
   * _We may use the information to improve our products and services._
   * _We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided._
-  * _From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests._
+  * _From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests._
 
 
 
 _**Security**_
 
-_We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online._
+_We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online._
 
 _**How we use cookies**_
 
-_A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences._
+_A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences._
 
-_We use traffic log cookies to identify which pages are being used. This helps us analyse data about_ web page _traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system._
+_We use traffic log cookies to identify which pages are being used. This helps us analyze data about_ web page _traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system._
 
 _Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us._
 
@@ -67,7 +64,7 @@ _You can choose to accept or decline cookies. Most web browsers automatically ac
 
 _**Advertising**_
 
-_Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is  [Media.net](http://www.media.net/en/adchoices). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith._
+_Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is  [Media.net](http://www.media.net/en/adchoices). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith._
 
 _**Links to other websites**_
 
@@ -89,6 +86,3 @@ _**Opt Out**_
 _For information about opting out of Media.Net and ad serving partners please visit  <http://www.media.net/en/privacy-policy>_
 
 _If you believe that any information we are holding on you is incorrect or incomplete, please contact us._
-
-  
-
