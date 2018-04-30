@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229224539id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430090744id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
