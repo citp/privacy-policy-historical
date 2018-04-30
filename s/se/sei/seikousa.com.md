@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seikousa.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022316id_/http%3A//seikousa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seikousa.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430195639id_/http%3A//seikousa.com/privacy) for the most accurate reproduction.*
 
 # Seiko USA / Privacy Policy
 
