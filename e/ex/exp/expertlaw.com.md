@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182946id_/https%3A//www.expertlaw.com/terms-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertlaw.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430033917id_/https%3A//www.expertlaw.com/terms-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | ExpertLaw
 
