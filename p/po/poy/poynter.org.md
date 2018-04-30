@@ -1,53 +1,23 @@
-> *The following text is extracted and transformed from the poynter.org privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218125152id_/http%3A//www.poynter.org/archived/about-poynter/108202/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poynter.org privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430233120id_/https%3A//www.poynter.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Poynter.
+# The Poynter Institute Privacy Policy | Poynter
 
-**Published** Dec. 3, 2008 1:17 pm **Updated** Nov. 24, 2014 2:06 pm
+### Privacy
 
-The Poynter Institute for Media Studies is committed to respecting privacy. The following discloses our information gathering and dissemination practices for Poynter Online. Poynter is a non-profit school for journalists. We do not make any user information available to third parties. We take your privacy concerns seriously and we will do our best to make sure that we protect your privacy as much as possible on Poynter Online.
+Poynter limits the collection of personal information to what we need to identify and contact customers to recommend teaching or other Poynter resources. We collect personal information from anyone who signs up for a Poynter account, including name and email address. We ask for other optional information, including contact information, gender, date of birth, occupation and interests.
 
-**Your Personal Information**  
-We use information such as your IP address and browser type/version to help diagnose problems with our server and to administer our website. We use cookies to save your Poynter Online Profile so you will not have to log in each time you visit our site and would like to use its more advanced features that require registration.
+Poynter uses PayPal to process payments. We do not save this information. Alternatively, it is possible to make a payment by mail or by calling us with your credit card, mailing a payment to 801 Third Street South, St. Petersburg, FL 33701 Attn: Accounting or by calling 727-821-9400.
 
-Poynter Online does not require registration to read the contents of the site.
+Poynter does not share information with third parties. We do use contact information from participants in our teaching and from those who register on our website to contact them about our work, including emails promoting upcoming teaching. Individuals may opt out of those communications by clicking on the “unsubscribe” link at the bottom of the email.
 
-Our feedback system requires you to register to post comments, and we promise that the information will not be shared with anyone. You should be aware, however, that anything you post to public feedback areas can be copied and used by any visitor to the site. On occasion, we may use your e-mail address to contact you with information about Poynter Online. If you choose to receive no communication from us, please send a note to [privacy@poynter.org](mailto:privacy@poynter.org).
+Comments or other information posted on forums, discussion threads or other areas of Poynter’s website or social media channels designed for public communications or communications among class members or forum members may be viewed and downloaded by others who visit the sites. For this reason, Poynter urges everyone to use discretion when deciding whether to post any information that can be used to identify them. Anything posted in discussion threads on Poynter websites should be considered public information for which there is no expectation of privacy.
 
-**Search Terms**  
-Periodically, we collect the terms users enter in searching for material on the site, but we do not associate those terms with individual users. To get a better sense of what users, in general, are looking for from Poynter Online, we generate a list of search terms that provides no indication of which user may have entered which terms.
+Poynter encourages all participants in discussion threads, comments emails, chats, or social media posts to be respectful and constructive and avoid personal attacks. We will take appropriate measures should individuals repeatedly violate these terms.
 
-**Links to Other Sites**  
-This site contains links to other sites. Poynter Online is not responsible for the privacy practices or the content of such websites. In various parts of Poynter Online, we have retained the use of vendors to provide specialized services. Examples: We work with DataGlyphics, Inc. of St. Petersburg for development and hosting services, and we have worked with Autonomy, Inc., for Nelson, our search engine. We will not share any of your information with those vendors.
+Our goal is to provide visitors to our workshops, events and e-learning with the best possible educational experience. To that end, we strive to personalize the experience to the individual learner, to evaluate the effectiveness of our course materials, to improve our understanding of the learning process and to otherwise improve the effectiveness of our teaching.
 
-**E-Commerce**  
-Our site uses an order form for customers to request information, products, and services. We collect visitors’ contact information (including their e-mail address) and financial information (including their account or credit card numbers). Contact information from the order form is used to send orders and information about The Poynter Institute to our customers. The customer’s contact information also is used to get in touch with the visitor when necessary. Users may opt out of receiving future mailings; see the [Choice/Opt Out section](http://www.poynter.org/profile/privacy_policy.asp#optout) below. Financial information that is collected is used to bill the customer for products and services.
+### A final note:
 
-Our online surveys may ask visitors for contact information (such as their e-mail address) and demographic information (such as their zip code, age, or income level). We use contact data from our surveys to send the user information about Poynter. The customer’s contact information is also used to contact the visitor when necessary. Users may opt out of receiving future mailings; see the [choice/opt-out section](http://www.poynter.org/profile/privacy_policy.asp#optout) below. Demographic and profile data is also collected at our site. As we enhance the personalization aspects of Poynter Online, we may use this data to tailor our visitors’ experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
+From time to time we review and may make changes to these guidelines. When changes are made, the new guidelines will be posted here. At that time, our Privacy Policy will be distributed to users and will be effective immediately. By accessing the site after any changes have been made, you signify your agreement.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. But please be advised that the only way to make sure that information posted online remains private is not to post it in the first place. If you have any concerns about this when ordering books or other materials, please call our toll free number (888) 769-6837 rather than posting online.
-
-**Choice/Opt Out**  
-Our site provides users the opportunity to opt out of receiving communications from Poynter and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to avoid receiving future communications or to no longer receive our service.
-
-You can send email to [privacy@poynter.org](mailto:privacy@poynter.org)
-
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. E-mail [privacy@poynter.org](mailto:privacy@poynter.org)
-  2. Send mail to the following postal address: 801 Third St. South, St. Petersburg, Fl. 33701, attn: Marketing Department
-  3. Call the following toll-free telephone number: (888) 769-6837 and ask for Bill Mitchell, Online Director.
-
-
-
-**Contacting the Website**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
-
-> **Julie Moos**  
->  The Poynter Institute for Media Studies  
->  801 Third Street South  
->  St. Petersburg, Fl. 33701  
->  [jmoos@poynter.org](mailto:jmoos@poynter.org)
-
-Tags: [About Poynter](http://www.poynter.org/tag/about-poynter/)
+_If you have any privacy concerns or questions about this policy, please email[info@poynter.org](mailto:info@poynter.org)._
