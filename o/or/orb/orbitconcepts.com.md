@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitconcepts.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220021919id_/http%3A//orbitconcepts.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitconcepts.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430033815id_/http%3A//orbitconcepts.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Orbit Concepts
 
