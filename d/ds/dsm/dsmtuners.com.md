@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2017-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171211123537id_/http%3A//www.dsmtuners.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsmtuners.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430054644id_/http%3A//www.dsmtuners.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DSMtuners
 
@@ -7,7 +7,7 @@ Log in/Register to remove ads
 
 [ ](http://www.dsmtuners.com/)
 
-[](http://bit.ly/1TsPsVc)
+[](http://bit.ly/2ohkc1z)
 
 **What we collect**  
 DSMtuners collects personal information from you when you register to participate, enter a contest, or complete a survey on our website. Personal information consists of your email address, first name, last name, and password. In some rare cases, like for contests, we'll ask for street address and zip code - none of this information is saved on our servers or shared with third parties. If you enter a sweepstakes, contest or survey we may also ask you for some demographic information such as your age or income range. Other information collected may include your IP address, browser type and operating system. 
