@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the redefiningmom.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206081406id_/https%3A//redefiningmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redefiningmom.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501002050id_/https%3A//redefiningmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Redefining Mom
+
+[ ](https://redefiningmom.com/course)
 
 **Redefining Mom LLC Website privacy policy**
 
@@ -20,9 +22,9 @@ Redefining Mom LLC may collect domain information and “cookies” (small files
 
 Redefining Mom LLC uses Google Analytics to track statistics regarding our audience and Website traffic. No personally identifiable information is transferred from the Website to Google Analytics. [For more information on Google’s Analytics privacy policies, please visit this site](https://support.google.com/analytics/answer/6004245).
 
-Redefining Mom LLC respects your privacy and will never sell, trade or transfer your personally identifiable information to third parties (beyond what is necessary for fulfilling a customer transaction or for the basic functionality of an online service) without your consent. However, Redefining Mom LLC may choose to release personal information to enforce its Terms of Use, manage its business, protect users or the general public, or to otherwise comply with legal obligations.
+Redefining Mom LLC respects your privacy and will never sell, trade or transfer your personally identifiable information to third parties (beyond what is necessary for fulfilling a customer transaction or for the basic functionality of an online service or any other exception as listed in this policy) without your consent. However, Redefining Mom LLC may choose to release personal information to enforce its Terms of Use, manage its business, protect users or the general public, or to otherwise comply with legal obligations.
 
-If you give Redefining Mom LLC your permission, it may also use personal identification information for internal or external marketing and promotional purposes.
+By visiting this site or providing your email address, you give Redefining Mom LLC your permission to use personal identification information for internal or external marketing and promotional purposes. This includes Facebook Ads and Promoted Pins on Pinterest.
 
 On occasion, Redefining Mom LLC may collect personal identification information from you in connection with optional contests, special offers or promotions. Redefining Mom LLC will share such information with necessary third parties for the purpose of carrying out the contest, special offer or promotion. Your participation in the contest, special offer or promotion constitutes your consent to such disclosure and use of such information.
 
