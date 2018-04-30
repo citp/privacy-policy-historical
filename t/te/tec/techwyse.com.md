@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2017-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170518223353id_/https%3A//www.techwyse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwyse.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430060515id_/https%3A//www.techwyse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechWyse
 
