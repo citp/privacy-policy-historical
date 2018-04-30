@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606053046id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430205419id_/http%3A//www.ticketmaster.com.au/h/privacy.html%3Ftm_link%3Dtm_homeA_i_privacy_footer) for the most accurate reproduction.*
 
 # Ticketmaster - Help
 
@@ -6,7 +6,7 @@
 
 This Policy explains what personal information Ticketmaster and its group (known in this Policy as ' **we** ' or ' **Ticketmaster** ') collect and how we use it. Please read it carefully. For information about Ticketmaster and its group, see Section 15 below.
 
-Generally, we collect information about you if you create a Ticketmaster and/or Ticketmaster Resale account (' **Ticketmaster account** '), from your purchase or sale of tickets, when you email or call us, or from box office purchases operated or administered by us, and when you use our websites, apps and social media. We use that and other information to provide better services, marketing and support to you and our other customers (including by analysing your information to provide you with a personalised experience).
+Generally, we collect information about you if you create a Ticketmaster, Ticketweb and/or Ticketmaster Resale account (' **Ticketmaster account** '), from your purchase or sale of tickets, when you email or call us, or from box office purchases operated or administered by us, and when you use our websites, apps and social media. We use that and other information to provide better services, marketing and support to you and our other customers (including by analysing your information to provide you with a personalised experience).
 
 When you, for example, create a Ticketmaster account, buy or sell tickets, download one of our apps or contact us on the phone, we may ask your consent to use your information for certain purposes. Your choices about how we use information are described in Section 6 below.
 
@@ -84,7 +84,7 @@ _You understand that if you choose not to give us consents, or if you withdraw c
 
 In addition to contacting us, you can **opt out** in the following ways:
 
-**You can opt out of receiving marketing communications including newsletters.** To stop receiving Ticketmaster marketing communications you can change your preferences within your account or follow the instructions in any promotional message you get. To stop receiving Ticketmaster Resale promotional messages follow the instructions in any messages you get. Your device settings should provide you with instructions on how to turn off push notifications. It may take about five days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
+**You can opt out of receiving marketing communications including newsletters.** To stop receiving Ticketmaster marketing communications you can change your preferences within your account or follow the instructions in any promotional message you get. To stop receiving Ticketmaster Resale or Ticketweb promotional messages follow the instructions in any messages you get. Your device settings should provide you with instructions on how to turn off push notifications. It may take about five days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
 **You can control and opt out of the use of cookies and tracking tools.** To learn how to manage how we use cookies and other tracking tools, please see our Cookies Policy (<http://www.ticketmaster.com.au/h/cookies.html>).
 
@@ -144,7 +144,7 @@ Post:
 Privacy Officer  
 Ticketmaster Australasia Pty Ltd  
 Level 5, 364 Lonsdale Street  
-Melbourne, Vic 3000
+Melbourne, Vic 3000, Australia
 
 Please do not include your credit card number or other financial or sensitive information in your email.
 
@@ -158,4 +158,4 @@ From time to time we may change our privacy practices. We will notify you of any
 
 We are Ticketmaster Australasia Pty Ltd and its group companies. You can find out more about us in the 'About Us' section of our website (<http://www.ticketmaster.com.au/h/about_us.html>).
 
-_Last Updated_ : 9 November 2016
+_Last Updated_ : 23 August 2017
