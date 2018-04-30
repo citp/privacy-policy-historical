@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222074508id_/http%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501002510id_/https%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
 
 # Columbus Underground Privacy Policy | ColumbusUnderground.com
 
@@ -39,7 +39,7 @@ Your profile on Columbus Underground will be publicly viewable and identifiable
 
  **How you can review and update your personal information.**
 
-You can review and update the personal information you have provided through the registration process by visiting [www.columbusunderground.com](http://www.columbusunderground.com/) and clicking on PROFILE in the top right corner of the page.
+You can review and update the personal information you have provided through the registration process by visiting [www.columbusunderground.com](https://www.columbusunderground.com/) and clicking on PROFILE in the top right corner of the page.
 
  **Steps we take to protect your personal information.**
 
