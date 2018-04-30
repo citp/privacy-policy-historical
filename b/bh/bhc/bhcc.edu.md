@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhcc.edu privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228124719id_/http%3A//www.bhcc.edu/web-accessibility) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhcc.edu privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501003351id_/http%3A//www.bhcc.edu/web-accessibility) for the most accurate reproduction.*
 
 # Web Accessibility and Privacy Policy - Bunker Hill Community College
 
