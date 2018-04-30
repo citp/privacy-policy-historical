@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planbook.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214104120id_/https%3A//planbook.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbook.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430150207id_/https%3A//planbook.com/help/privacy.html) for the most accurate reproduction.*
 
 # Planbook.com Privacy Policy
 
@@ -6,21 +6,21 @@ Planbook.com knows that you care how information about you is used and shared, a
 
 **What personally identifiable information does planbook.com collect from me?**
 
-Planbook.com believes that as little personal information as possible should be collected from our users. The personal information we collect for planbook.com is contained on the User Settings page, and the only required item is your email address. 
+Planbook.com believes that as little personal information as possible should be collected from our users. The personal information we collect for planbook.com is contained on the Account page, and the only required item is your email address.
 
-In addition to the information we collect on the User Settings page, we may ask you for personal information at other times, such as when you contact our support team. Furthermore, when you send e-mail or other communication to planbook.com, we may retain those communications in order to process your inquiries, respond to your requests, and improve our services.
+In addition to the information we collect on the Account page, we may ask you for personal information at other times, such as when you contact our support team. Furthermore, when you send e-mail or other communication to planbook.com, we may retain those communications in order to process your inquiries, respond to your requests, and improve our services.
 
 **What are cookies and how does planbook.com use them?**
 
-As part of offering and providing customizable and personalized services, planbook.com may use cookies to temporarily store information about you. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may use cookies to better display our website, to save you time, and to provide better technical support. 
+As part of offering and providing customizable and personalized services, planbook.com may use cookies to temporarily store information about you. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may use cookies to better display our website, to save you time, and to provide better technical support.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some planbook.com features and services may not function properly if your cookies are disabled.
 
 **How does planbook.com use my information?**
 
-Our goal in collecting personal information is to provide you, the user, with a customized experience on our site and a high level of user support. 
+Our goal in collecting personal information is to provide you, the user, with a customized experience on our site and a high level of user support.
 
-Planbook.com does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, from our server log files, or from surveys. We do this to better understand and serve our users; for instance, this information often gives us ideas for improving our products. This research is compiled and analyzed on an aggregated basis. 
+Planbook.com does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, from our server log files, or from surveys. We do this to better understand and serve our users; for instance, this information often gives us ideas for improving our products. This research is compiled and analyzed on an aggregated basis.
 
 **Who is collecting information?**
 
@@ -42,13 +42,11 @@ Planbook.com may, from time to time, send you e-mail regarding our products and 
 
 You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, if you choose to reject all cookies you may be unable to use select planbook.com services.
 
-Planbook.com does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service. 
+Planbook.com does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
 
 **What is the planbook.com policy on allowing me to update, correct, or delete my personally identifiable information?**
 
-You may edit your personal information at any time by clicking on the Settings link. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
-
-If you have forgotten your password, click the Forgot password link on the login screen. Enter your email address, and if the email address matches our records your password will be sent to this email address. For all other problems logging into Planbook services, please contact Planbook support at support@planbook.com.
+You may edit your personal information at any time on your Account page. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
 Please contact us at support@planbook.com for further instructions about deleting or deactivating your planbook.com account. Residual information will remain within our archive records.
 
@@ -56,22 +54,24 @@ Please contact us at support@planbook.com for further instructions about deletin
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage, and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-Your account information is password-protected so that you and only you have access to this information. You may edit your planbook.com personal information at any time by clicking on the Settings link.
+Your account information is password-protected so that you and only you have access to this information. You may edit your planbook.com personal information at any time on your Account page.
 
-If you have forgotten your password, click the Forgot password link on the login screen. Enter your email address, and if the email address matches our records your password will be sent to this email address. For all other problems logging into Planbook services, please contact Planbook support at support@planbook.com.
+If you forget your password, click the Forgot Password link on our home page. Enter your email address, and if the email address matches our records, you will receive an email to reset your password. For all other problems logging into planbook.com services, please contact planbook.com support at support@planbook.com.
 
 For your protection, remember to sign out of planbook.com before closing your browser. You can sign out by clicking the Sign out link. After signing out, make sure to close your browser window. This is to ensure that others cannot access your personal information if you share a computer with someone else or are using a public computer.
 
-We restrict access to personal information to planbook.com employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
+We restrict access to personal information to planbook.com employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 **What about children's privacy?**
 
-Planbook.com accounts are intended for individuals, age 18 and over, who function in the role of an educator. Account holders may allow their students of all ages to view information online, but at no time does planbook.com collect information from these students, or any other individuals who view the information shared by their educator. 
+Planbook.com accounts are intended for individuals, age 18 and over, who function in the role of an educator. Account holders may allow their students of all ages to view lesson plan information online, but at no time does planbook.com collect information from these students, or any other individuals who view the information shared by their educator.
 
-Planbook.com does not gather information on the ages of our users and will never knowingly share personally identifying information about users who are under the age of 18 with business partners or other third parties. When contacting our users, planbook.com requests that anyone under the age of 18 forward the e-mail to a parent or guardian. All planbook.com account holders, including parents and children with planbook.com accounts, are subject to this Privacy Policy.
+If desired, teachers and schools may create individual student accounts, to allow each student access to lesson plans and performance reports specific to him or her. Each student account requires a student ID or email address, student key (password), first name, and last name.
+
+Planbook.com will never knowingly share personally identifying information about students with business partners or other third parties.
 
 **Additional Information**
 
-Please note that this Privacy Policy may change from time to time. We will notify you about significant changes in the way we treat your personal information by placing a prominent notice on our website. 
+Please note that this Privacy Policy may change from time to time. We will notify you about significant changes in the way we treat your personal information by placing a prominent notice on our website.
 
-If you have a question regarding this statement, or if a question was not addressed in this privacy policy, you may contact us at support@planbook.com. We will do our best to answer your question promptly and accurately.
+If you have a question regarding this statement, or if a question was not addressed in this privacy policy, please contact us at 888-205-5528 or support@planbook.com. We will do our best to answer your question promptly and accurately.
