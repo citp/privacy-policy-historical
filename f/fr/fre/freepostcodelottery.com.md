@@ -1,118 +1,15 @@
-> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001190100id_/https%3A//freepostcodelottery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430234800id_/https%3A//freepostcodelottery.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Free Postcode Lottery
+# Privacy policy – Pick My Postcode
 
-[ ](https://freepostcodelottery.com/)
+##  Today we’re giving away £{{ store.draws.total.prize }}
 
-  * [ Rules ](https://freepostcodelottery.com/rules/)
-  * [ Winners Results ](https://freepostcodelottery.com/past-winners/)
-  * [ Referrals ](https://freepostcodelottery.com/referrals/)
-  * [ Bonus leaderboard ](https://freepostcodelottery.com/leaderboard/)
-  * [ Blog ](https://freepostcodelottery.com/blog/)
-  * [ FAQ ](http://help.freepostcodelottery.com/)
-  * [ Contact us ](https://freepostcodelottery.com/contact/)
+  * Sign up
+  * Sign in
 
 
 
-[ My Account  ](https://freepostcodelottery.com/edit/)
-
-  * [Settings](https://freepostcodelottery.com/edit/)
-  * [Logout](https://freepostcodelottery.com/api/index.php/logout)
-
-
-
-Other draws £{{ store.draws.total.prize }}
-
-
-
-
-Have you noticed our other draws?
-
-Use this fancy button to access them all!
-
-Build your bonus
-
-The bigger your bonus, the bigger your prize - it gets turned into cash if you win!!
-
-[Find out more about bonuses](http://help.freepostcodelottery.com/search?query=bonus)
-
-£{{ store.draws.total.prize }}
-
-To win today!
-
-Sign up Sign up today for +21 chances to Win! All draws
-
-Already registered? Sign in
-
-+1p
-
-Every draw you visit earns you a penny towards your bonus. Bonuses will be added to your win so keep building it up! 
-
-##  +21 chances to Win!
-
-### Don’t forget to check each daily draw
-
-
-
-
-[ ](https://freepostcodelottery.com/edit/)
-
-  * [account](https://freepostcodelottery.com/edit/)
-  * [logout](https://freepostcodelottery.com/api/index.php/logout)
-
-
-
-£{{ store.draws.total.prize }}
-
-To win today!
-
-Sign up Sign up today for +21 chances to Win! All draws
-
-Already registered? Sign in
-
-+1p
-
-Every draw you visit earns you a penny towards your bonus. Bonuses will be added to your win so keep building it up! 
-
-##  +21 chances to Win!
-
-### Don’t forget to check each daily draw
-
-
-
-
-[ ](https://freepostcodelottery.com/edit/)
-
-  * [account](https://freepostcodelottery.com/edit/)
-  * [logout](https://freepostcodelottery.com/api/index.php/logout)
-
-
-
-
-
-
-More chances to win! 
-
-More chances to win! 
-
-  * [ ](https://freepostcodelottery.com/fplcomps-menu)
-
-Calling all compers! Enter every day for your chance to win 30+ prizes. [fplcomps](https://freepostcodelottery.com/fplcomps-menu)
-
-  * [ ](https://freemojilottery.com/)
-
-We <3 emojis! Winking, lolling or blowing a raspberry? Win money with your fave emojis! [freemojilottery.com](https://freemojilottery.com/)
-
-  * [ ](https://winadinner.com/)
-
-Free food, tasty offers and delicious discounts – everyone’s a winner! [winadinner.com](https://winadinner.com/)
-
-  * [ ](https://www.tariffteam.com/)
-
-Save a pretty penny on your gas and leccy bills! [tariffteam.com](https://www.tariffteam.com/)
-
-
-
+## Formerly FREE Postcode Lottery
 
 Free Postcode Lottery Ltd. (“FPL” / “we”) collects information from our clients and potential clients at several different points on [freepostcodelottery.com](https://freepostcodelottery.com/) (the “Website”) as well as through email, postal and telephone correspondence, face-to-face meetings and through replies to questionnaires.
 
