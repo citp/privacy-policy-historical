@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burchmores.co.za privacy policy that was archived on 2017-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170723050424id_/http%3A//www.burchmores.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burchmores.co.za privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430204056id_/http%3A//www.bidvestburchmores.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Burchmores
 
