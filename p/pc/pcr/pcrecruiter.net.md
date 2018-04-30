@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229031329id_/https%3A//www.pcrecruiter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430173336id_/https%3A//www.pcrecruiter.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PCRecruiter
 
@@ -10,11 +10,11 @@ Effective Date: 10 November, 2017
 
 Main Sequence Technology Inc. (“Main Sequence”), an Ohio corporation, provides this Privacy Statement to explain how we collect, use, and disclose certain personal information.
 
-This statement discloses the privacy practices for [www.pcrecruiter.net](https://www.pcrecruiter.net/)  in **Section 1** and privacy practices for PCRecruiter accounts hosted by Main Sequence in **Section 2.**
+This statement discloses the privacy practices for [www.pcrecruiter.net](http://www.pcrecruiter.net/)  in **Section 1** and privacy practices for PCRecruiter accounts hosted by Main Sequence in **Section 2.**
 
 ## **Section 1**
 
-[www.pcrecruiter.net](https://www.pcrecruiter.net/) is the corporate website of Main Sequence, a provider of online technology used by recruitment and hiring teams to post jobs, process applicants, and conduct recruitment operations worldwide. Direct hiring organizations, staffing companies, and search firms are Main Sequence’s primary customers. The website is primarily used for sales promotion and customers service of the company’s solutions.
+[www.pcrecruiter.net](http://www.pcrecruiter.net/) is the corporate website of Main Sequence, a provider of online technology used by recruitment and hiring teams to post jobs, process applicants, and conduct recruitment operations worldwide. Direct hiring organizations, staffing companies, and search firms are Main Sequence’s primary customers. The website is primarily used for sales promotion and customers service of the company’s solutions.
 
 We do not collect any personally identifiable information without user knowledge. Personally identifiable information is collected using forms. Personally identifiable information is optional for use of the website.  Specific types of information are collected as described below.
 
@@ -32,7 +32,7 @@ The website and it’s associated databases are provisioned using commercially r
 
 If you wish to change or update personally identifiable information, or if you are interested in removing information from Main Sequence database(s), please email: [webmaster@mainsequence.net](mailto:webmaster@mainsequence.net) or send your request via US postal mail to the address listed below.
 
-Currently, Main Sequence does not share or sell any sales related information acquired through the [www.pcrecruiter.net](https://www.pcrecruiter.net/) website with any third parties.
+Currently, Main Sequence does not share or sell any sales related information acquired through the [www.pcrecruiter.net](http://www.pcrecruiter.net/) website with any third parties.
 
 In the event there is a change in Main Sequence’s corporate structure, including without limitation, merger, consolidation, sale, liquidation or transfer of substantial assets, Main Sequence may, in its sole and absolute discretion, transfer, sell or assign information collected, including without limitation aggregated information and personally identifiable information, to one or more affiliated or unaffiliated third parties.
 
