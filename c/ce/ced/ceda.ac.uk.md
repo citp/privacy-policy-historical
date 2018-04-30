@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceda.ac.uk privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229073618id_/http%3A//www.ceda.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceda.ac.uk privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430063846id_/http%3A//www.ceda.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Centre for Environmental Data Analysis
 
