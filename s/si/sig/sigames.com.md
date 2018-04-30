@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sigames.com privacy policy that was archived on 2017-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171028084439id_/http%3A//www.footballmanager.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sigames.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430055309id_/http%3A//www.footballmanager.com/privacy-policy) for the most accurate reproduction.*
 
 # Football Manager Privacy Policy
 
@@ -6,7 +6,7 @@ SEGA is committed to protecting and respecting your privacy.
 
 This policy (together with our Terms of Service, End User Licence Agreement for FM (as defined below) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-By registering your details with SEGA in relation to Football Manager 2017 or any of the games in the Football Manager series on any platform including Football Manager Touch and Football Manager Online (“FM”) or any other SEGA website or websites owned or operated by SEGA affiliates including the official Football Manager website (“Websites”) you consent to the use and transfer of your personal information inside and outside the EEA. Additionally, SEGA collects data in respect of its Data Subjects (as defined below) for inclusion in FM, as described below.
+By registering your details with SEGA in relation to Football Manager 2018 or any of the games in the Football Manager series on any platform including Football Manager Touch and Football Manager Online (“FM”) or any other SEGA website or websites owned or operated by SEGA affiliates including the official Football Manager website (“Websites”) you consent to the use and transfer of your personal information inside and outside the EEA. Additionally, SEGA collects data in respect of its Data Subjects (as defined below) for inclusion in FM, as described below.
 
 This privacy policy sets out how SEGA will use any information about you that it gathers. For the purposes of this privacy policy any reference to 'websites' shall also include WAP sites managed by SEGA. Please note that certain SEGA websites may have a privacy policy specific to that website which may differ to this privacy policy.
 
