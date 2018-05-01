@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the teenylovers.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230065713id_/http%3A//teenylovers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenylovers.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501060626id_/http%3A//teenylovers.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 **Privacy Policy**
 
-**
-
-Our Commitment To Privacy Your privacy is important to us.
-
-**   
+  
+Our Commitment To Privacy Your privacy is important to us.   
 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.   
 To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
@@ -30,4 +27,4 @@ You can access all your personally identifiable information that we collect onli
 granting access or making corrections.
 
 **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, please send us an email at: [webmaster@teenylovers.com](mailto:webmaster@teenylovers.com). [Teen Porn Videos](http://www.pornflixer.com/categories/teen/)
+Should you have other questions or concerns about these privacy policies, please send us an email at: webmaster @ teenylovers.com.
