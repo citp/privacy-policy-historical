@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutcache.com privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213155157id_/http%3A//www.nutcache.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutcache.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501222138id_/http%3A//www.nutcache.com/privacy-policy) for the most accurate reproduction.*
 
 # The Nutcache Privacy Policy | Nutcache
 
