@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2017-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171216222613id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501200059id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
