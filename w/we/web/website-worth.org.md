@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the website-worth.org privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230153025id_/http%3A//www.website-worth.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-worth.org privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501132826id_/http%3A//www.website-worth.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@website-worth.org.
 
 At www.website-worth.org, the privacy of our visitors is of extreme importance to us. 
 
