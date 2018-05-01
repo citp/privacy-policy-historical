@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutcareers.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/about-us%23privacy) for the most accurate reproduction.*
 
 # About Us | AllAboutCareers
 
@@ -14,9 +14,9 @@
   * [Employers](https://www.allaboutcareers.com/careers/graduate-employers) _(4)_
   * [Advice](https://www.allaboutcareers.com/careers-advice) _(5)_
   * [News](https://www.allaboutcareers.com/features) _(6)_
-  * [More](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) _(7)_
+  * [More](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) _(7)_
   * [Login](https://www.allaboutcareers.com/login) _(8)_
-  * [Search](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/)
+  * [Search](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/)
   * [Facebook](http://facebook.com/allaboutcareers) [Twitter](http://twitter.com/allaboutcareers) _(9)_
     *     * [Follow](http://twitter.com/allaboutcareers)
   * Get the latest jobs, the best advice and the freshest news. [Sign up](https://www.allaboutcareers.com/register) _(0)_
@@ -257,7 +257,7 @@ A mountain of chicken and mashed potato. A cheeky nap. And then another mountain
 
 ## Privacy policy
 
-This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/)].
+This privacy policy sets out how All About Careers Ltd uses and protects any information that you give to All About Careers Ltd when you use any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/)].
 
 All About Careers Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -306,7 +306,7 @@ Your profile on any of the All About Careers Ltd group of websites will only be 
 
 For all users under the age of 18 the default setting is private.
 
-People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20171101155411id_/https%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
+People aged under the age of 13 are not permitted to register with any of the All About Careers Ltd group of websites [[AllAboutCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLaw.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutLLMs.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutFinanceCareers.com](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [AllAboutSchoolLeavers.co.uk](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/) or [MyCareerSpringboard.org](https://web.archive.org/web/20180501185202id_/https%3A//www.allaboutcareers.com/)] and should we become aware that any site users under 13 are using the site, we will remove their profile and the personal data that we have collected.
 
 Any personal information you choose to share on the site is at your own risk. Minors aged 13–17 should seek advice and permission from their parents or guardians before sharing personal information.
 
@@ -316,7 +316,7 @@ You may choose to restrict the collection or use of your personal information in
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Ergon House, Floor 3, Horseferry Road, London, SW1P 2AL.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 25 Corsham Street, London, N1 6DR.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to us, or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
