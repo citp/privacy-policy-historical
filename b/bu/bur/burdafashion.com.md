@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burdafashion.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207134015id_/http%3A//www.burdastyle.com/statics/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burdafashion.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501064911id_/http%3A//www.burdastyle.com/statics/privacy-policy) for the most accurate reproduction.*
 
 # Fashion, Sewing Patterns, Inspiration, Community, and Learning | BurdaStyle.com
 
