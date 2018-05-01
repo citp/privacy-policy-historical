@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallcy.com privacy policy that was archived on 2017-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171029214507id_/http%3A//wallcy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallcy.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501211550id_/http%3A//www.wallcy.com/privacy) for the most accurate reproduction.*
 
 # Wallcy - Free VPN, Unrestrict Websites, Safe Browsing!
 
