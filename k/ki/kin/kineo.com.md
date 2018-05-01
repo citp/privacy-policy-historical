@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the kineo.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230194926id_/http%3A//www.kineo.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kineo.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501162820id_/http%3A//www.kineo.com/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer & Website Policies
-
-### You are currently viewing the UK version of kineo.com
-
-Would you like to switch to your local site?
-
-[ __Yes please!](https://web.archive.org/us/disclaimer)
 
 Kineo is committed to protecting your privacy. We abide by the Data Protection Acts to protect information about our clients. By using the Kineo website, you consent to the collection and use of information by Kineo, as described below.
 
