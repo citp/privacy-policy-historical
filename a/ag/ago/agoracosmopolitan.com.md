@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoracosmopolitan.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229222430id_/http%3A//www.agoracosmopolitan.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoracosmopolitan.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501095804id_/http%3A//www.agoracosmopolitan.com/privacy_policy.php) for the most accurate reproduction.*
 
 # The Canadian National Newspaper: About Us
 
