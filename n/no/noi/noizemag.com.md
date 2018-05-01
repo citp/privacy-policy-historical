@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noizemag.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214122510id_/http%3A//noize.buzz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noizemag.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501092238id_/http%3A//noize.buzz/privacy) for the most accurate reproduction.*
 
 # noiZe Buzz - Gay Travel, Music, Dance and Circuit Events Worldwide
 
