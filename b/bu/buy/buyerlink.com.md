@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerlink.com privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229171711id_/http%3A//www.buyerlink.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerlink.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501174031id_/http%3A//www.buyerlink.com/Privacy) for the most accurate reproduction.*
 
 # BuyerLink.com Marketplace | Clicks & Leads
 
