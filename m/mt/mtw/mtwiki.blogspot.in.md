@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtwiki.blogspot.in privacy policy that was archived on 2017-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171229101716id_/http%3A//mtwiki.blogspot.in/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtwiki.blogspot.in privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501062821id_/http%3A//mtwiki.blogspot.in/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy | MT Wiki: Upcoming Movie, Hindi TV Shows, Serials TRP, Bollywood Box Office
 
