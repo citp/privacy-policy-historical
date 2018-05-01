@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allexamreview.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228120128id_/http%3A//www.allexamreview.com/blog-page_15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allexamreview.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501045135id_/http%3A//www.allexamreview.com/blog-page_15) for the most accurate reproduction.*
 
 # Privacy Policy – All Exam Review Adda
 
