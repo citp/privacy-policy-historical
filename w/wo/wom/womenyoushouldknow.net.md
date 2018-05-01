@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenyoushouldknow.net privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701173755id_/http%3A//womenyoushouldknow.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenyoushouldknow.net privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501170958id_/http%3A//womenyoushouldknow.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Women You Should Know®
 
@@ -32,13 +32,15 @@ We may research the demographics, interests and behavior of our customers based 
 
 **CAN YOU “OPT-OUT” OF RECEIVING COMMUNICATIONS FROM  COMPANY?**
 
-If you change your mind and decide that you no longer want to receive promotional e-mails and/or direct   mailings, you may opt-out at any time by simply sending an e-mail request to info@womenyoushouldknow.net.
+If you change your mind and decide that you no longer want to receive promotional e-mails and/or direct mailings, you may opt-out at any time by simply sending an e-mail request to[info@womenyoushouldknow.net](mailto:info@womenyoushouldknow.net).
 
-Similarly, if you are not receiving our promotional e-mails and/or direct mailings and wish to receive these materials, you may opt-in at any time by simply sending an e-mail request to info@womenyoushouldknow.net.
+Similarly, if you are not receiving our promotional e-mails and/or direct mailings and wish to receive these materials, you may opt-in at any time by simply sending an e-mail request to [info@womenyoushouldknow.net](mailto:info@womenyoushouldknow.net).
+
+Likewise, if you would like to “opt-out” of being served Online Behavioral Advertising (OBA)  by Company’s third-party advertising, please go to our advertising placement partner’s privacy policy at [http://www.sheknowsmedia.com/privacy-policy](http://www.sheknowsmedia.com/privacy-policy) and follow the instructions therein.
 
 **PRIVACY POLICIES OF COMPANY PARTNERS**
 
-Third parties that have links on our Web Site may collect personally identifiable information about you. We are not responsible for the privacy policies or practices of such sites and the practices of these sites are not governed by this Privacy Policy.  If you have questions about the privacy policies or practices of a third party site, you should contact the site administrator or web-master of the specific site. We may from time to time partner with other companies to offer co-branded services as well as promotions. Any information that you provide in connection with the co-branded services or any jointly sponsored promotions will become the joint property of Company and its business partners.  We will maintain your information in accordance with the terms of this Privacy Policy.  However, this Privacy Policy does not govern the privacy policies and practices of our business partners. If you have questions about the privacy policies or practices of our business partners, you should contact them directly.
+Third parties that have links on our Web Site may collect personally identifiable information about you. We are not responsible for the privacy policies or practices of such sites and the practices of these sites are not governed by this Privacy Policy.  If you have questions about the privacy policies or practices of a third party site, you should contact the site administrator or web-master of the specific site. We may from time to time partner with other companies to offer co-branded services as well as promotions. Any information that you provide in connection with the co-branded services or any jointly sponsored promotions will become the joint property of Company and its business partners.  We will maintain your information in accordance with the terms of this Privacy Policy.  However, this Privacy Policy does not govern the privacy policies and practices of our business partners. If you have questions about the privacy policies or practices of our business partners, you should contact them directly. Among the third party partners the Company does business with is She Knows Media, you can find their privacy policy [here](http://www.sheknowsmedia.com/privacy-policy).
 
 **DO WE SELL OR RENT YOUR PERSONALLY IDENTIFIABLE  INFORMATION?**
 
