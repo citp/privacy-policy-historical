@@ -1,109 +1,89 @@
-> *The following text is extracted and transformed from the byliner.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702044945id_/https%3A//www.byliner.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byliner.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501092922id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
-# Byliner
+# Privacy Policy — Squarespace
 
-  1. Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com or our mobile applications (such as our iPhone app) and related services (together, the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
+**Update: Squarespace’s Privacy Policy will be changing effective May 14, 2018. Click[here](https://web.archive.org/privacy-new) to review the new privacy policy.**
 
-### Information We Collect
+ _Last updated: September 26, 2016_
 
-You provide us information about yourself, such as your name and email address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. In addition, you may choose to add information about yourself to your profile that you can then share with others.. You can modify or delete your profile setting for this information any time in the “Settings” section of the site after you have signed in using your personal password.
+Thanks for visiting Squarespace! This Privacy Policy describes what information we collect and how it's used and shared. Note that any capitalized terms not defined in this Privacy Policy have the meanings set forth in our [Terms of Service](https://www.squarespace.com/terms-of-service/). If you don’t agree with the terms of this Privacy Policy, you may not access or use the Services. If you have any comments or questions about this Privacy Policy, feel free to contact us at [privacy@squarespace.com](mailto:privacy@squarespace.com).
 
-### Cookies Information
+ **1.  ** **Core Principles** ****
 
-When you visit Byliner.com, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Byliner help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Byliner uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+When it comes to your personal information we believe in transparency, not surprises. So before we get into the details, we want to share with you a few of our core privacy principles. First, we don’t sell your personal information to anyone. It’s just not the type of business we’re in. Second, we don’t ask for your personal information unless we need it to provide or improve the Services for you. Third, we don’t share your personal information unless you’ve specifically allowed it, or for the very limited purposes described below. Finally, we appreciate that when you use our Services, you trust us with your information, and we take that responsibility very seriously. This Privacy Policy holds us accountable for protecting your rights and your privacy.
 
-In addition, we may send one or more cookies when you open any emails sent by or on behalf of Byliner. Cookies may be used to later target advertising to you – including advertising serviced on third party networks. For example, if you open an email sent by us, then we may later serve you a Byliner advertisement while you are on Facebook.
+ **2.  ** **Collection**
 
-### Information Collected From Other Websites and Do Not Track Policy
+When you use the Services, we collect the following information, and use it only as described below:
 
-Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
+ **2.1. Account Information.** This may include your name, address, email address and phone number. We use this information in the ways you would expect, such as to set up your Account or contact you. 
 
-### Google Analytics Notice
+**2.2. Third Party Account Information.** If you use Third Party Services, such as social media or photo-sharing services, you may provide us with your Third Party Services account information, such as your username (note that we don’t store any passwords you use to access Third Party Services). We transmit, and may store, such account information, only as needed to provide the Services, and only in accordance with the terms and policies of the Third Party Services. 
 
-We also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), including the features for demographics and interests reporting. You can find out more about this service at http://www.google.com/analytics. Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address, which we do not link to any personally identifiable information) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services to us relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You can configure your browser software to disable the use of cookies but this may prevent you from making full use of our website. You can also stop being tracked by Google Analytics across all websites by going to Google’s site at: http://tools.google.com/dlpage/gaoptout.
+**2.3. Payment Information.** When you initially provide or update your payment information, we transmit it via an encrypted connection to our Payment Processor, Stripe. Stripe uses and processes your payment information in accordance with [Stripe’s Privacy Policy](https://stripe.com/privacy/). We don’t store your payment information, other than your zip code and country, which we require for billing and to comply with tax and other government regulations. 
 
-### Log File Information
+**2.4. Communications With Us.** When you send us emails or other communications, such as customer support inquiries, we maintain those communications and their contents so that we can resolve your inquiries or otherwise assist you. 
 
-Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring/exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+**2.5. Public Comments On The Services.** We maintain any comments, contributions to discussions or messages submitted to users of the Services, in order to provide the Services.
 
-### Clear Gifs Information
+ **2.6. Files You Provide Us.** When you use the Services, we store, process and transmit your User Content (such as your photos) and information related to your User Content (such as location tags in photos). We process and store such files and information in order to provide the Services, as described in our [Terms of Service](https://www.squarespace.com/terms-of-service/).
 
-When you use the Service, we may employ clear gifs (a.k.a. Web Beacons), which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Byliner account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Byliner better for our users.
+ **2.7. Usage Information.** This includes information about your activity on and interaction with the Services, such as your IP address, your device or browser type, the webpage you visited before coming to our sites and identifiers associated with your devices. This information enables us to analyze how the Services are being accessed and used, and to track performance of the Services.
 
-### How We Use Your Information
+ **2.8. Location Information.** Your devices (depending on your settings) may transmit location information to the Services. We use this information to customize, improve and protect the Services. For example, we may use your location information to determine local language preferences, or to geotag a post.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. Byliner never discloses your personal information to any third party unless you have instructed us to do so.
+ **2.9. Cookies And Other Technologies.** We use these technologies to do things such as remember your preferences, keep you safe and improve and promote the Services. You can read more about how we use these technologies in our [Cookie Policy](https://www.squarespace.com/cookie-policy), which is incorporated by reference into this Privacy Policy.
 
-Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public via the Service and our business partners. User Content includes, but is not limited to, reviews, and comments. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
+ **3.  ** **Sharing**
 
-Byliner takes reasonable measures to keep messages that you send to other Members through the Service private between you and the recipient. However, even if you have deleted the message from your Byliner inbox or outbox, copies of the message may remain viewable in cached and archived pages or if other users have copied or stored the message.
+When you use the Services, we may share your information only as described below:
 
-By providing Byliner your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by clicking “Unsubscribe” at the bottom of Byliner’s newsletter. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. You may not opt out of Service-related emails.
+ **3.1. Third Parties You Authorize.** You can give third parties access to your and your End Users’ information on the Services. For example, you may wish to integrate Your Sites with a third party newsletter service that requires access to the email addresses you collect from your End Users, in order for that newsletter service to send emails on your behalf and at your direction. Just remember that such third party’s use of this information will be governed by the terms and privacy policies of the third party.
 
-Your name and, depending on privacy settings, email address, are used when you invite another person to join Byliner, or when you request to add another member to your friends list.
+ **3.2.** **Following The Law.** We may disclose your information to third parties if we determine that such disclosure is reasonably necessary to comply with the law, protect our rights or prevent fraud or abuse of Squarespace or our users. When we receive law enforcement or national security requests for information, we strongly believe in privacy and transparency. We scrutinize such requests carefully and challenge vague, overbroad or otherwise unlawful requests. And when legally permitted, we provide our users with notice that their information is being requested. This notice is provided so that you have the opportunity to challenge such requests. 
 
-Byliner may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+**3.3. Others Working For Squarespace.** Squarespace uses certain trusted third parties to help us provide, improve, promote and protect the Services. For example, we may use third parties to help us provide customer support, manage our ads on other sites or assist with data storage. These third parties may access, process or store your information to perform tasks only for the purposes we’ve authorized, and we require them to provide at least the same level of protection for your information as described in this Privacy Policy. We also may share with third parties aggregated or anonymized information that does not directly identify you.
 
-Byliner may develop special sites in cooperation with other companies. If you register at these “co-branded” sites, we may share your registration information (such as name and email address) with that company.
+ **3.4. Business Transfers.** If we're involved in a reorganization, merger, acquisition or sale of our assets, your information may be transferred as part of that deal. 
 
-Byliner reserves the right, but has no obligation, to monitor the User Content you post on the site. Byliner has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Byliner also reserves the right to remove information upon the request of any third party.
+**4.  ** **Protection**
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) target and re-target advertising on the Byliner service as well as third party services; (d) monitor the effectiveness of our service; (e) monitor aggregate metrics such as total number of visitors and traffic; (f) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (g) help you efficiently access your information after you sign in.
+While no service is completely secure, we have a security team dedicated to keeping your information safe. We employ security measures such as using firewalls to protect against intruders, building redundancies throughout our network (so that if one server goes down, another can cover for it) and testing for and protecting against network vulnerabilities. Payment information is transmitted using HTTPS encryption, and we maintain a PCI DSS certification. 
 
-### How We Share Your Information
+**5.  ** **Retention**
 
-Byliner will not rent or sell your personally identifiable information to others. Byliner may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Byliner (for instance, on servers or databases co-located with hosting providers).
+We'll retain your personal information for as long as we need it to provide you with the Services. You can ask for your personal information to be deleted at any time by deleting your Account or contacting us at [privacy@squarespace.com](mailto:privacy@squarespace.com). Please note that there may be latency in deleting your personal information from our servers and backup storage, and we may retain your personal information in order to comply with the law, protect our rights, resolve disputes or enforce our agreements.
 
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+ **6.  ** **Location**
 
-Except as otherwise described in this privacy statement, Byliner will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Byliner, our users or others.
+Information that you submit through the Services may be transferred to countries other than where you live (for example, to our servers in the US). We also may store information locally on the devices you use to access the Services. We also may transfer information to third parties outside the US for processing or to support the Services, and we require them to provide at least the same level of protection for your information as described in this Privacy Policy.
 
-We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Byliner services.
+ **7.  ** **Access**
 
-Byliner allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Byliner site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Byliner. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+To modify or delete the personal information you have provided to us, simply log into the Services and update your profile. We may retain certain information as required by law or for necessary business purposes. On request, we'll provide you with a copy of your personal information that we maintain. This request may be subject to a fee not exceeding the prescribed fee permitted by law.
 
-Byliner does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Byliner to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+ **8.  ** **Communications**
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks. The Byliner privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+We may periodically email you service-related announcements. We'll also send you emails related to your transactions. We may also send you marketing or promotional communications, but you can opt out of receiving subsequent marketing or promotional communications by clicking the link marked unsubscribe (or a similar phrasing) that’s included in those communications. 
 
-### How We Protect Your Information
+**9.  ** **End User Information**
 
-Byliner uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Byliner and you do so at your own risk. Once we receive your transmission of information, Byliner makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+ **9.1. Collection And Use Of End User Information.** You may use the Services to create or publish Your Sites, and Your Sites may have End Users. We may collect, use or delete the same types of information described in Section 2, above, from your End Users, on your behalf and at your direction, and we treat such information in accordance with this Privacy Policy. We do this in order to enable you to use the Services, and to provide, improve and protect the Services. For example, during checkout you may ask your End Users to provide name, address, email address and payment information so that you can complete their orders.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Byliner, at all times.
+ **9.2. Your Relationship With End Users.** You can collect, use or delete your End Users’ information at any time. However, you're solely responsible for complying with any laws and regulations that apply to your End Users’ information, including without limitation the posting of your own privacy policy. We’re not liable for your relationship with your End Users, and we won’t provide you with any legal advice regarding such matters. 
 
-### Compromise of Personal Information
+**9.3. End User Payment Information.** Your End Users’ payment information may be processed via third party eCommerce Payment Processors with which you integrate your Account, in accordance with such eCommerce Payment Processors’ terms and policies. We transmit your End Users’ complete payment information when they initially provide or update it, only so that we can pass it along to the eCommerce Payment Processors you agree to use. We don’t collect or store your End Users’ payment information. 
 
-In the event that personal information is compromised as a result of a breach of security, Byliner will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+**9.4. A Message To The End Users.** Hello, End User! We hope you [create your own site](https://www.squarespace.com/) on Squarespace some day! However, Squarespace has no direct relationship with you. If you’d like to make any requests regarding your personal information, please contact the owner of the site you’ve visited or used, as they control your data. They may then submit any such information requests to us, and we’ll respond to them. We retain your information in accordance with this Privacy Policy. 
 
-### Your Choices About Your Information
+**10.  ** **Privacy Shield**
 
-You may access or change your information and preferences at any time in your Settings area once you have signed in with your personal password. You may, of course, decline to submit personally identifiable information through Byliner, in which case Byliner may not be able to provide certain services to you.
+ **10.1. Compliance.** Squarespace complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union to the United States (“EU Personal Data”). We’ve certified to the Department of Commerce that we adhere to the Privacy Shield Principles and, assuming our certification is approved, you’ll be able to find it [here](https://www.privacyshield.gov/list). You can learn more about Privacy Shield by visiting [https://www.privacyshield.gov/](https://www.privacyshield.gov/). 
 
-### Children’s Privacy
+**10.2. Accountability.** Our accountability for EU Personal Data we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we may use third parties to process data on our behalf as described in this Privacy Policy, and we remain liable if they do so in a manner inconsistent with the Privacy Shield Principles and we're responsible for the event giving rise to the damage. 
 
-Protecting the privacy of young children is especially important. For that reason, Byliner does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Byliner. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+**10.3. Inquiries And Disputes.** If you have questions you believe to be within the scope of our Privacy Shield certification, please contact us first at [privacy@squarespace.com](mailto:privacy@squarespace.com) and we'll respond within 45 days. For any complaints that we can’t resolve directly, JAMS is the independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance, and you can contact JAMS at [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield). In the event your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under the Privacy Shield Principles. For purposes of enforcing compliance with the Privacy Shield, Squarespace is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission. 
 
-### Links to Other Web Sites
+**11.  ** **Modifications**
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
-
-### Notification Procedures
-
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Byliner in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
-
-### Changes to Our Privacy Policy
-
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
-
-The date of the most recent update to this Privacy Policy is December 12, 2013.
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please email [hello@byliner.com](mailto:hello@byliner.com), or send mail to:
-
-Customer Care  
-Byliner Inc.  
-594 Howard Street, Suite 400  
-San Francisco, CA 94105
-
-
-
+We may modify this Privacy Policy from time to time, and will post the most current version on our site. If a modification meaningfully reduces your rights, we'll notify you in accordance with the procedures set forth in our [Terms of Service](https://www.squarespace.com/terms-of-service/). 
