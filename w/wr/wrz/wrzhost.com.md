@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrzhost.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115161616id_/http%3A//wrzhost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrzhost.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501070635id_/http%3A//wrzhost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # WRZhost - Privacy Policy
 
