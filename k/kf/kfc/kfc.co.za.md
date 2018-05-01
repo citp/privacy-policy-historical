@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915074637id_/http%3A//www.kfc.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501123953id_/https%3A//kfc.co.za/privacy) for the most accurate reproduction.*
 
 # KFC Privacy Policy
 
-### What We collect
+### What We Collect
 
 We may electronically collect, store and use personal information. If You don't consent to the collection and storage of Your personal information, please do not Access or register on the Sites. Before any of Your personal information is used, you will be asked to consent to these Terms and Conditions. This is in compliance with the POPI Act.  By consenting to these Terms and Conditions You are also consenting to Us using your personal information as detailed below. This personal information includes, but is not limited to, the following:
 
