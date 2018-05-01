@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clutch.co privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704015433id_/https%3A//clutch.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutch.co privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501204018id_/https%3A//clutch.co/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Clutch.co
 
