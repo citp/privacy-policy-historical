@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelittleappfactory.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231094736id_/http%3A//thelittleappfactory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelittleappfactory.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501112746id_/http%3A//thelittleappfactory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – The Little App Factory
 
