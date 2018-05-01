@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sqsp.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230022433id_/https%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqsp.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501092922id_/https%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Squarespace
 
-_Last updated: September 26, 2016_
+**Update: Squarespace’s Privacy Policy will be changing effective May 14, 2018. Click[here](https://web.archive.org/privacy-new) to review the new privacy policy.**
+
+ _Last updated: September 26, 2016_
 
 Thanks for visiting Squarespace! This Privacy Policy describes what information we collect and how it's used and shared. Note that any capitalized terms not defined in this Privacy Policy have the meanings set forth in our [Terms of Service](https://www.squarespace.com/terms-of-service/). If you don’t agree with the terms of this Privacy Policy, you may not access or use the Services. If you have any comments or questions about this Privacy Policy, feel free to contact us at [privacy@squarespace.com](mailto:privacy@squarespace.com).
 
