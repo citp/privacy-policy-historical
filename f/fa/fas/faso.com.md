@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faso.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231024319id_/https%3A//faso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faso.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501185120id_/https%3A//faso.com/privacy) for the most accurate reproduction.*
 
 # Policies
 
