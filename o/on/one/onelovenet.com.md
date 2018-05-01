@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231105106id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelovenet.com privacy policy that was archived on 2018-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180501124821id_/http%3A//www.onelovenet.com/index.cgi/def/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Find Singles Free Dating Site OneLoveNet.com, Online Dating Service, Personal Ads
 
