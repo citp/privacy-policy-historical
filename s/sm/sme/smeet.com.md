@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smeet.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221064938id_/https%3A//en.smeet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smeet.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502192207id_/https%3A//en.smeet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Smeet
+
+#### §7. Privacy Statement of the sMeet Communications GmbH
 
 (1) With the registration, the user shall agree to the provisions stated here for the use of his / her personal information by Smeet. The user can access the contents regarding the data privacy protection and the use of the data at Smeet at any time via this [link](http://en.smeet.com/privacy-policy) and can revoke his / her agreement at any point in time.
 
