@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syl.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409043046id_/http%3A//www.syl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syl.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502052144id_/http%3A//www.syl.com/privacy.html) for the most accurate reproduction.*
 
 # Free online dating service SearchYourLove
 
