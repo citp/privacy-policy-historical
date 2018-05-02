@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2017-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170726034337id_/https%3A//us2.shagbook.com/help/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502192811id_/http%3A//us2.shagbook.com/help/privacy.cfm) for the most accurate reproduction.*
 
-# Shagbook US :: Shagbook US Member Privacy Policy
+# Shagbook America :: Shagbook America Member Privacy Policy
 
 _Last updated on March 15, 2016_
 
