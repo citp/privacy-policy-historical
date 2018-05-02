@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sqltutorial.org privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231141803id_/http%3A//www.sqltutorial.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqltutorial.org privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502230054id_/http%3A//www.sqltutorial.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SQL Tutorial
 
 **The privacy of our visitors to www.sqltutorial.org is very important to us.**
 
-##  What information do we collect?
+## What information do we collect?
 
 We collect information from you when you subscribe to our newsletter.
 
