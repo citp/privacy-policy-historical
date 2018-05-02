@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfire.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212181632id_/http%3A//sales.webfire.com/WebFire_PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfire.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503002707id_/http%3A//sales.webfire.com/WebFire_PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
