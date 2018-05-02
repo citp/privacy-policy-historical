@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxingnews24.com privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209011646id_/http%3A//www.boxingnews24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxingnews24.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502035756id_/http%3A//www.boxingnews24.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.boxingnews24.com
 
