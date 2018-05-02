@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the exchangerates.org.uk privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902223849id_/https%3A//www.exchangerates.org.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerates.org.uk privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502193308id_/https%3A//www.exchangerates.org.uk/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Data Protection & Privacy Policy
 
-ExchangeRates.org.uk has created this privacy statement to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with our website. We hold the privacy of your personal information in very high regard. The following discloses our information gathering and dissemination practices for ExchangeRates.org.uk. We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new technologies, business practices and our customers' needs. 
+**_Exchange Rates UK_** (title given for website address exchangerates.org.uk) is a trading name of UK FX LTD. Exchange Rates UK has created this privacy statement to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with our website. We hold the privacy of your personal information in very high regard. The following discloses our information gathering and dissemination practices for Exchange Rates UK. We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide and to assist you in making informed decisions when using our site. This policy will be continuously assessed against new policies, technologies, business practices and our customers' needs. 
 
-## What Information Do We Collect?
+## Data Protection and Privacy Policy
 
 When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse our website.
 
@@ -18,7 +18,31 @@ Similar to other commercial websites, our website utilises a standard technology
 
 ## How Do We Use the Information That You Provide to Us?
 
-Broadly speaking, we use personal information for the purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customise our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law. Occasionally, we may also use the information we collect to notify you about important changes to our website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter. 
+Broadly speaking, we use personal information for the purposes of administering our business activities, providing the products and services you requested, to process your payment, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customise our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs. Personally identifiable information or business information will not be shared with 3rd parties except as when requested by yourself or required by law.
+
+**1\. Internal reporting, insight and analysise**
+
+We utilise cookies, server data logs and a 3rd party, Google Analytics, to analyse traffic to our website.
+
+**2\. User Registration - Site Personalisation**
+
+If registered we will utilise the personal information to tailer the website to your preffered currency, notify you via email according to your user preferences and communicate with you regarding your account. 
+
+**3\. Exchange Rates UK Email Subscriptions**
+
+If subscribed to one of our [email newsletters](https://www.exchangerates.org.uk/currency/subscriptions.html), your email address and currency options will be securely passed to Mailchimp (see below) who will use it to facilitate the subscriptions you requested. We do not hold this data on our own servers.
+
+**4\. Exchange Rates UK QnA**
+
+If you submit a question to our [Currency QnA](https://www.exchangerates.org.uk/info/questions.html), we require your email address in order to notify you of a reply. Once notified, we remove your email address from the associated question in our database. We will publish the question on the website. Once notified, we no longer require your email address and so it will be removed.
+
+**5\. Contacting you**
+
+We may use your personal inforation to contact you in response to the communications that you have directed at us. We want to be able to help you so we use personal data to provide clarification or assistance in response to your communications.
+
+## Subscriptions
+
+We use a third party provider, Mailchimp, to deliver our subscription e-newsletter. We gather statistics around email opening and clicks using industry standard technologies including clear gifs to help us monitor and improve our e-newsletter. For more information, please see [MailChimp's cookie notice](https://mailchimp.com/legal/cookies/). Occasionally, we may also use this subscription to notify you about important changes to our website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive further newsletters by unsubscribing using the link provided on the newsletter.
 
 ## What Are Cookies?
 
@@ -26,7 +50,7 @@ A cookie is a very small text document, which often includes an anonymous unique
 
 ## How Do We Use Information We Collect from Cookies?
 
-As you visit and browse our website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
+As you visit and browse our website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies. 
 
 ## IP Addresses
 
@@ -38,7 +62,7 @@ We do not share, sell, lend or lease any of the information that uniquely identi
 
 ## How Can You Access and Correct Your Information?
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
+You may request access to all your personally identifiable information that we collect online and maintain in our database by [contacting us here](https://www.exchangerates.org.uk/contact-us.html).
 
 ## What About Legally Compelled Disclosure of Information?
 
@@ -62,14 +86,16 @@ This site allows visitors to unsubscribe so that they will not receive future me
 
 ## Surveys & Contests
 
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information and consent to its use. Information requested may include contact information (such as name and shipping address), and demographic information (such as postcode and age). If consent is provided, contact information will be used to notify the winners and award prizes. Survey information will be used for the purposes of monitoring or improving the functionality of this site.
 
 ## Acquisition or Changes in Ownership
 
 In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
 
-## Policy Modifications
+## Changes to the Terms
 
-We may change this Privacy Policy from time to time. If/when changes are made to this Privacy Policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+Exchange Rates UK reserves the right, at its discretion, to make changes to any part of the Website, the Information or these Terms.
 
-Last updated April 2014.
+Exchange Rates UK may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+
+This policy was last updated April 2018. By continuing to use the Website you agree to be bound by these Terms as amended.
