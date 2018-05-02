@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172539id_/https%3A//www.thrifty.com/AboutUs/content/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrifty.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502090713id_/https%3A//www.thrifty.com/AboutUs/content/Privacy.aspx) for the most accurate reproduction.*
 
 # Thrifty Online Privacy Policy
 
