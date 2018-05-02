@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedogging.com privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204171840id_/http%3A//uk.comedogging.com/help/privacy.cfm%3Fwldsite%3D30520) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedogging.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502230121id_/http%3A//uk.comedogging.com/help/privacy.cfm%3Fwldsite%3D30520) for the most accurate reproduction.*
 
 # Come Dogging UK :: Come Dogging UK Member Privacy Policy
 
@@ -6,7 +6,7 @@ _Last updated on 15 March 2016_
 
 ### Data Controller
 
-For the purposes of the Data Protection Act 1998, we confirm that the data controller of this website including any mobile website (together the “Website”) is Venntro Media Group Ltd., a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, SL4 1EG, United Kingdom and who also trades as Global Personals and White Label Dating (“Venntro Media Group”, “we”, “us” and “our”). Venntro Media Group can be contacted via the contact section on the Website or by writing to our registered address. 
+For the purposes of the Data Protection Act 1998, we confirm that the data controller of this website including any mobile website (together the “Website”) is Venntro Media Group Ltd., a company registered under the laws of England, whose registered office is 59-60 Thames Street, Windsor, SL4 1TX, United Kingdom and who also trades as Global Personals and White Label Dating (“Venntro Media Group”, “we”, “us” and “our”). Venntro Media Group can be contacted via the contact section on the Website or by writing to our registered address. 
 
 This Privacy Policy (together with our [Terms of Use](https://web.archive.org/terms "Terms of Use") and any other documents referred to in it) outlines the manner in which we manage personal information obtained through or displayed on the Website or otherwise provided by users (“you”, “your”) of our dating and networking services (“Services”) via the Website.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using the Website, you are taken to have read and agreed to the collection, use, disclosure and handling of your personal information in accordance with this Privacy Policy. 
 
