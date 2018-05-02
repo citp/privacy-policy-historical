@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vlesociety.com privacy policy that was archived on 2017-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171227132217id_/http%3A//www.vlesociety.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vlesociety.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502231703id_/http%3A//www.vlesociety.com/privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Sitapur vle society
 
