@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunshinecoastdaily.com.au privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930073347id_/https%3A//www.sunshinecoastdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinecoastdaily.com.au privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502200434id_/https%3A//www.sunshinecoastdaily.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sunshine Coast Daily
 
