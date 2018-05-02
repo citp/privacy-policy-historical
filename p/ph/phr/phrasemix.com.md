@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phrasemix.com privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101194553id_/https%3A//www.phrasemix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phrasemix.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502075616id_/http%3A//www.phrasemix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhraseMix.com
 
@@ -84,4 +84,4 @@ We may revise this Privacy Policy from time to time. The most current version of
 
 We welcome any comment, question and communication at [support@phrasemix.com](mailto:support@phrasemix.com)
 
-_Effective: March 26, 2013_
+_Effective: April 30, 2018_
