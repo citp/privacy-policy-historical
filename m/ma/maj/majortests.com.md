@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the majortests.com privacy policy that was archived on 2017-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171225055832id_/http%3A//www.majortests.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majortests.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502040039id_/http%3A//www.majortests.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
 At MajorTests.com we care about providing you with tools and information to manage and protect your online privacy. We have developed this privacy policy to inform you about what information this web site collects, who may receive that information, what we may do with the information, and how long we keep it. While we have made every attempt to make this policy as clear as possible, if you have any further questions about it, please contact us:
 
   * website: http://www.majortests.com/
-  * feedback: http://www.majortests.com/contact.php
+  * feedback: http://www.majortests.com/about-us/contact
 
 
 
