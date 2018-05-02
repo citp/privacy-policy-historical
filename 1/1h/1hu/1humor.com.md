@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1humor.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802024617id_/http%3A//ww43.1humor.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1humor.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502043917id_/http%3A//ww43.1humor.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
