@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malaysurance.ga privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016021534id_/http%3A//malaysurance.ga/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malaysurance.ga privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503003324id_/http%3A//malaysurance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Malaysurance
 
