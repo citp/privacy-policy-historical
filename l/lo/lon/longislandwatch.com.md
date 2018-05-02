@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longislandwatch.com privacy policy that was archived on 2017-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170809161459id_/https%3A//www.longislandwatch.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longislandwatch.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502114907id_/https%3A//www.longislandwatch.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -63,7 +63,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20170809161459id_/https%3A//www.longislandwatch.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20180502114907id_/https%3A//www.longislandwatch.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
