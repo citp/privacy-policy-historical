@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disini.link privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207111108id_/http%3A//www.disini.link/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disini.link privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502064800id_/http%3A//www.disini.link/privacy) for the most accurate reproduction.*
 
 # Privacy | Disini.link | Responsive Short Url
 
