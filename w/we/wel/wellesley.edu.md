@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellesley.edu privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922065720id_/https%3A//www.wellesley.edu/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellesley.edu privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503005717id_/https%3A//www.wellesley.edu/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policies | Wellesley College
 
