@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirose-dispatching.com privacy policy that was archived on 2017-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171031000329id_/http%3A//www.hirose-dispatching.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirose-dispatching.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502192114id_/http%3A//www.hirose-dispatching.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 広瀬ディスパッチング - Privacy Policy
 
