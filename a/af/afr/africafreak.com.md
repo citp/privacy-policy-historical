@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africafreak.com privacy policy that was archived on 2017-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170629124016id_/http%3A//africafreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africafreak.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502195553id_/http%3A//africafreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Africa Freak
 
@@ -6,7 +6,7 @@ Your privacy is very important to us. This privacy policy explains how the infor
 
 ### KIND OF INFORMATION WE COLLECT
 
-If you choose to register on our site, we ask you for information such as name, e-mail address, postal address, age, gender, and telephone number. We may track certain information about you based upon your behavior on our site. We use this information to do internal research on our users’ demographics, interests, and behavior to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis.
+If you choose to register on our site, we ask you for information such as name, e-mail address, postal address, age, gender, or telephone number. We may track certain information about you based upon your behavior on our site. We use this information to do internal research on our users’ demographics, interests, and behavior to better understand, protect and serve our users. This information is compiled and analyzed on an aggregated basis.
 
 ### USE OF YOUR INFORMATION
 
