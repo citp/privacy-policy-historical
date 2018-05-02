@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2017-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171009024126id_/http%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalscience.org privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502222939id_/https%3A//www.environmentalscience.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EnvironmentalScience.org
 
@@ -61,7 +61,7 @@ We collect several types of information from and about users of our Website. We 
 
 The information we collect on or through our Website may include:
 
-  * Information that you provide by filling in forms on our Website. This includes the information that you provide when you participate in one of our online contests such as scholarships for teachers or when you request further information. We may also ask you for information when you report a problem with our Website.
+  * Information that you provide by filling in forms on our Website. This includes the information that you provide when you participate in one of our online contests such as scholarships for students or when you request further information. We may also ask you for information when you report a problem with our Website.
 
 
   * Information that you provide when posting comments in public areas of our Website.
