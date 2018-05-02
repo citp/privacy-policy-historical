@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesearches.com privacy policy that was archived on 2017-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171228013418id_/http%3A//publicrecords.onlinesearches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesearches.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502125759id_/http%3A//publicrecords.onlinesearches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -117,7 +117,7 @@ We may also allow other unaffiliated companies, called third-party ad servers or
 
 We have no control over these parties' privacy policies or information collection and use practices.
 
-If you would like to learn more about targeted advertising served by ad networks and your ability to opt out from receiving such advertising from ad networks, [click here](http://www.peopleconnect.us/privacy).
+If you would like to learn more about targeted advertising served by ad networks and your ability to opt out from receiving such advertising from ad networks, click here.
 
 d. Contests and Sweepstakes
 
@@ -153,7 +153,7 @@ In connection with the Intelius and US Search Services, public records are avail
 
 As a courtesy, we enable you to opt out your personal information from the Intelius and US Search databases. What this means is that your name as it appears in a particular record and the associated identifying information such as your address and phone number will be suppressed if you request this in the manner described below. However, please note that any time your identifying information appears in a public record or in a publicly or commercially available manner, in a way that is different from the particular record you opted out, it may again appear in our databases. For example, if your address or area code changes, your new information (including other associated identifying information) may again appear unless you opt out the new record. Similarly, if the way in which your name or address appears in a record differs from a record you opted out (e.g., "Michael" instead of "Mike," or "1212 Second AVE NE" instead of "1212 - 2nd Avenue Northeast"), we may include the differing record. Please also note that there may be more than one record in our databases associated with your personal information. Opting out one particular record will not opt out other record(s). An opt-out will apply from the processing date forward; any report purchased prior to your opt-out will still be available to the purchaser thereof in accordance with the terms of the applicable Services. There are many other companies offering public records search services, and your request that we opt out your information from our databases will not prevent your information from appearing on these other services.
 
-There are several ways to remove your information from our databases, [click here](http://www.peopleconnect.us/privacy) for your options.
+There are several ways to remove your information from our databases, click here for your options.
 
 Your information will be removed from our database in approximately 7-14 days. Opt-out requests must be submitted to us individually by the subject of a particular record. Bulk opt-out requests will not be fulfilled.
 
