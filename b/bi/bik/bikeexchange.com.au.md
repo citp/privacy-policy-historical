@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexchange.com.au privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118001942id_/https%3A//www.bikeexchange.com.au/article/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexchange.com.au privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502200618id_/https%3A//www.bikeexchange.com.au/article/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security
 
