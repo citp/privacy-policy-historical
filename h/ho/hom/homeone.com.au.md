@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeone.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218125951id_/http%3A//www.homeone.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeone.com.au privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502200516id_/https%3A//www.homeone.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -175,7 +175,7 @@ Cookies store byte-sized information on Your computer system. It enables homeone
 
 The forum system, Our advertising server, directory, and not limited to, uses cookies and local storage to store information. Also, third parties may place and read cookies on Your browser, or may use web beacons to collect information, in the course of ads being served to You on this website. We use cookies to provide You with a better experience. These cookies allow Us to increase Your security by storing Your session ID and are a way of monitoring single user access. This aggregate, non-personal information is collated and provided to Us to assist in analysing the usage of the site. 
 
-Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://policies.google.com/technologies/ads).
 
 This website uses Display Advertising features (Remarketing and Google Analytics and Interest Reporting) cookies to facilitate the sampled reporting of demographics and interests of its visitors within Google Analytics.
 
@@ -201,11 +201,11 @@ Forums are public in nature. Once You publish a public post at the forum, You ma
 
 #### Complaints about Privacy Concerns
 
-Should you wish to complain about our Privacy Policy, please [contact us](http://www.homeone.com.au/contact) and we will respond within a reasonable time frame.
+Should you wish to complain about our Privacy Policy, please [contact us](https://www.homeone.com.au/contact) and we will respond within a reasonable time frame.
 
  **Contact Us**
 
-If You have any queries relating to Our Privacy Policy, please [contact us](http://www.homeone.com.au/contact) or you may reach us by phone or mail:
+If You have any queries relating to Our Privacy Policy, please [contact us](https://www.homeone.com.au/contact) or you may reach us by phone or mail:
 
  **1300 466 366**
 
@@ -215,4 +215,4 @@ Australia
 
 Should a copy of this Privacy Policy be required in another format please contact us so we may arrange to provide this to you.
 
-For more information about privacy issues in Australia and protecting Your privacy, visit the Office of the Australian Information Commissioner. Details are available at [www.oaic.gov.au](http://www.oaic.gov.au/)
+For more information about privacy issues in Australia and protecting Your privacy, visit the Office of the Australian Information Commissioner. Details are available at [www.oaic.gov.au](https://www.oaic.gov.au/)
