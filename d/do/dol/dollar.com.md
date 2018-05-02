@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2017-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171206004713id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502090736id_/https%3A//www.dollar.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
