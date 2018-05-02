@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarugbymag.co.za privacy policy that was archived on 2017-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171209114126id_/http%3A//www.sarugbymag.co.za/sa-rugby-magazine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarugbymag.co.za privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502060815id_/http%3A//www.sarugbymag.co.za/sa-rugby-magazine/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -88,7 +88,7 @@ contain an unsubscribe link and by following the unsubscribe process
 You shall be removed from the relevant distribution list and HM shall no  
 longer send You the subscription information. Should you experience  
 any issues with this process please contact our legal advisor, Tracey  
-Stewart at tracey@hsm.co.za directly.  
+Stewart at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) directly.  
 2\. CONSENT TO PROCESS PERSONAL INFORMATION  
 2.1 You understand that Your consent to the processing of your personal  
 information by HM pertains to the provision of the products and  
@@ -107,7 +107,7 @@ statistical and reporting purposes.
 2.4 In the event that You wish to revoke all consent pertaining to Your  
 Personal Information and You would like HM to remove and/or delete  
 Your Personal Information entirely, You must notify HM via email to  
-HM's legal advisor, Tracey Stewart email address: tracey@hsm.co.za.  
+HM's legal advisor, Tracey Stewart email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 2.5 By Using THE WEBSITES, You represent that You are of the age of 18  
 or that a Competent Person has given consent to allow Your minor  
 child to utilise THE WEBSITES. You, or a ‘Competent Person’ in the  
@@ -197,5 +197,5 @@ the record (We reserve our right to charge a small fee in this case),
 cease processing of Your Personal Information and/or delete it, in  
 accordance with Your request.  
 INFORMATION OFFICER: HM LEGAL ADVISOR – TRACEY STEWART  
-EMAIL ADDRESS: tracey@hsm.co.za  
+EMAIL ADDRESS: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 TEL: 021 416 0141
