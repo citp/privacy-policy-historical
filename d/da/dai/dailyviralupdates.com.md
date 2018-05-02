@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyviralupdates.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205000536id_/http%3A//www.dailyviralupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyviralupdates.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502161844id_/http%3A//www.dailyviralupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Viral Updates
 
@@ -26,12 +26,6 @@ We are committed to ensuring that your personal information is secure. In order 
 
 www.dailyviralupdates.com does not use cookies.
 
-**Third Party Vendors:**
-
-Third party vendors, including Google, use cookies to serve ads to you based on a your prior web site visits to DailyViralUpdates and/or other websites. You may opt out of the use of the Google cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
-
 **Links To Third Party Websites:**
 
 We may sometimes include on our website links to other websites that may be of interest to you. You should note that these third party sites have separate and independent privacy policies, and that we do not have any control over those other websites. Therefore, we have no responsibility or liability for the protection and privacy of any information which you provide while visiting such sites, or for the content and activities of those sites. You should exercise caution and review the privacy policies applicable to the website in question.
-
-Advertisement 
