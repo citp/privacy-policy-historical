@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230221552id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltastock.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502052718id_/http%3A//www.deltastock.com/english/about-us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy and Personal Data Protection Policy | Deltastock
+
+Инвестиционен посредник в България с най-висок рейтинг за 2017 г.
 
 ### Administration of Personal Data
 
