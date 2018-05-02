@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the duosecurity.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210041249id_/https%3A//duo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duosecurity.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503005208id_/https%3A//duo.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy: Duo Security
-
-Last updated: March 24, 2016
+# Duo Legal: Privacy | Duo Security
 
 #### Who We Are
 
@@ -18,7 +16,7 @@ By post: Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 
 
 By facsimile: 1-866-760-4247
 
-By email: security@duosecurity.com
+By email: privacy@duosecurity.com
 
 #### Introduction
 
@@ -55,9 +53,9 @@ Duo Security may collect, store and process the following contact information in
 
 We also collect your email address when you email us for information or sign up for our newsletters and email updates. You can unsubscribe from our newsletters and updates by clicking “Unsubscribe” at the bottom of the newsletter or email update or by emailing mops@duosecurity.com.
 
-**Public Forums** : We collect other information, including Personal Information that you submit to our Website or as you participate in certain interactive features of our Services (such as the publicly accessible blogs or community forums). You should be aware that any information (including Personal Information) you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at security@duosecurity.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
+**Public Forums** : We collect other information, including Personal Information that you submit to our Website or as you participate in certain interactive features of our Services (such as the publicly accessible blogs or community forums). You should be aware that any information (including Personal Information) you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blog or community forum, contact us at privacy@duosecurity.com. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.
 
-**Testimonials/Reviews/Feedback** : We may post customer testimonials on our Website, which may contain Personal Information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed, please contact us at security@duosecurity.com.
+**Testimonials/Reviews/Feedback** : We may post customer testimonials on our Website, which may contain Personal Information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you want your testimonial removed, please contact us at privacy@duosecurity.com.
 
 **Surveys** : We may provide you the opportunity to participate in contests or surveys. If you participate, we will request and collect certain Personal Information from you at the time of the survey. Participation in these surveys or contests is completely voluntary and you have a choice whether or not to disclose this information. The requested information typically includes contact information, such as email or phone number.
 
@@ -139,7 +137,7 @@ When you visit our Website or use our Services, we use “cookies” and other t
 
 #### Security of Information
 
-Duo Security maintains and uses reasonable administrative, organizational, technical and physical safeguards to protect your information from loss, destruction, misuse, unauthorized access or disclosure as required by applicable law. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access (e.g., your users). For example, when you enter confidential information (such as login credentials or information submitted from within the Service), we encrypt the transmission of that information using secure socket layer technology (SSL). SSL technology is designed to prevent you from inadvertently revealing personal information using an insecure connection. However, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way. If you have any questions about security on our Website, you can contact us at security@duosecurity.com.
+Duo Security maintains and uses reasonable administrative, organizational, technical and physical safeguards to protect your information from loss, destruction, misuse, unauthorized access or disclosure as required by applicable law. These technologies help ensure that your data is safe, secure, and only available to you and to those you provided authorized access (e.g., your users). For example, when you enter confidential information (such as login credentials or information submitted from within the Service), we encrypt the transmission of that information using secure socket layer technology (SSL). SSL technology is designed to prevent you from inadvertently revealing personal information using an insecure connection. However, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so you should take care in deciding what information you send us in this way. If you have any questions about security on our Website, you can contact us at privacy@duosecurity.com.
 
 #### Links to Other Sites
 
@@ -151,7 +149,7 @@ We offer certain choices about how we communicate with our users and what Person
 
   * You can opt out of receiving promotional emails or text messages from us by clicking the “unsubscribe” link in the email or by emailing mops@duosecurity.com.
   * Many Duo Security products contain settings that allow users or administrators to control how the products collect information. Please refer to the relevant product documentation or contact us through the appropriate technical support channel for assistance.
-  * To remove your Personal Information from a Duo Security website testimonial, please contact us at security@duosecurity.com.
+  * To remove your Personal Information from a Duo Security website testimonial, please contact us at privacy@duosecurity.com.
 
 
 
@@ -169,7 +167,7 @@ By post: Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 
 
 By facsimile: 1-866-760-4247
 
-By email: security@duosecurity.com
+By email: privacy@duosecurity.com
 
 In addition, we currently do not honor Do Not Track signals.
 
@@ -183,7 +181,7 @@ We do not collect any information from anyone under 18 years of age. The Website
 
 #### Access to Your Information
 
-You have a right to access, review, change, update or delete your Personal Information at any time by contacting us at security@duosecruity.com or by postal mail at Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 48104, USA. Please note that we may impose a small fee for access and disclosure of your Personal Information where permitted under applicable law, which will be communicated to you. We do not charge you to update or remove your Personal Information.
+You have a right to access, review, change, update or delete your Personal Information at any time by contacting us at privacy@duosecurity.com or by postal mail at Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 48104, USA. Please note that we may impose a small fee for access and disclosure of your Personal Information where permitted under applicable law, which will be communicated to you. We do not charge you to update or remove your Personal Information.
 
 #### Contact Us
 
@@ -193,7 +191,7 @@ By post: Duo Security, Inc., 123 North Ashley Street, Suite #200, Ann Arbor, MI 
 
 By facsimile: 1-866-760-4247
 
-By email: security@duosecurity.com
+By email: privacy@duosecurity.com
 
 #### Business Transactions
 
