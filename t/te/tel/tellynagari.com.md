@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tellynagari.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231091443id_/http%3A//www.tellynagari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellynagari.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502080432id_/http%3A//www.tellynagari.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TellyNagari – Complete Indian Television Portal
+# Privacy Policy – TellyNagari – Complete Indian Television Portal
 
 **Effective from May/01/2005**  
 _Updated on Mar/20/2017_
