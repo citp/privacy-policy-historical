@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202091448id_/http%3A//www.steep.tv/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steep.tv privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502215447id_/http%3A//steep.tv/page/privacy) for the most accurate reproduction.*
 
 # Steep TV
 
@@ -119,7 +119,7 @@ If you have questions concerning our information practices with respect to child
 
 ## How to Contact Us
 
-If you have questions or concerns about this Privacy Policy or about SteepTV's privacy practices in general, please send us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc95929a93bc939d97909d9299919998959dd29f9391)
+If you have questions or concerns about this Privacy Policy or about SteepTV's privacy practices in general, please send us an email to [info@oaklanemedia.com](mailto:info@oaklanemedia.com)
 
 ## Changes to This Privacy Policy and Additional Information
 
