@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001213943id_/https%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502200734id_/https%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy / The University of Newcastle, Australia
 
@@ -8,7 +8,7 @@ The University of Newcastle (UON) is committed to protecting and maintaining the
 
  **The purpose of this statement is to advise visitors to the University's website of the information collected when they visit, how this information may be used and whether or not it may be disclosed.**
 
-Further information on privacy at UON can be found in the [University's Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998](http://www.legislation.nsw.gov.au/#/view/act/1998/17) and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
+Further information on privacy at UON can be found in the [University's Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998 ](https://www.legislation.nsw.gov.au/#/view/act/1998/133)and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
 
 If you have any further questions with regard to this notice please contact the University's Privacy Office at [privacy@newcastle.edu.au](mailto:privacy@newcastle.edu.au)
 
@@ -38,7 +38,7 @@ Emails sent to the University will be held by the relevant area and, in certain 
 
 ####  **Security of Information**
 
-As outlined in the University's [Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and [Agency Information Guide](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document?RecordNumber=D14/17780), information is protected from loss and unauthorised access or disclosure.
+As outlined in the University's [Privacy Management Plan](https://web.archive.org/about-uon/governance-and-leadership/policy-library/document-record?RecordNumber=D12/12482P) and [Agency Information Guide](https://www.ipc.nsw.gov.au/agency-information-guide), information is protected from loss and unauthorised access or disclosure.
 
 Certain areas or applications of the UON website require a login name and password to ensure that the information is only displayed to the intended recipient. Users should ensure that their passwords are protected and cannot be accessed by others.  Our systems encrypt this information to ensure protection.
 
@@ -76,7 +76,7 @@ The University will not disclose personal information obtained via the Universit
 
 ####  **Staff and Student Email**
 
-The University supplies email facilities to all staff and students through the providers Microsoft Outlook and Groupwise. For further information on use of email by staff and students please see the University's [Electronic Mail Policy.](http://www.newcastle.edu.au/policy/000895.html)
+The University supplies email facilities to all staff and students through the providers Microsoft Outlook and Groupwise. For further information on use of email by staff and students please see the University's Electronic Mail Policy.
 
 ####  **Public Forums**
 
