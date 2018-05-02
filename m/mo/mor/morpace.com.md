@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morpace.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212062043id_/http%3A//morpace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morpace.com privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502022051id_/http%3A//morpace.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@ Morpace Inc., established in 1975, is a global full-service market research and 
 
 Morpace is committed to industry quality and maintains certification to ISO 20252, the International Standard for Market, Opinion and Survey Research. As part of this commitment, we maintain the privacy and security of personal information. We do not conduct sales or direct marketing, nor do we provide personal information to be used for direct contact sales or marketing purposes. Please view our company information on our website or contact us at [information@morpace.com](mailto:information@morpace.com) with concerns or questions.
 
-Morpace complies with the U.S. – E.U. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Morpace has certified that it adheres to the Privacy Shield Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall govern. The Federal Trade Commission (FTC) has jurisdiction over Morpace's compliance with the Privacy Shield. To learn more about the Privacy Shield Framework, and to view Morpace’s certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).
+Morpace complies with the EU – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Morpace has certified that it adheres to the Privacy Shield Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. In any case of onward transfer to third parties, Morpace is potentially liable unless it can be proved that we are not responsible for the event giving rise to the damage. If there is any conflict between the policies in this privacy policy and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall govern. The Federal Trade Commission (FTC) has jurisdiction over Morpace's compliance with the Privacy Shield. To learn more about the Privacy Shield Framework, and to view Morpace’s certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/welcome).
 
 **Research Survey Information**   
 Personal information provided to Morpace is confidential. Information collected is combined with information gathered from other survey participants and shown in aggregate excluding personally identifiable information, unless otherwise evident within the survey. If we indicate that personal information may be included in the research findings, we ensure that the information is treated with the strictest of confidence. We will not mislead a participant regarding the nature of the research or how the information will be used. Please see the section titled "Disclosure of Personal Information by Morpace" and "Access to Morpace data" for more information.
@@ -76,3 +76,7 @@ Morpace reserves the right to modify and update this policy and its related busi
 
 If you have any questions concerning our Privacy Policy, please contact us at 248.737.5300 or [[information@morpace.com](mailto:information@morpace.com).](mailto:information@morpace.com.)   
 Morpace Inc.
+
+Version: #9  
+Date: 2/5/18  
+Time: 2:00 pm
