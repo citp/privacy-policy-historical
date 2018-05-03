@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2017-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171204205706id_/http%3A//www.rmg.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503171735id_/http%3A//www.rmg.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Royal Museums Greenwich | UNESCO World Heritage Site In London
 
-The text below describes the ways in which we collect information from you when you use the service, and what we may use it for. 
+The text below describes the ways in which we collect information from you when you use the service, and what we may use it for.
 
-If you have any other questions about this policy you can write to us: National Maritime Museum, Park Row, London SE10 9NF
+If you have any other questions about this policy you can write to us: National Maritime Museum, Park Row, London SE10 9NF
 
 It is the Museum's policy not to distribute or sell your information on to any third party.
 
 ## What data do we collect from you? 
 
-We collect data from you ('user data') when you register to receive updates from us. This data can sometimes comprise personal data about individuals, to which UK data protection laws apply. These terms and conditions and our data protection policy describe Royal Museums Greenwich's approach to fulfilling its obligations under those data protection laws.
+We collect data from you ('user data') when you register to receive updates from us. This data can sometimes comprise personal data about individuals, to which UK data protection laws apply. These terms and conditions and our data protection policy describe Royal Museums Greenwich's approach to fulfilling its obligations under those data protection laws.
 
 ### Our use of user data 
 
@@ -25,11 +25,11 @@ We will use user data we collect from you only in accordance with the following 
 
 ### Tracking our visitors
 
-We use Google Analytics including Google Analytics Demographics and Interest Reporting to monitor how people use our websites and aggregates general statistics about customers, traffic patterns and related site information in an anonymous form.  Any demographic reports produced using this data will be used to determine a better understand of our website traffic and visitor needs and tailor future content and functionality.
+We use Google Analytics including Google Analytics Demographics and Interest Reporting monitor how people use our websites and aggregates general statistics about customers, traffic patterns and related site information in an anonymous form. Any demographic reports produced using this data will be used to determine a better understand of our website traffic and visitor needs and tailor future content and functionality.
 
 ### Cookies
 
-This website uses cookies. A cookie is a small file placed on your computer by a website. Cookies allow the Museum to improve the quality of your visit to our websites. If your browser permits it you can set your computer to reject cookies, although this may affect the quality of your visit.
+This website uses cookies. A cookie is a small file placed on your computer by a website. Cookies allow the Museum to improve the quality of your visit to our websites. If your browser permits it you can set your computer to reject cookies, although this may affect the quality of your visit.
 
 [See our cookie policy](https://web.archive.org/node/545569)
 
@@ -37,19 +37,29 @@ If you are concerned about the use of cookies, we suggest you set your browser's
 
 ### Newsletter
 
-The Museum uses MailChimp to provide our e-mail newsletter service. In order to sign up to this service, an individual has to submit personal information about themselves (e.g. name, e-mail address, interests). 
+The Museum uses MailChimp to provide our e-mail newsletter service. In order to sign up to this service, an individual has to submit personal information about themselves (e.g. name, e-mail address, interests). 
 
-This personal data is collected by MailChimp on behalf of the Museum. The data is stored on a secure MailChimp server. MailChimp are not permitted to use the data for their own purposes nor to sell or distribute it on to any other individual, organization or business under any circumstances.
+This personal data is collected by MailChimp on behalf of the Museum. The data is stored on a secure MailChimp server. MailChimp are not permitted to use the data for their own purposes nor to sell or distribute it on to any other individual, organization or business under any circumstances.
 
-You can 'opt out' of the newsletter at any time by clicking on the 'Unsubscribe' link at the bottom of each newsletter.
+We will only send you our email newsletter if you have given us your permission to do so. You can 'opt out' of the newsletter at any time by clicking on the 'Unsubscribe' link at the bottom of each newsletter.
 
 ### Online donations
 
-We have enabled online donations to be made to the Museum through Justgiving. They operate a strict privacy policy and will never pass your personal details on to anyone, including the Museum, without your express consent. Find out more on the [Justgiving website](http://www.justgiving.com/).
+We have enabled online donations to be made to the Museum through Justgiving. They operate a strict privacy policy and will never pass your personal details on to anyone, including the Museum, without your express consent. Find out more on the [Justgiving website](http://www.justgiving.com/).
 
 ### Booking tickets online
 
 Our online booking service is provided by Syx ReCreateX. They collect personal information on behalf of the Museum to process each transaction and only use personal data where it is necessary to fulfil your order. Syx do not disclose personal data to other parties.
+
+### Membership
+
+We will use your personal details to administer your Membership in accordance with the current Data Protection Act, General Data Protection Regulation, and as otherwise permitted or required by law. We will send Membership material by post such as your Membership welcome pack, Members’ magazines, What's On guides and Members’ Appeal information.
+
+You will receive additional Membership information by email, such as e-newsletters, invitations to events, surveys and Members’ Appeal information if you have given your consent.
+
+We will never pass on your personal details to other organisations. Your personal details are stored in the Syx RecreateX database for the duration of your Membership and for 24 months after your Membership expires; after that we will dispose of your details securely. 
+
+If you are a Member of the **Flamsteed Astronomy Society** , your email address will also be used by the Flamsteed Committee to communicate with you.
 
 ### Social media
 
@@ -61,7 +71,11 @@ Our website uses the Facebook and Twitter share functionality on some pages.
 
 **For more information please contact:**
 
-Museum SecretaryNational Maritime MuseumGreenwichLondonSE10 9NF
+Museum Secretary  
+National Maritime Museum  
+Greenwich  
+London  
+SE10 9NF
 
 When we ask you for information, we will do so in accordance with the Data Protection Act1998. For independent advice about data protection, privacy and data sharing issues, you can contact the Information Commissioner at: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.
 
