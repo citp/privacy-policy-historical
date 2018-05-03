@@ -1,38 +1,38 @@
-> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513032727id_/http%3A//www.manpowergroup.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manpower.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503062243id_/https%3A//www.manpower.com/wps/portal/ManpowerUSA/privacy-policy) for the most accurate reproduction.*
 
-# Global Privacy Policy | ManpowerGroup
+# Understand your privacy protection with Manpower.
 
 Effective Date: December 1, 2015
 
-We at ManpowerGroup Inc., along with our subsidiaries and affiliates listed [here](https://web.archive.org/wps/wcm/connect/manpowergroup-en/home/privacy/list+of+subsidiaries+and+affiliates/subsidiaries-and-affiliates) ("ManpowerGroup"), respect your concerns about privacy. This Global Privacy Policy applies to (1) our job candidates, (2) our associates, who are people we source or place on assignment with one of our clients, or individuals to whom we provide career transition services, (3) users of the websites and apps listed [here](https://web.archive.org/wps/wcm/connect/manpowergroup-en/home/privacy/apps+and+sites/sites-and-apps) (the "Sites"), and (4) representatives of our clients and vendors. This Policy does not apply to our headquarters and country-based staff employees, who are individuals employed by ManpowerGroup and who work directly for ManpowerGroup and not directly with a ManpowerGroup client.
+We at ManpowerGroup Inc., along with our subsidiaries and affiliates listed [here](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/list+of+subsidiaries+and+affiliates/subsidiaries-and-affiliates) ("ManpowerGroup"), respect your concerns about privacy. This Global Privacy Policy applies to (1) our job candidates, (2) our associates, who are people we source or place on assignment with one of our clients, or individuals to whom we provide career transition services, (3) users of the websites and apps listed [here](https://www.manpower.com/wps/wcm/connect/manpowergroup-en/home/privacy/apps+and+sites/sites-and-apps) (the "Sites"), and (4) representatives of our clients and vendors. This Policy does not apply to our headquarters and country-based staff employees, who are individuals employed by ManpowerGroup and who work directly for ManpowerGroup and not directly with a ManpowerGroup client.
 
-The Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the rights of and choices available to individuals regarding our use of their information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices and to exercise your rights. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. You can view certain country-specific information by clicking [here](https://web.archive.org/wps/wcm/connect/manpowergroup-en/home/privacy/country+addenda/country-addenda).
+The Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the rights of and choices available to individuals regarding our use of their information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices and to exercise your rights. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. You can view certain country-specific information by clicking [here](http://www.manpowergroup.com/wps/wcm/connect/manpowergroup-en/home/privacy/country+addenda/country-addenda).
 
 Click on one of the links below to jump to the listed section:
 
-  * Information We Collect
+  * [Information We Collect](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section1)
 
-    * Information Collected By Automated Means
+    * [Information Collected By Automated Means](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section2)
 
-  * How We Use the Information We Collect
+  * [How We Use the Information We Collect](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section3)
 
-  * Interest-Based Advertising
+  * [Interest-Based Advertising](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section4)
 
-  * Information We Share
+  * [Information We Share](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section5)
 
-  * Your Rights And Choices
+  * [Your Rights And Choices](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section6)
 
-  * Notice To California Residents
+  * [Notice To California Residents](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section7)
 
-  * Data Transfers
+  * [Data Transfers](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section8)
 
-  * How We Protect Personal Information
+  * [How We Protect Personal Information](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section9)
 
-  * Links To Third-Party Sites, Apps and Services
+  * [Links To Third-Party Sites, Apps and Services](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section10)
 
-  * Updates To Our Global Privacy Policy
+  * [Updates To Our Global Privacy Policy](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section11)
 
-  * How To Contact Us
+  * [How To Contact Us](https://www.manpower.com/wps/portal/ManpowerUSA/privacy-policy/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOJN_D3MPD2cDXzcQ3yMDBx9Xd19AxwdDQ0MjPQLsh0VATaStis!/#section12)
 
 
 
@@ -91,7 +91,7 @@ In addition, if you are an associate or job candidate and you apply for a positi
 
 In addition, we may collect information you provide to us about other individuals, such as information related to emergency contacts.
 
-####  _Information Collected By Automated Means_
+####  Information Collected By Automated Means
 
 When you visit our Sites, we may collect certain information by automated means, such as cookies, web beacons and web server logs. The information we may collect in this manner includes IP address, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Sites, dates and times of visits to our Sites and other usage statistics. A "cookie" is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and is used to transmit information collected through cookies back to a web server. Through these automated collection methods, we may obtain "clickstream data," which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites.  To the extent required by applicable law, we will obtain your consent before collecting personal information using cookies or similar automated means.
 
@@ -209,7 +209,3 @@ Experis, The Helicon
 One South Place  
 London EC2M 2RB  
 United Kingdom
-
-* * *
-
- top
