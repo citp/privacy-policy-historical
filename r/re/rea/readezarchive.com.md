@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readezarchive.com privacy policy that was archived on 2017-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171231095734id_/http%3A//www.readezarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readezarchive.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503040957id_/http%3A//www.readezarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
