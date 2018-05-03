@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenerveafrica.com privacy policy that was archived on 2017-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171215075224id_/http%3A//thenerveafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenerveafrica.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503225511id_/http%3A//thenerveafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Nerve Africa
 
