@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2017-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171030110955id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrster.com privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503040935id_/https%3A//www.lyrster.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 ## Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#95f6fafbe1f4f6e1d5f9ece7e6e1f0e7bbf6faf8). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [contact@lyrster.com](mailto:contact@lyrster.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Security
 
@@ -79,4 +79,4 @@ Attn: Lyrster
 DesMoines, Iowa  
 USA, 50309 
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5868a8b91848691a5899c9796918097cb868a88)
+[contact@lyrster.com](mailto:contact@lyrster.com)
