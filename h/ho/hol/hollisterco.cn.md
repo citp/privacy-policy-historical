@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hollisterco.cn privacy policy that was archived on 2017-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171101120023id_/http%3A//www.hollisterco.cn/en_CN/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollisterco.cn privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503022718id_/http%3A//www.hollisterco.cn/en_CN/content%3Fpage%3Dprivacy%26cid%3Dprivacy-and-terms) for the most accurate reproduction.*
 
 # privacy-and-terms
 
 ## Hollister Co. China  
 Privacy Policy
 
-Updated: October 2017
+Updated: January 2018
 
 In order to make your visits to the various online channels of Hollister Co. as responsive as possible, we provide this summary of what information we collect online, and how that information is used.
 
@@ -186,7 +186,7 @@ c. _Location Information Through Email._ Your email program may allow you to pre
 
 #### 2\. Email Address
 
-If you no longer wish to receive emails from us, please [click here](https://www.hollisterco.cn/en_CN/unsubscribe) to enter your email address and unsubscribe from receiving our marketing emails. To unsubscribe from receiving marketing emails from any of our relevant affiliate companies' brands, go to the About Me section within your account, click on the “Manage your email marketing preferences (Optional)” link and select "Unsubscribe" for the brand from which you no longer want to receive marketing emails, and press "SUBMIT." Or, click on the unsubscribe link located in the footer of the marketing email to be directed to the unsubscribe page to submit your email address.
+If you no longer wish to receive emails from us, please [click here](https://www.hollisterco.cn/en_CN/unsubscribe) to enter your email address and unsubscribe from receiving our marketing emails. To unsubscribe from receiving marketing emails from any of our relevant affiliate companies' brands, go to the About Me section within your account, click on “Manage your email marketing preferences (Optional)” link and select "Unsubscribe" for the brand from which you no longer want to receive marketing emails, and press "SUBMIT." Or, click on the unsubscribe link located in the footer of the marketing email to be directed to the unsubscribe page to submit your email address.
 
 Please note, if you request to be removed from our email marketing list, you may still receive email confirmations from us regarding any orders placed on our Websites or other operational emails.
 
@@ -220,7 +220,7 @@ As we continue to offer our customers new and different types of content and ser
 
 We limit the number of employees that have access to the databases that contain personal information.
 
-Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 4.4+ and Apple iOS 8+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
+Our Websites are designed to accept orders from web browsers that allow communication through Transport Layer Security (TLS) v1.1 and 1.2. We support Microsoft Internet Explorer 11.0+, Apple OS X 10.9+, Android 5.0+, and Apple iOS 9.0+. We recommend if you are viewing our websites on Google Chrome or Mozilla Firefox to download the latest version in order to maximize your experience, otherwise you may not be able to access or utilize all pages on our websites as intended.
 
 While we implement the above security measures on our Websites/Apps, you should be aware that 100% security is not always possible.
 
